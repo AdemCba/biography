@@ -8,6 +8,11 @@ on:
   schedule:
     - cron: "0 5 * * *"
   workflow_dispatch:
+    inputs:
+      review_only:
+        description: "Only fact-check and publish what is already written (no writing or rewriting)"
+        type: boolean
+        default: false
 
 concurrency:
   group: publish
@@ -40,7 +45,7 @@ jobs:
       - run: npm ci
 
       - name: Writer agent (research and write new people in every language; daily run only)
-        if: ${{ env.HAS_ANTHROPIC_KEY == 'true' && github.event_name != 'push' }}
+        if: ${{ env.HAS_ANTHROPIC_KEY == 'true' && github.event_name != 'push' && !inputs.review_only }}
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ANTHROPIC_WRITER_MODEL: ${{ vars.ANTHROPIC_WRITER_MODEL }}
@@ -50,7 +55,7 @@ jobs:
         run: npm run images
 
       - name: Fix loop (rewrite failing articles, re-check, flag what still fails)
-        if: ${{ env.HAS_ANTHROPIC_KEY == 'true' }}
+        if: ${{ env.HAS_ANTHROPIC_KEY == 'true' && !inputs.review_only }}
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ANTHROPIC_WRITER_MODEL: ${{ vars.ANTHROPIC_WRITER_MODEL }}
