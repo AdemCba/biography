@@ -80,7 +80,14 @@ async function factCheck(client: Anthropic, person: Person, article: Article): P
     "and whether the source confirms it. Use web_search only to check whether a claim is outdated.",
     "Also judge: does it read like a careful human writer (see the style guide)? Does it add something",
     "a reader would not get from the usual top results (clear timeline, primary sources, context, corrections)?",
-    "Be strict. When in doubt, reject and say exactly what to fix.",
+    "Citation tags [s:id] belong in the body only. The frontmatter fields (title, metaTitle, metaDescription,",
+    "knownFor, summary, FAQ answers) cannot carry tags: check that what they say is backed by the body or the",
+    "sources, and never list them as uncited. In the body, one tag may cover the sentences of the same paragraph",
+    "that come from the same source; flag a body claim as uncited only when no nearby tag supports it.",
+    "A claim is \"outdated\" only if it describes the present and is no longer true; a dated past event",
+    "(\"in 2021 Time named him...\") is never outdated. Rounded spans (\"two decades later\") are fine when the",
+    "dates in the article support them.",
+    "Be strict about facts. When in doubt, reject and say exactly what to fix.",
   ].join("\n");
   return askStructured(client, prompt, verdictSchema, { fetches: 20, searches: 5 });
 }
