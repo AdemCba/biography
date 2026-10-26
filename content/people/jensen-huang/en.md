@@ -72,7 +72,6 @@ reviewNotes: >-
   Optional: add inline citations to the FAQ answers. No outdated claims: the
   NVIDIA bio, fetched live today, still lists him as president and CEO.
 autoReviews: 1
-flag: 'Fix loop gave up after 3 attempts: quality warnings'
 ---
 At nine years old, Jensen Huang was sent from Thailand to the United States with his brother, and ended up at the Oneida Baptist Institute in rural Kentucky, a religious school that took in children labelled as difficult [s:britannica]. Two decades later he co-founded NVIDIA.
 

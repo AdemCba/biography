@@ -19,7 +19,7 @@ import { readContent, today, type Article, type Person } from "../src/lib/conten
 import { writeArticle, writePerson } from "../src/lib/article-file";
 import { checkContent, GATE_CODES, NOT_FIXABLE_BY_REWRITE, type ArticleReport } from "../src/lib/quality";
 import { articleSchema, sourceSchema } from "../src/lib/schema";
-import { askStructured, hasApiKey, WRITER_MODEL } from "./lib/claude";
+import { askStructured, hasApiKey, WRITER_MODEL, isApiUnavailable, exitOnError } from "./lib/claude";
 
 const args = process.argv.slice(2);
 const opt = (name: string, fallback: number) => {
@@ -145,6 +145,7 @@ async function main() {
     const key = `${target.personId}/${target.locale}`;
     let report = target;
     let fixed = false;
+    let rewrites = 0;
     for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
       const store = readContent();
       const person = store.people.find((p) => p.data.id === target.personId)!;
@@ -153,10 +154,11 @@ async function main() {
       try {
         const rev = await askClaude(client, person, article, report);
         const added = apply(person, article, rev);
+        rewrites++;
         console.log(`  rewritten (${added} new sources). ${rev.note}`);
       } catch (e) {
         console.error(`  attempt failed: ${(e as Error).message}`);
-        if (e instanceof Anthropic.AuthenticationError) throw e;
+        if (isApiUnavailable(e)) throw e;
         continue;
       }
       report = reportFor(target.personId, target.locale)!;
@@ -167,6 +169,9 @@ async function main() {
     }
     if (fixed) {
       summary.push(`✓ ${key} passes after revision`);
+    } else if (!rewrites) {
+      // Every attempt was an API or output error, not a bad rewrite: leave it unflagged for the next run.
+      summary.push(`! ${key}: no rewrite came back, will retry next run`);
     } else {
       const store = readContent();
       giveUp(store.people.find((p) => p.data.id === target.personId)!.articles[target.locale]!, report);
@@ -184,7 +189,4 @@ function readFlag(r: ArticleReport): boolean {
   return !!person?.articles[r.locale]?.meta.flag;
 }
 
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});
+main().catch(exitOnError("Fix loop"));
