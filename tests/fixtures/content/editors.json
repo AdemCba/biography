@@ -1,0 +1,11 @@
+[
+  {
+    "id": "test-editor",
+    "name": "Test Editor",
+    "sameAs": ["https://example.org/test-editor"],
+    "i18n": {
+      "en": { "role": "Editor", "bio": "Fictional editor used only by the automated tests. Never shipped to the real site." },
+      "es": { "role": "Editora", "bio": "Editora ficticia usada solo por las pruebas automáticas. Nunca se publica en el sitio real." }
+    }
+  }
+]

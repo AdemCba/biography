@@ -1,0 +1,99 @@
+import type { Metadata } from "next";
+import { absoluteUrl, site } from "@/config/site";
+import { HREFLANG, OG_LOCALE, type Locale } from "@/i18n/config";
+import { categoryPath, lastModified, liveArticle, personPath, type Article, type Person } from "./content";
+import type { Category } from "./schema";
+
+/** hreflang map for a set of locale -> path pairs, with x-default pointing at English when present. */
+export function languageAlternates(paths: Partial<Record<Locale, string>>): Record<string, string> {
+  const out: Record<string, string> = {};
+  for (const locale of site.locales) {
+    const p = paths[locale];
+    if (p) out[HREFLANG[locale]] = absoluteUrl(p);
+  }
+  const fallback = paths.en ?? Object.values(paths)[0];
+  if (fallback && Object.keys(out).length > 1) out["x-default"] = absoluteUrl(fallback);
+  return out;
+}
+
+/** Only languages where this person is actually published take part in hreflang. */
+export function personAlternates(person: Person): Partial<Record<Locale, string>> {
+  const paths: Partial<Record<Locale, string>> = {};
+  for (const locale of site.locales) {
+    const a = liveArticle(person, locale);
+    if (a) paths[locale] = personPath(locale, a.meta.slug);
+  }
+  return paths;
+}
+
+export function categoryAlternates(category: Category): Partial<Record<Locale, string>> {
+  const paths: Partial<Record<Locale, string>> = {};
+  for (const locale of site.locales) {
+    const t = category.i18n[locale];
+    if (t) paths[locale] = categoryPath(locale, t.slug);
+  }
+  return paths;
+}
+
+export function pageMetadata(opts: {
+  locale: Locale;
+  title: string;
+  description: string;
+  path: string;
+  alternates: Partial<Record<Locale, string>>;
+  image?: string;
+  type?: "website" | "article" | "profile";
+  noindex?: boolean;
+}): Metadata {
+  return {
+    title: opts.title,
+    description: opts.description,
+    alternates: { canonical: absoluteUrl(opts.path), languages: languageAlternates(opts.alternates) },
+    openGraph: {
+      title: opts.title,
+      description: opts.description,
+      url: absoluteUrl(opts.path),
+      siteName: site.name,
+      locale: OG_LOCALE[opts.locale],
+      type: opts.type ?? "website",
+      images: opts.image ? [{ url: absoluteUrl(opts.image) }] : undefined,
+    },
+    twitter: { card: opts.image ? "summary_large_image" : "summary", title: opts.title, description: opts.description },
+    robots: opts.noindex ? { index: false, follow: true } : undefined,
+  };
+}
+
+export function personJsonLd(person: Person, article: Article, crumbs: { name: string; path: string }[]) {
+  const { data } = person;
+  const url = absoluteUrl(personPath(article.locale, article.meta.slug));
+  const sameAs = [...data.sameAs, ...(data.wikidata ? [`https://www.wikidata.org/wiki/${data.wikidata}`] : [])];
+  return [
+    {
+      "@context": "https://schema.org",
+      "@type": "ProfilePage",
+      "@id": url,
+      url,
+      name: article.meta.metaTitle ?? article.meta.title,
+      inLanguage: HREFLANG[article.locale],
+      datePublished: article.meta.publishedAt,
+      dateModified: lastModified(article.meta),
+      publisher: { "@type": "Organization", name: site.name, url: site.url },
+      mainEntity: {
+        "@type": "Person",
+        name: data.name,
+        description: article.meta.knownFor,
+        birthDate: data.facts.birthDate?.value,
+        deathDate: data.facts.deathDate?.value,
+        birthPlace: data.facts.birthPlace ? { "@type": "Place", name: data.facts.birthPlace.value } : undefined,
+        nationality: data.facts.nationality?.value.map((c) => ({ "@type": "Country", name: c })),
+        image: data.image ? absoluteUrl(data.image.src) : undefined,
+        sameAs: sameAs.length ? sameAs : undefined,
+      },
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      itemListElement: crumbs.map((c, i) => ({ "@type": "ListItem", position: i + 1, name: c.name, item: absoluteUrl(c.path) })),
+    },
+  ];
+}
