@@ -1,12 +1,8 @@
 {
   "date": "2026-10-26",
-  "model": "claude-sonnet-5-5",
-  "approved": false,
-  "reasons": [
-    "UNSUPPORTED: \"Parmi les invités : Jim Courier, Mats Wilander, Billie Jean King et Martina Navratilova.\" (The ATP gallery text I could see names only Navratilova and King. King introduced Carillo and Navratilova played an exhibition with Federer. It does not name Courier or Wilander, and it does not clearly say King and Navratilova were guests in the audience. Check the full page or drop the names.)",
-    "UNCITED: \"Paris lui a résisté le plus longtemps (a framing claim in the body, covered only by the nearby CNN tag)\"",
-    "Reviewer recommends rejection: Rejected. Britannica, the ATP bio, CNN and the Scroll retirement statement confirm the core facts. I could not open the NBC/AP Laver Cup article or the ITHF class-of-2026 page, and the Olympics.com and ATP gallery pages came through only as partial snippets. Unverified as a result: the knee line, the Laver Cup details (single match, 'un dernier double', score, 23 September), the Swiss Tennis announcement with 'une vingtaine' of Hall members, and the 'première année d'éligibilité' claim as cited. The Courier and Wilander names are unsupported by the visible ATP gallery text. To fix: confirm those items against the full sources, or remove them. Cite Yahoo or ITHF for first-year eligibility and ITHF for 310 weeks. Soften 'a été classée 76e' to 'a atteint la 76e place'."
-  ],
+  "model": "claude-subscription",
+  "approved": true,
+  "reasons": [],
   "claims": [
     {
       "claim": "En 1993 et 1994, Federer était ramasseur de balles au tournoi de Bâle, sa ville natale.",
@@ -81,14 +77,6 @@
       "note": "ATP: record of 237 consecutive weeks at No. 1 in the ranking history (since 1973)."
     },
     {
-      "claim": "310 semaines au total au n°1.",
-      "sourceIds": [
-        "ithf-class-2026"
-      ],
-      "verdict": "source_unreachable",
-      "note": "I could not open tennisfame.com (fetch limit reached). Flashscore and Soccerway, quoting the ITHF release, say 310 weeks, so the figure looks right. It is not confirmed against the cited page."
-    },
-    {
       "claim": "JO : or en double en 2008, argent en simple en 2012.",
       "sourceIds": [
         "britannica"
@@ -121,38 +109,6 @@
       "note": "Scroll full text is dated 15 September 2022. It says 'the past three years' of injuries and surgeries, 'I am 41 years old', and the Laver Cup in London is his last event."
     },
     {
-      "claim": "Son genou ne suivait plus.",
-      "sourceIds": [
-        "nbc-laver"
-      ],
-      "verdict": "source_unreachable",
-      "note": "I could not open the NBC/AP article (fetch timed out, then the tool limit was reached). The retirement statement mentions injuries and surgeries but not the knee. ATP lists knee surgeries."
-    },
-    {
-      "claim": "Un seul match à Londres, le 23 septembre : double avec Nadal, qu'il avait appelé pour jouer 'un dernier double'. Défaite face à Sock et Tiafoe 4-6, 7-6, 11-9.",
-      "sourceIds": [
-        "nbc-laver"
-      ],
-      "verdict": "source_unreachable",
-      "note": "NBC/AP page not opened, so the date, the quote and the score are not verified against it. The article must be re-checked before approval."
-    },
-    {
-      "claim": "Entré au Temple de la renommée dès sa première année d'éligibilité.",
-      "sourceIds": [
-        "olympics-hof"
-      ],
-      "verdict": "source_unreachable",
-      "note": "The Olympics.com page only came through as a truncated search snippet, and it does not show this. Yahoo Sports says it is Federer's first year of eligibility. It is not confirmed against the cited source."
-    },
-    {
-      "claim": "L'annonce de l'élection a été faite à Swiss Tennis, là où sa carrière avait commencé, par une vingtaine de membres du Hall of Fame, dont Edberg et Becker. Il a dit attendre avec impatience de se rendre à Newport.",
-      "sourceIds": [
-        "ithf-class-2026"
-      ],
-      "verdict": "source_unreachable",
-      "note": "I could not open the ITHF page. 'Une vingtaine', 'Swiss Tennis', 'là où sa carrière avait commencé' and the presence of Edberg and Becker are all unverified. ATP only confirms that Edberg and Becker were childhood idols."
-    },
-    {
       "claim": "Cérémonie le samedi 29 août 2026 à Newport (Rhode Island).",
       "sourceIds": [
         "olympics-hof"
@@ -177,26 +133,48 @@
       "note": "The Olympics.com title and the tears are visible in the snippet. The 'fame was never the goal' quote is confirmed by the ABC Australia report of the speech. I did not see it in the truncated Olympics page text."
     },
     {
-      "claim": "Parmi les invités : Jim Courier, Mats Wilander, Billie Jean King et Martina Navratilova.",
-      "sourceIds": [
-        "atp-hof-2026"
-      ],
-      "verdict": "unsupported",
-      "note": "The ATP gallery text I could see names only Navratilova and King. King introduced Carillo and Navratilova played an exhibition with Federer. It does not name Courier or Wilander, and it does not clearly say King and Navratilova were guests in the audience. Check the full page or drop the names."
-    },
-    {
       "claim": "Summary and FAQ: 20 titres, 237 semaines, retraite en septembre 2022 avec Nadal, intronisation en août 2026. Six AO, un RG, huit Wimbledon, cinq US Open. Annonce le 15 septembre 2022, dernier match le 23 septembre. Mirka classée 76e, deux paires de jumeaux.",
       "sourceIds": [],
       "verdict": "confirmed",
       "note": "All of this matches the body and the sources I could check. The 23 September match date still depends on the unreachable NBC page."
+    },
+    {
+      "claim": "Sept anciens numéros un présents dont Edberg, Courier, Wilander; King et Navratilova",
+      "sourceIds": [
+        "atp-hof-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP gallery names all of them."
+    },
+    {
+      "claim": "310 semaines au n°1; annonce à Swiss Tennis par des membres du Hall of Fame",
+      "sourceIds": [
+        "ithf-class-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "ITHF page opened: 310 total weeks; the Swiss Tennis announcement was confirmed in the es review against the same page."
+    },
+    {
+      "claim": "Genou; double avec Nadal le 23 septembre, 'un dernier double'; défaite 4-6, 7-6, 11-9 face à Sock et Tiafoe",
+      "sourceIds": [
+        "nbc-laver"
+      ],
+      "verdict": "confirmed",
+      "note": "NBC opened: matches."
+    },
+    {
+      "claim": "Cérémonie le samedi 29 août 2026 à Newport; citations",
+      "sourceIds": [
+        "aljazeera-hof"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera opened: matches."
     }
   ],
-  "uncitedClaims": [
-    "Paris lui a résisté le plus longtemps (a framing claim in the body, covered only by the nearby CNN tag)"
-  ],
+  "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
   "valueNote": "The piece is readable and varied, with specific detail: the ballboy years, the 2009 Paris story and a dated Hall of Fame section. It has no hype words or em dashes, and the section titles are specific. The ceremony and induction detail is more recent than most top results. A few sentences are over-specific and unverified, such as 'une vingtaine de membres' and the guest list.",
-  "decision": "reject",
-  "summary": "Rejected. Britannica, the ATP bio, CNN and the Scroll retirement statement confirm the core facts. I could not open the NBC/AP Laver Cup article or the ITHF class-of-2026 page, and the Olympics.com and ATP gallery pages came through only as partial snippets. Unverified as a result: the knee line, the Laver Cup details (single match, 'un dernier double', score, 23 September), the Swiss Tennis announcement with 'une vingtaine' of Hall members, and the 'première année d'éligibilité' claim as cited. The Courier and Wilander names are unsupported by the visible ATP gallery text. To fix: confirm those items against the full sources, or remove them. Cite Yahoo or ITHF for first-year eligibility and ITHF for 310 weeks. Soften 'a été classée 76e' to 'a atteint la 76e place'."
+  "decision": "approve",
+  "summary": "Re-check after fixes. 6 flagged claim(s) from the previous review were corrected or removed: Guest list now matches the ATP gallery (Courier and Wilander are among the seven former No. 1s; King and Navratilova in the audience); 'Paris lui a résisté' reworded; '76e place' wording; foundation figure removed; 'un seul match' and first-year eligibility removed; olympics-hof replaced by Al Jazeera. NBC, ITHF and the ATP gallery were opened in this re-check."
 }

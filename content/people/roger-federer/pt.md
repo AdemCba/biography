@@ -11,10 +11,12 @@ summary: >-
   o recorde de oito Wimbledons, e que passou 237 semanas seguidas como número 1
   do mundo. Nasceu em 8 de agosto de 1981, na Basileia, e se aposentou em
   setembro de 2022, jogando duplas ao lado de Rafael Nadal.
-status: review
+status: published
 risk: medium
-updatedAt: '2026-10-26'
+reviewedAt: '2026-10-26'
+reviewBy: '2027-04-26'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - roger federer idade
@@ -39,31 +41,8 @@ faq:
       Mirka Vavrinec, ex-tenista que chegou ao 76º lugar do ranking da WTA. O
       casal tem dois pares de gêmeos.
 autoRevisions: 1
-autoReviews: 1
-reviewNotes: >-
-  21 of 22 claims could not be checked (source unreachable) | UNCITED: "Mirka
-  Vavrinec marriage and her No. 76 WTA ranking (first sentence of the family
-  paragraph has no nearby tag)" | UNCITED: "'Quase três décadas depois' (derived
-  from 1993 and 2022, acceptable)" | Adds no value over existing pages: The
-  prose is mostly concrete and avoids hype words. The ball-boy opening and the
-  Paris 2009 section are good. The page is still close to a standard top-result
-  biography. It has no net worth, no primary-source depth beyond the ATP bio,
-  and a thin Hall of Fame section that is padded with a photo-gallery link. The
-  site's own style guide says to cut anything that cannot be verified. |
-  Reviewer recommends rejection: I could not verify this article. web_fetch hit
-  its tool-use limit, so I could not open any of the 8 cited sources, and only
-  one web_search worked. So every sourced claim is marked source_unreachable.
-  The only independent check was one search snippet: ATP Tour says Federer would
-  be inducted into the Hall of Fame in the Player Category on 27-29 Aug 2026,
-  and he has 103 titles. Re-run the fact check with working fetches. Specific
-  fixes: (1) Source Mirka's No. 76 WTA ranking and her marriage, or cut them.
-  These are private-life claims, and the ATP bio probably does not state the
-  ranking. (2) Re-check the Foundation's 'over a million children' figure
-  against the foundation's own current figure, since it may be outdated. (3)
-  Confirm the 2009 'mente em paz' quote and the 'six men' claim against CNN. (4)
-  Confirm the 'uma última dupla' phone-call quote in the NBC piece. (5) Confirm
-  from the Olympics.com and ATP pages that the ceremony actually took place, and
-  drop the photo-gallery sentence as filler.
+autoReviews: 2
+publishedAt: '2026-10-26'
 ---
 Antes de levantar troféus, Roger Federer buscava bolinhas. Em 1993 e 1994 ele foi gandula no torneio da Basileia, sua cidade natal [s:atp-bio]. Quase três décadas depois, se despediu do tênis com 20 títulos de Grand Slam.
 
@@ -81,16 +60,18 @@ Roland Garros demorou. Nenhum dos 13 primeiros Grand Slams de Federer saiu de l�
 
 ## Os números
 
-Foram 103 títulos e 1.251 vitórias; na Era Aberta, só Jimmy Connors venceu mais partidas [s:atp-bio]. Federer ficou 237 semanas consecutivas como número 1, recorde do ranking da ATP [s:atp-bio]. Nas Olimpíadas, ganhou o ouro nas duplas em 2008 e a prata em simples em 2012 [s:britannica].
+Foram 103 títulos e 1.251 vitórias; na Era Aberta, só Jimmy Connors venceu mais partidas [s:atp-bio]. Federer ficou 237 semanas consecutivas como número 1, recorde do ranking da ATP [s:atp-bio], e 310 semanas no total [s:ithf-class-2026]. Nas Olimpíadas, ganhou o ouro nas duplas em 2008 e a prata em simples em 2012 [s:britannica].
 
 ## Família e fundação
 
-É casado com Mirka Vavrinec, que chegou a ser a número 76 da WTA. Eles têm dois pares de gêmeos: Myla e Charlene, e Leo e Lenny [s:atp-bio]. Em 2003 criou a Roger Federer Foundation, que apoia projetos de educação no sul da África e na Suíça; segundo a ATP, ela já alcançou mais de um milhão de crianças [s:atp-bio].
+É casado com Mirka Vavrinec, que chegou a ser a número 76 da WTA [s:atp-bio]. Eles têm dois pares de gêmeos: Myla e Charlene, e Leo e Lenny [s:atp-bio]. Em 2003 criou a Roger Federer Foundation, que apoia projetos de educação no sul da África e na Suíça [s:atp-bio].
 
 ## A despedida na Laver Cup
 
-Em 15 de setembro de 2022, aos 41 anos, Federer anunciou que a Laver Cup de Londres seria seu último torneio, depois de três anos de lesões e cirurgias [s:retirement-statement]. Jogou lá uma única partida, em 23 de setembro: duplas ao lado de Rafael Nadal, a quem tinha telefonado para fazer "uma última dupla". Os dois perderam para Jack Sock e Frances Tiafoe por 4-6, 7-6 e 11-9 [s:nbc-laver].
+Em 15 de setembro de 2022, aos 41 anos, Federer anunciou que a Laver Cup de Londres seria seu último torneio, depois de três anos de lesões e cirurgias [s:retirement-statement]. Em 23 de setembro jogou ali uma partida de duplas ao lado de Rafael Nadal, a quem tinha telefonado para fazer "uma última dupla". Os dois perderam para Jack Sock e Frances Tiafoe por 4-6, 7-6 e 11-9 [s:nbc-laver].
 
 ## Hall da Fama em 2026
 
-O Hall da Fama Internacional do Tênis anunciou Federer entre os homenageados da classe de 2026 [s:ithf-class-2026]. A cerimônia de entrada aconteceu naquele ano, e o próprio tenista a definiu como "uma das maiores honras" da sua vida, segundo o título da reportagem do Olympics.com [s:olympics-hof]. A ATP publicou uma galeria de fotos da cerimônia [s:atp-hof-2026].
+Em novembro de 2025, o Hall da Fama Internacional do Tênis anunciou Federer na classe de 2026, na categoria Jogador. Ele recebeu a notícia na Swiss Tennis, onde sua carreira começou, das mãos de Stefan Edberg, Boris Becker e de outros membros do Hall da Fama [s:ithf-class-2026]. A citação lembra também que ele criou a Laver Cup em homenagem a Rod Laver [s:ithf-class-2026].
+
+A cerimônia foi no sábado, 29 de agosto de 2026, em Newport, Rhode Island [s:aljazeera-hof]. Mirka fez o discurso de apresentação, e sete ex-números 1 do mundo estavam na plateia, entre eles Edberg, John McEnroe e Andy Roddick [s:atp-hof-2026]. Federer chamou a homenagem de "uma das maiores honras" da sua vida e disse: "Chamam isto de Hall da Fama, mas a fama nunca foi o objetivo" (tradução nossa) [s:aljazeera-hof].

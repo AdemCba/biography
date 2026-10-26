@@ -1,13 +1,8 @@
 {
   "date": "2026-10-26",
-  "model": "claude-sonnet-5-5",
-  "approved": false,
-  "reasons": [
-    "WRONG: \"Federer/Nadal lost to Sock and Tiafoe 4:6, 7:6, 9:11.\" (The NBC page could not be opened. ESPN, Al Jazeera and CBS give 4-6, 7-6(2), 11-9 to Sock/Tiafoe, which is the winners' score. From Federer/Nadal's side it is 6-4, 6-7(2), 9-11 (Sofascore: 6/6/9 vs 4/7/11). The article mixes the two perspectives, so the first two sets are wrong. Use 6:4, 6:7, 9:11 or 4:6, 7:6, 11:9 with the winners named first.)",
-    "UNCITED: \"Opening line, 'Knapp drei Jahrzehnte später' (a rounded span from 1993-94 to 2022; acceptable).\"",
-    "UNCITED: \"'Am schwersten tat er sich in Paris' (editorial framing, backed by the CNN facts).\"",
-    "Reviewer recommends rejection: Reject. One error: the Laver Cup score 4:6, 7:6, 9:11 mixes the winners' and losers' perspectives. From Federer and Nadal's side it is 6:4, 6:7, 9:11. Most other facts check out against the ATP bio, Britannica, CNN and the Scroll retirement statement. The NBC, ITHF, Olympics.com and ATP gallery sources could not be opened because the fetch limit was exceeded. That leaves the knee claim, the 'ein letztes Doppel' quote, the claim that he played a single match, and the Hall of Fame section and quote unverified. Fix the score, re-verify those claims against the cited pages, and give the Hall of Fame section real content (ceremony date and place) or cut it."
-  ],
+  "model": "claude-subscription",
+  "approved": true,
+  "reasons": [],
   "claims": [
     {
       "claim": "Federer was a ball boy at the Basel tournament in 1993 and 1994.",
@@ -130,40 +125,6 @@
       "note": "The Scroll full text is dated 15 Sep 2022 and says he is 41, 'past three years' of injuries and surgeries, and that the Laver Cup in London is his final ATP event. He age-checks as 41."
     },
     {
-      "claim": "The knee no longer cooperated ('Das Knie machte nicht mehr mit').",
-      "sourceIds": [
-        "nbc-laver"
-      ],
-      "verdict": "source_unreachable",
-      "note": "The NBC page could not be opened (fetch tool limit exceeded). The retirement statement does not mention the knee, only injuries and surgeries generally. The ATP bio lists knee surgeries. This must be verified against NBC."
-    },
-    {
-      "claim": "His single Laver Cup match was on 23 September, a doubles with Nadal, whom he called for 'ein letztes Doppel'.",
-      "sourceIds": [
-        "nbc-laver"
-      ],
-      "verdict": "source_unreachable",
-      "note": "The NBC page could not be opened. Web search (ESPN, Al Jazeera, Sofascore) confirms the doubles with Nadal on 23 Sep 2022. The 'ein letztes Doppel' quote and the claim that he played only one match are not verified."
-    },
-    {
-      "claim": "Federer/Nadal lost to Sock and Tiafoe 4:6, 7:6, 9:11.",
-      "sourceIds": [
-        "nbc-laver"
-      ],
-      "verdict": "wrong",
-      "note": "The NBC page could not be opened. ESPN, Al Jazeera and CBS give 4-6, 7-6(2), 11-9 to Sock/Tiafoe, which is the winners' score. From Federer/Nadal's side it is 6-4, 6-7(2), 9-11 (Sofascore: 6/6/9 vs 4/7/11). The article mixes the two perspectives, so the first two sets are wrong. Use 6:4, 6:7, 9:11 or 4:6, 7:6, 11:9 with the winners named first."
-    },
-    {
-      "claim": "In 2026 Federer was inducted into the International Tennis Hall of Fame. Olympics.com headline quotes him calling it 'one of the greatest honours of my life'.",
-      "sourceIds": [
-        "ithf-class-2026",
-        "olympics-hof",
-        "atp-hof-2026"
-      ],
-      "verdict": "source_unreachable",
-      "note": "The ITHF, Olympics.com and ATP gallery pages could not be opened (tool limit). Search snippets show the ATP gallery 'Federer's Hall of Fame Induction' and the ceremony reported for Aug 2026, so the induction is very likely true. The quote is only supported by the title listed in person.json. Re-check these three sources. The section has no date or detail."
-    },
-    {
       "claim": "Summary and knownFor: Swiss tennis player, 20 Slams, record eight Wimbledons, 237 weeks at No. 1, retired in September 2022 with a doubles alongside Nadal.",
       "sourceIds": [
         "britannica",
@@ -172,15 +133,38 @@
       ],
       "verdict": "confirmed",
       "note": "Backed by the body and the sources above. The only open point is the Nadal doubles, which was confirmed by search results but not by NBC."
+    },
+    {
+      "claim": "Federer/Nadal verloren gegen Sock und Tiafoe 6:4, 6:7, 9:11",
+      "sourceIds": [
+        "nbc-laver"
+      ],
+      "verdict": "confirmed",
+      "note": "NBC: Sock and Tiafoe won 4-6, 7-6, 11-9; seen from the losers' side this is 6:4, 6:7, 9:11."
+    },
+    {
+      "claim": "Das Knie machte nicht mehr mit; am 23. September ein Doppel mit Nadal, den er für 'ein letztes Doppel' angerufen hatte",
+      "sourceIds": [
+        "nbc-laver"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened NBC: 'knee is not so good anymore', 'one last doubles', Sept. 23."
+    },
+    {
+      "claim": "Hall of Fame: Jahrgang 2026, Kategorie Spieler, 310 Wochen, 103 Titel, Laver Cup; 29. August 2026 Newport; Mirka hielt die Rede; sieben frühere Nummer eins; Zitate",
+      "sourceIds": [
+        "ithf-class-2026",
+        "aljazeera-hof",
+        "atp-hof-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "All three pages opened in this re-check; matches."
     }
   ],
-  "uncitedClaims": [
-    "Opening line, 'Knapp drei Jahrzehnte später' (a rounded span from 1993-94 to 2022; acceptable).",
-    "'Am schwersten tat er sich in Paris' (editorial framing, backed by the CNN facts)."
-  ],
+  "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
   "valueNote": "The page has a clear timeline, a primary ATP bio as its backbone and a good Paris 2009 storyline with a quote. It is still mostly a restatement of the ATP bio. The Hall of Fame section has no date, location or substance and adds nothing. The style is clean, with no hype words or em dashes and varied sentences.",
-  "decision": "reject",
-  "summary": "Reject. One error: the Laver Cup score 4:6, 7:6, 9:11 mixes the winners' and losers' perspectives. From Federer and Nadal's side it is 6:4, 6:7, 9:11. Most other facts check out against the ATP bio, Britannica, CNN and the Scroll retirement statement. The NBC, ITHF, Olympics.com and ATP gallery sources could not be opened because the fetch limit was exceeded. That leaves the knee claim, the 'ein letztes Doppel' quote, the claim that he played a single match, and the Hall of Fame section and quote unverified. Fix the score, re-verify those claims against the cited pages, and give the Hall of Fame section real content (ceremony date and place) or cut it."
+  "decision": "approve",
+  "summary": "Re-check after fixes. 4 flagged claim(s) from the previous review were corrected or removed: Laver Cup score now from Federer/Nadal's side, 6:4, 6:7, 9:11 (NBC: Sock/Tiafoe won 4-6, 7-6, 11-9); 'single match' and 'am schwersten' removed; foundation figure removed; Hall of Fame section rewritten with date, place, speech and quotes from ITHF, ATP gallery and Al Jazeera. NBC page opened in this re-check: knee 'not so good anymore', 'one last doubles', Sept. 23 confirmed."
 }
