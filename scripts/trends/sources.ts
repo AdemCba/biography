@@ -158,9 +158,12 @@ export async function entitiesForTitles(wiki: string, titles: string[]): Promise
   const out = new Map<string, WikidataEntity>();
   for (let i = 0; i < titles.length; i += 50) {
     const batch = titles.slice(i, i + 50);
-    const data = await getJson<{ entities: Record<string, WikidataEntity> }>(
-      `https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&props=labels|descriptions|claims|sitelinks&languages=en|es|pt|de|fr&normalize=1&sites=${wiki}wiki&titles=${encodeURIComponent(batch.join("|"))}`,
+    // No normalize=1: Wikidata only accepts it for a single title and rejects the whole batch otherwise.
+    // The titles come from Wikipedia search, so they are already canonical.
+    const data = await getJson<{ entities?: Record<string, WikidataEntity>; error?: { info: string } }>(
+      `https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&props=labels|descriptions|claims|sitelinks&languages=en|es|pt|de|fr&sites=${wiki}wiki&titles=${encodeURIComponent(batch.join("|"))}`,
     );
+    if (data?.error) console.warn(`wikidata ${wiki}: ${data.error.info}`);
     for (const e of Object.values(data?.entities ?? {})) {
       const title = e.sitelinks?.[`${wiki}wiki`]?.title;
       if (!e.missing && title) out.set(title, e);
