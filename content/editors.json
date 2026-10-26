@@ -1,28 +1,28 @@
 [
   {
     "id": "editor-in-chief",
-    "name": "Editor-in-chief",
+    "name": "Adem Caba",
     "sameAs": [],
     "i18n": {
       "en": {
-        "role": "Editor-in-chief",
-        "bio": "Replace this with the editor's real name, background and links before launch. Articles stay offline while this placeholder is here: Google weighs who stands behind a biography."
+        "role": "Founder and editor-in-chief",
+        "bio": "Adem Caba founded Orbivida because he likes reading about the people behind famous names: where they grew up, what went wrong and what they did next. He sets the editorial policy, decides which people we cover and reviews pages on sensitive topics himself."
       },
       "es": {
-        "role": "Editor jefe",
-        "bio": "Replace this with the editor's real name, background and links in this language before launch. Articles stay offline while this placeholder is here."
-      },
-      "de": {
-        "role": "Chefredakteur",
-        "bio": "Replace this with the editor's real name, background and links in this language before launch. Articles stay offline while this placeholder is here."
-      },
-      "fr": {
-        "role": "Rédacteur en chef",
-        "bio": "Replace this with the editor's real name, background and links in this language before launch. Articles stay offline while this placeholder is here."
+        "role": "Fundador y editor jefe",
+        "bio": "Adem Caba fundó Orbivida porque le gusta leer sobre las personas que hay detrás de los nombres famosos: dónde crecieron, qué les salió mal y qué hicieron después. Define la política editorial, decide qué personas cubrimos y revisa en persona las páginas sobre temas sensibles."
       },
       "pt": {
-        "role": "Editor-chefe",
-        "bio": "Replace this with the editor's real name, background and links in this language before launch. Articles stay offline while this placeholder is here."
+        "role": "Fundador e editor-chefe",
+        "bio": "Adem Caba criou a Orbivida porque gosta de ler sobre as pessoas por trás dos nomes famosos: onde cresceram, o que deu errado e o que fizeram depois. Ele define a política editorial, escolhe quem entra no site e revisa pessoalmente as páginas sobre temas sensíveis."
+      },
+      "de": {
+        "role": "Gründer und Chefredakteur",
+        "bio": "Adem Caba hat Orbivida gegründet, weil ihn die Menschen hinter bekannten Namen interessieren: wo sie aufgewachsen sind, was schiefging und was danach kam. Er legt die Redaktionsrichtlinien fest, entscheidet, über wen wir schreiben, und prüft Seiten zu sensiblen Themen selbst."
+      },
+      "fr": {
+        "role": "Fondateur et rédacteur en chef",
+        "bio": "Adem Caba a fondé Orbivida parce qu'il aime découvrir les personnes derrière les noms célèbres : où elles ont grandi, ce qui a mal tourné et ce qu'elles ont fait ensuite. Il fixe la ligne éditoriale, choisit les personnalités traitées et relit lui-même les pages sur les sujets sensibles."
       }
     }
   },
