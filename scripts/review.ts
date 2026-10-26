@@ -27,7 +27,8 @@ export const REVIEWER_ID = "fact-check-desk";
 const MAX_REVIEWS = 3;
 const args = process.argv.slice(2);
 const LIMIT = args.includes("--limit") ? Number(args[args.indexOf("--limit") + 1]) : 20;
-const explicit = args.filter((a, i) => !a.startsWith("--") && args[i - 1] !== "--limit");
+const VALUE_FLAGS = ["--limit", "--prompt", "--record", "--model"];
+const explicit = args.filter((a, i) => !a.startsWith("--") && !VALUE_FLAGS.includes(args[i - 1]) && args[i - 2] !== "--record");
 
 const verdictSchema = z.object({
   claims: z.array(
@@ -67,8 +68,8 @@ function read(file: string) {
   return fs.readFileSync(path.join(process.cwd(), file), "utf8");
 }
 
-async function factCheck(client: Anthropic, person: Person, article: Article): Promise<Verdict> {
-  const prompt = [
+function factCheckPrompt(person: Person, article: Article): string {
+  return [
     `You are the fact-check editor of ${site.name}. Nothing is published unless you confirm it.`,
     read("prompts/04-fact-check.md"),
     `\n<style_guide>\n${read("docs/style-guide.md")}\n</style_guide>`,
@@ -89,7 +90,10 @@ async function factCheck(client: Anthropic, person: Person, article: Article): P
     "dates in the article support them.",
     "Be strict about facts. When in doubt, reject and say exactly what to fix.",
   ].join("\n");
-  return askStructured(client, prompt, verdictSchema, { fetches: 6, searches: 2 });
+}
+
+async function factCheck(client: Anthropic, person: Person, article: Article): Promise<Verdict> {
+  return askStructured(client, factCheckPrompt(person, article), verdictSchema, { fetches: 6, searches: 2 });
 }
 
 function addMonths(date: string, months: number): string {
@@ -98,12 +102,8 @@ function addMonths(date: string, months: number): string {
   return d.toISOString().slice(0, 10);
 }
 
-async function main() {
-  if (!hasApiKey()) {
-    console.log("ANTHROPIC_API_KEY not set; skipping the review agent.");
-    return;
-  }
-  const client = new Anthropic();
+/** Articles ready for the fact-check: in review, unflagged, gate-clean. High-risk ones are sent to a human. */
+function readyForReview(summary: string[]): { person: Person; article: Article }[] {
   const store = readContent();
   const { reports } = checkContent(store);
   // Gate problems other than the missing approval itself must be fixed (by `npm run revise`) first.
@@ -119,24 +119,102 @@ async function main() {
       explicit.length
         ? explicit.includes(`${person.data.id}/${article.locale}`)
         : article.meta.status === "review" && !article.meta.flag && !article.meta.reviewNotes,
-    )
-    .slice(0, LIMIT);
+    );
+  const ready: { person: Person; article: Article }[] = [];
+  for (const { person, article } of queue) {
+    const key = `${person.data.id}/${article.locale}`;
+    if (article.meta.risk === "high") {
+      writeArticle(article.file, { ...article.meta, flag: "High-risk article: needs a human editor's approval." }, article.body);
+      summary.push(`⚑ ${key}: high risk, sent to a human editor`);
+    } else if (!gateClean(person.data.id, article.locale)) {
+      summary.push(`… ${key}: fails the quality gate, left for the fix loop`);
+    } else {
+      ready.push({ person, article });
+    }
+  }
+  return ready.slice(0, LIMIT);
+}
 
+/** Applies the code-enforced decision to one verdict and records the audit trail. */
+function applyVerdict(person: Person, article: Article, verdict: Verdict, model: string): string {
+  const key = `${person.data.id}/${article.locale}`;
+  const meta = article.meta;
+  const { approved, reasons } = decide(verdict);
+  fs.writeFileSync(
+    path.join(person.dir, `${article.locale}.review.json`),
+    `${JSON.stringify({ date: today(), model, approved, reasons, ...verdict }, null, 2)}\n`,
+  );
+  const reviews = meta.autoReviews + 1;
+  if (approved) {
+    writeArticle(
+      article.file,
+      { ...meta, status: "approved", reviewer: REVIEWER_ID, reviewedAt: today(), reviewBy: addMonths(today(), 6), reviewNotes: undefined, autoReviews: reviews },
+      article.body,
+    );
+    return `✓ ${key}: approved (${verdict.claims.length} claims confirmed)`;
+  }
+  const notes = reasons.join(" | ").slice(0, 4000);
+  const flag = reviews >= MAX_REVIEWS ? `Rejected by the fact-check ${reviews} times; needs a human editor.` : undefined;
+  writeArticle(article.file, { ...meta, reviewNotes: notes, autoReviews: reviews, flag }, article.body);
+  return `✗ ${key}: rejected, ${reasons.length} problem(s)${flag ? " (flagged for a human)" : ", sent to the fix loop"}`;
+}
+
+function find(key: string): { person: Person; article: Article } {
+  const [id, locale] = key.split("/");
+  const person = readContent().people.find((p) => p.data.id === id);
+  const article = person?.articles[locale as keyof typeof person.articles];
+  if (!person || !article) throw new Error(`No article ${key}`);
+  return { person, article };
+}
+
+/**
+ * Subscription mode, for a scheduled Claude task that does the fact-check itself (no API key needed):
+ *   npm run review -- --queue                       -> keys of the articles ready for review
+ *   npm run review -- --prompt <id/locale>          -> the fact-check brief plus the verdict JSON schema
+ *   npm run review -- --record <id/locale> <file>   -> applies a verdict JSON written by the task
+ */
+function subscriptionMode(): boolean {
+  const opt = (name: string) => (args.includes(name) ? args[args.indexOf(name) + 1] : undefined);
+  if (args.includes("--queue")) {
+    const summary: string[] = [];
+    const ready = readyForReview(summary);
+    if (summary.length) console.error(summary.join("\n"));
+    console.log(ready.map(({ person, article }) => `${person.data.id}/${article.locale}`).join("\n"));
+    return true;
+  }
+  const promptKey = opt("--prompt");
+  if (promptKey) {
+    const { person, article } = find(promptKey);
+    console.log(factCheckPrompt(person, article));
+    console.log("\nUse your web fetch tool to open the sources and web search only for the outdated check.");
+    console.log("Answer with one JSON object, nothing else, that matches this JSON schema:");
+    console.log(JSON.stringify(z.toJSONSchema(verdictSchema), null, 2));
+    return true;
+  }
+  const recordKey = opt("--record");
+  if (recordKey) {
+    const file = args[args.indexOf("--record") + 2];
+    const { person, article } = find(recordKey);
+    const verdict = verdictSchema.parse(JSON.parse(fs.readFileSync(file, "utf8")));
+    console.log(applyVerdict(person, article, verdict, opt("--model") ?? "claude-subscription"));
+    return true;
+  }
+  return false;
+}
+
+async function main() {
+  if (subscriptionMode()) return;
+  if (!hasApiKey()) {
+    console.log("ANTHROPIC_API_KEY not set; skipping the review agent.");
+    return;
+  }
+  const client = new Anthropic();
   const summary: string[] = [];
+  const queue = readyForReview(summary);
   console.log(`Reviewing ${queue.length} article(s)`);
   for (const { person, article } of queue) {
     const key = `${person.data.id}/${article.locale}`;
     console.log(`… ${key}`);
-    const meta = article.meta;
-    if (meta.risk === "high") {
-      writeArticle(article.file, { ...meta, flag: "High-risk article: needs a human editor's approval." }, article.body);
-      summary.push(`⚑ ${key}: high risk, sent to a human editor`);
-      continue;
-    }
-    if (!gateClean(person.data.id, article.locale)) {
-      summary.push(`… ${key}: fails the quality gate, left for the fix loop`);
-      continue;
-    }
     let verdict: Verdict;
     try {
       verdict = await factCheck(client, person, article);
@@ -145,31 +223,12 @@ async function main() {
       summary.push(`! ${key}: review failed (${(e as Error).message}), will retry next run`);
       continue;
     }
-    const { approved, reasons } = decide(verdict);
-    fs.writeFileSync(
-      path.join(person.dir, `${article.locale}.review.json`),
-      `${JSON.stringify({ date: today(), model: MODEL, approved, reasons, ...verdict }, null, 2)}\n`,
-    );
-    const reviews = meta.autoReviews + 1;
-    if (approved) {
-      writeArticle(
-        article.file,
-        { ...meta, status: "approved", reviewer: REVIEWER_ID, reviewedAt: today(), reviewBy: addMonths(today(), 6), reviewNotes: undefined, autoReviews: reviews },
-        article.body,
-      );
-      summary.push(`✓ ${key}: approved (${verdict.claims.length} claims confirmed)`);
-    } else {
-      const notes = reasons.join(" | ").slice(0, 4000);
-      const flag = reviews >= MAX_REVIEWS ? `Rejected by the fact-check ${reviews} times; needs a human editor.` : undefined;
-      writeArticle(article.file, { ...meta, reviewNotes: notes, autoReviews: reviews, flag }, article.body);
-      summary.push(`✗ ${key}: rejected, ${reasons.length} problem(s)${flag ? " (flagged for a human)" : ", sent to the fix loop"}`);
-    }
+    summary.push(applyVerdict(person, article, verdict, MODEL));
   }
   const out = summary.length ? summary.join("\n") : "Nothing to review.";
   console.log(out);
   if (process.env.GITHUB_STEP_SUMMARY) fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, `### Review agent\n\n${out}\n`);
 }
-
 
 if (process.argv[1]?.endsWith("review.ts")) {
   main().catch(exitOnError("Review agent"));

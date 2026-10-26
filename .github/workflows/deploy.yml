@@ -49,7 +49,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ANTHROPIC_WRITER_MODEL: ${{ vars.ANTHROPIC_WRITER_MODEL }}
-        run: npm run write -- --count ${{ vars.WRITE_PER_DAY || 1 }}
+        run: npm run write -- --count ${{ vars.WRITE_PER_DAY || 4 }}
 
       - name: Photos (free-licensed Wikimedia Commons images for people without one)
         run: npm run images
@@ -61,8 +61,10 @@ jobs:
           ANTHROPIC_WRITER_MODEL: ${{ vars.ANTHROPIC_WRITER_MODEL }}
         run: npm run revise -- --limit ${{ vars.REVISE_LIMIT || 10 }}
 
+      # The daily fact-check normally runs as a scheduled Claude task on the owner's subscription
+      # (npm run review -- --queue / --prompt / --record). Set REVIEW_WITH_API=true to pay for it here instead.
       - name: Review agent (fact-check every claim against its sources, approve or reject)
-        if: ${{ env.HAS_ANTHROPIC_KEY == 'true' }}
+        if: ${{ env.HAS_ANTHROPIC_KEY == 'true' && (vars.REVIEW_WITH_API == 'true' || inputs.review_only) }}
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
