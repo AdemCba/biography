@@ -12,7 +12,7 @@ summary: >-
   ganado el Grammy al Álbum del Año en cuatro ocasiones, un récord en esa
   categoría, y la revista Time la nombró Persona del Año 2023. Forbes calcula su
   patrimonio en 2.000 millones de dólares.
-status: published
+status: review
 risk: medium
 reviewedAt: '2026-10-26'
 reviewBy: '2027-04-26'
@@ -46,7 +46,6 @@ faq:
       Forbes lo calcula en 2.000 millones de dólares a fecha de 26 de octubre de
       2026. Es una estimación, no una cifra oficial [s:forbes-profile].
 autoReviews: 2
-publishedAt: '2026-10-26'
 ---
 Taylor Swift ha ganado el Grammy al Álbum del Año cuatro veces, más que ninguna otra artista. La última llegó en la ceremonia del 4 de febrero de 2024, con *Midnights*, y esa misma noche también ganó el premio al Mejor Álbum de Pop Vocal [s:etonline-midnights].
 

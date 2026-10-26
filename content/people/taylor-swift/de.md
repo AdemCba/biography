@@ -14,7 +14,7 @@ summary: >-
   geboren. Sie hat den Grammy für das Album des Jahres viermal gewonnen, so oft
   wie keine andere Künstlerin, und das Magazin Time kürte sie 2023 zur Person of
   the Year. Forbes schätzt ihr Vermögen auf 2 Milliarden US-Dollar.
-status: published
+status: review
 risk: medium
 reviewedAt: '2026-10-26'
 reviewBy: '2027-04-26'
@@ -49,7 +49,6 @@ faq:
       2026. Das ist eine Schätzung und keine offizielle Angabe
       [s:forbes-profile].
 autoReviews: 2
-publishedAt: '2026-10-26'
 ---
 Taylor Swift hat den Grammy für das Album des Jahres viermal gewonnen, als erste Künstlerin überhaupt. Der vierte Sieg kam bei der Verleihung am 4. Februar 2024 mit *Midnights*. In derselben Nacht gewann sie auch den Preis für das beste Pop-Gesangsalbum [s:etonline-midnights].
 

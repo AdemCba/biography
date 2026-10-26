@@ -57,6 +57,13 @@ jobs:
             - Always finish all ${{ inputs.count || 5 }} people in all five languages. To save usage, keep research
               short (the fewest sources that back every claim) and fact-check in one pass where you can; never drop
               a person or a language.
+            - Before you finish, `npm run -s check` must show no ERROR and no `short-for-importance` warning for any
+              page you wrote: expand short pages with more sourced facts (the importance minimum is a floor, not a
+              target) and cite at least one primary source (official site, club, league, award body, company or
+              interview) with the matching source type.
+            - Then, if usage allows, repair up to 2 existing pages: pick pages from `npm run -s check` that are in
+              status review or show ERROR, `too-short` or `short-for-importance`, expand or fix them in all languages with sourced facts, and fact-check them
+              again with review.ts. Never remove a page.
             - Step 7: print the Turkish summary as your final answer.
 
       - name: Commit new content to main

@@ -14,7 +14,7 @@ summary: >-
   CazéTV, que transmitiu os jogos do Brasil na Copa do Catar e bateu recordes de
   audiência ao vivo naquele ano. No Mundial de 2026, uma transmissão de
   mata-mata do Brasil reuniu 21,1 milhões de espectadores simultâneos.
-status: published
+status: review
 risk: medium
 reviewedAt: '2026-10-26'
 reviewBy: '2027-04-26'
@@ -52,7 +52,6 @@ faq:
       Catar [s:bandab-casimiro-deixa-cazetv-2026]. A Bloomberg Línea o apresenta
       como fundador do canal [s:bloomberglinea-casimiro-miguel].
 autoReviews: 2
-publishedAt: '2026-10-26'
 ---
 Em 28 de novembro de 2022, uma live no canal do Casimiro Miguel no YouTube chegou a 4,6 milhões de visualizações durante o primeiro tempo do jogo do Brasil contra a Suíça na Copa [s:poder360-record-live-2022]. O Poder360 chamou aquilo de seu segundo recorde seguido de live mais vista do YouTube, depois de um recorde que era da cantora Marília Mendonça [s:poder360-record-live-2022]. Quatro anos depois, a CazéTV liderou por duas semanas seguidas o ranking global de inscritos da Tubefilter [s:tubefilter-global-sub-top-50-2026].
 

@@ -101,6 +101,9 @@ function checkArticle(person: Person, article: Article, store: ContentStore): Ar
   const minCitations = Math.max(3, Math.floor(words / 300));
   if (cited.length < minCitations) push(gate, "few-citations", `${cited.length} citations; need at least ${minCitations} for ${words} words`);
   if (words < MIN_WORDS[1]) push(gate, "too-short", `Only ${words} words`);
+  else if (words < MIN_WORDS[person.data.importance] / 2) {
+    push(gate, "too-short", `Only ${words} words; a page on someone this well known needs at least ${MIN_WORDS[person.data.importance] / 2} (aim for ${MIN_WORDS[person.data.importance]}+)`);
+  }
   else if (words < MIN_WORDS[person.data.importance]) {
     push("warning", "short-for-importance", `${words} words; importance ${person.data.importance} usually needs ${MIN_WORDS[person.data.importance]}+`);
   }
