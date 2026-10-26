@@ -60,6 +60,9 @@ const blocking = (r: ArticleReport) => r.issues.filter((i) => i.level === "error
 const failsGate = (r: ArticleReport) =>
   r.issues.some((i) => !NOT_FIXABLE_BY_REWRITE.has(i.code) && (i.level === "error" || GATE_CODES.has(i.code))) || hasReviewNotes(r);
 
+/** Shorter than a person of this standing deserves: worth one expanding rewrite, but never a flag on its own. */
+const tooShort = (r: ArticleReport) => r.issues.some((i) => i.code === "short-for-importance");
+
 function hasReviewNotes(r: ArticleReport): boolean {
   return !!readContent().people.find((p) => p.data.id === r.personId)?.articles[r.locale]?.meta.reviewNotes;
 }
@@ -82,7 +85,7 @@ async function askClaude(client: Anthropic, person: Person, article: Article, re
     "Return the full revised article fields as JSON matching the schema. `body` is markdown without frontmatter.",
   ].join("\n");
 
-  return askStructured(client, prompt, revisionSchema, { model: WRITER_MODEL });
+  return askStructured(client, prompt, revisionSchema, { model: WRITER_MODEL, fetches: 6, searches: 3 });
 }
 
 function apply(person: Person, article: Article, rev: Revision) {
@@ -137,7 +140,7 @@ async function main() {
   const targets = (
     explicit.length
       ? reports.filter((r) => explicit.includes(`${r.personId}/${r.locale}`))
-      : reports.filter((r) => ["published", "approved", "review"].includes(r.status) && failsGate(r) && !readFlag(r))
+      : reports.filter((r) => ["published", "approved", "review"].includes(r.status) && (failsGate(r) || tooShort(r)) && !readFlag(r))
   ).slice(0, LIMIT);
 
   const summary: string[] = [];

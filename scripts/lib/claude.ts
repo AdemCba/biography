@@ -2,8 +2,8 @@ import fs from "node:fs";
 import Anthropic from "@anthropic-ai/sdk";
 import { z } from "zod";
 
-/** The fact-check model: the strongest one, because it is what keeps wrong claims off the site. */
-export const MODEL = process.env.ANTHROPIC_MODEL || "claude-opus-5-5";
+/** The fact-check model. Sonnet keeps the daily cost low; set ANTHROPIC_MODEL=claude-opus-5-5 for a stricter check. */
+export const MODEL = process.env.ANTHROPIC_MODEL || "claude-sonnet-5-5";
 /** Research, writing, translation and rewrites: a cheaper model, since everything it writes is fact-checked by MODEL. */
 export const WRITER_MODEL = process.env.ANTHROPIC_WRITER_MODEL || "claude-sonnet-5-5";
 
@@ -44,7 +44,7 @@ export async function askStructured<T extends z.ZodType>(
   client: Anthropic,
   prompt: string,
   schema: T,
-  opts: { fetches?: number; searches?: number; model?: string } = {},
+  opts: { fetches?: number; searches?: number; model?: string; effort?: "low" | "medium" | "high" } = {},
 ): Promise<z.infer<T>> {
   const messages: Anthropic.Beta.BetaMessageParam[] = [{ role: "user", content: prompt }];
   const outputSchema = z.toJSONSchema(schema, { target: "draft-2020-12" }) as Record<string, unknown>;
@@ -56,10 +56,11 @@ export async function askStructured<T extends z.ZodType>(
         betas: ["server-side-fallback-2026-07-01"],
         fallbacks: "default",
         thinking: { type: "adaptive" },
-        output_config: { effort: "high", format: { type: "json_schema", schema: outputSchema } },
+        output_config: { effort: opts.effort ?? "high", format: { type: "json_schema", schema: outputSchema } },
         tools: [
-          { type: "web_fetch_20260209", name: "web_fetch", max_uses: opts.fetches ?? 12 },
-          { type: "web_search_20260209", name: "web_search", max_uses: opts.searches ?? 6 },
+          // Fetched pages are most of the bill: cap each one, the facts we cite sit near the top of a profile page.
+          { type: "web_fetch_20260209", name: "web_fetch", max_uses: opts.fetches ?? 6, max_content_tokens: 15000 },
+          { type: "web_search_20260209", name: "web_search", max_uses: opts.searches ?? 3 },
         ],
         messages,
       })
