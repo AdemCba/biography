@@ -21,6 +21,7 @@ import Anthropic from "@anthropic-ai/sdk";
 import { z } from "zod";
 import { site } from "../src/config/site";
 import { PEOPLE_DIR, readContent, today } from "../src/lib/content";
+import { MIN_WORDS } from "../src/lib/quality";
 import { writeArticle, writePerson } from "../src/lib/article-file";
 import { personSchema, SOURCE_TYPES, type PersonData } from "../src/lib/schema";
 import { slugify } from "../src/lib/slug";
@@ -154,7 +155,7 @@ async function research(client: Anthropic, name: string, category: string, leads
     "worthWriting=false if the person is a minor, a private individual, known mainly for a crime or",
     "tragedy, or if there are fewer than three solid sources. Explain in reason.",
   ].join("\n");
-  return askStructured(client, prompt, researchSchema, { fetches: 15, searches: 8, model: WRITER_MODEL });
+  return askStructured(client, prompt, researchSchema, { fetches: 10, searches: 5, model: WRITER_MODEL });
 }
 
 /** People already on the site, so new pages can link to them ([Name](person:id)) and list them as related. */
@@ -178,7 +179,8 @@ async function draft(client: Anthropic, name: string, person: PersonData, r: Res
     "\nYou may open the sources again with web_fetch to get details right. Every factual sentence ends with",
     "[s:source-id] using ids from person_json (or from newSources, which you must have opened).",
     "body: Markdown without frontmatter, starting with an opening paragraph (no H1), then ## sections.",
-    "Length follows the material: usually 500-900 words, never padded. metaTitle ≤ 60 characters,",
+    `Length follows the material and is never padded, but this person (importance ${person.importance}) needs at least`,
+    `${MIN_WORDS[person.importance]} words of real substance: career turning points, numbers, context, what changed. metaTitle ≤ 60 characters,`,
     "metaDescription 120-160 characters, summary 2-3 sentences and at least 25 words, 3-4 FAQ items.",
   ].join("\n");
   return askStructured(client, prompt, articleOut, { fetches: 8, searches: 3, model: WRITER_MODEL });
@@ -197,7 +199,7 @@ async function localize(client: Anthropic, name: string, person: PersonData, loc
     "source. body: Markdown without frontmatter, opening paragraph then ## sections. metaTitle ≤ 60",
     "characters, metaDescription 120-160 characters, summary at least 25 words, 3-4 FAQ items.",
   ].join("\n");
-  return askStructured(client, prompt, articleOut, { fetches: 4, searches: 4, model: WRITER_MODEL });
+  return askStructured(client, prompt, articleOut, { fetches: 2, searches: 1, model: WRITER_MODEL, effort: "medium" });
 }
 
 function toFacts(r: Research): PersonData["facts"] {
