@@ -34,7 +34,6 @@ faq:
     a: >-
       À Tainan, à Taïwan, le 17 février 1963. Sa famille a ensuite déménagé en
       Thaïlande, et il est arrivé aux États-Unis à neuf ans.
-autoReviews: 1
 reviewNotes: >-
   UNSUPPORTED: "Twenty years later he co-founded NVIDIA" (No citation, and the
   arithmetic is loose. Age nine is about 1972, and NVIDIA was founded in April
@@ -84,6 +83,8 @@ reviewNotes: >-
   and CHM say Tainan. Find a primary source, and if reliable sources disagree,
   cite both. (7) Optionally, describe Oneida as a reform school ('établissement
   de redressement'), as Britannica does, rather than a 'pensionnat'.
+autoReviews: 1
+flag: 'Fix loop gave up after 3 attempts: quality warnings'
 ---
 À neuf ans, Jensen Huang arrive aux États-Unis depuis la Thaïlande avec son frère et se retrouve à l'Oneida Baptist Institute, un pensionnat religieux du Kentucky pour garçons jugés « difficiles » [s:britannica]. Vingt ans plus tard, il cofonde NVIDIA.
 

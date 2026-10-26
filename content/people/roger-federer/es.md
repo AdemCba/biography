@@ -34,7 +34,6 @@ faq:
     a: >-
       Mirka Vavrinec, extenista que llegó al puesto 76 del ranking WTA. Tienen
       dos parejas de gemelos.
-autoReviews: 1
 reviewNotes: >-
   UNSUPPORTED: "Jugó allí un único partido, el 23 de septiembre" (NBC supports
   the 23 September date (ceremony 'after the loss on Sept. 23') and that this
@@ -58,6 +57,8 @@ reviewNotes: >-
   consider mentioning the 2026 Hall of Fame induction, with a source. Nothing is
   outdated: the 237-week record and the Connors comparison still stand as of
   October 2026.
+autoReviews: 1
+flag: 'Fix loop gave up after 3 attempts: quality warnings'
 ---
 Antes de levantar trofeos, Roger Federer recogía pelotas. En 1993 y 1994 fue recogepelotas en el torneo de Basilea, su ciudad [s:atp-bio]. Tres décadas después se retiró con 20 Grand Slams.
 

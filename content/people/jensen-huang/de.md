@@ -33,7 +33,6 @@ faq:
     a: >-
       Am 17. Februar 1963 in Tainan, Taiwan. Die Familie zog später nach
       Thailand, mit neun Jahren kam er in die USA.
-autoReviews: 1
 reviewNotes: >-
   UNSUPPORTED: "Earned a master's in electrical engineering at Stanford while
   working ('Nebenher')" (Partly unsupported. NVIDIA confirms the Stanford MSEE
@@ -72,6 +71,8 @@ reviewNotes: >-
   'Auszeichnungen' is a generic section label but acceptable. Note that the
   Britannica copy I fetched was cached (2025-09-21) and shows age 61, so don't
   copy the age from that page; calculate it from the birth date.
+autoReviews: 1
+flag: 'Fix loop gave up after 3 attempts: quality warnings'
 ---
 Mit neun Jahren kam Jensen Huang zusammen mit seinem Bruder aus Thailand in die USA und landete am Oneida Baptist Institute, einem kirchlichen Internat in Kentucky für Jungen, die als "schwierig" galten [s:britannica]. Zwei Jahrzehnte später gründete er NVIDIA.
 

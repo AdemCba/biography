@@ -33,7 +33,6 @@ faq:
     a: >-
       Em Tainan, Taiwan, em 17 de fevereiro de 1963. A família depois se mudou
       para a Tailândia, e ele chegou aos Estados Unidos com nove anos.
-autoReviews: 1
 reviewNotes: >-
   UNSUPPORTED: "The family moved to Thailand when he was five" (Britannica
   supports this ('When he was five, the family moved to Thailand'), but the
@@ -73,6 +72,8 @@ reviewNotes: >-
   sources added to person.json. As written it is accurate but incomplete. (5)
   Add at least one angle the top results lack, so the page clears the 'adds
   value' bar. Re-submit for fact check after the edits.
+autoReviews: 1
+flag: 'Fix loop gave up after 3 attempts: quality warnings'
 ---
 Aos nove anos, Jensen Huang chegou aos Estados Unidos vindo da Tailândia, junto com o irmão, e foi parar no Oneida Baptist Institute, um internato religioso no Kentucky para meninos considerados "problemáticos" [s:britannica]. Duas décadas depois, ele estava fundando a NVIDIA.
 

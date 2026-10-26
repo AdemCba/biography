@@ -34,7 +34,6 @@ faq:
     a: >-
       Mirka Federer, born Mirka Vavrinec, a former player who reached No. 76 in
       the WTA rankings. They have two sets of twins.
-autoReviews: 1
 reviewNotes: >-
   UNSUPPORTED: "Three decades later he left the sport with 20 Grand Slam titles"
   (No citation. The 20 titles are confirmed later by Britannica. But 1993/94 to
@@ -77,6 +76,8 @@ reviewNotes: >-
   drop the names. (5) 'Three decades later' is inexact (1993/94 to 2022). (6)
   Answer the age query: he is 45, born 8 August 1981 [s:britannica]. Once these
   are fixed, the page should pass.
+autoReviews: 1
+flag: 'Fix loop gave up after 3 attempts: quality warnings'
 ---
 Before he won anything, Roger Federer fetched balls. In 1993 and 1994 he worked as a ballboy at the tournament in his home town of Basel [s:atp-bio]. Three decades later he left the sport with 20 Grand Slam titles.
 

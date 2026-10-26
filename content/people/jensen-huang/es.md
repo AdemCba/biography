@@ -33,7 +33,6 @@ faq:
     a: >-
       En Tainan, Taiwán, el 17 de febrero de 1963. Su familia se mudó después a
       Tailandia y él llegó a Estados Unidos con nueve años.
-autoReviews: 1
 reviewNotes: >-
   UNSUPPORTED: "Completed a master's in electrical engineering at Stanford
   'mientras tanto' (while working)" (The NVIDIA bio confirms the Stanford MSEE
@@ -75,6 +74,8 @@ reviewNotes: >-
   dated timeline, a Spanish-language source, or the post-2018 context from CHM
   on NVIDIA's position. Otherwise the page restates Britannica and should not be
   published.
+autoReviews: 1
+flag: 'Fix loop gave up after 3 attempts: quality warnings'
 ---
 Con nueve años, Jensen Huang llegó a Estados Unidos desde Tailandia junto a su hermano y acabó en el Oneida Baptist Institute, un internado religioso de Kentucky para niños considerados "difíciles" [s:britannica]. Dos décadas después cofundaba NVIDIA.
 
