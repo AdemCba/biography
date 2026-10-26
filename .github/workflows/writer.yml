@@ -92,7 +92,8 @@ jobs:
             git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
             git add content data
             git commit -m "content: twice-daily writer"
-            git pull --rebase
+            # Other files the run touched (summary, caches) must not block the push.
+            git pull --rebase --autostash
             git push
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
