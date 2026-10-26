@@ -1,0 +1,322 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Real name Darren Watkins Jr. (TimesLive: Darren Jason Watkins Jr.); born in Cincinnati, Ohio",
+      "sourceIds": [
+        "timeslive-profile",
+        "rolling-stone-premiere"
+      ],
+      "verdict": "confirmed",
+      "note": "Rolling Stone gives Darren Watkins Jr.; TimesLive gives Darren Jason Watkins Jr. and Cincinnati."
+    },
+    {
+      "claim": "TimesLive described him as 21 in January 2026",
+      "sourceIds": [
+        "timeslive-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated 8 Jan 2026 says 'the 21-year-old'."
+    },
+    {
+      "claim": "Ghana government approved a Ghanaian passport at the end of the African tour, announced by Foreign Minister Ablakwa on X in late January 2026, citing 'irrefutable ties'",
+      "sourceIds": [
+        "afp-ghana",
+        "ewn-ghana"
+      ],
+      "verdict": "confirmed",
+      "note": "AFP dateline Accra 28 Jan 2026: approval of a Ghanaian passport, cited ties to Ghana. EWN headline says nationality but body describes passport; article handles this correctly."
+    },
+    {
+      "claim": "Rose to fame during the Covid-19 pandemic after streaming began as a bedroom hobby",
+      "sourceIds": [
+        "timeslive-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "TimesLive says so."
+    },
+    {
+      "claim": "SI reported more than 44 million YouTube subscribers in early October 2025",
+      "sourceIds": [
+        "si-speed-goes-pro"
+      ],
+      "verdict": "confirmed",
+      "note": "SI says 'over 44 million', published 2 Oct 2025."
+    },
+    {
+      "claim": "TimesLive: over 47 million YouTube subscribers and over 43 million Instagram followers in January 2026",
+      "sourceIds": [
+        "timeslive-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Figures are undated in the source; the article itself is dated January 2026."
+    },
+    {
+      "claim": "Streamer of the Year at the 2024 and 2025 Streamer Awards",
+      "sourceIds": [
+        "timeslive-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "TimesLive: won Streamer of the Year at both."
+    },
+    {
+      "claim": "Rolling Stone named him its most influential creator of 2025",
+      "sourceIds": [
+        "rolling-stone-premiere"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the article."
+    },
+    {
+      "claim": "Speed Does America began 28 August 2025 in Miami, visited 25 states over 35 days",
+      "sourceIds": [
+        "cbs-us-tour"
+      ],
+      "verdict": "confirmed",
+      "note": "CBS: started Aug. 28 in Miami, 25 states over 35 days. CBS prints no year; consistent with the 2025 date in the same timeline."
+    },
+    {
+      "claim": "The livestream marathon ended with the premiere of Speed Goes Pro",
+      "sourceIds": [
+        "thewrap-premiere"
+      ],
+      "verdict": "confirmed",
+      "note": "TheWrap: premiere marked the end of the 35-day livestream marathon."
+    },
+    {
+      "claim": "In San Francisco and Oakland crowds greeted him; people followed him past Fisherman's Wharf, Chinatown, City Hall and the Golden Gate Bridge",
+      "sourceIds": [
+        "cbs-us-tour"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches CBS."
+    },
+    {
+      "claim": "African tour announced December 2025 as 28 days in more than 20 countries; no confirmed starting point or country-by-country schedule",
+      "sourceIds": [
+        "iol-africa-tour"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches IOL (22 Dec 2025)."
+    },
+    {
+      "claim": "AFP's dispatch from Accra described it as a month-long tour of Africa that he was wrapping up",
+      "sourceIds": [
+        "afp-ghana"
+      ],
+      "verdict": "confirmed",
+      "note": "Rewritten; AFP says he is wrapping up the tour."
+    },
+    {
+      "claim": "Caribbean tour began 25 April 2026 with 15 destinations including Jamaica, Trinidad and Tobago, and the US Virgin Islands",
+      "sourceIds": [
+        "thegrio-caribbean"
+      ],
+      "verdict": "confirmed",
+      "note": "theGrio: beginning April 25, 15 locations, named destinations match."
+    },
+    {
+      "claim": "theGrio described the Caribbean tour as a new travel tour following his African journey",
+      "sourceIds": [
+        "thegrio-caribbean"
+      ],
+      "verdict": "confirmed",
+      "note": "Framing matches."
+    },
+    {
+      "claim": "Eight-hour New Year's Eve livestream from Cape Town wearing a Springbok jersey, which local fans liked",
+      "sourceIds": [
+        "iol-new-year"
+      ],
+      "verdict": "confirmed",
+      "note": "IOL: eight-hour stream, Springbok jersey a hit with local fans."
+    },
+    {
+      "claim": "Portable Starlink setup, said to suit live broadcasts from remote safaris",
+      "sourceIds": [
+        "iol-new-year"
+      ],
+      "verdict": "confirmed",
+      "note": "IOL says so; article attributes it correctly."
+    },
+    {
+      "claim": "IOL: thousands of viewers across platforms; the spot he streamed from is not named",
+      "sourceIds": [
+        "iol-new-year"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches IOL."
+    },
+    {
+      "claim": "Speed Goes Pro premiere on Tuesday 30 September 2025 at the LA Memorial Coliseum",
+      "sourceIds": [
+        "thewrap-premiere"
+      ],
+      "verdict": "confirmed",
+      "note": "TheWrap gives Tuesday, September 30, 2025."
+    },
+    {
+      "claim": "TheWrap calls it a six-episode digital series from OBB Media and DICK'S Sporting Goods",
+      "sourceIds": [
+        "thewrap-premiere"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Rolling Stone: five-part sports series with ESPN-style narration by Liev Schreiber",
+      "sourceIds": [
+        "rolling-stone-premiere"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Football and gymnastics episodes were the ones screened at the premiere",
+      "sourceIds": [
+        "thewrap-premiere",
+        "rolling-stone-premiere"
+      ],
+      "verdict": "confirmed",
+      "note": "TheWrap: football and gymnastics. Rolling Stone: first two episodes."
+    },
+    {
+      "claim": "Nastia Liukin and Suni Lee attended the premiere to support him",
+      "sourceIds": [
+        "thewrap-premiere"
+      ],
+      "verdict": "confirmed",
+      "note": "Rewritten to TheWrap's wording."
+    },
+    {
+      "claim": "New episodes every other Wednesday from 15 October 2025",
+      "sourceIds": [
+        "thewrap-premiere"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Athletes include Tom Brady, Kevin Durant, Suni Lee, Joey Chestnut and Randy Orton",
+      "sourceIds": [
+        "si-speed-goes-pro"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches SI."
+    },
+    {
+      "claim": "Brady praised Speed's 'raw athleticism' in a video sent to the premiere",
+      "sourceIds": [
+        "thewrap-premiere"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Trainer Fred Richard said Speed spent four straight hours trying to learn a double backflip, with no breaks",
+      "sourceIds": [
+        "si-speed-goes-pro",
+        "rolling-stone-premiere"
+      ],
+      "verdict": "confirmed",
+      "note": "SI: four straight hours, 'did not take any breaks in between'. Rewritten to that."
+    },
+    {
+      "claim": "DICK'S 'Speed Shopping' footwear campaign launched March 2025 starring IShowSpeed with Tom Brady, Kevin Durant, Suni Lee and Travis Hunter",
+      "sourceIds": [
+        "dicks-press-release"
+      ],
+      "verdict": "confirmed",
+      "note": "Release dated 20 March 2025."
+    },
+    {
+      "claim": "Company called him a 'viral video creator and streamer' known for 'unparalleled athleticism'",
+      "sourceIds": [
+        "dicks-press-release"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "The campaign ran on broadcast, digital, social and streaming services",
+      "sourceIds": [
+        "dicks-press-release"
+      ],
+      "verdict": "confirmed",
+      "note": "Release says the ad runs on those channels. Rewritten."
+    },
+    {
+      "claim": "The release does not mention Speed Goes Pro",
+      "sourceIds": [
+        "dicks-press-release"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "TimesLive dates his obsession with Cristiano Ronaldo to 2022",
+      "sourceIds": [
+        "timeslive-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "He met Ronaldo on 17 June, the day Portugal played Bosnia and Herzegovina",
+      "sourceIds": [
+        "sportskeeda-ronaldo"
+      ],
+      "verdict": "confirmed",
+      "note": "Sportskeeda gives June 17 and the opponent; year not printed in the source."
+    },
+    {
+      "claim": "He later said 'I was not about to meet him. I was lying'",
+      "sourceIds": [
+        "sportskeeda-ronaldo"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "A child in the crowd pointed him to Ronaldo's family seats; Rui Costa invited him down to the players",
+      "sourceIds": [
+        "sportskeeda-ronaldo"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Complex: first performer on the field before the 2026 World Cup final, Spain vs Argentina, New York New Jersey Stadium; opened the closing ceremony with drummers and dancers",
+      "sourceIds": [
+        "complex-world-cup"
+      ],
+      "verdict": "confirmed",
+      "note": "Complex calls it his opening act within the ceremony. Matches."
+    },
+    {
+      "claim": "'World Cup (Champions)' was released the previous month",
+      "sourceIds": [
+        "complex-world-cup"
+      ],
+      "verdict": "confirmed",
+      "note": "Article says released last month."
+    },
+    {
+      "claim": "TimesLive profile gives a net-worth range without naming the estimator; article leaves it out",
+      "sourceIds": [
+        "timeslive-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "TimesLive gives $10M to $15M with no estimator. Article omits it, which is right."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Dated timeline of the sources, flags where the figures and formats disagree, and leaves out the unnamed net-worth estimate. Nothing in the top results gives the Ghana, Ronaldo and Cape Town dates together in one place.",
+  "decision": "approve",
+  "summary": "All claims now match the cited sources. The five earlier unsupported phrasings (AFP 'ending there', mentors, gymnastics hardest, Richard nearly landed it, campaign 'from the day it was announced') were reworded or removed and the reworded versions are supported. Approve."
+}

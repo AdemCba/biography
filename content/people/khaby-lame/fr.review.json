@@ -1,0 +1,226 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Né le 9 mars 2000 au Sénégal",
+      "sourceIds": [
+        "unicef-goodwill-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Ville de naissance en conflit: Ziguinchor (UNICEF) contre Mbacké (GNA)",
+      "sourceIds": [
+        "unicef-goodwill-profile",
+        "gna-youth-olympics-ambassador"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Usine près de Turin jusqu'à la pandémie; retour chez ses parents à Turin",
+      "sourceIds": [
+        "unicef-goodwill-profile",
+        "guinness-tiktok-most-followed-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Il a commencé à publier sur TikTok après avoir perdu son emploi en mars 2020",
+      "sourceIds": [
+        "unicef-goodwill-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "UNICEF: he began TikTok content at this point, after the March 2020 layoff."
+    },
+    {
+      "claim": "Premières vidéos: danse, jeux vidéo, filtres; peu de vues",
+      "sourceIds": [
+        "guinness-tiktok-most-followed-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Novembre 2020: réponse muette à une vidéo de lifehack compliquée",
+      "sourceIds": [
+        "guinness-tiktok-most-followed-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Avril 2021: dépassement de Vacchi; juillet 2021: deuxième, premier compte masculin après Zach King",
+      "sourceIds": [
+        "guinness-tiktok-most-followed-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Trois millions d'abonnés par mois contre un million pour D'Amelio",
+      "sourceIds": [
+        "guinness-tiktok-most-followed-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "23 juin 2022: dépassement de Charli D'Amelio, première place depuis mars 2020",
+      "sourceIds": [
+        "guinness-tiktok-most-followed-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "142,8 millions contre 142,6 millions",
+      "sourceIds": [
+        "guinness-tiktok-most-followed-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "The conflict is real."
+    },
+    {
+      "claim": "Nationalité italienne en août 2022, cérémonie à Chivasso, Euronews du 19 août 2022",
+      "sourceIds": [
+        "euronews-italian-citizenship-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Guinness: partenariat Hugo Boss, collaboration Juventus, rencontre Messi",
+      "sourceIds": [
+        "guinness-tiktok-most-followed-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Hugo Boss: ambassadeur mondial; capsule 'BOSS x Khaby'; t-shirts, sweats, vestes universitaires à détails en cuir; logo; Semaine de la mode de Milan; poupée",
+      "sourceIds": [
+        "hugo-boss-boss-x-khaby"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches after the jacket fix."
+    },
+    {
+      "claim": "TIME100 Creators 2025, Titans, 'Khabane Lame'",
+      "sourceIds": [
+        "time100-creators-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Ambassadeur de bonne volonté de l'UNICEF après une visite au Sénégal; 30 et 31 janvier 2025",
+      "sourceIds": [
+        "un-messengers-peace",
+        "unicef-press-release"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Visite: enfants de la rue, écoles inclusives, ateliers STEM, climat",
+      "sourceIds": [
+        "un-messengers-peace"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Axes de l'UNICEF; citations de Lame et de Catherine Russell",
+      "sourceIds": [
+        "unicef-press-release"
+      ],
+      "verdict": "confirmed",
+      "note": "French renderings match in substance."
+    },
+    {
+      "claim": "Ambassadeur des JOJ Dakar 2026, nommé le 26 mars à Dakar; GNA le 1er avril 2026; rôle; citation",
+      "sourceIds": [
+        "gna-youth-olympics-ambassador"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Janvier 2026: Rich Sparkle Holdings rachète Step Distinctive pour 975 M$; en actions; Hong Kong",
+      "sourceIds": [
+        "forbes-deal-red-flags",
+        "bloomberg-975m-deal"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Bloomberg: société de services financiers cotée au Nasdaq; trois ans; paiement non précisé",
+      "sourceIds": [
+        "bloomberg-975m-deal"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "'actionnaire de contrôle', 'jumeau numérique IA'; 6,6 Md$ le 15 janvier 2026; 41 $, environ 77 %; vente incertaine",
+      "sourceIds": [
+        "forbes-deal-red-flags"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Hamilton: 'très suspect' et 'signal d'alarme'; Chanos; pas de réponse de Lame et de Rich Sparkle",
+      "sourceIds": [
+        "forbes-deal-red-flags"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches without the added object."
+    },
+    {
+      "claim": "6 juin 2025: interpellation par l'ICE à l'aéroport Harry Reid, Las Vegas",
+      "sourceIds": [
+        "npr-ice-detention"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Entrée légale le 30 avril, puis dépassement de la durée du visa",
+      "sourceIds": [
+        "npr-ice-detention"
+      ],
+      "verdict": "confirmed",
+      "note": "Year removed; the overstay is in the ICE statement."
+    },
+    {
+      "claim": "Départ volontaire le 6 juin; a quitté le pays; discrétionnaire; sans ordre d'expulsion",
+      "sourceIds": [
+        "npr-ice-detention"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "NPR: pas de réponse immédiate; TikTok et Instagram sans mention",
+      "sourceIds": [
+        "npr-ice-detention"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Timeline, primary sources, both conflicts explained, and critics set against the buyer's claims.",
+  "decision": "approve",
+  "summary": "All claims match the fetched sources after removing the unsupported details, fixing the jacket translation, and tightening the attributions."
+}

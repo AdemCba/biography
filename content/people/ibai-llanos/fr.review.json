@@ -1,0 +1,326 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Né le 26 mars 1995 à Bilbao, Espagne",
+      "sourceIds": [
+        "wikipedia-ibai",
+        "esports-gg-ibai-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Both pages give 26 March 1995 and Bilbao."
+    },
+    {
+      "claim": "Quartier de Deusto à Bilbao",
+      "sourceIds": [
+        "wikipedia-ibai"
+      ],
+      "verdict": "confirmed",
+      "note": "Wikipedia states Deusto district."
+    },
+    {
+      "claim": "Célébrité de l'internet espagnol / streamer espagnol",
+      "sourceIds": [
+        "wikipedia-ibai"
+      ],
+      "verdict": "confirmed",
+      "note": "Wikipedia describes him as Spanish."
+    },
+    {
+      "claim": "A créé La Velada del Año",
+      "sourceIds": [
+        "wikipedia-ibai"
+      ],
+      "verdict": "confirmed",
+      "note": "Created in 2021 on Twitch."
+    },
+    {
+      "claim": "A fondé KOI avec Gerard Piqué",
+      "sourceIds": [
+        "wikipedia-movistar-koi",
+        "streamscharts-koi"
+      ],
+      "verdict": "confirmed",
+      "note": "Both name Ibai and Piqué as founders."
+    },
+    {
+      "claim": "A lancé la Kings League avec Gerard Piqué",
+      "sourceIds": [
+        "hatchet-kings-league"
+      ],
+      "verdict": "confirmed",
+      "note": "Launch described as joint."
+    },
+    {
+      "claim": "Commentateur d'esport à la LVP",
+      "sourceIds": [
+        "esports-gg-ibai-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Caster and commentator for LVP."
+    },
+    {
+      "claim": "Streaming à temps plein vers 2020",
+      "sourceIds": [
+        "esports-gg-ibai-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Around 2020."
+    },
+    {
+      "claim": "Fierté pour son héritage basque",
+      "sourceIds": [
+        "esports-gg-ibai-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the source."
+    },
+    {
+      "claim": "Esports Awards streamer de l'année 2020 et 2022",
+      "sourceIds": [
+        "esports-gg-ibai-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Awards table: both Won."
+    },
+    {
+      "claim": "13th Streamy Awards 2023, streamer international de l'année",
+      "sourceIds": [
+        "esports-gg-ibai-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Awards table: Won."
+    },
+    {
+      "claim": "Première édition 26 mai 2021, Sala Apolo Barcelone, à huis clos",
+      "sourceIds": [
+        "wikipedia-la-velada"
+      ],
+      "verdict": "confirmed",
+      "note": "Edition table."
+    },
+    {
+      "claim": "Tubefilter décrit la quatrième édition comme un événement de boxe d'influenceurs",
+      "sourceIds": [
+        "tubefilter-velada-iv"
+      ],
+      "verdict": "confirmed",
+      "note": "Source describes the fourth edition that way."
+    },
+    {
+      "claim": "Spectacle 2021 dans une salle de Barcelone; 2024 au Santiago Bernabéu",
+      "sourceIds": [
+        "wikipedia-la-velada"
+      ],
+      "verdict": "confirmed",
+      "note": "Edition table venues."
+    },
+    {
+      "claim": "Deuxième édition 25 juin 2022, Pavelló Olímpic Badalona, plus de 3,3 millions",
+      "sourceIds": [
+        "wikipedia-la-velada"
+      ],
+      "verdict": "confirmed",
+      "note": "Table gives more than 3.3 million."
+    },
+    {
+      "claim": "Troisième édition 1er juillet 2023, Metropolitano, 3 499 999",
+      "sourceIds": [
+        "wikipedia-la-velada",
+        "hatchet-velada-iii"
+      ],
+      "verdict": "confirmed",
+      "note": "Hatchet gives 3,499,999."
+    },
+    {
+      "claim": "Plus forte audience jamais réunie par une seule chaîne sur Twitch",
+      "sourceIds": [
+        "hatchet-velada-iii"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted in the source."
+    },
+    {
+      "claim": "Quatrième édition 13 juillet 2024, Bernabéu, 3,85 millions sur le compte d'Ibai",
+      "sourceIds": [
+        "tubefilter-velada-iv",
+        "wikipedia-la-velada"
+      ],
+      "verdict": "confirmed",
+      "note": "Tubefilter gives 3.85 million."
+    },
+    {
+      "claim": "Twitch 6,74 millions de spectateurs simultanés, total le plus élevé",
+      "sourceIds": [
+        "tubefilter-velada-iv"
+      ],
+      "verdict": "confirmed",
+      "note": "Highest total on record."
+    },
+    {
+      "claim": "Cinquième édition 26 juillet 2025, 9 334 179 sur la chaîne d'Ibai",
+      "sourceIds": [
+        "invenglobal-velada-v",
+        "wikipedia-la-velada"
+      ],
+      "verdict": "confirmed",
+      "note": "Invenglobal gives the exact figure."
+    },
+    {
+      "claim": "Plus haut jamais enregistré pour une chaîne de diffusion en direct, toutes plateformes",
+      "sourceIds": [
+        "invenglobal-velada-v"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted in the source."
+    },
+    {
+      "claim": "Diffusion en direct la plus regardée de l'histoire de Twitch pour une chaîne individuelle",
+      "sourceIds": [
+        "wikipedia-la-velada"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted in the source."
+    },
+    {
+      "claim": "19,7 millions d'abonnés, streamer le plus suivi de Twitch à ce moment-là",
+      "sourceIds": [
+        "invenglobal-velada-v",
+        "wikipedia-ibai"
+      ],
+      "verdict": "confirmed",
+      "note": "Past-tense wording matches Wikipedia's account that the status was brief."
+    },
+    {
+      "claim": "Sixième édition 25 juillet 2026, stade La Cartuja, Séville",
+      "sourceIds": [
+        "wikipedia-la-velada",
+        "streamscharts-velada-vi"
+      ],
+      "verdict": "confirmed",
+      "note": "Wikipedia table and Streams Charts."
+    },
+    {
+      "claim": "Nouveau pic de la série à 8,7 millions toutes plateformes",
+      "sourceIds": [
+        "streamscharts-velada-vi"
+      ],
+      "verdict": "confirmed",
+      "note": "Source gives 8.72 million."
+    },
+    {
+      "claim": "Record Twitch non battu pour la première fois depuis la troisième édition; multistreaming",
+      "sourceIds": [
+        "streamscharts-velada-vi"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted in the source."
+    },
+    {
+      "claim": "Pic Twitch 2,08 millions; record personnel YouTube 5,08 millions",
+      "sourceIds": [
+        "streamscharts-velada-vi"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the source."
+    },
+    {
+      "claim": "Piqué a fondé la Kings League en 2022; date de fondation 10 novembre 2022",
+      "sourceIds": [
+        "wikipedia-kings-league"
+      ],
+      "verdict": "confirmed",
+      "note": "Infobox date."
+    },
+    {
+      "claim": "Compétition de football à sept pour un public plus jeune",
+      "sourceIds": [
+        "hatchet-kings-league"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the source."
+    },
+    {
+      "claim": "L'idée est venue à Piqué pendant un repas avec Ibai",
+      "sourceIds": [
+        "rpp-kings-league-origin"
+      ],
+      "verdict": "confirmed",
+      "note": "Headline and quote confirm."
+    },
+    {
+      "claim": "Préside le Porcinos FC; premier président à confirmer une équipe féminine, les Porcinas",
+      "sourceIds": [
+        "wikipedia-kings-league"
+      ],
+      "verdict": "confirmed",
+      "note": "Wikipedia states both."
+    },
+    {
+      "claim": "Première journée 2,1 millions d'heures, pic 413 000; deuxième 2,4 millions, pic 601 000",
+      "sourceIds": [
+        "hatchet-kings-league"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the source."
+    },
+    {
+      "claim": "Annonce du club d'esport en septembre 2021",
+      "sourceIds": [
+        "wikipedia-movistar-koi"
+      ],
+      "verdict": "confirmed",
+      "note": "1 September 2021."
+    },
+    {
+      "claim": "Acquisition d'Astralis Stormbringers en septembre 2021",
+      "sourceIds": [
+        "streamscharts-koi"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the source."
+    },
+    {
+      "claim": "KOI présentée le 15 décembre 2021 à la Palau Sant Jordi",
+      "sourceIds": [
+        "streamscharts-koi",
+        "wikipedia-movistar-koi"
+      ],
+      "verdict": "confirmed",
+      "note": "Both give the date."
+    },
+    {
+      "claim": "Nom Movistar KOI",
+      "sourceIds": [
+        "wikipedia-movistar-koi"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the source."
+    },
+    {
+      "claim": "Entretien EFE publié le 10 juillet 2024; dans environ cinq ans arrêter le direct; près de dix ans de diffusions quasi quotidiennes",
+      "sourceIds": [
+        "panamaamerica-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "Timestamp and quotes match. No date given."
+    },
+    {
+      "claim": "31 ans au 26 octobre 2026",
+      "sourceIds": [
+        "wikipedia-ibai"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic correct."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Checkable edition-by-edition timeline, separates the record measures, and flags the retirement statement as a 2024 intent, not a dated announcement.",
+  "decision": "approve",
+  "summary": "All dates, venues, figures and awards check out. The Tubefilter sentence is now restricted to the fourth edition, and the two uncited filler sentences are removed. No uncited factual claims remain."
+}

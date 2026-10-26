@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 8 October 1997 in Pembroke Pines, Florida; 29 in October 2026",
+      "sourceIds": [
+        "earlygame-bella-thorne-29"
+      ],
+      "verdict": "confirmed",
+      "note": "Earlygame."
+    },
+    {
+      "claim": "CeCe Jones in Shake It Up, 2010 to 2013; premiered 7 Nov 2010, ended 10 Nov 2013",
+      "sourceIds": [
+        "d23-shake-it-up",
+        "earlygame-bella-thorne-29"
+      ],
+      "verdict": "confirmed",
+      "note": "D23 gives both dates and the role."
+    },
+    {
+      "claim": "Starred alongside Zendaya; Frenemies and K.C. Undercover (2015 to 2018) among Disney work",
+      "sourceIds": [
+        "scmp-bella-thorne-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "SCMP lists both titles and gives K.C. Undercover dates. No year is now given for Frenemies."
+    },
+    {
+      "claim": "Voice role in Alvin and the Chipmunks: The Road Chip, 2015; The Babysitter (2017)",
+      "sourceIds": [
+        "scmp-bella-thorne-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "SCMP."
+    },
+    {
+      "claim": "Lead in Midnight Sun, 2018, opposite Patrick Schwarzenegger",
+      "sourceIds": [
+        "earlygame-bella-thorne-29"
+      ],
+      "verdict": "confirmed",
+      "note": "Earlygame."
+    },
+    {
+      "claim": "Lavinia in Find Your Friends; Fantasia 2025; Shudder June 2026",
+      "sourceIds": [
+        "hola-latina-powerhouse-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "HOLA."
+    },
+    {
+      "claim": "Paint Her Red short, Taormina 2023",
+      "sourceIds": [
+        "earlygame-bella-thorne-29"
+      ],
+      "verdict": "confirmed",
+      "note": "Earlygame."
+    },
+    {
+      "claim": "Single Call It Whatever and EP Jersey, 2014; Filthy Fangs launched at Coachella weekend 2018",
+      "sourceIds": [
+        "earlygame-bella-thorne-29",
+        "meaww-epic-sony-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources."
+    },
+    {
+      "claim": "Irv Gotti announced Epic deal on social media, August 2018; Epic owned by Sony Music; million dollar deal; no album or single named",
+      "sourceIds": [
+        "meaww-epic-sony-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "MEAWW."
+    },
+    {
+      "claim": "The Life of a Wannabe Mogul: Mental Disarray, 2019; Autumn Falls, Autumn's Kiss, Autumn's Wish",
+      "sourceIds": [
+        "earlygame-bella-thorne-29",
+        "penguin-random-house-author"
+      ],
+      "verdict": "confirmed",
+      "note": "Earlygame and PRH page."
+    },
+    {
+      "claim": "OnlyFans joined August 2020 by Instagram video; over $1 million in 24 hours per the company; about $2 million later",
+      "sourceIds": [
+        "variety-onlyfans-2020"
+      ],
+      "verdict": "confirmed",
+      "note": "Variety."
+    },
+    {
+      "claim": "OnlyFans August 2021 announcement of October ban; banking partners and payment providers; Thorne among celebrities with accounts",
+      "sourceIds": [
+        "malaymail-onlyfans-2021"
+      ],
+      "verdict": "confirmed",
+      "note": "Malay Mail."
+    },
+    {
+      "claim": "January 2024 set to make feature directorial debut with Color Your Hurt from original screenplay; filming Midwest and Italy",
+      "sourceIds": [
+        "hola-color-your-hurt-2024",
+        "geektyrant-color-your-hurt"
+      ],
+      "verdict": "confirmed",
+      "note": "HOLA gives the January 2024 date, premise and locations. Geektyrant calls it a feature debut."
+    },
+    {
+      "claim": "Color Your Hurt wrapped in 2025; she also wrote and produced it",
+      "sourceIds": [
+        "hola-latina-powerhouse-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "HOLA 2026."
+    },
+    {
+      "claim": "Call Her Daddy 5 August 2026: 'And now I'm writing and directing Spring Breakers 2'; producers saw early cut of Color Your Hurt",
+      "sourceIds": [
+        "thewrap-spring-breakers-2"
+      ],
+      "verdict": "confirmed",
+      "note": "TheWrap."
+    },
+    {
+      "claim": "Thor Bradwell listed as executive producer; Chris and Roberta Hanley return for Muse Productions; 'We're working with the original team'",
+      "sourceIds": [
+        "thewrap-spring-breakers-2"
+      ],
+      "verdict": "confirmed",
+      "note": "TheWrap."
+    },
+    {
+      "claim": "Original cast not confirmed; no release date, distributor or budget",
+      "sourceIds": [
+        "thewrap-spring-breakers-2"
+      ],
+      "verdict": "confirmed",
+      "note": "TheWrap."
+    },
+    {
+      "claim": "HOLA Latina Powerhouse 100 of 2026, Entertainment, October 2026, quoted phrase; shift in authorship",
+      "sourceIds": [
+        "hola-latina-powerhouse-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "HOLA dated 21 October 2026."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Dated timeline with company and press primary sources, a careful OnlyFans policy context and the Spring Breakers 2 detail that top results lack. The sexual subject is handled as a platform policy with no explicit detail.",
+  "decision": "approve",
+  "summary": "Approved. Every claim now matches its cited source. The earlier unsupported year, feature tag, executive producer credit and reinvention contrast are fixed."
+}

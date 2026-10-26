@@ -1,0 +1,163 @@
+{
+  "id": "mrbeast",
+  "name": "MrBeast",
+  "categories": [
+    "creators"
+  ],
+  "importance": 5,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1998-05-07",
+      "sources": [
+        "britannica-mrbeast"
+      ],
+      "note": "Both sources agree. Wikipedia infobox and lead: born May 7, 1998."
+    },
+    "birthPlace": {
+      "value": "Wichita, Kansas, United States",
+      "sources": [
+        "britannica-mrbeast"
+      ],
+      "note": "Wikipedia: born in Wichita, Kansas, primarily raised in Greenville, North Carolina."
+    },
+    "nationality": {
+      "value": [
+        "US"
+      ],
+      "sources": [
+        "britannica-mrbeast"
+      ],
+      "note": "Britannica describes him as American. Wikipedia lead says 'American YouTuber'."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "youtube-blog-500m",
+      "url": "https://blog.youtube/creator-and-artist-stories/mrbeast-500-million-youtube-subscribers/",
+      "title": "MrBeast 500 million YouTube subscribers",
+      "publisher": "YouTube Blog",
+      "type": "company",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "britannica-mrbeast",
+      "url": "https://www.britannica.com/biography/MrBeast",
+      "title": "MrBeast",
+      "publisher": "Encyclopaedia Britannica",
+      "type": "database",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "adweek-500m",
+      "url": "https://www.adweek.com/media/mrbeast-500-million-youtube-subscribers-beast-industries-creator-playbook/",
+      "title": "MrBeast Surpasses 500 Million YouTube Subscribers, Cementing the Creator Playbook",
+      "publisher": "Adweek",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "fortune-net-worth-2026",
+      "url": "https://www.fortune.com/2026/01/13/mrbeast-jimmy-donaldson-billionaire-net-worth-in-the-red-has-to-borrow-cash-money",
+      "title": "MrBeast billionaire net worth in the red, has to borrow cash",
+      "publisher": "Fortune",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "dlnews-bitmine",
+      "url": "https://www.dlnews.com/articles/markets/bitmine-200m-investment-mrbeast-company-aims-gen-z-millennials",
+      "title": "Bitmine drops $200m into MrBeast as it takes aim at half-billion millennial and Gen Z audience",
+      "publisher": "DL News",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "dexerto-wedding",
+      "url": "https://www.dexerto.com/youtube/mrbeast-reveals-first-wedding-photo-after-refusing-to-turn-ceremony-into-content-3389780/",
+      "title": "MrBeast reveals first wedding photo after refusing to turn ceremony into content",
+      "publisher": "Dexerto",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "malaymail-wedding",
+      "url": "https://www.malaymail.com/amp/news/showbiz/2026/07/22/mrbeast-is-married-worlds-biggest-youtuber-weds-longtime-love-thea-booysen-in-private-island-ceremony-with-just-70-guests/228567",
+      "title": "MrBeast is married: world's biggest YouTuber weds longtime love Thea Booysen in private island ceremony with just 70 guests",
+      "publisher": "Malay Mail",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "amazon-beast-games-renewal",
+      "url": "https://aboutamazon.com/news/entertainment/mrbeast-prime-video-beast-games-season-2-and-3",
+      "title": "Prime Video renews Beast Games for Seasons 2 and 3 (Amazon announcement page)",
+      "publisher": "Amazon (About Amazon)",
+      "type": "company",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "feastables-about",
+      "url": "https://www.feastables.com/pages/about-us",
+      "title": "About Us",
+      "publisher": "Feastables",
+      "type": "company",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "biography-mrbeast",
+      "url": "https://www.biography.com/celebrities/a63150212/mrbeast",
+      "title": "MrBeast: Biography, YouTube Star, Entrepreneur, Jimmy Donaldson",
+      "publisher": "Biography.com (A&E Networks)",
+      "type": "database",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "newsweek-timeline",
+      "url": "https://www.newsweek.com/entertainment/celebrity-news/mrbeast-rise-youtube-fame-timeline-jimmy-donaldson-1977678",
+      "title": "Inside MrBeast's Rise to Fame as YouTube's Highest Paid Creator",
+      "publisher": "Newsweek",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "prnewswire-bitmine",
+      "url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-200-million-investment-in-beast-industries-302662082.html",
+      "title": "Bitmine Immersion Technologies (BMNR) Announces $200 Million Investment in Beast Industries",
+      "publisher": "PR Newswire",
+      "type": "company",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "fortune-beast-industries",
+      "url": "https://fortune.com/2025/09/26/mrbeast-jimmy-donaldson-beast-industries-philanthropy-profit/",
+      "title": "MrBeast’s $5 billion empire runs on generosity—but at a cost",
+      "publisher": "Fortune",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "business-insider-feastables",
+      "url": "https://apple.news/PQ7e74IPGNcSSVRVuLpR6f_",
+      "title": "How MrBeast's Feastables sold $10 M of chocolate bars since January",
+      "publisher": "Business Insider",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    }
+  ]
+}

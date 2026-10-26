@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Nasceu em 8 de outubro de 1997, em Pembroke Pines, Flórida; 29 anos em outubro de 2026",
+      "sourceIds": [
+        "earlygame-bella-thorne-29"
+      ],
+      "verdict": "confirmed",
+      "note": "Earlygame."
+    },
+    {
+      "claim": "CeCe Jones em Shake It Up, 2010 a 2013; estreia 7 de novembro de 2010, fim 10 de novembro de 2013",
+      "sourceIds": [
+        "d23-shake-it-up",
+        "earlygame-bella-thorne-29"
+      ],
+      "verdict": "confirmed",
+      "note": "D23 and Earlygame."
+    },
+    {
+      "claim": "Dividiu a série com Zendaya; Frenemies e K.C. Undercover (2015 a 2018)",
+      "sourceIds": [
+        "scmp-bella-thorne-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "SCMP."
+    },
+    {
+      "claim": "Voz em Alvin and the Chipmunks, 2015; The Babysitter (2017)",
+      "sourceIds": [
+        "scmp-bella-thorne-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "SCMP."
+    },
+    {
+      "claim": "Papel principal em Midnight Sun, 2018, ao lado de Patrick Schwarzenegger",
+      "sourceIds": [
+        "earlygame-bella-thorne-29"
+      ],
+      "verdict": "confirmed",
+      "note": "Earlygame."
+    },
+    {
+      "claim": "Lavinia em Find Your Friends; Fantasia 2025; Shudder junho de 2026",
+      "sourceIds": [
+        "hola-latina-powerhouse-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "HOLA."
+    },
+    {
+      "claim": "Curta Paint Her Red, Taormina 2023; single Call It Whatever e EP Jersey, 2014; Filthy Fangs, Coachella 2018",
+      "sourceIds": [
+        "earlygame-bella-thorne-29",
+        "meaww-epic-sony-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources."
+    },
+    {
+      "claim": "Irv Gotti anunciou o acordo com a Epic, agosto de 2018; Sony Music; milhão de dólares; nenhum álbum ou single",
+      "sourceIds": [
+        "meaww-epic-sony-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "MEAWW."
+    },
+    {
+      "claim": "The Life of a Wannabe Mogul, 2019; Autumn Falls, Autumn's Kiss, Autumn's Wish",
+      "sourceIds": [
+        "earlygame-bella-thorne-29",
+        "penguin-random-house-author"
+      ],
+      "verdict": "confirmed",
+      "note": "Earlygame and PRH."
+    },
+    {
+      "claim": "OnlyFans, agosto de 2020, vídeo do Instagram; mais de um milhão de dólares em 24 horas segundo a empresa; cerca de 2 milhões depois",
+      "sourceIds": [
+        "variety-onlyfans-2020"
+      ],
+      "verdict": "confirmed",
+      "note": "Variety."
+    },
+    {
+      "claim": "OnlyFans, agosto de 2021, proibição a partir de outubro; parceiros bancários e processadores de pagamento; Thorne entre as celebridades",
+      "sourceIds": [
+        "malaymail-onlyfans-2021"
+      ],
+      "verdict": "confirmed",
+      "note": "Malay Mail."
+    },
+    {
+      "claim": "Janeiro de 2024: estreia na direção de longas com Color Your Hurt; filmagens previstas para o Meio-Oeste e a Itália",
+      "sourceIds": [
+        "hola-color-your-hurt-2024",
+        "geektyrant-color-your-hurt"
+      ],
+      "verdict": "confirmed",
+      "note": "HOLA and Geektyrant."
+    },
+    {
+      "claim": "Filmagens concluídas em 2025; escrito e produzido por ela",
+      "sourceIds": [
+        "hola-latina-powerhouse-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "HOLA 2026."
+    },
+    {
+      "claim": "Call Her Daddy, 5 de agosto de 2026: 'E agora estou escrevendo e dirigindo Spring Breakers 2'; produtores viram versão preliminar",
+      "sourceIds": [
+        "thewrap-spring-breakers-2"
+      ],
+      "verdict": "confirmed",
+      "note": "TheWrap."
+    },
+    {
+      "claim": "Elenco original não confirmado; sem data, distribuidora ou orçamento",
+      "sourceIds": [
+        "thewrap-spring-breakers-2"
+      ],
+      "verdict": "confirmed",
+      "note": "TheWrap."
+    },
+    {
+      "claim": "HOLA Latina Powerhouse 100 2026, Entretenimento, outubro de 2026, citação; mudança rumo à autoria",
+      "sourceIds": [
+        "hola-latina-powerhouse-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "HOLA."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Dated timeline and primary or company sources, localised for Brazilian readers.",
+  "decision": "approve",
+  "summary": "Approved. All claims match their cited sources after the fixes."
+}

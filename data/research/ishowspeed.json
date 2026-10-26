@@ -1,0 +1,137 @@
+{
+  "worthWriting": true,
+  "reason": "Globally known streamer with many sourced milestones: Africa tour, Ghanaian citizenship, World Cup final closing ceremony, Speed Goes Pro series. Enough primary and major-outlet sources.",
+  "wikidata": "",
+  "importance": 5,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/IShowSpeed",
+      "title": "IShowSpeed",
+      "publisher": "Wikipedia",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "rolling-stone-premiere",
+      "url": "https://au.rollingstone.com/culture/culture-news/ishowspeed-goes-pro-youtube-premiere-84673",
+      "title": "IShowSpeed Rocketed Into His Next Era of Celebrity at L.A. Premiere of Speed Goes Pro",
+      "publisher": "Rolling Stone",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "thewrap-premiere",
+      "url": "https://www.thewrap.com/speed-goes-pro-tom-brady-ishowspeed-youtube-premiere/",
+      "title": "Tom Brady Praises IShowSpeed's Raw Athleticism, Jokes the Streamer Could Go Pro in Trash-Talking",
+      "publisher": "TheWrap",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "si-speed-goes-pro",
+      "url": "https://www.si.com/more-sports/ishowspeed-competes-tom-brady-suni-lee-new-series-speed-goes-pro",
+      "title": "IShowSpeed Competes With Tom Brady, Suni Lee In New Series Speed Goes Pro",
+      "publisher": "Sports Illustrated",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "complex-world-cup",
+      "url": "https://www.complex.com/sports/a/markelibert/ishowspeed-world-cup-final-performance",
+      "title": "IShowSpeed World Cup final performance",
+      "publisher": "Complex",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "iol-new-year",
+      "url": "https://iol.co.za/entertainment/celebrity-news/2026-01-01-ishowspeed-rings-in-2026-with-an-electrifying-new-years-eve-stream-in-cape-town/",
+      "title": "IShowSpeed rings in 2026 with an electrifying New Year's Eve stream in Cape Town",
+      "publisher": "IOL",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "iol-africa-tour",
+      "url": "https://iol.co.za/entertainment/music/2025-12-22-ishowspeed-announces-epic-african-tour-20-countries-in-just-28-days/",
+      "title": "IShowSpeed announces epic African tour: 20 countries in just 28 days",
+      "publisher": "IOL",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "ewn-ghana",
+      "url": "https://www.ewn.co.za/2026/01/28/us-youtuber-ishowspeed-gains-ghanaian-nationality-at-end-of-africa-tour",
+      "title": "US YouTuber IShowSpeed gains Ghanaian nationality at end of Africa tour",
+      "publisher": "EWN",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "afp-ghana",
+      "url": "https://www.nampa.org/text/22844240",
+      "title": "US YouTuber IShowSpeed gains Ghanaian nationality at end of Africa tour",
+      "publisher": "AFP via NAMPA",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "dicks-press-release",
+      "url": "https://www.nasdaq.com/press-release/dicks-sporting-goods-taps-ishowspeed-tom-brady-kevin-durant-suni-lee-and-travis",
+      "title": "DICK'S Sporting Goods taps IShowSpeed, Tom Brady, Kevin Durant, Suni Lee and Travis Hunter for Latest Footwear Campaign",
+      "publisher": "DICK'S Sporting Goods (via Nasdaq)",
+      "type": "company",
+      "lang": "en"
+    },
+    {
+      "id": "sportskeeda-ronaldo",
+      "url": "https://www.sportskeeda.com/esports/news-i-meet-him-i-lying-ishowspeed-explains-much-awaited-meet-up-ronaldo-came",
+      "title": "I was not about to meet him. I was lying - IShowSpeed explains how the much-awaited meet-up with Ronaldo came to be",
+      "publisher": "Sportskeeda",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "2005-01-21",
+      "sources": [
+        "wikipedia"
+      ],
+      "note": "Only Wikipedia states this among the sources opened. A regional lifestyle site repeats it but is not reliable and is not cited."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Cincinnati, Ohio, United States",
+      "sources": [
+        "wikipedia"
+      ],
+      "note": "Stated by Wikipedia only. Wikipedia says he is from Cincinnati; the body does not separately name a hospital or birth location."
+    },
+    "nationality": {
+      "value": "US,GH",
+      "sources": [
+        "wikipedia",
+        "afp-ghana",
+        "ewn-ghana"
+      ],
+      "note": "Wikipedia lists United States and Ghana citizenship. AFP and EWN report Ghana's foreign minister announcing a Ghanaian passport on 2026-01-28 (article date; announcement on Monday)."
+    }
+  },
+  "targetQueries": [
+    "IShowSpeed real name",
+    "How old is IShowSpeed",
+    "IShowSpeed birthday",
+    "Is IShowSpeed Ghanaian",
+    "IShowSpeed Ghana citizenship",
+    "IShowSpeed Speed Goes Pro",
+    "Speed Goes Pro premiere",
+    "IShowSpeed World Cup final",
+    "IShowSpeed Africa tour",
+    "IShowSpeed Cristiano Ronaldo meeting",
+    "IShowSpeed New Year's Eve Cape Town"
+  ],
+  "gapNote": "Most pages on him are short listicles that repeat the real-name and age question without sourcing. The gap is a sourced, dated timeline of his tours, citizenship, the Speed Goes Pro series and the 2026 World Cup closing ceremony, with the conflicting figures (subscriber counts, episode count) stated openly. Search-suggestion queries were not visible to me; the query list reflects the brief's topics and common questions, not measured search volume."
+}

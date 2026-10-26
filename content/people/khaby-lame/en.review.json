@@ -1,0 +1,251 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 9 March 2000 in Senegal",
+      "sourceIds": [
+        "unicef-goodwill-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: 'Lame was born in Senegal on 9 March 2000'."
+    },
+    {
+      "claim": "Birthplace conflict: UNICEF names Ziguinchor, GNA says Mbacké",
+      "sourceIds": [
+        "unicef-goodwill-profile",
+        "gna-youth-olympics-ambassador"
+      ],
+      "verdict": "confirmed",
+      "note": "Ziguinchor is in a UNICEF photo caption; GNA says Mbacké."
+    },
+    {
+      "claim": "Worked at a factory near Turin until the pandemic cost him the job; moved back to parents' home in Turin",
+      "sourceIds": [
+        "unicef-goodwill-profile",
+        "guinness-tiktok-most-followed-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Laid off March 2020; Guinness: moved back to parents' home in Turin."
+    },
+    {
+      "claim": "Started posting on TikTok after losing the job in March 2020",
+      "sourceIds": [
+        "unicef-goodwill-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "UNICEF: 'It was at this point that he began creating content on TikTok', after the March 2020 layoff."
+    },
+    {
+      "claim": "First videos showed dancing, video games and filters and drew few views",
+      "sourceIds": [
+        "guinness-tiktok-most-followed-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Nov 2020 silent reply to a complicated life-hack video",
+      "sourceIds": [
+        "guinness-tiktok-most-followed-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "April 2021 passed Gianluca Vacchi as most-followed Italian; July 2021 second overall and top male after Zach King",
+      "sourceIds": [
+        "guinness-tiktok-most-followed-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Growth of three million a month against one million for D'Amelio",
+      "sourceIds": [
+        "guinness-tiktok-most-followed-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "23 June 2022 overtook Charli D'Amelio, top spot since March 2020",
+      "sourceIds": [
+        "guinness-tiktok-most-followed-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated 23 June 2022."
+    },
+    {
+      "claim": "Follower count 142.8m in body vs 142.6m in description; left unsettled",
+      "sourceIds": [
+        "guinness-tiktok-most-followed-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Conflict is real and correctly flagged."
+    },
+    {
+      "claim": "August 2022 Italian citizenship at a ceremony in Chivasso, reported by Euronews 19 August 2022",
+      "sourceIds": [
+        "euronews-italian-citizenship-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Published 19/08/2022; ceremony Wednesday in Chivasso."
+    },
+    {
+      "claim": "Nationality: Italian citizen",
+      "sourceIds": [
+        "npr-ice-detention",
+        "euronews-italian-citizenship-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Guinness lists Hugo Boss partnership, Juventus collaboration, meeting with Messi",
+      "sourceIds": [
+        "guinness-tiktok-most-followed-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Hugo Boss: global brand ambassador; BOSS x Khaby capsule with a next-gen creator; items; likeness logo; Milan Men's Fashion Week; co-created doll",
+      "sourceIds": [
+        "hugo-boss-boss-x-khaby"
+      ],
+      "verdict": "confirmed",
+      "note": "All matched on the page."
+    },
+    {
+      "claim": "TIME100 Creators 2025, Titans, 'Khabane Lame'",
+      "sourceIds": [
+        "time100-creators-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "UNICEF Goodwill Ambassador after a visit to Senegal; appointment dated 30 or 31 January 2025",
+      "sourceIds": [
+        "un-messengers-peace",
+        "unicef-press-release"
+      ],
+      "verdict": "confirmed",
+      "note": "UN page 30 January; UNICEF dateline 31 January."
+    },
+    {
+      "claim": "Visit: street children, inclusive schools, STEM workshops for out-of-school girls, youth-led climate action",
+      "sourceIds": [
+        "un-messengers-peace"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "UNICEF focus areas",
+      "sourceIds": [
+        "unicef-press-release"
+      ],
+      "verdict": "confirmed",
+      "note": "Close paraphrase of 'education and training'."
+    },
+    {
+      "claim": "Quotes: 'It's a true honour...' and Catherine Russell's 'passionate and powerful advocate...'",
+      "sourceIds": [
+        "unicef-press-release"
+      ],
+      "verdict": "confirmed",
+      "note": "Verbatim."
+    },
+    {
+      "claim": "Dakar 2026 ambassador, appointed 26 March in Dakar; GNA report 1 April 2026; role; quote",
+      "sourceIds": [
+        "gna-youth-olympics-ambassador"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Jan 2026 Rich Sparkle Holdings to buy Step Distinctive Limited for $975 million, all stock, Hong Kong-based",
+      "sourceIds": [
+        "forbes-deal-red-flags",
+        "bloomberg-975m-deal"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Bloomberg: Nasdaq-listed financial services firm; three-year exclusive worldwide rights; payment not stated",
+      "sourceIds": [
+        "bloomberg-975m-deal"
+      ],
+      "verdict": "confirmed",
+      "note": "36-month term; no payment structure."
+    },
+    {
+      "claim": "Rich Sparkle: 'controlling shareholder' and 'AI Digital Twin'",
+      "sourceIds": [
+        "forbes-deal-red-flags"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Stake about $6.6bn at peak on 15 January 2026; fell to $41, about 77% below peak; sale of shares unclear",
+      "sourceIds": [
+        "forbes-deal-red-flags"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Hamilton 'it's very suspect' and 'a red flag'; Chanos quote; no response from Lame or Rich Sparkle",
+      "sourceIds": [
+        "forbes-deal-red-flags"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "6 June 2025 ICE detention at Harry Reid International Airport",
+      "sourceIds": [
+        "npr-ice-detention"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches ICE statement via NPR."
+    },
+    {
+      "claim": "Entered legally on 30 April; stayed longer than visa allowed",
+      "sourceIds": [
+        "npr-ice-detention"
+      ],
+      "verdict": "confirmed",
+      "note": "Year removed; NPR gives 'April 30' and the overstay."
+    },
+    {
+      "claim": "Voluntary departure 6 June, since departed, discretionary, no removal order",
+      "sourceIds": [
+        "npr-ice-detention"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "NPR: no comment returned; TikTok and Instagram had not mentioned the detention",
+      "sourceIds": [
+        "npr-ice-detention"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline, primary sources for UNICEF and Dakar roles, both conflicts (birthplace and follower count) explained, and critics set against the buyer's claims.",
+  "decision": "approve",
+  "summary": "All claims now match the fetched sources. Unsupported details removed or reworded, and attributions tightened."
+}
