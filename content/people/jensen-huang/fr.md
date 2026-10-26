@@ -1,110 +1,86 @@
 ---
 title: Jensen Huang
 slug: jensen-huang
-metaTitle: 'Jensen Huang : âge, études et création de NVIDIA'
+metaTitle: 'Jensen Huang : âge (63 ans), études et création de NVIDIA'
 metaDescription: >-
-  Qui est Jensen Huang : son âge, ses origines taïwanaises, ses études en Oregon
-  et à Stanford, ses années chez AMD et LSI Logic, et le virage de NVIDIA vers
-  l'IA.
+  Jensen Huang a 63 ans. Son enfance à Tainan et au Kentucky, ses études à
+  Oregon State et Stanford, la fondation de NVIDIA en 1993 et ses distinctions
+  2025-2026.
 knownFor: 'Cofondateur, président et directeur général de NVIDIA'
 summary: >-
-  Jensen Huang est l'ingénieur né à Taïwan qui a cofondé NVIDIA en 1993 et la
-  dirige depuis comme président et directeur général. L'entreprise a lancé en
-  1999 la GeForce 256, présentée comme le premier GPU, puis s'est tournée à
-  partir de 2012 vers le calcul pour l'intelligence artificielle.
+  Jensen Huang, né à Tainan (Taïwan) le 17 février 1963, a 63 ans. Ingénieur
+  formé à Oregon State et à Stanford, il a cofondé NVIDIA en avril 1993 et la
+  dirige depuis comme président et directeur général. L'entreprise a lancé la
+  GeForce 256 en 1999 et s'est tournée vers le calcul pour l'IA après 2012.
 status: review
 risk: medium
+updatedAt: '2026-10-26'
 author: editor-in-chief
 aiAssisted: true
 targetQueries:
   - jensen huang âge
+  - quel âge a jensen huang
   - qui a fondé nvidia
   - jensen huang études
   - où est né jensen huang
 faq:
+  - q: Quel âge a Jensen Huang ?
+    a: 'Jensen Huang a 63 ans en octobre 2026 : il est né le 17 février 1963.'
   - q: Qui a fondé NVIDIA ?
     a: >-
       Jensen Huang, Chris Malachowsky et Curtis Priem ont fondé NVIDIA en avril
       1993. Huang en a été désigné directeur général dès le départ.
   - q: Quelles études Jensen Huang a-t-il faites ?
     a: >-
-      Une licence en génie électrique à l'Université d'État de l'Oregon, obtenue
-      en 1984, puis un master en génie électrique à Stanford.
+      Une licence en génie électrique à Oregon State University, obtenue en
+      1984, puis un master en génie électrique à Stanford, passé alors qu'il
+      travaillait déjà.
   - q: Où est né Jensen Huang ?
     a: >-
-      À Tainan, à Taïwan, le 17 février 1963. Sa famille a ensuite déménagé en
-      Thaïlande, et il est arrivé aux États-Unis à neuf ans.
-reviewNotes: >-
-  UNSUPPORTED: "Twenty years later he co-founded NVIDIA" (No citation, and the
-  arithmetic is loose. Age nine is about 1972, and NVIDIA was founded in April
-  1993, so about 21 years. Write 'une vingtaine d'années plus tard' or '21 ans
-  plus tard'.) | UNSUPPORTED: "At the same time he earned a master's in
-  electrical engineering at Stanford" (NVIDIA confirms only that he holds an
-  MSEE from Stanford. It says nothing about when. The 'while working' timing
-  ('dans le même temps') comes from Britannica. Add [s:britannica] or drop the
-  timing.) | OUTDATED: "Time named him in 2021 among the 100 most influential
-  people" (True, but the source snapshot is from 2025, and as of 2026-10-26 the
-  awards list is out of date. He was also on the TIME100 in 2024. TIME's 2025
-  Person of the Year, 'The Architects of AI', featured him (time.com). IEEE gave
-  him its 2026 Medal of Honor (ieee.org). imec gave him its 2026 Lifetime of
-  Innovation Award. Update this with primary sources (time.com, ieee.org) added
-  to person.json, or present the list as a selection.) | UNCITED: "'Vingt ans
-  plus tard, il cofonde NVIDIA' (about 21 years, no citation)" | UNCITED:
-  "'Quand il a cinq ans, sa famille part pour la Thaïlande' (needs
-  [s:britannica])" | UNCITED: "'Environ deux ans plus tard, les parents les
-  rejoignent… près de Portland' (needs [s:britannica])" | UNCITED: "Summary
-  paragraph (1993 founding, president/CEO, GeForce 256 1999, 2012 AI turn): no
-  citations" | UNCITED: "knownFor field: no citation" | UNCITED: "All three FAQ
-  answers: no citations" | UNCITED: "The article never gives his current age (63
-  as of 2026-10-26), even though the metaTitle promises 'âge' and 'jensen huang
-  âge' is a target query" | Adds no value over existing pages: The prose is
-  clean and concrete, and the opening on the Kentucky school is a good hook. It
-  follows a clear chronology, uses mostly primary sources (NVIDIA, CHM), has no
-  hype words and no em dashes. But it fails the first job the style guide sets.
-  The metaTitle and the first target query are about his age, and the page never
-  says he is 63, nor is there an FAQ entry for it. The awards section stops in
-  2024 and misses the 2024 TIME100, TIME's 2025 Person of the Year group and the
-  2026 IEEE Medal of Honor. That means French readers get less than the usual
-  top results. It does not tell readers about, or resolve, the Taipei vs Tainan
-  birthplace discrepancy, which would be a real way to beat other pages. The
-  'Distinctions' heading is generic, and the foundation is misfiled under it. |
-  Reviewer recommends rejection: Most claims hold up against the cited sources,
-  but the page cannot be approved yet. What to fix: (1) The Stanford 'dans le
-  même temps' timing is cited to nvidia-bio, which does not say it. Cite
-  britannica. (2) Make 'Vingt ans plus tard' accurate (about 21 years) and cite
-  it. (3) Add [s:britannica] to the Thailand-at-five sentence and the Portland
-  sentence, and cite the summary, knownFor and FAQ answers. (4) State his age
-  (63, born 17 Feb 1963) in the first screen and add a 'Quel âge a Jensen Huang
-  ?' FAQ, since it is the top target query and is promised in the metaTitle. (5)
-  Update the awards with primary sources added to person.json: TIME100 2024,
-  TIME 2025 Person of the Year 'Architects of AI', IEEE Medal of Honor 2026.
-  Move the foundation sentence out of 'Distinctions'. (6) Check the birthplace:
-  Wikipedia now says Taipei with a move to Tainan in childhood, while Britannica
-  and CHM say Tainan. Find a primary source, and if reliable sources disagree,
-  cite both. (7) Optionally, describe Oneida as a reform school ('établissement
-  de redressement'), as Britannica does, rather than a 'pensionnat'.
+      À Tainan, à Taïwan, selon Britannica et le Computer History Museum. Sa
+      famille a ensuite vécu en Thaïlande, et il est arrivé aux États-Unis à
+      neuf ans.
+autoRevisions: 1
 autoReviews: 1
 ---
-À neuf ans, Jensen Huang arrive aux États-Unis depuis la Thaïlande avec son frère et se retrouve à l'Oneida Baptist Institute, un pensionnat religieux du Kentucky pour garçons jugés « difficiles » [s:britannica]. Vingt ans plus tard, il cofonde NVIDIA.
+Jensen Huang a 63 ans : il est né le 17 février 1963 [s:britannica]. À neuf ans, il arrive aux États-Unis avec son frère, sans ses parents, et se retrouve à l'Oneida Baptist Institute, un établissement de redressement religieux du Kentucky pour enfants jugés « difficiles » [s:britannica]. Une vingtaine d'années plus tard, il cofonde NVIDIA [s:britannica] [s:nvidia-bio].
 
-## De Tainan à l'Oregon
+## De Tainan au Kentucky
 
-Il naît Jen-Hsun Huang le 17 février 1963 à Tainan, à Taïwan [s:britannica]. Quand il a cinq ans, sa famille part pour la Thaïlande. Vers neuf ans, ses parents l'envoient avec son frère chez un oncle à Tacoma, dans l'État de Washington, qui les inscrit à l'école du Kentucky [s:britannica]. Environ deux ans plus tard, les parents les rejoignent, retirent les garçons du pensionnat et la famille s'installe près de Portland, dans l'Oregon. Huang obtient son diplôme de fin d'études secondaires à Aloha en 1981 [s:britannica].
+Il naît Jen-Hsun Huang à Tainan, à Taïwan [s:britannica] [s:chm]. Son père est ingénieur chimiste et sa mère institutrice [s:britannica]. Quand il a cinq ans, la famille part pour la Thaïlande ; les parents ne comptent pas s'y installer, à cause de la guerre du Vietnam, et sa mère apprend dix mots d'anglais par jour aux deux garçons pour préparer le départ vers les États-Unis [s:britannica].
 
-## Ingénieur avant d'être fondateur
+À neuf ans, Huang et son frère sont envoyés chez un oncle à Tacoma, dans l'État de Washington, pendant que les parents restent en Thaïlande. L'oncle les inscrit à l'Oneida Baptist Institute, qu'il croit être un internat prestigieux [s:britannica]. Britannica décrit une tout autre réalité : Huang doit nettoyer les toilettes chaque jour, son frère travaille dans une exploitation de tabac, et les deux garçons sont harcelés par leurs camarades [s:britannica].
 
-Il étudie le génie électrique à l'Université d'État de l'Oregon, dont il sort diplômé en 1984. C'est là qu'il rencontre Lori Mills, qu'il épousera [s:britannica]. Il travaille environ un an chez Advanced Micro Devices, puis chez LSI Logic de 1985 à 1993, où il finit par diriger une division [s:nvidia-bio] [s:britannica]. Il décroche dans le même temps un master en génie électrique à Stanford [s:nvidia-bio].
+Environ deux ans plus tard, les parents arrivent aux États-Unis, découvrent la situation et retirent leurs fils de l'école. La famille s'installe dans la banlieue de Portland, dans l'Oregon [s:britannica].
 
-## La naissance de NVIDIA
+Sur le lieu de naissance, une précision : le profil officiel de NVIDIA n'en donne pas [s:nvidia-bio]. Nous suivons Britannica et le Computer History Museum, qui s'accordent sur Tainan [s:britannica] [s:chm].
 
-En avril 1993, il fonde NVIDIA avec les ingénieurs Chris Malachowsky et Curtis Priem, qui le choisissent comme patron [s:britannica] [s:chm]. Les trois associés démarrent avec 40 000 dollars ; des fonds de capital-risque apportent ensuite 20 millions [s:britannica]. Depuis le premier jour, il est président, directeur général et membre du conseil d'administration [s:nvidia-bio].
+## Portland, Oregon State, puis les puces
 
-En 1999, l'entreprise entre en Bourse [s:britannica] et lance la GeForce 256, présentée comme « le premier processeur graphique au monde », une puce qui réunissait transformation, éclairage et rendu [s:chm].
+Au lycée d'Aloha, Huang joue au tennis de table en compétition et obtient un classement national. Il termine ses études secondaires en 1981 [s:britannica]. À l'Oregon State University, il suit le cursus de génie électrique et y rencontre Lori Mills, une autre étudiante ingénieure, qu'il épousera plus tard. Il est diplômé en 1984 [s:britannica].
+
+Il part ensuite pour la Silicon Valley. NVIDIA situe son passage chez Advanced Micro Devices entre 1984 et 1985, puis chez LSI Logic de 1985 à 1993 [s:nvidia-bio]. Chez LSI, il monte jusqu'à diriger une division [s:britannica]. Pendant qu'il travaille, il retourne à l'université et obtient un master en génie électrique à Stanford [s:britannica] [s:nvidia-bio].
+
+## Avril 1993 : la fondation de NVIDIA
+
+En avril 1993, Huang fonde NVIDIA avec deux autres concepteurs de puces, Chris Malachowsky et Curtis Priem, qui le désignent comme directeur général. Le but des trois associés : fabriquer des processeurs graphiques (GPU) pour le jeu vidéo [s:britannica]. Ils démarrent avec 40 000 dollars de capital et obtiennent vite 20 millions de dollars de fonds de capital-risque, de quoi tenir les premières années difficiles [s:britannica]. Huang est depuis le premier jour président, directeur général et administrateur de l'entreprise [s:nvidia-bio].
+
+En 1999, NVIDIA entre en Bourse [s:britannica]. La même année sort la GeForce 256, que le Computer History Museum présente comme le premier GPU : une puce qui réunit transformation, éclairage et rendu 3D [s:chm]. Quand l'action atteint 100 dollars, Huang se fait tatouer le logo de la société sur l'épaule gauche, un geste qu'il dit ne pas vouloir renouveler [s:britannica].
 
 ## Du jeu vidéo à l'intelligence artificielle
 
-CUDA arrive en 2006 : cette plateforme permet d'utiliser les GPU de NVIDIA pour du calcul généraliste, et plus seulement pour l'affichage [s:chm]. En 2012, le réseau de neurones AlexNet est entraîné sur des GPU NVIDIA, et l'entreprise réoriente son activité vers le calcul accéléré pour l'IA [s:chm]. En 2018, Huang affirme que les performances des GPU progressent plus vite que ne le prévoit la loi de Moore ; la presse parle bientôt de « loi de Huang » [s:britannica].
+En 2006 arrive CUDA, une plateforme qui permet aux développeurs d'utiliser les GPU NVIDIA pour du calcul généraliste, et plus seulement pour l'affichage. Dès le milieu des années 2000, des universités et des laboratoires nationaux utilisent ses puces pour certains des supercalculateurs les plus rapides du monde [s:chm]. En 2012, le réseau de neurones AlexNet est entraîné sur des GPU NVIDIA, et l'entreprise se tourne vers le calcul accéléré pour l'IA [s:chm].
 
-## Distinctions
+En 2018, lors de la conférence GTC de San Jose, Huang explique que les GPU de NVIDIA sont 25 fois plus rapides qu'il y a cinq ans, donc plus vite que ne le prévoyait la loi de Moore. La presse baptise aussitôt cette observation « loi de Huang » [s:britannica].
 
-Fortune l'a désigné homme d'affaires de l'année en 2017, et la Harvard Business Review l'a classé en 2019 meilleur dirigeant du monde selon les performances [s:nvidia-bio]. Time l'a cité en 2021 parmi les 100 personnalités les plus influentes [s:britannica], et le Computer History Museum l'a nommé Fellow en 2024 [s:chm]. Avec son épouse, il a créé en 2007 la Jen-Hsun and Lori Huang Foundation [s:britannica].
+Fin octobre 2025, NVIDIA devient la première entreprise de l'histoire à franchir les 5 000 milliards de dollars de valeur boursière : l'action clôt à 207,04 dollars pour une capitalisation de 5 030 milliards de dollars [s:foxbusiness-5t]. Selon Fox Business, le titre a été multiplié par douze depuis le lancement de ChatGPT en 2022, d'après Reuters [s:foxbusiness-5t].
+
+## Distinctions : de Fortune à l'IEEE
+
+Fortune l'a désigné homme d'affaires de l'année en 2017, et la Harvard Business Review l'a placé en 2019 en tête de sa liste des 100 meilleurs PDG du monde sur la durée de leur mandat [s:nvidia-bio]. Time l'a compté en 2021 parmi les 100 personnalités les plus influentes [s:britannica]. Le Computer History Museum l'a nommé Fellow en 2024, pour sa contribution aux processeurs graphiques, au calcul accéléré et à l'IA [s:chm]. Dans sa fiche, Huang affirme croire que l'IA est la plus grande contribution de l'industrie technologique à l'« élévation sociale » [s:chm].
+
+En décembre 2025, Time a désigné « Les architectes de l'IA » personnalité de l'année. Le groupe, huit personnalités, inclut Huang, Sam Altman, Lisa Su, Elon Musk et Mark Zuckerberg [s:fastcompany-poy]. L'IEEE lui a remis sa médaille d'honneur 2026, sa plus haute distinction, pour son rôle dans le développement des GPU et leur application au calcul scientifique et à l'IA ; la cérémonie a eu lieu à New York en avril 2026 [s:ieee-honors] [s:ieee-recipient]. La même page IEEE cite aussi son élection à la National Academy of Engineering et le prix Robert N. Noyce de la Semiconductor Industry Association [s:ieee-recipient].
+
+## La fondation familiale
+
+En 2007, Huang et son épouse ont créé la Jen-Hsun and Lori Huang Foundation. Elle a fait des dons à leurs anciennes universités, à des initiatives de santé publique et à des organisations de la région de la baie de San Francisco [s:britannica].

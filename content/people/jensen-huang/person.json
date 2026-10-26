@@ -9,6 +9,13 @@
   "sameAs": [
     "https://www.nvidia.com/en-us/about-nvidia/board-of-directors/jensen-huang/"
   ],
+  "image": {
+    "src": "/images/people/jensen-huang.jpg",
+    "alt": "Jensen Huang",
+    "credit": "The White House",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jen-Hsun_Huang_2025.jpg"
+  },
   "facts": {
     "birthDate": {
       "value": "1963-02-17",
@@ -49,13 +56,46 @@
       "publisher": "Computer History Museum",
       "type": "award-body",
       "accessed": "2026-10-26"
+    },
+    {
+      "id": "nvidia-history",
+      "url": "https://www.nvidia.com/en-us/about-nvidia/corporate-timeline/",
+      "title": "NVIDIA History: A Timeline of Innovation",
+      "publisher": "NVIDIA",
+      "type": "company",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "foxbusiness-5t",
+      "url": "https://www.foxbusiness.com/markets/nvidia-becomes-first-company-hit-5-trillion-market-valuation-ai-boom-drives-historic-growth",
+      "title": "Nvidia becomes first company to hit $5 trillion market valuation as AI boom drives historic growth",
+      "publisher": "Fox Business",
+      "type": "press",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "ieee-recipient",
+      "url": "https://corporate-awards.ieee.org/recipient/jensen-huang/",
+      "title": "Jensen Huang, 2026 IEEE Medal of Honor",
+      "publisher": "IEEE Awards",
+      "type": "award-body",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "ieee-honors",
+      "url": "https://corporate-awards.ieee.org/ieee-medal-of-honor/",
+      "title": "Jensen Huang Presented IEEE Medal of Honor at IEEE Honors Ceremony in New York City",
+      "publisher": "IEEE Awards",
+      "type": "award-body",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "fastcompany-poy",
+      "url": "https://www.fastcompany.com/91459043/time-person-of-the-year-2025-architects-of-ai",
+      "title": "Time's 2025 Person of the Year: 'Architects of AI'",
+      "publisher": "Fast Company (Associated Press)",
+      "type": "press",
+      "accessed": "2026-10-26"
     }
-  ],
-  "image": {
-    "src": "/images/people/jensen-huang.jpg",
-    "alt": "Jensen Huang",
-    "credit": "The White House",
-    "license": "Public domain",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jen-Hsun_Huang_2025.jpg"
-  }
+  ]
 }

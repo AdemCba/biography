@@ -7,12 +7,14 @@ metaDescription: >-
   and how the company he co-founded in 1993 went from graphics chips to AI.
 knownFor: 'Co-founder, president and CEO of NVIDIA'
 summary: >-
-  Jensen Huang is the Taiwanese-born engineer who co-founded NVIDIA in 1993 and
-  has run it as president and CEO ever since. The company's GeForce 256 was
-  billed as the first GPU in 1999, and after 2012 the company refocused on
-  accelerated computing for artificial intelligence.
+  Jensen Huang is a Taiwan-born American engineer who co-founded NVIDIA in April
+  1993 and has been its president and CEO ever since. The Computer History
+  Museum calls the company's 1999 GeForce 256 the world's first GPU, and after
+  2012 NVIDIA turned its focus to accelerated computing for artificial
+  intelligence.
 status: review
 risk: medium
+updatedAt: '2026-10-26'
 author: editor-in-chief
 aiAssisted: true
 targetQueries:
@@ -24,12 +26,17 @@ targetQueries:
 faq:
   - q: How old is Jensen Huang?
     a: >-
-      He was born on 17 February 1963; the key facts box shows his current age
-      calculated from that date.
+      He was born on 17 February 1963, so he turns 63 in February 2026 and is 63
+      as of today's date; the key facts box shows the current age calculated
+      from that date.
+  - q: Where was Jensen Huang born?
+    a: >-
+      He was born in Tainan, Taiwan. The family moved to Thailand when he was
+      five, and he was sent to the United States at nine.
   - q: Who founded NVIDIA?
     a: >-
       Jensen Huang, Chris Malachowsky and Curtis Priem founded NVIDIA in April
-      1993, with Huang as chief executive.
+      1993, and the three chose Huang as chief executive.
   - q: Where did Jensen Huang study?
     a: >-
       He earned a bachelor's degree in electrical engineering from Oregon State
@@ -37,68 +44,42 @@ faq:
       University.
   - q: Who is Jensen Huang's wife?
     a: >-
-      Lori Huang, born Lori Mills. They met as students at Oregon State
-      University and set up a foundation together in 2007.
-reviewNotes: >-
-  UNSUPPORTED: "The company's first big hit came in 1999" (No citation. CHM only
-  says 'one of NVIDIA's defining moments came in 1999', and Britannica says
-  nothing about a first hit. The claim is also doubtful: the RIVA 128 (1997) is
-  widely credited as NVIDIA's first commercial success. Cut it, or reword to
-  CHM's 'one of the defining moments'.) | UNSUPPORTED: "In 1999 NVIDIA launched
-  the GeForce 256, which it marketed as "the world's first graphics processing
-  unit", combining transform, lighting and rendering (summary: 'billed as the
-  first GPU')" (CHM confirms the 1999 launch, the 'world's first graphics
-  processing unit' wording, and transform/lighting/rendering. But that phrase is
-  CHM's own, not NVIDIA marketing copy. The cited source does not say NVIDIA
-  marketed it that way. Either cite an NVIDIA source for the marketing claim or
-  attribute the description to the Computer History Museum. The summary's
-  'billed as' needs the same fix.) | UNCITED: "The company's first big hit came
-  in 1999. (Doubtful: the RIVA 128 in 1997 is usually credited as the first
-  hit.)" | UNCITED: "Huang has a habit of compressing that story into one claim.
-  (Our own characterisation, no source.)" | UNCITED: "Two decades later he
-  co-founded NVIDIA. (Worked out from cited dates: 1972 to 1993 is about 21
-  years. Acceptable, but uncited.)" | UNCITED: "FAQ answers carry no inline
-  citations. They repeat body facts that are cited." | Reviewer recommends
-  rejection: Almost everything checks out, and the person_json facts (birth
-  date, birthplace) are confirmed. Three fixes are needed before approval. (1)
-  Cut or reword 'The company's first big hit came in 1999'. It is uncited, CHM
-  only says 'one of NVIDIA's defining moments', and the RIVA 128 (1997) is
-  generally seen as the first hit. (2) The body says NVIDIA 'marketed' the
-  GeForce 256 as "the world's first graphics processing unit", and the summary
-  says 'billed as'. That wording is CHM's own description, not a cited NVIDIA
-  marketing claim. Either cite an NVIDIA source or attribute the description to
-  the Computer History Museum. (3) Drop or source 'Huang has a habit of
-  compressing that story into one claim'. It is an uncited characterisation.
-  Optional: add inline citations to the FAQ answers. No outdated claims: the
-  NVIDIA bio, fetched live today, still lists him as president and CEO.
+      Lori Mills, now Lori Huang. They met as engineering students at Oregon
+      State University and set up the Jen-Hsun and Lori Huang Foundation in
+      2007.
+autoRevisions: 1
 autoReviews: 1
 ---
-At nine years old, Jensen Huang was sent from Thailand to the United States with his brother, and ended up at the Oneida Baptist Institute in rural Kentucky, a religious school that took in children labelled as difficult [s:britannica]. Two decades later he co-founded NVIDIA.
+Before he turned ten, Jensen Huang was scrubbing toilets at a Kentucky reform school that his uncle had mistaken for a prestigious boarding school [s:britannica]. He and his brother had been sent over from Thailand alone, and the Oneida Baptist Institute took in children labelled "difficult" [s:britannica].
 
 ## Taiwan, Thailand, Kentucky, Oregon
 
-Huang was born Jen-Hsun Huang on 17 February 1963 in Tainan, Taiwan [s:britannica]. When he was five the family moved to Thailand. Around the age of nine he and his brother went to stay with an uncle in Tacoma, Washington, who placed them at the Kentucky school [s:britannica].
+Huang was born Jen-Hsun Huang on 17 February 1963 in Tainan, Taiwan, the second son of a chemical engineer and a grade-school teacher [s:britannica]. When he was five the family moved to Thailand. His parents did not plan to stay, because of the Vietnam War. His father had once been accepted into a worker-training programme at the American air-conditioner maker Carrier and liked what he saw of the United States, and his mother taught the boys 10 English words a day to prepare them [s:britannica].
 
-Roughly two years later his parents reached the United States, took the boys out of Oneida and settled near Portland, Oregon [s:britannica]. Huang graduated from Aloha High School in 1981 [s:britannica].
+At nine, Huang and his brother were sent to live with an uncle in Tacoma, Washington, while their parents stayed in Thailand. The uncle enrolled them at Oneida, in rural Kentucky. Huang cleaned toilets every day, his brother worked on a tobacco farm, and the other students bullied them [s:britannica].
+
+About two years later his parents arrived in the United States, found out what the school was, and took the boys out. The family settled in the suburbs of Portland, Oregon. At Aloha High School Huang played competitive table tennis and earned a national ranking, and he graduated in 1981 [s:britannica].
 
 ## Engineer before founder
 
-He studied electrical engineering at Oregon State University, graduating in 1984. That is also where he met Lori Mills, who became his wife [s:britannica]. He then spent about a year at Advanced Micro Devices before moving to LSI Logic, where he stayed from 1985 to 1993 and rose to run a division [s:nvidia-bio] [s:britannica]. Along the way he completed a master's degree in electrical engineering at Stanford [s:nvidia-bio].
+Huang studied electrical engineering at Oregon State University and graduated in 1984. There he met Lori Mills, a fellow engineering student, and the two later married [s:britannica]. He moved to Silicon Valley and worked at Advanced Micro Devices for about a year, then joined LSI Logic, where he stayed from 1985 to 1993 and eventually became director of a division [s:nvidia-bio] [s:britannica]. He went back to school while working and earned a master's degree in electrical engineering at Stanford [s:britannica].
 
 ## Founding NVIDIA
 
-In April 1993 Huang co-founded NVIDIA with two engineers, Chris Malachowsky and Curtis Priem, and was chosen as chief executive [s:britannica] [s:chm]. They started with $40,000; venture capital firms later put in $20 million [s:britannica]. He has been president, CEO and a board member since the start [s:nvidia-bio].
+NVIDIA was founded on 5 April 1993 by Huang, Chris Malachowsky and Curtis Priem, with the aim of bringing 3D graphics to gaming and multimedia [s:nvidia-history]. Malachowsky and Priem, fellow chip designers, picked Huang as CEO [s:britannica]. The three started with $40,000 and soon raised an initial $20 million from venture capital firms, which Britannica says carried the company through a hard first few years [s:britannica]. Huang has been president, CEO and a board member since the start [s:nvidia-bio].
 
-The company's first big hit came in 1999. That year NVIDIA went public [s:britannica] and launched the GeForce 256, which it marketed as "the world's first graphics processing unit", a single chip that combined transform, lighting and rendering [s:chm].
+NVIDIA went public in 1999. Britannica reports that Huang had the company logo tattooed on his left shoulder when the stock hit $100 a share, and that he has said he probably would not get another tattoo [s:britannica]. The same year the company launched the GeForce 256. The Computer History Museum calls it the world's first graphics processing unit, a single chip that combined transform, lighting and rendering [s:chm]. NVIDIA's own company history dates the invention of the GPU to 1999 as well [s:nvidia-history].
 
 ## From games to AI
 
-In 2006 NVIDIA released CUDA, a programming platform that let developers use its GPUs for general-purpose computing rather than only for graphics [s:chm]. In 2012, the AlexNet image-recognition network was trained on NVIDIA GPUs, and the company shifted its focus to accelerated computing for artificial intelligence [s:chm].
+Through the early 2000s, the Computer History Museum says, steady performance gains made NVIDIA the leading supplier of graphics chips for gamers and professionals [s:chm]. Then the company began courting scientists. It released CUDA in 2006, a platform that let developers use NVIDIA GPUs for general computing rather than only for graphics [s:chm]. Universities and national laboratories soon used the chips in some of the world's fastest supercomputers [s:chm].
 
-Huang has a habit of compressing that story into one claim: he has called AI "the technology industry's single greatest contribution to social elevation" [s:chm]. In 2018, at NVIDIA's GPU Technology Conference, he argued that GPU performance was improving faster than Moore's law predicts for ordinary processors; the press started calling the idea "Huang's law" [s:britannica].
+In 2012 NVIDIA GPUs powered AlexNet, the neural network that the company points to as the start of modern AI, and NVIDIA turned its attention to accelerated computing for AI [s:chm] [s:nvidia-history]. Chips built for game graphics turned out to be well suited to running machine-learning algorithms [s:britannica]. The museum's profile says most AI models today, from large language models to driving systems, are trained and run on NVIDIA technology [s:chm]. In 2018 the company introduced RTX, which it describes as the first GPU capable of real-time ray tracing [s:nvidia-history].
 
-## Recognition
+Huang gives AI a large role. The museum quotes him calling it the technology industry's "single greatest contribution to social elevation" [s:chm]. At NVIDIA's 2018 GPU Technology Conference in San Jose he said its GPUs were 25 times faster than five years earlier, outpacing what Moore's law would predict. The press named the observation "Huang's law" [s:britannica].
 
-Fortune named Huang its Businessperson of the Year in 2017, and in 2019 Harvard Business Review ranked him first among the world's best-performing CEOs over their tenure [s:nvidia-bio]. Time put him on its list of the 100 most influential people in 2021 [s:britannica]. In 2024 the Computer History Museum made him a Fellow for his work on computer graphics, accelerated computing and AI [s:chm].
+## Recognition and philanthropy
 
-He and Lori Huang set up the Jen-Hsun and Lori Huang Foundation in 2007 [s:britannica].
+Fortune named Huang its Businessperson of the Year for 2017. Harvard Business Review put him first on its 2019 list of the world's 100 best-performing CEOs over the lifetime of their tenure [s:nvidia-bio]. Time included him among the 100 most influential people of 2021 [s:britannica]. The Computer History Museum made him a 2024 Fellow, for leadership in devices and systems for computer graphics, accelerated computing and AI [s:chm].
+
+Huang and his wife founded the Jen-Hsun and Lori Huang Foundation in 2007. According to Britannica it has given to their alma maters, to public health initiatives and to organisations in the San Francisco Bay Area [s:britannica].
