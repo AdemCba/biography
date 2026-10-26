@@ -1,6 +1,8 @@
 # Twice-daily writer task (runs on the owner's Claude subscription)
 
-A scheduled Claude task runs this at 08:00 and 16:00 (Europe/Istanbul). It writes 5 new people in all five
+The Writer workflow (`.github/workflows/writer.yml`) runs this with Claude Code at 08:00 and 16:00
+(Europe/Istanbul), on the owner's own Claude subscription through the `CLAUDE_CODE_OAUTH_TOKEN` secret
+(made with `claude setup-token`). Set the repository variable `WRITER_ENABLED=false` to pause it. It writes 5 new people in all five
 languages, fact-checks them and publishes them. No Anthropic API key is used: every step is done by the task
 itself and its Haiku subagents, through the subscription modes of `scripts/write.ts` and `scripts/review.ts`.
 

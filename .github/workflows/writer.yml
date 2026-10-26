@@ -1,0 +1,76 @@
+name: Writer
+
+# Twice a day (08:00 and 16:00 Istanbul): Claude Code picks 5 people from current Google searches, writes them
+# in every language, fact-checks them and records the verdicts, following docs/subscription-writer-task.md.
+# It runs on the owner's own Claude subscription (CLAUDE_CODE_OAUTH_TOKEN from `claude setup-token`),
+# not on the API. The Publish workflow then adds photos, schedules, deploys and pings IndexNow.
+on:
+  schedule:
+    - cron: "40 4 * * *"
+    - cron: "40 12 * * *"
+  workflow_dispatch:
+    inputs:
+      count:
+        description: "How many people to write"
+        default: "5"
+
+concurrency:
+  group: writer
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write
+  id-token: write
+
+jobs:
+  write:
+    if: ${{ vars.WRITER_ENABLED != 'false' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    env:
+      HAS_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+
+      - name: Write and fact-check new people (Claude Code on the owner's subscription)
+        if: ${{ env.HAS_TOKEN == 'true' }}
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          claude_args: >-
+            --model ${{ vars.WRITER_MODEL || 'claude-haiku-5-5' }}
+            --max-turns 600
+            --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebSearch,WebFetch,Task,TodoWrite"
+          prompt: |
+            Follow docs/subscription-writer-task.md for ${{ inputs.count || 5 }} new people, with these changes:
+            - Skip step 1 (the repository is already checked out and installed) and the photo step (Publish does it).
+            - Do the writing and fact-checking yourself or with subagents on the same model.
+            - Step 6: only run `npx tsx scripts/schedule.ts --per-day 8`. Do not commit, push or open a PR;
+              the workflow commits after you finish.
+            - Step 7: print the Turkish summary as your final answer.
+
+      - name: Commit new content to main
+        id: commit
+        run: |
+          if [ -n "$(git status --porcelain content data)" ]; then
+            git config user.name "orbivida-bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add content data
+            git commit -m "content: twice-daily writer"
+            git pull --rebase
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Pushes made with GITHUB_TOKEN do not start other workflows, so start Publish explicitly.
+      - name: Publish (photos, build, deploy, IndexNow)
+        if: ${{ steps.commit.outputs.changed == 'true' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy.yml --ref main
