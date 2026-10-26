@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"La AP calificó el fichaje de «fichaje de peso» (quoted as AP's wording)\" (The AP text says 'statement signing'. 'fichaje de peso' is not in the source, yet it is presented in quotation marks as the AP's own words. Use a plain paraphrase or quote the source wording accurately.)",
+    "UNSUPPORTED: \"El exentrenador Xavi Llorens, que la trajo de vuelta al club, habló en el acto\" (The farewell page names Xavi Llorens as speaking, but it does not say he brought her back to the club, and it calls him 'coach' without 'former'. Remove 'que la trajo de vuelta al club' and check the 'exentrenador' label.)",
+    "UNSUPPORTED: \"El acto empezó con un vídeo de su anuncio\" (The cited page does not state that the event opened with a video of her announcement. Remove the sentence or cite a source that says so.)",
+    "Reviewer recommends rejection: Rejected. Three claims are unsupported by the cited sources: the 'fichaje de peso' quotation attributed to AP (AP says 'statement signing'), the claim that Xavi Llorens brought her back to the club, and the claim that the farewell event opened with a video of her announcement. Fix or remove these and resubmit for review."
+  ],
+  "claims": [
+    {
+      "claim": "La AP calificó el fichaje de «fichaje de peso» (quoted as AP's wording)",
+      "sourceIds": [
+        "ap-london-city-signing-2026"
+      ],
+      "verdict": "unsupported",
+      "note": "The AP text says 'statement signing'. 'fichaje de peso' is not in the source, yet it is presented in quotation marks as the AP's own words. Use a plain paraphrase or quote the source wording accurately."
+    },
+    {
+      "claim": "El exentrenador Xavi Llorens, que la trajo de vuelta al club, habló en el acto",
+      "sourceIds": [
+        "fcb-farewell-2026"
+      ],
+      "verdict": "unsupported",
+      "note": "The farewell page names Xavi Llorens as speaking, but it does not say he brought her back to the club, and it calls him 'coach' without 'former'. Remove 'que la trajo de vuelta al club' and check the 'exentrenador' label."
+    },
+    {
+      "claim": "El acto empezó con un vídeo de su anuncio",
+      "sourceIds": [
+        "fcb-farewell-2026"
+      ],
+      "verdict": "unsupported",
+      "note": "The cited page does not state that the event opened with a video of her announcement. Remove the sentence or cite a source that says so."
+    },
+    {
+      "claim": "Balones de Oro en 2021 y 2022; primera jugadora en ganarlo dos veces; años consecutivos; 2020 cancelado por la covid-19",
+      "sourceIds": [
+        "fcb-ballon-dor-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "The club page confirms the two wins in consecutive years, the 2020 cancellation and the 'first-ever two-time winner of the honour' wording."
+    },
+    {
+      "claim": "Nació el 4 de febrero de 1994 en Mollet del Vallès; posición centrocampista ofensiva; nacionalidad española",
+      "sourceIds": [
+        "soccerdonna-putellas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "SoccerDonna lists 04.02.1994, Mollet del Vallés, Spain and Attacking Midfield."
+    },
+    {
+      "claim": "Salida anunciada el martes 26 de mayo de 2026; 507 partidos; 232 goles; 38 títulos; cuatro Ligas de Campeones y diez ligas",
+      "sourceIds": [
+        "ap-barcelona-departure-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "The AP article confirms the Tuesday announcement, 507 games, 232 goals, 38 trophies, four Champions Leagues and 10 Spanish league titles."
+    },
+    {
+      "claim": "Fichaje por el London City Lionesses el miércoles 8 de julio de 2026; 32 años; contrato con el Barça expirado a finales de junio; Michele Kang; sexto de 12 en la WSL",
+      "sourceIds": [
+        "ap-london-city-signing-2026",
+        "aljazeera-london-city-signing-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "AP and Al Jazeera confirm the Wednesday signing, the age of 32, the end-of-June expiry, the Kang ownership and the sixth-place finish."
+    },
+    {
+      "claim": "Putellas es campeona del mundo con España; formó parte del plantel del Mundial de 2023; nombrada mejor jugadora del mundo en 2021 y 2022",
+      "sourceIds": [
+        "ap-london-city-signing-2026",
+        "aljazeera-london-city-signing-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "AP says World Cup winner with Spain. Al Jazeera says part of the 2023 World Cup-winning squad and crowned world's best female player in 2021 and 2022."
+    },
+    {
+      "claim": "Academia con la Fundación FC Barcelona para más de 400 niñas en situación de vulnerabilidad",
+      "sourceIds": [
+        "fcb-farewell-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "The page says an academy for more than 400 underprivileged young girls. The earlier 'que quieran jugar al futbol' addition is no longer in the body."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline from the sources and honest notes on what the London City contract terms are not known.",
+  "decision": "reject",
+  "summary": "Rejected. Three claims are unsupported by the cited sources: the 'fichaje de peso' quotation attributed to AP (AP says 'statement signing'), the claim that Xavi Llorens brought her back to the club, and the claim that the farewell event opened with a video of her announcement. Fix or remove these and resubmit for review."
+}

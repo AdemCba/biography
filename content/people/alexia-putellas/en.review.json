@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Left Barcelona in May 2026 after 14 seasons",
+      "sourceIds": [
+        "ap-barcelona-departure-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "AP: announced Tuesday 26 May 2026; 14 seasons."
+    },
+    {
+      "claim": "Joined Barcelona in 2012 at 18 from Levante",
+      "sourceIds": [
+        "ap-barcelona-departure-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "AP states arrival in 2012 at age 18 from Levante."
+    },
+    {
+      "claim": "507 games, 232 goals (club record), 38 trophies, 4 Champions Leagues, 10 league titles",
+      "sourceIds": [
+        "ap-barcelona-departure-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "All figures stated in AP article."
+    },
+    {
+      "claim": "Fourth Champions League title on Saturday, 'fourth time in six seasons'",
+      "sourceIds": [
+        "ap-barcelona-departure-2026",
+        "fcb-farewell-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "AP gives the phrase and Saturday; no calendar date is given and none is in the body."
+    },
+    {
+      "claim": "Announcement on Tuesday 26 May 2026; quotes 'The time has come...' and 'a perfect story'",
+      "sourceIds": [
+        "ap-barcelona-departure-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes match AP text (AP says 'It's been a perfect story')."
+    },
+    {
+      "claim": "Farewell at Camp Nou on the Wednesday after the announcement, over 91,000 people chanted her name",
+      "sourceIds": [
+        "fcb-farewell-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "FC Barcelona: Wednesday 27 May 2026, more than 91,000."
+    },
+    {
+      "claim": "'an incredible emptiness', 'full of love'",
+      "sourceIds": [
+        "fcb-farewell-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes present."
+    },
+    {
+      "claim": "Xavi Llorens brought her back; no ceiling as a player or person",
+      "sourceIds": [
+        "fcb-farewell-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source says she returned at one of the most difficult times in her life; the article's paraphrase is consistent."
+    },
+    {
+      "claim": "Tribute videos (Puyol, Busquets, Iniesta, Pedri, Raphinha), Vicky Lopez 'an example on and off the field', Magnolias, academy for 400+ girls with the Foundation, team photo, gift, collective hug",
+      "sourceIds": [
+        "fcb-farewell-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "All present; source does not call Magnolias a club anthem and the body does not either."
+    },
+    {
+      "claim": "Family and friends attended; Rafael Yuste and Joan Laporta spoke",
+      "sourceIds": [
+        "fcb-farewell-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source names Yuste as club president praising her, and Laporta as president-elect who also spoke."
+    },
+    {
+      "claim": "'a world leader in women's football', 'has changed the face of women's football'",
+      "sourceIds": [
+        "fcb-farewell-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes present."
+    },
+    {
+      "claim": "Lifting the fourth CL trophy as a determining moment in deciding to leave",
+      "sourceIds": [
+        "fcb-farewell-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'a determining moment in understanding that now was the time'."
+    },
+    {
+      "claim": "Club's first women's Ballon d'Or winner (2021); 2020 edition cancelled due to Covid-19; 2022 record two wins; first two-time winner in consecutive years",
+      "sourceIds": [
+        "fcb-ballon-dor-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "All stated on the club page."
+    },
+    {
+      "claim": "Quotes 'when I won a year ago...' and 'I'm proud to play for Barca, my lifetime club'",
+      "sourceIds": [
+        "fcb-ballon-dor-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Both quotes present."
+    },
+    {
+      "claim": "Born 4 February 1994, Mollet del Valles, Spain; nationality Spanish; attacking midfield",
+      "sourceIds": [
+        "soccerdonna-putellas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile lists 04.02.1994, Mollet del Valles, Spain, Attacking Midfield."
+    },
+    {
+      "claim": "Signed for London City Lionesses on Wednesday 8 July 2026; 'statement signing'; age 32; Barcelona contract expired end of June",
+      "sourceIds": [
+        "ap-london-city-signing-2026",
+        "aljazeera-london-city-signing-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "AP dateline 8 July 2026; 32-year-old; contract expired end of June; Al Jazeera gives age 32."
+    },
+    {
+      "claim": "Club owned by Michele Kang, who also owns OL Lyonnes; promoted in 2025 and sixth in first season in 12-team division",
+      "sourceIds": [
+        "ap-london-city-signing-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source says 'Super League' rather than 'Women's Super League'; the English women's top flight context supports the article's wording."
+    },
+    {
+      "claim": "Quotes from Putellas and Kang",
+      "sourceIds": [
+        "ap-london-city-signing-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "All three quotes present."
+    },
+    {
+      "claim": "World Cup winner with Spain; part of 2023 World Cup squad; named world's best female player 2021 and 2022",
+      "sourceIds": [
+        "ap-london-city-signing-2026",
+        "aljazeera-london-city-signing-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera states all three."
+    },
+    {
+      "claim": "No contract length, salary, shirt number or debut reported",
+      "sourceIds": [
+        "aljazeera-london-city-signing-2026",
+        "ap-london-city-signing-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Neither source gives these."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Gives a clear timeline from the Barcelona record to the London City move, points to primary club and AP sources, and flags what the sources do not say about contract and salary.",
+  "decision": "approve",
+  "summary": "Every checked claim matches the cited sources. The frontmatter and FAQ are backed by the body and the sources. Approved."
+}

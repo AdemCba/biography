@@ -1,0 +1,263 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"O pai, Marco, é ex-piloto (corpo e FAQ)\" (Source names Marco as head of Antonelli Motorsport but does not say he was a racing driver. Remove 'ex-piloto' from body and FAQ or cite a source that states it.)",
+    "UNSUPPORTED: \"A Mercedes fez uma parada; Leclerc e Hamilton duas pela Ferrari\" (Source says Antonelli ran one stop and Ferrari ran two. It does not say Mercedes as a team ran one stop. Change to Antonelli only.)",
+    "UNSUPPORTED: \"FAQ: Marco Antonelli é ex-piloto de corridas\" (Not stated in sources. Same as body.)",
+    "Reviewer recommends rejection: Rejected. Remove 'ex-piloto' for Marco (body and FAQ). Change 'A Mercedes fez uma parada' to Antonelli only. Cite only f1-driver-profile for the exact birth day."
+  ],
+  "claims": [
+    {
+      "claim": "Vitória no GP dos EUA 2026 em Austin, em 25 de outubro de 2026, saindo da pole",
+      "sourceIds": [
+        "f1-austin-race-report",
+        "autosport-austin-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Nona vitória em GPs na temporada",
+      "sourceIds": [
+        "autosport-austin-report",
+        "f1-austin-race-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "123 pontos de vantagem sobre Russell; liderança do campeonato",
+      "sourceIds": [
+        "skysports-austin-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Título não garantido em Austin; Russell e Hamilton não terminaram onde precisavam",
+      "sourceIds": [
+        "f1-austin-race-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Nascido em 25 de agosto de 2006, em Bolonha",
+      "sourceIds": [
+        "f1-driver-profile",
+        "mercedes-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 profile gives the exact date. The Mercedes profile gives only the year, so cite f1-driver-profile for the day."
+    },
+    {
+      "claim": "Mercedes diz que é conhecido pelo segundo nome, Kimi",
+      "sourceIds": [
+        "mercedes-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Kart aos sete anos na equipe do pai; primeiro título em 2015 (EasyKart 60)",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "O pai, Marco, é ex-piloto (corpo e FAQ)",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "unsupported",
+      "note": "Source names Marco as head of Antonelli Motorsport but does not say he was a racing driver. Remove 'ex-piloto' from body and FAQ or cite a source that states it."
+    },
+    {
+      "claim": "Estreia em monopostos em 2021; F4 italiana e ADAC F4 em 2022",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Mercedes Junior Programme em abril de 2019, aos 12 anos",
+      "sourceIds": [
+        "mercedes-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "F2 2024 pela PREMA, vitórias em Silverstone e Hungria, vencedor múltiplo mais jovem",
+      "sourceIds": [
+        "mercedes-everything",
+        "mercedes-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Estreia em Melbourne 2025: terceiro mais jovem a largar, 13º piloto da Mercedes, quarto com primeiros pontos",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Japão: piloto mais jovem a liderar uma volta",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Canadá terceiro; terceiro mais jovem no pódio",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Brasil segundo; novato com mais pontos da história",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Número 12 para 2025 e os anos seguintes",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Sétimo em 2025 com 150 pontos e três pódios",
+      "sourceIds": [
+        "mercedes-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Pole na China com 19 anos, 6 meses e 17 dias; pole mais jovem; vitória no dia seguinte; segundo vencedor mais jovem atrás de Verstappen; primeiro italiano desde Fisichella 2006",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Primeiro no campeonato de 2026 com 365 pontos e nove vitórias",
+      "sourceIds": [
+        "f1-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Toto Wolff: 'uma volta milagrosa' (pole em Austin)",
+      "sourceIds": [
+        "f1-austin-race-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Tempo 1:35:16,650; Leclerc a 13,078 s; Verstappen em terceiro",
+      "sourceIds": [
+        "f1-austin-race-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Autosport: cerca de 13 segundos sobre Leclerc",
+      "sourceIds": [
+        "autosport-austin-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "A Mercedes fez uma parada; Leclerc e Hamilton duas pela Ferrari",
+      "sourceIds": [
+        "f1-austin-race-report"
+      ],
+      "verdict": "unsupported",
+      "note": "Source says Antonelli ran one stop and Ferrari ran two. It does not say Mercedes as a team ran one stop. Change to Antonelli only."
+    },
+    {
+      "claim": "Engenheiro: 'fosse o mais longe possível'; parada no fim da volta 24",
+      "sourceIds": [
+        "f1-austin-race-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Hamilton em quarto, a 18,515 s, fora do pódio",
+      "sourceIds": [
+        "f1-austin-race-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Russell: penalização de cinco segundos e oitavo lugar",
+      "sourceIds": [
+        "f1-austin-race-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Sky Sports: título no México com quatro etapas de sobra se entre os nove primeiros",
+      "sourceIds": [
+        "skysports-austin-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Autosport: dois pontos para o campeão mais jovem, aos 20 anos",
+      "sourceIds": [
+        "autosport-austin-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "FAQ idade 20 anos",
+      "sourceIds": [
+        "f1-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "FAQ: Marco Antonelli é ex-piloto de corridas",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "unsupported",
+      "note": "Not stated in sources. Same as body."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline with primary sources and useful title-maths context. Fix the unsupported items before approval.",
+  "decision": "reject",
+  "summary": "Rejected. Remove 'ex-piloto' for Marco (body and FAQ). Change 'A Mercedes fez uma parada' to Antonelli only. Cite only f1-driver-profile for the exact birth day."
+}

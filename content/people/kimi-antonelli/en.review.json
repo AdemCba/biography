@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"Finished fourth in Australia after starting 16th\" (Source gives 'a stunning drive through the field to P16' (race progress), not the grid slot. Starting position is not stated. Remove 'after starting 16th' or cite a source that gives the grid slot.)",
+    "Reviewer recommends rejection: Every claim checked is supported except one: 'finished fourth there after starting 16th' (2025 Australia). The source gives the P16 only as race progress, not the grid slot. Fix: remove 'after starting 16th' or cite a source that gives the grid position. Everything else is confirmed."
+  ],
+  "claims": [
+    {
+      "claim": "Won the 2026 United States Grand Prix at Austin on 25 October 2026, starting from pole",
+      "sourceIds": [
+        "f1-austin-race-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Race date 25 Oct 2026, Circuit of the Americas; pole confirmed."
+    },
+    {
+      "claim": "Autosport counted it as his ninth Grand Prix win of 2026",
+      "sourceIds": [
+        "autosport-austin-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'Antonelli's ninth grand prix win of 2026'."
+    },
+    {
+      "claim": "Pole with Toto Wolff calling it 'a miracle lap'",
+      "sourceIds": [
+        "f1-austin-race-report"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Winning time 1:35:16.650; Leclerc 13.078 s behind; Verstappen third; Hamilton fourth 18.515 s behind",
+      "sourceIds": [
+        "f1-austin-race-report"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Leclerc 13 seconds clear at the finish",
+      "sourceIds": [
+        "autosport-austin-report"
+      ],
+      "verdict": "confirmed",
+      "note": "+13.078 in results table."
+    },
+    {
+      "claim": "Mercedes one stop; Ferrari two stops; engineer said 'go as long as we can'; only stop at end of lap 24",
+      "sourceIds": [
+        "f1-austin-race-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Radio lap not given, but stop at end of lap 24 confirmed."
+    },
+    {
+      "claim": "Russell five-second time penalty served in pit stop, finished eighth",
+      "sourceIds": [
+        "f1-austin-race-report"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Title win conditions: victory, Russell ninth or lower, Hamilton outside top four",
+      "sourceIds": [
+        "f1-austin-race-report"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Antonelli 123 points clear of Russell, 124 clear of Hamilton, 125 still available",
+      "sourceIds": [
+        "skysports-austin-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky Sports dated 26 Oct 2026."
+    },
+    {
+      "claim": "Would clinch the title at Mexico with four rounds to spare if he finishes top nine",
+      "sourceIds": [
+        "skysports-austin-report"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Needed two points to become youngest ever champion, at 20",
+      "sourceIds": [
+        "autosport-austin-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'the 20-year-old Italian'."
+    },
+    {
+      "claim": "Born 25 August 2006 in Bologna, Italy; known as Kimi",
+      "sourceIds": [
+        "f1-driver-profile",
+        "mercedes-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 gives 25/08/2006; Mercedes gives year and 'more commonly known by his middle name, Kimi'."
+    },
+    {
+      "claim": "Began karting at seven, racing for his father's team",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "First kart title in 2015, Trofeo Easykart / EasyKart 60 category",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Father Marco is a former racing driver running Antonelli Motorsport",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Joined Mercedes Junior Programme April 2019, aged 12",
+      "sourceIds": [
+        "mercedes-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Quote: joined 'after claiming numerous titles and wins in the junior karting categories'",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": "Verbatim quote found."
+    },
+    {
+      "claim": "Single-seater debut 2021 in Italian F4 and Formula 4 UAE Championship Trophy round",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": "Verbatim."
+    },
+    {
+      "claim": "Won Italian F4 and ADAC Formula 4 titles in 2022",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": "Source says 'same season' as the January 2022 Abu Dhabi race; 2022 is implied."
+    },
+    {
+      "claim": "2024 F2 with PREMA: won Silverstone sprint, then Hungary, 'youngest multiple winner in series history'",
+      "sourceIds": [
+        "mercedes-everything",
+        "mercedes-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "2025 Australian GP debut as third-youngest starter and 13th Mercedes driver; finished fourth",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": "P4 finish confirmed; 13th Mercedes and third-youngest confirmed."
+    },
+    {
+      "claim": "Finished fourth in Australia after starting 16th",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "unsupported",
+      "note": "Source gives 'a stunning drive through the field to P16' (race progress), not the grid slot. Starting position is not stated. Remove 'after starting 16th' or cite a source that gives the grid slot."
+    },
+    {
+      "claim": "First points in Australia",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: became second-youngest driver to score an F1 point."
+    },
+    {
+      "claim": "Youngest driver to lead a lap, at the Japanese GP",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Third in Canada, third-youngest to stand on a podium",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Highest-scoring rookie in F1 history by the Brazilian GP, where he finished second",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Chose number 12 for 2025 and beyond",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "2025 season: seventh in drivers' standings, 150 points, three podiums",
+      "sourceIds": [
+        "mercedes-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Mercedes page: P7, 150 points, three podiums. Its stat boxes conflict (9 wins, 18 podiums), but the article does not use them."
+    },
+    {
+      "claim": "Pole at Chinese GP at 19 years, six months, 17 days, youngest GP polesitter",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Won the Chinese GP a day later; second-youngest GP winner behind Verstappen; first Italian winner since Fisichella 2006 Malaysia",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "F1 profile: first in championship with 365 points and nine GP wins in 2026",
+      "sourceIds": [
+        "f1-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds a clear race timeline, the title arithmetic (gap, maximum points, conditions) and the source-dated caveat on standings. Good primary-source use.",
+  "decision": "reject",
+  "summary": "Every claim checked is supported except one: 'finished fourth there after starting 16th' (2025 Australia). The source gives the P16 only as race progress, not the grid slot. Fix: remove 'after starting 16th' or cite a source that gives the grid position. Everything else is confirmed."
+}

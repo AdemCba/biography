@@ -1,143 +1,258 @@
 {
   "date": "2026-10-26",
   "model": "claude-haiku-5-5",
-  "approved": true,
-  "reasons": [],
+  "approved": false,
+  "reasons": [
+    "Prose reads machine-written",
+    "Reviewer recommends rejection: Facts check out against the cited sources, but the German version fails the localisation rule: it is a sentence-by-sentence translation of en. Rewrite it for local readers and local queries, with local context and local-language sources where they are as good, then resubmit for review."
+  ],
   "claims": [
     {
-      "claim": "Geburt am 13. Dezember 1989",
+      "claim": "Born 13 December 1989 in West Reading, Pennsylvania",
       "sourceIds": [
         "foxnews-birth"
       ],
       "verdict": "confirmed",
-      "note": "Fox News: born Dec. 13, 1989."
+      "note": "Fox News: 'was born in West Reading, Pennsylvania, on this day in history, Dec. 13, 1989'."
     },
     {
-      "claim": "Geboren in West Reading, Pennsylvania",
-      "sourceIds": [
-        "foxnews-birth",
-        "abc27-birthplace"
-      ],
-      "verdict": "confirmed",
-      "note": "Fox News and ABC27 both say West Reading."
-    },
-    {
-      "claim": "Wuchs in Wyomissing auf und zog nach Nashville",
+      "claim": "Grew up in Wyomissing before moving to Nashville",
       "sourceIds": [
         "abc27-birthplace"
       ],
       "verdict": "confirmed",
-      "note": "ABC27: grew up in Wyomissing before moving to Nashville. Tennessee removed from the FAQ; the source does not name the state."
+      "note": "ABC27: 'Born in West Reading, Swift grew up in Wyomissing before moving to Nashville'."
     },
     {
-      "claim": "36 Jahre alt am 26. Oktober 2026",
+      "claim": "Age 36 as of 26 October 2026 (FAQ)",
       "sourceIds": [
         "foxnews-birth"
       ],
       "verdict": "confirmed",
-      "note": "Arithmetic from the confirmed birth date."
+      "note": "Arithmetic from the confirmed birth date: 36 years old on 2026-10-26."
     },
     {
-      "claim": "Vier Grammys für das Album des Jahres; der vierte mit Midnights bei der Verleihung am 4. Februar 2024; erste Künstlerin mit vier",
+      "claim": "Won Album of the Year at the 4 Feb 2024 GRAMMYs for Midnights; fourth win in the category; first artist to win four",
       "sourceIds": [
         "etonline-midnights"
       ],
       "verdict": "confirmed",
-      "note": "E! Online: ceremony Feb. 4, 2024; Album of the Year for Midnights; first artist to win four."
+      "note": "E! Online: ceremony aired Sunday Feb. 4; Midnights won AOTY; 'first artist ever to win four Album of the Year awards'. Fourth win follows from its 'trio' of earlier wins."
     },
     {
-      "claim": "Bester Pop-Gesangsalbum-Preis in derselben Nacht",
+      "claim": "2024 Album of the Year nominees: Jon Batiste, boygenius, Miley Cyrus, Lana Del Rey, Janelle Monae, Olivia Rodrigo, SZA",
       "sourceIds": [
-        "etonline-midnights"
+        "grammy-aoty-2024"
       ],
       "verdict": "confirmed",
-      "note": "E! Online: Best Pop Vocal Album for Midnights at the same ceremony."
+      "note": "Recording Academy page lists Taylor Swift (Midnights) as winner and exactly these seven nominees."
     },
     {
-      "claim": "Time Person of the Year 2023, bekanntgegeben am 6. Dezember 2023 live in TODAY",
+      "claim": "Also won Best Pop Vocal Album the same night for Midnights",
+      "sourceIds": [
+        "grammy-pop-vocal-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Recording Academy page: 'Taylor Swift won the 2024 Grammy Award for Best Pop Vocal Album with Midnights'."
+    },
+    {
+      "claim": "TIME named her 2023 Person of the Year, announced live on TODAY on 6 December 2023",
       "sourceIds": [
         "nbc-time-poy"
       ],
       "verdict": "confirmed",
-      "note": "NBC Washington: announced live on TODAY, December 6, 2023."
+      "note": "NBC Washington: announced 'live on TODAY on Dec. 6' (2023)."
     },
     {
-      "claim": "Zitat von Chefredakteur Sam Jacobs",
+      "claim": "Sam Jacobs (editor-in-chief) quotes: 'transcend borders and be a source of light'; 'No one else on the planet today can move so many people so well'",
       "sourceIds": [
         "nbc-time-poy"
       ],
       "verdict": "confirmed",
-      "note": "Source gives the English quote; the German text is a faithful translation attributed to editor-in-chief Sam Jacobs."
+      "note": "NBC Washington quotes both sentences, attributed to Jacobs, Time's editor-in-chief."
     },
     {
-      "claim": "Eras Tour über 1 Milliarde US-Dollar, erste Tour über dieser Marke, Pollstar-Schätzung vom 11. Dezember 2023",
+      "claim": "On 30 May 2025 Swift announced in a handwritten letter the acquisition of the masters of her first six albums (Taylor Swift, Fearless, Speak Now, Red, 1989, Reputation)",
+      "sourceIds": [
+        "mbw-masters-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "MBW: 'on Friday (May 30) in a handwritten letter'; lists the six albums."
+    },
+    {
+      "claim": "Shamrock Capital paid Ithaca Holdings $405 million in 2020 for those masters",
+      "sourceIds": [
+        "mbw-masters-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "MBW: 'the $405 million that Shamrock Capital paid Ithaca Holdings' (article says Nov 2020)."
+    },
+    {
+      "claim": "Price of the 2025 deal undisclosed; Variety called it a 'nine-figure sum'; Page Six suggested $600 million to $1 billion",
+      "sourceIds": [
+        "mbw-masters-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "MBW: Variety 'nine-figure sum'; Page Six 'between $600 million and $1 billion'. Article correctly labels these press reports."
+    },
+    {
+      "claim": "Four of the six albums re-recorded as Taylor's Version; Reputation and the debut not re-recorded",
+      "sourceIds": [
+        "mbw-masters-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "MBW: 'successfully re-recorded four of the six disputed albums'; 'Only Reputation and her self-titled debut album remain unreleased as re-recordings'."
+    },
+    {
+      "claim": "Letter quote: 'meticulously re-recorded and released 4 of my albums, calling them Taylor's Version'",
+      "sourceIds": [
+        "mbw-masters-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Verified verbatim on the MBW page on a second fetch."
+    },
+    {
+      "claim": "Letter quotes: 'greatest dream come true' and 'purchase my music outright with no strings attached, no partnership, with full autonomy'",
+      "sourceIds": [
+        "mbw-masters-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "'greatest dream come true' confirmed; 'purchase my music outright with no strings attached' confirmed; 'no partnership, with full autonomy' verified verbatim on second fetch."
+    },
+    {
+      "claim": "Pollstar (Dec 2023): Eras Tour grossed more than $1 billion, the first tour to pass that mark; 4.3 million tickets at average $238.95",
       "sourceIds": [
         "intix-pollstar-2023"
       ],
       "verdict": "confirmed",
-      "note": "Pollstar (12/11/23): over $1 billion, first tour to surpass it; described as an estimate."
+      "note": "Pollstar-via-Intix article dated 12 Dec 2023: 'grossed more than $1 billion', '4.3 million tickets at an average ticket price of $238.95', 'first tour ever to surpass'. Estimate per Pollstar."
     },
     {
-      "claim": "4,3 Millionen Tickets zu durchschnittlich 238,95 US-Dollar",
+      "claim": "Guinness: highest-grossing music tour, citing Pollstar's $1.04 billion; 151 shows; Elton John farewell tour $939 million over 328 shows",
       "sourceIds": [
-        "intix-pollstar-2023"
+        "guinness-eras-2023"
       ],
       "verdict": "confirmed",
-      "note": "Source: 4.3 million tickets, average $238.95."
+      "note": "Guinness article (12 Dec 2023): '$1.04 billion ... according to Pollstar', '151 shows worldwide', Elton John '$939 million ... over 328 shows'."
     },
     {
-      "claim": "Rund 2,2 Milliarden US-Dollar bis Dezember 2024, 149 Shows, Pollstar-Schätzung",
+      "claim": "Eras Tour began 17 March 2023 and ended with a final show in Vancouver on 8 December 2024",
+      "sourceIds": [
+        "pollstar-eras-final-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Pollstar: 'kicked off on March 17, 2023'; final show 'Sunday night (Dec. 8, 2024)' at Vancouver's B.C. Place."
+    },
+    {
+      "claim": "Pollstar final tally: 149 shows across 51 stadiums; 10.055 million tickets; gross $2.2 billion",
+      "sourceIds": [
+        "pollstar-eras-final-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Pollstar page: '149 shows across 51 stadiums', '10.055 million' tickets, gross '$2.2 billion' (estimate)."
+    },
+    {
+      "claim": "Press report of the tour's end repeats the $2.2 billion Pollstar estimate",
       "sourceIds": [
         "kctv5-pollstar-2024"
       ],
       "verdict": "confirmed",
-      "note": "Source: $2.2 billion, Pollstar estimates across 149 shows, tour ended Dec 2024."
+      "note": "KCTV5 headline: 'grossing an estimated $2.2B, Pollstar says'."
     },
     {
-      "claim": "4,002 Millionen Einheiten in der ersten Woche, Luminate-Daten über Billboard",
+      "claim": "The Life of a Showgirl debuted with 4.002 million equivalent album units in its first US week (Luminate), counting streaming",
       "sourceIds": [
         "today-showgirl-2025"
       ],
       "verdict": "confirmed",
-      "note": "Source: 4.002 million units, Billboard citing Luminate."
+      "note": "TODAY: 'sold 4.002 million units, including album sales and streaming activity', citing Luminate via Billboard. TODAY does not use the word 'equivalent'; the substance matches."
     },
     {
-      "claim": "Höchster Erstwochenwert seit 1991; Adeles 25 mit 3,482 Millionen überholt",
+      "claim": "Pure album sales over 3.4 million copies in the first week",
+      "sourceIds": [
+        "mbw-showgirl-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "MBW: 'sold over 3.4 million copies in its first week in the US alone'."
+    },
+    {
+      "claim": "First album in US history to pass 4 million units in one week",
+      "sourceIds": [
+        "thefader-showgirl-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "FADER: 'the first album in history to earn over 4 million units in a single week in the US'."
+    },
+    {
+      "claim": "Record for most albums sold in a week in the US (reported)",
+      "sourceIds": [
+        "mbw-showgirl-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "MBW: 'breaking the record for the most albums sold in a week in the United States', reported via Billboard."
+    },
+    {
+      "claim": "Beat Adele's 25 as the prior record",
       "sourceIds": [
         "today-showgirl-2025"
       ],
       "verdict": "confirmed",
-      "note": "Source: most since Luminate began collecting in 1991; 25 debuted with 3.482 million."
+      "note": "TODAY: 'toppled Adele's 25, which debuted in November 2015 with 3.482 million units'."
     },
     {
-      "claim": "Offizielle Website bewirbt The Life of a Showgirl",
+      "claim": "Adele's 25 first week: TODAY gives 3.482 million, MBW gives 3.378 million; sources disagree and the page says so",
+      "sourceIds": [
+        "today-showgirl-2025",
+        "mbw-showgirl-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Both figures confirmed on their pages. The disagreement is stated in the body and cites both sources."
+    },
+    {
+      "claim": "Her 15th No. 1 on the Billboard 200; first solo artist with 15 No. 1 albums",
+      "sourceIds": [
+        "thefader-showgirl-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "FADER: 'the first solo artist in history to score 15 No. 1 albums on the Billboard 200'."
+    },
+    {
+      "claim": "The Tortured Poets Department: 2.61 million equivalent album units in its first week (Luminate); her 14th No. 1",
+      "sourceIds": [
+        "nbc-ttpd-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "NBC Washington: '2.61 million equivalent album units', Luminate; 'a 14th No. 1 album'."
+    },
+    {
+      "claim": "Official website sells a digital release, Patient Zero From The Life of a Showgirl: The Encore, plus physical editions",
       "sourceIds": [
         "taylorswift-official"
       ],
       "verdict": "confirmed",
-      "note": "Homepage banner promotes The Life of a Showgirl."
+      "note": "Site shows the Encore title as 'Available Now' (banner alt text), a 'Patient Zero Digital Download' section, and vinyl and CD editions of The Life of a Showgirl."
     },
     {
-      "claim": "Forbes schätzt 2 Milliarden US-Dollar zum 26. Oktober 2026",
+      "claim": "Forbes net worth $2 billion, real-time figure as of 26 Oct 2026",
       "sourceIds": [
         "forbes-profile"
       ],
       "verdict": "confirmed",
-      "note": "Forbes: $2B as of 10/26/26."
+      "note": "Forbes: 'Real Time Net Worth' '$2B' 'as of 10/26/26'. Forbes does not itself use the word 'estimate' for the total; the article's 'estimate' framing is accurate."
     },
     {
-      "claim": "Aufschlüsselung vom 3. Juni 2026: knapp 800, 600 und 110 Millionen US-Dollar",
+      "claim": "Forbes breakdown: royalties and touring nearly $800 million, music catalog about $600 million, real estate about $110 million; update dated 3 June 2026",
       "sourceIds": [
         "forbes-profile"
       ],
       "verdict": "confirmed",
-      "note": "Forbes: updated Jun 3, 2026; nearly $800M royalties and touring, $600M catalog, $110M real estate."
+      "note": "Forbes: 'nearly $800 million amassed from royalties and touring', catalog 'an estimated $600 million', '$110 million in real estate', 'Last Updated Jun 3, 2026'."
     }
   ],
   "uncitedClaims": [],
-  "readsHumanWritten": true,
+  "readsHumanWritten": false,
   "addsValue": true,
-  "valueNote": "Separates Pollstar estimates from reported figures and dates the Forbes breakdown to its June 2026 update.",
-  "decision": "approve",
-  "summary": "All dated, numeric and factual claims confirmed against the cited sources. The Tennessee detail was removed because the cited source names only Nashville. Short of the 900-word importance guideline; not a fact problem."
+  "valueNote": "The facts and corrections match the en page, but the German text is a sentence-by-sentence translation of en. It keeps the same headings, citation order and quotes, and the targetQueries are translations rather than local searches. Use German-market queries and conventions rather than a literal rendering.",
+  "decision": "reject",
+  "summary": "Facts check out against the cited sources, but the German version fails the localisation rule: it is a sentence-by-sentence translation of en. Rewrite it for local readers and local queries, with local context and local-language sources where they are as good, then resubmit for review."
 }

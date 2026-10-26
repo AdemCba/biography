@@ -1,0 +1,258 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 19 April 2000 in Oslo",
+      "sourceIds": [
+        "olympiatoppen-athlete"
+      ],
+      "verdict": "confirmed",
+      "note": "Olympiatoppen: 'Born: 19.04.2000 - Oslo'."
+    },
+    {
+      "claim": "Bærums Skiklub is his listed club",
+      "sourceIds": [
+        "olympiatoppen-athlete"
+      ],
+      "verdict": "confirmed",
+      "note": "Club listed as Bærums Skiklub."
+    },
+    {
+      "claim": "Norwegian father, Brazilian mother; raised between Norway and São Paulo; bilingual",
+      "sourceIds": [
+        "storyproductions-profile-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Story Productions states all three."
+    },
+    {
+      "claim": "Five World Cup wins for Norway; world number one in slalom",
+      "sourceIds": [
+        "storyproductions-profile-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'five World Cup victories' and 'world's number one ranking in slalom'."
+    },
+    {
+      "claim": "Won slalom Crystal Globe in the last season before retiring",
+      "sourceIds": [
+        "fis-comeback-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "FIS: 'won the slalom Crystal Globe last season' (2022/23)."
+    },
+    {
+      "claim": "Retired October 2023, aged 23",
+      "sourceIds": [
+        "fis-comeback-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "FIS: retired in October, aged 23; the 2023 year is implied by the March 2024 announcement and is consistent with age 23 born April 2000."
+    },
+    {
+      "claim": "Falling-out with Norwegian federation over sponsorship rights",
+      "sourceIds": [
+        "storyproductions-profile-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'a falling out with the Norwegian federation over sponsorship rights'."
+    },
+    {
+      "claim": "'sure was difficult' about leaving the Norwegian team",
+      "sourceIds": [
+        "fis-comeback-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "'It sure was difficult,' he said."
+    },
+    {
+      "claim": "Hard not 'waking up every day in the pursuit of becoming the best in the world at something'",
+      "sourceIds": [
+        "fis-comeback-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Verbatim phrase confirmed on FIS page on second fetch."
+    },
+    {
+      "claim": "Went home to Norway for family, then bought one-way ticket to Brazil and settled on Ilhabela",
+      "sourceIds": [
+        "fis-comeback-2024",
+        "storyproductions-profile-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "FIS quotes the family return and one-way ticket; Story Productions names Ilhabela."
+    },
+    {
+      "claim": "Felt unable to be himself in the federation system / stepped away from sport",
+      "sourceIds": [
+        "storyproductions-profile-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Story Productions: 'not being free to be himself' and that he walked away from skiing. Body no longer contains the praise claim."
+    },
+    {
+      "claim": "March 2024 press conference in Austria announcing return for Brazil; 'beyond proud' quote",
+      "sourceIds": [
+        "fis-comeback-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated 7 March 2024; 'at a press conference in Austria on Thursday'; 'beyond proud' confirmed."
+    },
+    {
+      "claim": "'the country where I discovered my love for sports'",
+      "sourceIds": [
+        "fis-comeback-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact wording confirmed."
+    },
+    {
+      "claim": "FIS rule 203.5; application to FIS Council at spring meeting",
+      "sourceIds": [
+        "fis-comeback-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Contacted Brazilian federation after former partners said they would support a comeback",
+      "sourceIds": [
+        "fis-comeback-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Partners' support quote and Brazilian federation contact confirmed."
+    },
+    {
+      "claim": "'for the person I am, not just based on the flag I represent'",
+      "sourceIds": [
+        "fis-comeback-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact wording confirmed."
+    },
+    {
+      "claim": "Raced in green and yellow with 'Vamos Dançar' on helmet",
+      "sourceIds": [
+        "storyproductions-profile-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "First World Cup start under Brazilian flag at Sölden; Sölden giant slalom on Sunday 26 October 2025",
+      "sourceIds": [
+        "skiracing-solden-2025-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Article states Sunday, Oct. 26 and first start under Brazilian flag in Sölden last season."
+    },
+    {
+      "claim": "21 December 2025 Alta Badia giant slalom, second, 0.18 s behind Marco Schwarz",
+      "sourceIds": [
+        "dgabc-alta-badia-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Sunday 21 Dec 2025; second, 0.18 s behind Schwarz."
+    },
+    {
+      "claim": "Seventh podium for Brazil and third in giant slalom, not his specialty",
+      "sourceIds": [
+        "infomoney-podiums-2025",
+        "dgabc-alta-badia-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "'sétimo pódio' and 'que não é sua especialidade' confirmed."
+    },
+    {
+      "claim": "Slalom medals: gold Levi, silver Adelboden, bronze Kitzbühel and Hafjell",
+      "sourceIds": [
+        "dgabc-alta-badia-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "All four medals confirmed."
+    },
+    {
+      "claim": "Bormio men's giant slalom on 14 February 2026, gold, Brazil's first Winter Olympic medal/gold",
+      "sourceIds": [
+        "nbc-sports-gold-times-2026",
+        "nbc-olympics-gold-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Race date 14 Feb 2026 at Stelvio, Bormio; first Winter medal for South America and it was gold."
+    },
+    {
+      "claim": "Listed among Brazil starters in Olympedia men's giant slalom",
+      "sourceIds": [
+        "olympedia-gs-2026-entries"
+      ],
+      "verdict": "confirmed",
+      "note": "Listed as Nr. 13, BRA."
+    },
+    {
+      "claim": "First run 1:13.92, second run 1:11.08, combined 2:25.00",
+      "sourceIds": [
+        "nbc-sports-gold-times-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact times confirmed."
+    },
+    {
+      "claim": "First run nearly a second faster than Odermatt; Odermatt 0.58 s behind",
+      "sourceIds": [
+        "storyproductions-profile-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'nearly a second ahead of Marco Odermatt' and '0.58 seconds ahead of Odermatt'. Silver for Odermatt is implied by 'Two Swiss on the podium'."
+    },
+    {
+      "claim": "First medal at Winter Games for any South American country; gold; first South American on alpine Olympic podium; Carnival first full day; Brazil House Milan",
+      "sourceIds": [
+        "nbc-olympics-gold-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "All confirmed."
+    },
+    {
+      "claim": "'Norway taught me how to be an athlete, how to brave the cold. Brazil taught me how to be myself.'",
+      "sourceIds": [
+        "storyproductions-profile-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Full quote confirmed verbatim on second fetch."
+    },
+    {
+      "claim": "Fernanda Gentil asked 'Você é da onde?' and apologised 'Desculpa, imprensa global. Estamos no Carnaval!'",
+      "sourceIds": [
+        "storyproductions-profile-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Both quotes confirmed."
+    },
+    {
+      "claim": "Age 26 as of 26 October 2026 (FAQ)",
+      "sourceIds": [
+        "olympiatoppen-athlete"
+      ],
+      "verdict": "confirmed",
+      "note": "Born 19 April 2000; arithmetic correct."
+    },
+    {
+      "claim": "Brazil's first Winter Olympic champion (summary, intro)",
+      "sourceIds": [
+        "storyproductions-profile-2026",
+        "nbc-olympics-gold-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Gold was first Winter medal for South America and for Brazil per NBC; consistent."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds a sourced timeline from Norway to Brazil, the sponsorship dispute, FIS licence process and race times the usual results pages omit.",
+  "decision": "approve",
+  "summary": "All checked dates, times, titles, claims and quotes match the fetched sources."
+}

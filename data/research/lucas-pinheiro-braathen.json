@@ -1,0 +1,102 @@
+{
+  "worthWriting": true,
+  "reason": "Olympic men's giant slalom champion at Milano Cortina 2026 (Bormio), Brazil's first Winter Olympic gold per the storyproductions and NBC pieces; at least five opened sources, including FIS and Olympiatoppen. The 25 Oct 2026 Sölden win in the brief could not be confirmed by any opened source, so it is excluded.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "fis-comeback-2024",
+      "url": "https://www.fis-ski.com/alpine-skiing/news/2023-24/b7699b89-f327-4950-a880-8a8770dbc092",
+      "title": "Lucas Pinheiro Braathen returns to Alpine Skiing for Brazil (FIS news, March 2024)",
+      "publisher": "International Ski and Snowboard Federation (FIS)",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "olympiatoppen-athlete",
+      "url": "https://olympiatoppen.no/ol-og-paralympics/beijing-2022/ol/team-and-media-guide/norwegian-olympic-team/athletes/",
+      "title": "Norwegian Olympic team athletes (Lucas Pinheiro Braathen entry)",
+      "publisher": "Olympiatoppen",
+      "type": "official",
+      "lang": "no"
+    },
+    {
+      "id": "nbc-olympics-gold-2026",
+      "url": "https://www.nbclosangeles.com/olympics/2026-milan-cortina/brazil-first-winter-olympics-gold-meaning/3847519/?amp=1",
+      "title": "What Brazil's first Winter Olympics gold means (NBC Olympics, 14 Feb 2026)",
+      "publisher": "NBC Olympics",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "nbc-sports-gold-times-2026",
+      "url": "https://www.nbcsportsboston.com/olympics/2026-milan-cortina/lucas-pinheiro-braathen-delivers-historic-alpine-skiing-giant-slalom-gold-for-brazil/769605/?amp=1",
+      "title": "Lucas Pinheiro Braathen delivers historic alpine skiing giant slalom gold for Brazil",
+      "publisher": "NBC Sports",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "storyproductions-profile-2026",
+      "url": "https://www.storyproductions.com/it-snowed-on-carnival-lucas-pinheiro-braathen-and-brazil-s-historic-olympic-gold",
+      "title": "It Snowed on Carnival: Lucas Pinheiro Braathen and Brazil's Historic Olympic Gold",
+      "publisher": "Story Productions",
+      "type": "other",
+      "lang": "en"
+    },
+    {
+      "id": "olympedia-gs-2026-entries",
+      "url": "https://www.olympedia.org/events/15001400",
+      "title": "Men's Giant Slalom, Alpine Skiing, Milano Cortina 2026 (Olympedia)",
+      "publisher": "Olympedia",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "skiracing-solden-2025-preview",
+      "url": "https://skiracing.com/odermatt-meillard-headline-mens-solden-opener",
+      "title": "Odermatt, Meillard headline men's Sölden opener",
+      "publisher": "Ski Racing",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "2000-04-19",
+      "sources": [
+        "olympiatoppen-athlete"
+      ],
+      "note": "Olympiatoppen entry reads 'Born: 19.04.2000 - Oslo'."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Oslo, Norway",
+      "sources": [
+        "olympiatoppen-athlete",
+        "storyproductions-profile-2026"
+      ],
+      "note": "Both sources give Oslo as birthplace."
+    },
+    "nationality": {
+      "value": "NO,BR",
+      "sources": [
+        "storyproductions-profile-2026",
+        "fis-comeback-2024"
+      ],
+      "note": "Story Productions describes him as Norwegian-Brazilian: competed for Norway until 2023 and for Brazil from 2024. FIS says he previously represented Norway and returned racing for Brazil, the country of his mother. No source quoted here states an official nationality code."
+    }
+  },
+  "targetQueries": [
+    "Lucas Pinheiro Braathen",
+    "Lucas Braathen Brazil",
+    "Lucas Pinheiro Braathen Olympic gold",
+    "Lucas Pinheiro Braathen giant slalom Bormio",
+    "Lucas Pinheiro Braathen Norway Brazil",
+    "Lucas Pinheiro Braathen age",
+    "Lucas Pinheiro Braathen Sölden",
+    "Brazil first Winter Olympic gold medal"
+  ],
+  "gapNote": "Top results are Wikipedia, Red Bull profile pages and low-reliability celebrity sites with unverified net worth, parents and height. A dated, sourced timeline (birth, Norway career, 2023 retirement, 2024 return for Brazil, Olympic gold) is the gap. The 25 Oct 2026 Sölden result could not be verified in any opened source; the 2025 Sölden preview confirms only his first Brazil World Cup start there, so the page leaves the 2026 claim out."
+}

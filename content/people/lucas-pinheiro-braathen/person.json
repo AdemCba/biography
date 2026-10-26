@@ -1,0 +1,121 @@
+{
+  "id": "lucas-pinheiro-braathen",
+  "name": "Lucas Pinheiro Braathen",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "2000-04-19",
+      "sources": [
+        "olympiatoppen-athlete"
+      ],
+      "note": "Olympiatoppen entry reads 'Born: 19.04.2000 - Oslo'."
+    },
+    "birthPlace": {
+      "value": "Oslo, Norway",
+      "sources": [
+        "olympiatoppen-athlete",
+        "storyproductions-profile-2026"
+      ],
+      "note": "Both sources give Oslo as birthplace."
+    },
+    "nationality": {
+      "value": [
+        "NO",
+        "BR"
+      ],
+      "sources": [
+        "storyproductions-profile-2026",
+        "fis-comeback-2024"
+      ],
+      "note": "Story Productions describes him as Norwegian-Brazilian: competed for Norway until 2023 and for Brazil from 2024. FIS says he previously represented Norway and returned racing for Brazil, the country of his mother. No source quoted here states an official nationality code."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "fis-comeback-2024",
+      "url": "https://www.fis-ski.com/alpine-skiing/news/2023-24/b7699b89-f327-4950-a880-8a8770dbc092",
+      "title": "Lucas Pinheiro Braathen returns to Alpine Skiing for Brazil (FIS news, March 2024)",
+      "publisher": "International Ski and Snowboard Federation (FIS)",
+      "type": "league-or-federation",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "olympiatoppen-athlete",
+      "url": "https://olympiatoppen.no/ol-og-paralympics/beijing-2022/ol/team-and-media-guide/norwegian-olympic-team/athletes/",
+      "title": "Norwegian Olympic team athletes (Lucas Pinheiro Braathen entry)",
+      "publisher": "Olympiatoppen",
+      "type": "official",
+      "accessed": "2026-10-26",
+      "lang": "no"
+    },
+    {
+      "id": "nbc-olympics-gold-2026",
+      "url": "https://www.nbclosangeles.com/olympics/2026-milan-cortina/brazil-first-winter-olympics-gold-meaning/3847519/?amp=1",
+      "title": "What Brazil's first Winter Olympics gold means (NBC Olympics, 14 Feb 2026)",
+      "publisher": "NBC Olympics",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "nbc-sports-gold-times-2026",
+      "url": "https://www.nbcsportsboston.com/olympics/2026-milan-cortina/lucas-pinheiro-braathen-delivers-historic-alpine-skiing-giant-slalom-gold-for-brazil/769605/?amp=1",
+      "title": "Lucas Pinheiro Braathen delivers historic alpine skiing giant slalom gold for Brazil",
+      "publisher": "NBC Sports",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "storyproductions-profile-2026",
+      "url": "https://www.storyproductions.com/it-snowed-on-carnival-lucas-pinheiro-braathen-and-brazil-s-historic-olympic-gold",
+      "title": "It Snowed on Carnival: Lucas Pinheiro Braathen and Brazil's Historic Olympic Gold",
+      "publisher": "Story Productions",
+      "type": "other",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "olympedia-gs-2026-entries",
+      "url": "https://www.olympedia.org/events/15001400",
+      "title": "Men's Giant Slalom, Alpine Skiing, Milano Cortina 2026 (Olympedia)",
+      "publisher": "Olympedia",
+      "type": "database",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "skiracing-solden-2025-preview",
+      "url": "https://skiracing.com/odermatt-meillard-headline-mens-solden-opener",
+      "title": "Odermatt, Meillard headline men's Sölden opener",
+      "publisher": "Ski Racing",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "dgabc-alta-badia-2025",
+      "url": "https://www.dgabc.com.br/Noticia/4275792/lucas-braathen-conquista-a-prata-no-slalom-gigante-em-etapa-italiana-da-copa-do-mundo-de-esqui",
+      "title": "Lucas Braathen conquista a prata no slalom gigante em etapa italiana da Copa do Mundo de esqui",
+      "publisher": "DGABC",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "pt"
+    },
+    {
+      "id": "infomoney-podiums-2025",
+      "url": "https://www.infomoney.com.br/?p=3149713",
+      "title": "Lucas Braathen conquista a prata em etapa italiana da Copa do Mundo de esqui",
+      "publisher": "InfoMoney",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "pt"
+    }
+  ]
+}

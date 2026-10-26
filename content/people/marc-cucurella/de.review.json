@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "WRONG: \"Summary, FAQ and body citation tags\" (The summary and FAQ answers carry [s:id] tags. Per the checking rules, tags belong in the body only. Remove them from frontmatter.)",
+    "Reviewer recommends rejection: All checked facts are supported by the sources. Reject for formatting: the summary and FAQ answers contain [s:id] citation tags, which belong only in the body. Remove those tags and resubmit."
+  ],
+  "claims": [
+    {
+      "claim": "Geboren am 22. Juli 1998 in Alella, Spanien",
+      "sourceIds": [
+        "laliga-five-things",
+        "fotmob-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "LaLiga gives 22/07/1998 and 'native Alella'; FotMob gives 22 July 1998 and Spain."
+    },
+    {
+      "claim": "Am 26. Oktober 2026 28 Jahre alt",
+      "sourceIds": [
+        "laliga-five-things",
+        "fotmob-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Neither page states an age. The figure is arithmetic from the confirmed birth date and is correct."
+    },
+    {
+      "claim": "Spanische Nationalmannschaft; 35 Laenderspiele, 1 Tor, 4 Vorlagen",
+      "sourceIds": [
+        "theanalyst-national",
+        "fotmob-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "The Analyst gives 35 games, 1 goal, 4 assists, undated, as the article notes. FotMob gives 35 senior appearances."
+    },
+    {
+      "claim": "Futsal in Alella mit vier Jahren; Probetraining beim Espanyol mit Vater Oscar; Scouts Guillermo Amor und Albert Puig nach Spiel gegen CF Damm; Wechsel ins Camp Nou 2012; Vorbilder David Luiz und Carles Puyol",
+      "sourceIds": [
+        "laliga-five-things"
+      ],
+      "verdict": "confirmed",
+      "note": "All stated on the LaLiga page."
+    },
+    {
+      "claim": "LaLiga-Debuet am 25. September 2018: 90 Minuten beim 1:0-Auswaertssieg des SD Eibar gegen Espanyol",
+      "sourceIds": [
+        "laliga-five-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on the LaLiga page."
+    },
+    {
+      "claim": "Chelsea holte ihn mit einem Sechsjahresvertrag von Brighton & Hove Albion",
+      "sourceIds": [
+        "chelsea-cucurella-becomes-a-blue"
+      ],
+      "verdict": "confirmed",
+      "note": "Chelsea page: 'from Brighton & Hove Albion', 'six-year contract'."
+    },
+    {
+      "claim": "Ging nach vier erfolgreichen Jahren an der Stamford Bridge zu Real Madrid",
+      "sourceIds": [
+        "chelsea-summer-transfers-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Chelsea summer review states four successful seasons."
+    },
+    {
+      "claim": "Real Madrid verkuendete die Einigung am 15. Juni 2026",
+      "sourceIds": [
+        "hardtackle-official-cucurella",
+        "peninsula-real-madrid-confirm"
+      ],
+      "verdict": "confirmed",
+      "note": "Both pages are dated 15 June 2026."
+    },
+    {
+      "claim": "Vertrag bis 30. Juni 2032, sechs Spielzeiten",
+      "sourceIds": [
+        "peninsula-real-madrid-confirm",
+        "geosuper-cucurella-2032"
+      ],
+      "verdict": "confirmed",
+      "note": "Peninsula and GeoSuper both give 30 June 2032 and six seasons."
+    },
+    {
+      "claim": "Zitat zum Chelsea-Deal: 'Real Madrid und Chelsea haben sich ueber den Transfer des Spielers Marc Cucurella geeinigt'",
+      "sourceIds": [
+        "peninsula-real-madrid-confirm"
+      ],
+      "verdict": "confirmed",
+      "note": "Faithful German rendering of the English line quoted by The Peninsula."
+    },
+    {
+      "claim": "LaLiga-Transferuebersicht 2026/27 mit Yan Diomande, Bernardo Silva, Konate, Dumfries, Carlos Espi; Neuzugaenge frueher als geplant",
+      "sourceIds": [
+        "laliga-transfers-2026-27"
+      ],
+      "verdict": "confirmed",
+      "note": "Names confirmed. The source says reinforcements 'arrived ahead of schedule' and the club 'didn't leave things until the final days'."
+    },
+    {
+      "claim": "AFP: Ablösesumme angeblich 55 Millionen Euro (63,8 Millionen US-Dollar)",
+      "sourceIds": [
+        "nst-real-sign-cucurella"
+      ],
+      "verdict": "confirmed",
+      "note": "Figures match. NST mentions no add-ons."
+    },
+    {
+      "claim": "Fabrizio Romano: Grundsumme 55 Millionen Euro und 5 Millionen Euro Zusatzzahlungen",
+      "sourceIds": [
+        "hardtackle-official-cucurella"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the Hard Tackle article."
+    },
+    {
+      "claim": "GeoSuper: anfaenglich 55 Millionen Euro, weitere 5 Millionen Euro leistungsbezogen; Real Madrid hat Details nicht offengelegt",
+      "sourceIds": [
+        "geosuper-cucurella-2032"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches. GeoSuper says nothing about Chelsea's disclosure."
+    },
+    {
+      "claim": "Real Madrid hat keine offizielle Summe veroeffentlicht",
+      "sourceIds": [
+        "geosuper-cucurella-2032"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported for Real Madrid only, and the body limits it to Real Madrid."
+    },
+    {
+      "claim": "26. August 2026: Einwechslung in der 45. Minute fuer Alvaro Carreras beim 4:1 gegen Real Sociedad",
+      "sourceIds": [
+        "laliga-sociedad-match"
+      ],
+      "verdict": "confirmed",
+      "note": "Score, date and substitution confirmed."
+    },
+    {
+      "claim": "Startelf beim 4:0 gegen Malaga vier Tage spaeter",
+      "sourceIds": [
+        "laliga-malaga-match"
+      ],
+      "verdict": "confirmed",
+      "note": "Match dated 30 August 2026, 4-0, Cucurella among starters."
+    },
+    {
+      "claim": "LaLiga-Statistik: 10 Spiele (6 Startelf, 4 Einwechslungen), 655 Minuten, 390 Paesse; ohne Stichtag",
+      "sourceIds": [
+        "laliga-real-madrid-stats"
+      ],
+      "verdict": "confirmed",
+      "note": "Figures match. The page gives no date range, which the article notes."
+    },
+    {
+      "claim": "25. Oktober 2026: Real Madrid 2:1 gegen Barcelona; vier Fouls in den ersten 38 Minuten; zwei zugelassene Ecken in der 61. und 83. Minute",
+      "sourceIds": [
+        "laliga-clasico-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Score, fouls (6', 14', 32', 38') and corners (61', 83') all match."
+    },
+    {
+      "claim": "Summary, FAQ and body citation tags",
+      "sourceIds": [],
+      "verdict": "wrong",
+      "note": "The summary and FAQ answers carry [s:id] tags. Per the checking rules, tags belong in the body only. Remove them from frontmatter."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Sets out the three differing fee reports side by side, notes that only two include the add-ons, flags undated stats and the 2032 contract. German headings and conventions are localised. Plain, concrete voice.",
+  "decision": "reject",
+  "summary": "All checked facts are supported by the sources. Reject for formatting: the summary and FAQ answers contain [s:id] citation tags, which belong only in the body. Remove those tags and resubmit."
+}

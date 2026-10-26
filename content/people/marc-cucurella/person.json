@@ -1,0 +1,167 @@
+{
+  "id": "marc-cucurella",
+  "name": "Marc Cucurella",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1998-07-22",
+      "sources": [
+        "laliga-five-things",
+        "fotmob-profile"
+      ],
+      "note": "LaLiga page states 'Born 22/07/1998'; FotMob lists July 22, 1998."
+    },
+    "birthPlace": {
+      "value": "Alella, Spain",
+      "sources": [
+        "laliga-five-things"
+      ],
+      "note": "LaLiga page: 'his native Alella'. No other opened page states a birthplace."
+    },
+    "nationality": {
+      "value": [
+        "ES"
+      ],
+      "sources": [
+        "fotmob-profile",
+        "theanalyst-national"
+      ],
+      "note": "Both pages list Spain as affiliation; the national team record confirms Spain caps."
+    }
+  },
+  "related": [
+    "yan-diomande"
+  ],
+  "sources": [
+    {
+      "id": "laliga-five-things",
+      "url": "https://www.laliga.com/en-GB/news/five-things-you-may-not-know-about-marc-cucurella",
+      "title": "Five things you may not know about Marc Cucurella",
+      "publisher": "LaLiga",
+      "type": "league-or-federation",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "chelsea-summer-transfers-2026",
+      "url": "https://www.chelseafc.com/en/news/article/summer-transfers-2026-all-the-chelsea-ins-outs-and-new-contracts-so-far?ssoc=1",
+      "title": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far",
+      "publisher": "Chelsea FC",
+      "type": "official",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "peninsula-real-madrid-confirm",
+      "url": "https://thepeninsulaqatar.com/article/15/06/2026/real-madrid-confirm-cucurella-signing-from-chelsea",
+      "title": "Real Madrid confirm Cucurella signing from Chelsea",
+      "publisher": "The Peninsula",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "nst-real-sign-cucurella",
+      "url": "https://www.nst.com.my/amp/sports/football/2026/06/1463989/real-sign-cucurella-chelsea",
+      "title": "Real sign Cucurella from Chelsea",
+      "publisher": "New Straits Times",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "hardtackle-official-cucurella",
+      "url": "https://thehardtackle.com/transfer-news/2026/06/15/official-marc-cucurella-joins-real-madrid-from-chelsea/",
+      "title": "Official: Marc Cucurella joins Real Madrid from Chelsea",
+      "publisher": "The Hard Tackle",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "geosuper-cucurella-2032",
+      "url": "https://www.geosuper.tv/latest/56875-real-madrid-sign-marc-cucurella-until-2032",
+      "title": "Real Madrid sign Marc Cucurella until 2032",
+      "publisher": "GeoSuper",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "theanalyst-national",
+      "url": "https://theanalyst.com/players/3912/marc-cucurella/national",
+      "title": "Marc Cucurella national team player information",
+      "publisher": "The Analyst",
+      "type": "database",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "fotmob-profile",
+      "url": "https://www.fotmob.com/es-419/players/873289",
+      "title": "Marc Cucurella player profile",
+      "publisher": "FotMob",
+      "type": "database",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "chelsea-cucurella-becomes-a-blue",
+      "url": "https://www.chelseafc.com/en/news/article/cucurella-becomes-a-blue?webview=true&ssoc=1",
+      "title": "Cucurella becomes a Blue",
+      "publisher": "Chelsea FC",
+      "type": "official",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "laliga-transfers-2026-27",
+      "url": "https://www.laliga.com/en-ES/news/repasa-el-mercado-de-fichajes-de-laliga-ea-sports-2026-27",
+      "title": "Check out the LALIGA EA SPORTS 2026/27 transfer market",
+      "publisher": "LaLiga",
+      "type": "league-or-federation",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "laliga-malaga-match",
+      "url": "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-real-madrid-malaga-cf-3",
+      "title": "Real Madrid vs Málaga CF - LALIGA EA SPORTS",
+      "publisher": "LaLiga",
+      "type": "league-or-federation",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "laliga-sociedad-match",
+      "url": "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-real-madrid-real-sociedad-1",
+      "title": "Real Madrid vs Real Sociedad - LALIGA EA SPORTS",
+      "publisher": "LaLiga",
+      "type": "league-or-federation",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "laliga-real-madrid-stats",
+      "url": "https://www.laliga.com/en-GB/clubs/real-madrid/stats",
+      "title": "Leaders and General Statistics of the Real Madrid",
+      "publisher": "LaLiga",
+      "type": "league-or-federation",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "laliga-clasico-2026",
+      "url": "https://www.laliga.com/en-GB/partidazos/el-clasico",
+      "title": "FC Barcelona vs Real Madrid - LALIGA EA SPORTS",
+      "publisher": "LaLiga",
+      "type": "league-or-federation",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    }
+  ]
+}

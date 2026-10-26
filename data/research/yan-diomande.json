@@ -1,0 +1,108 @@
+{
+  "worthWriting": true,
+  "reason": "Ivory Coast international winger, Bundesliga Rookie of the Season 2025/26 with RB Leipzig, signed for Real Madrid on 6 August 2026. Eight opened sources including one league source; the Real Madrid and RB Leipzig pages could not be opened in full.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "bundesliga-rookie-2025-26",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/rookie-of-the-month-2025-26-vote-winners-sorare-34232",
+      "title": "Yan Diomande named 2025/26 Bundesliga Rookie of the Season!",
+      "publisher": "Bundesliga (DFL)",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "beinsports-signing",
+      "url": "https://www.beinsports.com/en-us/soccer/la-liga/articles/real-madrid-officially-announces-the-signing-of-yan-diomande-2026-08-06",
+      "title": "Real Madrid Officially Announces the Signing of Yan Diomande",
+      "publisher": "beIN Sports",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "irishnews-signing",
+      "url": "https://www.irishnews.com/sport/soccer/real-madrid-complete-signing-of-yan-diomande-on-seven-year-deal-2X4DLATPS5NKPLZOYKTZMETIMA/",
+      "title": "Real Madrid complete signing of Yan Diomande on seven-year deal",
+      "publisher": "Irish News (Press Association)",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "fotmob-player",
+      "url": "https://www.fotmob.com/players/1735453",
+      "title": "Yan Diomande player profile",
+      "publisher": "FotMob",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "lalibre-profile",
+      "url": "https://www.lalibre.be/sports/football/2026/01/06/il-a-un-talent-fou-qui-est-yan-diomande-le-futur-joueur-africain-le-plus-cher-de-lhistoire-GIXI43ZXDVC3XJG6AWXN44B2BU/",
+      "title": "\"Il a un talent fou\": qui est Yan Diomande, le futur joueur africain le plus cher de l'histoire ?",
+      "publisher": "La Libre Belgique",
+      "type": "press",
+      "lang": "fr"
+    },
+    {
+      "id": "africasoccer-rookie",
+      "url": "https://africasoccer.com/ivorian-sensation-yan-diomande-crowned-bundesliga-best-young-player-of-the-season/",
+      "title": "Ivorian sensation Yan Diomande crowned Bundesliga Best Young Player of the Season",
+      "publisher": "Africa Soccer",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "fratmat-world-cup-debut",
+      "url": "https://www.fratmat.info/article/2642575/sports/football/mondial-2026-yann-diomande-dans-lhistoire-du-football-ivoirien-des-son-premier-match",
+      "title": "Mondial 2026: Yan Diomandé dans l'histoire du football ivoirien dès son premier match",
+      "publisher": "Fratmat",
+      "type": "press",
+      "lang": "fr"
+    },
+    {
+      "id": "soccerway-hat-trick",
+      "url": "https://fr.soccerway.com/actualites/triple-d-yan-diomande-en-18-minutes-pour-leipzig-contre-francfort/nJcUsxWo",
+      "title": "Triplé d'Yan Diomandé en 18 minutes pour Leipzig contre Francfort",
+      "publisher": "Soccerway",
+      "type": "press",
+      "lang": "fr"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "2006-11-14",
+      "sources": [
+        "fotmob-player"
+      ],
+      "note": "FotMob gives the date of birth as November 14, 2006."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Abidjan, Ivory Coast",
+      "sources": [
+        "lalibre-profile"
+      ],
+      "note": "La Libre describes him as 'le natif d'Abidjan'."
+    },
+    "nationality": {
+      "value": "CI",
+      "sources": [
+        "fotmob-player"
+      ],
+      "note": "FotMob states he is from Ivory Coast and he plays for the Ivory Coast national team."
+    }
+  },
+  "targetQueries": [
+    "Yan Diomande Real Madrid",
+    "Yan Diomande transfer fee",
+    "Yan Diomande RB Leipzig",
+    "Yan Diomande Bundesliga rookie of the season",
+    "Yan Diomande Ivory Coast",
+    "Yan Diomande age",
+    "Yan Diomande contract",
+    "Yan Diomande stats"
+  ],
+  "gapNote": "The Real Madrid and RB Leipzig official pages returned errors when opened, so the club statements are not quoted directly; the signing is taken from beIN Sports and Irish News, which cite the club. Transfer fees differ by outlet (Press Association GBP 115.8m, IANS EUR 130m, Spanish media EUR 140m including bonuses), so the page should leave the fee out or attribute a single figure to its outlet and date. Season figures differ between sources (12 goals and 8 assists in 33 league matches per Bundesliga/Africa Soccer). The page can add the Leipzig move, the Ivory Coast World Cup debut at 19 years and 212 days, and the Bundesliga award, which current top results do not all cover."
+}

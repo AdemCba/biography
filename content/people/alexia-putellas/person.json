@@ -1,0 +1,91 @@
+{
+  "id": "alexia-putellas",
+  "name": "Alexia Putellas",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 5,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1994-02-04",
+      "sources": [
+        "soccerdonna-putellas-profile"
+      ],
+      "note": "Listed as 04.02.1994 on SoccerDonna; ESPN search snippet gives the same date but its page was not readable."
+    },
+    "birthPlace": {
+      "value": "Mollet del Vallès, Catalonia, Spain",
+      "sources": [
+        "soccerdonna-putellas-profile"
+      ],
+      "note": "Listed as Mollet del Vallés on SoccerDonna."
+    },
+    "nationality": {
+      "value": [
+        "ES"
+      ],
+      "sources": [
+        "soccerdonna-putellas-profile"
+      ],
+      "note": "Listed as Spain on SoccerDonna."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "fcb-farewell-2026",
+      "url": "https://www.fcbarcelona.com/en/football/womens-football/news/4510132/alexia-putellas-farewell-to-a-legend",
+      "title": "Alexia Putellas, farewell to a legend",
+      "publisher": "FC Barcelona",
+      "type": "official",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "fcb-ballon-dor-2022",
+      "url": "https://www.fcbarcelona.com/en/news/2857507/alexia-putellas-wins-second-ballon-dor",
+      "title": "Alexia Putellas wins second Ballon d'Or",
+      "publisher": "FC Barcelona",
+      "type": "official",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "ap-barcelona-departure-2026",
+      "url": "https://wtop.com/europe/2026/05/womens-soccer-star-alexia-putellas-leaves-barcelona-after-14-seasons/",
+      "title": "Women's soccer star Alexia Putellas leaves Barcelona after 14 seasons",
+      "publisher": "Associated Press",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "ap-london-city-signing-2026",
+      "url": "https://wtop.com/sports/2026/07/putellas-moves-to-english-soccer-as-statement-signing-by-london-city-lionesses/",
+      "title": "Putellas moves to English soccer as statement signing by London City Lionesses",
+      "publisher": "Associated Press",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "aljazeera-london-city-signing-2026",
+      "url": "https://www.aljazeera.com/sports/2026/7/8/spanish-football-legend-alexia-putellas-joins-london-city-lionesses",
+      "title": "Spanish football legend Alexia Putellas joins London City Lionesses",
+      "publisher": "Al Jazeera",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "soccerdonna-putellas-profile",
+      "url": "https://www.soccerdonna.de/en/spieler/4824/alexia-putellas/profil.html",
+      "title": "Alexia Putellas player profile",
+      "publisher": "SoccerDonna",
+      "type": "database",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    }
+  ]
+}

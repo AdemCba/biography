@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"L'ancien entraîneur Xavi Llorens, qui l'avait ramenée au club, a pris la parole\" (The farewell page names Xavi Llorens as speaking, but it does not say he brought her back to the club, and it does not describe him as former coach. Remove 'qui l'avait ramenée au club' and check the 'ancien' label.)",
+    "UNSUPPORTED: \"La cérémonie s'est ouverte par une vidéo de son annonce\" (The cited page does not state that the ceremony opened with a video of her announcement. Remove the sentence or cite a source that says so.)",
+    "UNSUPPORTED: \"L'AP qualifie le transfert de « recrutement phare »\" (The AP text says 'statement signing'. 'recrutement phare' is a paraphrase placed in quotation marks as if it were the AP's wording. Remove the quotation marks or quote the source accurately.)",
+    "Reviewer recommends rejection: Rejected. Two claims are not supported by the cited sources: that Xavi Llorens brought her back to the club (and is a former coach), and that the ceremony opened with a video of her announcement. The 'recrutement phare' phrase is in quotation marks as an AP quotation, but the AP says 'statement signing'. Fix or remove these and resubmit for review."
+  ],
+  "claims": [
+    {
+      "claim": "L'ancien entraîneur Xavi Llorens, qui l'avait ramenée au club, a pris la parole",
+      "sourceIds": [
+        "fcb-farewell-2026"
+      ],
+      "verdict": "unsupported",
+      "note": "The farewell page names Xavi Llorens as speaking, but it does not say he brought her back to the club, and it does not describe him as former coach. Remove 'qui l'avait ramenée au club' and check the 'ancien' label."
+    },
+    {
+      "claim": "La cérémonie s'est ouverte par une vidéo de son annonce",
+      "sourceIds": [
+        "fcb-farewell-2026"
+      ],
+      "verdict": "unsupported",
+      "note": "The cited page does not state that the ceremony opened with a video of her announcement. Remove the sentence or cite a source that says so."
+    },
+    {
+      "claim": "L'AP qualifie le transfert de « recrutement phare »",
+      "sourceIds": [
+        "ap-london-city-signing-2026"
+      ],
+      "verdict": "unsupported",
+      "note": "The AP text says 'statement signing'. 'recrutement phare' is a paraphrase placed in quotation marks as if it were the AP's wording. Remove the quotation marks or quote the source accurately."
+    },
+    {
+      "claim": "Deux Ballons d'Or, en 2021 et 2022; première lauréate à gagner deux fois; victoires sur deux années consécutives; 2020 annulé à cause de la Covid-19",
+      "sourceIds": [
+        "fcb-ballon-dor-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "The club page confirms the consecutive wins, the first two-time winner wording and the 2020 cancellation."
+    },
+    {
+      "claim": "Née le 4 février 1994 à Mollet del Vallès; poste de milieu offensif; nationalité espagnole",
+      "sourceIds": [
+        "soccerdonna-putellas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "SoccerDonna lists 04.02.1994, Mollet del Vallés, Spain and Attacking Midfield."
+    },
+    {
+      "claim": "Départ annoncé le mardi 26 mai 2026; 507 matchs; 232 buts; 38 trophées; quatre Ligues des champions",
+      "sourceIds": [
+        "ap-barcelona-departure-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "The AP article confirms the date, 507 games, 232 goals, 38 trophies and four Champions Leagues."
+    },
+    {
+      "claim": "Arrivée aux London City Lionesses le mercredi 8 juillet 2026; 32 ans; contrat avec le Barça expiré fin juin; Michele Kang; sixième sur 12",
+      "sourceIds": [
+        "ap-london-city-signing-2026",
+        "aljazeera-london-city-signing-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "AP and Al Jazeera confirm the Wednesday signing, the age of 32, the end-of-June expiry, the Kang ownership and the sixth place."
+    },
+    {
+      "claim": "Championne du monde avec l'Espagne; membre de l'effectif vainqueur de la Coupe du monde 2023; élue meilleure joueuse du monde en 2021 et 2022",
+      "sourceIds": [
+        "ap-london-city-signing-2026",
+        "aljazeera-london-city-signing-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "AP says World Cup winner with Spain. Al Jazeera says part of the 2023 World Cup-winning squad and crowned world's best female player in 2021 and 2022."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline from the sources and an honest note on the missing contract details.",
+  "decision": "reject",
+  "summary": "Rejected. Two claims are not supported by the cited sources: that Xavi Llorens brought her back to the club (and is a former coach), and that the ceremony opened with a video of her announcement. The 'recrutement phare' phrase is in quotation marks as an AP quotation, but the AP says 'statement signing'. Fix or remove these and resubmit for review."
+}

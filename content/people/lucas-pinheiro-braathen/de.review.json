@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "Prose reads machine-written",
+    "Adds no value over existing pages: Every section, heading and sentence maps one-to-one onto the en article with the same citations. No German-specific queries, sources or local context were added.",
+    "Reviewer recommends rejection: All facts match the sources, but the page is a sentence-by-sentence translation of the en version, which the style guide says fails review. Localise it (German-language sources or context, local search phrasing, reworked structure) before resubmitting."
+  ],
+  "claims": [
+    {
+      "claim": "Born 19 April 2000 in Oslo; age 26 on 26 Oct 2026",
+      "sourceIds": [
+        "olympiatoppen-athlete"
+      ],
+      "verdict": "confirmed",
+      "note": "Olympiatoppen: 19.04.2000, Oslo. Age arithmetic correct."
+    },
+    {
+      "claim": "Father Norwegian, mother Brazilian; grew up between Norway and São Paulo; bilingual",
+      "sourceIds": [
+        "storyproductions-profile-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Club Bærums Skiklub",
+      "sourceIds": [
+        "olympiatoppen-athlete"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Five World Cup wins for Norway; world number one in slalom; Crystal Globe in slalom",
+      "sourceIds": [
+        "storyproductions-profile-2026",
+        "fis-comeback-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Retired October 2023 aged 23; sponsorship dispute with federation",
+      "sourceIds": [
+        "fis-comeback-2024",
+        "storyproductions-profile-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "'wirklich schwer' and 'jeden Tag aufzuwachen mit dem Streben, in irgendetwas der Beste der Welt zu werden'",
+      "sourceIds": [
+        "fis-comeback-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Translations of verified English quotes."
+    },
+    {
+      "claim": "One-way ticket to Brazil; Ilhabela; March 2024 press conference in Austria; 'das Land, in dem ich meine Liebe zum Sport entdeckt habe'",
+      "sourceIds": [
+        "storyproductions-profile-2026",
+        "fis-comeback-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "FIS rule 203.5 and FIS Council spring meeting",
+      "sourceIds": [
+        "fis-comeback-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Sölden Sunday 26 Oct 2025; first World Cup start under Brazilian flag",
+      "sourceIds": [
+        "skiracing-solden-2025-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "21 Dec 2025 Alta Badia second, 0.18 s behind Marco Schwarz; seventh Brazilian podium; third in giant slalom",
+      "sourceIds": [
+        "dgabc-alta-badia-2025",
+        "infomoney-podiums-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Slalom medals in Levi (gold), Adelboden (silver), Kitzbühel and Hafjell (bronze)",
+      "sourceIds": [
+        "dgabc-alta-badia-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Bormio 14 Feb 2026; times 1:13.92, 1:11.08, combined 2:25.00; Odermatt 0.58 s behind; first run nearly a second faster",
+      "sourceIds": [
+        "nbc-sports-gold-times-2026",
+        "storyproductions-profile-2026",
+        "olympedia-gs-2026-entries"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "First South American Winter Games medal, gold; first South American on alpine Olympic podium; Carnival; Brazil House",
+      "sourceIds": [
+        "nbc-olympics-gold-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Norwegen/Brasilien quote on being an athlete and being himself",
+      "sourceIds": [
+        "storyproductions-profile-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Translation of verified quote."
+    },
+    {
+      "claim": "Fernanda Gentil quotes",
+      "sourceIds": [
+        "storyproductions-profile-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": false,
+  "addsValue": false,
+  "valueNote": "Every section, heading and sentence maps one-to-one onto the en article with the same citations. No German-specific queries, sources or local context were added.",
+  "decision": "reject",
+  "summary": "All facts match the sources, but the page is a sentence-by-sentence translation of the en version, which the style guide says fails review. Localise it (German-language sources or context, local search phrasing, reworked structure) before resubmitting."
+}

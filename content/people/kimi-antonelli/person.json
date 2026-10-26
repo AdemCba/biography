@@ -1,0 +1,92 @@
+{
+  "id": "kimi-antonelli",
+  "name": "Kimi Antonelli",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "2006-08-25",
+      "sources": [
+        "f1-driver-profile",
+        "mercedes-everything"
+      ],
+      "note": "Both pages give 25 August 2006 (F1 page as 25/08/2006)."
+    },
+    "birthPlace": {
+      "value": "Bologna, Italy",
+      "sources": [
+        "f1-driver-profile",
+        "mercedes-driver-profile"
+      ]
+    },
+    "nationality": {
+      "value": [
+        "IT"
+      ],
+      "sources": [
+        "f1-driver-profile"
+      ],
+      "note": "F1 profile lists nationality as Italy."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "f1-driver-profile",
+      "url": "https://www.formula1.com/en/drivers/kimi-antonelli",
+      "title": "Kimi Antonelli",
+      "publisher": "Formula 1",
+      "type": "league-or-federation",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "mercedes-driver-profile",
+      "url": "https://www.mercedesamgf1.com/drivers/driver/andrea-kimi-antonelli",
+      "title": "Kimi Antonelli",
+      "publisher": "Mercedes-AMG Petronas F1 Team",
+      "type": "official",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "mercedes-everything",
+      "url": "https://mercedesamgf1.com/news/kimi-antonelli-everything-you-need-to-know",
+      "title": "Kimi Antonelli: everything you need to know",
+      "publisher": "Mercedes-AMG Petronas F1 Team",
+      "type": "official",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "f1-austin-race-report",
+      "url": "https://www.formula1.com/en/latest/article/antonelli-surges-to-dominant-victory-in-united-states-grand-prix-ahead-of-leclerc-and-verstappen.6kmBQv9FNTW7LzkDj8S34j",
+      "title": "2026 United States Grand Prix race report and highlights",
+      "publisher": "Formula 1",
+      "type": "league-or-federation",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "skysports-austin-report",
+      "url": "https://www.skysports.com/f1/news/13603603/united-states-gp-kimi-antonelli-wins-austin-race-to-move-to-brink-of-f1-world-title-after-dominant-drive",
+      "title": "United States GP: Kimi Antonelli wins Austin race to move to brink of F1 world title after dominant drive",
+      "publisher": "Sky Sports",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "autosport-austin-report",
+      "url": "https://www.autosport.com/f1/news/f1-united-states-gp-antonelli-wins/10868343/",
+      "title": "F1 United States GP: Antonelli dominates from pole - but forced to wait for title",
+      "publisher": "Autosport",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    }
+  ]
+}

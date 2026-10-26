@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 14 November 2006",
+      "sourceIds": [
+        "fotmob-player"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob profile header shows Nov 14, 2006."
+    },
+    {
+      "claim": "Born in Abidjan",
+      "sourceIds": [
+        "lalibre-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "La Libre: 'le natif d'Abidjan'."
+    },
+    {
+      "claim": "Ivorian winger, plays for the Ivory Coast national team",
+      "sourceIds": [
+        "fotmob-player",
+        "lalibre-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob country Ivory Coast, national team entry from Oct 2025; La Libre calls him 'ailier ivoirien'."
+    },
+    {
+      "claim": "19-year-old as of 26 October 2026",
+      "sourceIds": [
+        "fotmob-player",
+        "lalibre-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Date of birth 14 Nov 2006 gives age 19 on 26 Oct 2026; La Libre also says 19."
+    },
+    {
+      "claim": "2025/26 Bundesliga Rookie of the Season with RB Leipzig",
+      "sourceIds": [
+        "bundesliga-rookie-2025-26",
+        "bundesliga-motm-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Bundesliga: 'RB Leipzig starlet Yan Diomande has been named 2025/26 Bundesliga Rookie of the Season'."
+    },
+    {
+      "claim": "Real Madrid announced signing on 6 August 2026",
+      "sourceIds": [
+        "beinsports-signing",
+        "irishnews-signing"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN: announced Thursday, August 6, 2026; Irish News dated 06 August 2026."
+    },
+    {
+      "claim": "Contract runs to 30 June 2033",
+      "sourceIds": [
+        "beinsports-signing",
+        "irishnews-signing"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN: 'until June 30, 2033'; Irish News: 'through June 30, 2033'."
+    },
+    {
+      "claim": "Press Association reported a £115.8 million fee",
+      "sourceIds": [
+        "irishnews-signing"
+      ],
+      "verdict": "confirmed",
+      "note": "Irish News quotes Press Association '£115.8million'. Page also cites a 135m euros figure, which the FAQ does not mention; not an error."
+    },
+    {
+      "claim": "IANS reported around EUR 130 million fee",
+      "sourceIds": [
+        "freepressjournal-signing"
+      ],
+      "verdict": "confirmed",
+      "note": "Free Press Journal: 'around 130 million euros (160 million U.S. dollars)'."
+    },
+    {
+      "claim": "Sources do not confirm either fee from the club",
+      "sourceIds": [
+        "beinsports-signing",
+        "irishnews-signing",
+        "freepressjournal-signing"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN states no fee; the other two are press reports, not club statements."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Short page that separates the conflicting fee reports with their sources instead of picking one figure.",
+  "decision": "approve",
+  "summary": "All checked claims (birth date, birthplace, nationality, age, Rookie of the Season 2025/26, signing date, contract end date, and both fee reports) are supported by the cited or listed sources."
+}

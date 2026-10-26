@@ -1,0 +1,110 @@
+{
+  "worthWriting": true,
+  "reason": "Spain international defender who joined Real Madrid from Chelsea in June 2026 under a contract to 30 June 2032. Eight opened sources, including LaLiga and Chelsea official pages. Transfer fee is not disclosed by either club; press reports give a base fee of EUR 55m (AFP, US$63.8m) plus EUR 5m in add-ons (Fabrizio Romano via TheHardTackle; GeoSuper cites international media).",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "laliga-five-things",
+      "url": "https://www.laliga.com/en-GB/news/five-things-you-may-not-know-about-marc-cucurella",
+      "title": "Five things you may not know about Marc Cucurella",
+      "publisher": "LaLiga",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "chelsea-summer-transfers-2026",
+      "url": "https://www.chelseafc.com/en/news/article/summer-transfers-2026-all-the-chelsea-ins-outs-and-new-contracts-so-far?ssoc=1",
+      "title": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far",
+      "publisher": "Chelsea FC",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "peninsula-real-madrid-confirm",
+      "url": "https://thepeninsulaqatar.com/article/15/06/2026/real-madrid-confirm-cucurella-signing-from-chelsea",
+      "title": "Real Madrid confirm Cucurella signing from Chelsea",
+      "publisher": "The Peninsula",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "nst-real-sign-cucurella",
+      "url": "https://www.nst.com.my/amp/sports/football/2026/06/1463989/real-sign-cucurella-chelsea",
+      "title": "Real sign Cucurella from Chelsea",
+      "publisher": "New Straits Times",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "hardtackle-official-cucurella",
+      "url": "https://thehardtackle.com/transfer-news/2026/06/15/official-marc-cucurella-joins-real-madrid-from-chelsea/",
+      "title": "Official: Marc Cucurella joins Real Madrid from Chelsea",
+      "publisher": "The Hard Tackle",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "geosuper-cucurella-2032",
+      "url": "https://www.geosuper.tv/latest/56875-real-madrid-sign-marc-cucurella-until-2032",
+      "title": "Real Madrid sign Marc Cucurella until 2032",
+      "publisher": "GeoSuper",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "theanalyst-national",
+      "url": "https://theanalyst.com/players/3912/marc-cucurella/national",
+      "title": "Marc Cucurella national team player information",
+      "publisher": "The Analyst",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "fotmob-profile",
+      "url": "https://www.fotmob.com/es-419/players/873289",
+      "title": "Marc Cucurella player profile",
+      "publisher": "FotMob",
+      "type": "database",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1998-07-22",
+      "sources": [
+        "laliga-five-things",
+        "fotmob-profile"
+      ],
+      "note": "LaLiga page states 'Born 22/07/1998'; FotMob lists July 22, 1998."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Alella, Spain",
+      "sources": [
+        "laliga-five-things"
+      ],
+      "note": "LaLiga page: 'his native Alella'. No other opened page states a birthplace."
+    },
+    "nationality": {
+      "value": "ES",
+      "sources": [
+        "fotmob-profile",
+        "theanalyst-national"
+      ],
+      "note": "Both pages list Spain as affiliation; the national team record confirms Spain caps."
+    }
+  },
+  "targetQueries": [
+    "Marc Cucurella Real Madrid transfer fee",
+    "Marc Cucurella Real Madrid contract 2032",
+    "Marc Cucurella Real Madrid number 17",
+    "Marc Cucurella Chelsea",
+    "Marc Cucurella Spain caps",
+    "Marc Cucurella age",
+    "Marc Cucurella birthplace",
+    "Marc Cucurella Mourinho Real Madrid"
+  ],
+  "gapNote": "Current results disagree on the fee and on stats. Real Madrid's own announcement and player profile were unreachable from this environment (error pages in all languages); RFEF returned 403. Chelsea's and LaLiga's pages are the closest official sources. Caps and stats differ across sites (The Analyst national page lists 35 caps, 1 goal, 4 assists; a search snippet said 23 caps), so the page should cite the fetched figure with its date. Competing databases give different 2026-27 LaLiga appearance totals, so these are not used."
+}
