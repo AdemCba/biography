@@ -16,3 +16,6 @@ You get: the style guide, `person.json`, the article, and the list of problems t
 - Keep what is already good. Do not change facts that are correctly sourced.
 - New sources must be real pages you opened; give id, url, title, publisher, type, accessed (today).
 - Never invent facts, quotes, sources or URLs.
+- When the fact-check rejected the article, fix each finding it lists: add the missing body citation,
+  reword or drop the unsupported claim, correct the wrong one. Citation tags go in the body only; the
+  frontmatter fields (summary, knownFor, metaDescription, FAQ) must not contain `[s:...]` tags.
