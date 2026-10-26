@@ -1,3 +1,4 @@
+import { isFreeLicense, stripHtml } from "../scripts/images";
 import { describe, expect, it } from "vitest";
 import { ageOn, resolveShortcuts, splitBeforeHeading } from "@/lib/markdown";
 import { slugify } from "@/lib/slug";
@@ -76,5 +77,15 @@ describe("review agent decision", async () => {
     expect(decide({ ...base, uncitedClaims: ["x"] }).approved).toBe(false);
     expect(decide({ ...base, readsHumanWritten: false }).approved).toBe(false);
     expect(decide({ ...base, addsValue: false }).approved).toBe(false);
+  });
+});
+
+describe("photo licenses", () => {
+  it("accepts only free licenses", () => {
+    for (const ok of ["CC BY-SA 4.0", "CC BY 2.0", "CC0", "Public domain", "CC BY-SA 3.0 de"]) expect(isFreeLicense(ok)).toBe(true);
+    for (const bad of ["CC BY-NC 2.0", "CC BY-ND 4.0", "CC BY-NC-SA 3.0", "All rights reserved", ""]) expect(isFreeLicense(bad)).toBe(false);
+  });
+  it("turns Commons artist HTML into a plain credit", () => {
+    expect(stripHtml('<a href="//commons.wikimedia.org/wiki/User:X">Erik van Leeuwen</a> &amp; team')).toBe("Erik van Leeuwen & team");
   });
 });

@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { absoluteUrl, site } from "@/config/site";
 import { HREFLANG, OG_LOCALE, type Locale } from "@/i18n/config";
-import { categoryPath, lastModified, liveArticle, personPath, type Article, type Person } from "./content";
+import { categoryPath, getContent, lastModified, liveArticle, livePeople, personPath, type Article, type Person } from "./content";
 import type { Category } from "./schema";
 
 /** hreflang map for a set of locale -> path pairs, with x-default pointing at English when present. */
@@ -26,11 +26,17 @@ export function personAlternates(person: Person): Partial<Record<Locale, string>
   return paths;
 }
 
+/** Below this many live people a category page is thin: noindex, not in the sitemap, no hreflang to it. */
+export const MIN_CATEGORY_PEOPLE = 3;
+
+/** Language versions of a category page that exist and are indexable (never point hreflang at a 404 or noindex page). */
 export function categoryAlternates(category: Category): Partial<Record<Locale, string>> {
+  const store = getContent();
   const paths: Partial<Record<Locale, string>> = {};
   for (const locale of site.locales) {
     const t = category.i18n[locale];
-    if (t) paths[locale] = categoryPath(locale, t.slug);
+    const members = livePeople(locale, store).filter((x) => x.person.data.categories.includes(category.id)).length;
+    if (t && members >= MIN_CATEGORY_PEOPLE) paths[locale] = categoryPath(locale, t.slug);
   }
   return paths;
 }
@@ -56,11 +62,32 @@ export function pageMetadata(opts: {
       siteName: site.name,
       locale: OG_LOCALE[opts.locale],
       type: opts.type ?? "website",
-      images: opts.image ? [{ url: absoluteUrl(opts.image) }] : undefined,
+      images: [{ url: absoluteUrl(opts.image ?? DEFAULT_SHARE_IMAGE) }],
     },
-    twitter: { card: opts.image ? "summary_large_image" : "summary", title: opts.title, description: opts.description },
+    twitter: { card: "summary_large_image", title: opts.title, description: opts.description },
     robots: opts.noindex ? { index: false, follow: true } : undefined,
   };
+}
+
+/** Shown when a page has no photo of its own (link previews, Discover). */
+export const DEFAULT_SHARE_IMAGE = "/og-default.png";
+export const LOGO = "/logo-512.png";
+
+/** Site-wide identity for Google: the brand, its logo and the site search. */
+export function siteJsonLd(locale: Locale) {
+  const org = { "@type": "Organization", "@id": `${site.url}/#organization`, name: site.name, url: site.url, logo: { "@type": "ImageObject", url: absoluteUrl(LOGO), width: 512, height: 512 } };
+  return [
+    { "@context": "https://schema.org", ...org },
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "@id": `${site.url}/#website`,
+      name: site.name,
+      url: absoluteUrl(`/${locale}/`),
+      inLanguage: HREFLANG[locale],
+      publisher: { "@id": `${site.url}/#organization` },
+    },
+  ];
 }
 
 export function personJsonLd(person: Person, article: Article, crumbs: { name: string; path: string }[]) {
@@ -77,7 +104,7 @@ export function personJsonLd(person: Person, article: Article, crumbs: { name: s
       inLanguage: HREFLANG[article.locale],
       datePublished: article.meta.publishedAt,
       dateModified: lastModified(article.meta),
-      publisher: { "@type": "Organization", name: site.name, url: site.url },
+      publisher: { "@type": "Organization", "@id": `${site.url}/#organization`, name: site.name, url: site.url, logo: { "@type": "ImageObject", url: absoluteUrl(LOGO) } },
       mainEntity: {
         "@type": "Person",
         name: data.name,

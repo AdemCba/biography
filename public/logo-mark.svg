@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Orbivida">
+  <rect width="64" height="64" rx="14" fill="#16181d"/>
+  <circle cx="32" cy="32" r="16" fill="none" stroke="#fbfaf7" stroke-width="6"/>
+  <ellipse cx="32" cy="32" rx="25" ry="9" fill="none" stroke="#fbfaf7" stroke-opacity=".45" stroke-width="2.5" transform="rotate(-28 32 32)"/>
+  <circle cx="51" cy="20" r="5.5" fill="#ea580c"/>
+</svg>

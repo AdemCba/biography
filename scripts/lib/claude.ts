@@ -1,7 +1,10 @@
 import Anthropic from "@anthropic-ai/sdk";
 import { z } from "zod";
 
+/** The fact-check model: the strongest one, because it is what keeps wrong claims off the site. */
 export const MODEL = process.env.ANTHROPIC_MODEL || "claude-opus-5-5";
+/** Research, writing, translation and rewrites: a cheaper model, since everything it writes is fact-checked by MODEL. */
+export const WRITER_MODEL = process.env.ANTHROPIC_WRITER_MODEL || "claude-sonnet-5-5";
 
 export function hasApiKey(): boolean {
   return !!(process.env.ANTHROPIC_API_KEY || process.env.ANTHROPIC_AUTH_TOKEN);
@@ -15,14 +18,14 @@ export async function askStructured<T extends z.ZodType>(
   client: Anthropic,
   prompt: string,
   schema: T,
-  opts: { fetches?: number; searches?: number } = {},
+  opts: { fetches?: number; searches?: number; model?: string } = {},
 ): Promise<z.infer<T>> {
   const messages: Anthropic.Beta.BetaMessageParam[] = [{ role: "user", content: prompt }];
   const outputSchema = z.toJSONSchema(schema, { target: "draft-2020-12" }) as Record<string, unknown>;
   for (let continuation = 0; continuation < 5; continuation++) {
     const response = await client.beta.messages
       .stream({
-        model: MODEL,
+        model: opts.model ?? MODEL,
         max_tokens: 64000,
         betas: ["server-side-fallback-2026-07-01"],
         fallbacks: "default",

@@ -5,7 +5,7 @@ import type { Locale } from "@/i18n/config";
 import { getDictionary } from "@/i18n/dictionaries";
 import { PersonCard } from "@/components/PersonCard";
 import { categoryPath, getContent, livePeople } from "@/lib/content";
-import { pageMetadata } from "@/lib/seo";
+import { pageMetadata, siteJsonLd } from "@/lib/seo";
 
 export async function generateMetadata({ params }: PageProps<"/[locale]">): Promise<Metadata> {
   const locale = (await params).locale as Locale;
@@ -29,6 +29,7 @@ export default async function Home({ params }: PageProps<"/[locale]">) {
 
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(siteJsonLd(locale)).replace(/</g, "\\u003c") }} />
       <section className="py-12 sm:py-16">
         <h1 className="max-w-3xl text-4xl font-semibold leading-tight sm:text-5xl">{t.home.title}</h1>
         <p className="mt-4 max-w-2xl text-lg text-muted">{t.home.intro}</p>

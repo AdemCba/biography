@@ -58,7 +58,7 @@ export async function generateMetadata({ params }: PageProps<"/[locale]/[slug]">
   };
 }
 
-/** Related people: explicit links first, then others from the same categories. Feeds internal linking. */
+/** Related people: explicit links first, then the same categories, then the newest others. Feeds internal linking. */
 function related(personId: string, locale: Locale) {
   const store = getContent();
   const person = store.people.find((p) => p.data.id === personId)!;
@@ -67,7 +67,8 @@ function related(personId: string, locale: Locale) {
   const sameCategory = live.filter(
     (x) => !explicit.includes(x) && x.person.data.categories.some((c) => person.data.categories.includes(c)),
   );
-  return [...explicit, ...sameCategory].slice(0, 6);
+  const others = live.filter((x) => !explicit.includes(x) && !sameCategory.includes(x));
+  return [...explicit, ...sameCategory, ...others].slice(0, 6);
 }
 
 export default async function BiographyPage({ params }: PageProps<"/[locale]/[slug]">) {

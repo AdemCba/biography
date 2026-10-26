@@ -12,7 +12,10 @@ export function SiteHeader({ locale }: { locale: Locale }) {
   return (
     <header className="border-b border-line bg-paper/95">
       <div className="mx-auto flex max-w-5xl items-center justify-between gap-4 px-4 py-4">
-        <Link href={`/${locale}/`} className="font-serif text-xl font-semibold tracking-tight">
+        <Link href={`/${locale}/`} className="flex items-center gap-2 font-serif text-xl font-semibold tracking-tight">
+          {/* Plain img: static export, file is already the right size. */}
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/logo-mark.svg" alt="" width={28} height={28} className="h-7 w-7" />
           {site.name}
         </Link>
         <Link href={`/${locale}/search/`} className="rounded-full border border-line px-3 py-1.5 text-sm text-muted hover:text-ink">

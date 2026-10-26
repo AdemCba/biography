@@ -1,7 +1,7 @@
 name: Publish
 
-# Every push to main publishes. The daily run releases articles whose publish date has arrived
-# (scheduled with `npm run schedule`) and retries the fix loop.
+# Every push to main publishes. The daily run also writes new biographies in every language (writer
+# agent), releases articles whose publish date has arrived and retries the fix loop.
 on:
   push:
     branches: [main]
@@ -19,6 +19,7 @@ permissions:
 jobs:
   publish:
     runs-on: ubuntu-latest
+    timeout-minutes: 180
     env:
       NEXT_PUBLIC_SITE_NAME: ${{ vars.SITE_NAME || 'Orbivida' }}
       NEXT_PUBLIC_SITE_URL: ${{ vars.SITE_URL }}
@@ -38,11 +39,21 @@ jobs:
           cache: npm
       - run: npm ci
 
+      - name: Writer agent (research and write new people in every language; daily run only)
+        if: ${{ env.HAS_ANTHROPIC_KEY == 'true' && github.event_name != 'push' }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_WRITER_MODEL: ${{ vars.ANTHROPIC_WRITER_MODEL }}
+        run: npm run write -- --count ${{ vars.WRITE_PER_DAY || 1 }}
+
+      - name: Photos (free-licensed Wikimedia Commons images for people without one)
+        run: npm run images
+
       - name: Fix loop (rewrite failing articles, re-check, flag what still fails)
         if: ${{ env.HAS_ANTHROPIC_KEY == 'true' }}
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
+          ANTHROPIC_WRITER_MODEL: ${{ vars.ANTHROPIC_WRITER_MODEL }}
         run: npm run revise -- --limit ${{ vars.REVISE_LIMIT || 10 }}
 
       - name: Review agent (fact-check every claim against its sources, approve or reject)
@@ -57,11 +68,12 @@ jobs:
 
       - name: Commit automatic changes
         run: |
-          if [ -n "$(git status --porcelain content)" ]; then
+          if [ -n "$(git status --porcelain content public/images data)" ]; then
             git config user.name "orbivida-bot"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add content
-            git commit -m "content: automatic fixes, reviews and scheduling"
+            git add content public/images data
+            git commit -m "content: new pages, photos, fixes, reviews and scheduling"
+            git pull --rebase
             git push
           fi
 
