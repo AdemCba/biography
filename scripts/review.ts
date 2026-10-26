@@ -89,7 +89,7 @@ async function factCheck(client: Anthropic, person: Person, article: Article): P
     "dates in the article support them.",
     "Be strict about facts. When in doubt, reject and say exactly what to fix.",
   ].join("\n");
-  return askStructured(client, prompt, verdictSchema, { fetches: 20, searches: 5 });
+  return askStructured(client, prompt, verdictSchema, { fetches: 6, searches: 2 });
 }
 
 function addMonths(date: string, months: number): string {
