@@ -20,7 +20,7 @@ import { z } from "zod";
 import { site } from "../src/config/site";
 import { readContent, today, type Article, type Person } from "../src/lib/content";
 import { writeArticle } from "../src/lib/article-file";
-import { checkContent, GATE_CODES } from "../src/lib/quality";
+import { checkContent, GATE_CODES, NOT_FIXABLE_BY_REWRITE } from "../src/lib/quality";
 import { askStructured, hasApiKey, MODEL } from "./lib/claude";
 
 export const REVIEWER_ID = "fact-check-desk";
@@ -100,11 +100,11 @@ async function main() {
   const store = readContent();
   const { reports } = checkContent(store);
   // Gate problems other than the missing approval itself must be fixed (by `npm run revise`) first.
-  const approvalOnly = new Set(["no-reviewer", "no-publish-date"]);
+  const approvalOnly = NOT_FIXABLE_BY_REWRITE;
   const gateClean = (personId: string, locale: string) =>
     !reports
       .find((r) => r.personId === personId && r.locale === locale)
-      ?.issues.some((i) => i.level === "error" || (!approvalOnly.has(i.code) && !i.code.startsWith("style:") && GATE_CODES.has(i.code)));
+      ?.issues.some((i) => (i.level === "error" && !approvalOnly.has(i.code)) || (!approvalOnly.has(i.code) && !i.code.startsWith("style:") && GATE_CODES.has(i.code)));
 
   const queue = store.people
     .flatMap((person) => Object.values(person.articles).map((article) => ({ person, article: article! })))

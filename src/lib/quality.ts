@@ -125,6 +125,7 @@ function checkArticle(person: Person, article: Article, store: ContentStore): Ar
     const editor = editorIds.get(id);
     if (!editor) push("error", "unknown-editor", `${field} "${id}" is not in content/editors.json`);
     else if (!editor.i18n[locale]) push(gate, "editor-not-translated", `Editor "${id}" has no ${locale} bio`);
+    else if (editor.i18n[locale]!.bio.startsWith("Replace this")) push(gate, "placeholder-editor", `Editor "${id}" still has the placeholder bio in content/editors.json`);
   }
 
   if (meta.risk === "high" && !meta.reviewedAt) push(gate, "high-risk-unreviewed", "High-risk article needs reviewedAt (full fact check)");
@@ -201,6 +202,12 @@ export const GATE_CODES = new Set([
   "few-sources", "few-citations", "too-short", "high-risk-unreviewed", "ai-style", "category-not-translated",
   "thin-structure", "single-source", "no-primary-source", "no-verified-facts", "thin-summary", "no-author",
   "editor-not-translated", "near-duplicate", "no-known-for", "no-meta-description",
+]);
+
+/** Problems a rewrite of the article cannot fix (they live in editors.json, categories or the approval step). */
+export const NOT_FIXABLE_BY_REWRITE = new Set([
+  "placeholder-editor", "editor-not-translated", "unknown-editor", "no-reviewer", "no-publish-date",
+  "category-not-translated", "unknown-category", "duplicate-slug", "reserved-slug",
 ]);
 
 export function allIssues(result: ReturnType<typeof checkContent>): Issue[] {

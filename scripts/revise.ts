@@ -17,7 +17,7 @@ import { z } from "zod";
 import { site } from "../src/config/site";
 import { readContent, today, type Article, type Person } from "../src/lib/content";
 import { writeArticle, writePerson } from "../src/lib/article-file";
-import { checkContent, GATE_CODES, type ArticleReport } from "../src/lib/quality";
+import { checkContent, GATE_CODES, NOT_FIXABLE_BY_REWRITE, type ArticleReport } from "../src/lib/quality";
 import { articleSchema, sourceSchema } from "../src/lib/schema";
 import { askStructured, hasApiKey } from "./lib/claude";
 
@@ -57,7 +57,8 @@ function reportFor(personId: string, locale: string): ArticleReport | undefined 
 
 const blocking = (r: ArticleReport) => r.issues.filter((i) => i.level === "error");
 /** Failing = any error now, or any issue that would become an error once the article is published. */
-const failsGate = (r: ArticleReport) => r.issues.some((i) => i.level === "error" || GATE_CODES.has(i.code)) || hasReviewNotes(r);
+const failsGate = (r: ArticleReport) =>
+  r.issues.some((i) => !NOT_FIXABLE_BY_REWRITE.has(i.code) && (i.level === "error" || GATE_CODES.has(i.code))) || hasReviewNotes(r);
 
 function hasReviewNotes(r: ArticleReport): boolean {
   return !!readContent().people.find((p) => p.data.id === r.personId)?.articles[r.locale]?.meta.reviewNotes;
