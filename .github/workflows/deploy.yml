@@ -43,7 +43,7 @@ jobs:
         if: ${{ env.HAS_ANTHROPIC_KEY == 'true' && github.event_name != 'push' }}
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
+          ANTHROPIC_WRITER_MODEL: ${{ vars.ANTHROPIC_WRITER_MODEL }}
         run: npm run write -- --count ${{ vars.WRITE_PER_DAY || 1 }}
 
       - name: Photos (free-licensed Wikimedia Commons images for people without one)
@@ -53,7 +53,7 @@ jobs:
         if: ${{ env.HAS_ANTHROPIC_KEY == 'true' }}
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
+          ANTHROPIC_WRITER_MODEL: ${{ vars.ANTHROPIC_WRITER_MODEL }}
         run: npm run revise -- --limit ${{ vars.REVISE_LIMIT || 10 }}
 
       - name: Review agent (fact-check every claim against its sources, approve or reject)

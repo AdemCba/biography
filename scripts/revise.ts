@@ -19,7 +19,7 @@ import { readContent, today, type Article, type Person } from "../src/lib/conten
 import { writeArticle, writePerson } from "../src/lib/article-file";
 import { checkContent, GATE_CODES, NOT_FIXABLE_BY_REWRITE, type ArticleReport } from "../src/lib/quality";
 import { articleSchema, sourceSchema } from "../src/lib/schema";
-import { askStructured, hasApiKey } from "./lib/claude";
+import { askStructured, hasApiKey, WRITER_MODEL } from "./lib/claude";
 
 const args = process.argv.slice(2);
 const opt = (name: string, fallback: number) => {
@@ -82,7 +82,7 @@ async function askClaude(client: Anthropic, person: Person, article: Article, re
     "Return the full revised article fields as JSON matching the schema. `body` is markdown without frontmatter.",
   ].join("\n");
 
-  return askStructured(client, prompt, revisionSchema);
+  return askStructured(client, prompt, revisionSchema, { model: WRITER_MODEL });
 }
 
 function apply(person: Person, article: Article, rev: Revision) {

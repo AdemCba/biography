@@ -25,7 +25,7 @@ import { writeArticle, writePerson } from "../src/lib/article-file";
 import { personSchema, SOURCE_TYPES, type PersonData } from "../src/lib/schema";
 import { slugify } from "../src/lib/slug";
 import type { Locale } from "../src/i18n/config";
-import { askStructured, hasApiKey } from "./lib/claude";
+import { askStructured, hasApiKey, WRITER_MODEL } from "./lib/claude";
 
 const AUTHOR = "editor-in-chief";
 const QUEUE_FILE = path.join(process.cwd(), "content", "queue.json");
@@ -154,7 +154,7 @@ async function research(client: Anthropic, name: string, category: string, leads
     "worthWriting=false if the person is a minor, a private individual, known mainly for a crime or",
     "tragedy, or if there are fewer than three solid sources. Explain in reason.",
   ].join("\n");
-  return askStructured(client, prompt, researchSchema, { fetches: 15, searches: 8 });
+  return askStructured(client, prompt, researchSchema, { fetches: 15, searches: 8, model: WRITER_MODEL });
 }
 
 /** People already on the site, so new pages can link to them ([Name](person:id)) and list them as related. */
@@ -181,7 +181,7 @@ async function draft(client: Anthropic, name: string, person: PersonData, r: Res
     "Length follows the material: usually 500-900 words, never padded. metaTitle ≤ 60 characters,",
     "metaDescription 120-160 characters, summary 2-3 sentences and at least 25 words, 3-4 FAQ items.",
   ].join("\n");
-  return askStructured(client, prompt, articleOut, { fetches: 8, searches: 3 });
+  return askStructured(client, prompt, articleOut, { fetches: 8, searches: 3, model: WRITER_MODEL });
 }
 
 async function localize(client: Anthropic, name: string, person: PersonData, locale: Locale, en: string): Promise<ArticleOut> {
@@ -197,7 +197,7 @@ async function localize(client: Anthropic, name: string, person: PersonData, loc
     "source. body: Markdown without frontmatter, opening paragraph then ## sections. metaTitle ≤ 60",
     "characters, metaDescription 120-160 characters, summary at least 25 words, 3-4 FAQ items.",
   ].join("\n");
-  return askStructured(client, prompt, articleOut, { fetches: 4, searches: 4 });
+  return askStructured(client, prompt, articleOut, { fetches: 4, searches: 4, model: WRITER_MODEL });
 }
 
 function toFacts(r: Research): PersonData["facts"] {
