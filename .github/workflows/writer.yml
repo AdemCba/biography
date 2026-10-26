@@ -53,6 +53,9 @@ jobs:
             - Do the writing and fact-checking yourself or with subagents on the same model.
             - Step 6: only run `npx tsx scripts/schedule.ts --per-day 8`. Do not commit, push or open a PR;
               the workflow commits after you finish.
+            - Always finish all ${{ inputs.count || 5 }} people in all five languages. To save usage, keep research
+              short (the fewest sources that back every claim) and fact-check in one pass where you can; never drop
+              a person or a language.
             - Step 7: print the Turkish summary as your final answer.
 
       - name: Commit new content to main
