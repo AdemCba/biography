@@ -53,7 +53,14 @@ jobs:
             This is an unattended run: nobody will answer questions, so never stop to ask or to confirm. Keep working
             until every step is done. Follow docs/subscription-writer-task.md for ${{ inputs.count || 5 }} new people, with these changes:
             - Skip step 1 (the repository is already checked out and installed) and the photo step (Publish does it).
-            - Do the writing and fact-checking yourself or with subagents on the same model.
+            - Pick the people from today's trends only: read data/trend-candidates/latest.md (Google Trends +
+              Wikipedia spikes, scanned twice a day) and confirm with WebSearch that each one is in today's news.
+              Prefer living people whose current activity is why they trend (footballers, F1 drivers, creators,
+              streamers, musicians); skip people trending only because of an anniversary or an old film on TV.
+              Do not take names from content/queue.json.
+            - Do the writing and fact-checking yourself or with subagents on the same model. Never start a
+              subagent in the background: run each one in the foreground (several in one message is fine) and
+              wait for its result. When you end your turn the run is over and unfinished work is lost.
             - Step 6: only run `npx tsx scripts/schedule.ts --per-day 8`. Do not commit, push or open a PR;
               the workflow commits after you finish.
             - Always finish all ${{ inputs.count || 5 }} people in all five languages. To save usage, keep research
