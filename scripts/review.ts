@@ -116,8 +116,10 @@ async function main() {
     .slice(0, LIMIT);
 
   const summary: string[] = [];
+  console.log(`Reviewing ${queue.length} article(s)`);
   for (const { person, article } of queue) {
     const key = `${person.data.id}/${article.locale}`;
+    console.log(`… ${key}`);
     const meta = article.meta;
     if (meta.risk === "high") {
       writeArticle(article.file, { ...meta, flag: "High-risk article: needs a human editor's approval." }, article.body);

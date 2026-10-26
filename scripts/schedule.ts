@@ -3,7 +3,7 @@
  * language, and marks it published. The daily scheduled build then releases them one day at a time, which looks natural to
  * search engines and spreads the editor's review load.
  *
- *   npm run schedule -- --per-day 3            (start tomorrow)
+ *   npm run schedule -- --per-day 3            (start today: the same run builds and deploys them)
  *   npm run schedule -- --per-day 5 --from 2026-11-01
  *
  * Only articles with a reviewer are scheduled: approval stays a human decision.
@@ -15,7 +15,6 @@ const args = process.argv.slice(2);
 const val = (n: string) => args[args.indexOf(`--${n}`) + 1];
 const perDay = args.includes("--per-day") ? Number(val("per-day")) : 3;
 const start = new Date(`${args.includes("--from") ? val("from") : today()}T00:00:00Z`);
-if (!args.includes("--from")) start.setUTCDate(start.getUTCDate() + 1);
 
 const store = readContent();
 // Existing future slots count against the daily quota of their language.
