@@ -54,8 +54,8 @@ jobs:
       - name: Photos (free-licensed Wikimedia Commons images for people without one)
         run: npm run images
 
-      - name: Fix loop (rewrite failing articles, re-check, flag what still fails)
-        if: ${{ env.HAS_ANTHROPIC_KEY == 'true' && !inputs.review_only }}
+      - name: Fix loop (rewrite failing articles, re-check, flag what still fails; daily run only)
+        if: ${{ env.HAS_ANTHROPIC_KEY == 'true' && github.event_name != 'push' && !inputs.review_only }}
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ANTHROPIC_WRITER_MODEL: ${{ vars.ANTHROPIC_WRITER_MODEL }}
