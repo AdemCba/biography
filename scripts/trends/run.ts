@@ -8,6 +8,7 @@
 import { execFileSync } from "node:child_process";
 import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
+import { slugify } from "../../src/lib/slug";
 import { DEFAULT_SCAFFOLD, GEOS, WIKI_TOP_N, WIKIS } from "./config";
 import { claimIds, evaluate, type Candidate } from "./evaluate";
 import { renderReport } from "./report";
@@ -44,15 +45,6 @@ function sitePeople(): { ids: Set<string>; text: string } {
     if (existsSync(file)) text += readFileSync(file, "utf8");
   }
   return { ids, text };
-}
-
-function slugify(name: string): string {
-  return name
-    .normalize("NFKD")
-    .replace(/[̀-ͯ]/g, "")
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-|-$/g, "");
 }
 
 async function collectSignals(now: Date): Promise<TrendSignal[]> {
