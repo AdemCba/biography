@@ -14,7 +14,7 @@ summary: >-
   a remporté le Grammy de l'album de l'année à quatre reprises, un record dans
   cette catégorie, et le magazine Time l'a désignée Personnalité de l'année
   2023. Forbes estime sa fortune à 2 milliards de dollars.
-status: published
+status: review
 risk: medium
 reviewedAt: '2026-10-26'
 reviewBy: '2027-04-26'
@@ -50,7 +50,6 @@ faq:
       d'une estimation, non d'un chiffre communiqué par l'artiste
       [s:forbes-profile].
 autoReviews: 2
-publishedAt: '2026-10-26'
 ---
 Taylor Swift est la première artiste à avoir remporté quatre fois le Grammy de l'album de l'année. La quatrième victoire est venue lors de la cérémonie du 4 février 2024, avec *Midnights*. Le même soir, elle a aussi reçu le prix du meilleur album de pop vocale [s:etonline-midnights].
 
