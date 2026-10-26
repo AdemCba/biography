@@ -11,7 +11,7 @@ summary: >-
   won Album of the Year at the Grammys four times, a record for the category,
   and Time named her Person of the Year for 2023. Forbes estimates her net worth
   at $2 billion.
-status: approved
+status: published
 risk: medium
 reviewedAt: '2026-10-26'
 reviewBy: '2027-04-26'
@@ -44,6 +44,7 @@ faq:
       Forbes estimates her net worth at $2 billion as of October 26, 2026
       [s:forbes-profile].
 autoReviews: 3
+publishedAt: '2026-10-26'
 ---
 Taylor Swift is the first artist to win the Grammy for Album of the Year four times [s:etonline-midnights]. Her most recent headline numbers come from 2025. In October that year her album *The Life of a Showgirl* opened with 4.002 million equivalent album units [s:today-showgirl-2025], and in May she announced that she had bought back the master recordings of her first six albums [s:mbw-masters-2025].
 
