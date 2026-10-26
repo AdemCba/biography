@@ -44,8 +44,10 @@ jobs:
           cache: npm
       - run: npm ci
 
+      # New people are normally written twice a day by a scheduled Claude task on the owner's subscription
+      # (docs/subscription-writer-task.md). Set USE_API=true to pay for writing and fixing here instead.
       - name: Writer agent (research and write new people in every language; daily run only)
-        if: ${{ env.HAS_ANTHROPIC_KEY == 'true' && github.event_name != 'push' && !inputs.review_only }}
+        if: ${{ env.HAS_ANTHROPIC_KEY == 'true' && vars.USE_API == 'true' && github.event_name != 'push' && !inputs.review_only }}
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ANTHROPIC_WRITER_MODEL: ${{ vars.ANTHROPIC_WRITER_MODEL }}
@@ -55,7 +57,7 @@ jobs:
         run: npm run images
 
       - name: Fix loop (rewrite failing articles, re-check, flag what still fails; daily run only)
-        if: ${{ env.HAS_ANTHROPIC_KEY == 'true' && github.event_name != 'push' && !inputs.review_only }}
+        if: ${{ env.HAS_ANTHROPIC_KEY == 'true' && vars.USE_API == 'true' && github.event_name != 'push' && !inputs.review_only }}
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ANTHROPIC_WRITER_MODEL: ${{ vars.ANTHROPIC_WRITER_MODEL }}
@@ -71,7 +73,7 @@ jobs:
         run: npm run review -- --limit ${{ vars.REVIEW_LIMIT || 20 }}
 
       - name: Schedule approved articles (drip publishing)
-        run: npm run schedule -- --per-day ${{ vars.PUBLISH_PER_DAY || 3 }}
+        run: npm run schedule -- --per-day ${{ vars.PUBLISH_PER_DAY || 8 }}
 
       - name: Commit automatic changes
         run: |

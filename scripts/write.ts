@@ -35,7 +35,7 @@ const SKIPPED_FILE = path.join(process.cwd(), "data", "writer-skipped.json");
 
 const args = process.argv.slice(2);
 const COUNT = args.includes("--count") ? Number(args[args.indexOf("--count") + 1]) : Number(process.env.WRITE_PER_DAY || 1);
-const explicit = args.filter((a, i) => !a.startsWith("--") && args[i - 1] !== "--count");
+const explicit = args.includes("--prompt") || args.includes("--record") || args.includes("--candidates") ? [] : args.filter((a, i) => !a.startsWith("--") && args[i - 1] !== "--count");
 
 const queueSchema = z.array(z.object({ name: z.string(), category: z.string() }));
 
@@ -147,8 +147,8 @@ const EXAMPLE = () => {
   return fs.existsSync(file) ? `\n<example_of_a_finished_page>\n${fs.readFileSync(file, "utf8")}\n</example_of_a_finished_page>` : "";
 };
 
-async function research(client: Anthropic, name: string, category: string, leads: string[]): Promise<Research> {
-  const prompt = [
+function researchPrompt(name: string, category: string, leads: string[]): string {
+  return [
     fill(read("prompts/01-research.md"), { SITE_NAME: site.name, NAME: name, LOCALE: "en" }),
     `\nCategory on our site: ${category}. Today is ${today()}.`,
     leads.length ? `\nLeads to start from (not citable on their own unless reputable):\n${leads.slice(0, 8).join("\n")}` : "",
@@ -162,7 +162,10 @@ async function research(client: Anthropic, name: string, category: string, leads
     "worthWriting=false if the person is a minor, a private individual, known mainly for a crime or",
     "tragedy, or if there are fewer than three solid sources. Explain in reason.",
   ].join("\n");
-  return askStructured(client, prompt, researchSchema, { fetches: 8, searches: 4, model: WRITER_MODEL });
+}
+
+async function research(client: Anthropic, name: string, category: string, leads: string[]): Promise<Research> {
+  return askStructured(client, researchPrompt(name, category, leads), researchSchema, { fetches: 8, searches: 4, model: WRITER_MODEL });
 }
 
 /** People already on the site, so new pages can link to them ([Name](person:id)) and list them as related. */
@@ -175,8 +178,8 @@ function sitePeople(): string {
     : "";
 }
 
-async function draft(client: Anthropic, name: string, person: PersonData, r: Research): Promise<ArticleOut> {
-  const prompt = [
+function draftPrompt(name: string, person: PersonData, r: Pick<Research, "targetQueries" | "gapNote">): string {
+  return [
     fill(read("prompts/02-draft.md"), { SITE_NAME: site.name, NAME: name, LOCALE: "en" }),
     STYLE(),
     EXAMPLE(),
@@ -190,11 +193,14 @@ async function draft(client: Anthropic, name: string, person: PersonData, r: Res
     `${MIN_WORDS[person.importance]} words of real substance: career turning points, numbers, context, what changed. metaTitle ≤ 60 characters,`,
     "metaDescription 120-160 characters, summary 2-3 sentences and at least 25 words, 3-4 FAQ items.",
   ].join("\n");
-  return askStructured(client, prompt, articleOut, { fetches: 4, searches: 2, model: WRITER_MODEL });
 }
 
-async function localize(client: Anthropic, name: string, person: PersonData, locale: Locale, en: string): Promise<ArticleOut> {
-  const prompt = [
+async function draft(client: Anthropic, name: string, person: PersonData, r: Research): Promise<ArticleOut> {
+  return askStructured(client, draftPrompt(name, person, r), articleOut, { fetches: 4, searches: 2, model: WRITER_MODEL });
+}
+
+function localizePrompt(name: string, person: PersonData, locale: Locale, en: string): string {
+  return [
     fill(read("prompts/03-localize.md"), { NAME: name, LOCALE: `${locale} (${LANGUAGE[locale]})`, SOURCE_LOCALE: "en" }),
     STYLE(),
     `\n<person_json>\n${JSON.stringify(person, null, 2)}\n</person_json>`,
@@ -206,7 +212,10 @@ async function localize(client: Anthropic, name: string, person: PersonData, loc
     "source. body: Markdown without frontmatter, opening paragraph then ## sections. metaTitle ≤ 60",
     "characters, metaDescription 120-160 characters, summary at least 25 words, 3-4 FAQ items.",
   ].join("\n");
-  return askStructured(client, prompt, articleOut, { fetches: 2, searches: 1, model: WRITER_MODEL, effort: "medium" });
+}
+
+async function localize(client: Anthropic, name: string, person: PersonData, locale: Locale, en: string): Promise<ArticleOut> {
+  return askStructured(client, localizePrompt(name, person, locale, en), articleOut, { fetches: 2, searches: 1, model: WRITER_MODEL, effort: "medium" });
 }
 
 function toFacts(r: Research): PersonData["facts"] {
@@ -249,14 +258,14 @@ function saveArticle(dir: string, id: string, locale: Locale, risk: Research["ri
   );
 }
 
-async function writePersonPages(client: Anthropic, name: string, category: string, leads: string[]): Promise<string> {
+/** Turns a research result into person.json; returns null (and remembers why) when the person is not worth a page. */
+function savePerson(name: string, category: string, r: Research): PersonData | null {
   const id = slugify(name);
-  const r = await research(client, name, category, leads);
   if (!r.worthWriting) {
     remember(name, r.reason);
-    return `- ${name}: skipped (${r.reason})`;
+    return null;
   }
-  let person = personSchema.parse({
+  const person = personSchema.parse({
     id,
     name,
     categories: [category],
@@ -267,8 +276,14 @@ async function writePersonPages(client: Anthropic, name: string, category: strin
   });
   const dir = path.join(PEOPLE_DIR, id);
   fs.mkdirSync(dir, { recursive: true });
+  writePerson(path.join(dir, "person.json"), person);
+  return person;
+}
 
-  const en = await draft(client, name, person, r);
+/** Saves the English page, links related people both ways. */
+function saveEnglish(person: PersonData, risk: Research["risk"], en: ArticleOut): PersonData {
+  const id = person.id;
+  const dir = path.join(PEOPLE_DIR, id);
   person = addSources(person, en.newSources);
   const linked = [...en.body.matchAll(/\]\(person:([a-z0-9-]+)\)/g)].map((m) => m[1]).filter((x) => x !== id);
   person = personSchema.parse({ ...person, related: [...new Set(linked)] });
@@ -277,25 +292,109 @@ async function writePersonPages(client: Anthropic, name: string, category: strin
     writePerson(path.join(other.dir, "person.json"), { ...other.data, related: [...other.data.related, id] });
   }
   writePerson(path.join(dir, "person.json"), person);
-  saveArticle(dir, id, "en", r.risk, en);
+  saveArticle(dir, id, "en", risk, en);
+  return person;
+}
+
+function saveLocale(person: PersonData, locale: Locale, risk: Research["risk"], a: ArticleOut): PersonData {
+  const dir = path.join(PEOPLE_DIR, person.id);
+  person = addSources(person, a.newSources);
+  writePerson(path.join(dir, "person.json"), person);
+  saveArticle(dir, person.id, locale, risk, a);
+  return person;
+}
+
+async function writePersonPages(client: Anthropic, name: string, category: string, leads: string[]): Promise<string> {
+  const r = await research(client, name, category, leads);
+  let person = savePerson(name, category, r);
+  if (!person) return `- ${name}: skipped (${r.reason})`;
+  const dir = path.join(PEOPLE_DIR, person.id);
+  person = saveEnglish(person, r.risk, await draft(client, name, person, r));
   const written: string[] = ["en"];
 
   for (const locale of site.locales.filter((l) => l !== "en")) {
     try {
       const a = await localize(client, name, person, locale, fs.readFileSync(path.join(dir, "en.md"), "utf8"));
-      person = addSources(person, a.newSources);
-      writePerson(path.join(dir, "person.json"), person);
-      saveArticle(dir, id, locale, r.risk, a);
+      person = saveLocale(person, locale, r.risk, a);
       written.push(locale);
     } catch (e) {
       if (isApiUnavailable(e)) throw e;
-      console.warn(`${id}/${locale}: ${(e as Error).message}`);
+      console.warn(`${person.id}/${locale}: ${(e as Error).message}`);
     }
   }
   return `✓ ${name}: ${written.join(", ")} written (${person.sources.length} sources, risk ${r.risk})`;
 }
 
+function knownIds() {
+  const onSite = new Set(readContent().people.map((p) => p.data.id));
+  const skipped = new Set<string>(
+    fs.existsSync(SKIPPED_FILE) ? (JSON.parse(fs.readFileSync(SKIPPED_FILE, "utf8")) as { id: string }[]).map((s) => s.id) : [],
+  );
+  return { onSite, skipped };
+}
+
+const schemaText = (schema: z.ZodType) =>
+  `\nUse your web fetch and web search tools for the research. Answer with one JSON object, nothing else, that matches this JSON schema:\n${JSON.stringify(z.toJSONSchema(schema), null, 2)}`;
+
+/**
+ * Subscription mode, for a scheduled Claude task that writes the pages itself (no API key needed). Research
+ * results are kept in data/research/<id>.json between the steps.
+ *   npm run write -- --candidates 4                          -> next people to write (name<TAB>category<TAB>leads)
+ *   npm run write -- --prompt research "<name>" <category>   -> research brief + JSON schema
+ *   npm run write -- --record research "<name>" <category> <file>
+ *   npm run write -- --prompt draft <id>                     -> English page brief + JSON schema
+ *   npm run write -- --record draft <id> <file>
+ *   npm run write -- --prompt localize <id> <locale>
+ *   npm run write -- --record localize <id> <locale> <file>
+ */
+function subscriptionMode(): boolean {
+  const at = (flag: string) => args.indexOf(flag);
+  const RESEARCH_DIR = path.join(process.cwd(), "data", "research");
+  const loadResearch = (id: string) => researchSchema.parse(JSON.parse(fs.readFileSync(path.join(RESEARCH_DIR, `${id}.json`), "utf8")));
+  const loadPerson = (id: string) => {
+    const p = readContent().people.find((x) => x.data.id === id);
+    if (!p) throw new Error(`No person ${id}`);
+    return p;
+  };
+  if (at("--candidates") >= 0) {
+    const { onSite, skipped } = knownIds();
+    for (const c of pickCandidates(onSite, skipped).slice(0, Number(args[at("--candidates") + 1]) || 4))
+      console.log([c.name, c.category, c.leads.join(" ")].join("\t"));
+    return true;
+  }
+  const mode = at("--prompt") >= 0 ? "prompt" : at("--record") >= 0 ? "record" : null;
+  if (!mode) return false;
+  const [step, a1, a2, a3] = args.slice(at(`--${mode}`) + 1);
+  const json = (file: string) => JSON.parse(fs.readFileSync(file, "utf8"));
+  if (step === "research") {
+    if (mode === "prompt") return console.log(researchPrompt(a1, a2, []) + schemaText(researchSchema)), true;
+    const r = researchSchema.parse(json(a3));
+    const person = savePerson(a1, a2, r);
+    if (!person) return console.log(`- ${a1}: skipped (${r.reason})`), true;
+    fs.mkdirSync(RESEARCH_DIR, { recursive: true });
+    fs.writeFileSync(path.join(RESEARCH_DIR, `${person.id}.json`), `${JSON.stringify(r, null, 2)}\n`);
+    dropFromQueue(a1);
+    return console.log(`✓ ${person.id}: person.json saved (${person.sources.length} sources)`), true;
+  }
+  if (step === "draft") {
+    const p = loadPerson(a1);
+    if (mode === "prompt") return console.log(draftPrompt(p.data.name, p.data, loadResearch(a1)) + schemaText(articleOut)), true;
+    saveEnglish(p.data, loadResearch(a1).risk, articleOut.parse(json(a2)));
+    return console.log(`✓ ${a1}/en saved`), true;
+  }
+  if (step === "localize") {
+    const p = loadPerson(a1);
+    const locale = a2 as Locale;
+    if (mode === "prompt")
+      return console.log(localizePrompt(p.data.name, p.data, locale, fs.readFileSync(path.join(p.dir, "en.md"), "utf8")) + schemaText(articleOut)), true;
+    saveLocale(p.data, locale, loadResearch(a1).risk, articleOut.parse(json(a3)));
+    return console.log(`✓ ${a1}/${locale} saved`), true;
+  }
+  throw new Error(`Unknown step ${step}`);
+}
+
 async function main() {
+  if (subscriptionMode()) return;
   if (!hasApiKey()) {
     console.log("ANTHROPIC_API_KEY not set; skipping the writer agent.");
     return;
