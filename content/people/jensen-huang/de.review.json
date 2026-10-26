@@ -1,0 +1,255 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-opus-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"Earned a master's in electrical engineering at Stanford while working ('Nebenher')\" (Partly unsupported. NVIDIA confirms the Stanford MSEE but does not say he studied while working. Only Britannica says that ('While working, he returned to school'). Fix: add [s:britannica].)",
+    "UNCITED: \"Summary: co-founded NVIDIA in 1993, president and CEO since then; GeForce 256 in 1999 marketed as first GPU; shift to AI computing from 2012 (all confirmed by nvidia-bio/britannica/chm, but the summary has no citations)\"",
+    "UNCITED: \"FAQ: 'Jensen Huang, Chris Malachowsky und Curtis Priem gründeten NVIDIA im April 1993. Huang wurde von Anfang an zum CEO bestimmt.' (supported by britannica, but uncited)\"",
+    "UNCITED: \"FAQ: bachelor's 1984 at Oregon State, master's at Stanford (supported by britannica/nvidia-bio, but uncited)\"",
+    "UNCITED: \"FAQ: born 17 Feb 1963 in Tainan, family later moved to Thailand, came to the US at nine (supported by britannica, but uncited)\"",
+    "UNCITED: \"Lede: 'Zwei Jahrzehnte später gründete er NVIDIA' (arithmetic from 1972 to 1993, fine, but no citation)\"",
+    "UNCITED: \"'Als er fünf war, zog die Familie nach Thailand.' (britannica supports it; the sentence carries no citation)\"",
+    "UNCITED: \"'Rund zwei Jahre später kamen die Eltern nach … bei Portland in Oregon nieder.' (britannica supports it; the citation sits on the following sentence)\"",
+    "UNCITED: \"Age: never stated anywhere, although metaTitle promises 'Alter' and the top target query is 'jensen huang alter' (he is 63 as of 2026-10-26, from britannica's birth date)\"",
+    "Reviewer recommends rejection: Every checked fact matches its cited source, and nothing is outdated: NVIDIA's page, fetched today, still lists him as president and CEO. I'm still rejecting the article until these fixes are made: (1) State his age. The metaTitle promises 'Alter' and 'jensen huang alter' is the first target query, but the page never says he is 63. Add it in the first screen and in an FAQ answer, e.g. '63 Jahre (Stand Oktober 2026), geboren am 17. Februar 1963 [s:britannica]'. (2) The Stanford master's sentence ('Nebenher …') cites only nvidia-bio, which does not say he studied while working. Add [s:britannica]. (3) Give the two citation-less sentences in 'Von Tainan nach Oregon' their own citation: the move to Thailand at five, and the parents' arrival and settling near Portland. (4) Optional: render Fortune's award as 'Businessperson of the Year' or 'Geschäftsmann des Jahres' rather than 'Unternehmer des Jahres'. On style: no hype words or em dashes, and sentence length varies. 'Auszeichnungen' is a generic section label but acceptable. Note that the Britannica copy I fetched was cached (2025-09-21) and shows age 61, so don't copy the age from that page; calculate it from the birth date."
+  ],
+  "claims": [
+    {
+      "claim": "Birth date 17 February 1963 (person.json facts.birthDate; body section 1; FAQ)",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "OK. Britannica gives 'born February 17, 1963, Tainan, Taiwan'."
+    },
+    {
+      "claim": "Birthplace Tainan, Taiwan (person.json facts.birthPlace; body; FAQ)",
+      "sourceIds": [
+        "britannica",
+        "chm"
+      ],
+      "verdict": "confirmed",
+      "note": "OK. Both sources say Tainan, Taiwan. CHM gives only the year 1963, not the full date."
+    },
+    {
+      "claim": "Born as Jen-Hsun Huang",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "OK. Britannica lists 'Also known as: Jen-Hsun Huang'."
+    },
+    {
+      "claim": "The family moved to Thailand when he was five",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "OK in the source, but this sentence has no citation of its own (see uncited claims)."
+    },
+    {
+      "claim": "At about nine, his parents sent him and his brother to an uncle in Tacoma, Washington, who enrolled them at the Kentucky school",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "OK. Britannica says nine years old, uncle in Tacoma, Washington, sent to Oneida Baptist Institute. CHM also says he came to the US at nine."
+    },
+    {
+      "claim": "Oneida Baptist Institute was a religious boarding school in Kentucky for boys seen as 'difficult'",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "OK. Britannica calls it an all-boys religious reform school for 'difficult' children in Oneida, Kentucky."
+    },
+    {
+      "claim": "About two years later his parents arrived, took the boys out of the school and the family settled near Portland, Oregon",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "OK in Britannica, but in the article the citation sits on the next sentence, so this sentence is technically uncited."
+    },
+    {
+      "claim": "High school graduation in Aloha in 1981",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "OK. Britannica says Aloha High School, graduated 1981."
+    },
+    {
+      "claim": "Studied electrical engineering at Oregon State University, graduated 1984 (body and FAQ)",
+      "sourceIds": [
+        "britannica",
+        "nvidia-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "OK. Britannica gives a BS in EE from OSU in 1984. NVIDIA confirms the BSEE from Oregon State but gives no year."
+    },
+    {
+      "claim": "Met Lori Mills at OSU and later married her",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "OK. Britannica reports it on the record. It is relevant private life because of the joint foundation."
+    },
+    {
+      "claim": "Worked about a year at Advanced Micro Devices",
+      "sourceIds": [
+        "nvidia-bio",
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "OK. NVIDIA says 1984 to 1985; Britannica says 'about a year'."
+    },
+    {
+      "claim": "Worked at LSI Logic 1985 to 1993, where he led a division",
+      "sourceIds": [
+        "nvidia-bio",
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "OK. NVIDIA gives 1985 to 1993 ('a variety of positions'); Britannica says he became director of a company division."
+    },
+    {
+      "claim": "Earned a master's in electrical engineering at Stanford while working ('Nebenher')",
+      "sourceIds": [
+        "nvidia-bio"
+      ],
+      "verdict": "unsupported",
+      "note": "Partly unsupported. NVIDIA confirms the Stanford MSEE but does not say he studied while working. Only Britannica says that ('While working, he returned to school'). Fix: add [s:britannica]."
+    },
+    {
+      "claim": "Founded NVIDIA in April 1993 with Chris Malachowsky and Curtis Priem and became its head",
+      "sourceIds": [
+        "britannica",
+        "chm"
+      ],
+      "verdict": "confirmed",
+      "note": "OK. Britannica gives April 1993 and says the co-founders chose Huang as CEO. CHM confirms 1993 and both co-founder names."
+    },
+    {
+      "claim": "Started with $40,000, then venture capital firms put in $20 million",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "OK. Britannica: '$40,000 in capital' and 'an initial investment of $20 million from venture capital firms'."
+    },
+    {
+      "claim": "President, CEO and board member since day one",
+      "sourceIds": [
+        "nvidia-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "OK. NVIDIA's page, fetched 2026-10-26, says he has held these roles since inception. Still current."
+    },
+    {
+      "claim": "NVIDIA went public in 1999",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "OK."
+    },
+    {
+      "claim": "In 1999 NVIDIA launched the GeForce 256, marketed as 'the world's first GPU', combining transform, lighting and rendering",
+      "sourceIds": [
+        "chm"
+      ],
+      "verdict": "confirmed",
+      "note": "OK. CHM gives the 1999 launch and the transform/lighting/rendering detail. CHM states 'first GPU' as fact; the article's 'beworben als' (marketed as) is the more careful wording and is fine."
+    },
+    {
+      "claim": "2006 CUDA let NVIDIA GPUs be used for general-purpose computing",
+      "sourceIds": [
+        "chm"
+      ],
+      "verdict": "confirmed",
+      "note": "OK."
+    },
+    {
+      "claim": "In 2012 AlexNet was trained on NVIDIA GPUs and the company turned to accelerated computing for AI",
+      "sourceIds": [
+        "chm"
+      ],
+      "verdict": "confirmed",
+      "note": "OK. CHM says the GPUs were used to 'power' AlexNet and the company then pivoted to AI."
+    },
+    {
+      "claim": "In 2018 Huang argued GPU performance was growing faster than Moore's law predicts; the press called it 'Huang's law'",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "OK. Britannica places this at the 2018 GTC. The source says the press named it 'immediately'; 'bald' (soon) is fine."
+    },
+    {
+      "claim": "Fortune named him Businessperson of the Year in 2017",
+      "sourceIds": [
+        "nvidia-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "OK on the year and the award. Wording: the award is 'Businessperson of the Year', which is closer to 'Geschäftsmann des Jahres' than 'Unternehmer des Jahres'. Consider keeping the English award name."
+    },
+    {
+      "claim": "Harvard Business Review ranked him the world's best-performing CEO in 2019",
+      "sourceIds": [
+        "nvidia-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "OK. NVIDIA says No. 1 on HBR's list of the 100 best-performing CEOs (over their whole tenure)."
+    },
+    {
+      "claim": "Time put him on its 100 most influential people list in 2021",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "OK."
+    },
+    {
+      "claim": "Named a Computer History Museum Fellow in 2024",
+      "sourceIds": [
+        "chm"
+      ],
+      "verdict": "confirmed",
+      "note": "OK. The CHM profile is headed '2024 Fellow'."
+    },
+    {
+      "claim": "Founded the Jen-Hsun and Lori Huang Foundation with his wife in 2007",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "OK."
+    },
+    {
+      "claim": "knownFor: co-founder, president and CEO of NVIDIA",
+      "sourceIds": [
+        "nvidia-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "OK. The NVIDIA page title is 'Co-founder, President and Chief Executive Officer'. Current as of 2026-10-26."
+    }
+  ],
+  "uncitedClaims": [
+    "Summary: co-founded NVIDIA in 1993, president and CEO since then; GeForce 256 in 1999 marketed as first GPU; shift to AI computing from 2012 (all confirmed by nvidia-bio/britannica/chm, but the summary has no citations)",
+    "FAQ: 'Jensen Huang, Chris Malachowsky und Curtis Priem gründeten NVIDIA im April 1993. Huang wurde von Anfang an zum CEO bestimmt.' (supported by britannica, but uncited)",
+    "FAQ: bachelor's 1984 at Oregon State, master's at Stanford (supported by britannica/nvidia-bio, but uncited)",
+    "FAQ: born 17 Feb 1963 in Tainan, family later moved to Thailand, came to the US at nine (supported by britannica, but uncited)",
+    "Lede: 'Zwei Jahrzehnte später gründete er NVIDIA' (arithmetic from 1972 to 1993, fine, but no citation)",
+    "'Als er fünf war, zog die Familie nach Thailand.' (britannica supports it; the sentence carries no citation)",
+    "'Rund zwei Jahre später kamen die Eltern nach … bei Portland in Oregon nieder.' (britannica supports it; the citation sits on the following sentence)",
+    "Age: never stated anywhere, although metaTitle promises 'Alter' and the top target query is 'jensen huang alter' (he is 63 as of 2026-10-26, from britannica's birth date)"
+  ],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "There is a clear chronological timeline built on primary sources (NVIDIA's own board bio and the CHM Fellow citation) rather than Wikipedia. The 'first GPU' claim is correctly framed as marketing, and German readers get context such as 'Bundesstaat Washington'. The lede about the Kentucky reform school is concrete and engaging. Weaknesses: it never answers the main search query (age), and apart from the clean sourcing it adds little beyond the German Wikipedia article.",
+  "decision": "reject",
+  "summary": "Every checked fact matches its cited source, and nothing is outdated: NVIDIA's page, fetched today, still lists him as president and CEO. I'm still rejecting the article until these fixes are made: (1) State his age. The metaTitle promises 'Alter' and 'jensen huang alter' is the first target query, but the page never says he is 63. Add it in the first screen and in an FAQ answer, e.g. '63 Jahre (Stand Oktober 2026), geboren am 17. Februar 1963 [s:britannica]'. (2) The Stanford master's sentence ('Nebenher …') cites only nvidia-bio, which does not say he studied while working. Add [s:britannica]. (3) Give the two citation-less sentences in 'Von Tainan nach Oregon' their own citation: the move to Thailand at five, and the parents' arrival and settling near Portland. (4) Optional: render Fortune's award as 'Businessperson of the Year' or 'Geschäftsmann des Jahres' rather than 'Unternehmer des Jahres'. On style: no hype words or em dashes, and sentence length varies. 'Auszeichnungen' is a generic section label but acceptable. Note that the Britannica copy I fetched was cached (2025-09-21) and shows age 61, so don't copy the age from that page; calculate it from the birth date."
+}

@@ -1,0 +1,264 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-opus-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"Three decades later he left the sport with 20 Grand Slam titles\" (No citation. The 20 titles are confirmed later by Britannica. But 1993/94 to 2022 is 28-29 years, so 'three decades' is a stretch. Change to 'nearly three decades' or give the years.)",
+    "WRONG: \"Asked how it felt, he said he could now play 'with my mind at peace'\" (The quote is accurate. The framing is not: CNN says he said it to the crowd on Court Philippe Chatrier after the trophy presentation, not in reply to a question. Fix the attribution, e.g. 'He told the crowd on Court Philippe Chatrier…'.)",
+    "UNSUPPORTED: \"FAQ: wife is 'Mirka Federer, born Mirka Vavrinec, a former player who reached No. 76 in the WTA rankings. They have two sets of twins.'\" (No citation. No source says 'born Mirka Vavrinec' or uses the name 'Mirka Federer'. Her birth name is widely reported as Miroslava Vavrinec, so 'born Mirka Vavrinec' is likely inaccurate. Remove 'born…' or source it. No. 76 and the twins are backed only by the body's atp-bio citation.)",
+    "UNSUPPORTED: \"He played one match there, a doubles on 23 September\" (NBC confirms a final doubles match and a farewell after the loss on Sept. 23. It does not say this was his only match at the Laver Cup. Cite a match report or Laver Cup source for 'one match', or drop 'one'.)",
+    "UNCITED: \"Opening: 'Three decades later he left the sport with 20 Grand Slam titles' (no citation, and 'three decades' is inexact for 1993/94 to 2022)\"",
+    "UNCITED: \"FAQ: 'Mirka Federer, born Mirka Vavrinec' (no source for her birth name; widely reported as Miroslava)\"",
+    "UNCITED: \"FAQ answers (Grand Slam breakdown, retirement dates, wife's ranking and twins) carry no citations; the facts are supported only via body citations\"",
+    "UNCITED: \"Summary/metaDescription/knownFor (20 Slams, 8 Wimbledons, 237 weeks, retirement with Nadal) are uncited but supported by the body sources\"",
+    "UNCITED: \"Implied current age: the page targets 'roger federer age' and metaTitle/metaDescription promise his age, but no age is given (45 as of 2026-10-26, from the Britannica birth date)\"",
+    "Reviewer recommends rejection: Five sources opened. Nearly every claim checks out, and the dates, scores, records and foundation figures are accurate and still current as of Oct 2026 (the Wimbledon record and Connors match-wins comparison still hold). Rejected over a few small but real problems. Fixes needed: (1) The wife FAQ says 'born Mirka Vavrinec' with no source, and her birth name is reported as Miroslava. Remove it or source it, and add a citation. (2) 'Asked how it felt' gets the 2009 quote's setting wrong: CNN shows he said it to the crowd during the on-court ceremony. Reword it. (3) 'He played one match there' is not in nbc-laver. Cite a source or drop 'one'. (4) The page names minor children while marked risk: medium. Under the style guide, minors mean risk: high, or drop the names. (5) 'Three decades later' is inexact (1993/94 to 2022). (6) Answer the age query: he is 45, born 8 August 1981 [s:britannica]. Once these are fixed, the page should pass."
+  ],
+  "claims": [
+    {
+      "claim": "In 1993 and 1994 he worked as a ballboy at the tournament in his home town of Basel",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "The ATP bio says he was a ballboy at his hometown tournament in Basel in 1993-94. His retirement statement also mentions being a ball kid in Basel."
+    },
+    {
+      "claim": "Three decades later he left the sport with 20 Grand Slam titles",
+      "sourceIds": [],
+      "verdict": "unsupported",
+      "note": "No citation. The 20 titles are confirmed later by Britannica. But 1993/94 to 2022 is 28-29 years, so 'three decades' is a stretch. Change to 'nearly three decades' or give the years."
+    },
+    {
+      "claim": "Born 8 August 1981 in Basel, Switzerland (body + person_json birthDate/birthPlace)",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica Quick Facts: born August 8, 1981, Basel, Switzerland."
+    },
+    {
+      "claim": "Nationality: CH (person_json)",
+      "sourceIds": [
+        "britannica",
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica calls him a Swiss tennis player. The ATP bio only shows it indirectly (Swiss father, Swiss Sportsman awards). Neither source mentions any second citizenship, so the field is supported as written."
+    },
+    {
+      "claim": "Father Robert is Swiss, mother Lynette is South African, sister Diana",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the ATP bio word for word."
+    },
+    {
+      "claim": "Started playing at eight; grew up watching Edberg, Becker and Sampras",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP: 'Began playing tennis at age 8' and lists Edberg, Becker and Sampras as his idols growing up. 'Watching' is a fair paraphrase of 'idols'."
+    },
+    {
+      "claim": "Britannica dates his professional career from 1998",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica Quick Facts: playing career 1998–2022."
+    },
+    {
+      "claim": "20 Grand Slam singles titles: 6 Australian Open, 1 French Open, 8 Wimbledon, 5 US Open (body, summary, knownFor, FAQ)",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica Quick Facts gives exactly this breakdown. The FAQ answer and the summary have no citation of their own, but the body cites it."
+    },
+    {
+      "claim": "Eight Wimbledon titles is a men's record",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica says 'a record eight Wimbledon titles'. A web search shows it still stands as of Oct 2026: Sinner won Wimbledon in 2025 and 2026, and Djokovic is still on 7."
+    },
+    {
+      "claim": "In 2018 he became the first man to reach 20 majors",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica: in 2018 he became the first player to claim 20 Grand Slam men's singles titles."
+    },
+    {
+      "claim": "Federer's first 13 major titles all came elsewhere (not Paris)",
+      "sourceIds": [
+        "cnn-2009"
+      ],
+      "verdict": "confirmed",
+      "note": "CNN: he had 13 Grand Slam titles before the event, but none on the Parisian red clay."
+    },
+    {
+      "claim": "June 2009 French Open win over Robin Soderling 6-1, 7-6, 6-4",
+      "sourceIds": [
+        "cnn-2009"
+      ],
+      "verdict": "confirmed",
+      "note": "CNN gives the score 6-1 7-6 6-4. The article is dated 7 June 2009."
+    },
+    {
+      "claim": "The win tied Pete Sampras's record of 14 majors",
+      "sourceIds": [
+        "cnn-2009"
+      ],
+      "verdict": "confirmed",
+      "note": "CNN: the win put him level with Sampras on 14."
+    },
+    {
+      "claim": "Made him one of only six men to have won all four Grand Slam tournaments",
+      "sourceIds": [
+        "cnn-2009"
+      ],
+      "verdict": "confirmed",
+      "note": "CNN names Perry, Budge, Laver, Emerson and Agassi. With Federer that makes six. The article correctly says 'at the time'."
+    },
+    {
+      "claim": "Asked how it felt, he said he could now play 'with my mind at peace'",
+      "sourceIds": [
+        "cnn-2009"
+      ],
+      "verdict": "wrong",
+      "note": "The quote is accurate. The framing is not: CNN says he said it to the crowd on Court Philippe Chatrier after the trophy presentation, not in reply to a question. Fix the attribution, e.g. 'He told the crowd on Court Philippe Chatrier…'."
+    },
+    {
+      "claim": "103 titles and 1,251 match wins; in the Open Era only Jimmy Connors won more matches",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP (updated 1 May 2025): 103 titles and 1,251 wins, second in the Open Era to Connors (109 titles, 1,274 wins). An Oct 2026 search shows Djokovic is still well short of 1,251 wins, so this is not outdated."
+    },
+    {
+      "claim": "237 consecutive weeks at No. 1, a record in ATP Rankings history",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP: holds the record for most consecutive weeks at No. 1 (237) in ATP Rankings history (since 1973)."
+    },
+    {
+      "claim": "Olympic doubles gold in 2008 and singles silver in 2012",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica Quick Facts: 1 gold (2008, doubles) and 1 silver (2012, singles)."
+    },
+    {
+      "claim": "Married to Mirka Vavrinec, a former professional who reached a career-high No. 76 in the WTA rankings",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP: 'Wife, Mirka Vavrinec, reached WTA career-high No. 76.'"
+    },
+    {
+      "claim": "Two sets of twins: daughters Myla and Charlene, sons Leo and Lenny",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "The ATP bio confirms the names, and the family made them public. But these are minors, so under the style guide the page should be risk: high, not medium. Either change the risk level or drop the children's names, which add nothing to the story."
+    },
+    {
+      "claim": "FAQ: wife is 'Mirka Federer, born Mirka Vavrinec, a former player who reached No. 76 in the WTA rankings. They have two sets of twins.'",
+      "sourceIds": [],
+      "verdict": "unsupported",
+      "note": "No citation. No source says 'born Mirka Vavrinec' or uses the name 'Mirka Federer'. Her birth name is widely reported as Miroslava Vavrinec, so 'born Mirka Vavrinec' is likely inaccurate. Remove 'born…' or source it. No. 76 and the twins are backed only by the body's atp-bio citation."
+    },
+    {
+      "claim": "In 2003 he set up the Roger Federer Foundation, funding education in Southern Africa and Switzerland; over a million children reached and over $50 million invested",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches ATP, which also names the countries. The article correctly attributes the figures to the ATP."
+    },
+    {
+      "claim": "His knee decided it",
+      "sourceIds": [
+        "nbc-laver"
+      ],
+      "verdict": "confirmed",
+      "note": "NBC quotes Federer telling Nadal his knee was 'not so good anymore'. Acceptable as a summary of his own words."
+    },
+    {
+      "claim": "On 15 September 2022, aged 41, he announced that after three years of injuries and surgeries his body had sent a clear message, and that the Laver Cup in London the following week would be his last ATP event",
+      "sourceIds": [
+        "retirement-statement"
+      ],
+      "verdict": "confirmed",
+      "note": "The statement is dated Switzerland, 15 September 2022. It says 'I am 41 years old', mentions three years of injuries and surgeries, and names the Laver Cup in London next week as his final ATP event."
+    },
+    {
+      "claim": "Quote: 'Tennis has treated me more generously than I ever would have dreamt'",
+      "sourceIds": [
+        "retirement-statement"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact wording in the statement."
+    },
+    {
+      "claim": "He played one match there, a doubles on 23 September",
+      "sourceIds": [
+        "nbc-laver"
+      ],
+      "verdict": "unsupported",
+      "note": "NBC confirms a final doubles match and a farewell after the loss on Sept. 23. It does not say this was his only match at the Laver Cup. Cite a match report or Laver Cup source for 'one match', or drop 'one'."
+    },
+    {
+      "claim": "Partner was Rafael Nadal, whom he had called to ask for 'one last doubles'",
+      "sourceIds": [
+        "nbc-laver"
+      ],
+      "verdict": "confirmed",
+      "note": "NBC quotes Federer asking Nadal to play one last doubles with him, in a phone call after the US Open."
+    },
+    {
+      "claim": "Lost to Jack Sock and Frances Tiafoe 4-6, 7-6, 11-9",
+      "sourceIds": [
+        "nbc-laver"
+      ],
+      "verdict": "confirmed",
+      "note": "NBC: Sock and Tiafoe won 4-6, 7-6, 11-9."
+    },
+    {
+      "claim": "FAQ: announced retirement 15 September 2022, final match at the Laver Cup in London on 23 September 2022",
+      "sourceIds": [],
+      "verdict": "confirmed",
+      "note": "No citation in the FAQ itself. The statement (retirement-statement) and nbc-laver confirm it."
+    },
+    {
+      "claim": "Summary: retired in September 2022, last match in doubles alongside Rafael Nadal; 237 consecutive weeks at No. 1",
+      "sourceIds": [],
+      "verdict": "confirmed",
+      "note": "Front matter has no citations. The body sources confirm all of it."
+    }
+  ],
+  "uncitedClaims": [
+    "Opening: 'Three decades later he left the sport with 20 Grand Slam titles' (no citation, and 'three decades' is inexact for 1993/94 to 2022)",
+    "FAQ: 'Mirka Federer, born Mirka Vavrinec' (no source for her birth name; widely reported as Miroslava)",
+    "FAQ answers (Grand Slam breakdown, retirement dates, wife's ranking and twins) carry no citations; the facts are supported only via body citations",
+    "Summary/metaDescription/knownFor (20 Slams, 8 Wimbledons, 237 weeks, retirement with Nadal) are uncited but supported by the body sources",
+    "Implied current age: the page targets 'roger federer age' and metaTitle/metaDescription promise his age, but no age is given (45 as of 2026-10-26, from the Britannica birth date)"
+  ],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "The page is clean and well sourced. It uses primary sources (the ATP's official bio, Federer's full retirement statement, a 2009 match report) and tells the ballboy-to-farewell story in sharp, concrete prose. There are no hype words, no em dashes and no closing summary. The Paris section and the ATP foundation figures add context that thin top results skip. Two weak spots: it never states his current age even though 'roger federer age' is the first target query and the meta text promises it, and the FAQ adds an unsourced private-life detail.",
+  "decision": "reject",
+  "summary": "Five sources opened. Nearly every claim checks out, and the dates, scores, records and foundation figures are accurate and still current as of Oct 2026 (the Wimbledon record and Connors match-wins comparison still hold). Rejected over a few small but real problems. Fixes needed: (1) The wife FAQ says 'born Mirka Vavrinec' with no source, and her birth name is reported as Miroslava. Remove it or source it, and add a citation. (2) 'Asked how it felt' gets the 2009 quote's setting wrong: CNN shows he said it to the crowd during the on-court ceremony. Reword it. (3) 'He played one match there' is not in nbc-laver. Cite a source or drop 'one'. (4) The page names minor children while marked risk: medium. Under the style guide, minors mean risk: high, or drop the names. (5) 'Three decades later' is inexact (1993/94 to 2022). (6) Answer the age query: he is 45, born 8 August 1981 [s:britannica]. Once these are fixed, the page should pass."
+}

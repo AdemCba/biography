@@ -1,0 +1,262 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-opus-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"Twenty years later he co-founded NVIDIA\" (No citation, and the arithmetic is loose. Age nine is about 1972, and NVIDIA was founded in April 1993, so about 21 years. Write 'une vingtaine d'années plus tard' or '21 ans plus tard'.)",
+    "UNSUPPORTED: \"At the same time he earned a master's in electrical engineering at Stanford\" (NVIDIA confirms only that he holds an MSEE from Stanford. It says nothing about when. The 'while working' timing ('dans le même temps') comes from Britannica. Add [s:britannica] or drop the timing.)",
+    "OUTDATED: \"Time named him in 2021 among the 100 most influential people\" (True, but the source snapshot is from 2025, and as of 2026-10-26 the awards list is out of date. He was also on the TIME100 in 2024. TIME's 2025 Person of the Year, 'The Architects of AI', featured him (time.com). IEEE gave him its 2026 Medal of Honor (ieee.org). imec gave him its 2026 Lifetime of Innovation Award. Update this with primary sources (time.com, ieee.org) added to person.json, or present the list as a selection.)",
+    "UNCITED: \"'Vingt ans plus tard, il cofonde NVIDIA' (about 21 years, no citation)\"",
+    "UNCITED: \"'Quand il a cinq ans, sa famille part pour la Thaïlande' (needs [s:britannica])\"",
+    "UNCITED: \"'Environ deux ans plus tard, les parents les rejoignent… près de Portland' (needs [s:britannica])\"",
+    "UNCITED: \"Summary paragraph (1993 founding, president/CEO, GeForce 256 1999, 2012 AI turn): no citations\"",
+    "UNCITED: \"knownFor field: no citation\"",
+    "UNCITED: \"All three FAQ answers: no citations\"",
+    "UNCITED: \"The article never gives his current age (63 as of 2026-10-26), even though the metaTitle promises 'âge' and 'jensen huang âge' is a target query\"",
+    "Adds no value over existing pages: The prose is clean and concrete, and the opening on the Kentucky school is a good hook. It follows a clear chronology, uses mostly primary sources (NVIDIA, CHM), has no hype words and no em dashes. But it fails the first job the style guide sets. The metaTitle and the first target query are about his age, and the page never says he is 63, nor is there an FAQ entry for it. The awards section stops in 2024 and misses the 2024 TIME100, TIME's 2025 Person of the Year group and the 2026 IEEE Medal of Honor. That means French readers get less than the usual top results. It does not tell readers about, or resolve, the Taipei vs Tainan birthplace discrepancy, which would be a real way to beat other pages. The 'Distinctions' heading is generic, and the foundation is misfiled under it.",
+    "Reviewer recommends rejection: Most claims hold up against the cited sources, but the page cannot be approved yet. What to fix: (1) The Stanford 'dans le même temps' timing is cited to nvidia-bio, which does not say it. Cite britannica. (2) Make 'Vingt ans plus tard' accurate (about 21 years) and cite it. (3) Add [s:britannica] to the Thailand-at-five sentence and the Portland sentence, and cite the summary, knownFor and FAQ answers. (4) State his age (63, born 17 Feb 1963) in the first screen and add a 'Quel âge a Jensen Huang ?' FAQ, since it is the top target query and is promised in the metaTitle. (5) Update the awards with primary sources added to person.json: TIME100 2024, TIME 2025 Person of the Year 'Architects of AI', IEEE Medal of Honor 2026. Move the foundation sentence out of 'Distinctions'. (6) Check the birthplace: Wikipedia now says Taipei with a move to Tainan in childhood, while Britannica and CHM say Tainan. Find a primary source, and if reliable sources disagree, cite both. (7) Optionally, describe Oneida as a reform school ('établissement de redressement'), as Britannica does, rather than a 'pensionnat'."
+  ],
+  "claims": [
+    {
+      "claim": "(person_json.facts) birthDate 1963-02-17",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica gives 'born February 17, 1963, Tainan, Taiwan'. The Britannica snapshot we fetched is old (retrieved 2025-09-21 and still says 'age 61'), but the birth date itself is not affected."
+    },
+    {
+      "claim": "(person_json.facts) birthPlace Tainan, Taiwan",
+      "sourceIds": [
+        "britannica",
+        "chm"
+      ],
+      "verdict": "confirmed",
+      "note": "Both cited sources say Tainan. Before publishing, note that English and Chinese Wikipedia now say he was born in Taipei and moved to Tainan as a child. Wikipedia is not citable, but this is a real lead. The editor should find a primary source (an on-record Huang interview or Taiwanese press) and, if reliable sources disagree, say so and cite both, as the style guide requires."
+    },
+    {
+      "claim": "knownFor: co-founder, president and CEO of NVIDIA",
+      "sourceIds": [
+        "nvidia-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "NVIDIA's page, fetched 2026-10-26, gives the title 'Co-founder, President and Chief Executive Officer'. The knownFor field itself has no citation."
+    },
+    {
+      "claim": "Summary: Taiwan-born engineer, co-founded NVIDIA in 1993, has run it since as president and CEO",
+      "sourceIds": [],
+      "verdict": "confirmed",
+      "note": "Supported by nvidia-bio and britannica, but the summary has no citations."
+    },
+    {
+      "claim": "Summary: in 1999 the company launched the GeForce 256, presented as the first GPU, then turned toward AI computing from 2012",
+      "sourceIds": [],
+      "verdict": "confirmed",
+      "note": "Supported by chm, which gives the GeForce 256 in 1999 as 'the world's first graphics processing unit' and the 2012 pivot after AlexNet. No citations in the summary."
+    },
+    {
+      "claim": "At nine he arrived in the US from Thailand with his brother and ended up at the Oneida Baptist Institute, a religious boarding school in Kentucky for boys judged 'difficult'",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica describes it as an all-boys 'religious reform school for difficult children', which the uncle mistakenly believed was a prestigious boarding school. 'Pensionnat religieux' softens this. Something closer to 'établissement religieux de redressement' would match the source better."
+    },
+    {
+      "claim": "Twenty years later he co-founded NVIDIA",
+      "sourceIds": [],
+      "verdict": "unsupported",
+      "note": "No citation, and the arithmetic is loose. Age nine is about 1972, and NVIDIA was founded in April 1993, so about 21 years. Write 'une vingtaine d'années plus tard' or '21 ans plus tard'."
+    },
+    {
+      "claim": "Born Jen-Hsun Huang on 17 February 1963 in Tainan, Taiwan",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica gives 'Also known as: Jen-Hsun Huang' and the date and place. See the Taipei/Tainan lead above."
+    },
+    {
+      "claim": "When he was five, the family moved to Thailand",
+      "sourceIds": [],
+      "verdict": "confirmed",
+      "note": "Britannica says this, but the sentence has no citation of its own. Add [s:britannica]."
+    },
+    {
+      "claim": "Around nine, his parents sent him and his brother to an uncle in Tacoma, Washington, who enrolled them at the Kentucky school",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches Britannica."
+    },
+    {
+      "claim": "About two years later the parents joined them, took the boys out of the school, and the family settled near Portland, Oregon",
+      "sourceIds": [],
+      "verdict": "confirmed",
+      "note": "Britannica says this ('about two years later', 'suburbs of Portland'), but the sentence has no citation. Add [s:britannica]."
+    },
+    {
+      "claim": "Graduated from high school in Aloha in 1981",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica says he attended Aloha High School and graduated in 1981."
+    },
+    {
+      "claim": "Studied electrical engineering at Oregon State University, graduated 1984; met Lori Mills there, whom he later married",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches Britannica. The marriage is public and on the record, so it is fine under the private-life rule."
+    },
+    {
+      "claim": "Worked about a year at Advanced Micro Devices, then at LSI Logic from 1985 to 1993, eventually running a division",
+      "sourceIds": [
+        "nvidia-bio",
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "NVIDIA gives AMD 1984–1985 and LSI Logic 1985–1993. Britannica says he 'eventually became director of a company division'."
+    },
+    {
+      "claim": "At the same time he earned a master's in electrical engineering at Stanford",
+      "sourceIds": [
+        "nvidia-bio"
+      ],
+      "verdict": "unsupported",
+      "note": "NVIDIA confirms only that he holds an MSEE from Stanford. It says nothing about when. The 'while working' timing ('dans le même temps') comes from Britannica. Add [s:britannica] or drop the timing."
+    },
+    {
+      "claim": "In April 1993 he founded NVIDIA with engineers Chris Malachowsky and Curtis Priem, who chose him as boss",
+      "sourceIds": [
+        "britannica",
+        "chm"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica says April 1993, fellow microchip designers, and that they 'selected Huang to serve as CEO'. CHM confirms 1993 and the co-founders."
+    },
+    {
+      "claim": "The three started with $40,000; venture capital firms later put in $20 million",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches Britannica."
+    },
+    {
+      "claim": "Since day one he has been president, CEO and a board member",
+      "sourceIds": [
+        "nvidia-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "NVIDIA says he 'has served since its inception as president, chief executive officer, and a member of the board of directors'."
+    },
+    {
+      "claim": "In 1999 the company went public",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica: 'The company went public in 1999.'"
+    },
+    {
+      "claim": "In 1999 it launched the GeForce 256, presented as 'the world's first graphics processing unit', combining transform, lighting and rendering",
+      "sourceIds": [
+        "chm"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches CHM. The French text in quotation marks is a translation of CHM's wording, which is acceptable."
+    },
+    {
+      "claim": "CUDA arrived in 2006, letting NVIDIA GPUs be used for general-purpose computing",
+      "sourceIds": [
+        "chm"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches CHM."
+    },
+    {
+      "claim": "In 2012 AlexNet was trained on NVIDIA GPUs and the company reoriented toward accelerated computing for AI",
+      "sourceIds": [
+        "chm"
+      ],
+      "verdict": "confirmed",
+      "note": "CHM says its GPUs were 'used in 2012 to power the breakthrough AlexNet' and that the company 'pivoted again' to AI with accelerated computing."
+    },
+    {
+      "claim": "In 2018 Huang said GPU performance was improving faster than Moore's law predicts; the press soon called it 'Huang's law'",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica places it at the 2018 GPU Technology Conference and says the press 'immediately' coined 'Huang's law'."
+    },
+    {
+      "claim": "Fortune named him Businessperson of the Year in 2017; HBR ranked him the world's best-performing CEO in 2019",
+      "sourceIds": [
+        "nvidia-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "NVIDIA bio confirms both: Fortune 2017, and HBR 2019 No. 1 among the 100 best-performing CEOs."
+    },
+    {
+      "claim": "Time named him in 2021 among the 100 most influential people",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "outdated",
+      "note": "True, but the source snapshot is from 2025, and as of 2026-10-26 the awards list is out of date. He was also on the TIME100 in 2024. TIME's 2025 Person of the Year, 'The Architects of AI', featured him (time.com). IEEE gave him its 2026 Medal of Honor (ieee.org). imec gave him its 2026 Lifetime of Innovation Award. Update this with primary sources (time.com, ieee.org) added to person.json, or present the list as a selection."
+    },
+    {
+      "claim": "The Computer History Museum named him a Fellow in 2024",
+      "sourceIds": [
+        "chm"
+      ],
+      "verdict": "confirmed",
+      "note": "CHM profile: '2024 Fellow'."
+    },
+    {
+      "claim": "With his wife he created the Jen-Hsun and Lori Huang Foundation in 2007",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches Britannica. The foundation is not an award, so it sits oddly under 'Distinctions'."
+    },
+    {
+      "claim": "FAQ: Huang, Malachowsky and Priem founded NVIDIA in April 1993; Huang was named CEO from the start",
+      "sourceIds": [],
+      "verdict": "confirmed",
+      "note": "Supported by britannica and nvidia-bio, but the FAQ answer has no citation."
+    },
+    {
+      "claim": "FAQ: bachelor's in electrical engineering from Oregon State in 1984, then master's in electrical engineering at Stanford",
+      "sourceIds": [],
+      "verdict": "confirmed",
+      "note": "Supported by britannica, nvidia-bio and chm. No citation."
+    },
+    {
+      "claim": "FAQ: born in Tainan on 17 Feb 1963; family moved to Thailand; arrived in the US at nine",
+      "sourceIds": [],
+      "verdict": "confirmed",
+      "note": "Supported by britannica and chm. No citation. See the Taipei/Tainan lead."
+    }
+  ],
+  "uncitedClaims": [
+    "'Vingt ans plus tard, il cofonde NVIDIA' (about 21 years, no citation)",
+    "'Quand il a cinq ans, sa famille part pour la Thaïlande' (needs [s:britannica])",
+    "'Environ deux ans plus tard, les parents les rejoignent… près de Portland' (needs [s:britannica])",
+    "Summary paragraph (1993 founding, president/CEO, GeForce 256 1999, 2012 AI turn): no citations",
+    "knownFor field: no citation",
+    "All three FAQ answers: no citations",
+    "The article never gives his current age (63 as of 2026-10-26), even though the metaTitle promises 'âge' and 'jensen huang âge' is a target query"
+  ],
+  "readsHumanWritten": true,
+  "addsValue": false,
+  "valueNote": "The prose is clean and concrete, and the opening on the Kentucky school is a good hook. It follows a clear chronology, uses mostly primary sources (NVIDIA, CHM), has no hype words and no em dashes. But it fails the first job the style guide sets. The metaTitle and the first target query are about his age, and the page never says he is 63, nor is there an FAQ entry for it. The awards section stops in 2024 and misses the 2024 TIME100, TIME's 2025 Person of the Year group and the 2026 IEEE Medal of Honor. That means French readers get less than the usual top results. It does not tell readers about, or resolve, the Taipei vs Tainan birthplace discrepancy, which would be a real way to beat other pages. The 'Distinctions' heading is generic, and the foundation is misfiled under it.",
+  "decision": "reject",
+  "summary": "Most claims hold up against the cited sources, but the page cannot be approved yet. What to fix: (1) The Stanford 'dans le même temps' timing is cited to nvidia-bio, which does not say it. Cite britannica. (2) Make 'Vingt ans plus tard' accurate (about 21 years) and cite it. (3) Add [s:britannica] to the Thailand-at-five sentence and the Portland sentence, and cite the summary, knownFor and FAQ answers. (4) State his age (63, born 17 Feb 1963) in the first screen and add a 'Quel âge a Jensen Huang ?' FAQ, since it is the top target query and is promised in the metaTitle. (5) Update the awards with primary sources added to person.json: TIME100 2024, TIME 2025 Person of the Year 'Architects of AI', IEEE Medal of Honor 2026. Move the foundation sentence out of 'Distinctions'. (6) Check the birthplace: Wikipedia now says Taipei with a move to Tainan in childhood, while Britannica and CHM say Tainan. Find a primary source, and if reliable sources disagree, cite both. (7) Optionally, describe Oneida as a reform school ('établissement de redressement'), as Britannica does, rather than a 'pensionnat'."
+}

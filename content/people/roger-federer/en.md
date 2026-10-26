@@ -1,13 +1,20 @@
 ---
 title: Roger Federer
 slug: roger-federer
-metaTitle: "Roger Federer: age, Grand Slam titles and career"
-metaDescription: "Roger Federer's age, hometown and 20 Grand Slam titles, from ballboy in Basel to 237 straight weeks at No. 1 and a last match beside Rafael Nadal in 2022."
-knownFor: Swiss tennis player, winner of 20 Grand Slam singles titles
-summary: "Roger Federer is the Swiss tennis player who won 20 Grand Slam singles titles, including a record eight at Wimbledon, and spent 237 consecutive weeks as world No. 1. He retired in September 2022, playing his last match in doubles alongside Rafael Nadal."
+metaTitle: 'Roger Federer: age, Grand Slam titles and career'
+metaDescription: >-
+  Roger Federer's age, hometown and 20 Grand Slam titles, from ballboy in Basel
+  to 237 straight weeks at No. 1 and a last match beside Rafael Nadal in 2022.
+knownFor: 'Swiss tennis player, winner of 20 Grand Slam singles titles'
+summary: >-
+  Roger Federer is the Swiss tennis player who won 20 Grand Slam singles titles,
+  including a record eight at Wimbledon, and spent 237 consecutive weeks as
+  world No. 1. He retired in September 2022, playing his last match in doubles
+  alongside Rafael Nadal.
 status: review
 risk: medium
 author: editor-in-chief
+aiAssisted: true
 targetQueries:
   - roger federer age
   - how many grand slams does federer have
@@ -15,12 +22,61 @@ targetQueries:
   - roger federer wife
   - roger federer foundation
 faq:
-  - q: "How many Grand Slam titles did Roger Federer win?"
-    a: "Twenty in singles: six Australian Opens, one French Open, eight Wimbledons and five US Opens."
-  - q: "When did Roger Federer retire?"
-    a: "He announced it on 15 September 2022 and played his final match at the Laver Cup in London on 23 September 2022."
-  - q: "Who is Roger Federer's wife?"
-    a: "Mirka Federer, born Mirka Vavrinec, a former player who reached No. 76 in the WTA rankings. They have two sets of twins."
+  - q: How many Grand Slam titles did Roger Federer win?
+    a: >-
+      Twenty in singles: six Australian Opens, one French Open, eight Wimbledons
+      and five US Opens.
+  - q: When did Roger Federer retire?
+    a: >-
+      He announced it on 15 September 2022 and played his final match at the
+      Laver Cup in London on 23 September 2022.
+  - q: Who is Roger Federer's wife?
+    a: >-
+      Mirka Federer, born Mirka Vavrinec, a former player who reached No. 76 in
+      the WTA rankings. They have two sets of twins.
+autoReviews: 1
+reviewNotes: >-
+  UNSUPPORTED: "Three decades later he left the sport with 20 Grand Slam titles"
+  (No citation. The 20 titles are confirmed later by Britannica. But 1993/94 to
+  2022 is 28-29 years, so 'three decades' is a stretch. Change to 'nearly three
+  decades' or give the years.) | WRONG: "Asked how it felt, he said he could now
+  play 'with my mind at peace'" (The quote is accurate. The framing is not: CNN
+  says he said it to the crowd on Court Philippe Chatrier after the trophy
+  presentation, not in reply to a question. Fix the attribution, e.g. 'He told
+  the crowd on Court Philippe Chatrier…'.) | UNSUPPORTED: "FAQ: wife is 'Mirka
+  Federer, born Mirka Vavrinec, a former player who reached No. 76 in the WTA
+  rankings. They have two sets of twins.'" (No citation. No source says 'born
+  Mirka Vavrinec' or uses the name 'Mirka Federer'. Her birth name is widely
+  reported as Miroslava Vavrinec, so 'born Mirka Vavrinec' is likely inaccurate.
+  Remove 'born…' or source it. No. 76 and the twins are backed only by the
+  body's atp-bio citation.) | UNSUPPORTED: "He played one match there, a doubles
+  on 23 September" (NBC confirms a final doubles match and a farewell after the
+  loss on Sept. 23. It does not say this was his only match at the Laver Cup.
+  Cite a match report or Laver Cup source for 'one match', or drop 'one'.) |
+  UNCITED: "Opening: 'Three decades later he left the sport with 20 Grand Slam
+  titles' (no citation, and 'three decades' is inexact for 1993/94 to 2022)" |
+  UNCITED: "FAQ: 'Mirka Federer, born Mirka Vavrinec' (no source for her birth
+  name; widely reported as Miroslava)" | UNCITED: "FAQ answers (Grand Slam
+  breakdown, retirement dates, wife's ranking and twins) carry no citations; the
+  facts are supported only via body citations" | UNCITED:
+  "Summary/metaDescription/knownFor (20 Slams, 8 Wimbledons, 237 weeks,
+  retirement with Nadal) are uncited but supported by the body sources" |
+  UNCITED: "Implied current age: the page targets 'roger federer age' and
+  metaTitle/metaDescription promise his age, but no age is given (45 as of
+  2026-10-26, from the Britannica birth date)" | Reviewer recommends rejection:
+  Five sources opened. Nearly every claim checks out, and the dates, scores,
+  records and foundation figures are accurate and still current as of Oct 2026
+  (the Wimbledon record and Connors match-wins comparison still hold). Rejected
+  over a few small but real problems. Fixes needed: (1) The wife FAQ says 'born
+  Mirka Vavrinec' with no source, and her birth name is reported as Miroslava.
+  Remove it or source it, and add a citation. (2) 'Asked how it felt' gets the
+  2009 quote's setting wrong: CNN shows he said it to the crowd during the
+  on-court ceremony. Reword it. (3) 'He played one match there' is not in
+  nbc-laver. Cite a source or drop 'one'. (4) The page names minor children
+  while marked risk: medium. Under the style guide, minors mean risk: high, or
+  drop the names. (5) 'Three decades later' is inexact (1993/94 to 2022). (6)
+  Answer the age query: he is 45, born 8 August 1981 [s:britannica]. Once these
+  are fixed, the page should pass.
 ---
 Before he won anything, Roger Federer fetched balls. In 1993 and 1994 he worked as a ballboy at the tournament in his home town of Basel [s:atp-bio]. Three decades later he left the sport with 20 Grand Slam titles.
 

@@ -1,25 +1,80 @@
 ---
 title: Jensen Huang
 slug: jensen-huang
-metaTitle: "Jensen Huang: edad, estudios y cómo fundó NVIDIA"
-metaDescription: "Quién es Jensen Huang: edad, origen taiwanés, estudios en Oregón y Stanford, su paso por AMD y LSI Logic y cómo NVIDIA pasó de los gráficos a la IA."
-knownFor: Cofundador, presidente y consejero delegado de NVIDIA
-summary: "Jensen Huang es el ingeniero nacido en Taiwán que cofundó NVIDIA en 1993 y la dirige desde entonces como presidente y consejero delegado. Su empresa lanzó en 1999 la GeForce 256, presentada como la primera GPU, y desde 2012 se centra en la computación para inteligencia artificial."
+metaTitle: 'Jensen Huang: edad, estudios y cómo fundó NVIDIA'
+metaDescription: >-
+  Quién es Jensen Huang: edad, origen taiwanés, estudios en Oregón y Stanford,
+  su paso por AMD y LSI Logic y cómo NVIDIA pasó de los gráficos a la IA.
+knownFor: 'Cofundador, presidente y consejero delegado de NVIDIA'
+summary: >-
+  Jensen Huang es el ingeniero nacido en Taiwán que cofundó NVIDIA en 1993 y la
+  dirige desde entonces como presidente y consejero delegado. Su empresa lanzó
+  en 1999 la GeForce 256, presentada como la primera GPU, y desde 2012 se centra
+  en la computación para inteligencia artificial.
 status: review
 risk: medium
 author: editor-in-chief
+aiAssisted: true
 targetQueries:
   - jensen huang edad
   - quién fundó nvidia
   - jensen huang estudios
   - dónde nació jensen huang
 faq:
-  - q: "¿Quién fundó NVIDIA?"
-    a: "Jensen Huang, Chris Malachowsky y Curtis Priem fundaron NVIDIA en abril de 1993; Huang fue elegido consejero delegado desde el principio."
-  - q: "¿Dónde estudió Jensen Huang?"
-    a: "Se licenció en ingeniería eléctrica en la Universidad Estatal de Oregón en 1984 y obtuvo un máster en ingeniería eléctrica en Stanford."
-  - q: "¿Dónde nació Jensen Huang?"
-    a: "En Tainan, Taiwán, el 17 de febrero de 1963. Su familia se mudó después a Tailandia y él llegó a Estados Unidos con nueve años."
+  - q: ¿Quién fundó NVIDIA?
+    a: >-
+      Jensen Huang, Chris Malachowsky y Curtis Priem fundaron NVIDIA en abril de
+      1993; Huang fue elegido consejero delegado desde el principio.
+  - q: ¿Dónde estudió Jensen Huang?
+    a: >-
+      Se licenció en ingeniería eléctrica en la Universidad Estatal de Oregón en
+      1984 y obtuvo un máster en ingeniería eléctrica en Stanford.
+  - q: ¿Dónde nació Jensen Huang?
+    a: >-
+      En Tainan, Taiwán, el 17 de febrero de 1963. Su familia se mudó después a
+      Tailandia y él llegó a Estados Unidos con nueve años.
+autoReviews: 1
+reviewNotes: >-
+  UNSUPPORTED: "Completed a master's in electrical engineering at Stanford
+  'mientras tanto' (while working)" (The NVIDIA bio confirms the Stanford MSEE
+  but does not say when it was earned. 'While working' comes only from
+  Britannica ('While working, he returned to school...'). Add [s:britannica] to
+  this sentence.) | UNCITED: "'Dos décadas después cofundaba NVIDIA' (lede):
+  about 21 years from age nine (c. 1972) to 1993. This is derived arithmetic and
+  roughly correct, but uncited." | UNCITED: "'A los cinco años su familia se
+  trasladó a Tailandia': supported by Britannica, but the sentence has no tag of
+  its own." | UNCITED: "Summary, knownFor and FAQ answers have no inline
+  citations. Their content is supported by sources already in person.json." |
+  UNCITED: "The page never states his age, even though metaTitle promises 'edad'
+  and 'jensen huang edad' is the first target query. As of 2026-10-26 he is 63
+  (born 1963-02-17 [s:britannica]). This must be added and cited." | Adds no
+  value over existing pages: The facts are clean and use primary sources (the
+  NVIDIA board bio and the CHM Fellow page), with no hype words or em dashes.
+  The lede (nine years old, sent by mistake to a Kentucky reform school) is a
+  strong, concrete opening. The page still fails the guide's main test. The
+  first target query and the metaTitle promise 'edad', and the page never gives
+  his age: there is no '63 años' and no '¿Cuántos años tiene Jensen Huang?' FAQ.
+  A reader searching that has to work it out. The body is essentially a
+  condensed version of the Britannica entry plus two lines from the NVIDIA bio,
+  so it adds little a Spanish reader would not get from Wikipedia ES or
+  Britannica. There is no Spanish-language source and no added local context.
+  The story also stops in 2018, without the context (cited to CHM) that NVIDIA
+  became one of the world's most valuable companies, which is why most people
+  search him now. | Reviewer recommends rejection: Every factual claim checks
+  out against nvidia-bio, britannica and chm, and both person.json facts (birth
+  date and birthplace) are confirmed. A search confirms he is still NVIDIA CEO
+  as of October 2026, so nothing is outdated. One citation is unsupported: the
+  Stanford master's 'mientras tanto' is cited only to nvidia-bio, which gives no
+  timing; add [s:britannica]. Rejected for value and search intent, not
+  accuracy. Fixes: (1) State his age, 63 as of 2026-10-26 (born 17 February 1963
+  [s:britannica]), in the first screen and add a one-sentence FAQ '¿Cuántos años
+  tiene Jensen Huang?'. Make sure the age will update or carries an as-of date.
+  (2) Add [s:britannica] to the Stanford sentence and to 'A los cinco años...
+  Tailandia'. (3) Consider 'reformatorio religioso' to match Britannica's
+  'reform school'. (4) Add something the top results lack, for example a short
+  dated timeline, a Spanish-language source, or the post-2018 context from CHM
+  on NVIDIA's position. Otherwise the page restates Britannica and should not be
+  published.
 ---
 Con nueve años, Jensen Huang llegó a Estados Unidos desde Tailandia junto a su hermano y acabó en el Oneida Baptist Institute, un internado religioso de Kentucky para niños considerados "difíciles" [s:britannica]. Dos décadas después cofundaba NVIDIA.
 

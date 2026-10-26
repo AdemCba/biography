@@ -1,18 +1,61 @@
 {
   "id": "jensen-huang",
   "name": "Jensen Huang",
-  "categories": ["business"],
+  "categories": [
+    "business"
+  ],
   "importance": 5,
   "wikidata": "Q305177",
-  "sameAs": ["https://www.nvidia.com/en-us/about-nvidia/board-of-directors/jensen-huang/"],
+  "sameAs": [
+    "https://www.nvidia.com/en-us/about-nvidia/board-of-directors/jensen-huang/"
+  ],
   "facts": {
-    "birthDate": { "value": "1963-02-17", "sources": ["britannica"] },
-    "birthPlace": { "value": "Tainan, Taiwan", "sources": ["britannica", "chm"] }
+    "birthDate": {
+      "value": "1963-02-17",
+      "sources": [
+        "britannica"
+      ]
+    },
+    "birthPlace": {
+      "value": "Tainan, Taiwan",
+      "sources": [
+        "britannica",
+        "chm"
+      ]
+    }
   },
   "related": [],
   "sources": [
-    { "id": "nvidia-bio", "url": "https://www.nvidia.com/en-us/about-nvidia/board-of-directors/jensen-huang/", "title": "Jensen Huang: founder, president and CEO", "publisher": "NVIDIA", "type": "company", "accessed": "2026-10-26" },
-    { "id": "britannica", "url": "https://www.britannica.com/biography/Jensen-Huang", "title": "Jensen Huang", "publisher": "Encyclopaedia Britannica", "type": "database", "accessed": "2026-10-26" },
-    { "id": "chm", "url": "https://computerhistory.org/profile/jensen-huang/", "title": "Jensen Huang: 2024 CHM Fellow", "publisher": "Computer History Museum", "type": "award-body", "accessed": "2026-10-26" }
-  ]
+    {
+      "id": "nvidia-bio",
+      "url": "https://www.nvidia.com/en-us/about-nvidia/board-of-directors/jensen-huang/",
+      "title": "Jensen Huang: founder, president and CEO",
+      "publisher": "NVIDIA",
+      "type": "company",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "britannica",
+      "url": "https://www.britannica.com/biography/Jensen-Huang",
+      "title": "Jensen Huang",
+      "publisher": "Encyclopaedia Britannica",
+      "type": "database",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "chm",
+      "url": "https://computerhistory.org/profile/jensen-huang/",
+      "title": "Jensen Huang: 2024 CHM Fellow",
+      "publisher": "Computer History Museum",
+      "type": "award-body",
+      "accessed": "2026-10-26"
+    }
+  ],
+  "image": {
+    "src": "/images/people/jensen-huang.jpg",
+    "alt": "Jensen Huang",
+    "credit": "The White House",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jen-Hsun_Huang_2025.jpg"
+  }
 }
