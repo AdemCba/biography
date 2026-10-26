@@ -1,0 +1,121 @@
+{
+  "id": "lionel-messi",
+  "name": "Lionel Messi",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 5,
+  "wikidata": "Q615",
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1987-06-24",
+      "sources": [
+        "intermiami-player",
+        "wikidata-messi"
+      ],
+      "note": "Both sources agree."
+    },
+    "birthPlace": {
+      "value": "Rosario, Argentina",
+      "sources": [
+        "intermiami-player",
+        "wikidata-messi"
+      ],
+      "note": "Both sources agree."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "intermiami-player",
+      "url": "https://www.intermiamicf.com/players/lionel-messi/",
+      "title": "Leo Messi player profile",
+      "publisher": "Inter Miami CF",
+      "type": "official",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "fpa-asturias-2026",
+      "url": "https://www.fpa.es/en/princess-of-asturias-awards/laureates/2026-leo-messi/?texto=acta",
+      "title": "Princess of Asturias Award for Sports 2026: Leo Messi",
+      "publisher": "Fundacion Princesa de Asturias",
+      "type": "award-body",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "nbc-world-cup-final-2026",
+      "url": "https://www.nbcwashington.com/world-cup/lionel-messi-message-argentina-fans-defeat/4132166/",
+      "title": "Lionel Messi message to Argentina fans after World Cup final defeat",
+      "publisher": "NBC Washington",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "worldsoccertalk-retirement",
+      "url": "https://worldsoccertalk.com/news/lionel-messi-retires-from-international-soccer-total-stats-goals-and-caps-with-argentina/",
+      "title": "Lionel Messi retires from international soccer: total stats, goals and caps with Argentina",
+      "publisher": "World Soccer Talk",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "rsssf-messi-international",
+      "url": "https://rsssf.org/miscellaneous/messi-intlg.html",
+      "title": "Lionel Andres Messi - Century of International Appearances",
+      "publisher": "RSSSF",
+      "type": "database",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "reuters-ballon-dor-2023",
+      "url": "https://en.prothomalo.com/sports/football/h7blwkxnne",
+      "title": "Messi wins record eighth Ballon d'Or for best player in the world",
+      "publisher": "Prothom Alo (Reuters)",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "wikidata-messi",
+      "url": "https://www.wikidata.org/wiki/Q615",
+      "title": "Lionel Messi (Q615)",
+      "publisher": "Wikidata",
+      "type": "database",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "reuters-factbox-2026",
+      "url": "https://tribune.com.pk/story/2626751/former-argentina-forward-lionel-messi?amp=1",
+      "title": "Factbox: A look at former Argentina forward Lionel Messi's career",
+      "publisher": "Express Tribune (Reuters)",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "si-2022-final",
+      "url": "https://www.si.com/soccer/2022/12/18/france-argentina-world-cup-final-video-highlights-recap-messi-mbappe",
+      "title": "Argentina Defeats France in Penalty Shootout to Win World Cup in Legendary Final",
+      "publisher": "Sports Illustrated",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "intermiami-season-2025",
+      "url": "https://www.intermiamicf.com/news/road-to-glory-mls-cup-champions-historic-2025-season-in-review",
+      "title": "Road to glory: MLS Cup champions historic 2025 season in review",
+      "publisher": "Inter Miami CF",
+      "type": "official",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    }
+  ]
+}

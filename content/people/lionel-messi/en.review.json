@@ -1,0 +1,271 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 24 June 1987 in Rosario, Argentina",
+      "sourceIds": [
+        "intermiami-player",
+        "wikidata-messi"
+      ],
+      "verdict": "confirmed",
+      "note": "Inter Miami profile shows 6.24.1987 (39) and Rosario, Argentina; Wikidata gives 24 June 1987 and Rosario."
+    },
+    {
+      "claim": "Age 39 as of 26 October 2026",
+      "sourceIds": [
+        "intermiami-player"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile lists age 39; arithmetic from 1987-06-24 gives 39 on 2026-10-26."
+    },
+    {
+      "claim": "Joined Barcelona at 13, in 2000",
+      "sourceIds": [
+        "reuters-factbox-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Factbox: age 13, in 2000."
+    },
+    {
+      "claim": "Senior debut at 16, 2003 friendly against Porto",
+      "sourceIds": [
+        "reuters-factbox-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Factbox states age 16 and 2003 friendly vs Porto."
+    },
+    {
+      "claim": "La Liga debut October 2004; first league goal the next May against Albacete",
+      "sourceIds": [
+        "reuters-factbox-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Factbox: La Liga debut October 2004; first league goal vs Albacete the following May."
+    },
+    {
+      "claim": "Argentina debut: substitute? removed. Debut 17 Aug 2005 in Budapest vs Hungary, 2-1 win",
+      "sourceIds": [
+        "rsssf-messi-international"
+      ],
+      "verdict": "confirmed",
+      "note": "RSSSF cap 1: 17 August 2005, Budapest, Hungary 2-1 Argentina, friendly. 'As a substitute' was removed because no source supports it."
+    },
+    {
+      "claim": "10 La Liga, 7 Copa del Rey, 7 Super Cup, 4 Champions League, 3 UEFA Super Cup, 3 Club World Cup, 2004-2021",
+      "sourceIds": [
+        "reuters-factbox-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Factbox lists exactly these totals for 2004 to 2021."
+    },
+    {
+      "claim": "91 goals in calendar year 2012, a record for a calendar year",
+      "sourceIds": [
+        "reuters-factbox-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Factbox: 91 goals in all competitions, calendar-year record."
+    },
+    {
+      "claim": "50 La Liga goals in 2011-12, single-season record",
+      "sourceIds": [
+        "reuters-factbox-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Factbox: 50 La Liga goals, single-season record."
+    },
+    {
+      "claim": "Left Barcelona August 2021 as all-time top scorer",
+      "sourceIds": [
+        "reuters-factbox-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Factbox: August 2021, club's all-time top scorer."
+    },
+    {
+      "claim": "Joined PSG August 2021; 11 goals in first season; Ligue 1 title in first season and in 2022-23",
+      "sourceIds": [
+        "reuters-factbox-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Factbox: joined August 2021, 11 goals in all competitions in first season, Ligue 1 that season, and another Ligue 1 in 2022-23."
+    },
+    {
+      "claim": "Joined Inter Miami July 2023; profile lists No. 10 and forward",
+      "sourceIds": [
+        "reuters-factbox-2026",
+        "intermiami-player"
+      ],
+      "verdict": "confirmed",
+      "note": "Factbox: July 2023. Profile: #10, Forward."
+    },
+    {
+      "claim": "Ballon d'Or on 30 October 2023 at Théâtre du Châtelet, record eighth award, ahead of Erling Haaland",
+      "sourceIds": [
+        "reuters-ballon-dor-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Reuters (Prothom Alo) page: ceremony 30 October 2023 at the Theatre du Chatelet, record eighth Ballon d'Or, Haaland of Manchester City runner-up."
+    },
+    {
+      "claim": "2022 final on 18 December in Qatar, 3-3 after extra time, Argentina won shootout",
+      "sourceIds": [
+        "si-2022-final"
+      ],
+      "verdict": "confirmed",
+      "note": "SI: Sunday 18 December 2022, Lusail, 3-3 after extra time, Argentina won the shootout."
+    },
+    {
+      "claim": "Messi scored from the penalty spot and twice in the final",
+      "sourceIds": [
+        "si-2022-final",
+        "reuters-factbox-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "SI: first goal was a penalty; Messi scored twice. Factbox: scored twice in the final."
+    },
+    {
+      "claim": "Golden Ball 2022; first player to win it twice",
+      "sourceIds": [
+        "si-2022-final",
+        "reuters-factbox-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "SI: Messi won Golden Ball. Factbox: first player to win it twice."
+    },
+    {
+      "claim": "2022 title was Argentina's third World Cup and its first since 1986",
+      "sourceIds": [
+        "si-2022-final"
+      ],
+      "verdict": "confirmed",
+      "note": "SI: 'third World Cup title and first since 1986'. The 1978 mention was removed because SI does not state it."
+    },
+    {
+      "claim": "2014: four goals and Golden Ball; 2018: one goal and two assists",
+      "sourceIds": [
+        "reuters-factbox-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Factbox states both."
+    },
+    {
+      "claim": "MLS Cup 2025 MVP; Inter Miami beat Vancouver; club's first MLS Cup",
+      "sourceIds": [
+        "intermiami-season-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Club review: MLS Cup MVP honors to Messi; victory over Vancouver; clinched first-ever MLS Cup."
+    },
+    {
+      "claim": "Postseason 15 goal contributions (6 goals, 9 assists), single-postseason record",
+      "sourceIds": [
+        "intermiami-season-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Club review gives 15 contributions, 6 goals, 9 assists and calls it a new postseason record."
+    },
+    {
+      "claim": "On 3 June 2026 the Foundation announced the Sports award",
+      "sourceIds": [
+        "fpa-asturias-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Dateline 'Oviedo, 3rd June 2026'; 2026 Princess of Asturias Award for Sports."
+    },
+    {
+      "claim": "Jury quotes: 'exceptional sporting career', 'formidable and continued charitable work to promote access to education and health care', 'exemplary behaviour on the field', 'consistency, humility and commitment to the team game'",
+      "sourceIds": [
+        "fpa-asturias-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "All four phrases appear verbatim in the Foundation text."
+    },
+    {
+      "claim": "2026 final: Spain won 1-0 after extra time on 19 July 2026; Ferran Torres 106th minute",
+      "sourceIds": [
+        "nbc-world-cup-final-2026",
+        "rsssf-messi-international"
+      ],
+      "verdict": "confirmed",
+      "note": "NBC: Sunday July 19, 2026, Spain 1-0 after extra time, Ferran Torres 106th minute. RSSSF cap 207 is 19 July 2026 vs Spain, 0-1 aet."
+    },
+    {
+      "claim": "Messi scored eight goals at the 2026 World Cup",
+      "sourceIds": [
+        "nbc-world-cup-final-2026",
+        "reuters-factbox-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "NBC and factbox both state eight goals."
+    },
+    {
+      "claim": "Instagram post the day after the final; quote 'the pain is immense and it will take time for this wound to heal'; congratulated Spain",
+      "sourceIds": [
+        "nbc-world-cup-final-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "NBC: post a day after the final, the quoted English translation appears, and he congratulated Spain on the championship."
+    },
+    {
+      "claim": "Retirement from international football announced 31 August 2026",
+      "sourceIds": [
+        "reuters-factbox-2026",
+        "worldsoccertalk-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "Factbox dateline 31 August 2026; World Soccer Talk: announced decision on August 31."
+    },
+    {
+      "claim": "Totals before last match: 207 caps, 125 goals, 68 assists",
+      "sourceIds": [
+        "worldsoccertalk-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "WST: 'he has 207 caps, 125 goals and 68 assists'."
+    },
+    {
+      "claim": "Last match 6 October 2026, 3-0 win over Benin at the Monumental, Messi scored",
+      "sourceIds": [
+        "worldsoccertalk-retirement",
+        "intermiami-player"
+      ],
+      "verdict": "confirmed",
+      "note": "WST headline: 'with a goal in 3-0 victory over Benin'; WST body: Tuesday, October 6, at the Monumental. Inter Miami profile headline: 3-0 victory over Benin as his final international appearance. Body text of WST is in future tense, so the result rests on the headlines."
+    },
+    {
+      "claim": "RSSSF list stops at cap 207, the 2026 final vs Spain, and does not include the Benin match",
+      "sourceIds": [
+        "rsssf-messi-international"
+      ],
+      "verdict": "confirmed",
+      "note": "RSSSF fetched list ends at cap 207 (19 July 2026 vs Spain), 207 caps and 125 goals."
+    },
+    {
+      "claim": "FAQ: eighth Ballon d'Or won in 2023 was a record; presented in Paris on 30 October 2023",
+      "sourceIds": [
+        "reuters-ballon-dor-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Reuters page confirms record eighth and the 30 October 2023 ceremony in Paris."
+    },
+    {
+      "claim": "Summary: 2022 World Cup lifted with Argentina; ended international career October 2026 with 3-0 over Benin",
+      "sourceIds": [
+        "si-2022-final",
+        "worldsoccertalk-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported by SI and WST as above."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Timeline built from the Reuters factbox and RSSSF cap list, with the Asturias jury quotes verified verbatim. Discrepancy notes (WST future-tense body, RSSSF stopping at cap 207) are stated openly.",
+  "decision": "approve",
+  "summary": "All dated and numeric claims checked against the fetched sources. Three problems were fixed before recording: an unsupported 'as a substitute' debut detail, an unsourced '1978' mention, and an overstated 'sources disagree' sentence with a mis-cited FAQ source."
+}

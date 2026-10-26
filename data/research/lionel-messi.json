@@ -1,0 +1,96 @@
+{
+  "worthWriting": true,
+  "reason": "Global football star with official club, award-body and wire-service sources. Several recent facts (2026 Princess of Asturias Award, 2026 World Cup final, end of international career) need careful sourcing.",
+  "wikidata": "Q615",
+  "importance": 5,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "intermiami-player",
+      "url": "https://www.intermiamicf.com/players/lionel-messi/",
+      "title": "Leo Messi player profile",
+      "publisher": "Inter Miami CF",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "fpa-asturias-2026",
+      "url": "https://www.fpa.es/en/princess-of-asturias-awards/laureates/2026-leo-messi/?texto=acta",
+      "title": "Princess of Asturias Award for Sports 2026: Leo Messi",
+      "publisher": "Fundacion Princesa de Asturias",
+      "type": "award-body",
+      "lang": "en"
+    },
+    {
+      "id": "nbc-world-cup-final-2026",
+      "url": "https://www.nbcwashington.com/world-cup/lionel-messi-message-argentina-fans-defeat/4132166/",
+      "title": "Lionel Messi message to Argentina fans after World Cup final defeat",
+      "publisher": "NBC Washington",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "worldsoccertalk-retirement",
+      "url": "https://worldsoccertalk.com/news/lionel-messi-retires-from-international-soccer-total-stats-goals-and-caps-with-argentina/",
+      "title": "Lionel Messi retires from international soccer: total stats, goals and caps with Argentina",
+      "publisher": "World Soccer Talk",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "rsssf-messi-international",
+      "url": "https://rsssf.org/miscellaneous/messi-intlg.html",
+      "title": "Lionel Andres Messi - Century of International Appearances",
+      "publisher": "RSSSF",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "reuters-ballon-dor-2023",
+      "url": "https://en.prothomalo.com/sports/football/h7blwkxnne",
+      "title": "Messi wins record eighth Ballon d'Or for best player in the world",
+      "publisher": "Prothom Alo (Reuters)",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "wikidata-messi",
+      "url": "https://www.wikidata.org/wiki/Q615",
+      "title": "Lionel Messi (Q615)",
+      "publisher": "Wikidata",
+      "type": "database",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1987-06-24",
+      "sources": [
+        "intermiami-player",
+        "wikidata-messi"
+      ],
+      "note": "Both sources agree."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Rosario, Argentina",
+      "sources": [
+        "intermiami-player",
+        "wikidata-messi"
+      ],
+      "note": "Both sources agree."
+    },
+    "nationality": null
+  },
+  "targetQueries": [
+    "how old is Lionel Messi",
+    "where was Lionel Messi born",
+    "how many Ballon d'Or has Messi won",
+    "Lionel Messi retirement from Argentina",
+    "Lionel Messi 2026 World Cup",
+    "Lionel Messi Inter Miami",
+    "Lionel Messi Princess of Asturias Award",
+    "Lionel Messi net worth"
+  ],
+  "gapNote": "Sources conflict on the date of Messi's last Argentina match. The Inter Miami profile and World Soccer Talk say his final match was the 3-0 win over Benin on 6 October 2026 in Buenos Aires, announced as retirement on 31 August. RSSSF's list ends at the 19 July 2026 World Cup final against Spain, so the page should say only what the sources state and flag the conflict. Net worth was not searched or sourced, so it is left out. Search suggestions were not checked in a live tool, so targetQueries are a reasoned list, not measured search data. Our page can add a clear sourced timeline from the 2026 Asturias award to the World Cup final and retirement, which the top results often cover in fragments."
+}

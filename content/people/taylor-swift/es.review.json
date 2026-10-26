@@ -1,0 +1,143 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Nacimiento el 13 de diciembre de 1989",
+      "sourceIds": [
+        "foxnews-birth"
+      ],
+      "verdict": "confirmed",
+      "note": "Fox News: born Dec. 13, 1989."
+    },
+    {
+      "claim": "Nacida en West Reading, Pensilvania",
+      "sourceIds": [
+        "foxnews-birth",
+        "abc27-birthplace"
+      ],
+      "verdict": "confirmed",
+      "note": "Fox News and ABC27 both say West Reading."
+    },
+    {
+      "claim": "Creció en Wyomissing antes de mudarse a Nashville",
+      "sourceIds": [
+        "abc27-birthplace"
+      ],
+      "verdict": "confirmed",
+      "note": "ABC27: grew up in Wyomissing before moving to Nashville. Tennessee was removed from the FAQ because the source does not name the state."
+    },
+    {
+      "claim": "Tiene 36 años a fecha de 26 de octubre de 2026",
+      "sourceIds": [
+        "foxnews-birth"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic from the confirmed birth date."
+    },
+    {
+      "claim": "Cuatro Grammy al Álbum del Año; el cuarto con Midnights, ceremonia del 4 de febrero de 2024, primera artista con cuatro",
+      "sourceIds": [
+        "etonline-midnights"
+      ],
+      "verdict": "confirmed",
+      "note": "E! Online: ceremony Feb. 4, 2024; Album of the Year for Midnights; first artist to win four."
+    },
+    {
+      "claim": "Mejor Álbum de Pop Vocal la misma noche",
+      "sourceIds": [
+        "etonline-midnights"
+      ],
+      "verdict": "confirmed",
+      "note": "E! Online: Best Pop Vocal Album for Midnights at the same ceremony."
+    },
+    {
+      "claim": "Persona del Año 2023 de Time, anunciada en directo en TODAY el 6 de diciembre de 2023",
+      "sourceIds": [
+        "nbc-time-poy"
+      ],
+      "verdict": "confirmed",
+      "note": "NBC Washington: announced live on TODAY, December 6, 2023."
+    },
+    {
+      "claim": "Cita de Sam Jacobs, editor jefe",
+      "sourceIds": [
+        "nbc-time-poy"
+      ],
+      "verdict": "confirmed",
+      "note": "Source gives the English quote; the Spanish text is a faithful translation attributed to editor-in-chief Sam Jacobs."
+    },
+    {
+      "claim": "Gira Eras superó 1.000 millones, primera gira en lograrlo, estimación de Pollstar del 11 de diciembre de 2023",
+      "sourceIds": [
+        "intix-pollstar-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Pollstar (12/11/23): over $1 billion, first tour to surpass it; described as an estimate."
+    },
+    {
+      "claim": "4,3 millones de entradas a un precio medio de 238,95 dólares",
+      "sourceIds": [
+        "intix-pollstar-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 4.3 million tickets, average $238.95."
+    },
+    {
+      "claim": "Unos 2.200 millones en diciembre de 2024, 149 conciertos, estimación de Pollstar",
+      "sourceIds": [
+        "kctv5-pollstar-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: $2.2 billion, Pollstar estimates across 149 shows, tour ended Dec 2024."
+    },
+    {
+      "claim": "4,002 millones de unidades en primera semana, datos de Luminate publicados por Billboard",
+      "sourceIds": [
+        "today-showgirl-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 4.002 million units, Billboard citing Luminate."
+    },
+    {
+      "claim": "Mayor venta de primera semana desde 1991; superó a 25 de Adele (3,482 millones)",
+      "sourceIds": [
+        "today-showgirl-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: most since Luminate began collecting in 1991; 25 debuted with 3.482 million."
+    },
+    {
+      "claim": "Su sitio oficial sigue promocionando The Life of a Showgirl",
+      "sourceIds": [
+        "taylorswift-official"
+      ],
+      "verdict": "confirmed",
+      "note": "Homepage banner promotes The Life of a Showgirl."
+    },
+    {
+      "claim": "Forbes calcula 2.000 millones de dólares a 26 de octubre de 2026",
+      "sourceIds": [
+        "forbes-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Forbes: $2B as of 10/26/26."
+    },
+    {
+      "claim": "Desglose de la actualización del 3 de junio de 2026: casi 800, 600 y 110 millones",
+      "sourceIds": [
+        "forbes-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Forbes: updated Jun 3, 2026; nearly $800M royalties and touring, $600M catalog, $110M real estate."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Separates Pollstar estimates from reported figures and dates the Forbes breakdown to its June 2026 update.",
+  "decision": "approve",
+  "summary": "All dated, numeric and factual claims confirmed against the cited sources. The Nashville, Tennessee detail was removed because the cited source names only Nashville. Short of the 900-word importance guideline; not a fact problem."
+}

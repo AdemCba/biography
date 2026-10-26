@@ -1,0 +1,111 @@
+{
+  "id": "taylor-swift",
+  "name": "Taylor Swift",
+  "categories": [
+    "artists"
+  ],
+  "importance": 5,
+  "wikidata": "Q26876",
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1989-12-13",
+      "sources": [
+        "foxnews-birth"
+      ],
+      "note": "Fox News 'on this day' article dated December 13, 2023."
+    },
+    "birthPlace": {
+      "value": "West Reading, Pennsylvania, US",
+      "sources": [
+        "abc27-birthplace",
+        "foxnews-birth"
+      ],
+      "note": "ABC27 says born in West Reading and grew up in Wyomissing before moving to Nashville."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "taylorswift-official",
+      "url": "https://www.taylorswift.com/",
+      "title": "Taylor Swift official website",
+      "publisher": "Taylor Nation, LLC",
+      "type": "official",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "forbes-profile",
+      "url": "https://www.forbes.com/profile/taylor-swift/",
+      "title": "Taylor Swift profile, Forbes real-time billionaires",
+      "publisher": "Forbes",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "abc27-birthplace",
+      "url": "https://www.abc27.com/pennsylvania/taylor-swift-to-be-inducted-into-the-central-pennsylvania-music-hall-of-fame/amp/",
+      "title": "Taylor Swift to be inducted into the Central Pennsylvania Music Hall of Fame",
+      "publisher": "ABC27",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "foxnews-birth",
+      "url": "https://foxnews.com/lifestyle/this-day-history-dec-13-1989-pop-star-taylor-swift-born-pennsylvania.amp",
+      "title": "On this day in history, December 13, 1989, pop star Taylor Swift is born in Pennsylvania",
+      "publisher": "Fox News",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "etonline-midnights",
+      "url": "https://www.etonline.com/taylor-swift-makes-grammys-history-with-album-of-the-year-win-for-midnights-219151",
+      "title": "Taylor Swift Makes GRAMMYs History With Album of the Year Win for 'Midnights'",
+      "publisher": "E! Online",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "nbc-time-poy",
+      "url": "https://www.nbcwashington.com/news/national-international/times-person-of-the-year-2023-is-taylor-swift-as-she-puts-it-are-you-not-entertained/",
+      "title": "Time's Person of the Year 2023 is Taylor Swift. As she puts it: 'Are you not entertained?'",
+      "publisher": "NBC Washington",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "intix-pollstar-2023",
+      "url": "https://access.intix.org/Full-Article/taylor-swift-sets-all-time-touring-record-with-1-billion-gross",
+      "title": "Taylor Swift Sets All-Time Touring Record With $1 Billion Gross",
+      "publisher": "Pollstar (via Intix)",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "kctv5-pollstar-2024",
+      "url": "https://www.kctv5.com/2024/12/09/taylor-swifts-eras-tour-ends-by-shattering-own-record-grossing-an-estimated-22b-pollstar-says",
+      "title": "Taylor Swift’s Eras Tour ends by shattering own record, grossing an estimated $2.2B, Pollstar says",
+      "publisher": "KCTV5 (Pollstar report)",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "today-showgirl-2025",
+      "url": "https://www.today.com/today/amp/rcna237384",
+      "title": "Taylor Swift Breaks 1st Week Sales Record with Massive 4 Million Debut",
+      "publisher": "TODAY",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    }
+  ]
+}

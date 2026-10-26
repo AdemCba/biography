@@ -1,0 +1,110 @@
+{
+  "worthWriting": true,
+  "reason": "Global pop and country artist with many verified sources: Grammy Album of the Year wins, Time Person of the Year 2023, Forbes net worth estimate dated 2026-10-26. Net worth estimate: $2 billion (Forbes, real-time as of 2026-10-26; breakdown from a June 3, 2026 update).",
+  "wikidata": "Q26876",
+  "importance": 5,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "taylorswift-official",
+      "url": "https://www.taylorswift.com/",
+      "title": "Taylor Swift official website",
+      "publisher": "Taylor Nation, LLC",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "forbes-profile",
+      "url": "https://www.forbes.com/profile/taylor-swift/",
+      "title": "Taylor Swift profile, Forbes real-time billionaires",
+      "publisher": "Forbes",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "abc27-birthplace",
+      "url": "https://www.abc27.com/pennsylvania/taylor-swift-to-be-inducted-into-the-central-pennsylvania-music-hall-of-fame/amp/",
+      "title": "Taylor Swift to be inducted into the Central Pennsylvania Music Hall of Fame",
+      "publisher": "ABC27",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "foxnews-birth",
+      "url": "https://foxnews.com/lifestyle/this-day-history-dec-13-1989-pop-star-taylor-swift-born-pennsylvania.amp",
+      "title": "On this day in history, December 13, 1989, pop star Taylor Swift is born in Pennsylvania",
+      "publisher": "Fox News",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "etonline-midnights",
+      "url": "https://www.etonline.com/taylor-swift-makes-grammys-history-with-album-of-the-year-win-for-midnights-219151",
+      "title": "Taylor Swift Makes GRAMMYs History With Album of the Year Win for 'Midnights'",
+      "publisher": "E! Online",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "nbc-time-poy",
+      "url": "https://www.nbcwashington.com/news/national-international/times-person-of-the-year-2023-is-taylor-swift-as-she-puts-it-are-you-not-entertained/",
+      "title": "Time's Person of the Year 2023 is Taylor Swift. As she puts it: 'Are you not entertained?'",
+      "publisher": "NBC Washington",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "intix-pollstar-2023",
+      "url": "https://access.intix.org/Full-Article/taylor-swift-sets-all-time-touring-record-with-1-billion-gross",
+      "title": "Taylor Swift Sets All-Time Touring Record With $1 Billion Gross",
+      "publisher": "Pollstar (via Intix)",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "kctv5-pollstar-2024",
+      "url": "https://www.kctv5.com/2024/12/09/taylor-swifts-eras-tour-ends-by-shattering-own-record-grossing-an-estimated-22b-pollstar-says",
+      "title": "Taylor Swift’s Eras Tour ends by shattering own record, grossing an estimated $2.2B, Pollstar says",
+      "publisher": "KCTV5 (Pollstar report)",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "today-showgirl-2025",
+      "url": "https://www.today.com/today/amp/rcna237384",
+      "title": "Taylor Swift Breaks 1st Week Sales Record with Massive 4 Million Debut",
+      "publisher": "TODAY",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1989-12-13",
+      "sources": [
+        "foxnews-birth"
+      ],
+      "note": "Fox News 'on this day' article dated December 13, 2023."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "West Reading, Pennsylvania, US",
+      "sources": [
+        "abc27-birthplace",
+        "foxnews-birth"
+      ],
+      "note": "ABC27 says born in West Reading and grew up in Wyomissing before moving to Nashville."
+    },
+    "nationality": null
+  },
+  "targetQueries": [
+    "how old is Taylor Swift",
+    "where is Taylor Swift from",
+    "Taylor Swift net worth",
+    "how many Grammy awards does Taylor Swift have",
+    "Taylor Swift Album of the Year Grammy wins",
+    "Taylor Swift Time Person of the Year",
+    "when did Taylor Swift move to Nashville"
+  ],
+  "gapNote": "Eras Tour: Pollstar estimated $1.04 billion for 2023 (first tour past $1 billion, per Pollstar Dec 11, 2023) and about $2.2 billion for the whole run (Pollstar, Dec 9, 2024, 149 shows); both are estimates. Official Grammy and RIAA pages were unreachable, so Grammy totals and certifications are left out."
+}
