@@ -1,6 +1,8 @@
 # Twice-daily writer task (runs on the owner's Claude subscription)
 
-A scheduled Claude task runs this at 08:00 and 16:00 (Europe/Istanbul). It writes 5 new people in all five
+The Writer workflow (`.github/workflows/writer.yml`) runs this with Claude Code at 08:00 and 16:00
+(Europe/Istanbul), on the owner's own Claude subscription through the `CLAUDE_CODE_OAUTH_TOKEN` secret
+(made with `claude setup-token`). Set the repository variable `WRITER_ENABLED=false` to pause it. It writes 5 new people in all five
 languages, fact-checks them and publishes them. No Anthropic API key is used: every step is done by the task
 itself and its Haiku subagents, through the subscription modes of `scripts/write.ts` and `scripts/review.ts`.
 
@@ -35,7 +37,7 @@ Give each subagent this brief, with NAME, CATEGORY and a scratch folder:
    every source it lists, write the JSON answer to a file, then
    `npx tsx scripts/write.ts --record research "<NAME>" <CATEGORY> <file>`. It prints the person id, or "skipped".
 2. `npx tsx scripts/write.ts --prompt draft <id>`. Write the English JSON (every factual sentence ends with
-   `[s:source-id]`, at least the word count the brief gives, no hype words, no em dashes), then
+   `[s:source-id]` (never a Wikipedia source), at least the word count the brief gives, no hype words, no em dashes), then
    `npx tsx scripts/write.ts --record draft <id> <file>`.
 3. For es, pt, de, fr: `--prompt localize <id> <locale>`, write natively in that language at the same
    length, and `--record localize <id> <locale> <file>`.
