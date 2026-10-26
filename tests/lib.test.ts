@@ -53,3 +53,28 @@ describe("IndexNow diff", () => {
     expect(changedUrls(before, after)).toEqual(["https://s/en/b/", "https://s/en/c/"]);
   });
 });
+
+describe("review agent decision", async () => {
+  const { decide } = await import("../scripts/review");
+  const base = {
+    claims: [{ claim: "Born 1986", sourceIds: ["a"], verdict: "confirmed" as const, note: "" }],
+    uncitedClaims: [],
+    readsHumanWritten: true,
+    addsValue: true,
+    valueNote: "",
+    decision: "approve" as const,
+    summary: "",
+  };
+  it("approves only a clean verdict", () => {
+    expect(decide(base).approved).toBe(true);
+  });
+  it("rejects wrong claims even if the model says approve", () => {
+    const v = { ...base, claims: [...base.claims, { claim: "9 golds", sourceIds: ["a"], verdict: "wrong" as const, note: "8 after 2017" }] };
+    expect(decide(v).approved).toBe(false);
+  });
+  it("rejects uncited claims, robotic prose and no added value", () => {
+    expect(decide({ ...base, uncitedClaims: ["x"] }).approved).toBe(false);
+    expect(decide({ ...base, readsHumanWritten: false }).approved).toBe(false);
+    expect(decide({ ...base, addsValue: false }).approved).toBe(false);
+  });
+});

@@ -79,11 +79,11 @@ const en: Dictionary = {
   pages: {
     about: {
       title: "About us",
-      body: "We publish biographies that answer the questions people actually ask, and we show our sources. Every page is researched, written and reviewed by an editor before it goes live, and we revisit pages when facts change.",
+      body: "We publish biographies that answer the questions people actually ask, and we show our sources. Each page is researched and drafted with the help of AI tools, then checked claim by claim against its sources before it goes live. We revisit pages when facts change."
     },
     editorial: {
       title: "Editorial policy",
-      body: "We rely on official profiles, organisations that award prizes, company filings and established publications. Dates, ages, education, ownership and net-worth figures must match a cited source. We do not publish claims about private life without a reliable public source. AI tools help with research and drafting; a human editor checks every claim and approves every page. Corrections are made promptly and the review date is updated.",
+      body: "We rely on official profiles, organisations that award prizes, company filings and established publications. Dates, ages, education, ownership and net-worth figures must match a cited source. We do not publish claims about private life without a reliable public source. AI tools help with research and drafting. Before publication an automated fact-check opens every cited source and compares it with each claim; pages that fail are rewritten or held back, and sensitive pages (money, legal matters, health) are checked by our editor. Corrections are made promptly and the review date is updated."
     },
     privacy: {
       title: "Privacy policy",
@@ -147,11 +147,11 @@ const es: Dictionary = {
   pages: {
     about: {
       title: "Quiénes somos",
-      body: "Publicamos biografías que responden a lo que la gente busca de verdad, y mostramos nuestras fuentes. Cada página la investiga, redacta y revisa un editor antes de publicarse, y la actualizamos cuando cambian los datos.",
+      body: "Publicamos biografías que responden a lo que la gente busca de verdad, y mostramos nuestras fuentes. Cada página se investiga y redacta con ayuda de herramientas de IA y, antes de publicarse, se contrasta dato por dato con sus fuentes. La actualizamos cuando cambian los datos."
     },
     editorial: {
       title: "Política editorial",
-      body: "Nos basamos en perfiles oficiales, organismos que conceden premios, registros de empresas y medios de referencia. Fechas, edades, estudios, participaciones empresariales y estimaciones de patrimonio deben coincidir con una fuente citada. No publicamos afirmaciones sobre la vida privada sin una fuente pública fiable. Usamos herramientas de IA para investigar y redactar; un editor humano verifica cada dato y aprueba cada página.",
+      body: "Nos basamos en perfiles oficiales, organismos que conceden premios, registros de empresas y medios de referencia. Fechas, edades, estudios, participaciones empresariales y estimaciones de patrimonio deben coincidir con una fuente citada. No publicamos afirmaciones sobre la vida privada sin una fuente pública fiable. Usamos herramientas de IA para investigar y redactar. Antes de publicar, una verificación automática abre cada fuente citada y la compara con cada dato; las páginas que no la superan se reescriben o se retienen, y las páginas sensibles (dinero, asuntos legales, salud) las revisa nuestro editor."
     },
     privacy: {
       title: "Política de privacidad",
@@ -215,11 +215,11 @@ const de: Dictionary = {
   pages: {
     about: {
       title: "Über uns",
-      body: "Wir veröffentlichen Biografien, die die Fragen beantworten, die Menschen wirklich stellen, und wir legen unsere Quellen offen. Jede Seite wird vor der Veröffentlichung von einem Redakteur recherchiert, geschrieben und geprüft.",
+      body: "Wir veröffentlichen Biografien, die die Fragen beantworten, die Menschen wirklich stellen, und wir legen unsere Quellen offen. Jede Seite wird mit Hilfe von KI-Werkzeugen recherchiert und entworfen und vor der Veröffentlichung Angabe für Angabe mit ihren Quellen abgeglichen."
     },
     editorial: {
       title: "Redaktionelle Richtlinien",
-      body: "Wir stützen uns auf offizielle Profile, preisverleihende Organisationen, Unternehmensangaben und etablierte Medien. Daten, Alter, Ausbildung, Beteiligungen und Vermögensschätzungen müssen mit einer zitierten Quelle übereinstimmen. Behauptungen über das Privatleben ohne verlässliche öffentliche Quelle veröffentlichen wir nicht. KI-Werkzeuge helfen bei Recherche und Entwurf; ein Mensch prüft jede Angabe und gibt jede Seite frei.",
+      body: "Wir stützen uns auf offizielle Profile, preisverleihende Organisationen, Unternehmensangaben und etablierte Medien. Daten, Alter, Ausbildung, Beteiligungen und Vermögensschätzungen müssen mit einer zitierten Quelle übereinstimmen. Behauptungen über das Privatleben ohne verlässliche öffentliche Quelle veröffentlichen wir nicht. KI-Werkzeuge helfen bei Recherche und Entwurf. Vor der Veröffentlichung öffnet ein automatischer Faktencheck jede zitierte Quelle und vergleicht sie mit jeder Angabe; Seiten, die durchfallen, werden überarbeitet oder zurückgehalten, und heikle Seiten (Geld, Rechtsfragen, Gesundheit) prüft unser Redakteur."
     },
     privacy: {
       title: "Datenschutzerklärung",
@@ -283,11 +283,11 @@ const fr: Dictionary = {
   pages: {
     about: {
       title: "À propos",
-      body: "Nous publions des biographies qui répondent aux questions que les lecteurs se posent vraiment, et nous citons nos sources. Chaque page est documentée, rédigée et relue par un éditeur avant sa mise en ligne.",
+      body: "Nous publions des biographies qui répondent aux questions que les lecteurs se posent vraiment, et nous citons nos sources. Chaque page est documentée et rédigée avec l’aide d’outils d’IA, puis vérifiée affirmation par affirmation à partir de ses sources avant sa mise en ligne."
     },
     editorial: {
       title: "Charte éditoriale",
-      body: "Nous nous appuyons sur les profils officiels, les organismes qui décernent des prix, les documents d’entreprise et les médias reconnus. Dates, âges, formation, participations et estimations de fortune doivent correspondre à une source citée. Nous ne publions pas d’affirmations sur la vie privée sans source publique fiable. L’IA aide à la recherche et au premier jet ; un éditeur vérifie chaque information et valide chaque page.",
+      body: "Nous nous appuyons sur les profils officiels, les organismes qui décernent des prix, les documents d’entreprise et les médias reconnus. Dates, âges, formation, participations et estimations de fortune doivent correspondre à une source citée. Nous ne publions pas d’affirmations sur la vie privée sans source publique fiable. L’IA aide à la recherche et à la rédaction. Avant publication, une vérification automatique ouvre chaque source citée et la compare à chaque affirmation ; les pages qui échouent sont réécrites ou retenues, et les pages sensibles (argent, questions juridiques, santé) sont relues par notre éditeur."
     },
     privacy: {
       title: "Politique de confidentialité",
@@ -351,11 +351,11 @@ const pt: Dictionary = {
   pages: {
     about: {
       title: "Sobre nós",
-      body: "Publicamos biografias que respondem ao que as pessoas realmente procuram, e mostramos nossas fontes. Cada página é pesquisada, escrita e revisada por um editor antes de ir ao ar.",
+      body: "Publicamos biografias que respondem ao que as pessoas realmente procuram, e mostramos nossas fontes. Cada página é pesquisada e redigida com ajuda de ferramentas de IA e, antes de ir ao ar, conferida informação por informação com suas fontes."
     },
     editorial: {
       title: "Política editorial",
-      body: "Usamos perfis oficiais, entidades que concedem prêmios, documentos de empresas e veículos de imprensa reconhecidos. Datas, idades, formação, participações societárias e estimativas de patrimônio precisam bater com uma fonte citada. Não publicamos afirmações sobre vida privada sem fonte pública confiável. Ferramentas de IA ajudam na pesquisa e no rascunho; um editor humano confere cada informação e aprova cada página.",
+      body: "Usamos perfis oficiais, entidades que concedem prêmios, documentos de empresas e veículos de imprensa reconhecidos. Datas, idades, formação, participações societárias e estimativas de patrimônio precisam bater com uma fonte citada. Não publicamos afirmações sobre vida privada sem fonte pública confiável. Ferramentas de IA ajudam na pesquisa e no rascunho. Antes da publicação, uma checagem automática abre cada fonte citada e a compara com cada informação; páginas reprovadas são reescritas ou retidas, e páginas sensíveis (dinheiro, questões jurídicas, saúde) são revisadas pelo nosso editor."
     },
     privacy: {
       title: "Política de privacidade",

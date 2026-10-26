@@ -17,10 +17,10 @@ import { z } from "zod";
 import { site } from "../src/config/site";
 import { readContent, today, type Article, type Person } from "../src/lib/content";
 import { writeArticle, writePerson } from "../src/lib/article-file";
-import { checkContent, type ArticleReport } from "../src/lib/quality";
+import { checkContent, GATE_CODES, type ArticleReport } from "../src/lib/quality";
 import { articleSchema, sourceSchema } from "../src/lib/schema";
+import { askStructured, hasApiKey } from "./lib/claude";
 
-const MODEL = process.env.ANTHROPIC_MODEL || "claude-opus-5-5";
 const args = process.argv.slice(2);
 const opt = (name: string, fallback: number) => {
   const i = args.indexOf(`--${name}`);
@@ -47,8 +47,6 @@ const revisionSchema = z.object({
 });
 type Revision = z.infer<typeof revisionSchema>;
 
-const outputSchema = z.toJSONSchema(revisionSchema, { target: "draft-2020-12" });
-
 function read(file: string) {
   return fs.readFileSync(path.join(process.cwd(), file), "utf8");
 }
@@ -58,16 +56,18 @@ function reportFor(personId: string, locale: string): ArticleReport | undefined 
 }
 
 const blocking = (r: ArticleReport) => r.issues.filter((i) => i.level === "error");
-const GATE_CODES = new Set([
-  "few-sources", "few-citations", "too-short", "high-risk-unreviewed", "ai-style", "category-not-translated",
-  "thin-structure", "single-source", "no-primary-source", "no-verified-facts", "thin-summary", "no-author",
-  "editor-not-translated", "near-duplicate", "no-known-for", "no-meta-description",
-]);
 /** Failing = any error now, or any issue that would become an error once the article is published. */
-const failsGate = (r: ArticleReport) => r.issues.some((i) => i.level === "error" || GATE_CODES.has(i.code));
+const failsGate = (r: ArticleReport) => r.issues.some((i) => i.level === "error" || GATE_CODES.has(i.code)) || hasReviewNotes(r);
+
+function hasReviewNotes(r: ArticleReport): boolean {
+  return !!readContent().people.find((p) => p.data.id === r.personId)?.articles[r.locale]?.meta.reviewNotes;
+}
 
 async function askClaude(client: Anthropic, person: Person, article: Article, report: ArticleReport): Promise<Revision> {
-  const problems = report.issues.map((i) => `- ${i.level.toUpperCase()} ${i.code}: ${i.message}`).join("\n");
+  const problems = [
+    ...report.issues.map((i) => `- ${i.level.toUpperCase()} ${i.code}: ${i.message}`),
+    ...(article.meta.reviewNotes ? [`- ERROR fact-check: ${article.meta.reviewNotes}`] : []),
+  ].join("\n");
   const sourceDomains = [...new Set(person.data.sources.map((s) => new URL(s.url).hostname))];
   const prompt = [
     read("prompts/05-revise.md").replaceAll("{{SITE_NAME}}", site.name),
@@ -81,38 +81,7 @@ async function askClaude(client: Anthropic, person: Person, article: Article, re
     "Return the full revised article fields as JSON matching the schema. `body` is markdown without frontmatter.",
   ].join("\n");
 
-  const messages: Anthropic.Beta.BetaMessageParam[] = [{ role: "user", content: prompt }];
-  for (let continuation = 0; continuation < 5; continuation++) {
-    const response = await client.beta.messages
-      .stream({
-        model: MODEL,
-        max_tokens: 64000,
-        betas: ["server-side-fallback-2026-07-01"],
-        fallbacks: "default",
-        thinking: { type: "adaptive" },
-        output_config: { effort: "high", format: { type: "json_schema", schema: outputSchema as Record<string, unknown> } },
-        tools: [
-          { type: "web_fetch_20260209", name: "web_fetch", max_uses: 12 },
-          { type: "web_search_20260209", name: "web_search", max_uses: 6 },
-        ],
-        messages,
-      })
-      .finalMessage();
-
-    if (response.stop_reason === "pause_turn") {
-      // Server-side tool loop hit its iteration cap; resend so it resumes where it stopped.
-      messages.splice(1, messages.length - 1, { role: "assistant", content: response.content });
-      continue;
-    }
-    if (response.stop_reason === "refusal") throw new Error(`Model refused: ${response.stop_details?.explanation ?? "no details"}`);
-    if (response.stop_reason === "max_tokens") throw new Error("Response hit max_tokens");
-    const text = response.content
-      .filter((b): b is Anthropic.Beta.BetaTextBlock => b.type === "text")
-      .map((b) => b.text)
-      .join("");
-    return revisionSchema.parse(JSON.parse(text));
-  }
-  throw new Error("Too many pause_turn continuations");
+  return askStructured(client, prompt, revisionSchema);
 }
 
 function apply(person: Person, article: Article, rev: Revision) {
@@ -140,6 +109,7 @@ function apply(person: Person, article: Article, rev: Revision) {
     aiAssisted: true,
     autoRevisions: meta.autoRevisions + 1,
     flag: undefined,
+    reviewNotes: undefined,
   });
   // A machine rewrite of a high-risk page is never trusted without a human: take it offline for review.
   if (meta.risk === "high" && meta.status === "published") {
@@ -157,7 +127,7 @@ function giveUp(article: Article, report: ArticleReport) {
 }
 
 async function main() {
-  if (!process.env.ANTHROPIC_API_KEY && !process.env.ANTHROPIC_AUTH_TOKEN) {
+  if (!hasApiKey()) {
     console.log("ANTHROPIC_API_KEY not set; skipping the automatic fix loop.");
     return;
   }

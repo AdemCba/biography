@@ -91,7 +91,7 @@ function checkArticle(person: Person, article: Article, store: ContentStore): Ar
   // Publishing gates: errors when the article claims to be published, hints otherwise.
   if (!meta.knownFor.trim()) push(gate, "no-known-for", "knownFor is empty");
   if (meta.metaDescription.length < 50) push(gate, "no-meta-description", "metaDescription is missing or under 50 characters");
-  if (!meta.reviewer) push(gate, "no-reviewer", "No human reviewer recorded (reviewer:)");
+  if (!meta.reviewer) push(gate, "no-reviewer", "Not approved yet (no reviewer: the review agent or an editor sets it)");
   if (!meta.publishedAt) push(gate, "no-publish-date", "publishedAt is missing");
   if (person.data.sources.length < 2) push(gate, "few-sources", "At least two sources are required");
   const minCitations = Math.max(3, Math.floor(words / 300));
@@ -117,7 +117,7 @@ function checkArticle(person: Person, article: Article, store: ContentStore): Ar
   }
   if (meta.faq.length > 8) push("warning", "faq-padding", `${meta.faq.length} FAQ items; keep only questions people really search`);
 
-  // E-E-A-T: every live page names a real writer and a real fact-checker.
+  // E-E-A-T: every live page names its writer and who checked it.
   const editorIds = new Map(store.editors.map((e) => [e.id, e]));
   if (!meta.author) push(gate, "no-author", "No author recorded (author:)");
   for (const [field, id] of [["author", meta.author], ["reviewer", meta.reviewer]] as const) {
@@ -195,6 +195,13 @@ export function checkContent(store: ContentStore): { reports: ArticleReport[]; i
 
   return { reports, issues };
 }
+
+/** Issue codes that block publishing; on unpublished articles they appear as warnings but still need fixing. */
+export const GATE_CODES = new Set([
+  "few-sources", "few-citations", "too-short", "high-risk-unreviewed", "ai-style", "category-not-translated",
+  "thin-structure", "single-source", "no-primary-source", "no-verified-facts", "thin-summary", "no-author",
+  "editor-not-translated", "near-duplicate", "no-known-for", "no-meta-description",
+]);
 
 export function allIssues(result: ReturnType<typeof checkContent>): Issue[] {
   return [...result.issues, ...result.reports.flatMap((r) => r.issues)];

@@ -101,6 +101,10 @@ export const articleSchema = z.object({
   autoRevisions: z.number().int().default(0),
   /** Set by the fix loop when it gives up: a human has to look at this article. */
   flag: z.string().optional(),
+  /** Findings of the last automated fact-check that rejected the article; the fix loop works from these. */
+  reviewNotes: z.string().optional(),
+  /** How many times the review agent has looked at this article. */
+  autoReviews: z.number().int().default(0),
 });
 
 export const categorySchema = z.object({

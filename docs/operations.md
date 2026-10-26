@@ -23,10 +23,12 @@
 2. Araştırma: `prompts/01-research.md` ile kaynaklar ve doğrulanmış bilgiler `person.json`'a (research)
 3. Taslak: `prompts/02-draft.md` (draft). Diğer diller `prompts/03-localize.md` ile ayrı ayrı yazılır,
    çeviri yapılmaz.
-4. Doğrulama: `prompts/04-fact-check.md` (review)
-5. Panelde oku, düzelt, "Onayla" (approved, reviewer + reviewedAt yazılır)
-6. `npm run schedule` veya panelde "Yayına al" (published + publishedAt), commit, push
-7. Push sonrası Actions: düzeltme döngüsü, kalite raporu, derleme, yükleme, IndexNow
+4. Durumu `review` yapıp pushla. Gerisi otomatik.
+5. Push sonrası Actions sırasıyla: düzeltme döngüsü (kalite kapısından ya da doğrulamadan dönen
+   makaleler), onay ajanı (`npm run review`), yayın takvimi (`PUBLISH_PER_DAY`, varsayılan günde 3),
+   kalite raporu, derleme, yükleme, IndexNow.
+6. Ajanın 3 kez reddettiği ya da yüksek riskli makaleler ⚑ ile panelde "Bakım" listesine düşer;
+   onları sen okuyup panelden onaylarsın.
 
 Panelde "Bakım" sekmesi: kalite kapısından düşen, kontrol tarihi (`reviewBy`) geçmiş, servet bilgisi
 12 aydan eski veya düzeltme döngüsünün bayrakladığı makaleleri listeler.

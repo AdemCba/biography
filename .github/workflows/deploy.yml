@@ -45,13 +45,23 @@ jobs:
           ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
         run: npm run revise -- --limit ${{ vars.REVISE_LIMIT || 10 }}
 
-      - name: Commit automatic fixes
+      - name: Review agent (fact-check every claim against its sources, approve or reject)
+        if: ${{ env.HAS_ANTHROPIC_KEY == 'true' }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
+        run: npm run review -- --limit ${{ vars.REVIEW_LIMIT || 20 }}
+
+      - name: Schedule approved articles (drip publishing)
+        run: npm run schedule -- --per-day ${{ vars.PUBLISH_PER_DAY || 3 }}
+
+      - name: Commit automatic changes
         run: |
           if [ -n "$(git status --porcelain content)" ]; then
             git config user.name "orbivida-bot"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add content
-            git commit -m "content: automatic quality fixes"
+            git commit -m "content: automatic fixes, reviews and scheduling"
             git push
           fi
 

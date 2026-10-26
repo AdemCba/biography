@@ -9,5 +9,32 @@
         "bio": "Replace this with the real editor's name, background and links before launch. Google weighs who stands behind a biography: a named person with a visible track record builds far more trust than an anonymous team."
       }
     }
+  },
+  {
+    "id": "fact-check-desk",
+    "name": "Orbivida Fact Check (automated)",
+    "sameAs": [],
+    "i18n": {
+      "en": {
+        "role": "Automated fact-check",
+        "bio": "Our automated fact-check opens every source cited on a page and compares it with each claim before publication. It records which claims it confirmed, rejects pages with wrong or unsupported statements, and sends sensitive pages to a human editor."
+      },
+      "es": {
+        "role": "Verificación automática",
+        "bio": "Nuestra verificación automática abre cada fuente citada en una página y la compara con cada dato antes de publicar. Rechaza las páginas con afirmaciones erróneas o sin respaldo y envía las páginas sensibles a un editor humano."
+      },
+      "de": {
+        "role": "Automatischer Faktencheck",
+        "bio": "Unser automatischer Faktencheck öffnet vor der Veröffentlichung jede zitierte Quelle und vergleicht sie mit jeder Angabe. Seiten mit falschen oder unbelegten Aussagen werden abgelehnt, heikle Seiten gehen an einen menschlichen Redakteur."
+      },
+      "fr": {
+        "role": "Vérification automatique",
+        "bio": "Notre vérification automatique ouvre chaque source citée sur une page et la compare à chaque affirmation avant publication. Elle rejette les pages comportant des affirmations fausses ou non étayées et transmet les pages sensibles à un éditeur humain."
+      },
+      "pt": {
+        "role": "Checagem automática",
+        "bio": "Nossa checagem automática abre cada fonte citada em uma página e a compara com cada informação antes da publicação. Ela rejeita páginas com afirmações erradas ou sem respaldo e envia páginas sensíveis a um editor humano."
+      }
+    }
   }
 ]

@@ -9,7 +9,7 @@ export function writeArticle(file: string, meta: Partial<ArticleMeta>, body: str
       if (v === undefined || v === null || v === "") return false;
       if (Array.isArray(v) && v.length === 0) return false;
       if (k === "noindex" && v === false) return false;
-      if (k === "autoRevisions" && v === 0) return false;
+      if ((k === "autoRevisions" || k === "autoReviews") && v === 0) return false;
       return true;
     }),
   );

@@ -8,7 +8,7 @@
     "build": "next build",
     "start": "next start",
     "typecheck": "next typegen && tsc --noEmit",
-    "test": "vitest run",
+    "test": "vitest run && tsx --test scripts/trends/trends.test.ts",
     "check": "tsx scripts/check-content.ts",
     "prebuild": "tsx scripts/prebuild.ts",
     "revise": "tsx scripts/revise.ts",
@@ -16,7 +16,9 @@
     "new": "tsx scripts/new-person.ts",
     "indexnow": "tsx scripts/indexnow.ts",
     "readiness": "tsx scripts/readiness.ts",
-    "admin": "next dev -H 127.0.0.1"
+    "admin": "next dev -H 127.0.0.1",
+    "trends": "tsx scripts/trends/run.ts",
+    "review": "tsx scripts/review.ts"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",

@@ -12,6 +12,12 @@
   reklamlı siteye izin verir), sunucu bakımı yok.
 - **Kalite kapısı.** Yayındaki her makale her derlemede denetlenir (`src/lib/quality.ts`). Geçemeyen
   makale siteye girmez; diğer makaleler yayına devam eder.
+- **Onay ajanı.** `review` durumundaki makaleyi bir doğrulama ajanı okur: atıf yapılan her kaynağı açar,
+  her iddiayı kontrol eder, yazının insansı olup olmadığına ve gerçek bir değer katıp katmadığına bakar.
+  Yanlış, kaynaksız ya da eskimiş tek bir iddia bile varsa reddeder ve notlarını düzeltme döngüsüne
+  bırakır. Onaylarsa makale `approved` olur ve otomatik olarak yayın takvimine girer. Her kararın kaydı
+  makalenin yanında `<dil>.review.json` dosyasında durur. Yüksek riskli makaleleri (para, hukuk, sağlık)
+  ajan onaylamaz, sana bırakır.
 - **Düzelt ve tekrar denetle.** Geçemeyen makaleleri Claude API yeniden yazar (kaynakları açarak,
   yeni kaynak bularak), tekrar denetlenir, en fazla 3 deneme. Hâlâ geçmeyen makale `review` durumuna
   alınır ve panelde ⚑ bayrağıyla sana gösterilir.
@@ -27,7 +33,7 @@ Yayına çıkmak için bir dil sürümünün tek başına şunları geçmesi ger
 
 | Konu | Kural |
 | --- | --- |
-| İnsan onayı | `reviewer` (editors.json'daki gerçek bir editör) ve `author` zorunlu |
+| Onay | `reviewer` (onay ajanı `fact-check-desk` ya da editors.json'daki bir editör) ve `author` zorunlu |
 | Thin content | En az 300 kelime (önem derecesine göre daha fazlası önerilir), en az 3 bölüm, 25+ kelimelik özet |
 | Kaynak | Kişide en az 2 kaynak, metinde en az 2 farklı kaynağa atıf, en az bir birincil kaynak (resmî profil, federasyon, ödül kurumu, şirket, kitap, röportaj), her ~300 kelimede bir atıf |
 | Doğrulanmış bilgi | Doğum tarihi, uyruk, servet gibi her bilgi `person.json`'da kaynak id'siyle |
@@ -46,6 +52,7 @@ npm install
 npm run admin        # yerel yönetim paneli: http://127.0.0.1:3000/admin
 npm run check        # kalite raporu
 npm run revise       # düzelt ve tekrar denetle döngüsü (ANTHROPIC_API_KEY gerekir)
+npm run review       # onay ajanı: kaynakları açıp iddiaları doğrular, onaylar ya da reddeder
 npm run schedule -- --per-day 3
 npm run new -- "Ad Soyad" athletes en,es,pt,de,fr
 npm run readiness    # AdSense başvuru öncesi kontrol listesi
