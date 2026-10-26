@@ -7,12 +7,12 @@ export const MODEL = process.env.ANTHROPIC_MODEL || "claude-opus-5-5";
 /** Research, writing, translation and rewrites: a cheaper model, since everything it writes is fact-checked by MODEL. */
 export const WRITER_MODEL = process.env.ANTHROPIC_WRITER_MODEL || "claude-sonnet-5-5";
 
-/** Errors no retry can fix (bad key, no credit left): the agents stop at once instead of burning attempts. */
+/** Errors no retry can fix (bad key, no credit left, monthly spend limit reached): the agents stop at once instead of burning attempts. */
 export function isApiUnavailable(e: unknown): boolean {
   return (
     e instanceof Anthropic.AuthenticationError ||
     e instanceof Anthropic.PermissionDeniedError ||
-    (e instanceof Anthropic.BadRequestError && /credit balance/i.test(e.message))
+    (e instanceof Anthropic.BadRequestError && /credit balance|usage limits/i.test(e.message))
   );
 }
 
