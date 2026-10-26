@@ -80,8 +80,23 @@ jobs:
         if: ${{ always() }}
         run: cat writer-summary.md >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || echo "No summary written" >> "$GITHUB_STEP_SUMMARY"
 
+      # Safety net: whatever the run wrote is kept as a downloadable artifact for 14 days,
+      # so a failed push never loses an hour of writing.
+      - name: Keep a copy of the written pages
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: writer-output
+          path: |
+            content/
+            data/
+            writer-summary.md
+          retention-days: 14
+          if-no-files-found: ignore
+
       - name: Commit new content to main
         id: commit
+        if: ${{ always() }}
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
