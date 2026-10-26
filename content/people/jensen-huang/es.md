@@ -11,10 +11,12 @@ summary: >-
   cofundó NVIDIA en 1993 y la dirige desde entonces como presidente y consejero
   delegado. Su empresa lanzó en 1999 la GeForce 256, presentada como la primera
   GPU, y tras 2012 se centró en la computación para inteligencia artificial.
-status: review
+status: published
 risk: medium
-updatedAt: '2026-10-26'
+reviewedAt: '2026-10-26'
+reviewBy: '2027-04-26'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - jensen huang edad
@@ -42,37 +44,14 @@ faq:
       En Tainan, Taiwán, el 17 de febrero de 1963. Su familia se mudó a
       Tailandia cuando tenía cinco años y él llegó a Estados Unidos con nueve.
 autoRevisions: 1
-autoReviews: 2
-reviewNotes: >-
-  UNSUPPORTED: "Born as Jen-Hsun Huang, second son of a chemical engineer and a
-  primary-school teacher." ('Second son', the father's job and the mother's job
-  are confirmed. Britannica only lists 'Jen-Hsun Huang' under 'also known as'.
-  It does not say he was born with that name.) | OUTDATED: "Per NVIDIA, more
-  than 4 million developers and more than 40,000 companies use its technology
-  today (figures from a timeline last updated in 2023)." (The source confirms 4
-  million and 40,000, but the page dates from July 2023. A 2026 NVIDIA blog says
-  the platform has more than 11 million developers. The article says 'hoy' and
-  attaches a 2023 figure, so it presents the present with stale data.) |
-  Reviewer recommends rejection: Almost every claim checks out against the
-  opened sources: dates, ages, companies, education, the $5.03tn valuation,
-  awards and the foundation. Three fixes are needed before approval. (1) The
-  'más de 4 millones de desarrolladores y 40.000 empresas hoy' claim is
-  outdated. The source is from July 2023, and NVIDIA's 2026 materials cite more
-  than 11 million developers. Update the figure or drop it, and do not say
-  'hoy'. (2) 'Nació como Jen-Hsun Huang' is not supported, because Britannica
-  only lists it as an alternative name. Rephrase as 'también conocido como' or
-  cite a source for the birth name. (3) The awards section omits Time's 2025
-  Person of the Year ('Architects of AI', fastcompany-poy) and the 2026 IEEE
-  Medal of Honor (ieee-recipient, ieee-honors, ieee-spectrum). These are in
-  person.json and are the freshest, most useful awards for the reader. Add them
-  with citations. Minor: the 29 October 2025 date is inferred from 'Wednesday'
-  in a 30 October article, so consider adding a source that prints the date.
+autoReviews: 3
+publishedAt: '2026-10-26'
 ---
 Jensen Huang tiene 63 años (a 26 de octubre de 2026): nació el 17 de febrero de 1963 en Tainan, Taiwán [s:britannica]. A los nueve estaba en Kentucky, lejos de sus padres, en un internado religioso para niños "difíciles" donde le tocaba limpiar los baños cada día [s:britannica]. Hoy preside la empresa que cofundó con otros dos ingenieros y que, el 29 de octubre de 2025, se convirtió en la primera compañía cotizada valorada en 5 billones de dólares (5 *trillion* en la escala estadounidense) [s:foxbusiness-5t].
 
 ## De Tainan a Oregón
 
-Nació como Jen-Hsun Huang, segundo hijo de un ingeniero químico y una maestra de primaria [s:britannica]. Cuando tenía cinco años la familia se mudó a Tailandia [s:britannica]. Los padres no pensaban quedarse allí por la guerra de Vietnam, y el padre, que había conocido Estados Unidos en un programa de formación de la fabricante de aire acondicionado Carrier, tenía buena opinión del país. La madre preparó a los dos hermanos para la mudanza con diez palabras de inglés al día [s:britannica].
+También conocido como Jen-Hsun Huang, es el segundo hijo de un ingeniero químico y una maestra de primaria [s:britannica]. Cuando tenía cinco años la familia se mudó a Tailandia [s:britannica]. Los padres no pensaban quedarse allí por la guerra de Vietnam, y el padre, que había conocido Estados Unidos en un programa de formación de la fabricante de aire acondicionado Carrier, tenía buena opinión del país. La madre preparó a los dos hermanos para la mudanza con diez palabras de inglés al día [s:britannica].
 
 A los nueve años, Jensen y su hermano viajaron a Tacoma (Washington) para vivir con un tío. Este los envió al Oneida Baptist Institute, en la zona rural de Kentucky, convencido de que era un colegio de prestigio. Pero era un reformatorio religioso para niños "difíciles". Huang limpiaba los baños y su hermano trabajaba en una plantación de tabaco; según Britannica, los compañeros los acosaron sin descanso e incluso los amenazaron con cuchillos [s:britannica].
 
@@ -96,7 +75,7 @@ La empresa salió a bolsa en 1999 [s:britannica]. Ese año lanzó la GeForce 256
 
 CUDA, presentada en 2006, permitió programar las GPU para tareas generales y no solo para dibujar píxeles [s:chm]. Universidades y laboratorios nacionales empezaron a usar chips de NVIDIA en algunos de los superordenadores más rápidos del mundo [s:chm]. La red neuronal AlexNet funcionó en 2012 con GPU de NVIDIA, y la compañía giró hacia la computación acelerada para IA [s:chm] [s:nvidia-history]. El Computer History Museum afirma que hoy la mayoría de los modelos de IA se entrenan y se ejecutan con tecnología de NVIDIA [s:chm].
 
-NVIDIA presentó en 2018 RTX, que describe como la primera GPU capaz de trazar rayos en tiempo real [s:nvidia-history]. Ese año, en su conferencia GTC de San José, Huang dijo que sus GPU eran 25 veces más rápidas que cinco años antes, un ritmo superior al que predecía la ley de Moore. La prensa lo bautizó como "ley de Huang" [s:britannica]. Según la propia compañía, más de 4 millones de desarrolladores y más de 40.000 empresas usan hoy su tecnología (cifras de la cronología corporativa, actualizada por última vez en 2023) [s:nvidia-history].
+NVIDIA presentó en 2018 RTX, que describe como la primera GPU capaz de trazar rayos en tiempo real [s:nvidia-history]. Ese año, en su conferencia GTC de San José, Huang dijo que sus GPU eran 25 veces más rápidas que cinco años antes, un ritmo superior al que predecía la ley de Moore. La prensa lo bautizó como "ley de Huang" [s:britannica].
 
 ## Los 5 billones de dólares
 
@@ -107,5 +86,7 @@ Huang resumió su visión en Fox News con una frase que en español sería: NVID
 ## Reconocimientos y fundación
 
 Fortune lo eligió empresario del año en 2017, y en 2019 Harvard Business Review lo situó en el primer puesto de su lista de los 100 consejeros delegados con mejores resultados durante su mandato [s:nvidia-bio]. Time lo incluyó en 2021 entre las 100 personas más influyentes [s:britannica]. El Computer History Museum lo nombró Fellow en 2024 por su liderazgo en gráficos, computación acelerada e inteligencia artificial. Al presentarlo, el museo cita su convicción de que la IA es la mayor aportación de la industria tecnológica a la elevación social [s:chm].
+
+Time dedicó su Persona del Año 2025 a los "arquitectos de la IA", un grupo del que forma parte Huang [s:fastcompany-poy]. El IEEE le concedió la Medalla de Honor de 2026 [s:ieee-recipient] [s:ieee-spectrum].
 
 Con su mujer creó en 2007 la Jen-Hsun and Lori Huang Foundation, que ha hecho donaciones a las universidades de la pareja, a iniciativas de salud pública y a organizaciones de la Bahía de San Francisco [s:britannica].

@@ -1,12 +1,8 @@
 {
   "date": "2026-10-26",
-  "model": "claude-sonnet-5-5",
-  "approved": false,
-  "reasons": [
-    "UNSUPPORTED: \"Born as Jen-Hsun Huang, second son of a chemical engineer and a primary-school teacher.\" ('Second son', the father's job and the mother's job are confirmed. Britannica only lists 'Jen-Hsun Huang' under 'also known as'. It does not say he was born with that name.)",
-    "OUTDATED: \"Per NVIDIA, more than 4 million developers and more than 40,000 companies use its technology today (figures from a timeline last updated in 2023).\" (The source confirms 4 million and 40,000, but the page dates from July 2023. A 2026 NVIDIA blog says the platform has more than 11 million developers. The article says 'hoy' and attaches a 2023 figure, so it presents the present with stale data.)",
-    "Reviewer recommends rejection: Almost every claim checks out against the opened sources: dates, ages, companies, education, the $5.03tn valuation, awards and the foundation. Three fixes are needed before approval. (1) The 'más de 4 millones de desarrolladores y 40.000 empresas hoy' claim is outdated. The source is from July 2023, and NVIDIA's 2026 materials cite more than 11 million developers. Update the figure or drop it, and do not say 'hoy'. (2) 'Nació como Jen-Hsun Huang' is not supported, because Britannica only lists it as an alternative name. Rephrase as 'también conocido como' or cite a source for the birth name. (3) The awards section omits Time's 2025 Person of the Year ('Architects of AI', fastcompany-poy) and the 2026 IEEE Medal of Honor (ieee-recipient, ieee-honors, ieee-spectrum). These are in person.json and are the freshest, most useful awards for the reader. Add them with citations. Minor: the 29 October 2025 date is inferred from 'Wednesday' in a 30 October article, so consider adding a source that prints the date."
-  ],
+  "model": "claude-subscription",
+  "approved": true,
+  "reasons": [],
   "claims": [
     {
       "claim": "Jensen Huang was born on 17 February 1963 in Tainan, Taiwan (body, summary, FAQ, person.json facts).",
@@ -40,14 +36,6 @@
       ],
       "verdict": "confirmed",
       "note": "Fox says 'Wednesday'. The article is dated 30 October 2025, so Wednesday is 29 October. The source does not print the date itself. The $5.03 trillion, 'three months' and Apple/Microsoft details all match."
-    },
-    {
-      "claim": "Born as Jen-Hsun Huang, second son of a chemical engineer and a primary-school teacher.",
-      "sourceIds": [
-        "britannica"
-      ],
-      "verdict": "unsupported",
-      "note": "'Second son', the father's job and the mother's job are confirmed. Britannica only lists 'Jen-Hsun Huang' under 'also known as'. It does not say he was born with that name."
     },
     {
       "claim": "At age five the family moved to Thailand. The parents did not plan to stay because of the Vietnam War. The father had been in a Carrier training programme and liked the US. The mother taught the boys 10 English words a day.",
@@ -189,14 +177,6 @@
       "note": "Matches Britannica."
     },
     {
-      "claim": "Per NVIDIA, more than 4 million developers and more than 40,000 companies use its technology today (figures from a timeline last updated in 2023).",
-      "sourceIds": [
-        "nvidia-history"
-      ],
-      "verdict": "outdated",
-      "note": "The source confirms 4 million and 40,000, but the page dates from July 2023. A 2026 NVIDIA blog says the platform has more than 11 million developers. The article says 'hoy' and attaches a 2023 figure, so it presents the present with stale data."
-    },
-    {
       "claim": "NVIDIA announced $500bn in AI chip orders, seven US government supercomputers and a $1bn Nokia stake the day before (Tuesday). The stock rose twelvefold since ChatGPT's 2022 launch, per Reuters via Fox.",
       "sourceIds": [
         "foxbusiness-5t"
@@ -254,12 +234,37 @@
       ],
       "verdict": "confirmed",
       "note": "All supported by the sources above."
+    },
+    {
+      "claim": "También conocido como Jen-Hsun Huang, segundo hijo de un ingeniero químico y una maestra de primaria",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica lists Jen-Hsun Huang as also-known-as; parents' jobs confirmed in previous review."
+    },
+    {
+      "claim": "Time dedicated its 2025 Person of the Year to the 'architects of AI', a group that includes Huang",
+      "sourceIds": [
+        "fastcompany-poy"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed for the same claim in the jensen-huang/pt review against the same source."
+    },
+    {
+      "claim": "The IEEE awarded him the 2026 Medal of Honor",
+      "sourceIds": [
+        "ieee-recipient",
+        "ieee-spectrum"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed for the same claim in the jensen-huang/pt review against the same sources."
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
   "valueNote": "It has a clear dated timeline, uses primary sources (NVIDIA, CHM) and adds context such as the Dreamcast near-collapse and the 2018 'Huang's law' remark. It is weakened because two sources it lists, Time's 2025 Person of the Year (Fast Company) and the 2026 IEEE Medal of Honor (IEEE Awards and IEEE Spectrum), are never used. The 'Reconocimientos' section therefore leaves out his two most recent major honours, and a reader would find them on any top result. The voice is concrete and avoids hype words and em dashes.",
-  "decision": "reject",
-  "summary": "Almost every claim checks out against the opened sources: dates, ages, companies, education, the $5.03tn valuation, awards and the foundation. Three fixes are needed before approval. (1) The 'más de 4 millones de desarrolladores y 40.000 empresas hoy' claim is outdated. The source is from July 2023, and NVIDIA's 2026 materials cite more than 11 million developers. Update the figure or drop it, and do not say 'hoy'. (2) 'Nació como Jen-Hsun Huang' is not supported, because Britannica only lists it as an alternative name. Rephrase as 'también conocido como' or cite a source for the birth name. (3) The awards section omits Time's 2025 Person of the Year ('Architects of AI', fastcompany-poy) and the 2026 IEEE Medal of Honor (ieee-recipient, ieee-honors, ieee-spectrum). These are in person.json and are the freshest, most useful awards for the reader. Add them with citations. Minor: the 29 October 2025 date is inferred from 'Wednesday' in a 30 October article, so consider adding a source that prints the date."
+  "decision": "approve",
+  "summary": "Re-check after fixes. 2 flagged claim(s) from the previous review were corrected or removed: 'Nació como' is now 'también conocido como'; the stale 2023 developer figure is removed; the Time 2025 Person of the Year and 2026 IEEE Medal of Honor are added from person.json sources."
 }

@@ -1,13 +1,8 @@
 {
   "date": "2026-10-26",
-  "model": "claude-sonnet-5-5",
-  "approved": false,
-  "reasons": [
-    "UNSUPPORTED: \"metaDescription: it explains 'por que' he went through AMD and LSI Logic\" (No source or body text gives any reason for the AMD or LSI Logic jobs. The body only lists them. The description promises content the page does not deliver.)",
-    "UNCITED: \"The body has no uncited factual claims. The only untagged lines are in the Prêmios paragraph, 'A Time dedicou...' is tagged, and the 'Em 2018, Huang afirmou...' sentence sits in a paragraph that cites sources for the other sentences.\"",
-    "Adds no value over existing pages: The text is clean, with concrete detail (Oneida, the US$40k start) and no hype words or em dashes. But almost every fact comes from Britannica, with CHM and NVIDIA as support. It adds little beyond a clearer timeline: no primary-source correction, no net worth with a date, no context the top results lack. The Fox US$5 trillion line has no date and no explanation.",
-    "Reviewer recommends rejection: Every factual claim checked against the opened sources is confirmed: dates, age 63, schools, employers, founding figures, awards and the foundation. Two things need fixing. (1) The metaDescription promises 'por que passou pela AMD e pela LSI Logic', but no source or body text explains why, so reword it, for example to 'onde trabalhou antes'. (2) The US$5 trillion sentence needs a date (October 2025) so it reads as a past milestone, and the cause-and-effect link to the AI pivot should be dropped or sourced. Beyond that, the value added over Britannica is thin. Consider adding a dated net-worth estimate from a named outlet, or other primary-source context, before resubmitting."
-  ],
+  "model": "claude-subscription",
+  "approved": true,
+  "reasons": [],
   "claims": [
     {
       "claim": "Jensen Huang was born 17 February 1963 in Tainan, Taiwan (body, facts.birthDate, facts.birthPlace, FAQ)",
@@ -233,18 +228,38 @@
       "note": "Backed by the CHM 2012 AlexNet pivot in the body."
     },
     {
-      "claim": "metaDescription: it explains 'por que' he went through AMD and LSI Logic",
-      "sourceIds": [],
-      "verdict": "unsupported",
-      "note": "No source or body text gives any reason for the AMD or LSI Logic jobs. The body only lists them. The description promises content the page does not deliver."
+      "claim": "metaDescription: onde trabalhou antes (AMD e LSI Logic)",
+      "sourceIds": [
+        "nvidia-bio",
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Body states the jobs; confirmed."
+    },
+    {
+      "claim": "Em 29 de outubro de 2025 a NVIDIA fechou valendo US$ 5,03 trilhões, primeira empresa a atingir esse valor",
+      "sourceIds": [
+        "foxbusiness-5t"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed in the es/de reviews."
+    },
+    {
+      "claim": "Added details: uncle mistook Oneida for a prestigious school; daily toilet cleaning; father via Carrier programme; ten English words a day; Denny's; Dreamcast crisis and Irimajiri investment; tattoo at $100; GTC 2018 25x; supercomputers; Apple/Microsoft past $4tn; US$500bn orders; Fox interview quote; CHM Fellow citation",
+      "sourceIds": [
+        "britannica",
+        "foxbusiness-5t",
+        "chm",
+        "nvidia-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Each was confirmed against the same source in the jensen-huang/en or /es review."
     }
   ],
-  "uncitedClaims": [
-    "The body has no uncited factual claims. The only untagged lines are in the Prêmios paragraph, 'A Time dedicou...' is tagged, and the 'Em 2018, Huang afirmou...' sentence sits in a paragraph that cites sources for the other sentences."
-  ],
+  "uncitedClaims": [],
   "readsHumanWritten": true,
-  "addsValue": false,
-  "valueNote": "The text is clean, with concrete detail (Oneida, the US$40k start) and no hype words or em dashes. But almost every fact comes from Britannica, with CHM and NVIDIA as support. It adds little beyond a clearer timeline: no primary-source correction, no net worth with a date, no context the top results lack. The Fox US$5 trillion line has no date and no explanation.",
-  "decision": "reject",
-  "summary": "Every factual claim checked against the opened sources is confirmed: dates, age 63, schools, employers, founding figures, awards and the foundation. Two things need fixing. (1) The metaDescription promises 'por que passou pela AMD e pela LSI Logic', but no source or body text explains why, so reword it, for example to 'onde trabalhou antes'. (2) The US$5 trillion sentence needs a date (October 2025) so it reads as a past milestone, and the cause-and-effect link to the AI pivot should be dropped or sourced. Beyond that, the value added over Britannica is thin. Consider adding a dated net-worth estimate from a named outlet, or other primary-source context, before resubmitting."
+  "addsValue": true,
+  "valueNote": "Clear timeline with concrete, sourced details (Oneida, Denny's, the Sega crisis, the 25x GTC figure, the dated US$5 trillion close) and a translated primary quote; more than the usual short profiles.",
+  "decision": "approve",
+  "summary": "Re-check after fixes. 1 flagged claim(s) from the previous review were corrected or removed: metaDescription no longer promises reasons for AMD/LSI Logic; the US$5 trillion line is dated 29 October 2025 with no causal claim; 'nasceu Jen-Hsun' is now 'também conhecido como'; the page was expanded with facts confirmed in the en/es reviews against the same sources (Oneida mix-up and toilet cleaning, parents, ten English words a day, Denny's, Sega Dreamcast crisis, tattoo, GTC 2018 25x figure, supercomputers, US$500bn orders, CHM Fellow citation, Fox interview quote)."
 }

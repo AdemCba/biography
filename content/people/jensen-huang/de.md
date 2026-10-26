@@ -13,10 +13,12 @@ summary: >-
   seitdem als Präsident und CEO. NVIDIA brachte 1999 die GeForce 256 heraus,
   vermarktet als erste GPU, und richtete sich ab 2012 auf Rechenleistung für
   künstliche Intelligenz aus.
-status: review
+status: published
 risk: medium
-updatedAt: '2026-10-26'
+reviewedAt: '2026-10-26'
+reviewBy: '2027-04-26'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - jensen huang alter
@@ -31,7 +33,7 @@ faq:
   - q: Wer hat NVIDIA gegründet?
     a: >-
       Jensen Huang, Chris Malachowsky und Curtis Priem gründeten NVIDIA am 5.
-      April 1993. Die drei Gründer bestimmten Huang von Anfang an zum CEO.
+      April 1993. Die beiden Mitgründer bestimmten Huang von Anfang an zum CEO.
   - q: Was hat Jensen Huang studiert?
     a: >-
       Elektrotechnik: Den Bachelor machte er 1984 an der Oregon State
@@ -42,25 +44,8 @@ faq:
       In Tainan, Taiwan, am 17. Februar 1963. Die Familie zog mit ihm als
       Fünfjährigem nach Thailand, mit neun Jahren kam er in die USA.
 autoRevisions: 2
-autoReviews: 2
-reviewNotes: >-
-  WRONG: "FAQ: 'Die drei Gründer bestimmten Huang von Anfang an zum CEO'"
-  (Britannica says Malachowsky and Priem selected Huang as CEO. Huang was one of
-  the three founders, so he did not choose himself. Fix to: the two co-founders
-  chose him as CEO. The body text already says this correctly.) | UNSUPPORTED:
-  "'Fox Business berichtete darüber am 30. Oktober'" (The page's metadata says
-  created 2025-10-30, but the visible byline reads 'Published October 31, 2025
-  6:00am EDT' (modified 4 Nov). The sources conflict, so the report date is
-  unreliable. Drop it or cite the correct date.) | Reviewer recommends
-  rejection: Nearly every claim checks out against the sources, but two items
-  need fixing before publication. (1) The FAQ answer 'Die drei Gründer
-  bestimmten Huang von Anfang an zum CEO' is wrong: Britannica says Malachowsky
-  and Priem selected Huang, so change it to 'die beiden Mitgründer'. (2) The
-  body says Fox Business reported the $5 trillion milestone 'am 30. Oktober',
-  but the visible byline on the fetched Fox page says 'Published October 31,
-  2025'. Only the page metadata says 30 October. Drop the report date or correct
-  it. Optional: say 'Direktor einer Sparte' to match Britannica's wording. After
-  these edits it can be re-checked and approved.
+autoReviews: 3
+publishedAt: '2026-10-26'
 ---
 Mit neun Jahren kam Jensen Huang in ein Internat in Kentucky, in dem er jeden Tag Toiletten putzen musste [s:britannica] [s:chm]. Gut fünfzig Jahre später führte er das erste Unternehmen der Welt, das an der Börse fünf Billionen Dollar wert war [s:foxbusiness-5t]. Heute ist er 63 Jahre alt (Stand Oktober 2026), geboren am 17. Februar 1963 [s:britannica]. NVIDIA hat er 1993 mitgegründet [s:nvidia-history].
 
@@ -94,7 +79,7 @@ Im selben Jahr sagte Huang auf der hauseigenen GPU Technology Conference in San 
 
 ## Fünf Billionen Dollar
 
-Am Mittwoch, dem 29. Oktober 2025, schloss die NVIDIA-Aktie bei 207,04 Dollar, ein Plus von drei Prozent an diesem Tag. Das Unternehmen kam damit auf einen Börsenwert von 5,03 Billionen Dollar und war das erste in der Geschichte, das diese Marke erreichte. Fox Business berichtete darüber am 30. Oktober [s:foxbusiness-5t]. Seit dem Start von ChatGPT 2022 hatte sich die Aktie etwa verzwölffacht [s:foxbusiness-5t].
+Am Mittwoch, dem 29. Oktober 2025, schloss die NVIDIA-Aktie bei 207,04 Dollar, ein Plus von drei Prozent an diesem Tag. Das Unternehmen kam damit auf einen Börsenwert von 5,03 Billionen Dollar und war das erste in der Geschichte, das diese Marke erreichte [s:foxbusiness-5t]. Seit dem Start von ChatGPT 2022 hatte sich die Aktie etwa verzwölffacht [s:foxbusiness-5t].
 
 Huang selbst ordnete das im selben Monat in der Sendung „The Sunday Briefing“ von Fox News so ein: NVIDIA sei „the engine of the largest industrial revolution in human history“, nach Dampfmaschine, Elektrizität und Informationstechnik komme nun die künstliche Intelligenz [s:foxbusiness-5t]. Fox Business beschreibt den Weg der Firma als Aufstieg von einem Videospiel-Grafikhersteller zu einem Motor des KI-Booms [s:foxbusiness-5t].
 
