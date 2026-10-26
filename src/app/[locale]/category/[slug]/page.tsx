@@ -6,7 +6,7 @@ import type { Locale } from "@/i18n/config";
 import { getDictionary } from "@/i18n/dictionaries";
 import { PersonCard } from "@/components/PersonCard";
 import { categoryPath, getContent, livePeople, PLACEHOLDER_PARAM, withPlaceholder } from "@/lib/content";
-import { categoryAlternates, pageMetadata } from "@/lib/seo";
+import { categoryAlternates, MIN_CATEGORY_PEOPLE, pageMetadata } from "@/lib/seo";
 
 export const dynamicParams = false;
 
@@ -39,7 +39,7 @@ export async function generateMetadata({ params }: PageProps<"/[locale]/category
     path: categoryPath(locale, slug),
     alternates: categoryAlternates(found.category),
     // Empty or near-empty category pages are thin content: keep them out of the index until they grow.
-    noindex: found.people.length < 3,
+    noindex: found.people.length < MIN_CATEGORY_PEOPLE,
   });
 }
 

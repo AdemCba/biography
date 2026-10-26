@@ -1,22 +1,17 @@
 name: Trend scan
 
-# Twice a day: find notable people trending on Google and Wikipedia, scaffold
-# the best new ones as "idea" and open a pull request. Nothing is published;
-# every candidate still goes through research, draft, the quality gate and a
-# human review.
+# Twice a day: find notable people trending on Google and Wikipedia and save the
+# filtered list to data/trend-candidates/ on main. The daily writer agent picks
+# accepted candidates from there first; nothing is published without research,
+# the quality gate and the review agent.
 
 on:
   schedule:
     - cron: "15 6,18 * * *"
   workflow_dispatch:
-    inputs:
-      scaffold:
-        description: "How many new people to scaffold"
-        default: "5"
 
 permissions:
   contents: write
-  pull-requests: write
 
 concurrency:
   group: trend-scan
@@ -33,15 +28,14 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
-      - run: npm run trends -- --scaffold "${{ github.event.inputs.scaffold || '5' }}"
-      - name: Open pull request with candidates
-        uses: peter-evans/create-pull-request@v7
-        with:
-          branch: trends/scan
-          delete-branch: true
-          commit-message: "Trend scan: new biography candidates"
-          title: "Trend scan: new biography candidates"
-          body-path: data/trend-candidates/latest.md
-          add-paths: |
-            data/trend-candidates/**
-            content/people/**
+      - run: npm run trends
+      - name: Save the candidate list on main
+        run: |
+          if [ -n "$(git status --porcelain data)" ]; then
+            git config user.name "orbivida-bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data
+            git commit -m "data: trend scan"
+            git pull --rebase
+            git push
+          fi

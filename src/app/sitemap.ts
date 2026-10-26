@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next";
 import { absoluteUrl, site } from "@/config/site";
 import { HREFLANG, type Locale } from "@/i18n/config";
 import { categoryPath, editorPath, getContent, lastModified, livePeople, personPath } from "@/lib/content";
-import { categoryAlternates, personAlternates } from "@/lib/seo";
+import { categoryAlternates, MIN_CATEGORY_PEOPLE, personAlternates } from "@/lib/seo";
 
 export const dynamic = "force-static";
 
@@ -30,6 +30,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         url: absoluteUrl(personPath(locale, article.meta.slug)),
         lastModified: lastModified(article.meta),
         alternates: { languages: languages(personAlternates(person)) },
+        images: person.data.image ? [absoluteUrl(person.data.image.src)] : undefined,
       });
     }
 
@@ -37,7 +38,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       const tr = category.i18n[locale];
       if (!tr) continue;
       const members = live.filter((x) => x.person.data.categories.includes(category.id));
-      if (members.length < 3) continue; // thin category pages are noindex; keep them out of the sitemap too
+      if (members.length < MIN_CATEGORY_PEOPLE) continue; // thin category pages are noindex; keep them out of the sitemap too
       entries.push({
         url: absoluteUrl(categoryPath(locale, tr.slug)),
         lastModified: members.map((x) => lastModified(x.article.meta)).sort().at(-1),
