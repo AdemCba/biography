@@ -37,7 +37,7 @@ Give each subagent this brief, with NAME, CATEGORY and a scratch folder:
    every source it lists, write the JSON answer to a file, then
    `npx tsx scripts/write.ts --record research "<NAME>" <CATEGORY> <file>`. It prints the person id, or "skipped".
 2. `npx tsx scripts/write.ts --prompt draft <id>`. Write the English JSON (every factual sentence ends with
-   `[s:source-id]`, at least the word count the brief gives, no hype words, no em dashes), then
+   `[s:source-id]` (never a Wikipedia source), at least the word count the brief gives, no hype words, no em dashes), then
    `npx tsx scripts/write.ts --record draft <id> <file>`.
 3. For es, pt, de, fr: `--prompt localize <id> <locale>`, write natively in that language at the same
    length, and `--record localize <id> <locale> <file>`.

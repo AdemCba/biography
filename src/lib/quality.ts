@@ -83,6 +83,10 @@ function checkArticle(person: Person, article: Article, store: ContentStore): Ar
   for (const id of new Set(cited)) {
     if (!sourceIds.has(id)) push("error", "unknown-citation", `Citation [s:${id}] has no matching source`);
   }
+  // Wikipedia is a research lead, never a citation (docs/style-guide.md).
+  const wikiIds = new Set(person.data.sources.filter((s) => /wikipedia\.org/i.test(s.url)).map((s) => s.id));
+  const wikiCited = [...new Set(cited)].filter((id) => wikiIds.has(id));
+  if (wikiCited.length) push(gate, "wikipedia-citation", `Cites Wikipedia (${wikiCited.join(", ")}); cite the original source instead`);
   const peopleIds = new Set(store.people.map((p) => p.data.id));
   for (const id of linkedPersonIds(body)) {
     if (!peopleIds.has(id)) push("error", "unknown-person-link", `Link to unknown person "${id}"`);
@@ -200,7 +204,7 @@ export function checkContent(store: ContentStore): { reports: ArticleReport[]; i
 /** Issue codes that block publishing; on unpublished articles they appear as warnings but still need fixing. */
 export const GATE_CODES = new Set([
   "few-sources", "few-citations", "too-short", "high-risk-unreviewed", "ai-style", "category-not-translated",
-  "thin-structure", "single-source", "no-primary-source", "no-verified-facts", "thin-summary", "no-author",
+  "thin-structure", "single-source", "wikipedia-citation", "no-primary-source", "no-verified-facts", "thin-summary", "no-author",
   "editor-not-translated", "near-duplicate", "no-known-for", "no-meta-description",
 ]);
 
