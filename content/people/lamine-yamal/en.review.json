@@ -1,0 +1,303 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Turned 17 the day before the Euro 2024 final (Spain 2-1 England); youngest player in a EURO or World Cup showpiece",
+      "sourceIds": [
+        "uefa-euro-2024-record-final"
+      ],
+      "verdict": "confirmed",
+      "note": "UEFA: a day after his 17th birthday; 2-1; Olympiastadion Berlin; youngest in a EURO or WC final."
+    },
+    {
+      "claim": "The final was played in Berlin",
+      "sourceIds": [
+        "uefa-euro-2024-record-final"
+      ],
+      "verdict": "confirmed",
+      "note": "UEFA page gives Olympiastadion Berlin, 14 July 2024."
+    },
+    {
+      "claim": "Born 13 July 2007; 19 as of 26 Oct 2026",
+      "sourceIds": [
+        "vavel-bio",
+        "ballondor-player",
+        "wiki-lamine-yamal"
+      ],
+      "verdict": "confirmed",
+      "note": "All sources give 13 July 2007."
+    },
+    {
+      "claim": "Birthplace conflict: VAVEL and Wikipedia Esplugues de Llobregat; ballondor.com Mataro",
+      "sourceIds": [
+        "vavel-bio",
+        "ballondor-player",
+        "wiki-lamine-yamal"
+      ],
+      "verdict": "confirmed",
+      "note": "Each source says what the article says."
+    },
+    {
+      "claim": "Spanish; plays for Spain",
+      "sourceIds": [
+        "vavel-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "VAVEL and ballondor.com confirm."
+    },
+    {
+      "claim": "Full first-team member since July 2024; at least fifty games and seven goals the previous season",
+      "sourceIds": [
+        "fcb-first-team"
+      ],
+      "verdict": "confirmed",
+      "note": "FCB article dated 11 Jul 2024; quoted wording confirmed."
+    },
+    {
+      "claim": "Barcelona debut vs Real Betis; youngest ever debutant for the club",
+      "sourceIds": [
+        "fcb-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Records page confirms."
+    },
+    {
+      "claim": "First start vs Cadiz at 16 years 38 days; youngest 21st-century LaLiga starter",
+      "sourceIds": [
+        "fcb-first-start",
+        "fcb-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Both pages confirm the age and record."
+    },
+    {
+      "claim": "Granada 8 Oct 2023 at 16y 87d: youngest La Liga goalscorer",
+      "sourceIds": [
+        "fcb-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Records page confirms."
+    },
+    {
+      "claim": "CL debut 19 Sept 2023, 5-0 vs Royal Antwerp; youngest Barca CL debutant",
+      "sourceIds": [
+        "fcb-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Records page confirms."
+    },
+    {
+      "claim": "Youngest in a CL knockout match, away at Napoli, 16y 223d; with Pau Cubarsi first two under-18 knockout line-up",
+      "sourceIds": [
+        "fcb-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Records page confirms."
+    },
+    {
+      "claim": "100 matches at 17y 291d; scored vs Inter in CL semi-final, youngest to score in a CL semi-final",
+      "sourceIds": [
+        "fcb-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Records page confirms."
+    },
+    {
+      "claim": "26 Oct 2024, 17y 105d: youngest Barca goalscorer vs Real Madrid, beating Ansu Fati",
+      "sourceIds": [
+        "fcb-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Records page confirms."
+    },
+    {
+      "claim": "Copa del Rey goal Jan 2024: youngest scorer this century; Super Cup: youngest to feature and to score (Osasuna semi)",
+      "sourceIds": [
+        "fcb-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Records page confirms each."
+    },
+    {
+      "claim": "Spain debut vs Georgia at 16y 57d, youngest debutant and scored same match",
+      "sourceIds": [
+        "fcb-records",
+        "wiki-lamine-yamal"
+      ],
+      "verdict": "confirmed",
+      "note": "Both confirm."
+    },
+    {
+      "claim": "Euro 2024 opener vs Croatia, aged 16; youngest to take part in the tournament",
+      "sourceIds": [
+        "fcb-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Records page confirms youngest to take part. Age in years only, which both sources agree on."
+    },
+    {
+      "claim": "Young Player of the Tournament, announced 14 July 2024",
+      "sourceIds": [
+        "uefa-euro-2024-young-player"
+      ],
+      "verdict": "confirmed",
+      "note": "UEFA confirms the date."
+    },
+    {
+      "claim": "Seven matches, six starts, four assists (most of any player)",
+      "sourceIds": [
+        "uefa-euro-2024-young-player"
+      ],
+      "verdict": "confirmed",
+      "note": "UEFA confirms."
+    },
+    {
+      "claim": "Scored vs France in semi-final, youngest EURO scorer in history",
+      "sourceIds": [
+        "uefa-euro-2024-young-player"
+      ],
+      "verdict": "confirmed",
+      "note": "UEFA confirms."
+    },
+    {
+      "claim": "Set up opening goal for Nico Williams in the final",
+      "sourceIds": [
+        "uefa-euro-2024-young-player"
+      ],
+      "verdict": "confirmed",
+      "note": "UEFA confirms."
+    },
+    {
+      "claim": "Youngest to win a major international trophy, a day after his 17th birthday",
+      "sourceIds": [
+        "fcb-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Records page confirms."
+    },
+    {
+      "claim": "Kopa Trophy 2024 and 2025; first to win it twice (SI); first to retain it (Gulf News)",
+      "sourceIds": [
+        "si-kopa-winners",
+        "gulfnews-kopa-twice"
+      ],
+      "verdict": "confirmed",
+      "note": "Both confirm."
+    },
+    {
+      "claim": "Golden Boy 2024 at 17",
+      "sourceIds": [
+        "si-golden-boy-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "SI confirms 2024 and age 17."
+    },
+    {
+      "claim": "4-0 win over Saudi Arabia, 21 June 2026, Atlanta; scored in the 11th minute; first World Cup goal and first World Cup start",
+      "sourceIds": [
+        "skysports-spain-saudi-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky confirms date, venue, score and first goal and start. 11th minute per Sky timeline; a second Sky piece says 10 minutes."
+    },
+    {
+      "claim": "Second player aged 18 or under to open the scoring in a World Cup, after Pele in 1958",
+      "sourceIds": [
+        "skysports-spain-saudi-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky confirms."
+    },
+    {
+      "claim": "Spain 1-0 Argentina, 19 July 2026, New York New Jersey Stadium; Torres 106th minute of extra time",
+      "sourceIds": [
+        "fox-wc-final-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Fox confirms."
+    },
+    {
+      "claim": "Most shots, dribbles and tackles in the final; cross led to Torres's winner",
+      "sourceIds": [
+        "nbc-wc-final-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "NBC confirms."
+    },
+    {
+      "claim": "Scored only once in the tournament",
+      "sourceIds": [
+        "fox-wc-final-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Fox confirms."
+    },
+    {
+      "claim": "Youngest to win both the European Championship and the World Cup, 19 years 6 days",
+      "sourceIds": [
+        "fcb-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Records page states this."
+    },
+    {
+      "claim": "Second in the 2025 Ballon d'Or behind Dembele",
+      "sourceIds": [
+        "vavel-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "VAVEL confirms."
+    },
+    {
+      "claim": "Ballon d'Or site news item: nominated in two categories for 2026",
+      "sourceIds": [
+        "ballondor-player"
+      ],
+      "verdict": "confirmed",
+      "note": "The page's news teaser says two categories. The sentence now attributes it to a news item, which matches."
+    },
+    {
+      "claim": "Al Jazeera 25 Oct 2026: Yamal among top three bookmaker contenders with Kane and Mbappe; Mbappe individual stats far better",
+      "sourceIds": [
+        "aljazeera-ballon-dor-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera confirms."
+    },
+    {
+      "claim": "Youngest winner would be; Ronaldo 21 in 1997; no teenager in 70 years",
+      "sourceIds": [
+        "aljazeera-ballon-dor-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera confirms."
+    },
+    {
+      "claim": "As of 25 Oct 2026 the 2026 award had not been given; ceremony in London on the Monday after publication",
+      "sourceIds": [
+        "aljazeera-ballon-dor-2026",
+        "wiki-lamine-yamal"
+      ],
+      "verdict": "confirmed",
+      "note": "Dated wording is correct. Wikipedia 2026 page lists 26 Oct 2026 and no winner."
+    },
+    {
+      "claim": "FAQ and summary items consistent with body",
+      "sourceIds": [
+        "vavel-bio",
+        "aljazeera-ballon-dor-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Consistent."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Youth records timeline from primary FC Barcelona and UEFA sources. Birthplace conflict shown openly. Ballon d'Or race dated.",
+  "decision": "approve",
+  "summary": "Approved on second pass. All earlier problems were fixed: Berlin retagged to UEFA, the Croatia day count reduced to age 16, the unverified 'first goal for Spain' removed, the Ballon d'Or nomination attributed to a news item, and the unverified Al Jazeera line removed. The 'not yet awarded' wording is dated 25 Oct 2026; no 2026 winner was found as of 26 Oct 2026."
+}

@@ -1,0 +1,321 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 7 May 1998 in Wichita, Kansas",
+      "sourceIds": [
+        "wikipedia-mrbeast",
+        "britannica-mrbeast"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica Quick Facts: May 7, 1998, Wichita, Kansas."
+    },
+    {
+      "claim": "Passed 500 million YouTube subscribers on 12 June 2026",
+      "sourceIds": [
+        "youtube-blog-500m",
+        "adweek-500m"
+      ],
+      "verdict": "confirmed",
+      "note": "Now reads \"in June 2026\". The YouTube blog is dated 12 June 2026 and reports the milestone as already reached, so June 2026 is supported."
+    },
+    {
+      "claim": "First individual creator to reach 500 million subscribers",
+      "sourceIds": [
+        "youtube-blog-500m"
+      ],
+      "verdict": "confirmed",
+      "note": "YouTube: 'the first individual creator to reach 500 million subscribers on YouTube'."
+    },
+    {
+      "claim": "Raised in Greenville, North Carolina; moved often; cared for by au pairs",
+      "sourceIds": [
+        "wikipedia-mrbeast"
+      ],
+      "verdict": "confirmed",
+      "note": "Page says primarily raised in Greenville, NC; au pairs due to parents' long hours and military service."
+    },
+    {
+      "claim": "Parents divorced in 2007",
+      "sourceIds": [
+        "wikipedia-mrbeast"
+      ],
+      "verdict": "confirmed",
+      "note": "Page states the divorce year."
+    },
+    {
+      "claim": "Graduated Greenville Christian Academy in 2016; briefly attended Pitt Community College and dropped out",
+      "sourceIds": [
+        "wikipedia-mrbeast"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches page."
+    },
+    {
+      "claim": "First YouTube upload February 2012 at age 13",
+      "sourceIds": [
+        "wikipedia-mrbeast"
+      ],
+      "verdict": "confirmed",
+      "note": "Page: 'at the age of 13', under the name MrBeast6000."
+    },
+    {
+      "claim": "Most-subscribed individual creator in November 2022; most-subscribed channel in June 2024",
+      "sourceIds": [
+        "youtube-blog-500m"
+      ],
+      "verdict": "confirmed",
+      "note": "Both dates stated by YouTube."
+    },
+    {
+      "claim": "Adweek: about 1.3 billion unique viewers each quarter, roughly 80% outside the US, top video approaching 950 million views, figures attributed to CEO Jeff Housenbold",
+      "sourceIds": [
+        "adweek-500m"
+      ],
+      "verdict": "confirmed",
+      "note": "Adweek attributes these figures to Housenbold 'according to' him. The article correctly calls them company figures."
+    },
+    {
+      "claim": "#TeamTrees raised over $25 million for a campaign that aimed to plant more than 25 million trees",
+      "sourceIds": [
+        "youtube-blog-500m"
+      ],
+      "verdict": "confirmed",
+      "note": "Reworded to \"aimed to plant\", which matches YouTube."
+    },
+    {
+      "claim": "#TeamSeas raised more than $30 million for ocean and beach cleanup",
+      "sourceIds": [
+        "youtube-blog-500m"
+      ],
+      "verdict": "confirmed",
+      "note": "YouTube: 'raised more than $30 million to remove trash from beaches, rivers and the ocean'."
+    },
+    {
+      "claim": "#TeamWater in 2025 with Mark Rober drew creators from 115 countries and raised about $40 million for WaterAid",
+      "sourceIds": [
+        "youtube-blog-500m"
+      ],
+      "verdict": "confirmed",
+      "note": "115 countries refers to creators, which the article says."
+    },
+    {
+      "claim": "'50 YouTubers Fight for $1,000,000' and April 2026 livestreamed sequel '50 Streamers Fight for $1,000,000'",
+      "sourceIds": [
+        "youtube-blog-500m"
+      ],
+      "verdict": "confirmed",
+      "note": "Named as massive creator events; no outcome or date stated, and the article states none."
+    },
+    {
+      "claim": "Feastables introduced January 2022 with MrBeast Bar in three flavors; about $10 million in sales in first few months",
+      "sourceIds": [
+        "wikipedia-mrbeast",
+        "feastables-about"
+      ],
+      "verdict": "confirmed",
+      "note": "Wikipedia says so. Feastables About page gives no founding year or revenue, and the article says so. Wikipedia is only a research lead under the style guide, so consider a primary source."
+    },
+    {
+      "claim": "Feastables mission to eradicate child labor in cocoa; 100% Fairtrade cocoa; farmers paid living income reference price or market price, whichever higher; better-for-you snack company",
+      "sourceIds": [
+        "feastables-about"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the About page wording and is presented as company claims."
+    },
+    {
+      "claim": "Beast Industries is a conglomerate Donaldson founded that holds various media channels",
+      "sourceIds": [
+        "wikipedia-mrbeast"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches page."
+    },
+    {
+      "claim": "Jeff Housenbold is CEO of Beast Industries",
+      "sourceIds": [
+        "adweek-500m"
+      ],
+      "verdict": "confirmed",
+      "note": "Adweek identifies him as CEO."
+    },
+    {
+      "claim": "January 2026 Bitmine agreed to invest $200 million in Beast Industries, led by chairman Tom Lee; Lee calls MrBeast the leading content creator of their generation",
+      "sourceIds": [
+        "dlnews-bitmine"
+      ],
+      "verdict": "confirmed",
+      "note": "DL News: announced 15 January 2026; Lee's 'in our view' remark; chairman per press release attribution."
+    },
+    {
+      "claim": "Investment valued the company at $5 billion (Wikipedia); DL News says valuation not disclosed",
+      "sourceIds": [
+        "wikipedia-mrbeast",
+        "dlnews-bitmine"
+      ],
+      "verdict": "confirmed",
+      "note": "Wikipedia gives $5 billion at the $200M raise. DL News says the valuation was not disclosed. The article flags the conflict."
+    },
+    {
+      "claim": "Hosts Beast Games and co-created it",
+      "sourceIds": [
+        "wikipedia-mrbeast"
+      ],
+      "verdict": "confirmed",
+      "note": "Credited as host, co-creator and executive producer."
+    },
+    {
+      "claim": "First season released on Prime Video on 19 December 2024",
+      "sourceIds": [
+        "wikipedia-mrbeast",
+        "amazon-beast-games-renewal"
+      ],
+      "verdict": "confirmed",
+      "note": "Amazon: premiere December 19, 2024."
+    },
+    {
+      "claim": "Most-watched unscripted series reaching 50 million viewers 25 days after premiere",
+      "sourceIds": [
+        "amazon-beast-games-renewal"
+      ],
+      "verdict": "confirmed",
+      "note": "Amazon: streaming service's most-watched unscripted show ever; 50M viewers 25 days after premiere."
+    },
+    {
+      "claim": "Renewed for two more seasons on 12 May 2025 at Amazon's upfront in New York",
+      "sourceIds": [
+        "amazon-beast-games-renewal",
+        "wikipedia-mrbeast"
+      ],
+      "verdict": "confirmed",
+      "note": "Amazon page; year from metadata dated 2025-05-12."
+    },
+    {
+      "claim": "Vernon Sanders, Amazon MGM Studios head of television, called it 'the largest reality competition series ever'",
+      "sourceIds": [
+        "amazon-beast-games-renewal"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact quote and title confirmed."
+    },
+    {
+      "claim": "Fortune reported in January 2026 that he is projected to be worth at least $2.6 billion; no named estimator; no as-of date",
+      "sourceIds": [
+        "fortune-net-worth-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Article says 'projected to be worth at least $2.6 billion', names no estimator and gives no as-of date."
+    },
+    {
+      "claim": "Forbes estimated annual earnings of $85 million from April 2024 to April 2025",
+      "sourceIds": [
+        "fortune-net-worth-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Fortune cites this Forbes estimate."
+    },
+    {
+      "claim": "WSJ quotes: 'I'm borrowing money. That's how little money I have' and 'I have negative money right now'",
+      "sourceIds": [
+        "fortune-net-worth-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes appear in the Fortune piece."
+    },
+    {
+      "claim": "Keeps less than $1 million for himself; reinvests in businesses",
+      "sourceIds": [
+        "fortune-net-worth-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Article attributes the under $1M remark to earlier People coverage and cites an X post on reinvestment."
+    },
+    {
+      "claim": "Married Thea Booysen in 2026",
+      "sourceIds": [
+        "wikipedia-mrbeast",
+        "dexerto-wedding",
+        "malaymail-wedding"
+      ],
+      "verdict": "confirmed",
+      "note": "Dexerto: confirmed 21 July 2026."
+    },
+    {
+      "claim": "11 July 2026 post: 'may or may not be getting married'",
+      "sourceIds": [
+        "dexerto-wedding"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted in Dexerto."
+    },
+    {
+      "claim": "Confirmed marriage 21 July with photos captioned 'Mr and MrsBeast'",
+      "sourceIds": [
+        "dexerto-wedding",
+        "wikipedia-mrbeast"
+      ],
+      "verdict": "confirmed",
+      "note": "Dexerto caption and date confirmed."
+    },
+    {
+      "claim": "Ceremony on Necker Island, British Virgin Islands; 70 friends and family; no livestreams or YouTube cameras, only a professional photographer",
+      "sourceIds": [
+        "malaymail-wedding"
+      ],
+      "verdict": "confirmed",
+      "note": "Malay Mail, citing People for the location."
+    },
+    {
+      "claim": "Booysen described as South African gamer, author and content creator",
+      "sourceIds": [
+        "malaymail-wedding"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Proposed 25 December 2024; announced engagement 1 January 2025",
+      "sourceIds": [
+        "wikipedia-mrbeast",
+        "dexerto-wedding"
+      ],
+      "verdict": "confirmed",
+      "note": "Wikipedia gives both dates. Dexerto confirms a Christmas Day 2024 proposal."
+    },
+    {
+      "claim": "Summary: born Jimmy Donaldson on 7 May 1998 in Wichita, Kansas; American YouTuber; crossed 500 million subscribers on 12 June 2026",
+      "sourceIds": [
+        "wikipedia-mrbeast",
+        "youtube-blog-500m"
+      ],
+      "verdict": "confirmed",
+      "note": "Now reads \"in June 2026\". The YouTube blog is dated 12 June 2026 and reports the milestone as already reached, so June 2026 is supported."
+    },
+    {
+      "claim": "FAQ: 28 as of October 2026 (born 7 May 1998)",
+      "sourceIds": [
+        "wikipedia-mrbeast"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic is correct for 2026-10-26."
+    },
+    {
+      "claim": "FAQ: passed 500 million on 12 June 2026, first individual creator",
+      "sourceIds": [
+        "youtube-blog-500m"
+      ],
+      "verdict": "confirmed",
+      "note": "Now reads \"in June 2026\". The YouTube blog is dated 12 June 2026 and reports the milestone as already reached, so June 2026 is supported."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Separates platform subscribers, a projected asset figure without an estimator, and annual earnings. Flags company-sourced audience figures and the disputed $5B valuation.",
+  "decision": "approve",
+  "summary": "Fixed: the 500M milestone is now dated only to June 2026, which the YouTube blog supports. #TeamTrees now says the campaign aimed to plant 25 million trees. All other claims match the sources. Wikipedia is cited for several facts; the style guide treats it as a research lead only, so consider replacing those citations with primary sources."
+}

@@ -1,0 +1,136 @@
+{
+  "worthWriting": true,
+  "reason": "Widely covered Twitch streamer and creator with 11 opened sources (Wikipedia, Tribune, Dexerto, TechTimes, Tubefilter, TIME, Wikipedia riot and subscriber-list pages). Not a minor, not known mainly for a crime. The 2023 Union Square arrest is a minor part of the career and is reported neutrally.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "wiki-kai-cenat",
+      "url": "https://en.wikipedia.org/wiki/Kai_Cenat",
+      "title": "Kai Cenat",
+      "publisher": "Wikipedia",
+      "type": "other",
+      "lang": "en"
+    },
+    {
+      "id": "wiki-most-subscribed-twitch",
+      "url": "https://en.wikipedia.org/wiki/List_of_most-subscribed_Twitch_channels",
+      "title": "List of most-subscribed Twitch channels",
+      "publisher": "Wikipedia",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "wiki-union-square-riot",
+      "url": "https://en.wikipedia.org/wiki/2023_Union_Square_riot",
+      "title": "2023 Union Square riot",
+      "publisher": "Wikipedia",
+      "type": "other",
+      "lang": "en"
+    },
+    {
+      "id": "wiki-streamer-university",
+      "url": "https://en.wikipedia.org/wiki/Streamer_University",
+      "title": "Streamer University",
+      "publisher": "Wikipedia",
+      "type": "other",
+      "lang": "en"
+    },
+    {
+      "id": "tribune-mafiathon-3",
+      "url": "https://tribune.com.pk/story/2569424/kai-cenat-breaks-twitch-subscriber-world-record-for-third-time-during-mafiathon-3",
+      "title": "Kai Cenat breaks Twitch subscriber world record for third time during Mafiathon 3",
+      "publisher": "The Express Tribune",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "dexerto-mafiathon-3",
+      "url": "https://www.dexerto.com/entertainment/kai-cenat-breaks-his-own-twitch-sub-world-record-during-mafiathon-3-3256431/",
+      "title": "Kai Cenat breaks his own Twitch sub world record during Mafiathon 3",
+      "publisher": "Dexerto",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "techtimes-mafiathon-2",
+      "url": "https://www.techtimes.com/articles/308568/20241203/kai-cenat-shatters-twitch-record-over-728k-subs-30-day-subathon-how-much-did-he-earn.htm",
+      "title": "Kai Cenat Shatters Twitch Record with Over 728K Subs in 30-Day Subathon: How Much Did He Earn?",
+      "publisher": "TechTimes",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "tubefilter-streamer-university-2026",
+      "url": "https://www.tubefilter.com/2026/06/09/kai-cenat-return-2026-streamer-university-2-trailer/",
+      "title": "After eight quiet months, Kai Cenat returns with a magical trailer for Streamer University 2026",
+      "publisher": "Tubefilter",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "tubefilter-vivet-2026",
+      "url": "https://www.tubefilter.com/2026/01/14/kai-cenat-streaming-update-clothing-brand-vivet/",
+      "title": "No, Kai Cenat isn't quitting his streamer gig -- but he is launching a new clothing brand",
+      "publisher": "Tubefilter",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "time-100-creators-2025",
+      "url": "https://time.com/collections/time100-creators-2025/",
+      "title": "TIME100 Creators: The Most Influential Digital Voices of 2025",
+      "publisher": "TIME",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "dexerto-time100-2025",
+      "url": "https://www.dexerto.com/entertainment/kai-cenat-mrbeast-khaby-lame-top-times-2025-best-100-creators-list-3224447/",
+      "title": "Kai Cenat, MrBeast & Khaby Lame top TIME's 2025 best 100 creators list",
+      "publisher": "Dexerto",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "2001-12-16",
+      "sources": [
+        "wiki-kai-cenat"
+      ],
+      "note": "Wikipedia: born December 16, 2001, in Brooklyn, New York City."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Brooklyn, New York City, New York",
+      "sources": [
+        "wiki-kai-cenat"
+      ],
+      "note": "Wikipedia gives Brooklyn, New York City."
+    },
+    "nationality": {
+      "value": "US",
+      "sources": [
+        "wiki-kai-cenat"
+      ],
+      "note": "Wikipedia lead describes him as an American online streamer."
+    }
+  },
+  "targetQueries": [
+    "Who is Kai Cenat",
+    "How old is Kai Cenat",
+    "Where is Kai Cenat from",
+    "Kai Cenat Twitch subscriber record",
+    "What is Mafiathon",
+    "Kai Cenat Mafiathon 3 results",
+    "Kai Cenat Streamer University 2026",
+    "Kai Cenat Vivet clothing brand",
+    "Kai Cenat Streamer Awards wins",
+    "Kai Cenat TIME100 Creators",
+    "Kai Cenat net worth",
+    "Kai Cenat Union Square arrest"
+  ],
+  "gapNote": "Top results mix fan sites, net-worth estimates and clip roundups. Few explain the arc in one place: the Mafiathon subathon records (728,535 in 2024, 1,112,947 by 2025 end), the Streamer University format, the January 2026 Vivet fashion pivot and the 2026 return to Twitch, with the legal matters kept to their sourced outcome."
+}

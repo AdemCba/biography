@@ -1,0 +1,130 @@
+{
+  "worthWriting": true,
+  "reason": "Current global football figure with a well-documented career: PSG, Real Madrid transfer, 2018 and 2022 World Cups, 2026 World Cup Golden Boot, 2025 European Golden Shoe. Ten sources opened and checked.",
+  "wikidata": "",
+  "importance": 5,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "wiki-mbappe",
+      "url": "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9",
+      "title": "Kylian Mbappé",
+      "publisher": "Wikipedia",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "britannica-mbappe",
+      "url": "https://www.Britannica.com/biography/Kylian-Mbappe",
+      "title": "Kylian Mbappé",
+      "publisher": "Encyclopaedia Britannica",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "soccerway-realmadrid-fr",
+      "url": "https://fr.soccerway.com/actualites/football-laliga-c-est-officiel-kylian-mbappe-signe-au-real-madrid-jusqu-en-2029/Gz4bAPH7",
+      "title": "Officiel : Kylian Mbappé signe au Real Madrid jusqu'en 2029",
+      "publisher": "Soccerway",
+      "type": "press",
+      "lang": "fr"
+    },
+    {
+      "id": "yahoo-realmadrid-unveil",
+      "url": "https://ca.sports.yahoo.com/news/real-madrid-unveil-kylian-mbappe-113625879.html",
+      "title": "Real Madrid unveil Kylian Mbappe at a packed Bernabeu Stadium",
+      "publisher": "Yahoo Sports",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "malaymail-final-2022",
+      "url": "https://www.malaymail.com/news/sports/2022/12/19/mbappes-hat-trick-in-vain-on-messis-night/45981",
+      "title": "Mbappe's hat-trick in vain on Messi's night",
+      "publisher": "Malay Mail (Reuters)",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "topendsports-golden-shoe",
+      "url": "https://www.topendsports.com/sport/soccer/awards/golden-shoe-europe.htm",
+      "title": "European Golden Shoe Winners List",
+      "publisher": "Top End Sports",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "nbc-golden-boot-2026",
+      "url": "https://www.nbcconnecticut.com/world-cup/golden-boot-tracker-2026/",
+      "title": "2026 World Cup Golden Boot tracker",
+      "publisher": "NBC Connecticut",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "dailystar-pele-2018",
+      "url": "https://www.thedailystar.net/fifa-world-cup-2018/welcome-the-club-pele-praises-mbappe-1606168",
+      "title": "Welcome to the club, Pele praises Mbappe",
+      "publisher": "The Daily Star",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "fader-final-2018",
+      "url": "https://www.thefader.com/2018/07/15/france-world-cup-champions/amp",
+      "title": "France World Cup champions 2018",
+      "publisher": "The FADER",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "worldsoccertalk-ballon-2026",
+      "url": "https://worldsoccertalk.com/news/kylian-mbappe-shows-confidence-and-asserts-himself-as-frontrunner-for-2026-ballon-dor/",
+      "title": "Kylian Mbappe shows confidence and asserts himself as frontrunner for 2026 Ballon d'Or",
+      "publisher": "World Soccer Talk",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1998-12-20",
+      "sources": [
+        "wiki-mbappe",
+        "britannica-mbappe"
+      ],
+      "note": "Both pages give 20 December 1998."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Paris, France",
+      "sources": [
+        "wiki-mbappe",
+        "britannica-mbappe"
+      ],
+      "note": "Wikipedia gives the 19th arrondissement of Paris and that he was raised in Bondy. Britannica gives Paris."
+    },
+    "nationality": {
+      "value": "FR",
+      "sources": [
+        "wiki-mbappe",
+        "britannica-mbappe"
+      ],
+      "note": "Wikipedia notes Cameroonian (father) and Algerian Kabyle (mother) family origins; nationality is French."
+    }
+  },
+  "targetQueries": [
+    "Kylian Mbappé Real Madrid transfer",
+    "Kylian Mbappé World Cup 2022 final hat-trick",
+    "Kylian Mbappé World Cup 2018 final",
+    "Kylian Mbappé Golden Boot 2026",
+    "Kylian Mbappé Ballon d'Or 2026",
+    "Kylian Mbappé European Golden Shoe",
+    "Kylian Mbappé PSG career",
+    "Kylian Mbappé Monaco career",
+    "Kylian Mbappé Real Madrid shirt number",
+    "Kylian Mbappé nationality",
+    "Kylian Mbappé age"
+  ],
+  "gapNote": "Top results are mostly transfer-day wire copies and short match reports. Gap: one sourced timeline that links the 2018 and 2022 finals, the two Golden Boots (2022 and 2026) and the 2026 Ballon d'Or debate, with the Real Madrid move placed in context."
+}

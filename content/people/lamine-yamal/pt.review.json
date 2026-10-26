@@ -1,0 +1,278 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Completou 17 anos um dia antes da final da Eurocopa 2024; jogador mais jovem em final de Eurocopa ou Copa do Mundo",
+      "sourceIds": [
+        "uefa-euro-2024-record-final"
+      ],
+      "verdict": "confirmed",
+      "note": "UEFA."
+    },
+    {
+      "claim": "A final foi disputada em Berlim",
+      "sourceIds": [
+        "uefa-euro-2024-record-final"
+      ],
+      "verdict": "confirmed",
+      "note": "UEFA gives Olympiastadion Berlin."
+    },
+    {
+      "claim": "Nasceu em 13 de julho de 2007; 19 anos em outubro de 2026",
+      "sourceIds": [
+        "vavel-bio",
+        "ballondor-player",
+        "wiki-lamine-yamal"
+      ],
+      "verdict": "confirmed",
+      "note": "All agree."
+    },
+    {
+      "claim": "Local de nascimento em conflito: VAVEL Esplugues de Llobregat; Bola de Ouro Mataró",
+      "sourceIds": [
+        "vavel-bio",
+        "ballondor-player"
+      ],
+      "verdict": "confirmed",
+      "note": "Each source says what the article says."
+    },
+    {
+      "claim": "Espanhol; defende a seleção da Espanha",
+      "sourceIds": [
+        "vavel-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "VAVEL."
+    },
+    {
+      "claim": "Membro efetivo do elenco principal desde julho de 2024; pelo menos cinquenta jogos e sete gols na temporada anterior",
+      "sourceIds": [
+        "fcb-first-team"
+      ],
+      "verdict": "confirmed",
+      "note": "FCB, 11 Jul 2024."
+    },
+    {
+      "claim": "Estreia contra o Real Betis; jogador mais jovem a estrear pelo clube",
+      "sourceIds": [
+        "fcb-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Records page."
+    },
+    {
+      "claim": "Titular contra o Cádiz aos 16 anos e 38 dias; mais jovem do século XXI a começar na LaLiga",
+      "sourceIds": [
+        "fcb-first-start",
+        "fcb-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Both confirm."
+    },
+    {
+      "claim": "8 de outubro de 2023, 16 anos e 87 dias: artilheiro mais jovem da história da LaLiga",
+      "sourceIds": [
+        "fcb-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Records page."
+    },
+    {
+      "claim": "Estreia na Liga dos Campeões em 19 de setembro de 2023, 5 a 0 sobre o Royal Antwerp",
+      "sourceIds": [
+        "fcb-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Records page."
+    },
+    {
+      "claim": "Jogador mais jovem em partida de mata-mata, Nápoles, 16 anos e 223 dias; Cubarsí, primeira escalação com dois menores de 18",
+      "sourceIds": [
+        "fcb-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Records page."
+    },
+    {
+      "claim": "100 jogos aos 17 anos e 291 dias; gol na semifinal contra a Inter, mais jovem a marcar em semifinal da Liga dos Campeões",
+      "sourceIds": [
+        "fcb-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Records page."
+    },
+    {
+      "claim": "26 de outubro de 2024, 17 anos e 105 dias: artilheiro mais jovem do Barça contra o Real Madrid, superando Ansu Fati; Copa do Rei em janeiro de 2024; Supercopa",
+      "sourceIds": [
+        "fcb-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Records page confirms each."
+    },
+    {
+      "claim": "Estreia pela Espanha contra a Geórgia aos 16 anos e 57 dias, jogador mais jovem, gol no mesmo dia",
+      "sourceIds": [
+        "fcb-records",
+        "wiki-lamine-yamal"
+      ],
+      "verdict": "confirmed",
+      "note": "Both confirm."
+    },
+    {
+      "claim": "Eurocopa 2024: jogador mais jovem a participar, na estreia contra a Croácia, aos 16 anos",
+      "sourceIds": [
+        "fcb-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Age in years only, which both sources agree on."
+    },
+    {
+      "claim": "Jogador Jovem do Torneio, anúncio em 14 de julho de 2024",
+      "sourceIds": [
+        "uefa-euro-2024-young-player"
+      ],
+      "verdict": "confirmed",
+      "note": "UEFA."
+    },
+    {
+      "claim": "Sete jogos, seis como titular, quatro assistências (marca mais alta)",
+      "sourceIds": [
+        "uefa-euro-2024-young-player"
+      ],
+      "verdict": "confirmed",
+      "note": "UEFA."
+    },
+    {
+      "claim": "Gol contra a França na semifinal; artilheiro mais jovem da história da Eurocopa",
+      "sourceIds": [
+        "uefa-euro-2024-young-player"
+      ],
+      "verdict": "confirmed",
+      "note": "UEFA."
+    },
+    {
+      "claim": "Na final, deu o passe para Nico Williams abrir o placar",
+      "sourceIds": [
+        "uefa-euro-2024-young-player"
+      ],
+      "verdict": "confirmed",
+      "note": "UEFA."
+    },
+    {
+      "claim": "Jogador mais jovem a vencer um grande título internacional, um dia após completar 17 anos",
+      "sourceIds": [
+        "fcb-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Records page."
+    },
+    {
+      "claim": "Troféu Kopa em 2024 e 2025; primeiro a vencer duas vezes (SI); primeiro a conquistá-lo em anos seguidos (Gulf News); Golden Boy 2024 aos 17 anos",
+      "sourceIds": [
+        "si-kopa-winners",
+        "gulfnews-kopa-twice",
+        "si-golden-boy-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "All confirm."
+    },
+    {
+      "claim": "Vitória por 4 a 0 sobre a Arábia Saudita, 21 de junho de 2026, Atlanta; gol aos 11 minutos; primeiro gol e primeira titularidade em Copas",
+      "sourceIds": [
+        "skysports-spain-saudi-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky confirms; 11th minute per Sky timeline, another Sky piece says 10."
+    },
+    {
+      "claim": "Segundo jogador de 18 anos ou menos a abrir o placar em Copa, depois de Pelé em 1958",
+      "sourceIds": [
+        "skysports-spain-saudi-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky."
+    },
+    {
+      "claim": "Espanha 1-0 Argentina, final de 19 de julho de 2026, New York New Jersey Stadium, gol de Torres aos 106 minutos",
+      "sourceIds": [
+        "fox-wc-final-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Fox."
+    },
+    {
+      "claim": "Mais chutes, dribles e desarmes na final; cruzamento levou ao gol de Torres",
+      "sourceIds": [
+        "nbc-wc-final-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "NBC."
+    },
+    {
+      "claim": "Marcou apenas uma vez no torneio",
+      "sourceIds": [
+        "fox-wc-final-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Fox."
+    },
+    {
+      "claim": "Mais jovem a vencer Eurocopa e Copa do Mundo, 19 anos e 6 dias",
+      "sourceIds": [
+        "fcb-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Records page."
+    },
+    {
+      "claim": "Segundo na Bola de Ouro 2025 atrás de Dembélé",
+      "sourceIds": [
+        "vavel-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "VAVEL."
+    },
+    {
+      "claim": "Notícia no site da Bola de Ouro: indicado em duas categorias para 2026",
+      "sourceIds": [
+        "ballondor-player"
+      ],
+      "verdict": "confirmed",
+      "note": "News teaser says two categories; now attributed to a news item."
+    },
+    {
+      "claim": "Al Jazeera: entre os três favoritos com Kane e Mbappé; estatísticas de Mbappé muito melhores",
+      "sourceIds": [
+        "aljazeera-ballon-dor-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera."
+    },
+    {
+      "claim": "Vencedor mais jovem se ganhar, à frente de Ronaldo (21 anos em 1997); nenhum adolescente em 70 anos",
+      "sourceIds": [
+        "aljazeera-ballon-dor-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera."
+    },
+    {
+      "claim": "Em 25 de outubro de 2026 o prêmio de 2026 não havia sido entregue; cerimônia em Londres na segunda seguinte",
+      "sourceIds": [
+        "aljazeera-ballon-dor-2026",
+        "wiki-lamine-yamal"
+      ],
+      "verdict": "confirmed",
+      "note": "Dated; Wikipedia lists 26 Oct 2026 and no winner."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Cronologia de recordes com fontes primárias; conflito sobre o local de nascimento exposto.",
+  "decision": "approve",
+  "summary": "Approved on second pass. Fixes applied: Berlin retagged to UEFA; Croatia day count removed; 'primeiro gol da Espanha' removed; Bola de Ouro nomination attributed to a news item; unverified Al Jazeera line removed."
+}

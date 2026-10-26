@@ -1,0 +1,201 @@
+{
+  "id": "vinicius-junior",
+  "name": "Vinícius Júnior",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 5,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "2000-07-12",
+      "sources": [
+        "rm-profile",
+        "britannica"
+      ],
+      "note": "Real Madrid profile lists 12/07/2000 (day/month/year); Britannica and Wikipedia give July 12, 2000."
+    },
+    "birthPlace": {
+      "value": "São Gonçalo, Rio de Janeiro, Brazil",
+      "sources": [
+        "rm-profile",
+        "britannica"
+      ],
+      "note": "Real Madrid profile writes São Gonçalo (Río de Janeiro, Brazil); Britannica gives São Gonçalo, Brazil."
+    },
+    "nationality": {
+      "value": [
+        "BR"
+      ],
+      "sources": [
+        "aa-best-2024"
+      ],
+      "note": "Real Madrid profile does not state nationality. Wikipedia calls him a Brazilian professional footballer; AA calls him Real Madrid's Brazilian forward."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "rm-profile",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players/vinicius-paixao-de-oliveira-junior",
+      "title": "Vini Jr.",
+      "publisher": "Real Madrid CF",
+      "type": "official",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "britannica",
+      "url": "https://www.britannica.com/biography/Vinicius-Junior",
+      "title": "Vinícius Júnior",
+      "publisher": "Encyclopaedia Britannica",
+      "type": "database",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "wiki",
+      "url": "https://en.wikipedia.org/wiki/Vin%C3%ADcius_J%C3%BAnior",
+      "title": "Vinícius Júnior",
+      "publisher": "Wikipedia",
+      "type": "database",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "aa-best-2024",
+      "url": "https://www.aa.com.tr/en/sports/real-madrids-brazilian-forward-vinicius-junior-wins-2024-best-fifa-mens-player-award/3427175",
+      "title": "Real Madrid's Brazilian forward Vinicius Junior wins 2024 Best FIFA Men's Player award",
+      "publisher": "Anadolu Agency",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "tnt-ballon-2024",
+      "url": "https://www.tntsports.co.uk/football/ballon-dor-complete-standings-rodri-41-points-clear-vinicius-jr-full-list-votes-revealed_sto20052531/story.shtml",
+      "title": "Ballon d'Or complete standings: Rodri margin over Vinicius Junior revealed, Jude Bellingham votes also shown",
+      "publisher": "TNT Sports",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "goal-ballon-2024",
+      "url": "https://www.goal.com/en/lists/vinicius-junior-fall-grace-real-madrid-huge-drop-ballon-dor-rankings-vowing-return-prize-loss-rodri-2024/blta3511f4a17eb4eee",
+      "title": "Vinicius Junior's fall from grace! Real Madrid star suffers huge drop in Ballon d'Or rankings after vowing to return for prize following shock loss to Rodri in 2024",
+      "publisher": "Goal",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "beinsports-ballon-2025",
+      "url": "https://www.beinsports.com/en-us/soccer/la-liga/articles/vin%C3%ADcius-jr-falls-from-they-re-not-ready-to-outside-the-top-10-in-the-2025-ballon-d-or-2025-09-23",
+      "title": "Vinícius Jr. Falls From \"They're Not Ready\" to Outside the Top 10 in the 2025 Ballon d'Or",
+      "publisher": "beIN SPORTS",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "aljazeera-contract-2026",
+      "url": "https://www.aljazeera.com/sports/2026/8/6/vinicius-jr-extends-real-madrid-deal-to-2032-ending-transfer-speculation",
+      "title": "Vinicius Jr extends Real Madrid deal to 2032, ending transfer speculation",
+      "publisher": "Al Jazeera",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "allafrica-colombia-2025",
+      "url": "https://allafrica.com/stories/202503210317.html",
+      "title": "Nigeria: 2026 World Cup Qualifiers - Vinicius Fires Stoppage Time Winner for Brazil",
+      "publisher": "AllAfrica",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "wiki-group-c-2026",
+      "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_C",
+      "title": "2026 FIFA World Cup Group C",
+      "publisher": "Wikipedia",
+      "type": "database",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "aljazeera-scotland-2026",
+      "url": "https://www.aljazeera.com/sports/2026/6/25/vinicius-nets-twice-and-neymar-returns-as-brazil-ease-by-scotland",
+      "title": "Vinicius nets twice and Neymar returns as Brazil ease by Scotland",
+      "publisher": "Al Jazeera",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "soccerway-valencia-2023",
+      "url": "https://www.soccerway.com/news/soccer-laliga-vinicius-jr-calls-laliga-and-spain-racist-for-abusive-chants-after-sending-off/voTMloRp",
+      "title": "Vinicius Jr calls LaLiga and Spain racist for abusive chants after sending-off",
+      "publisher": "Soccerway",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "npr-valencia-2023",
+      "url": "https://www.npr.org/transcripts/1178020848",
+      "title": "NPR transcript on Vinicius Junior and racism in Spain",
+      "publisher": "NPR",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "aljazeera-uefa-ban-2026",
+      "url": "https://www.aljazeera.com/sports/2026/4/24/uefa-bans-benficas-prestianni-for-six-games-for-verbally-abusing-vinicius",
+      "title": "UEFA bans Benfica's Prestianni for six games for verbally abusing Vinicius",
+      "publisher": "Al Jazeera",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "uefa-cl-final-2024",
+      "url": "https://www.uefa.com/uefachampionsleague/news/028e-1b07e18d875a-ba78e4b9d9fc-1000--real-madrid-win-champions-league-carvajal-and-vinicius-jun/",
+      "title": "Real Madrid win Champions League: Carvajal and Vinícius Júnior see off Dortmund",
+      "publisher": "UEFA",
+      "type": "award-body",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "si-unveil-2018",
+      "url": "https://www.si.com/soccer/2018/07/20/real-madrid-unveil-vinicius-junior-flamengo",
+      "title": "Real Madrid Unveils New Signing Vinicius Junior Following Arrival From Flamengo",
+      "publisher": "Sports Illustrated",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "aljazeera-effigy-2023",
+      "url": "https://www.aljazeera.com/news/2023/5/23/spain-arrests-four-after-effigy-of-real-madrids-vinicius-hung",
+      "title": "Spain arrests four after effigy of Real Madrid's Vinicius hung",
+      "publisher": "Al Jazeera",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "skysports-committee-2023",
+      "url": "https://www.skysports.com/football/news/11095/12902984/vinicius-junior-real-madrid-forward-to-lead-special-anti-racism-committee-as-fifa-cracks-down-on-discriminatory-behaviour",
+      "title": "Vinicius Junior: Real Madrid forward to lead special anti-racism committee as FIFA cracks down on discriminatory behaviour",
+      "publisher": "Sky Sports",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    }
+  ]
+}

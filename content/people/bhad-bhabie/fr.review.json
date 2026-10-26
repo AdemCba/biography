@@ -1,0 +1,271 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 26 March 2003; American rapper and internet personality",
+      "sourceIds": [
+        "themusic-bhad-bhabie"
+      ],
+      "verdict": "confirmed",
+      "note": "The Music profile gives the birth date and the occupation; the nationality is American."
+    },
+    {
+      "claim": "Known first from a 2016 television clip (Dr. Phil appearance, Cash Me Outside Girl)",
+      "sourceIds": [
+        "avclub-atlantic-deal-2017"
+      ],
+      "verdict": "confirmed",
+      "note": "A.V. Club describes the 2016 Dr. Phil incident and the viral Cash Me Outside Girl moment."
+    },
+    {
+      "claim": "Signed with Atlantic Records in summer 2017",
+      "sourceIds": [
+        "complex-atlantic-split"
+      ],
+      "verdict": "confirmed",
+      "note": "Complex says she signed in summer 2017."
+    },
+    {
+      "claim": "Signed at age 14; reps confirmed Mike Caren (then Warner Music Group creative officer) had a role in the signing; multi-million-dollar deal covering several albums",
+      "sourceIds": [
+        "xxl-atlantic-deal-2017"
+      ],
+      "verdict": "confirmed",
+      "note": "XXL, 15 September 2017: reported multi-million-dollar deal, multiple albums, reps confirmed Caren's role, age 14."
+    },
+    {
+      "claim": "A.V. Club report dated 16 September 2017 gave her age as 14",
+      "sourceIds": [
+        "avclub-atlantic-deal-2017"
+      ],
+      "verdict": "confirmed",
+      "note": "A.V. Club dated September 16, 2017; age 14."
+    },
+    {
+      "claim": "Quoted a Warner Music Group vice president calling her 'a real star with undeniable talent'",
+      "sourceIds": [
+        "avclub-atlantic-deal-2017"
+      ],
+      "verdict": "confirmed",
+      "note": "A.V. Club quotes the unnamed Warner Music Group vice president; the executive is not named in the article."
+    },
+    {
+      "claim": "Youngest female rapper to have a song on the Billboard Hot 100",
+      "sourceIds": [
+        "avclub-atlantic-deal-2017"
+      ],
+      "verdict": "confirmed",
+      "note": "A.V. Club states this; it is the publication's claim, attributed in the article."
+    },
+    {
+      "claim": "Debut single 'These Heaux' moved into the Billboard Hot 100",
+      "sourceIds": [
+        "xxl-atlantic-deal-2017"
+      ],
+      "verdict": "confirmed",
+      "note": "XXL says her debut single 'These Heaux' moved into the Billboard Hot 100 chart. Chart position not stated and not used."
+    },
+    {
+      "claim": "Second single 'Hi Bich' had 85 million YouTube views by March 2018",
+      "sourceIds": [
+        "tubefilter-hi-bich-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "Tubefilter, 30 March 2018, cites 85 million YouTube views and calls it her second single."
+    },
+    {
+      "claim": "'Hi Bich' sold 500,000 copies in the US, described as gold status (attributed to Tubefilter)",
+      "sourceIds": [
+        "tubefilter-hi-bich-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "Tubefilter reports the sales figure, citing The Daily Dot; the article attributes it to Tubefilter. Billboard chart position was not confirmed and is left out."
+    },
+    {
+      "claim": "'Trust Me' (with Ty Dolla $ign) and 'Gucci Flip Flops' (with Lil Yachty) released before the mixtape",
+      "sourceIds": [
+        "fader-15-mixtape"
+      ],
+      "verdict": "confirmed",
+      "note": "FADER lists both as singles released before the mixtape."
+    },
+    {
+      "claim": "'Bestie' with Kodak Black, Complex, January 2019, available on Spotify, Apple Music and SoundCloud",
+      "sourceIds": [
+        "complex-bestie-2019"
+      ],
+      "verdict": "confirmed",
+      "note": "Complex article dated 31 January 2019 names the streaming services. No chart claim is made."
+    },
+    {
+      "claim": "Rolling Stone covered summer singles 'Lotta Dem' (dance track) and 'Spaz' (diss track) with YBN Nahmir",
+      "sourceIds": [
+        "rollingstone-lotta-dem-spaz"
+      ],
+      "verdict": "confirmed",
+      "note": "Rolling Stone describes both tracks and names YBN Nahmir as the featured rapper. No release year is stated in the article and none is given in the text."
+    },
+    {
+      "claim": "Mixtape 15 released Tuesday 18 September 2018, 15 tracks",
+      "sourceIds": [
+        "fader-15-mixtape"
+      ],
+      "verdict": "confirmed",
+      "note": "FADER dated 18 September 2018; release 'on Tuesday'; 15 tracks."
+    },
+    {
+      "claim": "Guests on 15: Lil Baby, City Girls, YG, Asian Doll",
+      "sourceIds": [
+        "fader-15-mixtape"
+      ],
+      "verdict": "confirmed",
+      "note": "FADER names these guest artists."
+    },
+    {
+      "claim": "Nominated for Billboard Music Awards Top Rap Female Artist in April 2018, alongside Cardi B and Nicki Minaj",
+      "sourceIds": [
+        "tmz-bbma-nomination-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "TMZ, 18 April 2018, names the category and the nominees she is grouped with."
+    },
+    {
+      "claim": "She treated the nomination as a win and conceded Cardi B would likely win",
+      "sourceIds": [
+        "tmz-bbma-nomination-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "TMZ paraphrases her; the text is attributed as TMZ's report."
+    },
+    {
+      "claim": "First Billboard Music Award nomination; asleep when she learned of it; manager called to tell her",
+      "sourceIds": [
+        "billboard-bbma-nomination"
+      ],
+      "verdict": "confirmed",
+      "note": "Billboard interview (article ID 8456339) states it was her first BBMA nomination; she was asleep and her manager called her."
+    },
+    {
+      "claim": "First Los Angeles show at The Roxy on the Sunset Strip, sold out, capacity 500, part of the Bhanned in the USA tour",
+      "sourceIds": [
+        "variety-roxy-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "Variety article names the venue, capacity 500, sold-out show and tour. The article gives no date; the 2018 year comes from the URL and matches the FADER and TMZ dates."
+    },
+    {
+      "claim": "A Warner Music Group executive attended the Los Angeles show",
+      "sourceIds": [
+        "variety-roxy-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "Variety lists Aton Ben-Horin of Warner Music Group among notable attendees."
+    },
+    {
+      "claim": "2019 worldwide publishing deal with Pulse Music Group reportedly worth $1 million (reported by TMZ via Complex)",
+      "sourceIds": [
+        "complex-publishing-2019"
+      ],
+      "verdict": "confirmed",
+      "note": "Complex, 11 July 2019: Pulse Music Group; $1 million per TMZ. Attributed in the text."
+    },
+    {
+      "claim": "Publishing deal scope covers all past and future songs (as reported by Billboard, quoted by Complex)",
+      "sourceIds": [
+        "complex-publishing-2019"
+      ],
+      "verdict": "confirmed",
+      "note": "Complex says Billboard reported the scope as 'all past and future songs'; the text attributes it."
+    },
+    {
+      "claim": "Ride or Die! mobile game by BBTV Interactive; player controls Bhad Bhabie stealing cars and evading police; App Store and Google Play",
+      "sourceIds": [
+        "variety-ride-or-die-2019"
+      ],
+      "verdict": "confirmed",
+      "note": "Variety confirms developer, mobile platforms, and the playable lead role. The 2019 year comes from the URL; the article gives no date."
+    },
+    {
+      "claim": "2021 investment of $1 million with Lil Yachty in Lox Club, a membership-based dating app for Jewish people, through agent Adam Kluger's Scoop Investments",
+      "sourceIds": [
+        "variety-lox-club-2021"
+      ],
+      "verdict": "confirmed",
+      "note": "Variety confirms the $1 million investment, the agency and the app description. The 2021 year comes from the URL; the article gives no date."
+    },
+    {
+      "claim": "2021 launch of BHAD Music, her own label",
+      "sourceIds": [
+        "variety-label-masters-2021"
+      ],
+      "verdict": "confirmed",
+      "note": "Variety headline: 'Bhad Bhabie Launches Label'; label named BHAD Music. Year from URL."
+    },
+    {
+      "claim": "She is glad to own her masters going forward; labels keep 'like 80% of all the money that comes in'",
+      "sourceIds": [
+        "variety-label-masters-2021"
+      ],
+      "verdict": "confirmed",
+      "note": "Variety quotes both points. The article says owning masters is a source of relief and quotes her criticism of traditional deals."
+    },
+    {
+      "claim": "Split from Atlantic publicly in August 2021; revealed in a Variety interview",
+      "sourceIds": [
+        "complex-atlantic-split"
+      ],
+      "verdict": "confirmed",
+      "note": "Complex dated 14 August 2021; the article cites her Variety interview."
+    },
+    {
+      "claim": "Atlantic representative confirmed the two sides had split",
+      "sourceIds": [
+        "complex-atlantic-split"
+      ],
+      "verdict": "confirmed",
+      "note": "Complex: 'A rep for Atlantic confirmed the two sides had split.'"
+    },
+    {
+      "claim": "Split came nearly four years after signing",
+      "sourceIds": [
+        "complex-atlantic-split"
+      ],
+      "verdict": "confirmed",
+      "note": "Complex says nearly four years after inking the deal."
+    },
+    {
+      "claim": "No reason given for the split; she felt her career could have been bigger with better promotion; label sources say her streaming numbers suggest otherwise",
+      "sourceIds": [
+        "complex-atlantic-split"
+      ],
+      "verdict": "confirmed",
+      "note": "Complex gives no reason for the split, reports her view on promotion as reported (not quoted), and reports label sources disagreeing."
+    },
+    {
+      "claim": "She is 23 years old as of October 2026",
+      "sourceIds": [
+        "themusic-bhad-bhabie"
+      ],
+      "verdict": "confirmed",
+      "note": "Computed from the birth date (26 March 2003) in The Music profile; 23 as of 26 October 2026."
+    },
+    {
+      "claim": "She signed with Atlantic at age 14 (FAQ)",
+      "sourceIds": [
+        "xxl-atlantic-deal-2017",
+        "avclub-atlantic-deal-2017"
+      ],
+      "verdict": "confirmed",
+      "note": "XXL and A.V. Club both say 14."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "The fr text is written from the same sources, with its own section order and wording rather than a translation of the English.",
+  "decision": "approve",
+  "summary": "French (fr) version checked claim by claim against the same opened sources. Every dated, sourced fact in the fr body matches its citation. Years taken from URL paths (2018 Roxy show, 2019 game and publishing deal, 2021 label and dating-app investment) are flagged, as in the English check. Chart positions are omitted because Billboard chart pages could not be opened. No uncited factual claims."
+}

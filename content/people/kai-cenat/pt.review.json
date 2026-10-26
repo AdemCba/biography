@@ -1,0 +1,344 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Nasceu em 16 de dezembro de 2001",
+      "sourceIds": [
+        "legit-ng-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Legit.ng: 16th December 2001."
+    },
+    {
+      "claim": "Nasceu em Nova York; mora em Atlanta, na Geórgia",
+      "sourceIds": [
+        "legit-ng-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Legit.ng confirms both."
+    },
+    {
+      "claim": "Mafiathon: maratona de inscrições de um mês, transmitida 24 horas por dia",
+      "sourceIds": [
+        "techtimes-mafiathon-2"
+      ],
+      "verdict": "confirmed",
+      "note": "TechTimes: 24 hours a day for the entire month."
+    },
+    {
+      "claim": "A Mafiathon 2 aconteceu em novembro de 2024, 24 horas por dia, desde o começo de novembro",
+      "sourceIds": [
+        "techtimes-mafiathon-2"
+      ],
+      "verdict": "confirmed",
+      "note": "TechTimes: kicked off in early November 2024, 24 hours a day. End date no longer stated."
+    },
+    {
+      "claim": "Mafiathon 2 levou o total para 728.532 inscritos, mais que o dobro de Ironmouse",
+      "sourceIds": [
+        "dexerto-mafiathon-3"
+      ],
+      "verdict": "confirmed",
+      "note": "Dexerto: 728,532; more than doubling Ironmouse's 326,252."
+    },
+    {
+      "claim": "TechTimes traz 727.700 no corpo do texto",
+      "sourceIds": [
+        "techtimes-mafiathon-2"
+      ],
+      "verdict": "confirmed",
+      "note": "TechTimes body: 727,700."
+    },
+    {
+      "claim": "O recorde caiu no dia 24, quando passou de 728.600 inscritos",
+      "sourceIds": [
+        "dexerto-mafiathon-3"
+      ],
+      "verdict": "confirmed",
+      "note": "Dexerto: day 24, surpassing 728,600."
+    },
+    {
+      "claim": "Mafiathon 3 foi a terceira vez que quebrou o recorde de inscritos da Twitch",
+      "sourceIds": [
+        "tribune-mafiathon-3"
+      ],
+      "verdict": "confirmed",
+      "note": "Tribune: third time."
+    },
+    {
+      "claim": "Mafiathon 3 foi a terceira e última Mafiathon",
+      "sourceIds": [
+        "dexerto-mafiathon-3-earnings"
+      ],
+      "verdict": "confirmed",
+      "note": "Dexerto: 'third and final Mafiathon'."
+    },
+    {
+      "claim": "Streams Charts contou 1.112.947 inscrições ao fim do evento",
+      "sourceIds": [
+        "dexerto-mafiathon-3-earnings"
+      ],
+      "verdict": "confirmed",
+      "note": "Dexerto (Streams Charts): 1,112,947."
+    },
+    {
+      "claim": "85,23 milhões de horas assistidas; segundo o título da Dexerto, mais espectadores que as principais maratonas de inscrição de 2025 juntas",
+      "sourceIds": [
+        "dexerto-mafiathon-3-earnings"
+      ],
+      "verdict": "confirmed",
+      "note": "85.23M hours confirmed; headline wording matches."
+    },
+    {
+      "claim": "Ganhos estimados entre US$ 984.958 e US$ 3.288.758, descontada a parte da Twitch; estimativa da Streams Charts",
+      "sourceIds": [
+        "dexerto-mafiathon-3-earnings"
+      ],
+      "verdict": "confirmed",
+      "note": "Range and method confirmed."
+    },
+    {
+      "claim": "Em 2025, streamer americano mais assistido da Twitch, com 134,4 milhões de horas, quase o dobro de Asmongold",
+      "sourceIds": [
+        "dexerto-most-watched-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Dexerto: 134.4M hours; Asmongold second."
+    },
+    {
+      "claim": "Em 2025, a TIME o incluiu na primeira lista TIME100 Creators",
+      "sourceIds": [
+        "time-100-creators-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "TIME page: inaugural 2025 list."
+    },
+    {
+      "claim": "Aparece em primeiro lugar na categoria Titans",
+      "sourceIds": [
+        "time-100-creators-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "TIME: first in Titans."
+    },
+    {
+      "claim": "Apresentou a Streamer University na Universidade de Akron, em Ohio, naquele ano",
+      "sourceIds": [
+        "tubefilter-streamer-university-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Tubefilter confirms."
+    },
+    {
+      "claim": "Mais de 150 criadores e 27 milhões de horas de exibição",
+      "sourceIds": [
+        "tubefilter-streamer-university-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Tubefilter confirms."
+    },
+    {
+      "claim": "Cenat comanda a escola como diretor",
+      "sourceIds": [
+        "tubefilter-streamer-university-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Tubefilter: headmaster."
+    },
+    {
+      "claim": "A Dexerto escreveu que ele dominou as manchetes, sobretudo com a viral Streamer University",
+      "sourceIds": [
+        "dexerto-time100-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Dexerto's own wording."
+    },
+    {
+      "claim": "Citação: «Como streamer, você não está numa caixa. Você não está preso»",
+      "sourceIds": [
+        "dexerto-time100-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Dexerto quotes Cenat telling TIME. Translation is fair."
+    },
+    {
+      "claim": "A Tubefilter descreveu a conta como inativa",
+      "sourceIds": [
+        "tubefilter-streamer-university-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'has been dormant'."
+    },
+    {
+      "claim": "YourRAGE especulou que a carreira dele na Twitch podia ser coisa do passado",
+      "sourceIds": [
+        "tubefilter-streamer-university-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: may be 'a thing of the past', presented as a hypothesis."
+    },
+    {
+      "claim": "Anunciou uma marca de roupas e voltou para apresentar uma segunda edição da Streamer University",
+      "sourceIds": [
+        "tubefilter-vivet-2026",
+        "aymag-streamer-university-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Both supported."
+    },
+    {
+      "claim": "Janeiro de 2026: vlog de 23 minutos no YouTube, em canal separado, intitulado «I Quit»",
+      "sourceIds": [
+        "tubefilter-vivet-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Tubefilter confirms."
+    },
+    {
+      "claim": "Não está deixando o streaming; o título se refere a metas pessoais",
+      "sourceIds": [
+        "tubefilter-vivet-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Tubefilter confirms."
+    },
+    {
+      "claim": "Muita insegurança sobre se afastar da criação de conteúdo",
+      "sourceIds": [
+        "tubefilter-vivet-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'A lot of self-doubt'."
+    },
+    {
+      "claim": "Vivet: nome vem de um verbo latino que significa «viver»",
+      "sourceIds": [
+        "tubefilter-vivet-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Três meses na Itália com alfaiates; consultou designers americanos em Atlanta",
+      "sourceIds": [
+        "tubefilter-vivet-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "A Tubefilter apresenta a Vivet como uma de várias iniciativas ambiciosas, ao lado das Mafiathons e da Streamer University",
+      "sourceIds": [
+        "tubefilter-vivet-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Tubefilter: one of several ambitious projects."
+    },
+    {
+      "claim": "No começo de junho de 2026, Cenat confirmou a segunda edição; teaser com 2,5 milhões de curtidas em menos de dois dias",
+      "sourceIds": [
+        "tubefilter-streamer-university-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Criadores convidados a se inscrever pelo site oficial; alunos selecionados voltariam",
+      "sourceIds": [
+        "tubefilter-streamer-university-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Em meados de julho, Hendrix College em Conway, Arkansas; Cenat no local; mais de 100 canais ao vivo",
+      "sourceIds": [
+        "aymag-streamer-university-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Cenat anunciou um sorteio de consoles em Union Square; milhares de fãs se reuniram",
+      "sourceIds": [
+        "ny1-ap-riot"
+      ],
+      "verdict": "confirmed",
+      "note": "NY1: giveaway luring thousands of fans. No date given now."
+    },
+    {
+      "claim": "Danos e dezenas de presos",
+      "sourceIds": [
+        "ny1-ap-riot"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Acusado de incitar um tumulto e promover uma aglomeração ilegal",
+      "sourceIds": [
+        "ny1-ap-riot"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Citação do pedido de desculpas sobre os danos e transtornos",
+      "sourceIds": [
+        "ny1-ap-riot"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Em maio de 2024, promotores iam retirar as acusações após Cenat pedir desculpas pelos transtornos e danos",
+      "sourceIds": [
+        "ny1-ap-riot"
+      ],
+      "verdict": "confirmed",
+      "note": "Charges dropped after apology and restitution. No Snapchat reference remains."
+    },
+    {
+      "claim": "Mais de US$ 57.000 no total; US$ 55.000 para a Union Square Partnership",
+      "sourceIds": [
+        "ny1-ap-riot"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "FAQ: 24 anos em outubro de 2026",
+      "sourceIds": [
+        "legit-ng-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic correct."
+    },
+    {
+      "claim": "FAQ: 1.112.947 inscrições; recorde quebrado pela terceira vez",
+      "sourceIds": [
+        "dexerto-mafiathon-3-earnings",
+        "tribune-mafiathon-3"
+      ],
+      "verdict": "confirmed",
+      "note": "Both confirm."
+    },
+    {
+      "claim": "FAQ: não está parando de fazer streams",
+      "sourceIds": [
+        "tubefilter-vivet-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Solid timeline built on several outlets. Residual note: metaDescription still names the 2023 Union Square case; the year is not in the NY1 extract.",
+  "decision": "approve",
+  "summary": "Approved on second pass. All nine corrections from the first pass are applied in the body and heading: the end date, the superlative, the TIME attribution, the 2025 dating, the Twitch-career wording, the withdrawal claim, the Vivet paraphrase, the 4 August date and 2023 framing, and Snapchat."
+}

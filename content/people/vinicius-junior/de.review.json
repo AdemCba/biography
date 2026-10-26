@@ -1,0 +1,270 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Geboren am 12. Juli 2000 in São Gonçalo, Rio de Janeiro, Brasilien",
+      "sourceIds": [
+        "rm-profile",
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "RM and Britannica match."
+    },
+    {
+      "claim": "Vollständiger Name Vinícius José Paixão de Oliveira Júnior",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Stürmer bei Real Madrid; brasilianischer Stürmer",
+      "sourceIds": [
+        "rm-profile",
+        "aa-best-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Zweites Tor im CL-Finale 2024, 83. Minute, 2:0 gegen Dortmund in Wembley, Samstag 1. Juni, 15. Europapokal",
+      "sourceIds": [
+        "uefa-cl-final-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Entscheidendes Tor im Finale 2021/22",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Zwei Europapokal-Siege im Vereinsprofil",
+      "sourceIds": [
+        "rm-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Verließ Flamengo mitten in der Saison 2018",
+      "sourceIds": [
+        "si-unveil-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Einigung im Mai 2017, mit 16 Jahren",
+      "sourceIds": [
+        "si-unveil-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Wechsel nach Europa erst nach dem 18. Geburtstag möglich",
+      "sourceIds": [
+        "si-unveil-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Real Madrid stellte ihn im Juli 2018 im Bernabéu vor",
+      "sourceIds": [
+        "si-unveil-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "Wording corrected in the article to what the source supports."
+    },
+    {
+      "claim": "45 Mio. Euro, teuerster Neuzugang seit Rodríguez 2014",
+      "sourceIds": [
+        "si-unveil-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Vereinsprofil: Titelliste inkl. U17-Titel, The Best, Goldene Bälle, MVP-Auszeichnungen",
+      "sourceIds": [
+        "rm-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "All counts match."
+    },
+    {
+      "claim": "Britannica: Siegtor 2021/22, eines von zwei Toren 2023/24; Auszeichnungen UCL 2022 und 2024",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "2024 zweiter CL-Titel mit dem Klub",
+      "sourceIds": [
+        "britannica",
+        "uefa-cl-final-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported."
+    },
+    {
+      "claim": "Anadolu meldete am 17. Dezember 2024 The-Best-Auszeichnung",
+      "sourceIds": [
+        "aa-best-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Ballon d'Or 2024: Rodri 1.170 von 1.485; Vinícius 1.129; 41 Rückstand; Rodri vor Vinícius",
+      "sourceIds": [
+        "tnt-ballon-2024",
+        "goal-ballon-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Versprach, stärker zurückzukommen",
+      "sourceIds": [
+        "goal-ballon-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "16. Platz bei den Männern 2025",
+      "sourceIds": [
+        "beinsports-ballon-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "März 2025: Siegtor gegen Kolumbien in der Nachspielzeit, 2:1, Abfälschung",
+      "sourceIds": [
+        "allafrica-colombia-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Doppelpack beim 3:0 gegen Schottland am 24. Juni 2026, Miami Stadium, volles Haus, 7. Minute und kurz vor der Pause",
+      "sourceIds": [
+        "aljazeera-scotland-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "2023 in Mestalla nach Auseinandersetzung vom Platz gestellt, nach Hinweis auf beleidigende Fans",
+      "sourceIds": [
+        "soccerway-valencia-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Zitate 'Es war nicht das erste Mal...' und 'Ich bin stark...'",
+      "sourceIds": [
+        "soccerway-valencia-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Faithful translations."
+    },
+    {
+      "claim": "NPR: Abuse seit Umzug nach Spanien vor vier Jahren",
+      "sourceIds": [
+        "npr-valencia-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Vier Festnahmen in Madrid, Puppe von Autobahnbrücke, mutmaßliche Hassstraftat",
+      "sourceIds": [
+        "aljazeera-effigy-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Vinícius nannte die Vorfälle in Spanien 'unmenschlich'",
+      "sourceIds": [
+        "aljazeera-effigy-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Wording corrected in the article to what the source supports."
+    },
+    {
+      "claim": "Liga ... gehört jetzt den Rassisten",
+      "sourceIds": [
+        "aljazeera-effigy-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "15. Juni 2023, 14:23 Uhr britischer Zeit, Infantino, Zitate",
+      "sourceIds": [
+        "skysports-committee-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "April 2026 UEFA, sechs Spiele Prestianni, Freitag, zwei Jahre Bewährung, Reuters",
+      "sourceIds": [
+        "aljazeera-uefa-ban-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Verlängerung am Donnerstag, gemeldet 6. August 2026, bis 30. Juni 2032, bisher Juni 2027, Ablösefrei-Risiko",
+      "sourceIds": [
+        "aljazeera-contract-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Zusammenfassung und FAQ",
+      "sourceIds": [
+        "uefa-cl-final-2024",
+        "aa-best-2024",
+        "tnt-ballon-2024",
+        "aljazeera-contract-2026",
+        "beinsports-ballon-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Backed by body and sources."
+    },
+    {
+      "claim": "FAQ: 26 Jahre am 26. Oktober 2026",
+      "sourceIds": [
+        "rm-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Correct."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline, primary sources, exact quotes, and 2026 contract and World Cup context. Localised with German search terms.",
+  "decision": "approve",
+  "summary": "All claims, dates, figures and quotes check out against the opened sources. The two earlier wording problems are fixed."
+}

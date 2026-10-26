@@ -1,0 +1,138 @@
+{
+  "id": "khaby-lame",
+  "name": "Khaby Lame",
+  "categories": [
+    "creators"
+  ],
+  "importance": 5,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "2000-03-09",
+      "sources": [
+        "unicef-goodwill-profile"
+      ],
+      "note": "UNICEF profile gives 9 March 2000."
+    },
+    "birthPlace": {
+      "value": "Senegal",
+      "sources": [
+        "unicef-goodwill-profile",
+        "gna-youth-olympics-ambassador"
+      ],
+      "note": "Conflict on city: UNICEF profile says Ziguinchor; Ghana News Agency says Mbacke. Both agree on Senegal."
+    },
+    "nationality": {
+      "value": [
+        "IT"
+      ],
+      "sources": [
+        "npr-ice-detention",
+        "euronews-italian-citizenship-2022"
+      ],
+      "note": "Italian citizen. Euronews reports Italian citizenship granted at a ceremony in Chivasso in August 2022. No fetched source states a Senegalese nationality."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "unicef-press-release",
+      "url": "https://www.unicef.org/press-releases/unicef-names-khaby-lame-goodwill-ambassador",
+      "title": "UNICEF names Khaby Lame as a Goodwill Ambassador",
+      "publisher": "UNICEF",
+      "type": "official",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "un-messengers-peace",
+      "url": "https://www.un.org/en/messengers-peace/unicef-names-khaby-lame-goodwill-ambassador",
+      "title": "UNICEF names Khaby Lame as a Goodwill Ambassador",
+      "publisher": "United Nations Messengers of Peace",
+      "type": "official",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "bloomberg-975m-deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-27/tiktok-star-khaby-lame-signs-975-million-deal-to-monetize-global-fan-base",
+      "title": "TikTok Star Khaby Lame Signs $975 Million Deal to Monetize Global Fan Base",
+      "publisher": "Bloomberg",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "forbes-deal-red-flags",
+      "url": "https://www.forbes.com/sites/martinadilicosa/2026/01/31/tiktok-superstar-khaby-lames-big-deal-which-saw-him-valued-at-66-billion-raises-red-flags-experts-say/",
+      "title": "TikTok Superstar Khaby Lame's Big Deal, Which Saw Him Valued At $6.6 Billion, Raises Red Flags, Experts Say",
+      "publisher": "Forbes",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "npr-ice-detention",
+      "url": "https://www.npr.org/2025/06/10/g-s1-71707/khaby-lame-tiktok-detained-ice",
+      "title": "Khaby Lame TikTok detained ICE",
+      "publisher": "NPR",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "time100-creators-2025",
+      "url": "https://time.com/collections/time100-creators-2025/",
+      "title": "TIME100 Creators: The Most Influential Digital Voices of 2025",
+      "publisher": "TIME",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "hugo-boss-boss-x-khaby",
+      "url": "https://group.hugoboss.com/en/newsroom/stories/boss-x-khaby",
+      "title": "BOSS x Khaby",
+      "publisher": "HUGO BOSS Group",
+      "type": "company",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "gna-youth-olympics-ambassador",
+      "url": "https://gna.org.gh/2026/04/khaby-lame-named-ambassador-for-2026-youth-olympic-games-in-dakar/",
+      "title": "Khaby Lame named ambassador for 2026 Youth Olympic Games in Dakar",
+      "publisher": "Ghana News Agency",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "unicef-goodwill-profile",
+      "url": "https://www.unicef.org/goodwill-ambassadors/khaby-lame",
+      "title": "Khaby Lame, UNICEF Goodwill Ambassador",
+      "publisher": "UNICEF",
+      "type": "official",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "guinness-tiktok-most-followed-2022",
+      "url": "https://www.guinnessworldrecords.com/news/2022/6/khaby-lame-overtakes-charli-damelio-as-most-followed-person-on-tiktok-708392",
+      "title": "Khaby Lame overtakes Charli D'Amelio as most followed person on TikTok",
+      "publisher": "Guinness World Records",
+      "type": "other",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "euronews-italian-citizenship-2022",
+      "url": "https://www.euronews.com/culture/2022/08/19/khaby-lame-the-worlds-most-followed-tiktok-influencer-obtains-italian-citizenship",
+      "title": "Khaby Lame: the world's most followed TikTok influencer obtains Italian citizenship",
+      "publisher": "Euronews",
+      "type": "press",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    }
+  ]
+}
