@@ -44,12 +44,14 @@ jobs:
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           github_token: ${{ github.token }}
+          show_full_output: true
           claude_args: >-
             --model ${{ vars.WRITER_MODEL || 'claude-haiku-5-5' }}
             --max-turns 600
             --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebSearch,WebFetch,Task,TodoWrite"
           prompt: |
-            Follow docs/subscription-writer-task.md for ${{ inputs.count || 5 }} new people, with these changes:
+            This is an unattended run: nobody will answer questions, so never stop to ask or to confirm. Keep working
+            until every step is done. Follow docs/subscription-writer-task.md for ${{ inputs.count || 5 }} new people, with these changes:
             - Skip step 1 (the repository is already checked out and installed) and the photo step (Publish does it).
             - Do the writing and fact-checking yourself or with subagents on the same model.
             - Step 6: only run `npx tsx scripts/schedule.ts --per-day 8`. Do not commit, push or open a PR;
@@ -64,7 +66,12 @@ jobs:
             - Then, if usage allows, repair up to 2 existing pages: pick pages from `npm run -s check` that are in
               status review or show ERROR, `too-short` or `short-for-importance`, expand or fix them in all languages with sourced facts, and fact-check them
               again with review.ts. Never remove a page.
-            - Step 7: print the Turkish summary as your final answer.
+            - Step 7: write the Turkish summary (who you picked, why each is searched today, which pages passed) to
+              writer-summary.md in the repository root and also print it as your final answer.
+
+      - name: Summary (who was picked and why)
+        if: ${{ always() }}
+        run: cat writer-summary.md >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || echo "No summary written" >> "$GITHUB_STEP_SUMMARY"
 
       - name: Commit new content to main
         id: commit
