@@ -73,7 +73,6 @@ reviewNotes: >-
   Add at least one angle the top results lack, so the page clears the 'adds
   value' bar. Re-submit for fact check after the edits.
 autoReviews: 1
-flag: 'Fix loop gave up after 3 attempts: quality warnings'
 ---
 Aos nove anos, Jensen Huang chegou aos Estados Unidos vindo da Tailândia, junto com o irmão, e foi parar no Oneida Baptist Institute, um internato religioso no Kentucky para meninos considerados "problemáticos" [s:britannica]. Duas décadas depois, ele estava fundando a NVIDIA.
 

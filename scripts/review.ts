@@ -21,7 +21,7 @@ import { site } from "../src/config/site";
 import { readContent, today, type Article, type Person } from "../src/lib/content";
 import { writeArticle } from "../src/lib/article-file";
 import { checkContent, GATE_CODES, NOT_FIXABLE_BY_REWRITE } from "../src/lib/quality";
-import { askStructured, hasApiKey, MODEL } from "./lib/claude";
+import { askStructured, hasApiKey, MODEL, isApiUnavailable, exitOnError } from "./lib/claude";
 
 export const REVIEWER_ID = "fact-check-desk";
 const MAX_REVIEWS = 3;
@@ -141,7 +141,7 @@ async function main() {
     try {
       verdict = await factCheck(client, person, article);
     } catch (e) {
-      if (e instanceof Anthropic.AuthenticationError) throw e;
+      if (isApiUnavailable(e)) throw e;
       summary.push(`! ${key}: review failed (${(e as Error).message}), will retry next run`);
       continue;
     }
@@ -172,8 +172,5 @@ async function main() {
 
 
 if (process.argv[1]?.endsWith("review.ts")) {
-  main().catch((e) => {
-    console.error(e);
-    process.exit(1);
-  });
+  main().catch(exitOnError("Review agent"));
 }

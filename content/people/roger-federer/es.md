@@ -58,7 +58,6 @@ reviewNotes: >-
   outdated: the 237-week record and the Connors comparison still stand as of
   October 2026.
 autoReviews: 1
-flag: 'Fix loop gave up after 3 attempts: quality warnings'
 ---
 Antes de levantar trofeos, Roger Federer recogía pelotas. En 1993 y 1994 fue recogepelotas en el torneo de Basilea, su ciudad [s:atp-bio]. Tres décadas después se retiró con 20 Grand Slams.
 

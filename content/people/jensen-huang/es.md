@@ -75,7 +75,6 @@ reviewNotes: >-
   on NVIDIA's position. Otherwise the page restates Britannica and should not be
   published.
 autoReviews: 1
-flag: 'Fix loop gave up after 3 attempts: quality warnings'
 ---
 Con nueve años, Jensen Huang llegó a Estados Unidos desde Tailandia junto a su hermano y acabó en el Oneida Baptist Institute, un internado religioso de Kentucky para niños considerados "difíciles" [s:britannica]. Dos décadas después cofundaba NVIDIA.
 

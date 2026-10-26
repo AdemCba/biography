@@ -1,3 +1,4 @@
+import fs from "node:fs";
 import Anthropic from "@anthropic-ai/sdk";
 import { z } from "zod";
 
@@ -5,6 +6,31 @@ import { z } from "zod";
 export const MODEL = process.env.ANTHROPIC_MODEL || "claude-opus-5-5";
 /** Research, writing, translation and rewrites: a cheaper model, since everything it writes is fact-checked by MODEL. */
 export const WRITER_MODEL = process.env.ANTHROPIC_WRITER_MODEL || "claude-sonnet-5-5";
+
+/** Errors no retry can fix (bad key, no credit left): the agents stop at once instead of burning attempts. */
+export function isApiUnavailable(e: unknown): boolean {
+  return (
+    e instanceof Anthropic.AuthenticationError ||
+    e instanceof Anthropic.PermissionDeniedError ||
+    (e instanceof Anthropic.BadRequestError && /credit balance/i.test(e.message))
+  );
+}
+
+/**
+ * Entry-point error handler for the agents. When the API is unusable the agent step is skipped with a
+ * visible warning, so the rest of the run (scheduling, build, deploy) still publishes what is ready.
+ */
+export function exitOnError(step: string) {
+  return (e: unknown) => {
+    if (!isApiUnavailable(e)) {
+      console.error(e);
+      process.exit(1);
+    }
+    const msg = `${step} stopped: Anthropic API unavailable (${(e as Error).message})`;
+    console.log(`::error title=Anthropic API unavailable::${msg}`);
+    if (process.env.GITHUB_STEP_SUMMARY) fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, `### ${step}\n\n⚠️ ${msg}\n`);
+  };
+}
 
 export function hasApiKey(): boolean {
   return !!(process.env.ANTHROPIC_API_KEY || process.env.ANTHROPIC_AUTH_TOKEN);

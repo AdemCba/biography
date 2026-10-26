@@ -84,7 +84,6 @@ reviewNotes: >-
   cite both. (7) Optionally, describe Oneida as a reform school ('établissement
   de redressement'), as Britannica does, rather than a 'pensionnat'.
 autoReviews: 1
-flag: 'Fix loop gave up after 3 attempts: quality warnings'
 ---
 À neuf ans, Jensen Huang arrive aux États-Unis depuis la Thaïlande avec son frère et se retrouve à l'Oneida Baptist Institute, un pensionnat religieux du Kentucky pour garçons jugés « difficiles » [s:britannica]. Vingt ans plus tard, il cofonde NVIDIA.
 

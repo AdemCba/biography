@@ -25,7 +25,7 @@ import { writeArticle, writePerson } from "../src/lib/article-file";
 import { personSchema, SOURCE_TYPES, type PersonData } from "../src/lib/schema";
 import { slugify } from "../src/lib/slug";
 import type { Locale } from "../src/i18n/config";
-import { askStructured, hasApiKey, WRITER_MODEL } from "./lib/claude";
+import { askStructured, hasApiKey, WRITER_MODEL, isApiUnavailable, exitOnError } from "./lib/claude";
 
 const AUTHOR = "editor-in-chief";
 const QUEUE_FILE = path.join(process.cwd(), "content", "queue.json");
@@ -279,7 +279,7 @@ async function writePersonPages(client: Anthropic, name: string, category: strin
       saveArticle(dir, id, locale, r.risk, a);
       written.push(locale);
     } catch (e) {
-      if (e instanceof Anthropic.AuthenticationError) throw e;
+      if (isApiUnavailable(e)) throw e;
       console.warn(`${id}/${locale}: ${(e as Error).message}`);
     }
   }
@@ -307,7 +307,7 @@ async function main() {
       log.push(await writePersonPages(client, name, category, leads));
       dropFromQueue(name);
     } catch (e) {
-      if (e instanceof Anthropic.AuthenticationError) throw e;
+      if (isApiUnavailable(e)) throw e;
       log.push(`! ${name}: ${(e as Error).message}, will retry next run`);
     }
   }
@@ -317,8 +317,5 @@ async function main() {
 }
 
 if (process.argv[1]?.endsWith("write.ts")) {
-  main().catch((e) => {
-    console.error(e);
-    process.exit(1);
-  });
+  main().catch(exitOnError("Writer agent"));
 }
