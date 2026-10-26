@@ -104,9 +104,16 @@ function pickCandidates(onSite: Set<string>, skipped: Set<string>): { name: stri
   if (fs.existsSync(TRENDS_DIR)) {
     const latest = fs.readdirSync(TRENDS_DIR).filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f)).sort().pop();
     if (latest) {
-      type C = { name: string; category: string | null; decision: string; onSite: boolean; newsUrls?: string[]; wikipedia?: Record<string, string> };
+      type C = {
+        name: string; category: string | null; decision: string; onSite: boolean; score?: number;
+        description?: string; occupations?: string[]; newsUrls?: string[]; wikipedia?: Record<string, string>;
+      };
       const report = JSON.parse(fs.readFileSync(path.join(TRENDS_DIR, latest), "utf8")) as { candidates: C[] };
-      for (const c of report.candidates) {
+      // Footballers and creators/influencers first (the site's focus), then by trend score.
+      const focus = (c: C) =>
+        c.category === "creators" || /football|soccer/i.test(`${c.description ?? ""} ${(c.occupations ?? []).join(" ")}`) ? 1 : 0;
+      const ranked = [...report.candidates].sort((a, b) => focus(b) - focus(a) || (b.score ?? 0) - (a.score ?? 0));
+      for (const c of ranked) {
         if (c.decision === "accept" && !c.onSite && c.category) {
           const wiki = Object.entries(c.wikipedia ?? {}).map(([l, t]) => `https://${l}.wikipedia.org/wiki/${encodeURIComponent(t.replace(/ /g, "_"))}`);
           take(c.name, c.category, [...wiki, ...(c.newsUrls ?? [])]);
@@ -155,7 +162,7 @@ async function research(client: Anthropic, name: string, category: string, leads
     "worthWriting=false if the person is a minor, a private individual, known mainly for a crime or",
     "tragedy, or if there are fewer than three solid sources. Explain in reason.",
   ].join("\n");
-  return askStructured(client, prompt, researchSchema, { fetches: 10, searches: 5, model: WRITER_MODEL });
+  return askStructured(client, prompt, researchSchema, { fetches: 8, searches: 4, model: WRITER_MODEL });
 }
 
 /** People already on the site, so new pages can link to them ([Name](person:id)) and list them as related. */
@@ -183,7 +190,7 @@ async function draft(client: Anthropic, name: string, person: PersonData, r: Res
     `${MIN_WORDS[person.importance]} words of real substance: career turning points, numbers, context, what changed. metaTitle ≤ 60 characters,`,
     "metaDescription 120-160 characters, summary 2-3 sentences and at least 25 words, 3-4 FAQ items.",
   ].join("\n");
-  return askStructured(client, prompt, articleOut, { fetches: 8, searches: 3, model: WRITER_MODEL });
+  return askStructured(client, prompt, articleOut, { fetches: 4, searches: 2, model: WRITER_MODEL });
 }
 
 async function localize(client: Anthropic, name: string, person: PersonData, locale: Locale, en: string): Promise<ArticleOut> {
