@@ -1,0 +1,223 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-sonnet-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"Sherwood Content is in the north of Jamaica (\"no norte da Jamaica\")\" (Neither source says \"north\". It is true in reality, but add a source or drop the word.)",
+    "UNSUPPORTED: \"\"Os dois tempos mais rápidos da história da velocidade\" (opening sentence)\" (The sources say these are the world records at 100 m and 200 m. They do not say they are the two fastest times in sprinting history. Rephrase as \"the two current world records\".)",
+    "UNCITED: \"\"Os dois recordes de Berlim continuam de pé\" (last body sentence, no tag, though it is backed by wa-records-2025 up to Tokyo 2025)\"",
+    "UNCITED: \"Sherwood Content is in the \"norte\" of Jamaica (no source says this)\"",
+    "UNCITED: \"The opening claim that these are the two \"fastest times in the history of sprinting\" has no source that says so\"",
+    "Reviewer recommends rejection: Most claims were confirmed against Olympics.com, Britannica, World Athletics, Yahoo and Al Jazeera 2011: birth data, 9.58 and 19.19, Gay's 9.71, the Daegu disqualification and Blake's 9.92, and the eight golds. Three sources could not be opened because the fetch tool hit its limit: ITV 2017, Al Jazeera 2017 and Star Tribune 2008. That leaves unverified the IOC stripping in Jan 2017 with Carter and methylhexanamine, the 12 Aug 2017 injury details with Britain's gold, and the 14 World Championship medals. No fresh search could confirm that the records still stand today. Fixes needed: (1) re-verify the ITV and Al Jazeera 2017 claims; (2) replace or soften \"os dois tempos mais rápidos da história da velocidade\"; (3) add a source for \"norte da Jamaica\" or drop it; (4) add a tag to the closing \"recordes continuam de pé\" line and date it; (5) note that Olympics.com says 2007 for the first 100 m record and Britannica says 2008; (6) use or remove startribune-2008; (7) consider stating Bolt's current age (40 as of 21 Aug 2026), with a source."
+  ],
+  "claims": [
+    {
+      "claim": "Bolt was born on 21 August 1986 in Sherwood Content, Trelawny parish, Jamaica (body, FAQ, person.json birthDate and birthPlace)",
+      "sourceIds": [
+        "olympics",
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Olympics.com gives 21 Aug 1986 and Sherwood Content. Britannica gives 21 Aug 1986 and Trelawny parish. Nationality JM is confirmed by Olympics.com."
+    },
+    {
+      "claim": "Sherwood Content is in the north of Jamaica (\"no norte da Jamaica\")",
+      "sourceIds": [
+        "olympics",
+        "britannica"
+      ],
+      "verdict": "unsupported",
+      "note": "Neither source says \"north\". It is true in reality, but add a source or drop the word."
+    },
+    {
+      "claim": "As a child he preferred cricket and football, and the school cricket coach pushed him toward athletics",
+      "sourceIds": [
+        "olympics"
+      ],
+      "verdict": "confirmed",
+      "note": "Olympics.com says he excelled at football and cricket, and that his high-school cricket coach encouraged him to try athletics."
+    },
+    {
+      "claim": "In 2002, aged 15, he won the 200 m at the World Junior Championships",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica says he was 15 and won 200 m gold in 2002. Olympics.com says \"by the age of 16, in 2002\". Minor disagreement, and the article's figure is the correct one for a July 2002 race."
+    },
+    {
+      "claim": "The first 100 m world record came in May 2008",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica says 9.72 in New York, four weeks after 3 May 2008. Olympics.com (also cited elsewhere in the article) says 2007, so the sources disagree. Olympics.com is the one that is wrong. The style guide says to note disagreements."
+    },
+    {
+      "claim": "At Beijing he lowered the 100 m mark to 9.69",
+      "sourceIds": [
+        "wa-958"
+      ],
+      "verdict": "confirmed",
+      "note": "World Athletics says Bolt set 9.69 at the Beijing Olympics. Britannica agrees."
+    },
+    {
+      "claim": "A few days later he won the 200 m in 19.30, a world record",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica gives 19.30 as a world record. Yahoo also gives 19.30, breaking Michael Johnson's 19.32."
+    },
+    {
+      "claim": "The Jamaican relay team with Bolt also won gold in Beijing, with a world record",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica gives 37.10 as a world record and says the gold was later stripped."
+    },
+    {
+      "claim": "In January 2017 the IOC disqualified the team because Nesta Carter's Beijing sample tested positive for methylhexanamine, a banned stimulant",
+      "sourceIds": [
+        "itv-2017"
+      ],
+      "verdict": "source_unreachable",
+      "note": "The ITV page could not be opened because the fetch tool hit its limit. Britannica only confirms that a teammate's failed test led to the medal being stripped. The date, the name Carter and the substance are unverified."
+    },
+    {
+      "claim": "Bolt's official record shows eight Olympic golds, not nine",
+      "sourceIds": [
+        "olympics"
+      ],
+      "verdict": "confirmed",
+      "note": "Olympics.com lists 8G."
+    },
+    {
+      "claim": "FAQ: he reached nine golds, but in 2017 the IOC stripped the Beijing 4x100 gold because of Nesta Carter's doping",
+      "sourceIds": [
+        "itv-2017"
+      ],
+      "verdict": "source_unreachable",
+      "note": "Same as the Carter claim above. Britannica backs the stripping, but not the year or Carter's name."
+    },
+    {
+      "claim": "On 16 August 2009 at the Berlin Worlds he ran 9.58, 0.11 faster than his own record; Tyson Gay was second in 9.71, a US record",
+      "sourceIds": [
+        "wa-958"
+      ],
+      "verdict": "confirmed",
+      "note": "World Athletics says 9.58, 0.11 off the 9.69, and Gay 9.71 (a national record). The date 16 Aug follows from \"exactly one year ago\" after Beijing (16 Aug 2008)."
+    },
+    {
+      "claim": "On 20 August 2009 he won the 200 m final in 19.19, 62 hundredths clear; the scoreboard first showed 19.20",
+      "sourceIds": [
+        "yahoo-1919"
+      ],
+      "verdict": "confirmed",
+      "note": "Yahoo gives 20 Aug 2009, 19.19, a 0.62 margin and an initial 19.20 revised to 19.19. It also gives four days between the records."
+    },
+    {
+      "claim": "The two world records were set at the same stadium four days apart, in August 2009 (opening paragraph, summary)",
+      "sourceIds": [
+        "wa-958",
+        "yahoo-1919"
+      ],
+      "verdict": "confirmed",
+      "note": "Both were set at the 2009 Berlin Worlds, four days apart. Al Jazeera 2011 wrongly says Rome, but it is not cited for this."
+    },
+    {
+      "claim": "\"Os dois tempos mais rápidos da história da velocidade\" (opening sentence)",
+      "sourceIds": [
+        "wa-958",
+        "yahoo-1919"
+      ],
+      "verdict": "unsupported",
+      "note": "The sources say these are the world records at 100 m and 200 m. They do not say they are the two fastest times in sprinting history. Rephrase as \"the two current world records\"."
+    },
+    {
+      "claim": "When the Tokyo 2025 Worlds took place, both marks were still world records",
+      "sourceIds": [
+        "wa-records-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "The World Athletics record-watch page lists 9.58 and 19.19 (Bolt, 2009) as the world records. Nothing newer could be checked, because the search tool failed."
+    },
+    {
+      "claim": "Summary and closing line: he \"still holds\" both records and \"the Berlin records still stand\" (present tense, as of 2026-10-26)",
+      "sourceIds": [
+        "wa-records-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "The source is the Tokyo 2025 page. The closing line in the body has no tag of its own. The claim is plausible as of today, but I could not run a fresh search to rule out a later change."
+    },
+    {
+      "claim": "At Daegu 2011 he was disqualified from the 100 m final for a false start under a new rule of immediate disqualification",
+      "sourceIds": [
+        "aljazeera-2011"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera/AFP describe the IAAF's new immediate-disqualification rule and Bolt's false start."
+    },
+    {
+      "claim": "Yohan Blake won the 2011 Daegu 100 m in 9.92",
+      "sourceIds": [
+        "aljazeera-2011"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera gives 9.92."
+    },
+    {
+      "claim": "He won the 100 m and 200 m again at London 2012 and Rio 2016, becoming 100 m Olympic champion at three consecutive Games",
+      "sourceIds": [
+        "britannica",
+        "olympics"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica covers both Games. Olympics.com says he won the 100 m at three consecutive Games."
+    },
+    {
+      "claim": "The 2017 London Worlds were his last competition; on 12 August, running the last leg of the 4x100, he pulled a hamstring and fell on the track while Great Britain took gold",
+      "sourceIds": [
+        "aljazeera-2017"
+      ],
+      "verdict": "source_unreachable",
+      "note": "The Al Jazeera page could not be opened. Britannica confirms a hamstring injury in the 2017 relay final and retirement after the 2017 Worlds. The date, the fall and Britain's gold are unverified."
+    },
+    {
+      "claim": "He left with 14 World Championship medals",
+      "sourceIds": [
+        "aljazeera-2017"
+      ],
+      "verdict": "source_unreachable",
+      "note": "The page could not be opened and Britannica gives no total. Check the number."
+    },
+    {
+      "claim": "The summary says he won eight gold medals at three Olympics and retired after the 2017 Worlds",
+      "sourceIds": [
+        "olympics",
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Olympics.com lists 8G and Britannica says he retired after the 2017 Worlds."
+    },
+    {
+      "claim": "The startribune-2008 source is listed in person.json",
+      "sourceIds": [
+        "startribune-2008"
+      ],
+      "verdict": "source_unreachable",
+      "note": "The page could not be opened and the article never cites it. Either use it or remove it from sources."
+    }
+  ],
+  "uncitedClaims": [
+    "\"Os dois recordes de Berlim continuam de pé\" (last body sentence, no tag, though it is backed by wa-records-2025 up to Tokyo 2025)",
+    "Sherwood Content is in the \"norte\" of Jamaica (no source says this)",
+    "The opening claim that these are the two \"fastest times in the history of sprinting\" has no source that says so"
+  ],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "The page gives a clear timeline. It explains eight golds versus nine, the 2011 false-start disqualification and the 0.11 margins, and it cites primary sources (Olympics.com, World Athletics). It does not state Bolt's current age, which is the top query (\"usain bolt idade\"), though the birthdate is given. The voice is plain with no hype words or em dashes. The Olympics.com versus Britannica disagreement over the first 100 m record (2007 vs 2008) is not mentioned.",
+  "decision": "reject",
+  "summary": "Most claims were confirmed against Olympics.com, Britannica, World Athletics, Yahoo and Al Jazeera 2011: birth data, 9.58 and 19.19, Gay's 9.71, the Daegu disqualification and Blake's 9.92, and the eight golds. Three sources could not be opened because the fetch tool hit its limit: ITV 2017, Al Jazeera 2017 and Star Tribune 2008. That leaves unverified the IOC stripping in Jan 2017 with Carter and methylhexanamine, the 12 Aug 2017 injury details with Britain's gold, and the 14 World Championship medals. No fresh search could confirm that the records still stand today. Fixes needed: (1) re-verify the ITV and Al Jazeera 2017 claims; (2) replace or soften \"os dois tempos mais rápidos da história da velocidade\"; (3) add a source for \"norte da Jamaica\" or drop it; (4) add a tag to the closing \"recordes continuam de pé\" line and date it; (5) note that Olympics.com says 2007 for the first 100 m record and Britannica says 2008; (6) use or remove startribune-2008; (7) consider stating Bolt's current age (40 as of 21 Aug 2026), with a source."
+}

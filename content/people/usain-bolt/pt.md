@@ -1,25 +1,66 @@
 ---
 title: Usain Bolt
 slug: usain-bolt
-metaTitle: "Usain Bolt: idade, recordes mundiais e ouros olímpicos"
-metaDescription: "Idade e origem de Usain Bolt, os recordes de 9s58 e 19s19, por que ele tem oito ouros olímpicos e não nove, e como foi o fim da carreira em 2017."
-knownFor: Velocista jamaicano, recordista mundial dos 100 m e dos 200 m
-summary: "Usain Bolt é o velocista jamaicano que ainda detém os recordes mundiais dos 100 metros (9s58) e dos 200 metros (19s19), ambos de Berlim, em 2009. Ganhou oito medalhas de ouro em três Olimpíadas e se aposentou depois do Mundial de 2017."
+metaTitle: 'Usain Bolt: idade, recordes mundiais e ouros olímpicos'
+metaDescription: >-
+  Idade e origem de Usain Bolt, os recordes de 9s58 e 19s19, por que ele tem
+  oito ouros olímpicos e não nove, e como foi o fim da carreira em 2017.
+knownFor: 'Velocista jamaicano, recordista mundial dos 100 m e dos 200 m'
+summary: >-
+  Usain Bolt é o velocista jamaicano que ainda detém os recordes mundiais dos
+  100 metros (9s58) e dos 200 metros (19s19), ambos de Berlim, em 2009. Ganhou
+  oito medalhas de ouro em três Olimpíadas e se aposentou depois do Mundial de
+  2017.
 status: review
 risk: medium
 author: editor-in-chief
+aiAssisted: true
 targetQueries:
   - usain bolt idade
   - recorde do usain bolt
   - quantas medalhas de ouro usain bolt tem
   - por que usain bolt perdeu uma medalha
 faq:
-  - q: "Quantas medalhas de ouro olímpicas Usain Bolt tem?"
-    a: "Oito. Ele chegou a ter nove, mas em 2017 o COI cassou o ouro do revezamento 4x100 de Pequim 2008 por causa do doping do colega Nesta Carter."
-  - q: "Qual é o recorde de Usain Bolt nos 100 metros?"
-    a: "9s58, marcados em 16 de agosto de 2009, no Mundial de Berlim. Nos 200 metros o recorde dele é 19s19."
-  - q: "De onde é Usain Bolt?"
-    a: "De Sherwood Content, um vilarejo da paróquia de Trelawny, na Jamaica, onde nasceu em 21 de agosto de 1986."
+  - q: Quantas medalhas de ouro olímpicas Usain Bolt tem?
+    a: >-
+      Oito. Ele chegou a ter nove, mas em 2017 o COI cassou o ouro do
+      revezamento 4x100 de Pequim 2008 por causa do doping do colega Nesta
+      Carter.
+  - q: Qual é o recorde de Usain Bolt nos 100 metros?
+    a: >-
+      9s58, marcados em 16 de agosto de 2009, no Mundial de Berlim. Nos 200
+      metros o recorde dele é 19s19.
+  - q: De onde é Usain Bolt?
+    a: >-
+      De Sherwood Content, um vilarejo da paróquia de Trelawny, na Jamaica, onde
+      nasceu em 21 de agosto de 1986.
+autoReviews: 1
+reviewNotes: >-
+  UNSUPPORTED: "Sherwood Content is in the north of Jamaica ("no norte da
+  Jamaica")" (Neither source says "north". It is true in reality, but add a
+  source or drop the word.) | UNSUPPORTED: ""Os dois tempos mais rápidos da
+  história da velocidade" (opening sentence)" (The sources say these are the
+  world records at 100 m and 200 m. They do not say they are the two fastest
+  times in sprinting history. Rephrase as "the two current world records".) |
+  UNCITED: ""Os dois recordes de Berlim continuam de pé" (last body sentence, no
+  tag, though it is backed by wa-records-2025 up to Tokyo 2025)" | UNCITED:
+  "Sherwood Content is in the "norte" of Jamaica (no source says this)" |
+  UNCITED: "The opening claim that these are the two "fastest times in the
+  history of sprinting" has no source that says so" | Reviewer recommends
+  rejection: Most claims were confirmed against Olympics.com, Britannica, World
+  Athletics, Yahoo and Al Jazeera 2011: birth data, 9.58 and 19.19, Gay's 9.71,
+  the Daegu disqualification and Blake's 9.92, and the eight golds. Three
+  sources could not be opened because the fetch tool hit its limit: ITV 2017, Al
+  Jazeera 2017 and Star Tribune 2008. That leaves unverified the IOC stripping
+  in Jan 2017 with Carter and methylhexanamine, the 12 Aug 2017 injury details
+  with Britain's gold, and the 14 World Championship medals. No fresh search
+  could confirm that the records still stand today. Fixes needed: (1) re-verify
+  the ITV and Al Jazeera 2017 claims; (2) replace or soften "os dois tempos mais
+  rápidos da história da velocidade"; (3) add a source for "norte da Jamaica" or
+  drop it; (4) add a tag to the closing "recordes continuam de pé" line and date
+  it; (5) note that Olympics.com says 2007 for the first 100 m record and
+  Britannica says 2008; (6) use or remove startribune-2008; (7) consider stating
+  Bolt's current age (40 as of 21 Aug 2026), with a source.
 ---
 Os dois tempos mais rápidos da história da velocidade saíram do mesmo estádio, com quatro dias de diferença. Em agosto de 2009, no Mundial de Berlim, Usain Bolt correu os 100 metros em 9s58 e os 200 metros em 19s19 [s:wa-958] [s:yahoo-1919]. Quando os melhores velocistas do mundo se reuniram em Tóquio para o Mundial de 2025, as duas marcas continuavam sendo recordes mundiais [s:wa-records-2025].
 

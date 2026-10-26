@@ -39,6 +39,31 @@ faq:
       Mirka Vavrinec, ex-tenista que chegou ao 76º lugar do ranking da WTA. O
       casal tem dois pares de gêmeos.
 autoRevisions: 1
+autoReviews: 1
+reviewNotes: >-
+  21 of 22 claims could not be checked (source unreachable) | UNCITED: "Mirka
+  Vavrinec marriage and her No. 76 WTA ranking (first sentence of the family
+  paragraph has no nearby tag)" | UNCITED: "'Quase três décadas depois' (derived
+  from 1993 and 2022, acceptable)" | Adds no value over existing pages: The
+  prose is mostly concrete and avoids hype words. The ball-boy opening and the
+  Paris 2009 section are good. The page is still close to a standard top-result
+  biography. It has no net worth, no primary-source depth beyond the ATP bio,
+  and a thin Hall of Fame section that is padded with a photo-gallery link. The
+  site's own style guide says to cut anything that cannot be verified. |
+  Reviewer recommends rejection: I could not verify this article. web_fetch hit
+  its tool-use limit, so I could not open any of the 8 cited sources, and only
+  one web_search worked. So every sourced claim is marked source_unreachable.
+  The only independent check was one search snippet: ATP Tour says Federer would
+  be inducted into the Hall of Fame in the Player Category on 27-29 Aug 2026,
+  and he has 103 titles. Re-run the fact check with working fetches. Specific
+  fixes: (1) Source Mirka's No. 76 WTA ranking and her marriage, or cut them.
+  These are private-life claims, and the ATP bio probably does not state the
+  ranking. (2) Re-check the Foundation's 'over a million children' figure
+  against the foundation's own current figure, since it may be outdated. (3)
+  Confirm the 2009 'mente em paz' quote and the 'six men' claim against CNN. (4)
+  Confirm the 'uma última dupla' phone-call quote in the NBC piece. (5) Confirm
+  from the Olympics.com and ATP pages that the ceremony actually took place, and
+  drop the photo-gallery sentence as filler.
 ---
 Antes de levantar troféus, Roger Federer buscava bolinhas. Em 1993 e 1994 ele foi gandula no torneio da Basileia, sua cidade natal [s:atp-bio]. Quase três décadas depois, se despediu do tênis com 20 títulos de Grand Slam.
 

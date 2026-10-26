@@ -36,6 +36,33 @@ faq:
   - q: Where is Usain Bolt from?
     a: 'Sherwood Content, a village in the parish of Trelawny in northern Jamaica.'
 autoRevisions: 1
+autoReviews: 1
+reviewNotes: >-
+  OUTDATED: "Summary: Bolt 'still holds' the 100 m and 200 m world records
+  (present tense, as of Oct 2026)" (The latest source is a preview from before
+  Tokyo 2025, about 13 months before the 2026-10-26 check date. I could not run
+  a search to confirm nothing changed in the 2026 season. Cite a current World
+  Athletics records page.) | UNSUPPORTED: "The false-start rule had been
+  'introduced shortly before' the 2011 Worlds" (The source mentions the IAAF's
+  introduction of immediate disqualification but gives no timing. The rule
+  actually came in January 2010, about 19 months earlier. Remove 'shortly
+  before' or cite a dated source.) | UNCITED: "Daegu is in South Korea (true,
+  but no tag covers it)" | UNCITED: "Bolt 'had to give the medal back' (same
+  paragraph as the ITV tag, but the source was not verified)" | UNCITED: "'Six
+  years later he was an Olympic champion' (derivable from the 2002 and 2008
+  dates in the article)" | Reviewer recommends rejection: Most Berlin, Beijing,
+  Daegu and birth facts check out against the sources I opened (Olympics.com,
+  Britannica, World Athletics, Yahoo, Al Jazeera 2011). I could not open three
+  cited sources (ITV 2017, Al Jazeera 2017, Star Tribune 2008) because the fetch
+  limit was reached. The relay-stripping, the Beijing 200 m comparison and the
+  2017 farewell and 14-medal claims are therefore unverified against the cited
+  pages. Fixes needed: (1) verify those three claims against their sources; (2)
+  remove or source 'a rule introduced shortly before', since the Daegu source
+  gives no timing and the rule dates from January 2010; (3) back the
+  present-tense 'still holds' summary claim with a 2026-dated records source,
+  because the current source predates Tokyo 2025; (4) optionally say that
+  Olympics.com dates his first 100 m record to 2007 while Britannica gives May
+  2008.
 ---
 Usain Bolt holds both the 100 m and the 200 m world records, and he ran them four days apart in the same stadium. In August 2009 he clocked 9.58 and 19.19 at the World Championships in Berlin [s:wa-958] [s:yahoo-1919]. When the sport's best sprinters arrived in Tokyo for the 2025 World Championships, both marks still stood [s:wa-records-2025].
 

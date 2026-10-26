@@ -36,6 +36,26 @@ faq:
       Mirka Vavrinec, ancienne joueuse classée jusqu'à la 76e place mondiale à
       la WTA. Le couple a deux paires de jumeaux.
 autoRevisions: 1
+autoReviews: 1
+reviewNotes: >-
+  UNSUPPORTED: "Parmi les invités : Jim Courier, Mats Wilander, Billie Jean King
+  et Martina Navratilova." (The ATP gallery text I could see names only
+  Navratilova and King. King introduced Carillo and Navratilova played an
+  exhibition with Federer. It does not name Courier or Wilander, and it does not
+  clearly say King and Navratilova were guests in the audience. Check the full
+  page or drop the names.) | UNCITED: "Paris lui a résisté le plus longtemps (a
+  framing claim in the body, covered only by the nearby CNN tag)" | Reviewer
+  recommends rejection: Rejected. Britannica, the ATP bio, CNN and the Scroll
+  retirement statement confirm the core facts. I could not open the NBC/AP Laver
+  Cup article or the ITHF class-of-2026 page, and the Olympics.com and ATP
+  gallery pages came through only as partial snippets. Unverified as a result:
+  the knee line, the Laver Cup details (single match, 'un dernier double',
+  score, 23 September), the Swiss Tennis announcement with 'une vingtaine' of
+  Hall members, and the 'première année d'éligibilité' claim as cited. The
+  Courier and Wilander names are unsupported by the visible ATP gallery text. To
+  fix: confirm those items against the full sources, or remove them. Cite Yahoo
+  or ITHF for first-year eligibility and ITHF for 310 weeks. Soften 'a été
+  classée 76e' to 'a atteint la 76e place'.
 ---
 Avant de soulever des trophées, Roger Federer ramassait des balles. En 1993 et 1994, il était ramasseur au tournoi de Bâle, sa ville natale [s:atp-bio]. Près de trente ans plus tard, il quittait le circuit avec 20 titres du Grand Chelem.
 

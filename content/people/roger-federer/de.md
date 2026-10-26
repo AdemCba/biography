@@ -40,6 +40,26 @@ faq:
       Mit Mirka Vavrinec, einer früheren Tennisspielerin, die bis auf Platz 76
       der WTA-Weltrangliste kam. Die beiden haben zwei Zwillingspaare.
 autoRevisions: 1
+autoReviews: 1
+reviewNotes: >-
+  WRONG: "Federer/Nadal lost to Sock and Tiafoe 4:6, 7:6, 9:11." (The NBC page
+  could not be opened. ESPN, Al Jazeera and CBS give 4-6, 7-6(2), 11-9 to
+  Sock/Tiafoe, which is the winners' score. From Federer/Nadal's side it is 6-4,
+  6-7(2), 9-11 (Sofascore: 6/6/9 vs 4/7/11). The article mixes the two
+  perspectives, so the first two sets are wrong. Use 6:4, 6:7, 9:11 or 4:6, 7:6,
+  11:9 with the winners named first.) | UNCITED: "Opening line, 'Knapp drei
+  Jahrzehnte später' (a rounded span from 1993-94 to 2022; acceptable)." |
+  UNCITED: "'Am schwersten tat er sich in Paris' (editorial framing, backed by
+  the CNN facts)." | Reviewer recommends rejection: Reject. One error: the Laver
+  Cup score 4:6, 7:6, 9:11 mixes the winners' and losers' perspectives. From
+  Federer and Nadal's side it is 6:4, 6:7, 9:11. Most other facts check out
+  against the ATP bio, Britannica, CNN and the Scroll retirement statement. The
+  NBC, ITHF, Olympics.com and ATP gallery sources could not be opened because
+  the fetch limit was exceeded. That leaves the knee claim, the 'ein letztes
+  Doppel' quote, the claim that he played a single match, and the Hall of Fame
+  section and quote unverified. Fix the score, re-verify those claims against
+  the cited pages, and give the Hall of Fame section real content (ceremony date
+  and place) or cut it.
 ---
 Bevor Roger Federer Pokale stemmte, sammelte er Bälle ein. 1993 und 1994 war er Balljunge beim Turnier in seiner Heimatstadt Basel [s:atp-bio]. Knapp drei Jahrzehnte später verabschiedete er sich mit 20 Grand-Slam-Titeln.
 

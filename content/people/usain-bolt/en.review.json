@@ -1,0 +1,189 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-sonnet-5-5",
+  "approved": false,
+  "reasons": [
+    "OUTDATED: \"Summary: Bolt 'still holds' the 100 m and 200 m world records (present tense, as of Oct 2026)\" (The latest source is a preview from before Tokyo 2025, about 13 months before the 2026-10-26 check date. I could not run a search to confirm nothing changed in the 2026 season. Cite a current World Athletics records page.)",
+    "UNSUPPORTED: \"The false-start rule had been 'introduced shortly before' the 2011 Worlds\" (The source mentions the IAAF's introduction of immediate disqualification but gives no timing. The rule actually came in January 2010, about 19 months earlier. Remove 'shortly before' or cite a dated source.)",
+    "UNCITED: \"Daegu is in South Korea (true, but no tag covers it)\"",
+    "UNCITED: \"Bolt 'had to give the medal back' (same paragraph as the ITV tag, but the source was not verified)\"",
+    "UNCITED: \"'Six years later he was an Olympic champion' (derivable from the 2002 and 2008 dates in the article)\"",
+    "Reviewer recommends rejection: Most Berlin, Beijing, Daegu and birth facts check out against the sources I opened (Olympics.com, Britannica, World Athletics, Yahoo, Al Jazeera 2011). I could not open three cited sources (ITV 2017, Al Jazeera 2017, Star Tribune 2008) because the fetch limit was reached. The relay-stripping, the Beijing 200 m comparison and the 2017 farewell and 14-medal claims are therefore unverified against the cited pages. Fixes needed: (1) verify those three claims against their sources; (2) remove or source 'a rule introduced shortly before', since the Daegu source gives no timing and the rule dates from January 2010; (3) back the present-tense 'still holds' summary claim with a 2026-dated records source, because the current source predates Tokyo 2025; (4) optionally say that Olympics.com dates his first 100 m record to 2007 while Britannica gives May 2008."
+  ],
+  "claims": [
+    {
+      "claim": "Bolt was born on 21 August 1986 (also behind the FAQ age answer: 40 as of 26 Oct 2026)",
+      "sourceIds": [
+        "olympics",
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources give 21 August 1986. The arithmetic gives 40 on 26 Oct 2026. The Britannica snapshot says 'age 38', which is only a stale cache."
+    },
+    {
+      "claim": "Born in Sherwood Content, a village in Trelawny parish, Jamaica (FAQ adds 'northern Jamaica')",
+      "sourceIds": [
+        "olympics",
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Olympics.com names Sherwood Content. Britannica gives Trelawny parish and calls it a 'town', not a village. 'Northern Jamaica' is in neither source, though it is geographically true. Minor."
+    },
+    {
+      "claim": "As a boy he cared more about cricket and football than running; his high-school cricket coach pushed him into athletics",
+      "sourceIds": [
+        "olympics"
+      ],
+      "verdict": "confirmed",
+      "note": "Olympics.com says he excelled at football and cricket and that his cricket coach encouraged athletics. 'Cared more about... than running' is a mild inference."
+    },
+    {
+      "claim": "In 2002, aged 15, he won the 200 m at the world junior championships",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica says he was 15 and won gold in the 200 m."
+    },
+    {
+      "claim": "Bolt's first 100 m world record came in May 2008",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica says 9.72 in New York, four weeks after 3 May 2008. Olympics.com says 2007, which is wrong. The article is right to follow Britannica, but the person.json source list contains this disagreement."
+    },
+    {
+      "claim": "At Beijing 2008 he lowered the 100 m record to 9.69",
+      "sourceIds": [
+        "wa-958"
+      ],
+      "verdict": "confirmed",
+      "note": "World Athletics refers to the 9.69 set at the Beijing Olympics."
+    },
+    {
+      "claim": "Won the Beijing 200 m in 19.30, a world record, beating Michael Johnson's 19.32 from Atlanta 1996",
+      "sourceIds": [
+        "startribune-2008"
+      ],
+      "verdict": "source_unreachable",
+      "note": "I could not open the Star Tribune page because the fetch tool limit was reached. Yahoo and Britannica both confirm 19.30 and the 19.32 Atlanta mark, but they are not the cited source. 'Days later' is fine."
+    },
+    {
+      "claim": "Jamaica's 4x100 m relay team, with Bolt, also won in world-record time in 2008",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica gives a relay world record of 37.10."
+    },
+    {
+      "claim": "In January 2017 the IOC disqualified the Jamaican relay team because Nesta Carter's 2008 sample tested positive for methylhexaneamine; Bolt had to give the medal back",
+      "sourceIds": [
+        "itv-2017"
+      ],
+      "verdict": "source_unreachable",
+      "note": "I could not open the ITV page. A CBC search snippet is consistent (IOC, Carter, methylhexaneamine, re-analysis of the 2008 samples). 'Bolt had to give the medal back' is not confirmed from the cited source."
+    },
+    {
+      "claim": "Official count is eight Olympic golds, not nine",
+      "sourceIds": [
+        "olympics"
+      ],
+      "verdict": "confirmed",
+      "note": "Olympics.com lists 8G. It does not give the reason, which comes from ITV, and Britannica confirms the relay medal was stripped."
+    },
+    {
+      "claim": "On 16 August 2009 in Berlin's Olympic Stadium he ran 9.58, taking 0.11 off his own record; Tyson Gay was second in 9.71, a national record",
+      "sourceIds": [
+        "wa-958"
+      ],
+      "verdict": "confirmed",
+      "note": "All confirmed. 9.71 vs 9.58 is 0.13, so 'more than a tenth behind' is correct."
+    },
+    {
+      "claim": "200 m final four days later: 19.19, 0.11 faster than his Beijing time, 0.62 s margin; clock first showed 19.20 before correction",
+      "sourceIds": [
+        "yahoo-1919"
+      ],
+      "verdict": "confirmed",
+      "note": "Yahoo gives 20 Aug 2009, 19.19, 11 hundredths off his previous record, a 0.62 s margin, and an initial time of 19.20 revised to 19.19."
+    },
+    {
+      "claim": "Both world records (9.58 and 19.19) still stood when the 2025 World Championships in Tokyo began",
+      "sourceIds": [
+        "wa-records-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "The pre-championship record watch lists 9.58 and 19.19 (Bolt, 2009) as the world records."
+    },
+    {
+      "claim": "Summary: Bolt 'still holds' the 100 m and 200 m world records (present tense, as of Oct 2026)",
+      "sourceIds": [
+        "wa-records-2025"
+      ],
+      "verdict": "outdated",
+      "note": "The latest source is a preview from before Tokyo 2025, about 13 months before the 2026-10-26 check date. I could not run a search to confirm nothing changed in the 2026 season. Cite a current World Athletics records page."
+    },
+    {
+      "claim": "At the 2011 Daegu Worlds Bolt was disqualified from the 100 m final for a false start; a single false start meant disqualification; Yohan Blake won in 9.92",
+      "sourceIds": [
+        "aljazeera-2011"
+      ],
+      "verdict": "confirmed",
+      "note": "Disqualification, the immediate-DQ rule and Blake's 9.92 are all confirmed."
+    },
+    {
+      "claim": "The false-start rule had been 'introduced shortly before' the 2011 Worlds",
+      "sourceIds": [
+        "aljazeera-2011"
+      ],
+      "verdict": "unsupported",
+      "note": "The source mentions the IAAF's introduction of immediate disqualification but gives no timing. The rule actually came in January 2010, about 19 months earlier. Remove 'shortly before' or cite a dated source."
+    },
+    {
+      "claim": "Won 100 m and 200 m at both London 2012 and Rio 2016; winner of the Olympic 100 m at three consecutive Games",
+      "sourceIds": [
+        "britannica",
+        "olympics"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources confirm."
+    },
+    {
+      "claim": "2017 Worlds in London were his farewell; on 12 August, on the relay anchor leg, he pulled up with a hamstring injury and went down while Britain took gold; he left with 14 World Championship medals",
+      "sourceIds": [
+        "aljazeera-2017"
+      ],
+      "verdict": "source_unreachable",
+      "note": "I could not open the Al Jazeera page. Britannica confirms he retired after the 2017 Worlds and injured a hamstring in the relay final. The 14 medals (11 gold, 2 silver, 1 bronze) and the 12 August date match what I know, but are unchecked against the cited source."
+    },
+    {
+      "claim": "Summary and knownFor: eight Olympic golds across three Games; retired after the 2017 World Championships",
+      "sourceIds": [
+        "olympics",
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed by the Olympics.com medal count and by Britannica on the three Games and the retirement."
+    },
+    {
+      "claim": "Nationality: Jamaica (person.json facts)",
+      "sourceIds": [
+        "olympics"
+      ],
+      "verdict": "confirmed",
+      "note": "Olympics.com lists Jamaica."
+    }
+  ],
+  "uncitedClaims": [
+    "Daegu is in South Korea (true, but no tag covers it)",
+    "Bolt 'had to give the medal back' (same paragraph as the ITV tag, but the source was not verified)",
+    "'Six years later he was an Olympic champion' (derivable from the 2002 and 2008 dates in the article)"
+  ],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "The prose is concrete and varied, with no hype words or em dashes. It opens with the interesting fact, uses descriptive section titles and a short FAQ built on real queries. It adds a clear timeline, the eight-versus-nine golds explanation, the 19.20 to 19.19 correction and the Daegu context. Much of this is available elsewhere, but the sourced timeline is useful.",
+  "decision": "reject",
+  "summary": "Most Berlin, Beijing, Daegu and birth facts check out against the sources I opened (Olympics.com, Britannica, World Athletics, Yahoo, Al Jazeera 2011). I could not open three cited sources (ITV 2017, Al Jazeera 2017, Star Tribune 2008) because the fetch limit was reached. The relay-stripping, the Beijing 200 m comparison and the 2017 farewell and 14-medal claims are therefore unverified against the cited pages. Fixes needed: (1) verify those three claims against their sources; (2) remove or source 'a rule introduced shortly before', since the Daegu source gives no timing and the rule dates from January 2010; (3) back the present-tense 'still holds' summary claim with a 2026-dated records source, because the current source predates Tokyo 2025; (4) optionally say that Olympics.com dates his first 100 m record to 2007 while Britannica gives May 2008."
+}

@@ -1,0 +1,226 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-sonnet-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"The opening says 'Les deux chronos les plus rapides de l'histoire du sprint' were set in the same stadium\" (The sources show two world records. They do not say these are 'the two fastest times in sprint history', which compares different distances. The 'same stadium' point is only implied: WA names the Olympic Stadium for the 100 m and Yahoo says only 'Berlin' for the 200 m. Reword to 'two world records'.)",
+    "OUTDATED: \"Summary and closing line: the records are 'toujours' held / 'toujours là' (present tense, 26 Oct 2026)\" (The latest source is from the Tokyo 2025 Championships, about a year before today. I could not re-check the current records list (tool limit reached). Re-check against the WA records page before publishing. The last sentence of the article has no tag of its own.)",
+    "UNSUPPORTED: \"As a child he played mostly cricket and football; his school cricket coach noticed his speed and pushed him towards athletics\" (Olympics.com says he excelled at football and cricket and that his cricket coach encouraged him to try athletics seriously. It does not say the coach noticed his speed. Britannica says 'school coaches' and that he was a cricket fast bowler. Drop 'remarqué sa vitesse'.)",
+    "UNCITED: \"Last paragraph: 'Les deux records de Berlin, eux, sont toujours là' has no tag of its own, and it is a present-tense claim.\"",
+    "UNCITED: \"Opening paragraph: 'les deux chronos les plus rapides de l'histoire du sprint... dans le même stade' is covered only loosely by the tags.\"",
+    "UNCITED: \"Beijing section: 'quelques jours plus tard' for the 200 m is covered only by the britannica tag, which gives no date for it.\"",
+    "Reviewer recommends rejection: Core facts are confirmed: birth date and place, 9.58 and 19.19 in Berlin, the 9.69 in Beijing, the 2017 stripping of the relay gold, and the count of eight titles. I could not open the Al Jazeera 2011 and 2017 pages because the fetch tool limit was reached, so the Daegu details (Blake's 9.92, the new rule), the London 2017 collapse and the '14 médailles mondiales' figure are unverified. Fix before approval: (1) confirm those three claims against the Al Jazeera pages; (2) reword 'les deux chronos les plus rapides de l'histoire du sprint' to 'two world records'; (3) drop 'a remarqué sa vitesse', which Olympics.com does not say; (4) re-check that both records still stand as of Oct 2026 and tag the final sentence; (5) add the current age (40) to the body or FAQ, since the title and description promise it; (6) optionally note that the sources differ on his age at the 2002 junior title (15 vs 16) and on the date of his first 100 m record."
+  ],
+  "claims": [
+    {
+      "claim": "Usain Bolt was born on 21 August 1986 (body, FAQ, person.json birthDate)",
+      "sourceIds": [
+        "olympics",
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources give 21 August 1986."
+    },
+    {
+      "claim": "Born in Sherwood Content, Trelawny parish, Jamaica; FAQ calls it a village in the north of Jamaica",
+      "sourceIds": [
+        "olympics",
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Olympics.com says Sherwood Content, Jamaica. Britannica places it in Trelawny parish and calls it a town. 'Village' and 'nord' are loose, since Trelawny is in the north-west, but acceptable."
+    },
+    {
+      "claim": "Nationality: Jamaica (person.json)",
+      "sourceIds": [
+        "olympics"
+      ],
+      "verdict": "confirmed",
+      "note": "Olympics.com lists Jamaica."
+    },
+    {
+      "claim": "In August 2009 in Berlin Bolt ran 9.58 in the 100 m and 19.19 in the 200 m",
+      "sourceIds": [
+        "wa-958",
+        "yahoo-1919"
+      ],
+      "verdict": "confirmed",
+      "note": "WA confirms 9.58 at the Berlin World Championships. Yahoo confirms 19.19 on 20 August 2009 in Berlin."
+    },
+    {
+      "claim": "The opening says 'Les deux chronos les plus rapides de l'histoire du sprint' were set in the same stadium",
+      "sourceIds": [
+        "wa-958",
+        "yahoo-1919"
+      ],
+      "verdict": "unsupported",
+      "note": "The sources show two world records. They do not say these are 'the two fastest times in sprint history', which compares different distances. The 'same stadium' point is only implied: WA names the Olympic Stadium for the 100 m and Yahoo says only 'Berlin' for the 200 m. Reword to 'two world records'."
+    },
+    {
+      "claim": "Four days between the two records; 100 m on 16 August, 200 m final on 20 August",
+      "sourceIds": [
+        "wa-958",
+        "yahoo-1919"
+      ],
+      "verdict": "confirmed",
+      "note": "Yahoo says 20 August and 'four days earlier'. WA implies 16 August."
+    },
+    {
+      "claim": "At the Tokyo 2025 Worlds both marks still stood",
+      "sourceIds": [
+        "wa-records-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "The WA record watch lists 9.58 and 19.19 (Bolt, 2009) as the world records."
+    },
+    {
+      "claim": "Summary and closing line: the records are 'toujours' held / 'toujours là' (present tense, 26 Oct 2026)",
+      "sourceIds": [
+        "wa-records-2025"
+      ],
+      "verdict": "outdated",
+      "note": "The latest source is from the Tokyo 2025 Championships, about a year before today. I could not re-check the current records list (tool limit reached). Re-check against the WA records page before publishing. The last sentence of the article has no tag of its own."
+    },
+    {
+      "claim": "As a child he played mostly cricket and football; his school cricket coach noticed his speed and pushed him towards athletics",
+      "sourceIds": [
+        "olympics"
+      ],
+      "verdict": "unsupported",
+      "note": "Olympics.com says he excelled at football and cricket and that his cricket coach encouraged him to try athletics seriously. It does not say the coach noticed his speed. Britannica says 'school coaches' and that he was a cricket fast bowler. Drop 'remarqué sa vitesse'."
+    },
+    {
+      "claim": "In 2002, aged 15, he won the 200 m at the World Junior Championships",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica says he was 15 and won 200 m gold. Olympics.com says 'by the age of 16, in 2002', so the sources differ. The article picks 15 without noting this. 15 is consistent with his 21 August birthday and a July 2002 meet."
+    },
+    {
+      "claim": "His first 100 m world record dates from May 2008",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica: 9.72 in New York about four weeks after 3 May 2008. Olympics.com wrongly says 2007; the article correctly follows Britannica."
+    },
+    {
+      "claim": "In Beijing he lowered the 100 m record to 9.69",
+      "sourceIds": [
+        "wa-958"
+      ],
+      "verdict": "confirmed",
+      "note": "WA calls 9.69 the Beijing record set exactly one year before 16 August 2009."
+    },
+    {
+      "claim": "He won the Beijing 200 m a few days later in 19.30, a world record; the Jamaican relay, with Bolt, also won gold with a world record",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica gives world records of 9.69, 19.30 and 37.10 in Beijing."
+    },
+    {
+      "claim": "In January 2017 the IOC disqualified the team: Nesta Carter's sample from those Games contained methylhexanamine, a banned stimulant",
+      "sourceIds": [
+        "itv-2017"
+      ],
+      "verdict": "confirmed",
+      "note": "ITV (opened via search result because the direct fetch hit the tool limit): the IOC announced on 25 Jan 2017 that Carter tested positive for methylhexaneamine and Jamaica was disqualified. The 'sample taken during those Games' detail is implied by the retest."
+    },
+    {
+      "claim": "The official record shows eight Olympic titles, not nine (body, summary, FAQ)",
+      "sourceIds": [
+        "olympics",
+        "itv-2017"
+      ],
+      "verdict": "confirmed",
+      "note": "Olympics.com shows 8G. ITV says he had 'nine Olympic golds' before the stripping."
+    },
+    {
+      "claim": "Tyson Gay was second in 9.71, a US record",
+      "sourceIds": [
+        "wa-958"
+      ],
+      "verdict": "confirmed",
+      "note": "WA: Gay 9.71, a national record."
+    },
+    {
+      "claim": "In the 200 m final he won by 0.62 s; the board first showed 19.20 before being corrected",
+      "sourceIds": [
+        "yahoo-1919"
+      ],
+      "verdict": "confirmed",
+      "note": "Yahoo: 0.62 s margin, initial time 19.20 revised to 19.19. It does not say 'tableau d'affichage', a minor embellishment."
+    },
+    {
+      "claim": "He took 0.11 s off his own 100 m record in Berlin",
+      "sourceIds": [
+        "wa-958"
+      ],
+      "verdict": "confirmed",
+      "note": "WA confirms 0.11 s off 9.69."
+    },
+    {
+      "claim": "At Daegu 2011 he was disqualified in the 100 m final for a false start under a brand-new rule; Yohan Blake won in 9.92",
+      "sourceIds": [
+        "aljazeera-2011"
+      ],
+      "verdict": "source_unreachable",
+      "note": "The fetch limit was reached before I could open the Al Jazeera page. Britannica confirms the false-start disqualification at the 2011 Worlds. Blake's 9.92 and the 'règle toute récente' detail could not be checked."
+    },
+    {
+      "claim": "He won the 100 m and 200 m again at London 2012 and Rio 2016; first to win the Olympic 100 m at three consecutive Games",
+      "sourceIds": [
+        "britannica",
+        "olympics"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica and Olympics.com confirm both."
+    },
+    {
+      "claim": "At London 2017 on 12 August, as anchor of the 4x100 m, he injured a hamstring and collapsed while Great Britain took gold",
+      "sourceIds": [
+        "aljazeera-2017"
+      ],
+      "verdict": "source_unreachable",
+      "note": "Could not open the Al Jazeera page. Britannica confirms he retired after the 2017 Worlds and injured a hamstring in the relay final. The date, 'dernier relayeur' and Great Britain's gold are unchecked against the cited source."
+    },
+    {
+      "claim": "He left the track with 14 world championship medals",
+      "sourceIds": [
+        "aljazeera-2017"
+      ],
+      "verdict": "source_unreachable",
+      "note": "Could not verify the figure in the cited page. A count from memory (11 gold, 2 silver, 1 bronze) gives 14, but it must be confirmed in the source."
+    },
+    {
+      "claim": "Summary: he retired after the 2017 Worlds; eight Olympic golds over three Games",
+      "sourceIds": [
+        "britannica",
+        "olympics"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica and Olympics.com confirm both."
+    },
+    {
+      "claim": "The startribune-2008 source is listed in person.json but never cited",
+      "sourceIds": [
+        "startribune-2008"
+      ],
+      "verdict": "source_unreachable",
+      "note": "Not cited in the article. I did not check it."
+    }
+  ],
+  "uncitedClaims": [
+    "Last paragraph: 'Les deux records de Berlin, eux, sont toujours là' has no tag of its own, and it is a present-tense claim.",
+    "Opening paragraph: 'les deux chronos les plus rapides de l'histoire du sprint... dans le même stade' is covered only loosely by the tags.",
+    "Beijing section: 'quelques jours plus tard' for the 200 m is covered only by the britannica tag, which gives no date for it."
+  ],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "The piece reads like a human wrote it. It has concrete detail, varied sentence length, no hype words and no em dashes. It adds a clear timeline, explains why the count is eight and not nine, and gives the 19.20 to 19.19 correction. It does not answer the headline query 'âge': the metaTitle and metaDescription promise the age, but the body and FAQ give only the birth date and no current age (40 as of 26 Oct 2026). It also does not note that Olympics.com (2007) and Britannica (May 2008) disagree on the first 100 m record, or that the sources differ on his age at the 2002 junior title.",
+  "decision": "reject",
+  "summary": "Core facts are confirmed: birth date and place, 9.58 and 19.19 in Berlin, the 9.69 in Beijing, the 2017 stripping of the relay gold, and the count of eight titles. I could not open the Al Jazeera 2011 and 2017 pages because the fetch tool limit was reached, so the Daegu details (Blake's 9.92, the new rule), the London 2017 collapse and the '14 médailles mondiales' figure are unverified. Fix before approval: (1) confirm those three claims against the Al Jazeera pages; (2) reword 'les deux chronos les plus rapides de l'histoire du sprint' to 'two world records'; (3) drop 'a remarqué sa vitesse', which Olympics.com does not say; (4) re-check that both records still stand as of Oct 2026 and tag the final sentence; (5) add the current age (40) to the body or FAQ, since the title and description promise it; (6) optionally note that the sources differ on his age at the 2002 junior title (15 vs 16) and on the date of his first 100 m record."
+}

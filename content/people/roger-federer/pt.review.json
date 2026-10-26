@@ -1,0 +1,200 @@
+{
+  "date": "2026-10-26",
+  "model": "claude-sonnet-5-5",
+  "approved": false,
+  "reasons": [
+    "21 of 22 claims could not be checked (source unreachable)",
+    "UNCITED: \"Mirka Vavrinec marriage and her No. 76 WTA ranking (first sentence of the family paragraph has no nearby tag)\"",
+    "UNCITED: \"'Quase três décadas depois' (derived from 1993 and 2022, acceptable)\"",
+    "Adds no value over existing pages: The prose is mostly concrete and avoids hype words. The ball-boy opening and the Paris 2009 section are good. The page is still close to a standard top-result biography. It has no net worth, no primary-source depth beyond the ATP bio, and a thin Hall of Fame section that is padded with a photo-gallery link. The site's own style guide says to cut anything that cannot be verified.",
+    "Reviewer recommends rejection: I could not verify this article. web_fetch hit its tool-use limit, so I could not open any of the 8 cited sources, and only one web_search worked. So every sourced claim is marked source_unreachable. The only independent check was one search snippet: ATP Tour says Federer would be inducted into the Hall of Fame in the Player Category on 27-29 Aug 2026, and he has 103 titles. Re-run the fact check with working fetches. Specific fixes: (1) Source Mirka's No. 76 WTA ranking and her marriage, or cut them. These are private-life claims, and the ATP bio probably does not state the ranking. (2) Re-check the Foundation's 'over a million children' figure against the foundation's own current figure, since it may be outdated. (3) Confirm the 2009 'mente em paz' quote and the 'six men' claim against CNN. (4) Confirm the 'uma última dupla' phone-call quote in the NBC piece. (5) Confirm from the Olympics.com and ATP pages that the ceremony actually took place, and drop the photo-gallery sentence as filler."
+  ],
+  "claims": [
+    {
+      "claim": "Federer was a ball boy at the Basel tournament in 1993 and 1994",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "source_unreachable",
+      "note": "web_fetch hit the tool-use limit, so I could not open the ATP bio. Not verified."
+    },
+    {
+      "claim": "Born 8 Aug 1981 in Basel, Switzerland (body, summary, FAQ, person.json facts)",
+      "sourceIds": [
+        "britannica",
+        "atp-bio"
+      ],
+      "verdict": "source_unreachable",
+      "note": "I could not open Britannica or the ATP bio. The date and place match what I know, but I did not confirm them against the cited pages."
+    },
+    {
+      "claim": "Father Robert is Swiss, mother Lynette is South African, sister Diana",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "source_unreachable",
+      "note": "Source not opened. The names and nationalities need checking against the ATP bio."
+    },
+    {
+      "claim": "Started playing at age eight and admired Edberg, Becker and Sampras",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "source_unreachable",
+      "note": "Source not opened. Not verified."
+    },
+    {
+      "claim": "Professional career began in 1998",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "source_unreachable",
+      "note": "Source not opened. Not verified."
+    },
+    {
+      "claim": "20 Grand Slams: 6 Australian Open, 1 Roland Garros, 8 Wimbledon, 5 US Open (body, summary, FAQ, knownFor)",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "source_unreachable",
+      "note": "Source not opened. The split matches my background knowledge, but it is not verified against Britannica."
+    },
+    {
+      "claim": "Eight Wimbledons is the men's record, and in 2018 he became the first man to reach 20 Grand Slams",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "source_unreachable",
+      "note": "Source not opened. Confirm that Britannica states both the record and the 2018 'first man' claim."
+    },
+    {
+      "claim": "None of his first 13 Slams was at Roland Garros; he won in June 2009, beating Soderling 6-1, 7-6, 6-4",
+      "sourceIds": [
+        "cnn-2009"
+      ],
+      "verdict": "source_unreachable",
+      "note": "CNN not opened. Score and date match my background knowledge only."
+    },
+    {
+      "claim": "The 2009 title equalled Sampras's 14 Slams and made him one of six men to win all four majors",
+      "sourceIds": [
+        "cnn-2009"
+      ],
+      "verdict": "source_unreachable",
+      "note": "Source not opened. 'Six men' was true in 2009 but is a dated claim. Check that CNN says it."
+    },
+    {
+      "claim": "After the final he said he could play 'com a mente em paz' from then on (quote)",
+      "sourceIds": [
+        "cnn-2009"
+      ],
+      "verdict": "source_unreachable",
+      "note": "Source not opened. This is a translated quote. Check the original English wording and that CNN reports it."
+    },
+    {
+      "claim": "103 titles and 1,251 wins; only Jimmy Connors has more match wins in the Open Era",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "source_unreachable",
+      "note": "Source not opened. A search snippet from ATP Tour news confirmed 103 titles only. The 1,251 wins and the Connors claim are unverified."
+    },
+    {
+      "claim": "237 consecutive weeks as No. 1, an ATP ranking record (body, summary, metaDescription)",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "source_unreachable",
+      "note": "Source not opened. Not verified."
+    },
+    {
+      "claim": "Olympics: doubles gold in 2008 and singles silver in 2012",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "source_unreachable",
+      "note": "Source not opened. Not verified."
+    },
+    {
+      "claim": "Married to Mirka Vavrinec, who reached No. 76 in the WTA rankings (body and FAQ)",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "source_unreachable",
+      "note": "Source not opened. The ATP bio is unlikely to give Mirka's WTA ranking. The first sentence also has no tag of its own, since the tag sits after the next sentence. This is a private-life claim and needs a source that states it."
+    },
+    {
+      "claim": "Two sets of twins: Myla and Charlene, Leo and Lenny",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "source_unreachable",
+      "note": "Source not opened. Check that the ATP bio gives all four names."
+    },
+    {
+      "claim": "Founded the Roger Federer Foundation in 2003; it supports education in southern Africa and Switzerland and 'has reached over a million children' per ATP",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "source_unreachable",
+      "note": "Source not opened. The reach figure may be outdated, because the foundation's own figures have been higher. Check the foundation's official site and its date."
+    },
+    {
+      "claim": "On 15 Sep 2022, aged 41, he announced the Laver Cup in London would be his last event, after three years of injuries and surgeries",
+      "sourceIds": [
+        "retirement-statement"
+      ],
+      "verdict": "source_unreachable",
+      "note": "Scroll.in not opened. Date and age match my background knowledge only."
+    },
+    {
+      "claim": "His one Laver Cup match was on 23 Sep, doubles with Nadal, whom he had called to play 'uma última dupla'. They lost to Sock and Tiafoe 4-6, 7-6, 11-9",
+      "sourceIds": [
+        "nbc-laver"
+      ],
+      "verdict": "source_unreachable",
+      "note": "NBC not opened. The score matches my background knowledge, but the 'last doubles' phone-call quote is unverified."
+    },
+    {
+      "claim": "The International Tennis Hall of Fame named Federer in its class of 2026",
+      "sourceIds": [
+        "ithf-class-2026"
+      ],
+      "verdict": "source_unreachable",
+      "note": "Source page not opened. A search snippet from ATP Tour (Feb 2026) says he would be inducted in the Player Category on 27-29 Aug 2026."
+    },
+    {
+      "claim": "The induction ceremony took place in 2026, and he called it 'uma das maiores honras' of his life, per the Olympics.com headline",
+      "sourceIds": [
+        "olympics-hof"
+      ],
+      "verdict": "source_unreachable",
+      "note": "Olympics.com not opened. The ceremony date and the quote are unverified."
+    },
+    {
+      "claim": "ATP published a photo gallery of the induction ceremony",
+      "sourceIds": [
+        "atp-hof-2026"
+      ],
+      "verdict": "source_unreachable",
+      "note": "Source not opened. This is trivial content that adds nothing for the reader."
+    },
+    {
+      "claim": "Federer is 45 in October 2026 (FAQ)",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "From the birth date 8 Aug 1981, he turns 45 on 8 Aug 2026, so 45 on 26 Oct 2026 is arithmetically correct. The birth date itself was not checked against the source."
+    }
+  ],
+  "uncitedClaims": [
+    "Mirka Vavrinec marriage and her No. 76 WTA ranking (first sentence of the family paragraph has no nearby tag)",
+    "'Quase três décadas depois' (derived from 1993 and 2022, acceptable)"
+  ],
+  "readsHumanWritten": true,
+  "addsValue": false,
+  "valueNote": "The prose is mostly concrete and avoids hype words. The ball-boy opening and the Paris 2009 section are good. The page is still close to a standard top-result biography. It has no net worth, no primary-source depth beyond the ATP bio, and a thin Hall of Fame section that is padded with a photo-gallery link. The site's own style guide says to cut anything that cannot be verified.",
+  "decision": "reject",
+  "summary": "I could not verify this article. web_fetch hit its tool-use limit, so I could not open any of the 8 cited sources, and only one web_search worked. So every sourced claim is marked source_unreachable. The only independent check was one search snippet: ATP Tour says Federer would be inducted into the Hall of Fame in the Player Category on 27-29 Aug 2026, and he has 103 titles. Re-run the fact check with working fetches. Specific fixes: (1) Source Mirka's No. 76 WTA ranking and her marriage, or cut them. These are private-life claims, and the ATP bio probably does not state the ranking. (2) Re-check the Foundation's 'over a million children' figure against the foundation's own current figure, since it may be outdated. (3) Confirm the 2009 'mente em paz' quote and the 'six men' claim against CNN. (4) Confirm the 'uma última dupla' phone-call quote in the NBC piece. (5) Confirm from the Olympics.com and ATP pages that the ceremony actually took place, and drop the photo-gallery sentence as filler."
+}
