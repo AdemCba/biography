@@ -43,6 +43,7 @@ jobs:
         uses: anthropics/claude-code-action@v1
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          github_token: ${{ github.token }}
           claude_args: >-
             --model ${{ vars.WRITER_MODEL || 'claude-haiku-5-5' }}
             --max-turns 600
@@ -60,10 +61,14 @@ jobs:
 
       - name: Commit new content to main
         id: commit
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           if [ -n "$(git status --porcelain content data)" ]; then
             git config user.name "orbivida-bot"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            # The Claude step removes the checkout credentials when it finishes; push with the job token.
+            git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
             git add content data
             git commit -m "content: twice-daily writer"
             git pull --rebase
