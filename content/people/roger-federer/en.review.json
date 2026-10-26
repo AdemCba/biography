@@ -1,15 +1,8 @@
 {
   "date": "2026-10-26",
-  "model": "claude-sonnet-5-5",
-  "approved": false,
-  "reasons": [
-    "UNSUPPORTED: \"The hardest major to win was the French Open\" (CNN only says it was the one Slam that had eluded Federer. 'Hardest to win' is an editorial opinion with no named holder, which the style guide does not allow. Rephrase as 'the only major that had eluded him'.)",
-    "OUTDATED: \"Source ithf-class-2026, olympics-hof and atp-hof-2026 are listed but the article never uses them\" (The ATP photo gallery (Aug 2026) reports Federer's induction into the International Tennis Hall of Fame in Newport. The page is dated Oct 2026 and says nothing about it, so it is missing the most recent major event. The olympics.com URL was unreachable (url_not_accessible), so I could not check it.)",
-    "UNCITED: \"The hardest major to win was the French Open (opinion with no source)\"",
-    "UNCITED: \"The awards were as steady as the results (editorial framing, no source)\"",
-    "UNCITED: \"The injuries began in earnest in 2016 (interpretive framing, only partly supported by the dates)\"",
-    "Reviewer recommends rejection: Almost every factual claim checks out against the fetched sources. Dates, ages, titles, records, awards and the private-life details all match. I am rejecting for these fixes: (1) Delete or reword 'The hardest major to win was the French Open'. CNN only says it was the one Slam that had eluded him, and the style guide bars unattributed opinion. Also drop or source 'The awards were as steady as the results'. (2) Add the 2026 International Tennis Hall of Fame induction, which the ATP gallery from Aug 2026 reports. Cite atp-bio-hof or ithf-class-2026, and say so in the summary or body. The page is dated Oct 2026 and currently reads as if it never happened. (3) Date the foundation figures ('more than 1 million children, $50 million') as the ATP bio stated them, or check them against the foundation's own site. They are undated and may be stale. (4) The 'still stand' wording on the Grand Slam streaks rests on an ATP block marked updated 1 May 2025. Say 'according to the ATP' or add an as-of date. (5) The olympics-hof source was unreachable. Verify it or remove it, and drop any source that is not used."
-  ],
+  "model": "claude-subscription",
+  "approved": true,
+  "reasons": [],
   "claims": [
     {
       "claim": "Born 8 August 1981 in Basel, Switzerland; Swiss nationality (person.json facts, summary, FAQ)",
@@ -75,14 +68,6 @@
       ],
       "verdict": "confirmed",
       "note": "CNN lists five earlier men, so 'sixth' is a correct count. The quotes match."
-    },
-    {
-      "claim": "The hardest major to win was the French Open",
-      "sourceIds": [
-        "cnn-2009"
-      ],
-      "verdict": "unsupported",
-      "note": "CNN only says it was the one Slam that had eluded Federer. 'Hardest to win' is an editorial opinion with no named holder, which the style guide does not allow. Rephrase as 'the only major that had eluded him'."
     },
     {
       "claim": "ATP Grand Slam records: 10 finals, 23 SFs and 36 QFs in a row; 41-match win streak 2006-07; 65 straight wins on grass 2003-08; Halle (10) and Cincinnati (7) tournament records; Wimbledon record",
@@ -185,24 +170,42 @@
       "note": "Each is backed by the body and sources above. The metaDescription says Federer 'played his last match beside Nadal', which NBC confirms."
     },
     {
-      "claim": "Source ithf-class-2026, olympics-hof and atp-hof-2026 are listed but the article never uses them",
+      "claim": "The French Open was the one major that kept eluding him; first 13 Slams came elsewhere",
       "sourceIds": [
-        "ithf-class-2026",
-        "olympics-hof",
+        "cnn-2009"
+      ],
+      "verdict": "confirmed",
+      "note": "CNN: the one Slam that had eluded him."
+    },
+    {
+      "claim": "ITHF Class of 2026, Player Category; citation recalls 310 weeks at No. 1, 103 titles, the Laver Cup",
+      "sourceIds": [
+        "ithf-class-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened tennisfame.com/class-of-2026: Player Category, 310 total weeks, 103 ATP titles, created the Laver Cup."
+    },
+    {
+      "claim": "Inducted Saturday 29 August 2026 in Newport; 'one of the greatest honours of my life'; 'fame was never the goal'",
+      "sourceIds": [
+        "aljazeera-hof"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened Al Jazeera (30 Aug 2026): Saturday induction in Newport, photo dated 29 Aug, both quotes verbatim."
+    },
+    {
+      "claim": "Mirka gave the introductory speech; seven former No. 1s attended incl. Edberg, McEnroe, Roddick",
+      "sourceIds": [
         "atp-hof-2026"
       ],
-      "verdict": "outdated",
-      "note": "The ATP photo gallery (Aug 2026) reports Federer's induction into the International Tennis Hall of Fame in Newport. The page is dated Oct 2026 and says nothing about it, so it is missing the most recent major event. The olympics.com URL was unreachable (url_not_accessible), so I could not check it."
+      "verdict": "confirmed",
+      "note": "Opened the ATP gallery: Mirka delivered the introductory speech; Edberg, McEnroe, Roddick, Safin, Hewitt, Courier, Wilander."
     }
   ],
-  "uncitedClaims": [
-    "The hardest major to win was the French Open (opinion with no source)",
-    "The awards were as steady as the results (editorial framing, no source)",
-    "The injuries began in earnest in 2016 (interpretive framing, only partly supported by the dates)"
-  ],
+  "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
   "valueNote": "It has a clear timeline, a strong cold open, primary sources (ATP bio, the retirement letter) and the 2009 French Open and Nadal doubles stories told in detail. That goes beyond a bare list of records. The value is weakened because the 2026 Hall of Fame induction is missing despite sources being collected for it, and the foundation numbers are undated.",
-  "decision": "reject",
-  "summary": "Almost every factual claim checks out against the fetched sources. Dates, ages, titles, records, awards and the private-life details all match. I am rejecting for these fixes: (1) Delete or reword 'The hardest major to win was the French Open'. CNN only says it was the one Slam that had eluded him, and the style guide bars unattributed opinion. Also drop or source 'The awards were as steady as the results'. (2) Add the 2026 International Tennis Hall of Fame induction, which the ATP gallery from Aug 2026 reports. Cite atp-bio-hof or ithf-class-2026, and say so in the summary or body. The page is dated Oct 2026 and currently reads as if it never happened. (3) Date the foundation figures ('more than 1 million children, $50 million') as the ATP bio stated them, or check them against the foundation's own site. They are undated and may be stale. (4) The 'still stand' wording on the Grand Slam streaks rests on an ATP block marked updated 1 May 2025. Say 'according to the ATP' or add an as-of date. (5) The olympics-hof source was unreachable. Verify it or remove it, and drop any source that is not used."
+  "decision": "approve",
+  "summary": "Re-check after fixes. 2 flagged claim(s) from the previous review were corrected or removed: Unattributed framing removed ('hardest major', 'awards as steady', 'in earnest'); 'still stand' now 'the ATP biography lists'; undated foundation reach figures removed (the foundation site shows no current figure); a Hall of Fame section was added from ITHF, the ATP gallery and Al Jazeera, all opened during this re-check; the unreachable olympics-hof source was dropped from person.json."
 }

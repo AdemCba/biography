@@ -12,10 +12,12 @@ summary: >-
   uno del mundo durante 237 semanas seguidas. Se retiró en septiembre de 2022
   jugando un dobles junto a Rafael Nadal y entró en el Salón de la Fama del
   Tenis en agosto de 2026.
-status: review
+status: published
 risk: medium
-updatedAt: '2026-10-26'
+reviewedAt: '2026-10-26'
+reviewBy: '2027-04-26'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - roger federer edad
@@ -41,63 +43,30 @@ faq:
       Mirka Vavrinec, extenista que llegó al puesto 76 del ranking WTA. Tienen
       dos parejas de gemelos: Myla y Charlene, y Leo y Lenny.
 autoRevisions: 1
-autoReviews: 2
-reviewNotes: >-
-  UNSUPPORTED: "Roland Garros 'fue el torneo que más le costó'" (CNN only says
-  it was the one Slam that eluded him. 'The one that cost him most' is the
-  writer's own gloss, not stated by the source.) | UNSUPPORTED: "Söderling was
-  'verdugo de Nadal una semana antes'" (CNN says he knocked Nadal out 'earlier
-  in the week', not a week before. Fix the wording or cite a source that gives
-  the date.) | WRONG: "'Agassi, último campeón en París antes que él, le entregó
-  el trofeo'" (CNN says Agassi was the 1999 French Open champion and the last
-  player to win all four Slams. He was not the last Paris champion before
-  Federer: Nadal won Roland Garros 2005-08. Correct to 'el último hombre en
-  completar el Grand Slam de carrera' or 'campeón de 1999'.) | OUTDATED:
-  "Foundation founded in 2003; 'ha llegado a más de un millón de niños y ha
-  invertido más de 50 millones de dólares'; works in Zambia, Namibia, Zimbabwe,
-  Malawi, Botswana, South Africa and Switzerland" (The ATP line matches, but the
-  figures are old (the 1 million milestone was reached in 2018). ITHF's Federer
-  page says more than three million children by early 2026, and the Wikipedia
-  lead gives 3.82M by end of 2025 (a lead only). The sentence describes the
-  present, so it needs a current figure from the foundation's own site or annual
-  report. The foundation also appears to have been renamed 'Federer
-  Foundation'.) | UNCITED: "'Roland Garros fue el torneo que más le costó'
-  (interpretive; the next tagged sentence only supports that he had never won
-  there)" | UNCITED: "'Sigue siendo aficionado del FC Basel' (present tense; the
-  source line is undated)" | Reviewer recommends rejection: Almost every claim
-  is confirmed against the sources, but two things must be fixed before
-  publishing. (1) WRONG: 'Agassi, último campeón en París antes que él'
-  contradicts CNN, which says Agassi won in 1999 and was the last man to
-  complete the career Slam. Nadal won Paris in 2005-08. (2) OUTDATED: the
-  foundation figures ('más de un millón de niños', '50 millones') are old. ITHF
-  puts the reach at more than three million children by early 2026, so get the
-  current figure and name from the foundation's own report. Also fix 'una semana
-  antes' (Söderling over Nadal): CNN says 'earlier in the week'. Drop or soften
-  'el torneo que más le costó', which CNN does not say. Olympics.com could not
-  be opened with web_fetch; its content was confirmed through the search result
-  for the same URL.
+autoReviews: 3
+publishedAt: '2026-10-26'
 ---
-Antes de levantar trofeos, Roger Federer recogía pelotas. En 1993 y 1994 fue recogepelotas en el torneo de Basilea, su ciudad [s:atp-bio]. En 2022 se retiró con 20 títulos de Grand Slam [s:britannica], y el 29 de agosto de 2026, ya con 45 años, entró en el Salón de la Fama del Tenis [s:olympics-hof].
+Antes de levantar trofeos, Roger Federer recogía pelotas. En 1993 y 1994 fue recogepelotas en el torneo de Basilea, su ciudad [s:atp-bio]. En 2022 se retiró con 20 títulos de Grand Slam [s:britannica], y el 29 de agosto de 2026, ya con 45 años, entró en el Salón de la Fama del Tenis [s:aljazeera-hof].
 
 ## Infancia en Basilea
 
-Federer nació el 8 de agosto de 1981 en Basilea, Suiza [s:britannica]. Su padre, Robert, es suizo y su madre, Lynette, sudafricana; tiene una hermana, Diana [s:atp-bio]. Empezó a jugar a los ocho años y sus ídolos eran Stefan Edberg, Boris Becker y Pete Sampras [s:atp-bio]. Habla inglés, francés, alemán y suizo alemán, y sigue siendo aficionado del FC Basel [s:atp-bio].
+Federer nació el 8 de agosto de 1981 en Basilea, Suiza [s:britannica]. Su padre, Robert, es suizo y su madre, Lynette, sudafricana; tiene una hermana, Diana [s:atp-bio]. Empezó a jugar a los ocho años y sus ídolos eran Stefan Edberg, Boris Becker y Pete Sampras [s:atp-bio]. Habla inglés, francés, alemán y suizo alemán [s:atp-bio].
 
 En la carta de su retirada recordó aquellos años de recogepelotas: veía a los jugadores como gigantes y fue ahí donde empezó a soñar [s:retirement-statement]. También agradeció a la federación suiza que creyera en él cuando era un jugador joven [s:retirement-statement]. Su carrera profesional arranca en 1998 [s:britannica].
 
 ## Los 20 grandes
 
-El reparto de sus 20 títulos de Grand Slam es este: seis Open de Australia, un Roland Garros, ocho Wimbledon y cinco US Open [s:britannica]. Los ocho Wimbledon son récord masculino [s:olympics-hof]. Fue el primer hombre en llegar a 20 grandes [s:ithf-class-2026].
+El reparto de sus 20 títulos de Grand Slam es este: seis Open de Australia, un Roland Garros, ocho Wimbledon y cinco US Open [s:britannica]. Fue el primer hombre en llegar a 20 grandes [s:ithf-class-2026].
 
 También tiene el récord de constancia en los grandes: 10 finales seguidas, 23 semifinales seguidas y 36 cuartos de final seguidos [s:atp-bio].
 
 ## París, 2009
 
-Roland Garros fue el torneo que más le costó. Ninguno de sus 13 primeros grandes llegó allí [s:cnn-2009]. El 7 de junio de 2009, con 27 años y como número dos del mundo, por fin ganó en París. Derrotó a Robin Söderling, 23.º cabeza de serie y verdugo de Nadal una semana antes, por 6-1, 7-6 y 6-4 [s:cnn-2009].
+Roland Garros fue durante años el único grande que se le resistía. Ninguno de sus 13 primeros grandes llegó allí [s:cnn-2009]. El 7 de junio de 2009, con 27 años y como número dos del mundo, por fin ganó en París. Derrotó a Robin Söderling, 23.º cabeza de serie, que días antes había eliminado a Nadal, por 6-1, 7-6 y 6-4 [s:cnn-2009].
 
 El partido tuvo un incidente. En el cuarto game del segundo set un espontáneo saltó a la pista con una bandera del Barcelona e intentó ponerle una gorra a Federer. Federer perdió el juego siguiente en blanco, pero después cerró el tie-break con cuatro aces en cuatro saques [s:cnn-2009].
 
-Con ese título igualó los 14 grandes de Pete Sampras [s:cnn-2009] y completó el Grand Slam de carrera, un club al que solo pertenecían Fred Perry, Don Budge, Rod Laver, Roy Emerson y Andre Agassi [s:cnn-2009]. Hoy son ocho los hombres que lo han logrado [s:ithf-class-2026]. Agassi, último campeón en París antes que él, le entregó el trofeo. Federer lloró y dijo que era "probablemente" su mayor victoria, y que ya podía jugar "con la mente en paz" [s:cnn-2009]. Söderling, por su parte, lo calificó ante el público como el mejor jugador de la historia [s:cnn-2009].
+Con ese título igualó los 14 grandes de Pete Sampras [s:cnn-2009] y completó el Grand Slam de carrera, un club al que solo pertenecían Fred Perry, Don Budge, Rod Laver, Roy Emerson y Andre Agassi [s:cnn-2009]. Hoy son ocho los hombres que lo han logrado [s:ithf-class-2026]. Agassi, campeón en París en 1999, le entregó el trofeo. Federer lloró y dijo que era "probablemente" su mayor victoria, y que ya podía jugar "con la mente en paz" [s:cnn-2009]. Söderling, por su parte, lo calificó ante el público como el mejor jugador de la historia [s:cnn-2009].
 
 ## Récords y rachas
 
@@ -119,14 +88,14 @@ El 23 de septiembre de 2022 jugaron juntos su último partido y perdieron ante J
 
 ## Salón de la Fama, 2026
 
-En noviembre de 2025 el Salón de la Fama Internacional del Tenis anunció que lo incluiría en su clase de 2026 [s:ithf-class-2026]. Fue elegido en su primer año de elegibilidad [s:olympics-hof]. Se enteró de la noticia en la federación suiza, donde empezó su carrera, de boca de Edberg, Becker y más de 20 miembros del Salón de la Fama [s:ithf-class-2026].
+En noviembre de 2025 el Salón de la Fama Internacional del Tenis anunció que lo incluiría en su clase de 2026 [s:ithf-class-2026]. Se enteró de la noticia en la federación suiza, donde empezó su carrera, de boca de Edberg, Becker y más de 20 miembros del Salón de la Fama [s:ithf-class-2026].
 
-La ceremonia fue el sábado 29 de agosto de 2026 en Newport, Rhode Island [s:olympics-hof]. Entre el público había siete antiguos números uno, entre ellos Edberg, John McEnroe y Andy Roddick [s:atp-hof-2026]. En su discurso dijo que la fama nunca fue el objetivo [s:olympics-hof].
+La ceremonia fue el sábado 29 de agosto de 2026 en Newport, Rhode Island [s:aljazeera-hof]. Mirka pronunció el discurso de presentación [s:atp-hof-2026]. Entre el público había siete antiguos números uno, entre ellos Edberg, John McEnroe y Andy Roddick [s:atp-hof-2026]. Federer lo definió como "uno de los mayores honores" de su vida y dijo: "Lo llaman Salón de la Fama, pero la fama nunca fue el objetivo" (traducción nuestra) [s:aljazeera-hof].
 
 ## Familia y fundación
 
 Su mujer es Mirka Vavrinec, que llegó a ser la número 76 de la WTA. Según la ATP, se dieron su primer beso en los Juegos de Sídney 2000, donde Federer terminó cuarto [s:atp-bio]. Tienen dos parejas de gemelos: Myla y Charlene, y Leo y Lenny [s:atp-bio]. En su carta de retirada la nombró primera entre los agradecimientos [s:retirement-statement].
 
-En 2003 creó la Roger Federer Foundation, que financia proyectos educativos en el sur de África (Zambia, Namibia, Zimbabue, Malaui, Botsuana y Sudáfrica) y en Suiza. Según la ATP, ha llegado a más de un millón de niños y ha invertido más de 50 millones de dólares [s:atp-bio]. El 7 de febrero de 2020 jugó en Ciudad del Cabo un partido de exhibición contra Nadal ante 51.954 espectadores. Fue su debut en Sudáfrica, el país de su madre, y recaudó 3,5 millones de dólares para la fundación [s:atp-bio].
+En 2003 creó la Roger Federer Foundation, que financia proyectos educativos en el sur de África (Zambia, Namibia, Zimbabue, Malaui, Botsuana y Sudáfrica) y en Suiza [s:atp-bio]. El 7 de febrero de 2020 jugó en Ciudad del Cabo un partido de exhibición contra Nadal ante 51.954 espectadores. Fue su debut en Sudáfrica, el país de su madre, y recaudó 3,5 millones de dólares para la fundación [s:atp-bio].
 
 En Basilea, su ciudad, un tranvía lleva su nombre desde 2021 [s:atp-bio]. En 2007 apareció en un sello suizo y en 2020 en una moneda, y fue la primera persona viva con ambos honores [s:atp-bio].

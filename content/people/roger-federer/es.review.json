@@ -1,16 +1,8 @@
 {
   "date": "2026-10-26",
-  "model": "claude-sonnet-5-5",
-  "approved": false,
-  "reasons": [
-    "UNSUPPORTED: \"Roland Garros 'fue el torneo que más le costó'\" (CNN only says it was the one Slam that eluded him. 'The one that cost him most' is the writer's own gloss, not stated by the source.)",
-    "UNSUPPORTED: \"Söderling was 'verdugo de Nadal una semana antes'\" (CNN says he knocked Nadal out 'earlier in the week', not a week before. Fix the wording or cite a source that gives the date.)",
-    "WRONG: \"'Agassi, último campeón en París antes que él, le entregó el trofeo'\" (CNN says Agassi was the 1999 French Open champion and the last player to win all four Slams. He was not the last Paris champion before Federer: Nadal won Roland Garros 2005-08. Correct to 'el último hombre en completar el Grand Slam de carrera' or 'campeón de 1999'.)",
-    "OUTDATED: \"Foundation founded in 2003; 'ha llegado a más de un millón de niños y ha invertido más de 50 millones de dólares'; works in Zambia, Namibia, Zimbabwe, Malawi, Botswana, South Africa and Switzerland\" (The ATP line matches, but the figures are old (the 1 million milestone was reached in 2018). ITHF's Federer page says more than three million children by early 2026, and the Wikipedia lead gives 3.82M by end of 2025 (a lead only). The sentence describes the present, so it needs a current figure from the foundation's own site or annual report. The foundation also appears to have been renamed 'Federer Foundation'.)",
-    "UNCITED: \"'Roland Garros fue el torneo que más le costó' (interpretive; the next tagged sentence only supports that he had never won there)\"",
-    "UNCITED: \"'Sigue siendo aficionado del FC Basel' (present tense; the source line is undated)\"",
-    "Reviewer recommends rejection: Almost every claim is confirmed against the sources, but two things must be fixed before publishing. (1) WRONG: 'Agassi, último campeón en París antes que él' contradicts CNN, which says Agassi won in 1999 and was the last man to complete the career Slam. Nadal won Paris in 2005-08. (2) OUTDATED: the foundation figures ('más de un millón de niños', '50 millones') are old. ITHF puts the reach at more than three million children by early 2026, so get the current figure and name from the foundation's own report. Also fix 'una semana antes' (Söderling over Nadal): CNN says 'earlier in the week'. Drop or soften 'el torneo que más le costó', which CNN does not say. Olympics.com could not be opened with web_fetch; its content was confirmed through the search result for the same URL."
-  ],
+  "model": "claude-subscription",
+  "approved": true,
+  "reasons": [],
   "claims": [
     {
       "claim": "Birth: 8 August 1981 in Basel, Switzerland (facts.birthDate, birthPlace, summary, FAQ, body)",
@@ -95,22 +87,6 @@
       "note": "CNN confirms the score, age, ranking, seed and the 13 previous titles. The date 7 June comes from the URL; CNN says 'Sunday'."
     },
     {
-      "claim": "Roland Garros 'fue el torneo que más le costó'",
-      "sourceIds": [
-        "cnn-2009"
-      ],
-      "verdict": "unsupported",
-      "note": "CNN only says it was the one Slam that eluded him. 'The one that cost him most' is the writer's own gloss, not stated by the source."
-    },
-    {
-      "claim": "Söderling was 'verdugo de Nadal una semana antes'",
-      "sourceIds": [
-        "cnn-2009"
-      ],
-      "verdict": "unsupported",
-      "note": "CNN says he knocked Nadal out 'earlier in the week', not a week before. Fix the wording or cite a source that gives the date."
-    },
-    {
       "claim": "Court invader during the second set with a Barcelona flag who tried to put a cap on Federer; Federer lost the next game to love, then won the tie-break with four aces from four serves",
       "sourceIds": [
         "cnn-2009"
@@ -126,14 +102,6 @@
       ],
       "verdict": "confirmed",
       "note": "CNN lists the five men and the 14-title tie. ITHF: one of only eight men with a career Grand Slam."
-    },
-    {
-      "claim": "'Agassi, último campeón en París antes que él, le entregó el trofeo'",
-      "sourceIds": [
-        "cnn-2009"
-      ],
-      "verdict": "wrong",
-      "note": "CNN says Agassi was the 1999 French Open champion and the last player to win all four Slams. He was not the last Paris champion before Federer: Nadal won Roland Garros 2005-08. Correct to 'el último hombre en completar el Grand Slam de carrera' or 'campeón de 1999'."
     },
     {
       "claim": "Federer cried; called it 'probably' his greatest victory and said he could play 'with my mind at peace'; Söderling called him the best player in history",
@@ -258,14 +226,6 @@
       "note": "All in the ATP bio. Attributed to the ATP and made public by the player, so acceptable under the private-life rule."
     },
     {
-      "claim": "Foundation founded in 2003; 'ha llegado a más de un millón de niños y ha invertido más de 50 millones de dólares'; works in Zambia, Namibia, Zimbabwe, Malawi, Botswana, South Africa and Switzerland",
-      "sourceIds": [
-        "atp-bio"
-      ],
-      "verdict": "outdated",
-      "note": "The ATP line matches, but the figures are old (the 1 million milestone was reached in 2018). ITHF's Federer page says more than three million children by early 2026, and the Wikipedia lead gives 3.82M by end of 2025 (a lead only). The sentence describes the present, so it needs a current figure from the foundation's own site or annual report. The foundation also appears to have been renamed 'Federer Foundation'."
-    },
-    {
       "claim": "7 Feb 2020 Cape Town exhibition vs Nadal in front of 51,954 fans; his debut in South Africa, his mother's country; raised $3.5M for the foundation",
       "sourceIds": [
         "atp-bio"
@@ -292,15 +252,37 @@
       ],
       "verdict": "confirmed",
       "note": "All are backed by the body and the sources above."
+    },
+    {
+      "claim": "Agassi, campeón en París en 1999, le entregó el trofeo",
+      "sourceIds": [
+        "cnn-2009"
+      ],
+      "verdict": "confirmed",
+      "note": "CNN: Agassi, the 1999 champion, presented the trophy."
+    },
+    {
+      "claim": "Söderling, que días antes había eliminado a Nadal",
+      "sourceIds": [
+        "cnn-2009"
+      ],
+      "verdict": "confirmed",
+      "note": "CNN: earlier in the week."
+    },
+    {
+      "claim": "Ceremony Saturday 29 Aug 2026 in Newport; Mirka gave the introductory speech; quotes on honour and fame",
+      "sourceIds": [
+        "aljazeera-hof",
+        "atp-hof-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened both pages; matches."
     }
   ],
-  "uncitedClaims": [
-    "'Roland Garros fue el torneo que más le costó' (interpretive; the next tagged sentence only supports that he had never won there)",
-    "'Sigue siendo aficionado del FC Basel' (present tense; the source line is undated)"
-  ],
+  "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
   "valueNote": "Concrete, well-sourced, mostly primary or official sources (ATP bio, ITHF, retirement letter). It has a clear timeline, a vivid 2009 final scene, the Nadal call and an up-to-date 2026 Hall of Fame section, and it is localised for Spanish readers. Some paragraphs are dense ATP stat lists, but this is not padding.",
-  "decision": "reject",
-  "summary": "Almost every claim is confirmed against the sources, but two things must be fixed before publishing. (1) WRONG: 'Agassi, último campeón en París antes que él' contradicts CNN, which says Agassi won in 1999 and was the last man to complete the career Slam. Nadal won Paris in 2005-08. (2) OUTDATED: the foundation figures ('más de un millón de niños', '50 millones') are old. ITHF puts the reach at more than three million children by early 2026, so get the current figure and name from the foundation's own report. Also fix 'una semana antes' (Söderling over Nadal): CNN says 'earlier in the week'. Drop or soften 'el torneo que más le costó', which CNN does not say. Olympics.com could not be opened with web_fetch; its content was confirmed through the search result for the same URL."
+  "decision": "approve",
+  "summary": "Re-check after fixes. 4 flagged claim(s) from the previous review were corrected or removed: Agassi corrected to 'campeón en París en 1999'; Söderling now 'días antes'; 'el torneo que más le costó' softened; FC Basel present-tense line and the undated foundation figures removed; olympics-hof replaced by Al Jazeera (opened) for the ceremony and quotes; first-year-eligibility and Wimbledon-record lines that relied on the unreachable page removed."
 }

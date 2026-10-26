@@ -12,10 +12,12 @@ summary: >-
   Museum calls the company's 1999 GeForce 256 the world's first GPU, and after
   2012 NVIDIA turned its focus to accelerated computing for artificial
   intelligence.
-status: review
+status: published
 risk: medium
-updatedAt: '2026-10-26'
+reviewedAt: '2026-10-26'
+reviewBy: '2027-04-26'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - jensen huang age
@@ -45,36 +47,10 @@ faq:
       State University and set up the Jen-Hsun and Lori Huang Foundation in
       2007.
 autoRevisions: 2
-autoReviews: 2
-reviewNotes: >-
-  UNSUPPORTED: "Before he turned ten, Huang was scrubbing toilets at a Kentucky
-  reform school (Oneida) that his uncle had mistaken for a prestigious boarding
-  school" (Britannica says he was nine when he and his brother were sent to
-  their uncle in Tacoma. It says the uncle 'shortly thereafter' sent them to
-  Oneida, and that his parents collected them about two years later. The uncle's
-  mistake and the daily toilet cleaning are confirmed. Nothing says he was still
-  nine, or under ten, at Oneida. Fix: drop 'before he turned ten' or say 'at
-  nine or ten'. Britannica gives no age for Oneida itself.) | UNSUPPORTED: "Fox
-  Business reported the milestone on 30 October" (The article metadata says
-  created 2025-10-30. The visible page says 'Published October 31, 2025'. The
-  page was also modified on 4 Nov. Imprecise. Either drop the date or say 'on 29
-  October NVIDIA closed at a $5.03 trillion value, Fox reported'.) | UNCITED:
-  "'That figure is the company's market valuation, not a measure of Huang's own
-  wealth, and this page does not give a net-worth estimate.' This is an
-  editorial caveat. It is fine, but it has no tag." | Reviewer recommends
-  rejection: Nearly every claim checks out against the cited sources. Two things
-  need fixing before approval. (1) The opening claim that Huang was cleaning
-  toilets at Oneida 'before he turned ten' is not supported. Britannica says
-  only that he was nine when sent to Tacoma and went to Oneida 'shortly
-  thereafter'. It gives no age at Oneida. Reword to match the source, for
-  example 'at nine or ten'. (2) 'Fox Business, reporting the milestone on 30
-  October' does not match the page, which shows 'Published October 31, 2025'.
-  The milestone itself was on Wednesday 29 October. Use the correct date or drop
-  it. Minor: replace the editorialising 'Huang is blunt about how much he
-  expects from AI' with something neutral, and make clear the tattoo was not in
-  1999.
+autoReviews: 3
+publishedAt: '2026-10-26'
 ---
-Before he turned ten, Jensen Huang was scrubbing toilets at a Kentucky reform school that his uncle had mistaken for a prestigious boarding school [s:britannica]. He and his brother had been sent over from Thailand alone, and the Oneida Baptist Institute took in children labelled "difficult" [s:britannica].
+At nine or ten, Jensen Huang was scrubbing toilets at a Kentucky reform school that his uncle had mistaken for a prestigious boarding school [s:britannica]. He and his brother had been sent over from Thailand alone, and the Oneida Baptist Institute took in children labelled "difficult" [s:britannica].
 
 ## Taiwan, Thailand, Kentucky, Oregon
 
@@ -92,7 +68,7 @@ Huang studied electrical engineering at Oregon State University and graduated in
 
 NVIDIA was founded on 5 April 1993 by Huang, Chris Malachowsky and Curtis Priem, with the aim of bringing 3D graphics to gaming and multimedia [s:nvidia-history]. Malachowsky and Priem, fellow chip designers, picked Huang as CEO [s:britannica]. The three started with $40,000 and soon raised an initial $20 million from venture capital firms, which Britannica says carried the company through a hard first few years [s:britannica]. Huang has been president, CEO and a board member since the start [s:nvidia-bio].
 
-NVIDIA went public in 1999. Britannica reports that Huang had the company logo tattooed on his left shoulder when the stock hit $100 a share, and that he has said he probably would not get another tattoo [s:britannica]. The same year the company launched the GeForce 256. The Computer History Museum calls it the world's first graphics processing unit, a single chip that combined transform, lighting and rendering [s:chm]. NVIDIA's own company history dates the invention of the GPU to 1999 as well [s:nvidia-history].
+NVIDIA went public in 1999. Britannica reports that Huang later had the company logo tattooed on his left shoulder, after the stock hit $100 a share, and that he has said he probably would not get another tattoo [s:britannica]. The same year the company launched the GeForce 256. The Computer History Museum calls it the world's first graphics processing unit, a single chip that combined transform, lighting and rendering [s:chm]. NVIDIA's own company history dates the invention of the GPU to 1999 as well [s:nvidia-history].
 
 ## From games to AI
 
@@ -100,7 +76,7 @@ Through the early 2000s, the Computer History Museum says, steady performance ga
 
 In 2012 NVIDIA GPUs powered AlexNet, the neural network that the company points to as the start of modern AI, and NVIDIA turned its attention to accelerated computing for AI [s:chm] [s:nvidia-history]. Chips built for game graphics turned out to be well suited to running machine-learning algorithms [s:britannica]. The museum's profile says most AI models today, from large language models to driving systems, are trained and run on NVIDIA technology [s:chm]. In 2018 the company introduced RTX, which it describes as the first GPU capable of real-time ray tracing [s:nvidia-history].
 
-Huang is blunt about how much he expects from AI. The museum quotes him calling it the technology industry's "single greatest contribution to social elevation" [s:chm]. At NVIDIA's 2018 GPU Technology Conference in San Jose he said its GPUs were 25 times faster than five years earlier, outpacing what Moore's law would predict. The press named the observation "Huang's law" [s:britannica].
+The museum quotes him calling it the technology industry's "single greatest contribution to social elevation" [s:chm]. At NVIDIA's 2018 GPU Technology Conference in San Jose he said its GPUs were 25 times faster than five years earlier, outpacing what Moore's law would predict. The press named the observation "Huang's law" [s:britannica].
 
 ## Recognition and philanthropy
 
@@ -110,7 +86,7 @@ Huang and his wife founded the Jen-Hsun and Lori Huang Foundation in 2007. Accor
 
 ## The $5 trillion company and the 2025 and 2026 honours
 
-In late October 2025 NVIDIA became the first company to reach a market valuation of $5 trillion. Fox Business, reporting the milestone on 30 October, noted that the shares had risen about twelvefold since ChatGPT launched in 2022 [s:foxbusiness-5t]. That figure is the company's market valuation, not a measure of Huang's own wealth, and this page does not give a net-worth estimate.
+In late October 2025 NVIDIA became the first company to reach a market valuation of $5 trillion. On 29 October its shares closed at a value of $5.03 trillion, and Fox Business noted that the shares had risen about twelvefold since ChatGPT launched in 2022 [s:foxbusiness-5t].
 
 Six weeks later, on 11 December 2025, Time named the "Architects of AI" its Person of the Year. The Associated Press reported that the eight people in the group included six first-time recipients, among them Huang, OpenAI's Sam Altman and AMD's Lisa Su [s:fastcompany-poy]. Huang himself had spent a year at AMD after graduating in 1984 [s:britannica].
 

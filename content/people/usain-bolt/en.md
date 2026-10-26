@@ -7,14 +7,16 @@ metaDescription: >-
   Olympic golds rather than nine, and how his career ended in 2017.
 knownFor: 'Jamaican sprinter, world record holder at 100 m and 200 m'
 summary: >-
-  Usain Bolt is the Jamaican sprinter who still holds the world records in the
-  100 metres (9.58) and 200 metres (19.19), both set in Berlin in 2009. He won
-  eight Olympic gold medals across three Games and retired after the 2017 World
+  Usain Bolt is the Jamaican sprinter who set the world records in the 100
+  metres (9.58) and 200 metres (19.19), both in Berlin in 2009. He won eight
+  Olympic gold medals across three Games and retired after the 2017 World
   Championships.
-status: review
+status: published
 risk: medium
-updatedAt: '2026-10-26'
+reviewedAt: '2026-10-26'
+reviewBy: '2027-04-26'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - usain bolt age
@@ -36,47 +38,22 @@ faq:
   - q: Where is Usain Bolt from?
     a: 'Sherwood Content, a village in the parish of Trelawny in northern Jamaica.'
 autoRevisions: 1
-autoReviews: 1
-reviewNotes: >-
-  OUTDATED: "Summary: Bolt 'still holds' the 100 m and 200 m world records
-  (present tense, as of Oct 2026)" (The latest source is a preview from before
-  Tokyo 2025, about 13 months before the 2026-10-26 check date. I could not run
-  a search to confirm nothing changed in the 2026 season. Cite a current World
-  Athletics records page.) | UNSUPPORTED: "The false-start rule had been
-  'introduced shortly before' the 2011 Worlds" (The source mentions the IAAF's
-  introduction of immediate disqualification but gives no timing. The rule
-  actually came in January 2010, about 19 months earlier. Remove 'shortly
-  before' or cite a dated source.) | UNCITED: "Daegu is in South Korea (true,
-  but no tag covers it)" | UNCITED: "Bolt 'had to give the medal back' (same
-  paragraph as the ITV tag, but the source was not verified)" | UNCITED: "'Six
-  years later he was an Olympic champion' (derivable from the 2002 and 2008
-  dates in the article)" | Reviewer recommends rejection: Most Berlin, Beijing,
-  Daegu and birth facts check out against the sources I opened (Olympics.com,
-  Britannica, World Athletics, Yahoo, Al Jazeera 2011). I could not open three
-  cited sources (ITV 2017, Al Jazeera 2017, Star Tribune 2008) because the fetch
-  limit was reached. The relay-stripping, the Beijing 200 m comparison and the
-  2017 farewell and 14-medal claims are therefore unverified against the cited
-  pages. Fixes needed: (1) verify those three claims against their sources; (2)
-  remove or source 'a rule introduced shortly before', since the Daegu source
-  gives no timing and the rule dates from January 2010; (3) back the
-  present-tense 'still holds' summary claim with a 2026-dated records source,
-  because the current source predates Tokyo 2025; (4) optionally say that
-  Olympics.com dates his first 100 m record to 2007 while Britannica gives May
-  2008.
+autoReviews: 2
+publishedAt: '2026-10-26'
 ---
-Usain Bolt holds both the 100 m and the 200 m world records, and he ran them four days apart in the same stadium. In August 2009 he clocked 9.58 and 19.19 at the World Championships in Berlin [s:wa-958] [s:yahoo-1919]. When the sport's best sprinters arrived in Tokyo for the 2025 World Championships, both marks still stood [s:wa-records-2025].
+Usain Bolt set the 100 m and the 200 m world records four days apart in the same city. In August 2009 he clocked 9.58 and 19.19 at the World Championships in Berlin [s:wa-958] [s:yahoo-1919]. In its record preview for the 2025 World Championships in Tokyo, World Athletics still listed both as world records [s:wa-records-2025].
 
 ## From cricket to the track
 
-Bolt was born on 21 August 1986 in Sherwood Content, a village in Trelawny parish, Jamaica [s:olympics] [s:britannica]. As a boy he cared more about cricket and football than running. It was his high-school cricket coach who pushed him to take athletics seriously [s:olympics].
+Bolt was born on 21 August 1986 in Sherwood Content, a village in Trelawny parish, Jamaica [s:olympics] [s:britannica]. As a boy he cared more about cricket and football than running. His cricket coach encouraged him to try athletics seriously [s:olympics].
 
-The switch paid off quickly. In 2002, at 15, he won the 200 metres at the world junior championships [s:britannica]. Six years later he was an Olympic champion.
+The switch paid off quickly. In 2002, at 15, he won the 200 metres at the world junior championships [s:britannica]. The race was in Kingston, and the win made him the youngest male world junior champion in any event [s:britannica]. His Olympic debut was less happy: at Athens 2004 a hamstring injury held him back and he went out in the 200 m heats [s:britannica]. Six years later he was an Olympic champion.
 
 ## Beijing 2008
 
 Bolt's first 100 m world record came in May 2008 [s:britannica]. At the Beijing Olympics that August he lowered it to 9.69 [s:wa-958]. Days later he won the 200 metres in 19.30, another world record. It beat the 19.32 that Michael Johnson of the United States ran at the 1996 Atlanta Games [s:startribune-2008]. Jamaica's 4x100 m relay team, with Bolt in it, also won in world-record time [s:britannica].
 
-That relay gold did not last. In January 2017 the International Olympic Committee disqualified the Jamaican team because teammate Nesta Carter's sample from the 2008 Games had tested positive for the banned stimulant methylhexaneamine [s:itv-2017]. Bolt had to give the medal back. That is why the official count is eight Olympic golds, not nine [s:olympics].
+That relay gold did not last. In January 2017 the International Olympic Committee disqualified the Jamaican team because teammate Nesta Carter's sample from the 2008 Games had tested positive for the banned stimulant methylhexaneamine [s:itv-2017]. Bolt had to relinquish his medal [s:itv-2017]. That is why the official count is eight Olympic golds, not nine [s:olympics].
 
 ## Berlin 2009: 9.58 and 19.19
 
@@ -86,9 +63,9 @@ Four days later came the 200 m final. Bolt won in 19.19, again 0.11 faster than 
 
 ## The false start in Daegu
 
-Not every final went to plan. At the 2011 World Championships in Daegu, South Korea, Bolt was disqualified from the 100 m final for a false start. A rule introduced shortly before meant a single false start was enough to be thrown out [s:aljazeera-2011]. Yohan Blake won in 9.92 [s:aljazeera-2011].
+Not every final went to plan. At the 2011 World Championships in Daegu, South Korea, Bolt was disqualified from the 100 m final for a false start. Under the IAAF rule of immediate disqualification, a single false start was enough to be thrown out [s:aljazeera-2011]. Yohan Blake won in 9.92 [s:aljazeera-2011].
 
-Bolt came back to win the 100 m and 200 m at both London 2012 and Rio 2016 [s:britannica]. That made him the winner of the Olympic 100 m at three consecutive Games [s:olympics].
+Bolt came back to win the 100 m and 200 m at both London 2012 and Rio 2016 [s:britannica]. That made him the winner of the Olympic 100 m at three consecutive Games [s:olympics]. In London he set an Olympic record in the 100 m, and in Rio he became the first person to win both individual sprints at three straight Olympics [s:britannica]. At 1.96 metres he also upset an old belief that very tall sprinters are slow out of the blocks [s:britannica]. His own view of the race is on record with the IOC: "I stopped worrying about the start. The end is what's important" [s:olympics].
 
 ## A painful last race
 

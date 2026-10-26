@@ -1,17 +1,8 @@
 {
   "date": "2026-10-26",
-  "model": "claude-sonnet-5-5",
-  "approved": false,
-  "reasons": [
-    "OUTDATED: \"When the world athletics community met in Tokyo for the 2025 Worlds, both marks were still world records.\" (The cited page is a preview dated 14 May 2025 (records correct as of that date), four months before the championships. It cannot show the records stood when the Worlds took place. It only supports the situation in May 2025. Cite the current World Athletics records list, or the results of Tokyo 2025, or reword.)",
-    "OUTDATED: \"The summary and the closing line say Bolt still holds the 100 m and 200 m world records ('sigue teniendo', 'siguen ahí').\" (This is a present-tense claim. The only source is the May 2025 snapshot, and the closing sentence has no tag of its own. Today is 2026-10-26, so a current World Athletics records page is needed.)",
-    "OUTDATED: \"knownFor / FAQ: world record holder at 100 m (9.58) and 200 m (19.19), both from Berlin 2009.\" (The figures are confirmed. 'Holder today' depends on the May 2025 snapshot (see above).)",
-    "6 of 20 claims could not be checked (source unreachable)",
-    "UNCITED: \"Closing sentence: 'Los dos récords de Berlín siguen ahí.' (present-tense claim with no tag of its own; it follows an [s:aljazeera-2017] tag that does not support it)\"",
-    "UNCITED: \"Summary: 'sigue teniendo los récords mundiales' (frontmatter, so no tag allowed, and the body's only support is the May 2025 snapshot)\"",
-    "UNCITED: \"Opening paragraph: 'dos récords que nadie ha vuelto a tocar' (no current source for the present state)\"",
-    "Reviewer recommends rejection: Reject. The Berlin 9.58 record, Gay's 9.71, the Beijing times, the birth details and the three-Games sprint double are confirmed. Five cited sources could not be opened because the fetch tool limit was reached: yahoo-1919, aljazeera-2011, itv-2017, aljazeera-2017 and startribune-2008. That leaves unverified the Nesta Carter/methylhexanamine/IOC details, the 62-hundredths margin and the 19.20 scoreboard error, the Daegu new-rule detail and Blake's 9.92, and the 12 August hamstring fall, Britain's gold and the '14 medals'. Two fixes are needed: (1) the Tokyo 2025 claim and the present-tense 'siguen ahí'/'sigue teniendo' lines rest on a preview dated 14 May 2025 and need a current World Athletics records page or the Tokyo results; (2) the final sentence needs its own citation. The Olympics.com profile says his first 100 m record came in 2007, while Britannica gives May 2008 (the correct year). The article follows Britannica, but under the style guide the disagreement between the two cited sources should be handled explicitly or the Olympics.com citation dropped from that point. Re-run the fact check once the five sources can be opened."
-  ],
+  "model": "claude-subscription",
+  "approved": true,
+  "reasons": [],
   "claims": [
     {
       "claim": "Usain Bolt was born on 21 August 1986 in Sherwood Content, Trelawny parish, Jamaica (body, FAQ, person.json facts birthDate/birthPlace).",
@@ -30,22 +21,6 @@
       ],
       "verdict": "confirmed",
       "note": "World Athletics (16 Aug 2009) confirms 9.58 in Berlin. The 19.19 is not in wa-958. Britannica confirms the 200 m record came four days later, and the yahoo-1919 article could not be opened. 'Four days' and the 20 August date are consistent with that."
-    },
-    {
-      "claim": "When the world athletics community met in Tokyo for the 2025 Worlds, both marks were still world records.",
-      "sourceIds": [
-        "wa-records-2025"
-      ],
-      "verdict": "outdated",
-      "note": "The cited page is a preview dated 14 May 2025 (records correct as of that date), four months before the championships. It cannot show the records stood when the Worlds took place. It only supports the situation in May 2025. Cite the current World Athletics records list, or the results of Tokyo 2025, or reword."
-    },
-    {
-      "claim": "The summary and the closing line say Bolt still holds the 100 m and 200 m world records ('sigue teniendo', 'siguen ahí').",
-      "sourceIds": [
-        "wa-records-2025"
-      ],
-      "verdict": "outdated",
-      "note": "This is a present-tense claim. The only source is the May 2025 snapshot, and the closing sentence has no tag of its own. Today is 2026-10-26, so a current World Athletics records page is needed."
     },
     {
       "claim": "He grew up playing cricket and football, and his school cricket coach pushed him to take athletics seriously.",
@@ -89,14 +64,6 @@
       "note": "Britannica gives 37.10 as a world record, and says the gold was later stripped."
     },
     {
-      "claim": "In January 2017 the IOC disqualified the team because Nesta Carter's sample from those Games tested positive for methylhexanamine, a banned stimulant.",
-      "sourceIds": [
-        "itv-2017"
-      ],
-      "verdict": "source_unreachable",
-      "note": "The web_fetch tool limit was hit before this URL could be opened. Britannica confirms only that a teammate's failed drug test led to the gold being stripped. The month (January 2017), Carter's name, the substance and the IOC as the body are unverified."
-    },
-    {
       "claim": "Bolt's official record is eight Olympic golds, not nine (also summary and FAQ answer 1).",
       "sourceIds": [
         "olympics"
@@ -113,22 +80,6 @@
       "note": "World Athletics says 0.11 s off 9.69, and Gay second in 9.71, a national record."
     },
     {
-      "claim": "On 20 August he won the 200 m final in 19.19 by 62 hundredths; the scoreboard first showed 19.20 before it was corrected.",
-      "sourceIds": [
-        "yahoo-1919"
-      ],
-      "verdict": "source_unreachable",
-      "note": "The Yahoo article could not be opened because of the fetch tool limit. The 0.62 margin and the 19.20 scoreboard error are not in any source I could read. Bloomberg, found through web search, confirms 19.19 four days after the 100 m."
-    },
-    {
-      "claim": "At Daegu 2011 he was disqualified from the 100 m final for a false start under a newly introduced rule that eliminated the athlete on the first offence; Yohan Blake won in 9.92.",
-      "sourceIds": [
-        "aljazeera-2011"
-      ],
-      "verdict": "source_unreachable",
-      "note": "The Al Jazeera page could not be opened. Britannica confirms the false-start disqualification in 2011. The new-rule detail and Blake's 9.92 are unverified."
-    },
-    {
       "claim": "He defended the 100 m and 200 m titles at London 2012 and Rio 2016, becoming 100 m Olympic champion at three consecutive Games.",
       "sourceIds": [
         "britannica",
@@ -136,22 +87,6 @@
       ],
       "verdict": "confirmed",
       "note": "Britannica: golds in the 100 m and 200 m in 2008, 2012 and 2016. Olympics.com says he won the 100 m at three consecutive Games."
-    },
-    {
-      "claim": "He chose the London 2017 Worlds to say goodbye; on 12 August, as anchor of the 4x100, he injured a hamstring and fell on the track while Great Britain won gold.",
-      "sourceIds": [
-        "aljazeera-2017"
-      ],
-      "verdict": "source_unreachable",
-      "note": "The Al Jazeera page could not be opened. Britannica confirms the 2017 retirement, the hamstring injury in the relay final and Jamaica finishing eighth. The 12 August date, the anchor leg, the fall and Britain winning are unverified."
-    },
-    {
-      "claim": "He retired with 14 World Championship medals.",
-      "sourceIds": [
-        "aljazeera-2017"
-      ],
-      "verdict": "source_unreachable",
-      "note": "The source could not be opened. Britannica does not give the total."
     },
     {
       "claim": "Retirement came after the 2017 World Championships (summary).",
@@ -162,31 +97,83 @@
       "note": "Britannica says he retired after the 2017 world championships."
     },
     {
-      "claim": "knownFor / FAQ: world record holder at 100 m (9.58) and 200 m (19.19), both from Berlin 2009.",
+      "claim": "Present-tense 'still holds' claims replaced by: World Athletics still listed both as world records in its record preview for Tokyo 2025",
       "sourceIds": [
-        "wa-958",
         "wa-records-2025"
       ],
-      "verdict": "outdated",
-      "note": "The figures are confirmed. 'Holder today' depends on the May 2025 snapshot (see above)."
+      "verdict": "confirmed",
+      "note": "Dated to the source; no present-tense claim remains in summary, opening or closing line."
     },
     {
-      "claim": "Source startribune-2008 is listed in person.json but is not cited in the article.",
+      "claim": "January 2017: the IOC disqualified Jamaica's 2008 relay team; Nesta Carter's sample tested positive for methylhexaneamine; Bolt had to relinquish his medal",
       "sourceIds": [
-        "startribune-2008"
+        "itv-2017"
       ],
-      "verdict": "source_unreachable",
-      "note": "I could not open it. It is unused, so it does not matter for this check."
+      "verdict": "confirmed",
+      "note": "ITV page opened in this re-check (25 Jan 2017): IOC, Carter, methylhexaneamine, 'has had to relinquish his medal'."
+    },
+    {
+      "claim": "12 August 2017, anchor leg of the 4x100 final, hamstring injury, fell; Britain won gold; retired with 14 World Championship medals",
+      "sourceIds": [
+        "aljazeera-2017"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera page opened: 12 Aug, anchor leg, hamstring, forward roll, Britain 37.47, '14 world career medals'."
+    },
+    {
+      "claim": "Daegu 2011: false-start disqualification under the IAAF's immediate-disqualification rule; Blake won in 9.92",
+      "sourceIds": [
+        "aljazeera-2011"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera 2011 opened: immediate disqualification rule, Blake 9.92. 'Newly introduced/shortly before' timing removed."
+    },
+    {
+      "claim": "Berlin 200 m on 20 August 2009 in 19.19 by 0.62; time first recorded as 19.20 then revised",
+      "sourceIds": [
+        "yahoo-1919"
+      ],
+      "verdict": "confirmed",
+      "note": "Yahoo opened: 20 Aug, 19.19, 0.62 margin, initial 19.20 revised. 'Scoreboard' wording removed."
+    },
+    {
+      "claim": "Cricket coach encouraged him to take athletics seriously",
+      "sourceIds": [
+        "olympics"
+      ],
+      "verdict": "confirmed",
+      "note": "Olympics.com opened: 'his cricket coach encouraged him to take up athletics seriously'."
+    },
+    {
+      "claim": "Added: Kingston 2002, youngest male world junior champion in any event; Athens 2004 hamstring, out in 200 m heats; Olympic 100 m record in London; Rio first to win both individual sprints at three straight Olympics; 1.96 m and the tall-sprinter belief",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica opened in this re-check; all stated there."
+    },
+    {
+      "claim": "Quote: 'I stopped worrying about the start. The end is what's important'",
+      "sourceIds": [
+        "olympics"
+      ],
+      "verdict": "confirmed",
+      "note": "Olympics.com opened: quote verbatim (translated in non-English versions, marked as such)."
+    },
+    {
+      "claim": "'Two fastest sprint times in history' / 'same stadium' / 'north of Jamaica' wording removed",
+      "sourceIds": [
+        "wa-958",
+        "yahoo-1919"
+      ],
+      "verdict": "confirmed",
+      "note": "Now 'two world records in the same city, four days apart', which WA and Yahoo support."
     }
   ],
-  "uncitedClaims": [
-    "Closing sentence: 'Los dos récords de Berlín siguen ahí.' (present-tense claim with no tag of its own; it follows an [s:aljazeera-2017] tag that does not support it)",
-    "Summary: 'sigue teniendo los récords mundiales' (frontmatter, so no tag allowed, and the body's only support is the May 2025 snapshot)",
-    "Opening paragraph: 'dos récords que nadie ha vuelto a tocar' (no current source for the present state)"
-  ],
+  "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "The article reads like a person wrote it. It is concrete and varies sentence length. It has no hype words or em dashes, and the section names describe their content. It adds a clear timeline and answers the 'why eight golds and not nine' search directly. It also gives the Daegu false-start detail and the Berlin scoreboard anecdote, which many top results skip. However, several of those details rest on sources I could not read.",
-  "decision": "reject",
-  "summary": "Reject. The Berlin 9.58 record, Gay's 9.71, the Beijing times, the birth details and the three-Games sprint double are confirmed. Five cited sources could not be opened because the fetch tool limit was reached: yahoo-1919, aljazeera-2011, itv-2017, aljazeera-2017 and startribune-2008. That leaves unverified the Nesta Carter/methylhexanamine/IOC details, the 62-hundredths margin and the 19.20 scoreboard error, the Daegu new-rule detail and Blake's 9.92, and the 12 August hamstring fall, Britain's gold and the '14 medals'. Two fixes are needed: (1) the Tokyo 2025 claim and the present-tense 'siguen ahí'/'sigue teniendo' lines rest on a preview dated 14 May 2025 and need a current World Athletics records page or the Tokyo results; (2) the final sentence needs its own citation. The Olympics.com profile says his first 100 m record came in 2007, while Britannica gives May 2008 (the correct year). The article follows Britannica, but under the style guide the disagreement between the two cited sources should be handled explicitly or the Olympics.com citation dropped from that point. Re-run the fact check once the five sources can be opened."
+  "valueNote": "Clear timeline from Trelawny to London 2017, explains the eight-not-nine Olympic golds with the IOC ruling, the Daegu false start and the 19.20/19.19 correction, with dated record status.",
+  "decision": "approve",
+  "summary": "Re-check after fixes. 9 flagged claim(s) from the previous review were corrected or removed: Every flagged claim was fixed or removed and the sources the previous check could not open (ITV, Al Jazeera 2011/2017, Yahoo, Star Tribune, Olympics.com, Britannica) were opened in this re-check; the page was expanded with Britannica and Olympics.com facts."
 }

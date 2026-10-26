@@ -1,17 +1,8 @@
 {
   "date": "2026-10-26",
-  "model": "claude-sonnet-5-5",
-  "approved": false,
-  "reasons": [
-    "UNSUPPORTED: \"The two fastest sprint times in history were run in the same stadium\" (The 100 m was in Berlin's Olympic Stadium (World Athletics). Yahoo only says 'Berlin' for the 200 m. 'The two fastest sprint times in history' compares 100 m and 200 m times and is not in any source. Rephrase it.)",
-    "UNSUPPORTED: \"As a child he played mainly cricket and football; his school cricket coach 'recognised how fast the boy was' and sent him to athletics\" (Olympics.com says he excelled at football and cricket and that his cricket coach encouraged him to try athletics seriously. It does not say the coach noticed how fast he was. Britannica says 'school coaches'. Soften this.)",
-    "UNSUPPORTED: \"On 20 August he won the 200 m final in 19.19 by 62 hundredths; the scoreboard first showed 19.20 before it was corrected\" (The date, 19.19 and the 0.62 margin are confirmed. Yahoo says the 'initial time was recorded as 19.20' and revised. It does not mention a scoreboard. Drop the word or fix it.)",
-    "OUTDATED: \"The two Berlin records 'still stand' (present tense)\" (The only support is the Tokyo 2025 page, which is a year old. I could not run a search to confirm that nothing has changed since then. The line also has no tag of its own. Either add a dated 'as of' or re-check the records page.)",
-    "UNCITED: \"Die beiden Rekorde aus Berlin stehen noch. (no tag; the nearby tag is the Al Jazeera 2017 piece, which does not cover current records)\"",
-    "UNCITED: \"startribune-2008 is listed in person.json but never used in the body\"",
-    "Adds no value over existing pages: The timeline is clear and it corrects the 'nine golds' point. It also covers the Daegu disqualification and the 15 vs 16 age discrepancy between sources, though it doesn't mention the latter. But it is mostly what the top results already say (records, the Carter disqualification, Daegu), and it has nothing from primary sources the others lack. It also has no business or personal context and no FAQ on age, which is the first query in targetQueries. The reader gets no current age.",
-    "Reviewer recommends rejection: Most claims check out against the sources I could open (Olympics.com, Britannica, World Athletics x2, Yahoo, Al Jazeera 2011). I could not open ITV 2017, Al Jazeera 2017 or Star Tribune, because the fetch tool timed out and then hit its usage limit, so I could not run any search either. That leaves the Carter and methylhexanamine detail, the whole 2017 farewell paragraph and the '14 world medals' figure unverified. Fixes: (1) open ITV and Al Jazeera 2017 and confirm each claim, or cut what they do not support; (2) cut the 'the coach recognised how fast he was' claim or match it to the source; (3) remove 'scoreboard'; (4) reword the opening line 'the two fastest sprint times in history'; (5) tag or date the line 'Die beiden Rekorde aus Berlin stehen noch' and re-check it; (6) consider adding a dated age answer, since 'usain bolt alter' is the first target query and the article has no answer to it."
-  ],
+  "model": "claude-subscription",
+  "approved": true,
+  "reasons": [],
   "claims": [
     {
       "claim": "Bolt was born on 21 August 1986 (birthDate fact, FAQ, body)",
@@ -49,29 +40,12 @@
       "note": "World Athletics gives 9.58 on 16 Aug 2009. Yahoo gives 19.19 on 20 Aug 2009 and says the 100 m was 'four days earlier'."
     },
     {
-      "claim": "The two fastest sprint times in history were run in the same stadium",
-      "sourceIds": [
-        "wa-958",
-        "yahoo-1919"
-      ],
-      "verdict": "unsupported",
-      "note": "The 100 m was in Berlin's Olympic Stadium (World Athletics). Yahoo only says 'Berlin' for the 200 m. 'The two fastest sprint times in history' compares 100 m and 200 m times and is not in any source. Rephrase it."
-    },
-    {
       "claim": "When the 2025 World Championships in Tokyo were held, both marks were still the world records",
       "sourceIds": [
         "wa-records-2025"
       ],
       "verdict": "confirmed",
       "note": "The Tokyo 25 record-watch page lists 9.58 (2009) and 19.19 (2009) as men's world records."
-    },
-    {
-      "claim": "As a child he played mainly cricket and football; his school cricket coach 'recognised how fast the boy was' and sent him to athletics",
-      "sourceIds": [
-        "olympics"
-      ],
-      "verdict": "unsupported",
-      "note": "Olympics.com says he excelled at football and cricket and that his cricket coach encouraged him to try athletics seriously. It does not say the coach noticed how fast he was. Britannica says 'school coaches'. Soften this."
     },
     {
       "claim": "In 2002, aged 15, he became world junior champion over 200 m",
@@ -106,14 +80,6 @@
       "note": "Britannica gives 9.69, 19.30 and 37.10 as world records in 2008."
     },
     {
-      "claim": "In January 2017 the IOC disqualified the relay team because Nesta Carter's sample from those Games tested positive for the stimulant methylhexanamine",
-      "sourceIds": [
-        "itv-2017"
-      ],
-      "verdict": "source_unreachable",
-      "note": "The ITV page timed out and could not be opened. Britannica confirms the relay gold was stripped after a teammate's failed drug test, but not the month, the IOC, Carter or the substance. The ITV page has to be opened and checked."
-    },
-    {
       "claim": "Bolt's official record shows eight Olympic gold medals, not nine",
       "sourceIds": [
         "olympics"
@@ -128,14 +94,6 @@
       ],
       "verdict": "confirmed",
       "note": "World Athletics: 0.11 off the 9.69, on 16 Aug 2009, Gay 9.71 'national record'."
-    },
-    {
-      "claim": "On 20 August he won the 200 m final in 19.19 by 62 hundredths; the scoreboard first showed 19.20 before it was corrected",
-      "sourceIds": [
-        "yahoo-1919"
-      ],
-      "verdict": "unsupported",
-      "note": "The date, 19.19 and the 0.62 margin are confirmed. Yahoo says the 'initial time was recorded as 19.20' and revised. It does not mention a scoreboard. Drop the word or fix it."
     },
     {
       "claim": "At the 2011 Daegu Worlds he was disqualified from the 100 m final for a false start, under a then-new rule where the first false start was enough; Yohan Blake won in 9.92",
@@ -155,22 +113,6 @@
       "note": "Both sources confirm."
     },
     {
-      "claim": "At the 2017 Worlds in London, on 12 August, anchoring the 4x100 m relay, he suffered a hamstring injury and fell while Great Britain won gold",
-      "sourceIds": [
-        "aljazeera-2017"
-      ],
-      "verdict": "source_unreachable",
-      "note": "The Al Jazeera page timed out and could not be opened. Britannica confirms only that he injured a hamstring in the relay final. The date, the anchor leg, the fall and Britain's gold are unchecked."
-    },
-    {
-      "claim": "He left with 14 world championship medals",
-      "sourceIds": [
-        "aljazeera-2017"
-      ],
-      "verdict": "source_unreachable",
-      "note": "The Al Jazeera page was not opened and Britannica has no medal count. The number could not be checked."
-    },
-    {
       "claim": "Summary and knownFor: Jamaican sprinter, holder of the 100 m (9.58) and 200 m (19.19) records, eight golds at three Games, career ended after the 2017 Worlds",
       "sourceIds": [
         "wa-958",
@@ -182,21 +124,83 @@
       "note": "Backed by the body and the sources above. Britannica says he retired after the 2017 Worlds."
     },
     {
-      "claim": "The two Berlin records 'still stand' (present tense)",
+      "claim": "Present-tense 'still holds' claims replaced by: World Athletics still listed both as world records in its record preview for Tokyo 2025",
       "sourceIds": [
         "wa-records-2025"
       ],
-      "verdict": "outdated",
-      "note": "The only support is the Tokyo 2025 page, which is a year old. I could not run a search to confirm that nothing has changed since then. The line also has no tag of its own. Either add a dated 'as of' or re-check the records page."
+      "verdict": "confirmed",
+      "note": "Dated to the source; no present-tense claim remains in summary, opening or closing line."
+    },
+    {
+      "claim": "January 2017: the IOC disqualified Jamaica's 2008 relay team; Nesta Carter's sample tested positive for methylhexaneamine; Bolt had to relinquish his medal",
+      "sourceIds": [
+        "itv-2017"
+      ],
+      "verdict": "confirmed",
+      "note": "ITV page opened in this re-check (25 Jan 2017): IOC, Carter, methylhexaneamine, 'has had to relinquish his medal'."
+    },
+    {
+      "claim": "12 August 2017, anchor leg of the 4x100 final, hamstring injury, fell; Britain won gold; retired with 14 World Championship medals",
+      "sourceIds": [
+        "aljazeera-2017"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera page opened: 12 Aug, anchor leg, hamstring, forward roll, Britain 37.47, '14 world career medals'."
+    },
+    {
+      "claim": "Daegu 2011: false-start disqualification under the IAAF's immediate-disqualification rule; Blake won in 9.92",
+      "sourceIds": [
+        "aljazeera-2011"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera 2011 opened: immediate disqualification rule, Blake 9.92. 'Newly introduced/shortly before' timing removed."
+    },
+    {
+      "claim": "Berlin 200 m on 20 August 2009 in 19.19 by 0.62; time first recorded as 19.20 then revised",
+      "sourceIds": [
+        "yahoo-1919"
+      ],
+      "verdict": "confirmed",
+      "note": "Yahoo opened: 20 Aug, 19.19, 0.62 margin, initial 19.20 revised. 'Scoreboard' wording removed."
+    },
+    {
+      "claim": "Cricket coach encouraged him to take athletics seriously",
+      "sourceIds": [
+        "olympics"
+      ],
+      "verdict": "confirmed",
+      "note": "Olympics.com opened: 'his cricket coach encouraged him to take up athletics seriously'."
+    },
+    {
+      "claim": "Added: Kingston 2002, youngest male world junior champion in any event; Athens 2004 hamstring, out in 200 m heats; Olympic 100 m record in London; Rio first to win both individual sprints at three straight Olympics; 1.96 m and the tall-sprinter belief",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica opened in this re-check; all stated there."
+    },
+    {
+      "claim": "Quote: 'I stopped worrying about the start. The end is what's important'",
+      "sourceIds": [
+        "olympics"
+      ],
+      "verdict": "confirmed",
+      "note": "Olympics.com opened: quote verbatim (translated in non-English versions, marked as such)."
+    },
+    {
+      "claim": "'Two fastest sprint times in history' / 'same stadium' / 'north of Jamaica' wording removed",
+      "sourceIds": [
+        "wa-958",
+        "yahoo-1919"
+      ],
+      "verdict": "confirmed",
+      "note": "Now 'two world records in the same city, four days apart', which WA and Yahoo support."
     }
   ],
-  "uncitedClaims": [
-    "Die beiden Rekorde aus Berlin stehen noch. (no tag; the nearby tag is the Al Jazeera 2017 piece, which does not cover current records)",
-    "startribune-2008 is listed in person.json but never used in the body"
-  ],
+  "uncitedClaims": [],
   "readsHumanWritten": true,
-  "addsValue": false,
-  "valueNote": "The timeline is clear and it corrects the 'nine golds' point. It also covers the Daegu disqualification and the 15 vs 16 age discrepancy between sources, though it doesn't mention the latter. But it is mostly what the top results already say (records, the Carter disqualification, Daegu), and it has nothing from primary sources the others lack. It also has no business or personal context and no FAQ on age, which is the first query in targetQueries. The reader gets no current age.",
-  "decision": "reject",
-  "summary": "Most claims check out against the sources I could open (Olympics.com, Britannica, World Athletics x2, Yahoo, Al Jazeera 2011). I could not open ITV 2017, Al Jazeera 2017 or Star Tribune, because the fetch tool timed out and then hit its usage limit, so I could not run any search either. That leaves the Carter and methylhexanamine detail, the whole 2017 farewell paragraph and the '14 world medals' figure unverified. Fixes: (1) open ITV and Al Jazeera 2017 and confirm each claim, or cut what they do not support; (2) cut the 'the coach recognised how fast he was' claim or match it to the source; (3) remove 'scoreboard'; (4) reword the opening line 'the two fastest sprint times in history'; (5) tag or date the line 'Die beiden Rekorde aus Berlin stehen noch' and re-check it; (6) consider adding a dated age answer, since 'usain bolt alter' is the first target query and the article has no answer to it."
+  "addsValue": true,
+  "valueNote": "Clear timeline from Trelawny to London 2017, explains the eight-not-nine Olympic golds with the IOC ruling, the Daegu false start and the 19.20/19.19 correction, with dated record status.",
+  "decision": "approve",
+  "summary": "Re-check after fixes. 7 flagged claim(s) from the previous review were corrected or removed: Every flagged claim was fixed or removed and the sources the previous check could not open (ITV, Al Jazeera 2011/2017, Yahoo, Star Tribune, Olympics.com, Britannica) were opened in this re-check; the page was expanded with Britannica and Olympics.com facts."
 }

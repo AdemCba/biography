@@ -1,12 +1,8 @@
 {
   "date": "2026-10-26",
-  "model": "claude-sonnet-5-5",
-  "approved": false,
-  "reasons": [
-    "WRONG: \"FAQ: 'Die drei Gründer bestimmten Huang von Anfang an zum CEO'\" (Britannica says Malachowsky and Priem selected Huang as CEO. Huang was one of the three founders, so he did not choose himself. Fix to: the two co-founders chose him as CEO. The body text already says this correctly.)",
-    "UNSUPPORTED: \"'Fox Business berichtete darüber am 30. Oktober'\" (The page's metadata says created 2025-10-30, but the visible byline reads 'Published October 31, 2025 6:00am EDT' (modified 4 Nov). The sources conflict, so the report date is unreliable. Drop it or cite the correct date.)",
-    "Reviewer recommends rejection: Nearly every claim checks out against the sources, but two items need fixing before publication. (1) The FAQ answer 'Die drei Gründer bestimmten Huang von Anfang an zum CEO' is wrong: Britannica says Malachowsky and Priem selected Huang, so change it to 'die beiden Mitgründer'. (2) The body says Fox Business reported the $5 trillion milestone 'am 30. Oktober', but the visible byline on the fetched Fox page says 'Published October 31, 2025'. Only the page metadata says 30 October. Drop the report date or correct it. Optional: say 'Direktor einer Sparte' to match Britannica's wording. After these edits it can be re-checked and approved."
-  ],
+  "model": "claude-subscription",
+  "approved": true,
+  "reasons": [],
   "claims": [
     {
       "claim": "Born 17 February 1963 in Tainan, Taiwan (person.json facts, summary, FAQ, body)",
@@ -126,15 +122,6 @@
       "note": "Matches Britannica."
     },
     {
-      "claim": "FAQ: 'Die drei Gründer bestimmten Huang von Anfang an zum CEO'",
-      "sourceIds": [
-        "britannica",
-        "nvidia-bio"
-      ],
-      "verdict": "wrong",
-      "note": "Britannica says Malachowsky and Priem selected Huang as CEO. Huang was one of the three founders, so he did not choose himself. Fix to: the two co-founders chose him as CEO. The body text already says this correctly."
-    },
-    {
       "claim": "Huang has been president, CEO and board member since the founding",
       "sourceIds": [
         "nvidia-bio"
@@ -207,14 +194,6 @@
       ],
       "verdict": "confirmed",
       "note": "Fox gives $207.04, +3%, $5.03 trillion and 'Wednesday'. The date 29 October is inferred from the Fox page dates and is correct for that Wednesday."
-    },
-    {
-      "claim": "'Fox Business berichtete darüber am 30. Oktober'",
-      "sourceIds": [
-        "foxbusiness-5t"
-      ],
-      "verdict": "unsupported",
-      "note": "The page's metadata says created 2025-10-30, but the visible byline reads 'Published October 31, 2025 6:00am EDT' (modified 4 Nov). The sources conflict, so the report date is unreliable. Drop it or cite the correct date."
     },
     {
       "claim": "The stock rose roughly twelve-fold since ChatGPT launched in 2022",
@@ -296,12 +275,28 @@
       ],
       "verdict": "confirmed",
       "note": "Matches Britannica. The article says 'Bay Area' and Britannica says 'San Francisco Bay Area'."
+    },
+    {
+      "claim": "FAQ: Die beiden Mitgründer bestimmten Huang von Anfang an zum CEO",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica: Malachowsky and Priem selected Huang as CEO; body already said this and was confirmed."
+    },
+    {
+      "claim": "Am 29. Oktober 2025 kam NVIDIA auf einen Börsenwert von 5,03 Billionen Dollar, als erstes Unternehmen",
+      "sourceIds": [
+        "foxbusiness-5t"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed in the previous review; report date removed."
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
   "valueNote": "The piece opens with the Kentucky boarding school story and builds a clear timeline from primary sources (NVIDIA, CHM, IEEE). It attributes disputed claims such as 'first GPU' and 'first real-time ray tracing' to named bodies, and it avoids net-worth speculation. This is more careful than the typical top results. The style is clean, with no hype words and no em dashes.",
-  "decision": "reject",
-  "summary": "Nearly every claim checks out against the sources, but two items need fixing before publication. (1) The FAQ answer 'Die drei Gründer bestimmten Huang von Anfang an zum CEO' is wrong: Britannica says Malachowsky and Priem selected Huang, so change it to 'die beiden Mitgründer'. (2) The body says Fox Business reported the $5 trillion milestone 'am 30. Oktober', but the visible byline on the fetched Fox page says 'Published October 31, 2025'. Only the page metadata says 30 October. Drop the report date or correct it. Optional: say 'Direktor einer Sparte' to match Britannica's wording. After these edits it can be re-checked and approved."
+  "decision": "approve",
+  "summary": "Re-check after fixes. 2 flagged claim(s) from the previous review were corrected or removed: FAQ now says the two co-founders chose Huang as CEO (Britannica); the conflicting Fox report date is removed."
 }

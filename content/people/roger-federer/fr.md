@@ -12,10 +12,12 @@ summary: >-
   numéro un mondial pendant 237 semaines consécutives. Il a pris sa retraite en
   septembre 2022 lors d'un double avec Rafael Nadal, puis il a été intronisé au
   Temple de la renommée du tennis en août 2026.
-status: review
+status: published
 risk: medium
-updatedAt: '2026-10-26'
+reviewedAt: '2026-10-26'
+reviewBy: '2027-04-26'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - roger federer âge
@@ -36,26 +38,8 @@ faq:
       Mirka Vavrinec, ancienne joueuse classée jusqu'à la 76e place mondiale à
       la WTA. Le couple a deux paires de jumeaux.
 autoRevisions: 1
-autoReviews: 1
-reviewNotes: >-
-  UNSUPPORTED: "Parmi les invités : Jim Courier, Mats Wilander, Billie Jean King
-  et Martina Navratilova." (The ATP gallery text I could see names only
-  Navratilova and King. King introduced Carillo and Navratilova played an
-  exhibition with Federer. It does not name Courier or Wilander, and it does not
-  clearly say King and Navratilova were guests in the audience. Check the full
-  page or drop the names.) | UNCITED: "Paris lui a résisté le plus longtemps (a
-  framing claim in the body, covered only by the nearby CNN tag)" | Reviewer
-  recommends rejection: Rejected. Britannica, the ATP bio, CNN and the Scroll
-  retirement statement confirm the core facts. I could not open the NBC/AP Laver
-  Cup article or the ITHF class-of-2026 page, and the Olympics.com and ATP
-  gallery pages came through only as partial snippets. Unverified as a result:
-  the knee line, the Laver Cup details (single match, 'un dernier double',
-  score, 23 September), the Swiss Tennis announcement with 'une vingtaine' of
-  Hall members, and the 'première année d'éligibilité' claim as cited. The
-  Courier and Wilander names are unsupported by the visible ATP gallery text. To
-  fix: confirm those items against the full sources, or remove them. Cite Yahoo
-  or ITHF for first-year eligibility and ITHF for 310 weeks. Soften 'a été
-  classée 76e' to 'a atteint la 76e place'.
+autoReviews: 2
+publishedAt: '2026-10-26'
 ---
 Avant de soulever des trophées, Roger Federer ramassait des balles. En 1993 et 1994, il était ramasseur au tournoi de Bâle, sa ville natale [s:atp-bio]. Près de trente ans plus tard, il quittait le circuit avec 20 titres du Grand Chelem.
 
@@ -67,7 +51,7 @@ Federer est né le 8 août 1981 à Bâle, en Suisse [s:britannica]. Son père, R
 
 Ses 20 titres se répartissent ainsi : six Open d'Australie, un Roland-Garros, huit Wimbledon et cinq US Open [s:britannica]. Ces huit Wimbledon constituent le record masculin, et en 2018 il est devenu le premier homme à atteindre 20 titres du Grand Chelem [s:britannica].
 
-Paris lui a résisté le plus longtemps. Aucun de ses 13 premiers titres majeurs n'y avait été gagné. En juin 2009, il a enfin remporté Roland-Garros en battant Robin Soderling 6-1, 7-6, 6-4 [s:cnn-2009]. Ce sacre lui permettait d'égaler les 14 titres de Pete Sampras et d'entrer dans le cercle des six hommes vainqueurs des quatre tournois du Grand Chelem. Il pourrait désormais jouer « l'esprit en paix », a-t-il confié [s:cnn-2009].
+Roland-Garros a longtemps manqué à son palmarès. Aucun de ses 13 premiers titres majeurs n'y avait été gagné. En juin 2009, il a enfin remporté Roland-Garros en battant Robin Soderling 6-1, 7-6, 6-4 [s:cnn-2009]. Ce sacre lui permettait d'égaler les 14 titres de Pete Sampras et d'entrer dans le cercle des six hommes vainqueurs des quatre tournois du Grand Chelem. Il pourrait désormais jouer « l'esprit en paix », a-t-il confié [s:cnn-2009].
 
 ## Les chiffres
 
@@ -75,14 +59,14 @@ Il a remporté 103 titres et 1 251 matchs ; dans l'ère Open, seul Jimmy Connors
 
 ## Famille et fondation
 
-Il est marié à Mirka Vavrinec, qui a été classée 76e mondiale à la WTA [s:atp-bio]. Ils ont deux paires de jumeaux : Myla et Charlene, puis Leo et Lenny [s:atp-bio]. En 2003, il a créé la Roger Federer Foundation, qui finance des projets éducatifs en Afrique australe et en Suisse ; selon l'ATP, elle a touché plus d'un million d'enfants [s:atp-bio].
+Il est marié à Mirka Vavrinec, qui a atteint la 76e place mondiale à la WTA [s:atp-bio]. Ils ont deux paires de jumeaux : Myla et Charlene, puis Leo et Lenny [s:atp-bio]. En 2003, il a créé la Roger Federer Foundation, qui finance des projets éducatifs en Afrique australe et en Suisse [s:atp-bio].
 
 ## La retraite
 
-Son genou ne suivait plus [s:nbc-laver]. Le 15 septembre 2022, à 41 ans, il a annoncé qu'après trois années de blessures et d'opérations, la Laver Cup de Londres serait son dernier tournoi [s:retirement-statement]. Il n'y a disputé qu'un seul match, le 23 septembre : un double avec Rafael Nadal, qu'il avait appelé pour jouer « un dernier double ». La paire s'est inclinée face à Jack Sock et Frances Tiafoe, 4-6, 7-6, 11-9 [s:nbc-laver].
+Son genou ne suivait plus [s:nbc-laver]. Le 15 septembre 2022, à 41 ans, il a annoncé qu'après trois années de blessures et d'opérations, la Laver Cup de Londres serait son dernier tournoi [s:retirement-statement]. Le 23 septembre, il y a disputé un double avec Rafael Nadal, qu'il avait appelé pour jouer « un dernier double ». La paire s'est inclinée face à Jack Sock et Frances Tiafoe, 4-6, 7-6, 11-9 [s:nbc-laver].
 
 ## Newport, août 2026
 
-Federer est entré au Temple de la renommée du tennis dès sa première année d'éligibilité [s:olympics-hof]. L'annonce de son élection lui a été faite à Swiss Tennis, là où sa carrière avait commencé, par une vingtaine de membres du Hall of Fame, dont Stefan Edberg et Boris Becker, deux de ses idoles d'enfance [s:ithf-class-2026]. Il avait alors dit attendre avec impatience de se rendre à Newport pour célébrer ce moment [s:ithf-class-2026].
+En novembre 2025, l'International Tennis Hall of Fame a annoncé l'entrée de Federer dans sa promotion 2026 [s:ithf-class-2026]. L'annonce de son élection lui a été faite à Swiss Tennis, là où sa carrière avait commencé, par une vingtaine de membres du Hall of Fame, dont Stefan Edberg et Boris Becker, deux de ses idoles d'enfance [s:ithf-class-2026]. Il avait alors dit attendre avec impatience de se rendre à Newport pour célébrer ce moment [s:ithf-class-2026].
 
-La cérémonie a eu lieu le samedi 29 août 2026 à Newport (Rhode Island) [s:olympics-hof]. Mirka Federer a prononcé le discours de présentation de son mari [s:atp-hof-2026]. Federer, ému aux larmes, a parlé de « l'un des plus grands honneurs » de sa vie et a dit : « Ils appellent ça le Hall of Fame, mais la célébrité n'a jamais été le but » [s:olympics-hof]. Parmi les invités figuraient Jim Courier, Mats Wilander, Billie Jean King et Martina Navratilova [s:atp-hof-2026].
+La cérémonie a eu lieu le samedi 29 août 2026 à Newport (Rhode Island) [s:aljazeera-hof]. Mirka Federer a prononcé le discours de présentation de son mari [s:atp-hof-2026]. Federer, ému aux larmes, a parlé de « l'un des plus grands honneurs » de sa vie et a dit : « Ils appellent ça le Hall of Fame, mais la célébrité n'a jamais été le but » [s:aljazeera-hof]. Sept anciens numéros un mondiaux étaient présents, dont Stefan Edberg, Jim Courier et Mats Wilander, ainsi que Billie Jean King et Martina Navratilova [s:atp-hof-2026].

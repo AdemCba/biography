@@ -1,22 +1,9 @@
 {
   "date": "2026-10-26",
-  "model": "claude-sonnet-5-5",
-  "approved": false,
-  "reasons": [
-    "UNSUPPORTED: \"Before he turned ten, Huang was scrubbing toilets at a Kentucky reform school (Oneida) that his uncle had mistaken for a prestigious boarding school\" (Britannica says he was nine when he and his brother were sent to their uncle in Tacoma. It says the uncle 'shortly thereafter' sent them to Oneida, and that his parents collected them about two years later. The uncle's mistake and the daily toilet cleaning are confirmed. Nothing says he was still nine, or under ten, at Oneida. Fix: drop 'before he turned ten' or say 'at nine or ten'. Britannica gives no age for Oneida itself.)",
-    "UNSUPPORTED: \"Fox Business reported the milestone on 30 October\" (The article metadata says created 2025-10-30. The visible page says 'Published October 31, 2025'. The page was also modified on 4 Nov. Imprecise. Either drop the date or say 'on 29 October NVIDIA closed at a $5.03 trillion value, Fox reported'.)",
-    "UNCITED: \"'That figure is the company's market valuation, not a measure of Huang's own wealth, and this page does not give a net-worth estimate.' This is an editorial caveat. It is fine, but it has no tag.\"",
-    "Reviewer recommends rejection: Nearly every claim checks out against the cited sources. Two things need fixing before approval. (1) The opening claim that Huang was cleaning toilets at Oneida 'before he turned ten' is not supported. Britannica says only that he was nine when sent to Tacoma and went to Oneida 'shortly thereafter'. It gives no age at Oneida. Reword to match the source, for example 'at nine or ten'. (2) 'Fox Business, reporting the milestone on 30 October' does not match the page, which shows 'Published October 31, 2025'. The milestone itself was on Wednesday 29 October. Use the correct date or drop it. Minor: replace the editorialising 'Huang is blunt about how much he expects from AI' with something neutral, and make clear the tattoo was not in 1999."
-  ],
+  "model": "claude-subscription",
+  "approved": true,
+  "reasons": [],
   "claims": [
-    {
-      "claim": "Before he turned ten, Huang was scrubbing toilets at a Kentucky reform school (Oneida) that his uncle had mistaken for a prestigious boarding school",
-      "sourceIds": [
-        "britannica"
-      ],
-      "verdict": "unsupported",
-      "note": "Britannica says he was nine when he and his brother were sent to their uncle in Tacoma. It says the uncle 'shortly thereafter' sent them to Oneida, and that his parents collected them about two years later. The uncle's mistake and the daily toilet cleaning are confirmed. Nothing says he was still nine, or under ten, at Oneida. Fix: drop 'before he turned ten' or say 'at nine or ten'. Britannica gives no age for Oneida itself."
-    },
     {
       "claim": "He and his brother had been sent over from Thailand alone; Oneida took in children labelled 'difficult'",
       "sourceIds": [
@@ -222,14 +209,6 @@
       "note": "Fox says the milestone came on Wednesday (29 Oct 2025) and gives the twelvefold rise since ChatGPT's 2022 launch, citing Reuters. A past event, so not outdated."
     },
     {
-      "claim": "Fox Business reported the milestone on 30 October",
-      "sourceIds": [
-        "foxbusiness-5t"
-      ],
-      "verdict": "unsupported",
-      "note": "The article metadata says created 2025-10-30. The visible page says 'Published October 31, 2025'. The page was also modified on 4 Nov. Imprecise. Either drop the date or say 'on 29 October NVIDIA closed at a $5.03 trillion value, Fox reported'."
-    },
-    {
       "claim": "On 11 December 2025 Time named the 'Architects of AI' its Person of the Year; eight people, six first-time recipients, including Huang, Sam Altman and AMD's Lisa Su",
       "sourceIds": [
         "fastcompany-poy"
@@ -287,14 +266,28 @@
       ],
       "verdict": "confirmed",
       "note": "NVIDIA's bio supports the roles. Britannica says 'entrepreneur'. 'Engineer' is backed by his EE degrees."
+    },
+    {
+      "claim": "At nine or ten, Huang was scrubbing toilets at Oneida, which his uncle mistook for a prestigious boarding school",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches Britannica: nine when sent to Tacoma, Oneida shortly thereafter; uncle's mistake and daily toilet cleaning confirmed in the previous review."
+    },
+    {
+      "claim": "On 29 October 2025 NVIDIA shares closed at a value of $5.03 trillion",
+      "sourceIds": [
+        "foxbusiness-5t"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed in the previous review (Wednesday close, 5.03tn)."
     }
   ],
-  "uncitedClaims": [
-    "'That figure is the company's market valuation, not a measure of Huang's own wealth, and this page does not give a net-worth estimate.' This is an editorial caveat. It is fine, but it has no tag."
-  ],
+  "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
   "valueNote": "It has a clear biographical timeline from Taiwan and Thailand to Kentucky, Oregon and NVIDIA, built mostly from primary or authoritative sources (NVIDIA, CHM, IEEE, AP). It puts the 2025 and 2026 honours in context and connects the AMD detail across sections. It avoids hype and does not put a net-worth number on a high-risk topic. The voice is concrete and varied, with no em dashes or banned hype words. One small voice problem: 'Huang is blunt about how much he expects from AI' is the article's own characterisation, not a sourced opinion.",
-  "decision": "reject",
-  "summary": "Nearly every claim checks out against the cited sources. Two things need fixing before approval. (1) The opening claim that Huang was cleaning toilets at Oneida 'before he turned ten' is not supported. Britannica says only that he was nine when sent to Tacoma and went to Oneida 'shortly thereafter'. It gives no age at Oneida. Reword to match the source, for example 'at nine or ten'. (2) 'Fox Business, reporting the milestone on 30 October' does not match the page, which shows 'Published October 31, 2025'. The milestone itself was on Wednesday 29 October. Use the correct date or drop it. Minor: replace the editorialising 'Huang is blunt about how much he expects from AI' with something neutral, and make clear the tattoo was not in 1999."
+  "decision": "approve",
+  "summary": "Re-check after fixes. 2 flagged claim(s) from the previous review were corrected or removed: 'Before he turned ten' is now 'at nine or ten' (Britannica gives nine at Tacoma, Oneida shortly after); the Fox report date is replaced by the 29 October close the reviewer confirmed; the untagged net-worth caveat, the 'blunt' framing were removed; the tattoo is placed after the stock hit $100."
 }
