@@ -1,0 +1,91 @@
+name: Publish
+
+# Every push to main publishes. The daily run releases articles whose publish date has arrived
+# (scheduled with `npm run schedule`) and retries the fix loop.
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    env:
+      NEXT_PUBLIC_SITE_NAME: ${{ vars.SITE_NAME || 'Orbivida' }}
+      NEXT_PUBLIC_SITE_URL: ${{ vars.SITE_URL }}
+      NEXT_PUBLIC_ENABLED_LOCALES: ${{ vars.ENABLED_LOCALES || 'en,es,pt,de,fr' }}
+      NEXT_PUBLIC_CONTACT_EMAIL: ${{ vars.CONTACT_EMAIL }}
+      NEXT_PUBLIC_ADSENSE_CLIENT: ${{ vars.ADSENSE_CLIENT }}
+      NEXT_PUBLIC_GA_ID: ${{ vars.GA_ID }}
+      NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION: ${{ vars.GOOGLE_SITE_VERIFICATION }}
+      INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
+      HAS_ANTHROPIC_KEY: ${{ secrets.ANTHROPIC_API_KEY != '' }}
+      HAS_CLOUDFLARE: ${{ secrets.CLOUDFLARE_API_TOKEN != '' }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+
+      - name: Fix loop (rewrite failing articles, re-check, flag what still fails)
+        if: ${{ env.HAS_ANTHROPIC_KEY == 'true' }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
+        run: npm run revise -- --limit ${{ vars.REVISE_LIMIT || 10 }}
+
+      - name: Review agent (fact-check every claim against its sources, approve or reject)
+        if: ${{ env.HAS_ANTHROPIC_KEY == 'true' }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
+        run: npm run review -- --limit ${{ vars.REVIEW_LIMIT || 20 }}
+
+      - name: Schedule approved articles (drip publishing)
+        run: npm run schedule -- --per-day ${{ vars.PUBLISH_PER_DAY || 3 }}
+
+      - name: Commit automatic changes
+        run: |
+          if [ -n "$(git status --porcelain content)" ]; then
+            git config user.name "orbivida-bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add content
+            git commit -m "content: automatic fixes, reviews and scheduling"
+            git push
+          fi
+
+      - name: Quality report
+        run: npm run check >> "$GITHUB_STEP_SUMMARY" 2>&1 || true
+
+      - name: Build static site
+        run: npm run build
+
+      - name: Save the currently live sitemap (for the IndexNow diff)
+        if: ${{ vars.SITE_URL != '' }}
+        run: curl -sf "${{ vars.SITE_URL }}/sitemap.xml" -o previous-sitemap.xml || true
+
+      - name: IndexNow key file
+        if: ${{ env.INDEXNOW_KEY != '' }}
+        run: echo "$INDEXNOW_KEY" > "out/$INDEXNOW_KEY.txt"
+
+      - name: Deploy to Cloudflare Pages
+        if: ${{ env.HAS_CLOUDFLARE == 'true' }}
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: npx --yes wrangler@4 pages deploy out --project-name "${{ vars.CF_PAGES_PROJECT || 'orbivida' }}" --branch main
+
+      - name: Notify Bing/Yandex of new and changed pages (IndexNow)
+        if: ${{ env.INDEXNOW_KEY != '' && vars.SITE_URL != '' }}
+        run: npm run indexnow -- --old previous-sitemap.xml --new out/sitemap.xml

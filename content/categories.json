@@ -1,0 +1,46 @@
+[
+  {
+    "id": "athletes",
+    "order": 1,
+    "i18n": {
+      "en": { "name": "Athletes", "slug": "athletes", "description": "Footballers, basketball players, tennis players and other athletes: careers, records and the facts behind them." },
+      "es": { "name": "Deportistas", "slug": "deportistas", "description": "Futbolistas, jugadores de baloncesto, tenistas y otros deportistas: trayectoria, récords y datos verificados." },
+      "de": { "name": "Sportler", "slug": "sportler", "description": "Fußballer, Basketballer, Tennisspieler und andere Sportler: Karriere, Rekorde und geprüfte Fakten." },
+      "fr": { "name": "Sportifs", "slug": "sportifs", "description": "Footballeurs, basketteurs, joueurs de tennis et autres sportifs : carrière, records et faits vérifiés." },
+      "pt": { "name": "Atletas", "slug": "atletas", "description": "Jogadores de futebol, basquete, tênis e outros atletas: carreira, recordes e fatos checados." }
+    }
+  },
+  {
+    "id": "business",
+    "order": 2,
+    "i18n": {
+      "en": { "name": "Founders & executives", "slug": "founders-executives", "description": "Company founders, chief executives and investors: how they built what they built, with sourced numbers." },
+      "es": { "name": "Emprendedores y directivos", "slug": "emprendedores-directivos", "description": "Fundadores, consejeros delegados e inversores: cómo construyeron sus empresas, con cifras contrastadas." },
+      "de": { "name": "Gründer & Manager", "slug": "gruender-manager", "description": "Gründerinnen, Vorstände und Investoren: wie sie ihre Unternehmen aufgebaut haben, mit belegten Zahlen." },
+      "fr": { "name": "Entrepreneurs et dirigeants", "slug": "entrepreneurs-dirigeants", "description": "Fondateurs, PDG et investisseurs : comment ils ont bâti leur entreprise, chiffres sourcés à l’appui." },
+      "pt": { "name": "Empreendedores e executivos", "slug": "empreendedores-executivos", "description": "Fundadores, CEOs e investidores: como construíram seus negócios, com números checados." }
+    }
+  },
+  {
+    "id": "artists",
+    "order": 3,
+    "i18n": {
+      "en": { "name": "Actors, musicians & directors", "slug": "artists", "description": "Actors, musicians, directors and other artists: their work, awards and career milestones." },
+      "es": { "name": "Actores, músicos y directores", "slug": "artistas", "description": "Actores, músicos, directores y otros artistas: su obra, premios y momentos clave de su carrera." },
+      "de": { "name": "Schauspieler, Musiker & Regisseure", "slug": "kuenstler", "description": "Schauspieler, Musikerinnen, Regisseure und andere Künstler: Werk, Auszeichnungen und Karrierestationen." },
+      "fr": { "name": "Acteurs, musiciens et réalisateurs", "slug": "artistes", "description": "Acteurs, musiciens, réalisateurs et autres artistes : œuvre, récompenses et grandes étapes." },
+      "pt": { "name": "Atores, músicos e diretores", "slug": "artistas", "description": "Atores, músicos, diretores e outros artistas: obra, prêmios e marcos da carreira." }
+    }
+  },
+  {
+    "id": "creators",
+    "order": 4,
+    "i18n": {
+      "en": { "name": "Creators", "slug": "creators", "description": "YouTubers, streamers and online creators: how their channels grew and what they have built since." },
+      "es": { "name": "Creadores de contenido", "slug": "creadores", "description": "YouTubers, streamers y creadores: cómo crecieron sus canales y qué han construido después." },
+      "de": { "name": "Creator", "slug": "creator", "description": "YouTuber, Streamer und Online-Creator: wie ihre Kanäle gewachsen sind und was daraus wurde." },
+      "fr": { "name": "Créateurs", "slug": "createurs", "description": "YouTubeurs, streamers et créateurs : comment leurs chaînes ont grandi et ce qu’ils ont bâti depuis." },
+      "pt": { "name": "Criadores", "slug": "criadores", "description": "YouTubers, streamers e criadores digitais: como seus canais cresceram e o que construíram depois." }
+    }
+  }
+]

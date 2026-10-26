@@ -1,0 +1,15 @@
+{
+  "id": "jonas-keller",
+  "name": "Jonas Keller",
+  "categories": ["athletes"],
+  "importance": 2,
+  "facts": {
+    "birthDate": { "value": "1989-11-02", "sources": ["club"] },
+    "nationality": { "value": ["DE"], "sources": ["club"] }
+  },
+  "sources": [
+    { "id": "club", "url": "https://example.org/club/jonas-keller", "title": "Squad: Jonas Keller", "publisher": "Example FC", "type": "official", "accessed": "2026-10-02" },
+    { "id": "stats", "url": "https://example.org/stats/keller", "title": "Jonas Keller career statistics", "publisher": "Example Stats", "type": "database", "accessed": "2026-10-02" },
+    { "id": "paper", "url": "https://example.org/paper/keller-retires", "title": "Keller hangs up his gloves", "publisher": "Example Zeitung", "type": "press", "accessed": "2026-10-02" }
+  ]
+}

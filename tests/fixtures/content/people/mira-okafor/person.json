@@ -1,0 +1,14 @@
+{
+  "id": "mira-okafor",
+  "name": "Mira Okafor",
+  "categories": ["athletes"],
+  "importance": 2,
+  "facts": {
+    "birthDate": { "value": "2001-07-30", "sources": ["tour"] },
+    "nationality": { "value": ["GB"], "sources": ["tour"] }
+  },
+  "sources": [
+    { "id": "tour", "url": "https://example.org/tour/mira-okafor", "title": "Player profile: Mira Okafor", "publisher": "Example Tennis Tour", "type": "league-or-federation", "accessed": "2026-10-03" },
+    { "id": "mag", "url": "https://example.org/mag/okafor-serve", "title": "How Mira Okafor rebuilt her serve", "publisher": "Example Tennis Magazine", "type": "press", "accessed": "2026-10-03" }
+  ]
+}

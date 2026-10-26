@@ -1,0 +1,16 @@
+{
+  "id": "ana-ferreira",
+  "name": "Ana Ferreira",
+  "categories": ["athletes"],
+  "importance": 2,
+  "facts": {
+    "birthDate": { "value": "1994-03-12", "sources": ["federation"] },
+    "birthPlace": { "value": "Porto, Portugal", "sources": ["federation"] },
+    "nationality": { "value": ["PT"], "sources": ["federation"] }
+  },
+  "related": ["jonas-keller"],
+  "sources": [
+    { "id": "federation", "url": "https://example.org/federation/ana-ferreira", "title": "Athlete profile: Ana Ferreira", "publisher": "Example Rowing Federation", "type": "league-or-federation", "accessed": "2026-10-01" },
+    { "id": "daily", "url": "https://example.org/daily/ferreira-interview", "title": "Ferreira on her first world title", "publisher": "Example Daily", "type": "press", "accessed": "2026-10-01" }
+  ]
+}
