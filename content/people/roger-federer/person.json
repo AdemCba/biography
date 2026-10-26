@@ -1,0 +1,21 @@
+{
+  "id": "roger-federer",
+  "name": "Roger Federer",
+  "categories": ["athletes"],
+  "importance": 5,
+  "wikidata": "Q1426",
+  "sameAs": [],
+  "facts": {
+    "birthDate": { "value": "1981-08-08", "sources": ["britannica"] },
+    "birthPlace": { "value": "Basel, Switzerland", "sources": ["britannica"] },
+    "nationality": { "value": ["CH"], "sources": ["britannica", "atp-bio"] }
+  },
+  "related": [],
+  "sources": [
+    { "id": "atp-bio", "url": "https://www.atptour.com/en/players/-/f324/bio", "title": "Roger Federer: biography", "publisher": "ATP Tour", "type": "league-or-federation", "accessed": "2026-10-26" },
+    { "id": "britannica", "url": "https://www.britannica.com/biography/Roger-Federer", "title": "Roger Federer", "publisher": "Encyclopaedia Britannica", "type": "database", "accessed": "2026-10-26" },
+    { "id": "cnn-2009", "url": "https://edition.cnn.com/2009/SPORT/06/07/tennis.frenchopen.men.federer/index.html", "title": "Federer wins French Open to complete career Grand Slam", "publisher": "CNN", "type": "press", "accessed": "2026-10-26" },
+    { "id": "retirement-statement", "url": "https://scroll.in/latest/1032941/scroll_in", "title": "Audio and full text: Roger Federer announces retirement", "publisher": "Scroll.in", "type": "interview", "accessed": "2026-10-26" },
+    { "id": "nbc-laver", "url": "https://www.nbcdfw.com/news/national-international/i-think-its-the-end-federer-reflects-on-calling-nadal-to-play-last-match-of-career/3144335/", "title": "'I think it's the end': Federer reflects on calling Nadal to play last match of career", "publisher": "NBC (Associated Press)", "type": "press", "accessed": "2026-10-26" }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "usain-bolt",
+  "name": "Usain Bolt",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 5,
+  "wikidata": "Q1189",
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1986-08-21",
+      "sources": [
+        "olympics",
+        "britannica"
+      ]
+    },
+    "birthPlace": {
+      "value": "Sherwood Content, Trelawny, Jamaica",
+      "sources": [
+        "olympics",
+        "britannica"
+      ]
+    },
+    "nationality": {
+      "value": [
+        "JM"
+      ],
+      "sources": [
+        "olympics"
+      ]
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "olympics",
+      "url": "https://olympics.com/en/athletes/usain-bolt",
+      "title": "Usain Bolt: athlete profile",
+      "publisher": "Olympics.com (International Olympic Committee)",
+      "type": "official",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "britannica",
+      "url": "https://www.britannica.com/biography/Usain-Bolt",
+      "title": "Usain Bolt",
+      "publisher": "Encyclopaedia Britannica",
+      "type": "database",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "wa-958",
+      "url": "https://worldathletics.org/news/news/bolt-again-958-world-record-in-berlin-updat",
+      "title": "Bolt again! 9.58 World record in Berlin",
+      "publisher": "World Athletics",
+      "type": "league-or-federation",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "wa-records-2025",
+      "url": "https://worldathletics.org/competitions/world-athletics-championships/world-athletics-championships-tokyo-2025-7190593/news/feature/record-watch-world-athletics-championships-tokyo-25",
+      "title": "Record watch: World Athletics Championships Tokyo 25",
+      "publisher": "World Athletics",
+      "type": "league-or-federation",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "yahoo-1919",
+      "url": "https://au.sports.yahoo.com/on-this-day-jamaican-sprinter-usain-bolt-breaks-200m-world-record-000314732-020147318.html",
+      "title": "On This Day: Usain Bolt cements legacy with 2nd world record in 4 days",
+      "publisher": "Yahoo Sport Australia",
+      "type": "press",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "aljazeera-2011",
+      "url": "https://www.aljazeera.com/amp/sports/2011/8/28/blake-wins-100m-after-favourite-has-bolted",
+      "title": "Blake wins 100m after favourite has bolted",
+      "publisher": "Al Jazeera",
+      "type": "press",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "itv-2017",
+      "url": "https://itv.com/news/2017-01-25/usain-bolt-stripped-of-2008-olympic-relay-gold-medal",
+      "title": "Usain Bolt stripped of 2008 Olympic relay gold medal",
+      "publisher": "ITV News",
+      "type": "press",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "aljazeera-2017",
+      "url": "https://www.aljazeera.com/sports/2017/8/12/sad-farewell-as-bolt-ends-glittering-career-with-injury",
+      "title": "Sad farewell as Bolt ends glittering career with injury",
+      "publisher": "Al Jazeera",
+      "type": "press",
+      "accessed": "2026-10-26"
+    }
+  ]
+}
