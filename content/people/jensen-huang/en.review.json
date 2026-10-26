@@ -1,52 +1,49 @@
 {
   "date": "2026-10-26",
-  "model": "claude-opus-5-5",
+  "model": "claude-sonnet-5-5",
   "approved": false,
   "reasons": [
-    "UNSUPPORTED: \"The company's first big hit came in 1999\" (No citation. CHM only says 'one of NVIDIA's defining moments came in 1999', and Britannica says nothing about a first hit. The claim is also doubtful: the RIVA 128 (1997) is widely credited as NVIDIA's first commercial success. Cut it, or reword to CHM's 'one of the defining moments'.)",
-    "UNSUPPORTED: \"In 1999 NVIDIA launched the GeForce 256, which it marketed as \"the world's first graphics processing unit\", combining transform, lighting and rendering (summary: 'billed as the first GPU')\" (CHM confirms the 1999 launch, the 'world's first graphics processing unit' wording, and transform/lighting/rendering. But that phrase is CHM's own, not NVIDIA marketing copy. The cited source does not say NVIDIA marketed it that way. Either cite an NVIDIA source for the marketing claim or attribute the description to the Computer History Museum. The summary's 'billed as' needs the same fix.)",
-    "UNCITED: \"The company's first big hit came in 1999. (Doubtful: the RIVA 128 in 1997 is usually credited as the first hit.)\"",
-    "UNCITED: \"Huang has a habit of compressing that story into one claim. (Our own characterisation, no source.)\"",
-    "UNCITED: \"Two decades later he co-founded NVIDIA. (Worked out from cited dates: 1972 to 1993 is about 21 years. Acceptable, but uncited.)\"",
-    "UNCITED: \"FAQ answers carry no inline citations. They repeat body facts that are cited.\"",
-    "Reviewer recommends rejection: Almost everything checks out, and the person_json facts (birth date, birthplace) are confirmed. Three fixes are needed before approval. (1) Cut or reword 'The company's first big hit came in 1999'. It is uncited, CHM only says 'one of NVIDIA's defining moments', and the RIVA 128 (1997) is generally seen as the first hit. (2) The body says NVIDIA 'marketed' the GeForce 256 as \"the world's first graphics processing unit\", and the summary says 'billed as'. That wording is CHM's own description, not a cited NVIDIA marketing claim. Either cite an NVIDIA source or attribute the description to the Computer History Museum. (3) Drop or source 'Huang has a habit of compressing that story into one claim'. It is an uncited characterisation. Optional: add inline citations to the FAQ answers. No outdated claims: the NVIDIA bio, fetched live today, still lists him as president and CEO."
+    "UNSUPPORTED: \"Before he turned ten, Huang was scrubbing toilets at a Kentucky reform school (Oneida) that his uncle had mistaken for a prestigious boarding school\" (Britannica says he was nine when he and his brother were sent to their uncle in Tacoma. It says the uncle 'shortly thereafter' sent them to Oneida, and that his parents collected them about two years later. The uncle's mistake and the daily toilet cleaning are confirmed. Nothing says he was still nine, or under ten, at Oneida. Fix: drop 'before he turned ten' or say 'at nine or ten'. Britannica gives no age for Oneida itself.)",
+    "UNSUPPORTED: \"Fox Business reported the milestone on 30 October\" (The article metadata says created 2025-10-30. The visible page says 'Published October 31, 2025'. The page was also modified on 4 Nov. Imprecise. Either drop the date or say 'on 29 October NVIDIA closed at a $5.03 trillion value, Fox reported'.)",
+    "UNCITED: \"'That figure is the company's market valuation, not a measure of Huang's own wealth, and this page does not give a net-worth estimate.' This is an editorial caveat. It is fine, but it has no tag.\"",
+    "Reviewer recommends rejection: Nearly every claim checks out against the cited sources. Two things need fixing before approval. (1) The opening claim that Huang was cleaning toilets at Oneida 'before he turned ten' is not supported. Britannica says only that he was nine when sent to Tacoma and went to Oneida 'shortly thereafter'. It gives no age at Oneida. Reword to match the source, for example 'at nine or ten'. (2) 'Fox Business, reporting the milestone on 30 October' does not match the page, which shows 'Published October 31, 2025'. The milestone itself was on Wednesday 29 October. Use the correct date or drop it. Minor: replace the editorialising 'Huang is blunt about how much he expects from AI' with something neutral, and make clear the tattoo was not in 1999."
   ],
   "claims": [
     {
-      "claim": "Born on 17 February 1963 (person_json.facts.birthDate; body; FAQ)",
+      "claim": "Before he turned ten, Huang was scrubbing toilets at a Kentucky reform school (Oneida) that his uncle had mistaken for a prestigious boarding school",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "unsupported",
+      "note": "Britannica says he was nine when he and his brother were sent to their uncle in Tacoma. It says the uncle 'shortly thereafter' sent them to Oneida, and that his parents collected them about two years later. The uncle's mistake and the daily toilet cleaning are confirmed. Nothing says he was still nine, or under ten, at Oneida. Fix: drop 'before he turned ten' or say 'at nine or ten'. Britannica gives no age for Oneida itself."
+    },
+    {
+      "claim": "He and his brother had been sent over from Thailand alone; Oneida took in children labelled 'difficult'",
       "sourceIds": [
         "britannica"
       ],
       "verdict": "confirmed",
-      "note": "Britannica gives 'born February 17, 1963, Tainan, Taiwan'. The cached Britannica copy dates from 2025-09-21 and shows 'age 61'. That does not matter, because the article does not print an age."
+      "note": "Britannica says they were sent to live with their uncle in Tacoma while their parents stayed in Thailand. It calls Oneida a reform school for 'difficult' children. 'Alone' is a fair inference. It is not stated outright."
     },
     {
-      "claim": "Born in Tainan, Taiwan (person_json.facts.birthPlace; body)",
+      "claim": "Born Jen-Hsun Huang on 17 February 1963 in Tainan, Taiwan, second son of a chemical engineer and a grade-school teacher (also facts.birthDate and facts.birthPlace)",
       "sourceIds": [
         "britannica",
         "chm"
       ],
       "verdict": "confirmed",
-      "note": "Both sources say Tainan, Taiwan."
+      "note": "Britannica gives the date, the place, the second-son detail and the parents' jobs. CHM confirms 1963 and Tainan."
     },
     {
-      "claim": "Born Jen-Hsun Huang",
+      "claim": "Family moved to Thailand when he was five; parents did not plan to stay because of the Vietnam War; father had been accepted into a Carrier worker-training programme; mother taught 10 English words a day",
       "sourceIds": [
         "britannica"
       ],
       "verdict": "confirmed",
-      "note": "Britannica lists 'Also known as: Jen-Hsun Huang'. The foundation's name, Jen-Hsun and Lori Huang Foundation, backs it up. 'Born' is a slightly stronger word than 'also known as', but the claim holds."
+      "note": "All details match Britannica."
     },
     {
-      "claim": "At nine he and his brother were sent from Thailand to the US and ended up at the Oneida Baptist Institute in rural Kentucky, a religious school for children labelled difficult",
-      "sourceIds": [
-        "britannica"
-      ],
-      "verdict": "confirmed",
-      "note": "Britannica: at nine he and his brother were sent to an uncle in Tacoma, who sent them to the Oneida Baptist Institute, described as a religious reform school for 'difficult' children."
-    },
-    {
-      "claim": "The family moved to Thailand when he was five",
+      "claim": "At nine he and his brother were sent to an uncle in Tacoma, then to Oneida; he cleaned toilets daily, his brother worked on a tobacco farm, and the other students bullied them",
       "sourceIds": [
         "britannica"
       ],
@@ -54,7 +51,7 @@
       "note": "Matches Britannica."
     },
     {
-      "claim": "He went to an uncle in Tacoma, Washington, who placed the boys at the Kentucky school",
+      "claim": "About two years later the parents arrived, found out what the school was and took the boys out; the family settled near Portland, Oregon; at Aloha High School he played competitive table tennis, earned a national ranking and graduated in 1981",
       "sourceIds": [
         "britannica"
       ],
@@ -62,95 +59,65 @@
       "note": "Matches Britannica."
     },
     {
-      "claim": "About two years later his parents reached the US, took the boys out of Oneida and settled near Portland, Oregon",
+      "claim": "Bachelor's degree in electrical engineering from Oregon State University, 1984; met fellow engineering student Lori Mills there, and the two later married",
       "sourceIds": [
         "britannica"
       ],
       "verdict": "confirmed",
-      "note": "Matches Britannica ('About two years later… settled in the suburbs of Portland')."
+      "note": "Matches Britannica. NVIDIA's bio also confirms the OSU BSEE."
     },
     {
-      "claim": "Graduated from Aloha High School in 1981",
-      "sourceIds": [
-        "britannica"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches Britannica."
-    },
-    {
-      "claim": "Studied electrical engineering at Oregon State University and graduated in 1984; met Lori Mills there, who became his wife",
-      "sourceIds": [
-        "britannica"
-      ],
-      "verdict": "confirmed",
-      "note": "Britannica: BS in EE from OSU in 1984. Met Lori Mills, a fellow engineering student, and they later married. The NVIDIA bio also gives the BSEE from OSU."
-    },
-    {
-      "claim": "About a year at AMD, then LSI Logic from 1985 to 1993, where he rose to run a division",
+      "claim": "Worked at AMD for about a year, then LSI Logic from 1985 to 1993, eventually becoming director of a division; later earned a master's in electrical engineering at Stanford while working",
       "sourceIds": [
         "nvidia-bio",
         "britannica"
       ],
       "verdict": "confirmed",
-      "note": "NVIDIA bio: AMD 1984–1985, LSI Logic 1985–1993. Britannica: he became director of a company division."
+      "note": "NVIDIA's bio gives LSI Logic 1985-1993 and AMD 1984-1985. Britannica gives the director role and the Stanford master's earned while working."
     },
     {
-      "claim": "Completed a master's in electrical engineering at Stanford while working",
+      "claim": "NVIDIA was founded on 5 April 1993 by Huang, Malachowsky and Priem to bring 3D graphics to gaming and multimedia",
       "sourceIds": [
-        "nvidia-bio"
+        "nvidia-history"
       ],
       "verdict": "confirmed",
-      "note": "NVIDIA bio lists an MSEE from Stanford. Britannica adds that he earned it while working."
+      "note": "NVIDIA's timeline gives the exact date, the three founders and the stated aim."
     },
     {
-      "claim": "In April 1993 he co-founded NVIDIA with Chris Malachowsky and Curtis Priem and was chosen as CEO (body and FAQ)",
-      "sourceIds": [
-        "britannica",
-        "chm"
-      ],
-      "verdict": "confirmed",
-      "note": "Britannica gives the April 1993 date and says the other two picked Huang as CEO. CHM confirms 1993 and both co-founders."
-    },
-    {
-      "claim": "Started with $40,000; venture capital firms later put in $20 million",
+      "claim": "Malachowsky and Priem, fellow chip designers, picked Huang as CEO; they started with $40,000 and soon raised an initial $20 million from venture capital firms, which carried the company through a hard first few years",
       "sourceIds": [
         "britannica"
       ],
       "verdict": "confirmed",
-      "note": "Britannica says they began with $40,000 and 'soon' got an initial $20 million from VC firms. 'Later' is acceptable."
+      "note": "Matches Britannica. The article attributes the 'carried the company through' judgement to Britannica."
     },
     {
-      "claim": "President, CEO and board member since the start",
+      "claim": "Huang has been president, CEO and a board member since the start",
       "sourceIds": [
         "nvidia-bio"
       ],
       "verdict": "confirmed",
-      "note": "NVIDIA bio, live page fetched 2026-10-26: 'has served since its inception as president, chief executive officer, and a member of the board of directors.'"
+      "note": "NVIDIA's bio page, fetched 2026-10-26, still lists him as co-founder, president and CEO, so the claim is current."
     },
     {
-      "claim": "The company's first big hit came in 1999",
-      "sourceIds": [],
-      "verdict": "unsupported",
-      "note": "No citation. CHM only says 'one of NVIDIA's defining moments came in 1999', and Britannica says nothing about a first hit. The claim is also doubtful: the RIVA 128 (1997) is widely credited as NVIDIA's first commercial success. Cut it, or reword to CHM's 'one of the defining moments'."
-    },
-    {
-      "claim": "NVIDIA went public in 1999",
+      "claim": "NVIDIA went public in 1999; Huang had the logo tattooed on his left shoulder when the stock hit $100; he has said he probably would not get another",
       "sourceIds": [
         "britannica"
       ],
       "verdict": "confirmed",
-      "note": "Britannica: 'The company went public in 1999.'"
+      "note": "Matches Britannica. Minor risk: placing the tattoo right after the 1999 IPO sentence could imply it happened in 1999. Britannica gives no date for the tattoo."
     },
     {
-      "claim": "In 1999 NVIDIA launched the GeForce 256, which it marketed as \"the world's first graphics processing unit\", combining transform, lighting and rendering (summary: 'billed as the first GPU')",
+      "claim": "The same year (1999) the company launched the GeForce 256, which CHM calls the world's first GPU, combining transform, lighting and rendering; NVIDIA's history dates the invention of the GPU to 1999 (also the summary)",
       "sourceIds": [
-        "chm"
+        "chm",
+        "nvidia-history"
       ],
-      "verdict": "unsupported",
-      "note": "CHM confirms the 1999 launch, the 'world's first graphics processing unit' wording, and transform/lighting/rendering. But that phrase is CHM's own, not NVIDIA marketing copy. The cited source does not say NVIDIA marketed it that way. Either cite an NVIDIA source for the marketing claim or attribute the description to the Computer History Museum. The summary's 'billed as' needs the same fix."
+      "verdict": "confirmed",
+      "note": "Both sources match."
     },
     {
-      "claim": "CUDA released in 2006 for general-purpose computing on GPUs",
+      "claim": "Through the early 2000s steady performance gains made NVIDIA the leading supplier of graphics chips for gamers and professionals",
       "sourceIds": [
         "chm"
       ],
@@ -158,39 +125,24 @@
       "note": "Matches CHM."
     },
     {
-      "claim": "After AlexNet was trained on NVIDIA GPUs in 2012, the company shifted to accelerated computing for AI (body and summary)",
+      "claim": "CUDA released in 2006 as a platform for general computing on NVIDIA GPUs; universities and national laboratories soon used the chips in some of the world's fastest supercomputers",
       "sourceIds": [
         "chm"
       ],
       "verdict": "confirmed",
-      "note": "CHM says the company 'pivoted again to drive the modern era of AI with accelerated computing' after its GPUs powered AlexNet in 2012."
+      "note": "Matches CHM."
     },
     {
-      "claim": "Huang called AI 'the technology industry's single greatest contribution to social elevation'",
+      "claim": "In 2012 NVIDIA GPUs powered AlexNet, which the company points to as the start of modern AI, and NVIDIA turned to accelerated computing for AI (also the summary)",
       "sourceIds": [
-        "chm"
+        "chm",
+        "nvidia-history"
       ],
       "verdict": "confirmed",
-      "note": "The quote is exact on the CHM profile. The lead-in 'Huang has a habit of compressing that story into one claim' is our own characterisation, and no source supports it."
+      "note": "CHM gives the 2012 AlexNet use and the pivot. NVIDIA's timeline gives the 'era of modern AI' wording."
     },
     {
-      "claim": "At the 2018 GTC he argued GPU performance was improving faster than Moore's law, and the press called it 'Huang's law'",
-      "sourceIds": [
-        "britannica"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches Britannica: 2018 GTC in San Jose, GPUs 25x faster than five years earlier, press named it 'Huang's law'."
-    },
-    {
-      "claim": "Fortune Businessperson of the Year 2017; HBR No. 1 best-performing CEO over tenure in 2019",
-      "sourceIds": [
-        "nvidia-bio"
-      ],
-      "verdict": "confirmed",
-      "note": "Both appear word for word in the NVIDIA bio. Britannica agrees."
-    },
-    {
-      "claim": "On the Time 100 most influential people list in 2021",
+      "claim": "Chips built for game graphics turned out to be well suited to running machine-learning algorithms",
       "sourceIds": [
         "britannica"
       ],
@@ -198,15 +150,31 @@
       "note": "Matches Britannica."
     },
     {
-      "claim": "Computer History Museum Fellow in 2024 for computer graphics, accelerated computing and AI",
+      "claim": "CHM's profile says most AI models today, from large language models to driving systems, are trained and run on NVIDIA technology",
       "sourceIds": [
         "chm"
       ],
       "verdict": "confirmed",
-      "note": "CHM: '2024 Fellow… for visionary leadership in the advancement of devices and systems for computer graphics, accelerated computing, and artificial intelligence'."
+      "note": "Matches CHM. The CHM page was last modified in May 2024, so 'today' reflects 2024. It is attributed to the museum, which is acceptable."
     },
     {
-      "claim": "Jen-Hsun and Lori Huang Foundation set up in 2007 (body and FAQ)",
+      "claim": "In 2018 NVIDIA introduced RTX, which it describes as the first GPU capable of real-time ray tracing",
+      "sourceIds": [
+        "nvidia-history"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches NVIDIA's timeline, and the article attributes the description to the company."
+    },
+    {
+      "claim": "CHM quotes Huang calling AI the technology industry's 'single greatest contribution to social elevation'",
+      "sourceIds": [
+        "chm"
+      ],
+      "verdict": "confirmed",
+      "note": "The quote is on the CHM page. The lead-in 'Huang is blunt about how much he expects from AI' is the article's own characterisation (see style note)."
+    },
+    {
+      "claim": "At the 2018 GTC in San Jose Huang said GPUs were 25 times faster than five years earlier, outpacing Moore's law; the press named it 'Huang's law'",
       "sourceIds": [
         "britannica"
       ],
@@ -214,31 +182,119 @@
       "note": "Matches Britannica."
     },
     {
-      "claim": "FAQ: wife is Lori Huang, born Lori Mills; they met as students at OSU",
-      "sourceIds": [
-        "britannica"
-      ],
-      "verdict": "confirmed",
-      "note": "The FAQ has no inline citation, but the body cites Britannica, which supports it. This is private-life information reported on the record and relevant to the story."
-    },
-    {
-      "claim": "knownFor / summary: co-founder, president and CEO of NVIDIA, running it since 1993",
+      "claim": "Fortune named Huang Businessperson of the Year for 2017; Harvard Business Review put him first on its 2019 list of the world's 100 best-performing CEOs over the lifetime of their tenure",
       "sourceIds": [
         "nvidia-bio"
       ],
       "verdict": "confirmed",
-      "note": "Live NVIDIA page, fetched today (2026-10-26), still lists him as Co-founder, President and CEO, so it is not outdated."
+      "note": "NVIDIA's bio says the same. Britannica words the HBR item more loosely (world's best-performing CEO in 2019). The article uses the more precise NVIDIA wording."
+    },
+    {
+      "claim": "Time included him among the 100 most influential people of 2021",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches Britannica."
+    },
+    {
+      "claim": "CHM made him a 2024 Fellow for leadership in devices and systems for computer graphics, accelerated computing and AI",
+      "sourceIds": [
+        "chm"
+      ],
+      "verdict": "confirmed",
+      "note": "CHM page title and citation confirm the 2024 Fellow award and the wording."
+    },
+    {
+      "claim": "Huang and his wife founded the Jen-Hsun and Lori Huang Foundation in 2007; per Britannica it has given to their alma maters, public health initiatives and San Francisco Bay Area organisations (also the FAQ on his wife)",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches Britannica. It says the foundation 'made donations'. The article's 'has given' is acceptable. The FAQ says they met as engineering students at OSU, which is also in Britannica."
+    },
+    {
+      "claim": "In late October 2025 NVIDIA became the first company to reach a $5 trillion market valuation; shares had risen about twelvefold since ChatGPT launched in 2022",
+      "sourceIds": [
+        "foxbusiness-5t"
+      ],
+      "verdict": "confirmed",
+      "note": "Fox says the milestone came on Wednesday (29 Oct 2025) and gives the twelvefold rise since ChatGPT's 2022 launch, citing Reuters. A past event, so not outdated."
+    },
+    {
+      "claim": "Fox Business reported the milestone on 30 October",
+      "sourceIds": [
+        "foxbusiness-5t"
+      ],
+      "verdict": "unsupported",
+      "note": "The article metadata says created 2025-10-30. The visible page says 'Published October 31, 2025'. The page was also modified on 4 Nov. Imprecise. Either drop the date or say 'on 29 October NVIDIA closed at a $5.03 trillion value, Fox reported'."
+    },
+    {
+      "claim": "On 11 December 2025 Time named the 'Architects of AI' its Person of the Year; eight people, six first-time recipients, including Huang, Sam Altman and AMD's Lisa Su",
+      "sourceIds": [
+        "fastcompany-poy"
+      ],
+      "verdict": "confirmed",
+      "note": "The AP piece is dated 11 Dec 2025 and says there are eight people with six first-time recipients, naming Huang, Altman and Su. 'Six weeks later' after 30 Oct is accurate."
+    },
+    {
+      "claim": "Huang himself had spent a year at AMD after graduating in 1984",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica says about a year. NVIDIA's bio gives 1984 to 1985."
+    },
+    {
+      "claim": "In 2026 IEEE gave him its Medal of Honor 'for leadership in the development of graphics processing units and their application to scientific computing and artificial intelligence'",
+      "sourceIds": [
+        "ieee-recipient"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote and year match the IEEE recipient page (19 words)."
+    },
+    {
+      "claim": "IEEE describes the medal as its most prestigious award; Huang was presented with it at the IEEE Honors Ceremony in New York City",
+      "sourceIds": [
+        "ieee-honors"
+      ],
+      "verdict": "confirmed",
+      "note": "IEEE says presented in April 2026 at the Honors Ceremony in New York City. It calls the medal its most prestigious or highest award. The IEEE Spectrum source (listed in person.json, not cited in the body) agrees."
+    },
+    {
+      "claim": "FAQ: Born 17 February 1963, which makes him 63 as of 26 October 2026",
+      "sourceIds": [
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic is correct: 63 after 17 Feb 2026. The Britannica page itself is stale (it shows age 61), but the birth date is the same."
+    },
+    {
+      "claim": "FAQ: Huang, Malachowsky and Priem founded NVIDIA in April 1993 and chose Huang as CEO; he studied at Oregon State (BS EE 1984) and Stanford (MS EE); Tainan birth, Thailand at five, US at nine",
+      "sourceIds": [
+        "britannica",
+        "nvidia-history",
+        "chm"
+      ],
+      "verdict": "confirmed",
+      "note": "The same facts are confirmed above. The FAQ gives no tags, but the body supports each answer."
+    },
+    {
+      "claim": "Summary and knownFor: Taiwan-born American engineer, co-founder, president and CEO of NVIDIA",
+      "sourceIds": [
+        "nvidia-bio",
+        "britannica"
+      ],
+      "verdict": "confirmed",
+      "note": "NVIDIA's bio supports the roles. Britannica says 'entrepreneur'. 'Engineer' is backed by his EE degrees."
     }
   ],
   "uncitedClaims": [
-    "The company's first big hit came in 1999. (Doubtful: the RIVA 128 in 1997 is usually credited as the first hit.)",
-    "Huang has a habit of compressing that story into one claim. (Our own characterisation, no source.)",
-    "Two decades later he co-founded NVIDIA. (Worked out from cited dates: 1972 to 1993 is about 21 years. Acceptable, but uncited.)",
-    "FAQ answers carry no inline citations. They repeat body facts that are cited."
+    "'That figure is the company's market valuation, not a measure of Huang's own wealth, and this page does not give a net-worth estimate.' This is an editorial caveat. It is fine, but it has no tag."
   ],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "The timeline is clear and checked against primary sources: exact AMD (1984–85) and LSI Logic (1985–93) dates from NVIDIA's own board bio, the CHM fellowship citation, and the Oneida backstory in plain language. The sections are named for what they contain, there are no hype words or em dashes, and it opens on a concrete fact. The added value over Wikipedia and Britannica is modest, since the content leans heavily on Britannica. The tidy primary-source timeline and the direct answers to the target queries (age, education, founders, wife) justify it.",
+  "valueNote": "It has a clear biographical timeline from Taiwan and Thailand to Kentucky, Oregon and NVIDIA, built mostly from primary or authoritative sources (NVIDIA, CHM, IEEE, AP). It puts the 2025 and 2026 honours in context and connects the AMD detail across sections. It avoids hype and does not put a net-worth number on a high-risk topic. The voice is concrete and varied, with no em dashes or banned hype words. One small voice problem: 'Huang is blunt about how much he expects from AI' is the article's own characterisation, not a sourced opinion.",
   "decision": "reject",
-  "summary": "Almost everything checks out, and the person_json facts (birth date, birthplace) are confirmed. Three fixes are needed before approval. (1) Cut or reword 'The company's first big hit came in 1999'. It is uncited, CHM only says 'one of NVIDIA's defining moments', and the RIVA 128 (1997) is generally seen as the first hit. (2) The body says NVIDIA 'marketed' the GeForce 256 as \"the world's first graphics processing unit\", and the summary says 'billed as'. That wording is CHM's own description, not a cited NVIDIA marketing claim. Either cite an NVIDIA source or attribute the description to the Computer History Museum. (3) Drop or source 'Huang has a habit of compressing that story into one claim'. It is an uncited characterisation. Optional: add inline citations to the FAQ answers. No outdated claims: the NVIDIA bio, fetched live today, still lists him as president and CEO."
+  "summary": "Nearly every claim checks out against the cited sources. Two things need fixing before approval. (1) The opening claim that Huang was cleaning toilets at Oneida 'before he turned ten' is not supported. Britannica says only that he was nine when sent to Tacoma and went to Oneida 'shortly thereafter'. It gives no age at Oneida. Reword to match the source, for example 'at nine or ten'. (2) 'Fox Business, reporting the milestone on 30 October' does not match the page, which shows 'Published October 31, 2025'. The milestone itself was on Wednesday 29 October. Use the correct date or drop it. Minor: replace the editorialising 'Huang is blunt about how much he expects from AI' with something neutral, and make clear the tattoo was not in 1999."
 }

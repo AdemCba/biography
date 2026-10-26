@@ -7,6 +7,13 @@
   "importance": 5,
   "wikidata": "Q1426",
   "sameAs": [],
+  "image": {
+    "src": "/images/people/roger-federer.jpg",
+    "alt": "Roger Federer",
+    "credit": "si.robi",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Federer_WM16_(37)_(28136155830).jpg"
+  },
   "facts": {
     "birthDate": {
       "value": "1981-08-08",
@@ -71,13 +78,30 @@
       "publisher": "NBC (Associated Press)",
       "type": "press",
       "accessed": "2026-10-26"
+    },
+    {
+      "id": "ithf-class-2026",
+      "url": "https://www.tennisfame.com/class-of-2026",
+      "title": "Roger Federer to be Inducted into the International Tennis Hall of Fame in 2026",
+      "publisher": "International Tennis Hall of Fame",
+      "type": "league-or-federation",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "olympics-hof",
+      "url": "https://www.olympics.com/en/news/roger-federer-inducted-international-tennis-hall-of-fame",
+      "title": "Roger Federer inducted into International Tennis Hall of Fame: \"One of the greatest honours of my life\"",
+      "publisher": "Olympics.com",
+      "type": "press",
+      "accessed": "2026-10-26"
+    },
+    {
+      "id": "atp-hof-2026",
+      "url": "https://www.atptour.com/en/news/federer-hall-of-fame-2026-induction-photo-gallery",
+      "title": "Roger Federer's Hall of Fame Induction: View best photos from star-studded ceremony",
+      "publisher": "ATP Tour",
+      "type": "league-or-federation",
+      "accessed": "2026-10-26"
     }
-  ],
-  "image": {
-    "src": "/images/people/roger-federer.jpg",
-    "alt": "Roger Federer",
-    "credit": "si.robi",
-    "license": "CC BY-SA 2.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Federer_WM16_(37)_(28136155830).jpg"
-  }
+  ]
 }

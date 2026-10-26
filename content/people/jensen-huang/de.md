@@ -41,16 +41,34 @@ faq:
     a: >-
       In Tainan, Taiwan, am 17. Februar 1963. Die Familie zog mit ihm als
       Fünfjährigem nach Thailand, mit neun Jahren kam er in die USA.
-autoRevisions: 1
-autoReviews: 1
+autoRevisions: 2
+autoReviews: 2
+reviewNotes: >-
+  WRONG: "FAQ: 'Die drei Gründer bestimmten Huang von Anfang an zum CEO'"
+  (Britannica says Malachowsky and Priem selected Huang as CEO. Huang was one of
+  the three founders, so he did not choose himself. Fix to: the two co-founders
+  chose him as CEO. The body text already says this correctly.) | UNSUPPORTED:
+  "'Fox Business berichtete darüber am 30. Oktober'" (The page's metadata says
+  created 2025-10-30, but the visible byline reads 'Published October 31, 2025
+  6:00am EDT' (modified 4 Nov). The sources conflict, so the report date is
+  unreliable. Drop it or cite the correct date.) | Reviewer recommends
+  rejection: Nearly every claim checks out against the sources, but two items
+  need fixing before publication. (1) The FAQ answer 'Die drei Gründer
+  bestimmten Huang von Anfang an zum CEO' is wrong: Britannica says Malachowsky
+  and Priem selected Huang, so change it to 'die beiden Mitgründer'. (2) The
+  body says Fox Business reported the $5 trillion milestone 'am 30. Oktober',
+  but the visible byline on the fetched Fox page says 'Published October 31,
+  2025'. Only the page metadata says 30 October. Drop the report date or correct
+  it. Optional: say 'Direktor einer Sparte' to match Britannica's wording. After
+  these edits it can be re-checked and approved.
 ---
-Jensen Huang ist heute 63 Jahre alt (Stand Oktober 2026), geboren am 17. Februar 1963 [s:britannica]. Mit neun Jahren landete er in einem Internat in Kentucky, in dem er täglich Toiletten putzen musste. Gut zwei Jahrzehnte später gründete er NVIDIA [s:britannica] [s:nvidia-history].
+Mit neun Jahren kam Jensen Huang in ein Internat in Kentucky, in dem er jeden Tag Toiletten putzen musste [s:britannica] [s:chm]. Gut fünfzig Jahre später führte er das erste Unternehmen der Welt, das an der Börse fünf Billionen Dollar wert war [s:foxbusiness-5t]. Heute ist er 63 Jahre alt (Stand Oktober 2026), geboren am 17. Februar 1963 [s:britannica]. NVIDIA hat er 1993 mitgegründet [s:nvidia-history].
 
 ## Von Tainan nach Oregon
 
 Geboren wurde er als Jen-Hsun Huang in Tainan, Taiwan, als zweiter Sohn eines Chemieingenieurs und einer Grundschullehrerin [s:britannica] [s:chm]. Als er fünf war, zog die Familie nach Thailand. Dort wollten die Eltern wegen des Vietnamkriegs nicht auf Dauer bleiben. Der Vater hatte in einem Ausbildungsprogramm des US-Klimaanlagenherstellers Carrier einen guten Eindruck von den USA gewonnen, und die Mutter brachte den Söhnen täglich zehn englische Wörter bei [s:britannica].
 
-Mit neun Jahren schickten die Eltern Jensen und seinen Bruder zu einem Onkel nach Tacoma im Bundesstaat Washington, während sie selbst in Thailand blieben. Der Onkel meldete die beiden am Oneida Baptist Institute in Kentucky an, weil er es für ein Eliteinternat hielt. Tatsächlich war es eine kirchliche Erziehungsanstalt für Jungen, die als "schwierig" galten. Huang putzte dort jeden Tag Toiletten, sein Bruder arbeitete auf einer Tabakfarm, und beide wurden von Mitschülern gemobbt [s:britannica].
+Mit neun Jahren schickten die Eltern Jensen und seinen Bruder zu einem Onkel nach Tacoma im Bundesstaat Washington, während sie selbst in Thailand blieben. Der Onkel meldete die beiden am Oneida Baptist Institute in Kentucky an, weil er es für ein Eliteinternat hielt. Tatsächlich war es eine kirchliche Erziehungsanstalt für Jungen, die als „schwierig“ galten. Huang putzte dort jeden Tag Toiletten, sein Bruder arbeitete auf einer Tabakfarm, und beide wurden von Mitschülern gemobbt [s:britannica].
 
 Rund zwei Jahre später kamen die Eltern in die USA, holten die Söhne aus dem Internat, und die Familie ließ sich in einem Vorort von Portland in Oregon nieder [s:britannica]. An der Aloha High School spielte Huang Tischtennis und erreichte eine nationale Platzierung. 1981 machte er dort seinen Abschluss [s:britannica].
 
@@ -68,16 +86,24 @@ NVIDIA wurde am 5. April 1993 gegründet, von Huang gemeinsam mit Chris Malachow
 
 ## Von Spielegrafik zu künstlicher Intelligenz
 
-2006 stellte NVIDIA CUDA vor, eine Plattform, mit der sich die GPUs für allgemeine Berechnungen statt nur für Grafik nutzen ließen [s:chm] [s:nvidia-history]. Universitäten und nationale Labore bauten damit bald einige der schnellsten Supercomputer der Welt [s:chm].
+Der IEEE nennt als nächsten Schritt das Jahr 2001: Unter Huangs Leitung habe NVIDIA damals eine programmierbare GPU eingeführt [s:ieee-honors]. 2006 folgte CUDA, eine Plattform, mit der sich die GPUs für allgemeine Berechnungen statt nur für Grafik nutzen ließen [s:chm] [s:nvidia-history]. Universitäten und nationale Labore bauten damit bald einige der schnellsten Supercomputer der Welt [s:chm].
 
 2012 lief das neuronale Netz AlexNet auf NVIDIA-GPUs. Das Unternehmen richtete sein Geschäft danach auf beschleunigtes Rechnen für KI aus [s:chm] [s:nvidia-history]. Heute laufen laut dem Computer History Museum die meisten KI-Modelle auf NVIDIA-Technik [s:chm]. 2018 folgte RTX, nach NVIDIA-Angaben die erste GPU mit Echtzeit-Raytracing [s:nvidia-history].
 
-Im selben Jahr sagte Huang auf der hauseigenen GPU Technology Conference in San Jose, NVIDIA-GPUs seien innerhalb von fünf Jahren 25-mal schneller geworden und damit schneller als vom Mooreschen Gesetz vorhergesagt. Die Presse nannte das sofort "Huangsches Gesetz" [s:britannica].
+Im selben Jahr sagte Huang auf der hauseigenen GPU Technology Conference in San Jose, NVIDIA-GPUs seien innerhalb von fünf Jahren 25-mal schneller geworden und damit schneller als vom Mooreschen Gesetz vorhergesagt. Die Presse nannte das sofort „Huangsches Gesetz“ [s:britannica].
 
-Am 30. Oktober 2025 meldete Fox Business, NVIDIA sei als erstes Unternehmen auf einen Börsenwert von 5 Billionen Dollar gekommen. Die Aktie hatte sich seit dem Start von ChatGPT 2022 etwa verzwölffacht [s:foxbusiness-5t].
+## Fünf Billionen Dollar
+
+Am Mittwoch, dem 29. Oktober 2025, schloss die NVIDIA-Aktie bei 207,04 Dollar, ein Plus von drei Prozent an diesem Tag. Das Unternehmen kam damit auf einen Börsenwert von 5,03 Billionen Dollar und war das erste in der Geschichte, das diese Marke erreichte. Fox Business berichtete darüber am 30. Oktober [s:foxbusiness-5t]. Seit dem Start von ChatGPT 2022 hatte sich die Aktie etwa verzwölffacht [s:foxbusiness-5t].
+
+Huang selbst ordnete das im selben Monat in der Sendung „The Sunday Briefing“ von Fox News so ein: NVIDIA sei „the engine of the largest industrial revolution in human history“, nach Dampfmaschine, Elektrizität und Informationstechnik komme nun die künstliche Intelligenz [s:foxbusiness-5t]. Fox Business beschreibt den Weg der Firma als Aufstieg von einem Videospiel-Grafikhersteller zu einem Motor des KI-Booms [s:foxbusiness-5t].
 
 ## Ehrungen und Stiftung
 
-Fortune wählte Huang 2017 zur "Businessperson of the Year". 2019 setzte ihn die Harvard Business Review auf Platz 1 ihrer Liste der 100 bestperformenden CEOs über die gesamte Amtszeit gerechnet [s:nvidia-bio]. Das Magazin Time nahm ihn 2021 in die Liste der 100 einflussreichsten Menschen auf [s:britannica]. 2024 ernannte ihn das Computer History Museum zum Fellow, "für visionäre Führung" bei Computergrafik, beschleunigtem Rechnen und künstlicher Intelligenz [s:chm].
+Fortune wählte Huang 2017 zur „Businessperson of the Year“. 2019 setzte ihn die Harvard Business Review auf Platz 1 ihrer Liste der 100 bestperformenden CEOs über die gesamte Amtszeit gerechnet [s:nvidia-bio]. Das Magazin Time nahm ihn 2021 in die Liste der 100 einflussreichsten Menschen auf [s:britannica]. 2024 ernannte ihn das Computer History Museum zum Fellow, „für visionäre Führung“ bei Computergrafik, beschleunigtem Rechnen und künstlicher Intelligenz [s:chm].
+
+Im Dezember 2025 kürte Time die „Architects of AI“ zur Person des Jahres. Das waren acht Menschen, darunter Huang, Sam Altman von OpenAI und Lisa Su von AMD. Sechs der acht wurden zum ersten Mal ausgezeichnet, Huang gehörte dazu. Eines der Titelbilder zeigt die acht auf einem Stahlträger und knüpft damit an das Foto „Lunch Atop a Skyscraper“ aus den 1930er-Jahren an [s:fastcompany-poy].
+
+Am 6. Januar 2026 gab IEEE-Präsidentin Mary Ellen Randall auf der Technikmesse CES in Las Vegas bekannt, dass Huang die IEEE Medal of Honor 2026 erhält, „für Führung bei der Entwicklung von Grafikprozessoren und ihrer Anwendung im wissenschaftlichen Rechnen und in der künstlichen Intelligenz“ [s:ieee-spectrum] [s:ieee-recipient]. Die Auszeichnung ist mit 2 Millionen Dollar dotiert. Huang sagte bei der Bekanntgabe, er nehme sie im Namen aller NVIDIA-Mitarbeiter entgegen [s:ieee-spectrum]. Im April 2026 überreichte Randall ihm die Medaille bei der IEEE Honors Ceremony in New York [s:ieee-honors].
 
 2007 gründete er mit seiner Frau die Jen-Hsun and Lori Huang Foundation. Sie spendete an die Universitäten der beiden, an Gesundheitsprojekte und an Organisationen in der Bay Area [s:britannica].

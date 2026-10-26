@@ -1,218 +1,306 @@
 {
   "date": "2026-10-26",
-  "model": "claude-opus-5-5",
+  "model": "claude-sonnet-5-5",
   "approved": false,
   "reasons": [
-    "UNSUPPORTED: \"Jugó allí un único partido, el 23 de septiembre\" (NBC supports the 23 September date (ceremony 'after the loss on Sept. 23') and that this was his last match. It never says it was his only match at the Laver Cup. Either drop 'un único partido' or cite a source that says it, such as Laver Cup or ATP match records.)",
-    "UNCITED: \"'Tres décadas después se retiró con 20 Grand Slams' (lede). This is a rounded timespan (1993–2022 is 29 years) and has no citation.\"",
-    "UNCITED: \"'Con ese título igualó entonces los 14 grandes de Pete Sampras y entró en el grupo de seis hombres con los cuatro Grand Slams' has no citation of its own (cnn-2009 is on the next sentence). Add [s:cnn-2009] directly after it.\"",
-    "UNCITED: \"Frontmatter summary, knownFor, metaDescription and FAQ answers carry no inline citations. All of them are backed by cited sentences in the body.\"",
-    "Reviewer recommends rejection: Every claim checks out against its source except one. 'Jugó allí un único partido' is UNSUPPORTED: nbc-laver says this was his last match, not his only one at the Laver Cup. Drop 'un único' or add a source that says it. Fixes before publishing: (1) fix or source the 'único partido' claim; (2) put [s:cnn-2009] directly on the Sampras / career Grand Slam sentence; (3) answer the main query 'roger federer edad' by giving his current age (45, from the Britannica birth date), ideally with an FAQ entry; (4) optional: spell Söderling and consider mentioning the 2026 Hall of Fame induction, with a source. Nothing is outdated: the 237-week record and the Connors comparison still stand as of October 2026."
+    "UNSUPPORTED: \"Roland Garros 'fue el torneo que más le costó'\" (CNN only says it was the one Slam that eluded him. 'The one that cost him most' is the writer's own gloss, not stated by the source.)",
+    "UNSUPPORTED: \"Söderling was 'verdugo de Nadal una semana antes'\" (CNN says he knocked Nadal out 'earlier in the week', not a week before. Fix the wording or cite a source that gives the date.)",
+    "WRONG: \"'Agassi, último campeón en París antes que él, le entregó el trofeo'\" (CNN says Agassi was the 1999 French Open champion and the last player to win all four Slams. He was not the last Paris champion before Federer: Nadal won Roland Garros 2005-08. Correct to 'el último hombre en completar el Grand Slam de carrera' or 'campeón de 1999'.)",
+    "OUTDATED: \"Foundation founded in 2003; 'ha llegado a más de un millón de niños y ha invertido más de 50 millones de dólares'; works in Zambia, Namibia, Zimbabwe, Malawi, Botswana, South Africa and Switzerland\" (The ATP line matches, but the figures are old (the 1 million milestone was reached in 2018). ITHF's Federer page says more than three million children by early 2026, and the Wikipedia lead gives 3.82M by end of 2025 (a lead only). The sentence describes the present, so it needs a current figure from the foundation's own site or annual report. The foundation also appears to have been renamed 'Federer Foundation'.)",
+    "UNCITED: \"'Roland Garros fue el torneo que más le costó' (interpretive; the next tagged sentence only supports that he had never won there)\"",
+    "UNCITED: \"'Sigue siendo aficionado del FC Basel' (present tense; the source line is undated)\"",
+    "Reviewer recommends rejection: Almost every claim is confirmed against the sources, but two things must be fixed before publishing. (1) WRONG: 'Agassi, último campeón en París antes que él' contradicts CNN, which says Agassi won in 1999 and was the last man to complete the career Slam. Nadal won Paris in 2005-08. (2) OUTDATED: the foundation figures ('más de un millón de niños', '50 millones') are old. ITHF puts the reach at more than three million children by early 2026, so get the current figure and name from the foundation's own report. Also fix 'una semana antes' (Söderling over Nadal): CNN says 'earlier in the week'. Drop or soften 'el torneo que más le costó', which CNN does not say. Olympics.com could not be opened with web_fetch; its content was confirmed through the search result for the same URL."
   ],
   "claims": [
     {
-      "claim": "Fue recogepelotas en el torneo de Basilea, su ciudad, en 1993 y 1994",
-      "sourceIds": [
-        "atp-bio"
-      ],
-      "verdict": "confirmed",
-      "note": "The ATP bio says he \"Served as ballboy from 1993-94 at hometown tournament in Basel\"."
-    },
-    {
-      "claim": "Nació el 8 de agosto de 1981 en Basilea, Suiza (also person.json birthDate 1981-08-08 and birthPlace Basel)",
+      "claim": "Birth: 8 August 1981 in Basel, Switzerland (facts.birthDate, birthPlace, summary, FAQ, body)",
       "sourceIds": [
         "britannica"
       ],
       "verdict": "confirmed",
-      "note": "Britannica Quick Facts: Born August 8, 1981, Basel, Switzerland."
+      "note": "Britannica Quick Facts: born August 8, 1981, Basel. Nationality CH is consistent with Britannica and the ATP bio (Swiss father, Swiss tennis)."
     },
     {
-      "claim": "Nacionalidad suiza (person.json nationality CH)",
+      "claim": "Age 45; turned 45 on 8 August 2026 (title, metaDescription, FAQ, intro)",
       "sourceIds": [
         "britannica",
-        "atp-bio"
+        "olympics-hof"
       ],
       "verdict": "confirmed",
-      "note": "Britannica calls him a 'Swiss tennis player'. The ATP bio supports it indirectly: Swiss father, Swiss Sportsman of the Year, hometown Basel."
+      "note": "1981-08-08 plus 45 years is 2026-08-08, so he is 45 on 2026-10-26. Olympics.com also calls him 'the 45-year-old'."
     },
     {
-      "claim": "Su padre, Robert, es suizo; su madre, Lynette, sudafricana; tiene una hermana, Diana",
+      "claim": "Ball boy at the Basel tournament in 1993 and 1994",
       "sourceIds": [
         "atp-bio"
       ],
       "verdict": "confirmed",
-      "note": "Matches the ATP bio's Personal section word for word."
+      "note": "ATP bio: ballboy 1993-94 at his hometown tournament in Basel."
     },
     {
-      "claim": "Empezó a jugar a los ocho años",
-      "sourceIds": [
-        "atp-bio"
-      ],
-      "verdict": "confirmed",
-      "note": "The ATP bio says he began playing tennis at age 8."
-    },
-    {
-      "claim": "Creció admirando a Stefan Edberg, Boris Becker y Pete Sampras",
-      "sourceIds": [
-        "atp-bio"
-      ],
-      "verdict": "confirmed",
-      "note": "The ATP bio lists Edberg, Becker and Sampras as his idols growing up."
-    },
-    {
-      "claim": "Su carrera profesional arranca en 1998",
+      "claim": "Retired in 2022 with 20 Grand Slam titles: 6 Australian Open, 1 Roland Garros, 8 Wimbledon, 5 US Open; pro career began in 1998",
       "sourceIds": [
         "britannica"
       ],
       "verdict": "confirmed",
-      "note": "Britannica Quick Facts: Playing career 1998–2022."
+      "note": "Britannica Quick Facts: 20 singles Slams, split 6/1/8/5. Playing career 1998-2022."
     },
     {
-      "claim": "20 Grand Slams: seis Open de Australia, un Roland Garros, ocho Wimbledon y cinco US Open (body, summary, knownFor, FAQ)",
+      "claim": "Inducted into the Tennis Hall of Fame on Saturday 29 August 2026 in Newport, Rhode Island, aged 45, in his first year of eligibility; said fame was never the goal",
       "sourceIds": [
-        "britannica"
+        "olympics-hof"
       ],
       "verdict": "confirmed",
-      "note": "Britannica Quick Facts: 20 Grand Slam singles titles, split AO 6, French 1, Wimbledon 8, US 5."
+      "note": "web_fetch of the Olympics.com URL failed (url_not_accessible). The search result for the same URL confirms Saturday 29 August, Newport, 45-year-old, first year of eligibility, record eight Wimbledon, and the 'fame was never the goal' quote. 29 Aug 2026 is a Saturday."
     },
     {
-      "claim": "Los ocho Wimbledon son récord masculino; en 2018 fue el primer hombre en llegar a 20 grandes",
-      "sourceIds": [
-        "britannica"
-      ],
-      "verdict": "confirmed",
-      "note": "Britannica: \"won a record eight Wimbledon titles, and in 2018 he became the first player to claim 20 Grand Slam men's singles titles\"."
-    },
-    {
-      "claim": "Ninguno de sus 13 primeros grandes llegó en París; en junio de 2009 ganó Roland Garros ante Robin Soderling 6-1, 7-6, 6-4",
-      "sourceIds": [
-        "cnn-2009"
-      ],
-      "verdict": "confirmed",
-      "note": "CNN (7 June 2009): 13 Slams before the event, none on clay at Roland Garros, won the final 6-1 7-6 6-4 over Soderling. Style note: the usual Spanish spelling is Söderling."
-    },
-    {
-      "claim": "Con ese título igualó los 14 grandes de Sampras y entró en el grupo de seis hombres con los cuatro Grand Slams",
-      "sourceIds": [
-        "cnn-2009"
-      ],
-      "verdict": "confirmed",
-      "note": "CNN: level with Sampras on 14. It names Perry, Budge, Laver, Emerson and Agassi, so Federer makes six. The citation sits on the next sentence, not this one."
-    },
-    {
-      "claim": "Dijo que ya podía jugar \"con la mente en paz\"",
-      "sourceIds": [
-        "cnn-2009"
-      ],
-      "verdict": "confirmed",
-      "note": "CNN quotes him: 'I can really play with my mind at peace.'"
-    },
-    {
-      "claim": "103 títulos y 1.251 victorias; en la Era Abierta solo Jimmy Connors sumó más",
+      "claim": "Parents (Robert Swiss, Lynette South African), sister Diana; began playing at 8; idols Edberg, Becker, Sampras; speaks English, French, German, Swiss German; supports FC Basel",
       "sourceIds": [
         "atp-bio"
       ],
       "verdict": "confirmed",
-      "note": "ATP bio (updated 1 May 2025): 103 titles and 1,251 wins, second in the Open Era to Connors' 109 and 1,274."
+      "note": "All in the ATP bio. 'Sigue siendo aficionado' (present tense) rests on a bio line with no date; minor."
     },
     {
-      "claim": "Número uno durante 237 semanas consecutivas, récord en la historia del ranking ATP",
-      "sourceIds": [
-        "atp-bio"
-      ],
-      "verdict": "confirmed",
-      "note": "ATP bio: holds the record for most consecutive weeks at No. 1 (237) since 1973. Still the record as of October 2026."
-    },
-    {
-      "claim": "Oro olímpico en dobles en 2008 y plata individual en 2012",
-      "sourceIds": [
-        "britannica"
-      ],
-      "verdict": "confirmed",
-      "note": "Britannica Quick Facts: 1 gold (2008, doubles), 1 silver (2012, singles)."
-    },
-    {
-      "claim": "Casado con Mirka Vavrinec, que llegó a ser la número 76 de la WTA (FAQ: extenista)",
-      "sourceIds": [
-        "atp-bio"
-      ],
-      "verdict": "confirmed",
-      "note": "ATP bio: wife Mirka Vavrinec, WTA career-high No. 76. This private-life detail is in his official bio, so it is fine to use."
-    },
-    {
-      "claim": "Dos parejas de gemelos: Myla y Charlene, y Leo y Lenny",
-      "sourceIds": [
-        "atp-bio"
-      ],
-      "verdict": "confirmed",
-      "note": "ATP bio: father to 2 sets of twins, Myla & Charlene and Leo & Lenny."
-    },
-    {
-      "claim": "En 2003 creó la Roger Federer Foundation, que financia educación en el sur de África y Suiza y ha llegado a más de un millón de niños",
-      "sourceIds": [
-        "atp-bio"
-      ],
-      "verdict": "confirmed",
-      "note": "ATP bio: founded in 2003, has reached more than 1 million children, works on education in Southern Africa and Switzerland."
-    },
-    {
-      "claim": "La rodilla ya no respondía",
-      "sourceIds": [
-        "nbc-laver"
-      ],
-      "verdict": "confirmed",
-      "note": "NBC/AP quotes Federer: 'my knee is not so good anymore and I think it's the end.' The article's line is a fair paraphrase."
-    },
-    {
-      "claim": "El 15 de septiembre de 2022, con 41 años, anunció que tras tres años de lesiones y operaciones la Laver Cup de Londres sería su último torneo",
+      "claim": "Retirement letter: saw players as giants and began to dream as a ball kid; thanked Swiss Tennis for believing in him; thanked wife Mirka first",
       "sourceIds": [
         "retirement-statement"
       ],
       "verdict": "confirmed",
-      "note": "Statement dated Switzerland, 15 September 2022. It mentions three years of injuries and surgeries, says 'I am 41 years old' and 'The Laver Cup next week in London will be my final ATP event'."
+      "note": "Scroll full text confirms all three. Mirka is the first person thanked, after the announcement paragraphs."
     },
     {
-      "claim": "Jugó allí un único partido, el 23 de septiembre",
+      "claim": "Eight Wimbledon titles are a men's record; first man to reach 20 majors",
       "sourceIds": [
-        "nbc-laver"
+        "olympics-hof",
+        "ithf-class-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Olympics.com: record eight Wimbledon crowns. ITHF: first male player to win 20 major singles titles."
+    },
+    {
+      "claim": "Records of 10 straight finals, 23 straight semifinals and 36 straight quarterfinals at Slams",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio, updated 1 May 2025."
+    },
+    {
+      "claim": "None of his first 13 majors was Roland Garros; on 7 June 2009, aged 27 and world No. 2, he beat Söderling (23rd seed) 6-1, 7-6, 6-4",
+      "sourceIds": [
+        "cnn-2009"
+      ],
+      "verdict": "confirmed",
+      "note": "CNN confirms the score, age, ranking, seed and the 13 previous titles. The date 7 June comes from the URL; CNN says 'Sunday'."
+    },
+    {
+      "claim": "Roland Garros 'fue el torneo que más le costó'",
+      "sourceIds": [
+        "cnn-2009"
       ],
       "verdict": "unsupported",
-      "note": "NBC supports the 23 September date (ceremony 'after the loss on Sept. 23') and that this was his last match. It never says it was his only match at the Laver Cup. Either drop 'un único partido' or cite a source that says it, such as Laver Cup or ATP match records."
+      "note": "CNN only says it was the one Slam that eluded him. 'The one that cost him most' is the writer's own gloss, not stated by the source."
     },
     {
-      "claim": "Llamó a Nadal para jugar \"un último dobles\"",
+      "claim": "Söderling was 'verdugo de Nadal una semana antes'",
+      "sourceIds": [
+        "cnn-2009"
+      ],
+      "verdict": "unsupported",
+      "note": "CNN says he knocked Nadal out 'earlier in the week', not a week before. Fix the wording or cite a source that gives the date."
+    },
+    {
+      "claim": "Court invader during the second set with a Barcelona flag who tried to put a cap on Federer; Federer lost the next game to love, then won the tie-break with four aces from four serves",
+      "sourceIds": [
+        "cnn-2009"
+      ],
+      "verdict": "confirmed",
+      "note": "CNN says 'start of the fourth game' of the second set, the Barcelona flag, the cap, losing the next game to love, and four aces from four serves."
+    },
+    {
+      "claim": "Federer equalled Sampras's 14 Slams and completed the career Slam, joining only Perry, Budge, Laver, Emerson and Agassi; today eight men have done it",
+      "sourceIds": [
+        "cnn-2009",
+        "ithf-class-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "CNN lists the five men and the 14-title tie. ITHF: one of only eight men with a career Grand Slam."
+    },
+    {
+      "claim": "'Agassi, último campeón en París antes que él, le entregó el trofeo'",
+      "sourceIds": [
+        "cnn-2009"
+      ],
+      "verdict": "wrong",
+      "note": "CNN says Agassi was the 1999 French Open champion and the last player to win all four Slams. He was not the last Paris champion before Federer: Nadal won Roland Garros 2005-08. Correct to 'el último hombre en completar el Grand Slam de carrera' or 'campeón de 1999'."
+    },
+    {
+      "claim": "Federer cried; called it 'probably' his greatest victory and said he could play 'with my mind at peace'; Söderling called him the best player in history",
+      "sourceIds": [
+        "cnn-2009"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the CNN quotes."
+    },
+    {
+      "claim": "103 titles and 1,251 wins; only Connors has more in the Open Era (109 titles, 1,274 wins); never retired in 1,526 singles and 224 doubles matches",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio, updated 1 May 2025."
+    },
+    {
+      "claim": "237 consecutive weeks at No. 1 (record), 310 weeks in total",
+      "sourceIds": [
+        "atp-bio",
+        "ithf-class-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio gives 237 as the record in ATP Rankings history. ITHF gives 237 consecutive and 310 total."
+    },
+    {
+      "claim": "41-match win streak (2006-07), 17 straight finals (2005-06), 65 straight grass wins (2003-08); 10 titles each in Basel and Halle, 7 in Cincinnati",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "All in the ATP bio."
+    },
+    {
+      "claim": "Olympic doubles gold 2008, singles silver 2012; led Switzerland to the 2014 Davis Cup",
+      "sourceIds": [
+        "britannica",
+        "ithf-class-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica Quick Facts for the medals. ITHF for the 2014 Davis Cup."
+    },
+    {
+      "claim": "Record 40 ATP awards; Fans' Favourite 2003-2021",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio: 'record 40 ATP Tour Awards' and Fans' Favourite (2003-21)."
+    },
+    {
+      "claim": "Forbes 2020: highest-paid athlete, $106.3M annual earnings, as reported by the ATP",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Correctly attributed to Forbes via the ATP. It is annual earnings, not net worth, and the year is stated."
+    },
+    {
+      "claim": "Knee surgeries: left knee Feb 2016; right knee Feb 2020, May 2020 and Aug 2021; six months out July 2016-Jan 2017; only five tournaments Feb 2020-Aug 2022",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio matches exactly."
+    },
+    {
+      "claim": "Retirement announced 15 September 2022; wrote that he was 41, had played 1,500+ matches in 24 years, and that the last three years brought injuries and surgeries; the Laver Cup in London the following week would be his last ATP event; he would keep playing tennis but not in Slams or on tour",
+      "sourceIds": [
+        "retirement-statement"
+      ],
+      "verdict": "confirmed",
+      "note": "Letter dated 15 September 2022 matches all of this."
+    },
+    {
+      "claim": "Laver Cup was created by Federer to honour Rod Laver",
+      "sourceIds": [
+        "ithf-class-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "ITHF: he 'created the Laver Cup to honor Hall of Famer Rod Laver's global legacy'."
+    },
+    {
+      "claim": "He phoned Nadal after the US Open; told Trevor Noah on The Daily Show it was an emotional call, one of the first times he told someone outside his team and family; asked for 'one last doubles' because of his knee",
       "sourceIds": [
         "nbc-laver"
       ],
       "verdict": "confirmed",
-      "note": "NBC quotes him: 'play one last doubles with me'."
+      "note": "Matches the quote in the NBC/AP article."
     },
     {
-      "claim": "Perdieron ante Jack Sock y Frances Tiafoe por 4-6, 7-6 y 11-9",
+      "claim": "23 September 2022: lost with Nadal to Sock and Tiafoe 4-6, 7-6, 11-9; Federer and Nadal held hands and sobbed; he was glad to wear tennis clothes, not a suit",
       "sourceIds": [
         "nbc-laver"
       ],
       "verdict": "confirmed",
-      "note": "NBC: Sock and Tiafoe 'won 4-6, 7-6, 11-9'."
+      "note": "All in the NBC article, which dates the farewell Sept. 23."
     },
     {
-      "claim": "FAQ: lo anunció el 15 de septiembre de 2022 y jugó su último partido el 23 de septiembre en la Laver Cup de Londres, en dobles con Nadal",
+      "claim": "November 2025: ITHF announced his 2026 induction; he heard the news at Swiss Tennis, where he began his career, from Edberg, Becker and 20+ Hall of Famers",
       "sourceIds": [
+        "ithf-class-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "ITHF page dated 11/10/2025 (10 Nov, US format). The Swiss Tennis scene is confirmed."
+    },
+    {
+      "claim": "Seven former No. 1s in the audience, including Edberg, McEnroe and Roddick",
+      "sourceIds": [
+        "atp-hof-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP lists seven fellow former No. 1s: Edberg, McEnroe, Roddick, Safin, Hewitt, Courier and Wilander."
+    },
+    {
+      "claim": "Wife Mirka Vavrinec reached WTA No. 76; first kiss at Sydney 2000 where Federer finished 4th; two sets of twins (Myla and Charlene, Leo and Lenny)",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "All in the ATP bio. Attributed to the ATP and made public by the player, so acceptable under the private-life rule."
+    },
+    {
+      "claim": "Foundation founded in 2003; 'ha llegado a más de un millón de niños y ha invertido más de 50 millones de dólares'; works in Zambia, Namibia, Zimbabwe, Malawi, Botswana, South Africa and Switzerland",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "outdated",
+      "note": "The ATP line matches, but the figures are old (the 1 million milestone was reached in 2018). ITHF's Federer page says more than three million children by early 2026, and the Wikipedia lead gives 3.82M by end of 2025 (a lead only). The sentence describes the present, so it needs a current figure from the foundation's own site or annual report. The foundation also appears to have been renamed 'Federer Foundation'."
+    },
+    {
+      "claim": "7 Feb 2020 Cape Town exhibition vs Nadal in front of 51,954 fans; his debut in South Africa, his mother's country; raised $3.5M for the foundation",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the ATP bio."
+    },
+    {
+      "claim": "Basel tram named after him since 2021; Swiss stamp 2007 and coin 2020; first living person with both honours",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP: stamps (2007) and coins (2020), first person to receive those honours while still living; tram honoured in 2021."
+    },
+    {
+      "claim": "FAQ answers (age, Slam split, retirement dates, wife and twins) and summary/metaDescription/knownFor",
+      "sourceIds": [
+        "britannica",
+        "atp-bio",
         "retirement-statement",
-        "nbc-laver"
+        "nbc-laver",
+        "ithf-class-2026"
       ],
       "verdict": "confirmed",
-      "note": "The statement gives the date and London. NBC gives the 23 September date, the doubles format and Nadal as partner."
+      "note": "All are backed by the body and the sources above."
     }
   ],
   "uncitedClaims": [
-    "'Tres décadas después se retiró con 20 Grand Slams' (lede). This is a rounded timespan (1993–2022 is 29 years) and has no citation.",
-    "'Con ese título igualó entonces los 14 grandes de Pete Sampras y entró en el grupo de seis hombres con los cuatro Grand Slams' has no citation of its own (cnn-2009 is on the next sentence). Add [s:cnn-2009] directly after it.",
-    "Frontmatter summary, knownFor, metaDescription and FAQ answers carry no inline citations. All of them are backed by cited sentences in the body."
+    "'Roland Garros fue el torneo que más le costó' (interpretive; the next tagged sentence only supports that he had never won there)",
+    "'Sigue siendo aficionado del FC Basel' (present tense; the source line is undated)"
   ],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "The page is compact and built on primary sources: the official ATP bio, Federer's own retirement statement in full and the 2009 match report. Its retirement timeline is clear (announcement 15 Sept, final doubles 23 Sept, score). The prose is concrete, sentence length varies, there are no hype words or em dashes, and the Spanish is local ('Open de Australia', 'recogepelotas'). Weak spots: the top target query 'roger federer edad' gets a birth date but no current age (45), and there is no age FAQ. 'Las cifras' is a generic section name. The 2026 International Tennis Hall of Fame induction is not mentioned, which a current top result would likely include.",
+  "valueNote": "Concrete, well-sourced, mostly primary or official sources (ATP bio, ITHF, retirement letter). It has a clear timeline, a vivid 2009 final scene, the Nadal call and an up-to-date 2026 Hall of Fame section, and it is localised for Spanish readers. Some paragraphs are dense ATP stat lists, but this is not padding.",
   "decision": "reject",
-  "summary": "Every claim checks out against its source except one. 'Jugó allí un único partido' is UNSUPPORTED: nbc-laver says this was his last match, not his only one at the Laver Cup. Drop 'un único' or add a source that says it. Fixes before publishing: (1) fix or source the 'único partido' claim; (2) put [s:cnn-2009] directly on the Sampras / career Grand Slam sentence; (3) answer the main query 'roger federer edad' by giving his current age (45, from the Britannica birth date), ideally with an FAQ entry; (4) optional: spell Söderling and consider mentioning the 2026 Hall of Fame induction, with a source. Nothing is outdated: the 237-week record and the Connors comparison still stand as of October 2026."
+  "summary": "Almost every claim is confirmed against the sources, but two things must be fixed before publishing. (1) WRONG: 'Agassi, último campeón en París antes que él' contradicts CNN, which says Agassi won in 1999 and was the last man to complete the career Slam. Nadal won Paris in 2005-08. (2) OUTDATED: the foundation figures ('más de un millón de niños', '50 millones') are old. ITHF puts the reach at more than three million children by early 2026, so get the current figure and name from the foundation's own report. Also fix 'una semana antes' (Söderling over Nadal): CNN says 'earlier in the week'. Drop or soften 'el torneo que más le costó', which CNN does not say. Olympics.com could not be opened with web_fetch; its content was confirmed through the search result for the same URL."
 }

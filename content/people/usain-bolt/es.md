@@ -1,25 +1,39 @@
 ---
 title: Usain Bolt
 slug: usain-bolt
-metaTitle: "Usain Bolt: edad, récords mundiales y medallas olímpicas"
-metaDescription: "Edad y origen de Usain Bolt, sus récords de 9,58 y 19,19, por qué tiene ocho oros olímpicos y no nueve, y cómo terminó su carrera en Londres 2017."
-knownFor: Velocista jamaicano, plusmarquista mundial de 100 y 200 metros
-summary: "Usain Bolt es el velocista jamaicano que sigue teniendo los récords mundiales de 100 metros (9,58) y 200 metros (19,19), ambos de Berlín 2009. Ganó ocho oros olímpicos en tres Juegos y se retiró tras el Mundial de 2017."
+metaTitle: 'Usain Bolt: edad, récords mundiales y medallas olímpicas'
+metaDescription: >-
+  Edad y origen de Usain Bolt, sus récords de 9,58 y 19,19, por qué tiene ocho
+  oros olímpicos y no nueve, y cómo terminó su carrera en Londres 2017.
+knownFor: 'Velocista jamaicano, plusmarquista mundial de 100 y 200 metros'
+summary: >-
+  Usain Bolt es el velocista jamaicano que sigue teniendo los récords mundiales
+  de 100 metros (9,58) y 200 metros (19,19), ambos de Berlín 2009. Ganó ocho
+  oros olímpicos en tres Juegos y se retiró tras el Mundial de 2017.
 status: review
 risk: medium
+updatedAt: '2026-10-26'
 author: editor-in-chief
+aiAssisted: true
 targetQueries:
   - usain bolt edad
   - récord de usain bolt
   - cuántas medallas de oro tiene usain bolt
   - por qué le quitaron una medalla a usain bolt
 faq:
-  - q: "¿Cuántos oros olímpicos tiene Usain Bolt?"
-    a: "Ocho. Llegó a tener nueve, pero en 2017 el COI anuló el oro del relevo 4x100 de Pekín 2008 por el positivo de su compañero Nesta Carter."
-  - q: "¿Cuál es el récord de Usain Bolt en 100 metros?"
-    a: "9,58 segundos, logrado el 16 de agosto de 2009 en el Mundial de Berlín. En 200 metros su récord es de 19,19."
-  - q: "¿De dónde es Usain Bolt?"
-    a: "De Sherwood Content, un pueblo de la parroquia de Trelawny, en Jamaica, donde nació el 21 de agosto de 1986."
+  - q: ¿Cuántos oros olímpicos tiene Usain Bolt?
+    a: >-
+      Ocho. Llegó a tener nueve, pero en 2017 el COI anuló el oro del relevo
+      4x100 de Pekín 2008 por el positivo de su compañero Nesta Carter.
+  - q: ¿Cuál es el récord de Usain Bolt en 100 metros?
+    a: >-
+      9,58 segundos, logrado el 16 de agosto de 2009 en el Mundial de Berlín. En
+      200 metros su récord es de 19,19.
+  - q: ¿De dónde es Usain Bolt?
+    a: >-
+      De Sherwood Content, un pueblo de la parroquia de Trelawny, en Jamaica,
+      donde nació el 21 de agosto de 1986.
+autoRevisions: 1
 ---
 Cuatro días, un estadio y dos récords que nadie ha vuelto a tocar. En agosto de 2009, en el Mundial de Berlín, Usain Bolt corrió los 100 metros en 9,58 y los 200 en 19,19 [s:wa-958] [s:yahoo-1919]. Cuando el atletismo mundial se reunió en Tokio para el Mundial de 2025, las dos marcas seguían siendo récord del mundo [s:wa-records-2025].
 

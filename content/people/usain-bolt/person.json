@@ -7,6 +7,13 @@
   "importance": 5,
   "wikidata": "Q1189",
   "sameAs": [],
+  "image": {
+    "src": "/images/people/usain-bolt.jpg",
+    "alt": "Usain Bolt",
+    "credit": "Fernando Frazão/Agência Brasil",
+    "license": "CC BY 3.0 br",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Usain_Bolt_Rio_100m_final_2016k.jpg"
+  },
   "facts": {
     "birthDate": {
       "value": "1986-08-21",
@@ -96,13 +103,14 @@
       "publisher": "Al Jazeera",
       "type": "press",
       "accessed": "2026-10-26"
+    },
+    {
+      "id": "startribune-2008",
+      "url": "https://www.startribune.com/bolt-strikes-another-record/27207799",
+      "title": "Bolt strikes another record",
+      "publisher": "Star Tribune",
+      "type": "press",
+      "accessed": "2026-10-26"
     }
-  ],
-  "image": {
-    "src": "/images/people/usain-bolt.jpg",
-    "alt": "Usain Bolt",
-    "credit": "Fernando Frazão/Agência Brasil",
-    "license": "CC BY 3.0 br",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Usain_Bolt_Rio_100m_final_2016k.jpg"
-  }
+  ]
 }

@@ -42,7 +42,31 @@ faq:
       En Tainan, Taiwán, el 17 de febrero de 1963. Su familia se mudó a
       Tailandia cuando tenía cinco años y él llegó a Estados Unidos con nueve.
 autoRevisions: 1
-autoReviews: 1
+autoReviews: 2
+reviewNotes: >-
+  UNSUPPORTED: "Born as Jen-Hsun Huang, second son of a chemical engineer and a
+  primary-school teacher." ('Second son', the father's job and the mother's job
+  are confirmed. Britannica only lists 'Jen-Hsun Huang' under 'also known as'.
+  It does not say he was born with that name.) | OUTDATED: "Per NVIDIA, more
+  than 4 million developers and more than 40,000 companies use its technology
+  today (figures from a timeline last updated in 2023)." (The source confirms 4
+  million and 40,000, but the page dates from July 2023. A 2026 NVIDIA blog says
+  the platform has more than 11 million developers. The article says 'hoy' and
+  attaches a 2023 figure, so it presents the present with stale data.) |
+  Reviewer recommends rejection: Almost every claim checks out against the
+  opened sources: dates, ages, companies, education, the $5.03tn valuation,
+  awards and the foundation. Three fixes are needed before approval. (1) The
+  'más de 4 millones de desarrolladores y 40.000 empresas hoy' claim is
+  outdated. The source is from July 2023, and NVIDIA's 2026 materials cite more
+  than 11 million developers. Update the figure or drop it, and do not say
+  'hoy'. (2) 'Nació como Jen-Hsun Huang' is not supported, because Britannica
+  only lists it as an alternative name. Rephrase as 'también conocido como' or
+  cite a source for the birth name. (3) The awards section omits Time's 2025
+  Person of the Year ('Architects of AI', fastcompany-poy) and the 2026 IEEE
+  Medal of Honor (ieee-recipient, ieee-honors, ieee-spectrum). These are in
+  person.json and are the freshest, most useful awards for the reader. Add them
+  with citations. Minor: the 29 October 2025 date is inferred from 'Wednesday'
+  in a 30 October article, so consider adding a source that prints the date.
 ---
 Jensen Huang tiene 63 años (a 26 de octubre de 2026): nació el 17 de febrero de 1963 en Tainan, Taiwán [s:britannica]. A los nueve estaba en Kentucky, lejos de sus padres, en un internado religioso para niños "difíciles" donde le tocaba limpiar los baños cada día [s:britannica]. Hoy preside la empresa que cofundó con otros dos ingenieros y que, el 29 de octubre de 2025, se convirtió en la primera compañía cotizada valorada en 5 billones de dólares (5 *trillion* en la escala estadounidense) [s:foxbusiness-5t].
 

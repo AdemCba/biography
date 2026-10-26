@@ -1,138 +1,130 @@
 {
   "date": "2026-10-26",
-  "model": "claude-opus-5-5",
+  "model": "claude-sonnet-5-5",
   "approved": false,
   "reasons": [
-    "UNSUPPORTED: \"The family moved to Thailand when he was five\" (Britannica supports this ('When he was five, the family moved to Thailand'), but the sentence has no citation tag of its own. Add [s:britannica].)",
-    "UNSUPPORTED: \"During that period (while working) he did a master's in electrical engineering at Stanford\" (The NVIDIA bio confirms only the MSEE from Stanford, not when he did it. The timing 'nesse período' comes from Britannica ('While working, he returned to school...'). Add or swap the citation to [s:britannica].)",
-    "UNCITED: \"'Aos cinco anos, a família se mudou para a Tailândia.' (true per Britannica, but no tag)\"",
-    "UNCITED: \"'Duas décadas depois, ele estava fundando a NVIDIA.' (an inference: about 1972 to 1993 is roughly 21 years. Fine, but it has no tag)\"",
-    "UNCITED: \"The front-matter summary, knownFor and FAQ answers carry no inline citations (all backed by the body)\"",
-    "UNCITED: \"The metaTitle promises 'idade' but no age appears anywhere in the article\"",
-    "Adds no value over existing pages: The writing is clean, concrete and chronological. There are no hype words or em dashes. It opens with the Oneida reform-school story rather than a dictionary line, and it uses primary sources (NVIDIA's board bio, the CHM Fellow citation). But it does not answer the first target query, 'jensen huang idade': the metaTitle advertises age, yet neither the body nor the FAQ says he is 63 (born 17/02/1963, as of 26/10/2026). The style guide requires answering the search question on the first screen. Beyond that, the content matches the standard Wikipedia/Britannica timeline almost point for point. Nothing on the page goes beyond what the usual top results already give, such as context on why the 1993 founding mattered or Brazilian-relevant context. The 'Reconhecimento' section stops at 2024 and leaves out more recent, widely reported honours (Time 100 2024, Time Person of the Year 2025 'Architects of AI', FT Person of the Year 2025).",
-    "Reviewer recommends rejection: Fact accuracy is high: every cited claim I checked against Britannica, NVIDIA's bio and CHM matches, and nothing is wrong. Still, I'm rejecting. Fixes needed: (1) Answer the age query. Put 'tem 63 anos' (cite britannica birthDate) in the opening or first section, and add a FAQ 'Quantos anos tem Jensen Huang?' with the number. (2) The Stanford master's timing ('nesse período') is cited to nvidia-bio, which gives no date. Cite [s:britannica] instead or as well. (3) Add [s:britannica] to the 'Aos cinco anos...' sentence. (4) Optionally update 'Reconhecimento' with the 2024 Time 100 and 2025 Time/FT Person of the Year, but only with sources added to person.json. As written it is accurate but incomplete. (5) Add at least one angle the top results lack, so the page clears the 'adds value' bar. Re-submit for fact check after the edits."
+    "UNSUPPORTED: \"metaDescription: it explains 'por que' he went through AMD and LSI Logic\" (No source or body text gives any reason for the AMD or LSI Logic jobs. The body only lists them. The description promises content the page does not deliver.)",
+    "UNCITED: \"The body has no uncited factual claims. The only untagged lines are in the Prêmios paragraph, 'A Time dedicou...' is tagged, and the 'Em 2018, Huang afirmou...' sentence sits in a paragraph that cites sources for the other sentences.\"",
+    "Adds no value over existing pages: The text is clean, with concrete detail (Oneida, the US$40k start) and no hype words or em dashes. But almost every fact comes from Britannica, with CHM and NVIDIA as support. It adds little beyond a clearer timeline: no primary-source correction, no net worth with a date, no context the top results lack. The Fox US$5 trillion line has no date and no explanation.",
+    "Reviewer recommends rejection: Every factual claim checked against the opened sources is confirmed: dates, age 63, schools, employers, founding figures, awards and the foundation. Two things need fixing. (1) The metaDescription promises 'por que passou pela AMD e pela LSI Logic', but no source or body text explains why, so reword it, for example to 'onde trabalhou antes'. (2) The US$5 trillion sentence needs a date (October 2025) so it reads as a past milestone, and the cause-and-effect link to the AI pivot should be dropped or sourced. Beyond that, the value added over Britannica is thin. Consider adding a dated net-worth estimate from a named outlet, or other primary-source context, before resubmitting."
   ],
   "claims": [
     {
-      "claim": "Born Jen-Hsun Huang on 17 February 1963 in Tainan, Taiwan (body, FAQ, person_json birthDate)",
-      "sourceIds": [
-        "britannica"
-      ],
-      "verdict": "confirmed",
-      "note": "Britannica gives the alias Jen-Hsun Huang and 'born February 17, 1963, Tainan, Taiwan'. Note: the Britannica page was served from a cache dated 2025-09-21 and still shows 'age 61'."
-    },
-    {
-      "claim": "person_json birthPlace: Tainan, Taiwan",
+      "claim": "Jensen Huang was born 17 February 1963 in Tainan, Taiwan (body, facts.birthDate, facts.birthPlace, FAQ)",
       "sourceIds": [
         "britannica",
         "chm"
       ],
       "verdict": "confirmed",
-      "note": "Both sources give this. CHM: 'Born in 1963, in Tainan, Taiwan'."
+      "note": "Britannica gives 17 Feb 1963, Tainan. CHM gives 1963, Tainan."
     },
     {
-      "claim": "The family moved to Thailand when he was five",
-      "sourceIds": [],
-      "verdict": "unsupported",
-      "note": "Britannica supports this ('When he was five, the family moved to Thailand'), but the sentence has no citation tag of its own. Add [s:britannica]."
-    },
-    {
-      "claim": "At about nine, he and his brother were sent to an uncle in Tacoma, Washington, who enrolled them at Oneida Baptist Institute in Kentucky",
+      "claim": "He is 63 years old (as of 2026-10-26; summary, metaDescription, FAQ, opening line)",
       "sourceIds": [
         "britannica"
       ],
       "verdict": "confirmed",
-      "note": "Britannica confirms the age (nine), the uncle in Tacoma and Oneida Baptist Institute in Oneida, Kentucky."
+      "note": "1963-02-17 to 2026-10-26 is 63 years. The Britannica page shows 'age 61' only because it is a stale snapshot."
     },
     {
-      "claim": "Oneida Baptist Institute was a religious boarding school in Kentucky for boys considered 'problemáticos'",
+      "claim": "At about age nine he arrived in the US from Thailand with his brother and was sent to the Oneida Baptist Institute, a religious boarding school in Kentucky for 'problem' boys",
       "sourceIds": [
         "britannica"
       ],
       "verdict": "confirmed",
-      "note": "Britannica calls it 'all-boys' and 'a religious reform school for \"difficult\" children'. 'Problemáticos' is a fair translation."
+      "note": "Britannica: the brothers were sent to their uncle in Tacoma, who sent them to Oneida, a religious reform school for 'difficult' children."
     },
     {
-      "claim": "He arrived in the US from Thailand at nine, with his brother (lead, FAQ)",
+      "claim": "At 30, in 1993, he was founding NVIDIA",
       "sourceIds": [
         "britannica"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed by Britannica. CHM also says he immigrated to the US at nine."
+      "note": "Founded April 1993, when he was 30."
     },
     {
-      "claim": "About two years later the parents arrived, took the boys out of the school and the family settled near Portland, Oregon",
+      "claim": "His birth name was Jen-Hsun Huang",
+      "sourceIds": [
+        "britannica",
+        "chm"
+      ],
+      "verdict": "confirmed",
+      "note": "Britannica lists 'Also known as Jen-Hsun Huang'. CHM does not mention it."
+    },
+    {
+      "claim": "At five the family moved to Thailand; at about nine he and his brother were sent to an uncle in Tacoma, who enrolled them in the Kentucky school",
       "sourceIds": [
         "britannica"
       ],
       "verdict": "confirmed",
-      "note": "Britannica: 'About two years later... settled in the suburbs of Portland, Oregon'."
+      "note": "Matches Britannica."
     },
     {
-      "claim": "Finished high school in Aloha in 1981",
+      "claim": "About two years later the parents arrived, pulled the sons out, and the family settled near Portland, Oregon",
       "sourceIds": [
         "britannica"
       ],
       "verdict": "confirmed",
-      "note": "Britannica says he attended Aloha High School and graduated in 1981."
+      "note": "Matches Britannica."
     },
     {
-      "claim": "Studied electrical engineering at Oregon State University and graduated in 1984",
+      "claim": "He finished high school in Aloha in 1981",
       "sourceIds": [
         "britannica"
       ],
       "verdict": "confirmed",
-      "note": "Britannica confirms the bachelor's in EE from OSU in 1984. The NVIDIA bio also gives the BSEE from Oregon State."
+      "note": "Britannica: Aloha High School, graduated 1981."
     },
     {
-      "claim": "Met Lori Mills at OSU and married her",
+      "claim": "BSEE in electrical engineering from Oregon State in 1984; met Lori Mills there and married her",
       "sourceIds": [
         "britannica"
       ],
       "verdict": "confirmed",
-      "note": "Britannica: 'At OSU, Huang met Lori Mills, a fellow engineering student, and the pair later married.' Reliable on-record source, and relevant because of the foundation."
+      "note": "Britannica gives the 1984 degree and says he met Lori Mills at OSU and the pair later married. The marriage is reported on the record."
     },
     {
-      "claim": "Worked about a year at AMD, then at LSI Logic from 1985 to 1993, where he became director of a division",
+      "claim": "About one year at AMD, then LSI Logic from 1985 to 1993, where he ran a division",
       "sourceIds": [
         "nvidia-bio",
         "britannica"
       ],
       "verdict": "confirmed",
-      "note": "NVIDIA bio: AMD 1984–1985, LSI Logic 1985–1993. Britannica: 'eventually become director of a company division'."
+      "note": "NVIDIA bio: LSI Logic 1985–1993, AMD 1984–1985. Britannica: he rose to director of a division."
     },
     {
-      "claim": "During that period (while working) he did a master's in electrical engineering at Stanford",
+      "claim": "He earned a master's in electrical engineering at Stanford while working",
       "sourceIds": [
+        "britannica",
         "nvidia-bio"
       ],
-      "verdict": "unsupported",
-      "note": "The NVIDIA bio confirms only the MSEE from Stanford, not when he did it. The timing 'nesse período' comes from Britannica ('While working, he returned to school...'). Add or swap the citation to [s:britannica]."
+      "verdict": "confirmed",
+      "note": "Britannica: 'While working, he returned to school' and got the MSEE at Stanford."
     },
     {
-      "claim": "In April 1993 he founded NVIDIA with engineers Chris Malachowsky and Curtis Priem and was chosen to lead it",
+      "claim": "NVIDIA was founded in April 1993 by Huang, Chris Malachowsky and Curtis Priem, and Huang was chosen to be CEO",
       "sourceIds": [
         "britannica",
         "chm"
       ],
       "verdict": "confirmed",
-      "note": "Britannica: 'In April 1993... cofounded NVIDIA with fellow microchip designers Chris Malachowsky and Curtis Priem, who selected Huang to serve as CEO'. CHM confirms 1993 and the cofounders."
+      "note": "Britannica gives April 1993 and says the other two selected him as CEO. CHM confirms 1993 and the three founders."
     },
     {
-      "claim": "The trio started with $40,000; venture capital funds then put in $20 million",
+      "claim": "The trio started with US$40,000; VC firms then put in US$20 million",
       "sourceIds": [
         "britannica"
       ],
       "verdict": "confirmed",
-      "note": "Britannica: began with $40,000 and soon got $20 million from venture capital firms."
+      "note": "Matches Britannica."
     },
     {
-      "claim": "Since day one he has been president, CEO and a board member",
+      "claim": "Huang has been president, CEO and board member since the start",
       "sourceIds": [
         "nvidia-bio"
       ],
       "verdict": "confirmed",
-      "note": "NVIDIA bio says he has served since inception as president, CEO and board member. A web search (GTC Berlin 2026 coverage, FY2026 filings) shows he is still CEO as of October 2026."
+      "note": "NVIDIA bio, retrieved 2026-10-26, says 'since its inception'. Still current."
     },
     {
       "claim": "NVIDIA went public in 1999",
@@ -140,71 +132,89 @@
         "britannica"
       ],
       "verdict": "confirmed",
-      "note": "Britannica: 'The company went public in 1999.'"
+      "note": "Matches Britannica."
     },
     {
-      "claim": "In 1999 NVIDIA launched the GeForce 256, billed as 'the world's first GPU', combining transform, lighting and rendering",
+      "claim": "In 1999 it launched the GeForce 256, billed as the world's first GPU, combining transform, lighting and rendering",
       "sourceIds": [
         "chm"
       ],
       "verdict": "confirmed",
-      "note": "CHM: GeForce 256 in 1999, 'the world's first graphics processing unit', which 'combined transform, lighting, and rendering functions'."
+      "note": "The quoted Portuguese is a paraphrase of CHM's 'world's first graphics processing unit'."
     },
     {
-      "claim": "CUDA was introduced in 2006, enabling general-purpose computing on NVIDIA GPUs",
+      "claim": "CUDA (2006) allowed NVIDIA GPUs to be used for general-purpose computing",
       "sourceIds": [
         "chm"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed by CHM."
+      "note": "Matches CHM."
     },
     {
-      "claim": "In 2012 AlexNet was trained on NVIDIA GPUs and the company pivoted to accelerated computing for AI",
+      "claim": "Six years later (2012) AlexNet was trained on NVIDIA GPUs and the company pivoted to accelerated computing for AI",
       "sourceIds": [
         "chm"
       ],
       "verdict": "confirmed",
-      "note": "CHM: GPUs 'used in 2012 to power the breakthrough AlexNet', after which the company pivoted to AI with accelerated computing. 'Treinada' is a reasonable reading."
+      "note": "2012 minus 2006 is six years. CHM supports the pivot."
     },
     {
-      "claim": "In 2018 Huang said GPU performance was growing faster than Moore's law predicts, and the press called it 'Huang's law'",
+      "claim": "In 2018 Huang said GPU performance was growing faster than Moore's law predicts; the press called it 'Huang's law'",
       "sourceIds": [
         "britannica"
       ],
       "verdict": "confirmed",
-      "note": "Britannica: remark made at GTC 2018 (GPUs 25 times faster than five years earlier), which the press dubbed 'Huang's law'."
+      "note": "Britannica: 2018 GTC, 25x in five years, dubbed 'Huang's law'."
     },
     {
-      "claim": "Fortune named him Businessperson of the Year in 2017",
+      "claim": "Fox Business reported NVIDIA as the first company to reach US$5 trillion in market value",
       "sourceIds": [
-        "nvidia-bio"
+        "foxbusiness-5t"
       ],
       "verdict": "confirmed",
-      "note": "NVIDIA bio: 'In 2017, he was named Fortune's Businessperson of the Year.'"
+      "note": "Fox Business article dated 2025-10-30. The article gives no date for the milestone and ties it causally to the AI shift ('O resultado apareceu...'), which is the writer's framing."
     },
     {
-      "claim": "Harvard Business Review ranked him the world's best-performing CEO in 2019",
+      "claim": "Fortune named him Businessperson of the Year in 2017; HBR ranked him the world's best-performing CEO in 2019",
       "sourceIds": [
-        "nvidia-bio"
+        "nvidia-bio",
+        "britannica"
       ],
       "verdict": "confirmed",
-      "note": "NVIDIA bio: HBR ranked him No. 1 on its 2019 list of the 100 best-performing CEOs."
+      "note": "Both facts are on the NVIDIA bio and in Britannica. The HBR list is the 100 best-performing CEOs over their tenure."
     },
     {
-      "claim": "Time included him among the 100 most influential people in 2021",
+      "claim": "Time included him in its 100 most influential people in 2021",
       "sourceIds": [
         "britannica"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed by Britannica. The claim is still true, but the section is incomplete: a web search shows he was on the Time 100 again in 2024, was among Time's 2025 Person of the Year ('Architects of AI') and was the FT's Person of the Year 2025. Not a factual error. Adding these with primary citations is up to the editor."
+      "note": "Matches Britannica."
     },
     {
-      "claim": "Named a Computer History Museum Fellow in 2024",
+      "claim": "In 2024 the Computer History Museum named him a Fellow",
       "sourceIds": [
         "chm"
       ],
       "verdict": "confirmed",
-      "note": "CHM profile: '2024 Fellow', for visionary leadership in graphics, accelerated computing and AI."
+      "note": "CHM: '2024 Fellow'."
+    },
+    {
+      "claim": "Time's 2025 Person of the Year went to the 'Architects of AI', which include Huang",
+      "sourceIds": [
+        "fastcompany-poy"
+      ],
+      "verdict": "confirmed",
+      "note": "Fast Company/AP, 2025-12-11, lists Huang among the eight."
+    },
+    {
+      "claim": "The IEEE awarded him the 2026 Medal of Honor",
+      "sourceIds": [
+        "ieee-recipient",
+        "ieee-spectrum"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources confirm. The ieee-honors source says it was presented in April 2026."
     },
     {
       "claim": "With his wife he created the Jen-Hsun and Lori Huang Foundation in 2007",
@@ -212,36 +222,29 @@
         "britannica"
       ],
       "verdict": "confirmed",
-      "note": "Britannica: 'In 2007 Huang and his wife founded the philanthropic Jen-Hsun and Lori Huang Foundation'."
+      "note": "Matches Britannica."
     },
     {
-      "claim": "Summary/knownFor: Taiwan-born engineer, cofounder of NVIDIA in 1993, its president and CEO ever since; GeForce 256 in 1999 presented as the first GPU; AI focus from 2012",
-      "sourceIds": [],
+      "claim": "Summary: NVIDIA focused on AI computing from 2012",
+      "sourceIds": [
+        "chm"
+      ],
       "verdict": "confirmed",
-      "note": "Front matter has no citations, but each element repeats a cited, verified body claim (nvidia-bio, chm, britannica)."
+      "note": "Backed by the CHM 2012 AlexNet pivot in the body."
     },
     {
-      "claim": "FAQ: Huang, Malachowsky and Priem founded NVIDIA in April 1993; Huang was CEO from the start",
+      "claim": "metaDescription: it explains 'por que' he went through AMD and LSI Logic",
       "sourceIds": [],
-      "verdict": "confirmed",
-      "note": "Supported by Britannica and the NVIDIA bio, as cited in the body."
-    },
-    {
-      "claim": "FAQ: EE degree from Oregon State in 1984 and master's in EE from Stanford",
-      "sourceIds": [],
-      "verdict": "confirmed",
-      "note": "Supported by Britannica, the NVIDIA bio and CHM."
+      "verdict": "unsupported",
+      "note": "No source or body text gives any reason for the AMD or LSI Logic jobs. The body only lists them. The description promises content the page does not deliver."
     }
   ],
   "uncitedClaims": [
-    "'Aos cinco anos, a família se mudou para a Tailândia.' (true per Britannica, but no tag)",
-    "'Duas décadas depois, ele estava fundando a NVIDIA.' (an inference: about 1972 to 1993 is roughly 21 years. Fine, but it has no tag)",
-    "The front-matter summary, knownFor and FAQ answers carry no inline citations (all backed by the body)",
-    "The metaTitle promises 'idade' but no age appears anywhere in the article"
+    "The body has no uncited factual claims. The only untagged lines are in the Prêmios paragraph, 'A Time dedicou...' is tagged, and the 'Em 2018, Huang afirmou...' sentence sits in a paragraph that cites sources for the other sentences."
   ],
   "readsHumanWritten": true,
   "addsValue": false,
-  "valueNote": "The writing is clean, concrete and chronological. There are no hype words or em dashes. It opens with the Oneida reform-school story rather than a dictionary line, and it uses primary sources (NVIDIA's board bio, the CHM Fellow citation). But it does not answer the first target query, 'jensen huang idade': the metaTitle advertises age, yet neither the body nor the FAQ says he is 63 (born 17/02/1963, as of 26/10/2026). The style guide requires answering the search question on the first screen. Beyond that, the content matches the standard Wikipedia/Britannica timeline almost point for point. Nothing on the page goes beyond what the usual top results already give, such as context on why the 1993 founding mattered or Brazilian-relevant context. The 'Reconhecimento' section stops at 2024 and leaves out more recent, widely reported honours (Time 100 2024, Time Person of the Year 2025 'Architects of AI', FT Person of the Year 2025).",
+  "valueNote": "The text is clean, with concrete detail (Oneida, the US$40k start) and no hype words or em dashes. But almost every fact comes from Britannica, with CHM and NVIDIA as support. It adds little beyond a clearer timeline: no primary-source correction, no net worth with a date, no context the top results lack. The Fox US$5 trillion line has no date and no explanation.",
   "decision": "reject",
-  "summary": "Fact accuracy is high: every cited claim I checked against Britannica, NVIDIA's bio and CHM matches, and nothing is wrong. Still, I'm rejecting. Fixes needed: (1) Answer the age query. Put 'tem 63 anos' (cite britannica birthDate) in the opening or first section, and add a FAQ 'Quantos anos tem Jensen Huang?' with the number. (2) The Stanford master's timing ('nesse período') is cited to nvidia-bio, which gives no date. Cite [s:britannica] instead or as well. (3) Add [s:britannica] to the 'Aos cinco anos...' sentence. (4) Optionally update 'Reconhecimento' with the 2024 Time 100 and 2025 Time/FT Person of the Year, but only with sources added to person.json. As written it is accurate but incomplete. (5) Add at least one angle the top results lack, so the page clears the 'adds value' bar. Re-submit for fact check after the edits."
+  "summary": "Every factual claim checked against the opened sources is confirmed: dates, age 63, schools, employers, founding figures, awards and the foundation. Two things need fixing. (1) The metaDescription promises 'por que passou pela AMD e pela LSI Logic', but no source or body text explains why, so reword it, for example to 'onde trabalhou antes'. (2) The US$5 trillion sentence needs a date (October 2025) so it reads as a past milestone, and the cause-and-effect link to the AI pivot should be dropped or sourced. Beyond that, the value added over Britannica is thin. Consider adding a dated net-worth estimate from a named outlet, or other primary-source context, before resubmitting."
 }

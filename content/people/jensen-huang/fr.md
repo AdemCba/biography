@@ -12,10 +12,12 @@ summary: >-
   formé à Oregon State et à Stanford, il a cofondé NVIDIA en avril 1993 et la
   dirige depuis comme président et directeur général. L'entreprise a lancé la
   GeForce 256 en 1999 et s'est tournée vers le calcul pour l'IA après 2012.
-status: review
+status: published
 risk: medium
-updatedAt: '2026-10-26'
+reviewedAt: '2026-10-26'
+reviewBy: '2027-04-26'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - jensen huang âge
@@ -41,7 +43,8 @@ faq:
       famille a ensuite vécu en Thaïlande, et il est arrivé aux États-Unis à
       neuf ans.
 autoRevisions: 1
-autoReviews: 1
+autoReviews: 2
+publishedAt: '2026-10-26'
 ---
 Jensen Huang a 63 ans : il est né le 17 février 1963 [s:britannica]. À neuf ans, il arrive aux États-Unis avec son frère, sans ses parents, et se retrouve à l'Oneida Baptist Institute, un établissement de redressement religieux du Kentucky pour enfants jugés « difficiles » [s:britannica]. Une vingtaine d'années plus tard, il cofonde NVIDIA [s:britannica] [s:nvidia-bio].
 
