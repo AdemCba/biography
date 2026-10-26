@@ -1,0 +1,47 @@
+name: Trend scan
+
+# Twice a day: find notable people trending on Google and Wikipedia, scaffold
+# the best new ones as "idea" and open a pull request. Nothing is published;
+# every candidate still goes through research, draft, the quality gate and a
+# human review.
+
+on:
+  schedule:
+    - cron: "15 6,18 * * *"
+  workflow_dispatch:
+    inputs:
+      scaffold:
+        description: "How many new people to scaffold"
+        default: "5"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: trend-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run trends -- --scaffold "${{ github.event.inputs.scaffold || '5' }}"
+      - name: Open pull request with candidates
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: trends/scan
+          delete-branch: true
+          commit-message: "Trend scan: new biography candidates"
+          title: "Trend scan: new biography candidates"
+          body-path: data/trend-candidates/latest.md
+          add-paths: |
+            data/trend-candidates/**
+            content/people/**
