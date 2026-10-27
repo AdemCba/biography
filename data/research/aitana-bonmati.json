@@ -1,0 +1,77 @@
+{
+  "worthWriting": true,
+  "reason": "Three-times Ballon d'Or winner (2023, 2024, 2025) and 2023 World Cup champion with Spain; FC Barcelona midfielder. Official club profile and press sources verify the core facts. Trend lead corrected: she was not among the 30 nominees for the 2026 Women's Ballon d'Or, and no 2026 winner is stated in any opened source.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "fcb-profile-es",
+      "url": "https://www.fcbarcelona.es/es/futbol/womens-football/players/711891/aitana",
+      "title": "Aitana (player profile)",
+      "publisher": "FC Barcelona",
+      "type": "official",
+      "lang": "es"
+    },
+    {
+      "id": "uefa-ballon-dor-nominees-2026",
+      "url": "https://www.uefa.com/uefachampionsleague/news/02a9-218b019cbca5-cb4b9be51c4b-1000--2026-ballon-d-or-awards-nominees-revealed/",
+      "title": "2026 Ballon d'Or awards nominees revealed",
+      "publisher": "UEFA",
+      "type": "award-body",
+      "lang": "en"
+    },
+    {
+      "id": "excelsior-2026-omission",
+      "url": "https://www.excelsior.com.mx/deportes/fin-era-aitana-bonmati-queda-fuera-para-balon-oro-2026",
+      "title": "Fin de una era: Aitana Bonmatí queda fuera para el Balón de Oro 2026",
+      "publisher": "Excélsior",
+      "type": "press",
+      "lang": "es"
+    },
+    {
+      "id": "emisoras-nominees-2026",
+      "url": "https://emisorasunidas.com/deportes/2026/09/08/el-balon-de-oro-femenino-cambiara-de-manos-este-2026/?amp=1",
+      "title": "El Balón de Oro Femenino cambiará de manos este 2026",
+      "publisher": "Emisoras Unidas",
+      "type": "press",
+      "lang": "es"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1998-01-18",
+      "sources": [
+        "fcb-profile-es"
+      ],
+      "note": "Stated on the FC Barcelona profile."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Sant Pere de Ribes, Catalonia, Spain",
+      "sources": [
+        "fcb-profile-es"
+      ],
+      "note": "FC Barcelona profile gives Sant Pere de Ribes (Barcelona). Third-party sites give other towns (San Pedro de Ribas, Vilanova i la Geltrú, Sant Cugat del Vallès); not used."
+    },
+    "nationality": {
+      "value": "ES",
+      "sources": [
+        "fcb-profile-es"
+      ],
+      "note": "Profile refers to her as a player for the Spanish senior national team; nationality not stated in those words."
+    }
+  },
+  "targetQueries": [
+    "Aitana Bonmatí",
+    "Aitana Bonmatí Ballon d'Or",
+    "Aitana Bonmatí Ballon d'Or 2026",
+    "Aitana Bonmatí 2026 nominees",
+    "Aitana Bonmatí injury",
+    "Aitana Bonmatí age",
+    "Aitana Bonmatí Barcelona",
+    "Aitana Bonmatí Spain national team",
+    "Aitana Bonmatí World Cup 2023"
+  ],
+  "gapNote": "Trend searches around the 26 Oct 2026 ceremony ask whether she is nominated or wins. The answer is no nomination, due to a fibula fracture from Nov 2025 that cost much of 2025-26. Existing coverage is mostly about the red carpet; a page that explains her absence from the shortlist and her career record fills that gap. The ceremony winner was not confirmed in any source opened, so it is left out."
+}

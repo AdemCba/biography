@@ -4,150 +4,199 @@
   "categories": [
     "athletes"
   ],
-  "importance": 3,
+  "importance": 4,
   "sameAs": [],
   "facts": {
     "birthDate": {
       "value": "2001-03-18",
       "sources": [
-        "futimao-profile"
+        "tuttosport-profile",
+        "corriere-sport-profile"
       ],
-      "note": "Only opened source giving the date. Academia das Apostas (not opened) gives 17 March 2001."
+      "note": "Both profile pages show 18/03/2001 (age 25 at their snapshot)."
     },
     "birthPlace": {
-      "value": "São José dos Campos, São Paulo, Brazil",
+      "value": "São José dos Campos, Brazil",
       "sources": [
-        "futimao-profile"
+        "tuttosport-profile",
+        "corriere-sport-profile"
       ],
-      "note": "Single opened source."
+      "note": "Both profiles give São José dos Campos."
     },
     "nationality": {
       "value": [
         "BR"
       ],
       "sources": [
-        "futimao-profile"
+        "tuttosport-profile",
+        "corriere-sport-profile"
       ],
-      "note": "Nationality inferred from the Brazilian birthplace in the profile. No opened source uses the word Brazilian for him, so keep it as a fact with the birthplace."
+      "note": "Both profiles show 'Brasile'."
     }
   },
   "related": [],
   "sources": [
     {
-      "id": "futimao-profile",
-      "url": "https://www.futimao.com.br/jogador-corinthians/yuri-alberto",
-      "title": "Yuri Alberto Monteiro da Silva (Corinthians player profile)",
-      "publisher": "Futimão",
-      "type": "other",
+      "id": "tuttosport-profile",
+      "url": "https://www.tuttosport.com/giocatore/calcio/yuri-alberto-monteiro-da-silva/438549",
+      "title": "Yuri Alberto Monteiro da Silva: profilo giocatore e statistiche",
+      "publisher": "Tuttosport",
+      "type": "database",
+      "accessed": "2026-10-27",
+      "lang": "it"
+    },
+    {
+      "id": "corriere-sport-profile",
+      "url": "https://www.corrieredellosport.it/giocatore/calcio/yuri-alberto/438549",
+      "title": "Yuri Alberto - profilo giocatore",
+      "publisher": "Corriere dello Sport",
+      "type": "database",
+      "accessed": "2026-10-27",
+      "lang": "it"
+    },
+    {
+      "id": "vavel-loan-2022",
+      "url": "https://www.vavel.com/br/futebol/2022/06/29/corinthians/1115701-corinthians-assina-por-emprestimo-com-yuri-alberto-ex-zenit-ate-2023.html",
+      "title": "Corinthians assina por empréstimo com Yuri Alberto, ex-Zenit, até 2023",
+      "publisher": "VAVEL Brasil",
+      "type": "press",
       "accessed": "2026-10-27",
       "lang": "pt"
     },
     {
-      "id": "lance-contract-renewal-2025",
+      "id": "tupi-purchase-2023",
+      "url": "https://www.tupi.fm/esportes/corinthians-anuncia-compra-de-yuri-alberto-eu-estou-muito-feliz/",
+      "title": "Corinthians anuncia compra de Yuri Alberto: 'Eu estou muito feliz'",
+      "publisher": "Super Rádio Tupi",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "pt"
+    },
+    {
+      "id": "umdoisesportes-trajetoria",
+      "url": "https://www.umdoisesportes.com.br/futebol/yuri-alberto-trajetoria-corinthians-vitrine/",
+      "title": "Yuri Alberto: trajetória no Corinthians e vitrine",
+      "publisher": "Um Dois Esportes",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "pt"
+    },
+    {
+      "id": "placar-2024-top-scorer",
+      "url": "https://placar.com.br/brasileirao/yuri-alberto-assume-a-ponta-da-artilharia-do-brasileirao-2024/",
+      "title": "Yuri Alberto assume a ponta da artilharia do Brasileirão 2024",
+      "publisher": "Placar",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "pt"
+    },
+    {
+      "id": "lance-renewal-2025",
       "url": "https://www.lance.com.br/corinthians/yuri-alberto-renova-contrato-com-o-corinthians.html",
       "title": "Yuri Alberto renova contrato com o Corinthians",
-      "publisher": "Lance",
+      "publisher": "Lance!",
       "type": "press",
       "accessed": "2026-10-27",
       "lang": "pt"
     },
     {
-      "id": "exame-wants-new-challenge-2026",
-      "url": "https://exame.com/esporte/yuri-alberto-admite-desejo-de-deixar-o-corinthians-ainda-em-2026/",
-      "title": "Yuri Alberto admite desejo de deixar o Corinthians ainda em 2026",
-      "publisher": "Exame",
+      "id": "dgabc-renewal-2025",
+      "url": "https://www.dgabc.com.br/Noticia/4247544/yuri-alberto-renova-com-o-corinthians-ate-2030-e-celebra-eu-nunca-vou-te-abandonar",
+      "title": "Yuri Alberto renova com o Corinthians até 2030 e celebra: 'Eu nunca vou te abandonar'",
+      "publisher": "Diário do Grande ABC",
       "type": "press",
       "accessed": "2026-10-27",
       "lang": "pt"
     },
     {
-      "id": "terra-stay-until-2030-2025",
-      "url": "https://www.terra.com.br/esportes/corinthians/heroi-do-titulo-yuri-alberto-garante-permanencia-no-corinthians-ate-2030,8cf605afdf9b22e082ec3bc9bc6b24bbabm8f7sr.html",
-      "title": "Herói do título, Yuri Alberto garante permanência no Corinthians até 2030",
-      "publisher": "Terra",
+      "id": "opovo-injury-2026",
+      "url": "https://www.opovo.com.br/agencia/jogada10/2026/08/01/amp/yuri-alberto-sofre-nova-lesao-e-revive-sequencia-de-problemas-fisicos-no-corinthians.html",
+      "title": "Yuri Alberto sofre nova lesão e revive sequência de problemas físicos no Corinthians",
+      "publisher": "O Povo (Agência Jogada 10)",
       "type": "press",
       "accessed": "2026-10-27",
       "lang": "pt"
     },
     {
-      "id": "cnn-brasil-top-scorer-2024",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/artilheiro-do-brasileiro-yuri-alberto-recebe-trofeu-roberto-dinamite/",
-      "title": "Artilheiro do Brasileiro, Yuri Alberto recebe Troféu Roberto Dinamite",
-      "publisher": "CNN Brasil",
+      "id": "tribuna-injury-2026",
+      "url": "https://www.tribunadejundiai.com.br/mais/esportes/corinthians-aposta-no-retorno-de-yuri-alberto-apos-perder-20-de-aproveitamento-sem-ele/",
+      "title": "Corinthians aposta no retorno de Yuri Alberto após perder 20% de aproveitamento sem ele",
+      "publisher": "Tribuna de Jundiaí",
       "type": "press",
       "accessed": "2026-10-27",
       "lang": "pt"
     },
     {
-      "id": "lance-top-scorer-ranking-2024",
-      "url": "https://www.lance.com.br/brasileirao/artilheiro-do-brasileirao-veja-o-ranking-apos-a-ultima-rodada.html",
-      "title": "Artilheiro do Brasileirão 2024: veja o ranking após a última rodada",
-      "publisher": "Lance",
+      "id": "trivela-renewal-2025",
+      "url": "https://trivela.com.br/brasil/corinthians-yuri-alberto-renovacao-motivos/",
+      "title": "Corinthians renova com Yuri Alberto: os motivos",
+      "publisher": "Trivela",
       "type": "press",
       "accessed": "2026-10-27",
       "lang": "pt"
     },
     {
-      "id": "gazeta-corinthians-vitoria-2026",
-      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-vitoria-brasileirao-19-10-2026/",
-      "title": "Com Seedorf na torcida, Corinthians empata contra o Vitória e prolonga jejum",
+      "id": "lance-comment-2025",
+      "url": "https://www.lance.com.br/corinthians/yuri-alberto-comenta-renovacao-com-o-corinthians-e-hora-de-retribuir.html",
+      "title": "Yuri Alberto comenta renovação com o Corinthians: 'É hora de retribuir'",
+      "publisher": "Lance!",
+      "type": "interview",
+      "accessed": "2026-10-27",
+      "lang": "pt"
+    },
+    {
+      "id": "soccerway-br-profile",
+      "url": "https://br.soccerway.com/jogador/yuri-alberto/UiwCVFHs/transferencias",
+      "title": "Yuri Alberto: transferências e contrato",
+      "publisher": "Soccerway",
+      "type": "database",
+      "accessed": "2026-10-27",
+      "lang": "pt"
+    },
+    {
+      "id": "lance-return-2026",
+      "url": "https://www.lance.com.br/corinthians/corinthians-volta-a-ter-yuri-alberto-a-disposicao-diante-da-chapecoense.html",
+      "title": "Corinthians volta a ter Yuri Alberto à disposição diante da Chapecoense",
+      "publisher": "Lance!",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "pt"
+    },
+    {
+      "id": "tribuna-squad-2026",
+      "url": "https://tribunadejundiai.com.br/mais/esportes/corinthians-relaciona-24-jogadores-com-yuri-alberto-confira-a-lista/",
+      "title": "Corinthians relaciona 24 jogadores com Yuri Alberto; confira a lista",
+      "publisher": "Tribuna de Jundiaí",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "pt"
+    },
+    {
+      "id": "gazeta-200-jogos-2025",
+      "url": "https://www.gazetaesportiva.com/?p=3730530",
+      "title": "Yuri Alberto completa 200 jogos pelo Corinthians e entra para grupo seleto de atacantes do século",
       "publisher": "Gazeta Esportiva",
       "type": "press",
       "accessed": "2026-10-27",
       "lang": "pt"
     },
     {
-      "id": "dgabc-gremio-coritiba-2026",
-      "url": "https://www.dgabc.com.br/Noticia/4365178/gremio-vence-coritiba-quebra-jejum-e-supera-corinthians-na-zona-de-rebaixamento-do-brasileirao",
-      "title": "Grêmio vence Coritiba, quebra jejum e supera Corinthians na zona de rebaixamento do Brasileirão",
-      "publisher": "DGABC",
+      "id": "dgabc-trophy-2024",
+      "url": "https://www.dgabc.com.br/Noticia/4181592/yuri-alberto-recebe-trofeu-por-artilharia-e-destaca-guinada-pude-dar-a-volta-por-cima",
+      "title": "Yuri Alberto recebe troféu por artilharia e destaca guinada: 'Pude dar a volta por cima'",
+      "publisher": "Diário do Grande ABC",
       "type": "press",
       "accessed": "2026-10-27",
       "lang": "pt"
     },
     {
-      "id": "soccerway-renewal-2025",
-      "url": "https://br.soccerway.com/noticias/futebol-brasileirao-betano-corinthians-anuncia-renovacao-com-yuri-alberto-ate-2030/nkU7VK97",
-      "title": "Corinthians anuncia renovação com Yuri Alberto até 2030",
-      "publisher": "Soccerway",
-      "type": "press",
-      "accessed": "2026-10-27",
-      "lang": "pt"
-    },
-    {
-      "id": "onefootball-barra-2026",
-      "url": "https://onefootball.com/en/news/yuri-alberto-ends-drought-and-moves-clear-as-corinthians-2026-top-scorer-42877617",
-      "title": "Yuri Alberto ends drought and moves clear as Corinthians' 2026 top scorer",
-      "publisher": "OneFootball",
-      "type": "press",
-      "accessed": "2026-10-27",
-      "lang": "en"
-    },
-    {
-      "id": "lance-revela-2026",
-      "url": "https://www.lance.com.br/corinthians/yuri-alberto-revela-que-pretende-deixar-o-corinthians-em-2026.html",
-      "title": "Yuri Alberto revela que pretende deixar o Corinthians em 2026 (entrevista à TV Globo)",
-      "publisher": "Lance",
-      "type": "interview",
-      "accessed": "2026-10-27",
-      "lang": "pt"
-    },
-    {
-      "id": "lance-goals-list-2025",
-      "url": "https://www.lance.com.br/corinthians/corinthians-yuri-alberto-completa-lista-e-marca-contra-todos-os-times-da-serie-a.html",
-      "title": "Yuri Alberto completa lista e marca contra todos os times da Série A",
-      "publisher": "Lance",
+      "id": "tribuna-return-training-2026",
+      "url": "https://tribunadejundiai.com.br/mais/esportes/yuri-alberto-celebra-retorno-aos-treinos-e-promete-mudar-historia-no-corinthians/",
+      "title": "Yuri Alberto celebra retorno aos treinos e promete mudar história no Corinthians",
+      "publisher": "Tribuna de Jundiaí",
       "type": "press",
       "accessed": "2026-10-27",
       "lang": "pt"
     }
-  ],
-  "wikidata": "Q43252427",
-  "image": {
-    "src": "/images/people/yuri-alberto.jpg",
-    "alt": "Yuri Alberto",
-    "credit": "Вячеслав Евдокимов",
-    "license": "CC BY-SA 3.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yuri_Alberto_2022.jpg"
-  }
+  ]
 }

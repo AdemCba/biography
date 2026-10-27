@@ -1,0 +1,221 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Started 2026 ranked No. 168",
+      "sourceIds": [
+        "atp-bio-es",
+        "atp-bio-en"
+      ],
+      "verdict": "confirmed",
+      "note": "ES profile: 'Comenzo la temporada 2026 como No. 168'. EN profile gives the same start-of-season ranking."
+    },
+    {
+      "claim": "Career-high No. 11, reached August 2026",
+      "sourceIds": [
+        "atp-bio-en",
+        "atp-bio-es"
+      ],
+      "verdict": "confirmed",
+      "note": "EN profile: career-high No. 11 'later that month' (August 2026); page marked UPDATED 27 AUGUST 2026. ES profile agrees."
+    },
+    {
+      "claim": "As of 27 October 2026 the ATP profile gives career-high No. 11, with no live ranking",
+      "sourceIds": [
+        "atp-bio-es",
+        "atp-bio-en"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile shows only the career-high; current ranking is an unrendered placeholder. 27 October is the access date, not a profile date. The article does not claim a current ranking."
+    },
+    {
+      "claim": "Born 2006; hometown Leganes in the Madrid region",
+      "sourceIds": [
+        "eldebate-junior-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "El Debate: 'Rafa Jodar (Leganes, 2006)'."
+    },
+    {
+      "claim": "Started tennis at four in the garage of his home; joined Club de Tenis Chamartin at six",
+      "sourceIds": [
+        "elespanol-garage-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Interview headline and body quote: 'Empece a jugar al tenis con 4 anos, en el garaje de mi casa, y con 6 me apunte al club de tenis de Chamartin'."
+    },
+    {
+      "claim": "Trained on the hard courts with his father, at any hour, just the two of them",
+      "sourceIds": [
+        "elespanol-garage-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'Venia a las pistas duras con mi padre, a cualquier hora, los dos solos.'"
+    },
+    {
+      "claim": "Played football alongside tennis until 11",
+      "sourceIds": [
+        "elespanol-garage-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'compagino con el tenis hasta los 11 anos'."
+    },
+    {
+      "claim": "Father was his only coach (June 2026 interview)",
+      "sourceIds": [
+        "elespanol-garage-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'siendo su unico entrenador'; interview published 3 June 2026. The article does not say 'still'."
+    },
+    {
+      "claim": "Won 2024 US Open boys' singles at 17, beating Budkov Kjaer in a final-set tiebreak",
+      "sourceIds": [
+        "atp-bio-en",
+        "eldebate-junior-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP profile: final-set tiebreak win over Budkov Kjaer. El Debate score 2-6 6-2 7-6(1), age 17."
+    },
+    {
+      "claim": "Best junior ranking No. 4",
+      "sourceIds": [
+        "atp-bio-en"
+      ],
+      "verdict": "confirmed",
+      "note": "'Peaked at No. 4 in juniors'."
+    },
+    {
+      "claim": "Qualified for the 2025 Next Gen ATP Finals",
+      "sourceIds": [
+        "atp-bio-en",
+        "atp-bio-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Both profiles say so, with his ATP Tour debut at that event."
+    },
+    {
+      "claim": "University of Virginia; 2025 ITA National Rookie of the Year; All-American honours",
+      "sourceIds": [
+        "atp-bio-en"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: 'became 2025 ITA National Rookie of the Year' and 'earned ITA All-American honours'."
+    },
+    {
+      "claim": "Challenger titles at Hersonissos, Lincoln and Charlottesville; third Spanish teenager with three",
+      "sourceIds": [
+        "atp-bio-en",
+        "atp-bio-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: 'third Spanish teenager to win 3 Challenger titles after Almagro and Alcaraz'."
+    },
+    {
+      "claim": "Marrakech, 5 April 2026, clay, beat Trungelliti 6-3 6-2 in 69 minutes; Trungelliti 36 and came through qualifying",
+      "sourceIds": [
+        "atp-marrakech-final-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP report gives date, surface, score, duration, age and qualifying route."
+    },
+    {
+      "claim": "Age gap between finalists is the fifth-biggest since 1990",
+      "sourceIds": [
+        "atp-marrakech-final-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'fifth-biggest age gap in ATP Tour history (since 1990)'."
+    },
+    {
+      "claim": "Aged 19; second man born 2006 or later to win a Tour title, after Joao Fonseca; up 32 places to career-high No. 57",
+      "sourceIds": [
+        "atp-marrakech-final-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP report states all three points."
+    },
+    {
+      "claim": "Washington semi-final: beat Tabilo 6-7(6) 6-4 6-4 in two hours and 23 minutes",
+      "sourceIds": [
+        "atp-washington-semi-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Score and duration as stated."
+    },
+    {
+      "claim": "No. 19 after the quarter-final (Top 20 debut); No. 15 after the semi-final; final against third seed Taylor Fritz",
+      "sourceIds": [
+        "atp-washington-semi-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quarter-final win over fourth seed Musetti; ranking moves and seeding as stated."
+    },
+    {
+      "claim": "Third Spanish Washington finalist after Corretja (2000) and Davidovich Fokina (2025); final called the biggest of his career",
+      "sourceIds": [
+        "atp-washington-semi-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source names Corretja in 2000 and Davidovich Fokina as last year's Spanish finalist; calls the final 'the biggest final of his career'."
+    },
+    {
+      "claim": "Ferrer on El Larguero (Cadena SER): reminds him of Nadal at 17, a magnificent year; Ferrer is now Davis Cup captain",
+      "sourceIds": [
+        "eldebate-ferrer-2026",
+        "atp-davis-cup-debut-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes 'me recuerda mucho a Nadal cuando tenia 17 anos' and 'lleva un ano magnifico'; ATP preview names 'el capitan David Ferrer'."
+    },
+    {
+      "claim": "Davis Cup debut in the play-off away to Chile in Santiago; Spain's No. 1; No. 14 going in; 'moving very fast' and enjoying it",
+      "sourceIds": [
+        "atp-davis-cup-debut-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Preview article, not a result. Quotes and PIF No. 14 confirmed."
+    },
+    {
+      "claim": "19 September: beat Cristian Garin in straight sets after Spain won the opening singles; Spain 2-0 up",
+      "sourceIds": [
+        "puntodebreak-davis-cup-win-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Score 6-0 6-2 and Spain's 2-0 lead as stated."
+    },
+    {
+      "claim": "First ATP Masters 1000 final at Shanghai 2026; beat No. 6 Medvedev in the semi-final, his biggest career win",
+      "sourceIds": [
+        "atp-bio-es"
+      ],
+      "verdict": "confirmed",
+      "note": "ES profile. It also says he lost the final to Davidovich Fokina; the article does not state the final result, which is acceptable."
+    },
+    {
+      "claim": "Basel ATP 500 confirmed; eight registered players; last tournament of Wawrinka's career; no result given",
+      "sourceIds": [
+        "puntodebreak-basel-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source confirms participation, eight players and Wawrinka's last event. A sidebar teaser hints at a Basel win; that is unverified, and the article correctly gives no result."
+    },
+    {
+      "claim": "About 50 matches played that season, as of late August",
+      "sourceIds": [
+        "puntodebreak-basel-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'a player who has played, at this point in the year, 50 matches'."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Source-led timeline with clear ranking caveats (no live ranking for 27 October stated honestly). The Washington, Marrakech and Davis Cup sections add context a reader would not get from a ranking table.",
+  "decision": "approve",
+  "summary": "All checked claims are confirmed by the opened sources. No unsupported, wrong or outdated claims. The article is the source-language version and is not a translation. No changes needed."
+}

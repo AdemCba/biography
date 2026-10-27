@@ -1,298 +1,285 @@
 {
   "date": "2026-10-27",
   "model": "claude-haiku-5-5",
-  "approved": true,
-  "reasons": [],
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"Soccerway nennt keinen einzigen Länderspieleinsatz\" (The Soccerway page states national-team data is not included. Remove here and in the FAQ.)",
+    "Reviewer recommends rejection: Reject. All facts are confirmed except the Soccerway national-team claims. Fix: delete the Soccerway caps sentence and the FAQ sentence."
+  ],
   "claims": [
     {
-      "claim": "Yuri Alberto teilte sich die Torjägerkrone der Brasileirão 2024 mit Alerrandro vom Vitória.",
+      "claim": "Geboren am 18. März 2001 in São José dos Campos",
       "sourceIds": [
-        "cnn-brasil-top-scorer-2024"
+        "tuttosport-profile",
+        "corriere-sport-profile"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of cnn-brasil-top-scorer-2024 fetched during research; the figures, dates and quotes match."
+      "note": "Both profiles."
     },
     {
-      "claim": "Beide kamen auf je 15 Tore.",
+      "claim": "Stürmer / Attaccante",
       "sourceIds": [
-        "cnn-brasil-top-scorer-2024",
-        "lance-top-scorer-ranking-2024"
+        "tuttosport-profile",
+        "corriere-sport-profile"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of cnn-brasil-top-scorer-2024, lance-top-scorer-ranking-2024 fetched during research; the figures, dates and quotes match."
+      "note": "Both profiles."
     },
     {
-      "claim": "Die beiden erhielten die neue Trophäe Troféu Roberto Dinamite im Hauptquartier des brasilianischen Verbands CBF in Rio de Janeiro.",
+      "claim": "Stammt aus der Jugend des FC Santos; Profidebüt 2017",
       "sourceIds": [
-        "cnn-brasil-top-scorer-2024"
+        "umdoisesportes-trajetoria"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of cnn-brasil-top-scorer-2024 fetched during research; the figures, dates and quotes match."
+      "note": "'Revelado pela base do Santos'; debut 2017."
     },
     {
-      "claim": "Yuri Alberto Monteiro da Silva wurde am 18. März 2001 in São José dos Campos im Hinterland des Bundesstaats São Paulo geboren.",
+      "claim": "Ablösefrei von Santos zu Internacional am 1. Juli 2020",
       "sourceIds": [
-        "futimao-profile"
+        "soccerway-br-profile"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of futimao-profile fetched during research; the figures, dates and quotes match."
+      "note": "'Sem custos' 01.07.2020."
     },
     {
-      "claim": "Seine Karriere begann in den Nachwuchsmannschaften des Santos. 2020 wechselte er zu Sport Club Internacional und erzielte dort 31 Tore in 85 Spielen.",
+      "claim": "2020 in 29 Spielen 11 Tore, 2021 weitere 19",
       "sourceIds": [
-        "futimao-profile"
+        "umdoisesportes-trajetoria"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of futimao-profile fetched during research; the figures, dates and quotes match."
+      "note": "Confirmed."
     },
     {
-      "claim": "Der Corinthians verpflichtete ihn 2022.",
+      "claim": "Januar 2022: Verkauf an Zenit für 25,0 Mio. Euro laut Soccerway",
       "sourceIds": [
-        "futimao-profile"
+        "soccerway-br-profile"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of futimao-profile fetched during research; the figures, dates and quotes match."
+      "note": "30.01.2022, EUR 25.0m."
     },
     {
-      "claim": "Teile seiner wirtschaftlichen Rechte gehören einem russischen Klub.",
+      "claim": "29. Juni 2022: Corinthians gibt Leihe vom Zenit bekannt, Vertrag bis 2023",
       "sourceIds": [
-        "exame-wants-new-challenge-2026"
+        "vavel-loan-2022"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of exame-wants-new-challenge-2026 fetched during research; the figures, dates and quotes match."
+      "note": "Confirmed."
     },
     {
-      "claim": "Laut Exame hält der Corinthians 50 Prozent dieser Rechte, und Zenit aus Sankt Petersburg besitzt die andere Hälfte.",
+      "claim": "Leihe galt ab 1. Juli 2022",
       "sourceIds": [
-        "exame-wants-new-challenge-2026"
+        "soccerway-br-profile"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of exame-wants-new-challenge-2026 fetched during research; the figures, dates and quotes match."
+      "note": "01.07.2022 Empréstimo."
     },
     {
-      "claim": "Der Klub soll einen Mindestbetrag von 20 Millionen Euro für seinen Anteil festgelegt haben.",
+      "claim": "10. Januar 2023 fester Wechsel, Vertrag bis Dezember 2027",
       "sourceIds": [
-        "exame-wants-new-challenge-2026"
+        "tupi-purchase-2023"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of exame-wants-new-challenge-2026 fetched during research; the figures, dates and quotes match."
+      "note": "Confirmed."
     },
     {
-      "claim": "Der Corinthians machte die Verlängerung am 24. Juli 2025 offiziell.",
+      "claim": "Soccerway: Wechsel ohne Ablöse am selben Tag",
       "sourceIds": [
-        "lance-contract-renewal-2025"
+        "soccerway-br-profile"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of lance-contract-renewal-2025 fetched during research; the figures, dates and quotes match."
+      "note": "Confirmed."
     },
     {
-      "claim": "Der bisherige Vertrag lief bis Ende 2027, der neue bis Juli 2030.",
+      "claim": "Er sei sehr glücklich, beim Klub zu bleiben",
       "sourceIds": [
-        "lance-contract-renewal-2025"
+        "tupi-purchase-2023"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of lance-contract-renewal-2025 fetched during research; the figures, dates and quotes match."
+      "note": "Confirmed."
     },
     {
-      "claim": "In einer Mitteilung erklärte der Klub, dass die Verhandlungen von Präsident Osmar Stabile und dem Fußballmanager Fabinho Soldado geführt wurden.",
+      "claim": "1. Dezember 2024: Placar meldet 13 Brasileirão-Tore, vor Estêvão an der Spitze",
       "sourceIds": [
-        "soccerway-renewal-2025"
+        "placar-2024-top-scorer"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of soccerway-renewal-2025 fetched during research; the figures, dates and quotes match."
+      "note": "Confirmed."
     },
     {
-      "claim": "Die Ausstiegsklausel blieb bei der Verlängerung unverändert: 500 Millionen Real für einen brasilianischen Klub und 100 Millionen Euro für einen Klub im Ausland.",
+      "claim": "Insgesamt 29 Tore 2024",
       "sourceIds": [
-        "lance-contract-renewal-2025"
+        "placar-2024-top-scorer"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of lance-contract-renewal-2025 fetched during research; the figures, dates and quotes match."
+      "note": "Confirmed."
     },
     {
-      "claim": "Laut Terra sagte er nach dem Gewinn des Copa do Brasil auf dem Rasen des Maracanã nach einem Sieg gegen Vasco: \"Até 2030 eu estou aí\", also sinngemäß \"Ich bin bis 2030 hier\".",
+      "claim": "Saisonende 15 Tore, geteilt mit Alerrandro (Vitória)",
       "sourceIds": [
-        "terra-stay-until-2030-2025"
+        "dgabc-trophy-2024"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of terra-stay-until-2030-2025 fetched during research; the figures, dates and quotes match."
+      "note": "Confirmed."
     },
     {
-      "claim": "In einem Interview mit TV Globo, über das Lance am 14. Mai 2026 berichtete, sagte er, dass bereits fünf Spielzeiten vergangen seien und er seine Lage schon mit seinem Umfeld besprochen habe: \"Já foram cinco temporadas, eu já estou numa fase que eu conversei com meu staff\".",
+      "claim": "Ehrung bei der CBF in Rio; Dank an Familie und Glauben; Kritik in schwacher Phase",
       "sourceIds": [
-        "lance-revela-2026"
+        "dgabc-trophy-2024"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of lance-revela-2026 fetched during research; the figures, dates and quotes match."
+      "note": "Confirmed."
     },
     {
-      "claim": "Der Klub habe bis zum Ende des Copa do Brasil knapp zwei Monate Zeit, die Sache zu klären.",
+      "claim": "Nov. 2025: 200 Spiele, 73 Tore, 24. Spieler des 21. Jahrhunderts",
       "sourceIds": [
-        "lance-revela-2026"
+        "gazeta-200-jogos-2025"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of lance-revela-2026 fetched during research; the figures, dates and quotes match."
+      "note": "Confirmed."
     },
     {
-      "claim": "Sein Berater André Cury sollte sich in diesem Jahr nach einer anderen Herausforderung umsehen.",
+      "claim": "Juli 2025 Verlängerung bis Juli 2030, zuvor Ende 2027",
       "sourceIds": [
-        "lance-revela-2026"
+        "dgabc-renewal-2025",
+        "lance-renewal-2025"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of lance-revela-2026 fetched during research; the figures, dates and quotes match."
+      "note": "Confirmed."
     },
     {
-      "claim": "Exame berichtete am 15. Mai 2026, dass ein Abschied nur dann besprochen werde, wenn ein attraktives Angebot komme.",
+      "claim": "Klub nannte 184 Spiele, 70 Tore, einen Titel (Paulistão 2025)",
       "sourceIds": [
-        "exame-wants-new-challenge-2026"
+        "dgabc-renewal-2025"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of exame-wants-new-challenge-2026 fetched during research; the figures, dates and quotes match."
+      "note": "Confirmed."
     },
     {
-      "claim": "Der Artikel führt dies auf eine Vereinbarung mit der Klubführung bei seiner Verlängerung zurück.",
+      "claim": "Soccerway: Vertragsende 30. Juni 2030",
       "sourceIds": [
-        "exame-wants-new-challenge-2026"
+        "soccerway-br-profile"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of exame-wants-new-challenge-2026 fetched during research; the figures, dates and quotes match."
+      "note": "Confirmed."
     },
     {
-      "claim": "Schon früher hatte der Mannschaftsarzt eine seiner Verletzungen als Bruch des Wirbels L1 beschrieben.",
+      "claim": "Trivela: kein ausländischer Klub machte formelles Angebot; wollte in den Kader berufen werden",
       "sourceIds": [
-        "lance-contract-renewal-2025"
+        "trivela-renewal-2025"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of lance-contract-renewal-2025 fetched during research; the figures, dates and quotes match."
+      "note": "Confirmed."
     },
     {
-      "claim": "Im November 2025 berichtete Lance, dass er inzwischen gegen alle Klubs der aktuellen Série A getroffen habe, zuletzt gegen Mirassol.",
+      "claim": "Lance-Interview: Zitat zur Rückgabe und Transferfenster; Entscheidung mit Familie und Staff",
       "sourceIds": [
-        "lance-goals-list-2025"
+        "lance-comment-2025"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of lance-goals-list-2025 fetched during research; the figures, dates and quotes match."
+      "note": "Confirmed."
     },
     {
-      "claim": "Im selben Artikel standen für den Corinthians 73 Tore und 19 Assists in 200 Spielen, eine Fotounterschrift nannte jedoch 78 Tore.",
+      "claim": "Tuttosport: U17 2017 8 Spiele, 3 Tore; U23 2020 und 2021 2 Spiele",
       "sourceIds": [
-        "lance-goals-list-2025"
+        "tuttosport-profile"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of lance-goals-list-2025 fetched during research; the figures, dates and quotes match."
+      "note": "Confirmed."
     },
     {
-      "claim": "Am 19. Oktober 2026 verwandelte er einen Elfmeter zum 1:1 gegen Vitória in der Neo Química Arena.",
+      "claim": "Erste A-Einberufung zu einem Freundschaftsspiel gegen Marokko",
       "sourceIds": [
-        "gazeta-corinthians-vitoria-2026"
+        "umdoisesportes-trajetoria"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of gazeta-corinthians-vitoria-2026 fetched during research; the figures, dates and quotes match."
+      "note": "Confirmed."
     },
     {
-      "claim": "Der Schiedsrichter hatte zunächst auf Schwalbe entschieden, änderte seine Entscheidung nach einer VAR-Überprüfung jedoch.",
+      "claim": "Tuttosport: ein A-Einsatz 2023 ohne Tor",
       "sourceIds": [
-        "gazeta-corinthians-vitoria-2026"
+        "tuttosport-profile"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of gazeta-corinthians-vitoria-2026 fetched during research; the figures, dates and quotes match."
+      "note": "Confirmed."
     },
     {
-      "claim": "Renê hatte Vitória kurz vor der Pause in Führung gebracht, der Elfmeter war also der Ausgleich.",
+      "claim": "Soccerway nennt keinen einzigen Länderspieleinsatz",
       "sourceIds": [
-        "gazeta-corinthians-vitoria-2026"
+        "soccerway-br-profile"
       ],
-      "verdict": "confirmed",
-      "note": "Checked against the text of gazeta-corinthians-vitoria-2026 fetched during research; the figures, dates and quotes match."
+      "verdict": "unsupported",
+      "note": "The Soccerway page states national-team data is not included. Remove here and in the FAQ."
     },
     {
-      "claim": "Der Corinthians hatte am 26. Oktober 2026 33 Punkte.",
+      "claim": "März 2026 Lance: Grad 2, Biceps femoris links, über einen Monat ausgefallen, Einsatz gegen Chapecoense am 19. März",
       "sourceIds": [
-        "dgabc-gremio-coritiba-2026"
+        "lance-return-2026"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of dgabc-gremio-coritiba-2026 fetched during research; the figures, dates and quotes match."
+      "note": "Confirmed."
     },
     {
-      "claim": "An diesem Tag gewann Grêmio 1:0 bei Coritiba, Braithwaite traf in der 47. Minute der zweiten Halbzeit.",
+      "claim": "1. August O Povo: Muskelverletzung rechts, torloses Remis gegen Athletico-PR 21. Spieltag, Diniz, kein Grad",
       "sourceIds": [
-        "dgabc-gremio-coritiba-2026"
+        "opovo-injury-2026"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of dgabc-gremio-coritiba-2026 fetched during research; the figures, dates and quotes match."
+      "note": "Confirmed."
     },
     {
-      "claim": "Grêmio kletterte auf 34 Punkte und auf Rang 17, über den Corinthians, die in der Abstiegszone blieben.",
+      "claim": "Im August Fibrose; Comeback-Versuch gegen Santos abgebrochen",
       "sourceIds": [
-        "dgabc-gremio-coritiba-2026"
+        "tribuna-return-training-2026"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of dgabc-gremio-coritiba-2026 fetched during research; the figures, dates and quotes match."
+      "note": "Wording is acceptable."
     },
     {
-      "claim": "Der Sieg des Grêmio, der den Corinthians nach unten drückte, war also ein Erfolg bei Coritiba und kein Spiel gegen den Corinthians.",
+      "claim": "27. September: Grad 2 rechter Oberschenkel, nicht gespielt seit 30. Juli, Klub rechnet mit Verfügbarkeit",
       "sourceIds": [
-        "dgabc-gremio-coritiba-2026"
+        "tribuna-injury-2026"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of dgabc-gremio-coritiba-2026 fetched during research; the figures, dates and quotes match."
+      "note": "Confirmed."
     },
     {
-      "claim": "Yuri Alberto ist der brasilianische Stürmer, der sich 2024 mit 15 Toren die Torjägerkrone der Brasileirão teilte. Er spielt seit 2022 beim Corinthians, sein Vertrag läuft bis Juli 2030.",
+      "claim": "Ende September erste Einheit mit der Gruppe, keine Schmerzen",
       "sourceIds": [
-        "cnn-brasil-top-scorer-2024",
-        "futimao-profile",
-        "lance-contract-renewal-2025",
-        "lance-top-scorer-ranking-2024"
+        "tribuna-return-training-2026"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of cnn-brasil-top-scorer-2024, futimao-profile, lance-contract-renewal-2025, lance-top-scorer-ranking-2024 fetched during research; the figures, dates and quotes match."
+      "note": "Confirmed."
     },
     {
-      "claim": "Er wurde am 18. März 2001 geboren, war also am 27. Oktober 2026 25 Jahre alt.",
+      "claim": "6. Oktober: unter 24 Spielern für Internacional, genesen von rechter Oberschenkel-Muskelverletzung",
       "sourceIds": [
-        "futimao-profile"
+        "tribuna-squad-2026"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of futimao-profile fetched during research; the figures, dates and quotes match."
+      "note": "Confirmed."
     },
     {
-      "claim": "Bis Juli 2030, nach einer Verlängerung, die am 24. Juli 2025 offiziell wurde.",
+      "claim": "Alter: am 27. Oktober 2026 25 Jahre (FAQ, Summary)",
       "sourceIds": [
-        "lance-contract-renewal-2025"
+        "tuttosport-profile"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of lance-contract-renewal-2025 fetched during research; the figures, dates and quotes match."
+      "note": "Confirmed."
     },
     {
-      "claim": "500 Millionen Real für einen brasilianischen Klub und 100 Millionen Euro für einen Klub im Ausland.",
+      "claim": "Vertrag bis Juli 2030 (Aktualität)",
       "sourceIds": [
-        "lance-contract-renewal-2025"
+        "lance-renewal-2025",
+        "soccerway-br-profile"
       ],
       "verdict": "confirmed",
-      "note": "Checked against the text of lance-contract-renewal-2025 fetched during research; the figures, dates and quotes match."
-    },
-    {
-      "claim": "Aus São José dos Campos im Hinterland des Bundesstaats São Paulo in Brasilien.",
-      "sourceIds": [
-        "futimao-profile"
-      ],
-      "verdict": "confirmed",
-      "note": "Checked against the text of futimao-profile fetched during research; the figures, dates and quotes match."
-    },
-    {
-      "claim": "15, gleichauf mit Alerrandro vom Vitória an der Spitze der Torschützenliste.",
-      "sourceIds": [
-        "lance-top-scorer-ranking-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "Checked against the text of lance-top-scorer-ranking-2024 fetched during research; the figures, dates and quotes match."
+      "note": "Not outdated."
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "Adds a sourced account of his contract, the May 2026 interview, the disputed goal tally and the trend correction (the Grêmio win was over Coritiba, not against Corinthians), which the usual results do not combine.",
-  "decision": "approve",
-  "summary": "35 claim units checked; no wrong or unsupported figures; no uncited sentences."
+  "valueNote": "The German version reorders the story around the contract question. The injury timeline and the Tuttosport/Soccerway disagreement add context. The Soccerway caps claim is the only failure.",
+  "decision": "reject",
+  "summary": "Reject. All facts are confirmed except the Soccerway national-team claims. Fix: delete the Soccerway caps sentence and the FAQ sentence."
 }

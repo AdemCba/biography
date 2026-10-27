@@ -1,0 +1,217 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Career-high No. 11 in August 2026 (ATP profile), stated as the best placement with date 27 Oct 2026",
+      "sourceIds": [
+        "atp-bio-es",
+        "atp-bio-en"
+      ],
+      "verdict": "confirmed",
+      "note": "Profiles give career-high No. 11 in August. Dated 'Stand 27 Oct' wording is the profile as of that date, not a claim that No. 11 is the current position. No current ranking appears in either profile."
+    },
+    {
+      "claim": "Started 2026 at No. 168",
+      "sourceIds": [
+        "atp-bio-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Comenzo la temporada 2026 como No. 168."
+    },
+    {
+      "claim": "From Leganes, Madrid region; born 2006",
+      "sourceIds": [
+        "eldebate-junior-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Rafa Jodar (Leganes, 2006)."
+    },
+    {
+      "claim": "Marrakech title 5 April 2026, clay, 6-3 6-2 over Trungelliti in 69 minutes; opponent 36 and from qualifying; fifth-largest age gap since 1990",
+      "sourceIds": [
+        "atp-marrakech-final-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "All details present in the ATP report."
+    },
+    {
+      "claim": "First ATP Tour title; sixth Spanish man to win a tour title before 20",
+      "sourceIds": [
+        "atp-bio-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile states both."
+    },
+    {
+      "claim": "Second man born 2006 or later to win a tour title, behind Joao Fonseca; aged 19; up 32 places to career-high 57",
+      "sourceIds": [
+        "atp-marrakech-final-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the ATP report."
+    },
+    {
+      "claim": "Garage at age 4, Club de Tenis Chamartin at 6, hard courts with father, football until 11",
+      "sourceIds": [
+        "elespanol-garage-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "All present in El Espanol interview (published 3 June 2026)."
+    },
+    {
+      "claim": "Father described as his only coach, in an interview of June 2026",
+      "sourceIds": [
+        "elespanol-garage-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Participial clause siendo su unico entrenador; the article is dated 3 June 2026. Past-tense framing used in the draft, which is correct."
+    },
+    {
+      "claim": "US Open boys singles 2024 at 17, final vs Budkov Kjaer, third set tiebreak, best junior ranking No. 4",
+      "sourceIds": [
+        "atp-bio-en",
+        "eldebate-junior-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio: final-set tiebreak vs Budkov Kjaer, peak junior No. 4. El Debate gives the 7-6(1) third set and age 17."
+    },
+    {
+      "claim": "University of Virginia; 2025 ITA National Rookie of the Year; All-American honours",
+      "sourceIds": [
+        "atp-bio-en"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio states both."
+    },
+    {
+      "claim": "Challenger titles at Hersonissos, Lincoln and Charlottesville; third Spanish teenager with three Challenger titles",
+      "sourceIds": [
+        "atp-bio-en"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in ATP bio."
+    },
+    {
+      "claim": "Qualified for Next Gen ATP Finals 2025",
+      "sourceIds": [
+        "atp-bio-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Se clasifico a las Next Gen ATP Finals 2025."
+    },
+    {
+      "claim": "Australian Open qualifier who won his first match; 2026 Barcelona semi-final and Madrid quarter-final",
+      "sourceIds": [
+        "atp-bio-en"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio: Q, beat Sakamoto in 1R; Barcelona SF; Madrid QF."
+    },
+    {
+      "claim": "Roland Garros No. 27 seed, first Grand Slam quarter-final; Montreal Masters semi-final, first born-2006 man to do so",
+      "sourceIds": [
+        "atp-bio-en"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio states both."
+    },
+    {
+      "claim": "Washington semi-final: beat Tabilo 6-7(6) 6-4 6-4 in 2h23; top-20 debut at No. 19 after quarter-final; No. 15 after semi-final; final vs third seed Taylor Fritz",
+      "sourceIds": [
+        "atp-washington-semi-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "All figures present in the ATP report."
+    },
+    {
+      "claim": "ATP called the final his biggest of his career",
+      "sourceIds": [
+        "atp-washington-semi-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Phrase is in the ATP standfirst, in the article's own voice."
+    },
+    {
+      "claim": "Third Spaniard in a Washington final after Corretja (2000) and Davidovich Fokina (2025)",
+      "sourceIds": [
+        "atp-washington-semi-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Article says third Spanish men's finalist, after Corretja 2000 and Davidovich Fokina last year."
+    },
+    {
+      "claim": "David Ferrer, now Davis Cup captain, compared him to Nadal at 17 on El Larguero (Cadena SER)",
+      "sourceIds": [
+        "atp-davis-cup-debut-2026",
+        "eldebate-ferrer-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Comparison and radio show are in eldebate-ferrer-2026, which also names Ferrer as Davis Cup captain. The tag atp-davis-cup-debut-2026 does not back the captain claim and should be replaced with eldebate-ferrer-2026."
+    },
+    {
+      "claim": "Shanghai 2026: first Masters 1000 final; semi-final win over No. 6 Medvedev described as biggest career win",
+      "sourceIds": [
+        "atp-bio-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile states both."
+    },
+    {
+      "claim": "No. 14 in PIF ATP ranking before the Chile tie",
+      "sourceIds": [
+        "atp-davis-cup-debut-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Arrives in Santiago como No. 14 del PIF ATP Rankings."
+    },
+    {
+      "claim": "About 50 matches played this season as of late August",
+      "sourceIds": [
+        "puntodebreak-basel-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Writer's count in the Punto de Break article."
+    },
+    {
+      "claim": "Davis Cup debut in play-off away at Chile in Santiago as Spain No. 1; preview quote about speed and enjoyment",
+      "sourceIds": [
+        "atp-davis-cup-debut-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Firme No. 1 de La Armada; quote present."
+    },
+    {
+      "claim": "19 September: beat Cristian Garin in two sets after Spain won the first singles; Spain 2-0",
+      "sourceIds": [
+        "puntodebreak-davis-cup-win-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Article: 6-0 6-2; Spain goes to sleep with a 0-2 lead."
+    },
+    {
+      "claim": "Confirmed for ATP 500 Basel in August 2026; eight players registered; last tournament of Stan Wawrinka",
+      "sourceIds": [
+        "puntodebreak-basel-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated. The sidebar claim that he played and won is not used; the article gives no result."
+    },
+    {
+      "claim": "Summary and FAQ: No. 11 stated as dated (as of 27 Oct 2026) career-high from the ATP profile",
+      "sourceIds": [
+        "atp-bio-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Dated career-high wording is acceptable."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds the ranking caveat, the Washington run from the ATP report, the Davis Cup context and the Basel no-result note, which the usual top results do not cover.",
+  "decision": "approve",
+  "summary": "All body, summary, knownFor and FAQ claims are supported by opened sources. Fix only the Ferrer captain citation: it should point to eldebate-ferrer-2026, not atp-davis-cup-debut-2026. No unsupported, wrong or outdated claims."
+}

@@ -1,0 +1,322 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 21 Jan 2007 in Warrington, England",
+      "sourceIds": [
+        "dartsworld-littler-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile gives 21/01/2007 and Warrington, England."
+    },
+    {
+      "claim": "English nationality (FAQ)",
+      "sourceIds": [
+        "dartsworld-littler-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Age 19 on 27 Oct 2026 (FAQ)",
+      "sourceIds": [
+        "dartsworld-littler-profile",
+        "whats-on-netflix-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "What's on Netflix says 19; arithmetic correct."
+    },
+    {
+      "claim": "Platz eins der Weltrangliste (summary, intro)",
+      "sourceIds": [
+        "sky-sports-grand-slam-world-no1-2025",
+        "netflix-tudum-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "Current status stated by Netflix and Sky."
+    },
+    {
+      "claim": "Zweifacher PDC-Weltmeister, 2025 und 2026",
+      "sourceIds": [
+        "netflix-tudum-beat-luke-littler",
+        "sky-sports-world-championship-2026-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Im Januar 2025 mit 17 Jahren Weltmeister",
+      "sourceIds": [
+        "sky-sports-world-championship-2025-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated; youngest champion at 17."
+    },
+    {
+      "claim": "Titel im Januar 2026 verteidigt",
+      "sourceIds": [
+        "sky-sports-world-championship-2026-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "WM-Finale 3. Jan 2024, 16 Jahre, 7:4 gegen Humphries",
+      "sourceIds": [
+        "nbc-washington-world-final-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Date, age, score stated."
+    },
+    {
+      "claim": "Finalist prize 200,000 pounds",
+      "sourceIds": [
+        "nbc-washington-world-final-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "2025 final vs van Gerwen, largely one-sided",
+      "sourceIds": [
+        "sky-sports-world-championship-2025-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "2026 final Samstag 3. Jan, Alexandra Palace, 7:1 gegen van Veen",
+      "sourceIds": [
+        "sky-sports-world-championship-2026-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "1 million pound top prize, highest in darts history",
+      "sourceIds": [
+        "sky-sports-world-championship-2026-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Vierter Verteidiger, erster seit Gary Anderson 2016",
+      "sourceIds": [
+        "sky-sports-world-championship-2026-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Back-to-back-Champion (What's on Netflix)",
+      "sourceIds": [
+        "whats-on-netflix-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Grand Slam 2025 Halbfinale: 16:9 gegen Noppert",
+      "sourceIds": [
+        "sky-sports-grand-slam-world-no1-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Score stated; semi-final stage not named."
+    },
+    {
+      "claim": "Jüngster PDC-Weltranglistenerster mit 18 Jahren und 299 Tagen, Van-Gerwen-Rekord 2014",
+      "sourceIds": [
+        "sky-sports-grand-slam-world-no1-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Grand Slam verteidigt, vierter Doppel-Sieger in Wolverhampton",
+      "sourceIds": [
+        "sky-sports-grand-slam-world-no1-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "72.000 Pfund Rückstand; 81.500 Pfund Vorsprung nach Finaleinzug",
+      "sourceIds": [
+        "sky-sports-grand-slam-world-no1-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Both figures stated."
+    },
+    {
+      "claim": "Steht bequem auf Platz eins (What's on Netflix)",
+      "sourceIds": [
+        "whats-on-netflix-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Sechs Premier-Turniere in Saison 2025/26",
+      "sourceIds": [
+        "sky-sports-world-series-finals-2026",
+        "sky-sports-players-championship-27-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "All six listed."
+    },
+    {
+      "claim": "Jeden Major-Titel des Jahres 2026 bis dahin gewonnen",
+      "sourceIds": [
+        "sky-sports-players-championship-27-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky statement at that time."
+    },
+    {
+      "claim": "Viertelfinale 4:10 gegen Jonny Clayton, Amsterdam",
+      "sourceIds": [
+        "sky-sports-world-series-finals-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Ross Smith 11:5 gegen Gerwyn Price",
+      "sourceIds": [
+        "sky-sports-world-series-finals-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Ausstehend: WGP, European Championship, Grand Slam",
+      "sourceIds": [
+        "sky-sports-world-series-finals-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Sendung Freitag 30. Oktober 2026, produziert von Banijay UK",
+      "sourceIds": [
+        "whats-on-netflix-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "19 Uhr britischer Zeit, 15 Uhr Ostküstenzeit",
+      "sourceIds": [
+        "netflix-tudum-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "Both stated."
+    },
+    {
+      "claim": "Preis 501.000 Pfund, 667.000 US-Dollar",
+      "sourceIds": [
+        "netflix-tudum-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Preis rund 586.000 Euro (German media)",
+      "sourceIds": [
+        "sport1-beat-luke-littler-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sport1 gives 586,000 euros."
+    },
+    {
+      "claim": "Sport1-Bericht vom 28. Juli 2026",
+      "sourceIds": [
+        "sport1-beat-luke-littler-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Publication date 28 July 2026."
+    },
+    {
+      "claim": "24 Teilnehmer um 20 Plätze, dann Auslosung gegen Littler",
+      "sourceIds": [
+        "netflix-tudum-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "20 Amateure je ein Leg 501",
+      "sourceIds": [
+        "whats-on-netflix-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated; perfekt not in source."
+    },
+    {
+      "claim": "Gewinner bringt 501 schneller auf null als Littler",
+      "sourceIds": [
+        "sport1-beat-luke-littler-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Endet, sobald jemand Littler schlägt",
+      "sourceIds": [
+        "netflix-tudum-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Lineker, Osman, Ginge, Turner, Mack",
+      "sourceIds": [
+        "netflix-tudum-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Regional heats London, Manchester, September 2026; BeatLukeLittler.com",
+      "sourceIds": [
+        "whats-on-netflix-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "28 PDC titles, 13 majors",
+      "sourceIds": [
+        "netflix-tudum-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Sky counted eight majors at 2025 Grand Slam",
+      "sourceIds": [
+        "sky-sports-grand-slam-world-no1-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "MBE 2025 for services to darts",
+      "sourceIds": [
+        "dartsworld-littler-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Uses German Sport1 source, converts prize to euros, German terms and a German-first search framing.",
+  "decision": "approve",
+  "summary": "All claims confirmed against opened sources, no uncited facts. Approve."
+}

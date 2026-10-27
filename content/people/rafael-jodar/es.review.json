@@ -1,0 +1,227 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 2006 in Leganés (El Debate)",
+      "sourceIds": [
+        "eldebate-junior-2024"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Began 2026 as No. 168; best ranking No. 11 in August",
+      "sourceIds": [
+        "atp-bio-es",
+        "atp-bio-en"
+      ],
+      "verdict": "confirmed",
+      "note": "Career-high is a fixed historical fact; summary wording 'A 27 de octubre ... era el 11' reads as career-high at that date, and body attributes it to the profile. Acceptable, but 'según su perfil' would be clearer in the summary."
+    },
+    {
+      "claim": "Profile consulted 27 Oct 2026 shows career-high 11",
+      "sourceIds": [
+        "atp-bio-es"
+      ],
+      "verdict": "confirmed",
+      "note": "No current rank claimed; body says no real-time ranking found."
+    },
+    {
+      "claim": "First ATP title, Marrakech, 5 April 2026, 6-3 6-2 over Trungelliti in 69 min",
+      "sourceIds": [
+        "atp-marrakech-final-2026",
+        "atp-bio-es"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Trungelliti 36, came from qualifying; age gap fifth since 1990",
+      "sourceIds": [
+        "atp-marrakech-final-2026"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Age 19; second born-2006-or-later tour title winner behind Fonseca; +32 to 57",
+      "sourceIds": [
+        "atp-marrakech-final-2026"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Sixth Spanish man to win a title before 20",
+      "sourceIds": [
+        "atp-bio-es",
+        "atp-marrakech-final-2026"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Garage at 4, Club de Tenis Chamartín at 6, hard courts with father, football until 11",
+      "sourceIds": [
+        "elespanol-garage-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Football detail is article narration."
+    },
+    {
+      "claim": "Said in June 2026 interview that his father was his only coach",
+      "sourceIds": [
+        "elespanol-garage-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Past tense, no 'sigue'. Wording is the article's description of the interview."
+    },
+    {
+      "claim": "US Open junior boys' singles 2024 at 17, over Budkov Kjaer, final set tie-break",
+      "sourceIds": [
+        "atp-bio-en",
+        "eldebate-junior-2024"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Best junior ranking No. 4",
+      "sourceIds": [
+        "atp-bio-en"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Qualified for Next Gen ATP Finals 2025",
+      "sourceIds": [
+        "atp-bio-es"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Virginia: ITA Rookie of the Year 2025, All-American",
+      "sourceIds": [
+        "atp-bio-en"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Challenger titles Hersonissos, Lincoln, Charlottesville; third Spanish teenager with three",
+      "sourceIds": [
+        "atp-bio-en"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Roland Garros No. 27 seed, first Grand Slam quarter-final; Montreal semi-final, first born-2006 to do it",
+      "sourceIds": [
+        "atp-bio-en"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Barcelona semi-final and Madrid quarter-final; Australian Open qualifier first win",
+      "sourceIds": [
+        "atp-bio-en"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Washington semi-final over Tabilo 6-7(6) 6-4 6-4, 2h23; 19th to 15th; final vs Fritz (3rd seed); 'biggest final of career'",
+      "sourceIds": [
+        "atp-washington-semi-2026"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Third Spanish Washington finalist after Corretja 2000 and Davidovich Fokina 2025",
+      "sourceIds": [
+        "atp-washington-semi-2026"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Ferrer, now Spain's Davis Cup captain, said he reminds him of Nadal at 17 on Cadena SER, 'año magnífico'",
+      "sourceIds": [
+        "atp-davis-cup-debut-2026",
+        "eldebate-ferrer-2026"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Shanghai first Masters 1000 final; Medvedev No. 6 win called biggest career win (summary-level, body mentions 14th PIF)",
+      "sourceIds": [
+        "atp-bio-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Shanghai appears only in the ES profile; the ES article body does not repeat it, which is acceptable."
+    },
+    {
+      "claim": "14th in PIF ATP ranking before Chile tie",
+      "sourceIds": [
+        "atp-davis-cup-debut-2026"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "About 50 matches this season, reported late August",
+      "sourceIds": [
+        "puntodebreak-basel-2026"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Davis Cup debut in play-off at Santiago de Chile, No. 1 for Spain, 'todo muy rápido' but enjoying it",
+      "sourceIds": [
+        "atp-davis-cup-debut-2026"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "19 Sep: beat Garín in two sets after Spain won opening singles; Spain 2-0",
+      "sourceIds": [
+        "puntodebreak-davis-cup-win-2026"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Confirmed for ATP 500 Basilea; eight players registered; Wawrinka's last tournament; good US Open could help ATP Finals chances",
+      "sourceIds": [
+        "puntodebreak-basel-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source explicitly says ATP 500 Basel 2026 and the ATP Finals sentence."
+    },
+    {
+      "claim": "Sources do not say whether he played in Basilea",
+      "sourceIds": [
+        "puntodebreak-basel-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "No Basel result in article text; sidebar teaser not used."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds the 27 October profile caveat, the Basilea no-result correction, and the Marrakech age-gap and Fonseca context. Structure differs from the English page and the prose is not a sentence-by-sentence translation.",
+  "decision": "approve",
+  "summary": "No unsupported, wrong or outdated claims found after opening all listed sources. Minor prose issues: 'lo que le convirtió' should read 'lo que lo convirtió' (grammar); 'Según la previa de la ATP' is a loose calque of a preview. Process problem outside the decision rule: the frontmatter sets status 'approved' and reviewer 'fact-check-desk' by hand, which AGENTS.md forbids; this should be reverted to 'review' unless the human editor approves. Also, the Washington semi-final ATP page labels Washington an 'ATP 500' event, contradicting the earlier established fact; neither locale states that label."
+}

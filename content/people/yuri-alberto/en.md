@@ -1,85 +1,98 @@
 ---
-title: 'Yuri Alberto: age, Corinthians contract and goals'
+title: Yuri Alberto
 slug: yuri-alberto
-metaTitle: 'Yuri Alberto: age, contract and goals'
+metaTitle: 'Yuri Alberto: age, Corinthians contract and 2026 injuries'
 metaDescription: >-
-  Yuri Alberto's age, birthplace, Corinthians contract to 2030, release clause,
-  2024 Brasileirão top-scorer award and 2026 form.
-knownFor: 'Brazilian striker for Corinthians, joint 2024 Brasileirão top scorer'
+  Yuri Alberto's age, birthplace, Corinthians career, contract to 2030, 2024
+  Brasileirão scoring and his 2026 thigh injuries, from cited sources.
+knownFor: Brazilian striker at Corinthians since 2022
 summary: >-
-  Yuri Alberto is the Brazilian striker who shared the 2024 Brasileirão
-  top-scorer award with 15 goals [s:cnn-brasil-top-scorer-2024]
-  [s:lance-top-scorer-ranking-2024]. He has played for Corinthians since 2022
-  [s:futimao-profile], and his contract now runs until July 2030
-  [s:lance-contract-renewal-2025].
-status: published
-risk: medium
-reviewedAt: '2026-10-27'
-reviewBy: '2027-04-27'
+  Yuri Alberto is a Brazilian striker, born on 18 March 2001 in São José dos
+  Campos, who has played for Corinthians since 2022. In July 2025 the club
+  extended his contract to July 2030. After a grade 2 right-thigh injury kept
+  him out from 30 July 2026, he was named in the squad for the club's 7 October
+  match at Internacional.
+status: review
+risk: low
 author: editor-in-chief
-reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
-  - Yuri Alberto
+  - Yuri Alberto Corinthians
   - Yuri Alberto age
-  - Yuri Alberto current club
-  - Yuri Alberto contract 2030
-  - Yuri Alberto release clause
-  - Yuri Alberto goals 2026
-  - Yuri Alberto top scorer Brasileirão 2024
-  - Where is Yuri Alberto from
+  - Yuri Alberto contract Corinthians 2030
+  - Yuri Alberto injury
+  - Yuri Alberto Zenit loan
+  - Yuri Alberto Brazil national team
 faq:
   - q: How old is Yuri Alberto?
     a: >-
-      He was born on 18 March 2001 [s:futimao-profile], so he is 25 as of 27
-      October 2026.
-  - q: When does Yuri Alberto's contract with Corinthians end?
-    a: >-
-      In July 2030, after a renewal made official on 24 July 2025
-      [s:lance-contract-renewal-2025].
-  - q: What is Yuri Alberto's release clause?
-    a: >-
-      R$ 500 million for a Brazilian club and €100 million for a club abroad
-      [s:lance-contract-renewal-2025].
+      He was born on 18 March 2001, so he is 25 as of 27 October 2026
+      [s:tuttosport-profile].
   - q: Where is Yuri Alberto from?
     a: >-
-      São José dos Campos, in the interior of São Paulo state, Brazil
-      [s:futimao-profile].
-  - q: How many goals did Yuri Alberto score in the 2024 Brasileirão?
+      He was born in São José dos Campos, Brazil, and both Tuttosport and
+      Corriere dello Sport give that birthplace in their player profiles
+      [s:tuttosport-profile] [s:corriere-sport-profile].
+  - q: How long is Yuri Alberto's Corinthians contract?
     a: >-
-      15, level with Alerrandro of Vitória at the top of the table
-      [s:lance-top-scorer-ranking-2024].
+      In July 2025 Corinthians extended his deal to July 2030, replacing the
+      earlier end date at the end of 2027 [s:lance-renewal-2025]. Soccerway
+      lists the end date as 30 June 2030 [s:soccerway-br-profile].
+  - q: Has Yuri Alberto played for Brazil's senior team?
+    a: >-
+      Tuttosport lists one senior appearance for Brazil, in 2023, without a goal
+      [s:tuttosport-profile]. The Soccerway page does not cover national-team
+      data [s:soccerway-br-profile].
 autoReviews: 1
-publishedAt: '2026-10-27'
+reviewNotes: >-
+  UNSUPPORTED: "Soccerway lists no senior caps or goals at all" (The Soccerway
+  page says national-team caps are not included on the page. Absence of data is
+  not a record of zero caps. Remove this claim from the body and the FAQ.) |
+  UNSUPPORTED: "FAQ: Soccerway lists no caps for Brazil" (Same as the body
+  claim. Remove.) | Reviewer recommends rejection: Reject. Every fact except the
+  Soccerway national-team claims is supported by an opened source. Fix: delete
+  the Soccerway caps claims from the body and the FAQ.
 ---
-Yuri Alberto shared the 2024 Brasileirão top-scorer award with Alerrandro of Vitória, each on 15 goals [s:cnn-brasil-top-scorer-2024] [s:lance-top-scorer-ranking-2024]. Both received the new Troféu Roberto Dinamite at the CBF headquarters in Rio de Janeiro [s:cnn-brasil-top-scorer-2024].
+Yuri Alberto's Corinthians story runs from a loan in 2022 [s:vavel-loan-2022] to a contract that now lasts until 2030 [s:lance-renewal-2025]. In 2024 he was the Brasileirão's joint top scorer [s:dgabc-trophy-2024], and in 2026 a run of thigh injuries has kept him out for long spells [s:opovo-injury-2026] [s:tribuna-injury-2026].
 
-## From Santos youth to Corinthians
+## From Santos to Zenit
 
-Yuri Alberto Monteiro da Silva was born on 18 March 2001 in São José dos Campos, in the interior of São Paulo state [s:futimao-profile]. He began his career in the youth categories of Santos [s:futimao-profile]. He signed for Sport Club Internacional in 2020 and scored 31 goals in 85 matches for them [s:futimao-profile]. Corinthians signed him in 2022 [s:futimao-profile].
+Yuri Alberto Monteiro da Silva was born on 18 March 2001 in São José dos Campos, Brazil [s:tuttosport-profile] [s:corriere-sport-profile]. Both profiles list him as an attacker [s:tuttosport-profile] [s:corriere-sport-profile]. He came through the youth ranks of Santos and made his professional debut in 2017 [s:umdoisesportes-trajetoria]. Santos let him go to Internacional on 1 July 2020 without a fee [s:soccerway-br-profile].
 
-Part of his economic rights belongs to a Russian club [s:exame-wants-new-challenge-2026]. According to Exame, Corinthians holds 50% of them and Zenit of Russia holds the other half [s:exame-wants-new-challenge-2026]. The club reportedly set a minimum of €20 million for its share [s:exame-wants-new-challenge-2026].
+He scored 11 goals in 29 games for Internacional in 2020 and 19 in 2021 [s:umdoisesportes-trajetoria]. In January 2022 Internacional sold him to Zenit of Russia, for a fee that Soccerway records as €25.0m [s:soccerway-br-profile]. Then came Corinthians. Russia was not the end of the story.
 
-## A contract to 2030 and a release clause
+## Loan, then a permanent deal
 
-Corinthians made the renewal official on 24 July 2025 [s:lance-contract-renewal-2025]. The previous deal ran to the end of 2027, and the new one runs to July 2030 [s:lance-contract-renewal-2025]. In its statement the club said the talks were led by president Osmar Stabile and football executive Fabinho Soldado [s:soccerway-renewal-2025].
+Corinthians announced his loan from Zenit on 29 June 2022, on a contract running to 2023 [s:vavel-loan-2022]. The move took effect on 1 July 2022 [s:soccerway-br-profile].
 
-The release clause stayed the same in the renewal, at R$ 500 million for a Brazilian club and €100 million for a club abroad [s:lance-contract-renewal-2025]. Terra reported that after the Copa do Brasil title, on the pitch at the Maracanã following a win over Vasco, he said "Até 2030 eu estou aí", or "I'm here until 2030" [s:terra-stay-until-2030-2025].
+On 10 January 2023 the club confirmed a permanent deal, with his contract running to December 2027 [s:tupi-purchase-2023]. Soccerway records the same date as a move from Zenit with no fee [s:soccerway-br-profile]. He said he was very happy to stay at the club [s:tupi-purchase-2023].
 
-## A May 2026 interview about leaving
+## Goals and the 2024 title race
 
-In a TV Globo interview reported by Lance on 14 May 2026, he said five seasons had passed and that he had already talked through his situation with his staff: "Já foram cinco temporadas, eu já estou numa fase que eu conversei com meu staff" [s:lance-revela-2026]. He said the club had almost two months, until the end of the Copa do Brasil, to settle the matter [s:lance-revela-2026]. His agent, André Cury, had been asked to look for a different challenge that year [s:lance-revela-2026].
+By 1 December 2024 Placar reported 13 Brasileirão goals for him, enough to top the scorers' table ahead of Palmeiras' Estêvão [s:placar-2024-top-scorer]. That year he scored 29 goals in all competitions [s:placar-2024-top-scorer].
 
-Exame reported on 15 May 2026 that any exit would be discussed only if an attractive offer came [s:exame-wants-new-challenge-2026]. The article ties this to an agreement with the club's leadership when he renewed [s:exame-wants-new-challenge-2026]. The club doctor had earlier described one of his injuries as a fracture of the L1 vertebra [s:lance-contract-renewal-2025].
+He finished the league on 15 goals, level with Alerrandro of Vitória at the top of the list [s:dgabc-trophy-2024]. At the CBF ceremony where he collected the trophy, he said he had come back from a hard period and credited his family and his faith. The article also mentions the criticism he had faced during a poor patch for Corinthians [s:dgabc-trophy-2024].
 
-## Goals and a disputed tally
+By November 2025 he had played 200 matches for the club and scored 73 goals, making him the 24th player of the 21st century to reach 200 appearances for Corinthians [s:gazeta-200-jogos-2025].
 
-In November 2025 Lance reported that he had now scored against every team in the current Série A, completing the list with Mirassol [s:lance-goals-list-2025]. The same article put his Corinthians total at 73 goals and 19 assists in 200 matches, but a photo caption in it gave 78 goals [s:lance-goals-list-2025].
+## Contract to 2030
 
-## Back on the scoresheet in October
+In July 2025 Corinthians announced that his contract was extended to July 2030, replacing the earlier end date at the end of 2027 [s:dgabc-renewal-2025] [s:lance-renewal-2025]. The club's statement put his record at that point at 184 matches, 70 goals and one title, the 2025 Paulistão [s:dgabc-renewal-2025].
 
-On 19 October 2026 he scored a penalty in Corinthians' 1-1 draw with Vitória at the Neo Química Arena [s:gazeta-corinthians-vitoria-2026]. The referee first judged the incident a dive, but he changed the decision after a VAR review [s:gazeta-corinthians-vitoria-2026]. Renê had put Vitória ahead at 45 minutes of the first half, so the penalty was the equaliser [s:gazeta-corinthians-vitoria-2026].
+Trivela gave two reasons for the renewal: no international club made a formal offer, and he wanted to be called up to the Brazil squad [s:trivela-renewal-2025]. In a Lance interview he said that people stood with him in his worst moments and added: "Agora chegou a minha hora de retribuir" ("Now my time has come to give back") [s:lance-comment-2025]. He said many people, relatives included, had told him the transfer window was still open, but that the decision was made together with his family and staff [s:lance-comment-2025].
 
-## Relegation fight
+Soccerway's end date of 30 June 2030 differs by a few weeks from the July 2030 date in the club-linked reports [s:soccerway-br-profile] [s:lance-renewal-2025]. Both point to the same summer.
 
-Corinthians had 33 points on 26 October 2026 [s:dgabc-gremio-coritiba-2026]. That day Grêmio beat Coritiba 1-0, with Braithwaite scoring in the 47th minute of the second half [s:dgabc-gremio-coritiba-2026]. Grêmio rose to 34 points and 17th place, above Corinthians in the relegation zone [s:dgabc-gremio-coritiba-2026]. So the Grêmio result that pushed Corinthians down was a win at Coritiba, not a match against Corinthians [s:dgabc-gremio-coritiba-2026].
+## Brazil youth teams and the senior call-up
+
+Tuttosport's profile lists him for Brazil's under-17 team in 2017, with 8 appearances and 3 goals, and for the under-23 team in 2020 and 2021, with 2 appearances [s:tuttosport-profile]. His first call-up to the senior team came for a friendly against Morocco [s:umdoisesportes-trajetoria]. Tuttosport lists one senior appearance in 2023, without a goal [s:tuttosport-profile]. The Soccerway page does not cover national-team data [s:soccerway-br-profile], so the senior record here rests on Tuttosport alone and is not settled.
+
+## Injuries in 2026
+
+In March 2026 Lance reported a grade 2 injury to the biceps femoris of his left thigh. He had been out for more than a month, had trained with the squad again from the end of the previous week, and was cleared to play against Chapecoense on 19 March [s:lance-return-2026].
+
+A report published on 1 August 2026 said he had a muscle injury at the back of his right thigh, picked up in a goalless draw with Athletico-PR in the 21st round of the Brasileirão. Coach Fernando Diniz is named in the same report. The club had not given the grade or a return date [s:opovo-injury-2026].
+
+A later report said that in August a fibrosis during his recovery made him pull back from a return against Santos [s:tribuna-return-training-2026]. On 27 September 2026 Tribuna de Jundiaí reported a grade 2 injury to the right thigh and said he had not played since 30 July. It said the club expected him to be available for its next match [s:tribuna-injury-2026].
+
+By 30 September he had completed a first session with the group and said he felt no pain [s:tribuna-return-training-2026]. On 6 October 2026 the club named him among 24 players for the match against Internacional at the Beira-Rio, which the report described as his return from a right-thigh muscle injury [s:tribuna-squad-2026]. The sources used here do not report how he played in that match.

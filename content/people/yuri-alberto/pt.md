@@ -1,87 +1,88 @@
 ---
-title: 'Yuri Alberto: idade, contrato com o Corinthians e gols'
+title: Yuri Alberto
 slug: yuri-alberto
-metaTitle: 'Yuri Alberto: idade, contrato e gols'
+metaTitle: 'Yuri Alberto: idade, contrato e lesão no Corinthians'
 metaDescription: >-
-  Idade, naturalidade, contrato com o Corinthians até 2030, cláusula de rescisão
-  e artilharia do Brasileirão 2024 de Yuri Alberto.
-knownFor: 'Atacante brasileiro do Corinthians, artilheiro do Brasileirão 2024 (empatado)'
+  Idade, naturalidade, carreira no Corinthians, contrato até 2030, artilharia de
+  2024 e a lesão de 2026 de Yuri Alberto, com fontes consultadas.
+knownFor: Futebolista brasileiro do Corinthians desde 2022
 summary: >-
-  Yuri Alberto é o atacante brasileiro que dividiu a artilharia do Brasileirão
-  de 2024 com 15 gols [s:cnn-brasil-top-scorer-2024]
-  [s:lance-top-scorer-ranking-2024]. Ele defende o Corinthians desde 2022
-  [s:futimao-profile], e o contrato vai até julho de 2030
-  [s:lance-contract-renewal-2025].
-status: published
-risk: medium
+  Yuri Alberto é um futebolista brasileiro nascido em 18 de março de 2001, em
+  São José dos Campos, que joga no Corinthians desde 2022. Em julho de 2025 o
+  clube estendeu o contrato dele até julho de 2030. No fim de setembro de 2026
+  ele seguia afastado por uma lesão de grau 2 na coxa, e o clube esperava tê-lo
+  de volta para o próximo jogo.
+status: approved
+risk: low
 reviewedAt: '2026-10-27'
 reviewBy: '2027-04-27'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
-  - Yuri Alberto
+  - Yuri Alberto Corinthians
   - Yuri Alberto idade
-  - Yuri Alberto clube atual
   - Yuri Alberto contrato 2030
-  - Yuri Alberto cláusula de rescisão
-  - Yuri Alberto gols 2026
-  - Yuri Alberto artilheiro Brasileirão 2024
-  - Yuri Alberto de onde é
+  - Yuri Alberto lesão
+  - Yuri Alberto Zenit empréstimo
+  - Yuri Alberto seleção brasileira
 faq:
-  - q: Quantos anos tem Yuri Alberto?
+  - q: Quantos anos tem o Yuri Alberto?
     a: >-
-      Ele nasceu em 18 de março de 2001 [s:futimao-profile], então tinha 25 anos
-      em 27 de outubro de 2026.
-  - q: Até quando vai o contrato de Yuri Alberto com o Corinthians?
+      Ele nasceu em 18 de março de 2001, então tem 25 anos em 27 de outubro de
+      2026.
+  - q: De onde é o Yuri Alberto?
     a: >-
-      Até julho de 2030, após a renovação oficializada em 24 de julho de 2025
-      [s:lance-contract-renewal-2025].
-  - q: Qual é a cláusula de rescisão de Yuri Alberto?
+      Ele nasceu em São José dos Campos, no Brasil, segundo os perfis de jogador
+      da Tuttosport e do Corriere dello Sport, que trazem a mesma cidade.
+  - q: Até quando vai o contrato do Yuri Alberto com o Corinthians?
     a: >-
-      R$ 500 milhões para clubes brasileiros e € 100 milhões para clubes do
-      exterior, valores que não mudaram na renovação
-      [s:lance-contract-renewal-2025].
-  - q: De onde é Yuri Alberto?
-    a: >-
-      Ele é de São José dos Campos, no interior de São Paulo, onde nasceu
-      [s:futimao-profile].
-  - q: Quantos gols Yuri Alberto marcou no Brasileirão de 2024?
-    a: >-
-      Ele marcou 15 gols e dividiu o título de goleador com Alerrandro, do
-      Vitória, empatado na liderança da artilharia
-      [s:lance-top-scorer-ranking-2024].
-autoReviews: 1
-publishedAt: '2026-10-27'
+      Em julho de 2025 o clube estendeu o vínculo até julho de 2030, no lugar do
+      fim previsto para o fim de 2027.
+autoReviews: 4
+reviewNotes: >-
+  UNSUPPORTED: "O Soccerway não registra nenhuma partida pela seleção principal"
+  (Soccerway page states national-team data is not included. Remove. The 'bases
+  divergem' sentence depends on it.) | Reviewer recommends rejection: Reject on
+  facts: the Soccerway claim about national-team appearances is unsupported (the
+  page does not include national-team data) and must be removed, along with the
+  sentence that depends on it.
+flag: Rejected by the fact-check 4 times; needs a human editor.
 ---
-Yuri Alberto dividiu a artilharia do Campeonato Brasileiro de 2024 com Alerrandro, do Vitória, com 15 gols cada um [s:cnn-brasil-top-scorer-2024] [s:lance-top-scorer-ranking-2024]. Os dois receberam o novo Troféu Roberto Dinamite na sede da CBF, no Rio de Janeiro [s:cnn-brasil-top-scorer-2024].
+Yuri Alberto chegou ao Corinthians por empréstimo do Zenit em 2022, e o clube o comprou em definitivo em janeiro de 2023 [s:vavel-loan-2022] [s:tupi-purchase-2023]. Até 1º de dezembro de 2024 tinha 13 gols no Brasileirão e aparecia no topo da artilharia [s:placar-2024-top-scorer].
 
-## Do Santos ao Corinthians
+## Da base do Santos ao Zenit
 
-Yuri Alberto Monteiro da Silva nasceu em 18 de março de 2001, em São José dos Campos, no interior de São Paulo [s:futimao-profile]. Começou a carreira nas categorias de base do Santos [s:futimao-profile]. Em 2020 foi para o Sport Club Internacional, onde marcou 31 gols em 85 partidas [s:futimao-profile]. O Corinthians o contratou em 2022 [s:futimao-profile].
+Yuri Alberto nasceu em 18 de março de 2001, em São José dos Campos [s:tuttosport-profile] [s:corriere-sport-profile]. Os dois perfis indicam a posição de atacante [s:tuttosport-profile] [s:corriere-sport-profile]. Revelado pela base do Santos, estreou no profissional em 2017 [s:umdoisesportes-trajetoria]. Foi contratado pelo Internacional em 2020, fez 11 gols em 29 jogos naquele ano e mais 19 em 2021 [s:umdoisesportes-trajetoria]. O Santos o liberou para o Internacional em 1º de julho de 2020, sem taxa de transferência [s:soccerway-br-profile]. Depois foi para o Zenit, da Rússia [s:umdoisesportes-trajetoria]. Segundo o Soccerway, a venda do Internacional ao Zenit, em janeiro de 2022, custou 25 milhões de euros [s:soccerway-br-profile].
 
-Parte dos direitos econômicos dele pertence a um clube russo [s:exame-wants-new-challenge-2026]. Segundo a Exame, o Corinthians tem 50% desses direitos, e o Zenit, da Rússia, tem a outra metade [s:exame-wants-new-challenge-2026]. O clube teria definido um valor mínimo de € 20 milhões para a sua parte [s:exame-wants-new-challenge-2026].
+## Do empréstimo à compra
 
-## Contrato até 2030 e cláusula de rescisão
+Em 29 de junho de 2022 o Corinthians anunciou a contratação dele por empréstimo do Zenit, com vínculo até 2023 [s:vavel-loan-2022]. O clube fechou a compra definitiva no dia 10 de janeiro de 2023, com contrato até dezembro de 2027 [s:tupi-purchase-2023]. Na ocasião, disse estar muito feliz por continuar no clube [s:tupi-purchase-2023].
 
-O Corinthians oficializou a renovação em 24 de julho de 2025 [s:lance-contract-renewal-2025]. O contrato anterior ia até o fim de 2027, e o novo vai até julho de 2030 [s:lance-contract-renewal-2025]. Em comunicado, o clube disse que as negociações foram conduzidas pelo presidente Osmar Stabile e pelo executivo de futebol Fabinho Soldado [s:soccerway-renewal-2025].
+## A temporada de 2024
 
-A cláusula de rescisão não mudou com a renovação: R$ 500 milhões para clubes brasileiros e € 100 milhões para clubes do exterior [s:lance-contract-renewal-2025]. Segundo o Terra, depois do título da Copa do Brasil, em campo no Maracanã após a vitória sobre o Vasco, ele disse "Até 2030 eu estou aí" [s:terra-stay-until-2030-2025].
+Até 1º de dezembro de 2024 ele já tinha 29 gols em 2024 [s:placar-2024-top-scorer]. A Placar, em reportagem de 1º de dezembro de 2024, diz que ele tinha 13 gols no Brasileirão e havia ultrapassado Estêvão, do Palmeiras, na artilharia [s:placar-2024-top-scorer]. O campeonato terminou com 15 gols dele, empatado com Alerrandro, do Vitória, no topo da lista [s:dgabc-trophy-2024].
 
-## Uma entrevista de maio de 2026 sobre a saída
+Ao receber o troféu de artilheiro, ele disse: «Pude dar a volta por cima». A reportagem lembra que ele havia sido criticado durante uma fase ruim do Corinthians [s:dgabc-trophy-2024].
 
-Em entrevista à TV Globo, reproduzida pelo Lance em 14 de maio de 2026, ele disse que já se passaram cinco temporadas e que já havia conversado sobre a situação com a comissão técnica: "Já foram cinco temporadas, eu já estou numa fase que eu conversei com meu staff" [s:lance-revela-2026]. Disse que o clube tinha quase dois meses, até o fim da Copa do Brasil, para resolver o assunto [s:lance-revela-2026]. O agente, André Cury, tinha sido procurado para buscar um desafio diferente naquele ano [s:lance-revela-2026].
+## Contrato até 2030
 
-A Exame informou, em 15 de maio de 2026, que uma eventual saída só seria discutida se surgisse uma proposta atraente [s:exame-wants-new-challenge-2026]. A reportagem liga isso a um acordo com a diretoria do clube quando ele renovou [s:exame-wants-new-challenge-2026]. Antes, o médico do clube tinha descrito uma das lesões dele como fratura da vértebra L1 [s:lance-contract-renewal-2025].
+A renovação, anunciada pelo Corinthians em julho de 2025, estendia o vínculo até julho de 2030, no lugar do fim previsto para o fim de 2027 [s:dgabc-renewal-2025] [s:lance-renewal-2025]. Segundo o Diário do Grande ABC, naquele momento ele somava 184 partidas, 70 gols e um título, o Paulistão de 2025 [s:dgabc-renewal-2025].
 
-## Gols e um número contestado
+Segundo a Trivela, nenhum clube estrangeiro fez oferta formal. Ele queria ser convocado pela seleção brasileira [s:trivela-renewal-2025]. Ele disse que muita gente, inclusive familiares, falava que a janela ainda estava aberta. Sobre a decisão, afirmou: «essa foi uma decisão não só minha, mas também da minha família e do meu staff» [s:lance-comment-2025]. E completou: «Agora chegou a minha hora de retribuir» [s:lance-comment-2025].
 
-Em novembro de 2025, o Lance informou que ele já tinha marcado contra todos os times da Série A atual, fechando a lista com o Mirassol [s:lance-goals-list-2025]. A mesma reportagem dava 73 gols e 19 assistências pelo Corinthians em 200 jogos, mas uma legenda de foto no texto informava 78 gols [s:lance-goals-list-2025].
+Já em novembro de 2025, ele somava 200 jogos pelo Corinthians, com 73 gols, e foi o 24º jogador do século 21 a alcançar essa marca pelo clube [s:gazeta-200-jogos-2025].
 
-## Volta aos gols em outubro
+## Seleções de base e a espera pela principal
 
-Em 19 de outubro de 2026, ele converteu um pênalti no empate por 1 a 1 com o Vitória, na Neo Química Arena [s:gazeta-corinthians-vitoria-2026]. O árbitro marcou inicialmente simulação, mas mudou a decisão após revisão do VAR [s:gazeta-corinthians-vitoria-2026].
+Pelas seleções sub-17, sub-18, sub-20 e sub-23 do Brasil, ele soma 21 jogos e nove gols [s:umdoisesportes-trajetoria]. A primeira convocação para a seleção principal foi para um amistoso contra o Marrocos [s:umdoisesportes-trajetoria]. O perfil da Tuttosport registra 8 jogos e 3 gols pela sub-17 em 2017, e 2 jogos pela sub-23 em 2020 e 2021 [s:tuttosport-profile]. Os dois perfis de jogador registram uma única partida pela seleção principal do Brasil, em 2023, sem gols [s:tuttosport-profile] [s:corriere-sport-profile]. A página do Soccerway não traz dados de seleção [s:soccerway-br-profile], então esse registro depende só da Tuttosport e não está fechado.
 
-## Luta contra o rebaixamento
+## A lesão de 2026
 
-O Corinthians tinha 33 pontos em 26 de outubro de 2026 [s:dgabc-gremio-coritiba-2026]. Naquele dia, o Grêmio venceu o Coritiba por 1 a 0, com gol de Braithwaite aos 47 minutos do segundo tempo [s:dgabc-gremio-coritiba-2026]. O Grêmio chegou a 34 pontos e foi para o 17º lugar, acima do Corinthians, que ficou na zona de rebaixamento [s:dgabc-gremio-coritiba-2026]. Portanto, o resultado do Grêmio que afundou o Corinthians foi uma vitória em Coritiba, e não um jogo contra o Corinthians [s:dgabc-gremio-coritiba-2026].
+Em março de 2026 o Lance informou uma lesão de grau 2 no bíceps femoral da coxa esquerda. Ele ficou mais de um mês fora e foi liberado para o jogo contra a Chapecoense, em 19 de março [s:lance-return-2026].
+
+Uma reportagem de 1º de agosto de 2026 informou uma lesão muscular na parte de trás da coxa direita. O técnico Fernando Diniz aparece na mesma matéria [s:opovo-injury-2026]. Naquele momento o clube não tinha divulgado o grau da lesão nem um prazo de retorno [s:opovo-injury-2026].
+
+Outra reportagem, de 27 de setembro de 2026, disse que a lesão era de grau 2 e que ele não jogava desde 30 de julho. Ela o chama de principal goleador do time na temporada e diz que o clube esperava tê-lo à disposição para o próximo jogo [s:tribuna-injury-2026].
+
+Uma reportagem de 30 de setembro disse que ele já tinha feito a primeira sessão de treinos com o grupo e que não sentia dor [s:tribuna-return-training-2026]. No dia 6 de outubro, o clube o incluiu entre 24 jogadores relacionados para o jogo contra o Internacional, no Beira-Rio, que a reportagem descreve como seu retorno após a lesão na coxa direita [s:tribuna-squad-2026]. As fontes usadas aqui não dizem como ele jogou nessa partida.

@@ -1,0 +1,72 @@
+{
+  "worthWriting": true,
+  "reason": "Active top-20 ATP player (career high No. 11 in August 2026) with an official ATP profile, an ATP news report on his Washington ATP 500 final run, Spanish press coverage and a sourced junior career. Enough solid sources to write.",
+  "wikidata": "",
+  "importance": 3,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "atp-bio-es",
+      "url": "https://www.atptour.com/es/players/-/j0dz/bio",
+      "title": "Rafael Jódar - Biografía",
+      "publisher": "ATP Tour",
+      "type": "league-or-federation",
+      "lang": "es"
+    },
+    {
+      "id": "atp-washington-semi-2026",
+      "url": "https://www.atptour.com/en/news/jodar-tabilo-washington-2026-semi-final",
+      "title": "Jódar beats Tabilo to reach Washington final",
+      "publisher": "ATP Tour",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "puntodebreak-basel-2026",
+      "url": "https://www.puntodebreak.com/en/2026/08/29/jodar-confirms-his-participation-in-the-final-tournament-of-wawrinkas-career",
+      "title": "Jódar confirms his participation in the final tournament of Wawrinka's career",
+      "publisher": "Punto de Break",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "eldebate-junior-2024",
+      "url": "https://www.eldebate.com/deportes/tenis/20240908/quien-rafa-jodar-tenista-madrileno-conquistado-us-open-junior_225676.html",
+      "title": "Quién es Rafa Jódar, el tenista madrileño que ha conquistado el US Open júnior",
+      "publisher": "El Debate",
+      "type": "press",
+      "lang": "es"
+    }
+  ],
+  "facts": {
+    "birthDate": null,
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Leganés (Madrid), Spain",
+      "sources": [
+        "eldebate-junior-2024"
+      ],
+      "note": "The article gives 'Rafa Jódar (Leganés, 2006)' and calls him 'el jugador de Leganés'. No exact birth date in any opened source. A Buscabiografías page gives 17 September 2006 in Madrid but was not opened, so it is not used."
+    },
+    "nationality": {
+      "value": "ES",
+      "sources": [
+        "atp-bio-es"
+      ],
+      "note": "ATP bio calls him the Spanish player who won a tour-level trophy."
+    }
+  },
+  "targetQueries": [
+    "Rafael Jódar",
+    "Rafael Jódar ranking",
+    "Rafael Jódar Basel",
+    "Rafael Jódar Washington final",
+    "Rafael Jódar Marrakech title",
+    "Rafael Jódar US Open junior",
+    "Rafael Jódar age",
+    "Rafael Jódar nationality",
+    "Rafael Jódar coach",
+    "Rafael Jódar ATP Finals"
+  ],
+  "gapNote": "Coverage is almost entirely Spanish-language press and daily match reports. The English-language pages found have few sourced career milestones (junior title, first ATP title, Challenger titles, ATP 500 runs, career high) in one place. Birth date and coach are not confirmed by any opened primary source. Today's (27 Oct) Basel news was not confirmed directly; the verified context is his Basel entry (tournament 24 Oct to 1 Nov per official dates) and his ATP 500 results."
+}

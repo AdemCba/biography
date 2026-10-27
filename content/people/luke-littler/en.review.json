@@ -1,0 +1,357 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "World No. 1 (summary, intro)",
+      "sourceIds": [
+        "sky-sports-grand-slam-world-no1-2025",
+        "netflix-tudum-beat-luke-littler",
+        "dartsworld-littler-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky and Netflix confirm current No. 1."
+    },
+    {
+      "claim": "Born 21 January 2007",
+      "sourceIds": [
+        "dartsworld-littler-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile gives 21/01/2007."
+    },
+    {
+      "claim": "Born in Warrington, England; English nationality",
+      "sourceIds": [
+        "dartsworld-littler-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile gives Warrington, England and nationality English."
+    },
+    {
+      "claim": "Age 19 on 27 Oct 2026 (FAQ)",
+      "sourceIds": [
+        "dartsworld-littler-profile",
+        "whats-on-netflix-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "What's on Netflix says he is 19; date arithmetic correct."
+    },
+    {
+      "claim": "Two-time PDC World Champion (2025, 2026)",
+      "sourceIds": [
+        "netflix-tudum-beat-luke-littler",
+        "sky-sports-world-championship-2026-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Netflix describes two-time champion; Sky confirms 2026 title."
+    },
+    {
+      "claim": "Youngest world champion at 17",
+      "sourceIds": [
+        "netflix-tudum-beat-luke-littler",
+        "sky-sports-world-championship-2025-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources state youngest champion at 17."
+    },
+    {
+      "claim": "Won 2025 title in January 2025",
+      "sourceIds": [
+        "sky-sports-world-championship-2025-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Page says he won the title in January 2025."
+    },
+    {
+      "claim": "Retained title in January 2026",
+      "sourceIds": [
+        "sky-sports-world-championship-2026-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Final on Saturday 3 January 2026."
+    },
+    {
+      "claim": "Lost 2024 final on 3 Jan 2024, aged 16",
+      "sourceIds": [
+        "nbc-washington-world-final-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated 3 January 2024; Littler aged 16."
+    },
+    {
+      "claim": "Lost 7-4 to Luke Humphries",
+      "sourceIds": [
+        "nbc-washington-world-final-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Score and opponent stated."
+    },
+    {
+      "claim": "Runner-up prize 200,000 pounds",
+      "sourceIds": [
+        "nbc-washington-world-final-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Source gives 200,000 pounds for runner-up."
+    },
+    {
+      "claim": "2025 final: beat Michael van Gerwen, largely one-sided",
+      "sourceIds": [
+        "sky-sports-world-championship-2025-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Opponent and one-sided description stated; score not given."
+    },
+    {
+      "claim": "2026 final Saturday 3 Jan 2026, Alexandra Palace",
+      "sourceIds": [
+        "sky-sports-world-championship-2026-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Date and venue stated."
+    },
+    {
+      "claim": "Beat Gian van Veen 7-1 in 2026 final",
+      "sourceIds": [
+        "sky-sports-world-championship-2026-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Score and opponent stated."
+    },
+    {
+      "claim": "Top prize 1 million pounds, biggest payday in darts history",
+      "sourceIds": [
+        "sky-sports-world-championship-2026-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky quote stated."
+    },
+    {
+      "claim": "Fourth to defend title, first since Gary Anderson 2016",
+      "sourceIds": [
+        "sky-sports-world-championship-2026-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Both facts stated."
+    },
+    {
+      "claim": "Back-to-back champion",
+      "sourceIds": [
+        "whats-on-netflix-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "Back-to-back champion 2025 and 2026 stated."
+    },
+    {
+      "claim": "2025 Grand Slam: beat Danny Noppert 16-9 in Wolverhampton",
+      "sourceIds": [
+        "sky-sports-grand-slam-world-no1-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Score and venue stated; semi-final stage implied."
+    },
+    {
+      "claim": "Passed Humphries in Order of Merit to become world No. 1",
+      "sourceIds": [
+        "sky-sports-grand-slam-world-no1-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Aged 18 years 299 days, youngest PDC No. 1, van Gerwen 2014 record",
+      "sourceIds": [
+        "sky-sports-grand-slam-world-no1-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Age, record and 2014 van Gerwen stated."
+    },
+    {
+      "claim": "Beat Humphries in final to retain Grand Slam; fourth back-to-back winner",
+      "sourceIds": [
+        "sky-sports-grand-slam-world-no1-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Both stated."
+    },
+    {
+      "claim": "Order of Merit gap 72,000 pounds before event",
+      "sourceIds": [
+        "sky-sports-grand-slam-world-no1-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Lead 81,500 pounds after reaching final",
+      "sourceIds": [
+        "sky-sports-grand-slam-world-no1-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Sits comfortably as world No. 1",
+      "sourceIds": [
+        "whats-on-netflix-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted on current page."
+    },
+    {
+      "claim": "Six premier wins in 2025/26 season, listed",
+      "sourceIds": [
+        "sky-sports-world-series-finals-2026",
+        "sky-sports-players-championship-27-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "All six events listed."
+    },
+    {
+      "claim": "Won every major on PDC circuit so far in 2026",
+      "sourceIds": [
+        "sky-sports-players-championship-27-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky statement at that time."
+    },
+    {
+      "claim": "Lost 10-4 to Jonny Clayton, Amsterdam quarter-final",
+      "sourceIds": [
+        "sky-sports-world-series-finals-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Score, round and venue stated."
+    },
+    {
+      "claim": "Defeat ended clean-sweep bid for the year",
+      "sourceIds": [
+        "sky-sports-world-series-finals-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in headline."
+    },
+    {
+      "claim": "Ross Smith beat Gerwyn Price 11-5 in final",
+      "sourceIds": [
+        "sky-sports-world-series-finals-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Remaining events: World Grand Prix, European Championship, Grand Slam",
+      "sourceIds": [
+        "sky-sports-world-series-finals-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Beat Littler airs Friday 30 October 2026",
+      "sourceIds": [
+        "whats-on-netflix-beat-luke-littler",
+        "netflix-tudum-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "Date stated on both pages."
+    },
+    {
+      "claim": "Start 7 p.m. UK time, 3 p.m. Eastern",
+      "sourceIds": [
+        "netflix-tudum-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "Both times stated."
+    },
+    {
+      "claim": "Produced by Banijay UK",
+      "sourceIds": [
+        "whats-on-netflix-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "Workerbee, part of Banijay UK, per Netflix."
+    },
+    {
+      "claim": "Prize 501,000 pounds (667,000 dollars)",
+      "sourceIds": [
+        "netflix-tudum-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "Both figures stated."
+    },
+    {
+      "claim": "24 contestants for 20 places, then drawn against Littler",
+      "sourceIds": [
+        "netflix-tudum-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "20 chosen amateurs each get one leg of 501",
+      "sourceIds": [
+        "whats-on-netflix-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated; the word perfect is not in source."
+    },
+    {
+      "claim": "Competition ends when someone beats him",
+      "sourceIds": [
+        "netflix-tudum-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Host Gary Lineker, analyst Richard Osman, guests named",
+      "sourceIds": [
+        "netflix-tudum-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "All names stated."
+    },
+    {
+      "claim": "Regional heats London and Manchester, September 2026; BeatLukeLittler.com",
+      "sourceIds": [
+        "whats-on-netflix-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "All stated."
+    },
+    {
+      "claim": "28 PDC titles, 13 majors",
+      "sourceIds": [
+        "netflix-tudum-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "Both figures stated."
+    },
+    {
+      "claim": "Sky counted eight majors at 2025 Grand Slam",
+      "sourceIds": [
+        "sky-sports-grand-slam-world-no1-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "MBE in 2025 for services to darts",
+      "sourceIds": [
+        "dartsworld-littler-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Dated timeline, Netflix event explainer and the unreconciled title counts, with both figures cited.",
+  "decision": "approve",
+  "summary": "All claims confirmed against opened sources. No uncited factual sentences. Approve."
+}

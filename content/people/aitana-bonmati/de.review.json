@@ -1,0 +1,282 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Not among the 30 women nominated for the 2026 Ballon d'Or; list published 8 Sep 2026",
+      "sourceIds": [
+        "uefa-ballon-dor-nominees-2026",
+        "emisoras-nominees-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "UEFA lists 30 women without her. Emisoras Unidas is dated 8 Sep 2026."
+    },
+    {
+      "claim": "Her absence was the main surprise of the list",
+      "sourceIds": [
+        "emisoras-nominees-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'la principal sorpresa fue la ausencia de Aitana Bonmatí, ganadora de las tres últimas ediciones'."
+    },
+    {
+      "claim": "Won the Ballon d'Or in 2023, 2024 and 2025",
+      "sourceIds": [
+        "fcb-profile-en"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: '3 Ballon d'Or (2023, 2024 and 2025)'."
+    },
+    {
+      "claim": "Ceremony on Monday 26 October at the London Palladium Theatre",
+      "sourceIds": [
+        "uefa-ballon-dor-nominees-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source gives Monday 26 October at the London Palladium Theatre. The page says it was scheduled and that its sources do not name the winner, which is accurate for the sources. Not a source error; the page could say the ceremony has taken place, if a source is added."
+    },
+    {
+      "claim": "Excélsior attributes the exclusion mainly to an injury in 2025/26",
+      "sourceIds": [
+        "excelsior-2026-omission"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote: 'Esta exclusión se debe principalmente a una lesión que tuvo la jugadora durante la temporada 2025/26.'"
+    },
+    {
+      "claim": "Excélsior report of 8 Sep 2026: she was not among the 30 nominees",
+      "sourceIds": [
+        "excelsior-2026-omission"
+      ],
+      "verdict": "confirmed",
+      "note": "Source dated 08 de septiembre de 2026, 13:11 Hrs; 'no fue contemplada entre las 30 nominadas'."
+    },
+    {
+      "claim": "Left fibula fractured at a Spain national-team camp in November 2025; out five months",
+      "sourceIds": [
+        "excelsior-2026-omission"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'fractura en el peroné izquierdo' at the November camp ('noviembre del año pasado'), and five months out. Year 2025 is inferred from the report date; acceptable."
+    },
+    {
+      "claim": "Returned as a substitute in the Champions League semi-final",
+      "sourceIds": [
+        "excelsior-2026-omission"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'reapareciendo como suplente en las semifinales de la Champions League contra el Bayern Múnich'."
+    },
+    {
+      "claim": "Club profile still lists her among 2025/26 winners of Liga F, Spanish Super Cup and Champions League",
+      "sourceIds": [
+        "fcb-profile-en"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile lists 2025/26 titles in Liga F, Super Cup and UWCL."
+    },
+    {
+      "claim": "First Ballon d'Or in October 2023, after Spain won the 2023 World Cup where she was player of the tournament",
+      "sourceIds": [
+        "fcb-profile-en"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: first win 'October 2023'; 'named player of the tournament' at the 2023 World Cup."
+    },
+    {
+      "claim": "FIFA The Best awards for 2023 and 2024",
+      "sourceIds": [
+        "fcb-profile-en"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: '2 Awards The Best of FIFA (2023 and 2024)'."
+    },
+    {
+      "claim": "In January 2024 she added a FIFA The Best award",
+      "sourceIds": [
+        "fcb-profile-en"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: 'in January 2024 the midfielder added FIFA's The Best award to her collection'."
+    },
+    {
+      "claim": "April 2024: first footballer to win the Laureus World Sportswomen of the Year award",
+      "sourceIds": [
+        "fcb-profile-en"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: 'the first footballer to take the Laureus World Sportswomen of the Year award' in April 2024."
+    },
+    {
+      "claim": "Came through the reserve side, Barça Atlètic",
+      "sourceIds": [
+        "fcb-profile-en",
+        "fcb-profile-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile calls it 'the B team'; 'BARÇA ATLÈTIC' is the palmarés heading in both profiles, so the name is supported as the reserve side."
+    },
+    {
+      "claim": "2015/16: led the B team to its first Second Division title; Cup debut for first team that season; definitive move to senior squad in summer 2016",
+      "sourceIds": [
+        "fcb-profile-en"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: first ever Second Division title; debut in the Cup that season (no exact date); 'definitive move' in summer 2016."
+    },
+    {
+      "claim": "2019 was the turning point of her career; she started the Champions League final and played at the World Cup",
+      "sourceIds": [
+        "fcb-profile-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: 'El año 2019 es el punto de inflexión'; 'es titular en la final de la Liga de Campeones y participa en el Mundial'."
+    },
+    {
+      "claim": "2021 Gothenburg final: named player of the match (source: MVP); Barcelona won",
+      "sourceIds": [
+        "fcb-profile-es",
+        "fcb-profile-en"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: 'MVP de la final de la UWCL que se juega en Göteborg y donde el FC Barcelona se proclama campeón'. EN profile: 'Barça's Champions League final win in Gothenburg'."
+    },
+    {
+      "claim": "Barcelona won the Women's Champions League in 2020/21, 2022/23, 2023/24 and 2025/26",
+      "sourceIds": [
+        "fcb-profile-en"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile lists these four winning seasons."
+    },
+    {
+      "claim": "Player of the Season for the Champions League 2022/23",
+      "sourceIds": [
+        "fcb-profile-en"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: 'Jugadora de la temporada' 2022/23."
+    },
+    {
+      "claim": "February 2025: 300 official matches for Barcelona (breakdown removed in revision)",
+      "sourceIds": [
+        "fcb-300-matches-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'ha llegado este domingo a los 300 partidos oficiales con el Barça', article dated 16 Feb 2025. The source's component figures are no longer in the text."
+    },
+    {
+      "claim": "105 goals and 24 trophies with the club; eighth in club history for appearances (Feb 2025)",
+      "sourceIds": [
+        "fcb-300-matches-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 105 goals, 24 trophies (5 leagues, 3 UWCL, 6 Copa de la Reina, 5 Supercopa, 5 Copa Catalunya), 'la octava jugadora con más partidos de la historia del Barça'."
+    },
+    {
+      "claim": "September 2024: renewal until 30 June 2028",
+      "sourceIds": [
+        "fcb-contract-2028"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'hasta el 30 de junio del 2028', published 16 Sep 2024."
+    },
+    {
+      "claim": "At that point 275 matches for Barça and 96 official goals; 22 Champions League goals, level with Alexia Putellas",
+      "sourceIds": [
+        "fcb-contract-2028"
+      ],
+      "verdict": "confirmed",
+      "note": "Source confirms all three figures."
+    },
+    {
+      "claim": "Interview published a week after the renewal",
+      "sourceIds": [
+        "fcb-dream-interview-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Source dated 23 Sep 2024, one week after the 16 Sep 2024 renewal announcement."
+    },
+    {
+      "claim": "Die Vereinbarung lasse ihr im Klub 'noch viel zu erreichen' (Erzählstimme des Artikels)",
+      "sourceIds": [
+        "fcb-dream-interview-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "The phrase 'still has plenty to achieve' is the article's narration in the source (\"A recent contract extension until 2028 means that the midfielder still has plenty to achieve\"). The revised body attributes it to the article, which is correct."
+    },
+    {
+      "claim": "Quote: 'the day it is not there then I will no longer be the player I am'",
+      "sourceIds": [
+        "fcb-dream-interview-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact quote in the source."
+    },
+    {
+      "claim": "Asked about Johan Cruyff: never met him, but knows how much he meant to football and Barça",
+      "sourceIds": [
+        "fcb-dream-interview-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'I wasn't able to meet him in person, but I am aware of his importance in the world of football and Barça.'"
+    },
+    {
+      "claim": "Interview does not mention coach Jonatan Giráldez",
+      "sourceIds": [
+        "fcb-dream-interview-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Source does not mention him."
+    },
+    {
+      "claim": "FotMob: 89 national-team appearances and 32 goals, November 2017 to October 2026",
+      "sourceIds": [
+        "fotmob-player-887411"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 89 matches, 32 goals, 'España nov 2017 - oct 2026'. The article correctly says this is a database count."
+    },
+    {
+      "claim": "2023/24 Nations League: all eight Spain matches, seven as starter, four goals, two vs Switzerland, one vs Netherlands in semi-final, one vs France in final (opener), MVP of the final",
+      "sourceIds": [
+        "soccerway-nations-league-2024",
+        "fcb-profile-en"
+      ],
+      "verdict": "confirmed",
+      "note": "Match counts, four goals, Switzerland x2, Netherlands semi-final goal, France final opener and MVP are confirmed by the source. The 2023/24 season is not stated by soccerway, but fcb-profile-en lists 'UEFA Women's Nations League (2023/24)', so the citation pair covers it."
+    },
+    {
+      "claim": "Born 18 January 1998",
+      "sourceIds": [
+        "fcb-profile-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 18/01/1998."
+    },
+    {
+      "claim": "Born in Sant Pere de Ribes, Catalonia",
+      "sourceIds": [
+        "fcb-profile-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'Sant Pere de Ribes (Barcelona)'."
+    },
+    {
+      "claim": "Aged 28 as of 27 October 2026",
+      "sourceIds": [
+        "fcb-profile-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic from the confirmed birth date."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Der Verletzungsverlauf nach Excélsior und die Vereinszahlen bieten Kontext, den die üblichen Treffer oft nicht haben. Das Ergebnis der Gala vom 26. Oktober fehlt, weil diese Quellen es nicht nennen.",
+  "decision": "approve",
+  "summary": "Genehmigt. Jede Aussage stimmt jetzt mit der belegten Quelle überein. Die Aufschlüsselung der 300 Spiele ist entfernt, die Formulierung 'noch viel zu erreichen' ist der Erzählstimme des Artikels zugeordnet, und die Saison 2023/24 der Nations League ist mit fcb-profile-en belegt. Januar 2024, Barça Atlètic, der Wendepunkt 2019 und der Sieg in Göteborg stehen in den Quellen. Der Satz zur Gala ('war angesetzt') ist für einen am 26. Oktober bereits gelaufenen Termin korrekt, aber ein belegtes Ergebnis wäre hilfreicher."
+}

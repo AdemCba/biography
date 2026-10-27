@@ -1,0 +1,125 @@
+{
+  "worthWriting": true,
+  "reason": "Adult professional darts player, two-time PDC World Champion (2025, 2026), currently world No. 1; featured in the Netflix live event Beat Luke Littler on 30 Oct 2026. Three opened sources state the core facts.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "netflix-tudum-beat-luke-littler",
+      "url": "https://www.netflix.com/tudum/articles/luke-littler-uk-darts-event",
+      "title": "Beat Luke Littler: UK Darts Event Gives Amateurs a Chance at Life-Changing Money",
+      "publisher": "Netflix Tudum",
+      "type": "company",
+      "lang": "en"
+    },
+    {
+      "id": "whats-on-netflix-beat-luke-littler",
+      "url": "https://www.whats-on-netflix.com/news/beat-luke-littler-netflix-live-special-announcement/",
+      "title": "'Beat Luke Littler': Netflix Announces High-Stakes Live Darts Event With £501k Cash Prize",
+      "publisher": "What's on Netflix",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "dartsworld-littler-profile",
+      "url": "https://dartsworld.com/2025/09/player-profile-luke-littler/",
+      "title": "Player Profile: Luke Littler",
+      "publisher": "Darts World",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "sky-sports-world-championship-2026-final",
+      "url": "https://www.skysports.com/darts/news/12040/13475673/world-darts-championship-2026-schedule-fixtures-and-results-from-alexandra-palace-with-luke-littler-beau-greaves-michael-van-gerwen-in-action",
+      "title": "World Darts Championship 2026 schedule, fixtures and results from Alexandra Palace",
+      "publisher": "Sky Sports",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "sky-sports-grand-slam-world-no1-2025",
+      "url": "https://www.skysports.com/darts/news/12040/13471187/littler-crowned-world-no-1-after-reaching-grand-slam-of-darts-final",
+      "title": "Littler crowned world No 1 after reaching Grand Slam of Darts final",
+      "publisher": "Sky Sports",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "sky-sports-world-championship-2025-final",
+      "url": "https://www.skysports.com/darts/news/12288/13126717",
+      "title": "Sky Sports darts coverage of Luke Littler's 2025 World Championship title",
+      "publisher": "Sky Sports",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "sky-sports-world-series-finals-2026",
+      "url": "https://www.skysports.com/share/13589998",
+      "title": "Luke Littler's 2026 major clean-sweep bid ends with 10-4 defeat to Jonny Clayton",
+      "publisher": "Sky Sports",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "sky-sports-players-championship-27-2026",
+      "url": "https://www.skysports.com/darts/news/13577079/luke-littler-suffers-players-championship-27-quarter-final-exit-with-loss-to-jermaine-wattimena",
+      "title": "Luke Littler suffers Players Championship 27 quarter-final exit with loss to Jermaine Wattimena",
+      "publisher": "Sky Sports",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "nbc-washington-world-final-2024",
+      "url": "https://www.nbcwashington.com/news/sports/luke-littler-16-loses-world-darts-championship-final-to-end-stunning-run/3506610/",
+      "title": "Luke Littler, 16, loses World Darts Championship final to end stunning run",
+      "publisher": "NBC Washington",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "sport1-beat-luke-littler-2026",
+      "url": "https://www.sport1.de/news/darts-sport/2026/07/darts-wer-gewinnt-501-000-pfund-besondere-aktion-um-littler",
+      "title": "Darts: Wer gewinnt 501.000 Pfund? Besondere Aktion um Littler",
+      "publisher": "Sport1",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "de"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "2007-01-21",
+      "sources": [
+        "dartsworld-littler-profile"
+      ],
+      "note": "Profile gives 21/01/2007."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Warrington, England",
+      "sources": [
+        "dartsworld-littler-profile"
+      ],
+      "note": "Profile gives Warrington, England."
+    },
+    "nationality": {
+      "value": "GB",
+      "sources": [
+        "dartsworld-littler-profile"
+      ],
+      "note": "Profile states nationality as English."
+    }
+  },
+  "targetQueries": [
+    "Luke Littler",
+    "Luke Littler Netflix",
+    "Beat Luke Littler Netflix",
+    "Luke Littler age",
+    "Luke Littler world champion",
+    "Luke Littler birthday",
+    "Luke Littler world number one",
+    "Luke Littler MBE"
+  ],
+  "gapNote": "Netflix Tudum and What's on Netflix cover the live event (30 Oct 2026, 7 p.m. UK, £501,000 prize, Gary Lineker host, Richard Osman analyst). Sky Sports covers the 2025 Grand Slam (world No. 1 on 16 Nov 2025, youngest PDC world No. 1 at 18 years 299 days) and the 2026 World Championship final (7-1 over Gian van Veen, 3 Jan 2026, £1m, fourth player to defend the title). Title counts disagree: Netflix Tudum says 28 PDC titles including 13 majors, Wikipedia says 30 PDC titles including 14 majors; both are cited in the article. The PDC official profile and BBC Sport could not be fetched (truncated page, blocked domain), so they are not used. The schema only allows birthDate, deathDate, birthPlace, nationality and netWorth as core facts, so title counts are cited in the article text rather than stored as facts."
+}

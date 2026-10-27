@@ -1,0 +1,532 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Alcaraz est inscrit à l'Erste Bank Open de Vienne, tournoi ATP 500, cette semaine",
+      "sourceIds": [
+        "atp-vienna-entry-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Entry page: indoor ATP 500, Vienna, entered this week."
+    },
+    {
+      "claim": "Il a accepté une wild card pour cette édition",
+      "sourceIds": [
+        "atp-vienna-entry-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Page says he accepted a wild card."
+    },
+    {
+      "claim": "Il avait joué à Vienne en 2021 et atteint les demi-finales à 18 ans",
+      "sourceIds": [
+        "atp-vienna-entry-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Page says semi-finals on tournament debut at age 18."
+    },
+    {
+      "claim": "Le tableau principal se joue à la Wiener Stadthalle du 26 octobre au 1er novembre",
+      "sourceIds": [
+        "atp-vienna-entry-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Page gives 26 October to 1 November at Wiener Stadthalle."
+    },
+    {
+      "claim": "Il affronte Karen Khachanov, ancien membre du top 10, récemment demi-finaliste de l'US Open",
+      "sourceIds": [
+        "atp-vienna-draw-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Draw preview names Khachanov as the draw, calls him former Top-10 and recent US Open semi-finalist. The entry page itself names no opponent."
+    },
+    {
+      "claim": "Alcaraz mène le face-à-face 6-0",
+      "sourceIds": [
+        "atp-vienna-draw-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Lexus ATP Head2Head: 6-0 lead for Alcaraz."
+    },
+    {
+      "claim": "Alcaraz a battu Andy Murray à Vienne en 2021 sur le chemin des demi-finales",
+      "sourceIds": [
+        "atp-vienna-entry-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Entry page says he beat Murray en route to the semi-finals. The draw preview does not mention it, which is not a contradiction."
+    },
+    {
+      "claim": "Il a remporté l'Open d'Australie 2026 le 1er février, en finale contre Djokovic (tête de série 4), 2-6, 6-2, 6-3, 7-5",
+      "sourceIds": [
+        "atp-australian-open-2026-final",
+        "rfet-australian-open-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources: Alcaraz top seed beat fourth seed Djokovic 2-6 6-2 6-3 7-5."
+    },
+    {
+      "claim": "Premier titre à l'Open d'Australie et septième titre du Grand Chelem",
+      "sourceIds": [
+        "atp-australian-open-2026-final",
+        "rfet-australian-open-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources say seventh Grand Slam and first Australian Open title."
+    },
+    {
+      "claim": "Il a complété son Grand Chelem en carrière et est le plus jeune de l'ère Open à y parvenir",
+      "sourceIds": [
+        "atp-australian-open-2026-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: youngest Open Era player to complete a Career Grand Slam."
+    },
+    {
+      "claim": "Alcaraz avait 22 ans et 272 jours, dépassant Don Budge (1938, 22 ans et 363 jours)",
+      "sourceIds": [
+        "rfet-australian-open-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "RFET gives both ages exactly."
+    },
+    {
+      "claim": "Né le 5 mai 2003",
+      "sourceIds": [
+        "nitto-atp-finals-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile date of birth 5 May 2003 (also RFET 05/05/2003)."
+    },
+    {
+      "claim": "Âge de 23 ans au 27 octobre 2026",
+      "sourceIds": [
+        "nitto-atp-finals-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile shows age 23, consistent with the birth date on the article date."
+    },
+    {
+      "claim": "Né à El Palmar, région de Murcie, Espagne",
+      "sourceIds": [
+        "rfet-player-profile",
+        "nitto-atp-finals-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources give El Palmar, Murcia."
+    },
+    {
+      "claim": "Réside à El Palmar et est rattaché à la Fédération de tennis de la région de Murcie",
+      "sourceIds": [
+        "rfet-player-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "RFET: residence El Palmar, Murcia; federation Región de Murcia."
+    },
+    {
+      "claim": "Débuts professionnels en 2018",
+      "sourceIds": [
+        "rfet-player-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "RFET gives pro debut 2018."
+    },
+    {
+      "claim": "Taille 1,85 m (RFET) et 6 pieds 0 pouce / 183 cm (Nitto ATP Finals)",
+      "sourceIds": [
+        "rfet-player-profile",
+        "nitto-atp-finals-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Both values match their sources, and the article correctly reports the discrepancy."
+    },
+    {
+      "claim": "À 16 ans, quarts de finale d'un Challenger à Séville, son premier à ce niveau",
+      "sourceIds": [
+        "puntodebreak-timeline-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Timeline: Seville Open at 16, first Challenger quarterfinals."
+    },
+    {
+      "claim": "Premier match sur le circuit ATP à 16 ans, contre Albert Ramos à Rio de Janeiro",
+      "sourceIds": [
+        "puntodebreak-timeline-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Timeline: Rio, beat Albert Ramos at 16. Exact date not given, as the article says."
+    },
+    {
+      "claim": "Premier titre ATP à Umag à 18 ans, en 2021",
+      "sourceIds": [
+        "puntodebreak-timeline-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Timeline: first ATP title in Umag at 18 in 2021."
+    },
+    {
+      "claim": "En 2022 à Miami, victoire en finale contre Casper Ruud et plus jeune vainqueur du tournoi",
+      "sourceIds": [
+        "puntodebreak-timeline-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Timeline: beat Ruud, youngest Miami Open winner in history."
+    },
+    {
+      "claim": "Numéro 1 mondial le 12 septembre 2022, meilleur classement",
+      "sourceIds": [
+        "rfet-player-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "RFET: best ranking 1st, 12 September 2022."
+    },
+    {
+      "claim": "27 titres ATP",
+      "sourceIds": [
+        "rfet-player-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "RFET lists 27 ATP titles. Accessed today, so not outdated."
+    },
+    {
+      "claim": "Terre battue comme surface préférée et Rafael Nadal comme idole",
+      "sourceIds": [
+        "atp-player-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio: favourite surface clay, idol Nadal."
+    },
+    {
+      "claim": "Prix de révélation de l'année en 2020 et joueur ayant le plus progressé en 2022",
+      "sourceIds": [
+        "atp-player-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio: 2020 Newcomer of the Year, 2022 Most Improved Player."
+    },
+    {
+      "claim": "Juan Carlos Ferrero a été son entraîneur pendant plusieurs années",
+      "sourceIds": [
+        "atp-player-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio names Ferrero as coach, with no years given."
+    },
+    {
+      "claim": "Ferrero a pris le relais après la fin de sa collaboration avec Alexander Zverev",
+      "sourceIds": [
+        "puntodebreak-timeline-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Timeline: Ferrero took him on after ending his partnership with Zverev."
+    },
+    {
+      "claim": "Les deux hommes voyagent ensemble à partir de 2019",
+      "sourceIds": [
+        "puntodebreak-timeline-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Timeline: Ferrero starts travelling with Alcaraz in 2019."
+    },
+    {
+      "claim": "Arrivée à l'Equelite Academy en 2018 selon Punto de Break",
+      "sourceIds": [
+        "puntodebreak-timeline-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Timeline: joins Equelite Academy in 2018."
+    },
+    {
+      "claim": "S'entraînait régulièrement à l'académie à partir de 2020 et y a vécu pendant la pandémie",
+      "sourceIds": [
+        "elespanol-ferrero-split-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "El Español: regular training from 2020, lived there during the pandemic."
+    },
+    {
+      "claim": "Iñaki Etxegia : Alcaraz s'éloignait physiquement de l'académie depuis un an et demi et y venait de moins en moins",
+      "sourceIds": [
+        "elespanol-ferrero-split-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote: 'desde hace año y medio se ha ido desvinculando físicamente', 'cada vez viene menos'."
+    },
+    {
+      "claim": "La fin de la collaboration sportive avec Ferrero a été annoncée en décembre 2025, relation de plus de cinq ans, alors qu'il était numéro 1 mondial",
+      "sourceIds": [
+        "elespanol-ferrero-split-2025",
+        "puntodebreak-timeline-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "El Español: more than five years, announced while world No. 1. Timeline says the split was announced in a December 2025 farewell letter."
+    },
+    {
+      "claim": "Samuel López deviendrait l'entraîneur principal à partir de l'année suivante",
+      "sourceIds": [
+        "elespanol-ferrero-split-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "El Español reports this. It is a reported plan, and the article words it as a report."
+    },
+    {
+      "claim": "La fiche RFET cite López comme entraîneur",
+      "sourceIds": [
+        "rfet-player-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "RFET lists Samuel López as entrenador."
+    },
+    {
+      "claim": "Le profil ATP mentionne toujours Ferrero",
+      "sourceIds": [
+        "atp-player-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio still says coached by Ferrero. This source disagreement is stated in the body, but the FAQ answer does not mention it."
+    },
+    {
+      "claim": "Ferrero : 'un peu plus strict et sérieux'; López : 'plus ouvert et enjoué'",
+      "sourceIds": [
+        "puntodebreak-ferrero-lopez-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Interview quotes match (translated from English, as the article says)."
+    },
+    {
+      "claim": "López a reconnu être nouveau dans l'équipe, Ferrero travaillait avec Alcaraz depuis sept ans; 'contribué de manière égale, mais différemment'",
+      "sourceIds": [
+        "puntodebreak-ferrero-lopez-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Interview: 'new', 'seven years', 'contributed equally but in different ways'."
+    },
+    {
+      "claim": "Depuis Monte-Carlo, Alcaraz communique beaucoup plus sur ses émotions",
+      "sourceIds": [
+        "puntodebreak-ferrero-lopez-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Interview: 'Since Monte Carlo, he has been much more communicative about his emotions'."
+    },
+    {
+      "claim": "En janvier 2026, López a estimé qu'Alcaraz arrivait au bon moment pour affronter Zverev",
+      "sourceIds": [
+        "puntodebreak-lopez-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Interview dated 29 January 2026."
+    },
+    {
+      "claim": "Décrit un joueur qui a grandi en acceptant ce qu'on lui disait, qui exprime aujourd'hui son avis; décisions discutées jusqu'à un accord commun",
+      "sourceIds": [
+        "puntodebreak-lopez-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "López: disciplined and receptive as a young player, now gives his opinion, decisions reached through open discussion."
+    },
+    {
+      "claim": "Le 6 octobre 2026, Alcaraz a conservé son titre à Tokyo, battant Jiri Lehecka 7-6(4), 6-4",
+      "sourceIds": [
+        "rfet-tokyo-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "RFET: final on Tuesday 6 October 2026, 7-6(4) 6-4 over Lehecka."
+    },
+    {
+      "claim": "Premier champion à défendre le titre de Tokyo depuis Pete Sampras (1993 et 1994)",
+      "sourceIds": [
+        "rfet-tokyo-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "RFET says this."
+    },
+    {
+      "claim": "Absence de plusieurs mois due à une blessure au poignet; retour à l'US Open, quarts de finale en septembre",
+      "sourceIds": [
+        "rfet-tokyo-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "RFET body says four months, one headline says five. The article's 'plusieurs mois' is consistent with both."
+    },
+    {
+      "claim": "Il a qualifié ce succès de vraiment spécial compte tenu de sa blessure",
+      "sourceIds": [
+        "rfet-tokyo-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source quote is Spanish ('algo muy especial tras mi lesión'). The article paraphrases it without quotation marks, which is acceptable."
+    },
+    {
+      "claim": "Doha (ATP 500) remporté et finale de Monte-Carlo atteinte",
+      "sourceIds": [
+        "rfet-tokyo-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "RFET: Doha ATP 500 won earlier, Monte-Carlo runner-up."
+    },
+    {
+      "claim": "Roland-Garros 2025 : victoire 4-6, 6-7(4), 6-4, 7-6(3), 7-6(2) contre Sinner en 5 h 28",
+      "sourceIds": [
+        "atp-roland-garros-2025-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 5 hours 28 minutes, same score, against Sinner."
+    },
+    {
+      "claim": "Trois balles de match sauvées",
+      "sourceIds": [
+        "atp-roland-garros-2025-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: he saved three match points."
+    },
+    {
+      "claim": "Finale la plus longue de l'histoire du tournoi",
+      "sourceIds": [
+        "atp-roland-garros-2025-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Source describes it as the longest final in tournament history."
+    },
+    {
+      "claim": "Deuxième titre à Roland-Garros et cinquième titre du Grand Chelem à ce moment",
+      "sourceIds": [
+        "atp-roland-garros-2025-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: second Roland Garros title, fifth Grand Slam."
+    },
+    {
+      "claim": "Troisième joueur du XXIe siècle à défendre son titre à Paris, après Nadal et Kuerten",
+      "sourceIds": [
+        "atp-roland-garros-2025-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: third 21st-century player to defend the title, after Nadal and Kuerten."
+    },
+    {
+      "claim": "En 2023, Alcaraz a remporté Wimbledon en battant Djokovic",
+      "sourceIds": [
+        "puntodebreak-timeline-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Timeline: 2023 Wimbledon title over Djokovic."
+    },
+    {
+      "claim": "Wimbledon 2024 : victoire 6-2, 6-2, 7-6(4) contre Djokovic",
+      "sourceIds": [
+        "thelocal-wimbledon-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "The Local: 6-2, 6-2, 7-6(7/4)."
+    },
+    {
+      "claim": "'la nouvelle ère du tennis masculin est arrivée' et Djokovic visait un 25e titre du Grand Chelem, record masculin et féminin",
+      "sourceIds": [
+        "thelocal-wimbledon-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "The Local: 'the new era of men's tennis has arrived'; 25th Grand Slam would have been a record."
+    },
+    {
+      "claim": "Finale olympique de Paris 2024 perdue contre Djokovic, médaille d'argent",
+      "sourceIds": [
+        "si-paris-2024-silver"
+      ],
+      "verdict": "confirmed",
+      "note": "SI: lost to Djokovic, silver medal."
+    },
+    {
+      "claim": "Après la défaite, il a promis de remporter l'or olympique pour l'Espagne",
+      "sourceIds": [
+        "si-paris-2024-silver"
+      ],
+      "verdict": "confirmed",
+      "note": "SI quotes him: 'I will bring the gold medal to Spain one day'."
+    },
+    {
+      "claim": "Qualifié pour les Nitto ATP Finals pour la cinquième saison consécutive",
+      "sourceIds": [
+        "nitto-atp-finals-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: fifth consecutive season."
+    },
+    {
+      "claim": "Finale des Nitto ATP Finals 2025 perdue contre Sinner",
+      "sourceIds": [
+        "nitto-atp-finals-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: reached the championship match last season, lost to Sinner; Finals 2025 listed under best results. Confirmed on a targeted re-check."
+    },
+    {
+      "claim": "Bilan de 7 victoires et 5 défaites aux Nitto ATP Finals",
+      "sourceIds": [
+        "nitto-atp-finals-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: 7-5 record."
+    },
+    {
+      "claim": "Dur : 170 victoires, 46 défaites",
+      "sourceIds": [
+        "nitto-atp-finals-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: hard court career 170-46."
+    },
+    {
+      "claim": "Salle : 36 victoires, 15 défaites",
+      "sourceIds": [
+        "nitto-atp-finals-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: indoor career 36-15."
+    },
+    {
+      "claim": "Sept titres du Grand Chelem en simple (frontmatter, summary, knownFor, FAQ)",
+      "sourceIds": [
+        "atp-australian-open-2026-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Seventh Grand Slam title after AO 2026."
+    },
+    {
+      "claim": "Numéro 1 mondial en 2022 (frontmatter)",
+      "sourceIds": [
+        "rfet-player-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "RFET: No. 1 on 12 September 2022. Backed by the body, not cited in frontmatter."
+    },
+    {
+      "claim": "Titres 2026 à l'Open d'Australie et à Tokyo (metaDescription)",
+      "sourceIds": [
+        "atp-australian-open-2026-final",
+        "rfet-tokyo-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Both 2026 titles are confirmed."
+    },
+    {
+      "claim": "Première participation à Vienne en 2021, à 18 ans, victoire sur Andy Murray",
+      "sourceIds": [
+        "atp-vienna-entry-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Entry page."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "The article reconciles conflicting sources: height (1,85 m vs 183 cm), the start date of the Ferrero partnership (2018 vs 2020), and the RFET vs ATP profiles for the coach. It also gives the Budge age comparison and the Ferrero/López interview context, which the usual top results lack. Voice is plain and avoids hype words. Some sentences are long and formulaic in places but not wrong.",
+  "decision": "approve",
+  "summary": "All checked facts are supported by their cited sources. The 2025 Nitto ATP Finals final loss and the Vienna Khachanov opponent were re-checked and confirmed. No wrong, unsupported or outdated claims were found, and no uncited factual claims. Minor points for the editor: the FAQ answer on the coach names Samuel López without noting that the ATP profile still lists Ferrero (the body does note this), and the RFET body says the wrist injury lasted four months while a headline says five, so 'plusieurs mois' is the safe wording. This is a low-risk page and the decision is for the human editor to confirm."
+}
