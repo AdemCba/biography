@@ -16,9 +16,12 @@ summary: >-
   gols. As fontes consultadas não confirmam quem venceu a cerimônia nem uma
   renovação assinada com o Bayern, por isso esta página não informa nenhuma das
   duas coisas.
-status: approved
+status: published
 risk: low
+reviewedAt: '2026-10-27'
+reviewBy: '2027-04-27'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Harry Kane Bola de Ouro 2026
@@ -51,9 +54,7 @@ faq:
       terceira temporada seguida, algo que nenhum outro jogador havia conseguido
       em suas três primeiras temporadas na liga.
 autoReviews: 1
-reviewer: fact-check-desk
-reviewedAt: '2026-10-27'
-reviewBy: '2027-04-27'
+publishedAt: '2026-10-27'
 ---
 Harry Kane chegou à cerimônia da Bola de Ouro de 26 de outubro de 2026, em Londres, como favorito das casas de apostas [s:sky-ballon-dor-favourite-2026]. A federação inglesa indica que é a primeira cerimônia realizada fora de Paris [s:fa-ballon-dor-nominees-2026]. Nenhuma das fontes usadas para esta página informa o resultado, então não há vencedor citado aqui. A seguir estão o histórico que o colocou entre os candidatos, sua situação no Bayern e os pontos que ainda não foram confirmados.
 

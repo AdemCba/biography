@@ -15,9 +15,12 @@ summary: >-
   Bundesliga. Die verwendeten Quellen bestätigen weder den Sieger der Gala noch
   eine unterschriebene Vertragsverlängerung beim FC Bayern, deshalb berichtet
   diese Seite über beides nicht.
-status: approved
+status: published
 risk: low
+reviewedAt: '2026-10-27'
+reviewBy: '2027-04-27'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Harry Kane Ballon d'Or 2026
@@ -50,9 +53,7 @@ faq:
       Torschützenkönig wurde, als erster Spieler in seinen ersten drei
       Spielzeiten in der Liga.
 autoReviews: 1
-reviewer: fact-check-desk
-reviewedAt: '2026-10-27'
-reviewBy: '2027-04-27'
+publishedAt: '2026-10-27'
 ---
 Harry Kane ging als Favorit der Buchmacher in die Ballon-d'Or-Gala am 26. Oktober 2026 in London [s:sky-ballon-dor-favourite-2026]. Der englische Verband nennt die Gala die erste außerhalb von Paris [s:fa-ballon-dor-nominees-2026]. Keine der für diese Seite genutzten Quellen nennt das Ergebnis, deshalb wird hier kein Sieger genannt. Im Folgenden geht es um die Bilanz, die ihn in die Auswahl brachte, seine Lage beim FC Bayern und die Punkte, die noch unbestätigt sind.
 

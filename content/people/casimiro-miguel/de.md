@@ -17,7 +17,7 @@ summary: >-
   Aufrufe eines seiner YouTube-Livestreams während eines Spiels Brasiliens
   zusammen. 2026 erreichte eine K.-o.-Übertragung Brasiliens 21,1 Millionen
   gleichzeitige Zuschauer.
-status: approved
+status: published
 risk: medium
 reviewedAt: '2026-10-27'
 reviewBy: '2027-04-27'
@@ -56,6 +56,7 @@ faq:
       startete [s:bandab-casimiro-deixa-cazetv-2026]. Bloomberg Línea nennt
       Casimiro als Gründer [s:bloomberglinea-casimiro-miguel].
 autoReviews: 3
+publishedAt: '2026-10-27'
 ---
 Am 28. November 2022 erreichte ein Livestream auf Casimiro Miguels YouTube-Kanal während der ersten Halbzeit des WM-Spiels Brasilien gegen die Schweiz 4,6 Millionen Aufrufe [s:poder360-record-live-2022]. Poder360 nannte es seinen zweiten Rekord in Folge für den meistgesehenen Livestream auf YouTube. Der bisherige Rekord gehörte der Sängerin Marília Mendonça [s:poder360-record-live-2022]. Vier Jahre später stand CazéTV in Tubefilters globaler Abonnenten-Liste für die zweite Woche in Folge auf Platz eins [s:tubefilter-global-sub-top-50-2026].
 

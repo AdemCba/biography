@@ -15,7 +15,7 @@ summary: >-
   Coupe du monde au Qatar. Cette année-là, un de ses lives YouTube a atteint 4,6
   millions de vues pendant un match du Brésil. En 2026, une diffusion de phase
   finale du Brésil a réuni 21,1 millions de spectateurs simultanés.
-status: approved
+status: published
 risk: medium
 reviewedAt: '2026-10-27'
 reviewBy: '2027-04-27'
@@ -52,6 +52,7 @@ faq:
       Qatar [s:bandab-casimiro-deixa-cazetv-2026]. Bloomberg Línea présente
       Casimiro comme son fondateur [s:bloomberglinea-casimiro-miguel].
 autoReviews: 3
+publishedAt: '2026-10-27'
 ---
 Le 28 novembre 2022, un live diffusé sur la chaîne YouTube de Casimiro Miguel a atteint 4,6 millions de vues pendant la première mi-temps du match du Brésil contre la Suisse, lors de la Coupe du monde au Qatar [s:poder360-record-live-2022]. Poder360 y voyait son deuxième record d'affilée pour le direct le plus regardé sur YouTube, après un précédent détenu par la chanteuse Marília Mendonça [s:poder360-record-live-2022]. Quatre ans plus tard, CazéTV occupait la première place du classement mondial des abonnés de Tubefilter pendant la deuxième semaine consécutive [s:tubefilter-global-sub-top-50-2026].
 

@@ -15,7 +15,7 @@ summary: >-
   Naquele ano, uma live dele no YouTube chegou a 4,6 milhões de visualizações
   durante um jogo do Brasil. No Mundial de 2026, uma transmissão de mata-mata do
   Brasil reuniu 21,1 milhões de espectadores simultâneos.
-status: approved
+status: published
 risk: medium
 reviewedAt: '2026-10-27'
 reviewBy: '2027-04-27'
@@ -53,6 +53,7 @@ faq:
       Catar [s:bandab-casimiro-deixa-cazetv-2026]. A Bloomberg Línea o apresenta
       como fundador do canal [s:bloomberglinea-casimiro-miguel].
 autoReviews: 3
+publishedAt: '2026-10-27'
 ---
 Em 28 de novembro de 2022, uma live no canal do Casimiro Miguel no YouTube chegou a 4,6 milhões de visualizações durante o primeiro tempo do jogo do Brasil contra a Suíça na Copa [s:poder360-record-live-2022]. O Poder360 chamou aquilo de seu segundo recorde seguido de live mais vista do YouTube, depois de um recorde que era da cantora Marília Mendonça [s:poder360-record-live-2022]. Quatro anos depois, a CazéTV ficou em primeiro lugar no ranking global de inscritos da Tubefilter pela segunda semana seguida [s:tubefilter-global-sub-top-50-2026].
 

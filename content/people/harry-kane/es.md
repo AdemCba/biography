@@ -15,9 +15,12 @@ summary: >-
   2025-26, con 36 tantos. Las fuentes consultadas no confirman quién ganó la
   gala ni una renovación firmada con el Bayern, así que esta página no informa
   de ninguna de las dos cosas.
-status: approved
+status: published
 risk: low
+reviewedAt: '2026-10-27'
+reviewBy: '2027-04-27'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Harry Kane Balón de Oro 2026
@@ -50,9 +53,7 @@ faq:
       tercera temporada consecutiva, algo que ningún otro jugador había logrado
       en sus tres primeras temporadas en la liga.
 autoReviews: 1
-reviewer: fact-check-desk
-reviewedAt: '2026-10-27'
-reviewBy: '2027-04-27'
+publishedAt: '2026-10-27'
 ---
 Harry Kane llegó a la gala del Balón de Oro del 26 de octubre de 2026, celebrada en Londres, como favorito de las casas de apuestas [s:sky-ballon-dor-favourite-2026]. La federación inglesa indica que es la primera gala que se celebra fuera de París [s:fa-ballon-dor-nominees-2026]. Ninguna de las fuentes usadas para esta página recoge el resultado, así que no se nombra a ningún ganador. Lo que sigue es el historial que lo puso entre los candidatos, su situación en el Bayern y los puntos que todavía no están confirmados.
 

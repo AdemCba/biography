@@ -16,7 +16,7 @@ summary: >-
   en directo en YouTube llegó a 4,6 millones de visualizaciones durante un
   partido de Brasil. En 2026, una transmisión de eliminatoria de Brasil atrajo
   21,1 millones de espectadores simultáneos.
-status: approved
+status: published
 risk: medium
 reviewedAt: '2026-10-27'
 reviewBy: '2027-04-27'
@@ -55,6 +55,7 @@ faq:
       de Catar [s:bandab-casimiro-deixa-cazetv-2026]. Bloomberg Línea lo
       presenta como fundador del canal [s:bloomberglinea-casimiro-miguel].
 autoReviews: 3
+publishedAt: '2026-10-27'
 ---
 El 28 de noviembre de 2022, una transmisión en directo en el canal de YouTube de Casimiro Miguel llegó a 4,6 millones de visualizaciones durante la primera parte del partido de Brasil contra Suiza en el Mundial [s:poder360-record-live-2022]. Poder360 lo describió como su segundo récord seguido en la transmisión en directo más vista de YouTube, por delante del anterior, que pertenecía a la cantante Marília Mendonça [s:poder360-record-live-2022]. Cuatro años después, CazéTV ocupó el primer lugar del ranking global de suscriptores de Tubefilter durante la segunda semana consecutiva [s:tubefilter-global-sub-top-50-2026].
 

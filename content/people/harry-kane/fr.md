@@ -16,9 +16,12 @@ summary: >-
   2025-26 avec 36 buts. Les sources consultées ne confirment ni le nom du
   lauréat ni une prolongation signée avec le Bayern, si bien que cette page ne
   communique ni l'un ni l'autre.
-status: approved
+status: published
 risk: low
+reviewedAt: '2026-10-27'
+reviewBy: '2027-04-27'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Harry Kane Ballon d'Or 2026
@@ -51,9 +54,7 @@ faq:
       pour une troisième saison consécutive, une première pour un joueur lors de
       ses trois premières saisons dans le championnat.
 autoReviews: 1
-reviewer: fact-check-desk
-reviewedAt: '2026-10-27'
-reviewBy: '2027-04-27'
+publishedAt: '2026-10-27'
 ---
 Harry Kane arrivait en favori des bookmakers à la cérémonie du Ballon d'Or du 26 octobre 2026, à Londres [s:sky-ballon-dor-favourite-2026]. La Fédération anglaise indique qu'il s'agit de la première cérémonie organisée hors de Paris [s:fa-ballon-dor-nominees-2026]. Aucune source utilisée pour cette page ne donne le résultat, donc aucun vainqueur n'est cité. Voici le parcours qui l'a placé parmi les candidats, sa situation au Bayern et les points qui restent à confirmer.
 

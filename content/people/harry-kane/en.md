@@ -12,9 +12,12 @@ summary: >-
   Bundesliga's top scorer in 2025-26 with 36 goals. The sources used here do not
   confirm the ceremony winner or a signed contract extension, so this page
   reports neither.
-status: approved
+status: published
 risk: low
+reviewedAt: '2026-10-27'
+reviewBy: '2027-04-27'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Harry Kane Ballon d'Or 2026
@@ -47,9 +50,7 @@ faq:
       straight season, the first player to win it in each of his first three
       seasons in the league.
 autoReviews: 1
-reviewer: fact-check-desk
-reviewedAt: '2026-10-27'
-reviewBy: '2027-04-27'
+publishedAt: '2026-10-27'
 ---
 Harry Kane was the bookmakers' favourite going into the Ballon d'Or ceremony on 26 October 2026, held in London [s:sky-ballon-dor-favourite-2026]. The FA's profile of England's nominees says it is the first ceremony held outside Paris [s:fa-ballon-dor-nominees-2026]. No source used for this page gives the result, so the page does not name a winner. What follows is the record that put Kane in the race, his club situation and the points still unconfirmed.
 

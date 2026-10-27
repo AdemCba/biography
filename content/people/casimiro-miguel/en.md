@@ -15,7 +15,7 @@ summary: >-
   the Qatar World Cup. That year one of his YouTube lives drew 4.6 million views
   during a Brazil match. In 2026 CazéTV's Brazil knockout broadcast drew 21.1
   million concurrent viewers.
-status: approved
+status: published
 risk: medium
 reviewedAt: '2026-10-27'
 reviewBy: '2027-04-27'
@@ -52,6 +52,7 @@ faq:
       [s:bandab-casimiro-deixa-cazetv-2026]. Bloomberg Línea lists Casimiro as a
       founder [s:bloomberglinea-casimiro-miguel].
 autoReviews: 4
+publishedAt: '2026-10-27'
 ---
 On 28 November 2022, a live stream on Casimiro Miguel's YouTube channel reached 4.6 million views during the first half of Brazil's World Cup match against Switzerland [s:poder360-record-live-2022]. Poder360 called it his second straight record for the most-watched live on YouTube, after the previous mark held by the singer Marília Mendonça [s:poder360-record-live-2022]. Four years later, CazéTV ranked first in Tubefilter's global subscriber chart for the second week running [s:tubefilter-global-sub-top-50-2026].
 
