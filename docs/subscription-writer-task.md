@@ -61,7 +61,7 @@ source), run the check again and record a new verdict. Leave it in review if it 
 ## 6. Publish
 
 ```
-npx tsx scripts/schedule.ts --per-day 8
+npx tsx scripts/schedule.ts --per-day 1000
 ```
 
 Commit `content/ data/ public/images/` ("content: <names>"), push, open a PR to main, wait for the `check`
