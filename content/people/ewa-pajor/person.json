@@ -1,0 +1,84 @@
+{
+  "id": "ewa-pajor",
+  "name": "Ewa Pajor",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1996-12-03",
+      "sources": [
+        "fcb-profile-es"
+      ],
+      "note": "Club profile lists 03/12/1996. Wikipedia and FotMob agree; Polish outlets also give 3 December 1996."
+    },
+    "birthPlace": {
+      "value": "Uniejów, Poland",
+      "sources": [
+        "fcb-profile-es"
+      ],
+      "note": "Club profile lists Uniejów, Poland."
+    },
+    "nationality": {
+      "value": [
+        "PL"
+      ],
+      "sources": [
+        "fcb-profile-es"
+      ],
+      "note": "Profile describes her as a 'delantera polaca' (Polish forward). Not a separate field."
+    }
+  },
+  "related": [
+    "alexia-putellas"
+  ],
+  "sources": [
+    {
+      "id": "fcb-profile-es",
+      "url": "https://www.fcbarcelona.es/es/futbol/femenino-a/jugadores/4046726/pajor",
+      "title": "Ewa Pajor - jugadora FC Barcelona Femení",
+      "publisher": "FC Barcelona",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "es"
+    },
+    {
+      "id": "fcb-signing-2024",
+      "url": "https://www.fcbarcelona.com/en/news/4039721/agreement-to-sign-ewa-pajor-until-2027/amp",
+      "title": "Agreement to sign Ewa Pajor until 2027",
+      "publisher": "FC Barcelona",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "uefa-final-player-of-the-match",
+      "url": "https://www.uefa.com/womenschampionsleague/news/02a5-20b2045743a5-38b02d605b99-1000--ewa-pajor-named-official-uefa-women-s-champions-league-final/",
+      "title": "Ewa Pajor named official UEFA Women's Champions League final Player of the Match",
+      "publisher": "UEFA",
+      "type": "league-or-federation",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "uefa-pajor-records",
+      "url": "https://www.uefa.com/womenschampionsleague/news/02a7-2126943f7257-96522a98731f-1000--ewa-pajor-records-and-statistics-how-brilliant-is-the-bar/",
+      "title": "Ewa Pajor records and statistics: how brilliant is the bar",
+      "publisher": "UEFA",
+      "type": "league-or-federation",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "yahoo-ballon-dor-2026-live",
+      "url": "https://sports.yahoo.com/articles/ballon-dor-2026-live-updates-151456019.html",
+      "title": "Ballon d'Or 2026: Harry Kane and Alexia Putellas take home night's biggest prizes",
+      "publisher": "Yahoo Sports",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    }
+  ]
+}

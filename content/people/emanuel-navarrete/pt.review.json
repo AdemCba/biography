@@ -1,0 +1,295 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"O artigo da WBO de janeiro de 2020 dá o mesmo local de nascimento\" (The WBO article says 'Representing San Juan Zitlaltepec, Distrito Federal, México', not birthplace. Cite BoxingOnly alone or reword to 'representa'.)",
+    "UNSUPPORTED: \"Vitória por nocaute técnico no 11.º round sobre Eduardo Núñez em 28 de fevereiro de 2026\" (Ring gives February 28 and round 11, no year. 2026 appears only in fightmag-preview. Add fightmag-preview to the citation.)",
+    "WRONG: \"Título da WBO no peso super-leve em fevereiro de 2023\" (Super-featherweight (130 lb) is 'super-pena' in Portuguese, as the summary and knownFor use. 'Super-leve' is 140 lb (super-lightweight). Change to 'super-pena'.)",
+    "Reviewer recommends rejection: Three fixes needed. (1) 'Super-leve' for the February 2023 WBO title is wrong. It is super-lightweight (140 lb). Use 'super-pena', as the summary does. (2) The 'mesmo local de nascimento' sentence cites the WBO article, which only says 'Representing'. Cite BoxingOnly alone or reword. (3) The Nunez stoppage year 2026 is not in the Ring source; add fightmag-preview. Everything else checks out."
+  ],
+  "claims": [
+    {
+      "claim": "Data de nascimento 17 de janeiro de 1995",
+      "sourceIds": [
+        "boxingonly-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "BoxingOnly: January 17, 1995."
+    },
+    {
+      "claim": "31 anos em 27 de outubro de 2026",
+      "sourceIds": [
+        "boxingonly-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Follows from DOB."
+    },
+    {
+      "claim": "Local de nascimento San Juan Zitlaltepec, Distrito Federal, México",
+      "sourceIds": [
+        "boxingonly-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "BoxingOnly states this."
+    },
+    {
+      "claim": "O artigo da WBO de janeiro de 2020 dá o mesmo local de nascimento",
+      "sourceIds": [
+        "wbo-santisima-2020"
+      ],
+      "verdict": "unsupported",
+      "note": "The WBO article says 'Representing San Juan Zitlaltepec, Distrito Federal, México', not birthplace. Cite BoxingOnly alone or reword to 'representa'."
+    },
+    {
+      "claim": "Nacionalidade mexicana",
+      "sourceIds": [
+        "boxingonly-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "BoxingOnly: Mexico."
+    },
+    {
+      "claim": "Apelido 'Vaquero'",
+      "sourceIds": [
+        "boxingonly-profile",
+        "wbo-de-vaca-2019",
+        "yucatan-weigh-in"
+      ],
+      "verdict": "confirmed",
+      "note": "All use it; none explains origin."
+    },
+    {
+      "claim": "Foster venceu por decisão unânime em 12 rounds em 24 de outubro de 2026 em San Antonio e ficou com os títulos WBO e IBF",
+      "sourceIds": [
+        "fightmag-live-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Cartões 118-108, 115-111, 118-108, todos para Foster",
+      "sourceIds": [
+        "fightmag-live-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Foster derrubou Navarrete duas vezes no 12.º round",
+      "sourceIds": [
+        "fightmag-live-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Navarrete tinha os títulos WBO e IBF; Foster era campeão WBC",
+      "sourceIds": [
+        "toprank-announcement",
+        "fightmag-live-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Luta no Frost Bank Center, sábado 24 de outubro, transmitida pela DAZN",
+      "sourceIds": [
+        "toprank-announcement"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Top Rank: unificação de três cinturões",
+      "sourceIds": [
+        "toprank-announcement"
+      ],
+      "verdict": "confirmed",
+      "note": "'three-belt unification showdown'."
+    },
+    {
+      "claim": "Recordes antes da luta 40-2-1 (FightMag) e 40-3-1 (BoxingOnly)",
+      "sourceIds": [
+        "fightmag-live-result",
+        "boxingonly-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Both stated."
+    },
+    {
+      "claim": "Imprensa em espanhol: Organización Mundial de Boxeo, Federación Internacional de Boxeo, Consejo Mundial de Boxeo",
+      "sourceIds": [
+        "yucatan-weigh-in"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "O vencedor deveria enfrentar o desafiante obrigatório Charly Suárez",
+      "sourceIds": [
+        "fightmag-live-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Manteve o título da WBO e conquistou o cinturão da IBF em fevereiro",
+      "sourceIds": [
+        "fightmag-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Vitória por nocaute técnico no 11.º round sobre Eduardo Núñez em 28 de fevereiro de 2026",
+      "sourceIds": [
+        "ring-foster-agree"
+      ],
+      "verdict": "unsupported",
+      "note": "Ring gives February 28 and round 11, no year. 2026 appears only in fightmag-preview. Add fightmag-preview to the citation."
+    },
+    {
+      "claim": "Luta com Charly Suárez em maio de 2025, anulada após sete rounds completos",
+      "sourceIds": [
+        "ring-foster-agree"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Vitória por decisão técnica unânime inicial, depois alterada",
+      "sourceIds": [
+        "ring-foster-agree"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Foster campeão WBC com cinco defesas bem-sucedidas",
+      "sourceIds": [
+        "fightmag-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "'fifth successful defense'."
+    },
+    {
+      "claim": "Entrevista na convenção do WBC em Hamburgo, dezembro de 2024, desejo de unificação com Navarrete",
+      "sourceIds": [
+        "wbc-foster-navarrete"
+      ],
+      "verdict": "confirmed",
+      "note": "Hamburg; article dated 11 Dec 2024."
+    },
+    {
+      "claim": "Título de 122 libras da WBO ao vencer Isaac Dogboe em dezembro de 2018",
+      "sourceIds": [
+        "wbo-santisima-2020"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Manteve o título em maio de 2019, nocauteando Dogboe no último round da revanche",
+      "sourceIds": [
+        "wbo-santisima-2020"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "A WBO chama a categoria de pena júnior",
+      "sourceIds": [
+        "wbo-santisima-2020"
+      ],
+      "verdict": "confirmed",
+      "note": "'Junior Featherweight'."
+    },
+    {
+      "claim": "Boxing News Online lista a vitória de 2018 como título de super-galo",
+      "sourceIds": [
+        "boxingnewsonline-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Agosto de 2019: parou De Vaca no terceiro round após derrubá-lo no segundo",
+      "sourceIds": [
+        "wbo-de-vaca-2019"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "De Vaca 20-1 com seis nocautes; 3.944 torcedores no Banc of California Stadium",
+      "sourceIds": [
+        "wbo-de-vaca-2019"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Valcárcel: Navarrete o melhor boxeador daquela categoria",
+      "sourceIds": [
+        "wbo-de-vaca-2019"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Artigo da WBO de janeiro de 2020: 'campeão mundial mais ativo do boxe'; recorde 30-1 com 26 nocautes",
+      "sourceIds": [
+        "wbo-santisima-2020"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Título da WBO no peso pena em outubro de 2020",
+      "sourceIds": [
+        "boxingnewsonline-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Título da WBO no peso super-leve em fevereiro de 2023",
+      "sourceIds": [
+        "boxingnewsonline-profile"
+      ],
+      "verdict": "wrong",
+      "note": "Super-featherweight (130 lb) is 'super-pena' in Portuguese, as the summary and knownFor use. 'Super-leve' is 140 lb (super-lightweight). Change to 'super-pena'."
+    },
+    {
+      "claim": "Tentativa no peso leve perdida em 18 de maio de 2024",
+      "sourceIds": [
+        "boxingnewsonline-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Split decision to Denys Berinchyk."
+    },
+    {
+      "claim": "Artigo da WBO: ele tinha 25 anos",
+      "sourceIds": [
+        "wbo-santisima-2020"
+      ],
+      "verdict": "confirmed",
+      "note": "'25-year-old'."
+    },
+    {
+      "claim": "Primeiro título mundial em dezembro de 2018 (resumo e corpo)",
+      "sourceIds": [
+        "wbo-santisima-2020"
+      ],
+      "verdict": "confirmed",
+      "note": "December 2018 Dogboe win."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Gives a dated timeline, flags conflicting pre-fight records, and sets out the 2019 to 2024 weight-class history with sources. Brazilian Portuguese naming (pena, super-galo, cartões) is used.",
+  "decision": "reject",
+  "summary": "Three fixes needed. (1) 'Super-leve' for the February 2023 WBO title is wrong. It is super-lightweight (140 lb). Use 'super-pena', as the summary does. (2) The 'mesmo local de nascimento' sentence cites the WBO article, which only says 'Representing'. Cite BoxingOnly alone or reword. (3) The Nunez stoppage year 2026 is not in the Ring source; add fightmag-preview. Everything else checks out."
+}

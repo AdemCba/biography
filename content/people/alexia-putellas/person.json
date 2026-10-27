@@ -5,7 +5,15 @@
     "athletes"
   ],
   "importance": 5,
+  "wikidata": "Q4721366",
   "sameAs": [],
+  "image": {
+    "src": "/images/people/alexia-putellas.jpg",
+    "alt": "Alexia Putellas",
+    "credit": "Pedro J Pacheco",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Premios_Goya_2026_-_Alexia_Putellas_(cropped).jpg"
+  },
   "facts": {
     "birthDate": {
       "value": "1994-02-04",
@@ -31,7 +39,9 @@
       "note": "Listed as Spain on SoccerDonna."
     }
   },
-  "related": [],
+  "related": [
+    "ewa-pajor"
+  ],
   "sources": [
     {
       "id": "fcb-farewell-2026",
@@ -87,13 +97,5 @@
       "accessed": "2026-10-26",
       "lang": "en"
     }
-  ],
-  "wikidata": "Q4721366",
-  "image": {
-    "src": "/images/people/alexia-putellas.jpg",
-    "alt": "Alexia Putellas",
-    "credit": "Pedro J Pacheco",
-    "license": "CC BY-SA 4.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Premios_Goya_2026_-_Alexia_Putellas_(cropped).jpg"
-  }
+  ]
 }

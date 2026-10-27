@@ -1,0 +1,100 @@
+{
+  "id": "tyler-shough",
+  "name": "Tyler Shough",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 3,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1999-09-28",
+      "sources": [
+        "saints-roster-shough"
+      ],
+      "note": "Saints roster bio: born September 28, 1999 in Chandler, Arizona."
+    },
+    "birthPlace": {
+      "value": "Chandler, Arizona, United States",
+      "sources": [
+        "saints-roster-shough"
+      ],
+      "note": "Saints roster bio."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "nfl-player-profile",
+      "url": "https://www.nfl.com/players/tyler-shough/",
+      "title": "Tyler Shough - New Orleans Saints - Player Profile",
+      "publisher": "NFL.com",
+      "type": "league-or-federation",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "saints-schedule-2026",
+      "url": "https://www.neworleanssaints.com/schedule",
+      "title": "New Orleans Saints 2026 Schedule and Results",
+      "publisher": "New Orleans Saints",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "saints-shough-offseason-2026",
+      "url": "https://www.neworleanssaints.com/news/new-orleans-saints-quarterback-tyler-shough-offseason-2026",
+      "title": "New Orleans Saints quarterback Tyler Shough offseason 2026",
+      "publisher": "New Orleans Saints",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "tsn-shough-hand-injury",
+      "url": "https://www.tsn.ca/nfl/article/sources-saints-qb-shough-playing-with-two-broken-bones-in-non-throwing-hand-n1-50200514/",
+      "title": "Sources: Saints QB Shough playing with two broken bones in non-throwing hand",
+      "publisher": "TSN (citing ESPN sources)",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "saints-paris-photos-2026",
+      "url": "https://www.neworleanssaints.com/photos/tyler-shough-taliese-fuaga-paris-france-photos-day-3-saints-2026",
+      "title": "Tyler Shough and Taliese Fuaga Paris France photos, Day 3, Saints 2026",
+      "publisher": "New Orleans Saints",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "nfl-draft-2025-pick",
+      "url": "https://www.nfl.com/news/2025-nfl-draft-saints-select-louisville-qb-tyler-shough-with-pick-no-40-third-qb-taken",
+      "title": "Saints select Louisville QB Tyler Shough in Round 2",
+      "publisher": "NFL.com",
+      "type": "league-or-federation",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "saints-paris-recap-2026",
+      "url": "https://www.neworleanssaints.com/game-day/2026/reg-week7/steelers-at-saints/recap",
+      "title": "Saints vs. Steelers Paris Game Recap - Week 7 - Oct. 25, 2026",
+      "publisher": "New Orleans Saints",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "saints-roster-shough",
+      "url": "https://www.neworleanssaints.com/team/players-roster/tyler-shough/",
+      "title": "Tyler Shough (QB): Bio, News, Stats & more",
+      "publisher": "New Orleans Saints",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    }
+  ]
+}

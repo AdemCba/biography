@@ -1,0 +1,184 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Tyler Shough is the Saints quarterback",
+      "sourceIds": [
+        "nfl-player-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile is the New Orleans Saints player profile."
+    },
+    {
+      "claim": "Week 7 loss 10-16 to Pittsburgh at Stade de France, Paris, Sunday 25 October 2026",
+      "sourceIds": [
+        "saints-schedule-2026",
+        "saints-paris-recap-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Schedule row Week 7 Sun 10/25 L 10-16; recap final score Steelers 16, Saints 10."
+    },
+    {
+      "claim": "6 feet 5 inches, 219 pounds, number 6",
+      "sourceIds": [
+        "nfl-player-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: 6-5, 219 lbs, jersey 6."
+    },
+    {
+      "claim": "1.96 m conversion of 6 ft 5 in",
+      "sourceIds": [
+        "nfl-player-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Accurate metric conversion of the listed height."
+    },
+    {
+      "claim": "College Louisville; hometown Chandler, Arizona; no birth date given",
+      "sourceIds": [
+        "nfl-player-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile lists Louisville and Chandler, AZ; no birth date shown."
+    },
+    {
+      "claim": "Previously Oregon and Texas Tech before Louisville",
+      "sourceIds": [
+        "nfl-draft-2025-pick"
+      ],
+      "verdict": "confirmed",
+      "note": "Draft article: Oregon, Texas Tech, then Louisville."
+    },
+    {
+      "claim": "Second round, 40th overall pick, 2025 draft",
+      "sourceIds": [
+        "nfl-draft-2025-pick"
+      ],
+      "verdict": "confirmed",
+      "note": "Draft article: Round 2, 40th overall, draft year 2025."
+    },
+    {
+      "claim": "Third quarterback drafted, first taken on day two",
+      "sourceIds": [
+        "nfl-draft-2025-pick"
+      ],
+      "verdict": "confirmed",
+      "note": "Draft article states this."
+    },
+    {
+      "claim": "Shough and Kellen Moore quotes",
+      "sourceIds": [
+        "nfl-draft-2025-pick"
+      ],
+      "verdict": "confirmed",
+      "note": "Both quotes match the draft article exactly."
+    },
+    {
+      "claim": "Offseason article calls him a second-year quarterback",
+      "sourceIds": [
+        "saints-shough-offseason-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Article says second-year quarterback; the 2025 draft year is cited to the draft article."
+    },
+    {
+      "claim": "Paris trip with Taliese Fuaga on Friday 27 March 2026",
+      "sourceIds": [
+        "saints-shough-offseason-2026",
+        "saints-paris-photos-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Photo captions date the trip to Friday, March 27, 2026."
+    },
+    {
+      "claim": "Photo gallery: school visit, kickoff press conference, boat tour",
+      "sourceIds": [
+        "saints-paris-photos-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Captions: visited a local school; spoke with French media at a kickoff press conference; boat tour."
+    },
+    {
+      "claim": "Nine starts, 5-4 record; 221 of 327 passes, 2,384 yards, 10 TD, 6 INT",
+      "sourceIds": [
+        "saints-shough-offseason-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Article states these figures."
+    },
+    {
+      "claim": "Offseason article dated 29 April 2026; workout began 20 April, OTAs 27 May",
+      "sourceIds": [
+        "saints-shough-offseason-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Article states these dates."
+    },
+    {
+      "claim": "Quotes 'I've been in here every morning' and 'I only played half a year'",
+      "sourceIds": [
+        "saints-shough-offseason-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Both quotes match the article."
+    },
+    {
+      "claim": "NFL Honors attendance and Pepsi Zero Sugar Rookie of the Year",
+      "sourceIds": [
+        "saints-shough-offseason-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Article states this."
+    },
+    {
+      "claim": "Week 1-6 results and scores (Detroit OT loss, Baltimore, Las Vegas, Atlanta 5 Oct, Minnesota, NY Giants)",
+      "sourceIds": [
+        "saints-schedule-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Schedule rows match each score and date."
+    },
+    {
+      "claim": "Week 8 bye; home vs Cleveland 8 Nov; home vs Carolina 15 Nov",
+      "sourceIds": [
+        "saints-schedule-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Schedule lists the bye and the two dates."
+    },
+    {
+      "claim": "Week 3 255-yard 4-TD game vs Raiders; Week 6 at Giants with three TD passes and a rushing TD",
+      "sourceIds": [
+        "nfl-player-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Video titles and descriptions state these."
+    },
+    {
+      "claim": "Paris: lone TD pass a 1-yard pass to Devaughn Vele, who had five catches for 54 yards",
+      "sourceIds": [
+        "saints-paris-recap-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Recap paragraph states this."
+    },
+    {
+      "claim": "TSN 18 Oct report citing ESPN sources: two broken bones in left, non-throwing hand; injured 5 Oct vs Atlanta; Saints unconfirmed; taped ring and pinky",
+      "sourceIds": [
+        "tsn-shough-hand-injury"
+      ],
+      "verdict": "confirmed",
+      "note": "Report states all of these; published 18 Oct 2026."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Dated 2026 timeline from the official schedule and Paris recap, with the 2025 draft from the draft article and the sourced hand-injury caveat.",
+  "decision": "approve",
+  "summary": "Rechecked after the fixes: the 2025 draft year is cited to the draft article, the derived 2-5 record and defeat count are removed, the Paris trip date is 27 March 2026, and the injury wording matches TSN. All claims confirmed against the opened sources."
+}

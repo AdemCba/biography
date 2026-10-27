@@ -1,0 +1,125 @@
+{
+  "worthWriting": true,
+  "reason": "Three-division world champion (WBO and IBF super featherweight titles) who lost his unified titles to O'Shaquie Foster on 24 Oct 2026. Several solid sources, including promoter and WBC pages.",
+  "wikidata": "",
+  "importance": 3,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "fightmag-live-result",
+      "url": "https://www.fightmag.com/boxing-emanuel-navarrete-vs-oshaquie-foster-live-results/",
+      "title": "Live results: Emanuel Navarrete faces O'Shaquie Foster in title unification",
+      "publisher": "FightMag",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "toprank-announcement",
+      "url": "https://toprank.com/news/emanuel-navarrete-oshaquie-foster-unification-showdown-set-for-oct-24-at-frost-bank-center-in-san-antonio-live-on-dazn",
+      "title": "Emanuel Navarrete, O'Shaquie Foster unification showdown set for Oct. 24 at Frost Bank Center in San Antonio, live on DAZN",
+      "publisher": "Top Rank",
+      "type": "company",
+      "lang": "en"
+    },
+    {
+      "id": "boxingonly-profile",
+      "url": "https://www.boxingonly.net/profile/emanuel-navarrete",
+      "title": "Emanuel Navarrete profile",
+      "publisher": "BoxingOnly",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "yucatan-weigh-in",
+      "url": "https://www.yucatan.com.mx/deportes/2026/10/24/navarrete-y-foster-unifican-coronas.html",
+      "title": "Emanuel \"Vaquero\" Navarrete cumplio con el pesaje",
+      "publisher": "Diario de Yucatan",
+      "type": "press",
+      "lang": "es"
+    },
+    {
+      "id": "fightmag-preview",
+      "url": "https://www.fightmag.com/navarrete-to-face-foster-in-san-antonio-in-october/",
+      "title": "Navarrete to face Foster in San Antonio in October",
+      "publisher": "FightMag",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "wbc-foster-navarrete",
+      "url": "https://wbcboxing.com/en/foster-seeks-navarrete/",
+      "title": "Foster seeks Navarrete",
+      "publisher": "WBC",
+      "type": "award-body",
+      "lang": "en"
+    },
+    {
+      "id": "boxingnewsonline-profile",
+      "url": "https://boxingnewsonline.net/boxer/emanuel-navarrete/",
+      "title": "Emanuel Navarrete",
+      "publisher": "Boxing News Online",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "ring-foster-agree",
+      "url": "https://www.ringmagazine.com/news/navarrete-foster-agree-oct-24-title-unification-3GSrEyJTBFjyh4Mf8WLgbG",
+      "title": "Navarrete, Foster agree to Oct. 24 title unification",
+      "publisher": "The Ring",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "wbo-santisima-2020",
+      "url": "https://wboboxing.com/boxing-news/wbo-junior-featherweight-world-champion-emanuel-navarrete-defends-his-title-against-the-philippines-jeo-santisima/",
+      "title": "WBO Junior Featherweight World Champion Emanuel Navarrete Defends His Title Against the Philippines' Jeo Santisima",
+      "publisher": "WBO",
+      "type": "award-body",
+      "lang": "en"
+    },
+    {
+      "id": "wbo-de-vaca-2019",
+      "url": "https://wboboxing.com/boxing-news/three-brutal-rounds-wbo-world-jr-featherweight-champion-emanuel-navarrete-stops-francisco-de-vaca/",
+      "title": "Three Brutal Rounds: WBO World Jr. Featherweight Champion Emanuel Navarrete Stops Francisco De Vaca",
+      "publisher": "WBO",
+      "type": "award-body",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1995-01-17",
+      "sources": [
+        "boxingonly-profile"
+      ],
+      "note": "Only BoxingOnly states a full date of birth; the WBO's 2020 age (25) is consistent with it."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "San Juan Zitlaltepec, Distrito Federal, Mexico",
+      "sources": [
+        "boxingonly-profile",
+        "wbo-santisima-2020"
+      ],
+      "note": "BoxingOnly and the WBO both give this birthplace. Other sites give no birthplace; treat the state as per these two sources."
+    },
+    "nationality": {
+      "value": "MX",
+      "sources": [
+        "boxingonly-profile"
+      ],
+      "note": "Mexican, per BoxingOnly; Yucatan and FightMag call him Mexican."
+    }
+  },
+  "targetQueries": [
+    "Emanuel Navarrete vs O'Shaquie Foster result",
+    "Emanuel Navarrete Foster scorecards",
+    "Did Emanuel Navarrete lose his title",
+    "Emanuel Navarrete record",
+    "Emanuel Navarrete age",
+    "Emanuel Navarrete nickname Vaquero",
+    "Emanuel Navarrete Charly Suarez",
+    "Emanuel Navarrete WBO super featherweight"
+  ],
+  "gapNote": "Most results pages are pre-fight previews. A single live-results page reports the Foster decision and scorecards; the page gives no full official title names and no clear post-fight recap. Our page can state the result with a sourced career summary. Sources disagree on his record and on some birth-year figures; the page avoids quoting a record."
+}

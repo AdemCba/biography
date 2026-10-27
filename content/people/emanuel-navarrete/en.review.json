@@ -1,0 +1,302 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"The WBO's January 2020 article gives the same birthplace\" (The WBO article says 'Representing San Juan Zitlaltepec, Distrito Federal, Mexico', not that this is his birthplace. Cite only BoxingOnly for birthplace, or reword to 'represents'.)",
+    "UNSUPPORTED: \"11th-round stoppage of Eduardo Nunez on 28 February 2026\" (Ring gives 'February 28' and an 11th-round stoppage but no year. The 2026 year appears only in fightmag-preview (photo caption). Add fightmag-preview to the citation.)",
+    "Reviewer recommends rejection: Two citation fixes needed before approval. (1) The body says the WBO's January 2020 article gives the same birthplace; it only says 'Representing San Juan Zitlaltepec', so cite BoxingOnly alone for birthplace or reword. Also remove wbo-santisima-2020 from the birthplace fact in person.json (editor action). (2) The Nunez stoppage year 2026 is not in the Ring source; add fightmag-preview to that citation. Everything else checks out."
+  ],
+  "claims": [
+    {
+      "claim": "Date of birth 17 January 1995",
+      "sourceIds": [
+        "boxingonly-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "BoxingOnly: January 17, 1995."
+    },
+    {
+      "claim": "Age 31 as of 27 October 2026",
+      "sourceIds": [
+        "boxingonly-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Follows from the DOB; BoxingOnly also shows age 31."
+    },
+    {
+      "claim": "Birthplace San Juan Zitlaltepec, Distrito Federal, Mexico",
+      "sourceIds": [
+        "boxingonly-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "BoxingOnly states this birthplace."
+    },
+    {
+      "claim": "The WBO's January 2020 article gives the same birthplace",
+      "sourceIds": [
+        "wbo-santisima-2020"
+      ],
+      "verdict": "unsupported",
+      "note": "The WBO article says 'Representing San Juan Zitlaltepec, Distrito Federal, Mexico', not that this is his birthplace. Cite only BoxingOnly for birthplace, or reword to 'represents'."
+    },
+    {
+      "claim": "Nationality Mexican",
+      "sourceIds": [
+        "boxingonly-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "BoxingOnly lists nationality as Mexico."
+    },
+    {
+      "claim": "Nickname 'Vaquero'",
+      "sourceIds": [
+        "boxingonly-profile",
+        "wbo-de-vaca-2019",
+        "yucatan-weigh-in"
+      ],
+      "verdict": "confirmed",
+      "note": "All three use the nickname; none explains its origin."
+    },
+    {
+      "claim": "Foster won a 12-round unanimous decision on 24 October 2026 in San Antonio and claimed WBO and IBF titles",
+      "sourceIds": [
+        "fightmag-live-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Live report: unanimous decision, Frost Bank Center, Saturday October 24; Foster claims IBF and WBO."
+    },
+    {
+      "claim": "Scorecards 118-108, 115-111, 118-108, all for Foster",
+      "sourceIds": [
+        "fightmag-live-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated exactly."
+    },
+    {
+      "claim": "Foster knocked Navarrete down twice in round 12",
+      "sourceIds": [
+        "fightmag-live-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated exactly."
+    },
+    {
+      "claim": "Navarrete held WBO and IBF titles before the fight; Foster held WBC",
+      "sourceIds": [
+        "toprank-announcement",
+        "fightmag-live-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Top Rank: WBO/IBF champion vs WBC king; FightMag: unified WBO and IBF 130-pound titles."
+    },
+    {
+      "claim": "Fight at Frost Bank Center in San Antonio on Saturday 24 October, streamed on DAZN",
+      "sourceIds": [
+        "toprank-announcement"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated exactly."
+    },
+    {
+      "claim": "Top Rank called it a 'three-belt unification showdown'",
+      "sourceIds": [
+        "toprank-announcement"
+      ],
+      "verdict": "confirmed",
+      "note": "Phrase present."
+    },
+    {
+      "claim": "Pre-fight record 40-2-1 in one report and 40-3-1 in BoxingOnly",
+      "sourceIds": [
+        "fightmag-live-result",
+        "boxingonly-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "FightMag gives 40-2-1 in its intro and 40-3-1 in the bout line; BoxingOnly gives 40-3-1."
+    },
+    {
+      "claim": "Spanish-language coverage names the WBO, IBF and WBC as the Organización Mundial de Boxeo, Federación Internacional de Boxeo and Consejo Mundial de Boxeo",
+      "sourceIds": [
+        "yucatan-weigh-in"
+      ],
+      "verdict": "confirmed",
+      "note": "Diario de Yucatan uses OMB, FIB and CMB with these names."
+    },
+    {
+      "claim": "Winner expected to face mandatory challenger Charly Suarez",
+      "sourceIds": [
+        "fightmag-live-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated exactly (Suarez, 19-0)."
+    },
+    {
+      "claim": "Navarrete retained the WBO title and claimed the IBF belt in February",
+      "sourceIds": [
+        "fightmag-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated exactly."
+    },
+    {
+      "claim": "11th-round stoppage of Eduardo Nunez on 28 February 2026",
+      "sourceIds": [
+        "ring-foster-agree"
+      ],
+      "verdict": "unsupported",
+      "note": "Ring gives 'February 28' and an 11th-round stoppage but no year. The 2026 year appears only in fightmag-preview (photo caption). Add fightmag-preview to the citation."
+    },
+    {
+      "claim": "Charly Suarez bout in May 2025 ruled a no-contest after seven completed rounds",
+      "sourceIds": [
+        "ring-foster-agree"
+      ],
+      "verdict": "confirmed",
+      "note": "Ring: seven completed rounds, controversial no-contest, May 2025 heading."
+    },
+    {
+      "claim": "Navarrete had originally won by technical unanimous decision, later changed",
+      "sourceIds": [
+        "ring-foster-agree"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated exactly."
+    },
+    {
+      "claim": "Foster came in as WBC champion with five successful defences",
+      "sourceIds": [
+        "fightmag-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Preview: 'the fifth successful defense of his WBC title'."
+    },
+    {
+      "claim": "Foster's interview from the WBC convention in Hamburg, December 2024, said he wanted a unification with Navarrete",
+      "sourceIds": [
+        "wbc-foster-navarrete"
+      ],
+      "verdict": "confirmed",
+      "note": "Convention in Hamburg; article dated 11 December 2024. Exact interview date not stated, so 'December 2024' is an inference from the date."
+    },
+    {
+      "claim": "Navarrete won WBO 122-pound title by beating Isaac Dogboe in December 2018",
+      "sourceIds": [
+        "wbo-santisima-2020"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Kept title in May 2019, stopping Dogboe in the final round of the rematch",
+      "sourceIds": [
+        "wbo-santisima-2020"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "WBO calls the division junior featherweight",
+      "sourceIds": [
+        "wbo-santisima-2020"
+      ],
+      "verdict": "confirmed",
+      "note": "'WBO Junior Featherweight World Champion'."
+    },
+    {
+      "claim": "Boxing News Online lists the 2018 win as a super-bantamweight title",
+      "sourceIds": [
+        "boxingnewsonline-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "August 2019: stopped Francisco De Vaca in round 3 after a round-2 knockdown",
+      "sourceIds": [
+        "wbo-de-vaca-2019"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "De Vaca was 20-1 with six KOs; 3,944 fans at Banc of California Stadium",
+      "sourceIds": [
+        "wbo-de-vaca-2019"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "WBO president Paco Valcárcel called Navarrete 'the best fighter in that weight class'",
+      "sourceIds": [
+        "wbo-de-vaca-2019"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "WBO January 2020 article calls him 'boxing's most active world champion' and lists stoppage wins in August, September and December 2019",
+      "sourceIds": [
+        "wbo-santisima-2020"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Record at that point 30-1 with 26 KOs",
+      "sourceIds": [
+        "wbo-santisima-2020"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Navarrete won WBO featherweight title in October 2020 and super-featherweight title in February 2023",
+      "sourceIds": [
+        "boxingnewsonline-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Vacant title wins, stated."
+    },
+    {
+      "claim": "Lost lightweight title bid on 18 May 2024",
+      "sourceIds": [
+        "boxingnewsonline-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Split decision loss to Denys Berinchyk. The article could name him for precision."
+    },
+    {
+      "claim": "WBO article describes him as 25 at that time",
+      "sourceIds": [
+        "wbo-santisima-2020"
+      ],
+      "verdict": "confirmed",
+      "note": "'25-year-old'."
+    },
+    {
+      "claim": "Summary and FAQ: Navarrete won first WBO world title in 2018",
+      "sourceIds": [
+        "wbo-santisima-2020"
+      ],
+      "verdict": "confirmed",
+      "note": "December 2018 Dogboe win."
+    },
+    {
+      "claim": "Foster won unanimous decision; Navarrete lost WBO and IBF super featherweight titles",
+      "sourceIds": [
+        "fightmag-live-result"
+      ],
+      "verdict": "confirmed",
+      "note": "130-pound = super featherweight."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Gives a dated timeline and flags conflicting pre-fight records between sources, plus the scorecards and the WBO/IBF/WBC title situation. Most top results would not set out the 2019 to 2024 weight-class history this clearly.",
+  "decision": "reject",
+  "summary": "Two citation fixes needed before approval. (1) The body says the WBO's January 2020 article gives the same birthplace; it only says 'Representing San Juan Zitlaltepec', so cite BoxingOnly alone for birthplace or reword. Also remove wbo-santisima-2020 from the birthplace fact in person.json (editor action). (2) The Nunez stoppage year 2026 is not in the Ring source; add fightmag-preview to that citation. Everything else checks out."
+}

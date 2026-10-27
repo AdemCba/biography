@@ -1,0 +1,83 @@
+{
+  "worthWriting": true,
+  "reason": "Current Poland captain and FC Barcelona striker, in the news for the 2026 Ballon d'Or top-ten finish and her Champions League final award. Several primary sources (FC Barcelona, UEFA) back the core facts.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "fcb-profile-es",
+      "url": "https://www.fcbarcelona.es/es/futbol/femenino-a/jugadores/4046726/pajor",
+      "title": "Ewa Pajor - jugadora FC Barcelona Femení",
+      "publisher": "FC Barcelona",
+      "type": "official",
+      "lang": "es"
+    },
+    {
+      "id": "fcb-signing-2024",
+      "url": "https://www.fcbarcelona.com/en/news/4039721/agreement-to-sign-ewa-pajor-until-2027/amp",
+      "title": "Agreement to sign Ewa Pajor until 2027",
+      "publisher": "FC Barcelona",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "uefa-final-player-of-the-match",
+      "url": "https://www.uefa.com/womenschampionsleague/news/02a5-20b2045743a5-38b02d605b99-1000--ewa-pajor-named-official-uefa-women-s-champions-league-final/",
+      "title": "Ewa Pajor named official UEFA Women's Champions League final Player of the Match",
+      "publisher": "UEFA",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "uefa-pajor-records",
+      "url": "https://www.uefa.com/womenschampionsleague/news/02a7-2126943f7257-96522a98731f-1000--ewa-pajor-records-and-statistics-how-brilliant-is-the-bar/",
+      "title": "Ewa Pajor records and statistics: how brilliant is the bar",
+      "publisher": "UEFA",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "yahoo-ballon-dor-2026-live",
+      "url": "https://sports.yahoo.com/articles/ballon-dor-2026-live-updates-151456019.html",
+      "title": "Ballon d'Or 2026: Harry Kane and Alexia Putellas take home night's biggest prizes",
+      "publisher": "Yahoo Sports",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1996-12-03",
+      "sources": [
+        "fcb-profile-es"
+      ],
+      "note": "Club profile lists 03/12/1996. Wikipedia and FotMob agree; Polish outlets also give 3 December 1996."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Uniejów, Poland",
+      "sources": [
+        "fcb-profile-es"
+      ],
+      "note": "Club profile lists Uniejów, Poland."
+    },
+    "nationality": {
+      "value": "PL",
+      "sources": [
+        "fcb-profile-es"
+      ],
+      "note": "Profile describes her as a 'delantera polaca' (Polish forward). Not a separate field."
+    }
+  },
+  "targetQueries": [
+    "Ewa Pajor Ballon d'Or 2026",
+    "Ewa Pajor age",
+    "Ewa Pajor Barcelona contract",
+    "Ewa Pajor Champions League final 2026",
+    "Ewa Pajor Wolfsburg",
+    "Ewa Pajor Poland captain",
+    "Ewa Pajor Champions League goals"
+  ],
+  "gapNote": "Verified against the sources above: she finished among the ten Ballon d'Or 2026 finalists, behind winner Alexia Putellas. Her exact placing (second) could not be confirmed from any source opened, so the page does not claim it. UEFA confirms she was the official Player of the Match in the 2026 final (4-0 over OL Lyonnes, Oslo, 23 May 2026) and the 2025/26 Champions League top scorer with 11 goals. Useful angle: her Champions League final record, six finals before the first win."
+}

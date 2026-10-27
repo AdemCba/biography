@@ -1,0 +1,351 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 3 December 1996 in Uniejow, Poland",
+      "sourceIds": [
+        "fcb-profile-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: 03/12/1996, natural de Uniejow."
+    },
+    {
+      "claim": "Forward, pure centre forward, also played as left winger",
+      "sourceIds": [
+        "fcb-profile-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: 'delantera centro puro'; 'ha actuado como extremo izquierdo'."
+    },
+    {
+      "claim": "Wears number 17 at Barcelona",
+      "sourceIds": [
+        "fcb-profile-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Heading '17. Pajor'."
+    },
+    {
+      "claim": "Medyk Konin: two Polish league titles, three Polish cups",
+      "sourceIds": [
+        "fcb-profile-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Palmares lists 2 league titles and 3 cups."
+    },
+    {
+      "claim": "Broke into the senior side at Medyk Konin aged 15",
+      "sourceIds": [
+        "uefa-pajor-records"
+      ],
+      "verdict": "confirmed",
+      "note": "UEFA: broke into senior team at Medyk Konin aged 15. FCB also says debut at 15."
+    },
+    {
+      "claim": "Won the 2013 UEFA Under-17 Championship with Poland",
+      "sourceIds": [
+        "uefa-pajor-records",
+        "fcb-profile-es"
+      ],
+      "verdict": "confirmed",
+      "note": "UEFA states 2013. FCB palmares lists 2013 but its body text says 2023; the article cites 2013 and the sources conflict only on the FCB body text."
+    },
+    {
+      "claim": "Senior debut 20 August 2013 against Czechia, won a penalty and scored",
+      "sourceIds": [
+        "fcb-profile-es",
+        "uefa-pajor-records"
+      ],
+      "verdict": "confirmed",
+      "note": "FCB: 20 Aug 2013, 'provoca un penalti y marca un gol'. UEFA: debut vs Czechia in 2013, scored."
+    },
+    {
+      "claim": "Moved to VfL Wolfsburg in summer 2015",
+      "sourceIds": [
+        "uefa-pajor-records"
+      ],
+      "verdict": "confirmed",
+      "note": "UEFA: moved to Wolfsburg in summer 2015."
+    },
+    {
+      "claim": "Nine seasons at VfL Wolfsburg",
+      "sourceIds": [
+        "fcb-signing-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "'for nine season'."
+    },
+    {
+      "claim": "Wolfsburg Bundesliga titles 2017, 2018, 2019, 2020, 2022",
+      "sourceIds": [
+        "fcb-signing-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Wolfsburg won nine German Cups",
+      "sourceIds": [
+        "fcb-signing-2024",
+        "uefa-pajor-records"
+      ],
+      "verdict": "confirmed",
+      "note": "FCB lists nine German Cups 2016-2024; UEFA says nine consecutive."
+    },
+    {
+      "claim": "Scored in the 2017/18 semi-final, 5-1 aggregate win over Chelsea",
+      "sourceIds": [
+        "uefa-pajor-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Wolfsburg lost four Champions League finals, she played in all four",
+      "sourceIds": [
+        "fcb-signing-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "'playing four finals and losing each time'."
+    },
+    {
+      "claim": "2022/23 Champions League top scorer with nine goals",
+      "sourceIds": [
+        "uefa-pajor-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Last Wolfsburg season: German league top scorer, 18 goals in 19 games",
+      "sourceIds": [
+        "fcb-signing-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Agreed June 2024 to three-year deal to 30 June 2027 with Barcelona; plays there since 2024",
+      "sourceIds": [
+        "fcb-signing-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Published 17 Jun 24; deal to 30 June 2027."
+    },
+    {
+      "claim": "Nine goals in her first six league games",
+      "sourceIds": [
+        "uefa-pajor-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated. UEFA also calls it the best start to a season by a player at the club; the article does not claim that."
+    },
+    {
+      "claim": "First season: 43 goals, 25 in Liga F",
+      "sourceIds": [
+        "fcb-profile-es",
+        "uefa-pajor-records"
+      ],
+      "verdict": "confirmed",
+      "note": "FCB: 43 goals, 25 Liga F. Same goal total in UEFA."
+    },
+    {
+      "claim": "Club counts 46 official matches in that season, UEFA counts 45 across all competitions",
+      "sourceIds": [
+        "fcb-profile-es",
+        "uefa-pajor-records"
+      ],
+      "verdict": "confirmed",
+      "note": "FCB: 46 official matches. UEFA: 43 goals in 45 matches across all competitions. Discrepancy is stated, both cited."
+    },
+    {
+      "claim": "Won the domestic treble in her first season",
+      "sourceIds": [
+        "uefa-pajor-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Gerd Muller award for 2024/25, presented at the 2025 Ballon d'Or ceremony",
+      "sourceIds": [
+        "fcb-profile-es",
+        "uefa-pajor-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in both."
+    },
+    {
+      "claim": "Two Liga F titles with Barcelona",
+      "sourceIds": [
+        "fcb-profile-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Palmares: 2 Liga F."
+    },
+    {
+      "claim": "2025/26 Champions League top scorer with 11 goals, two in each of the QF and SF wins",
+      "sourceIds": [
+        "uefa-pajor-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "44 Champions League goals, seventh all-time, Ada Hegerberg top",
+      "sourceIds": [
+        "uefa-pajor-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Oslo final: Barcelona 4-0 OL Lyonnes on 23 May 2026",
+      "sourceIds": [
+        "uefa-final-player-of-the-match"
+      ],
+      "verdict": "confirmed",
+      "note": "Dateline May 23, 2026; 4-0 in Oslo."
+    },
+    {
+      "claim": "Scored twice, her tenth and eleventh goals of the campaign; assist for Salma Paralluelo's fourth goal",
+      "sourceIds": [
+        "uefa-final-player-of-the-match"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "UEFA technical observer panel quote on her first goal",
+      "sourceIds": [
+        "uefa-final-player-of-the-match"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote matches the page."
+    },
+    {
+      "claim": "Named official UEFA Player of the Match in the final",
+      "sourceIds": [
+        "uefa-final-player-of-the-match"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Oslo final was her sixth European final, first won, after five defeats",
+      "sourceIds": [
+        "uefa-pajor-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Two goals made her the first player to score more than once in a CL final since 2023",
+      "sourceIds": [
+        "uefa-pajor-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Arsenal beat Barcelona 1-0 in Lisbon in the 2025 final",
+      "sourceIds": [
+        "uefa-pajor-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Passed Marta Otrebska as Poland's all-time leading female scorer in September 2022",
+      "sourceIds": [
+        "uefa-pajor-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Scored in play-off ties against Romania and Austria to reach Women's Euro 2025",
+      "sourceIds": [
+        "uefa-pajor-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Poland lost their first two group games to Germany and Sweden; she scored in the 3-2 win over Denmark",
+      "sourceIds": [
+        "uefa-pajor-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Alexia Putellas took the women's Ballon d'Or for the third time",
+      "sourceIds": [
+        "yahoo-ballon-dor-2026-live"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Pajor was one of the ten women's finalists",
+      "sourceIds": [
+        "yahoo-ballon-dor-2026-live",
+        "uefa-pajor-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Listed in top-10 women's finalists."
+    },
+    {
+      "claim": "Scored in the Champions League quarter-finals, semi-finals and final of 2025/26",
+      "sourceIds": [
+        "uefa-pajor-records",
+        "uefa-final-player-of-the-match"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Barcelona honours by end of 2025/26: two Liga F, two Copa de la Reina, two Supercopa, Champions League",
+      "sourceIds": [
+        "fcb-profile-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Palmares."
+    },
+    {
+      "claim": "Wolfsburg totals differ: 136 goals in 196 appearances (club) vs 135 in 196 (UEFA)",
+      "sourceIds": [
+        "fcb-signing-2024",
+        "uefa-pajor-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Both stated, discrepancy flagged."
+    },
+    {
+      "claim": "Poland's all-time leading female goalscorer",
+      "sourceIds": [
+        "uefa-pajor-records"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "FAQ: aged 29 at 27 October 2026, turns 30 on 3 December 2026",
+      "sourceIds": [
+        "fcb-profile-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Derived correctly from DOB 3 Dec 1996."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Verified against the club, UEFA and Yahoo pages. The duplicate sentence is gone and two clipped fragments were rewritten. The Medyk Konin debut at 15, the 2015 Wolfsburg move and the match-count discrepancy are sourced.",
+  "decision": "approve",
+  "summary": "Approved. All checked claims match their cited sources; the five previously rejected claims are removed and the duplicate sentence is gone."
+}

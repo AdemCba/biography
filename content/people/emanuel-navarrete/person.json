@@ -1,0 +1,127 @@
+{
+  "id": "emanuel-navarrete",
+  "name": "Emanuel Navarrete",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 3,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1995-01-17",
+      "sources": [
+        "boxingonly-profile"
+      ],
+      "note": "Only BoxingOnly states a full date of birth; the WBO's 2020 age (25) is consistent with it."
+    },
+    "birthPlace": {
+      "value": "San Juan Zitlaltepec, Distrito Federal, Mexico",
+      "sources": [
+        "boxingonly-profile"
+      ],
+      "note": "Only BoxingOnly states the birthplace (re-checked 2026-10-27). The WBO January 2020 article says only that he represents San Juan Zitlaltepec, so it is not cited for birthplace."
+    },
+    "nationality": {
+      "value": [
+        "MX"
+      ],
+      "sources": [
+        "boxingonly-profile"
+      ],
+      "note": "Mexican, per BoxingOnly; Yucatan and FightMag call him Mexican."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "fightmag-live-result",
+      "url": "https://www.fightmag.com/boxing-emanuel-navarrete-vs-oshaquie-foster-live-results/",
+      "title": "Live results: Emanuel Navarrete faces O'Shaquie Foster in title unification",
+      "publisher": "FightMag",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "toprank-announcement",
+      "url": "https://toprank.com/news/emanuel-navarrete-oshaquie-foster-unification-showdown-set-for-oct-24-at-frost-bank-center-in-san-antonio-live-on-dazn",
+      "title": "Emanuel Navarrete, O'Shaquie Foster unification showdown set for Oct. 24 at Frost Bank Center in San Antonio, live on DAZN",
+      "publisher": "Top Rank",
+      "type": "company",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "boxingonly-profile",
+      "url": "https://www.boxingonly.net/profile/emanuel-navarrete",
+      "title": "Emanuel Navarrete profile",
+      "publisher": "BoxingOnly",
+      "type": "database",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "yucatan-weigh-in",
+      "url": "https://www.yucatan.com.mx/deportes/2026/10/24/navarrete-y-foster-unifican-coronas.html",
+      "title": "Emanuel \"Vaquero\" Navarrete cumplio con el pesaje",
+      "publisher": "Diario de Yucatan",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "es"
+    },
+    {
+      "id": "fightmag-preview",
+      "url": "https://www.fightmag.com/navarrete-to-face-foster-in-san-antonio-in-october/",
+      "title": "Navarrete to face Foster in San Antonio in October",
+      "publisher": "FightMag",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "wbc-foster-navarrete",
+      "url": "https://wbcboxing.com/en/foster-seeks-navarrete/",
+      "title": "Foster seeks Navarrete",
+      "publisher": "WBC",
+      "type": "award-body",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "boxingnewsonline-profile",
+      "url": "https://boxingnewsonline.net/boxer/emanuel-navarrete/",
+      "title": "Emanuel Navarrete",
+      "publisher": "Boxing News Online",
+      "type": "database",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "ring-foster-agree",
+      "url": "https://www.ringmagazine.com/news/navarrete-foster-agree-oct-24-title-unification-3GSrEyJTBFjyh4Mf8WLgbG",
+      "title": "Navarrete, Foster agree to Oct. 24 title unification",
+      "publisher": "The Ring",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "wbo-santisima-2020",
+      "url": "https://wboboxing.com/boxing-news/wbo-junior-featherweight-world-champion-emanuel-navarrete-defends-his-title-against-the-philippines-jeo-santisima/",
+      "title": "WBO Junior Featherweight World Champion Emanuel Navarrete Defends His Title Against the Philippines' Jeo Santisima",
+      "publisher": "WBO",
+      "type": "award-body",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "wbo-de-vaca-2019",
+      "url": "https://wboboxing.com/boxing-news/three-brutal-rounds-wbo-world-jr-featherweight-champion-emanuel-navarrete-stops-francisco-de-vaca/",
+      "title": "Three Brutal Rounds: WBO World Jr. Featherweight Champion Emanuel Navarrete Stops Francisco De Vaca",
+      "publisher": "WBO",
+      "type": "award-body",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    }
+  ]
+}

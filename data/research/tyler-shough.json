@@ -1,0 +1,60 @@
+{
+  "worthWriting": true,
+  "reason": "Starting quarterback of the New Orleans Saints (NFL). Not a minor or private individual. Sources: NFL.com player profile, Saints official schedule and news pages, and TSN (citing ESPN) for the injury report. The 2026 schedule page confirms the Week 7 Paris loss to Pittsburgh (Saints 10, Steelers 16) and the Week 5 loss to Minnesota (Saints 13, Vikings 23).",
+  "wikidata": "",
+  "importance": 3,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "nfl-player-profile",
+      "url": "https://www.nfl.com/players/tyler-shough/",
+      "title": "Tyler Shough - New Orleans Saints - Player Profile",
+      "publisher": "NFL.com",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "saints-schedule-2026",
+      "url": "https://www.neworleanssaints.com/schedule",
+      "title": "New Orleans Saints 2026 Schedule and Results",
+      "publisher": "New Orleans Saints",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "saints-shough-offseason-2026",
+      "url": "https://www.neworleanssaints.com/news/new-orleans-saints-quarterback-tyler-shough-offseason-2026",
+      "title": "New Orleans Saints quarterback Tyler Shough offseason 2026",
+      "publisher": "New Orleans Saints",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "tsn-shough-hand-injury",
+      "url": "https://www.tsn.ca/nfl/article/sources-saints-qb-shough-playing-with-two-broken-bones-in-non-throwing-hand-n1-50200514/",
+      "title": "Sources: Saints QB Shough playing with two broken bones in non-throwing hand",
+      "publisher": "TSN (citing ESPN sources)",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": null,
+    "deathDate": null,
+    "birthPlace": null,
+    "nationality": null
+  },
+  "targetQueries": [
+    "Tyler Shough",
+    "Tyler Shough Saints",
+    "Tyler Shough Steelers Paris",
+    "Tyler Shough injury",
+    "Tyler Shough stats 2026",
+    "Tyler Shough Louisville",
+    "Tyler Shough college career",
+    "Tyler Shough height and weight",
+    "Tyler Shough Saints contract",
+    "Tyler Shough Saints record 2026"
+  ],
+  "gapNote": "Search results mix pre-game previews, scouting reports and fantasy pages. The official Saints schedule gives the verified 2026 results, including the Week 7 Paris loss (Saints 10, Steelers 16). The 278-yard, touchdown and interception line from the Paris game, and the claimed 23-13 Vikings loss with two interceptions, are not confirmed by any page opened: the schedule shows 13-23 with no interception detail. Birth date and birthplace are not stated on the NFL.com profile (only hometown Chandler, AZ), so they stay null. The hand injury is reported by ESPN sources (via TSN) as a left, non-throwing hand fracture that the Saints have not confirmed, which conflicts with the brief's 'throwing hand' wording. Keep the injury to one sourced line."
+}

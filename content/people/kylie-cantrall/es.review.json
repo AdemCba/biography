@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Kylie Cantrall is a singer and actress who records for Republic Records",
+      "sourceIds": [
+        "heavy-cantrall-anthem",
+        "udiscovermusic-valley-girl-problems-tour"
+      ],
+      "verdict": "confirmed",
+      "note": "Heavy: 'Republic Records pop singer', 'Disney star'; uDiscover: EP released on Republic Records and 'rising pop star' with her Red role."
+    },
+    {
+      "claim": "Known for: singer and actress, Red in Disney's Descendants franchise",
+      "sourceIds": [
+        "udiscovermusic-valley-girl-problems-tour",
+        "heavy-cantrall-anthem"
+      ],
+      "verdict": "confirmed",
+      "note": "uDiscover: first appeared as Red in 2024's Descendants: The Rise of Red. 'Songwriter' is no longer claimed (no fetched source states it)."
+    },
+    {
+      "claim": "Heavy reported she would sing the anthem before World Series Game 2 in Milwaukee (scheduled, not confirmed performed)",
+      "sourceIds": [
+        "heavy-cantrall-anthem"
+      ],
+      "verdict": "confirmed",
+      "note": "Heavy: 'will perform the national anthem before World Series Game 2 tonight in Milwaukee'. Article says scheduled only."
+    },
+    {
+      "claim": "Mickey Guyton sang the anthem for Game 1 (per Heavy)",
+      "sourceIds": [
+        "heavy-cantrall-anthem"
+      ],
+      "verdict": "confirmed",
+      "note": "Heavy: 'Country artist Mickey Guyton sang the anthem for Game 1'."
+    },
+    {
+      "claim": "Birth date 25 June 2005 in Los Angeles, cited to Heavy, attributed to the Milwaukee Journal Sentinel",
+      "sourceIds": [
+        "heavy-cantrall-anthem"
+      ],
+      "verdict": "confirmed",
+      "note": "Heavy: 'Kylie Lorena Cantrall was born June 25, 2005, in Los Angeles', attributed to the Milwaukee Journal Sentinel. Single press source, stated as such."
+    },
+    {
+      "claim": "Heavy describes her as the 21-year-old Disney star turned Republic Records pop singer",
+      "sourceIds": [
+        "heavy-cantrall-anthem"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted on the Heavy page."
+    },
+    {
+      "claim": "The EP Valley Girl Problems was released 24 July 2026 through Republic Records",
+      "sourceIds": [
+        "udiscovermusic-valley-girl-problems-tour"
+      ],
+      "verdict": "confirmed",
+      "note": "uDiscover: 'released July 24 on Republic Records'."
+    },
+    {
+      "claim": "Official site footer carries a Republic Records copyright notice",
+      "sourceIds": [
+        "kylie-cantrall-official"
+      ],
+      "verdict": "confirmed",
+      "note": "Footer: '© Republic Records'."
+    },
+    {
+      "claim": "Official site lists the EP, an acoustic 'Carrie Bradshaw', B.O.Y. (Deluxe) and 'Denim' without dates",
+      "sourceIds": [
+        "kylie-cantrall-official"
+      ],
+      "verdict": "confirmed",
+      "note": "Release list confirmed; no dates shown for the earlier titles."
+    },
+    {
+      "claim": "uDiscover, published 4 August 2026, reported the tour (not an official announcement date)",
+      "sourceIds": [
+        "udiscovermusic-valley-girl-problems-tour"
+      ],
+      "verdict": "confirmed",
+      "note": "'Published on August 4, 2026'."
+    },
+    {
+      "claim": "Tour runs from 25 September in Minneapolis to 22 October in Los Angeles",
+      "sourceIds": [
+        "udiscovermusic-valley-girl-problems-tour"
+      ],
+      "verdict": "confirmed",
+      "note": "uDiscover: 'starting Sept. 25 in Minneapolis and wrapping up back home in Los Angeles on Oct. 22'."
+    },
+    {
+      "claim": "Artist presale begins 5 August and general onsale is 7 August",
+      "sourceIds": [
+        "udiscovermusic-valley-girl-problems-tour"
+      ],
+      "verdict": "confirmed",
+      "note": "uDiscover: 'artist presale begins Wednesday, Aug. 5, followed by general onsale on Aug. 7'."
+    },
+    {
+      "claim": "She first appeared as Red in 2024's Descendants: The Rise of Red; this led to the Descendants/Zombies: Worlds Collide Tour",
+      "sourceIds": [
+        "udiscovermusic-valley-girl-problems-tour"
+      ],
+      "verdict": "confirmed",
+      "note": "uDiscover quotes on both points."
+    },
+    {
+      "claim": "She reprised Red in Descendants: Wicked Wonderland, a Disney Channel movie premiered 16 July",
+      "sourceIds": [
+        "udiscovermusic-valley-girl-problems-tour"
+      ],
+      "verdict": "confirmed",
+      "note": "uDiscover: 'the July 16 premiere of the new Disney Channel movie Descendants: Wicked Wonderland', which saw her reprise Red."
+    },
+    {
+      "claim": "uDiscover calls her a rising pop star pursuing new recording and acting projects",
+      "sourceIds": [
+        "udiscovermusic-valley-girl-problems-tour"
+      ],
+      "verdict": "confirmed",
+      "note": "uDiscover: 'The rising pop star is preparing to follow up successful new recording and acting projects'."
+    },
+    {
+      "claim": "Official site links to her Instagram, TikTok, Spotify, Facebook and YouTube accounts",
+      "sourceIds": [
+        "kylie-cantrall-official"
+      ],
+      "verdict": "confirmed",
+      "note": "All five links present on the site. The word 'verified' is not used in the article."
+    },
+    {
+      "claim": "Official site tour section lists no dates",
+      "sourceIds": [
+        "kylie-cantrall-official"
+      ],
+      "verdict": "confirmed",
+      "note": "Tour heading present, no dates."
+    },
+    {
+      "claim": "No fetched source gives Cantrall's nationality, so the article does not state one",
+      "sourceIds": [
+        "heavy-cantrall-anthem",
+        "udiscovermusic-valley-girl-problems-tour",
+        "kylie-cantrall-official"
+      ],
+      "verdict": "confirmed",
+      "note": "None of the opened sources states nationality."
+    },
+    {
+      "claim": "Heavy's 21-year-old description is consistent with the 25 June 2005 birth date",
+      "sourceIds": [
+        "heavy-cantrall-anthem"
+      ],
+      "verdict": "confirmed",
+      "note": "21 years from 25 June 2005 to late October 2026."
+    },
+    {
+      "claim": "Summary: EP released July 2026; first headline tour began September 2026",
+      "sourceIds": [
+        "udiscovermusic-valley-girl-problems-tour"
+      ],
+      "verdict": "confirmed",
+      "note": "EP 24 July 2026; tour starts 25 September 2026."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Separates what Heavy reported as scheduled from what is confirmed, gives the tour's dated timeline with presale dates, and states that the birth date rests on one press source. Short sourced entries rather than a template.",
+  "decision": "approve",
+  "summary": "Approve (es). Every claim in this version is confirmed from a fetched source. The anthem is described as scheduled, not performed. The MLB release is no longer cited, and 'compositora' (songwriter) is removed as unsourced."
+}
