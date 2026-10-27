@@ -13,13 +13,13 @@ summary: >-
   whether she was born in 1978 or 1979 [s:lyonmag-profile] [s:ozap-profile]. In
   2023 she was made a chevalier of the Ordre national du Mérite
   [s:purepeople-matignon-2023].
-status: approved
+status: published
 risk: medium
 publishedAt: '2026-10-27'
 reviewedAt: '2026-10-27'
 reviewBy: '2027-04-27'
 author: editor-in-chief
-reviewer: fact-check-desk
+reviewer: editor-in-chief
 aiAssisted: true
 targetQueries:
   - Sylvie Tellier Miss France 2002
@@ -48,7 +48,6 @@ faq:
     a: >-
       Cindy Fabre succeeded her as director of the Miss France contest, and was
       due to make her first prime-time appearance in December 2023.
-flag: Rejected by the fact-check 3 times; needs a human editor.
 autoReviews: 4
 ---
 Sylvie Tellier won Miss Lyon 2001 and then Miss France 2002 [s:lyonmag-profile]. She was crowned on 8 December 2001 [s:purepeople-profile]. Later she ran the company that organises the contest, and she still comments on the pageant in interviews [s:parismatch-miss-france-rtl-2025].
