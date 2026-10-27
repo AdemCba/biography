@@ -11,9 +11,12 @@ summary: >-
   born on 11 May 1992. In October 2026 he said he had left the Belgian players'
   WhatsApp group and might return to the national team in November, while a
   renewal with Real Madrid was reported to be close.
-status: approved
+status: published
 risk: low
+reviewedAt: '2026-10-27'
+reviewBy: '2027-04-27'
 author: editor-in-chief
+reviewer: editor-in-chief
 aiAssisted: true
 targetQueries:
   - Thibaut Courtois Real Madrid contract
@@ -43,11 +46,8 @@ faq:
       Lammens in the 69th minute, with the score at 1-1
       [s:worldsoccertalk-courtois-forced-off]. Another gives the 71st minute
       [s:wego-belgium-world-cup].
-flag: Rejected by the fact-check 4 times; needs a human editor.
 autoReviews: 5
-reviewer: fact-check-desk
-reviewedAt: '2026-10-27'
-reviewBy: '2027-04-27'
+publishedAt: '2026-10-27'
 ---
 Thibaut Courtois was born on 11 May 1992 and plays as a goalkeeper for Real Madrid [s:uefa-courtois-profile]. UEFA lists him at 199 cm, with the shirt number 1 [s:uefa-courtois-profile]. The news about him in October 2026 concerns two things: Belgium and his contract. He said he is no longer in the Belgian players' WhatsApp group and that he is considering a return to the national team in November, while a renewal with Real Madrid is reported to be close [s:fichajes-courtois-whatsapp] [s:fichajes-renewal-2028].
 

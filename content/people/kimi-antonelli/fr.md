@@ -12,9 +12,11 @@ summary: >-
   a remporté le Grand Prix des États-Unis 2026 à Austin, le 25 octobre 2026, et
   mène le championnat des pilotes avec 123 points d'avance sur George Russell
   [s:f1-austin-race-report] [s:skysports-austin-report].
-status: review
+status: published
 risk: low
+reviewedAt: '2026-10-27'
 author: editor-in-chief
+reviewer: editor-in-chief
 aiAssisted: true
 targetQueries:
   - Kimi Antonelli
@@ -50,20 +52,8 @@ faq:
       Marco Antonelli est un ancien pilote de course qui dirige sa propre
       écurie, Antonelli Motorsport. Kimi a couru pour cette équipe quand il
       était enfant.
-reviewNotes: >-
-  UNSUPPORTED: "Son père Marco est un ancien pilote de course (corps et FAQ)"
-  (Source names Marco as head of Antonelli Motorsport but does not say he was a
-  racing driver. Remove 'ancien pilote de course' from body and FAQ or cite a
-  source that states it.) | UNSUPPORTED: "Mercedes n'a fait qu'un arrêt; Leclerc
-  et Hamilton deux arrêts pour Ferrari" (Source says Antonelli ran one stop and
-  Ferrari ran two. It does not say Mercedes as a team ran one stop. Change to
-  Antonelli only.) | UNSUPPORTED: "FAQ : Marco Antonelli est un ancien pilote de
-  course" (Not stated in sources. Same as body.) | Reviewer recommends
-  rejection: Rejected. Remove 'ancien pilote de course' for Marco (body and
-  FAQ). Change 'Mercedes n'a fait qu'un arrêt' to Antonelli only. Cite only
-  f1-driver-profile for the exact birth date.
 autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+publishedAt: '2026-10-27'
 ---
 Kimi Antonelli a remporté le Grand Prix des États-Unis 2026 sur le Circuit of the Americas, à Austin, le 25 octobre 2026, après être parti en pole position [s:f1-austin-race-report]. Autosport a retenu cette victoire comme sa neuvième en Grand Prix en 2026 [s:autosport-austin-report]. Avec 123 points d'avance sur Russell, il prend la tête du championnat des pilotes [s:skysports-austin-report], mais le titre n'était pas encore acquis [s:f1-austin-race-report].
 

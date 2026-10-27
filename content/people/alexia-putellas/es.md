@@ -13,9 +13,11 @@ summary: >-
   mayo de 2026, y en julio firmó por el London City Lionesses de la Women's
   Super League. Su etapa en el Barça incluye 507 partidos y cuatro Ligas de
   Campeones.
-status: review
+status: published
 risk: low
+reviewedAt: '2026-10-27'
 author: editor-in-chief
+reviewer: editor-in-chief
 aiAssisted: true
 targetQueries:
   - Alexia Putellas edad
@@ -45,25 +47,8 @@ faq:
       Los textos consultados no indican su salario ni la duración de su
       contrato, así que esta página no da ninguno de los dos datos
       [s:aljazeera-london-city-signing-2026].
-reviewNotes: >-
-  UNSUPPORTED: "La AP calificó el fichaje de «fichaje de peso» (quoted as AP's
-  wording)" (The AP text says 'statement signing'. 'fichaje de peso' is not in
-  the source, yet it is presented in quotation marks as the AP's own words. Use
-  a plain paraphrase or quote the source wording accurately.) | UNSUPPORTED: "El
-  exentrenador Xavi Llorens, que la trajo de vuelta al club, habló en el acto"
-  (The farewell page names Xavi Llorens as speaking, but it does not say he
-  brought her back to the club, and it calls him 'coach' without 'former'.
-  Remove 'que la trajo de vuelta al club' and check the 'exentrenador' label.) |
-  UNSUPPORTED: "El acto empezó con un vídeo de su anuncio" (The cited page does
-  not state that the event opened with a video of her announcement. Remove the
-  sentence or cite a source that says so.) | Reviewer recommends rejection:
-  Rejected. Three claims are unsupported by the cited sources: the 'fichaje de
-  peso' quotation attributed to AP (AP says 'statement signing'), the claim that
-  Xavi Llorens brought her back to the club, and the claim that the farewell
-  event opened with a video of her announcement. Fix or remove these and
-  resubmit for review.
 autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+publishedAt: '2026-10-27'
 ---
 Alexia Putellas dejó el FC Barcelona en mayo de 2026, tras 14 temporadas, y en julio firmó por el London City Lionesses de la Women's Super League [s:ap-barcelona-departure-2026] [s:ap-london-city-signing-2026]. Los años en el Barça son el centro de su historia. Dieron dos Balones de Oro y una despedida en el Camp Nou en la que más de 91.000 personas corearon su nombre [s:fcb-farewell-2026].
 

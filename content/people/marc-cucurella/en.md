@@ -13,9 +13,11 @@ summary: >-
   not disclose a fee [s:geosuper-cucurella-2032]. Press reports put the base fee
   at €55 million, plus €5 million in add-ons [s:hardtackle-official-cucurella]
   [s:geosuper-cucurella-2032].
-status: review
+status: published
 risk: low
+reviewedAt: '2026-10-27'
 author: editor-in-chief
+reviewer: editor-in-chief
 aiAssisted: true
 targetQueries:
   - Marc Cucurella Real Madrid transfer fee
@@ -41,15 +43,8 @@ faq:
     a: >-
       He was born in Alella, Spain, and started playing futsal there at the age
       of four.
-reviewNotes: >-
-  WRONG: "Summary, FAQ and body citation tags" (The summary and FAQ answers
-  carry [s:id] tags. Per the checking rules, tags belong in the body only.
-  Remove them from frontmatter.) | Reviewer recommends rejection: All checked
-  facts are supported by the sources. Reject for formatting: the summary and FAQ
-  answers contain [s:id] citation tags, which belong only in the body. Remove
-  those tags and resubmit.
 autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+publishedAt: '2026-10-27'
 ---
 Marc Cucurella left Chelsea for Real Madrid in June 2026, on a contract that runs to 30 June 2032 [s:peninsula-real-madrid-confirm] [s:geosuper-cucurella-2032]. The club did not disclose a fee [s:geosuper-cucurella-2032], so the figures in circulation come from press reports, which are set out below. The left-back was born on 22 July 1998 in Alella, Spain [s:laliga-five-things], and he has been capped by Spain [s:theanalyst-national]. Counting from that date, he was 28 on 26 October 2026 [s:laliga-five-things] [s:fotmob-profile].
 

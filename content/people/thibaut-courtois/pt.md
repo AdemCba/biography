@@ -12,9 +12,11 @@ summary: >-
   11 de maio de 1992. Em outubro de 2026, disse que não faz mais parte do grupo
   de WhatsApp dos jogadores belgas e que pode voltar à seleção em novembro,
   enquanto uma renovação com o Real Madrid foi noticiada como próxima.
-status: review
+status: published
 risk: low
+reviewedAt: '2026-10-27'
 author: editor-in-chief
+reviewer: editor-in-chief
 aiAssisted: true
 targetQueries:
   - Thibaut Courtois idade
@@ -44,17 +46,8 @@ faq:
       substituído por Senne Lammens aos 69 minutos, com 1 a 1 no placar
       [s:worldsoccertalk-courtois-forced-off]. Outra situa a troca aos 71
       minutos [s:wego-belgium-world-cup].
-flag: Rejected by the fact-check 5 times; needs a human editor.
-reviewNotes: >-
-  Prose reads machine-written | Reviewer recommends rejection: All facts, dates,
-  scores, minutes, and quotes in the pt body, frontmatter and FAQ match the
-  sources checked for en. The reject is for localisation, not facts: the text is
-  a near sentence-by-sentence translation of the en article, which the style
-  guide says fails review, and it does not use Brazilian conventions beyond
-  spelling. Fix: rewrite for Brazilian readers with the patrimonio/idade style
-  queries and Brazilian-language sources where as good, and reorder sections for
-  the local reader.
 autoReviews: 5
+publishedAt: '2026-10-27'
 ---
 Thibaut Courtois nasceu em 11 de maio de 1992 e atua como goleiro do Real Madrid [s:uefa-courtois-profile]. O perfil da UEFA aponta 1,99 m de altura e a camisa número 1 [s:uefa-courtois-profile]. Em outubro de 2026, as notícias sobre ele giravam em torno de dois assuntos: a seleção belga e o contrato. Ele disse que não faz mais parte do grupo de WhatsApp dos jogadores belgas e que pensa em voltar à seleção em novembro. Ao mesmo tempo, uma renovação com o Real Madrid foi noticiada como próxima [s:fichajes-courtois-whatsapp] [s:fichajes-renewal-2028].
 

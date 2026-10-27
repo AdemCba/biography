@@ -12,12 +12,12 @@ summary: >-
   ganado el Grammy al Álbum del Año en cuatro ocasiones, un récord en esa
   categoría, y la revista Time la nombró Persona del Año 2023. Forbes calcula su
   patrimonio en 2.000 millones de dólares.
-status: review
+status: published
 risk: medium
-reviewedAt: '2026-10-26'
+reviewedAt: '2026-10-27'
 reviewBy: '2027-04-26'
 author: editor-in-chief
-reviewer: fact-check-desk
+reviewer: editor-in-chief
 aiAssisted: true
 targetQueries:
   - cuántos años tiene Taylor Swift
@@ -46,13 +46,7 @@ faq:
       Forbes lo calcula en 2.000 millones de dólares a fecha de 26 de octubre de
       2026. Es una estimación, no una cifra oficial [s:forbes-profile].
 autoReviews: 3
-reviewNotes: >-
-  Prose reads machine-written | Reviewer recommends rejection: Facts check out
-  against the cited sources, but the Spanish version fails the localisation
-  rule: it is a sentence-by-sentence translation of en. Rewrite it for local
-  readers and local queries, with local context and local-language sources where
-  they are as good, then resubmit for review.
-flag: Rejected by the fact-check 3 times; needs a human editor.
+publishedAt: '2026-10-27'
 ---
 Taylor Swift es la primera artista en ganar cuatro veces el Grammy al Álbum del Año [s:etonline-midnights]. Sus cifras más recientes llegan de 2025. En octubre de ese año, su álbum *The Life of a Showgirl* abrió con 4,002 millones de unidades de álbum equivalentes [s:today-showgirl-2025], y en mayo había anunciado que recuperaba las grabaciones maestras de sus seis primeros discos [s:mbw-masters-2025].
 

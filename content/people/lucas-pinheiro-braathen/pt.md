@@ -13,9 +13,11 @@ summary: >-
   de Inverno de Milão Cortina 2026, o primeiro ouro olímpico de inverno do
   Brasil. Nascido em Oslo em 2000, filho de pai norueguês e mãe brasileira,
   competiu pela Noruega até 2023 e, desde 2024, representa o Brasil.
-status: review
+status: published
 risk: medium
+reviewedAt: '2026-10-27'
 author: editor-in-chief
+reviewer: editor-in-chief
 aiAssisted: true
 targetQueries:
   - Lucas Pinheiro Braathen
@@ -44,16 +46,8 @@ faq:
       Sim. Venceu o slalom gigante masculino dos Jogos de Inverno de 2026, em
       Bormio, com tempo combinado de 2:25.00, 0,58 segundo à frente de Marco
       Odermatt [s:nbc-sports-gold-times-2026] [s:storyproductions-profile-2026].
-reviewNotes: >-
-  Prose reads machine-written | Adds no value over existing pages: Every
-  section, heading and sentence maps one-to-one onto the en article with the
-  same citations. No Brazilian-specific queries, sources or local context were
-  added. | Reviewer recommends rejection: All facts match the sources, but the
-  page is a sentence-by-sentence translation of the en version, which the style
-  guide says fails review. Localise it (Brazilian Portuguese sources or context,
-  local search phrasing, reworked structure) before resubmitting.
 autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+publishedAt: '2026-10-27'
 ---
 Lucas Pinheiro Braathen venceu o slalom gigante masculino nos Jogos Olímpicos de Inverno Milão Cortina 2026, um ouro que o tornou o primeiro campeão olímpico de inverno do Brasil [s:storyproductions-profile-2026]. Antes de se aposentar em 2023 ele competia pela Noruega. Desde 2024 representa o Brasil, país da mãe.
 

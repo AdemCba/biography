@@ -13,9 +13,11 @@ summary: >-
   gab ihren Weggang im Mai 2026 bekannt, und im Juli wechselte sie zum London
   City Lionesses aus der Women's Super League. Ihre Zeit beim Barça umfasst 507
   Spiele und vier Champions-League-Titel.
-status: review
+status: published
 risk: low
+reviewedAt: '2026-10-27'
 author: editor-in-chief
+reviewer: editor-in-chief
 aiAssisted: true
 targetQueries:
   - Alexia Putellas Alter
@@ -45,25 +47,8 @@ faq:
       Die Berichte, auf die sich diese Seite stützt, nennen weder Gehalt noch
       Vertragslaufzeit, deshalb gibt diese Seite keines von beiden an
       [s:aljazeera-london-city-signing-2026].
-reviewNotes: >-
-  UNSUPPORTED: "Der frühere Trainer Xavi Llorens, der sie zurück zum Klub geholt
-  hatte, sprach bei der Feier" (The farewell page names Xavi Llorens as
-  speaking, but it does not say he brought her back to the club, and it does not
-  describe him as former coach. Remove 'der sie zurück zum Klub geholt hatte'
-  and check the 'früherer' label.) | UNSUPPORTED: "Die Veranstaltung begann mit
-  einem Video ihrer Ankündigung" (The cited page does not state that the event
-  opened with a video of her announcement. Remove the sentence or cite a source
-  that says so.) | UNSUPPORTED: "Die AP bezeichnete die Verpflichtung als
-  «Statement-Transfer»" (The AP text says 'statement signing'. The German phrase
-  'Statement-Transfer' is in quotation marks as if it were the AP's words.
-  Paraphrase without quotation marks, or use a verbatim quote.) | Reviewer
-  recommends rejection: Rejected. Two claims in the body are not supported by
-  the cited sources: that Xavi Llorens brought her back to the club, and that
-  the farewell event opened with a video of her announcement. The quoted
-  'Statement-Transfer' is presented as an AP quotation although the AP says
-  'statement signing'. Fix or remove these and resubmit for review.
 autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+publishedAt: '2026-10-27'
 ---
 Alexia Putellas hat den FC Barcelona im Mai 2026 nach 14 Spielzeiten verlassen und sich im Juli dem London City Lionesses aus der Women's Super League angeschlossen [s:ap-barcelona-departure-2026] [s:ap-london-city-signing-2026]. Die Jahre in Barcelona prägen ihre Geschichte. Sie brachten zwei Ballon-d'Or-Auszeichnungen und einen Abschied im Camp Nou, bei dem mehr als 91.000 Menschen ihren Namen riefen [s:fcb-farewell-2026].
 

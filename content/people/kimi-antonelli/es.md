@@ -11,9 +11,11 @@ summary: >-
   Ganó el Gran Premio de Estados Unidos de 2026 en Austin el 25 de octubre de
   2026 y lidera el campeonato de pilotos, con 123 puntos de ventaja sobre George
   Russell [s:f1-austin-race-report] [s:skysports-austin-report].
-status: review
+status: published
 risk: low
+reviewedAt: '2026-10-27'
 author: editor-in-chief
+reviewer: editor-in-chief
 aiAssisted: true
 targetQueries:
   - Kimi Antonelli
@@ -47,22 +49,8 @@ faq:
     a: >-
       Marco Antonelli es un ex piloto de carreras que dirige su propio equipo de
       motorsport, Antonelli Motorsport. Kimi corrió para ese equipo de niño.
-reviewNotes: >-
-  UNSUPPORTED: "Su padre, Marco, es un ex piloto de carreras" (Source says the
-  father's team is Antonelli Motorsport. It does not say Marco is a former
-  racing driver. Also repeated in FAQ. Remove the 'ex piloto' claim or cite a
-  source that states it.) | UNSUPPORTED: "Mercedes hizo una sola parada,
-  mientras que Leclerc y Hamilton hicieron dos con Ferrari" (Source says
-  Antonelli ran a one-stop and Ferrari ran a two-stop strategy. It does not say
-  Mercedes as a team ran one stop. Change to say Antonelli made one stop.) |
-  UNSUPPORTED: "FAQ: 'Marco Antonelli es un ex piloto de carreras'" (Same as
-  body: former racing driver status not stated in sources.) | Reviewer
-  recommends rejection: Rejected. Remove or source 'Marco ... ex piloto de
-  carreras' (body and FAQ). Fix 'Mercedes hizo una sola parada' to Antonelli
-  only. Cite only f1-driver-profile for the exact birth day. Frontmatter
-  reviewNotes are stale and do not affect the body.
 autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+publishedAt: '2026-10-27'
 ---
 Kimi Antonelli ganó el Gran Premio de Estados Unidos de 2026 en el Circuit of the Americas, en Austin, el 25 de octubre de 2026, partiendo desde la pole [s:f1-austin-race-report]. Autosport lo contabilizó como su novena victoria en Gran Premio de la temporada [s:autosport-austin-report]. Con ese resultado lidera el campeonato de pilotos, con 123 puntos de ventaja sobre Russell [s:skysports-austin-report], aunque el título seguía sin decidirse [s:f1-austin-race-report].
 

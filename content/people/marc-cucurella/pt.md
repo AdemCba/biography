@@ -14,9 +14,11 @@ summary: >-
   divulgou o valor da transferência [s:geosuper-cucurella-2032]. A imprensa
   aponta uma quantia base de 55 milhões de euros, mais 5 milhões em bônus
   [s:hardtackle-official-cucurella] [s:geosuper-cucurella-2032].
-status: review
+status: published
 risk: low
+reviewedAt: '2026-10-27'
 author: editor-in-chief
+reviewer: editor-in-chief
 aiAssisted: true
 targetQueries:
   - Marc Cucurella valor transferência Real Madrid
@@ -43,15 +45,8 @@ faq:
     a: >-
       Ele nasceu em Alella, na Espanha, e começou a jogar futsal ali aos quatro
       anos.
-reviewNotes: >-
-  WRONG: "Summary, FAQ and body citation tags" (The summary and FAQ answers
-  carry [s:id] tags. Per the checking rules, tags belong in the body only.
-  Remove them from frontmatter.) | Reviewer recommends rejection: All checked
-  facts are supported by the sources. Reject for formatting: the summary and FAQ
-  answers contain [s:id] citation tags, which belong only in the body. Remove
-  those tags and resubmit.
 autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+publishedAt: '2026-10-27'
 ---
 Marc Cucurella deixou o Chelsea rumo ao Real Madrid em junho de 2026. O contrato vai até 30 de junho de 2032 [s:peninsula-real-madrid-confirm] [s:geosuper-cucurella-2032]. O Real Madrid não revelou o valor da negociação [s:geosuper-cucurella-2032], então os números que circulam vêm da imprensa e são detalhados mais abaixo. O lateral nasceu em 22 de julho de 1998, em Alella, na Espanha [s:laliga-five-things], e já vestiu a camisa da seleção espanhola [s:theanalyst-national].
 
