@@ -10,14 +10,15 @@ knownFor: >-
   YouTube
 summary: >-
   Casimiro Miguel, known as Cazé, is a Brazilian journalist and streamer who
-  became known through live reaction streams on Twitch. In November 2022 he was
-  the face of CazéTV, the YouTube channel that carried Brazil's World Cup
-  matches, and it set live viewing records that year. In 2026 its Brazil
-  knockout broadcast drew 21.1 million concurrent viewers.
-status: review
+  became known through live reaction streams on Twitch. Bloomberg Línea lists
+  him as a founder of CazéTV, the YouTube channel launched in November 2022 for
+  the Qatar World Cup. That year one of his YouTube lives drew 4.6 million views
+  during a Brazil match. In 2026 CazéTV's Brazil knockout broadcast drew 21.1
+  million concurrent viewers.
+status: approved
 risk: medium
-reviewedAt: '2026-10-26'
-reviewBy: '2027-04-26'
+reviewedAt: '2026-10-27'
+reviewBy: '2027-04-27'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -50,21 +51,21 @@ faq:
       A YouTube channel launched in November 2022 to cover the Qatar World Cup
       [s:bandab-casimiro-deixa-cazetv-2026]. Bloomberg Línea lists Casimiro as a
       founder [s:bloomberglinea-casimiro-miguel].
-autoReviews: 2
+autoReviews: 4
 ---
 On 28 November 2022, a live stream on Casimiro Miguel's YouTube channel reached 4.6 million views during the first half of Brazil's World Cup match against Switzerland [s:poder360-record-live-2022]. Poder360 called it his second straight record for the most-watched live on YouTube, after the previous mark held by the singer Marília Mendonça [s:poder360-record-live-2022]. Four years later, CazéTV ranked first in Tubefilter's global subscriber chart for the second week running [s:tubefilter-global-sub-top-50-2026].
 
 ## From Twitch reactions to a national audience
 
-Casimiro Miguel, known as Cazé, is a journalist and streamer [s:bloomberglinea-casimiro-miguel]. Tubefilter calls him a Brazilian creator [s:tubefilter-global-sub-top-50-2026]. Canaltech is the only source we found for his birthplace and birth month. It gives Rio de Janeiro and October 1993, with no day. He studied journalism at university without finishing the course [s:canaltech-streamer-do-ano]. He opened his Twitch channel in September 2018 [s:metropoles-homem-do-ano-2022].
+Casimiro Miguel, known as Cazé, is a journalist and streamer [s:bloomberglinea-casimiro-miguel]. Tubefilter calls him a Brazilian creator [s:tubefilter-global-sub-top-50-2026]. His Twitch channel is named casimito [s:twitch-casimito]. Canaltech is the only source we found for his birthplace and birth month. It gives Rio de Janeiro and October 1993, with no day. He studied journalism at university without finishing the course [s:canaltech-streamer-do-ano].
 
-Canaltech says he became widely known during the pandemic through reaction streams and by playing games such as FIFA and GTA [s:canaltech-545-mil-2022]. The turning point came on 24 January 2022. His stream of the exclusive pre-premiere of Netflix's documentary Neymar: O Caos Perfeito, with a surprise appearance by Neymar, drew a peak of about 545,000 viewers. Canaltech reported it as a Brazilian Twitch record [s:canaltech-545-mil-2022].
+Canaltech says he became widely known during the pandemic through reaction streams and by playing games such as FIFA and GTA [s:canaltech-545-mil-2022]. On 24 January 2022 he streamed the exclusive pre-premiere of Netflix's documentary Neymar: O Caos Perfeito, with a surprise appearance by Neymar. The stream drew a peak of about 545,000 viewers, which Canaltech reported as a Brazilian Twitch record for the largest overall broadcast [s:canaltech-545-mil-2022].
 
-By early March 2022, Correio Braziliense reported that YouTube wanted to host his live broadcasts, which then ran on Twitch. The report said his lives had reached more than 600,000 viewers connected at the same time [s:correio-youtube-2022]. The report describes his streams as often running into the early morning, focused on football and reactions to YouTube videos [s:correio-youtube-2022].
+By early March 2022, Correio Braziliense reported that YouTube wanted him to leave Twitch and stream live on YouTube. The report said his lives had reached more than 600,000 viewers connected at the same time [s:correio-youtube-2022]. It describes his streams as often running into the early morning, focused on football and reactions to YouTube videos [s:correio-youtube-2022].
 
 ## The 2022 World Cup and the start of CazéTV
 
-CazéTV was launched in November 2022 to cover the Qatar World Cup [s:bandab-casimiro-deixa-cazetv-2026]. The channel broadcast 22 matches of the tournament, in the format of a traditional football broadcast with a narrator and commentators [s:poder360-record-live-2022].
+CazéTV was launched in November 2022 during the Qatar World Cup [s:bandab-casimiro-deixa-cazetv-2026]. Bloomberg Línea gives his title on the channel as "Influencer/Fundador", meaning founder [s:bloomberglinea-casimiro-miguel]. The channel broadcast 22 matches of the tournament [s:poder360-record-live-2022].
 
 The audience numbers rose quickly. Poder360 is not consistent on the Switzerland stream: its body gives 4.6 million views, while its subtitle gives 4 million simultaneous accesses [s:poder360-record-live-2022].
 
@@ -72,20 +73,20 @@ The same article put CazéTV at 3.16 million subscribers and his personal channe
 
 ## Awards and public recognition
 
-In November 2022 GQ Brasil named him Homem do Ano in the digital content category. Metrópoles reported it on 3 November [s:metropoles-homem-do-ano-2022]. The same outlet says he had also won iBest's Twitcher do Ano and eSports Brasil's Personalidade do Ano [s:metropoles-homem-do-ano-2022]. Canaltech later named him Streamer of the Year at its sixth awards, in an article published in March 2023 [s:canaltech-streamer-do-ano].
+In November 2022 GQ Brasil named him Homem do Ano in the digital content category. Metrópoles reported it on 3 November [s:metropoles-homem-do-ano-2022]. A photo caption in the same report says he had won iBest's Twitcher do Ano and eSports Brasil's Personalidade do Ano, both for 2021 [s:metropoles-homem-do-ano-2022]. Canaltech later named him Streamer of the Year at its sixth awards, in an article published on 14 March 2023 [s:canaltech-streamer-do-ano].
 
-In the Metrópoles report he says he told his mother he would work to retire both of his parents, and that he once thought he would not make it in life [s:metropoles-homem-do-ano-2022].
+In the Metrópoles report he says he told his mother he would work to retire both of his parents. He also says he once thought he would not make it in life [s:metropoles-homem-do-ano-2022].
 
 ## The 2026 World Cup on YouTube
 
-For the 2026 World Cup, CazéTV again carried the matches on YouTube [s:tubefilter-global-sub-top-50-2026]. Tubefilter's chart for the week of 29 June to 5 July 2026 put CazéTV first, with 2.9 million subscribers gained that week and 38.9 million in total [s:tubefilter-global-sub-top-50-2026]. The article says a knockout broadcast of Brazil against Japan reached 21.1 million concurrent viewers [s:tubefilter-global-sub-top-50-2026]. A TNH1 report says the channel competed for audience with TV Globo during that tournament [s:tnh1-cazetv-2026].
+A TNH1 report says CazéTV competed for audience with TV Globo during the 2026 World Cup [s:tnh1-cazetv-2026]. Tubefilter's chart for the week of 29 June to 5 July 2026 put CazéTV first, with 2.9 million subscribers gained that week and 38.9 million in total [s:tubefilter-global-sub-top-50-2026]. The article says CazéTV's broadcast of Brazil's knockout match against Japan reached 21.1 million concurrent viewers [s:tubefilter-global-sub-top-50-2026].
 
 ## A change at the top of CazéTV
 
-On 9 September 2026 several outlets reported that Casimiro had left direct administrative control of CazéTV after four years [s:tnh1-cazetv-2026] [s:bandab-casimiro-deixa-cazetv-2026]. Operations now sit with LiveMode, a company that specialises in sports rights management. TNH1 says LiveMode was founded by the creators of Esporte Interativo [s:tnh1-cazetv-2026].
+On 9 September 2026 several outlets reported that Casimiro had left direct administrative control of CazéTV after four years [s:tnh1-cazetv-2026] [s:bandab-casimiro-deixa-cazetv-2026]. Operational control now passes to LiveMode, a company that manages sports rights [s:tnh1-cazetv-2026]. TNH1 says LiveMode was founded by the creators of Esporte Interativo [s:tnh1-cazetv-2026].
 
-According to the reports, Casimiro remains a partner and continues as the main presenter and ambassador of the brand [s:bandab-casimiro-deixa-cazetv-2026] [s:tnh1-cazetv-2026]. TNH1 describes the move as a strategic restructuring [s:tnh1-cazetv-2026]. Bandab attributes the news to the columnist Flávio Ricco of Portal Leo Dias, and neither report gives an effective date for the change [s:bandab-casimiro-deixa-cazetv-2026].
+According to the reports, Casimiro remains a partner in the holding company and continues as the main presenter and ambassador of the brand [s:bandab-casimiro-deixa-cazetv-2026] [s:tnh1-cazetv-2026]. TNH1 describes the move as a strategic restructuring and gives no date for the change [s:tnh1-cazetv-2026]. Bandab attributes the news to the columnist Flávio Ricco, of Portal Leo Dias [s:bandab-casimiro-deixa-cazetv-2026].
 
 ## Reading the subscriber numbers
 
-The figures for his channels depend on the date and the channel being counted. In March 2022 Correio Braziliense said his clips channel had nearly 2 million subscribers [s:correio-youtube-2022]. In November 2022 Poder360 gave CazéTV 3.16 million [s:poder360-record-live-2022]. Tubefilter's 38.9 million total is from July 2026 [s:tubefilter-global-sub-top-50-2026]. Each figure is accurate only for its own date and channel.
+The figures for his channels depend on the date and the channel being counted. In March 2022 Correio Braziliense said his clips channel had nearly 2 million subscribers [s:correio-youtube-2022]. In November 2022 Poder360 gave CazéTV 3.16 million [s:poder360-record-live-2022]. Tubefilter's 38.9 million total is from July 2026 [s:tubefilter-global-sub-top-50-2026]. The same Correio report gave his clips channel 582 million views in total [s:correio-youtube-2022]. Each figure is accurate only for its own date and channel.

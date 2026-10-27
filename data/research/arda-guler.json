@@ -1,0 +1,143 @@
+{
+  "worthWriting": true,
+  "reason": "Real Madrid midfielder and Turkey international with several solid sources, including the Turkish Football Federation (TFF) profile and squad pages. Contract reports from October 2026 are included as reported, not confirmed.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "tff-profile",
+      "url": "https://www.tff.org/Default.aspx?pageId=30&kisiId=1723820",
+      "title": "ARDA GÜLER - Futbolcu Bilgileri",
+      "publisher": "Türkiye Futbol Federasyonu (TFF)",
+      "type": "league-or-federation",
+      "lang": "tr"
+    },
+    {
+      "id": "tff-euro-2024-squad",
+      "url": "https://www.tff.org/default.aspx?pageID=1645",
+      "title": "EURO 2024 A Millî Takım Kadro Sayfası",
+      "publisher": "Türkiye Futbol Federasyonu (TFF)",
+      "type": "league-or-federation",
+      "lang": "tr"
+    },
+    {
+      "id": "tff-match-book-2025",
+      "url": "https://www.tff.org/Resources/TamSaha/Turkiye-Ispanya-Mac-Kitabi-07-09-2025/28-29/",
+      "title": "Türkiye - İspanya Maç Kitabı",
+      "publisher": "Türkiye Futbol Federasyonu (TFF)",
+      "type": "league-or-federation",
+      "lang": "tr"
+    },
+    {
+      "id": "dailysabah-contract-2031",
+      "url": "https://www.dailysabah.com/sports/football/real-madrid-arda-guler-agree-on-contract-extension-to-2031/amp",
+      "title": "Real Madrid, Arda Güler agree on contract extension to 2031",
+      "publisher": "Daily Sabah (citing Anadolu Agency)",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "tff-super-cup-2024",
+      "url": "https://www.tff.org/default.aspx?pageID=1269&ftxtID=45068",
+      "title": "Tebrikler Arda Güler - TFF'den Mesajlar",
+      "publisher": "Türkiye Futbol Federasyonu (TFF)",
+      "type": "league-or-federation",
+      "lang": "tr"
+    },
+    {
+      "id": "tff-tamsaha-2025",
+      "url": "https://www.tff.org/Resources/Tamsaha/247/34-35/",
+      "title": "TamSaha 247. Sayı / Haziran 2025",
+      "publisher": "Türkiye Futbol Federasyonu (TFF)",
+      "type": "league-or-federation",
+      "lang": "tr"
+    },
+    {
+      "id": "hurriyet-transfer-2023",
+      "url": "https://hurriyetdailynews.com/arda-guler-becomes-turkiyes-most-expensive-player-184519",
+      "title": "Arda Güler becomes Türkiye's most expensive player",
+      "publisher": "Hürriyet Daily News",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "soccerway-transfer-2023",
+      "url": "https://br.soccerway.com/noticias/oficial-real-madrid-anuncia-a-contratacao-de-arda-guler-joia-do-fenerbahce/veAkBZIU",
+      "title": "Oficial: Real Madrid anuncia a contratação de Arda Güler, joia do Fenerbahçe",
+      "publisher": "Soccerway",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "beinsports-latvia-2023",
+      "url": "https://beinsports.com.tr/haber/arda-guler-milli-takim-ile-tarihe-gecti",
+      "title": "Arda Güler A Milli Takım tarihine geçti",
+      "publisher": "beIN Sports Türkiye",
+      "type": "press",
+      "lang": "tr"
+    },
+    {
+      "id": "cnnturk-wales-2023",
+      "url": "https://cnnturk.com/spor/futbol/arda-guler-milli-takimin-en-genc-golcusu-oldu",
+      "title": "Arda Güler milli takımın en genç golcusu oldu",
+      "publisher": "CNN Türk",
+      "type": "press",
+      "lang": "tr"
+    },
+    {
+      "id": "fichajes-contract-2032",
+      "url": "https://www.fichajes.net/en/news/total-trust-in-arda-guler-20260910.html",
+      "title": "Total Trust in Arda Güler",
+      "publisher": "Fichajes.net (citing AS)",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "cryptobriefing-contract-2031",
+      "url": "https://cryptobriefing.com/real-madrid-arda-guler-contract-2031/",
+      "title": "Real Madrid weighing Arda Güler contract extension until 2031",
+      "publisher": "Crypto Briefing",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "2005-02-25",
+      "sources": [
+        "tff-profile",
+        "tff-match-book-2025"
+      ],
+      "note": "TFF profile gives 25 Şubat 2005; TFF match book gives 25.02.2005."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Altındağ, Ankara",
+      "sources": [
+        "tff-profile",
+        "tff-match-book-2025"
+      ],
+      "note": "TFF profile gives ALTINDAĞ (a district of Ankara province); TFF match book gives Ankara. Sources disagree at district level, so the page should say Altındağ, Ankara only if the reader needs the district."
+    },
+    "nationality": {
+      "value": "TR",
+      "sources": [
+        "tff-profile"
+      ],
+      "note": "TFF profile lists nationality as TC; mapped to ISO 3166-1 alpha-2 TR."
+    }
+  },
+  "targetQueries": [
+    "Arda Güler contract",
+    "Arda Güler contract 2031",
+    "Arda Güler new contract Real Madrid",
+    "Arda Güler birth date",
+    "Arda Güler birthplace",
+    "Arda Güler Turkey national team caps",
+    "Arda Güler Real Madrid",
+    "Arda Güler Fenerbahçe",
+    "How old is Arda Güler"
+  ],
+  "gapNote": "Real Madrid player and news pages returned error pages when opened, so no club-side confirmation of the contract was found. Reports differ on the end year: Daily Sabah (Anadolu, citing AS) says 2031 and Fichajes.net (citing AS) says June 2032; Crypto Briefing says the current deal runs to 30 June 2029 and describes the extension as expected, not signed. No official announcement was found. TFF profile club and contract fields are out of date. Top results mostly repeat contract reports without a club statement."
+}

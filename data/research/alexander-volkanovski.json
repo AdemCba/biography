@@ -1,0 +1,78 @@
+{
+  "worthWriting": true,
+  "reason": "Current UFC featherweight champion (retained title by second-round TKO over Movsar Evloev at UFC 333, 24 Oct 2026), former two-division champion with a long documented title history on the official UFC profile. Three or more solid sources.",
+  "wikidata": "Q30123133",
+  "importance": 4,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "ufc-athlete-volkanovski",
+      "url": "https://www.ufc.com/athlete/alexander-volkanovski",
+      "title": "Alexander Volkanovski - UFC Athlete Profile",
+      "publisher": "UFC",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "depor-ufc333-result",
+      "url": "https://depor.com/en/us-live/who-won-alexander-volkanovski-vs-movsar-evloev-fight-ufc-333-main-event-result-full-card-nnda-nnrt-noticia/",
+      "title": "Who won Alexander Volkanovski vs Movsar Evloev? UFC 333 main event result",
+      "publisher": "Depor",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "cagesidepress-ufc333-weighin",
+      "url": "https://cagesidepress.com/2026/10/23/ufc-333-volkanovski-vs-evloev-weigh-in-results/",
+      "title": "UFC 333: Volkanovski vs Evloev weigh-in results",
+      "publisher": "Cageside Press",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "thesportsdb-volkanovski",
+      "url": "https://www.thesportsdb.com/player/34171669-alexander-volkanovski?ra=1",
+      "title": "Alexander Volkanovski - TheSportsDB player page",
+      "publisher": "TheSportsDB",
+      "type": "database",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1988-09-29",
+      "sources": [
+        "thesportsdb-volkanovski"
+      ],
+      "note": "UFC profile shows age only (38). TheSportsDB states born 29 September 1988. One search snippet gave 28 September; treated as an outlier."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Wollongong, New South Wales, Australia",
+      "sources": [
+        "ufc-athlete-volkanovski"
+      ],
+      "note": "TheSportsDB gives Shellharbour, New South Wales. Record both if stated; UFC is the primary source used."
+    },
+    "nationality": {
+      "value": "AU",
+      "sources": [
+        "thesportsdb-volkanovski"
+      ],
+      "note": "TheSportsDB calls him an Australian professional mixed martial artist."
+    }
+  },
+  "targetQueries": [
+    "Alexander Volkanovski",
+    "Alexander Volkanovski record",
+    "Alexander Volkanovski vs Movsar Evloev result",
+    "UFC 333 results",
+    "Alexander Volkanovski UFC titles",
+    "Alexander Volkanovski Islam Makhachev",
+    "Alexander Volkanovski Ilia Topuria",
+    "Alexander Volkanovski age",
+    "Alexander Volkanovski nickname The Great",
+    "Alexander Volkanovski Wollongong"
+  ],
+  "gapNote": "Search results still show a stale UFC profile snapshot (27-4-0 record, pre-2026 fights). The live UFC page now shows 29-4-0 and the UFC 333 result, so a dated, sourced page on the title defence and his full featherweight/lightweight history fills a real gap. The official UFC page does not state a date of birth, so birthDate rests on a database source."
+}

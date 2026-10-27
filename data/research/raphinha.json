@@ -1,0 +1,85 @@
+{
+  "worthWriting": true,
+  "reason": "Current FC Barcelona and Brazil international winger with an official club profile and several dated press reports from Sept and Oct 2026. Contract extension reported as near completion, not confirmed by a club announcement.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "fcbarcelona-profile",
+      "url": "https://www.fcbarcelona.com/en/players/24156",
+      "title": "Raphinha - FC Barcelona first team player profile",
+      "publisher": "FC Barcelona",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "beinsports-contract",
+      "url": "https://www.beinsports.com/en-us/soccer/la-liga/articles/raphinha-nears-barcelona-contract-extension-through-2030-2026-09-19",
+      "title": "Raphinha Nears Barcelona Contract Extension Through 2030",
+      "publisher": "beIN Sports",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "worldsoccertalk-galatasaray-preview",
+      "url": "https://worldsoccertalk.com/news/why-is-raphinha-not-playing-for-barcelona-vs-galatasaray-in-2026-27-uefa-champions-league/",
+      "title": "Why is Raphinha not playing for Barcelona vs Galatasaray in 2026-27 UEFA Champions League",
+      "publisher": "World Soccer Talk",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "dailysabah-galatasaray-result",
+      "url": "https://www.dailysabah.com/sports/football/galatasarays-champions-league-woes-deepen-after-4-1-loss-to-barca",
+      "title": "Galatasaray's Champions League woes deepen after 4-1 loss to Barca",
+      "publisher": "Daily Sabah",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "thestar-australia-thigh",
+      "url": "https://www.thestar.com.my/sport/football/2026/09/30/soccer-raphinha-leaves-brazil-camp-with-swelling-in-right-thigh-after-injury-scare",
+      "title": "Raphinha leaves Brazil camp with swelling in right thigh after injury scare",
+      "publisher": "The Star (Reuters)",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1996-12-14",
+      "sources": [
+        "fcbarcelona-profile"
+      ],
+      "note": "Date of birth as listed on the official club profile."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Porto Alegre, Brazil",
+      "sources": [
+        "fcbarcelona-profile"
+      ],
+      "note": "Place of birth as listed on the official club profile."
+    },
+    "nationality": {
+      "value": "BR",
+      "sources": [
+        "fcbarcelona-profile"
+      ],
+      "note": "Brazil international; the profile lists a Brazilian birthplace. No explicit nationality field was found."
+    }
+  },
+  "targetQueries": [
+    "Raphinha contract extension 2030",
+    "Raphinha Barcelona contract",
+    "Raphinha thigh injury",
+    "Raphinha Galatasaray",
+    "Raphinha Brazil national team",
+    "Raphinha birthplace",
+    "Raphinha full name",
+    "Raphinha Getafe",
+    "Raphinha stats Barcelona"
+  ],
+  "gapNote": "Press coverage is split between the contract (near-complete, not officially announced) and injury news. The official club profile gives the full name and birth details, which a short sourced page can state cleanly. The Oct 2026 thigh absences were precautionary per Flick and the club; the October 2026 Galatasaray match (4-1, 13 Oct) is confirmed by two reports."
+}

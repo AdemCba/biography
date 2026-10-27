@@ -1,0 +1,118 @@
+{
+  "id": "raphinha",
+  "name": "Raphinha",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1996-12-14",
+      "sources": [
+        "fcbarcelona-profile"
+      ],
+      "note": "Date of birth as listed on the official club profile."
+    },
+    "birthPlace": {
+      "value": "Porto Alegre, Brazil",
+      "sources": [
+        "fcbarcelona-profile"
+      ],
+      "note": "Place of birth as listed on the official club profile."
+    },
+    "nationality": {
+      "value": [
+        "BR"
+      ],
+      "sources": [
+        "fcbarcelona-profile"
+      ],
+      "note": "Brazil international; the profile lists a Brazilian birthplace. No explicit nationality field was found."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "fcbarcelona-profile",
+      "url": "https://www.fcbarcelona.com/en/players/24156",
+      "title": "Raphinha - FC Barcelona first team player profile",
+      "publisher": "FC Barcelona",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "fcb-renewal-2028",
+      "url": "https://www.fcbarcelona.com/en/news/4271553/agreement-to-renew-raphinhas-contract-to-2028",
+      "title": "Agreement to renew Raphinha's contract to 2028",
+      "publisher": "FC Barcelona",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "beinsports-contract",
+      "url": "https://www.beinsports.com/en-us/soccer/la-liga/articles/raphinha-nears-barcelona-contract-extension-through-2030-2026-09-19",
+      "title": "Raphinha Nears Barcelona Contract Extension Through 2030",
+      "publisher": "beIN Sports",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "worldsoccertalk-galatasaray-preview",
+      "url": "https://worldsoccertalk.com/news/why-is-raphinha-not-playing-for-barcelona-vs-galatasaray-in-2026-27-uefa-champions-league/",
+      "title": "Why is Raphinha not playing for Barcelona vs Galatasaray in 2026-27 UEFA Champions League",
+      "publisher": "World Soccer Talk",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "dailysabah-galatasaray-result",
+      "url": "https://www.dailysabah.com/sports/football/galatasarays-champions-league-woes-deepen-after-4-1-loss-to-barca",
+      "title": "Galatasaray's Champions League woes deepen after 4-1 loss to Barca",
+      "publisher": "Daily Sabah",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "thestar-australia-thigh",
+      "url": "https://www.thestar.com.my/sport/football/2026/09/30/soccer-raphinha-leaves-brazil-camp-with-swelling-in-right-thigh-after-injury-scare",
+      "title": "Raphinha leaves Brazil camp with swelling in right thigh after injury scare",
+      "publisher": "The Star (Reuters)",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "fcb-raphinha-guarantees",
+      "url": "https://www.fcbarcelona.com/en/news/4263663/raphinha-guarantees-goals",
+      "title": "Raphinha guarantees goals",
+      "publisher": "FC Barcelona",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "citizen-raphinha-2022",
+      "url": "http://citizen.digital/sports/raphinha-fulfills-childhood-dream-and-signs-for-barcelona-n302220",
+      "title": "Raphinha 'fulfills childhood dream' and signs for Barcelona",
+      "publisher": "Citizen Digital",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "sbtnews-thigh-2026",
+      "url": "https://sbtnews.sbt.com.br/noticia/brasil/raphinha-tem-lesao-confirmada-e-pode-desfalcar-selecao",
+      "title": "Raphinha tem lesão confirmada e pode desfalcar seleção",
+      "publisher": "SBT News",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "pt"
+    }
+  ]
+}

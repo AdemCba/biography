@@ -1,0 +1,240 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Volkanovski retained the UFC featherweight title with a second-round TKO of Movsar Evloev at UFC 333, Abu Dhabi, 24 Oct 2026",
+      "sourceIds": [
+        "depor-ufc333-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: defeated Evloev via TKO at 4:54 of round two; retained featherweight championship; Etihad Arena, Abu Dhabi, Saturday 24 Oct 2026."
+    },
+    {
+      "claim": "He won the belt from Max Holloway in 2019 and won it back from Diego Lopes in 2025",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile table: UFC 245 (14 Dec 2019) won featherweight title vs Holloway; UFC 314 (12 Apr 2025) won featherweight title vs Lopes."
+    },
+    {
+      "claim": "UFC 245 on 14 Dec 2019: unanimous decision over Max Holloway for first UFC title",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Table: Dec 14, 2019, UFC 245, Holloway, unanimous decision, Won featherweight title."
+    },
+    {
+      "claim": "UFC 251 on 11 Jul 2020: split decision over Holloway, defence",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Table: Jul 11, 2020, UFC 251, Holloway, split decision, Retained."
+    },
+    {
+      "claim": "Of the five title fights from UFC 245 to UFC 276, four went to the scorecards and one ended on strikes",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "245 UD, 251 split, 266 UD, 273 TKO, 276 UD: four decisions and one TKO."
+    },
+    {
+      "claim": "UFC 266 on 25 Sep 2021: unanimous decision over Brian Ortega",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Table: Sep 25, 2021, UFC 266, Ortega, unanimous decision, Retained."
+    },
+    {
+      "claim": "UFC 273 on 9 Apr 2022: retained by strikes over Chan Sung Jung",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Table: Apr 9, 2022, UFC 273, Jung, Strikes (TKO), Retained."
+    },
+    {
+      "claim": "UFC 276 on 2 Jul 2022: unanimous decision over Holloway",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Table: Jul 2, 2022, UFC 276, Holloway, unanimous decision, Retained."
+    },
+    {
+      "claim": "Before the Holloway title fight he beat Chad Mendes by TKO at UFC 232 (29 Dec 2018) and Jose Aldo by unanimous decision at UFC 237 (11 May 2019); neither is listed as a title bout",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Table: Dec 29, 2018 UFC 232 Mendes, Strikes (TKO); May 11, 2019 UFC 237 Aldo, unanimous decision; title status Not stated for both."
+    },
+    {
+      "claim": "UFC 284 on 12 Feb 2023: unanimous decision loss to Islam Makhachev in a lightweight title bout",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Table: Feb 12, 2023, UFC 284, Makhachev, Loss, unanimous decision, Lightweight title bout."
+    },
+    {
+      "claim": "UFC 290 on 8 Jul 2023: kept featherweight belt, won by strikes over Yair Rodriguez, between the two Makhachev fights",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Table: Jul 8, 2023, UFC 290, Rodriguez, Strikes (TKO), Retained featherweight title; sits between UFC 284 (Feb 2023) and UFC 294 (Oct 2023)."
+    },
+    {
+      "claim": "UFC 294 on 21 Oct 2023: Makhachev knocked him out in round one",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Table: Oct 21, 2023, UFC 294, Makhachev, KO, round 1, 3:06, Lightweight title bout."
+    },
+    {
+      "claim": "The featherweight belt stayed with him until UFC 298",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Table: UFC 298 Loss to Topuria, Lost featherweight title; prior fights retained it."
+    },
+    {
+      "claim": "UFC 298 on 17 Feb 2024: Ilia Topuria knocked him out in round two and took the title",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Table: Feb 17, 2024, UFC 298, Topuria, KO, round 2, 3:32, Lost featherweight title."
+    },
+    {
+      "claim": "UFC 314 on 12 Apr 2025: won the belt back by unanimous decision over Diego Lopes",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Table: Apr 12, 2025, UFC 314, Lopes, unanimous decision, Won featherweight title."
+    },
+    {
+      "claim": "UFC 325 on 31 Jan 2026: retained the title with a unanimous decision over Lopes",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Table: Jan 31, 2026, UFC 325, Lopes, unanimous decision, Retained featherweight title."
+    },
+    {
+      "claim": "Through UFC 325 the title fights on his profile total eight wins and three losses; the losses were the two Makhachev bouts and the Topuria bout",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Count from table: wins at 245, 251, 266, 273, 276, 290, 314, 325 (8); losses at 284, 294, 298 (3)."
+    },
+    {
+      "claim": "UFC 333 took place at Etihad Arena, Abu Dhabi, UAE, on Saturday 24 Oct 2026",
+      "sourceIds": [
+        "depor-ufc333-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Source gives venue, city, country and date."
+    },
+    {
+      "claim": "Evloev was finally getting his shot at featherweight gold; the bout was billed as the UFC featherweight championship",
+      "sourceIds": [
+        "cagesidepress-ufc333-weighin"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: Evloev 'finally gets his shot at featherweight gold'; listing reads 'for the UFC featherweight championship'."
+    },
+    {
+      "claim": "At the weigh-in Volkanovski came in at 144.5 pounds and Evloev at 145",
+      "sourceIds": [
+        "cagesidepress-ufc333-weighin"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: Volkanovski 144.5, Evloev 145."
+    },
+    {
+      "claim": "Follow-up ground strikes led referee Marc Goddard to stop it with six seconds left in round two, at 4:54; result was a TKO by punches",
+      "sourceIds": [
+        "depor-ufc333-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Source quotes referee Marc Goddard, six seconds remaining, 4:54, TKO by punches."
+    },
+    {
+      "claim": "Reports describe a retained title, Volkanovski keeping the belt he had held since UFC 314",
+      "sourceIds": [
+        "depor-ufc333-result",
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Depor: 'retained his UFC featherweight championship'. Profile: won belt at UFC 314 and retained at UFC 325, so held continuously since 314."
+    },
+    {
+      "claim": "UFC profile: record 29-4-0 and age 38",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: 29-4-0, Age 38."
+    },
+    {
+      "claim": "TheSportsDB gives birth date 29 September 1988",
+      "sourceIds": [
+        "thesportsdb-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'born 29 September 1988'."
+    },
+    {
+      "claim": "UFC gives nickname 'The Great' and ranks him number two pound-for-pound",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: nickname 'The Great'; #2 PFP."
+    },
+    {
+      "claim": "Birthplace: UFC says Wollongong, Australia; TheSportsDB says Shellharbour, New South Wales",
+      "sourceIds": [
+        "ufc-athlete-volkanovski",
+        "thesportsdb-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: Wollongong, Australia. TheSportsDB: Shellharbour, New South Wales."
+    },
+    {
+      "claim": "UFC profile still shows him as the featherweight title holder, and UFC 333 is the most recent entry",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: 'UFC featherweight title holder'; UFC 333 is the top table row."
+    },
+    {
+      "claim": "Nationality Australian",
+      "sourceIds": [
+        "thesportsdb-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'an Australian professional mixed martial artist'."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Gives a dated title timeline from the UFC fight table, the Mendes and Aldo context, a weigh-in and result detail, and flags the birthplace conflict between sources.",
+  "decision": "approve",
+  "summary": "All checked claims match the cited sources. The removed claims (five defences attributed to the profile, 11 straight title fights) are gone, the belt date is corrected to UFC 314, and the UFC 290 chronology is correct."
+}

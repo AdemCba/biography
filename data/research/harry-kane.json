@@ -1,0 +1,66 @@
+{
+  "worthWriting": true,
+  "reason": "Globally famous England and Bayern Munich striker; Ballon d'Or shortlist and favourite in 2026; multiple fetched sources including the England federation.",
+  "wikidata": "",
+  "importance": 5,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "fa-kane-100-caps",
+      "url": "https://www.englandfootball.com/articles/2024/Sep/09/Celebrating-Harry-Kane-100-caps-in-stats",
+      "title": "Celebrating Harry Kane 100 caps in stats",
+      "publisher": "England Football (The FA)",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "fa-ballon-dor-nominees-2026",
+      "url": "https://www.englandfootball.com/articles/2026/Sep/08/england-mens-ballon-dOr-nominees-in-profile-20260908",
+      "title": "England men's Ballon d'Or nominees in profile",
+      "publisher": "England Football (The FA)",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "sky-ballon-dor-favourite-2026",
+      "url": "https://www.skysports.com/share/13582892",
+      "title": "Ballon d'Or 2026 shortlist and favourites",
+      "publisher": "Sky Sports",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "tnt-bayern-signing-2023",
+      "url": "https://www.tntsports.co.uk/football/transfers/2023-2024/harry-kane-bayern-munich-sign-striker-from-tottenham-for-club-record-fee_sto9726549/story.shtml",
+      "title": "Harry Kane: Bayern Munich sign England captain from Tottenham Hotspur for club-record fee",
+      "publisher": "TNT Sports",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "nst-bayern-extension-talks-2026",
+      "url": "https://www.nst.com.my/amp/sports/football/2026/08/1521232/kane-confirms-talks-bayern-extension",
+      "title": "Kane confirms talks on Bayern extension",
+      "publisher": "New Straits Times",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": null,
+    "deathDate": null,
+    "birthPlace": null,
+    "nationality": null
+  },
+  "targetQueries": [
+    "Harry Kane Ballon d'Or 2026",
+    "Harry Kane Bayern Munich contract extension",
+    "Harry Kane England record goals",
+    "Harry Kane Bayern Munich transfer 2023",
+    "Harry Kane England captain caps",
+    "Harry Kane Tottenham record scorer",
+    "Harry Kane hat-tricks England",
+    "Harry Kane World Cup goals"
+  ],
+  "gapNote": "Coverage is mostly press. The FA pages give the England record and the 2026 shortlist, but the search snippets do not show a confirmed winner. The page should state only what is sourced: he was the bookmakers' favourite before the 26 October 2026 ceremony, and Bayern and Kane have confirmed talks on an extension (no signed deal reported). Birth date and birthplace are not confirmed from a source opened in this run, so they are omitted."
+}

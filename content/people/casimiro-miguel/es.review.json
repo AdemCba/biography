@@ -1,273 +1,296 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "model": "claude-haiku-5-5",
   "approved": true,
   "reasons": [],
   "claims": [
     {
-      "claim": "El 28 de noviembre de 2022 una transmisión llegó a 4,6 millones de visualizaciones durante la primera parte de Brasil contra Suiza",
+      "claim": "4.6 million views during the first half of Brazil v Switzerland, 28 Nov 2022 (live on Casimiro's channel)",
       "sourceIds": [
         "poder360-record-live-2022"
       ],
       "verdict": "confirmed",
-      "note": "Cuerpo: 4,6 millones de visualizaciones a las 13h28, durante el 1º tiempo; publicado el 28 de noviembre de 2022."
+      "note": "Body: 4,6 milhões de visualizações às 13h28, durante o 1º tempo; published 28 Nov 2022."
     },
     {
-      "claim": "Poder360 lo describió como su segundo récord seguido de transmisión en directo más vista de YouTube, por delante de Marília Mendonça",
+      "claim": "Poder360 called it his second straight YouTube live record, after Marília Mendonça",
       "sourceIds": [
         "poder360-record-live-2022"
       ],
       "verdict": "confirmed",
-      "note": "Fuente: '2º recorde consecutivo de live mais assistida do YouTube'; el récord anterior era de Marília Mendonça."
+      "note": "Source: '2º recorde consecutivo de live mais assistida do YouTube'; previous holder Marília Mendonça."
     },
     {
-      "claim": "CazéTV ocupó el primer lugar del ranking global de suscriptores de Tubefilter durante la segunda semana consecutiva",
+      "claim": "CazéTV ranked first in Tubefilter's global subscriber chart for the second week running",
       "sourceIds": [
         "tubefilter-global-sub-top-50-2026"
       ],
       "verdict": "confirmed",
-      "note": "Fuente: '#1 ... for the second week in a row'."
+      "note": "Source: 'is #1 ... for the second week in a row'."
     },
     {
-      "claim": "Casimiro Miguel, conocido como Cazé, es periodista y streamer",
+      "claim": "Casimiro Miguel, known as Cazé, is a journalist and streamer",
       "sourceIds": [
         "bloomberglinea-casimiro-miguel"
       ],
       "verdict": "confirmed",
-      "note": "Fuente: 'Casimiro Miguel, también conhecido como Cazé, é jornalista e streamer.'"
+      "note": "Source: 'é jornalista e streamer'."
     },
     {
-      "claim": "Tubefilter lo llama creador brasileño",
+      "claim": "Tubefilter calls him a Brazilian creator",
       "sourceIds": [
         "tubefilter-global-sub-top-50-2026"
       ],
       "verdict": "confirmed",
-      "note": "Fuente: 'the Brazilian creator (whose real name is Casimiro Miguel)'."
+      "note": "Source: 'the Brazilian creator (whose real name is Casimiro Miguel)'."
     },
     {
-      "claim": "Nació en Río de Janeiro en octubre de 1993, sin día; Canaltech es la única fuente encontrada",
+      "claim": "His Twitch channel is named casimito",
+      "sourceIds": [
+        "twitch-casimito"
+      ],
+      "verdict": "confirmed",
+      "note": "Page title 'casimito - Twitch'; the cached page showed no bio, so only the handle is supported."
+    },
+    {
+      "claim": "Born in Rio de Janeiro in October 1993, no day; Canaltech is the only source found",
       "sourceIds": [
         "canaltech-streamer-do-ano"
       ],
       "verdict": "confirmed",
-      "note": "Fuente explícita: 'Casimiro nasceu no Rio de Janeiro, em outubro de 1993.' Solo una fuente; el texto lo dice."
+      "note": "Source: 'Casimiro nasceu no Rio de Janeiro, em outubro de 1993.'"
     },
     {
-      "claim": "Estudió periodismo en la universidad sin terminar la carrera",
+      "claim": "He studied journalism at university without finishing the course",
       "sourceIds": [
         "canaltech-streamer-do-ano"
       ],
       "verdict": "confirmed",
-      "note": "Fuente: 'estudou jornalismo na faculdade, mas não chegou a concluir o curso'."
+      "note": "Source: 'estudou jornalismo na faculdade, mas não chegou a concluir o curso'."
     },
     {
-      "claim": "Abrió su canal de Twitch en septiembre de 2018",
-      "sourceIds": [
-        "metropoles-homem-do-ano-2022"
-      ],
-      "verdict": "confirmed",
-      "note": "Fuente: 'criou um canal na Twitch em setembro de 2018'."
-    },
-    {
-      "claim": "Se dio a conocer durante la pandemia con transmisiones de reacciones, jugando FIFA y GTA",
+      "claim": "Became widely known during the pandemic through reaction streams, playing FIFA and GTA",
       "sourceIds": [
         "canaltech-545-mil-2022"
       ],
       "verdict": "confirmed",
-      "note": "Fuente: 'durante a pandemia', reacciones, 'games como FIFA e GTA'."
+      "note": "Source: 'ficou amplamente conhecido durante a pandemia'; reaction streams; FIFA and GTA named."
     },
     {
-      "claim": "El 24 de enero de 2022 el estreno previo del documental de Neymar alcanzó unos 545.000 espectadores; Canaltech lo reportó como récord brasileño de Twitch",
+      "claim": "24 Jan 2022 stream of the exclusive pre-premiere of Netflix's Neymar: O Caos Perfeito, with a surprise appearance by Neymar, peak about 545,000 viewers",
       "sourceIds": [
         "canaltech-545-mil-2022"
       ],
       "verdict": "confirmed",
-      "note": "Fuente: 'nesta segunda-feira (24)', publicado el 25/01/2022; 'cerca de 545 mil pessoas'; récord de la Twitch brasileña. La fecha completa se deduce del día de la semana y de la publicación."
+      "note": "Source: 'cerca de 545 mil pessoas'; 'Neymar Jr. apareceu de surpresa na live'; event on Monday 24th, article 25/01/2022."
     },
     {
-      "claim": "A principios de marzo de 2022 Correio Braziliense informó de que YouTube quería alojar sus transmisiones, con más de 600.000 espectadores conectados",
+      "claim": "Canaltech reported it as a Brazilian Twitch record for the largest overall broadcast (the record wording, not a history claim)",
+      "sourceIds": [
+        "canaltech-545-mil-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'recorde da Twitch brasileira de maior transmissão geral'."
+    },
+    {
+      "claim": "YouTube wanted him to leave Twitch and stream live on YouTube (early March 2022)",
       "sourceIds": [
         "correio-youtube-2022"
       ],
       "verdict": "confirmed",
-      "note": "Publicado el 04/03/2022: 'mais de 600 mil telespectadores conectados simultaneamente'."
+      "note": "Source: 'A ideia do YouTube é que o jornalista deixe a Twitch'; published 04/03/2022."
     },
     {
-      "claim": "CazéTV se lanzó en noviembre de 2022 para cubrir el Mundial de Catar",
+      "claim": "His lives reached more than 600,000 viewers connected at the same time",
+      "sourceIds": [
+        "correio-youtube-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'mais de 600 mil telespectadores conectados simultaneamente'."
+    },
+    {
+      "claim": "Streams often run into the early morning, focused on football and reactions to YouTube videos",
+      "sourceIds": [
+        "correio-youtube-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'normalmente viram a madrugada, são focadas em futebol e reações a vídeos do YouTube'."
+    },
+    {
+      "claim": "CazéTV was launched in November 2022 during the Qatar World Cup",
       "sourceIds": [
         "bandab-casimiro-deixa-cazetv-2026"
       ],
       "verdict": "confirmed",
-      "note": "Fuente: 'lançada em novembro de 2022, durante a Copa do Mundo do Catar'."
+      "note": "Source: 'A CazéTV foi lançada em novembro de 2022, durante a Copa do Mundo do Catar.'"
     },
     {
-      "claim": "El canal emitió 22 partidos, con formato de retransmisión tradicional con narrador y comentaristas",
+      "claim": "Bloomberg Línea lists him as Influencer/Fundador of CazéTV (founder)",
+      "sourceIds": [
+        "bloomberglinea-casimiro-miguel"
+      ],
+      "verdict": "confirmed",
+      "note": "Source header: 'Influencer/Fundador| CazéTV'."
+    },
+    {
+      "claim": "The channel broadcast 22 matches of the tournament",
       "sourceIds": [
         "poder360-record-live-2022"
       ],
       "verdict": "confirmed",
-      "note": "Fuente: 'transmitir 22 partidas do torneio'; 'formato tradicional ... com narrador e comentaristas'."
+      "note": "Source: '22 partidas do torneio'."
     },
     {
-      "claim": "Sobre la transmisión contra Suiza, el cuerpo dice 4,6 millones de visualizaciones y el subtítulo 4 millones de accesos simultáneos",
+      "claim": "Poder360 body gives 4.6 million views; subtitle gives 4 million simultaneous accesses",
       "sourceIds": [
         "poder360-record-live-2022"
       ],
       "verdict": "confirmed",
-      "note": "Subtítulo: '4 milhões de acessos simultâneos'; cuerpo: '4,6 milhões de visualizações'."
+      "note": "Subtitle: '4 milhões de acessos simultâneos'; body: '4,6 milhões de visualizações'."
     },
     {
-      "claim": "CazéTV tenía 3,16 millones de suscriptores y su canal personal 859.000, según Poder360",
+      "claim": "Poder360 gave CazéTV 3.16 million subscribers and his personal channel 859,000, with no other date than publication",
       "sourceIds": [
         "poder360-record-live-2022"
       ],
       "verdict": "confirmed",
-      "note": "Fuente: '3,16 milhões de inscritos' y '859 mil'. Sin fecha más allá de la publicación (28 nov 2022)."
+      "note": "Source: 'tem 3,16 milhões de inscritos' and '859 mil'; article dated 28 Nov 2022."
     },
     {
-      "claim": "GQ Brasil lo nombró Homem do Ano en contenido digital en noviembre de 2022; Metrópoles lo informó el 3 de noviembre",
+      "claim": "GQ Brasil named him Homem do Ano in the digital content category, November 2022; Metrópoles reported it on 3 November",
       "sourceIds": [
         "metropoles-homem-do-ano-2022"
       ],
       "verdict": "confirmed",
-      "note": "Fuente: 'quinta-feira (3/11)', Homem do Ano, Conteúdo Digital, GQ Brasil."
+      "note": "Source: 'Homem do Ano, na categoria Conteúdo Digital pela GQ Brasil'; dated 03/11/2022."
     },
     {
-      "claim": "También había ganado el Twitcher do Ano de iBest y el Personalidade do Ano de eSports Brasil (sin año)",
+      "claim": "He had also won iBest's Twitcher do Ano and eSports Brasil's Personalidade do Ano, both for 2021",
       "sourceIds": [
         "metropoles-homem-do-ano-2022"
       ],
       "verdict": "confirmed",
-      "note": "La fuente cita ambos premios sin fechar las victorias; se quitó el año 2021 del texto."
+      "note": "Photo caption refers to 2021 awards: iBest 'Twitcher do Ano', eSports Brasil 'Personalidade do Ano'."
     },
     {
-      "claim": "Canaltech lo eligió streamer del año en su sexta edición de premios, en un artículo de marzo de 2023",
+      "claim": "Canaltech named him Streamer of the Year at its sixth awards, article published March 2023",
       "sourceIds": [
         "canaltech-streamer-do-ano"
       ],
       "verdict": "confirmed",
-      "note": "Fuente: 'streamer do ano no 6º Prêmio Canaltech', publicado el 14/03/2023."
+      "note": "Source: 'streamer do ano no 6º Prêmio Canaltech'; published 14/03/2023."
     },
     {
-      "claim": "Le dijo a su madre que trabajaría para jubilar a sus padres y que alguna vez pensó que no iba a salir adelante en la vida",
+      "claim": "He told his mother he would work to retire both parents; he once thought he would not make it in life",
       "sourceIds": [
         "metropoles-homem-do-ano-2022"
       ],
       "verdict": "confirmed",
-      "note": "Fuente: 'Eu falei para a minha mãe...' y 'Tinha para mim que eu não ia dar certo na vida'."
+      "note": "Quotes: 'Se prepara que eu vou trabalhar para aposentar vocês'; 'Tinha para mim que eu não ia dar certo na vida'."
     },
     {
-      "claim": "Para el Mundial de 2026 CazéTV volvió a emitir los partidos en YouTube",
-      "sourceIds": [
-        "tubefilter-global-sub-top-50-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Fuente: 'broadcasting every match of the World Cup on YouTube'."
-    },
-    {
-      "claim": "Ranking de Tubefilter del 29 de junio al 5 de julio de 2026: CazéTV primero, 2,9 millones de suscriptores esa semana y 38,9 millones en total",
-      "sourceIds": [
-        "tubefilter-global-sub-top-50-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Semana del 07/05/2026; 2.900.000 esa semana; 38.900.000 en total."
-    },
-    {
-      "claim": "Una transmisión de eliminatoria entre Brasil y Japón llegó a 21,1 millones de espectadores simultáneos",
-      "sourceIds": [
-        "tubefilter-global-sub-top-50-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Fuente: 'concurrent live audience of 21.1 million viewers'."
-    },
-    {
-      "claim": "TNH1 dice que el canal compitió por la audiencia con TV Globo durante el torneo",
+      "claim": "TNH1 says CazéTV competed for audience with TV Globo during the 2026 World Cup",
       "sourceIds": [
         "tnh1-cazetv-2026"
       ],
       "verdict": "confirmed",
-      "note": "Fuente: 'chegou a competir pela audiência contra a TV Globo no Mundial de 2026'."
+      "note": "Source: 'chegou a competir pela audiência contra a TV Globo no Mundial de 2026'."
     },
     {
-      "claim": "El 9 de septiembre de 2026 varios medios informaron de que dejó la administración directa de CazéTV tras cuatro años",
+      "claim": "Tubefilter chart for 29 June to 5 July 2026: CazéTV first, 2.9 million gained that week, 38.9 million total",
+      "sourceIds": [
+        "tubefilter-global-sub-top-50-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: week June 29 - July 5 2026; 2.9 million weekly; total 38,900,000."
+    },
+    {
+      "claim": "CazéTV's broadcast of Brazil's knockout match against Japan reached 21.1 million concurrent viewers",
+      "sourceIds": [
+        "tubefilter-global-sub-top-50-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'concurrent live audience of 21.1 million viewers' for the Brazil vs Japan knockout broadcast."
+    },
+    {
+      "claim": "On 9 Sep 2026 outlets reported Casimiro left direct administrative control of CazéTV after four years",
       "sourceIds": [
         "tnh1-cazetv-2026",
         "bandab-casimiro-deixa-cazetv-2026"
       ],
       "verdict": "confirmed",
-      "note": "Publicado el 09/09/2026; 'após quatro anos'; Bandab: 'deixou' la gestión directa."
+      "note": "TNH1 'após quatro anos'; Bandab published 09/09/2026."
     },
     {
-      "claim": "Las operaciones pasan a LiveMode, empresa de gestión de derechos deportivos fundada por los creadores de Esporte Interativo",
+      "claim": "Operational control now passes to LiveMode, a sports rights management company",
       "sourceIds": [
-        "tnh1-cazetv-2026",
-        "bandab-casimiro-deixa-cazetv-2026"
+        "tnh1-cazetv-2026"
       ],
       "verdict": "confirmed",
-      "note": "TNH1: 'fundada pelos criadores do canal Esporte Interativo'; Bandab: LiveMode asume las operaciones y se especializa en derechos deportivos."
+      "note": "Source: 'transferindo o controle operacional para a LiveMode, empresa especializada em gestão de direitos esportivos'."
     },
     {
-      "claim": "Sigue como socio y como presentador principal y embajador de la marca",
+      "claim": "LiveMode was founded by the creators of Esporte Interativo",
+      "sourceIds": [
+        "tnh1-cazetv-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'fundada pelos criadores do canal Esporte Interativo'."
+    },
+    {
+      "claim": "Casimiro remains a partner and continues as main presenter and ambassador",
       "sourceIds": [
         "bandab-casimiro-deixa-cazetv-2026",
         "tnh1-cazetv-2026"
       ],
       "verdict": "confirmed",
-      "note": "Bandab: 'continua como sócio'; TNH1: 'sócio da holding' y 'principal apresentador e embaixador da marca'."
+      "note": "Bandab: 'permanecer como sócio da holding ... principal apresentador e embaixador'; TNH1: 'permanece como sócio da holding'."
     },
     {
-      "claim": "TNH1 describe el movimiento como una reestructuración estratégica",
+      "claim": "TNH1 describes the move as a strategic restructuring and gives no date for it",
       "sourceIds": [
         "tnh1-cazetv-2026"
       ],
       "verdict": "confirmed",
-      "note": "Fuente: 'uma reestruturação estratégica'."
+      "note": "Source: 'uma reestruturação estratégica'; no specific date given."
     },
     {
-      "claim": "Bandab atribuye la noticia al columnista Flávio Ricco, de Portal Leo Dias; ninguno de los dos informes da una fecha efectiva",
+      "claim": "Bandab attributes the news to columnist Flávio Ricco of Portal Leo Dias",
       "sourceIds": [
         "bandab-casimiro-deixa-cazetv-2026"
       ],
       "verdict": "confirmed",
-      "note": "Fuente: 'colunista Flávio Ricco, do Portal Leo Dias'; sin fecha efectiva (TNH1 tampoco la da)."
+      "note": "Source: 'colunista Flávio Ricco, do Portal Leo Dias'."
     },
     {
-      "claim": "En marzo de 2022 Correio Braziliense dijo que su canal de recortes tenía casi 2 millones de suscriptores",
+      "claim": "In March 2022 Correio Braziliense said his clips channel had nearly 2 million subscribers and 582 million views",
       "sourceIds": [
         "correio-youtube-2022"
       ],
       "verdict": "confirmed",
-      "note": "Fuente: 'Cortes do Casimiro' con 'quase 2 milhões de inscritos'."
+      "note": "Source: 'quase 2 milhões de inscritos e 582 milhões de visualizações'."
     },
     {
-      "claim": "El total de 38,9 millones de Tubefilter es de julio de 2026",
+      "claim": "Tubefilter's 38.9 million total is from July 2026",
       "sourceIds": [
         "tubefilter-global-sub-top-50-2026"
       ],
       "verdict": "confirmed",
-      "note": "Semana del 07/05/2026."
+      "note": "Chart for week ending 5 July 2026."
     },
     {
-      "claim": "Bloomberg Línea lo presenta como fundador del canal",
-      "sourceIds": [
-        "bloomberglinea-casimiro-miguel"
-      ],
-      "verdict": "confirmed",
-      "note": "Firma: 'Influencer/Fundador| CazéTV'."
-    },
-    {
-      "claim": "Un informe de septiembre de 2026 lo describe con 32 años",
+      "claim": "Summary and FAQ: Casimiro is 32 per a September 2026 report",
       "sourceIds": [
         "tnh1-cazetv-2026"
       ],
       "verdict": "confirmed",
-      "note": "Fuente: 'aos 32 anos', publicado el 09/09/2026."
+      "note": "Source: 'aos 32 anos'."
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "Cronología datada de Twitch a CazéTV, señala la incoherencia de Poder360, indica que el nacimiento tiene una sola fuente y separa las cifras de suscriptores por fecha y canal.",
+  "valueNote": "Localised for this readership: same verified facts, with local phrasing for dates, awards and the 2026 ownership change.",
   "decision": "approve",
-  "summary": "Todas las fechas y cifras se comprobaron en las fuentes abiertas. Lugar y mes de nacimiento dependen solo de Canaltech, y el texto lo dice. Correcciones: se quitaron la cifra de 3,5 millones y su fecha, el año 2021 de los premios iBest y eSports Brasil, y la frase sobre el streaming, ajustada a lo que dice la fuente."
+  "summary": "Verificado: cada afirmación coincide con la fuente abierta. Se cita una fuente oficial (perfil de Twitch) para el nombre del canal; el resto de datos proviene de medios verificados con fecha."
 }

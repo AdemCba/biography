@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Geboren am 14. Dezember 1996",
+      "sourceIds": [
+        "fcbarcelona-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profil: 14/12/1996."
+    },
+    {
+      "claim": "Geburtsort Porto Alegre, Brasilien",
+      "sourceIds": [
+        "fcbarcelona-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profil: Porto Alegre, Brazil."
+    },
+    {
+      "claim": "Angreifer, 176 cm, Rückennummer 11",
+      "sourceIds": [
+        "fcbarcelona-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profil: Forward, 176cm, Nummer 11."
+    },
+    {
+      "claim": "Drei Meistertitel in La Liga, Pokalsieg 2024/25, drei Supercup-Titel; Taça de Portugal und Taça da Liga 2018/19 mit Sporting",
+      "sourceIds": [
+        "fcbarcelona-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Palmarès des Profils stimmt."
+    },
+    {
+      "claim": "2024/25: 34 Tore und 22 Vorlagen; 13 in der Champions League, 18 in der Liga, eines im Pokal, zwei im Supercup",
+      "sourceIds": [
+        "fcb-raphinha-guarantees"
+      ],
+      "verdict": "confirmed",
+      "note": "Zahlen des Artikels."
+    },
+    {
+      "claim": "Saisonbericht vom 13. Mai 2025; je zehn Tore 2022/23 und 2023/24; 12 und 11 Vorlagen",
+      "sourceIds": [
+        "fcb-raphinha-guarantees"
+      ],
+      "verdict": "confirmed",
+      "note": "Datum und frühere Werte stimmen."
+    },
+    {
+      "claim": "Barcelona gab die Einigung mit Leeds zwei Tage vor der Vorstellung am 15. Juli 2022 bekannt",
+      "sourceIds": [
+        "citizen-raphinha-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Ankündigung am Mittwoch, Vorstellung am Freitag, 15. Juli."
+    },
+    {
+      "claim": "Zitate „die Erfüllung eines Kindheitstraums“ und „Es ist eine riesige Ehre, hier zu sein“",
+      "sourceIds": [
+        "citizen-raphinha-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Beide Zitate stehen im Artikel."
+    },
+    {
+      "claim": "Lokale Medien: rund 55 Mio. Euro plus 15 Mio. Zusatzzahlungen und Fünfjahresvertrag, nicht offiziell bestätigt",
+      "sourceIds": [
+        "citizen-raphinha-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Der Artikel nennt diese Angaben als Medienberichte."
+    },
+    {
+      "claim": "Verlängerung im Mai 2025 bis 30. Juni 2028 unterschrieben",
+      "sourceIds": [
+        "fcb-renewal-2028"
+      ],
+      "verdict": "confirmed",
+      "note": "Vereinsmitteilung vom 22. Mai 2025: Unterschrift und Laufzeit bis 30. Juni 2028; 2030 wird nicht erwähnt."
+    },
+    {
+      "claim": "Deco sagte auf der Versammlung im September 2026, die Gespräche seien praktisch abgeschlossen",
+      "sourceIds": [
+        "beinsports-contract"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN paraphrasiert. Im Text steht kein Titel für Deco mehr."
+    },
+    {
+      "claim": "beIN meldete eine Einigung bis Juni 2030, kurz vor der Unterschrift, nicht unterschrieben, ohne Vereinsstatement",
+      "sourceIds": [
+        "beinsports-contract"
+      ],
+      "verdict": "confirmed",
+      "note": "Der Artikel beschreibt das als kurz vor der Unterschrift."
+    },
+    {
+      "claim": "Das Vereinsprofil nennt keine Verlängerung und kein Vertragsende",
+      "sourceIds": [
+        "fcbarcelona-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Das Profil enthält keinen Vertragsabschnitt."
+    },
+    {
+      "claim": "Brasilien gewann am 19. Juni 3:0 gegen Haiti bei der WM 2026; Auswechslung in der ersten Halbzeit",
+      "sourceIds": [
+        "sbtnews-thigh-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Der Artikel nennt das Turnier Copa do Mundo."
+    },
+    {
+      "claim": "Die CBF nannte eine Muskelverletzung an der Rückseite des rechten Oberschenkels; kein Rückkehrtermin",
+      "sourceIds": [
+        "sbtnews-thigh-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Befund stimmt. Das Ziel ‚möglichst schnelle Rückkehr‘ wird nicht mehr genannt."
+    },
+    {
+      "claim": "Wahrscheinlich verpasst er das Spiel gegen Schottland am Mittwoch, 24. Juni",
+      "sourceIds": [
+        "sbtnews-thigh-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Der Artikel nennt Mittwoch, 24. Juni, und ‚provável desfalque‘ ohne Bestätigung."
+    },
+    {
+      "claim": "Brasilien gewann am 29. September 4:2 gegen Australien; Auswechslung zur Halbzeit",
+      "sourceIds": [
+        "thestar-australia-thigh"
+      ],
+      "verdict": "confirmed",
+      "note": "Ergebnis und Wechsel bestätigt."
+    },
+    {
+      "claim": "Verlassen des Kaders aus Vorsicht; Schwellung am rechten Oberschenkel; CBF: kleines Muskelödem",
+      "sourceIds": [
+        "thestar-australia-thigh"
+      ],
+      "verdict": "confirmed",
+      "note": "Reuters-Bericht mit CBF-Wortlaut."
+    },
+    {
+      "claim": "Flick: nicht spielberechtigt für das nächste Spiel und Istanbul; drei Muskelverletzungen in der Vorsaison; kein schwerer Riss",
+      "sourceIds": [
+        "worldsoccertalk-galatasaray-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Zitat und Begründung bestätigt."
+    },
+    {
+      "claim": "Verletzung während der Länderspielpause im Einsatz für Brasilien",
+      "sourceIds": [
+        "worldsoccertalk-galatasaray-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Der Artikel nennt dies."
+    },
+    {
+      "claim": "Barcelona gewann 4:1 im RAMS Park; Batrakov 27., Cancelo 43., López 50., Gordon drei Minuten später, Adeyemi 65.",
+      "sourceIds": [
+        "dailysabah-galatasaray-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Torschützen und Minuten stimmen."
+    },
+    {
+      "claim": "Der Spielbericht erwähnt Raphinha nicht",
+      "sourceIds": [
+        "dailysabah-galatasaray-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Er wird nicht genannt."
+    },
+    {
+      "claim": "Feyenoord 5:1 im Camp Nou am 9. September, zwei Tore von Raphinha; Galatasaray verlor 1:3 gegen Sporting",
+      "sourceIds": [
+        "worldsoccertalk-galatasaray-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Die Vorschau nennt beide Ergebnisse."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Stellt die Vereinsverlängerung bis 2028 neben die Meldung vom September 2026 zu einem Vertrag bis 2030, dazu eine datierte Verletzungschronologie, die die üblichen Ergebnisse nicht bieten.",
+  "decision": "approve",
+  "summary": "Alle zitierten Angaben stimmen mit den Quellen überein. Die Verlängerung bis 2030 bleibt als gemeldet, nicht bestätigt, die vom Verein bestätigte Verlängerung bis 2028 steht getrennt. Das Datum 24. Juni und das Etikett Weltmeisterschaft stehen im zitierten SBT-Artikel."
+}

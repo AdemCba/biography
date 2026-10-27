@@ -1,0 +1,74 @@
+{
+  "id": "alexander-volkanovski",
+  "name": "Alexander Volkanovski",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 4,
+  "wikidata": "Q30123133",
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1988-09-29",
+      "sources": [
+        "thesportsdb-volkanovski"
+      ],
+      "note": "UFC profile shows age only (38). TheSportsDB states born 29 September 1988. One search snippet gave 28 September; treated as an outlier."
+    },
+    "birthPlace": {
+      "value": "Wollongong, New South Wales, Australia",
+      "sources": [
+        "ufc-athlete-volkanovski"
+      ],
+      "note": "TheSportsDB gives Shellharbour, New South Wales. Record both if stated; UFC is the primary source used."
+    },
+    "nationality": {
+      "value": [
+        "AU"
+      ],
+      "sources": [
+        "thesportsdb-volkanovski"
+      ],
+      "note": "TheSportsDB calls him an Australian professional mixed martial artist."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "ufc-athlete-volkanovski",
+      "url": "https://www.ufc.com/athlete/alexander-volkanovski",
+      "title": "Alexander Volkanovski - UFC Athlete Profile",
+      "publisher": "UFC",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "depor-ufc333-result",
+      "url": "https://depor.com/en/us-live/who-won-alexander-volkanovski-vs-movsar-evloev-fight-ufc-333-main-event-result-full-card-nnda-nnrt-noticia/",
+      "title": "Who won Alexander Volkanovski vs Movsar Evloev? UFC 333 main event result",
+      "publisher": "Depor",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "cagesidepress-ufc333-weighin",
+      "url": "https://cagesidepress.com/2026/10/23/ufc-333-volkanovski-vs-evloev-weigh-in-results/",
+      "title": "UFC 333: Volkanovski vs Evloev weigh-in results",
+      "publisher": "Cageside Press",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "thesportsdb-volkanovski",
+      "url": "https://www.thesportsdb.com/player/34171669-alexander-volkanovski?ra=1",
+      "title": "Alexander Volkanovski - TheSportsDB player page",
+      "publisher": "TheSportsDB",
+      "type": "database",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "Prose reads machine-written",
+    "Reviewer recommends rejection: All facts and quotes in the Spanish body and FAQ match the English sources (the same sources were checked for the en pass: dates, scores, minutes, the 12 June FP interview, the 21 October fichajes report, the 13 September renewal report and the 'Real Madrid' career quote dated to the World Cup campaign). The reject is for localisation, not facts: the text is a near sentence-by-sentence translation of the en article, which the style guide says fails review. Fix: rewrite the Spanish with Spanish-reader context and Spanish-language queries, and reorder sections where the local reader needs it."
+  ],
+  "claims": [
+    {
+      "claim": "Nacido el 11 de mayo de 1992 (birthDate); portero del Real Madrid; nacionalidad belga",
+      "sourceIds": [
+        "uefa-courtois-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "UEFA: Date of birth 11/5/1992 (34); Country of birth Belgium; national association Belgium; Position Goalkeeper; Real Madrid."
+    },
+    {
+      "claim": "199 cm de altura y dorsal número 1",
+      "sourceIds": [
+        "uefa-courtois-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "UEFA: Height 199 cm; Shirt number 1."
+    },
+    {
+      "claim": "Lista belga para el Mundial dada a conocer por Rudi Garcia el 15 de mayo de 2026; ocho partidos perdidos entre marzo y abril por lesión muscular; Lammens y Penders como otros porteros",
+      "sourceIds": [
+        "worldsoccertalk-squad"
+      ],
+      "verdict": "confirmed",
+      "note": "Friday 15 May 2026 press conference; eight matches missed March-April, muscle injury; Lammens and Penders listed as goalkeepers."
+    },
+    {
+      "claim": "Bélgica venció 4-1 a Estados Unidos; Courtois dijo que la confianza estaba ahí",
+      "sourceIds": [
+        "nst-pre-match"
+      ],
+      "verdict": "confirmed",
+      "note": "NST/Reuters: 4-1 win over the United States; 'The confidence is there'."
+    },
+    {
+      "claim": "Bélgica cayó 2-1 ante España en cuartos, viernes 10 de julio, SoFi Stadium de Inglewood",
+      "sourceIds": [
+        "worldcupranking-spain-belgium",
+        "wego-belgium-world-cup"
+      ],
+      "verdict": "confirmed",
+      "note": "Spain 2-1 Belgium, quarter-finals, SoFi Stadium Inglewood, 10 July; Wego says Friday 10 July."
+    },
+    {
+      "claim": "Courtois antes del partido: 'España es un gran equipo', una de las favoritas, 'partimos como los menos favoritos', 'podemos ganar, con todo el respeto'",
+      "sourceIds": [
+        "beinsports-spain-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Source English originals verified; Spanish renderings are faithful translations, presented as translated quotes."
+    },
+    {
+      "claim": "Once años entre Atlético de Madrid y Real Madrid; 'mi segunda casa' sobre España",
+      "sourceIds": [
+        "openthemagazine-spain"
+      ],
+      "verdict": "confirmed",
+      "note": "'spent 11 years playing club football in Spain with Atletico Madrid and Real Madrid'; 'Spain is my second home'."
+    },
+    {
+      "claim": "Elogio a Lamine Yamal ('increíblemente talentoso en las situaciones de uno contra uno')",
+      "sourceIds": [
+        "openthemagazine-spain"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'We know Lamine Yamal is incredibly talented in one-on-one situations'. Translation faithful."
+    },
+    {
+      "claim": "Gol de Mikel Merino contra Portugal en el minuto 91 de los octavos; 'el gol contra Portugal muestra sus fortalezas'",
+      "sourceIds": [
+        "openthemagazine-spain",
+        "nst-pre-match"
+      ],
+      "verdict": "confirmed",
+      "note": "NST: 91st minute, 1-0 over Portugal in last 16; 'highlights their strengths'."
+    },
+    {
+      "claim": "Eliminar a España 'sería obviamente una gran sorpresa'",
+      "sourceIds": [
+        "openthemagazine-spain"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'Eliminating the European champions would obviously be a huge upset.' Translation faithful; 'España' is the team the source means."
+    },
+    {
+      "claim": "Bélgica 'cada vez mejor'; gente decepcionada con el equipo",
+      "sourceIds": [
+        "nst-pre-match"
+      ],
+      "verdict": "confirmed",
+      "note": "'We're getting better and better'; 'People were a bit disappointed in us'."
+    },
+    {
+      "claim": "Fabián Ruiz min. 30, Charles De Ketelaere min. 41, Mikel Merino min. 88 gol de la victoria",
+      "sourceIds": [
+        "worldcupranking-spain-belgium"
+      ],
+      "verdict": "confirmed",
+      "note": "Ruiz 30', De Ketelaere 41', Merino 88'."
+    },
+    {
+      "claim": "Courtois sale en el minuto 69 por aparente lesión en la pierna durante pausa de hidratación, 1-1, al principio parecía en condiciones de seguir, reemplazado por Senne Lammens",
+      "sourceIds": [
+        "worldsoccertalk-courtois-forced-off"
+      ],
+      "verdict": "confirmed",
+      "note": "69th minute; apparent leg injury during hydration break; initially appeared fine; Lammens replaced him; level 1-1."
+    },
+    {
+      "claim": "Otro informe sitúa el cambio en el minuto 71 y lo describe como lesionado",
+      "sourceIds": [
+        "wego-belgium-world-cup"
+      ],
+      "verdict": "confirmed",
+      "note": "Wego: 'went off injured in the 71st minute'."
+    },
+    {
+      "claim": "Entrevista publicada el 12 de junio de 2026: probabilidades de no seguir 'mayores que las de que siga'; 'este podría ser mi último torneo'",
+      "sourceIds": [
+        "freepressjournal-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "Published 12 June 2026, 23:44 IST; quotes present (first is a truncated but exact portion)."
+    },
+    {
+      "claim": "Problemas físicos y lesiones; lesión en el cuádriceps desafortunada, se sentía casi imbatible; en forma y motivado",
+      "sourceIds": [
+        "freepressjournal-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "Quadriceps and 'almost unbeatable' are Courtois's words; 'fit and motivated' is from the article summary, not a direct quote (same as en)."
+    },
+    {
+      "claim": "Señaló a los porteros jóvenes Lammens y Penders; 'Estoy pensando en pasar el testigo'",
+      "sourceIds": [
+        "freepressjournal-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "'I'm considering passing the torch'; source names Lammens (spelled 'Lammers') and Penders as younger keepers."
+    },
+    {
+      "claim": "En octubre había cambiado de opinión sobre retirarse tras el Mundial",
+      "sourceIds": [
+        "fichajes-courtois-whatsapp"
+      ],
+      "verdict": "confirmed",
+      "note": "'the experience during the tournament changed his plans'."
+    },
+    {
+      "claim": "Informe del 21 de octubre de 2026: dijo a DAZN que ya no está en el grupo de WhatsApp; grupo para información práctica; sigue en contacto con compañeros",
+      "sourceIds": [
+        "fichajes-courtois-whatsapp"
+      ],
+      "verdict": "confirmed",
+      "note": "Published 21 Oct 2026, 16:50; DAZN; training schedules; keeps in touch with teammates."
+    },
+    {
+      "claim": "Dispuesto a volver en noviembre; se lo dijo a Mark van Bommel; compite con Lammens, Vandevoordt y Penders; la última palabra es de Van Bommel",
+      "sourceIds": [
+        "fichajes-courtois-whatsapp"
+      ],
+      "verdict": "confirmed",
+      "note": "All stated in source."
+    },
+    {
+      "claim": "Contrato actual vence el 30 de junio de 2027",
+      "sourceIds": [
+        "fichajes-courtois-whatsapp",
+        "football-espana-contract"
+      ],
+      "verdict": "confirmed",
+      "note": "Fichajes: 'His current deal ends on June 30, 2027.'"
+    },
+    {
+      "claim": "'Mi objetivo es terminar mi carrera en el Real Madrid' dicho durante la campaña del Mundial",
+      "sourceIds": [
+        "football-espana-contract"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote present in English; source says comments were made during Belgium's World Cup campaign (article 20 June 2026). No interview date given; the body does not date it to 12 June."
+    },
+    {
+      "claim": "Prórroga hasta el 30 de junio de 2028; acuerdo en principio en junio; cierre del acuerdo en septiembre, sin firmar",
+      "sourceIds": [
+        "fichajes-renewal-2028",
+        "football-espana-contract"
+      ],
+      "verdict": "confirmed",
+      "note": "Football Espana: 'agreed in principle', formal announcement after international commitments; Fichajes 13 Sept 2026: 'definitively close the agreement', not signed."
+    },
+    {
+      "claim": "En octubre el club no había anunciado la renovación; conversaciones en marcha; detalles pendientes; agente y padre coordinan",
+      "sourceIds": [
+        "fichajes-courtois-whatsapp"
+      ],
+      "verdict": "confirmed",
+      "note": "'renewal has not yet been officially announced'; 'pending details can be resolved soon'; agent and father coordinating."
+    },
+    {
+      "claim": "El futuro de los veteranos del Madrid suele resolverse al final de cada temporada; la prórroga rompería esa costumbre",
+      "sourceIds": [
+        "fichajes-renewal-2028"
+      ],
+      "verdict": "confirmed",
+      "note": "Source supports the pattern; 'would break' is the article's inference."
+    },
+    {
+      "claim": "Courtois tiene 34 años, cumplidos en mayo de 2026",
+      "sourceIds": [
+        "uefa-courtois-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "DOB 11 May 1992; UEFA shows (34)."
+    },
+    {
+      "claim": "Sustitución: ni el minuto exacto ni la duración de la renovación están confirmados",
+      "sourceIds": [],
+      "verdict": "confirmed",
+      "note": "Editorial statement consistent with the reports cited above."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": false,
+  "addsValue": true,
+  "valueNote": "The Spanish version adds the same timeline as the English one, but it does not add anything for Spanish-speaking readers: no Spanish-language context on the Atletico/Real Madrid years or the Spain match, and the section order and sentence structure follow the English article one-to-one.",
+  "decision": "reject",
+  "summary": "All facts and quotes in the Spanish body and FAQ match the English sources (the same sources were checked for the en pass: dates, scores, minutes, the 12 June FP interview, the 21 October fichajes report, the 13 September renewal report and the 'Real Madrid' career quote dated to the World Cup campaign). The reject is for localisation, not facts: the text is a near sentence-by-sentence translation of the en article, which the style guide says fails review. Fix: rewrite the Spanish with Spanish-reader context and Spanish-language queries, and reorder sections where the local reader needs it."
+}

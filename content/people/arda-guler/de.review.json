@@ -1,0 +1,243 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 25 February 2005",
+      "sourceIds": [
+        "tff-profile",
+        "tff-match-book-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "TFF profile shows 25 Şubat 2005; match book shows 25.02.2005."
+    },
+    {
+      "claim": "Birthplace Altındağ per TFF profile; match book gives Ankara",
+      "sourceIds": [
+        "tff-profile",
+        "tff-match-book-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Match book shows Ankara. The profile text is encoding-corrupted (ALTINDA?) but matches Altındağ in person.json."
+    },
+    {
+      "claim": "Nationality recorded as TC",
+      "sourceIds": [
+        "tff-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile shows Nationality TC."
+    },
+    {
+      "claim": "Listed in Turkey Euro 2024 squad, forward, number 8, 12 caps and 2 goals",
+      "sourceIds": [
+        "tff-euro-2024-squad"
+      ],
+      "verdict": "confirmed",
+      "note": "Forvet section, Forma Numarası 8, A Milli Maç Sayısı/Gol 12/2."
+    },
+    {
+      "claim": "Joined Real Madrid from Fenerbahçe in July 2023",
+      "sourceIds": [
+        "hurriyet-transfer-2023",
+        "soccerway-transfer-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Hürriyet dated 7 July 2023; Soccerway reports the club statement. German text repeats the July 2023 move."
+    },
+    {
+      "claim": "Youngest Türkiye player to score, 18 years 114 days, June 2023",
+      "sourceIds": [
+        "cnnturk-wales-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "CNN Türk: 18 yaş 114 günlükken; youngest to hit the net in the Ay-Yıldızlı shirt."
+    },
+    {
+      "claim": "Came on against Wales in the 61st minute, scored in the 80th, making it 2-0",
+      "sourceIds": [
+        "cnnturk-wales-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "61st minute substitution and 80th-minute goal confirmed; lead raised to two."
+    },
+    {
+      "claim": "Match against Wales dated 19 June 2023",
+      "sourceIds": [
+        "cnnturk-wales-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated 20.06.2023 says the match was yesterday."
+    },
+    {
+      "claim": "Started against Latvia in Euro 2024 qualifying Group D, his third appearance, third-youngest starter",
+      "sourceIds": [
+        "beinsports-latvia-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN: in starting XI, third match for Türkiye, en genç üçüncü oyuncu."
+    },
+    {
+      "claim": "Fenerbahçe since 2019; described as a gem of the club",
+      "sourceIds": [
+        "soccerway-transfer-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "clube onde joga desde 2019; headline joia do Fenerbahçe."
+    },
+    {
+      "claim": "4 goals and 4 assists in 20 league appearances for Fenerbahçe that season",
+      "sourceIds": [
+        "beinsports-latvia-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "20 maça, 4 gol, 4 asist in the league."
+    },
+    {
+      "claim": "Club statement dated Thursday the 6th; six-season contract",
+      "sourceIds": [
+        "soccerway-transfer-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Source says quinta-feira (6), without a month; German text adds 6 July, which matches the 2023 calendar and the other sources."
+    },
+    {
+      "claim": "Hürriyet dates the announcement to 7 July",
+      "sourceIds": [
+        "hurriyet-transfer-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Real Madrid revealed the signing on July 7."
+    },
+    {
+      "claim": "Fee not officially disclosed; Spanish press about 20 million euros",
+      "sourceIds": [
+        "soccerway-transfer-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Club did not disclose; imprensa espanhola cerca de 20 milhões."
+    },
+    {
+      "claim": "Initial 20 million euros to Fenerbahçe, up to 10 million add-ons, could reach 30 million",
+      "sourceIds": [
+        "hurriyet-transfer-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source wording."
+    },
+    {
+      "claim": "Headline: most expensive Türkiye player",
+      "sourceIds": [
+        "hurriyet-transfer-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Source says the most expensive of his country."
+    },
+    {
+      "claim": "Federation congratulated him on 15 August 2024 for his first UEFA Super Cup",
+      "sourceIds": [
+        "tff-super-cup-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Dated 15.08.2024; kariyerinin ilk UEFA Süper Kupası'nı kazandı, Real Madrid 2-0 Atalanta."
+    },
+    {
+      "claim": "19 caps and 4 goals in June 2025 TamSaha",
+      "sourceIds": [
+        "tff-tamsaha-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Entry shows 19/4."
+    },
+    {
+      "claim": "22 caps and 5 goals in the September 2025 match book",
+      "sourceIds": [
+        "tff-match-book-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Arda Güler (25.02.2005 - Ankara, 22 maç, 5 gol)."
+    },
+    {
+      "claim": "Daily Sabah: important player for present and future, 40 starts last season",
+      "sourceIds": [
+        "dailysabah-contract-2031"
+      ],
+      "verdict": "confirmed",
+      "note": "AS said Real Madrid view him as important for present and future; 40 starts."
+    },
+    {
+      "claim": "Mourinho quote: fantastic potential, very interesting numbers",
+      "sourceIds": [
+        "dailysabah-contract-2031"
+      ],
+      "verdict": "confirmed",
+      "note": "Source contains this quote in full with a further clause about assists and goals."
+    },
+    {
+      "claim": "Salary increase reflecting his importance; no amount disclosed",
+      "sourceIds": [
+        "dailysabah-contract-2031"
+      ],
+      "verdict": "confirmed",
+      "note": "Salary increase wording present; no amount given."
+    },
+    {
+      "claim": "Transfermarkt value raised to 100 million euros from 90 million",
+      "sourceIds": [
+        "dailysabah-contract-2031"
+      ],
+      "verdict": "confirmed",
+      "note": "Updated to €100 million from €90 million."
+    },
+    {
+      "claim": "On 5 October 2026 Anadolu Agency, carried by Daily Sabah, reported a two-year extension to 2031, citing AS",
+      "sourceIds": [
+        "dailysabah-contract-2031"
+      ],
+      "verdict": "confirmed",
+      "note": "Oct 05 2026 report, byline by Anadolu Agency, two-year extension until 2031, citing AS."
+    },
+    {
+      "claim": "Crypto Briefing: extension expected rather than signed; current deal to 30 June 2029",
+      "sourceIds": [
+        "cryptobriefing-contract-2031"
+      ],
+      "verdict": "confirmed",
+      "note": "Expected to sign; deal runs through June 30, 2029."
+    },
+    {
+      "claim": "Fichajes.net, citing AS on 10 September 2026, gave June 2032",
+      "sourceIds": [
+        "fichajes-contract-2032"
+      ],
+      "verdict": "confirmed",
+      "note": "10 Sep 2026; extends until June 2032; citing AS."
+    },
+    {
+      "claim": "No Real Madrid announcement yet as of the September report",
+      "sourceIds": [
+        "fichajes-contract-2032"
+      ],
+      "verdict": "confirmed",
+      "note": "Source says the official Real Madrid announcement is pending. German text says the club had not yet informed; same fact, slightly different wording."
+    },
+    {
+      "claim": "No official club confirmation found in the reports reviewed",
+      "sourceIds": [
+        "dailysabah-contract-2031",
+        "fichajes-contract-2032",
+        "cryptobriefing-contract-2031"
+      ],
+      "verdict": "confirmed",
+      "note": "None of the three quotes an official club statement."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Vergleicht Verbandsangaben, türkische Presse und englischsprachige Vertragsberichte und nennt den Widerspruch zwischen 2031 und 2032 mit beiden Quellen.",
+  "decision": "approve",
+  "summary": "Alle geprüften Aussagen stimmen mit den zitierten Quellen überein. Der Geburtsort-Distrikt ist nur teilweise prüfbar, weil der TFF-Profiltext kodierungsbedingt verstümmelt ist. Das Vertragsende ist umstritten, und der Text sagt das. Eine Formulierung zur Mitteilung von Fichajes.net ist etwas ungenau, aber sachlich richtig."
+}

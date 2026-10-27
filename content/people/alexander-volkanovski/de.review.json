@@ -1,0 +1,249 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Verteidigte den UFC-Titel im Federgewicht am 24. Oktober 2026 durch technischen K.o. in Runde zwei gegen Movsar Evloev bei UFC 333 in Abu Dhabi",
+      "sourceIds": [
+        "depor-ufc333-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: TKO at 4:54, round two; retained featherweight championship; Abu Dhabi, 24 Oct 2026."
+    },
+    {
+      "claim": "Den Gürtel gewann er 2019 von Max Holloway, und 2025 holte er ihn von Diego Lopes zurück",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Table: UFC 245 (Dec 2019) and UFC 314 (Apr 2025)."
+    },
+    {
+      "claim": "UFC 245 am 14. Dezember 2019: einstimmiges Urteil gegen Max Holloway",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Table entry matches."
+    },
+    {
+      "claim": "UFC 251 am 11. Juli 2020: Mehrheitsentscheidung gegen Holloway als Verteidigung",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Table: split decision, Retained. 'Mehrheitsentscheidung' is the German term for a split decision."
+    },
+    {
+      "claim": "Von den fünf Titelkämpfen zwischen UFC 245 und UFC 276 entschied er vier nach Punkten und einen durch Schläge",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "245 UD, 251 split, 266 UD, 273 TKO, 276 UD."
+    },
+    {
+      "claim": "UFC 266 am 25. September 2021: einstimmiges Urteil gegen Brian Ortega",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Table entry matches."
+    },
+    {
+      "claim": "UFC 273 am 9. April 2022: Titel durch Schläge gegen Chan Sung Jung behalten",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Table: Strikes (TKO), Retained."
+    },
+    {
+      "claim": "UFC 276 am 2. Juli 2022: einstimmiger Sieg über Holloway",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Table entry matches."
+    },
+    {
+      "claim": "Vor dem Kampf gegen Holloway hatte er Chad Mendes bei UFC 232 (29. Dezember 2018) durch technischen K.o. und Jose Aldo bei UFC 237 (11. Mai 2019) einstimmig besiegt; keiner der beiden ist als Titelkampf aufgeführt",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Table: Mendes TKO round 2; Aldo unanimous decision; title status Not stated for both."
+    },
+    {
+      "claim": "UFC 284 am 12. Februar 2023: einstimmige Niederlage gegen Islam Makhachev in einem Titelkampf im Leichtgewicht",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Table: Lightweight title bout, Loss, unanimous decision."
+    },
+    {
+      "claim": "Zwischen den beiden Makhachev-Kämpfen verteidigte er bei UFC 290 am 8. Juli 2023 den Federgewichtstitel mit Schlägen gegen Yair Rodríguez",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Table: Jul 8, 2023, Strikes (TKO), Retained; between UFC 284 and UFC 294."
+    },
+    {
+      "claim": "UFC 294 am 21. Oktober 2023: Makhachev schlug ihn in der ersten Runde k.o.",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Table: KO, round 1."
+    },
+    {
+      "claim": "Den Federgewichtsgürtel verlor er erst später, bis UFC 298",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Table: Lost featherweight title at UFC 298."
+    },
+    {
+      "claim": "UFC 298 am 17. Februar 2024: Ilia Topuria schlug ihn in der zweiten Runde k.o. und nahm ihm den Federgewichtstitel ab",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Table: KO, round 2, Lost featherweight title."
+    },
+    {
+      "claim": "UFC 314 am 12. April 2025: Gürtel zurückgeholt durch einstimmiges Urteil gegen Diego Lopes",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Table entry matches."
+    },
+    {
+      "claim": "UFC 325 am 31. Januar 2026: Verteidigung durch einstimmige Entscheidung gegen Lopes",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Table entry matches."
+    },
+    {
+      "claim": "Im zweiten Gürtelbesitz war es die erste Verteidigung im Januar 2026 gegen Lopes; die Verteidigung gegen Evloev war die zweite in dieser Amtszeit",
+      "sourceIds": [
+        "depor-ufc333-result",
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Table: UFC 325 Lopes retained; UFC 333 Evloev win with title holder status."
+    },
+    {
+      "claim": "Bis einschließlich UFC 325 weist das Profil bei den Titelkämpfen acht Siege und drei Niederlagen aus; die Niederlagen sind die beiden Makhachev-Kämpfe und die Niederlage gegen Topuria",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Count from table: 8 wins, 3 losses."
+    },
+    {
+      "claim": "UFC 333 am Samstag, 24. Oktober 2026, im Etihad Arena in Abu Dhabi, Vereinigte Arabische Emirate",
+      "sourceIds": [
+        "depor-ufc333-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Source gives venue and date."
+    },
+    {
+      "claim": "Evloev bekam endlich seine Chance auf den Federgewichtsgürtel; der Kampf wurde als Titelkampf im Federgewicht angekündigt",
+      "sourceIds": [
+        "cagesidepress-ufc333-weighin"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'finally gets his shot at featherweight gold'; 'for the UFC featherweight championship'."
+    },
+    {
+      "claim": "Beim Wiegen brachte Volkanovski 144,5 Pfund auf die Waage, Evloev 145 Pfund",
+      "sourceIds": [
+        "cagesidepress-ufc333-weighin"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 144.5 and 145."
+    },
+    {
+      "claim": "Schläge am Boden veranlassten Ringrichter Marc Goddard zum Abbruch mit sechs Sekunden Restzeit, nach 4:54 Minuten; Ergebnis technischer K.o. durch Schläge",
+      "sourceIds": [
+        "depor-ufc333-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Source quotes Goddard, six seconds remaining, 4:54, TKO by punches."
+    },
+    {
+      "claim": "Die Berichte nennen den Sieg eine Titelverteidigung; Volkanovski behielt den Gürtel, den er seit UFC 314 hielt",
+      "sourceIds": [
+        "depor-ufc333-result",
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Depor: retained title. Profile: won at UFC 314, retained at UFC 325."
+    },
+    {
+      "claim": "Profil: Bilanz 29-4-0 und Alter 38",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: 29-4-0, age 38."
+    },
+    {
+      "claim": "Die vier Niederlagen im Profil umfassen die drei oben beschriebenen Titelkämpfe",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Record 29-4-0 gives four losses; the three title-bout losses are in the table."
+    },
+    {
+      "claim": "TheSportsDB gibt den 29. September 1988 als Geburtsdatum an",
+      "sourceIds": [
+        "thesportsdb-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: born 29 September 1988."
+    },
+    {
+      "claim": "Die UFC nennt ihn 'The Great' und führt ihn auf Platz zwei der Pound-for-Pound-Rangliste",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: 'The Great'; #2 PFP."
+    },
+    {
+      "claim": "Geburtsort: UFC-Profil nennt Wollongong in Australien, TheSportsDB Shellharbour in New South Wales",
+      "sourceIds": [
+        "ufc-athlete-volkanovski",
+        "thesportsdb-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources match."
+    },
+    {
+      "claim": "Das UFC-Profil führt ihn als Titelhalter im Federgewicht; das Ergebnis von UFC 333 ist der jüngste Eintrag",
+      "sourceIds": [
+        "ufc-athlete-volkanovski"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: current featherweight title holder; UFC 333 top row."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Dated title timeline from the UFC fight table, the Mendes and Aldo context, weigh-in and result detail, and the birthplace conflict between sources.",
+  "decision": "approve",
+  "summary": "All checked claims match the cited sources. The removed claims are gone, the belt date is UFC 314, and the UFC 290 order is correct."
+}

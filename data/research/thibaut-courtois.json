@@ -1,0 +1,132 @@
+{
+  "worthWriting": true,
+  "reason": "Starting goalkeeper of Real Madrid and Belgium international with a current news cycle (Oct 2026). Primary UEFA profile opened for date of birth, position and club; news and match reports opened for the Oct 2026 reports and the 10 July 2026 quarter-final.",
+  "wikidata": "",
+  "importance": 5,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "uefa-courtois-profile",
+      "url": "https://uefa.com/uefachampionsleague/clubs/players/250011668--thibaut-courtois",
+      "title": "Thibaut Courtois - player profile",
+      "publisher": "UEFA",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "fichajes-courtois-whatsapp",
+      "url": "https://www.fichajes.net/en/news/courtois-expelled-from-the-group-20261021.html",
+      "title": "Courtois, expelled from the group",
+      "publisher": "fichajes.net",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "worldcupranking-spain-belgium",
+      "url": "https://worldcupranking.com/blog/world-cup-2026-match-98-spain-vs-belgium/",
+      "title": "Spain vs Belgium Result: Spain 2-1 Belgium, Quarter-finals, World Cup 2026",
+      "publisher": "worldcupranking.com",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "worldsoccertalk-courtois-forced-off",
+      "url": "https://worldsoccertalk.com/world-cup/video-thibaut-courtois-leaves-belgium-vs-spain-in-tears-after-being-forced-off/",
+      "title": "Video: Thibaut Courtois leaves Belgium vs Spain in tears after being forced off",
+      "publisher": "World Soccer Talk",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "wego-belgium-world-cup",
+      "url": "https://blog.wego.com/belgium-at-the-world-cup/",
+      "title": "Belgium at the 2026 World Cup: Eliminated in the Quarter-final by Spain",
+      "publisher": "Wego",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "fichajes-renewal-2028",
+      "url": "https://www.fichajes.net/en/news/real-madrid-will-not-waste-time-with-courtois-20260913.html",
+      "title": "Real Madrid will not waste time with Courtois",
+      "publisher": "fichajes.net",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "freepressjournal-retirement",
+      "url": "https://www.freepressjournal.in/amp/sports/im-considering-passing-the-torch-belgium-goalkeeper-thibaut-courtois-may-retire-post-fifa-world-cup-2026",
+      "title": "I am considering passing the torch: Belgium goalkeeper Thibaut Courtois may retire post FIFA World Cup 2026",
+      "publisher": "Free Press Journal",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "beinsports-spain-preview",
+      "url": "https://www.beinsports.com/en-au/football/fifa-world-cup-2026/articles/courtois-confident-belgium-can-upset-spain-2026-07-09?fRE=V8L",
+      "title": "Courtois confident Belgium can upset Spain",
+      "publisher": "beIN SPORTS",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "football-espana-contract",
+      "url": "https://www.football-espana.net/2026/06/20/courtois-real-madrid-career-contract-extension",
+      "title": "Courtois Real Madrid career contract extension",
+      "publisher": "Football Espana",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "worldsoccertalk-squad",
+      "url": "https://worldsoccertalk.com/amp/world-cup/2026-world-cup-courtois-de-bruyne-headline-belgium-squad-as-lukaku-included-despite-napoli-struggles",
+      "title": "2026 World Cup: Courtois, De Bruyne headline Belgium squad as Lukaku included despite Napoli struggles",
+      "publisher": "World Soccer Talk",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "nst-pre-match",
+      "url": "https://www.nst.com.my/amp/sports/football/2026/07/1483993/courtois-sees-belgium-getting-better-and-believes-they-can-beat",
+      "title": "Courtois sees Belgium getting better and believes they can beat Spain",
+      "publisher": "New Straits Times",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "openthemagazine-spain",
+      "url": "https://openthemagazine.com/sports/fifa-world-cup-2026-we-can-be-the-surprise-courtois-eyes-spain-upset",
+      "title": "FIFA World Cup 2026: We Can Be the Surprise: Courtois Eyes Spain Upset",
+      "publisher": "Open The Magazine",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1992-05-11",
+      "sources": [
+        "uefa-courtois-profile"
+      ],
+      "note": "UEFA profile shows 'Date of birth 11/5/1992'."
+    },
+    "deathDate": null,
+    "birthPlace": null,
+    "nationality": {
+      "value": "BE",
+      "sources": [
+        "uefa-courtois-profile"
+      ],
+      "note": "UEFA profile gives country of birth as Belgium and links him to Belgium as national association. No separate nationality label on the page; no city given."
+    }
+  },
+  "targetQueries": [
+    "Thibaut Courtois Real Madrid contract",
+    "Thibaut Courtois Belgium national team return",
+    "Thibaut Courtois WhatsApp Belgium group",
+    "Thibaut Courtois age",
+    "Thibaut Courtois Belgium Spain World Cup 2026",
+    "Thibaut Courtois Real Madrid goalkeeper"
+  ],
+  "gapNote": "Official Real Madrid, RBFA, FIFA and LaLiga pages were unreachable (error, 403, 404, or no content). Career history, caps and birthplace could not be verified from a primary page and are left out. Contract, national-team and retirement items are press reports and are marked as such."
+}
