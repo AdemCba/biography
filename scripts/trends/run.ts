@@ -127,13 +127,14 @@ async function main() {
     }
   }
 
-  const report = { generatedAt: now.toISOString(), signals: signals.length, scaffolded, candidates };
+  const google = signals.filter((s) => s.source === "google-trends");
+  const report = { generatedAt: now.toISOString(), signals: signals.length, scaffolded, candidates, google };
   if (dryRun) {
     console.log(renderReport(report));
     return;
   }
   mkdirSync(OUT_DIR, { recursive: true });
-  writeFileSync(join(OUT_DIR, `${day}.json`), JSON.stringify(report, null, 2) + "\n");
+  writeFileSync(join(OUT_DIR, `${day}.json`), JSON.stringify({ ...report, google: undefined }, null, 2) + "\n");
   writeFileSync(join(OUT_DIR, "latest.md"), renderReport(report));
   console.log(`wrote ${candidates.length} candidates, scaffolded ${scaffolded.length}`);
 }

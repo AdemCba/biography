@@ -17,6 +17,8 @@ export interface TrendSignal {
   headlines: string[];
   /** News URLs Google attached to the trend, kept as leads for research. */
   newsUrls: string[];
+  /** When Google says the trend started (RSS pubDate), ISO string. */
+  startedAt?: string;
 }
 
 async function get(url: string, accept = "application/json"): Promise<Response> {
@@ -59,6 +61,11 @@ export function parseTraffic(s: string): number {
   return Number(m[1]) * mult;
 }
 
+function toIso(date: string | undefined): string | undefined {
+  const t = date ? Date.parse(date) : NaN;
+  return Number.isNaN(t) ? undefined : new Date(t).toISOString();
+}
+
 export function parseTrendsRss(xml: string, geo: string, wiki: string): TrendSignal[] {
   return [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)].map(([, item]) => {
     const term = tagValues(item, "title")[0] ?? "";
@@ -70,6 +77,7 @@ export function parseTrendsRss(xml: string, geo: string, wiki: string): TrendSig
       volume: parseTraffic(tagValues(item, "ht:approx_traffic")[0] ?? ""),
       headlines: tagValues(item, "ht:news_item_title"),
       newsUrls: tagValues(item, "ht:news_item_url"),
+      startedAt: toIso(tagValues(item, "pubDate")[0]),
     };
   }).filter((s) => s.term);
 }

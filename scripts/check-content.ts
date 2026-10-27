@@ -19,7 +19,7 @@ if (process.argv.includes("--json")) {
   for (const r of result.reports) {
     const errors = r.issues.filter((i) => i.level === "error").length;
     const mark = errors ? "✗" : "✓";
-    console.log(`${mark} ${r.personId}/${r.locale}  [${r.status}]  ${r.words} words, ${r.citations} citations, style ${r.styleScore}`);
+    console.log(`${mark} ${r.topic ? "trending/" : ""}${r.personId}/${r.locale}  [${r.status}]  ${r.words} words, ${r.citations} citations, style ${r.styleScore}`);
     for (const i of r.issues) console.log(`    ${i.level === "error" ? "ERROR" : "warn "} ${i.code}: ${i.message}`);
   }
   for (const i of result.issues) console.log(`${i.level === "error" ? "ERROR" : "warn "} ${i.code}: ${i.message} ${rel(i.file)}`);

@@ -2,7 +2,8 @@ import Link from "next/link";
 import { site } from "@/config/site";
 import type { Locale } from "@/i18n/config";
 import { getDictionary } from "@/i18n/dictionaries";
-import { categoryPath, getContent, livePeople } from "@/lib/content";
+import { TRENDING } from "@/i18n/trending";
+import { categoryPath, getContent, livePeople, liveTopics } from "@/lib/content";
 
 export function SiteHeader({ locale }: { locale: Locale }) {
   const t = getDictionary(locale);
@@ -24,6 +25,13 @@ export function SiteHeader({ locale }: { locale: Locale }) {
       </div>
       <nav aria-label={t.nav.categories} className="mx-auto max-w-5xl overflow-x-auto px-4 pb-3">
         <ul className="flex gap-5 whitespace-nowrap text-sm text-muted">
+          {liveTopics(locale, store).length > 0 && (
+            <li>
+              <Link href={`/${locale}/trending/`} className="font-medium text-ink hover:underline">
+                {TRENDING[locale].nav}
+              </Link>
+            </li>
+          )}
           {categories.map((c) => (
             <li key={c.id}>
               <Link href={categoryPath(locale, c.i18n[locale]!.slug)} className="hover:text-ink">

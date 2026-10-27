@@ -1,12 +1,51 @@
 // Markdown summary of a trend scan, written in Turkish for the editor.
 
 import type { Candidate } from "./evaluate";
+import type { TrendSignal } from "./sources";
 
 export interface Report {
   generatedAt: string;
   signals: number;
   scaffolded: string[];
   candidates: Candidate[];
+  /** Raw Google Trends signals, for the trending-topics section. */
+  google?: TrendSignal[];
+}
+
+/** Hours a Google trend counts as "fresh" for the trending-topics writer. */
+export const FRESH_HOURS = 4;
+
+/** Google trends that started in the last FRESH_HOURS, grouped by search term, most countries first. */
+export function freshTopics(google: TrendSignal[], now: Date) {
+  const since = now.getTime() - FRESH_HOURS * 3600e3;
+  const groups = new Map<string, { term: string; where: Set<string>; volume: number; headline?: string; url?: string; startedAt: string }>();
+  for (const s of google) {
+    if (s.source !== "google-trends" || !s.startedAt || Date.parse(s.startedAt) < since) continue;
+    const key = s.term.toLowerCase();
+    const g = groups.get(key) ?? { term: s.term, where: new Set<string>(), volume: 0, startedAt: s.startedAt };
+    g.where.add(s.where);
+    g.volume += s.volume;
+    g.headline ??= s.headlines[0];
+    g.url ??= s.newsUrls[0];
+    if (s.startedAt < g.startedAt) g.startedAt = s.startedAt;
+    groups.set(key, g);
+  }
+  return [...groups.values()].sort((a, b) => b.where.size - a.where.size || b.volume - a.volume);
+}
+
+function topicsSection(r: Report): string {
+  const list = freshTopics(r.google ?? [], new Date(r.generatedAt)).slice(0, 40);
+  if (list.length === 0) return `## Son ${FRESH_HOURS} saatte Google'da yükselen konular\n\nYok.\n`;
+  return [
+    `## Son ${FRESH_HOURS} saatte Google'da yükselen konular (${list.length})`,
+    "",
+    "Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konularını atla.",
+    "",
+    "| Arama | Ülkeler | Yaklaşık arama | Başladı (UTC) | Haber |",
+    "| --- | --- | --- | --- | --- |",
+    ...list.map((g) => `| ${g.term} | ${[...g.where].join(", ")} | ${g.volume} | ${g.startedAt.slice(11, 16)} | ${g.url ? `[${(g.headline ?? "haber").replace(/\|/g, "/")}](${g.url})` : ""} |`),
+    "",
+  ].join("\n");
 }
 
 function row(c: Candidate): string {
@@ -41,6 +80,7 @@ export function renderReport(r: Report): string {
       ? `Taslak sırasına eklenenler (durum: idea, yayın yok): ${r.scaffolded.join(", ")}`
       : "Bu çalışmada taslak sırasına kimse eklenmedi.",
     "",
+    topicsSection(r),
     table("Uygun yeni adaylar", accepted),
     table("Sitede zaten var, güncellemeye aday", update),
     `## Elenenler\n\n${rejected.length} kişi elendi (reşit olmayan, suç ya da trajedi haberi, az tanınan, kategori dışı ya da trend zayıf). Ayrıntı JSON dosyasında.\n`,

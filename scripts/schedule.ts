@@ -20,7 +20,8 @@ const store = readContent();
 // Existing future slots count against the daily quota of their language.
 const taken = new Map<string, number>();
 const slot = (date: string, locale: string) => `${date}|${locale}`;
-for (const p of store.people) {
+const entries = [...store.people, ...store.topics];
+for (const p of entries) {
   for (const a of Object.values(p.articles)) {
     if (a?.meta.status === "published" && a.meta.publishedAt && a.meta.publishedAt > today()) {
       const k = slot(a.meta.publishedAt, a.locale);
@@ -29,7 +30,7 @@ for (const p of store.people) {
   }
 }
 
-const queue = store.people
+const queue = entries
   .flatMap((p) => Object.values(p.articles))
   .filter((a) => a && a.meta.status === "approved" && a.meta.reviewer && !a.meta.flag)
   .sort((a, b) => a!.personId.localeCompare(b!.personId));
@@ -47,6 +48,6 @@ for (const article of queue) {
   writeArticle(article.file, { ...article.meta, status: "published", publishedAt: date, updatedAt: undefined }, article.body);
   console.log(`${date}  ${article.personId}/${article.locale}`);
 }
-const unreviewed = store.people.flatMap((p) => Object.values(p.articles)).filter((a) => a?.meta.status === "approved" && !a.meta.reviewer).length;
+const unreviewed = entries.flatMap((p) => Object.values(p.articles)).filter((a) => a?.meta.status === "approved" && !a.meta.reviewer).length;
 skipped += unreviewed;
 console.log(`\nScheduled ${queue.length} article(s), ${perDay}/day per language.${skipped ? ` ${skipped} approved article(s) skipped: no reviewer.` : ""}`);

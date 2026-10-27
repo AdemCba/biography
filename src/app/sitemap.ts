@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 import { absoluteUrl, site } from "@/config/site";
 import { HREFLANG, type Locale } from "@/i18n/config";
-import { categoryPath, editorPath, getContent, lastModified, livePeople, personPath } from "@/lib/content";
+import { categoryPath, editorPath, getContent, lastModified, livePeople, liveTopics, personPath, topicPath } from "@/lib/content";
 import { categoryAlternates, MIN_CATEGORY_PEOPLE, personAlternates } from "@/lib/seo";
 
 export const dynamic = "force-static";
@@ -31,6 +31,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: lastModified(article.meta),
         alternates: { languages: languages(personAlternates(person)) },
         images: person.data.image ? [absoluteUrl(person.data.image.src)] : undefined,
+      });
+    }
+
+    const topics = liveTopics(locale, store);
+    if (topics.length) {
+      entries.push({ url: absoluteUrl(`/${locale}/trending/`), lastModified: topics.map((x) => lastModified(x.article.meta)).sort().at(-1) });
+    }
+    for (const { topic, article } of topics) {
+      if (article.meta.noindex) continue;
+      entries.push({
+        url: absoluteUrl(topicPath(locale, article.meta.slug)),
+        lastModified: lastModified(article.meta),
+        images: topic.data.image ? [absoluteUrl(topic.data.image.src)] : undefined,
       });
     }
 
