@@ -1,0 +1,112 @@
+{
+  "id": "troy-aikman",
+  "name": "Troy Aikman",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 5,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1966-11-21",
+      "sources": [
+        "cfbhall-aikman",
+        "harry-walker-aikman"
+      ],
+      "note": "Both pages give November 21, 1966."
+    },
+    "birthPlace": {
+      "value": "West Covina, California, US",
+      "sources": [
+        "cfbhall-aikman"
+      ],
+      "note": "The ESPN bio says he was raised in Cerritos, California, and moved to Henryetta, Oklahoma, at age 12."
+    }
+  },
+  "related": [
+    "joe-buck"
+  ],
+  "sources": [
+    {
+      "id": "pfhof-profile",
+      "url": "https://www.profootballhof.com/players/troy-aikman/",
+      "title": "Troy Aikman",
+      "publisher": "Pro Football Hall of Fame",
+      "type": "league-or-federation",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "pfhof-1989-draft",
+      "url": "https://profootballhof.com/news/aikman-goes-no-1",
+      "title": "Aikman goes No. 1",
+      "publisher": "Pro Football Hall of Fame",
+      "type": "league-or-federation",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "cfbhall-aikman",
+      "url": "https://cfbhall.com/inductees/troy-aikman-2008",
+      "title": "Troy Aikman",
+      "publisher": "College Football Hall of Fame",
+      "type": "award-body",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "espn-press-bio",
+      "url": "http://espnpressroom.com/bio/troy-aikman/",
+      "title": "Troy Aikman bio",
+      "publisher": "ESPN Press Room",
+      "type": "company",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "harry-walker-aikman",
+      "url": "https://www.harrywalker.com/speakers/troy-aikman/",
+      "title": "Troy Aikman",
+      "publisher": "Harry Walker Agency",
+      "type": "other",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "suntimes-aikman-buck-2026",
+      "url": "https://chicago.suntimes.com/sports-media/2026/10/15/troy-aikman-joe-buck-espn-monday-night-football-greg-olsen-jj-watt-jim-nantz-tony-romo-nfl-cbs-fox",
+      "title": "Troy Aikman opens door to leaving Joe Buck, ESPN behind",
+      "publisher": "Chicago Sun-Times",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "foxsports-bio",
+      "url": "https://www.foxsports.com/presspass/bios/on-air/troy-aikman",
+      "title": "Troy Aikman",
+      "publisher": "Fox Sports Press Pass",
+      "type": "company",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "tshof-aikman",
+      "url": "https://www.tshof.org/store/p3/Troy_Aikman.html",
+      "title": "Troy Aikman",
+      "publisher": "Texas Sports Hall of Fame",
+      "type": "other",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "newsweek-aikman-buck",
+      "url": "https://www.newsweek.com/sports/nfl/troy-aikman-breaks-silence-on-rumored-tension-with-mnf-partner-joe-buck-12576762",
+      "title": "Troy Aikman breaks silence on rumored tension with MNF partner Joe Buck",
+      "publisher": "Newsweek",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    }
+  ]
+}

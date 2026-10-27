@@ -1,0 +1,306 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Geboren 21. November 1966 in West Covina, Kalifornien",
+      "sourceIds": [
+        "cfbhall-aikman",
+        "harry-walker-aikman"
+      ],
+      "verdict": "confirmed",
+      "note": "CFB Hall gives date and West Covina."
+    },
+    {
+      "claim": "Aufgewachsen in Cerritos; Familie zog mit 12 nach Henryetta, Oklahoma",
+      "sourceIds": [
+        "harry-walker-aikman",
+        "espn-press-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Both pages state it."
+    },
+    {
+      "claim": "University of Oklahoma 1984 bis 1985, dann UCLA",
+      "sourceIds": [
+        "cfbhall-aikman"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Unmittelbarer und bleibender Eindruck an der UCLA in zwei Spielzeiten; einstimmig erstes All-American-Team; Dritter bei der Heisman-Wahl; Davey O'Brien Award; Pac-10-Offensivspieler des Jahres nach der dritten Saison",
+      "sourceIds": [
+        "cfbhall-aikman"
+      ],
+      "verdict": "confirmed",
+      "note": "All stated."
+    },
+    {
+      "claim": "5.436 Passyards an der UCLA; Einzelsaison-Rekorde 228 vollendete Pässe und 64,8 % Vollendungsquote",
+      "sourceIds": [
+        "cfbhall-aikman"
+      ],
+      "verdict": "confirmed",
+      "note": "Numbers match."
+    },
+    {
+      "claim": "Aloha Bowl 1987 und Cotton Bowl 1989 als Quarterback",
+      "sourceIds": [
+        "cfbhall-aikman"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Aufnahme in die College Football Hall of Fame 2008",
+      "sourceIds": [
+        "cfbhall-aikman"
+      ],
+      "verdict": "confirmed",
+      "note": "Inducted 2008."
+    },
+    {
+      "claim": "Dallas wählte ihn im Draft 1989 an erster Stelle; seine gesamte Karriere bei den Cowboys",
+      "sourceIds": [
+        "pfhof-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Dallas 1988 mit Bilanz 3:13",
+      "sourceIds": [
+        "pfhof-1989-draft"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Einer von nur 14 Spielern, die vom ersten Pick in die Hall of Fame gewählt wurden",
+      "sourceIds": [
+        "pfhof-1989-draft"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated (14 players)."
+    },
+    {
+      "claim": "Cowboys 1989 bis 2000; Siege in den Super Bowls XXVII, XXVIII und XXX",
+      "sourceIds": [
+        "tshof-aikman",
+        "espn-press-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on both."
+    },
+    {
+      "claim": "MVP im Super Bowl XXVII; 52:17 gegen Buffalo; 22 von 30 Pässen",
+      "sourceIds": [
+        "tshof-aikman"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Dallas gewann danach die Super Bowls XXVIII und XXX",
+      "sourceIds": [
+        "pfhof-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Einer von vier Quarterbacks, die ihr Team zum Sieg in drei Super Bowls führten",
+      "sourceIds": [
+        "foxsports-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Sechsmal im Pro Bowl, 1991 bis 1996",
+      "sourceIds": [
+        "tshof-aikman"
+      ],
+      "verdict": "confirmed",
+      "note": "Years listed."
+    },
+    {
+      "claim": "32.942 Passyards und 165 Touchdowns; Cowboys-Rekordhalter bei Passyards, TDs, Vollendungen und Versuchen",
+      "sourceIds": [
+        "tshof-aikman"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Februar 2006 in Canton, Ohio in die Pro Football Hall of Fame gewählt",
+      "sourceIds": [
+        "espn-press-bio",
+        "pfhof-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Fox 2001 im zweiten Team mit Dick Stockton und Daryl Johnston; danach erstes NFL-Team mit Buck und Collinsworth",
+      "sourceIds": [
+        "foxsports-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Lead Game Analyst der NFL bei Fox über mehr als zwei Jahrzehnte",
+      "sourceIds": [
+        "harry-walker-aikman"
+      ],
+      "verdict": "confirmed",
+      "note": "Harry Walker says over 20 years."
+    },
+    {
+      "claim": "Neuer NFL-Analyst bei Monday Night Football auf ESPN, in der Kabine mit Buck",
+      "sourceIds": [
+        "espn-press-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Konstanteste Übertragungsteam der NFL",
+      "sourceIds": [
+        "espn-press-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Sports Emmy als beste Live-Sportserie",
+      "sourceIds": [
+        "espn-press-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Buck ist ein Emmy-ausgezeichneter Play-by-Play-Kommentator",
+      "sourceIds": [
+        "foxsports-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "25 Jahre Zusammenarbeit; 2023 Summerall und Madden überholt",
+      "sourceIds": [
+        "suntimes-aikman-buck-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Ältere Fox-Biografie: zweitbestes Duo nach Summerall und Madden",
+      "sourceIds": [
+        "foxsports-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated. Article calls it older, so no conflict."
+    },
+    {
+      "claim": "Zitat: 'Ich werde diese Saison übertragen ... Free Agent'",
+      "sourceIds": [
+        "suntimes-aikman-buck-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Zitat: 'wahrscheinlich eine Zeit und einen Ort' und 'Ich weiß nicht, ob jetzt die Zeit dafür ist'",
+      "sourceIds": [
+        "newsweek-aikman-buck"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Am 15. Oktober 2026 gegenüber The Ticket in Dallas",
+      "sourceIds": [
+        "suntimes-aikman-buck-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Date from URL; Thursday appearance."
+    },
+    {
+      "claim": "Front Office Sports berichtete, dass Aikman und Buck vor einer Übertragung aneinandergerieten, während die Spannungen wuchsen",
+      "sourceIds": [
+        "suntimes-aikman-buck-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated as FOS reporting. No date claimed."
+    },
+    {
+      "claim": "Buck im September Sechsjahresvertrag (The Athletic)",
+      "sourceIds": [
+        "suntimes-aikman-buck-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'Last month' relative to Oct 15."
+    },
+    {
+      "claim": "Aikman bisher kein ESPN-Angebot",
+      "sourceIds": [
+        "suntimes-aikman-buck-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Buck sprach die Spannung vor Bills-Rams im Programm an",
+      "sourceIds": [
+        "suntimes-aikman-buck-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "ESPN überträgt am Ende dieser Saison seinen ersten Super Bowl",
+      "sourceIds": [
+        "suntimes-aikman-buck-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Aikman hat Optionen bei anderen Sendern und berät die Dolphins",
+      "sourceIds": [
+        "suntimes-aikman-buck-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated as possibilities."
+    },
+    {
+      "claim": "Im Super Bowl XXVII wurde er zum MVP gewählt (22 von 30 Pässen)",
+      "sourceIds": [
+        "tshof-aikman"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Alter 59 am 27. Oktober 2026",
+      "sourceIds": [
+        "cfbhall-aikman"
+      ],
+      "verdict": "confirmed",
+      "note": "Born Nov 21 1966."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Contract timeline with on-record quotes. Primary sources used for biography facts.",
+  "decision": "approve",
+  "summary": "All claims checked against the cited pages are supported. The undated 'in derselben Woche' timing is removed and the unsourced biggest-game opinion is reworded to a sourced MVP fact."
+}

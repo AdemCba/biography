@@ -1,0 +1,111 @@
+{
+  "id": "luis-tralhao",
+  "name": "Luis Tralhao",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 2,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1978-09-19",
+      "sources": [
+        "fotmob-luis-tralhao"
+      ],
+      "note": "FotMob gives 19 September 1978. Press ages differ: 45 (soccerway-sub23, early 2026), 47 (abola-renewal, rtp-renewal), 48 (fotmob, Oct 2026). The FotMob date matches the age of 48 on 2026-10-27. Wikipedia also gives this date but is not used as a source."
+    },
+    "nationality": {
+      "value": [
+        "PT"
+      ],
+      "sources": [
+        "fotmob-luis-tralhao"
+      ],
+      "note": "FotMob: 'Luis Tralhao is from Portugal.'"
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "torreense-club-site",
+      "url": "https://torreense.com/",
+      "title": "SCU Torreense - Site Oficial",
+      "publisher": "S.C.U. Torreense",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "pt"
+    },
+    {
+      "id": "fotmob-luis-tralhao",
+      "url": "https://www.fotmob.com/players/1145529/luis-tralhao",
+      "title": "Luis Tralhao - FotMob player profile",
+      "publisher": "FotMob",
+      "type": "database",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "bolanarede-appointment",
+      "url": "https://bolanarede.pt/especial-bola-na-rede/atualidade/luis-tralhao-confirmado-como-novo-treinador-do-torreense/",
+      "title": "Luis Tralhao confirmado como novo treinador do Torreense",
+      "publisher": "Bola na Rede",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "pt"
+    },
+    {
+      "id": "soccerway-sub23",
+      "url": "https://pt.soccerway.com/noticias/futebol-taca-revelacao-sub23-oficial-luis-tralhao-e-o-novo-treinador-dos-sub-23-do-torreeense/06Ctxg9e",
+      "title": "Oficial: Luis Tralhao e o novo treinador dos sub-23 do Torreense",
+      "publisher": "Soccerway",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "pt"
+    },
+    {
+      "id": "ilfoglio-strange-europe",
+      "url": "https://www.ilfoglio.it/en/sport/2026/10/15/news/torreenses-strange-europe-is-luis-tralhaos-masterpiece--410564",
+      "title": "Torreense's 'Strange Europe' is Luis Tralhao's masterpiece",
+      "publisher": "Il Foglio",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "abola-final-match",
+      "url": "https://www.abola.pt/noticias/a-melhor-viagem-da-historia-de-um-gigante-bem-acordado-2026052522305464466",
+      "title": "A melhor viagem da historia de um gigante bem acordado",
+      "publisher": "A Bola",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "pt"
+    },
+    {
+      "id": "abola-renewal",
+      "url": "https://www.abola.pt/noticias/torreense-oficializa-renovacao-com-mestre-da-taca-de-portugal-2026072115550814715",
+      "title": "Torreense oficializa renovacao com mestre da Taca de Portugal",
+      "publisher": "A Bola",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "pt"
+    },
+    {
+      "id": "rtp-renewal",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/luis-tralhao-renova-com-o-torreense_d1754957",
+      "title": "Luis Tralhao renova com o Torreense",
+      "publisher": "RTP",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "pt"
+    },
+    {
+      "id": "record-supertaca",
+      "url": "https://www.record.pt/futebol/futebol-nacional/2--liga/torreense/amp/luis-tralhao-confiante-para-a-supertaca-vencer-porque-nao-nunca-uma-equipa-da-2-liga-tinha-ganho-a-taca-de-portugal",
+      "title": "Luis Tralhao confiante para a Supertaca: vencer? Porque nao? Nunca uma equipa da 2.ª Liga tinha ganho a Taca de Portugal",
+      "publisher": "Record",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "pt"
+    }
+  ]
+}

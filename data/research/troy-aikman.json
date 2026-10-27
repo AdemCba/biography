@@ -1,0 +1,87 @@
+{
+  "worthWriting": true,
+  "reason": "Hall of Fame quarterback and current ESPN Monday Night Football analyst; enough sourced facts and current news (contract status, Oct 15 2026 radio remarks).",
+  "wikidata": "",
+  "importance": 5,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "pfhof-profile",
+      "url": "https://www.profootballhof.com/players/troy-aikman/",
+      "title": "Troy Aikman",
+      "publisher": "Pro Football Hall of Fame",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "pfhof-1989-draft",
+      "url": "https://profootballhof.com/news/aikman-goes-no-1",
+      "title": "Aikman goes No. 1",
+      "publisher": "Pro Football Hall of Fame",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "cfbhall-aikman",
+      "url": "https://cfbhall.com/inductees/troy-aikman-2008",
+      "title": "Troy Aikman",
+      "publisher": "College Football Hall of Fame",
+      "type": "award-body",
+      "lang": "en"
+    },
+    {
+      "id": "espn-press-bio",
+      "url": "http://espnpressroom.com/bio/troy-aikman/",
+      "title": "Troy Aikman bio",
+      "publisher": "ESPN Press Room",
+      "type": "company",
+      "lang": "en"
+    },
+    {
+      "id": "harry-walker-aikman",
+      "url": "https://www.harrywalker.com/speakers/troy-aikman/",
+      "title": "Troy Aikman",
+      "publisher": "Harry Walker Agency",
+      "type": "other",
+      "lang": "en"
+    },
+    {
+      "id": "suntimes-aikman-buck-2026",
+      "url": "https://chicago.suntimes.com/sports-media/2026/10/15/troy-aikman-joe-buck-espn-monday-night-football-greg-olsen-jj-watt-jim-nantz-tony-romo-nfl-cbs-fox",
+      "title": "Troy Aikman opens door to leaving Joe Buck, ESPN behind",
+      "publisher": "Chicago Sun-Times",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1966-11-21",
+      "sources": [
+        "cfbhall-aikman",
+        "harry-walker-aikman"
+      ],
+      "note": "Both pages give November 21, 1966."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "West Covina, California, US",
+      "sources": [
+        "cfbhall-aikman"
+      ],
+      "note": "The ESPN bio says he was raised in Cerritos, California, and moved to Henryetta, Oklahoma, at age 12."
+    },
+    "nationality": null
+  },
+  "targetQueries": [
+    "troy aikman",
+    "troy aikman joe buck",
+    "troy aikman espn contract",
+    "troy aikman hall of fame",
+    "troy aikman super bowl",
+    "troy aikman first overall pick 1989",
+    "troy aikman college ucla",
+    "troy aikman monday night football"
+  ],
+  "gapNote": "Current news is about his ESPN contract (he said on Oct 15, 2026 he will be a free agent after this season) and reported tension with Joe Buck. Sources do not state nationality explicitly; left null."
+}

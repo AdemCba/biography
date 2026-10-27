@@ -1,0 +1,85 @@
+{
+  "worthWriting": true,
+  "reason": "Long-running national sportscaster (NFL, MLB, Monday Night Football) with multiple award-body and company sources, and a September 2026 contract report. Nationality, birth date and birthplace are not stated on any page I opened, so they are left null.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "baseball-hall-frick-2026",
+      "url": "https://baseballhall.org/news/2026-Ford-C-Frick-Award",
+      "title": "Joe Buck Named 2026 Ford C. Frick Award Winner for Broadcasting Excellence",
+      "publisher": "National Baseball Hall of Fame and Museum",
+      "type": "award-body",
+      "lang": "en"
+    },
+    {
+      "id": "mlb-frick-award-2026",
+      "url": "https://www.mlb.com/news/joe-buck-honored-with-ford-frick-award-like-father-jack-buck",
+      "title": "Just like his dad, Joe Buck to enter broadcasting pantheon with Frick Award",
+      "publisher": "MLB.com",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "pro-football-hof-rozelle-2020",
+      "url": "https://www.profootballhof.com/news/joe-buck-named-2020-pete-rozelle-radio-television-award-winner",
+      "title": "Joe Buck Named 2020 Pete Rozelle Radio-Television Award Winner",
+      "publisher": "Pro Football Hall of Fame",
+      "type": "award-body",
+      "lang": "en"
+    },
+    {
+      "id": "espn-press-room-bio",
+      "url": "https://espnpressroom.com/bio/joe-buck/",
+      "title": "Joe Buck biography",
+      "publisher": "ESPN Press Room",
+      "type": "company",
+      "lang": "en"
+    },
+    {
+      "id": "sports-broadcasting-hof-buck",
+      "url": "https://www.sportsbroadcastinghalloffame.org/inductees/joe-buck/",
+      "title": "Joe Buck inductee profile",
+      "publisher": "Sports Broadcasting Hall of Fame",
+      "type": "award-body",
+      "lang": "en"
+    },
+    {
+      "id": "cox-media-buck-espn-extension-2026",
+      "url": "https://www.wdbo.com/news/trending/report-sportscaster-joe-buck-agrees-new-espn-deal-worth-108-million/LPTHW33JQZGVXF6HEXQ5FHIURM/",
+      "title": "Report: Sportscaster Joe Buck agrees to new ESPN deal worth $108 million",
+      "publisher": "Cox Media Group National Content Desk (WDBO)",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "tvline-buck-espn-2022",
+      "url": "https://www.tvline.com/news/joe-buck-leaving-fox-sports-espn-1234806019/",
+      "title": "Joe Buck Leaving Fox Sports, Heading To ESPN — Report",
+      "publisher": "TVLine",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": null,
+    "deathDate": null,
+    "birthPlace": null,
+    "nationality": null
+  },
+  "targetQueries": [
+    "Who is Joe Buck?",
+    "Is Joe Buck related to Jack Buck?",
+    "Joe Buck ESPN contract",
+    "Joe Buck Troy Aikman Monday Night Football",
+    "Joe Buck Hall of Fame",
+    "How many Super Bowls has Joe Buck called?",
+    "Joe Buck Emmy Awards",
+    "Joe Buck Fox Sports career",
+    "Joe Buck St. Louis Cardinals",
+    "Joe Buck Frick Award 2026",
+    "Joe Buck Pete Rozelle Award"
+  ],
+  "gapNote": "Top results mix verified career facts with low-quality net-worth and bio sites that give conflicting birth data, college and early-career claims. The page should keep to facts from primary award, league and company pages and attribute the 2026 contract figures as reported, not confirmed by ESPN. The sources list 8 Emmy wins (ESPN) while the 2020 Pro Football Hall of Fame piece says seven; the page should cite the newer ESPN figure with attribution."
+}

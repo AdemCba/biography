@@ -1,0 +1,290 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Seit 1989 im Sportjournalismus, Studium an der Indiana University",
+      "sourceIds": [
+        "espn-press-room-bio",
+        "sports-broadcasting-hof-buck"
+      ],
+      "verdict": "confirmed",
+      "note": "ESPN bio: 1989 as undergraduate at Indiana University. Sports HOF: since 1989."
+    },
+    {
+      "claim": "Bekannt für NFL- und Baseball-Übertragungen bei Fox",
+      "sourceIds": [
+        "pro-football-hof-rozelle-2020",
+        "mlb-frick-award-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "FOX Sports NFL and national MLB coverage stated."
+    },
+    {
+      "claim": "Seit 2022 Monday Night Football für ESPN",
+      "sourceIds": [
+        "espn-press-room-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "March 2022 signing."
+    },
+    {
+      "claim": "Jack Buck, legendäre Stimme der Cardinals, war Joes Vater",
+      "sourceIds": [
+        "historystpete-joe-buck"
+      ],
+      "verdict": "confirmed",
+      "note": "Source identifies Jack Buck as father and legendary Cardinals broadcaster."
+    },
+    {
+      "claim": "Jack Buck kommentierte auch Profi-Football und Baseball",
+      "sourceIds": [
+        "historystpete-joe-buck",
+        "pro-football-hof-rozelle-2020"
+      ],
+      "verdict": "confirmed",
+      "note": "PFHOF: AFL/NFL football and baseball."
+    },
+    {
+      "claim": "Teil der Cardinals-Übertragungen 1991 bis 2007",
+      "sourceIds": [
+        "mlb-frick-award-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "1994 zu Fox Sports als NFL-Play-by-play-Kommentator",
+      "sourceIds": [
+        "baseball-hall-frick-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Führender Play-by-play-Kommentator der landesweiten MLB-Übertragungen bei Fox",
+      "sourceIds": [
+        "mlb-frick-award-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "2002 führende NFL-Stimme bei Fox",
+      "sourceIds": [
+        "sports-broadcasting-hof-buck"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Sechs Super Bowls",
+      "sourceIds": [
+        "pro-football-hof-rozelle-2020"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "24 World-Series-Übertragungen laut ESPN-Biografie",
+      "sourceIds": [
+        "espn-press-room-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Mehr World Series und All-Star-Spiele im Network-TV als jeder andere Play-by-play-Kommentator",
+      "sourceIds": [
+        "baseball-hall-frick-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Sports Broadcasting HOF 2022",
+      "sourceIds": [
+        "sports-broadcasting-hof-buck"
+      ],
+      "verdict": "confirmed",
+      "note": "Year Inducted: 2022."
+    },
+    {
+      "claim": "Acht Sports-Emmys für Play-by-play, Rekord gemeinsam",
+      "sourceIds": [
+        "sports-broadcasting-hof-buck",
+        "espn-press-room-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Both state it."
+    },
+    {
+      "claim": "PFHOF-Mitteilung 2020 nannte sieben Emmys",
+      "sourceIds": [
+        "pro-football-hof-rozelle-2020"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "TVLine (März 2022), laut Page Six: Freigabe ein Jahr früher, Position bei ESPN, MNF mit Aikman",
+      "sourceIds": [
+        "tvline-buck-espn-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated as reported."
+    },
+    {
+      "claim": "TVLine: beide Sender um Stellungnahme gebeten, keine Antwort im Artikel",
+      "sourceIds": [
+        "tvline-buck-espn-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "ESPN verpflichtete Buck mit Aikman im März 2022 als MNF-Play-by-play",
+      "sourceIds": [
+        "espn-press-room-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Erwartetes Gehalt rund fünf Jahre und mehr als 60 Mio. USD laut Page Six, wie TVLine es wiedergab",
+      "sourceIds": [
+        "tvline-buck-espn-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Upwards of $60 million, per Page Six."
+    },
+    {
+      "claim": "2025 zurück in der Baseball-Kabine für ESPN Opening Day",
+      "sourceIds": [
+        "baseball-hall-frick-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Pete Rozelle Award 2020, Verleihungsbeschreibung",
+      "sourceIds": [
+        "pro-football-hof-rozelle-2020"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Bekanntgabe in der Halbzeit Bengals-Browns, NFL-100-Jahr, September 2020",
+      "sourceIds": [
+        "pro-football-hof-rozelle-2020"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Buck und Vater erstes Vater-Sohn-Paar mit dem Rozelle Award",
+      "sourceIds": [
+        "pro-football-hof-rozelle-2020"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "NHOF 10. Dezember 2025: Frick Award 2026",
+      "sourceIds": [
+        "baseball-hall-frick-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Page dated 2025-12-10."
+    },
+    {
+      "claim": "Höchste Punktzahl im Frick-Komitee (16 Mitglieder), zehn Finalisten",
+      "sourceIds": [
+        "baseball-hall-frick-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Jack Buck 1987 Frick; einzige Vater-Sohn-Paar-Gewinner",
+      "sourceIds": [
+        "baseball-hall-frick-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Hall of Fame Weekend 24. bis 27. Juli 2026",
+      "sourceIds": [
+        "baseball-hall-frick-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Cox Media Bericht 16. September 2026, The Athletic, sechs Jahre rund 108 Mio. USD",
+      "sourceIds": [
+        "cox-media-buck-espn-extension-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Reported from sources; not confirmed by ESPN."
+    },
+    {
+      "claim": "Letzte Saison 75-Mio.-USD-Fünfjahresvertrag; Gehalt rund 18 Mio. USD pro Jahr laut Quellen",
+      "sourceIds": [
+        "cox-media-buck-espn-extension-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Verlängerung würde Februar-Super-Bowl (ESPN, erster) und 2031 (zweiter) ermöglichen",
+      "sourceIds": [
+        "cox-media-buck-espn-extension-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated as 'would let'."
+    },
+    {
+      "claim": "Krulewitz: ESPN kommentiert vor dem Super Bowl keine Vertragsdetails (indirekt)",
+      "sourceIds": [
+        "cox-media-buck-espn-extension-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Indirect speech in source."
+    },
+    {
+      "claim": "ESPN hat die Zahlen nicht bestätigt",
+      "sourceIds": [
+        "cox-media-buck-espn-extension-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "ESPN declined to discuss specifics."
+    },
+    {
+      "claim": "Troy Aikman ohne neuen Vertrag, letzte Saison 90-Mio.-USD-Fünfjahresvertrag",
+      "sourceIds": [
+        "cox-media-buck-espn-extension-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Geburt 25. April 1969 in St. Petersburg",
+      "sourceIds": [
+        "historystpete-joe-buck"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Localised German version with the Cox report caveats, the TVLine Page Six framing, and the Frick and Rozelle context. Corrections applied before this check.",
+  "decision": "approve",
+  "summary": "All claims supported by cited sources after corrections: Jack Buck claims cite historystpete, MNF claim cites ESPN, NFL 2002 lead role cites Sports Broadcasting HOF, and the Cox report and Krulewitz wording match the source. Metadescription shortened to fit the 170-character limit."
+}

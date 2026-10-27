@@ -1,0 +1,97 @@
+{
+  "worthWriting": true,
+  "reason": "French former Miss France 2002 who ran the Societe Miss France as its director for about 15 to 17 years (sources differ), now a media personality and author. Enough sourced press coverage across 2022 to 2026 to write a factual page.",
+  "wikidata": "",
+  "importance": 3,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "ozap-departure-2022",
+      "url": "https://www.ozap.com/actu/sylvie-tellier-quitte-la-direction-du-concours-miss-france-le-nom-de-sa-remplacante-officialise/620665",
+      "title": "Sylvie Tellier quitte la direction du concours Miss France, le nom de sa remplacante officialise",
+      "publisher": "Ozap",
+      "type": "press",
+      "lang": "fr"
+    },
+    {
+      "id": "parismatch-miss-france-rtl-2025",
+      "url": "https://www.parismatch.be/actualites/people/2025/12/10/sylvie-tellier-reagit-a-la-polemique-des-candidates-de-miss-france-avec-moi-elles-seraient-rentrees-chez-elles-PUJYKKMQJBBXJMD4PAXOUAVGNQ/",
+      "title": "Sylvie Tellier reagit a la polemique des candidates de Miss France : Avec moi, elles seraient rentrees chez elles",
+      "publisher": "Paris Match Belgique",
+      "type": "interview",
+      "lang": "fr"
+    },
+    {
+      "id": "parismatch-bruel-2026",
+      "url": "https://www.parismatch.be/actualites/people/2026/09/04/affaire-patrick-bruel-sylvie-tellier-lancienne-presidente-de-miss-france-pousse-un-coup-de-gueule-on-a-souvent-une-presomption-de-culpabilite-YBK7HUYND5G43PT2WRHBRM5RSI/",
+      "title": "Affaire Patrick Bruel: Sylvie Tellier, l'ancienne presidente de Miss France, pousse un coup de gueule",
+      "publisher": "Paris Match Belgique",
+      "type": "press",
+      "lang": "fr"
+    },
+    {
+      "id": "ozap-profile",
+      "url": "https://www.ozap.com/personnalite/sylvie-tellier_e891",
+      "title": "Sylvie Tellier",
+      "publisher": "Ozap",
+      "type": "database",
+      "lang": "fr"
+    },
+    {
+      "id": "purepeople-profile",
+      "url": "https://www.purepeople.com/people/sylvie-tellier_p945",
+      "title": "Sylvie Tellier",
+      "publisher": "Purepeople",
+      "type": "database",
+      "lang": "fr"
+    },
+    {
+      "id": "lyonmag-profile",
+      "url": "https://www.lyonmag.com/profil-personnalite-lyonnaise/123/sylvie-tellier",
+      "title": "Sylvie Tellier",
+      "publisher": "LyonMag",
+      "type": "database",
+      "lang": "fr"
+    },
+    {
+      "id": "purepeople-matignon-2023",
+      "url": "https://www.purepeople.com/article/sylvie-tellier-decoree-ceremonie-officielle-a-matignon-en-presence-de-nathalie-marquay-et-marlene-schiappa_a511111/1",
+      "title": "Sylvie Tellier decoree : ceremonie officielle a Matignon en presence de Nathalie Marquay et Marlene Schiappa",
+      "publisher": "Purepeople",
+      "type": "press",
+      "lang": "fr"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1978-05-28",
+      "sources": [
+        "lyonmag-profile",
+        "purepeople-profile"
+      ],
+      "note": "LyonMag and the text of the Purepeople profile give 28 May 1978. The Ozap profile box and the Purepeople profile box give 1979 instead. Both years appear in sources, so the page should state the discrepancy or avoid a year."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Nantes",
+      "sources": [
+        "lyonmag-profile",
+        "ozap-profile"
+      ],
+      "note": "Both sources give Nantes as the birthplace."
+    },
+    "nationality": null
+  },
+  "targetQueries": [
+    "Sylvie Tellier Miss France 2002",
+    "Sylvie Tellier age",
+    "Sylvie Tellier date de naissance",
+    "Sylvie Tellier directrice Miss France",
+    "Sylvie Tellier Patrick Bruel",
+    "Sylvie Tellier Ordre national du Merite",
+    "Sylvie Tellier Les Bonnes Fees",
+    "Sylvie Tellier Couronne et prejuges",
+    "Sylvie Tellier Miss France candidates RTL"
+  ],
+  "gapNote": "Current top results mix a Wikipedia entry with gossip and photo sites and disagree on the birth year (1978 or 1979) and on the length of her Miss France role (2007 to 2022, or 17 years). The page can state the discrepancy, cite the 2022 departure, the 2023 Ordre national du Merite award (26 June 2023, Matignon, presented by Marlene Schiappa, for her work with Les Bonnes Fees), her 2025 RTL remarks and her 2026 comments on the Patrick Bruel affair. No fetched source states her nationality, so nationality is left null. The July 2026 cancer remarks were only visible in photo captions and are not used."
+}

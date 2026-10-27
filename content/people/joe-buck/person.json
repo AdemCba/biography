@@ -1,0 +1,102 @@
+{
+  "id": "joe-buck",
+  "name": "Joe Buck",
+  "categories": [
+    "creators"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1969-04-25",
+      "sources": [
+        "historystpete-joe-buck"
+      ],
+      "note": "The St. Petersburg history museum blog gives April 25, 1969. It does not name a state or nationality."
+    },
+    "birthPlace": {
+      "value": "St. Petersburg",
+      "sources": [
+        "historystpete-joe-buck"
+      ],
+      "note": "The blog says he was born in St. Petersburg at St. Anthony's Hospital. It does not name the state."
+    }
+  },
+  "related": [
+    "troy-aikman"
+  ],
+  "sources": [
+    {
+      "id": "baseball-hall-frick-2026",
+      "url": "https://baseballhall.org/news/2026-Ford-C-Frick-Award",
+      "title": "Joe Buck Named 2026 Ford C. Frick Award Winner for Broadcasting Excellence",
+      "publisher": "National Baseball Hall of Fame and Museum",
+      "type": "award-body",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "mlb-frick-award-2026",
+      "url": "https://www.mlb.com/news/joe-buck-honored-with-ford-frick-award-like-father-jack-buck",
+      "title": "Just like his dad, Joe Buck to enter broadcasting pantheon with Frick Award",
+      "publisher": "MLB.com",
+      "type": "league-or-federation",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "pro-football-hof-rozelle-2020",
+      "url": "https://www.profootballhof.com/news/joe-buck-named-2020-pete-rozelle-radio-television-award-winner",
+      "title": "Joe Buck Named 2020 Pete Rozelle Radio-Television Award Winner",
+      "publisher": "Pro Football Hall of Fame",
+      "type": "award-body",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "espn-press-room-bio",
+      "url": "https://espnpressroom.com/bio/joe-buck/",
+      "title": "Joe Buck biography",
+      "publisher": "ESPN Press Room",
+      "type": "company",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "sports-broadcasting-hof-buck",
+      "url": "https://www.sportsbroadcastinghalloffame.org/inductees/joe-buck/",
+      "title": "Joe Buck inductee profile",
+      "publisher": "Sports Broadcasting Hall of Fame",
+      "type": "award-body",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "cox-media-buck-espn-extension-2026",
+      "url": "https://www.wdbo.com/news/trending/report-sportscaster-joe-buck-agrees-new-espn-deal-worth-108-million/LPTHW33JQZGVXF6HEXQ5FHIURM/",
+      "title": "Report: Sportscaster Joe Buck agrees to new ESPN deal worth $108 million",
+      "publisher": "Cox Media Group National Content Desk (WDBO)",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "tvline-buck-espn-2022",
+      "url": "https://www.tvline.com/news/joe-buck-leaving-fox-sports-espn-1234806019/",
+      "title": "Joe Buck Leaving Fox Sports, Heading To ESPN — Report",
+      "publisher": "TVLine",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "historystpete-joe-buck",
+      "url": "https://historystpete.org/blog/joe-buck/",
+      "title": "Before the Broadcast Booth: Joe Buck's St. Pete Beginning",
+      "publisher": "St. Petersburg Museum of History",
+      "type": "other",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    }
+  ]
+}

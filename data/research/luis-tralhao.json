@@ -1,0 +1,104 @@
+{
+  "worthWriting": true,
+  "reason": "Portuguese football coach, head coach of S.C.U. Torreense (Liga Portugal 2) since January 2026. Won the 2026 Taca de Portugal final (2-1 after extra time over Sporting, 24 May 2026). Eight opened sources, including the official club site and press coverage. Known in Portugal mainly for football, no crime or scandal.",
+  "wikidata": "",
+  "importance": 2,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "torreense-club-site",
+      "url": "https://torreense.com/",
+      "title": "SCU Torreense - Site Oficial",
+      "publisher": "S.C.U. Torreense",
+      "type": "official",
+      "lang": "pt"
+    },
+    {
+      "id": "fotmob-luis-tralhao",
+      "url": "https://www.fotmob.com/players/1145529/luis-tralhao",
+      "title": "Luis Tralhao - FotMob player profile",
+      "publisher": "FotMob",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "bolanarede-appointment",
+      "url": "https://bolanarede.pt/especial-bola-na-rede/atualidade/luis-tralhao-confirmado-como-novo-treinador-do-torreense/",
+      "title": "Luis Tralhao confirmado como novo treinador do Torreense",
+      "publisher": "Bola na Rede",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "soccerway-sub23",
+      "url": "https://pt.soccerway.com/noticias/futebol-taca-revelacao-sub23-oficial-luis-tralhao-e-o-novo-treinador-dos-sub-23-do-torreeense/06Ctxg9e",
+      "title": "Oficial: Luis Tralhao e o novo treinador dos sub-23 do Torreense",
+      "publisher": "Soccerway",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "ilfoglio-strange-europe",
+      "url": "https://www.ilfoglio.it/en/sport/2026/10/15/news/torreenses-strange-europe-is-luis-tralhaos-masterpiece--410564",
+      "title": "Torreense's 'Strange Europe' is Luis Tralhao's masterpiece",
+      "publisher": "Il Foglio",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "abola-final-match",
+      "url": "https://www.abola.pt/noticias/a-melhor-viagem-da-historia-de-um-gigante-bem-acordado-2026052522305464466",
+      "title": "A melhor viagem da historia de um gigante bem acordado",
+      "publisher": "A Bola",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "abola-renewal",
+      "url": "https://www.abola.pt/noticias/torreense-oficializa-renovacao-com-mestre-da-taca-de-portugal-2026072115550814715",
+      "title": "Torreense oficializa renovacao com mestre da Taca de Portugal",
+      "publisher": "A Bola",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "rtp-renewal",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/luis-tralhao-renova-com-o-torreense_d1754957",
+      "title": "Luis Tralhao renova com o Torreense",
+      "publisher": "RTP",
+      "type": "press",
+      "lang": "pt"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1978-09-19",
+      "sources": [
+        "fotmob-luis-tralhao"
+      ],
+      "note": "FotMob gives 19 September 1978. Press ages differ: 45 (soccerway-sub23, early 2026), 47 (abola-renewal, rtp-renewal), 48 (fotmob, Oct 2026). The FotMob date matches the age of 48 on 2026-10-27. Wikipedia also gives this date but is not used as a source."
+    },
+    "deathDate": null,
+    "birthPlace": null,
+    "nationality": {
+      "value": "PT",
+      "sources": [
+        "fotmob-luis-tralhao"
+      ],
+      "note": "FotMob: 'Luis Tralhao is from Portugal.'"
+    }
+  },
+  "targetQueries": [
+    "Luis Tralhao",
+    "Luis Tralhao Torreense",
+    "Luis Tralhao age",
+    "Luis Tralhao Taca de Portugal",
+    "Luis Tralhao Benfica",
+    "Luis Tralhao brother Joao",
+    "Torreense Taca de Portugal final 2026",
+    "Luis Tralhao contract Torreense",
+    "Luis Tralhao nationality",
+    "Luis Tralhao Cova da Piedade"
+  ],
+  "gapNote": "Current top results are mostly Wikipedia, stats sites and short match reports. Few sources give a full career timeline or his background before Torreense. The page is worth writing for the 2026 Taca de Portugal win by a second-tier club and his rise from Torreense Sub-23 coach to head coach. Open conflict: a Record sidebar mentions he is leaving Torreense (João Nuno expected to succeed), while A Bola and RTP report a renewal to 2028. Do not state the departure as fact. Birthplace (Lisbon) is only in Wikipedia, so it is left null."
+}

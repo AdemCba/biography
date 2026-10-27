@@ -1,0 +1,217 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Nascido a 19 de setembro de 1978; 48 anos a 27 de outubro de 2026",
+      "sourceIds": [
+        "fotmob-luis-tralhao"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob: born September 19, 1978; 48 years."
+    },
+    {
+      "claim": "Nacionalidade portuguesa",
+      "sourceIds": [
+        "fotmob-luis-tralhao"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob: from Portugal."
+    },
+    {
+      "claim": "Treinador principal do Torreense desde janeiro de 2026",
+      "sourceIds": [
+        "bolanarede-appointment",
+        "fotmob-luis-tralhao"
+      ],
+      "verdict": "confirmed",
+      "note": "Bola na Rede: new head coach 2 Jan 2026; FotMob: Jan 2026 - now."
+    },
+    {
+      "claim": "Torreense won the 2026 Taça de Portugal, first title in the competition",
+      "sourceIds": [
+        "abola-renewal"
+      ],
+      "verdict": "confirmed",
+      "note": "'inedita conquista da Taca de Portugal'."
+    },
+    {
+      "claim": "2-1 no prolongamento, Jamor, 24 de maio de 2026",
+      "sourceIds": [
+        "abola-final-match"
+      ],
+      "verdict": "confirmed",
+      "note": "Date and venue confirmed; score implied by goals."
+    },
+    {
+      "claim": "Passou muitos anos na formação do Benfica; integrou a equipa técnica dos juniores",
+      "sourceIds": [
+        "soccerway-sub23"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Foi adjunto do irmão João na equipa B do Benfica; assumiu o cargo quando João deixou o clube",
+      "sourceIds": [
+        "ilfoglio-strange-europe"
+      ],
+      "verdict": "confirmed",
+      "note": "Il Foglio: took over once João had packed his bags. Monaco removed."
+    },
+    {
+      "claim": "Trabalhou com Renato Sanches e Gonçalo Ramos",
+      "sourceIds": [
+        "ilfoglio-strange-europe"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "João tornou-se adjunto de confiança de José Mourinho no Real Madrid",
+      "sourceIds": [
+        "ilfoglio-strange-europe"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Antes de chegar ao Torreense, em 2024, orientou em 2019/20 o Cova da Piedade durante pouco tempo, em regime interino",
+      "sourceIds": [
+        "soccerway-sub23",
+        "ilfoglio-strange-europe"
+      ],
+      "verdict": "confirmed",
+      "note": "Soccerway: 2019/20 interim; Il Foglio: brief spell."
+    },
+    {
+      "claim": "Chegou ao Torreense em 2024 para orientar a equipa de sub-23",
+      "sourceIds": [
+        "rtp-renewal"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Na primeira época ganhou a Liga Revelação com essa equipa",
+      "sourceIds": [
+        "rtp-renewal"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Substituiu Tiago Fernandes, promovido à equipa principal",
+      "sourceIds": [
+        "soccerway-sub23"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "A 2 de janeiro de 2026 confirmado como treinador principal, em substituição de Vítor Martins",
+      "sourceIds": [
+        "bolanarede-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Nono lugar da Segunda Liga, 20 pontos em 16 jogos, seis derrotas consecutivas",
+      "sourceIds": [
+        "bolanarede-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Kévin Zohi aos 4 minutos; Luis Suárez aos 54; penálti de Stopira no prolongamento; árbitro António Nobre",
+      "sourceIds": [
+        "abola-final-match"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Tralhao liderava o grupo há apenas cinco meses no momento da final",
+      "sourceIds": [
+        "abola-final-match"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Supertaça contra o FC Porto em Coimbra; 'Vencer? Porque não?'; nunca uma equipa da Segunda Liga tinha ganho a Taça",
+      "sourceIds": [
+        "record-supertaca"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed. The 2026 year is inferred from the 2026 cup win."
+    },
+    {
+      "claim": "A 21 de julho de 2026 prolongamento de duas épocas; mensagem 'A missão continua' com vídeo",
+      "sourceIds": [
+        "abola-renewal"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Lugar na fase de liga da Liga Europa 2026/27, primeira presença do clube",
+      "sourceIds": [
+        "abola-renewal"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed; season label inferred."
+    },
+    {
+      "claim": "O Torreense esteve também perto da subida e perdeu o último jogo para o Casa Pia",
+      "sourceIds": [
+        "abola-renewal"
+      ],
+      "verdict": "confirmed",
+      "note": "Promotion missed 'por uma unha negra'; lost final match to Casa Pia."
+    },
+    {
+      "claim": "FAQ: alguma imprensa indicava 45 anos ou 47 anos",
+      "sourceIds": [
+        "soccerway-sub23",
+        "rtp-renewal"
+      ],
+      "verdict": "confirmed",
+      "note": "Soccerway: 45 anos; RTP: 47 anos."
+    },
+    {
+      "claim": "FAQ: em julho de 2026 o clube confirmou um prolongamento de duas épocas",
+      "sourceIds": [
+        "abola-renewal"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "O clube chama-se oficialmente S.C.U. Torreense",
+      "sourceIds": [
+        "torreense-club-site"
+      ],
+      "verdict": "confirmed",
+      "note": "'SCU Torreense'."
+    },
+    {
+      "claim": "Summary: Torreense, clube da Segunda Liga",
+      "sourceIds": [
+        "bolanarede-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "Source calls the league Segunda Liga."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Same timeline and sources as the English version, localised. Press-heavy.",
+  "decision": "approve",
+  "summary": "All claims checked against the fetched sources and confirmed after revision. Remaining inferences: the 2026 Supertaca year and the 2026/27 Europa League season label."
+}

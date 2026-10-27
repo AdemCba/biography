@@ -1,0 +1,256 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Won Miss Lyon 2001 and then Miss France 2002",
+      "sourceIds": [
+        "lyonmag-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "LyonMag: Miss Lyon 2001 puis Miss France 2002."
+    },
+    {
+      "claim": "Crowned on 8 December 2001",
+      "sourceIds": [
+        "purepeople-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Purepeople: sacrée Miss France 2002 le 8 décembre 2001."
+    },
+    {
+      "claim": "Later ran the company that organises the contest; still comments on the pageant in interviews",
+      "sourceIds": [
+        "parismatch-miss-france-rtl-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "RTL interview on Les Grosses Têtes; she is described as no longer part of the organisation."
+    },
+    {
+      "claim": "Born in Nantes",
+      "sourceIds": [
+        "lyonmag-profile",
+        "ozap-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "LyonMag: Née le 28 mai 1978 à Nantes; Ozap: Naissance : 28 mai 1979, Nantes."
+    },
+    {
+      "claim": "Grew up in Les Sables-d'Olonne in Vendée and moved to Lyon in the late 1980s to study law",
+      "sourceIds": [
+        "purepeople-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Purepeople: grandit aux Sables-d'Olonne, en Vendée; s'installer à Lyon à la fin des années 1980 pour y étudier le droit."
+    },
+    {
+      "claim": "Birth year conflict: LyonMag gives 28 May 1978; Ozap gives 28 May 1979",
+      "sourceIds": [
+        "lyonmag-profile",
+        "ozap-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Both values confirmed on the cited pages; the conflict is stated and not resolved, as required."
+    },
+    {
+      "claim": "Purepeople gives 1978 in its text and 1979 in its profile box",
+      "sourceIds": [
+        "purepeople-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Infobox: Naissance : 28 mai 1979; text: Née le 28 mai 1978."
+    },
+    {
+      "claim": "Appointed directrice générale of the Société Miss France in January 2007",
+      "sourceIds": [
+        "purepeople-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "En janvier 2007, Sylvie Tellier est nommée directrice générale."
+    },
+    {
+      "claim": "Purepeople describes the mandate as 17 years, ending in 2022",
+      "sourceIds": [
+        "purepeople-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Son mandat, long de 17 ans; held the post until 2022."
+    },
+    {
+      "claim": "The two dates give about 15 years and the sources do not reconcile them",
+      "sourceIds": [
+        "purepeople-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic on 2007 and 2022; LyonPeople gives 14 years, which supports the non-reconciliation."
+    },
+    {
+      "claim": "Former managing director of Miss Europe Organisation (LyonMag)",
+      "sourceIds": [
+        "lyonmag-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Ancienne directrice générale de la Société Miss France et de Miss Europe Organisation."
+    },
+    {
+      "claim": "Departure announced in a statement; Ozap report dated 31 August 2022",
+      "sourceIds": [
+        "ozap-departure-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Publié le 31 août 2022; dans un communiqué."
+    },
+    {
+      "claim": "Left after 17 years at the head of the organisation",
+      "sourceIds": [
+        "ozap-departure-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "après 17 ans à la tête de l'organisation."
+    },
+    {
+      "claim": "Would co-present the Miss France 2023 ceremony on TF1 in December and then become honorary president",
+      "sourceIds": [
+        "ozap-departure-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "co-présentation de la cérémonie de Miss France 2023 sur TF1; deviendra présidente d'honneur."
+    },
+    {
+      "claim": "Successor Cindy Fabre due to make first prime-time appearance in December 2023",
+      "sourceIds": [
+        "ozap-departure-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "fera ses premiers pas en prime time en décembre 2023."
+    },
+    {
+      "claim": "On 26 June 2023 made a chevalier of the Ordre national du Mérite in the gardens of the Hôtel de Matignon",
+      "sourceIds": [
+        "purepeople-matignon-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Le 26 juin 2023; dans les jardins de l'hôtel Matignon. Chevalier rank appears in photo captions."
+    },
+    {
+      "claim": "The state cited her daily involvement in the not-for-profit sector",
+      "sourceIds": [
+        "purepeople-matignon-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "l'investissement quotidien de Sylvie Tellier dans le milieu associatif."
+    },
+    {
+      "claim": "Co-founded Les Bonnes fées with several former Miss France winners",
+      "sourceIds": [
+        "purepeople-matignon-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "co-fondatrice, avec plusieurs anciennes Miss France, de l'association Les Bonnes fées."
+    },
+    {
+      "claim": "Most recent book Couronne et préjugés published in 2024",
+      "sourceIds": [
+        "purepeople-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Son dernier livre, Couronne et préjugés (2024). Sud Radio spells the title Couronnes et préjugés (plural); the singular form is used on the page as in Purepeople."
+    },
+    {
+      "claim": "Publisher was Éditions Fayard",
+      "sourceIds": [
+        "sudradio-book-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "(Éditions Fayard)."
+    },
+    {
+      "claim": "Sud Radio describes a look behind the scenes of Miss France with unreleased anecdotes and personal confidences, aiming to challenge stereotypes",
+      "sourceIds": [
+        "sudradio-book-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "l'envers d'un décor; anecdotes inédites et confidences; déjoue les clichés et déconstruit les préjugés."
+    },
+    {
+      "claim": "On 20 May 2024 announced as one of five new celebrities for season 3 of Les Traîtres, presented by Eric Antoine",
+      "sourceIds": [
+        "ozap-traitres-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Publié le 20 mai 2024; cinq nouvelles célébrités; jeu présenté par Eric Antoine."
+    },
+    {
+      "claim": "On 9 December 2025 spoke on RTL's Les Grosses Têtes about a row among Miss France candidates",
+      "sourceIds": [
+        "parismatch-miss-france-rtl-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Au micro des Grosses Têtes, ce mardi 9 décembre. The year is taken from the publication date 10-12-2025."
+    },
+    {
+      "claim": "Called the behaviour disrespectful: C'est irrespectueux",
+      "sourceIds": [
+        "parismatch-miss-france-rtl-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "C'est irrespectueux."
+    },
+    {
+      "claim": "Said she had not reacted publicly because she is no longer part of the Miss France organisation",
+      "sourceIds": [
+        "parismatch-miss-france-rtl-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "je ne fais plus partie de l'organisation Miss France."
+    },
+    {
+      "claim": "Not consulted when two candidates lost their titles",
+      "sourceIds": [
+        "parismatch-miss-france-rtl-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Paraphrase: she was not consulted because she is no longer directrice générale."
+    },
+    {
+      "claim": "Avec moi, elles seraient rentrées chez elle",
+      "sourceIds": [
+        "parismatch-miss-france-rtl-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Body text reads chez elle; the headline reads chez elles."
+    },
+    {
+      "claim": "On 4 September 2026 Paris Match Belgium reported her comments on Le Figaro's Buzz TV about the Patrick Bruel affair",
+      "sourceIds": [
+        "parismatch-bruel-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Publié le 04-09-2026; Invitée de l'émission Buzz TV du Figaro; Affaire Patrick Bruel."
+    },
+    {
+      "claim": "Quote: On a souvent une présomption de culpabilité aujourd'hui avec les réseaux sociaux",
+      "sourceIds": [
+        "parismatch-bruel-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact quote present."
+    },
+    {
+      "claim": "As president of Miss France she had never observed the slightest negative behaviour (Bruel-affair comments)",
+      "sourceIds": [
+        "parismatch-bruel-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "En tant que présidente de Miss France, je n'ai jamais constaté le moindre comportement négatif. Bruel is not named in the quote, so the page no longer attributes that remark to him."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "The page sets out the birth-year conflict, the 17-year versus 2007-2022 mismatch and the attributed quotes, which is more careful than the usual top results.",
+  "decision": "approve",
+  "summary": "All remaining claims confirmed on the cited sources. Schiappa presenting-the-insignia sentence removed (not in cited article); Bruel sentence reworded to the general quote. Note: Sud Radio spells the book title Couronnes et préjugés (plural); the page keeps the singular used by Purepeople."
+}

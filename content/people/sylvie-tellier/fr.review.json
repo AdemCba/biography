@@ -1,0 +1,211 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Couronnée Miss France le 8 décembre 2001; Miss Lyon 2001 puis Miss France 2002",
+      "sourceIds": [
+        "purepeople-profile",
+        "lyonmag-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Both supported."
+    },
+    {
+      "claim": "Naissance à Nantes",
+      "sourceIds": [
+        "lyonmag-profile",
+        "ozap-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Both give Nantes."
+    },
+    {
+      "claim": "Année de naissance disputée: LyonMag 1978, Ozap 1979, Purepeople texte 1978 et encadré 1979",
+      "sourceIds": [
+        "lyonmag-profile",
+        "ozap-profile",
+        "purepeople-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Verified; the conflict is stated and no year is chosen."
+    },
+    {
+      "claim": "Janvier 2007 directrice générale; mandat de 17 ans jusqu'en 2022; 15 vs 17 mismatch stated",
+      "sourceIds": [
+        "purepeople-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported."
+    },
+    {
+      "claim": "Départ annoncé dans un communiqué; article Ozap daté du 31 août 2022",
+      "sourceIds": [
+        "ozap-departure-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Weekday removed."
+    },
+    {
+      "claim": "Quittait l'organisation après 17 ans à sa tête",
+      "sourceIds": [
+        "ozap-departure-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: apres 17 ans a la tete de l'organisation."
+    },
+    {
+      "claim": "Coprésentation de Miss France 2023 sur TF1 puis présidente d'honneur",
+      "sourceIds": [
+        "ozap-departure-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported."
+    },
+    {
+      "claim": "Successeure Cindy Fabre, premiers pas en prime time en décembre 2023",
+      "sourceIds": [
+        "ozap-departure-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported."
+    },
+    {
+      "claim": "FAQ: Cindy Fabre lui a succédé à la tête du concours",
+      "sourceIds": [
+        "ozap-departure-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: la nouvelle directrice Cindy Fabre."
+    },
+    {
+      "claim": "26 juin 2023, chevalier de l'Ordre national du Mérite, jardins de l'hôtel de Matignon",
+      "sourceIds": [
+        "purepeople-matignon-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported."
+    },
+    {
+      "claim": "Remise par Marlène Schiappa, secrétaire d'État",
+      "sourceIds": [
+        "purepeople-matignon-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported."
+    },
+    {
+      "claim": "L'État a salué son engagement quotidien dans le monde associatif",
+      "sourceIds": [
+        "purepeople-matignon-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported."
+    },
+    {
+      "claim": "Cofondatrice des Bonnes fées avec plusieurs anciennes Miss France",
+      "sourceIds": [
+        "purepeople-matignon-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported. The honour link is removed."
+    },
+    {
+      "claim": "Couronne et préjugés paru en 2024; éditeur Éditions Fayard",
+      "sourceIds": [
+        "purepeople-profile",
+        "sudradio-book-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported."
+    },
+    {
+      "claim": "Sud Radio: coulisses, anecdotes inédites, confidences, déconstruire les stéréotypes",
+      "sourceIds": [
+        "sudradio-book-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported."
+    },
+    {
+      "claim": "20 mai 2024, parmi les cinq nouvelles célébrités des Traîtres saison 3, présentée par Eric Antoine",
+      "sourceIds": [
+        "ozap-traitres-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported."
+    },
+    {
+      "claim": "9 décembre 2025 sur RTL, Les Grosses Têtes",
+      "sourceIds": [
+        "parismatch-miss-france-rtl-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported."
+    },
+    {
+      "claim": "« C'est irrespectueux »",
+      "sourceIds": [
+        "parismatch-miss-france-rtl-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact quote."
+    },
+    {
+      "claim": "« je ne fais plus partie de l'organisation Miss France »",
+      "sourceIds": [
+        "parismatch-miss-france-rtl-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact first-person quote now used."
+    },
+    {
+      "claim": "Non consultée lorsque deux candidates ont perdu leur titre",
+      "sourceIds": [
+        "parismatch-miss-france-rtl-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Article narration."
+    },
+    {
+      "claim": "« Avec moi, elles seraient rentrées chez elle »",
+      "sourceIds": [
+        "parismatch-miss-france-rtl-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the body wording now."
+    },
+    {
+      "claim": "4 septembre 2026, Paris Match Belgique, propos sur Buzz TV (Le Figaro) sur l'affaire Bruel; citation sur la présomption de culpabilité",
+      "sourceIds": [
+        "parismatch-bruel-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported."
+    },
+    {
+      "claim": "Ne jamais avoir vu Patrick Bruel se comporter mal",
+      "sourceIds": [
+        "parismatch-bruel-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported."
+    },
+    {
+      "claim": "Nationality French",
+      "sourceIds": [
+        "lyonpeople-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "States the birth-year conflict and the 15 vs 17 year mismatch explicitly.",
+  "decision": "approve",
+  "summary": "All claims checked against the cited pages after the fixes. The birth-year conflict is stated; no unsupported or wrong claims remain."
+}

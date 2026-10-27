@@ -1,0 +1,226 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Coronada Miss Francia 2002 el 8 de diciembre de 2001",
+      "sourceIds": [
+        "purepeople-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Purepeople bio: sacree Miss France 2002 le 8 decembre 2001."
+    },
+    {
+      "claim": "Ganó Miss Lyon 2001 y después Miss Francia 2002",
+      "sourceIds": [
+        "lyonmag-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "LyonMag: Miss Lyon 2001 puis Miss France 2002."
+    },
+    {
+      "claim": "Nacimiento en Nantes",
+      "sourceIds": [
+        "lyonmag-profile",
+        "ozap-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources give Nantes."
+    },
+    {
+      "claim": "Año de nacimiento en disputa: LyonMag 1978, Ozap 1979, Purepeople texto 1978 y recuadro 1979",
+      "sourceIds": [
+        "lyonmag-profile",
+        "ozap-profile",
+        "purepeople-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Values verified; the article states the conflict and does not pick a year."
+    },
+    {
+      "claim": "Nombrada directora general de la Société Miss France en enero de 2007; mandato de 17 años que terminó en 2022",
+      "sourceIds": [
+        "purepeople-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Purepeople: enero 2007, hasta 2022, mandato de 17 anos. The 15 vs 17 mismatch is stated."
+    },
+    {
+      "claim": "Salida anunciada en un comunicado; informe de Ozap fechado el 31 de agosto de 2022",
+      "sourceIds": [
+        "ozap-departure-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Publie le 31 aout 2022. Weekday removed."
+    },
+    {
+      "claim": "Llevaba 17 años al frente de la organización, tras los que se marchaba",
+      "sourceIds": [
+        "ozap-departure-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: apres 17 ans a la tete de l'organisation."
+    },
+    {
+      "claim": "Copresentaría la gala de Miss Francia 2023 en TF1 en diciembre y después sería presidenta de honor",
+      "sourceIds": [
+        "ozap-departure-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Source supports both."
+    },
+    {
+      "claim": "Sucesora Cindy Fabre, debut en prime time en diciembre de 2023",
+      "sourceIds": [
+        "ozap-departure-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Source supports it."
+    },
+    {
+      "claim": "FAQ: Cindy Fabre la sucedió al frente del concurso",
+      "sourceIds": [
+        "ozap-departure-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: la nouvelle directrice Cindy Fabre."
+    },
+    {
+      "claim": "Recibió la condecoración de caballero de la Orden Nacional del Mérito el 26 de junio de 2023 en los jardines del Hôtel de Matignon",
+      "sourceIds": [
+        "purepeople-matignon-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Article: 26 June 2023, jardins de l'hotel Matignon."
+    },
+    {
+      "claim": "La entregó Marlène Schiappa, secretaria de Estado",
+      "sourceIds": [
+        "purepeople-matignon-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Source names Schiappa."
+    },
+    {
+      "claim": "El Estado destacó su implicación diaria en el sector asociativo",
+      "sourceIds": [
+        "purepeople-matignon-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: investissement quotidien ... dans le milieu associatif."
+    },
+    {
+      "claim": "Cofundadora de Les Bonnes fées junto con varias antiguas Miss Francia",
+      "sourceIds": [
+        "purepeople-matignon-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Source supports co-founder role."
+    },
+    {
+      "claim": "Couronne et préjugés publicado en 2024",
+      "sourceIds": [
+        "purepeople-profile",
+        "sudradio-book-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Purepeople profile gives 2024; Sud Radio plural title, July 2024."
+    },
+    {
+      "claim": "Editado por Éditions Fayard",
+      "sourceIds": [
+        "sudradio-book-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Caption: Editions Fayard."
+    },
+    {
+      "claim": "Sud Radio: entre bastidores, anécdotas inéditas, confidencias, cuestionar estereotipos",
+      "sourceIds": [
+        "sudradio-book-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported."
+    },
+    {
+      "claim": "20 de mayo de 2024: una de cinco nuevas celebridades de la tercera temporada de Les Traîtres, presentado por Eric Antoine",
+      "sourceIds": [
+        "ozap-traitres-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported."
+    },
+    {
+      "claim": "9 de diciembre de 2025: habló en RTL, programa Les Grosses Têtes",
+      "sourceIds": [
+        "parismatch-miss-france-rtl-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Article: ce mardi 9 decembre, au micro des Grosses Tetes, RTL."
+    },
+    {
+      "claim": "'C'est irrespectueux' and 'je ne fais plus partie de l'organisation Miss France'",
+      "sourceIds": [
+        "parismatch-miss-france-rtl-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact quotes in source."
+    },
+    {
+      "claim": "No la consultaron cuando se retiraron los títulos de dos candidatas",
+      "sourceIds": [
+        "parismatch-miss-france-rtl-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Article narration."
+    },
+    {
+      "claim": "Cita 'Avec moi, elles seraient rentrées chez elle'",
+      "sourceIds": [
+        "parismatch-miss-france-rtl-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the body wording now."
+    },
+    {
+      "claim": "4 de septiembre de 2026, Paris Match Bélgica recogió sus declaraciones en Buzz TV (Le Figaro) sobre el caso Bruel",
+      "sourceIds": [
+        "parismatch-bruel-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Published 4 September 2026; Buzz TV."
+    },
+    {
+      "claim": "Cita 'On a souvent une présomption de culpabilité aujourd'hui avec les réseaux sociaux'",
+      "sourceIds": [
+        "parismatch-bruel-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact quote."
+    },
+    {
+      "claim": "Nunca vio a Bruel comportarse mal durante sus años en Miss Francia",
+      "sourceIds": [
+        "parismatch-bruel-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: never saw le moindre comportement negatif."
+    },
+    {
+      "claim": "Nationality French",
+      "sourceIds": [
+        "lyonpeople-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Lyonpeople: Nationalite Francaise."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "States the birth-year conflict and the 15 vs 17 year mismatch explicitly.",
+  "decision": "approve",
+  "summary": "All claims checked against the cited pages after the fixes. The birth-year conflict is stated; no unsupported or wrong claims remain."
+}

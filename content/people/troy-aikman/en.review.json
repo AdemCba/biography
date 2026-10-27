@@ -1,0 +1,310 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born November 21, 1966",
+      "sourceIds": [
+        "cfbhall-aikman",
+        "harry-walker-aikman"
+      ],
+      "verdict": "confirmed",
+      "note": "Both pages state the date."
+    },
+    {
+      "claim": "Born in West Covina, California",
+      "sourceIds": [
+        "cfbhall-aikman",
+        "harry-walker-aikman"
+      ],
+      "verdict": "confirmed",
+      "note": "CFB Hall page says born in West Covina, CA."
+    },
+    {
+      "claim": "Raised in Cerritos; family moved to Henryetta, Oklahoma when he was 12",
+      "sourceIds": [
+        "harry-walker-aikman",
+        "espn-press-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Both pages state it."
+    },
+    {
+      "claim": "Oklahoma 1984 to 1985, then transferred to UCLA",
+      "sourceIds": [
+        "cfbhall-aikman"
+      ],
+      "verdict": "confirmed",
+      "note": "CFB Hall page lists Oklahoma (1984-1985) and transfer to UCLA."
+    },
+    {
+      "claim": "UCLA 'immediate and indelible impact' in two seasons",
+      "sourceIds": [
+        "cfbhall-aikman"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted wording matches."
+    },
+    {
+      "claim": "Consensus first-team All-American, third in Heisman voting, Davey O'Brien Award, Pac-10 Offensive Player of the Year after junior season",
+      "sourceIds": [
+        "cfbhall-aikman"
+      ],
+      "verdict": "confirmed",
+      "note": "All stated. The page gives 1987 and 1988 for All-America in different places, but the article gives no year."
+    },
+    {
+      "claim": "UCLA career 5,436 passing yards; single-season records 228 completions and 64.8 completion percentage",
+      "sourceIds": [
+        "cfbhall-aikman"
+      ],
+      "verdict": "confirmed",
+      "note": "Numbers match."
+    },
+    {
+      "claim": "Aloha Bowl 1987 and Cotton Bowl 1989 wins",
+      "sourceIds": [
+        "cfbhall-aikman"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "College Football Hall of Fame induction in 2008",
+      "sourceIds": [
+        "cfbhall-aikman"
+      ],
+      "verdict": "confirmed",
+      "note": "Inducted 2008."
+    },
+    {
+      "claim": "Taken first overall in the 1989 NFL Draft by Dallas; entire playing career with Cowboys (1989 to 2000)",
+      "sourceIds": [
+        "pfhof-profile",
+        "tshof-aikman"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile gives first overall pick and Dallas tenure 1989 to 2000."
+    },
+    {
+      "claim": "Dallas finished 3-13 in 1988",
+      "sourceIds": [
+        "pfhof-1989-draft"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "One of only 14 players to go from first overall pick to Hall of Fame election",
+      "sourceIds": [
+        "pfhof-1989-draft"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated (14 players)."
+    },
+    {
+      "claim": "Three Super Bowls (XXVII, XXVIII, XXX) with Dallas",
+      "sourceIds": [
+        "pfhof-profile",
+        "espn-press-bio",
+        "tshof-aikman"
+      ],
+      "verdict": "confirmed",
+      "note": "ESPN names XXVII, XXVIII, XXX. Profile names XXVIII and XXX and the wins by year."
+    },
+    {
+      "claim": "Aikman was the MVP of Super Bowl XXVII, when Dallas beat Buffalo 52-17 and he completed 22 of 30 passes",
+      "sourceIds": [
+        "tshof-aikman"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Six Pro Bowls, 1991 to 1996",
+      "sourceIds": [
+        "tshof-aikman"
+      ],
+      "verdict": "confirmed",
+      "note": "Years listed."
+    },
+    {
+      "claim": "Career 32,942 passing yards and 165 touchdowns; Cowboys all-time leader in passing yards, TDs, completions and attempts",
+      "sourceIds": [
+        "tshof-aikman",
+        "pfhof-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on both."
+    },
+    {
+      "claim": "Voted into Pro Football Hall of Fame in February 2006, Canton, Ohio",
+      "sourceIds": [
+        "espn-press-bio",
+        "pfhof-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "ESPN gives February 2006, Canton. Profile gives Class of 2006."
+    },
+    {
+      "claim": "One of four quarterbacks to win three Super Bowls",
+      "sourceIds": [
+        "foxsports-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Fox 2001: No. 2 team with Dick Stockton and Daryl Johnston; then No. 1 team with Joe Buck and Cris Collinsworth after one season",
+      "sourceIds": [
+        "foxsports-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Lead NFL game analyst at Fox for more than two decades",
+      "sourceIds": [
+        "harry-walker-aikman"
+      ],
+      "verdict": "confirmed",
+      "note": "Harry Walker says lead game analyst for over 20 years."
+    },
+    {
+      "claim": "ESPN new NFL game analyst on Monday Night Football with Buck",
+      "sourceIds": [
+        "espn-press-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Pair described as the NFL's most consistent broadcasting tandem",
+      "sourceIds": [
+        "espn-press-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted ESPN bio wording."
+    },
+    {
+      "claim": "MNF won a Sports Emmy for Outstanding Live Sports Series",
+      "sourceIds": [
+        "espn-press-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated (2023 season)."
+    },
+    {
+      "claim": "Buck is an Emmy-winning play-by-play announcer",
+      "sourceIds": [
+        "foxsports-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Worked together 25 years; passed Summerall and Madden as longest-tenured pair in 2023, their second ESPN season",
+      "sourceIds": [
+        "suntimes-aikman-buck-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Older Fox bio said the duo was second only to Summerall and Madden",
+      "sourceIds": [
+        "foxsports-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated. Article correctly calls it older, so no conflict with the 2023 claim."
+    },
+    {
+      "claim": "Aikman quote: 'I'll broadcast through this season, and I'll be a free agent at the end of the year...'",
+      "sourceIds": [
+        "suntimes-aikman-buck-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted wording matches, said on The Ticket (WTCK) Dallas."
+    },
+    {
+      "claim": "Aikman on Buck tension: 'probably a time and a place...' and 'I don't know if now is the time'",
+      "sourceIds": [
+        "newsweek-aikman-buck"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted wording matches."
+    },
+    {
+      "claim": "On October 15, 2026 he told The Ticket in Dallas",
+      "sourceIds": [
+        "suntimes-aikman-buck-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Date taken from article URL (2026/10/15); page says Thursday appearance."
+    },
+    {
+      "claim": "Front Office Sports reported Aikman and Buck had argued before a broadcast as tension grew over ESPN contracts",
+      "sourceIds": [
+        "suntimes-aikman-buck-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated as FOS reporting. No date claimed."
+    },
+    {
+      "claim": "Buck agreed to six-year deal (The Athletic), in September",
+      "sourceIds": [
+        "suntimes-aikman-buck-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Page says 'last month' relative to Oct 15, so September."
+    },
+    {
+      "claim": "Front Office Sports: Aikman had not received an offer from ESPN",
+      "sourceIds": [
+        "suntimes-aikman-buck-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Buck addressed tension on air before Bills and Rams broadcast, defusing it",
+      "sourceIds": [
+        "suntimes-aikman-buck-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "ESPN airs its first Super Bowl at end of this season",
+      "sourceIds": [
+        "suntimes-aikman-buck-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Aikman has options at other networks; consulting for Miami Dolphins, could open NFL front office path",
+      "sourceIds": [
+        "suntimes-aikman-buck-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated as possibilities."
+    },
+    {
+      "claim": "Age 59 on October 27, 2026",
+      "sourceIds": [
+        "cfbhall-aikman"
+      ],
+      "verdict": "confirmed",
+      "note": "Birth date Nov 21 1966; he turns 60 on Nov 21 2026."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear contract timeline with on-record quotes and the Sun-Times/FOS sourcing. Primary sources (CFB Hall, Hall of Fame, ESPN bio) are used for biography facts.",
+  "decision": "approve",
+  "summary": "All claims checked against the cited pages are supported. The two earlier problems are fixed: the editorial 'biggest game' line is reworded to a sourced fact, and the undated 'the same week' timing is removed."
+}
