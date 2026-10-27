@@ -26,6 +26,8 @@ export const metadata: Metadata = {
     apple: "/apple-touch-icon.png",
   },
   verification: site.googleVerification ? { google: site.googleVerification } : undefined,
+  // AdSense site verification (the "meta tag" option in AdSense > Sites).
+  other: site.adsenseClient ? { "google-adsense-account": site.adsenseClient } : undefined,
 };
 
 export const viewport: Viewport = { themeColor: "#fbfaf7", width: "device-width", initialScale: 1 };
