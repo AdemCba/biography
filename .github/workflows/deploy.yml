@@ -73,7 +73,7 @@ jobs:
         run: npm run review -- --limit ${{ vars.REVIEW_LIMIT || 20 }}
 
       - name: Schedule approved articles (drip publishing)
-        run: npm run schedule -- --per-day ${{ vars.PUBLISH_PER_DAY || 8 }}
+        run: npm run schedule -- --per-day ${{ vars.PUBLISH_PER_DAY || 1000 }}
 
       - name: Commit automatic changes
         run: |

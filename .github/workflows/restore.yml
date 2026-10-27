@@ -35,7 +35,7 @@ jobs:
           mkdir -p content/topics && cp -rn restored/content/topics/. content/topics/ 2>/dev/null || true
           mkdir -p data/research && cp -rn restored/data/research/. data/research/ 2>/dev/null || true
           rm -rf restored
-          npx tsx scripts/schedule.ts --per-day 30
+          npx tsx scripts/schedule.ts --per-day 1000
       - name: Commit and publish
         env:
           GH_TOKEN: ${{ github.token }}

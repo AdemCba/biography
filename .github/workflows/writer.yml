@@ -76,7 +76,7 @@ jobs:
             - Do the writing and fact-checking yourself or with subagents on the same model. Never start a
               subagent in the background: run each one in the foreground (several in one message is fine) and
               wait for its result. When you end your turn the run is over and unfinished work is lost.
-            - Step 6: only run `npx tsx scripts/schedule.ts --per-day 8`. Do not commit, push or open a PR;
+            - Step 6: only run `npx tsx scripts/schedule.ts --per-day 1000` (everything goes live the same day). Do not commit, push or open a PR;
               the workflow commits after you finish.
             - Always finish all the people (the named ones, or ${{ inputs.count || 5 }} from trends) in all five languages. To save usage, keep research
               short (the fewest sources that back every claim) and fact-check in one pass where you can; never drop
