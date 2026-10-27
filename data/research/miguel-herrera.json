@@ -1,0 +1,120 @@
+{
+  "worthWriting": true,
+  "reason": "Mexican football coach with a long Liga MX and national-team career. Current news: Atlante's CEO said on 26 Oct 2026 that Herrera's continuity is not in doubt. Sources are press reports plus one federation page and one database.",
+  "wikidata": "",
+  "importance": 3,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "tvazteca-atlante-future",
+      "url": "https://www.tvazteca.com/aztecadeportes/oficial-directivo-del-atlante-confirma-futuro-miguel-herrera/",
+      "title": "Oficial: directivo del Atlante confirma futuro de Miguel Herrera",
+      "publisher": "TV Azteca",
+      "type": "press",
+      "lang": "es"
+    },
+    {
+      "id": "foxsports-atlante-doubt",
+      "url": "https://www.foxsports.com.mx/2026/10/24/miguel-herrera-pone-en-duda-su-futuro-en-el-atlante-tras-perder-con-san-luis-tomaremos-decisiones/",
+      "title": "Miguel Herrera pone en duda su futuro en el Atlante tras perder con San Luis",
+      "publisher": "Fox Sports Mexico",
+      "type": "press",
+      "lang": "es"
+    },
+    {
+      "id": "tvazteca-atlante-presentation",
+      "url": "https://www.tvazteca.com/aztecadeportes/confirmado-presentan-al-nuevo-dt-del-atlante-para-el-apertura-2026/",
+      "title": "Confirmado: presentan al nuevo DT del Atlante para el Apertura 2026",
+      "publisher": "TV Azteca",
+      "type": "press",
+      "lang": "es"
+    },
+    {
+      "id": "laopinion-atlante-2026",
+      "url": "https://laopinion.com/2026/04/29/atlante-oficializa-a-miguel-herrera-como-su-tecnico-para-el-apertura-2026/",
+      "title": "Atlante oficializa a Miguel Herrera como su técnico para el Apertura 2026",
+      "publisher": "La Opinión",
+      "type": "press",
+      "lang": "es"
+    },
+    {
+      "id": "fmf-disciplinary-2023",
+      "url": "https://fmf.mx/noticia/miguel-herrera-es-sancionado-por-la-comision-disciplinaria-por-sus-declaraciones-al-finalizar-el-partido-frente-al-america_1938",
+      "title": "Miguel Herrera es sancionado por la Comisión Disciplinaria",
+      "publisher": "Federación Mexicana de Fútbol",
+      "type": "league-or-federation",
+      "lang": "es"
+    },
+    {
+      "id": "fotmob-player",
+      "url": "https://www.fotmob.com/players/277948/miguel-herrera",
+      "title": "Miguel Herrera - player profile",
+      "publisher": "FotMob",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "eldiariony-2013-appointment",
+      "url": "https://eldiariony.com/2013/11/28/miguel-herrera-a-un-paso-de-ser-ratificado-en-el-tri/",
+      "title": "Miguel Herrera, a un paso de ser ratificado en el Tri",
+      "publisher": "El Diario NY (Notimex)",
+      "type": "press",
+      "lang": "es"
+    },
+    {
+      "id": "mlssoccer-2014-netherlands",
+      "url": "https://www.mlssoccer.com/post/2014/06/30/world-cup-mexico-manager-miguel-herrera-blames-referee-arjen-robben-diving",
+      "title": "World Cup: Mexico manager Miguel Herrera blames referee, Arjen Robben diving for elimination",
+      "publisher": "MLSsoccer.com",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "mediotiempo-costa-rica-2025",
+      "url": "https://www.mediotiempo.com/futbol/miguel-herrera-deja-tecnico-costa-rica",
+      "title": "Miguel Herrera deja el técnico de Costa Rica",
+      "publisher": "Medio Tiempo",
+      "type": "press",
+      "lang": "es"
+    },
+    {
+      "id": "eldiariony-costa-rica-2025",
+      "url": "https://eldiariony.com/2025/11/21/costa-rica-oficializa-la-destitucion-de-miguel-herrera-como-seleccionador/",
+      "title": "Costa Rica oficializa la destitución de Miguel Herrera como seleccionador",
+      "publisher": "El Diario NY",
+      "type": "press",
+      "lang": "es"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1968-03-18",
+      "sources": [
+        "fotmob-player"
+      ],
+      "note": "Only FotMob was opened for the date; other sites repeat it but are not verified."
+    },
+    "deathDate": null,
+    "birthPlace": null,
+    "nationality": {
+      "value": "MX",
+      "sources": [
+        "fotmob-player",
+        "fmf-disciplinary-2023"
+      ],
+      "note": "Mexican."
+    }
+  },
+  "targetQueries": [
+    "Miguel Herrera Atlante",
+    "Miguel Herrera futuro Atlante",
+    "Piojo Herrera",
+    "Miguel Herrera edad",
+    "Miguel Herrera entrenador México",
+    "Miguel Herrera Costa Rica",
+    "Miguel Herrera Mundial 2014",
+    "Miguel Herrera América",
+    "Miguel Herrera Tijuana"
+  ],
+  "gapNote": "Recent coverage is about the club's confidence after a 0-1 loss to Atlético San Luis. The results do not give his birthplace, playing-career clubs or trophies with sources we opened, so the page must stay to coaching facts. The 2026 coverage is the reason the page exists."
+}

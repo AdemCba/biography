@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Cam Skattebo is a running back for the New York Giants, wearing No. 44, listed at 5-11 and 215 lb",
+      "sourceIds": [
+        "giants-roster-career",
+        "giants-player-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile and roster page show RB, #44, 5-11, 215 lbs; 5 ft 11 in and 97.5 kg are conversions."
+    },
+    {
+      "claim": "Drafted by the Giants in the 4th round, 105th overall, in 2025",
+      "sourceIds": [
+        "giants-draft-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Giants.com: Round 4, 105th overall."
+    },
+    {
+      "claim": "Started at Sacramento State before transferring to Arizona State",
+      "sourceIds": [
+        "arizonasports-skattebo-background",
+        "giants-draft-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Arizona Sports: made his name at Sacramento State before transferring to ASU; Giants.com draft piece covers both schools."
+    },
+    {
+      "claim": "Born and raised in Rio Linda, California, just north of Sacramento (birthPlace fact)",
+      "sourceIds": [
+        "giants-player-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Official profile: 'Was born and raised in Rio Linda, California, which is just north of Sacramento.' No birth date or nationality on the page, so neither is stated."
+    },
+    {
+      "claim": "Told Giants.com he was 'someone that's gonna score a lot of touchdowns'",
+      "sourceIds": [
+        "arizonasports-skattebo-background"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote confirmed. The 'hard runner' phrase and the April 2025 date were not in the source and were removed."
+    },
+    {
+      "claim": "2025: 8 games, 101 carries, 410 rushing yards, 5 rushing TDs, 24 receptions, 207 receiving yards, 2 receiving TDs",
+      "sourceIds": [
+        "giants-roster-career"
+      ],
+      "verdict": "confirmed",
+      "note": "Career table matches exactly."
+    },
+    {
+      "claim": "2026: 7 games, 98 carries, 418 rushing yards, 2 rushing TDs, 11 receptions, 76 receiving yards",
+      "sourceIds": [
+        "giants-roster-career"
+      ],
+      "verdict": "confirmed",
+      "note": "Career table matches exactly."
+    },
+    {
+      "claim": "Two-season totals: 199 carries, 828 rushing yards, 7 rushing TDs",
+      "sourceIds": [
+        "giants-roster-career"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic from the table: 101+98, 410+418, 5+2."
+    },
+    {
+      "claim": "Fined for illegal helmet contact on a running play in the Week 3 win over Tennessee; Jordan Raanan of ESPN reported it",
+      "sourceIds": [
+        "newsweek-helmet-fine"
+      ],
+      "verdict": "confirmed",
+      "note": "Newsweek names Raanan and quotes the reason; Week 3 win over Tennessee."
+    },
+    {
+      "claim": "No flag was thrown on the field; the play was referred after the game to the Football Operations Compliance Team; violation 'Unnecessary roughness (use of the helmet on offense)'",
+      "sourceIds": [
+        "atoz-helmet-fine"
+      ],
+      "verdict": "confirmed",
+      "note": "AtoZ: officials did not throw a flag; the league's officiating department reviews every play and refers violations to the compliance team; violation text matches. The 'after the game' timing is inferred from the fine coming later."
+    },
+    {
+      "claim": "Jeffery Simmons: 'I think a couple times he did lower his helmet'",
+      "sourceIds": [
+        "newsweek-helmet-fine"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote matches Newsweek, which quotes Simmons."
+    },
+    {
+      "claim": "League typically fines $23,882 for illegal helmet use, $47,762 for a second offense",
+      "sourceIds": [
+        "newsweek-helmet-fine"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in Newsweek."
+    },
+    {
+      "claim": "AtoZ Sports put the fine at $7,073; Newsweek did not confirm that amount",
+      "sourceIds": [
+        "atoz-helmet-fine",
+        "newsweek-helmet-fine"
+      ],
+      "verdict": "confirmed",
+      "note": "AtoZ lists 'RB Cam Skattebo: $7,073'. Newsweek does not state the amount for Skattebo."
+    },
+    {
+      "claim": "After a fumble against Washington, no carries in the 34-27 loss to New Orleans; Tracy, Singletary and Harris took the carries",
+      "sourceIds": [
+        "newsweek-benched"
+      ],
+      "verdict": "confirmed",
+      "note": "Tracy 6, Singletary 4, Harris 4 carries; Skattebo had none."
+    },
+    {
+      "claim": "Skattebo said 'I got punished for what I did'",
+      "sourceIds": [
+        "newsweek-benched"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote matches; the source continues '(last week), and I understand', which the page trims without changing meaning."
+    },
+    {
+      "claim": "Report does not say whether he was inactive, nor link the benching to the helmet fine; Houston game outcome unknown",
+      "sourceIds": [
+        "newsweek-benched",
+        "newsweek-helmet-fine"
+      ],
+      "verdict": "confirmed",
+      "note": "Not mentioned in either article."
+    },
+    {
+      "claim": "Summary, knownFor, meta and FAQ answers repeat the verified facts above",
+      "sourceIds": [
+        "giants-draft-2025",
+        "giants-roster-career",
+        "newsweek-helmet-fine"
+      ],
+      "verdict": "confirmed",
+      "note": "Each answer is backed by the body and sources above."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Uses the official Giants profile for birthplace and the official roster and draft pages for stats. Gives the helmet fine's amount only as a reported figure, and flags that the other outlet does not confirm it.",
+  "decision": "approve",
+  "summary": "es: all cited claims were confirmed against the opened sources. Birth date and nationality are left out because the official profile does not give them."
+}

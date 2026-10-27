@@ -1,0 +1,120 @@
+{
+  "id": "miguel-herrera",
+  "name": "Miguel Herrera",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 3,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1968-03-18",
+      "sources": [
+        "fotmob-player"
+      ],
+      "note": "Only FotMob was opened for the date; other sites repeat it but are not verified."
+    },
+    "nationality": {
+      "value": [
+        "MX"
+      ],
+      "sources": [
+        "fotmob-player"
+      ],
+      "note": "Mexican."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "tvazteca-atlante-future",
+      "url": "https://www.tvazteca.com/aztecadeportes/oficial-directivo-del-atlante-confirma-futuro-miguel-herrera/",
+      "title": "Oficial: directivo del Atlante confirma futuro de Miguel Herrera",
+      "publisher": "TV Azteca",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "es"
+    },
+    {
+      "id": "foxsports-atlante-doubt",
+      "url": "https://www.foxsports.com.mx/2026/10/24/miguel-herrera-pone-en-duda-su-futuro-en-el-atlante-tras-perder-con-san-luis-tomaremos-decisiones/",
+      "title": "Miguel Herrera pone en duda su futuro en el Atlante tras perder con San Luis",
+      "publisher": "Fox Sports Mexico",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "es"
+    },
+    {
+      "id": "tvazteca-atlante-presentation",
+      "url": "https://www.tvazteca.com/aztecadeportes/confirmado-presentan-al-nuevo-dt-del-atlante-para-el-apertura-2026/",
+      "title": "Confirmado: presentan al nuevo DT del Atlante para el Apertura 2026",
+      "publisher": "TV Azteca",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "es"
+    },
+    {
+      "id": "laopinion-atlante-2026",
+      "url": "https://laopinion.com/2026/04/29/atlante-oficializa-a-miguel-herrera-como-su-tecnico-para-el-apertura-2026/",
+      "title": "Atlante oficializa a Miguel Herrera como su técnico para el Apertura 2026",
+      "publisher": "La Opinión",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "es"
+    },
+    {
+      "id": "fmf-disciplinary-2023",
+      "url": "https://fmf.mx/noticia/miguel-herrera-es-sancionado-por-la-comision-disciplinaria-por-sus-declaraciones-al-finalizar-el-partido-frente-al-america_1938",
+      "title": "Miguel Herrera es sancionado por la Comisión Disciplinaria",
+      "publisher": "Federación Mexicana de Fútbol",
+      "type": "league-or-federation",
+      "accessed": "2026-10-27",
+      "lang": "es"
+    },
+    {
+      "id": "fotmob-player",
+      "url": "https://www.fotmob.com/players/277948/miguel-herrera",
+      "title": "Miguel Herrera - player profile",
+      "publisher": "FotMob",
+      "type": "database",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "eldiariony-2013-appointment",
+      "url": "https://eldiariony.com/2013/11/28/miguel-herrera-a-un-paso-de-ser-ratificado-en-el-tri/",
+      "title": "Miguel Herrera, a un paso de ser ratificado en el Tri",
+      "publisher": "El Diario NY (Notimex)",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "es"
+    },
+    {
+      "id": "mlssoccer-2014-netherlands",
+      "url": "https://www.mlssoccer.com/post/2014/06/30/world-cup-mexico-manager-miguel-herrera-blames-referee-arjen-robben-diving",
+      "title": "World Cup: Mexico manager Miguel Herrera blames referee, Arjen Robben diving for elimination",
+      "publisher": "MLSsoccer.com",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "mediotiempo-costa-rica-2025",
+      "url": "https://www.mediotiempo.com/futbol/miguel-herrera-deja-tecnico-costa-rica",
+      "title": "Miguel Herrera deja el técnico de Costa Rica",
+      "publisher": "Medio Tiempo",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "es"
+    },
+    {
+      "id": "eldiariony-costa-rica-2025",
+      "url": "https://eldiariony.com/2025/11/21/costa-rica-oficializa-la-destitucion-de-miguel-herrera-como-seleccionador/",
+      "title": "Costa Rica oficializa la destitución de Miguel Herrera como seleccionador",
+      "publisher": "El Diario NY",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "es"
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 5 January 1972",
+      "sourceIds": [
+        "fotmob-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob lists 05.01.1972."
+    },
+    {
+      "claim": "Born in Rostock",
+      "sourceIds": [
+        "bundesliga-union-return"
+      ],
+      "verdict": "confirmed",
+      "note": "Source calls him a native of Rostock (gebürtiger Rostocker)."
+    },
+    {
+      "claim": "German nationality",
+      "sourceIds": [
+        "fotmob-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob lists country as Deutschland."
+    },
+    {
+      "claim": "Union Berlin player from summer 2002, two seasons, 68 competitive appearances, 22 goals",
+      "sourceIds": [
+        "bundesliga-union-return"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source text."
+    },
+    {
+      "claim": "Nearly 200 appearances for Hansa Rostock (commentary)",
+      "sourceIds": [
+        "90min-union-tribute"
+      ],
+      "verdict": "confirmed",
+      "note": "Source says 'fast 200 Einsätzen für den Klub'; it does not say competitive matches, and the page does not claim so."
+    },
+    {
+      "claim": "Twice Union player of the year and captain",
+      "sourceIds": [
+        "zdfheute-union-return"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source text."
+    },
+    {
+      "claim": "Energie Cottbus July 2004 to June 2008",
+      "sourceIds": [
+        "fotmob-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source text."
+    },
+    {
+      "claim": "More than four years at SC Paderborn before Köln",
+      "sourceIds": [
+        "sport1-koeln-hire"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source text."
+    },
+    {
+      "claim": "Köln announced him on 11 May 2021, succeeding Friedhelm Funkel, contract to 2023 from 1 July",
+      "sourceIds": [
+        "sport1-koeln-hire"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source text."
+    },
+    {
+      "claim": "Horst Heldt called him an emotional leader who suits the club",
+      "sourceIds": [
+        "sport1-koeln-hire"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source text."
+    },
+    {
+      "claim": "Köln separation on 21 December 2023, announced the day after a 0:2 defeat at Union Berlin, joint decision",
+      "sourceIds": [
+        "sport1-koeln-exit"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source text."
+    },
+    {
+      "claim": "Köln were 17th with 10 points",
+      "sourceIds": [
+        "sport1-koeln-exit"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source text."
+    },
+    {
+      "claim": "HSV dismissed him 24 November 2024, day after 2:2 with Schalke having led 2:0",
+      "sourceIds": [
+        "zdfheute-hsv-exit"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source text."
+    },
+    {
+      "claim": "HSV saw a need for a new impulse after four league games without a win",
+      "sourceIds": [
+        "zdfheute-hsv-exit"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source text."
+    },
+    {
+      "claim": "Union announced him on 30 December 2024, succeeding Bo Svensson dismissed after Christmas",
+      "sourceIds": [
+        "zdfheute-union-return",
+        "bundesliga-union-return"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source text."
+    },
+    {
+      "claim": "Return to Union after more than two decades",
+      "sourceIds": [
+        "zdfheute-union-return"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source text."
+    },
+    {
+      "claim": "Heldt, Union managing director, had brought him to Köln in 2021 and knew him from there",
+      "sourceIds": [
+        "zdfheute-union-return"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source text."
+    },
+    {
+      "claim": "Quote 'Ich bin hier, um es ans Laufen zu bringen' at appointment",
+      "sourceIds": [
+        "berliner-zeitung-union-hire"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source text."
+    },
+    {
+      "claim": "Heldt said Baumgart knows the club inside out",
+      "sourceIds": [
+        "berliner-zeitung-union-hire"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted in indirect speech in the source; the phrase is attributed to Heldt, matching the page."
+    },
+    {
+      "claim": "Quote 'Ich hatte sechs Wochen Pause. Das reicht'",
+      "sourceIds": [
+        "berliner-zeitung-union-hire"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source text."
+    },
+    {
+      "claim": "Early contract extension on 14 January 2026, length not disclosed, Union ninth after 16 rounds",
+      "sourceIds": [
+        "blick-union-extension"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source text."
+    },
+    {
+      "claim": "Quote about a stable base to build on",
+      "sourceIds": [
+        "blick-union-extension"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source text."
+    },
+    {
+      "claim": "Union lost 1:3 at Heidenheim, bottom-placed side, on Saturday 11 April 2026",
+      "sourceIds": [
+        "berliner-kurier-union-dismissal",
+        "union-berlin-press-dismissal"
+      ],
+      "verdict": "confirmed",
+      "note": "Berliner Kurier gives 1:3 and bottom-placed; the club says the loss came on Saturday."
+    },
+    {
+      "claim": "Release announced shortly after midnight",
+      "sourceIds": [
+        "berliner-kurier-union-dismissal"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source text."
+    },
+    {
+      "claim": "Heldt: Heidenheim performance decisive; Baumgart informed that evening before the squad",
+      "sourceIds": [
+        "union-berlin-press-dismissal"
+      ],
+      "verdict": "confirmed",
+      "note": "Club page supports the sequence; it gives 11 p.m. for the meeting."
+    },
+    {
+      "claim": "Heldt praised his work, said he took over a difficult situation, and gave him a chance to say goodbye",
+      "sourceIds": [
+        "union-berlin-press-dismissal"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source text."
+    },
+    {
+      "claim": "Heldt said the club had a very good start to the season",
+      "sourceIds": [
+        "union-berlin-press-dismissal"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source text."
+    },
+    {
+      "claim": "Assistants Danilo de Souza and Kevin McKenna also released",
+      "sourceIds": [
+        "union-berlin-press-dismissal"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source text."
+    },
+    {
+      "claim": "Marie-Louise Eta interim until end of season; previously U-19 coach and assistant with the first team",
+      "sourceIds": [
+        "union-berlin-press-dismissal"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source text."
+    },
+    {
+      "claim": "Eta is the first woman to coach a men's Bundesliga club",
+      "sourceIds": [
+        "berliner-kurier-union-dismissal"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source text."
+    },
+    {
+      "claim": "22 May 2026: back in public view six weeks after his dismissal",
+      "sourceIds": [
+        "berliner-kurier-six-weeks"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source text."
+    },
+    {
+      "claim": "He wants to return to the bench (article wording)",
+      "sourceIds": [
+        "berliner-kurier-six-weeks"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source text."
+    },
+    {
+      "claim": "14 June 2026: more than 60 days without a club",
+      "sourceIds": [
+        "berliner-zeitung-no-club"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source text."
+    },
+    {
+      "claim": "23 September 2026: available again, article asks where he could go next, names no new club",
+      "sourceIds": [
+        "berliner-kurier-free-agent"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source text."
+    },
+    {
+      "claim": "Returned as head coach in December 2024",
+      "sourceIds": [
+        "zdfheute-union-return"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the source text."
+    },
+    {
+      "claim": "Age 54 as of 27 October 2026 (derived from 5 January 1972)",
+      "sourceIds": [
+        "fotmob-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic from the confirmed birth date."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "One timeline across the Union Berlin dismissal, the Cologne and Hamburg exits and the status since, backed by the club's own press page and dated German press reports.",
+  "decision": "approve",
+  "summary": "All cited facts were re-checked against the sources (club press page, league profile, FotMob, German press). The birth date rests on FotMob alone, which is a database rather than a primary source, and is labelled so in person.json. No uncited factual claims were found."
+}

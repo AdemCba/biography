@@ -1,0 +1,145 @@
+{
+  "id": "yuri-alberto",
+  "name": "Yuri Alberto",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 3,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "2001-03-18",
+      "sources": [
+        "futimao-profile"
+      ],
+      "note": "Only opened source giving the date. Academia das Apostas (not opened) gives 17 March 2001."
+    },
+    "birthPlace": {
+      "value": "São José dos Campos, São Paulo, Brazil",
+      "sources": [
+        "futimao-profile"
+      ],
+      "note": "Single opened source."
+    },
+    "nationality": {
+      "value": [
+        "BR"
+      ],
+      "sources": [
+        "futimao-profile"
+      ],
+      "note": "Nationality inferred from the Brazilian birthplace in the profile. No opened source uses the word Brazilian for him, so keep it as a fact with the birthplace."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "futimao-profile",
+      "url": "https://www.futimao.com.br/jogador-corinthians/yuri-alberto",
+      "title": "Yuri Alberto Monteiro da Silva (Corinthians player profile)",
+      "publisher": "Futimão",
+      "type": "other",
+      "accessed": "2026-10-27",
+      "lang": "pt"
+    },
+    {
+      "id": "lance-contract-renewal-2025",
+      "url": "https://www.lance.com.br/corinthians/yuri-alberto-renova-contrato-com-o-corinthians.html",
+      "title": "Yuri Alberto renova contrato com o Corinthians",
+      "publisher": "Lance",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "pt"
+    },
+    {
+      "id": "exame-wants-new-challenge-2026",
+      "url": "https://exame.com/esporte/yuri-alberto-admite-desejo-de-deixar-o-corinthians-ainda-em-2026/",
+      "title": "Yuri Alberto admite desejo de deixar o Corinthians ainda em 2026",
+      "publisher": "Exame",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "pt"
+    },
+    {
+      "id": "terra-stay-until-2030-2025",
+      "url": "https://www.terra.com.br/esportes/corinthians/heroi-do-titulo-yuri-alberto-garante-permanencia-no-corinthians-ate-2030,8cf605afdf9b22e082ec3bc9bc6b24bbabm8f7sr.html",
+      "title": "Herói do título, Yuri Alberto garante permanência no Corinthians até 2030",
+      "publisher": "Terra",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "pt"
+    },
+    {
+      "id": "cnn-brasil-top-scorer-2024",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/artilheiro-do-brasileiro-yuri-alberto-recebe-trofeu-roberto-dinamite/",
+      "title": "Artilheiro do Brasileiro, Yuri Alberto recebe Troféu Roberto Dinamite",
+      "publisher": "CNN Brasil",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "pt"
+    },
+    {
+      "id": "lance-top-scorer-ranking-2024",
+      "url": "https://www.lance.com.br/brasileirao/artilheiro-do-brasileirao-veja-o-ranking-apos-a-ultima-rodada.html",
+      "title": "Artilheiro do Brasileirão 2024: veja o ranking após a última rodada",
+      "publisher": "Lance",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "pt"
+    },
+    {
+      "id": "gazeta-corinthians-vitoria-2026",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-vitoria-brasileirao-19-10-2026/",
+      "title": "Com Seedorf na torcida, Corinthians empata contra o Vitória e prolonga jejum",
+      "publisher": "Gazeta Esportiva",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "pt"
+    },
+    {
+      "id": "dgabc-gremio-coritiba-2026",
+      "url": "https://www.dgabc.com.br/Noticia/4365178/gremio-vence-coritiba-quebra-jejum-e-supera-corinthians-na-zona-de-rebaixamento-do-brasileirao",
+      "title": "Grêmio vence Coritiba, quebra jejum e supera Corinthians na zona de rebaixamento do Brasileirão",
+      "publisher": "DGABC",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "pt"
+    },
+    {
+      "id": "soccerway-renewal-2025",
+      "url": "https://br.soccerway.com/noticias/futebol-brasileirao-betano-corinthians-anuncia-renovacao-com-yuri-alberto-ate-2030/nkU7VK97",
+      "title": "Corinthians anuncia renovação com Yuri Alberto até 2030",
+      "publisher": "Soccerway",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "pt"
+    },
+    {
+      "id": "onefootball-barra-2026",
+      "url": "https://onefootball.com/en/news/yuri-alberto-ends-drought-and-moves-clear-as-corinthians-2026-top-scorer-42877617",
+      "title": "Yuri Alberto ends drought and moves clear as Corinthians' 2026 top scorer",
+      "publisher": "OneFootball",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "lance-revela-2026",
+      "url": "https://www.lance.com.br/corinthians/yuri-alberto-revela-que-pretende-deixar-o-corinthians-em-2026.html",
+      "title": "Yuri Alberto revela que pretende deixar o Corinthians em 2026 (entrevista à TV Globo)",
+      "publisher": "Lance",
+      "type": "interview",
+      "accessed": "2026-10-27",
+      "lang": "pt"
+    },
+    {
+      "id": "lance-goals-list-2025",
+      "url": "https://www.lance.com.br/corinthians/corinthians-yuri-alberto-completa-lista-e-marca-contra-todos-os-times-da-serie-a.html",
+      "title": "Yuri Alberto completa lista e marca contra todos os times da Série A",
+      "publisher": "Lance",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "pt"
+    }
+  ]
+}

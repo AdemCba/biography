@@ -1,0 +1,418 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Noah Wyle named People's 2026 Sexiest Man Alive on 27 October 2026",
+      "sourceIds": [
+        "abc-sexiest-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "ABC page dated October 27, 2026 states he is this year's Sexiest Man Alive."
+    },
+    {
+      "claim": "Won second straight Emmy for lead actor in The Pitt about a month earlier",
+      "sourceIds": [
+        "abc-sexiest-2026",
+        "tva-the-pitt"
+      ],
+      "verdict": "confirmed",
+      "note": "ABC says he won in a drama lead category about a month before; TVA lists 2025 and 2026 lead actor wins."
+    },
+    {
+      "claim": "He said the news sounded like a prank",
+      "sourceIds": [
+        "yahoo-sexiest-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote: 'I thought that sounded like a prank'."
+    },
+    {
+      "claim": "'Just not in a million years did I think this would be an honor bestowed on me in this lifetime'",
+      "sourceIds": [
+        "abc-sexiest-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact quote on the ABC page."
+    },
+    {
+      "claim": "Dr. John Carter on ER began in 1994",
+      "sourceIds": [
+        "yahoo-sexiest-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Yahoo/PEOPLE: debut as Dr. John Carter in ER, 1994."
+    },
+    {
+      "claim": "He was 23 when he first appeared on ER",
+      "sourceIds": [
+        "jewishnews-walk-of-fame"
+      ],
+      "verdict": "confirmed",
+      "note": "Article: 'At 23, he first appeared on ER as Dr John Carter'."
+    },
+    {
+      "claim": "ER official big break, alongside George Clooney",
+      "sourceIds": [
+        "abc-sexiest-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "ABC: 'official big break'; alongside George Clooney."
+    },
+    {
+      "claim": "ER ran 11 seasons with him as series regular",
+      "sourceIds": [
+        "tvline-ranked"
+      ],
+      "verdict": "confirmed",
+      "note": "TVLine: series regular for 11 seasons."
+    },
+    {
+      "claim": "Longest-serving cast member with 254 episodes",
+      "sourceIds": [
+        "shoot-icg-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Shoot: longest-serving cast member, 254 episodes."
+    },
+    {
+      "claim": "2015 interview: '260-something episodes'",
+      "sourceIds": [
+        "denofgeek-2015-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote confirmed; the text notes the discrepancy."
+    },
+    {
+      "claim": "Five Emmy nominations for supporting actor, 1995 to 1999",
+      "sourceIds": [
+        "tva-er"
+      ],
+      "verdict": "confirmed",
+      "note": "TVA lists supporting actor nominations for 1995, 1996, 1997, 1998, 1999."
+    },
+    {
+      "claim": "Three Golden Globe nominations for ER",
+      "sourceIds": [
+        "shoot-icg-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Shoot: three Golden Globe nominations."
+    },
+    {
+      "claim": "The Pitt debuted on HBO Max in January 2025 and was renewed for a second season that February",
+      "sourceIds": [
+        "variety-au-emmy-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Variety: debuted on HBO Max in January; renewed for second season in February (year taken from the 2025 article)."
+    },
+    {
+      "claim": "Wyle plays Dr. Michael 'Robby' Robinavitch in the HBO Max medical drama",
+      "sourceIds": [
+        "abc-sexiest-2026",
+        "shoot-icg-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Shoot calls The Pitt an HBO Max medical drama; TVA credits Robby. ABC spells the surname differently; the article uses the TVA spelling."
+    },
+    {
+      "claim": "Won Outstanding Lead Actor in a Drama Series in 2025 and 2026",
+      "sourceIds": [
+        "tva-the-pitt"
+      ],
+      "verdict": "confirmed",
+      "note": "TVA table: both years Winner, as Dr. Michael 'Robby' Robinavitch."
+    },
+    {
+      "claim": "2025 win was his first acting Emmy; speech quotes",
+      "sourceIds": [
+        "variety-au-emmy-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Variety: 'This is also his first win'; 'the honor of a lifetime'; shift-worker quote confirmed."
+    },
+    {
+      "claim": "The series also won Outstanding Drama Series in 2025",
+      "sourceIds": [
+        "tva-the-pitt"
+      ],
+      "verdict": "confirmed",
+      "note": "TVA: 2025 Outstanding Drama Series Winner. An earlier sentence said it lost; corrected."
+    },
+    {
+      "claim": "In 2026 he beat Mark Ruffalo, Gary Oldman, Sterling K. Brown and Rufus Sewell",
+      "sourceIds": [
+        "variety-au-emmy-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Variety names these as the other nominees."
+    },
+    {
+      "claim": "Fifth actor to win for a show's first two seasons; first since Bryan Cranston in 2009",
+      "sourceIds": [
+        "variety-au-emmy-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Variety wording matches."
+    },
+    {
+      "claim": "'This is all I've ever wanted to do'",
+      "sourceIds": [
+        "variety-au-emmy-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact quote."
+    },
+    {
+      "claim": "The Pitt swept lead actor and drama series awards at 2025 Primetime Emmys, 2026 Golden Globes and 2026 Critics Choice",
+      "sourceIds": [
+        "shoot-icg-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Shoot: swept the top awards for lead male actor and drama series at those three ceremonies."
+    },
+    {
+      "claim": "2026 nomination for Outstanding Directing for a Drama Series",
+      "sourceIds": [
+        "tva-the-pitt"
+      ],
+      "verdict": "confirmed",
+      "note": "TVA: 2026 Directing nominee, Noah Wyle."
+    },
+    {
+      "claim": "Executive producer, co-writer, director and star",
+      "sourceIds": [
+        "shoot-icg-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Shoot: executive producer, co-writer, director and star."
+    },
+    {
+      "claim": "The Pitt has earned 38 nominations across its first two seasons",
+      "sourceIds": [
+        "variety-au-emmy-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Variety: 38 nominations across two seasons. TVA entries sum to 38."
+    },
+    {
+      "claim": "Two 2026 Actors Awards nominations, one for his work and one for the cast",
+      "sourceIds": [
+        "shoot-icg-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Shoot wording matches."
+    },
+    {
+      "claim": "HBO renewed the series for season 3 on 7 January 2026",
+      "sourceIds": [
+        "tvline-season3"
+      ],
+      "verdict": "confirmed",
+      "note": "TVLine: renewed for Season 3 on January 7, 2026."
+    },
+    {
+      "claim": "HBO Max has not announced an exact premiere date",
+      "sourceIds": [
+        "tvline-season3"
+      ],
+      "verdict": "confirmed",
+      "note": "TVLine: 'HBO Max has yet to confirm an official date'."
+    },
+    {
+      "claim": "Trade reports point to January 2027",
+      "sourceIds": [
+        "variety-au-season3-trailer"
+      ],
+      "verdict": "confirmed",
+      "note": "Variety: will premiere in January 2027. Still labelled as unconfirmed in the article."
+    },
+    {
+      "claim": "Season 3 runs 15 episodes",
+      "sourceIds": [
+        "tvline-season3"
+      ],
+      "verdict": "confirmed",
+      "note": "TVLine: 15 episodes next year, per John Wells."
+    },
+    {
+      "claim": "Robby's first shift after a three-month sabbatical at the end of season 2",
+      "sourceIds": [
+        "variety-au-season3-trailer"
+      ],
+      "verdict": "confirmed",
+      "note": "Variety: three-month sabbatical at the end of Season 2."
+    },
+    {
+      "claim": "Cast about to start shooting episode 6 when Variety reported on the trailer",
+      "sourceIds": [
+        "variety-au-season3-trailer"
+      ],
+      "verdict": "confirmed",
+      "note": "Patrick Ball: 'about to start shooting Episode 6'. Corrected from an earlier wording that said filming had reached episode 6."
+    },
+    {
+      "claim": "Production set to return in June",
+      "sourceIds": [
+        "tvline-season3"
+      ],
+      "verdict": "confirmed",
+      "note": "TVLine: 'be back in production in June'."
+    },
+    {
+      "claim": "Tom Mason in Falling Skies on TNT; a history professor turned resistance leader; ran five years",
+      "sourceIds": [
+        "tvline-ranked"
+      ],
+      "verdict": "confirmed",
+      "note": "TVLine: history professor-turned-resistance leader; ran for five years; TNT per TVLine context."
+    },
+    {
+      "claim": "Falling Skies was produced by Steven Spielberg",
+      "sourceIds": [
+        "tvline-ranked"
+      ],
+      "verdict": "confirmed",
+      "note": "TVLine: 'Steven Spielberg-produced'."
+    },
+    {
+      "claim": "The Librarian movies came out in 2004, 2006 and 2008; Flynn Carsen",
+      "sourceIds": [
+        "tvline-ranked"
+      ],
+      "verdict": "confirmed",
+      "note": "TVLine: three made-for-TV movies 2004, 2006, 2008; Flynn Carsen."
+    },
+    {
+      "claim": "The Librarians ran for four seasons; he recurred",
+      "sourceIds": [
+        "tvline-ranked"
+      ],
+      "verdict": "confirmed",
+      "note": "TVLine: ran four seasons on TNT."
+    },
+    {
+      "claim": "Flynn as a character of opposites; directed an episode in season 2; 'putting on a high school play' quote",
+      "sourceIds": [
+        "denofgeek-2015-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes and directing credit match the interview."
+    },
+    {
+      "claim": "In 2019 he played Daniel Calder in CBS's The Red Line; may have lasted eight episodes",
+      "sourceIds": [
+        "tvline-ranked"
+      ],
+      "verdict": "confirmed",
+      "note": "TVLine: The Red Line (CBS, 2019), Daniel Calder, high school history teacher, may have lasted just eight episodes."
+    },
+    {
+      "claim": "Before The Pitt, his last series-regular role was Harry Wilson in Leverage: Redemption",
+      "sourceIds": [
+        "tvline-ranked"
+      ],
+      "verdict": "confirmed",
+      "note": "TVLine calls it his last series-regular gig before The Pitt and names Harry Wilson."
+    },
+    {
+      "claim": "Played Steve Jobs in 1999 Pirates of Silicon Valley; 'not to do an impression'; Macworld prank; Jobs disliked the film but complimented him",
+      "sourceIds": [
+        "denofgeek-2015-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "All confirmed by the interview."
+    },
+    {
+      "claim": "A Few Good Men and Donnie Darko credits",
+      "sourceIds": [
+        "encyclopedia-wyle"
+      ],
+      "verdict": "confirmed",
+      "note": "Contemporary Authors credits list both films."
+    },
+    {
+      "claim": "Hollywood Walk of Fame star in April 2026, awarded by Hollywood Chamber of Commerce; 'a true childhood dream come true'",
+      "sourceIds": [
+        "jewishnews-walk-of-fame"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated 10 April 2026; star awarded by Chamber of Commerce; quote exact."
+    },
+    {
+      "claim": "Golden Globe for Best Actor in a Television Series, Drama",
+      "sourceIds": [
+        "jewishnews-walk-of-fame"
+      ],
+      "verdict": "confirmed",
+      "note": "Article says so."
+    },
+    {
+      "claim": "Artistic director of The Blank Theatre Company since 1997; partner in Wyle/Katz Company",
+      "sourceIds": [
+        "encyclopedia-wyle"
+      ],
+      "verdict": "confirmed",
+      "note": "Entry: artistic director, 1997-; Wyle/Katz Company partner."
+    },
+    {
+      "claim": "ICG Publicists Television Showperson of the Year, February 2026; 63rd luncheon 13 March 2026; past recipients Bates, Lear, Hope",
+      "sourceIds": [
+        "shoot-icg-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated February 10, 2026; ceremony Friday March 13; past recipients listed."
+    },
+    {
+      "claim": "Advocate for healthcare reform and safer conditions for frontline nurses; union member; SAG-AFTRA Foundation",
+      "sourceIds": [
+        "shoot-icg-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Article wording matches."
+    },
+    {
+      "claim": "Born 4 June 1971 in Los Angeles, California",
+      "sourceIds": [
+        "encyclopedia-wyle"
+      ],
+      "verdict": "confirmed",
+      "note": "Entry: born June 4, 1971, in Los Angeles (one source says Hollywood)."
+    },
+    {
+      "claim": "TVA bio gives Hollywood as birthplace",
+      "sourceIds": [
+        "tva-bio-noah-wyle"
+      ],
+      "verdict": "confirmed",
+      "note": "TVA bio: Hollywood, California."
+    },
+    {
+      "claim": "American actor, producer, director and writer",
+      "sourceIds": [
+        "jewish-virtual-library-wyle"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact description."
+    },
+    {
+      "claim": "FAQ: 55 in 2026; Emmy count; ER nominations 1995-1999",
+      "sourceIds": [
+        "encyclopedia-wyle",
+        "tva-er",
+        "tva-the-pitt"
+      ],
+      "verdict": "confirmed",
+      "note": "Birth year 1971 gives 55 in 2026; TVA confirms the Emmy record."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Dated Emmy record from the award body (TVA), the season 3 status with its unconfirmed premiere clearly labelled, the path from ER to The Pitt, and the Falling Skies, Librarian and Red Line roles that the top results skip.",
+  "decision": "approve",
+  "summary": "All checked claims match the opened sources. Corrections made during this pass: the 2025 Drama Series result (won, not lost) and the season 3 filming status (cast about to start episode 6, not filmed)."
+}

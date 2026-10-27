@@ -1,0 +1,134 @@
+{
+  "worthWriting": true,
+  "reason": "Living German football coach with a clear, sourced career (Paderborn, 1. FC Köln, Hamburger SV, Union Berlin) and a fresh story: Union Berlin dismissed him on 11 April 2026, and by the latest report (23 September 2026) he still had no new club. Sources include the club's own press page and the league's profile.",
+  "wikidata": "",
+  "importance": 3,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "union-berlin-press-dismissal",
+      "url": "https://www.fc-union-berlin.de/en/news/horst-heldt-meets-the-press-ARsCxM",
+      "title": "Horst Heldt meets the press: on Marie-Louise Eta and the decision to let Steffen Baumgart go",
+      "publisher": "1. FC Union Berlin",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "berliner-kurier-union-dismissal",
+      "url": "https://www.berliner-kurier.de/union/1-fc-union-feuert-baumgart-eta-schreibt-bundesliga-geschichte-li.10029817",
+      "title": "1. FC Union feuert Baumgart: Eta schreibt Bundesliga-Geschichte",
+      "publisher": "Berliner Kurier",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "bundesliga-union-return",
+      "url": "https://www.bundesliga.com/de/bundesliga/news/steffen-baumgart-1-fc-union-berlin-neuer-trainer-30248",
+      "title": "Steffen Baumgart wird neuer Trainer beim 1. FC Union Berlin",
+      "publisher": "Bundesliga.com",
+      "type": "league-or-federation",
+      "lang": "de"
+    },
+    {
+      "id": "zdfheute-union-return",
+      "url": "https://www.zdfheute.de/sport/bundesliga-union-berlin-trainer-steffen-baumgart-100.html",
+      "title": "Rückkehr zum Ex-Klub: Baumgart neuer Trainer von Union Berlin",
+      "publisher": "ZDFheute",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "fotmob-profile",
+      "url": "https://www.fotmob.com/de/players/39803/steffen-baumgart",
+      "title": "Steffen Baumgart: profile",
+      "publisher": "FotMob",
+      "type": "database",
+      "lang": "de"
+    },
+    {
+      "id": "sport1-koeln-hire",
+      "url": "https://www.sport1.de/fussball/bundesliga/2021/05/bundesliga-1-fc-koeln-holt-paderborn-coach-steffen-baumgart-als-trainer",
+      "title": "1. FC Köln holt Paderborn-Coach Steffen Baumgart als Trainer",
+      "publisher": "Sport1",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "sport1-koeln-exit",
+      "url": "https://www.sport1.de/news/fussball/bundesliga/2023/12/koln-trennt-sich-von-steffen-baumgart",
+      "title": "Köln trennt sich von Steffen Baumgart",
+      "publisher": "Sport1",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "zdfheute-hsv-exit",
+      "url": "https://www.zdfheute.de/sport/trainer-steffen-baumgart-hamburger-sv-entlassung-2-bundesliga-100.html",
+      "title": "Nach 2:2 gegen Schalke: HSV entlässt Coach Steffen Baumgart",
+      "publisher": "ZDFheute",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "berliner-kurier-six-weeks",
+      "url": "https://www.berliner-kurier.de/union/rampenlicht-statt-rueckzug-ex-union-trainer-steffen-baumgart-wieder-da-li.10037986",
+      "title": "Rampenlicht statt Rückzug: Ex-Union-Trainer Steffen Baumgart wieder da",
+      "publisher": "Berliner Kurier",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "berliner-zeitung-no-club",
+      "url": "https://www.berliner-zeitung.de/article/nach-aus-beim-1-fc-union-berlin-steffen-baumgart-verliert-naechsten-co-trainer-10092363",
+      "title": "Nach Aus beim 1. FC Union Berlin: Steffen Baumgart verliert nächsten Co-Trainer",
+      "publisher": "Berliner Zeitung",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "berliner-kurier-free-agent",
+      "url": "https://www.berliner-kurier.de/article/steffen-baumgart-neuer-verein-und-zukunft-als-trainer-10423968",
+      "title": "Steffen Baumgart: neuer Verein und Zukunft als Trainer",
+      "publisher": "Berliner Kurier",
+      "type": "press",
+      "lang": "de"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1972-01-05",
+      "sources": [
+        "fotmob-profile"
+      ],
+      "note": "FotMob lists 05.01.1972. Other sources confirm his age (52 in December 2024) without giving a date."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Rostock",
+      "sources": [
+        "bundesliga-union-return"
+      ],
+      "note": "Described as a native of Rostock (gebürtiger Rostocker)."
+    },
+    "nationality": {
+      "value": "DE",
+      "sources": [
+        "fotmob-profile"
+      ],
+      "note": "FotMob gives his country as Germany."
+    }
+  },
+  "targetQueries": [
+    "Steffen Baumgart",
+    "Steffen Baumgart Union Berlin",
+    "Steffen Baumgart Union Berlin entlassen",
+    "Steffen Baumgart neuer Verein",
+    "Steffen Baumgart Trainer Karriere",
+    "Steffen Baumgart Hamburger SV",
+    "Steffen Baumgart 1. FC Köln",
+    "Steffen Baumgart Alter",
+    "Steffen Baumgart Herkunft Rostock",
+    "Wer ist Nachfolger von Steffen Baumgart bei Union Berlin"
+  ],
+  "gapNote": "The trend source (kicker, 'Union-Aus') could not be opened: WebFetch returned an empty page, so it is not cited. The page is built on the club's own press page (13 April 2026), German press reports of the dismissal (12 April 2026), and the Berliner Kurier report of 23 September 2026 that he was still without a club. Most results give only the dismissal. The gap is the full arc: Cologne (2021-2023), Hamburg (dismissed 24 November 2024), the return to Union in December 2024, and the latest status. Birth date is from a single database (FotMob); no other source was found for it."
+}

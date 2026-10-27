@@ -1,0 +1,208 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Skattebo nasceu e cresceu em Rio Linda, Califórnia, ao norte de Sacramento",
+      "sourceIds": [
+        "giants-player-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Birthplace Rio Linda, just north of Sacramento; raised there."
+    },
+    {
+      "claim": "Começou na Sacramento State e transferiu-se para a Arizona State",
+      "sourceIds": [
+        "arizonasports-skattebo-background",
+        "giants-player-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Sacramento State 2021-22, then ASU."
+    },
+    {
+      "claim": "Ele se descreveu como um corredor duro, alguém que vai marcar muitos touchdowns",
+      "sourceIds": [
+        "arizonasports-skattebo-background"
+      ],
+      "verdict": "confirmed",
+      "note": "'I'm bringing a hard runner, someone that's gonna score a lot of touchdowns' (Arizona Sports, not Giants.com; fixed)."
+    },
+    {
+      "claim": "Draft 2025, quarta rodada, 105ª posição, Giants",
+      "sourceIds": [
+        "giants-draft-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "4th round, 105th overall, April 26, 2025."
+    },
+    {
+      "claim": "Kenny Dillingham mentor; 'ensinou a fazer as coisas direito'",
+      "sourceIds": [
+        "arizonasports-skattebo-background"
+      ],
+      "verdict": "confirmed",
+      "note": "Mentor and friend; quote on doing things right."
+    },
+    {
+      "claim": "Não era recruta de cinco estrelas",
+      "sourceIds": [
+        "arizonasports-skattebo-background"
+      ],
+      "verdict": "confirmed",
+      "note": "Not a five-star recruit."
+    },
+    {
+      "claim": "Peach Bowl contra Texas: derrota 39-31 na prorrogação dupla, jogou doente, 143 jardas correndo, 99 recebendo, três touchdowns",
+      "sourceIds": [
+        "arizonasports-skattebo-background"
+      ],
+      "verdict": "confirmed",
+      "note": "Lost 39-31 in double overtime; played through illness; 143 rush, 99 receiving, three total TDs."
+    },
+    {
+      "claim": "2025: 8 jogos, 101 corridas, 410 jardas, 5 TDs; 24 recepções, 207 jardas, 2 TDs",
+      "sourceIds": [
+        "giants-roster-career"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the 2025 rushing and receiving rows."
+    },
+    {
+      "claim": "Running back, camisa 44, 1,80 m e 97,5 kg",
+      "sourceIds": [
+        "giants-roster-career"
+      ],
+      "verdict": "confirmed",
+      "note": "#44, 5-11 and 215 lbs (about 1.80 m and 97.5 kg)."
+    },
+    {
+      "claim": "2026: 7 jogos, 98 corridas, 418 jardas, 2 TDs terrestres; 11 recepções, 76 jardas",
+      "sourceIds": [
+        "giants-roster-career"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches 2026 rows."
+    },
+    {
+      "claim": "Total 199 corridas, 828 jardas, 7 TDs terrestres",
+      "sourceIds": [
+        "giants-roster-career"
+      ],
+      "verdict": "confirmed",
+      "note": "Career totals 199 / 828 / 7."
+    },
+    {
+      "claim": "Raanan (ESPN) descreveu a punição como contato ilegal com o capacete em jogada de corrida, semana 3 contra Tennessee",
+      "sourceIds": [
+        "newsweek-helmet-fine"
+      ],
+      "verdict": "confirmed",
+      "note": "'illegal helmet contact on a running play' against the Titans."
+    },
+    {
+      "claim": "Jeffery Simmons: 'acho que ele abaixou o capacete algumas vezes'",
+      "sourceIds": [
+        "newsweek-helmet-fine"
+      ],
+      "verdict": "confirmed",
+      "note": "'I think a couple times he did lower his helmet'."
+    },
+    {
+      "claim": "Nenhuma bandeira em campo; revisão da liga após a partida; encaminhada ao Football Operations Compliance; rótulo Unnecessary roughness (use of the helmet on offense)",
+      "sourceIds": [
+        "atoz-helmet-fine"
+      ],
+      "verdict": "confirmed",
+      "note": "No flag; reviewed after the game; label matches."
+    },
+    {
+      "claim": "Multa padrão de 23.882 dólares, e 47.762 dólares na segunda infração",
+      "sourceIds": [
+        "newsweek-helmet-fine"
+      ],
+      "verdict": "confirmed",
+      "note": "Standard 23,882; second offence 47,762 (corrected from 'double')."
+    },
+    {
+      "claim": "AtoZ colocou a multa em 7.073 dólares; Newsweek não confirmou o número",
+      "sourceIds": [
+        "atoz-helmet-fine",
+        "newsweek-helmet-fine"
+      ],
+      "verdict": "confirmed",
+      "note": "AtoZ: $7,073. Newsweek article does not state Skattebo's fine."
+    },
+    {
+      "claim": "AtoZ: NFL puniu quatro jogadores dos Giants",
+      "sourceIds": [
+        "atoz-helmet-fine"
+      ],
+      "verdict": "confirmed",
+      "note": "Four Giants players fined."
+    },
+    {
+      "claim": "Fumble contra o Washington; zero corridas na derrota por 34-27 para o Saints",
+      "sourceIds": [
+        "newsweek-benched"
+      ],
+      "verdict": "confirmed",
+      "note": "Fumble vs Commanders the previous week; 34-27 loss; zero carries."
+    },
+    {
+      "claim": "Tracy, Singletary e Harris dividiram a maioria das corridas",
+      "sourceIds": [
+        "newsweek-benched"
+      ],
+      "verdict": "confirmed",
+      "note": "Tracy 6, Singletary 4, Harris 4 (14 of 20 carries)."
+    },
+    {
+      "claim": "Skattebo era o melhor corredor do time e não teve nenhuma corrida",
+      "sourceIds": [
+        "newsweek-benched"
+      ],
+      "verdict": "confirmed",
+      "note": "'the team's best rusher, had zero carries'."
+    },
+    {
+      "claim": "Skattebo: esperava participação reduzida, não zero corridas; assumiu responsabilidade; sem ressentimento com Harbaugh",
+      "sourceIds": [
+        "newsweek-benched"
+      ],
+      "verdict": "confirmed",
+      "note": "Expected reduced workload; accountability; no ill will."
+    },
+    {
+      "claim": "'Eu fui punido pelo que fiz'",
+      "sourceIds": [
+        "newsweek-benched"
+      ],
+      "verdict": "confirmed",
+      "note": "'I got punished for what I did (last week)'."
+    },
+    {
+      "claim": "Newsweek apresentou a perda de minutos como punição de Harbaugh pelo fumble",
+      "sourceIds": [
+        "newsweek-benched"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated reason is the fumble."
+    },
+    {
+      "claim": "Jogo da semana 3 vitória contra Titans; multa por capacete",
+      "sourceIds": [
+        "newsweek-helmet-fine"
+      ],
+      "verdict": "confirmed",
+      "note": "Week 3 win over Tennessee."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds the NFL fine figures from two outlets with the unconfirmed amount flagged, the college path and the Dillingham context, and the bench decision with Skattebo's response.",
+  "decision": "approve",
+  "summary": "All checked Portuguese claims match their sources after the corrections (Arizona Sports attribution, 47.762 second-offence fine)."
+}

@@ -1,0 +1,290 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Yuri Alberto dividiu a artilharia do Campeonato Brasileiro de 2024 com Alerrandro, do Vitória, com 15 gols cada um.",
+      "sourceIds": [
+        "cnn-brasil-top-scorer-2024",
+        "lance-top-scorer-ranking-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of cnn-brasil-top-scorer-2024, lance-top-scorer-ranking-2024 fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "Os dois receberam o novo Troféu Roberto Dinamite na sede da CBF, no Rio de Janeiro.",
+      "sourceIds": [
+        "cnn-brasil-top-scorer-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of cnn-brasil-top-scorer-2024 fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "Yuri Alberto Monteiro da Silva nasceu em 18 de março de 2001, em São José dos Campos, no interior de São Paulo.",
+      "sourceIds": [
+        "futimao-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of futimao-profile fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "Começou a carreira nas categorias de base do Santos.",
+      "sourceIds": [
+        "futimao-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of futimao-profile fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "Em 2020 foi para o Sport Club Internacional, onde marcou 31 gols em 85 partidas.",
+      "sourceIds": [
+        "futimao-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of futimao-profile fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "O Corinthians o contratou em 2022.",
+      "sourceIds": [
+        "futimao-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of futimao-profile fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "Parte dos direitos econômicos dele pertence a um clube russo.",
+      "sourceIds": [
+        "exame-wants-new-challenge-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of exame-wants-new-challenge-2026 fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "Segundo a Exame, o Corinthians tem 50% desses direitos, e o Zenit, da Rússia, tem a outra metade.",
+      "sourceIds": [
+        "exame-wants-new-challenge-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of exame-wants-new-challenge-2026 fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "O clube teria definido um valor mínimo de € 20 milhões para a sua parte.",
+      "sourceIds": [
+        "exame-wants-new-challenge-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of exame-wants-new-challenge-2026 fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "O Corinthians oficializou a renovação em 24 de julho de 2025.",
+      "sourceIds": [
+        "lance-contract-renewal-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of lance-contract-renewal-2025 fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "O contrato anterior ia até o fim de 2027, e o novo vai até julho de 2030.",
+      "sourceIds": [
+        "lance-contract-renewal-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of lance-contract-renewal-2025 fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "Em comunicado, o clube disse que as negociações foram conduzidas pelo presidente Osmar Stabile e pelo executivo de futebol Fabinho Soldado.",
+      "sourceIds": [
+        "soccerway-renewal-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of soccerway-renewal-2025 fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "A cláusula de rescisão não mudou com a renovação: R$ 500 milhões para clubes brasileiros e € 100 milhões para clubes do exterior.",
+      "sourceIds": [
+        "lance-contract-renewal-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of lance-contract-renewal-2025 fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "Segundo o Terra, depois do título da Copa do Brasil, em campo no Maracanã após a vitória sobre o Vasco, ele disse \"Até 2030 eu estou aí\".",
+      "sourceIds": [
+        "terra-stay-until-2030-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of terra-stay-until-2030-2025 fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "Em entrevista à TV Globo, reproduzida pelo Lance em 14 de maio de 2026, ele disse que já se passaram cinco temporadas e que já havia conversado sobre a situação com a comissão técnica: \"Já foram cinco temporadas, eu já estou numa fase que eu conversei com meu staff\".",
+      "sourceIds": [
+        "lance-revela-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of lance-revela-2026 fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "Disse que o clube tinha quase dois meses, até o fim da Copa do Brasil, para resolver o assunto.",
+      "sourceIds": [
+        "lance-revela-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of lance-revela-2026 fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "O agente, André Cury, tinha sido procurado para buscar um desafio diferente naquele ano.",
+      "sourceIds": [
+        "lance-revela-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of lance-revela-2026 fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "A Exame informou, em 15 de maio de 2026, que uma eventual saída só seria discutida se surgisse uma proposta atraente.",
+      "sourceIds": [
+        "exame-wants-new-challenge-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of exame-wants-new-challenge-2026 fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "A reportagem liga isso a um acordo com a diretoria do clube quando ele renovou.",
+      "sourceIds": [
+        "exame-wants-new-challenge-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of exame-wants-new-challenge-2026 fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "Antes, o médico do clube tinha descrito uma das lesões dele como fratura da vértebra L1.",
+      "sourceIds": [
+        "lance-contract-renewal-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of lance-contract-renewal-2025 fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "Em novembro de 2025, o Lance informou que ele já tinha marcado contra todos os times da Série A atual, fechando a lista com o Mirassol.",
+      "sourceIds": [
+        "lance-goals-list-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of lance-goals-list-2025 fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "A mesma reportagem dava 73 gols e 19 assistências pelo Corinthians em 200 jogos, mas uma legenda de foto no texto informava 78 gols.",
+      "sourceIds": [
+        "lance-goals-list-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of lance-goals-list-2025 fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "Em 19 de outubro de 2026, ele converteu um pênalti no empate por 1 a 1 com o Vitória, na Neo Química Arena.",
+      "sourceIds": [
+        "gazeta-corinthians-vitoria-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of gazeta-corinthians-vitoria-2026 fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "O árbitro marcou inicialmente simulação, mas mudou a decisão após revisão do VAR.",
+      "sourceIds": [
+        "gazeta-corinthians-vitoria-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of gazeta-corinthians-vitoria-2026 fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "O Corinthians tinha 33 pontos em 26 de outubro de 2026.",
+      "sourceIds": [
+        "dgabc-gremio-coritiba-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of dgabc-gremio-coritiba-2026 fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "Naquele dia, o Grêmio venceu o Coritiba por 1 a 0, com gol de Braithwaite aos 47 minutos do segundo tempo.",
+      "sourceIds": [
+        "dgabc-gremio-coritiba-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of dgabc-gremio-coritiba-2026 fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "O Grêmio chegou a 34 pontos e foi para o 17º lugar, acima do Corinthians, que ficou na zona de rebaixamento.",
+      "sourceIds": [
+        "dgabc-gremio-coritiba-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of dgabc-gremio-coritiba-2026 fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "Portanto, o resultado do Grêmio que afundou o Corinthians foi uma vitória em Coritiba, e não um jogo contra o Corinthians.",
+      "sourceIds": [
+        "dgabc-gremio-coritiba-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of dgabc-gremio-coritiba-2026 fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "Yuri Alberto é o atacante brasileiro que dividiu a artilharia do Brasileirão de 2024 com 15 gols. Ele defende o Corinthians desde 2022, e o contrato vai até julho de 2030.",
+      "sourceIds": [
+        "cnn-brasil-top-scorer-2024",
+        "futimao-profile",
+        "lance-contract-renewal-2025",
+        "lance-top-scorer-ranking-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of cnn-brasil-top-scorer-2024, futimao-profile, lance-contract-renewal-2025, lance-top-scorer-ranking-2024 fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "Ele nasceu em 18 de março de 2001, então tinha 25 anos em 27 de outubro de 2026.",
+      "sourceIds": [
+        "futimao-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of futimao-profile fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "Até julho de 2030, após a renovação oficializada em 24 de julho de 2025.",
+      "sourceIds": [
+        "lance-contract-renewal-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of lance-contract-renewal-2025 fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "R$ 500 milhões para clubes brasileiros e € 100 milhões para clubes do exterior, valores que não mudaram na renovação.",
+      "sourceIds": [
+        "lance-contract-renewal-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of lance-contract-renewal-2025 fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "Ele é de São José dos Campos, no interior de São Paulo, onde nasceu.",
+      "sourceIds": [
+        "futimao-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of futimao-profile fetched during research; the figures, dates and quotes match."
+    },
+    {
+      "claim": "Ele marcou 15 gols e dividiu o título de goleador com Alerrandro, do Vitória, empatado na liderança da artilharia.",
+      "sourceIds": [
+        "lance-top-scorer-ranking-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the text of lance-top-scorer-ranking-2024 fetched during research; the figures, dates and quotes match."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds a sourced account of his contract, the May 2026 interview, the disputed goal tally and the trend correction (the Grêmio win was over Coritiba, not against Corinthians), which the usual results do not combine.",
+  "decision": "approve",
+  "summary": "34 claim units checked; no wrong or unsupported figures; no uncited sentences."
+}

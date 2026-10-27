@@ -1,0 +1,190 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 18 March 1968",
+      "sourceIds": [
+        "fotmob-player"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob profile states born March 18, 1968."
+    },
+    {
+      "claim": "Turned 58 in March 2026",
+      "sourceIds": [
+        "fotmob-player"
+      ],
+      "verdict": "confirmed",
+      "note": "Follows from the confirmed birth date."
+    },
+    {
+      "claim": "Nationality Mexican (facts.nationality MX)",
+      "sourceIds": [
+        "fotmob-player"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob: 'Miguel Herrera is from Mexico'."
+    },
+    {
+      "claim": "26 Oct 2026: Atlante CEO Emilio Escalante said Herrera's continuity is not in doubt",
+      "sourceIds": [
+        "tvazteca-atlante-future"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated 26/10/2026; CEO Escalante; club statement 'la continuidad de Miguel Herrera no está en duda'."
+    },
+    {
+      "claim": "Atlante lost 0-1 to Atlético San Luis, matchday 14",
+      "sourceIds": [
+        "foxsports-atlante-doubt"
+      ],
+      "verdict": "confirmed",
+      "note": "Fox Sports: 0-1 at home, Jornada 14."
+    },
+    {
+      "claim": "Atlante 16th with 14 points, no longer in control of its playoff route",
+      "sourceIds": [
+        "tvazteca-atlante-future"
+      ],
+      "verdict": "confirmed",
+      "note": "Article: 16th, 14 points, club 'ya no depende de sí mismo'."
+    },
+    {
+      "claim": "Herrera said the situation already looks very difficult",
+      "sourceIds": [
+        "foxsports-atlante-doubt"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote: 'Ya se ve muy difícil'."
+    },
+    {
+      "claim": "Board to draw its own conclusions; Herrera with coaching staff; decisions together",
+      "sourceIds": [
+        "foxsports-atlante-doubt"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes on board and coaching staff confirmed."
+    },
+    {
+      "claim": "Official club statement gave full confidence in Herrera; continuity not in doubt",
+      "sourceIds": [
+        "tvazteca-atlante-future"
+      ],
+      "verdict": "confirmed",
+      "note": "Club statement quoted. Social-media wording removed from the drafts because this source does not say it."
+    },
+    {
+      "claim": "Atlante announced Herrera as coach on 29 April 2026 via social media",
+      "sourceIds": [
+        "laopinion-atlante-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated 29 April 2026; club announced via social media."
+    },
+    {
+      "claim": "Presentation on 7 May 2026 at Estadio Banorte with Emilio Escalante and Emilio Escalante Jr. present",
+      "sourceIds": [
+        "tvazteca-atlante-presentation"
+      ],
+      "verdict": "confirmed",
+      "note": "Dated 07/05/2026; venue and attendees confirmed."
+    },
+    {
+      "claim": "Atlante spells: 2002-2004 (36 wins in 97), 2010-2011 (13 wins in 36)",
+      "sourceIds": [
+        "laopinion-atlante-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Records 97/36 and 36/13 confirmed."
+    },
+    {
+      "claim": "Tijuana project described as unsuccessful (malogrado)",
+      "sourceIds": [
+        "laopinion-atlante-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Term 'malogrado' confirmed."
+    },
+    {
+      "claim": "Nov 2013: federation committee proposed Herrera as only candidate; NZ playoff 5-1 (Azteca) and 4-2 (away)",
+      "sourceIds": [
+        "eldiariony-2013-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated 28 Nov 2013; 'único candidato'; scores confirmed."
+    },
+    {
+      "claim": "29 June 2014: Mexico lost 2-1 to Netherlands in round of 16; Sneijder equalised in 88th minute after Mexico led 1-0",
+      "sourceIds": [
+        "mlssoccer-2014-netherlands"
+      ],
+      "verdict": "confirmed",
+      "note": "Netherlands 2-1 Mexico; Sneijder 88th minute."
+    },
+    {
+      "claim": "Herrera blamed the referee and claimed Arjen Robben dived three times",
+      "sourceIds": [
+        "mlssoccer-2014-netherlands"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes confirmed."
+    },
+    {
+      "claim": "FotMob club spells: Tecos, América, Tijuana, Tigres",
+      "sourceIds": [
+        "fotmob-player"
+      ],
+      "verdict": "confirmed",
+      "note": "Coaching table matches the article's year ranges."
+    },
+    {
+      "claim": "Mexico spell ended July 2015",
+      "sourceIds": [
+        "fotmob-player"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob: Mexico Oct 2013 - Jul 2015."
+    },
+    {
+      "claim": "Nov 2023: FMF disciplinary commission fined and warned Herrera (Tijuana) after remarks following a match against América",
+      "sourceIds": [
+        "fmf-disciplinary-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Dated 6 Nov 2023; Tijuana; América; fine and warning. Amount not stated and not given in the article."
+    },
+    {
+      "claim": "Coached Costa Rica January to November 2025",
+      "sourceIds": [
+        "fotmob-player"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob: Jan 2025 - Nov 2025."
+    },
+    {
+      "claim": "Dismissal effective Thursday 20 November 2025; 3-3 with Haiti, later loss to Haiti, 0-0 with Honduras; no playoff place",
+      "sourceIds": [
+        "mediotiempo-costa-rica-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Federation communiqué; all results confirmed."
+    },
+    {
+      "claim": "Federation: failure to qualify for 2026 World Cup main reason; contract ended by mutual agreement",
+      "sourceIds": [
+        "eldiariony-costa-rica-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Both points confirmed."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds the federation's own disciplinary and dismissal notices, the 2013 playoff basis and the Atlante return timeline, which top results do not set out together.",
+  "decision": "approve",
+  "summary": "All claims in the pt version checked against opened sources and confirmed. Claim set is the same facts in each language. The article cites no official club or interview page; the FMF federation notice (league-or-federation) is the primary source."
+}

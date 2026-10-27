@@ -1,0 +1,239 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Herrera wurde im März 2026 58 Jahre alt (geboren 18.3.1968)",
+      "sourceIds": [
+        "fotmob-player"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob lists date of birth March 18, 1968."
+    },
+    {
+      "claim": "Am 26.10.2026 sagte der Geschäftsführer Emilio Escalante, Herrera habe Rückhalt; Zukunft nicht infrage",
+      "sourceIds": [
+        "tvazteca-atlante-future"
+      ],
+      "verdict": "confirmed",
+      "note": "Published 26/10/2026; CEO Escalante: 'la continuidad de Miguel Herrera no está en duda'."
+    },
+    {
+      "claim": "0:1 gegen Atlético San Luis am 14. Spieltag, Rang 16 mit 14 Punkten, Playoffs nicht mehr in eigener Hand",
+      "sourceIds": [
+        "foxsports-atlante-doubt",
+        "tvazteca-atlante-future"
+      ],
+      "verdict": "confirmed",
+      "note": "Jornada 14, 0-1 at home; 16th with 14 points; no longer controls own top-eight qualification."
+    },
+    {
+      "claim": "Herrera: die Lage sei sehr schwierig",
+      "sourceIds": [
+        "foxsports-atlante-doubt"
+      ],
+      "verdict": "confirmed",
+      "note": "'Ya se ve muy difícil.'"
+    },
+    {
+      "claim": "Herrera: Vereinsführung zieht ihre Schlüsse, er mit dem Trainerstab; gemeinsame Entscheidung",
+      "sourceIds": [
+        "foxsports-atlante-doubt"
+      ],
+      "verdict": "confirmed",
+      "note": "Board draws its own conclusions; final decisions made together."
+    },
+    {
+      "claim": "Escalante-Erklärung: volles Vertrauen, Zukunft nicht infrage",
+      "sourceIds": [
+        "tvazteca-atlante-future"
+      ],
+      "verdict": "confirmed",
+      "note": "'tenemos plena confianza en Miguel Herrera'."
+    },
+    {
+      "claim": "Atlante bestätigte Herrera am Abend des 28.04.2026 über Social Media",
+      "sourceIds": [
+        "laopinion-atlante-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Tease morning 28 April, confirmed that night; article dated 29 April."
+    },
+    {
+      "claim": "Vorstellung 7.5.2026 im Estadio Banorte mit Escalante und Escalante Jr., Ziel konkurrenzfähiges Team für Apertura 2026",
+      "sourceIds": [
+        "tvazteca-atlante-presentation"
+      ],
+      "verdict": "confirmed",
+      "note": "Thursday 7 May 2026; attendees and goal confirmed."
+    },
+    {
+      "claim": "Atlante 2002-2004: 36 Siege in 97 Spielen; 2010-2011: 13 Siege in 36 Spielen",
+      "sourceIds": [
+        "laopinion-atlante-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "97 matches/36 wins; 36 matches/13 wins."
+    },
+    {
+      "claim": "FotMob führt Atlante-Station nur für 2011",
+      "sourceIds": [
+        "fotmob-player"
+      ],
+      "verdict": "confirmed",
+      "note": "Atlante Jan 2011 - Nov 2011 listed."
+    },
+    {
+      "claim": "La Opinión: Tijuana-Projekt gescheitert, Spielideen ohne Erfolg",
+      "sourceIds": [
+        "laopinion-atlante-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'malogrado proyecto'; no success with his football ideas."
+    },
+    {
+      "claim": "Ende Nov. 2013 Ausschuss schlägt Herrera als einzigen Kandidaten vor; zwei Siege gegen Neuseeland 5:1 Azteca und 4:2 auswärts",
+      "sourceIds": [
+        "eldiariony-2013-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "Single candidacy after playoff wins; 5-1 Azteca, 4-2 away."
+    },
+    {
+      "claim": "Vorschlag an Versammlung der Erstligaklubs; Fassi (Pachuca) sprach nach der Sitzung; kurzes Trainingslager, langes wie 2010 kein gutes Ergebnis",
+      "sourceIds": [
+        "eldiariony-2013-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "Asamblea de Dueños; Fassi comments on short camp and 'no ha habido un buen resultado'."
+    },
+    {
+      "claim": "WM 2014: 29.6.2014 Achtelfinale 1:2 gegen Niederlande; 1:0 bis 88. Minute, Sneijder-Ausgleich",
+      "sourceIds": [
+        "mlssoccer-2014-netherlands"
+      ],
+      "verdict": "confirmed",
+      "note": "Netherlands 2-1 Mexico, June 29; Sneijder equalized in 88th minute."
+    },
+    {
+      "claim": "La Opinión stellte Herreras tiefe Verteidigung gegen Niederlande infrage",
+      "sourceIds": [
+        "laopinion-atlante-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Criticism of letting Mexico drop back to protect the result."
+    },
+    {
+      "claim": "Herrera: 'Der Mann mit der Pfeife hält uns von dieser WM fern'",
+      "sourceIds": [
+        "mlssoccer-2014-netherlands"
+      ],
+      "verdict": "confirmed",
+      "note": "'The man with the whistle is what is keeping us out of this World Cup'."
+    },
+    {
+      "claim": "Robben habe sich dreimal fallen lassen",
+      "sourceIds": [
+        "mlssoccer-2014-netherlands"
+      ],
+      "verdict": "confirmed",
+      "note": "'Three times he dove'."
+    },
+    {
+      "claim": "Schiedsrichter Pedro Proença (Portugal, UEFA); Herrera kritisierte Wahl trotz Schiedsrichtern anderer Konföderationen",
+      "sourceIds": [
+        "mlssoccer-2014-netherlands"
+      ],
+      "verdict": "confirmed",
+      "note": "Criticism of UEFA referee when others were available."
+    },
+    {
+      "claim": "Robben entschuldigte sich nach dem Spiel für Tauchen in der ersten Halbzeit",
+      "sourceIds": [
+        "mlssoccer-2014-netherlands"
+      ],
+      "verdict": "confirmed",
+      "note": "Robben apologized after the match."
+    },
+    {
+      "claim": "Ausscheiden nach Runde der letzten 16 als sechstes Turnier in Folge",
+      "sourceIds": [
+        "mlssoccer-2014-netherlands"
+      ],
+      "verdict": "confirmed",
+      "note": "Sixth straight tournament."
+    },
+    {
+      "claim": "Zwei Tore gegen Kamerun wegen Abseits aberkannt; nach vier Spielen Herrera: in drei davon katastrophale Schiedsrichterleistung",
+      "sourceIds": [
+        "mlssoccer-2014-netherlands"
+      ],
+      "verdict": "confirmed",
+      "note": "Two goals ruled out vs Cameroon; 'in three of them the refereeing was disastrous'."
+    },
+    {
+      "claim": "Nationaltrainer Mexikos bis Juli 2015",
+      "sourceIds": [
+        "fotmob-player"
+      ],
+      "verdict": "confirmed",
+      "note": "Mexico national team Oct 2013 - Jul 2015."
+    },
+    {
+      "claim": "Trainerstationen Tecos 2008-2010, América 2011-2013 und 2017-2020, Tijuana 2015-2017 und 2023-2024, Tigres 2021-2022",
+      "sourceIds": [
+        "fotmob-player"
+      ],
+      "verdict": "confirmed",
+      "note": "All dates match FotMob."
+    },
+    {
+      "claim": "Nov. 2023 Tijuana: Geldstrafe und Verwarnung durch Disziplinarkommission nach Pressekonferenz gegen América; Warnung mit Androhung härterer Strafen; Art. 71",
+      "sourceIds": [
+        "fmf-disciplinary-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Fine and formal warning; Article 71 (c) cited; article dated 6 Nov 2023. Fine amount not stated in source (none given)."
+    },
+    {
+      "claim": "Costa Rica Januar bis November 2025",
+      "sourceIds": [
+        "fotmob-player"
+      ],
+      "verdict": "confirmed",
+      "note": "Jan 2025 - Nov 2025."
+    },
+    {
+      "claim": "Entlassung wirksam Donnerstag 20.11.2025 per Mitteilung",
+      "sourceIds": [
+        "mediotiempo-costa-rica-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Effective Thursday, November 20."
+    },
+    {
+      "claim": "Verband behielt Herrera nach 3:3 gegen Haiti; spätere Niederlage gegen Haiti und 0:0 gegen Honduras kosteten Playoff-Platz",
+      "sourceIds": [
+        "mediotiempo-costa-rica-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Three-goal draw with Haiti; loss to Haiti; 0-0 Honduras."
+    },
+    {
+      "claim": "El Diario NY sah das Verpassen der WM-Qualifikation als Hauptgrund; Verband: gegenseitiges Einvernehmen",
+      "sourceIds": [
+        "eldiariony-costa-rica-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Reporter's framing that WC failure was the main factor; federation's wording 'de mutuo acuerdo'."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds the 2013 appointment process, the Robben and referee criticism from the 2014 match, and the sourced sequence of Atlante stints with a source conflict noted.",
+  "decision": "approve",
+  "summary": "All checked German claims match their sources after the corrections (28 April announcement date, Robben wording, Costa Rica reason attributed to El Diario NY, FotMob discrepancy noted)."
+}

@@ -1,0 +1,110 @@
+{
+  "worthWriting": true,
+  "reason": "Brazilian striker at Corinthians, trending in Brazil on 2026-10-27. Several opened sources cover his career, contract, 2024 top-scorer award and 2026 form. No official Corinthians or CBF page could be opened, so no official source is cited.",
+  "wikidata": "",
+  "importance": 3,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "futimao-profile",
+      "url": "https://www.futimao.com.br/jogador-corinthians/yuri-alberto",
+      "title": "Yuri Alberto Monteiro da Silva (Corinthians player profile)",
+      "publisher": "Futimão",
+      "type": "other",
+      "lang": "pt"
+    },
+    {
+      "id": "lance-contract-renewal-2025",
+      "url": "https://www.lance.com.br/corinthians/yuri-alberto-renova-contrato-com-o-corinthians.html",
+      "title": "Yuri Alberto renova contrato com o Corinthians",
+      "publisher": "Lance",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "exame-wants-new-challenge-2026",
+      "url": "https://exame.com/esporte/yuri-alberto-admite-desejo-de-deixar-o-corinthians-ainda-em-2026/",
+      "title": "Yuri Alberto admite desejo de deixar o Corinthians ainda em 2026",
+      "publisher": "Exame",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "terra-stay-until-2030-2025",
+      "url": "https://www.terra.com.br/esportes/corinthians/heroi-do-titulo-yuri-alberto-garante-permanencia-no-corinthians-ate-2030,8cf605afdf9b22e082ec3bc9bc6b24bbabm8f7sr.html",
+      "title": "Herói do título, Yuri Alberto garante permanência no Corinthians até 2030",
+      "publisher": "Terra",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "cnn-brasil-top-scorer-2024",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/artilheiro-do-brasileiro-yuri-alberto-recebe-trofeu-roberto-dinamite/",
+      "title": "Artilheiro do Brasileiro, Yuri Alberto recebe Troféu Roberto Dinamite",
+      "publisher": "CNN Brasil",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "lance-top-scorer-ranking-2024",
+      "url": "https://www.lance.com.br/brasileirao/artilheiro-do-brasileirao-veja-o-ranking-apos-a-ultima-rodada.html",
+      "title": "Artilheiro do Brasileirão 2024: veja o ranking após a última rodada",
+      "publisher": "Lance",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "gazeta-corinthians-vitoria-2026",
+      "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-vitoria-brasileirao-19-10-2026/",
+      "title": "Com Seedorf na torcida, Corinthians empata contra o Vitória e prolonga jejum",
+      "publisher": "Gazeta Esportiva",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "dgabc-gremio-coritiba-2026",
+      "url": "https://www.dgabc.com.br/Noticia/4365178/gremio-vence-coritiba-quebra-jejum-e-supera-corinthians-na-zona-de-rebaixamento-do-brasileirao",
+      "title": "Grêmio vence Coritiba, quebra jejum e supera Corinthians na zona de rebaixamento do Brasileirão",
+      "publisher": "DGABC",
+      "type": "press",
+      "lang": "pt"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "2001-03-18",
+      "sources": [
+        "futimao-profile"
+      ],
+      "note": "Only opened source giving the date. Academia das Apostas (not opened) gives 17 March 2001."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "São José dos Campos, São Paulo, Brazil",
+      "sources": [
+        "futimao-profile"
+      ],
+      "note": "Single opened source."
+    },
+    "nationality": {
+      "value": "BR",
+      "sources": [
+        "futimao-profile"
+      ],
+      "note": "Nationality inferred from the Brazilian birthplace in the profile. No opened source uses the word Brazilian for him, so keep it as a fact with the birthplace."
+    }
+  },
+  "targetQueries": [
+    "Yuri Alberto",
+    "Yuri Alberto idade",
+    "Yuri Alberto clube atual",
+    "Yuri Alberto contrato 2030",
+    "Yuri Alberto cláusula de rescisão",
+    "Yuri Alberto gols 2026",
+    "Yuri Alberto Zenit",
+    "Yuri Alberto artilheiro Brasileirão 2024",
+    "Yuri Alberto de onde é",
+    "Yuri Alberto Corinthians lesão"
+  ],
+  "gapNote": "Trend premise correction: the 26 Oct 2026 match behind the trend was Coritiba 0-1 Grêmio, not Corinthians vs Grêmio. It dropped Corinthians (33 pts) to 18th, behind Grêmio (34 pts, 17th). Yuri Alberto was not in that match. Top results rarely combine his contract, the 2024 award and the 2026 penalty in one place with dated sources."
+}

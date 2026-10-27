@@ -1,0 +1,83 @@
+{
+  "id": "cam-skattebo",
+  "name": "Cam Skattebo",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 2,
+  "sameAs": [],
+  "facts": {
+    "birthPlace": {
+      "value": "Rio Linda, California",
+      "sources": [
+        "giants-player-profile"
+      ]
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "giants-player-profile",
+      "url": "https://www.giants.com/team/players-roster/cam-skattebo/",
+      "title": "Cam Skattebo player profile",
+      "publisher": "New York Giants",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "giants-roster-career",
+      "url": "https://www.giants.com/team/players-roster/cam-skattebo/career",
+      "title": "Cam Skattebo career stats",
+      "publisher": "New York Giants",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "giants-draft-2025",
+      "url": "https://www.giants.com/news/cam-skattebo-nfl-draft-running-back-arizona-state-running-back",
+      "title": "Giants draft Cam Skattebo",
+      "publisher": "New York Giants",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "newsweek-helmet-fine",
+      "url": "https://www.newsweek.com/sports/nfl/giants-cam-skattebo-disciplined-by-nfl-for-what-he-did-against-the-titans-12520943",
+      "title": "Giants' Cam Skattebo disciplined by NFL for what he did against the Titans",
+      "publisher": "Newsweek",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "atoz-helmet-fine",
+      "url": "https://atozsports.com/nfl/new-york-giants-news/nfl-drops-the-hammer-giants-cam-skattebo/",
+      "title": "NFL drops the hammer on 4 Giants players",
+      "publisher": "AtoZ Sports",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "newsweek-benched",
+      "url": "https://newsweek.com/sports/nfl/giants-cam-skattebo-breaks-silence-after-being-punished-by-hc-john-harbaugh-12586658",
+      "title": "Giants Cam Skattebo breaks silence after being punished by HC John Harbaugh",
+      "publisher": "Newsweek",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "arizonasports-skattebo-background",
+      "url": "https://arizonasports.com/?p=3582067",
+      "title": "Cam Skattebo ready to bring same mindset from ASU to New York Giants",
+      "publisher": "Arizona Sports",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    }
+  ]
+}
