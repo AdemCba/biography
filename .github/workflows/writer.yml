@@ -6,13 +6,16 @@ name: Writer
 # not on the API. The Publish workflow then adds photos, schedules, deploys and pings IndexNow.
 on:
   schedule:
-    - cron: "40 4 * * *"
-    - cron: "40 12 * * *"
+    # Every 3 hours (Istanbul 02:40, 05:40, 08:40 ...).
+    - cron: "40 */3 * * *"
   workflow_dispatch:
     inputs:
       count:
         description: "Kaç kişi yazılsın (How many people to write)"
         default: "5"
+      topics:
+        description: "Kaç gündem (trend konu) yazısı yazılsın"
+        default: "1"
       people:
         description: "İstediğin kişiler, virgülle (boş = trendlerden seç). Ör: Arda Güler, Kenan Yıldız"
         required: false
@@ -87,6 +90,20 @@ jobs:
             - Then, if usage allows, repair up to 2 existing pages: pick pages from `npm run -s check` that are in
               status review or show ERROR, `too-short` or `short-for-importance`, expand or fix them in all languages with sourced facts, and fact-check them
               again with review.ts. Never remove a page.
+            - Trending topics: also write ${{ inputs.topics || 1 }} topic article(s) from the section "Son 4 saatte
+              Google'da yükselen konular" of data/trend-candidates/latest.md (prefer terms trending in several
+              countries). Skip deaths, accidents, crime, war, elections and politics, and anything about minors or
+              sexual content. Confirm the story with WebSearch, then create content/topics/<id>/topic.json
+              ({"id", "people": [ids of people on this site the story is about], "trendingIn": [geos],
+              "sources": [same format as person.json]}) and <locale>.md in all five languages with the same
+              frontmatter as a biography (title, slug, metaTitle, metaDescription, summary, status, author,
+              targetQueries). Each text: at least 450 words, at least two `##` sections (what happened, the
+              background, what comes next), cited with [s:id] from at least two sources, written for that
+              language's readers. Link people with [Name](person:person-id). If a person in the story has no page and is
+              notable, write their biography too. review.ts does not handle topics: check each topic text against its
+              sources in one foreground subagent pass, fix what does not match, then set status: approved,
+              reviewer: fact-check-desk, reviewedAt: today. `npm run -s check` must show no ERROR for them (they
+              are listed as trending/<id>/<locale>); schedule.ts publishes them with the biographies.
             - Step 7: write the Turkish summary (who you picked, why each is searched today, which pages passed) to
               writer-summary.md in the repository root and also print it as your final answer.
 

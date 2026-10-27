@@ -4,7 +4,8 @@ import { site } from "@/config/site";
 import type { Locale } from "@/i18n/config";
 import { getDictionary } from "@/i18n/dictionaries";
 import { PersonCard } from "@/components/PersonCard";
-import { categoryPath, getContent, livePeople } from "@/lib/content";
+import { TRENDING } from "@/i18n/trending";
+import { categoryPath, getContent, livePeople, liveTopics, topicPath } from "@/lib/content";
 import { pageMetadata, siteJsonLd } from "@/lib/seo";
 
 export async function generateMetadata({ params }: PageProps<"/[locale]">): Promise<Metadata> {
@@ -22,6 +23,7 @@ export default async function Home({ params }: PageProps<"/[locale]">) {
   const t = getDictionary(locale);
   const store = getContent();
   const latest = livePeople(locale, store).slice(0, 12);
+  const trending = liveTopics(locale, store).slice(0, 4);
   const categories = store.categories
     .filter((c) => c.i18n[locale])
     .map((c) => ({ c, count: livePeople(locale, store).filter((x) => x.person.data.categories.includes(c.id)).length }))
@@ -34,6 +36,24 @@ export default async function Home({ params }: PageProps<"/[locale]">) {
         <h1 className="max-w-3xl text-4xl font-semibold leading-tight sm:text-5xl">{t.home.title}</h1>
         <p className="mt-4 max-w-2xl text-lg text-muted">{t.home.intro}</p>
       </section>
+
+      {trending.length > 0 && (
+        <section aria-labelledby="trending" className="mb-12">
+          <h2 id="trending" className="mb-4 text-2xl font-semibold">
+            <Link href={`/${locale}/trending/`} className="hover:underline">{TRENDING[locale].title}</Link>
+          </h2>
+          <ul className="grid gap-3 sm:grid-cols-2">
+            {trending.map(({ topic, article }) => (
+              <li key={topic.data.id}>
+                <Link href={topicPath(locale, article.meta.slug)} className="block h-full rounded-lg border border-line bg-white p-4 hover:border-ink/30">
+                  <span className="font-serif text-lg">{article.meta.title}</span>
+                  <span className="mt-1 block text-sm text-muted line-clamp-2">{article.meta.summary}</span>
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
 
       {categories.length > 0 && <section aria-labelledby="browse" className="mb-12">
         <h2 id="browse" className="mb-4 text-2xl font-semibold">{t.home.browse}</h2>
