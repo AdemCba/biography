@@ -1,0 +1,104 @@
+{
+  "id": "unai-simon",
+  "name": "Unai Simón",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 4,
+  "wikidata": "Q23908113",
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1997-06-11",
+      "sources": [
+        "laliga-player-profile",
+        "wikidata-q23908113"
+      ],
+      "note": "LaLiga and Wikidata agree."
+    },
+    "birthPlace": {
+      "value": "Vitoria-Gasteiz",
+      "sources": [
+        "laliga-player-profile",
+        "wikidata-q23908113"
+      ],
+      "note": "LaLiga and Wikidata agree. Some search snippets gave other places; not verified, not used."
+    },
+    "nationality": {
+      "value": [
+        "ES"
+      ],
+      "sources": [
+        "wikidata-q23908113",
+        "fifa-world-cup-2026-media-release"
+      ],
+      "note": "Wikidata lists Spain as citizenship; FIFA refers to him as Spain's goalkeeper."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "fifa-world-cup-2026-media-release",
+      "url": "https://inside.fifa.com/organisation/media-releases/spain-unprecedented-global-double-new-milestones-historic-world-cup-2026",
+      "title": "Spain complete unprecedented global double as new milestones on the pitch define historic FIFA World Cup 2026 finale",
+      "publisher": "FIFA",
+      "type": "award-body",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "laliga-player-profile",
+      "url": "https://www.laliga.com/es-MX/jugador/unai-simon",
+      "title": "Unai Simón, player profile",
+      "publisher": "LaLiga",
+      "type": "league-or-federation",
+      "accessed": "2026-10-27",
+      "lang": "es"
+    },
+    {
+      "id": "wikidata-q23908113",
+      "url": "https://www.wikidata.org/wiki/Q23908113",
+      "title": "Unai Simón (Q23908113)",
+      "publisher": "Wikidata",
+      "type": "database",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "fox-sports-golden-glove",
+      "url": "https://www.foxsports.com/stories/soccer/spain-goalkeeper-unai-simon-wins-golden-glove-after-historic-world-cup",
+      "title": "Spain goalkeeper Unai Simón wins Golden Glove after historic World Cup",
+      "publisher": "Fox Sports",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "football-espana-2024",
+      "url": "https://www.football-espana.net/2024/09/05/athletic-club-star-sets-out-worlds-best-mission",
+      "title": "Athletic Club star sets out world's best mission",
+      "publisher": "Football España",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "aawsat-simon",
+      "url": "https://english.aawsat.com/node/5298004",
+      "title": "Simón Says It Was Spain's Record Defense That Made the Goalkeeper's Job So Easy in the World Cup",
+      "publisher": "Asharq Al-Awsat",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "vavel-bio",
+      "url": "https://www.vavel.com/en/data/unai-simon/bio/",
+      "title": "Unai Simón biography and stats",
+      "publisher": "Vavel",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    }
+  ]
+}

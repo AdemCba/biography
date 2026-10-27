@@ -1,0 +1,64 @@
+{
+  "id": "michael-carrick",
+  "name": "Michael Carrick",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1981-07-28",
+      "sources": [
+        "mufcinfo-carrick-archive"
+      ],
+      "note": "Listed as 28/07/1981 on the archive page."
+    },
+    "birthPlace": {
+      "value": "Wallsend, North Shields, England",
+      "sources": [
+        "mufcinfo-carrick-archive"
+      ],
+      "note": "The archive page's wording. Other sources may name Wallsend, Tyne and Wear, which is the same town; not checked further."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "beinsports-carrick-permanent",
+      "url": "https://www.beinsports.com/en-us/soccer/premier-league/articles/michael-carrick-confirmed-as-permanent-manager-of-manchester-united-contract-until-2028-and-return-to-champions-league-2026-05-22?SV=ly",
+      "title": "Michael Carrick confirmed as permanent manager of Manchester United, contract until 2028 and return to Champions League",
+      "publisher": "beIN SPORTS",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "ians-carrick-permanent",
+      "url": "https://ianslive.in/michael-carrick-confirmed-as-manchester-uniteds-permanent-head-coach-until-2028--20260522165531",
+      "title": "Michael Carrick confirmed as Manchester United's permanent head coach until 2028",
+      "publisher": "IANS",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "football365-carrick-reaction",
+      "url": "https://www.football365.com/news/man-utd-carrick-reaction-made-permanent-head-coach",
+      "title": "Michael Carrick gives reaction as Man Utd confirm permanent head coach appointment",
+      "publisher": "Football365",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "mufcinfo-carrick-archive",
+      "url": "https://www.mufcinfo.com/manupag/a-z_player_archive/a-z_player_archive_pages/carrick_michael.html",
+      "title": "Michael Carrick: Man United midfielder profile and stats",
+      "publisher": "MUFCInfo",
+      "type": "database",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    }
+  ]
+}

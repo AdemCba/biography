@@ -1,0 +1,88 @@
+{
+  "worthWriting": true,
+  "reason": "Living rapper and singer, globally famous, in the news on 27 Oct 2026 for her answer about her next album. Sources: official site (nickiminajofficial.com, footer confirms it links to her label and socials), Wikidata Q162202, Biography.com, IBTimes UK and Complex (Austin remark), Digital Music News (her 15 Oct 2025 X post, quoted). Gap: current results split the 2025 cancellation and the 2026 Austin reply into separate stories; this page gives one dated timeline with the sources that state each date. Queries are inferred from the news coverage, not from Search Console. Risk medium: the page sticks to her public statements about her album and does not cover the money claims made in the feud. One older profile gives birth year 1984; Wikidata and Biography.com give 1982, so we use 1982 and note the disagreement.",
+  "wikidata": "Q162202",
+  "importance": 5,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "nicki-minaj-official",
+      "url": "https://nickiminajofficial.com",
+      "title": "Nicki Minaj (official site)",
+      "publisher": "Nicki Minaj",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "wikidata-q162202",
+      "url": "https://www.wikidata.org/wiki/Q162202",
+      "title": "Nicki Minaj (Wikidata item Q162202)",
+      "publisher": "Wikidata",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "biography-com-nicki-minaj",
+      "url": "https://www.biography.com/musicians/nicki-minaj",
+      "title": "Nicki Minaj Biography",
+      "publisher": "Biography.com",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "ibtimes-nothing-austin",
+      "url": "https://www.ibtimes.co.uk/nicki-minaj-gives-nothing-one-word-response-about-what-expect-next-album-1825426",
+      "title": "Nicki Minaj Gives 'Nothing' as One-Word Response About What To Expect From Next Album",
+      "publisher": "IBTimes UK",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "complex-nothing-next-question",
+      "url": "https://www.complex.com/music/a/treyalston/nicki-minaj-next-album-nothing-next-question",
+      "title": "Nicki Minaj next album nothing next question",
+      "publisher": "Complex",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "digitalmusicnews-album-cancel",
+      "url": "https://www.digitalmusicnews.com/2025/10/16/nicki-minaj-blames-jay-z-for-album-cancellation/",
+      "title": "Nicki Minaj blames Jay-Z for album cancellation",
+      "publisher": "Digital Music News",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1982-12-08",
+      "sources": [
+        "wikidata-q162202",
+        "biography-com-nicki-minaj"
+      ],
+      "note": "One older profile gives 1984; Wikidata and Biography.com give 1982."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Saint James, Trinidad and Tobago",
+      "sources": [
+        "biography-com-nicki-minaj",
+        "wikidata-q162202"
+      ],
+      "note": "Wikidata gives Saint James only."
+    },
+    "nationality": null
+  },
+  "targetQueries": [
+    "how old is Nicki Minaj",
+    "where is Nicki Minaj from",
+    "Nicki Minaj new album",
+    "Nicki Minaj album cancelled",
+    "Nicki Minaj NM6",
+    "Nicki Minaj X Takeover Austin",
+    "Nicki Minaj Pink Friday 2",
+    "Nicki Minaj Jay-Z"
+  ],
+  "gapNote": "Current coverage splits the 2025 cancellation and the 2026 Austin reply into separate stories. This page gives one dated timeline, each date tied to a source that states it. Queries are inferred from the news coverage, not from Search Console."
+}

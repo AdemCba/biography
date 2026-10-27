@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Saka scored the only goal, in the 59th minute, in Arsenal's 1-0 win at Aston Villa on 31 August 2026",
+      "sourceIds": [
+        "aljazeera-arsenal-villa-2026",
+        "ap-arsenal-villa-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources: Monday 31 Aug 2026, 1-0, Saka 59th minute, only goal."
+    },
+    {
+      "claim": "Goal build-up: Eze pass to Calafiori, low cross poked in by Saka",
+      "sourceIds": [
+        "aljazeera-arsenal-villa-2026",
+        "ap-arsenal-villa-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera: Eze pass found Calafiori, whose low cross Saka poked in. AP: bundled home after Eze/Calafiori interplay."
+    },
+    {
+      "claim": "Buendia hit the crossbar; Pau Torres blocked Tzolis tap-in; Tzolis replaced by Eze at half-time",
+      "sourceIds": [
+        "aljazeera-arsenal-villa-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Each detail confirmed on the page."
+    },
+    {
+      "claim": "Same starting XI as the 3-0 win over Coventry ten days earlier; 250th league game for Arteta; six points, joint top",
+      "sourceIds": [
+        "aljazeera-arsenal-villa-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed on the page."
+    },
+    {
+      "claim": "Declan Rice limped off late; Konsa debut from the bench",
+      "sourceIds": [
+        "aljazeera-arsenal-villa-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed on the page."
+    },
+    {
+      "claim": "Maatsen challenge on Saka with nine minutes gone; penalty downgraded to a free kick because the foul was just outside the area; Odegaard free kick wide",
+      "sourceIds": [
+        "ap-arsenal-villa-2026",
+        "aljazeera-arsenal-villa-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "AP: nine minutes, Maatsen, VAR downgrade. Al Jazeera: 'because the foul took place just outside the area'; Odegaard free kick just wide."
+    },
+    {
+      "claim": "Villa had no shot on target this season",
+      "sourceIds": [
+        "ap-arsenal-villa-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "AP: Villa 'without a shot on target so far'."
+    },
+    {
+      "claim": "Villa lost opener 4-0 at Brighton; Jackson and Suzuki Villa debuts",
+      "sourceIds": [
+        "aljazeera-arsenal-villa-2026",
+        "ap-arsenal-villa-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed on the pages; AP describes Suzuki as first Japanese goalkeeper in the Premier League."
+    },
+    {
+      "claim": "Saka reached 50 England appearances; England won 30 of his first 50; 15 goals in that period; senior debut vs Wales October 2020",
+      "sourceIds": [
+        "englandfootball-saka-50-caps"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted on the FA page."
+    },
+    {
+      "claim": "50th appearance was England's 4-2 win over Croatia at the World Cup as a second-half substitute; set up Rashford",
+      "sourceIds": [
+        "englandfootball-saka-50-caps"
+      ],
+      "verdict": "confirmed",
+      "note": "FA page: second-half substitute, assist in the 4-2 win; caption says he set up Rashford."
+    },
+    {
+      "claim": "Aged 24 years and 285 days, fourth England men's player to reach 50 caps before turning 25",
+      "sourceIds": [
+        "englandfootball-saka-50-caps"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted on the FA page."
+    },
+    {
+      "claim": "Bellingham reached 50 caps less than a week later; The FA covered both in one article",
+      "sourceIds": [
+        "englandfootball-saka-50-caps"
+      ],
+      "verdict": "confirmed",
+      "note": "FA page is a single article covering both players."
+    },
+    {
+      "claim": "Saka scored an 80th-minute equaliser vs Switzerland that took the match to extra time; England won shootout 5-3; Saka converted his penalty",
+      "sourceIds": [
+        "premierleague-saka-euro-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed on the Premier League page."
+    },
+    {
+      "claim": "Missed a penalty in the EURO 2020 final lost to Italy",
+      "sourceIds": [
+        "premierleague-saka-euro-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Page: 'just three years ago missed a penalty as England lost the EURO 2020 final to Italy'."
+    },
+    {
+      "claim": "In January 2026 Fox Sports reported Saka had agreed terms on a new five-year deal, extending his stay to summer 2031",
+      "sourceIds": [
+        "foxsports-saka-contract-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Fox Sports, published 9 Jan 2026: 'has agreed terms on a new five-year deal'; 'until the summer of 2031'. The sentence now dates the status to the January report."
+    },
+    {
+      "claim": "Previous contract ran until 2027; the January report described the terms as agreed, not as signed",
+      "sourceIds": [
+        "foxsports-saka-contract-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Fox Sports: current contract 'runs until 2027'; the report says 'agreed terms', not signed. The article no longer presents this as the present status."
+    },
+    {
+      "claim": "Hip and Achilles problems limited him to 25 Premier League starts; substitute in the 3-0 Costa Rica warm-up in Florida; feeling 'a lot better than I did in March'; prepared to start in Dallas if called upon",
+      "sourceIds": [
+        "englandfootball-saka-world-cup-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "All quoted on the FA preview page. The link to the title-winning season was not re-checked on this page in this pass."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear 59th-minute timeline from two outlets, the January contract status stated as the January report, and the England caps milestone from the federation.",
+  "decision": "approve",
+  "summary": "All cited facts confirmed on the sources. The contract sentence now states the January 2026 report as it was (agreed, not signed). No unsupported lines remain."
+}

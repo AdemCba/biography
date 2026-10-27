@@ -1,0 +1,265 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Spain beat Argentina 1-0 in the final on 19 July 2026",
+      "sourceIds": [
+        "fifa-world-cup-2026-media-release"
+      ],
+      "verdict": "confirmed",
+      "note": "FIFA: final on July 19, 2026 (photo caption); Spain defeated Argentina 1-0 after extra time."
+    },
+    {
+      "claim": "Spain's 2026 title was its second World Cup title, following its 2010 triumph",
+      "sourceIds": [
+        "fifa-world-cup-2026-media-release"
+      ],
+      "verdict": "confirmed",
+      "note": "FIFA: 'second FIFA World Cup title, following their triumph in 2010'."
+    },
+    {
+      "claim": "Simón kept seven clean sheets, the most by any goalkeeper in a single World Cup edition",
+      "sourceIds": [
+        "fifa-world-cup-2026-media-release",
+        "fox-sports-golden-glove"
+      ],
+      "verdict": "confirmed",
+      "note": "FIFA and Fox Sports both say seven, the most by a goalkeeper in one edition."
+    },
+    {
+      "claim": "Spain conceded one goal across eight matches",
+      "sourceIds": [
+        "fifa-world-cup-2026-media-release"
+      ],
+      "verdict": "confirmed",
+      "note": "FIFA: 'conceded just one goal across eight matches'."
+    },
+    {
+      "claim": "Spain scored 14 goals, their highest World Cup tally",
+      "sourceIds": [
+        "fifa-world-cup-2026-media-release"
+      ],
+      "verdict": "confirmed",
+      "note": "FIFA: 'Their total of 14 goals represented their highest-ever tally'."
+    },
+    {
+      "claim": "Simón was presented with the Golden Glove (FIFA photo caption) and was awarded it for the tournament",
+      "sourceIds": [
+        "fifa-world-cup-2026-media-release",
+        "fox-sports-golden-glove"
+      ],
+      "verdict": "confirmed",
+      "note": "FIFA caption 'Unai Simon #23 of Spain is presented with the Golden Glove'; Fox: 'has been awarded the 2026 FIFA World Cup Golden Glove'."
+    },
+    {
+      "claim": "Simón was born on 11 June 1997 in Vitoria-Gasteiz",
+      "sourceIds": [
+        "laliga-player-profile",
+        "wikidata-q23908113"
+      ],
+      "verdict": "confirmed",
+      "note": "LaLiga 11-06-1997 and Vitoria-Gasteiz; Wikidata 11 June 1997 and Vitoria-Gasteiz."
+    },
+    {
+      "claim": "Wikidata records Spanish citizenship",
+      "sourceIds": [
+        "wikidata-q23908113"
+      ],
+      "verdict": "confirmed",
+      "note": "Wikidata country of citizenship: Spain."
+    },
+    {
+      "claim": "LaLiga lists him as a goalkeeper (Portero) for Athletic Club, height 190 cm",
+      "sourceIds": [
+        "laliga-player-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "LaLiga profile: 190 cm, Athletic Club, Portero."
+    },
+    {
+      "claim": "CD Aurrera had a partnership agreement with Athletic; coach Javier Barbero recruited him at eleven",
+      "sourceIds": [
+        "vavel-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Vavel: partnership agreement with Athletic; Barbero recruited him at the age of eleven."
+    },
+    {
+      "claim": "He worked his way up through Lezama after joining Athletic's youth system and the cadet side",
+      "sourceIds": [
+        "vavel-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Vavel: joined the cadet side; worked his way up through Lezama."
+    },
+    {
+      "claim": "CD Basconia was his first taste of senior football; promoted to Bilbao Athletic in summer 2016",
+      "sourceIds": [
+        "vavel-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Vavel: 'first taste of senior football came at CD Basconia'; summer 2016 promotion to Bilbao Athletic."
+    },
+    {
+      "claim": "La Liga debut on 20 August 2018 at San Mamés, a 2-1 win over Leganés, aged 21",
+      "sourceIds": [
+        "vavel-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Vavel: debut 20 August 2018, 2-1 win over Leganés, at 21."
+    },
+    {
+      "claim": "He has spent his whole professional career at Athletic Club",
+      "sourceIds": [
+        "vavel-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Vavel: 'has spent his whole professional career at Athletic Club'."
+    },
+    {
+      "claim": "In September 2024 Football España reported a contract extension at Athletic until 2029 after rejecting Saudi Pro League interest",
+      "sourceIds": [
+        "football-espana-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Football España: extension until 2029 after rejecting Saudi Pro League transfer interest."
+    },
+    {
+      "claim": "He signed a new contract in May 2024",
+      "sourceIds": [
+        "vavel-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Vavel: 'In May 2024 he signed a new contract, with no release clause.'"
+    },
+    {
+      "claim": "Quote: 'I want to be the world's best goal keeper here at Athletic Club.' Outlet expected him to finish his career at San Mamés",
+      "sourceIds": [
+        "football-espana-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Football España quote and 'expected to complete his career at the Estadio San Mames'."
+    },
+    {
+      "claim": "Luis Enrique gave him his Spain debut on 11 November 2020, a 1-1 friendly against the Netherlands",
+      "sourceIds": [
+        "vavel-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Vavel: debut 11 November 2020, 1-1 friendly against the Netherlands."
+    },
+    {
+      "claim": "Club honours (2021 Super Cup, 2024 Copa del Rey, Zamora Trophy 2023-24) and Spain honours (2015 U19 Euro, 2019 U21 Euro, Tokyo silver, 2023 Nations League, Euro 2024)",
+      "sourceIds": [
+        "vavel-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Vavel honours list matches all items."
+    },
+    {
+      "claim": "He played through a persistent wrist injury at Euro 2024, had surgery afterwards and was not expected back until the start of 2025",
+      "sourceIds": [
+        "football-espana-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Football España: 'played through the pain at the tournament'; surgery on a persistent wrist injury; not expected back until start of 2025."
+    },
+    {
+      "claim": "David Raya and Joan García, the Premier League and La Liga Golden Glove winners, were Spain's second and third goalkeepers",
+      "sourceIds": [
+        "fox-sports-golden-glove"
+      ],
+      "verdict": "confirmed",
+      "note": "Fox: 'who were waiting behind him as Spain's No. 2 and No. 3 goalkeepers, respectively.'"
+    },
+    {
+      "claim": "He credited Luis de la Fuente for choosing him to start",
+      "sourceIds": [
+        "fox-sports-golden-glove"
+      ],
+      "verdict": "confirmed",
+      "note": "Fox: 'Simón rewarded Luis de la Fuente for giving him the nod'."
+    },
+    {
+      "claim": "Fox Sports describes his shot-stopping as reliable, says he came out to deal with balls over the top, and credits him with strong command of his box",
+      "sourceIds": [
+        "fox-sports-golden-glove"
+      ],
+      "verdict": "confirmed",
+      "note": "Fox: 'He was reliable with his shot-stopping'; 'came out to deal with balls over the top'; 'strong command of his box throughout the entire World Cup'."
+    },
+    {
+      "claim": "He worked well with centre-backs Aymeric Laporte and Pau Cubarsí",
+      "sourceIds": [
+        "fox-sports-golden-glove"
+      ],
+      "verdict": "confirmed",
+      "note": "Fox: 'Aymeric Laporte and Pau Cubarsí helped form one of the best defensive units'."
+    },
+    {
+      "claim": "Fox Sports reports seven clean sheets, breaking the record for a goalkeeper at a single World Cup",
+      "sourceIds": [
+        "fox-sports-golden-glove"
+      ],
+      "verdict": "confirmed",
+      "note": "Fox: 'breaking the record for the most clean sheets by a goalkeeper at a single World Cup'."
+    },
+    {
+      "claim": "Entering the final Spain had conceded one goal; the 1-0 win was the fewest goals conceded by any champion",
+      "sourceIds": [
+        "fox-sports-golden-glove"
+      ],
+      "verdict": "confirmed",
+      "note": "Fox: 'Entering the final, Simón had conceded only one goal'; 'the fewest goals any team has ever conceded on the way to winning the tournament'."
+    },
+    {
+      "claim": "The final was his fourth major international tournament; three clean sheets in six Euro matches",
+      "sourceIds": [
+        "fox-sports-golden-glove"
+      ],
+      "verdict": "confirmed",
+      "note": "Fox: 'Now playing in his fourth major international tournament'; 'keeping three clean sheets across six matches'."
+    },
+    {
+      "claim": "Spain outshot Argentina 20-2; Simón said his hands did not have to work as hard as other keepers; 14 saves; record seventh World Cup shutout",
+      "sourceIds": [
+        "aawsat-simon"
+      ],
+      "verdict": "confirmed",
+      "note": "Asharq Al-Awsat: outshot 20-2; interpreter quote; needed only 14 saves; 'record seventh shutout'."
+    },
+    {
+      "claim": "Spain's only goal conceded before the final came in a 2-1 quarter-final win over Belgium; the 2010 champions shared the record of two goals allowed",
+      "sourceIds": [
+        "aawsat-simon"
+      ],
+      "verdict": "confirmed",
+      "note": "Asharq Al-Awsat: only Belgium scored in a 2-1 quarter-final; 2010 team shared the previous record of two goals allowed."
+    },
+    {
+      "claim": "Emiliano Martínez made a record 11 saves in the final",
+      "sourceIds": [
+        "aawsat-simon"
+      ],
+      "verdict": "confirmed",
+      "note": "Asharq Al-Awsat: 'finishing with a record 11'."
+    },
+    {
+      "claim": "He is 29 as of 27 October 2026, born 11 June 1997",
+      "sourceIds": [
+        "laliga-player-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Date of birth from LaLiga; arithmetic from the date of the check."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Sets out the 2026 World Cup clean-sheet record with primary FIFA data, a dated timeline from Athletic's youth system to Spain, and the final's shot and save figures, which the usual top results do not give in one place.",
+  "decision": "approve",
+  "summary": "All claims checked against the opened sources after the fixes (fourth tier removed, shot-stopping reworded to Fox Sports wording, 2010 and 1-0 claim limited to what FIFA states, final date cited to FIFA). The translated sentences were checked against the same facts."
+}

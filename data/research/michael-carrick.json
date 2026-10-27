@@ -1,0 +1,70 @@
+{
+  "worthWriting": true,
+  "reason": "Current Manchester United head coach confirmed on a contract to 2028 after an interim spell, plus a long playing career at United and England. Three press reports dated 22 May 2026 and one fan-run archive page were opened and agree on the contract and the playing figures. The club's own statement on manutd.com could not be opened (HTTP 403), so no primary source is included.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "beinsports-carrick-permanent",
+      "url": "https://www.beinsports.com/en-us/soccer/premier-league/articles/michael-carrick-confirmed-as-permanent-manager-of-manchester-united-contract-until-2028-and-return-to-champions-league-2026-05-22?SV=ly",
+      "title": "Michael Carrick confirmed as permanent manager of Manchester United, contract until 2028 and return to Champions League",
+      "publisher": "beIN SPORTS",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "ians-carrick-permanent",
+      "url": "https://ianslive.in/michael-carrick-confirmed-as-manchester-uniteds-permanent-head-coach-until-2028--20260522165531",
+      "title": "Michael Carrick confirmed as Manchester United's permanent head coach until 2028",
+      "publisher": "IANS",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "football365-carrick-reaction",
+      "url": "https://www.football365.com/news/man-utd-carrick-reaction-made-permanent-head-coach",
+      "title": "Michael Carrick gives reaction as Man Utd confirm permanent head coach appointment",
+      "publisher": "Football365",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "mufcinfo-carrick-archive",
+      "url": "https://www.mufcinfo.com/manupag/a-z_player_archive/a-z_player_archive_pages/carrick_michael.html",
+      "title": "Michael Carrick: Man United midfielder profile and stats",
+      "publisher": "MUFCInfo",
+      "type": "database",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1981-07-28",
+      "sources": [
+        "mufcinfo-carrick-archive"
+      ],
+      "note": "Listed as 28/07/1981 on the archive page."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Wallsend, North Shields, England",
+      "sources": [
+        "mufcinfo-carrick-archive"
+      ],
+      "note": "The archive page's wording. Other sources may name Wallsend, Tyne and Wear, which is the same town; not checked further."
+    },
+    "nationality": null
+  },
+  "targetQueries": [
+    "Michael Carrick Manchester United manager",
+    "Michael Carrick permanent manager contract",
+    "Michael Carrick Man United contract 2028",
+    "Michael Carrick interim record",
+    "Michael Carrick England caps",
+    "Michael Carrick Manchester United appearances",
+    "Michael Carrick age",
+    "Michael Carrick Middlesbrough"
+  ],
+  "gapNote": "Top results carry the appointment news, but the club's own statement is only quoted second hand in the press pieces. This page can give a clear timeline from the January sacking of Ruben Amorim to the May 2026 permanent deal, with the interim record (11 wins in 16 Premier League games) and the playing career summarised from the archive page (464 appearances, 24 goals, 34 England caps). Official England cap figures could not be checked."
+}

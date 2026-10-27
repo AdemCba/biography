@@ -1,0 +1,137 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Saka marcó el único gol en el minuto 59 de la victoria 1-0 del Arsenal ante el Villa el 31 de agosto de 2026",
+      "sourceIds": [
+        "aljazeera-arsenal-villa-2026",
+        "ap-arsenal-villa-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources support it."
+    },
+    {
+      "claim": "Saka empujó el balón desde cerca tras una jugada de toque con Eze y Calafiori",
+      "sourceIds": [
+        "ap-arsenal-villa-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "AP: bundled home after Eze/Calafiori interplay."
+    },
+    {
+      "claim": "Buendia estrelló un balón contra el larguero; Tzolis sustituido por Eze al descanso",
+      "sourceIds": [
+        "aljazeera-arsenal-villa-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported."
+    },
+    {
+      "claim": "Maatsen/penalti anulado por VAR convertido en falta; Odegaard falta a centímetros del poste; Lindelof corte; Rice lesión; Konsa debut",
+      "sourceIds": [
+        "aljazeera-arsenal-villa-2026",
+        "ap-arsenal-villa-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported by both sources (Al Jazeera: 'just outside the area')."
+    },
+    {
+      "claim": "Arteta alineó el mismo once inicial que ante el Coventry; partido 250 de Arteta en liga; seis puntos empatado con City, Hull y Chelsea",
+      "sourceIds": [
+        "aljazeera-arsenal-villa-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported."
+    },
+    {
+      "claim": "Cita de Arteta: 'Es un sitio difícil para venir a ganar tres puntos. Creo que lo merecimos'",
+      "sourceIds": [
+        "aljazeera-arsenal-villa-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Verbatim English original confirmed; Spanish is a fair rendering."
+    },
+    {
+      "claim": "Villa perdió 4-0 en Brighton; sin puntos; Jackson debutó; Suzuki primer portero japonés en la PL; Villa sin tiro a puerta",
+      "sourceIds": [
+        "aljazeera-arsenal-villa-2026",
+        "ap-arsenal-villa-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported."
+    },
+    {
+      "claim": "Al Jazeera escribió que el equipo parecía una sombra del que acabó con una sequía de 30 años sin títulos",
+      "sourceIds": [
+        "aljazeera-arsenal-villa-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Verbatim 'a shadow' phrase confirmed."
+    },
+    {
+      "claim": "Venta de Konsa, Rogers, Watkins, Martínez, Digne y Tielemans",
+      "sourceIds": [
+        "aljazeera-arsenal-villa-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported."
+    },
+    {
+      "claim": "En enero de 2026 Fox Sports informó de que Saka había acordado los términos de un nuevo contrato de cinco años, que ampliaría su estancia hasta el verano de 2031; contrato anterior hasta 2027; ese informe describía los términos como acordados, no firmados",
+      "sourceIds": [
+        "foxsports-saka-contract-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Fox Sports, published 9 Jan 2026: 'has agreed terms on a new five-year deal'; 'until the summer of 2031'; current contract 'runs until 2027'. Now stated as the January report, not as the present status."
+    },
+    {
+      "claim": "Fox Sports: la renovación es la mayor declaración de intenciones del club; varios equipos de PL y Europa seguían su situación",
+      "sourceIds": [
+        "foxsports-saka-contract-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Fox: 'the biggest statement of intent from the club'; several Premier League and European sides monitoring."
+    },
+    {
+      "claim": "Problemas de cadera y tendón de Aquiles; 25 titularidades en la Premier League; llegó tarde al campamento de Florida; entró contra Costa Rica (3-0); 'mucho mejor que en marzo'; listo para empezar en Dallas",
+      "sourceIds": [
+        "englandfootball-saka-world-cup-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "FA preview: hip and Achilles problems, 25 PL starts, Costa Rica substitute, 'a lot better than I did in March'; Dallas is 'prepared to start ... if called upon'."
+    },
+    {
+      "claim": "Saka entró como suplente en la segunda parte del debut de Inglaterra en el Mundial, contra Croacia",
+      "sourceIds": [
+        "englandfootball-saka-50-caps"
+      ],
+      "verdict": "confirmed",
+      "note": "FA: second-half substitute against Croatia in England's World Cup opener."
+    },
+    {
+      "claim": "Saka falló un penalti en la final de la Eurocopa 2020 ante Italia; gol del empate en el minuto 80 ante Suiza en cuartos; tanda ganada 5-3; los cinco lanzadores marcaron; 'nervios de acero' atribuido a la Premier League",
+      "sourceIds": [
+        "premierleague-saka-euro-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported; 'nervios de acero' is PL narration."
+    },
+    {
+      "claim": "Saka llegó a 50 partidos con Inglaterra; la selección ganó 30 de los primeros 50; con 24 años y 285 días, cuarto jugador masculino en llegar a 50 antes de los 25",
+      "sourceIds": [
+        "englandfootball-saka-50-caps"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline across matches, contract and England caps. Spanish phrasing is natural.",
+  "decision": "approve",
+  "summary": "The unsupported line is removed. The contract sentence now states the January 2026 report as it was (agreed, not signed). All other cited facts confirmed on the sources."
+}

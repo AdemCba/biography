@@ -1,0 +1,77 @@
+{
+  "worthWriting": true,
+  "reason": "Current starting goalkeeper for Athletic Club and Spain, World Cup 2026 winner with a FIFA-recorded record of clean sheets. Verified in FIFA's own release and LaLiga's profile. Brief said six clean sheets; FIFA says seven, so the page uses seven.",
+  "wikidata": "Q23908113",
+  "importance": 4,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "fifa-world-cup-2026-media-release",
+      "url": "https://inside.fifa.com/organisation/media-releases/spain-unprecedented-global-double-new-milestones-historic-world-cup-2026",
+      "title": "Spain complete unprecedented global double as new milestones on the pitch define historic FIFA World Cup 2026 finale",
+      "publisher": "FIFA",
+      "type": "award-body",
+      "lang": "en"
+    },
+    {
+      "id": "laliga-player-profile",
+      "url": "https://www.laliga.com/es-MX/jugador/unai-simon",
+      "title": "Unai Simón, player profile",
+      "publisher": "LaLiga",
+      "type": "league-or-federation",
+      "lang": "es"
+    },
+    {
+      "id": "wikidata-q23908113",
+      "url": "https://www.wikidata.org/wiki/Q23908113",
+      "title": "Unai Simón (Q23908113)",
+      "publisher": "Wikidata",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "fox-sports-golden-glove",
+      "url": "https://www.foxsports.com/stories/soccer/spain-goalkeeper-unai-simon-wins-golden-glove-after-historic-world-cup",
+      "title": "Spain goalkeeper Unai Simón wins Golden Glove after historic World Cup",
+      "publisher": "Fox Sports",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1997-06-11",
+      "sources": [
+        "laliga-player-profile",
+        "wikidata-q23908113"
+      ],
+      "note": "LaLiga and Wikidata agree."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Vitoria-Gasteiz",
+      "sources": [
+        "laliga-player-profile",
+        "wikidata-q23908113"
+      ],
+      "note": "LaLiga and Wikidata agree. Some search snippets gave other places; not verified, not used."
+    },
+    "nationality": {
+      "value": "ES",
+      "sources": [
+        "wikidata-q23908113",
+        "fifa-world-cup-2026-media-release"
+      ],
+      "note": "Wikidata lists Spain as citizenship; FIFA refers to him as Spain's goalkeeper."
+    }
+  },
+  "targetQueries": [
+    "Unai Simón clean sheets World Cup 2026",
+    "Unai Simón Golden Glove",
+    "Unai Simón age",
+    "Unai Simón height",
+    "Unai Simón Athletic Club",
+    "Unai Simón goalkeeper Spain"
+  ],
+  "gapNote": "Top results repeat the record without the source. FIFA's release gives seven clean sheets and one goal conceded in eight matches; some outlets say six. Page should cite FIFA for the count and note the difference is in press reports. Athletic Club's own site returned 403 and was not opened, so club career dates beyond LaLiga's profile are not used."
+}
