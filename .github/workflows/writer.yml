@@ -13,6 +13,10 @@ on:
       count:
         description: "Kaç kişi yazılsın (How many people to write)"
         default: "5"
+      people:
+        description: "İstediğin kişiler, virgülle (boş = trendlerden seç). Ör: Arda Güler, Kenan Yıldız"
+        required: false
+        default: ""
 
 concurrency:
   group: writer
@@ -57,8 +61,12 @@ jobs:
           prompt: |
             This is an unattended run: nobody will answer questions, so never stop to ask or to confirm. Keep working
             until every step is done. Follow docs/subscription-writer-task.md for ${{ inputs.count || 5 }} new people, with these changes:
+            - People the owner asked for: "${{ inputs.people }}". If this is not empty, write exactly these people
+              (one per comma; ignore the count and skip the trend pick below). If one of them already has a page in
+              content/people, update and expand that page in all five languages with today's news instead of
+              making a new one. Still drop minors and anyone who would need sexual or private content.
             - Skip step 1 (the repository is already checked out and installed) and the photo step (Publish does it).
-            - Pick the people from today's trends only: read data/trend-candidates/latest.md (Google Trends +
+            - When no people were named above, pick the people from today's trends only: read data/trend-candidates/latest.md (Google Trends +
               Wikipedia spikes, scanned twice a day) and confirm with WebSearch that each one is in today's news.
               Prefer living people whose current activity is why they trend (footballers, F1 drivers, creators,
               streamers, musicians); skip people trending only because of an anniversary or an old film on TV.
@@ -68,7 +76,7 @@ jobs:
               wait for its result. When you end your turn the run is over and unfinished work is lost.
             - Step 6: only run `npx tsx scripts/schedule.ts --per-day 8`. Do not commit, push or open a PR;
               the workflow commits after you finish.
-            - Always finish all ${{ inputs.count || 5 }} people in all five languages. To save usage, keep research
+            - Always finish all the people (the named ones, or ${{ inputs.count || 5 }} from trends) in all five languages. To save usage, keep research
               short (the fewest sources that back every claim) and fact-check in one pass where you can; never drop
               a person or a language.
             - Before you finish, `npm run -s check` must show no ERROR and no `short-for-importance` warning for any
