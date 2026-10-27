@@ -1,0 +1,93 @@
+{
+  "worthWriting": true,
+  "reason": "Australian international centre-back who moved from Parma to SL Benfica in August 2026. Adult (born 10 October 2003, so 23 on 27 Oct 2026), with three solid sources including the official Socceroos profile and the Socceroos transfer announcement.",
+  "wikidata": "",
+  "importance": 3,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "socceroos-profile",
+      "url": "https://socceroos.com.au/player/alessandro-circati",
+      "title": "Alessandro Circati",
+      "publisher": "Socceroos (Football Australia)",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "socceroos-benfica",
+      "url": "https://socceroos.com.au/news/alessandro-circati-signs-portuguese-giants-sl-benfica",
+      "title": "Alessandro Circati signs with Portuguese giants SL Benfica",
+      "publisher": "Socceroos (Football Australia)",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "flashscore-benfica",
+      "url": "https://www.flashscore.com/news/alessandro-circati-is-off-to-benfica-after-clubs-reach-agreement/fLr6QsdS/",
+      "title": "Alessandro Circati is off to Benfica after clubs reach agreement",
+      "publisher": "Flashscore",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "socceroos-first-camp",
+      "url": "https://socceroos.com.au/news/alessandro-circati-feeling-home-first-socceroos-camp",
+      "title": "Alessandro Circati 'feeling at home' in first Socceroos camp",
+      "publisher": "Socceroos (Football Australia)",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "abola-benfica-interview",
+      "url": "https://www.abola.pt/noticias/a-chamada-era-do-benfica-queriam-me-muito-circati-conta-como-chegou-a-luz-2026092714150262483",
+      "title": "\"A chamada era do Benfica, queriam-me muito\": Circati conta como chegou à Luz",
+      "publisher": "A BOLA",
+      "type": "interview",
+      "lang": "pt"
+    },
+    {
+      "id": "canberra-times-benfica",
+      "url": "https://www.canberratimes.com.au/story/9333817/star-socceroo-seals-money-spinning-move-to-benfica/",
+      "title": "Star Socceroo seals money spinning move to Benfica",
+      "publisher": "The Canberra Times",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "2003-10-10",
+      "sources": [
+        "socceroos-profile"
+      ],
+      "note": "Official Socceroos profile: 10th October 2003."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Fidenza, Italy",
+      "sources": [
+        "socceroos-profile"
+      ],
+      "note": "Official Socceroos profile says he was born in Fidenza, Italy, and moved to Perth at age one."
+    },
+    "nationality": {
+      "value": "AU",
+      "sources": [
+        "socceroos-profile"
+      ],
+      "note": "Plays for the Socceroos (17 caps per profile). The profile does not use the word nationality; Italian citizenship is not stated in these sources."
+    }
+  },
+  "targetQueries": [
+    "Alessandro Circati",
+    "Alessandro Circati Benfica",
+    "Alessandro Circati Parma",
+    "Alessandro Circati age",
+    "Alessandro Circati Socceroos",
+    "Alessandro Circati transfer fee",
+    "Alessandro Circati contract",
+    "Alessandro Circati nationality",
+    "Alessandro Circati where is he from"
+  ],
+  "gapNote": "Most results are short transfer news. Sources disagree on the fee (reported EUR 18m to 20m, officially undisclosed) and on the year he joined Parma (2021 in one report, 2022 on the Socceroos profile), so a page that lays out both, with his Perth-to-Parma path and Socceroos record in one place, answers more of the questions than the single-fee news pieces."
+}

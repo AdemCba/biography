@@ -1,0 +1,120 @@
+{
+  "worthWriting": true,
+  "reason": "Two-time NBA champion and two-time Finals MVP with a fresh, sourced injury update on 27 Oct 2026 (Raptors: left knee swelling, re-evaluation in one week; AP and ESPN-sourced reports of several weeks out). Five opened sources; the NBA profile and 2026 news pages back the core facts.",
+  "wikidata": "",
+  "importance": 5,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "nba-10-things",
+      "url": "https://www.nba.com/kawhi-leonard-10-things-to-know",
+      "title": "Kawhi Leonard: 10 Things to Know",
+      "publisher": "NBA.com",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "teamusa-profile",
+      "url": "https://www.teamusa.com/profiles/kawhi-leonard",
+      "title": "Kawhi Leonard",
+      "publisher": "USA Basketball / Team USA",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "nbc-knee-2026",
+      "url": "https://www.nbcsports.com/nba/news/kawhi-leonard-is-out-with-swelling-in-left-knee-will-be-re-evaluated-in-one-week",
+      "title": "Kawhi Leonard is out with swelling in left knee, will be re-evaluated in one week",
+      "publisher": "NBC Sports",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "ap-knee-2026",
+      "url": "https://www.dailygazette.com/the_recorder/ap/sports/the-toronto-raptors-say-kawhi-leonard-will-miss-at-least-a-week-with-swelling-in/article_c10b26a1-a7a6-5444-a0b6-3ff087406fdb.html",
+      "title": "The Toronto Raptors say Kawhi Leonard will miss at least a week with swelling in his left knee",
+      "publisher": "Associated Press (via The Daily Gazette)",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "fadeaway-weeks-2026",
+      "url": "https://fadeawayworld.net/nba/toronto-raptors/kawhi-leonard-injury-update-raptors-star-expected-to-miss-weeks-with-knee-swelling",
+      "title": "Kawhi Leonard Injury Update: Raptors Star Expected To Miss Weeks With Knee Swelling",
+      "publisher": "Fadeaway World",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "tsn-sit-2026",
+      "url": "https://www.tsn.ca/nba/article/kawhi-knee-out-for-raptors-against-t-wolves/",
+      "title": "Kawhi sits against T-Wolves with left knee swelling",
+      "publisher": "TSN",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "yahoo-weeks-2026",
+      "url": "https://sports.yahoo.com/articles/toronto-raptors-kawhi-leonard-miss-160422820.html",
+      "title": "The Toronto Raptors say Kawhi Leonard will miss at least a week with swelling in his left knee",
+      "publisher": "Yahoo Sports",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "yahoo-history-2026",
+      "url": "https://sports.yahoo.com/articles/kawhi-leonard-miss-time-due-153259570.html",
+      "title": "Kawhi Leonard to miss time due to knee swelling",
+      "publisher": "Yahoo Sports",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "yahoo-testing-2026",
+      "url": "https://sports.yahoo.com/articles/raptors-kawhi-leonard-undergo-testing-040216937.html",
+      "title": "Raptors' Kawhi Leonard to undergo testing after concerning injury update",
+      "publisher": "Yahoo Sports",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1991-06-29",
+      "sources": [
+        "nba-10-things"
+      ],
+      "note": "NBA.com profile article"
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Los Angeles, California",
+      "sources": [
+        "nba-10-things"
+      ],
+      "note": "NBA.com states Los Angeles, California"
+    },
+    "nationality": {
+      "value": "US",
+      "sources": [
+        "teamusa-profile",
+        "nba-10-things"
+      ],
+      "note": "Inferred: no opened source uses the word nationality; he is Los Angeles-born and represents Team USA"
+    }
+  },
+  "targetQueries": [
+    "how old is Kawhi Leonard",
+    "Kawhi Leonard injury",
+    "Kawhi Leonard knee swelling",
+    "Kawhi Leonard Raptors",
+    "where is Kawhi Leonard from",
+    "Kawhi Leonard championships",
+    "Kawhi Leonard Finals MVP",
+    "Kawhi Leonard Defensive Player of the Year",
+    "Kawhi Leonard San Diego State",
+    "Kawhi Leonard career",
+    "Kawhi Leonard return date"
+  ],
+  "gapNote": "Top results mix current team and status: some profiles still list his old team, and the injury stories differ on timing (at least a week in AP, several weeks in the Shams-sourced reports). The page can state the confirmed Raptors news with dates and say what is not yet known (no return date has been announced). The NBA profile article is from 2019, so career facts beyond the 2019 title are only as sourced as the 2026 pages allow."
+}

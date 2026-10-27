@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Hinchazón en la rodilla izquierda; Raptors lo reevaluarán en una semana (27 oct 2026)",
+      "sourceIds": [
+        "nbc-knee-2026",
+        "yahoo-weeks-2026",
+        "ap-knee-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "AP, NBC and Yahoo confirm."
+    },
+    {
+      "claim": "Pruebas sin lesión aguda; tratamiento y rehabilitación",
+      "sourceIds": [
+        "yahoo-weeks-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Jugó 28 minutos vs Washington",
+      "sourceIds": [
+        "yahoo-testing-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Yahoo: 28 minutes."
+    },
+    {
+      "claim": "Anotó 16 puntos vs Washington según Fadeaway World",
+      "sourceIds": [
+        "fadeaway-weeks-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Fadeaway: 16 points, 5-of-17."
+    },
+    {
+      "claim": "TSN: 19 puntos en 27 minutos y 41 segundos",
+      "sourceIds": [
+        "tsn-sit-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Charania: 'un periodo de semanas' y resonancia magnética sin daño estructural",
+      "sourceIds": [
+        "yahoo-history-2026",
+        "fadeaway-weeks-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources state the period of weeks and MRI result."
+    },
+    {
+      "claim": "Toronto lo adquirió este verano (NBC)",
+      "sourceIds": [
+        "nbc-knee-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "NBC: traded for him this summer."
+    },
+    {
+      "claim": "San Antonio lo traspasó a los Raptors el 18 de julio de 2018",
+      "sourceIds": [
+        "nba-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Se perdió nueve partidos en 2017-18",
+      "sourceIds": [
+        "nba-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com: played all but nine games."
+    },
+    {
+      "claim": "Resto (nacimiento, instituto, draft, Popovich, Finales 2014, 2019, DPOY, All-NBA, All-Star, LA Times, Mr. Basketball)",
+      "sourceIds": [
+        "nba-10-things",
+        "teamusa-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed against the fetched sources."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "The page separates team statements from reports, and flags the box-score conflict.",
+  "decision": "approve",
+  "summary": "All cited claims now match fetched sources. The points differ by source and the page says so."
+}

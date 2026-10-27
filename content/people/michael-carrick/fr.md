@@ -44,19 +44,18 @@ faq:
       Le club a remporté 11 des 16 matchs dirigés par Carrick pendant son
       intérim [s:ians-carrick-permanent] [s:football365-carrick-reaction].
 reviewNotes: >-
-  Prose reads machine-written | Adds no value over existing pages: Every fact
-  comes from the same four sources (beIN, IANS, Football365, MUFCInfo). No
-  primary source is cited, and the prose narrates the sources rather than the
-  person. | Reviewer recommends rejection: [fr] Reject. The corrected claims
-  (the 'little choice' and Ferguson attributions, the lower-profile wording, the
-  Carrick quote, the archive wording, the caretaker claim with no year, and 'now
-  manages') are confirmed against the cited sources. Remaining reasons for
-  rejection are editorial: the body still narrates its sources ('The article
-  says', 'The archive says', 'The club says') and adds no primary source, so it
-  does not read as a human-written biography and adds no value over the four
-  press and database pages. Only the fixed claims were re-checked in this pass;
-  other unchanged claims were not re-opened.
-autoReviews: 2
+  Adds no value over existing pages: The only primary source I could open is an
+  on-record interview from February 2026. manutd.com returned HTTP 403 for every
+  URL tried, and the FA and Premier League profile URLs returned 404, so the
+  page has no official club or federation source. Otherwise its facts repeat the
+  four press and database pages already in the top results. | Reviewer
+  recommends rejection: All checked claims are confirmed against opened sources,
+  and the primary-source warning is cleared by the Feb 2026 interview. Reject
+  only because no official club or federation source could be opened, so the
+  page adds no value over existing pages. Re-review after an official source is
+  accessible.
+autoReviews: 3
+flag: Rejected by the fact-check 3 times; needs a human editor.
 ---
 Michael Carrick a pris la tête de Manchester United par intérim en janvier 2026, après le limogeage de Ruben Amorim [s:ians-carrick-permanent] [s:football365-carrick-reaction]. Le vendredi 22 mai 2026, le club a fait de ce poste un emploi permanent, avec un contrat jusqu'en 2028 [s:beinsports-carrick-permanent] [s:ians-carrick-permanent]. Il avait 44 ans au moment de l'annonce [s:ians-carrick-permanent]. Il dirige aujourd'hui le club pour lequel il a joué [s:ians-carrick-permanent] [s:beinsports-carrick-permanent], et il a pris sa retraite de joueur en 2018 [s:mufcinfo-carrick-archive].
 
@@ -64,17 +63,19 @@ Michael Carrick a pris la tête de Manchester United par intérim en janvier 202
 
 Le premier match de Carrick aux commandes s'est soldé par une victoire 2-0 face à Manchester City. Suivent un succès 3-2 contre Arsenal, puis des victoires contre Liverpool, Chelsea, Aston Villa et Tottenham [s:beinsports-carrick-permanent]. L'article ne donne pas les scores de ces quatre derniers matchs. Il précise aussi que les résultats face aux équipes au profil moins élevé n'ont pas été aussi nets [s:beinsports-carrick-permanent]. Carrick a été élu entraîneur du mois de Premier League après les victoires contre City et Arsenal, ses deux premiers matchs [s:ians-carrick-permanent] [s:football365-carrick-reaction].
 
-Sur 16 matchs, United en a gagné 11 [s:ians-carrick-permanent] [s:football365-carrick-reaction]. Le club affirme que, depuis son arrivée, l'équipe a le plus grand nombre de points en Premier League [s:football365-carrick-reaction]. Ces résultats ont fait passer l'équipe de la septième à la troisième place du classement. United a terminé troisième avec un match d'avance, ce qui lui assure une place en Ligue des champions pour la saison suivante [s:beinsports-carrick-permanent] [s:football365-carrick-reaction]. Wilcox a affirmé que le retour du club en Ligue des champions ne devait pas être sous-estimé [s:beinsports-carrick-permanent].
+Dans un entretien accordé à The Football Interview en février 2026, Carrick a qualifié le poste de "rôle ultime" [s:vanguard-carrick-interview-2026].
 
-Le raisonnement du club est pragmatique. Selon l'article, la forme de l'équipe sous Carrick ne laissait à United guère d'autre choix que de le nommer [s:football365-carrick-reaction]. Jason Wilcox, directeur du football, a aussi cité les résultats et affirmé que ce choix "correspond aux valeurs, aux traditions et à l'histoire du club" [s:football365-carrick-reaction]. Carrick, selon lui, "a tissé un lien solide avec les joueurs" [s:ians-carrick-permanent]. Wilcox a ajouté : "Michael a parfaitement mérité la chance de continuer à diriger notre équipe" [s:ians-carrick-permanent].
+Sur 16 matchs, United en a gagné 11 [s:ians-carrick-permanent] [s:football365-carrick-reaction]. Depuis son arrivée, l'équipe a le plus grand nombre de points en Premier League [s:ians-carrick-permanent]. Ces résultats ont fait passer l'équipe de la septième à la troisième place du classement, ce qui lui assure une place en Ligue des champions pour la saison suivante [s:beinsports-carrick-permanent] [s:football365-carrick-reaction]. beIN estime que son bilan, en ramenant le club en Ligue des champions, "ne doit pas être sous-estimé" [s:beinsports-carrick-permanent].
 
-La réaction de Carrick lui-même a été brève : "me remplit d'une immense fierté" [s:ians-carrick-permanent] [s:football365-carrick-reaction]. Il a parlé des "cinq derniers mois" et de la "résilience, de l'esprit d'équipe et de la détermination" du groupe [s:football365-carrick-reaction]. Il est revenu aussi au début de son histoire avec le club : "Depuis mon arrivée ici il y a 20 ans, j'ai ressenti la magie de Manchester United" [s:ians-carrick-permanent]. Il a enfin affirmé que "Manchester United et nos incroyables supporters méritent de se battre à nouveau pour les plus grands trophées" [s:football365-carrick-reaction].
+Le raisonnement du club est pragmatique. Selon l'article, la forme de l'équipe sous Carrick ne laissait à United guère d'autre choix que de le nommer [s:football365-carrick-reaction]. Jason Wilcox, directeur du football, a aussi cité les résultats et affirmé que ce choix "correspond aux valeurs, aux traditions et à l'histoire du club" [s:ians-carrick-permanent]. Carrick, selon lui, "a tissé un lien solide avec les joueurs" [s:ians-carrick-permanent]. Wilcox a ajouté : "Michael a parfaitement mérité la chance de continuer à diriger notre équipe" [s:ians-carrick-permanent].
+
+Carrick a déclaré que la responsabilité de diriger le club "me remplit d'une immense fierté" [s:football365-carrick-reaction]. Il a parlé des "cinq derniers mois" et de la "résilience, de l'esprit d'équipe et de la détermination" du groupe [s:football365-carrick-reaction]. Il est revenu aussi au début de son histoire avec le club : "Depuis mon arrivée ici il y a 20 ans, j'ai ressenti la magie de Manchester United" [s:ians-carrick-permanent]. Il a enfin affirmé que "Manchester United et nos incroyables supporters méritent de se battre à nouveau pour les plus grands trophées" [s:football365-carrick-reaction].
 
 ## De la formation de West Ham à Old Trafford
 
 Carrick a été formé à l'académie de West Ham United. Selon les archives de MUFCInfo, ses prestations au milieu de terrain lui ont valu un transfert à Tottenham Hotspur en 2004. Il a aussi été prêté à Swindon Town et à Birmingham City [s:mufcinfo-carrick-archive].
 
-Sir Alex Ferguson l'a recruté le 31 juillet 2006 pour 18,6 millions de livres [s:mufcinfo-carrick-archive]. Les archives décrivent Ferguson comme ayant vu en lui le remplaçant parfait de Roy Keane [s:mufcinfo-carrick-archive]. Il a débuté le 23 août 2006, lors d'une victoire 3-0 à Charlton Athletic [s:mufcinfo-carrick-archive]. Il a joué pour le club de 2006 jusqu'à sa retraite, le 13 mai 2018, à 36 ans. Les totaux des archives indiquent 464 matchs et 24 buts [s:mufcinfo-carrick-archive] [s:football365-carrick-reaction].
+United l'a recruté à Tottenham le 31 juillet 2006 pour 18,6 millions de livres [s:mufcinfo-carrick-archive]. Les archives décrivent Ferguson comme ayant vu en lui le remplaçant parfait de Roy Keane [s:mufcinfo-carrick-archive]. Il a débuté le 23 août 2006, lors d'une victoire 3-0 à Charlton Athletic [s:mufcinfo-carrick-archive]. Il a joué pour le club de 2006 jusqu'à sa retraite, le 13 mai 2018, à 36 ans. Les totaux des archives indiquent 464 matchs et 24 buts [s:mufcinfo-carrick-archive] [s:football365-carrick-reaction].
 
 ## Cinq titres de Premier League et une Ligue des champions
 
@@ -88,6 +89,6 @@ IANS décrit Carrick comme un ancien international anglais [s:ians-carrick-perma
 
 Après sa retraite, Carrick a rejoint le staff de l'équipe première, d'abord sous José Mourinho, puis sous Ole Gunnar Solskjaer [s:ians-carrick-permanent] [s:mufcinfo-carrick-archive]. Quand Solskjaer est parti, Carrick a assuré l'intérim [s:ians-carrick-permanent].
 
-Il a ensuite entraîné Middlesbrough, pendant deux ans et demi à partir d'octobre 2022 [s:ians-carrick-permanent]. Le poste à United est son deuxième poste d'entraîneur permanent [s:beinsports-carrick-permanent].
+Il a ensuite entraîné Middlesbrough à partir d'octobre 2022 [s:ians-carrick-permanent]. Les sources ne s'accordent pas sur la durée : IANS parle de deux ans et demi, beIN de trois [s:ians-carrick-permanent] [s:beinsports-carrick-permanent]. beIN qualifie le poste à United de son deuxième défi permanent comme entraîneur [s:beinsports-carrick-permanent].
 
 Il a eu 45 ans le 28 juillet 2026, d'après sa date de naissance [s:mufcinfo-carrick-archive].

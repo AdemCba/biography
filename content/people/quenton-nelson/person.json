@@ -1,0 +1,121 @@
+{
+  "id": "quenton-nelson",
+  "name": "Quenton Nelson",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "nationality": {
+      "value": [
+        "US"
+      ],
+      "sources": [
+        "globalsportsarchive"
+      ],
+      "note": "Stated as \"United States\" in the Global Sports Archive profile. The Colts and Notre Dame pages give only New Jersey hometowns and do not state nationality."
+    },
+    "birthPlace": {
+      "value": "Holmdel, New Jersey",
+      "sources": [
+        "nj-sports",
+        "globalsportsarchive"
+      ],
+      "note": "NJ Sports and Global Sports Archive both give Holmdel, NJ as birthplace. Notre Dame lists Holmdel as hometown; the Colts call him a native of Red Bank."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "colts-roster",
+      "url": "https://www.colts.com/team/players-roster/quenton-nelson/",
+      "title": "Quenton Nelson - Indianapolis Colts roster profile",
+      "publisher": "Indianapolis Colts",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "colts-career",
+      "url": "https://colts.com/team/players-roster/quenton-nelson/career",
+      "title": "Quenton Nelson - Indianapolis Colts career page",
+      "publisher": "Indianapolis Colts",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "colts-draft-2018",
+      "url": "https://www.colts.com/news/breaking-colts-select-guard-quenton-nelson-with-no-6-pick-in-2018-nfl-d-20586609",
+      "title": "Breaking: Colts select guard Quenton Nelson with No. 6 pick in 2018 NFL Draft",
+      "publisher": "Indianapolis Colts",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "colts-extension-2022",
+      "url": "https://www.colts.com/news/quenton-nelson-sign-contract-extension-all-pro-bowl-left-guard",
+      "title": "Quenton Nelson signs contract extension, All-Pro left guard",
+      "publisher": "Indianapolis Colts",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "nfl-extension-2022",
+      "url": "https://amp.nfl.com/news/quenton-nelson-colts-agree-to-terms-on-four-year-80m-contract-extension",
+      "title": "Quenton Nelson, Colts agree to terms on four-year, $80M contract extension",
+      "publisher": "NFL.com",
+      "type": "league-or-federation",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "fightingirish-roster",
+      "url": "https://fightingirish.com/roster/quenton-nelson/",
+      "title": "Quenton Nelson - Notre Dame Fighting Irish football roster",
+      "publisher": "University of Notre Dame Athletics",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "nj-sports",
+      "url": "https://njsports.com/quenton-nelson/",
+      "title": "Quenton Nelson profile",
+      "publisher": "NJSports.com",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "colts-rookie-2018",
+      "url": "https://www.colts.com/news/2018-colts-review-rookie-watch",
+      "title": "2018 Colts review: rookie watch",
+      "publisher": "Indianapolis Colts",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "colts-ranking-2019",
+      "url": "https://www.colts.com/news/quenton-nelson-ranked-nfl-s-second-best-guard-best-player-from-2018-draft",
+      "title": "Quenton Nelson ranked NFL's second-best guard, best player from 2018 draft",
+      "publisher": "Indianapolis Colts",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "globalsportsarchive",
+      "url": "https://globalsportsarchive.com/people/american_football/quenton-nelson/250356/",
+      "title": "Quenton Nelson - Global Sports Archive profile",
+      "publisher": "Global Sports Archive (Data Sports Group)",
+      "type": "database",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "mitchell-starc",
+  "name": "Mitchell Starc",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 5,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1990-01-30",
+      "sources": [
+        "cricket-australia-profile"
+      ],
+      "note": "Cricket Australia profile gives 30 January 1990."
+    },
+    "birthPlace": {
+      "value": "Sydney, New South Wales, Australia",
+      "sources": [
+        "cricket-australia-profile"
+      ],
+      "note": "Cricket Australia profile gives Sydney, NSW. Other profiles give Baulkham Hills, NSW; not verified against a primary source."
+    },
+    "nationality": {
+      "value": [
+        "AU"
+      ],
+      "sources": [
+        "cricket-australia-profile"
+      ],
+      "note": "Plays for Australia."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "cricket-australia-profile",
+      "url": "https://www.cricket.com.au/players/CA:724/mitchell-starc",
+      "title": "Mitchell Starc player profile",
+      "publisher": "Cricket Australia",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "wisden-coty-2024",
+      "url": "https://wisden.com/wisden-cricketers-almanack/revealed-the-2024-wisden-cricketers-of-the-year",
+      "title": "Revealed: the 2024 Wisden Cricketers of the Year",
+      "publisher": "Wisden",
+      "type": "award-body",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "wisden-player-page",
+      "url": "https://www.wisden.com/players/mitchell-starc-10053",
+      "title": "Mitchell Starc",
+      "publisher": "Wisden",
+      "type": "award-body",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "crictracker-ipl-auction-2025",
+      "url": "https://www.crictracker.com/cricket-news/ipl-2025-auction-dc-head-coach-badani-pretty-elated-with-rahul-starc-buys/?amp=1",
+      "title": "IPL 2025 Auction: DC Head Coach Badani 'pretty elated' with Rahul, Starc buys",
+      "publisher": "CricTracker",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    }
+  ]
+}

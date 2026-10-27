@@ -1,0 +1,79 @@
+{
+  "worthWriting": true,
+  "reason": "Australia's leading Test fast bowler with a long official record, a 2015 World Cup Player of the Tournament award, Wisden honours and IPL contracts. Official Cricket Australia profile and Wisden pages are available.",
+  "wikidata": "",
+  "importance": 5,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "cricket-australia-profile",
+      "url": "https://www.cricket.com.au/players/CA:724/mitchell-starc",
+      "title": "Mitchell Starc player profile",
+      "publisher": "Cricket Australia",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "wisden-cotY-2024",
+      "url": "https://wisden.com/wisden-cricketers-almanack/revealed-the-2024-wisden-cricketers-of-the-year",
+      "title": "Revealed: the 2024 Wisden Cricketers of the Year",
+      "publisher": "Wisden",
+      "type": "award-body",
+      "lang": "en"
+    },
+    {
+      "id": "wisden-player-page",
+      "url": "https://www.wisden.com/players/mitchell-starc-10053",
+      "title": "Mitchell Starc",
+      "publisher": "Wisden",
+      "type": "award-body",
+      "lang": "en"
+    },
+    {
+      "id": "crictracker-ipl-auction-2025",
+      "url": "https://www.crictracker.com/cricket-news/ipl-2025-auction-dc-head-coach-badani-pretty-elated-with-rahul-starc-buys/?amp=1",
+      "title": "IPL 2025 Auction: DC Head Coach Badani 'pretty elated' with Rahul, Starc buys",
+      "publisher": "CricTracker",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1990-01-30",
+      "sources": [
+        "cricket-australia-profile"
+      ],
+      "note": "Cricket Australia profile gives 30 January 1990."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Sydney, New South Wales, Australia",
+      "sources": [
+        "cricket-australia-profile"
+      ],
+      "note": "Cricket Australia profile gives Sydney, NSW. Other profiles give Baulkham Hills, NSW; not verified against a primary source."
+    },
+    "nationality": {
+      "value": "AU",
+      "sources": [
+        "cricket-australia-profile"
+      ],
+      "note": "Plays for Australia."
+    }
+  },
+  "targetQueries": [
+    "how old is Mitchell Starc",
+    "Mitchell Starc height",
+    "Mitchell Starc Test wickets",
+    "Mitchell Starc ODI wickets",
+    "Mitchell Starc IPL salary",
+    "Mitchell Starc IPL team 2025",
+    "Mitchell Starc net worth",
+    "Mitchell Starc 2015 World Cup",
+    "Mitchell Starc Wisden",
+    "Mitchell Starc retirement T20 international",
+    "Mitchell Starc Ashes 2025"
+  ],
+  "gapNote": "Top results mix Wikipedia and aggregator stat pages with conflicting totals (433, 445, 451 Test wickets). The official Cricket Australia profile gives one consistent set of figures (451 Test, 247 ODI, 79 T20I wickets), and the page can explain the awards and records with dates. Net worth is not stated by any source fetched, so it is left out."
+}

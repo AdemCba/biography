@@ -1,0 +1,258 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Colts took Nelson sixth overall in the 2018 NFL Draft; many considered him the best OL prospect in a couple of decades",
+      "sourceIds": [
+        "colts-draft-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "Announcement: No. 6 overall pick; 'considered by many to be the best offensive lineman prospect... in the last couple decades'."
+    },
+    {
+      "claim": "Lance Zierlein quote: 'Elite guard prospect with outstanding size, rare power and a block finisher'",
+      "sourceIds": [
+        "colts-draft-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote present in full."
+    },
+    {
+      "claim": "Notre Dame roster lists Holmdel, NJ as hometown",
+      "sourceIds": [
+        "fightingirish-roster"
+      ],
+      "verdict": "confirmed",
+      "note": "Hometown: Holmdel, NJ."
+    },
+    {
+      "claim": "Colts describe him as a native of Red Bank, N.J.",
+      "sourceIds": [
+        "colts-career",
+        "colts-roster"
+      ],
+      "verdict": "confirmed",
+      "note": "'A native of Red Bank, N.J.'"
+    },
+    {
+      "claim": "Birthplace Holmdel, NJ (NJ Sports)",
+      "sourceIds": [
+        "nj-sports"
+      ],
+      "verdict": "confirmed",
+      "note": "'was born March 19, 1996 in Holmdel, NJ'. Birth date is not used in the article."
+    },
+    {
+      "claim": "Nationality United States (Global Sports Archive)",
+      "sourceIds": [
+        "globalsportsarchive"
+      ],
+      "verdict": "confirmed",
+      "note": "Nationality: 'United States'; birthplace Holmdel, NJ. Database, not an official record; the note says so."
+    },
+    {
+      "claim": "Attended Red Bank Catholic High School",
+      "sourceIds": [
+        "fightingirish-roster",
+        "nj-sports"
+      ],
+      "verdict": "confirmed",
+      "note": "Roster and NJ Sports both name Red Bank Catholic."
+    },
+    {
+      "claim": "Scout team in 2014, no games; 12 games and 11 starts at LG in 2015; Joe Moore Award finalist line",
+      "sourceIds": [
+        "fightingirish-roster"
+      ],
+      "verdict": "confirmed",
+      "note": "Season notes match."
+    },
+    {
+      "claim": "Missed Navy game (10 Oct 2015) and most of USC (17 Oct) with ankle injury",
+      "sourceIds": [
+        "fightingirish-roster"
+      ],
+      "verdict": "confirmed",
+      "note": "'Missed the Navy game (Oct. 10) and most of USC (Oct. 17) with an ankle injury'."
+    },
+    {
+      "claim": "2016: started all 12 games; Josh Adams 100-yard games x4; 180 yards at USC on 26 Nov",
+      "sourceIds": [
+        "fightingirish-roster"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the page, including 'Nov. 26'."
+    },
+    {
+      "claim": "2016 second-team All-American (AP and Sports Illustrated); Offensive Lineman of the Year",
+      "sourceIds": [
+        "fightingirish-roster"
+      ],
+      "verdict": "confirmed",
+      "note": "Both listed for 2016."
+    },
+    {
+      "claim": "2017 captain; started all 13 games at LG as captain; Monogram Club MVP 2017",
+      "sourceIds": [
+        "fightingirish-roster",
+        "colts-career"
+      ],
+      "verdict": "confirmed",
+      "note": "Captain (2017) on ND roster; 13 starts and Monogram MVP on Colts career page."
+    },
+    {
+      "claim": "Unanimous All-American 2017; one of three Outland Trophy finalists",
+      "sourceIds": [
+        "colts-career"
+      ],
+      "verdict": "confirmed",
+      "note": "Unanimous All-America 2017 stated; Outland finalist stated without a year, placed in the 2017 paragraph (year not stated by source)."
+    },
+    {
+      "claim": "36 starts in 37 career games at Notre Dame, all at left guard",
+      "sourceIds": [
+        "colts-career"
+      ],
+      "verdict": "confirmed",
+      "note": "'Started 36-of-37 career games at Notre Dame at left guard'."
+    },
+    {
+      "claim": "Rookie: started all 16 games at LG; AP first-team All-Pro; Sporting News and PFWA All-Pro and All-Rookie",
+      "sourceIds": [
+        "colts-rookie-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "All three listed."
+    },
+    {
+      "claim": "Offensive Rookie of the Month for October; first guard in NFL history to earn it",
+      "sourceIds": [
+        "colts-rookie-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "Excerpt confirms month and first guard."
+    },
+    {
+      "claim": "Nick Shook quote about the best lineman in the draft",
+      "sourceIds": [
+        "colts-rookie-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted in the 2018 rookie watch article."
+    },
+    {
+      "claim": "Farrar ranked Nelson second-best guard after one season (June 2019); most talented player in draft class (quoted by Colts)",
+      "sourceIds": [
+        "colts-ranking-2019"
+      ],
+      "verdict": "confirmed",
+      "note": "Colts article describes the ranking and quotes the 'most talented' line."
+    },
+    {
+      "claim": "Schein quote: 'He'll be in the Pro Football Hall of Fame.'",
+      "sourceIds": [
+        "colts-ranking-2019"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote matches the Colts article."
+    },
+    {
+      "claim": "Pro Bowl selection each year 2018 to 2026",
+      "sourceIds": [
+        "colts-roster"
+      ],
+      "verdict": "confirmed",
+      "note": "Roster page lists Pro Bowl selections per year, 2018 through 2026 (the team's labels). Count not stated in article."
+    },
+    {
+      "claim": "First rookie Colts OL in the Pro Bowl since 1983",
+      "sourceIds": [
+        "colts-career"
+      ],
+      "verdict": "confirmed",
+      "note": "'the first rookie Colts offensive lineman to make the Pro Bowl since 1983' (text truncated in our fetch, phrase present)."
+    },
+    {
+      "claim": "First-team AP All-Pro 2018, 2019, 2020; second-team 2021; second-team All-Pro 2024 and 2025",
+      "sourceIds": [
+        "colts-roster"
+      ],
+      "verdict": "confirmed",
+      "note": "Roster lists each year."
+    },
+    {
+      "claim": "2019 first-team All-Pro by AP and Sporting News; PFWA All-NFL and All-AFC 2019; PFWA All-NFL 2020",
+      "sourceIds": [
+        "colts-career",
+        "colts-roster"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Top 100 ranks: 29th (2020), 33rd (2021), 28th (2022), 99th (2026)",
+      "sourceIds": [
+        "colts-roster"
+      ],
+      "verdict": "confirmed",
+      "note": "Roster lists these."
+    },
+    {
+      "claim": "Team captain for 2022 with Matt Ryan and Jonathan Taylor",
+      "sourceIds": [
+        "colts-roster"
+      ],
+      "verdict": "confirmed",
+      "note": "'Quenton Nelson, Matt Ryan and Jonathan Taylor were voted as the Colts' team captains for the 2022 season.'"
+    },
+    {
+      "claim": "Extension announced Saturday 10 Sept 2022; keeps him in Indianapolis long term; Reich said smart and instinctive",
+      "sourceIds": [
+        "colts-extension-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Date, 'in Indianapolis for the long term' and Reich's remark on smart play and instinct all match. The team gave no money."
+    },
+    {
+      "claim": "Four years, $80 million, $60 million guaranteed (Ian Rapoport)",
+      "sourceIds": [
+        "nfl-extension-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated as reported by NFL Network's Rapoport."
+    },
+    {
+      "claim": "Highest-paid guard in the league; $13.75 million fifth-year option that season",
+      "sourceIds": [
+        "nfl-extension-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Both stated in the NFL.com article (2022 reporting)."
+    },
+    {
+      "claim": "Average of $20 million a year (computed from the total; no source states it)",
+      "sourceIds": [
+        "nfl-extension-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic on the reported total, labelled as not sourced."
+    },
+    {
+      "claim": "Colts list him at 6 ft 5 in, 330 lb, No. 56; age 30",
+      "sourceIds": [
+        "colts-roster"
+      ],
+      "verdict": "confirmed",
+      "note": "Height, weight, jersey number and age listed."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds the Notre Dame season-by-season detail, the rookie and Pro Bowl/All-Pro record and the 2022 contract figures with their dates, none of which a short profile gives.",
+  "decision": "approve",
+  "summary": "Mesmas afirmações verificadas contra as fontes abertas nesta execução. A nacionalidade se apoia em um banco de dados esportivo (indicado como tal). O texto não usa data de nascimento."
+}

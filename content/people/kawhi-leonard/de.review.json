@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Schwellung im linken Knie; Raptors untersuchen in einer Woche neu (27.10.2026)",
+      "sourceIds": [
+        "nbc-knee-2026",
+        "yahoo-weeks-2026",
+        "ap-knee-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Untersuchungen ohne akute Verletzung; Behandlungs- und Rehabilitationsprogramm",
+      "sourceIds": [
+        "yahoo-weeks-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "28 Minuten gegen Washington",
+      "sourceIds": [
+        "yahoo-testing-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Yahoo: 28 minutes."
+    },
+    {
+      "claim": "16 Punkte gegen Washington nach Fadeaway World",
+      "sourceIds": [
+        "fadeaway-weeks-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Fadeaway: 16 points."
+    },
+    {
+      "claim": "TSN: 19 Punkte in 27 Minuten und 41 Sekunden",
+      "sourceIds": [
+        "tsn-sit-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Charania: Zeitraum von Wochen; MRT ohne strukturelle Schäden",
+      "sourceIds": [
+        "yahoo-history-2026",
+        "fadeaway-weeks-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources state these."
+    },
+    {
+      "claim": "Toronto verpflichtete ihn in diesem Sommer (NBC)",
+      "sourceIds": [
+        "nbc-knee-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "NBC: traded for him this summer."
+    },
+    {
+      "claim": "Die Spurs gaben ihn am 18. Juli 2018 an die Raptors ab",
+      "sourceIds": [
+        "nba-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Verpasste neun Spiele in 2017/18",
+      "sourceIds": [
+        "nba-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com: played all but nine games."
+    },
+    {
+      "claim": "Restliche Karrierefakten",
+      "sourceIds": [
+        "nba-10-things",
+        "teamusa-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed against the fetched sources."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "The page separates team statements from reports, and flags the box-score conflict.",
+  "decision": "approve",
+  "summary": "All cited claims match fetched sources. Points differ by source and the page says so."
+}

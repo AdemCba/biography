@@ -1,0 +1,325 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Leonard has swelling in his left knee; Toronto said on 27 Oct 2026 he will be re-evaluated in one week",
+      "sourceIds": [
+        "nbc-knee-2026",
+        "yahoo-weeks-2026",
+        "ap-knee-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "AP, NBC and Yahoo all report the Tuesday 27 Oct announcement of left knee swelling and a one-week re-evaluation."
+    },
+    {
+      "claim": "Tests showed no acute injury; he will undergo a treatment and rehabilitation program to address swelling",
+      "sourceIds": [
+        "yahoo-weeks-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Page says the Raptors said tests revealed no acute injury in the left knee and quotes the treatment program wording."
+    },
+    {
+      "claim": "Late scratch for the Sunday game vs Minnesota because of left knee swelling",
+      "sourceIds": [
+        "nbc-knee-2026",
+        "tsn-sit-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "TSN: missed Sunday's game vs Minnesota with left knee swelling, published 25 Oct 2026."
+    },
+    {
+      "claim": "Against Washington he played 28 minutes",
+      "sourceIds": [
+        "yahoo-testing-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Yahoo: 'He played 28 minutes in the Raptors' win against the Washington Wizards on Friday.'"
+    },
+    {
+      "claim": "Against Washington he scored 16 points on 5-of-17 shooting",
+      "sourceIds": [
+        "fadeaway-weeks-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Fadeaway: 16 points on 5-of-17 shooting vs Washington."
+    },
+    {
+      "claim": "TSN gives 19 points in 27 minutes and 41 seconds for the Washington game; sources differ",
+      "sourceIds": [
+        "tsn-sit-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "TSN: 19 points in 27:41 vs Washington. The sources do differ on points and minutes."
+    },
+    {
+      "claim": "On Tuesday the Raptors said he would be sidelined for at least a week",
+      "sourceIds": [
+        "ap-knee-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "AP: sidelined for at least a week because of swelling in his left knee, the Raptors said Tuesday."
+    },
+    {
+      "claim": "Re-evaluation in one week does not set a return date",
+      "sourceIds": [
+        "fadeaway-weeks-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Fadeaway: 'That evaluation does not establish a return date.'"
+    },
+    {
+      "claim": "Coach Darko Rajakovic said further testing, an update to follow, and Wednesday status vs Orlando uncertain",
+      "sourceIds": [
+        "yahoo-testing-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Yahoo, relaying Vivek Jacob, reports Rajakovic's comments."
+    },
+    {
+      "claim": "Shams Charania of ESPN reported Leonard is expected to miss 'a period of weeks'",
+      "sourceIds": [
+        "yahoo-history-2026",
+        "fadeaway-weeks-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Yahoo summary of Charania: 'expected to miss a period of weeks due to swelling in his left knee'. Fadeaway also cites Charania."
+    },
+    {
+      "claim": "An MRI showed no structural damage",
+      "sourceIds": [
+        "yahoo-history-2026",
+        "fadeaway-weeks-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Yahoo (Charania): MRI 'showed no structural damage'. Fadeaway: 'showed no structural damage'."
+    },
+    {
+      "claim": "Fadeaway World described the absence as several weeks",
+      "sourceIds": [
+        "fadeaway-weeks-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Fadeaway: 'expected to miss several weeks because of swelling in his left knee'."
+    },
+    {
+      "claim": "San Antonio traded him to the Raptors on 18 July 2018",
+      "sourceIds": [
+        "nba-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com: sent to Toronto on July 18, 2018."
+    },
+    {
+      "claim": "Team USA says he has played for San Antonio, Toronto and the LA Clippers",
+      "sourceIds": [
+        "teamusa-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Team USA profile lists the three teams."
+    },
+    {
+      "claim": "NBC Sports reports Toronto traded for him this summer",
+      "sourceIds": [
+        "nbc-knee-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "NBC: 'traded for him this summer'."
+    },
+    {
+      "claim": "He scored 23 points in the season-opening win over the Chicago Bulls",
+      "sourceIds": [
+        "fadeaway-weeks-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Fadeaway: 23 points in the season-opening win over Chicago."
+    },
+    {
+      "claim": "First two games: 19.5 points, 7.5 rebounds, 32.4 percent shooting",
+      "sourceIds": [
+        "nbc-knee-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "NBC: averaged 19.5 points and 7.5 rebounds, shooting 32.4%, in two wins."
+    },
+    {
+      "claim": "Quotes: 'looked like his All-NBA self from a season ago' and 'just weren't falling'",
+      "sourceIds": [
+        "nbc-knee-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Both phrases are in the NBC article."
+    },
+    {
+      "claim": "Expected to miss the two home games vs Orlando; back-to-back vs Lakers and Clippers, missing his only Intuit Dome game; Denver and Milwaukee 'may well miss'",
+      "sourceIds": [
+        "nbc-knee-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "NBC makes each of these projections."
+    },
+    {
+      "claim": "AP: 'a long history of knee problems'",
+      "sourceIds": [
+        "yahoo-history-2026",
+        "ap-knee-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "AP wording confirmed in both."
+    },
+    {
+      "claim": "No left knee issue missed time since before the pandemic; knee management usually right knee",
+      "sourceIds": [
+        "nbc-knee-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "NBC wording confirmed."
+    },
+    {
+      "claim": "Born 29 June 1991 in Los Angeles, California; youngest of five children",
+      "sourceIds": [
+        "nba-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com confirms."
+    },
+    {
+      "claim": "Started basketball at Canyon Springs as a sophomore; finished at Riverside King; Mr. Basketball in senior year",
+      "sourceIds": [
+        "nba-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com confirms."
+    },
+    {
+      "claim": "Back-to-back Mountain West tournament titles at San Diego State; declared for 2011 draft after a Sweet 16 run",
+      "sourceIds": [
+        "nba-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com confirms."
+    },
+    {
+      "claim": "Chevrolet Malibu; friends persuaded him to buy a Porsche, driven only on game days",
+      "sourceIds": [
+        "nba-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com confirms."
+    },
+    {
+      "claim": "Spurs traded George Hill to Indiana on draft night; Popovich called it the toughest decision",
+      "sourceIds": [
+        "nba-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com confirms."
+    },
+    {
+      "claim": "Fourth in Rookie of the Year voting; 2012 All-Rookie First Team",
+      "sourceIds": [
+        "nba-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com confirms."
+    },
+    {
+      "claim": "Trained with Duncan, Ginobili, Parker; Engelland study of Kobe Bryant and Richard Jefferson; 'tricked by any of the NBA glamour or bright lights, big city'",
+      "sourceIds": [
+        "nba-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com confirms the training, shooting-form detail and quote wording."
+    },
+    {
+      "claim": "2014 Finals: Spurs beat Miami 4-1; 17.8 points on 61.2 percent shooting",
+      "sourceIds": [
+        "nba-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com confirms."
+    },
+    {
+      "claim": "At 22 he became the youngest Finals MVP since Magic Johnson in 1980",
+      "sourceIds": [
+        "nba-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com: youngest since Magic Johnson in 1980."
+    },
+    {
+      "claim": "Re-aggravated ankle injury in Game 1 of 2017 West finals caused him to miss the rest of that series",
+      "sourceIds": [
+        "nba-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com confirms."
+    },
+    {
+      "claim": "He missed nine games in 2017-18",
+      "sourceIds": [
+        "nba-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com: played all but nine games in 2017-18."
+    },
+    {
+      "claim": "After he requested a trade, San Antonio sent him to Toronto; led Toronto to 2019 title",
+      "sourceIds": [
+        "nba-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com confirms."
+    },
+    {
+      "claim": "Joined LeBron James and Kareem Abdul-Jabbar as the players to win Finals MVP with two teams; two-time DPOY",
+      "sourceIds": [
+        "nba-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com confirms both."
+    },
+    {
+      "claim": "Five-time All-Star; three-time All-NBA First Team; two-time All-NBA Second Team; NBA 75th Anniversary Team",
+      "sourceIds": [
+        "teamusa-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Team USA profile lists each."
+    },
+    {
+      "claim": "LA Times Player of the Year 2008-09; CalHiSports 2009 Mr. Basketball state player of the year",
+      "sourceIds": [
+        "teamusa-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Team USA profile confirms."
+    },
+    {
+      "claim": "Summary and knownFor: two-time NBA champion; two-time Finals MVP",
+      "sourceIds": [
+        "nba-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Titles in 2014 and 2019 and two Finals MVPs are supported by the body and NBA.com."
+    },
+    {
+      "claim": "Age 35 as of 27 Oct 2026",
+      "sourceIds": [
+        "nba-10-things",
+        "yahoo-weeks-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Birth date 29 June 1991; Yahoo also gives his age as 35."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "The page separates what the Raptors said from what the reports said and flags the box-score conflict.",
+  "decision": "approve",
+  "summary": "All cited claims now match fetched sources. The nationality fact has been removed. Points differ across sources and the page says so."
+}

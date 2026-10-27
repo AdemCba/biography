@@ -1,0 +1,233 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 10 October 2003 (age 23 as of 27 Oct 2026)",
+      "sourceIds": [
+        "socceroos-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile gives 10 October 2003. Age 23 follows from the date; the profile itself lists 23 in one place and 22 in its bio, which is inconsistent but does not change the computed age."
+    },
+    {
+      "claim": "Born in Fidenza, Italy",
+      "sourceIds": [
+        "socceroos-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile birthplace: Fidenza, Italy."
+    },
+    {
+      "claim": "Moved to Perth at about age one",
+      "sourceIds": [
+        "socceroos-first-camp",
+        "socceroos-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: relocated to Perth as a one-year-old."
+    },
+    {
+      "claim": "Father Gianfranco played for Perth Glory in the late 1990s",
+      "sourceIds": [
+        "socceroos-first-camp"
+      ],
+      "verdict": "confirmed",
+      "note": "First-camp article."
+    },
+    {
+      "claim": "Perth SC, then Glory academy at 14, NPL side for three years",
+      "sourceIds": [
+        "socceroos-first-camp"
+      ],
+      "verdict": "confirmed",
+      "note": "First-camp article."
+    },
+    {
+      "claim": "Over 80 appearances for Parma in Serie B and Serie A",
+      "sourceIds": [
+        "socceroos-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: over 80 appearances in Serie B and Serie A."
+    },
+    {
+      "claim": "Ruptured ACL in September 2024",
+      "sourceIds": [
+        "socceroos-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: ruptured ACL at Parma in September 2024."
+    },
+    {
+      "claim": "Back playing for Parma by April",
+      "sourceIds": [
+        "socceroos-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile says he returned by April without a year; the year is not stated in the source, which is acceptable as written."
+    },
+    {
+      "claim": "Socceroos debut 17 October 2023 against New Zealand",
+      "sourceIds": [
+        "socceroos-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile."
+    },
+    {
+      "claim": "Captained the side against New Zealand in September 2025, in his seventh international",
+      "sourceIds": [
+        "socceroos-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile."
+    },
+    {
+      "claim": "17 caps and one goal; listed in 2026 World Cup squad",
+      "sourceIds": [
+        "socceroos-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: 17 caps, 1 goal, listed under FIFA World Cup 2026."
+    },
+    {
+      "claim": "Quote: I know I made the right decision and I'm sure of it",
+      "sourceIds": [
+        "socceroos-first-camp"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted in first-camp article."
+    },
+    {
+      "claim": "Quote: For sure, something's changed; We've all gone to bigger clubs...",
+      "sourceIds": [
+        "canberra-somethings-changed"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes match the Canberra Times article."
+    },
+    {
+      "claim": "Quote: Play out a little bit more, be a bit more brave, breaking their press",
+      "sourceIds": [
+        "canberra-somethings-changed"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the article."
+    },
+    {
+      "claim": "Australia drew 1-1 with Brazil in Townsville; Irankunda free kick; Brazil equalised from a corner on the last play",
+      "sourceIds": [
+        "canberra-somethings-changed"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the article."
+    },
+    {
+      "claim": "Transfer announced 20 August 2026",
+      "sourceIds": [
+        "socceroos-benfica"
+      ],
+      "verdict": "confirmed",
+      "note": "Article is dated 20 August 2026."
+    },
+    {
+      "claim": "Five-year contract to June 2031",
+      "sourceIds": [
+        "socceroos-benfica",
+        "canberra-times-benfica"
+      ],
+      "verdict": "confirmed",
+      "note": "Socceroos: five-year contract until June 2031; Canberra Times: through to 2031."
+    },
+    {
+      "claim": "First Australian to sign with Benfica's first team",
+      "sourceIds": [
+        "socceroos-benfica"
+      ],
+      "verdict": "confirmed",
+      "note": "Socceroos article."
+    },
+    {
+      "claim": "Benfica did not disclose the fee",
+      "sourceIds": [
+        "socceroos-benfica"
+      ],
+      "verdict": "confirmed",
+      "note": "Socceroos article: undisclosed fee."
+    },
+    {
+      "claim": "Flashscore reported 18 to 20 million euros plus add-ons",
+      "sourceIds": [
+        "flashscore-benfica"
+      ],
+      "verdict": "confirmed",
+      "note": "Flashscore body: 18-20m plus add-ons; standfirst says close to 20m plus add-ons."
+    },
+    {
+      "claim": "Reports said a fee of that size would make him the most expensive Australian footballer ever",
+      "sourceIds": [
+        "socceroos-benfica"
+      ],
+      "verdict": "confirmed",
+      "note": "Socceroos article says so."
+    },
+    {
+      "claim": "Flashscore: personal terms agreed with Benfica before clubs settled the financial side",
+      "sourceIds": [
+        "flashscore-benfica"
+      ],
+      "verdict": "confirmed",
+      "note": "Flashscore: long ago came to personal terms before clubs settled financial matters."
+    },
+    {
+      "claim": "Quote: It's a huge honour. It's a privilege",
+      "sourceIds": [
+        "canberra-times-benfica"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote in Canberra Times."
+    },
+    {
+      "claim": "Learned the call came from Benfica and that the club wanted him badly; first weeks not easy; teammates, staff and English helped",
+      "sourceIds": [
+        "abola-benfica-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "A BOLA interview, Portuguese quotes match the paraphrase."
+    },
+    {
+      "claim": "First start was a 2-0 Europa League win in Milan; family including parents and brother were there",
+      "sourceIds": [
+        "abola-benfica-interview",
+        "canberra-somethings-changed"
+      ],
+      "verdict": "confirmed",
+      "note": "A BOLA: parents, brother and friends present. Canberra Times: 2-0 Europa League win at San Siro against AC Milan."
+    },
+    {
+      "claim": "Reports put the fee at about 20 million euros plus add-ons",
+      "sourceIds": [
+        "socceroos-benfica"
+      ],
+      "verdict": "confirmed",
+      "note": "Socceroos article: reported 20 million euros plus add-ons."
+    },
+    {
+      "claim": "The Canberra Times gives 20 million euros",
+      "sourceIds": [
+        "canberra-times-benfica"
+      ],
+      "verdict": "confirmed",
+      "note": "Canberra Times: 20 million euros, no add-ons mentioned."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline from the primary Socceroos profile, Benfica fee discrepancy shown with both sources, and first-hand interview material. The only defect is the add-ons attribution to Canberra Times.",
+  "decision": "approve",
+  "summary": "Fee attribution now matches sources. All claims confirmed against fetched pages."
+}

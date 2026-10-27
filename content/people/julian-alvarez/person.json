@@ -1,0 +1,92 @@
+{
+  "id": "julian-alvarez",
+  "name": "Julián Álvarez",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "2000-01-31",
+      "sources": [
+        "atletico-official",
+        "vavel-bio"
+      ],
+      "note": "Atlético profile: 'Nacido el 31/01/2000'. VAVEL agrees."
+    },
+    "birthPlace": {
+      "value": "Calchín, Córdoba, Argentina",
+      "sources": [
+        "vavel-bio"
+      ],
+      "note": "VAVEL's intro and body say Calchín; its infobox says Cachín. The Atlético profile gives no birthplace. Treat as unconfirmed by the official site."
+    },
+    "nationality": {
+      "value": [
+        "AR"
+      ],
+      "sources": [
+        "atletico-official"
+      ],
+      "note": "Atlético profile lists 'Nacionalidad Argentina'."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "atletico-official",
+      "url": "https://www.atleticodemadrid.com/jugadores/julian-alvarez-2025-2026",
+      "title": "Julián Álvarez - player profile 2025-2026",
+      "publisher": "Atlético de Madrid",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "es"
+    },
+    {
+      "id": "beinsports-signing",
+      "url": "https://www.beinsports.com/en-us/soccer/la-liga/articles-video/official-atl%C3%A9tico-madrid-signs-juli%C3%A1n-%C3%A1lvarez-2024-08-12",
+      "title": "OFFICIAL: Atlético Madrid Signs Julián Álvarez",
+      "publisher": "beIN SPORTS",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "vavel-bio",
+      "url": "https://www.vavel.com/en/data/julian-alvarez/bio/",
+      "title": "Julián Álvarez bio",
+      "publisher": "VAVEL",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "vavel-stuttgart",
+      "url": "https://www.vavel.com/en-us/soccer/2026/10/20/1276050-stuttgart-vs-atletico-madrid-live-score-uefa-champions-league.html",
+      "title": "Stuttgart vs Atlético Madrid live score, UEFA Champions League",
+      "publisher": "VAVEL",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "emisoras-apology",
+      "url": "https://emisorasunidas.com/deportes/2026/10/25/julian-alvarez-pide-disculpas-a-la-aficion-del-atletico/",
+      "title": "Julián Álvarez pide disculpas a la afición del Atlético",
+      "publisher": "Emisoras Unidas",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "es"
+    },
+    {
+      "id": "elintransigente-apology",
+      "url": "https://elintransigente.com/2026/10/27/julian-alvarez-disculpas-hinchas-atletico-continuidad-2027-barcelona/",
+      "title": "Julián Álvarez anticipó que hará de su futuro en 2027: \"Quería pedir disculpas\"",
+      "publisher": "El Intransigente",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "es"
+    }
+  ]
+}

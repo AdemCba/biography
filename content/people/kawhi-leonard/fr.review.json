@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Gonflement du genou gauche; réévaluation dans une semaine (27 oct 2026)",
+      "sourceIds": [
+        "nbc-knee-2026",
+        "yahoo-weeks-2026",
+        "ap-knee-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "28 minutes à Washington",
+      "sourceIds": [
+        "yahoo-testing-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Yahoo: 28 minutes."
+    },
+    {
+      "claim": "16 points à Washington selon Fadeaway World",
+      "sourceIds": [
+        "fadeaway-weeks-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Fadeaway: 16 points."
+    },
+    {
+      "claim": "TSN : 19 points en 27 min 41 s",
+      "sourceIds": [
+        "tsn-sit-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Charania : plusieurs semaines; IRM sans lésion structurelle",
+      "sourceIds": [
+        "yahoo-history-2026",
+        "fadeaway-weeks-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources state these."
+    },
+    {
+      "claim": "Toronto l'a recruté cet été (NBC)",
+      "sourceIds": [
+        "nbc-knee-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "NBC: traded for him this summer."
+    },
+    {
+      "claim": "Les Spurs l'ont envoyé aux Raptors le 18 juillet 2018",
+      "sourceIds": [
+        "nba-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Il a manqué neuf matchs en 2017-2018",
+      "sourceIds": [
+        "nba-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com: played all but nine games."
+    },
+    {
+      "claim": "Restant de la carrière",
+      "sourceIds": [
+        "nba-10-things",
+        "teamusa-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed against the fetched sources."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "The page separates team statements from reports, and flags the box-score conflict.",
+  "decision": "approve",
+  "summary": "All cited claims match fetched sources. Points differ by source and the page says so."
+}

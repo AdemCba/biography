@@ -1,0 +1,97 @@
+{
+  "worthWriting": true,
+  "reason": "Starting guard for the Indianapolis Colts since 2018 (sixth overall pick), eight-time Pro Bowl selection and three-time first-team AP All-Pro. Enough primary sources (Colts, Notre Dame, NFL.com) and a local NJ outlet for the birth details.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "colts-roster",
+      "url": "https://www.colts.com/team/players-roster/quenton-nelson/",
+      "title": "Quenton Nelson - Indianapolis Colts roster profile",
+      "publisher": "Indianapolis Colts",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "colts-career",
+      "url": "https://colts.com/team/players-roster/quenton-nelson/career",
+      "title": "Quenton Nelson - Indianapolis Colts career page",
+      "publisher": "Indianapolis Colts",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "colts-draft-2018",
+      "url": "https://www.colts.com/news/breaking-colts-select-guard-quenton-nelson-with-no-6-pick-in-2018-nfl-d-20586609",
+      "title": "Breaking: Colts select guard Quenton Nelson with No. 6 pick in 2018 NFL Draft",
+      "publisher": "Indianapolis Colts",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "colts-extension-2022",
+      "url": "https://www.colts.com/news/quenton-nelson-sign-contract-extension-all-pro-bowl-left-guard",
+      "title": "Quenton Nelson signs contract extension, All-Pro left guard",
+      "publisher": "Indianapolis Colts",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "nfl-extension-2022",
+      "url": "https://amp.nfl.com/news/quenton-nelson-colts-agree-to-terms-on-four-year-80m-contract-extension",
+      "title": "Quenton Nelson, Colts agree to terms on four-year, $80M contract extension",
+      "publisher": "NFL.com",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "fightingirish-roster",
+      "url": "https://fightingirish.com/roster/quenton-nelson/",
+      "title": "Quenton Nelson - Notre Dame Fighting Irish football roster",
+      "publisher": "University of Notre Dame Athletics",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "nj-sports",
+      "url": "https://njsports.com/quenton-nelson/",
+      "title": "Quenton Nelson profile",
+      "publisher": "NJSports.com",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1996-03-19",
+      "sources": [
+        "nj-sports"
+      ],
+      "note": "Only the NJ Sports profile states the date among fetched pages. The official Colts and Notre Dame pages list age but no birth date."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Holmdel, New Jersey",
+      "sources": [
+        "nj-sports",
+        "fightingirish-roster"
+      ],
+      "note": "Colts pages call him a native of Red Bank, N.J. (hometown). Notre Dame lists Holmdel as hometown. High school was Red Bank Catholic."
+    },
+    "nationality": null
+  },
+  "targetQueries": [
+    "how old is Quenton Nelson",
+    "where is Quenton Nelson from",
+    "Quenton Nelson contract",
+    "Quenton Nelson Pro Bowl",
+    "Quenton Nelson All-Pro",
+    "Quenton Nelson Notre Dame",
+    "Quenton Nelson Colts draft",
+    "Quenton Nelson height and weight",
+    "Quenton Nelson high school",
+    "Quenton Nelson jersey number"
+  ],
+  "gapNote": "Official pages give the career timeline but not the birth date, so the date rests on one NJ outlet. Sources differ on hometown (Holmdel vs Red Bank). The 2022 extension terms are from NFL.com and are dated 2022. Nationality is not stated in any fetched source."
+}

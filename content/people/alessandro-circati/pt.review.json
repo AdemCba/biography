@@ -1,0 +1,231 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 10 October 2003 (23 on 27 Oct 2026)",
+      "sourceIds": [
+        "socceroos-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile date 10 Oct 2003."
+    },
+    {
+      "claim": "Born in Fidenza, Italy",
+      "sourceIds": [
+        "socceroos-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile."
+    },
+    {
+      "claim": "Moved to Perth at about age one",
+      "sourceIds": [
+        "socceroos-first-camp"
+      ],
+      "verdict": "confirmed",
+      "note": "First-camp article."
+    },
+    {
+      "claim": "Father Gianfranco played for Perth Glory late 1990s",
+      "sourceIds": [
+        "socceroos-first-camp"
+      ],
+      "verdict": "confirmed",
+      "note": "First-camp article."
+    },
+    {
+      "claim": "Perth SC, Glory academy at 14, NPL three years",
+      "sourceIds": [
+        "socceroos-first-camp"
+      ],
+      "verdict": "confirmed",
+      "note": "First-camp article."
+    },
+    {
+      "claim": "Over 80 Parma appearances in Serie B and A",
+      "sourceIds": [
+        "socceroos-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile."
+    },
+    {
+      "claim": "ACL rupture September 2024; back at Parma by April",
+      "sourceIds": [
+        "socceroos-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile; April has no year in source, acceptable."
+    },
+    {
+      "claim": "Debut 17 Oct 2023 vs New Zealand",
+      "sourceIds": [
+        "socceroos-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile."
+    },
+    {
+      "claim": "Captain vs New Zealand Sept 2025, seventh cap",
+      "sourceIds": [
+        "socceroos-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile."
+    },
+    {
+      "claim": "17 caps, one goal, 2026 World Cup squad",
+      "sourceIds": [
+        "socceroos-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile."
+    },
+    {
+      "claim": "Quote on decision to play for Australia",
+      "sourceIds": [
+        "socceroos-first-camp"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted in first-camp article."
+    },
+    {
+      "claim": "Quote: mindset changed; bigger clubs confidence",
+      "sourceIds": [
+        "canberra-somethings-changed"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches article."
+    },
+    {
+      "claim": "Quote: Popovic instruction to play braver, breaking press",
+      "sourceIds": [
+        "canberra-somethings-changed"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches article."
+    },
+    {
+      "claim": "Brazil 1-1 Townsville; Irankunda free kick; Brazil equaliser from corner last play",
+      "sourceIds": [
+        "canberra-somethings-changed"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches article."
+    },
+    {
+      "claim": "Transfer announced 20 August 2026",
+      "sourceIds": [
+        "socceroos-benfica"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated 20 Aug 2026."
+    },
+    {
+      "claim": "Contract five years to June 2031",
+      "sourceIds": [
+        "socceroos-benfica",
+        "canberra-times-benfica"
+      ],
+      "verdict": "confirmed",
+      "note": "Socceroos and Canberra Times."
+    },
+    {
+      "claim": "First Australian to sign for Benfica first team",
+      "sourceIds": [
+        "socceroos-benfica"
+      ],
+      "verdict": "confirmed",
+      "note": "Socceroos article."
+    },
+    {
+      "claim": "Benfica did not disclose the fee",
+      "sourceIds": [
+        "socceroos-benfica"
+      ],
+      "verdict": "confirmed",
+      "note": "Socceroos article."
+    },
+    {
+      "claim": "Flashscore: 18-20 million euros plus add-ons",
+      "sourceIds": [
+        "flashscore-benfica"
+      ],
+      "verdict": "confirmed",
+      "note": "Flashscore body."
+    },
+    {
+      "claim": "Reports: about 20 million euros plus add-ons",
+      "sourceIds": [
+        "socceroos-benfica"
+      ],
+      "verdict": "confirmed",
+      "note": "Socceroos article: reported 20m plus add-ons."
+    },
+    {
+      "claim": "Fee of that size would make him most expensive Australian footballer",
+      "sourceIds": [
+        "socceroos-benfica"
+      ],
+      "verdict": "confirmed",
+      "note": "Socceroos article."
+    },
+    {
+      "claim": "Flashscore: personal terms agreed before clubs settled finances",
+      "sourceIds": [
+        "flashscore-benfica"
+      ],
+      "verdict": "confirmed",
+      "note": "Flashscore."
+    },
+    {
+      "claim": "Quote: huge honour, privilege",
+      "sourceIds": [
+        "canberra-times-benfica"
+      ],
+      "verdict": "confirmed",
+      "note": "Canberra Times quote."
+    },
+    {
+      "claim": "A BOLA: call came from Benfica, club wanted him; first weeks not easy; teammates/staff/English help",
+      "sourceIds": [
+        "abola-benfica-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Interview quotes match."
+    },
+    {
+      "claim": "First start 2-0 Europa League win at San Siro vs Milan; parents and brother present",
+      "sourceIds": [
+        "abola-benfica-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Interview: parents, brother present."
+    },
+    {
+      "claim": "Canberra Times: 2-0 Europa League win vs AC Milan, San Siro, no exact date",
+      "sourceIds": [
+        "canberra-somethings-changed"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches article."
+    },
+    {
+      "claim": "Canberra Times gives 20 million euros for the fee",
+      "sourceIds": [
+        "canberra-times-benfica"
+      ],
+      "verdict": "confirmed",
+      "note": "Canberra Times: 20 million euros, no add-ons mentioned."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Timeline from the Socceroos profile; fee discrepancy shown with both sources; first-hand interview material.",
+  "decision": "approve",
+  "summary": "Fee attribution fixed to match sources. All claims confirmed against fetched pages."
+}

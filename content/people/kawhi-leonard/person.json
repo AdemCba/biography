@@ -1,0 +1,109 @@
+{
+  "id": "kawhi-leonard",
+  "name": "Kawhi Leonard",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 5,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1991-06-29",
+      "sources": [
+        "nba-10-things"
+      ],
+      "note": "NBA.com profile article"
+    },
+    "birthPlace": {
+      "value": "Los Angeles, California",
+      "sources": [
+        "nba-10-things"
+      ],
+      "note": "NBA.com states Los Angeles, California"
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "nba-10-things",
+      "url": "https://www.nba.com/kawhi-leonard-10-things-to-know",
+      "title": "Kawhi Leonard: 10 Things to Know",
+      "publisher": "NBA.com",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "teamusa-profile",
+      "url": "https://www.teamusa.com/profiles/kawhi-leonard",
+      "title": "Kawhi Leonard",
+      "publisher": "USA Basketball / Team USA",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "nbc-knee-2026",
+      "url": "https://www.nbcsports.com/nba/news/kawhi-leonard-is-out-with-swelling-in-left-knee-will-be-re-evaluated-in-one-week",
+      "title": "Kawhi Leonard is out with swelling in left knee, will be re-evaluated in one week",
+      "publisher": "NBC Sports",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "ap-knee-2026",
+      "url": "https://www.dailygazette.com/the_recorder/ap/sports/the-toronto-raptors-say-kawhi-leonard-will-miss-at-least-a-week-with-swelling-in/article_c10b26a1-a7a6-5444-a0b6-3ff087406fdb.html",
+      "title": "The Toronto Raptors say Kawhi Leonard will miss at least a week with swelling in his left knee",
+      "publisher": "Associated Press (via The Daily Gazette)",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "fadeaway-weeks-2026",
+      "url": "https://fadeawayworld.net/nba/toronto-raptors/kawhi-leonard-injury-update-raptors-star-expected-to-miss-weeks-with-knee-swelling",
+      "title": "Kawhi Leonard Injury Update: Raptors Star Expected To Miss Weeks With Knee Swelling",
+      "publisher": "Fadeaway World",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "tsn-sit-2026",
+      "url": "https://www.tsn.ca/nba/article/kawhi-knee-out-for-raptors-against-t-wolves/",
+      "title": "Kawhi sits against T-Wolves with left knee swelling",
+      "publisher": "TSN",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "yahoo-weeks-2026",
+      "url": "https://sports.yahoo.com/articles/toronto-raptors-kawhi-leonard-miss-160422820.html",
+      "title": "The Toronto Raptors say Kawhi Leonard will miss at least a week with swelling in his left knee",
+      "publisher": "Yahoo Sports",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "yahoo-history-2026",
+      "url": "https://sports.yahoo.com/articles/kawhi-leonard-miss-time-due-153259570.html",
+      "title": "Kawhi Leonard to miss time due to knee swelling",
+      "publisher": "Yahoo Sports",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "yahoo-testing-2026",
+      "url": "https://sports.yahoo.com/articles/raptors-kawhi-leonard-undergo-testing-040216937.html",
+      "title": "Raptors' Kawhi Leonard to undergo testing after concerning injury update",
+      "publisher": "Yahoo Sports",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    }
+  ]
+}
