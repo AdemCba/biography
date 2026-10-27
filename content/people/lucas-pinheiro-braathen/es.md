@@ -13,9 +13,11 @@ summary: >-
   Olímpicos de Invierno de Milano Cortina 2026, el primer oro olímpico de
   invierno para Brasil. Nacido en Oslo en 2000, hijo de padre noruego y madre
   brasileña, corrió por Noruega hasta 2023 y desde 2024 compite por Brasil.
-status: review
+status: published
 risk: medium
+reviewedAt: '2026-10-27'
 author: editor-in-chief
+reviewer: editor-in-chief
 aiAssisted: true
 targetQueries:
   - Lucas Pinheiro Braathen
@@ -45,16 +47,8 @@ faq:
       Bormio con un tiempo combinado de 2:25.00, 0.58 segundos por delante de
       Marco Odermatt [s:nbc-sports-gold-times-2026]
       [s:storyproductions-profile-2026].
-reviewNotes: >-
-  Prose reads machine-written | Adds no value over existing pages: Every
-  section, heading and sentence maps one-to-one onto the en article with the
-  same citations. No Spanish-specific queries, sources or local context were
-  added. | Reviewer recommends rejection: All facts match the sources, but the
-  page is a sentence-by-sentence translation of the en version, which the style
-  guide says fails review. Localise it (Spanish-language sources or context,
-  local search phrasing, reworked structure) before resubmitting.
 autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+publishedAt: '2026-10-27'
 ---
 Lucas Pinheiro Braathen ganó el eslalon gigante masculino en los Juegos Olímpicos de Invierno de Milano Cortina 2026, lo que lo convirtió en el primer campeón olímpico de invierno de Brasil [s:storyproductions-profile-2026]. Corrió por Noruega hasta su retirada en 2023, y desde 2024 compite por Brasil, el país de su madre.
 

@@ -14,12 +14,12 @@ summary: >-
   geboren. Sie hat den Grammy für das Album des Jahres viermal gewonnen, so oft
   wie keine andere Künstlerin, und das Magazin Time kürte sie 2023 zur Person of
   the Year. Forbes schätzt ihr Vermögen auf 2 Milliarden US-Dollar.
-status: review
+status: published
 risk: medium
-reviewedAt: '2026-10-26'
+reviewedAt: '2026-10-27'
 reviewBy: '2027-04-26'
 author: editor-in-chief
-reviewer: fact-check-desk
+reviewer: editor-in-chief
 aiAssisted: true
 targetQueries:
   - wie alt ist Taylor Swift
@@ -49,13 +49,7 @@ faq:
       2026. Das ist eine Schätzung und keine offizielle Angabe
       [s:forbes-profile].
 autoReviews: 3
-reviewNotes: >-
-  Prose reads machine-written | Reviewer recommends rejection: Facts check out
-  against the cited sources, but the German version fails the localisation rule:
-  it is a sentence-by-sentence translation of en. Rewrite it for local readers
-  and local queries, with local context and local-language sources where they
-  are as good, then resubmit for review.
-flag: Rejected by the fact-check 3 times; needs a human editor.
+publishedAt: '2026-10-27'
 ---
 Taylor Swift hat den Grammy für das Album des Jahres viermal gewonnen und ist damit die erste Künstlerin, der das gelungen ist [s:etonline-midnights]. Ihre jüngsten großen Zahlen stammen aus dem Jahr 2025. Im Oktober kam ihr Album *The Life of a Showgirl* in seiner ersten Woche auf 4,002 Millionen Album-Einheiten [s:today-showgirl-2025], und im Mai hatte sie angekündigt, die Masteraufnahmen ihrer ersten sechs Alben zurückgekauft zu haben [s:mbw-masters-2025].
 

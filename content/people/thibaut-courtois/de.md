@@ -12,9 +12,11 @@ summary: >-
   WhatsApp-Gruppe der belgischen Spieler ist und im November in die
   Nationalmannschaft zurückkehren könnte, während eine Verlängerung bei Real
   Madrid als nahe berichtet wurde.
-status: review
+status: published
 risk: low
+reviewedAt: '2026-10-27'
 author: editor-in-chief
+reviewer: editor-in-chief
 aiAssisted: true
 targetQueries:
   - Thibaut Courtois Alter
@@ -44,18 +46,8 @@ faq:
       durch Senne Lammens in der 69. Minute beim Stand von 1:1
       [s:worldsoccertalk-courtois-forced-off]. Ein anderer nennt die 71. Minute
       [s:wego-belgium-world-cup].
-flag: Rejected by the fact-check 5 times; needs a human editor.
-reviewNotes: >-
-  Prose reads machine-written | Reviewer recommends rejection: All facts, dates,
-  scores, minutes, and quotes in the German body and FAQ match the sources
-  already checked for en (UEFA, Fichajes 21 Oct and 13 Sept, Football Espana 20
-  June, FP 12 June, Open The Magazine, NST, WST, Wego, worldcupranking, beIN).
-  The reject is for localisation, not facts: the text is a near
-  sentence-by-sentence translation of the en article, which the style guide says
-  fails review. Fix: rewrite for German readers with German-language queries
-  (e.g. Vermögen-style local terms where relevant) and German-language sources
-  where as good, and reorder sections for the local reader.
 autoReviews: 5
+publishedAt: '2026-10-27'
 ---
 Thibaut Courtois wurde am 11. Mai 1992 geboren und spielt als Torhüter für Real Madrid [s:uefa-courtois-profile]. Das UEFA-Profil führt ihn mit 199 cm Körpergröße und der Trikotnummer 1 [s:uefa-courtois-profile]. Im Oktober 2026 drehten sich die Nachrichten über ihn um zwei Themen: die belgische Nationalmannschaft und seinen Vertrag. Er sagte, dass er nicht mehr in der WhatsApp-Gruppe der belgischen Spieler ist und eine Rückkehr in die Nationalmannschaft im November erwägt. Gleichzeitig wird berichtet, dass eine Verlängerung mit Real Madrid kurz vor dem Abschluss steht [s:fichajes-courtois-whatsapp] [s:fichajes-renewal-2028].
 

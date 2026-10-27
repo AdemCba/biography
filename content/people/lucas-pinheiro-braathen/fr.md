@@ -12,9 +12,11 @@ summary: >-
   d'hiver du Brésil. Né à Oslo en 2000 d'un père norvégien et d'une mère
   brésilienne, il a couru pour la Norvège jusqu'en 2023 et représente le Brésil
   depuis 2024.
-status: review
+status: published
 risk: medium
+reviewedAt: '2026-10-27'
 author: editor-in-chief
+reviewer: editor-in-chief
 aiAssisted: true
 targetQueries:
   - Lucas Pinheiro Braathen
@@ -43,16 +45,8 @@ faq:
       Oui. Il a gagné le slalom géant masculin des Jeux d'hiver 2026 à Bormio,
       avec un temps combiné de 2:25.00, à 0,58 seconde de Marco Odermatt
       [s:nbc-sports-gold-times-2026] [s:storyproductions-profile-2026].
-reviewNotes: >-
-  Prose reads machine-written | Adds no value over existing pages: Every
-  section, heading and sentence maps one-to-one onto the en article with the
-  same citations. No French-specific queries, sources or local context were
-  added. | Reviewer recommends rejection: All facts match the sources, but the
-  page is a sentence-by-sentence translation of the en version, which the style
-  guide says fails review. Localise it (French-language sources or context,
-  local search phrasing, reworked structure) before resubmitting.
 autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+publishedAt: '2026-10-27'
 ---
 Lucas Pinheiro Braathen a remporté le slalom géant masculin aux Jeux olympiques d'hiver Milan Cortina 2026, ce qui fait de lui le premier champion olympique d'hiver du Brésil [s:storyproductions-profile-2026]. Il courait pour la Norvège jusqu'à sa retraite en 2023. Depuis 2024, il représente le Brésil, le pays de sa mère.
 

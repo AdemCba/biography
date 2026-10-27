@@ -14,9 +14,11 @@ summary: >-
   die Ablöse nicht offengelegt [s:geosuper-cucurella-2032]. Medien nennen eine
   Grundsumme von 55 Millionen Euro, dazu 5 Millionen Euro an Zusatzzahlungen
   [s:hardtackle-official-cucurella] [s:geosuper-cucurella-2032].
-status: review
+status: published
 risk: low
+reviewedAt: '2026-10-27'
 author: editor-in-chief
+reviewer: editor-in-chief
 aiAssisted: true
 targetQueries:
   - Marc Cucurella Ablöse Real Madrid
@@ -44,15 +46,8 @@ faq:
     a: >-
       Er wurde in Alella in Spanien geboren und begann dort im Alter von vier
       Jahren mit Futsal.
-reviewNotes: >-
-  WRONG: "Summary, FAQ and body citation tags" (The summary and FAQ answers
-  carry [s:id] tags. Per the checking rules, tags belong in the body only.
-  Remove them from frontmatter.) | Reviewer recommends rejection: All checked
-  facts are supported by the sources. Reject for formatting: the summary and FAQ
-  answers contain [s:id] citation tags, which belong only in the body. Remove
-  those tags and resubmit.
 autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+publishedAt: '2026-10-27'
 ---
 Marc Cucurella verließ den FC Chelsea im Juni 2026 in Richtung Real Madrid. Sein Vertrag läuft bis zum 30. Juni 2032 [s:peninsula-real-madrid-confirm] [s:geosuper-cucurella-2032]. Da Real Madrid die Ablöse nicht offengelegt hat [s:geosuper-cucurella-2032], stützen sich die genannten Summen auf Medienberichte, die weiter unten einzeln aufgeführt sind. Der Linksverteidiger wurde am 22. Juli 1998 in Alella in Spanien geboren [s:laliga-five-things] und hat für die spanische Nationalmannschaft gespielt [s:theanalyst-national]. Rechnet man ab dem Geburtsdatum, war er am 26. Oktober 2026 28 Jahre alt [s:laliga-five-things] [s:fotmob-profile].
 

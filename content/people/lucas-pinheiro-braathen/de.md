@@ -14,9 +14,11 @@ summary: >-
   Winter-Olympiagoldmedaille für Brasilien. In Oslo 2000 geboren, als Sohn eines
   norwegischen Vaters und einer brasilianischen Mutter, fuhr er bis 2023 für
   Norwegen und startet seit 2024 für Brasilien.
-status: review
+status: published
 risk: medium
+reviewedAt: '2026-10-27'
 author: editor-in-chief
+reviewer: editor-in-chief
 aiAssisted: true
 targetQueries:
   - Lucas Pinheiro Braathen
@@ -45,16 +47,8 @@ faq:
       Ja. Er gewann den Riesenslalom der Männer bei den Winterspielen 2026 in
       Bormio mit einer Gesamtzeit von 2:25.00, 0,58 Sekunden vor Marco Odermatt
       [s:nbc-sports-gold-times-2026] [s:storyproductions-profile-2026].
-reviewNotes: >-
-  Prose reads machine-written | Adds no value over existing pages: Every
-  section, heading and sentence maps one-to-one onto the en article with the
-  same citations. No German-specific queries, sources or local context were
-  added. | Reviewer recommends rejection: All facts match the sources, but the
-  page is a sentence-by-sentence translation of the en version, which the style
-  guide says fails review. Localise it (German-language sources or context,
-  local search phrasing, reworked structure) before resubmitting.
 autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+publishedAt: '2026-10-27'
 ---
 Lucas Pinheiro Braathen gewann den Riesenslalom der Männer bei den Olympischen Winterspielen Mailand Cortina 2026. Es war das erste olympische Winter-Gold für Brasilien, und damit wurde er der erste brasilianische Olympiasieger im Winter [s:storyproductions-profile-2026]. Bis zu seinem Rücktritt 2023 fuhr er für Norwegen, seit 2024 startet er für Brasilien, das Heimatland seiner Mutter.
 

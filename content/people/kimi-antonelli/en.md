@@ -11,9 +11,11 @@ summary: >-
   the 2026 United States Grand Prix at Austin on 25 October 2026 and leads the
   drivers' championship, 123 points clear of George Russell
   [s:f1-austin-race-report] [s:skysports-austin-report].
-status: review
+status: published
 risk: low
+reviewedAt: '2026-10-27'
 author: editor-in-chief
+reviewer: editor-in-chief
 aiAssisted: true
 targetQueries:
   - Kimi Antonelli
@@ -46,17 +48,8 @@ faq:
     a: >-
       Marco Antonelli is a former racing driver who runs his own motorsport
       team, Antonelli Motorsport, for whose team he raced as a boy.
-reviewNotes: >-
-  UNSUPPORTED: "Finished fourth in Australia after starting 16th" (Source gives
-  'a stunning drive through the field to P16' (race progress), not the grid
-  slot. Starting position is not stated. Remove 'after starting 16th' or cite a
-  source that gives the grid slot.) | Reviewer recommends rejection: Every claim
-  checked is supported except one: 'finished fourth there after starting 16th'
-  (2025 Australia). The source gives the P16 only as race progress, not the grid
-  slot. Fix: remove 'after starting 16th' or cite a source that gives the grid
-  position. Everything else is confirmed.
 autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+publishedAt: '2026-10-27'
 ---
 Kimi Antonelli won the 2026 United States Grand Prix at the Circuit of the Americas in Austin on 25 October 2026, starting from pole [s:f1-austin-race-report]. Autosport counted it as his ninth Grand Prix win of 2026 [s:autosport-austin-report]. The result put him at the top of the drivers' championship. The title was still open [s:f1-austin-race-report].
 

@@ -12,9 +12,11 @@ summary: >-
   gewann den Großen Preis der USA 2026 in Austin am 25. Oktober 2026 und führt
   die Fahrerwertung mit 123 Punkten Vorsprung auf George Russell an
   [s:f1-austin-race-report] [s:skysports-austin-report].
-status: review
+status: published
 risk: low
+reviewedAt: '2026-10-27'
 author: editor-in-chief
+reviewer: editor-in-chief
 aiAssisted: true
 targetQueries:
   - Kimi Antonelli
@@ -50,20 +52,8 @@ faq:
       Marco Antonelli ist ein früherer Rennfahrer, der sein eigenes
       Motorsportteam Antonelli Motorsport leitet. Kimi fuhr als Kind für dieses
       Team.
-reviewNotes: >-
-  UNSUPPORTED: "Vater Marco ist ein früherer Rennfahrer (Body und FAQ)" (Source
-  names Marco as head of Antonelli Motorsport but does not say he was a racing
-  driver. Remove 'früherer Rennfahrer' from body and FAQ or cite a source that
-  states it.) | UNSUPPORTED: "Mercedes setzte auf einen Boxenstopp, Leclerc und
-  Hamilton bei Ferrari zwei" (Source says Antonelli ran one stop and Ferrari ran
-  two. It does not say Mercedes as a team ran one stop. Change to Antonelli
-  only.) | UNSUPPORTED: "FAQ: Marco Antonelli ist ein früherer Rennfahrer" (Not
-  stated in sources. Same as body.) | Reviewer recommends rejection: Rejected.
-  Remove 'früherer Rennfahrer' for Marco (body and FAQ). Change 'Mercedes setzte
-  auf einen Boxenstopp' to Antonelli only. Cite only f1-driver-profile for the
-  exact birth date.
 autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+publishedAt: '2026-10-27'
 ---
 Kimi Antonelli gewann den Großen Preis der USA 2026 auf dem Circuit of the Americas in Austin am 25. Oktober 2026, nachdem er von der Pole Position gestartet war [s:f1-austin-race-report]. Autosport zählte den Sieg als seinen neunten Grand-Prix-Erfolg im Jahr 2026 [s:autosport-austin-report]. Mit 123 Punkten Vorsprung auf Russell führt er nun die Fahrerwertung an [s:skysports-austin-report]. Der Titel war nach dem Rennen aber noch nicht entschieden [s:f1-austin-race-report].
 

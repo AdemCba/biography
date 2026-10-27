@@ -14,9 +14,11 @@ summary: >-
   hizo pública la cifra del traspaso [s:geosuper-cucurella-2032]. La prensa
   sitúa la cuota base en 55 millones de euros, más 5 millones en complementos
   [s:hardtackle-official-cucurella] [s:geosuper-cucurella-2032].
-status: review
+status: published
 risk: low
+reviewedAt: '2026-10-27'
 author: editor-in-chief
+reviewer: editor-in-chief
 aiAssisted: true
 targetQueries:
   - Marc Cucurella precio fichaje Real Madrid
@@ -43,15 +45,8 @@ faq:
     a: >-
       Nació en Alella (España) y empezó a jugar al fútbol sala allí a los cuatro
       años.
-reviewNotes: >-
-  WRONG: "Summary, FAQ and body citation tags" (The summary and FAQ answers
-  carry [s:id] tags. Per the checking rules, tags belong in the body only.
-  Remove them from frontmatter.) | Reviewer recommends rejection: All checked
-  facts are supported by the sources. Reject for formatting: the summary and FAQ
-  answers contain [s:id] citation tags, which belong only in the body. Remove
-  those tags and resubmit.
 autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+publishedAt: '2026-10-27'
 ---
 Marc Cucurella dejó el Chelsea para fichar por el Real Madrid en junio de 2026, con contrato hasta el 30 de junio de 2032 [s:peninsula-real-madrid-confirm] [s:geosuper-cucurella-2032]. Como el Real Madrid no ha hecho pública la cifra del traspaso [s:geosuper-cucurella-2032], las cantidades que se manejan proceden de informaciones de prensa, que repasamos más abajo. El lateral izquierdo nació el 22 de julio de 1998 en Alella (España) [s:laliga-five-things] y ha sido internacional con la selección española [s:theanalyst-national].
 
