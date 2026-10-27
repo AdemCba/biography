@@ -5,9 +5,8 @@ name: Writer
 # It runs on the owner's own Claude subscription (CLAUDE_CODE_OAUTH_TOKEN from `claude setup-token`),
 # not on the API. The Publish workflow then adds photos, schedules, deploys and pings IndexNow.
 on:
-  schedule:
-    # Every 3 hours (Istanbul 02:40, 05:40, 08:40 ...).
-    - cron: "40 */3 * * *"
+  # Started every 3 hours by cron-job.org through the workflow_dispatch API: GitHub's own
+  # schedule ran hours late. Do not add a schedule here, or runs will double up.
   workflow_dispatch:
     inputs:
       count:
