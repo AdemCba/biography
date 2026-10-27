@@ -1,0 +1,96 @@
+{
+  "worthWriting": true,
+  "reason": "Three-time Grand Slam champion and former world No. 3 who is ending his career at Swiss Indoors Basel (24 Oct to 1 Nov 2026). Official tournament and ATP sources confirm the farewell. The reported Basel walk-out and standing ovation could not be confirmed in any source opened, so it is left out.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "atp-bio",
+      "url": "https://www.atptour.com/en/players/stan-wawrinka/w367/bio",
+      "title": "Stan Wawrinka player bio",
+      "publisher": "ATP Tour",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "swiss-indoors-farewell",
+      "url": "https://www.swissindoorsbasel.ch/en/tournament/tournament-news/articles/2026-05-04_Ticket-pre-sale-Stan-Wawrinka-bids-farewell-to-tennis-in-Basel.php",
+      "title": "Ticket pre-sale: Stan Wawrinka bids farewell to tennis in Basel",
+      "publisher": "Swiss Indoors Basel",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "tennis-com-retirement",
+      "url": "https://www.tennis.com/news/articles/basel-end-line-retiring-stan-wawrinka-back-pain-rome-qualifying",
+      "title": "Basel marks end of the line for retiring Stan Wawrinka",
+      "publisher": "Tennis.com",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "tennisuptodate-lyon",
+      "url": "https://tennisuptodate.com/atp/stan-wawrinkas-retirement-is-now-one-tournament-away-after-lyon-exit",
+      "title": "Stan Wawrinka's retirement is now one tournament away after Lyon exit",
+      "publisher": "Tennis Up To Date",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "roland-garros-profile",
+      "url": "https://www.rolandgarros.com/en-us/players/7815-s.wawrinka",
+      "title": "Stan Wawrinka player profile",
+      "publisher": "Roland-Garros (FFT)",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "ausopen-profile",
+      "url": "https://ausopen.com/node/5983",
+      "title": "Stan Wawrinka player profile",
+      "publisher": "Australian Open",
+      "type": "official",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1985-03-28",
+      "sources": [
+        "roland-garros-profile"
+      ],
+      "note": "Roland-Garros player page. Not stated on the ATP bio or Australian Open profile opened."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Lausanne, Switzerland",
+      "sources": [
+        "roland-garros-profile"
+      ],
+      "note": "Roland-Garros player page."
+    },
+    "nationality": {
+      "value": "CH",
+      "sources": [
+        "tennis-com-retirement",
+        "atp-bio",
+        "roland-garros-profile",
+        "ausopen-profile"
+      ],
+      "note": "Tennis.com states he is Swiss. The ATP bio says he was Swiss flag carrier at the 2012 London Olympics. No birth date or birthplace town was stated in the sources opened."
+    }
+  },
+  "targetQueries": [
+    "stan wawrinka retirement",
+    "stan wawrinka basel 2026",
+    "stan wawrinka last tournament",
+    "stan wawrinka grand slam titles",
+    "stan wawrinka nationality",
+    "stan wawrinka farewell exhibition geneva",
+    "stan wawrinka career high ranking",
+    "stan wawrinka coach magnus norman",
+    "stan wawrinka age"
+  ],
+  "gapNote": "Search results are mostly ticket and tournament announcements plus match reports. The page can give a sourced timeline: the 2026 final season, the Lyon exit on 22 Oct 2026, and Basel as his last event with the Super Monday tribute on 26 Oct 2026. Crowd and result details from Basel are not yet confirmed in sources we opened."
+}

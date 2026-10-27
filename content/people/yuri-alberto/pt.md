@@ -39,15 +39,8 @@ faq:
     a: >-
       Em julho de 2025 o clube estendeu o vínculo até julho de 2030, no lugar do
       fim previsto para o fim de 2027.
-autoReviews: 4
-reviewNotes: >-
-  UNSUPPORTED: "O Soccerway não registra nenhuma partida pela seleção principal"
-  (Soccerway page states national-team data is not included. Remove. The 'bases
-  divergem' sentence depends on it.) | Reviewer recommends rejection: Reject on
-  facts: the Soccerway claim about national-team appearances is unsupported (the
-  page does not include national-team data) and must be removed, along with the
-  sentence that depends on it.
 flag: Rejected by the fact-check 4 times; needs a human editor.
+autoReviews: 5
 ---
 Yuri Alberto chegou ao Corinthians por empréstimo do Zenit em 2022, e o clube o comprou em definitivo em janeiro de 2023 [s:vavel-loan-2022] [s:tupi-purchase-2023]. Até 1º de dezembro de 2024 tinha 13 gols no Brasileirão e aparecia no topo da artilharia [s:placar-2024-top-scorer].
 
@@ -75,7 +68,7 @@ Já em novembro de 2025, ele somava 200 jogos pelo Corinthians, com 73 gols, e f
 
 ## Seleções de base e a espera pela principal
 
-Pelas seleções sub-17, sub-18, sub-20 e sub-23 do Brasil, ele soma 21 jogos e nove gols [s:umdoisesportes-trajetoria]. A primeira convocação para a seleção principal foi para um amistoso contra o Marrocos [s:umdoisesportes-trajetoria]. O perfil da Tuttosport registra 8 jogos e 3 gols pela sub-17 em 2017, e 2 jogos pela sub-23 em 2020 e 2021 [s:tuttosport-profile]. Os dois perfis de jogador registram uma única partida pela seleção principal do Brasil, em 2023, sem gols [s:tuttosport-profile] [s:corriere-sport-profile]. A página do Soccerway não traz dados de seleção [s:soccerway-br-profile], então esse registro depende só da Tuttosport e não está fechado.
+Pelas seleções sub-17, sub-18, sub-20 e sub-23 do Brasil, ele soma 21 jogos e nove gols [s:umdoisesportes-trajetoria]. A primeira convocação para a seleção principal foi para um amistoso contra o Marrocos [s:umdoisesportes-trajetoria]. O perfil da Tuttosport registra 8 jogos e 3 gols pela sub-17 em 2017, e 2 jogos pela sub-23 em 2020 e 2021 [s:tuttosport-profile]. O perfil da Tuttosport registra uma única partida pela seleção principal do Brasil, em 2023, sem gols [s:tuttosport-profile]. A página do Soccerway não traz dados de seleção [s:soccerway-br-profile], então esse registro depende só da Tuttosport e não está fechado.
 
 ## A lesão de 2026
 
@@ -83,6 +76,6 @@ Em março de 2026 o Lance informou uma lesão de grau 2 no bíceps femoral da co
 
 Uma reportagem de 1º de agosto de 2026 informou uma lesão muscular na parte de trás da coxa direita. O técnico Fernando Diniz aparece na mesma matéria [s:opovo-injury-2026]. Naquele momento o clube não tinha divulgado o grau da lesão nem um prazo de retorno [s:opovo-injury-2026].
 
-Outra reportagem, de 27 de setembro de 2026, disse que a lesão era de grau 2 e que ele não jogava desde 30 de julho. Ela o chama de principal goleador do time na temporada e diz que o clube esperava tê-lo à disposição para o próximo jogo [s:tribuna-injury-2026].
+Outra reportagem, de 27 de setembro de 2026, disse que a lesão era de grau 2 e que ele não jogava desde 30 de julho. Segundo ela, o clube esperava tê-lo à disposição para o próximo jogo [s:tribuna-injury-2026].
 
 Uma reportagem de 30 de setembro disse que ele já tinha feito a primeira sessão de treinos com o grupo e que não sentia dor [s:tribuna-return-training-2026]. No dia 6 de outubro, o clube o incluiu entre 24 jogadores relacionados para o jogo contra o Internacional, no Beira-Rio, que a reportagem descreve como seu retorno após a lesão na coxa direita [s:tribuna-squad-2026]. As fontes usadas aqui não dizem como ele jogou nessa partida.

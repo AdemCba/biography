@@ -1,348 +1,302 @@
 {
   "date": "2026-10-27",
   "model": "claude-haiku-5-5",
-  "approved": false,
-  "reasons": [
-    "Adds no value over existing pages: The only primary source I could open is an on-record interview from February 2026. manutd.com returned HTTP 403 for every URL tried, and the FA and Premier League profile URLs returned 404, so the page has no official club or federation source. Otherwise its facts repeat the four press and database pages already in the top results.",
-    "Reviewer recommends rejection: All checked claims are confirmed against opened sources, and the primary-source warning is cleared by the Feb 2026 interview. Reject only because no official club or federation source could be opened, so the page adds no value over existing pages. Re-review after an official source is accessible."
-  ],
+  "approved": true,
+  "reasons": [],
   "claims": [
     {
-      "claim": "Interim charge in January 2026 after Ruben Amorim was sacked",
+      "claim": "Poste rendu permanent le vendredi 22 mai 2026, contrat jusqu'en 2028",
+      "sourceIds": [
+        "ians-carrick-permanent",
+        "beinsports-carrick-permanent"
+      ],
+      "verdict": "confirmed",
+      "note": "IANS dates the announcement 22 May 2026 and the deal to 2028; beIN says contract until 2028."
+    },
+    {
+      "claim": "Entraîneur par intérim en janvier 2026 après le limogeage de Ruben Amorim",
       "sourceIds": [
         "ians-carrick-permanent",
         "football365-carrick-reaction"
       ],
       "verdict": "confirmed",
-      "note": "IANS (opened): 'took interim charge after Ruben Amorim was sacked in January'."
+      "note": "IANS: Amorim sacked in January; Carrick took interim charge."
     },
     {
-      "claim": "Permanent appointment on Friday 22 May 2026, contract to 2028",
-      "sourceIds": [
-        "beinsports-carrick-permanent",
-        "ians-carrick-permanent"
-      ],
-      "verdict": "confirmed",
-      "note": "beIN (opened): permanent manager confirmed 'this Friday' with contract until 2028; date matches URL 2026-05-22, a Friday."
-    },
-    {
-      "claim": "He was 44 when the deal was announced",
+      "claim": "Il avait 44 ans au moment de l'annonce",
       "sourceIds": [
         "ians-carrick-permanent"
       ],
       "verdict": "confirmed",
-      "note": "IANS: 'The 44-year-old took interim charge'."
+      "note": "IANS describes him as 44."
     },
     {
-      "claim": "He now manages the club he played for",
+      "claim": "Retraite de joueur en 2018",
       "sourceIds": [
-        "ians-carrick-permanent",
-        "beinsports-carrick-permanent"
+        "mufcinfo-carrick-archive"
       ],
       "verdict": "confirmed",
-      "note": "Both report him continuing as head coach."
+      "note": "Archive: retired 13 May 2018."
     },
     {
-      "claim": "Retired as a player in 2018",
-      "sourceIds": [
-        "mufcinfo-carrick-archive",
-        "ians-carrick-permanent"
-      ],
-      "verdict": "confirmed",
-      "note": "Archive gives retirement 13/05/2018; IANS says he joined the coaching staff when he retired in 2018."
-    },
-    {
-      "claim": "First match 2-0 v Manchester City; 3-2 v Arsenal; wins over Liverpool, Chelsea, Aston Villa, Tottenham; no scores for last four",
+      "claim": "Premier match 2-0 contre Manchester City; puis 3-2 contre Arsenal, et victoires contre Liverpool, Chelsea, Aston Villa et Tottenham",
       "sourceIds": [
         "beinsports-carrick-permanent"
       ],
       "verdict": "confirmed",
-      "note": "beIN (opened): 2-0 v City, 3-2 v Arsenal, then Liverpool, Chelsea, Aston Villa, Tottenham with no scores given."
+      "note": "beIN lists six wins with scores only for City and Arsenal."
     },
     {
-      "claim": "Results against lower-profile teams were not as decisive",
-      "sourceIds": [
-        "beinsports-carrick-permanent"
-      ],
-      "verdict": "confirmed",
-      "note": "beIN, verbatim: 'results against lower-profile teams were not as decisive'."
-    },
-    {
-      "claim": "Premier League Manager of the Month after the City and Arsenal wins",
+      "claim": "Entraîneur du mois de Premier League après les victoires contre City et Arsenal",
       "sourceIds": [
         "ians-carrick-permanent",
         "football365-carrick-reaction"
       ],
       "verdict": "confirmed",
-      "note": "IANS (opened): 'awarded the Premier League Manager of the Month award'. The link to the first two games is from the Football365 summary, not a verbatim quote."
+      "note": "IANS and Football365 both report it."
     },
     {
-      "claim": "Interview with The Football Interview, Feb 2026: job is 'the ultimate role'",
+      "claim": "Qualifie le poste de 'rôle ultime' en entretien de février 2026",
       "sourceIds": [
         "vanguard-carrick-interview-2026"
       ],
       "verdict": "confirmed",
-      "note": "Vanguard, 20 Feb 2026 (opened): 'For me, it's the ultimate role,' Carrick said."
+      "note": "Vanguard quotes 'the ultimate role', dated February 2026."
     },
     {
-      "claim": "United won 11 of 16 games",
+      "claim": "United a gagné 11 matchs sur 16",
       "sourceIds": [
         "ians-carrick-permanent",
         "football365-carrick-reaction"
       ],
       "verdict": "confirmed",
-      "note": "IANS verbatim: 'with 11 wins from 16 games'."
+      "note": "IANS and Football365: 16 games, 11 wins."
     },
     {
-      "claim": "Highest Premier League points tally since his arrival",
+      "claim": "Le plus grand nombre de points en Premier League depuis son arrivée",
       "sourceIds": [
         "ians-carrick-permanent"
       ],
       "verdict": "confirmed",
-      "note": "IANS verbatim: 'accumulating the highest points tally in the Premier League'. Attribution changed from club to press."
+      "note": "IANS quotes this."
     },
     {
-      "claim": "Moved the side from seventh to third and secured Champions League football",
+      "claim": "De la septième à la troisième place et qualification en Ligue des champions",
       "sourceIds": [
         "beinsports-carrick-permanent",
         "football365-carrick-reaction"
       ],
       "verdict": "confirmed",
-      "note": "beIN verbatim: 'from seventh to third place, securing qualification for the Champions League'. Football365 confirms the Champions League qualification."
+      "note": "beIN: seventh to third; Football365: third place and Champions League next season."
     },
     {
-      "claim": "beIN: achievement of bringing the club back to the Champions League 'should not be underestimated'",
+      "claim": "beIN : son bilan en ramenant le club en Ligue des champions 'ne doit pas être sous-estimé'",
       "sourceIds": [
         "beinsports-carrick-permanent"
       ],
       "verdict": "confirmed",
-      "note": "beIN verbatim, in the article's own narration. Attribution corrected from Wilcox to beIN."
+      "note": "Quote matches."
     },
     {
-      "claim": "Form under Carrick left United little choice but to appoint him",
+      "claim": "La forme de l'équipe sous Carrick ne laissait guère d'autre choix à United",
       "sourceIds": [
         "football365-carrick-reaction"
       ],
       "verdict": "confirmed",
-      "note": "Football365 verbatim: 'left them little choice but to appoint the former midfielder'."
+      "note": "Football365: form left United little choice."
     },
     {
-      "claim": "Wilcox: approach 'aligns with the club's values, traditions and history'",
+      "claim": "Wilcox : le choix 'correspond aux valeurs, aux traditions et à l'histoire du club'",
       "sourceIds": [
         "ians-carrick-permanent"
       ],
       "verdict": "confirmed",
-      "note": "IANS: this sentence is in Wilcox's quoted remarks. Citation moved to IANS."
+      "note": "Quote matches."
     },
     {
-      "claim": "Wilcox: Carrick 'has forged a strong bond with the players'",
+      "claim": "Wilcox : Carrick 'a tissé un lien solide avec les joueurs' et 'a parfaitement mérité la chance'",
       "sourceIds": [
         "ians-carrick-permanent"
       ],
       "verdict": "confirmed",
-      "note": "IANS: Wilcox quote, verbatim."
+      "note": "Both quotes match in substance."
     },
     {
-      "claim": "Wilcox: 'Michael has thoroughly earned the opportunity to continue leading our men's team'",
-      "sourceIds": [
-        "ians-carrick-permanent"
-      ],
-      "verdict": "confirmed",
-      "note": "IANS: attributed to Wilcox, verbatim."
-    },
-    {
-      "claim": "Carrick: responsibility of leading the club 'fills me with immense pride'",
+      "claim": "Carrick : diriger le club 'me remplit d'une immense fierté'; 'cinq derniers mois'; 'résilience, esprit d'équipe et détermination'",
       "sourceIds": [
         "football365-carrick-reaction"
       ],
       "verdict": "confirmed",
-      "note": "Football365 verbatim: 'Carrying the responsibility of leading our special football club fills me with immense pride.'"
+      "note": "All phrases appear in Football365's report."
     },
     {
-      "claim": "Carrick: 'past five months' and 'resilience, togetherness and determination'",
-      "sourceIds": [
-        "football365-carrick-reaction"
-      ],
-      "verdict": "confirmed",
-      "note": "Football365 verbatim."
-    },
-    {
-      "claim": "Carrick: 'From the moment that I arrived here 20 years ago, I felt the magic of Manchester United'",
+      "claim": "Carrick : 'Depuis mon arrivée ici il y a 20 ans, j'ai ressenti la magie de Manchester United'",
       "sourceIds": [
         "ians-carrick-permanent"
       ],
       "verdict": "confirmed",
-      "note": "IANS verbatim (also beIN)."
+      "note": "Quote matches."
     },
     {
-      "claim": "Carrick: 'deserve to be challenging for the biggest honours again'",
+      "claim": "Carrick : 'Manchester United et nos incroyables supporters méritent de se battre à nouveau pour les plus grands trophées'",
       "sourceIds": [
         "football365-carrick-reaction"
       ],
       "verdict": "confirmed",
-      "note": "Football365 verbatim."
+      "note": "Quote matches."
     },
     {
-      "claim": "Came through the West Ham United academy",
+      "claim": "Formé à l'académie de West Ham United",
       "sourceIds": [
         "mufcinfo-carrick-archive"
       ],
       "verdict": "confirmed",
-      "note": "Archive: 'came through the youth academy' at West Ham United."
+      "note": "Archive: began career at West Ham."
     },
     {
-      "claim": "Midfield performances earned a 2004 move to Tottenham; loans at Swindon and Birmingham",
+      "claim": "Rejoint Tottenham Hotspur en 2004; prêts à Swindon Town et Birmingham City",
       "sourceIds": [
         "mufcinfo-carrick-archive"
       ],
       "verdict": "confirmed",
-      "note": "Archive verbatim: 'His performances in midfield earned him a move to Tottenham Hotspur in 2004'; loans listed (no dates given)."
+      "note": "Archive lists the 2004 move and both loans; the unsupported causal clause has been removed."
     },
     {
-      "claim": "Signed from Tottenham on 31 July 2006 for £18.6m",
+      "claim": "Recruté à Tottenham le 31 juillet 2006 pour 18,6 millions de livres",
       "sourceIds": [
         "mufcinfo-carrick-archive"
       ],
       "verdict": "confirmed",
-      "note": "Archive: transferred from Tottenham 31/07/2006, £18.6m. Ferguson is no longer named as the signer."
+      "note": "Archive: 31/07/2006, £18.6m."
     },
     {
-      "claim": "Ferguson saw him as the perfect replacement for Roy Keane",
+      "claim": "Ferguson y voyait le remplaçant parfait de Roy Keane",
       "sourceIds": [
         "mufcinfo-carrick-archive"
       ],
       "verdict": "confirmed",
-      "note": "Archive verbatim."
+      "note": "Quote matches."
     },
     {
-      "claim": "Debut 23 August 2006, 3-0 win at Charlton Athletic",
+      "claim": "Débuts le 23 août 2006, victoire 3-0 à Charlton Athletic",
       "sourceIds": [
         "mufcinfo-carrick-archive"
       ],
       "verdict": "confirmed",
-      "note": "Archive: 23/08/2006, Charlton (A), won 3-0."
+      "note": "Archive: 23/08/2006, 3-0."
     },
     {
-      "claim": "Retired 13 May 2018 aged 36; 464 appearances and 24 goals",
+      "claim": "Retraite le 13 mai 2018, à 36 ans; 464 matchs et 24 buts",
       "sourceIds": [
         "mufcinfo-carrick-archive",
         "football365-carrick-reaction"
       ],
       "verdict": "confirmed",
-      "note": "Archive: retirement 13/05/2018; 464 apps and 24 goals. Football365 confirms 464 games. Age 36 is correct from DOB."
+      "note": "Archive and Football365 give 464 games; archive gives 24 goals and retirement 13/05/2018. Age 36 follows from the dates."
     },
     {
-      "claim": "Five Premier League titles: 2006-07, 2007-08, 2008-09, 2010-11, 2012-13",
+      "claim": "Cinq titres de Premier League : 2006-2007, 2007-2008, 2008-2009, 2010-2011, 2012-2013",
       "sourceIds": [
-        "mufcinfo-carrick-archive",
+        "mufcinfo-carrick-archive"
+      ],
+      "verdict": "confirmed",
+      "note": "Archive lists the five seasons."
+    },
+    {
+      "claim": "Équipe de l'année de la PFA en 2012-2013",
+      "sourceIds": [
+        "mufcinfo-carrick-archive"
+      ],
+      "verdict": "confirmed",
+      "note": "Archive lists it."
+    },
+    {
+      "claim": "Ligue des champions et Coupe du monde des clubs de la FIFA en 2008",
+      "sourceIds": [
+        "mufcinfo-carrick-archive"
+      ],
+      "verdict": "confirmed",
+      "note": "Archive lists both for 2008."
+    },
+    {
+      "claim": "Coupe de la Ligue en 2010 et 2017; FA Cup en 2016",
+      "sourceIds": [
+        "mufcinfo-carrick-archive"
+      ],
+      "verdict": "confirmed",
+      "note": "Archive lists these years."
+    },
+    {
+      "claim": "Ligue Europa de l'UEFA parmi ses trophées avec le club",
+      "sourceIds": [
         "football365-carrick-reaction"
       ],
       "verdict": "confirmed",
-      "note": "Archive lists the five seasons; Football365 says five PL titles."
+      "note": "Football365 lists it among his honours."
     },
     {
-      "claim": "PFA Team of the Year 2012-13",
+      "claim": "34 sélections; concurrence avec Steven Gerrard et Frank Lampard; appréciation des archives elles-mêmes",
       "sourceIds": [
         "mufcinfo-carrick-archive"
       ],
       "verdict": "confirmed",
-      "note": "Archive."
+      "note": "Archive gives 34 caps, the competition statement and the praise; correctly attributed to the archive."
     },
     {
-      "claim": "Champions League and FIFA Club World Cup both in 2008",
-      "sourceIds": [
-        "mufcinfo-carrick-archive"
-      ],
-      "verdict": "confirmed",
-      "note": "Archive."
-    },
-    {
-      "claim": "League Cup 2010 and 2017; FA Cup 2016",
-      "sourceIds": [
-        "mufcinfo-carrick-archive"
-      ],
-      "verdict": "confirmed",
-      "note": "Archive. The manutd search snippet says three League Cups from a fan site; not used."
-    },
-    {
-      "claim": "UEFA Europa League among honours with the club",
-      "sourceIds": [
-        "football365-carrick-reaction"
-      ],
-      "verdict": "confirmed",
-      "note": "Football365 verbatim list of honours."
-    },
-    {
-      "claim": "IANS: former England international",
+      "claim": "Ancien international anglais",
       "sourceIds": [
         "ians-carrick-permanent"
       ],
       "verdict": "confirmed",
-      "note": "IANS verbatim."
+      "note": "IANS: former England international."
     },
     {
-      "claim": "34 England caps",
-      "sourceIds": [
-        "mufcinfo-carrick-archive"
-      ],
-      "verdict": "confirmed",
-      "note": "Archive: 'earned 34 caps for England'."
-    },
-    {
-      "claim": "Competed for a place with Gerrard and Lampard; calm presence and tactical intelligence valued by England staff and players",
-      "sourceIds": [
-        "mufcinfo-carrick-archive"
-      ],
-      "verdict": "confirmed",
-      "note": "Archive verbatim for both parts."
-    },
-    {
-      "claim": "Joined first-team coaching staff under Mourinho, then Solskjaer",
+      "claim": "Staff de l'équipe première sous Mourinho puis Solskjaer; intérim à la sortie de Solskjaer",
       "sourceIds": [
         "ians-carrick-permanent",
         "mufcinfo-carrick-archive"
       ],
       "verdict": "confirmed",
-      "note": "IANS verbatim."
+      "note": "IANS and archive state the staff roles; IANS: caretaker after Solskjaer left."
     },
     {
-      "claim": "Caretaker manager when Solskjaer left",
+      "claim": "Entraîneur par intérim de United en 2021",
       "sourceIds": [
-        "ians-carrick-permanent"
+        "mufcinfo-carrick-archive"
       ],
       "verdict": "confirmed",
-      "note": "IANS verbatim: 'as caretaker manager'. No year given in the article."
+      "note": "Archive: interim manager of Manchester United in 2021."
     },
     {
-      "claim": "Managed Middlesbrough from October 2022; second permanent job",
+      "claim": "Middlesbrough à partir d'octobre 2022; deux ans et demi (IANS) contre trois (beIN)",
       "sourceIds": [
         "ians-carrick-permanent",
         "beinsports-carrick-permanent"
       ],
       "verdict": "confirmed",
-      "note": "IANS verbatim: from October 2022, two-and-a-half years. beIN: 'three years' and 'second permanent challenge'. Sources disagree on duration; the article now says so."
+      "note": "Both figures are stated in the cited sources; the conflict is flagged."
     },
     {
-      "claim": "Turned 45 on 28 July 2026",
+      "claim": "beIN qualifie le poste à United de son deuxième défi permanent comme entraîneur",
+      "sourceIds": [
+        "beinsports-carrick-permanent"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote matches."
+    },
+    {
+      "claim": "Né le 28 juillet 1981 à Wallsend; 45 ans le 28 juillet 2026",
       "sourceIds": [
         "mufcinfo-carrick-archive"
       ],
       "verdict": "confirmed",
-      "note": "DOB 28 July 1981 per archive; arithmetic is correct."
-    },
-    {
-      "claim": "Twelve seasons as a midfielder for the club before retiring in 2018 (summary)",
-      "sourceIds": [
-        "mufcinfo-carrick-archive"
-      ],
-      "verdict": "confirmed",
-      "note": "2006 to 2018 is twelve seasons."
+      "note": "Archive: 28/07/1981, Wallsend, age 45."
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": true,
-  "addsValue": false,
-  "valueNote": "The only primary source I could open is an on-record interview from February 2026. manutd.com returned HTTP 403 for every URL tried, and the FA and Premier League profile URLs returned 404, so the page has no official club or federation source. Otherwise its facts repeat the four press and database pages already in the top results.",
-  "decision": "reject",
-  "summary": "All checked claims are confirmed against opened sources, and the primary-source warning is cleared by the Feb 2026 interview. Reject only because no official club or federation source could be opened, so the page adds no value over existing pages. Re-review after an official source is accessible."
+  "addsValue": true,
+  "valueNote": "Combines the 2026 appointment reporting with a sourced career timeline and flags source conflicts (Middlesbrough length). No official club or federation source could be opened, so the primary-source gap remains.",
+  "decision": "approve",
+  "summary": "All checked claims are confirmed against the opened sources after removing the unsupported lower-profile and causal midfield clauses."
 }

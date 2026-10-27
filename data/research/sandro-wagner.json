@@ -1,0 +1,95 @@
+{
+  "worthWriting": true,
+  "reason": "Former Germany international (8 caps) and current 2. Bundesliga head coach of Hannover 96 (contract to 30 June 2028, per ZDF heute). Several independent sources, including DFB and bundesliga.com.",
+  "wikidata": "",
+  "importance": 3,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "dfb-datencenter",
+      "url": "https://datencenter.dfb.de/datencenter/personen/sandro-wagner/spieler",
+      "title": "Sandro Wagner - Spielerprofil",
+      "publisher": "DFB Datencenter",
+      "type": "league-or-federation",
+      "lang": "de"
+    },
+    {
+      "id": "bundesliga-hannover-presser",
+      "url": "https://www.bundesliga.com/de/2bundesliga/news/hannover-96-sandro-wagner-neuer-trainer-pressekonferenz-vorstellung-39306",
+      "title": "Hannover 96: Sandro Wagner stellt sich als neuer Trainer vor",
+      "publisher": "bundesliga.com",
+      "type": "league-or-federation",
+      "lang": "de"
+    },
+    {
+      "id": "zdf-hannover-trainer",
+      "url": "https://www.zdfheute.de/sport/fussball-bundesliga/fussball-zweite-bundesliga-sandro-wagner-trainer-hannover-100.html",
+      "title": "2. Bundesliga: Sandro Wagner wird neuer Trainer in Hannover",
+      "publisher": "ZDF heute",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "bundesliga-augsburg-trainer",
+      "url": "https://www.bundesliga.com/de/bundesliga/news/fc-augsburg-sandro-wagner-neuer-trainer-32352",
+      "title": "FC Augsburg: Sandro Wagner neuer Trainer",
+      "publisher": "bundesliga.com",
+      "type": "league-or-federation",
+      "lang": "de"
+    },
+    {
+      "id": "sport1-unterhaching-2021",
+      "url": "https://www.sport1.de/fussball/2021/03/sandro-wagner-erklaert-seine-erste-trainer-karriere-in-unterhaching",
+      "title": "Sandro Wagner erklaert seine erste Trainer-Karriere in Unterhaching",
+      "publisher": "SPORT1",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "sport1-u20-2023",
+      "url": "https://www.sport1.de/news/fussball/dfb-team/2023/06/sandro-wagners-zukunft-geklart-neuer-trainer-job",
+      "title": "Sandro Wagners Zukunft geklaert: neuer Trainer-Job",
+      "publisher": "SPORT1",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "t-online-karriereende",
+      "url": "https://www.t-online.de/sport/fussball/bundesliga/id_88329982/im-alter-von-32-jahren-sandro-wagner-beendet-seine-karriere.html",
+      "title": "Im Alter von 32 Jahren: Sandro Wagner beendet seine Karriere",
+      "publisher": "t-online",
+      "type": "press",
+      "lang": "de"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1987-11-29",
+      "sources": [
+        "dfb-datencenter"
+      ],
+      "note": "DFB profile lists 29.11.1987."
+    },
+    "deathDate": null,
+    "birthPlace": null,
+    "nationality": {
+      "value": "DE",
+      "sources": [
+        "dfb-datencenter"
+      ],
+      "note": "DFB profile lists nationality Deutschland."
+    }
+  },
+  "targetQueries": [
+    "Sandro Wagner Hannover 96 coach",
+    "Sandro Wagner Trainer Hannover 96",
+    "Sandro Wagner Nationalspieler",
+    "Sandro Wagner FC Augsburg coach",
+    "Sandro Wagner Unterhaching",
+    "Sandro Wagner Hertha BSC",
+    "Sandro Wagner Hoffenheim",
+    "Sandro Wagner Tianjin Teda",
+    "Sandro Wagner career"
+  ],
+  "gapNote": "Search results mix the playing career with the Hannover news. A single sourced page that gives both the playing career and the coaching path (Unterhaching, DFB U20, Augsburg, Hannover) with dates is useful. Goal totals for his eight caps were not confirmed in an opened source, so they are left out."
+}

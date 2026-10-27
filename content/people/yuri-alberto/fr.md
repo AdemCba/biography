@@ -13,9 +13,12 @@ summary: >-
   juillet 2026 et souffrait d'une blessure de grade 2 à la cuisse droite. Le 6
   octobre, il figurait dans la liste de 24 joueurs pour le match contre
   l'Internacional, le 7 octobre.
-status: review
+status: published
 risk: low
+reviewedAt: '2026-10-27'
+reviewBy: '2027-04-27'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Yuri Alberto Corinthians
@@ -43,19 +46,14 @@ faq:
       Tuttosport recense une sélection en équipe A, en 2023, sans but
       [s:tuttosport-profile]. La page Soccerway ne contient pas de données sur
       les sélections [s:soccerway-br-profile].
-autoReviews: 1
-reviewNotes: >-
-  UNSUPPORTED: "Soccerway n'en recense aucune" (Soccerway page says
-  national-team data is not included. Remove here and in the FAQ.) | Reviewer
-  recommends rejection: Reject. All facts are confirmed except the Soccerway
-  national-team claims. Fix: delete both and base the senior record on
-  Tuttosport alone.
+autoReviews: 2
+publishedAt: '2026-10-27'
 ---
 En 2024, il a terminé le championnat brésilien à égalité en tête des buteurs, avec 15 buts [s:dgabc-trophy-2024]. En 2026, en revanche, plusieurs blessures musculaires se sont succédé et il a passé de longues périodes sans jouer [s:opovo-injury-2026] [s:tribuna-injury-2026].
 
 ## Un buteur en 2024
 
-Au 1er décembre 2024, Placar lui comptait 13 buts en Brasileirão, le championnat brésilien, et le plaçait en tête du classement des buteurs, devant Estêvão, de Palmeiras [s:placar-2024-top-scorer]. Il avait marqué 29 buts sur l'année, toutes compétitions confondues [s:placar-2024-top-scorer].
+Au 1er décembre 2024, Placar lui comptait 13 buts en Brasileirão, le championnat brésilien, et le plaçait en tête du classement des buteurs, devant Estêvão, de Palmeiras [s:placar-2024-top-scorer]. Il avait déjà marqué 29 buts sur l'année [s:placar-2024-top-scorer].
 
 À la fin de la saison, il en avait 15, à égalité avec Alerrandro, de Vitória [s:dgabc-trophy-2024]. Lors de la remise de son trophée au siège de la CBF, la fédération brésilienne, à Rio de Janeiro, il a dit avoir traversé une période difficile. Il a remercié sa famille et sa foi. L'article rappelle les critiques qu'il avait essuyées pendant une mauvaise passe de Corinthians [s:dgabc-trophy-2024]. Il a parlé de « Pude dar a volta por cima », qu'on peut traduire par « j'ai su rebondir ».
 

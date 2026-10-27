@@ -1,0 +1,48 @@
+{
+  "worthWriting": true,
+  "reason": "Active top-20-level ATP singles player (career high No. 12, May 2026 per ATP bio), two ATP titles, Czech national. Enough solid sources (ATP bio, ČTK).",
+  "wikidata": "",
+  "importance": 3,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "atp-bio",
+      "url": "https://www.atptour.com/en/players/jiri-lehecka/l0bv/bio",
+      "title": "Jiri Lehecka - Bio",
+      "publisher": "ATP Tour",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "cns-profile",
+      "url": "https://www.ceskenoviny.cz/index_view.php?id=2371972",
+      "title": "Česká tisková kancelář report on Lehečka match (Roland Garros)",
+      "publisher": "ČTK (Česká tisková kancelář)",
+      "type": "press",
+      "lang": "cs"
+    }
+  ],
+  "facts": {
+    "birthDate": null,
+    "deathDate": null,
+    "birthPlace": null,
+    "nationality": {
+      "value": "CZ",
+      "sources": [
+        "atp-bio",
+        "cns-profile"
+      ],
+      "note": "ATP bio refers to him as a Czech player (joined Berdych, P. Korda and Lendl as Czech men); ČTK calls him 'Český tenista' (Czech tennis player). ATP profile page template did not show a country field."
+    }
+  },
+  "targetQueries": [
+    "Jiri Lehecka ranking",
+    "Jiri Lehecka career high ranking",
+    "Jiri Lehecka nationality",
+    "Jiri Lehecka age",
+    "Jiri Lehecka titles",
+    "Jiri Lehecka Tiafoe",
+    "Jiri Lehecka Wimbledon"
+  ],
+  "gapNote": "Birth date and birthplace not verified: ATP bio gives no birth date; ČTK says he is a native of Mladá Boleslav (not an exact birthplace), so birthPlace left null. Current live ranking not verified (ATP profile template unfilled; career high No. 12 in May 2026 per ATP bio). The 'Tiafoe locker room' article was not found on atptour.com, so it is not used."
+}

@@ -1,0 +1,355 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Head coach of 2. Bundesliga club Hannover 96, contract to 30 June 2028",
+      "sourceIds": [
+        "zdf-hannover-trainer",
+        "bundesliga-hannover-presser"
+      ],
+      "verdict": "confirmed",
+      "note": "ZDF: contract to 30 June 2028. Bundesliga.com URL is the 2. Bundesliga section."
+    },
+    {
+      "claim": "Eight caps and five goals for Germany in 2017 and 2018",
+      "sourceIds": [
+        "berliner-kurier-hertha",
+        "dfb-datencenter"
+      ],
+      "verdict": "confirmed",
+      "note": "Berliner Kurier gives 8 caps and 5 goals; DFB profile confirms 8 caps."
+    },
+    {
+      "claim": "Route to Hannover via SpVgg Unterhaching and a spell as head coach at FC Augsburg",
+      "sourceIds": [
+        "bundesliga-augsburg-trainer",
+        "sport1-unterhaching-2021"
+      ],
+      "verdict": "confirmed",
+      "note": "Augsburg appointment and Unterhaching U19 role confirmed. The DFB youth setup claim was removed."
+    },
+    {
+      "claim": "Born 29 November 1987",
+      "sourceIds": [
+        "dfb-datencenter"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB profile: 29.11.1987."
+    },
+    {
+      "claim": "Came up through the youth ranks of FC Bayern Munich",
+      "sourceIds": [
+        "berliner-kurier-hertha"
+      ],
+      "verdict": "confirmed",
+      "note": "Berliner Kurier states the youth-department origin."
+    },
+    {
+      "claim": "Bayern under-19 side 2004 to 2006",
+      "sourceIds": [
+        "dfb-datencenter"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB: Bayern U19 01.07.2004 to 30.06.2006."
+    },
+    {
+      "claim": "Club list and second Bayern spell from January 2018",
+      "sourceIds": [
+        "dfb-datencenter"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB club history matches; Bayern from 01.01.2018."
+    },
+    {
+      "claim": "Three German championships and two DFB-Pokal wins per Bundesliga article",
+      "sourceIds": [
+        "bundesliga-augsburg-trainer"
+      ],
+      "verdict": "confirmed",
+      "note": "Bundesliga.com says dreifacher deutscher Meister and zweifacher DFB-Pokalsieger."
+    },
+    {
+      "claim": "DFB profile lists two league titles (2007/08, 2017/18) and one cup win (2007/08)",
+      "sourceIds": [
+        "dfb-datencenter"
+      ],
+      "verdict": "confirmed",
+      "note": "Sources disagree on titles; the article now states both."
+    },
+    {
+      "claim": "Hertha signed him from Werder Bremen in July 2012 for 250,000 euros",
+      "sourceIds": [
+        "berliner-kurier-hertha",
+        "dfb-datencenter"
+      ],
+      "verdict": "confirmed",
+      "note": "Berliner Kurier fee; DFB Hertha start 01.07.2012."
+    },
+    {
+      "claim": "Promotion season: 31 matches and five goals",
+      "sourceIds": [
+        "berliner-kurier-hertha"
+      ],
+      "verdict": "confirmed",
+      "note": "31 appearances, 5 goals in 2012/13."
+    },
+    {
+      "claim": "First top-flight season back: 25 appearances, two goals",
+      "sourceIds": [
+        "berliner-kurier-hertha"
+      ],
+      "verdict": "confirmed",
+      "note": "25 Bundesliga appearances, 2 goals in 2013/14."
+    },
+    {
+      "claim": "2014-15: 15 appearances off the bench, no goals",
+      "sourceIds": [
+        "berliner-kurier-hertha"
+      ],
+      "verdict": "confirmed",
+      "note": "15 appearances, all as substitute, 0 goals."
+    },
+    {
+      "claim": "Left Hertha in the summer of 2015",
+      "sourceIds": [
+        "dfb-datencenter",
+        "berliner-kurier-hertha"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB: Hertha until 08.08.2015; Berliner Kurier: no use for him in summer 2015."
+    },
+    {
+      "claim": "Frustration quote about coming on for ten minutes",
+      "sourceIds": [
+        "berliner-kurier-hertha"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote: In zehn Minuten Einsatzzeit komme ich einfach nicht in ein Spiel rein."
+    },
+    {
+      "claim": "Hoffenheim under Julian Nagelsmann, playing career wound down",
+      "sourceIds": [
+        "berliner-kurier-hertha"
+      ],
+      "verdict": "confirmed",
+      "note": "Berliner Kurier states the Hoffenheim and Nagelsmann link."
+    },
+    {
+      "claim": "Debut 1:1 draw in Denmark, four days before San Marino; second cap; hat-trick in 7:0 win over San Marino",
+      "sourceIds": [
+        "sport1-dfb-2017"
+      ],
+      "verdict": "confirmed",
+      "note": "Sport1 confirms the debut draw and the hat-trick; the date comes from an embedded post dated 10 June 2017."
+    },
+    {
+      "claim": "Loew praised his force and that he is not always easy to defend against",
+      "sourceIds": [
+        "sport1-dfb-2017"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote: unheimliche Wucht, nicht immer einfach zu verteidigen."
+    },
+    {
+      "claim": "Part of the 2009 U21 European Championship squad and the 2017 Confederations Cup",
+      "sourceIds": [
+        "sport1-u20-2023",
+        "dfb-datencenter"
+      ],
+      "verdict": "confirmed",
+      "note": "Sport1 confirms both; DFB lists both honours."
+    },
+    {
+      "claim": "Eight appearances for Germany and five goals",
+      "sourceIds": [
+        "berliner-kurier-hertha",
+        "dfb-datencenter"
+      ],
+      "verdict": "confirmed",
+      "note": "8 caps per DFB and Berliner Kurier; goal total from Berliner Kurier."
+    },
+    {
+      "claim": "Ended playing career in 2020 at 32; last club Tianjin Teda in the Chinese Super League",
+      "sourceIds": [
+        "t-online-karriereende"
+      ],
+      "verdict": "confirmed",
+      "note": "Age 32 and Tianjin Teda confirmed. Year 2020 from the article's August 2020 update date."
+    },
+    {
+      "claim": "Achieved all goals and dreams; more time with family in Munich; start in coaching",
+      "sourceIds": [
+        "t-online-karriereende"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote and family and coaching plans confirmed."
+    },
+    {
+      "claim": "March 2021 Unterhaching U19 coach from 1 July; first management job; perfect step; working towards UEFA A licence",
+      "sourceIds": [
+        "sport1-unterhaching-2021"
+      ],
+      "verdict": "confirmed",
+      "note": "Role, start date, quote and licence confirmed."
+    },
+    {
+      "claim": "Led Unterhaching to promotion to the 3. Liga in 2022-23 after becoming first-team head coach",
+      "sourceIds": [
+        "sport1-u20-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Promotion in the previous season (2022/23) confirmed; first-team head coach role is implied by the promotion."
+    },
+    {
+      "claim": "June 2023 co-trainer to Hannes Wolf with the U20 team, replacing Hanno Balitsch",
+      "sourceIds": [
+        "sport1-u20-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated 27.06.2023 confirms the appointment."
+    },
+    {
+      "claim": "Dream solution and perfect next step quotes",
+      "sourceIds": [
+        "sport1-u20-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes confirmed."
+    },
+    {
+      "claim": "From September 2023 assistant to Julian Nagelsmann with the national team",
+      "sourceIds": [
+        "berliner-kurier-hertha"
+      ],
+      "verdict": "confirmed",
+      "note": "Berliner Kurier: Nagelsmann brought him in as assistant starting September 2023."
+    },
+    {
+      "claim": "Augsburg signed him on 28 May 2025 on a three-year deal to 30 June 2028",
+      "sourceIds": [
+        "bundesliga-augsburg-trainer"
+      ],
+      "verdict": "confirmed",
+      "note": "Signed Wednesday 28 May; end date 30 June 2028."
+    },
+    {
+      "claim": "Dismissed in December 2025 after a poor start to the season",
+      "sourceIds": [
+        "zdf-hannover-trainer"
+      ],
+      "verdict": "confirmed",
+      "note": "ZDF: dismissed after missglueckten Saisonstart."
+    },
+    {
+      "claim": "Hannover released Titz after one win in the first five league matches",
+      "sourceIds": [
+        "zdf-hannover-trainer"
+      ],
+      "verdict": "confirmed",
+      "note": "ZDF: only one win from the first five games."
+    },
+    {
+      "claim": "Presented Monday 21 September 2026 after a 2:1 home win over VfL Bochum",
+      "sourceIds": [
+        "bundesliga-hannover-presser"
+      ],
+      "verdict": "confirmed",
+      "note": "Date and 2:1 home win confirmed."
+    },
+    {
+      "claim": "Jonas Boldt initiated the change",
+      "sourceIds": [
+        "zdf-hannover-approach"
+      ],
+      "verdict": "confirmed",
+      "note": "Boldt initiated the change and presented Wagner."
+    },
+    {
+      "claim": "Hannover have been hoping to return to the Bundesliga for eight years; club stuck in the middle of the table",
+      "sourceIds": [
+        "zdf-hannover-approach"
+      ],
+      "verdict": "confirmed",
+      "note": "Restated as the source says."
+    },
+    {
+      "claim": "Aim: developing players and giving young talent a platform",
+      "sourceIds": [
+        "zdf-hannover-approach"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote confirmed."
+    },
+    {
+      "claim": "Under Wagner, Hannover drew 1:1 with FC St. Pauli on matchday 8",
+      "sourceIds": [
+        "zdf-hannover-approach"
+      ],
+      "verdict": "confirmed",
+      "note": "Teaser confirms the 1:1 draw on matchday 8; the earlier unsupported home venue and first-matches claim were removed."
+    },
+    {
+      "claim": "FAQ: 38 as of 27 October 2026 from birth date 29 November 1987",
+      "sourceIds": [
+        "dfb-datencenter"
+      ],
+      "verdict": "confirmed",
+      "note": "Derived from the birth date; birthday not yet reached in 2026."
+    },
+    {
+      "claim": "FAQ: hired September 2026 on contract to 30 June 2028 after releasing Titz",
+      "sourceIds": [
+        "zdf-hannover-trainer",
+        "bundesliga-hannover-presser"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "FAQ: eight caps, five goals in 2017 and 2018, hat-trick in 7:0 win over San Marino",
+      "sourceIds": [
+        "berliner-kurier-hertha",
+        "sport1-dfb-2017"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "FAQ: DFB profile lists the clubs; career finished at Tianjin Teda",
+      "sourceIds": [
+        "dfb-datencenter",
+        "t-online-karriereende"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB club list confirmed; Tianjin Teda from t-online."
+    },
+    {
+      "claim": "Summary: eight caps; Unterhaching; national team assistant; Augsburg head coach",
+      "sourceIds": [
+        "berliner-kurier-hertha",
+        "sport1-unterhaching-2021",
+        "zdf-hannover-trainer",
+        "bundesliga-augsburg-trainer"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed by the sources listed."
+    },
+    {
+      "claim": "Person facts: birthDate 1987-11-29 and nationality DE",
+      "sourceIds": [
+        "dfb-datencenter"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB: 29.11.1987; Deutschland."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Dated timeline from the DFB profile with the source disagreement on titles shown, and the Hertha season-by-season record.",
+  "decision": "approve",
+  "summary": "fr text checked claim by claim against the cited sources. Unsupported youth-setup and Augsburg-season wording, the Nagelsmann chronology, the home-venue detail, the \"eight years\" Bundesliga claim and the title count (sources disagree) were corrected before recording."
+}

@@ -12,9 +12,12 @@ summary: >-
   extended his contract to July 2030. After a grade 2 right-thigh injury kept
   him out from 30 July 2026, he was named in the squad for the club's 7 October
   match at Internacional.
-status: review
+status: published
 risk: low
+reviewedAt: '2026-10-27'
+reviewBy: '2027-04-27'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Yuri Alberto Corinthians
@@ -43,15 +46,8 @@ faq:
       Tuttosport lists one senior appearance for Brazil, in 2023, without a goal
       [s:tuttosport-profile]. The Soccerway page does not cover national-team
       data [s:soccerway-br-profile].
-autoReviews: 1
-reviewNotes: >-
-  UNSUPPORTED: "Soccerway lists no senior caps or goals at all" (The Soccerway
-  page says national-team caps are not included on the page. Absence of data is
-  not a record of zero caps. Remove this claim from the body and the FAQ.) |
-  UNSUPPORTED: "FAQ: Soccerway lists no caps for Brazil" (Same as the body
-  claim. Remove.) | Reviewer recommends rejection: Reject. Every fact except the
-  Soccerway national-team claims is supported by an opened source. Fix: delete
-  the Soccerway caps claims from the body and the FAQ.
+autoReviews: 2
+publishedAt: '2026-10-27'
 ---
 Yuri Alberto's Corinthians story runs from a loan in 2022 [s:vavel-loan-2022] to a contract that now lasts until 2030 [s:lance-renewal-2025]. In 2024 he was the Brasileirão's joint top scorer [s:dgabc-trophy-2024], and in 2026 a run of thigh injuries has kept him out for long spells [s:opovo-injury-2026] [s:tribuna-injury-2026].
 
@@ -69,7 +65,7 @@ On 10 January 2023 the club confirmed a permanent deal, with his contract runnin
 
 ## Goals and the 2024 title race
 
-By 1 December 2024 Placar reported 13 Brasileirão goals for him, enough to top the scorers' table ahead of Palmeiras' Estêvão [s:placar-2024-top-scorer]. That year he scored 29 goals in all competitions [s:placar-2024-top-scorer].
+By 1 December 2024 Placar reported 13 Brasileirão goals for him, enough to top the scorers' table ahead of Palmeiras' Estêvão [s:placar-2024-top-scorer]. That year he had reached 29 goals [s:placar-2024-top-scorer].
 
 He finished the league on 15 goals, level with Alerrandro of Vitória at the top of the list [s:dgabc-trophy-2024]. At the CBF ceremony where he collected the trophy, he said he had come back from a hard period and credited his family and his faith. The article also mentions the criticism he had faced during a poor patch for Corinthians [s:dgabc-trophy-2024].
 

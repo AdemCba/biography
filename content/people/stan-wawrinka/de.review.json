@@ -1,0 +1,293 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 28 March 1985 in Lausanne, Switzerland",
+      "sourceIds": [
+        "roland-garros-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "RG profile: born 28 March 1985 in Lausanne."
+    },
+    {
+      "claim": "Three Grand Slam singles titles: AO 2014 (beat Nadal), Roland-Garros 2015 (beat Djokovic), US Open 2016 (beat Djokovic)",
+      "sourceIds": [
+        "roland-garros-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "RG profile lists the three finals and opponents."
+    },
+    {
+      "claim": "Career-high singles ranking world No. 3",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio: career-high No. 3 in 2014."
+    },
+    {
+      "claim": "Announced in January 2026 that 2026 would be his final season",
+      "sourceIds": [
+        "roland-garros-profile",
+        "tennisuptodate-lyon"
+      ],
+      "verdict": "confirmed",
+      "note": "RG profile gives January 2026; tennisuptodate confirms final season."
+    },
+    {
+      "claim": "Swiss Indoors Basel presented as farewell tournament",
+      "sourceIds": [
+        "swiss-indoors-farewell"
+      ],
+      "verdict": "confirmed",
+      "note": "Official tournament article on the farewell."
+    },
+    {
+      "claim": "Vaud-born Swiss player (Tennis.com)",
+      "sourceIds": [
+        "tennis-com-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "Tennis.com: Vaud-born; Swiss confirmed by ATP and RG."
+    },
+    {
+      "claim": "Won Roland-Garros boys' singles in 2003",
+      "sourceIds": [
+        "roland-garros-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "RG profile."
+    },
+    {
+      "claim": "Turned professional in 2002 (AO profile)",
+      "sourceIds": [
+        "ausopen-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "AO profile."
+    },
+    {
+      "claim": "RG profile text gives 2004 as professional start",
+      "sourceIds": [
+        "roland-garros-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "RG text: the year after the 2003 junior title."
+    },
+    {
+      "claim": "16 singles titles",
+      "sourceIds": [
+        "atp-bio",
+        "ausopen-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio and AO profile."
+    },
+    {
+      "claim": "Career singles record 590-394; career prize money $38,742,890",
+      "sourceIds": [
+        "roland-garros-profile",
+        "ausopen-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "RG and AO profiles."
+    },
+    {
+      "claim": "2008 Beijing men's doubles gold with Roger Federer",
+      "sourceIds": [
+        "roland-garros-profile",
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "RG profile and ATP bio."
+    },
+    {
+      "claim": "Member of Swiss Davis Cup team that won in 2014",
+      "sourceIds": [
+        "roland-garros-profile",
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "RG profile and ATP bio."
+    },
+    {
+      "claim": "Swiss flag bearer at 2012 London Olympics; Swiss of the Year 2013",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio."
+    },
+    {
+      "claim": "Magnus Norman listed as coach on RG and AO profiles",
+      "sourceIds": [
+        "roland-garros-profile",
+        "ausopen-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Both profiles."
+    },
+    {
+      "claim": "October 2022 Basel: beat Casper Ruud in two sets; Norman back at box",
+      "sourceIds": [
+        "tennisnet-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Tennisnet report."
+    },
+    {
+      "claim": "Injuries and an operation over the previous two years",
+      "sourceIds": [
+        "tennisnet-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Tennisnet report."
+    },
+    {
+      "claim": "Quote on coming back: 'Coming back wasn't easy...'",
+      "sourceIds": [
+        "tennisnet-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Tennisnet quote matches."
+    },
+    {
+      "claim": "2022 Swiss Indoors crowd support is his best memory of the event",
+      "sourceIds": [
+        "bluewin-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Bluewin quotes him."
+    },
+    {
+      "claim": "By October 2025: 70th ATP match in Switzerland, 36th at a home tournament; ranking 150th",
+      "sourceIds": [
+        "bluewin-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Bluewin."
+    },
+    {
+      "claim": "Still believed he could beat top-50 players",
+      "sourceIds": [
+        "bluewin-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Bluewin quotes him."
+    },
+    {
+      "claim": "Stressed recovery at 40 ahead of 2025 Basel; Kecmanovic win; Ruud or Halys next",
+      "sourceIds": [
+        "bluewin-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Bluewin."
+    },
+    {
+      "claim": "Third round of 2026 Australian Open; back in top 100 in February and March",
+      "sourceIds": [
+        "tennis-com-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "Tennis.com."
+    },
+    {
+      "claim": "May 2026 ticket pre-sales for farewell evening",
+      "sourceIds": [
+        "swiss-indoors-farewell"
+      ],
+      "verdict": "confirmed",
+      "note": "Official article dated 4 May 2026."
+    },
+    {
+      "claim": "Farewell quote 'An emotional evening full of memories, surprises and magical moments'",
+      "sourceIds": [
+        "swiss-indoors-farewell"
+      ],
+      "verdict": "confirmed",
+      "note": "Official article."
+    },
+    {
+      "claim": "Farewell on Super Monday, 26 October 2026, 6 p.m.",
+      "sourceIds": [
+        "swiss-indoors-farewell"
+      ],
+      "verdict": "confirmed",
+      "note": "Official article: 6:00 pm."
+    },
+    {
+      "claim": "Tennis.com: honoured at Roland-Garros",
+      "sourceIds": [
+        "tennis-com-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "Tennis.com: recognized after last French Open match."
+    },
+    {
+      "claim": "Swiss Indoors 2026: 24 October to 1 November; ATP 500; 55th edition",
+      "sourceIds": [
+        "swiss-indoors-farewell"
+      ],
+      "verdict": "confirmed",
+      "note": "Official article."
+    },
+    {
+      "claim": "22 October 2026 Lyon: second round loss to Flavio Cobolli, 6-2 6-4",
+      "sourceIds": [
+        "tennisuptodate-lyon"
+      ],
+      "verdict": "confirmed",
+      "note": "Tennisuptodate."
+    },
+    {
+      "claim": "Lyon was penultimate tournament; Basel is final",
+      "sourceIds": [
+        "tennisuptodate-lyon"
+      ],
+      "verdict": "confirmed",
+      "note": "Tennisuptodate."
+    },
+    {
+      "claim": "Geneva farewell exhibition on 19 December",
+      "sourceIds": [
+        "tennisuptodate-lyon"
+      ],
+      "verdict": "confirmed",
+      "note": "Tennisuptodate."
+    },
+    {
+      "claim": "Age 41 as of 27 October 2026",
+      "sourceIds": [
+        "roland-garros-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic from confirmed birth date."
+    },
+    {
+      "claim": "Three doubles titles cited to the AO and RG profiles",
+      "sourceIds": [
+        "ausopen-profile",
+        "roland-garros-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "AO and RG profiles both state 3 doubles titles."
+    },
+    {
+      "claim": "Quote 'Basel marks the end of the line ... three-time Grand Slam winner ... goodbye to the game', cited to swiss-indoors-farewell",
+      "sourceIds": [
+        "swiss-indoors-farewell"
+      ],
+      "verdict": "confirmed",
+      "note": "Official article states this wording."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Shows the conflicting official turned-pro years rather than picking one. Gives exact Basel farewell timing and the Lyon result.",
+  "decision": "approve",
+  "summary": "All cited claims check against the sources after the fixes."
+}

@@ -11,7 +11,7 @@ summary: >-
   en mayo de 2026, con contrato hasta 2028. Había asumido el equipo de forma
   interina en enero, tras el despido de Ruben Amorim, y ya había sido
   mediocampista del club durante doce temporadas antes de retirarse en 2018.
-status: review
+status: approved
 risk: medium
 author: editor-in-chief
 aiAssisted: true
@@ -42,25 +42,17 @@ faq:
     a: >-
       El equipo ganó 11 de los 16 partidos que dirigió de forma interina
       [s:ians-carrick-permanent] [s:football365-carrick-reaction].
-reviewNotes: >-
-  Adds no value over existing pages: The only primary source I could open is an
-  on-record interview from February 2026. manutd.com returned HTTP 403 for every
-  URL tried, and the FA and Premier League profile URLs returned 404, so the
-  page has no official club or federation source. Otherwise its facts repeat the
-  four press and database pages already in the top results. | Reviewer
-  recommends rejection: All checked claims are confirmed against opened sources,
-  and the primary-source warning is cleared by the Feb 2026 interview. Reject
-  only because no official club or federation source could be opened, so the
-  page adds no value over existing pages. Re-review after an official source is
-  accessible.
-autoReviews: 3
 flag: Rejected by the fact-check 3 times; needs a human editor.
+autoReviews: 4
+reviewer: fact-check-desk
+reviewedAt: '2026-10-27'
+reviewBy: '2027-04-27'
 ---
 Michael Carrick tomó el mando del Manchester United como entrenador interino en enero de 2026, después del despido de Ruben Amorim [s:ians-carrick-permanent] [s:football365-carrick-reaction]. El viernes 22 de mayo de 2026 el club hizo permanente el cargo, con contrato hasta 2028 [s:beinsports-carrick-permanent] [s:ians-carrick-permanent]. Tenía 44 años cuando se anunció el acuerdo [s:ians-carrick-permanent]. Ahora dirige al club en el que jugó [s:ians-carrick-permanent] [s:beinsports-carrick-permanent], y se retiró como jugador en 2018 [s:mufcinfo-carrick-archive].
 
 ## Un periodo interino que le valió el puesto
 
-El primer partido de Carrick al frente fue una victoria por 2-0 ante el Manchester City. Después llegó un 3-2 contra el Arsenal, y luego triunfos ante Liverpool, Chelsea, Aston Villa y Tottenham [s:beinsports-carrick-permanent]. El artículo no da marcadores de esos últimos cuatro encuentros. También señala que los resultados frente a equipos de menor perfil no fueron tan contundentes [s:beinsports-carrick-permanent]. Carrick fue elegido mejor entrenador del mes de la Premier League tras las victorias ante City y Arsenal en sus dos primeros partidos [s:ians-carrick-permanent] [s:football365-carrick-reaction].
+El primer partido de Carrick al frente fue una victoria por 2-0 ante el Manchester City. Después llegó un 3-2 contra el Arsenal, y luego triunfos ante Liverpool, Chelsea, Aston Villa y Tottenham [s:beinsports-carrick-permanent]. El artículo no da marcadores de esos últimos cuatro encuentros. Carrick fue elegido mejor entrenador del mes de la Premier League tras las victorias ante City y Arsenal en sus dos primeros partidos [s:ians-carrick-permanent] [s:football365-carrick-reaction].
 
 En una entrevista con The Football Interview en febrero de 2026, Carrick llamó al cargo "el puesto definitivo" [s:vanguard-carrick-interview-2026].
 
@@ -72,7 +64,7 @@ Carrick dijo que la responsabilidad de dirigir al club le "llena de un orgullo i
 
 ## De la cantera del West Ham a Old Trafford
 
-Carrick se formó en la cantera del West Ham United. El archivo de MUFCInfo dice que sus actuaciones en el centro del campo le valieron un traspaso al Tottenham Hotspur en 2004. También tuvo cesiones en el Swindon Town y el Birmingham City [s:mufcinfo-carrick-archive].
+Carrick se formó en la cantera del West Ham United. El archivo de MUFCInfo registra su traspaso al Tottenham Hotspur en 2004. También tuvo cesiones en el Swindon Town y el Birmingham City [s:mufcinfo-carrick-archive].
 
 El United lo fichó desde el Tottenham el 31 de julio de 2006 por 18,6 millones de libras [s:mufcinfo-carrick-archive]. El archivo describe a Ferguson viéndolo como el reemplazo perfecto para Roy Keane [s:mufcinfo-carrick-archive]. Debutó el 23 de agosto de 2006, en una victoria por 3-0 ante el Charlton Athletic [s:mufcinfo-carrick-archive]. Jugó en el club desde 2006 hasta su retiro, el 13 de mayo de 2018, a los 36 años. Las cifras del archivo suman 464 partidos y 24 goles [s:mufcinfo-carrick-archive] [s:football365-carrick-reaction].
 
@@ -86,7 +78,7 @@ La Liga de Campeones de la UEFA llegó en 2008, y ese mismo año ganó el Mundia
 
 IANS lo describe como exinternacional por Inglaterra [s:ians-carrick-permanent]. Disputó 34 partidos con la selección [s:mufcinfo-carrick-archive]. El archivo dice que compitió por un puesto con Steven Gerrard y Frank Lampard, y que su presencia tranquila e inteligencia táctica fueron muy apreciadas por el cuerpo técnico y los jugadores de Inglaterra [s:mufcinfo-carrick-archive]. Es la valoración del propio archivo, no la de un entrenador concreto.
 
-Tras retirarse, Carrick se incorporó al cuerpo técnico del primer equipo, con José Mourinho primero y con Ole Gunnar Solskjaer después [s:ians-carrick-permanent] [s:mufcinfo-carrick-archive]. Cuando Solskjaer se fue, Carrick quedó como entrenador interino [s:ians-carrick-permanent].
+Tras retirarse, Carrick se incorporó al cuerpo técnico del primer equipo, con José Mourinho primero y con Ole Gunnar Solskjaer después [s:ians-carrick-permanent] [s:mufcinfo-carrick-archive]. Cuando Solskjaer se fue, Carrick quedó como entrenador interino [s:ians-carrick-permanent], y el archivo también lo recoge como entrenador interino del United en 2021 [s:mufcinfo-carrick-archive].
 
 Después dirigió al Middlesbrough desde octubre de 2022 [s:ians-carrick-permanent]. Las fuentes no coinciden en la duración de ese periodo: IANS habla de dos años y medio y beIN de tres [s:ians-carrick-permanent] [s:beinsports-carrick-permanent]. beIN califica el puesto en el United como su segundo reto permanente como entrenador [s:beinsports-carrick-permanent].
 

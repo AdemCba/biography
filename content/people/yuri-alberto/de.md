@@ -13,9 +13,12 @@ summary: >-
   des Grades 2 am rechten Oberschenkel stand er seit dem 30. Juli 2026 nicht
   mehr auf dem Platz, und am 6. Oktober wurde er für das Spiel gegen
   Internacional am 7. Oktober in den Kader berufen.
-status: review
+status: published
 risk: low
+reviewedAt: '2026-10-27'
+reviewBy: '2027-04-27'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Yuri Alberto Corinthians
@@ -43,13 +46,8 @@ faq:
       Tuttosport verzeichnet einen Einsatz im Jahr 2023 ohne Tor
       [s:tuttosport-profile]. Die Soccerway-Seite enthält keine Länderspieldaten
       [s:soccerway-br-profile].
-autoReviews: 1
-reviewNotes: >-
-  UNSUPPORTED: "Soccerway nennt keinen einzigen Länderspieleinsatz" (The
-  Soccerway page states national-team data is not included. Remove here and in
-  the FAQ.) | Reviewer recommends rejection: Reject. All facts are confirmed
-  except the Soccerway national-team claims. Fix: delete the Soccerway caps
-  sentence and the FAQ sentence.
+autoReviews: 2
+publishedAt: '2026-10-27'
 ---
 Für viele Leser zählt zuerst der Vertrag. Corinthians hat den Stürmer im Juli 2025 bis Juli 2030 gebunden [s:dgabc-renewal-2025] [s:lance-renewal-2025].
 
@@ -61,7 +59,7 @@ Trivela nennt zwei Gründe für die Verlängerung: Kein ausländischer Klub mach
 
 ## Torjäger 2024
 
-Am 1. Dezember 2024 meldete Placar 13 Tore in der Brasileirão, der brasilianischen Meisterschaft. Damit führte Yuri Alberto die Torjägerliste vor Estêvão von Palmeiras an [s:placar-2024-top-scorer]. In diesem Jahr hatte er insgesamt 29 Tore erzielt [s:placar-2024-top-scorer].
+Am 1. Dezember 2024 meldete Placar 13 Tore in der Brasileirão, der brasilianischen Meisterschaft. Damit führte Yuri Alberto die Torjägerliste vor Estêvão von Palmeiras an [s:placar-2024-top-scorer]. In diesem Jahr hatte er bereits 29 Tore erreicht [s:placar-2024-top-scorer].
 
 Am Saisonende stand er bei 15 Toren und teilte sich den Spitzenplatz mit Alerrandro von Vitória [s:dgabc-trophy-2024]. Bei der Ehrung in der Zentrale des brasilianischen Verbands CBF in Rio de Janeiro sagte er, er habe eine schwierige Phase überwunden, und dankte seiner Familie und seinem Glauben. Der Bericht erinnert an die Kritik, der er in einer schwachen Phase von Corinthians ausgesetzt war [s:dgabc-trophy-2024].
 

@@ -1,0 +1,93 @@
+---
+title: Stan Wawrinka
+slug: stan-wawrinka
+metaTitle: 'Stan Wawrinka : âge, Grand Chelems et adieu à Bâle'
+metaDescription: >-
+  Date et lieu de naissance de Stan Wawrinka, ses trois titres du Grand Chelem,
+  son pic au 3e rang mondial et sa dernière saison, avec l'adieu à Bâle.
+knownFor: 'Joueur de tennis suisse, triple vainqueur de Grand Chelem en simple'
+summary: >-
+  Stan Wawrinka est le joueur de tennis suisse qui a remporté trois titres du
+  Grand Chelem en simple : l'Open d'Australie 2014, Roland-Garros 2015 et l'US
+  Open 2016. Il a été classé 3e mondial et son dernier tournoi est le Swiss
+  Indoors de Bâle, où une soirée d'adieu était prévue le 26 octobre 2026.
+status: published
+risk: low
+reviewedAt: '2026-10-27'
+reviewBy: '2027-04-27'
+author: editor-in-chief
+reviewer: fact-check-desk
+aiAssisted: true
+targetQueries:
+  - stan wawrinka retraite
+  - stan wawrinka bâle 2026
+  - stan wawrinka dernier tournoi
+  - stan wawrinka grand chelem
+  - stan wawrinka nationalité
+  - stan wawrinka âge
+  - stan wawrinka meilleur classement
+  - stan wawrinka entraîneur magnus norman
+faq:
+  - q: Quel âge a Stan Wawrinka ?
+    a: >-
+      Il est né le 28 mars 1985, il a donc 41 ans au 27 octobre 2026
+      [s:roland-garros-profile].
+  - q: Stan Wawrinka prend-il sa retraite ?
+    a: >-
+      Oui. Il a annoncé en janvier 2026 que ce serait sa dernière saison, et
+      Bâle est son dernier tournoi [s:roland-garros-profile]
+      [s:tennisuptodate-lyon].
+  - q: Combien de titres du Grand Chelem Stan Wawrinka a-t-il remportés ?
+    a: >-
+      Trois titres en simple : l'Open d'Australie 2014, Roland-Garros 2015 et
+      l'US Open 2016 [s:roland-garros-profile].
+  - q: Qui est l'entraîneur de Stan Wawrinka ?
+    a: >-
+      Magnus Norman, comme l'indiquent les profils officiels de Roland-Garros et
+      de l'Open d'Australie [s:roland-garros-profile] [s:ausopen-profile].
+autoReviews: 2
+publishedAt: '2026-10-27'
+---
+Stan Wawrinka a remporté trois titres du Grand Chelem en simple et termine sa carrière à Bâle. Il s'est imposé à l'Open d'Australie en 2014, à Roland-Garros en 2015 et à l'US Open en 2016 [s:roland-garros-profile]. Son meilleur classement a été le 3e rang mondial [s:atp-bio]. En janvier 2026, il a annoncé que ce serait sa dernière saison [s:roland-garros-profile]. Le Swiss Indoors de Bâle a été présenté comme son adieu au circuit [s:swiss-indoors-farewell].
+
+## Enfance à Lausanne
+
+Wawrinka est né le 28 mars 1985 à Lausanne, en Suisse [s:roland-garros-profile]. Tennis.com le décrit comme un Suisse originaire du canton de Vaud [s:tennis-com-retirement]. Junior, il a remporté le simple garçons de Roland-Garros en 2003 [s:roland-garros-profile], sur la même terre battue où il gagnerait plus tard en tant que professionnel.
+
+Les profils officiels ne s'accordent pas sur le début de sa carrière professionnelle. Celui de l'Open d'Australie indique 2002 comme année de passage professionnel [s:ausopen-profile]. Celui de Roland-Garros, dans son texte, donne 2004, un an après le titre junior [s:roland-garros-profile]. Cette page ne retient aucune des deux dates.
+
+## Trois titres du Grand Chelem
+
+En 2014, Wawrinka a battu Rafael Nadal en finale de l'Open d'Australie [s:roland-garros-profile]. L'année suivante, il a remporté Roland-Garros en battant Novak Djokovic en finale [s:roland-garros-profile]. En 2016, il a de nouveau battu Djokovic, cette fois en finale de l'US Open [s:roland-garros-profile].
+
+Au cours de sa carrière, l'ATP recense 16 titres en simple [s:atp-bio]. Les profils de l'Open d'Australie et de Roland-Garros donnent 16 titres en simple et trois en double [s:ausopen-profile] [s:roland-garros-profile].
+
+## Jeux olympiques et distinctions nationales
+
+Aux Jeux de Pékin 2008, il a remporté la médaille d'or en double messieurs aux côtés de Roger Federer [s:roland-garros-profile]. L'équipe suisse qui a gagné la Coupe Davis en 2014 comptait dans ses rangs [s:roland-garros-profile]. Selon le profil ATP, il a été porte-drapeau de la Suisse aux Jeux de Londres 2012 et élu Suisse de l'année en 2013 [s:atp-bio].
+
+## Blessures, retour et Magnus Norman
+
+Magnus Norman est indiqué comme entraîneur sur les profils de Roland-Garros et de l'Open d'Australie [s:roland-garros-profile] [s:ausopen-profile]. En octobre 2022, à Bâle, Wawrinka a battu Casper Ruud en deux sets. Le compte rendu de cette semaine indiquait que Norman était revenu sur son banc après une longue absence et qu'il continuerait à travailler avec lui, notamment à l'Open d'Australie [s:tennisnet-2022].
+
+Le même article rappelait des blessures et une opération au cours des deux années précédentes [s:tennisnet-2022]. Il a déclaré : « Revenir n'a pas été facile, j'avais du mal à retrouver la forme physique et le jeu » [s:tennisnet-2022].
+
+## Bâle, une scène familière
+
+Wawrinka a décrit le soutien du public du Swiss Indoors 2022 comme le meilleur souvenir qu'il garde du tournoi [s:bluewin-2025]. En octobre 2025, il avait disputé son 70e match en tournoi ATP en Suisse, le 36e dans un tournoi à domicile [s:bluewin-2025]. Le même article indiquait qu'il était alors classé 150e. Il estimait pouvoir encore battre des joueurs du top 50, sans que chaque jour lui réussisse [s:bluewin-2025].
+
+## Dernière saison et adieu à Bâle
+
+En mai 2026, le Swiss Indoors de Bâle a ouvert la pré-vente des billets pour une soirée d'adieu [s:swiss-indoors-farewell]. L'annonce du tournoi disait : « Bâle marque la fin de la ligne pour le triple vainqueur du Grand Chelem Stan Wawrinka, qui fait ses adieux au jeu » [s:swiss-indoors-farewell]. Le tournoi a décrit la soirée comme « une soirée émouvante, pleine de souvenirs, de surprises et de moments magiques » [s:swiss-indoors-farewell].
+
+La soirée d'adieu était prévue pour le Super Monday, lundi 26 octobre 2026, à 18 heures. Le Swiss Indoors se joue du 24 octobre au 1er novembre 2026, en tant que tournoi ATP 500, pour sa 55e édition [s:swiss-indoors-farewell].
+
+## Jouer après 40 ans
+
+Avant l'édition 2025 à Bâle, il avait souligné l'importance de la récupération à 40 ans [s:bluewin-2025]. Il avait ouvert ce tournoi par une victoire en deux sets contre Miomir Kecmanovic, avant d'affronter Casper Ruud ou Quentin Halys en huitièmes de finale [s:bluewin-2025]. Tennis.com a rapporté ensuite qu'il avait atteint le troisième tour de l'Open d'Australie 2026 et qu'il était revenu dans le top 100 en février et en mars [s:tennis-com-retirement]. Il avait 40 ans [s:bluewin-2025].
+
+## Un dernier tournoi avant la fin
+
+Le 22 octobre 2026, il a perdu au deuxième tour à Lyon face au tête de série n° 1, Flavio Cobolli, 6-2, 6-4 [s:tennisuptodate-lyon]. Ce match était son avant-dernier tournoi, ce qui fait de Bâle son dernier rendez-vous [s:tennisuptodate-lyon]. Une exhibition d'adieu à Genève le 19 décembre a également été annoncée [s:tennisuptodate-lyon].
+
+Le résultat de ses matches à Bâle et de la soirée d'hommage ne figurait pas dans les sources utilisées pour cette page, qui ne les décrit donc pas.

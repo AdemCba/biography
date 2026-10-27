@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Two ATP titles: Adelaide January 2024 and Brisbane January 2025",
+      "sourceIds": [
+        "atp-adelaide-2024-final",
+        "atp-brisbane-2025-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Reports dated January 13, 2024 and January 5, 2025."
+    },
+    {
+      "claim": "Career high No. 12 in May 2026, after first Masters 1000 final in Miami (March 2026)",
+      "sourceIds": [
+        "atp-bio",
+        "atp-miami-2026-sf"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio confirms No. 12 in May 2026; Miami report dated March 27, 2026."
+    },
+    {
+      "claim": "Born in Mladá Boleslav, Czech Republic",
+      "sourceIds": [
+        "cns-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "ČTK: 'Jednadvacetiletý rodák z Mladé Boleslavi'."
+    },
+    {
+      "claim": "Czech tennis player (nationality)",
+      "sourceIds": [
+        "atp-wikidata-bio",
+        "cns-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "ČTK caption 'Český tenista Jiří Lehečka'; ATP page refers to Czech men."
+    },
+    {
+      "claim": "Mother and grandfather; left home at 15 for Prostějov; 2019 Wimbledon boys' doubles with Forejtek",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio states each point."
+    },
+    {
+      "claim": "Former world No. 10 junior",
+      "sourceIds": [
+        "atp-wikidata-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP page: 'Former World No. 10 junior'."
+    },
+    {
+      "claim": "Adelaide 2024: seventh seed, beat Jack Draper 4-6, 6-4, 6-3 in 2h08, maiden title, set to No. 23",
+      "sourceIds": [
+        "atp-adelaide-2024-final"
+      ],
+      "verdict": "confirmed",
+      "note": "All confirmed by the report."
+    },
+    {
+      "claim": "Brisbane 2025: led Opelka 4-1 when he retired with back injury; rose four places to No. 24; Opelka quote",
+      "sourceIds": [
+        "atp-brisbane-2025-final"
+      ],
+      "verdict": "confirmed",
+      "note": "All confirmed by the report."
+    },
+    {
+      "claim": "2023 Australian Open: beat sixth seed Auger-Aliassime 4-6, 6-3, 7-6(2), 7-6(3) in round of 16",
+      "sourceIds": [
+        "tennismajors-ao-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Score, round and seeding confirmed."
+    },
+    {
+      "claim": "US Open 2025: beat Mannarino 7-6(4), 6-4, 2-6, 6-2 in 3h14, first US Open quarter-final (31 August 2025)",
+      "sourceIds": [
+        "tennismajors-usopen-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Score, duration, first quarter-final and date confirmed."
+    },
+    {
+      "claim": "Top 20 in September 2025; No. 24 after Brisbane; No. 14 in Miami March 2026",
+      "sourceIds": [
+        "atp-bio",
+        "atp-brisbane-2025-final",
+        "atp-miami-2026-sf"
+      ],
+      "verdict": "confirmed",
+      "note": "Each figure matches the sources."
+    },
+    {
+      "claim": "Miami 2026: 21st seed; beat Arthur Fils 6-2, 6-2 in 75 minutes; first Masters 1000 final; title would take him to No. 12",
+      "sourceIds": [
+        "atp-miami-2026-sf"
+      ],
+      "verdict": "confirmed",
+      "note": "All details confirmed."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline from primary ATP reports and the ČTK nationality source; it says what the ATP bio does not give.",
+  "decision": "approve",
+  "summary": "All cited claims match their sources after the unsupported round and finals claims were removed."
+}

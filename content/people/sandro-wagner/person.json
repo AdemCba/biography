@@ -1,0 +1,120 @@
+{
+  "id": "sandro-wagner",
+  "name": "Sandro Wagner",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 3,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1987-11-29",
+      "sources": [
+        "dfb-datencenter"
+      ],
+      "note": "DFB profile lists 29.11.1987."
+    },
+    "nationality": {
+      "value": [
+        "DE"
+      ],
+      "sources": [
+        "dfb-datencenter"
+      ],
+      "note": "DFB profile lists nationality Deutschland."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "dfb-datencenter",
+      "url": "https://datencenter.dfb.de/datencenter/personen/sandro-wagner/spieler",
+      "title": "Sandro Wagner - Spielerprofil",
+      "publisher": "DFB Datencenter",
+      "type": "league-or-federation",
+      "accessed": "2026-10-27",
+      "lang": "de"
+    },
+    {
+      "id": "bundesliga-hannover-presser",
+      "url": "https://www.bundesliga.com/de/2bundesliga/news/hannover-96-sandro-wagner-neuer-trainer-pressekonferenz-vorstellung-39306",
+      "title": "Hannover 96: Sandro Wagner stellt sich als neuer Trainer vor",
+      "publisher": "bundesliga.com",
+      "type": "league-or-federation",
+      "accessed": "2026-10-27",
+      "lang": "de"
+    },
+    {
+      "id": "zdf-hannover-trainer",
+      "url": "https://www.zdfheute.de/sport/fussball-bundesliga/fussball-zweite-bundesliga-sandro-wagner-trainer-hannover-100.html",
+      "title": "2. Bundesliga: Sandro Wagner wird neuer Trainer in Hannover",
+      "publisher": "ZDF heute",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "de"
+    },
+    {
+      "id": "bundesliga-augsburg-trainer",
+      "url": "https://www.bundesliga.com/de/bundesliga/news/fc-augsburg-sandro-wagner-neuer-trainer-32352",
+      "title": "FC Augsburg: Sandro Wagner neuer Trainer",
+      "publisher": "bundesliga.com",
+      "type": "league-or-federation",
+      "accessed": "2026-10-27",
+      "lang": "de"
+    },
+    {
+      "id": "sport1-unterhaching-2021",
+      "url": "https://www.sport1.de/fussball/2021/03/sandro-wagner-erklaert-seine-erste-trainer-karriere-in-unterhaching",
+      "title": "Sandro Wagner erklaert seine erste Trainer-Karriere in Unterhaching",
+      "publisher": "SPORT1",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "de"
+    },
+    {
+      "id": "sport1-u20-2023",
+      "url": "https://www.sport1.de/news/fussball/dfb-team/2023/06/sandro-wagners-zukunft-geklart-neuer-trainer-job",
+      "title": "Sandro Wagners Zukunft geklaert: neuer Trainer-Job",
+      "publisher": "SPORT1",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "de"
+    },
+    {
+      "id": "t-online-karriereende",
+      "url": "https://www.t-online.de/sport/fussball/bundesliga/id_88329982/im-alter-von-32-jahren-sandro-wagner-beendet-seine-karriere.html",
+      "title": "Im Alter von 32 Jahren: Sandro Wagner beendet seine Karriere",
+      "publisher": "t-online",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "de"
+    },
+    {
+      "id": "berliner-kurier-hertha",
+      "url": "https://www.berliner-kurier.de/hertha/sandro-wagner-legte-nach-hertha-bsc-die-steilste-karriere-hin-li.2224324",
+      "title": "So viel EM steckt in Hertha: Sandro Wagner legte nach Hertha BSC die steilste Karriere hin",
+      "publisher": "Berliner Kurier",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "de"
+    },
+    {
+      "id": "sport1-dfb-2017",
+      "url": "https://www.sport1.de/news/fussball/dfb-team/2017/06/dfb-team-sandro-wagner-empfiehlt-sich-vor-confed-cup-bei-loew",
+      "title": "DFB-Team: Sandro Wagner empfiehlt sich vor Confed Cup bei Loew",
+      "publisher": "SPORT1",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "de"
+    },
+    {
+      "id": "zdf-hannover-approach",
+      "url": "https://www.zdfheute.de/sport/fussball-zweite-liga-hannover-trainer-sandro-wagner-100.html",
+      "title": "Sandro Wagner bei Hannover 96: Ganz normal, aber anders",
+      "publisher": "ZDF heute",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "de"
+    }
+  ]
+}

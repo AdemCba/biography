@@ -13,9 +13,12 @@ summary: >-
   derecho lo mantuvo sin jugar desde el 30 de julio de 2026, y el 6 de octubre
   fue incluido en la lista para el partido del 7 de octubre ante el
   Internacional.
-status: review
+status: published
 risk: low
+reviewedAt: '2026-10-27'
+reviewBy: '2027-04-27'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Yuri Alberto Corinthians
@@ -44,13 +47,8 @@ faq:
       Tuttosport registra una presencia con la absoluta, en 2023, sin goles
       [s:tuttosport-profile]. La página de Soccerway no recoge datos de
       selección [s:soccerway-br-profile].
-autoReviews: 1
-reviewNotes: >-
-  UNSUPPORTED: "Soccerway no registra ninguna presencia con la absoluta" (The
-  Soccerway page says national-team caps are not included. This is not a record
-  of zero caps. Remove here and in the FAQ.) | Reviewer recommends rejection:
-  Reject. Every factual claim is supported except the two Soccerway statements
-  about senior caps (body and FAQ). Fix: remove them.
+autoReviews: 2
+publishedAt: '2026-10-27'
 ---
 Si buscas el estado actual de Yuri Alberto, la noticia es esta: no había jugado desde el 30 de julio de 2026 por una lesión de grado 2 en el muslo derecho [s:tribuna-injury-2026]. El 6 de octubre el Corinthians lo incluyó en la lista de 24 jugadores para el partido contra el Internacional del 7 de octubre [s:tribuna-squad-2026]. Su temporada 2026 ha estado marcada por las lesiones, así que conviene verla en orden.
 
@@ -84,7 +82,7 @@ Trivela explicó la renovación con dos motivos: ningún club extranjero hizo un
 
 ## Goleador en 2024
 
-Según Placar, el 1 de diciembre de 2024 llevaba 13 goles en el Brasileirão y encabezaba la tabla de goleadores, por delante de Estêvão, del Palmeiras [s:placar-2024-top-scorer]. Ese año ya sumaba 29 goles en todas las competiciones [s:placar-2024-top-scorer].
+Según Placar, el 1 de diciembre de 2024 llevaba 13 goles en el Brasileirão y encabezaba la tabla de goleadores, por delante de Estêvão, del Palmeiras [s:placar-2024-top-scorer]. Ese año ya sumaba 29 goles [s:placar-2024-top-scorer].
 
 Al final de la liga tenía 15 goles, empatado con Alerrandro, del Vitória, en lo más alto de la tabla [s:dgabc-trophy-2024]. Al recibir el trofeo en la sede de la CBF, en Río de Janeiro, dijo «Pude dar a volta por cima», es decir, que había salido adelante. Atribuyó su recuperación a su familia y a su fe, y el artículo recuerda que había recibido críticas en una mala racha del Corinthians [s:dgabc-trophy-2024].
 

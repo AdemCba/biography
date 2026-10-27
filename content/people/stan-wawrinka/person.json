@@ -1,0 +1,112 @@
+{
+  "id": "stan-wawrinka",
+  "name": "Stan Wawrinka",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1985-03-28",
+      "sources": [
+        "roland-garros-profile"
+      ],
+      "note": "Roland-Garros player page. Not stated on the ATP bio or Australian Open profile opened."
+    },
+    "birthPlace": {
+      "value": "Lausanne, Switzerland",
+      "sources": [
+        "roland-garros-profile"
+      ],
+      "note": "Roland-Garros player page."
+    },
+    "nationality": {
+      "value": [
+        "CH"
+      ],
+      "sources": [
+        "tennis-com-retirement",
+        "atp-bio",
+        "roland-garros-profile",
+        "ausopen-profile"
+      ],
+      "note": "Tennis.com states he is Swiss. The ATP bio says he was Swiss flag carrier at the 2012 London Olympics. No birth date or birthplace town was stated in the sources opened."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "atp-bio",
+      "url": "https://www.atptour.com/en/players/stan-wawrinka/w367/bio",
+      "title": "Stan Wawrinka player bio",
+      "publisher": "ATP Tour",
+      "type": "league-or-federation",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "swiss-indoors-farewell",
+      "url": "https://www.swissindoorsbasel.ch/en/tournament/tournament-news/articles/2026-05-04_Ticket-pre-sale-Stan-Wawrinka-bids-farewell-to-tennis-in-Basel.php",
+      "title": "Ticket pre-sale: Stan Wawrinka bids farewell to tennis in Basel",
+      "publisher": "Swiss Indoors Basel",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "tennis-com-retirement",
+      "url": "https://www.tennis.com/news/articles/basel-end-line-retiring-stan-wawrinka-back-pain-rome-qualifying",
+      "title": "Basel marks end of the line for retiring Stan Wawrinka",
+      "publisher": "Tennis.com",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "tennisuptodate-lyon",
+      "url": "https://tennisuptodate.com/atp/stan-wawrinkas-retirement-is-now-one-tournament-away-after-lyon-exit",
+      "title": "Stan Wawrinka's retirement is now one tournament away after Lyon exit",
+      "publisher": "Tennis Up To Date",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "roland-garros-profile",
+      "url": "https://www.rolandgarros.com/en-us/players/7815-s.wawrinka",
+      "title": "Stan Wawrinka player profile",
+      "publisher": "Roland-Garros (FFT)",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "ausopen-profile",
+      "url": "https://ausopen.com/node/5983",
+      "title": "Stan Wawrinka player profile",
+      "publisher": "Australian Open",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "tennisnet-2022",
+      "url": "https://www.tennisnet.com/en/news/atp-basel-stan-wawrinka-back-to-old-coach-and-old-strength",
+      "title": "ATP Basel: Stan Wawrinka back to old coach and old strength",
+      "publisher": "Tennisnet",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "bluewin-2025",
+      "url": "https://www.bluewin.ch/en/sport/wawrinka-loves-playing-in-front-of-a-swiss-audience-2928651.html",
+      "title": "STANding ovations in Basel: Wawrinka loves playing in front of a Swiss audience",
+      "publisher": "blue News (Keystone-SDA)",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    }
+  ]
+}

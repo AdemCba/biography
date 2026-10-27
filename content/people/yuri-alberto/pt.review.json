@@ -1,264 +1,274 @@
 {
   "date": "2026-10-27",
   "model": "claude-haiku-5-5",
-  "approved": false,
-  "reasons": [
-    "UNSUPPORTED: \"O Soccerway não registra nenhuma partida pela seleção principal\" (Soccerway page states national-team data is not included. Remove. The 'bases divergem' sentence depends on it.)",
-    "Reviewer recommends rejection: Reject on facts: the Soccerway claim about national-team appearances is unsupported (the page does not include national-team data) and must be removed, along with the sentence that depends on it."
-  ],
+  "approved": true,
+  "reasons": [],
   "claims": [
     {
-      "claim": "Nascido em 18 de março de 2001, em São José dos Campos",
+      "claim": "Born 18 March 2001 in São José dos Campos, Brazil",
       "sourceIds": [
         "tuttosport-profile",
         "corriere-sport-profile"
       ],
       "verdict": "confirmed",
-      "note": "Both profiles."
+      "note": "Both profiles show São José dos Campos, 18/03/2001."
     },
     {
-      "claim": "Posição: atacante",
+      "claim": "Nationality Brazil",
       "sourceIds": [
         "tuttosport-profile",
         "corriere-sport-profile"
       ],
       "verdict": "confirmed",
-      "note": "Both profiles."
+      "note": "Both show Brasile."
     },
     {
-      "claim": "Revelado pela base do Santos; estreia profissional em 2017",
+      "claim": "Attacker / attaccante position",
+      "sourceIds": [
+        "tuttosport-profile",
+        "corriere-sport-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Both show Attaccante."
+    },
+    {
+      "claim": "Came through Santos youth ranks; professional debut 2017",
       "sourceIds": [
         "umdoisesportes-trajetoria"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed."
+      "note": "Revelado pela base do Santos; debut 2017."
     },
     {
-      "claim": "Internacional contratou em 2020; 11 gols em 29 jogos naquele ano e 19 em 2021",
-      "sourceIds": [
-        "umdoisesportes-trajetoria"
-      ],
-      "verdict": "confirmed",
-      "note": "Confirmed."
-    },
-    {
-      "claim": "Santos liberou para o Internacional em 1º de julho de 2020, sem taxa",
+      "claim": "Santos released him to Internacional 1 July 2020 without a fee",
       "sourceIds": [
         "soccerway-br-profile"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed."
+      "note": "Row 01.07.2020 Santos to Internacional, Sem custos."
     },
     {
-      "claim": "Depois foi para o Zenit, da Rússia",
+      "claim": "11 goals in 29 games for Internacional in 2020; 19 goals in 2021",
       "sourceIds": [
         "umdoisesportes-trajetoria"
       ],
       "verdict": "confirmed",
-      "note": "Zenit described as his next club."
+      "note": "2020: 29 games, 11 goals; 2021: 19 goals."
     },
     {
-      "claim": "Venda do Internacional ao Zenit em janeiro de 2022 por 25 milhões de euros, segundo o Soccerway",
+      "claim": "Internacional sold him to Zenit in January 2022 for EUR 25.0m (Soccerway)",
       "sourceIds": [
         "soccerway-br-profile"
       ],
       "verdict": "confirmed",
-      "note": "EUR 25.0m."
+      "note": "Row 30.01.2022 Internacional to Zenit, EUR 25.0m."
     },
     {
-      "claim": "Corinthians anunciou empréstimo do Zenit em 29 de junho de 2022, com vínculo até 2023",
+      "claim": "Corinthians loan announced 29 June 2022, contract to 2023",
       "sourceIds": [
         "vavel-loan-2022"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed."
+      "note": "Announced Wednesday 29; contrato ate 2023; loan from Zenit."
     },
     {
-      "claim": "Compra definitiva no dia 10 de janeiro de 2023, com contrato até dezembro de 2027",
+      "claim": "Loan took effect 1 July 2022",
+      "sourceIds": [
+        "soccerway-br-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Row 01.07.2022 Empréstimo Zenit to Corinthians."
+    },
+    {
+      "claim": "Permanent deal 10 January 2023, contract to December 2027",
       "sourceIds": [
         "tupi-purchase-2023"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed."
+      "note": "Dated 10/01/23; contract until dezembro de 2027."
     },
     {
-      "claim": "Disse estar muito feliz por continuar no clube",
+      "claim": "Soccerway records 10 Jan 2023 move from Zenit with no fee",
+      "sourceIds": [
+        "soccerway-br-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Row 10.01.2023 Zenit to Corinthians, Sem custos."
+    },
+    {
+      "claim": "He said he was very happy to stay at the club",
       "sourceIds": [
         "tupi-purchase-2023"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed."
+      "note": "Estou muito feliz em permanecer no Corinthians."
     },
     {
-      "claim": "Até 1º de dezembro de 2024: 13 gols no Brasileirão, à frente de Estêvão; 29 gols em 2024",
+      "claim": "By 1 Dec 2024 Placar reported 13 Brasileirão goals, top of scorers ahead of Estêvão",
       "sourceIds": [
         "placar-2024-top-scorer"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed."
+      "note": "Dated 01/12/2024; 13 goals; ultrapassando Estêvão (12)."
     },
     {
-      "claim": "Campeonato terminou com 15 gols, empatado com Alerrandro, do Vitória",
+      "claim": "29 goals in 2024 (no all-competitions qualifier)",
+      "sourceIds": [
+        "placar-2024-top-scorer"
+      ],
+      "verdict": "confirmed",
+      "note": "Article says chegou a 29 gols em 2024; the all-competitions qualifier was removed as unsupported."
+    },
+    {
+      "claim": "Finished league on 15 goals, tied with Alerrandro of Vitória",
       "sourceIds": [
         "dgabc-trophy-2024"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed."
+      "note": "Troféu Roberto Dinamite; 15 goals tied with Alerrandro."
     },
     {
-      "claim": "Citação 'Pude dar a volta por cima'; críticas durante fase ruim do Corinthians",
+      "claim": "Quote Pude dar a volta por cima; credited family and faith; criticism during poor run",
       "sourceIds": [
         "dgabc-trophy-2024"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed."
+      "note": "Quotes and criticism mention confirmed."
     },
     {
-      "claim": "Renovação anunciada em julho de 2025, até julho de 2030, no lugar do fim de 2027",
-      "sourceIds": [
-        "dgabc-renewal-2025",
-        "lance-renewal-2025"
-      ],
-      "verdict": "confirmed",
-      "note": "Confirmed."
-    },
-    {
-      "claim": "Diário do Grande ABC: 184 partidas, 70 gols e um título, Paulistão de 2025",
-      "sourceIds": [
-        "dgabc-renewal-2025"
-      ],
-      "verdict": "confirmed",
-      "note": "Confirmed."
-    },
-    {
-      "claim": "Trivela: nenhum clube estrangeiro fez oferta formal; queria ser convocado",
-      "sourceIds": [
-        "trivela-renewal-2025"
-      ],
-      "verdict": "confirmed",
-      "note": "Confirmed."
-    },
-    {
-      "claim": "Citações Lance: 'essa foi uma decisão não só minha...' e 'Agora chegou a minha hora de retribuir'",
-      "sourceIds": [
-        "lance-comment-2025"
-      ],
-      "verdict": "confirmed",
-      "note": "Quotes match."
-    },
-    {
-      "claim": "Novembro de 2025: 200 jogos, 73 gols, 24º jogador do século 21 com 200 jogos pelo Corinthians",
+      "claim": "200 matches and 73 goals for Corinthians by November 2025; 24th player of the 21st century to reach 200",
       "sourceIds": [
         "gazeta-200-jogos-2025"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed."
+      "note": "Dated 14/11/2025; 200 games; 73 gols; 24º jogador do século XXI."
     },
     {
-      "claim": "Seleções de base: 21 jogos e nove gols",
+      "claim": "July 2025 extension to July 2030, previously end of 2027",
       "sourceIds": [
-        "umdoisesportes-trajetoria"
+        "lance-renewal-2025",
+        "dgabc-renewal-2025"
       ],
       "verdict": "confirmed",
-      "note": "Total across youth teams."
+      "note": "Renewal 24/07/2025; antes ia até o fim de 2027; estendido até julho de 2030."
     },
     {
-      "claim": "Primeira convocação para a principal: amistoso contra o Marrocos",
+      "claim": "Club statement at renewal: 184 matches, 70 goals, one title (Paulistão 2025)",
       "sourceIds": [
-        "umdoisesportes-trajetoria"
+        "dgabc-renewal-2025"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed."
+      "note": "Club statement numbers confirmed."
     },
     {
-      "claim": "Tuttosport: sub-17 2017, 8 jogos e 3 gols; sub-23 2020 e 2021, 2 jogos",
+      "claim": "Soccerway contract end 30 June 2030",
+      "sourceIds": [
+        "soccerway-br-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Contrato em vigor até: 30.06.2030."
+    },
+    {
+      "claim": "Trivela: no international club made a formal offer; wanted Brazil call-up",
+      "sourceIds": [
+        "trivela-renewal-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Ausência de propostas internacionais; desejo de ser convocado."
+    },
+    {
+      "claim": "Lance interview: people stood with him; family and staff decision; transfer window; quote Agora chegou a minha hora de retribuir",
+      "sourceIds": [
+        "lance-comment-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes and paraphrases confirmed."
+    },
+    {
+      "claim": "Under-17 2017 (8 games, 3 goals); under-23 2020 and 2021 (2 games)",
       "sourceIds": [
         "tuttosport-profile"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed."
+      "note": "Under-17 2017: 8/3; Under-23 2020-2021: 2."
     },
     {
-      "claim": "Os dois perfis registram uma única partida pela principal do Brasil, em 2023, sem gols",
+      "claim": "First senior call-up for a friendly against Morocco",
       "sourceIds": [
-        "tuttosport-profile",
-        "corriere-sport-profile"
+        "umdoisesportes-trajetoria"
       ],
       "verdict": "confirmed",
-      "note": "Both list Brasile senior 2023: 1 app, 0 goals."
+      "note": "Named as replacement for Richarlison; friendly vs Morocco."
     },
     {
-      "claim": "O Soccerway não registra nenhuma partida pela seleção principal",
+      "claim": "One senior appearance in 2023, no goal (Tuttosport)",
+      "sourceIds": [
+        "tuttosport-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Brazil senior 2023: 1 match, 0 goals."
+    },
+    {
+      "claim": "Soccerway page does not contain national-team data",
       "sourceIds": [
         "soccerway-br-profile"
       ],
-      "verdict": "unsupported",
-      "note": "Soccerway page states national-team data is not included. Remove. The 'bases divergem' sentence depends on it."
+      "verdict": "confirmed",
+      "note": "Page says historical data may be incomplete; contains no national-team data."
     },
     {
-      "claim": "Março de 2026, Lance: lesão de grau 2 no bíceps femoral da coxa esquerda; liberado para Chapecoense em 19 de março",
+      "claim": "March 2026 grade 2 left biceps femoris injury, out more than a month, cleared for Chapecoense 19 March",
       "sourceIds": [
         "lance-return-2026"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed."
+      "note": "Dated 18/03/2026; grade 2 bíceps femoral esquerda; liberado."
     },
     {
-      "claim": "1º de agosto de 2026: lesão muscular na coxa direita; Fernando Diniz; sem grau divulgado",
+      "claim": "1 Aug 2026: right-thigh posterior muscle injury in 0-0 draw with Athletico-PR, 21st round; Diniz named; no grade or return date",
       "sourceIds": [
         "opovo-injury-2026"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed."
+      "note": "Dated Ago. 01, 2026; coxa direita; 0-0; 21st round; grade and date not disclosed."
     },
     {
-      "claim": "27 de setembro de 2026: grau 2, sem jogar desde 30 de julho, principal goleador, clube esperava tê-lo",
-      "sourceIds": [
-        "tribuna-injury-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Confirmed."
-    },
-    {
-      "claim": "30 de setembro: primeira sessão com o grupo, sem dor",
+      "claim": "August: fibrosis led him to pull back from a return against Santos",
       "sourceIds": [
         "tribuna-return-training-2026"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed."
+      "note": "Fibrosis; nearly returned for clássico vs Santos, pulled back."
     },
     {
-      "claim": "6 de outubro: relacionado entre 24 jogadores para o Internacional no Beira-Rio, retorno da lesão na coxa direita",
+      "claim": "27 Sept 2026: grade 2 right-thigh injury, no play since 30 July, club expected him for next match",
+      "sourceIds": [
+        "tribuna-injury-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Dated 27/09/2026; grau 2 coxa direita; não joga desde 30 de julho; expectativa."
+    },
+    {
+      "claim": "30 Sept: first group training session, no pain",
+      "sourceIds": [
+        "tribuna-return-training-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote: primeiro treino com o grupo sem dor nenhuma. Article dated 30/09/2026."
+    },
+    {
+      "claim": "6 Oct 2026: named among 24 players for match at Internacional (Beira-Rio), return from right-thigh muscle injury",
       "sourceIds": [
         "tribuna-squad-2026"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed."
-    },
-    {
-      "claim": "Summary e FAQ: idade (25 anos em 27/10/2026); contrato até julho de 2030; lesão de grau 2 no fim de setembro",
-      "sourceIds": [
-        "tuttosport-profile",
-        "lance-renewal-2025",
-        "tribuna-injury-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Consistent with the sources and the body."
-    },
-    {
-      "claim": "Contrato 'atual' até 2030 (atualidade)",
-      "sourceIds": [
-        "lance-renewal-2025",
-        "soccerway-br-profile"
-      ],
-      "verdict": "confirmed",
-      "note": "Not outdated."
+      "note": "Lists 24 players incl. Yuri Alberto; match 7 Oct at Beira-Rio; recovered from right-thigh muscle injury. Article date not printed in the fetched text; the list content matches."
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "Brazilian Portuguese, with Brazilian sources as the spine. Clear timeline and sources. The Soccerway national-team sentence is the one problem.",
-  "decision": "reject",
-  "summary": "Reject on facts: the Soccerway claim about national-team appearances is unsupported (the page does not include national-team data) and must be removed, along with the sentence that depends on it."
+  "valueNote": "Adds a dated timeline of transfers, loan, permanent deal and contract, plus a month-by-month 2026 injury record that corrects the thin top results; source conflicts (Soccerway vs club dates) are stated, not smoothed over.",
+  "decision": "approve",
+  "summary": "All checked claims are supported by the opened sources. Soccerway is cited only for transfer rows and contract end date, and not for national-team data. Unsupported all-competitions and Corriere national-team wording were removed."
 }

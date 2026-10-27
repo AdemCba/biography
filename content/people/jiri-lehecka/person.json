@@ -1,0 +1,96 @@
+{
+  "id": "jiri-lehecka",
+  "name": "Jiri Lehecka",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 3,
+  "sameAs": [],
+  "facts": {
+    "nationality": {
+      "value": [
+        "CZ"
+      ],
+      "sources": [
+        "atp-bio",
+        "cns-profile"
+      ],
+      "note": "ATP bio refers to him as a Czech player (joined Berdych, P. Korda and Lendl as Czech men); ČTK calls him 'Český tenista' (Czech tennis player). ATP profile page template did not show a country field."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "atp-bio",
+      "url": "https://www.atptour.com/en/players/jiri-lehecka/l0bv/bio",
+      "title": "Jiri Lehecka - Bio",
+      "publisher": "ATP Tour",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "cns-profile",
+      "url": "https://www.ceskenoviny.cz/index_view.php?id=2371972",
+      "title": "ČTK report on a Lehečka match (first-round win)",
+      "publisher": "ČTK (Česká tisková kancelář)",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "cs"
+    },
+    {
+      "id": "atp-miami-2026-sf",
+      "url": "https://www.atptour.com/en/news/lehecka-fils-miami-2026-sf",
+      "title": "Lehecka beats Fils to reach Miami semi-final final (ATP report)",
+      "publisher": "ATP Tour",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "atp-brisbane-2025-final",
+      "url": "https://www.atptour.com/en/news/lehecka-opelka-brisbane-2025-final",
+      "title": "Lehecka clinches Brisbane title after Opelka retires (ATP report)",
+      "publisher": "ATP Tour",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "atp-adelaide-2024-final",
+      "url": "https://www.atptour.com/en/news/lehecka-draper-adelaide-2024-saturday-final",
+      "title": "Lehecka beats Draper to win Adelaide title (ATP report)",
+      "publisher": "ATP Tour",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "tennismajors-usopen-2025",
+      "url": "https://www.tennismajors.com/us-open-news/lehecka-weathers-mannarino-surge-to-reach-maiden-us-open-quarter-finals-834944.html",
+      "title": "Lehecka weathers Mannarino surge to reach maiden US Open quarter-finals",
+      "publisher": "Tennis Majors",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "tennismajors-ao-2023",
+      "url": "https://tennismajors.com/australian-open-news/australian-open-lehecka-books-spot-in-quarter-finals-656707.html",
+      "title": "Jiri Lehecka stuns Auger-Aliassime for spot in quarter-finals",
+      "publisher": "Tennis Majors",
+      "type": "press",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "atp-wikidata-bio",
+      "url": "https://www.atptour.com/en/players/wikidata/l0bv/bio",
+      "title": "Jiri Lehecka - Bio (ATP Tour)",
+      "publisher": "ATP Tour",
+      "type": "official",
+      "accessed": "2026-10-27",
+      "lang": "en"
+    }
+  ]
+}
