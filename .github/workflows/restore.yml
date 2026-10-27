@@ -1,0 +1,51 @@
+name: Restore writer output
+
+# Puts back the pages a Writer run wrote when its final push failed. The Writer keeps a
+# "writer-output" artifact for 14 days; give the run id from its URL.
+on:
+  workflow_dispatch:
+    inputs:
+      run_id:
+        description: "Writer run id (from the run's URL)"
+        required: true
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - uses: actions/download-artifact@v4
+        with:
+          name: writer-output
+          run-id: ${{ inputs.run_id }}
+          github-token: ${{ github.token }}
+          path: restored
+      - name: Copy new and changed pages (never deletes)
+        run: |
+          cp -rn restored/content/people/. content/people/ 2>/dev/null || true
+          mkdir -p content/topics && cp -rn restored/content/topics/. content/topics/ 2>/dev/null || true
+          mkdir -p data/research && cp -rn restored/data/research/. data/research/ 2>/dev/null || true
+          rm -rf restored
+          npx tsx scripts/schedule.ts --per-day 30
+      - name: Commit and publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -n "$(git status --porcelain content data)" ]; then
+            git config user.name "orbivida-bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add content data
+            git commit -m "content: restore writer run ${{ inputs.run_id }}"
+            git pull --rebase --autostash -X theirs
+            git push
+            gh workflow run deploy.yml --ref main
+          fi

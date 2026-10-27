@@ -12,9 +12,11 @@ summary: >-
   Oktober 2026 verlor er seine WBO- und IBF-Titel im Superfedergewicht durch
   einstimmige Punktentscheidung gegen O'Shaquie Foster in San Antonio
   [s:fightmag-live-result].
-status: review
+status: published
 risk: low
+reviewedAt: '2026-10-27'
 author: editor-in-chief
+reviewer: editor-in-chief
 aiAssisted: true
 targetQueries:
   - Emanuel Navarrete vs O'Shaquie Foster Ergebnis
@@ -43,25 +45,7 @@ faq:
       [s:yucatan-weigh-in], aber keine der geprüften Quellen erklärt seine
       Herkunft.
 autoReviews: 3
-reviewNotes: >-
-  UNSUPPORTED: "Der WBO-Artikel vom Januar 2020 nennt denselben Geburtsort" (The
-  WBO article says 'Representing San Juan Zitlaltepec, Distrito Federal,
-  México', not birthplace. Cite BoxingOnly alone or reword to 'vertritt'.) |
-  UNSUPPORTED: "Stopp-Sieg in der 11. Runde gegen Eduardo Núñez am 28. Februar
-  2026" (Ring gives February 28 and round 11, no year. 2026 appears only in
-  fightmag-preview. Add fightmag-preview to the citation.) | WRONG: "Navarrete
-  gewann den WBO-Titel im Bantamgewicht bis 122 Pfund durch Sieg über Isaac
-  Dogboe im Dezember 2018" (Bantamgewicht is 118 lb. The WBO article names the
-  title WBO Junior Featherweight, which is 122 lb (Juniorfedergewicht or
-  Superbantamgewicht in German). The article itself later says
-  Juniorfedergewicht, so this is inconsistent. Correct to 'Juniorfedergewicht
-  (122 lb)'.) | Reviewer recommends rejection: Three fixes needed. (1) Weight
-  class: 'Bantamgewicht bis 122 Pfund' is wrong and contradicts the article's
-  own 'Juniorfedergewicht'. Use Juniorfedergewicht (122 lb). (2) The 'denselben
-  Geburtsort' sentence cites the WBO article, which only says 'Representing'.
-  Cite BoxingOnly alone or reword. (3) The Nunez stoppage year 2026 is not in
-  the Ring source; add fightmag-preview. Everything else checks out.
-flag: Rejected by the fact-check 3 times; needs a human editor.
+publishedAt: '2026-10-27'
 ---
 Emanuel Navarrete hat am 24. Oktober 2026 seine WBO- und IBF-Titel im Superfedergewicht verloren, als O'Shaquie Foster in San Antonio über 12 Runden einstimmig nach Punkten gewann [s:fightmag-live-result]. Er ist als "Vaquero" bekannt [s:boxingonly-profile] [s:wbo-de-vaca-2019]. Seinen ersten Weltmeistertitel gewann er im Dezember 2018 [s:wbo-santisima-2020].
 

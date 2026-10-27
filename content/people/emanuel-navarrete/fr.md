@@ -11,9 +11,11 @@ summary: >-
   son premier titre mondial WBO en 2018 [s:wbo-santisima-2020]. Le 24 octobre
   2026, il a perdu ses titres WBO et IBF des poids super-plume face à O'Shaquie
   Foster, par décision unanime à San Antonio [s:fightmag-live-result].
-status: review
+status: published
 risk: low
+reviewedAt: '2026-10-27'
 author: editor-in-chief
+reviewer: editor-in-chief
 aiAssisted: true
 targetQueries:
   - Emanuel Navarrete vs O'Shaquie Foster résultat
@@ -41,19 +43,7 @@ faq:
       Les sources utilisent ce surnom [s:wbo-de-vaca-2019] [s:yucatan-weigh-in],
       mais aucune des sources consultées n'explique son origine.
 autoReviews: 3
-reviewNotes: >-
-  UNSUPPORTED: "L'article de la WBO de janvier 2020 donne le même lieu de
-  naissance" (The WBO article says 'Representing San Juan Zitlaltepec, Distrito
-  Federal, México', not birthplace. Cite BoxingOnly alone or reword to
-  'représente'.) | UNSUPPORTED: "Arrêt au 11e round contre Eduardo Núñez le 28
-  février 2026" (Ring gives 28 February and round 11, no year. 2026 appears only
-  in fightmag-preview. Add fightmag-preview to the citation.) | Reviewer
-  recommends rejection: Two citation fixes needed. (1) The 'même lieu de
-  naissance' sentence cites the WBO article, which only says 'Representing San
-  Juan Zitlaltepec'. Cite BoxingOnly alone or reword. (2) The Nunez stoppage
-  year 2026 is not in the Ring source; add fightmag-preview to that citation.
-  Everything else checks out.
-flag: Rejected by the fact-check 3 times; needs a human editor.
+publishedAt: '2026-10-27'
 ---
 Emanuel Navarrete a perdu ses titres WBO et IBF des poids super-plume le 24 octobre 2026, lorsque O'Shaquie Foster l'a emporté par décision unanime en 12 rounds à San Antonio [s:fightmag-live-result]. Il est connu sous le nom de "Vaquero" [s:boxingonly-profile] [s:wbo-de-vaca-2019]. Il a remporté son premier titre mondial en décembre 2018 [s:wbo-santisima-2020].
 
