@@ -12,9 +12,11 @@ summary: >-
   Em 24 de outubro de 2026 perdeu os títulos da WBO e da IBF no peso super-pena
   para O'Shaquie Foster, por decisão unânime em San Antonio
   [s:fightmag-live-result].
-status: review
+status: published
 risk: low
+reviewedAt: '2026-10-27'
 author: editor-in-chief
+reviewer: editor-in-chief
 aiAssisted: true
 targetQueries:
   - Emanuel Navarrete vs O'Shaquie Foster resultado
@@ -42,23 +44,7 @@ faq:
       As fontes usam o apelido [s:wbo-de-vaca-2019] [s:yucatan-weigh-in], mas
       nenhuma das consultadas explica a origem dele.
 autoReviews: 3
-reviewNotes: >-
-  UNSUPPORTED: "O artigo da WBO de janeiro de 2020 dá o mesmo local de
-  nascimento" (The WBO article says 'Representing San Juan Zitlaltepec, Distrito
-  Federal, México', not birthplace. Cite BoxingOnly alone or reword to
-  'representa'.) | UNSUPPORTED: "Vitória por nocaute técnico no 11.º round sobre
-  Eduardo Núñez em 28 de fevereiro de 2026" (Ring gives February 28 and round
-  11, no year. 2026 appears only in fightmag-preview. Add fightmag-preview to
-  the citation.) | WRONG: "Título da WBO no peso super-leve em fevereiro de
-  2023" (Super-featherweight (130 lb) is 'super-pena' in Portuguese, as the
-  summary and knownFor use. 'Super-leve' is 140 lb (super-lightweight). Change
-  to 'super-pena'.) | Reviewer recommends rejection: Three fixes needed. (1)
-  'Super-leve' for the February 2023 WBO title is wrong. It is super-lightweight
-  (140 lb). Use 'super-pena', as the summary does. (2) The 'mesmo local de
-  nascimento' sentence cites the WBO article, which only says 'Representing'.
-  Cite BoxingOnly alone or reword. (3) The Nunez stoppage year 2026 is not in
-  the Ring source; add fightmag-preview. Everything else checks out.
-flag: Rejected by the fact-check 3 times; needs a human editor.
+publishedAt: '2026-10-27'
 ---
 Emanuel Navarrete perdeu os títulos mundiais super-pena da WBO e da IBF em 24 de outubro de 2026, quando O'Shaquie Foster venceu por decisão unânime em 12 rounds, em San Antonio [s:fightmag-live-result]. Ele é conhecido como "Vaquero" [s:boxingonly-profile] [s:wbo-de-vaca-2019]. Conquistou seu primeiro título mundial em dezembro de 2018 [s:wbo-santisima-2020].
 

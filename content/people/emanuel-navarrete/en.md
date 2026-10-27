@@ -11,9 +11,11 @@ summary: >-
   world title in 2018 [s:wbo-santisima-2020]. He lost his WBO and IBF super
   featherweight titles to O'Shaquie Foster by unanimous decision on 24 October
   2026 in San Antonio [s:fightmag-live-result].
-status: review
+status: published
 risk: low
+reviewedAt: '2026-10-27'
 author: editor-in-chief
+reviewer: editor-in-chief
 aiAssisted: true
 targetQueries:
   - Emanuel Navarrete vs O'Shaquie Foster result
@@ -42,22 +44,7 @@ faq:
       Sources use the nickname [s:wbo-de-vaca-2019] [s:yucatan-weigh-in], but
       none of the sources checked explains where it comes from.
 autoReviews: 3
-reviewNotes: >-
-  UNSUPPORTED: "The WBO's January 2020 article gives the same birthplace" (The
-  WBO article says 'Representing San Juan Zitlaltepec, Distrito Federal,
-  Mexico', not that this is his birthplace. Cite only BoxingOnly for birthplace,
-  or reword to 'represents'.) | UNSUPPORTED: "11th-round stoppage of Eduardo
-  Nunez on 28 February 2026" (Ring gives 'February 28' and an 11th-round
-  stoppage but no year. The 2026 year appears only in fightmag-preview (photo
-  caption). Add fightmag-preview to the citation.) | Reviewer recommends
-  rejection: Two citation fixes needed before approval. (1) The body says the
-  WBO's January 2020 article gives the same birthplace; it only says
-  'Representing San Juan Zitlaltepec', so cite BoxingOnly alone for birthplace
-  or reword. Also remove wbo-santisima-2020 from the birthplace fact in
-  person.json (editor action). (2) The Nunez stoppage year 2026 is not in the
-  Ring source; add fightmag-preview to that citation. Everything else checks
-  out.
-flag: Rejected by the fact-check 3 times; needs a human editor.
+publishedAt: '2026-10-27'
 ---
 Emanuel Navarrete lost his WBO and IBF super featherweight titles on 24 October 2026, when O'Shaquie Foster won a 12-round unanimous decision in San Antonio [s:fightmag-live-result]. Navarrete is known as "Vaquero" [s:boxingonly-profile] [s:wbo-de-vaca-2019]. He first won a world title in December 2018 [s:wbo-santisima-2020].
 

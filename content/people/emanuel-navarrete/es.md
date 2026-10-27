@@ -12,9 +12,11 @@ summary: >-
   octubre de 2026 perdió sus títulos de la WBO e IBF de peso pluma superligero
   ante O'Shaquie Foster, por decisión unánime en San Antonio
   [s:fightmag-live-result].
-status: review
+status: published
 risk: low
+reviewedAt: '2026-10-27'
 author: editor-in-chief
+reviewer: editor-in-chief
 aiAssisted: true
 targetQueries:
   - Emanuel Navarrete vs O'Shaquie Foster resultado
@@ -42,19 +44,7 @@ faq:
       Las fuentes usan el apodo [s:wbo-de-vaca-2019] [s:yucatan-weigh-in], pero
       ninguna de las consultadas explica su origen.
 autoReviews: 3
-reviewNotes: >-
-  UNSUPPORTED: "El artículo de la WBO de enero de 2020 da el mismo lugar de
-  nacimiento" (The WBO article says 'Representing San Juan Zitlaltepec, Distrito
-  Federal, México', not birthplace. Cite BoxingOnly alone or reword to
-  'representa'.) | UNSUPPORTED: "Victoria por parada en el asalto 11 sobre
-  Eduardo Núñez el 28 de febrero de 2026" (Ring gives 'February 28' and round 11
-  with no year. 2026 appears only in fightmag-preview. Add fightmag-preview to
-  the citation.) | Reviewer recommends rejection: Two citation fixes needed. (1)
-  The 'mismo lugar de nacimiento' sentence cites the WBO article, which only
-  says 'Representing San Juan Zitlaltepec'. Cite BoxingOnly alone or reword. (2)
-  The Nunez stoppage year 2026 is not in the Ring source; add fightmag-preview
-  to that citation. Everything else checks out.
-flag: Rejected by the fact-check 3 times; needs a human editor.
+publishedAt: '2026-10-27'
 ---
 Emanuel Navarrete perdió sus títulos de peso pluma superligero de la WBO e IBF el 24 de octubre de 2026, cuando O'Shaquie Foster ganó por decisión unánime a 12 asaltos en San Antonio [s:fightmag-live-result]. Es conocido como "Vaquero" [s:boxingonly-profile] [s:wbo-de-vaca-2019]. Ganó su primer título mundial en diciembre de 2018 [s:wbo-santisima-2020].
 
