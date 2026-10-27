@@ -65,6 +65,17 @@ export const personSchema = z.object({
   sources: z.array(sourceSchema).default([]),
 });
 
+/** A trending topic (an event, match, release) in content/topics/<id>/topic.json; the text is in <locale>.md like a biography. */
+export const topicSchema = z.object({
+  id: slug,
+  /** Biographies on this site that the story is about; they are linked as cards under the article. */
+  people: z.array(slug).default([]),
+  /** Where it trended, e.g. ["US", "BR"], from Google Trends. */
+  trendingIn: z.array(z.string()).default([]),
+  image: personSchema.shape.image,
+  sources: z.array(sourceSchema).default([]),
+});
+
 export const STATUSES = ["idea", "research", "draft", "review", "approved", "published"] as const;
 export type Status = (typeof STATUSES)[number];
 export const RISKS = ["low", "medium", "high"] as const;
@@ -128,5 +139,6 @@ export const editorSchema = z.object({
 export type Editor = z.infer<typeof editorSchema>;
 export type Source = z.infer<typeof sourceSchema>;
 export type PersonData = z.infer<typeof personSchema>;
+export type TopicData = z.infer<typeof topicSchema>;
 export type ArticleMeta = z.infer<typeof articleSchema>;
 export type Category = z.infer<typeof categorySchema>;

@@ -1,5 +1,5 @@
 import type { Locale } from "@/i18n/config";
-import { RESERVED_SLUGS, today, type Article, type ContentStore, type Person } from "./content";
+import { RESERVED_SLUGS, today, type Article, type ContentStore, type Person, type Topic } from "./content";
 import { citedSourceIds, linkedPersonIds, wordCount } from "./markdown";
 import { similarity, STYLE_BLOCK_SCORE, styleFindings, styleScore } from "./style";
 
@@ -13,7 +13,9 @@ export type Issue = {
 };
 
 export type ArticleReport = {
+  /** Person id, or topic id when `topic` is set. */
   personId: string;
+  topic?: true;
   locale: Locale;
   status: Article["meta"]["status"];
   words: number;
@@ -159,6 +161,57 @@ function checkArticle(person: Person, article: Article, store: ContentStore): Ar
   return { personId: person.data.id, locale, status: meta.status, words, citations: cited.length, styleScore: score, issues };
 }
 
+/** Shortest trending-topic article that still explains the story and its background. */
+export const MIN_TOPIC_WORDS = 400;
+
+/** Trending topics: same sourcing, approval and style rules as biographies, sized for a news explainer. */
+function checkTopicArticle(topic: Topic, article: Article, store: ContentStore): ArticleReport {
+  const { meta, body, locale } = article;
+  const gate = meta.status === "published" ? "error" : "warning";
+  const base = { personId: topic.data.id, locale, file: article.file };
+  const issues: Issue[] = [];
+  const push = (level: Issue["level"], code: string, message: string) => issues.push({ ...base, level, code, message });
+
+  const words = wordCount(body);
+  const cited = citedSourceIds(body);
+  const sourceIds = new Set(topic.data.sources.map((s) => s.id));
+  const style = styleFindings(body, locale);
+  const score = styleScore(style);
+  const peopleIds = new Set(store.people.map((p) => p.data.id));
+
+  for (const id of new Set(cited)) {
+    if (!sourceIds.has(id)) push("error", "unknown-citation", `Citation [s:${id}] has no matching source`);
+  }
+  for (const id of [...linkedPersonIds(body), ...topic.data.people]) {
+    if (!peopleIds.has(id)) push("error", "unknown-person-link", `Link to unknown person "${id}"`);
+  }
+  const wikiIds = new Set(topic.data.sources.filter((s) => /wikipedia\.org/i.test(s.url)).map((s) => s.id));
+  if ([...new Set(cited)].some((id) => wikiIds.has(id))) push(gate, "wikipedia-citation", "Cites Wikipedia; cite the original source instead");
+  if (meta.metaDescription.length < 50) push(gate, "no-meta-description", "metaDescription is missing or under 50 characters");
+  if (!meta.reviewer) push(gate, "no-reviewer", "Not approved yet (no reviewer)");
+  if (!meta.publishedAt) push(gate, "no-publish-date", "publishedAt is missing");
+  if (!meta.author) push(gate, "no-author", "No author recorded (author:)");
+  if (topic.data.sources.length < 2) push(gate, "few-sources", "At least two sources are required");
+  const minCitations = Math.max(3, Math.floor(words / 300));
+  if (cited.length < minCitations) push(gate, "few-citations", `${cited.length} citations; need at least ${minCitations} for ${words} words`);
+  if (words < MIN_TOPIC_WORDS) push(gate, "too-short", `Only ${words} words; a trending-topic page needs at least ${MIN_TOPIC_WORDS}`);
+  const sections = (body.match(/^##\s+/gm) ?? []).length;
+  if (sections < 2) push(gate, "thin-structure", `${sections} sections; explain what happened and the background in at least 2`);
+  if (new Set(cited.filter((id) => sourceIds.has(id))).size < 2) push(gate, "single-source", "Body must cite at least 2 distinct sources");
+  if (meta.summary.split(/\s+/).length < 25) push(gate, "thin-summary", "Summary is under 25 words");
+  const editorIds = new Map(store.editors.map((e) => [e.id, e]));
+  for (const [field, id] of [["author", meta.author], ["reviewer", meta.reviewer]] as const) {
+    if (id && !editorIds.get(id)) push("error", "unknown-editor", `${field} "${id}" is not in content/editors.json`);
+    else if (id && !editorIds.get(id)!.i18n[locale]) push(gate, "editor-not-translated", `Editor "${id}" has no ${locale} bio`);
+  }
+  if (score >= STYLE_BLOCK_SCORE) push(gate, "ai-style", `Style score ${score} (limit ${STYLE_BLOCK_SCORE}). Rewrite flagged passages.`);
+  for (const f of style) push("warning", `style:${f.code}`, f.message);
+  const title = meta.metaTitle ?? meta.title;
+  if (title.length > 65) push("warning", "long-title", `Meta title is ${title.length} characters (aim for ≤ 60)`);
+
+  return { personId: topic.data.id, topic: true, locale, status: meta.status, words, citations: cited.length, styleScore: score, issues };
+}
+
 export function checkContent(store: ContentStore): { reports: ArticleReport[]; issues: Issue[] } {
   const issues: Issue[] = store.issues.map((i) => ({ level: "error", code: "invalid-file", message: i.message, file: i.file }));
   const reports: ArticleReport[] = [];
@@ -175,6 +228,17 @@ export function checkContent(store: ContentStore): { reports: ArticleReport[]; i
       slugs.set(key, person.data.id);
       reports.push(checkArticle(person, article, store));
       byLocale.set(article.locale, [...(byLocale.get(article.locale) ?? []), article]);
+    }
+  }
+
+  const topicSlugs = new Set<string>();
+  for (const topic of store.topics) {
+    for (const article of Object.values(topic.articles)) {
+      if (!article) continue;
+      const key = `${article.locale}/${article.meta.slug}`;
+      if (topicSlugs.has(key)) issues.push({ level: "error", code: "duplicate-slug", message: `Trending slug ${key} is used twice`, personId: topic.data.id, locale: article.locale, file: article.file });
+      topicSlugs.add(key);
+      reports.push(checkTopicArticle(topic, article, store));
     }
   }
 
