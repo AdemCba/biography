@@ -82,7 +82,8 @@ jobs:
             - Before you finish, `npm run -s check` must show no ERROR and no `short-for-importance` warning for any
               page you wrote: expand short pages with more sourced facts (the importance minimum is a floor, not a
               target) and cite at least one primary source (official site, club, league, award body, company or
-              interview) with the matching source type.
+              interview) with the matching source type. Fill `facts` in person.json (at least nationality, and
+              birth date/place when a source gives them) with source ids; an empty `facts` blocks the page.
             - Then, if usage allows, repair up to 2 existing pages: pick pages from `npm run -s check` that are in
               status review or show ERROR, `too-short` or `short-for-importance`, expand or fix them in all languages with sourced facts, and fact-check them
               again with review.ts. Never remove a page.
