@@ -11,7 +11,7 @@ on:
   workflow_dispatch:
     inputs:
       count:
-        description: "How many people to write"
+        description: "Kaç kişi yazılsın (How many people to write)"
         default: "5"
 
 concurrency:
@@ -37,6 +37,11 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+
+      # Fresh Google Trends + Wikipedia scan, so a manual run picks from what people search right now.
+      - name: Scan today's trends
+        continue-on-error: true
+        run: npm run trends
 
       - name: Write and fact-check new people (Claude Code on the owner's subscription)
         if: ${{ env.HAS_TOKEN == 'true' }}
