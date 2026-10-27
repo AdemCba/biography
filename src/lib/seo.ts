@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { absoluteUrl, site } from "@/config/site";
 import { HREFLANG, OG_LOCALE, type Locale } from "@/i18n/config";
-import { categoryPath, getContent, lastModified, liveArticle, livePeople, personPath, type Article, type Person } from "./content";
+import { categoryPath, getContent, isoDateTime, lastModified, liveArticle, livePeople, personPath, type Article, type Person } from "./content";
 import type { Category } from "./schema";
 
 /** hreflang map for a set of locale -> path pairs, with x-default pointing at English when present. */
@@ -102,8 +102,8 @@ export function personJsonLd(person: Person, article: Article, crumbs: { name: s
       url,
       name: article.meta.metaTitle ?? article.meta.title,
       inLanguage: HREFLANG[article.locale],
-      datePublished: article.meta.publishedAt,
-      dateModified: lastModified(article.meta),
+      datePublished: isoDateTime(article.meta.publishedAt),
+      dateModified: isoDateTime(lastModified(article.meta)),
       publisher: { "@type": "Organization", "@id": `${site.url}/#organization`, name: site.name, url: site.url, logo: { "@type": "ImageObject", url: absoluteUrl(LOGO) } },
       mainEntity: {
         "@type": "Person",

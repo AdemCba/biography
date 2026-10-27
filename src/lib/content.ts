@@ -161,6 +161,12 @@ export function lastModified(meta: ArticleMeta): string {
   return [meta.updatedAt, meta.reviewedAt, meta.publishedAt].filter(Boolean).sort().at(-1) ?? today();
 }
 
+/** A frontmatter date (YYYY-MM-DD) as a full ISO 8601 datetime in Istanbul time, which Google wants in JSON-LD. */
+export function isoDateTime(date: string | undefined): string | undefined {
+  if (!date) return undefined;
+  return /^\d{4}-\d{2}-\d{2}$/.test(date) ? `${date}T08:00:00+03:00` : date;
+}
+
 export function personPath(locale: Locale, slug: string): string {
   return `/${locale}/${slug}/`;
 }
