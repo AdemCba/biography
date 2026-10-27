@@ -7,6 +7,14 @@
   "importance": 4,
   "sameAs": [],
   "facts": {
+    "birthPlace": {
+      "value": "Holmdel, New Jersey",
+      "sources": [
+        "nj-sports",
+        "globalsportsarchive"
+      ],
+      "note": "NJ Sports and Global Sports Archive both give Holmdel, NJ as birthplace. Notre Dame lists Holmdel as hometown; the Colts call him a native of Red Bank."
+    },
     "nationality": {
       "value": [
         "US"
@@ -15,14 +23,6 @@
         "globalsportsarchive"
       ],
       "note": "Stated as \"United States\" in the Global Sports Archive profile. The Colts and Notre Dame pages give only New Jersey hometowns and do not state nationality."
-    },
-    "birthPlace": {
-      "value": "Holmdel, New Jersey",
-      "sources": [
-        "nj-sports",
-        "globalsportsarchive"
-      ],
-      "note": "NJ Sports and Global Sports Archive both give Holmdel, NJ as birthplace. Notre Dame lists Holmdel as hometown; the Colts call him a native of Red Bank."
     }
   },
   "related": [],
@@ -117,5 +117,13 @@
       "accessed": "2026-10-27",
       "lang": "en"
     }
-  ]
+  ],
+  "wikidata": "Q43294748",
+  "image": {
+    "src": "/images/people/quenton-nelson.png",
+    "alt": "Quenton Nelson",
+    "credit": "Tennessee Titans",
+    "license": "CC BY 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quenton_Nelson.png"
+  }
 }
