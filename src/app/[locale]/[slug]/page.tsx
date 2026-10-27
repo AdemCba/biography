@@ -13,6 +13,7 @@ import {
   categoryPath,
   editorPath,
   getContent,
+  isoDateTime,
   lastModified,
   liveArticle,
   livePeople,
@@ -54,7 +55,7 @@ export async function generateMetadata({ params }: PageProps<"/[locale]/[slug]">
       type: "profile",
       noindex: article.meta.noindex,
     }),
-    other: { "article:modified_time": lastModified(article.meta) },
+    other: { "article:modified_time": isoDateTime(lastModified(article.meta))! },
   };
 }
 
