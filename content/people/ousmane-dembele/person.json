@@ -1,0 +1,172 @@
+{
+  "id": "ousmane-dembele",
+  "name": "Ousmane Dembélé",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 5,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1997-05-15",
+      "sources": [
+        "psg-player"
+      ],
+      "note": "PSG profile lists 15 May 1997 (age shown as 29 on the page)."
+    },
+    "birthPlace": {
+      "value": "Vernon, Normandy, France",
+      "sources": [
+        "psg-player"
+      ],
+      "note": "PSG profile lists birthplace as Vernon, in Normandy."
+    },
+    "nationality": {
+      "value": [
+        "FR"
+      ],
+      "sources": [
+        "uefa-ballon-dor-2026"
+      ],
+      "note": "UEFA lists him as '(France, Paris Saint-Germain)'. PSG profile says 'A France international since September 2016'."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "psg-player",
+      "url": "https://www.psg.fr/en/players/ousmane-dembele",
+      "title": "Ousmane Dembélé - player profile",
+      "publisher": "Paris Saint-Germain",
+      "type": "official",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "uefa-ballon-dor-2026",
+      "url": "https://www.uefa.com/ballondor/news/02aa-21dcfc743210-2786daba77d8-1000--2026-ballon-d-or-ceremony-when-and-where-all-the-nominees-/",
+      "title": "2026 Ballon d'Or ceremony: when and where, all the nominees",
+      "publisher": "UEFA",
+      "type": "award-body",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "psg-medical-communique-2026-10",
+      "url": "https://www.psg.fr/content/communique-medical-apres-barcelone-psg-ucl-kvaratskhelia-marquinhos-dembele-2026-2027",
+      "title": "Communiqué médical après Barcelone-PSG (UCL)",
+      "publisher": "Paris Saint-Germain",
+      "type": "official",
+      "accessed": "2026-10-28",
+      "lang": "fr"
+    },
+    {
+      "id": "gffn-thigh-injury-2026-10",
+      "url": "https://www.getfootballnewsfrance.com/2026/psgs-ousmane-dembele-and-marquinhos-set-for-weeks-on-the-sidelines-with-thigh-injuries/",
+      "title": "PSG's Ousmane Dembélé and Marquinhos set for weeks on the sidelines with thigh injuries",
+      "publisher": "Get French Football News",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "roundtable-rest-2026-10",
+      "url": "https://roundtable.io/sports/soccer/ligue-1/paris-st-germain/news/ousmane-dembele-and-nuno-mendes-out-as-psg-returns-to-action",
+      "title": "Ousmane Dembele and Nuno Mendes Out as PSG Returns to Action",
+      "publisher": "Roundtable",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "aljazeera-ballon-dor-absence-2026-10",
+      "url": "https://www.aljazeera.com/sports/2026/10/23/dembele-to-miss-ballon-dor-event-as-psg-game-moved-amid-protests-in-france",
+      "title": "Dembele to miss Ballon d'Or event as PSG game moved amid protests in France",
+      "publisher": "Al Jazeera (AFP, AP, Reuters)",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "fcb-medical-2017",
+      "url": "https://www.fcbarcelona.com/en/news/742851/ousmane-dembele-medical-announcement/amp",
+      "title": "Ousmane Dembélé medical announcement",
+      "publisher": "FC Barcelona",
+      "type": "official",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "foxsports-2025-injury",
+      "url": "https://www.foxsports.com/articles/soccer/ballon-dor-winner-dembele-returns-to-psg-squad-for-champions-league-match-after-hamstring-injury",
+      "title": "Ballon d'Or winner Dembélé returns to PSG squad for Champions League match after hamstring injury",
+      "publisher": "Fox Sports",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "si-ballon-dor-2025",
+      "url": "https://www.si.com/soccer/ousmane-dembele-wins-2025-ballon-dor",
+      "title": "Ousmane Dembele Wins 2025 Men's Ballon d'Or",
+      "publisher": "Sports Illustrated",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "topendsports-ballon-dor-2025",
+      "url": "https://www.topendsports.com/sport/soccer/awards/ballondor-2025.htm",
+      "title": "2025 Ballon d'Or Results (Men)",
+      "publisher": "Top End Sports",
+      "type": "database",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "bvb-signing-2016",
+      "url": "https://www.bvb.de/de/en/news/news-overview/news.html/eng/News/Overview/Borussia-Dortmund-signs-top-talent-Ousmane-Dembele.html",
+      "title": "Borussia Dortmund signs top talent Ousmane Dembélé",
+      "publisher": "Borussia Dortmund",
+      "type": "official",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "foot01-rennes-2016",
+      "url": "https://www.foot01.com/rennes/officiel-ousmane-dembele-signe-a-dortmund-211034",
+      "title": "Officiel : Ousmane Dembélé signe à Dortmund",
+      "publisher": "Foot01",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "fr"
+    },
+    {
+      "id": "fcb-signing-2017",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/748188/ousmane-dembele-fc-barcelonas-new-signing",
+      "title": "Ousmane Dembélé, FC Barcelona's new signing",
+      "publisher": "FC Barcelona",
+      "type": "official",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "fcb-debutant-2017",
+      "url": "https://www.fcbarcelona.es/es/noticias/728342/dembele-mejor-debutante-de-la-bundesliga-201617",
+      "title": "Dembélé, mejor debutante de la Bundesliga 2016/17",
+      "publisher": "FC Barcelona",
+      "type": "official",
+      "accessed": "2026-10-28",
+      "lang": "es"
+    },
+    {
+      "id": "national-psg-2023",
+      "url": "https://thenationalnews.com/sport/football/2023/08/12/ousmane-dembele-delighted-to-join-psg",
+      "title": "France international Ousmane Dembele has signed a five-year deal with Paris Saint-Germain from Barcelona",
+      "publisher": "The National (AFP)",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    }
+  ]
+}

@@ -9,13 +9,10 @@ metaDescription: >-
 knownFor: 'Jogador inglês de dardos, bicampeão mundial da PDC'
 summary: >-
   Luke Littler é um jogador inglês de dardos nascido em Warrington em 21 de
-  janeiro de 2007 [s:dartsworld-littler-profile]. Conquistou o Mundial da PDC
-  aos 17 anos, em janeiro de 2025 [s:sky-sports-world-championship-2025-final],
-  e manteve o título em janeiro de 2026
-  [s:sky-sports-world-championship-2026-final]. Em 30 de outubro de 2026, a
-  Netflix transmite Beat Luke Littler, em que amadores tentam vencê-lo em uma
-  perna de 501 por 501 mil libras [s:netflix-tudum-beat-luke-littler]
-  [s:whats-on-netflix-beat-luke-littler].
+  janeiro de 2007. Conquistou o Mundial da PDC aos 17 anos, em janeiro de 2025,
+  e manteve o título em janeiro de 2026. Em 30 de outubro de 2026, a Netflix
+  transmite Beat Luke Littler, em que amadores tentam vencê-lo em uma perna de
+  501 por 501 mil libras.
 status: review
 risk: low
 author: editor-in-chief
@@ -39,30 +36,30 @@ faq:
   - q: Quantos títulos mundiais o Luke Littler tem?
     a: >-
       Ele venceu o Mundial da PDC em 2025 e de novo em 2026, por isso é
-      bicampeão [s:sky-sports-world-championship-2025-final]
-      [s:sky-sports-world-championship-2026-final].
+      bicampeão.
   - q: Quando é o Beat Luke Littler na Netflix?
     a: >-
       A transmissão ao vivo acontece na sexta-feira, 30 de outubro de 2026, às
-      15h no horário do leste dos Estados Unidos. O prêmio é de 501 mil libras
-      [s:netflix-tudum-beat-luke-littler]
-      [s:whats-on-netflix-beat-luke-littler].
+      15h no horário do leste dos Estados Unidos. O prêmio é de 501 mil libras.
 reviewNotes: >-
-  UNSUPPORTED: "Depois bateu Humphries de novo na final e manteve o Grand Slam"
-  (The fetched Sky page says he went back-to-back but does not name the final
-  opponent or score. Cite a final report or drop the opponent.) | UNSUPPORTED:
-  "A diferença vem da data de cada fonte, já que o Mundial de 2026 veio depois"
-  (Causal explanation. The Sky 2026 page does not discuss the major count. The
-  dates support only that the 8-major figure is from Nov 2025 and the 13-major
-  figure from Oct 2026. State the dates and drop the causal claim.) | Reviewer
-  recommends rejection: Most claims are confirmed. Two are unsupported: the
-  claim that Littler beat Humphries again in the Grand Slam final (the cited Sky
-  page does not name the opponent or score), and the causal explanation for the
-  8 vs 13 majors gap. Netflix Tudum's byline is dated 22 Oct 2026, and the 30
-  Oct broadcast at 3 p.m. ET is confirmed. The Friday weekday comes from What's
-  on Netflix. The Sky 81,500 wording is on reaching the final, so the body text
-  is correct. Of 42 claims: 40 confirmed, 2 unsupported, 0 wrong.
-autoReviews: 2
+  UNSUPPORTED: "Começou a jogar aos 18 meses, entrou em academia aos 10 anos e
+  venceu o Campeonato Mundial Juniores aos 16" (The fetched Bola na Rede page
+  does not give the 18 months, academy at 10, or junior championship at 16. Cite
+  a source that says it, or drop the paragraph.) | UNSUPPORTED: "A BOLA
+  descreveu o prêmio de 1 milhão de libras como um ganho recorde na competição"
+  (The fetched A BOLA page does not describe the prize as a record. The record
+  claim is in Sky (biggest payday in darts history). Attribute it to Sky.) |
+  UNSUPPORTED: "A diferença vem da data de cada fonte, já que o Mundial de 2026
+  veio depois" (Causal explanation. The cited Sky 2026 page does not discuss the
+  major count. Dates alone show only that the figures are from Nov 2025 and Oct
+  2026. Drop the cause.) | Reviewer recommends rejection: Most claims check out.
+  Three need fixing: a biographical paragraph (18 months, academy at 10, junior
+  title at 16) the cited Bola na Rede page does not support, a record-prize
+  claim attributed to A BOLA that its page does not make, and a causal
+  explanation for the 8 vs 13 major gap. Citation tags also sit in the summary
+  and FAQ frontmatter.
+autoReviews: 3
+flag: Rejected by the fact-check 3 times; needs a human editor.
 ---
 Luke Littler tem 19 anos e é bicampeão mundial da PDC [s:sky-sports-world-championship-2025-final] [s:sky-sports-world-championship-2026-final]. Nasceu em Warrington, na Inglaterra, em 21 de janeiro de 2007 [s:dartsworld-littler-profile]. É o quarto jogador a defender o título mundial com sucesso [s:sky-sports-world-championship-2026-final].
 
@@ -84,12 +81,11 @@ O Campeonato Mundial da PDC é disputado no Alexandra Palace, em Londres, no com
 
 Littler chegou à final do Mundial de 2024 com 16 anos. Perdeu por 7 a 4 para Luke Humphries e saiu com 200 mil libras como vice [s:nbc-washington-world-final-2024] [s:bolanarede-littler-world-final-2024]. O Bola na Rede lembra que ele foi o finalista mais jovem da história da prova [s:bolanarede-littler-world-final-2024].
 
-A mesma reportagem conta que ele começou a jogar aos 18 meses, entrou numa academia aos 10 anos e venceu o Campeonato Mundial Juniores aos 16 [s:bolanarede-littler-world-final-2024].
 Em janeiro de 2025 ele venceu Michael van Gerwen por 7 sets a 3 [s:dhnet-littler-world-final-2025]. A Sky Sports o apresentou como o campeão mundial mais jovem do esporte, com 17 anos [s:sky-sports-world-championship-2025-final]. A Netflix usa a mesma idade [s:netflix-tudum-beat-luke-littler].
 
 ## A defesa do título em janeiro de 2026
 
-No sábado, 3 de janeiro de 2026, no Alexandra Palace, ele venceu Gian van Veen por 7 a 1 [s:sky-sports-world-championship-2026-final]. Aos 18 anos, o A BOLA o chamou de campeão mundial pela segunda vez seguida, e descreveu o prêmio de 1 milhão de libras como um ganho recorde na competição [s:abola-littler-world-final-2026]. A Sky Sports disse que é a maior premiação da história dos dardos [s:sky-sports-world-championship-2026-final].
+No sábado, 3 de janeiro de 2026, no Alexandra Palace, ele venceu Gian van Veen por 7 a 1 [s:sky-sports-world-championship-2026-final]. Aos 18 anos, o A BOLA o chamou de campeão mundial pela segunda vez seguida [s:abola-littler-world-final-2026]. O prêmio de 1 milhão de libras é, segundo a Sky Sports, a maior premiação da história dos dardos [s:sky-sports-world-championship-2026-final].
 
 Ele é só o quarto jogador a defender o título com sucesso. O último tinha sido Gary Anderson, em 2016 [s:sky-sports-world-championship-2026-final]. A What's on Netflix o apresenta como campeão em dois anos seguidos [s:whats-on-netflix-beat-luke-littler].
 
@@ -106,7 +102,7 @@ A Sky Sports lista seis torneios premier vencidos por Littler na temporada 2025/
 Essa sequência parou no World Series of Darts Finals, em Amsterdã. Ele perdeu por 10 a 4 para Jonny Clayton nas quartas de final, e com isso acabou a tentativa de vencer todos os majors do ano [s:sky-sports-world-series-finals-2026]. Ross Smith levou o torneio ao bater Gerwyn Price por 11 a 5 [s:sky-sports-world-series-finals-2026].
 ## Quantos majors ele tem
 
-A Netflix informa 28 títulos da PDC na carreira de Littler, sendo 13 majors, em uma página datada de 22 de outubro de 2026 [s:netflix-tudum-beat-luke-littler]. A Sky Sports atribuía a ele oito majors no total em novembro de 2025 [s:sky-sports-grand-slam-world-no1-2025]. A diferença vem da data de cada fonte, já que o Mundial de 2026 veio depois [s:sky-sports-world-championship-2026-final].
+A Netflix informa 28 títulos da PDC na carreira de Littler, sendo 13 majors, em uma página datada de 22 de outubro de 2026 [s:netflix-tudum-beat-luke-littler]. A Sky Sports atribuía a ele oito majors no total em novembro de 2025 [s:sky-sports-grand-slam-world-no1-2025]. As duas cifras correspondem a datas diferentes.
 
 ## Distinção
 

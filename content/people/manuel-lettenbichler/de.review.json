@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 30 April 1998",
+      "sourceIds": [
+        "ktm-hero"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: Date of birth 30.04.1998."
+    },
+    {
+      "claim": "German nationality",
+      "sourceIds": [
+        "ktm-hero",
+        "ktm-romaniacs-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: Nationality German; race report labels him (GER) and the German."
+    },
+    {
+      "claim": "Birthplace not named; profile says born and bred in southern Germany",
+      "sourceIds": [
+        "ktm-hero"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile gives no town."
+    },
+    {
+      "claim": "Father Andreas Lettenbichler, former KTM Factory Racing rider",
+      "sourceIds": [
+        "ktm-hero"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile names father and former KTM Factory Racing rider."
+    },
+    {
+      "claim": "Started riding at age five, following his father's tyre tracks",
+      "sourceIds": [
+        "ktm-hero"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: started riding at age five, following his father's tire tracks."
+    },
+    {
+      "claim": "At 16 the youngest rider ever to conquer the Red Bull Erzbergrodeo",
+      "sourceIds": [
+        "ktm-hero"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: At just 16 years old... youngest rider ever to conquer the brutal Red Bull Erzbergrodeo."
+    },
+    {
+      "claim": "Junior FIM SuperEnduro world champion 2016; WESS Enduro world champion 2019",
+      "sourceIds": [
+        "ktm-hero"
+      ],
+      "verdict": "confirmed",
+      "note": "Achievements list shows both years; profile gives years only."
+    },
+    {
+      "claim": "FIM Hard Enduro world champion 2022, 2023, 2024, 2025; only rider with four in a row",
+      "sourceIds": [
+        "ktm-hero"
+      ],
+      "verdict": "confirmed",
+      "note": "Achievements list and quoted sentence match."
+    },
+    {
+      "claim": "Erzbergrodeo 2026 on Sunday 7 June, fifth consecutive win equalling the record",
+      "sourceIds": [
+        "ktm-erzberg-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Page dated 7 Jun 2026, Sunday's main race; equalling the all-time win record and consecutive record."
+    },
+    {
+      "claim": "Erzberg 2026 time 3:05:39.953, Trystan Hart second (also KTM), results provisional",
+      "sourceIds": [
+        "ktm-erzberg-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Provisional results: Lettenbichler 3:05:39.953; Hart 3:14:10.574, KTM."
+    },
+    {
+      "claim": "Lead grew to 40 seconds at checkpoint 13 and five minutes at checkpoint 18",
+      "sourceIds": [
+        "ktm-erzberg-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Race progression text on the page."
+    },
+    {
+      "claim": "Quotes: 'steadily increased his pace and control'; 'Five wins at Erzberg, I have no words!'; 'It feels incredible to make it five in a row and equal the record'",
+      "sourceIds": [
+        "ktm-erzberg-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes match the page; the German text is a translation of them."
+    },
+    {
+      "claim": "Forza Orza in Orsa, Sweden, round four of eight; Lettenbichler wins in 2:20:41",
+      "sourceIds": [
+        "ktm-forza-orza-2026",
+        "motorcycle-forza-orza-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Standings after 4 of 8 rounds; provisional results table."
+    },
+    {
+      "claim": "Standings after four rounds: 117 points for him, 102 for Mitch Brightmore (GB); 15-point lead",
+      "sourceIds": [
+        "ktm-forza-orza-2026",
+        "motorcycle-forza-orza-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Provisional standings; Motorcycle.com reports the 15-point lead at halfway."
+    },
+    {
+      "claim": "Mitch Brightmore on GASGAS second, 3:36 back; Ashton Brightmore third, 7:16 back",
+      "sourceIds": [
+        "motorcycle-forza-orza-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Results table; Mitch Brightmore listed as GASGAS."
+    },
+    {
+      "claim": "Crash in traffic on second-to-last lap; 'I think I did exactly what I had to do'",
+      "sourceIds": [
+        "ktm-forza-orza-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes match the page."
+    },
+    {
+      "claim": "2025 Romaniacs: sixth career win on KTM 300 EXC; third in Sibiu prologue; won both offroad days (first by close to seven minutes); final stage Saturday",
+      "sourceIds": [
+        "ktm-romaniacs-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "All listed in the race report."
+    },
+    {
+      "claim": "2025 Romaniacs provisional times: 21:41:45; Billy Bolt 22:14:56 second; Mario Roman third",
+      "sourceIds": [
+        "ktm-romaniacs-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Provisional results (Roman listed third, Sherco)."
+    },
+    {
+      "claim": "2026 Romaniacs seventh win, record-equalling; provisional time 22:14:41",
+      "sourceIds": [
+        "ktm-romaniacs-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Equals all-time record of seven wins; provisional results list him first at 22:14:41."
+    },
+    {
+      "claim": "'the German controlled the race from the first offroad stage to the finish'",
+      "sourceIds": [
+        "ktm-romaniacs-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Page says from the opening offroad stage to the finish; the German wording is a faithful translation."
+    },
+    {
+      "claim": "Quote: 'To win Red Bull Romaniacs for the seventh time is something I never expected, and it's an unreal feeling'",
+      "sourceIds": [
+        "ktm-romaniacs-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote present on the page."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Chronological, sourced timeline with the provisional-results caveats and the 2026 season state; the new paragraph adds the age-five start and the age-16 Erzberg record from KTM's profile.",
+  "decision": "approve",
+  "summary": "All checked claims match their cited KTM and Motorcycle.com pages, including the added sentences on the age-five start and the age-16 Erzberg record."
+}

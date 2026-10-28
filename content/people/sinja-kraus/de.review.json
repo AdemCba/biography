@@ -1,0 +1,137 @@
+{
+  "date": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 29 April 2002 in Vienna",
+      "sourceIds": [
+        "wta-profile",
+        "tennisexplorer-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "WTA: Apr 29, 2002, Vienna, Austria; TennisExplorer: Age 24 (29.4.2002)."
+    },
+    {
+      "claim": "Austrian nationality; right-handed; coach Alexander Grau",
+      "sourceIds": [
+        "wta-profile",
+        "tennisexplorer-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "WTA profile: AUT, Right-Handed, Coached by Alexander Grau; TennisExplorer country Austria."
+    },
+    {
+      "claim": "Beat Dajana Jastremska 6-1 6-4 in 1h33m in Beijing; first WTA 1000 main-draw win; first-round exits in Miami, Madrid, Rome, Cincinnati; next opponent Nikola Bartunkova",
+      "sourceIds": [
+        "vol-peking-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "All stated in the article."
+    },
+    {
+      "claim": "Six years in New York as a baby; grew up in Mainz; Young Player of the Year 2019; sports soldier since 2020",
+      "sourceIds": [
+        "ladies-linz-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Page: six years in New York as a baby; Mainz; 2019 award; sports soldier since 2020."
+    },
+    {
+      "claim": "2021 wildcard for the main draw in Linz; coach Babak Momeni of about 13 years parted ways",
+      "sourceIds": [
+        "ladies-linz-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes: 'In 2021, I got a wildcard for the main draw myself!' and parting with longstanding coach Babak Momeni after 13 years."
+    },
+    {
+      "claim": "Villach May 2022 ITF W25 title; final over Weronika Falkowska 7-5 3-6 6-4",
+      "sourceIds": [
+        "tennisnet-villach-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Article confirms the event and score."
+    },
+    {
+      "claim": "Collonge-Bellerive W60 win over fourth seed Carolina Alves 6-3 6-3; semi-final; ranked 204",
+      "sourceIds": [
+        "tennisnet-collonge-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Article confirms all four points."
+    },
+    {
+      "claim": "Crete ITF tournament, 40,000 dollars, November 2023; career-high 151 in May 2023",
+      "sourceIds": [
+        "ladies-linz-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes match the page."
+    },
+    {
+      "claim": "Two WTA 125 singles titles: Cali 2025 and Kitzbühel 2026",
+      "sourceIds": [
+        "wta-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: Winner (2), 2026 Kitzbuhel, 2025 Cali."
+    },
+    {
+      "claim": "Kitzbühel round of 16 win over Eva Bennemann 6-1 6-1, as reported by Der Standard",
+      "sourceIds": [
+        "derstandard-kitzbuehel-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Article reports the 6:1, 6:1 win in the round of 16."
+    },
+    {
+      "claim": "Seventy-fifth in WTA rankings on 7 October 2026 after Beijing; said top 50 quite possible",
+      "sourceIds": [
+        "vienna-ranking-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Article: improves to 75th; 'durchaus möglich'."
+    },
+    {
+      "claim": "Highest singles ranking 75, current 77 as of 28 October 2026",
+      "sourceIds": [
+        "tennisexplorer-profile",
+        "wta-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "TennisExplorer: Current/Highest 77/75; WTA profile shows 77."
+    },
+    {
+      "claim": "Guangzhou 26 October 2026 win over Panna Udvardy 6-4 6-2",
+      "sourceIds": [
+        "tennisexplorer-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Row 26.10. Kraus S. - Udvardy P., 6-4 6-2."
+    },
+    {
+      "claim": "Stats Insider model gave Kraus a 61 per cent chance",
+      "sourceIds": [
+        "statsinsider-guangzhou-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Preview states 61% chance."
+    },
+    {
+      "claim": "Lost 1-6 4-6 to Badosa in the round of 16 two days later",
+      "sourceIds": [
+        "tennisexplorer-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Row 28.10. Badosa P. - Kraus S., R16, 6-1 6-4 from Badosa's side."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "A sourced career timeline for a player with few English-language pages; the new sentences add the 2021 Linz wildcard and the split from her longtime coach, both from the Linz profile.",
+  "decision": "approve",
+  "summary": "All checked claims match their cited WTA, TennisExplorer, press and Linz profile pages, including the two added sentences."
+}

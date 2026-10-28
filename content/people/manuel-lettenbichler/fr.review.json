@@ -1,0 +1,186 @@
+{
+  "date": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Né le 30 avril 1998; nationalité allemande (profil KTM)",
+      "sourceIds": [
+        "ktm-hero"
+      ],
+      "verdict": "confirmed",
+      "note": "DATE OF BIRTH 30.04.1998; NATIONALITY GERMAN."
+    },
+    {
+      "claim": "'né et élevé dans les paysages escarpés du sud de l'Allemagne'",
+      "sourceIds": [
+        "ktm-hero"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote present (translated)."
+    },
+    {
+      "claim": "Père Andreas Lettenbichler, pilote de hard enduro et ancien pilote KTM Factory Racing",
+      "sourceIds": [
+        "ktm-hero"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed; 'légende' removed."
+    },
+    {
+      "claim": "Champion du monde junior FIM SuperEnduro 2016; WESS Enduro 2019",
+      "sourceIds": [
+        "ktm-hero"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Champion du monde FIM Hard Enduro 2022-2025; 'le seul pilote de l'histoire ... quatre ... consécutifs'",
+      "sourceIds": [
+        "ktm-hero"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Huit manches 2026; après quatre, 117 points contre 102 pour Mitch Brightmore (Grande-Bretagne)",
+      "sourceIds": [
+        "ktm-forza-orza-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Avance de 15 points à mi-saison",
+      "sourceIds": [
+        "motorcycle-forza-orza-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Romaniacs: rallye de plusieurs jours disputé en Roumanie",
+      "sourceIds": [
+        "ktm-romaniacs-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Multi-day rally in Romania; Carpathians removed."
+    },
+    {
+      "claim": "Romaniacs 2025: sixième victoire, KTM 300 EXC, troisième du prologue à Sibiu, près de sept minutes, deuxième journée",
+      "sourceIds": [
+        "ktm-romaniacs-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Romaniacs 2025: 21:41:45 provisoire; Billy Bolt deuxième 22:14:56; Mario Román troisième",
+      "sourceIds": [
+        "ktm-romaniacs-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Times and placings confirmed; nationalities removed."
+    },
+    {
+      "claim": "Dernière étape le samedi; '(GER)'; 'l'Allemand'",
+      "sourceIds": [
+        "ktm-romaniacs-2025",
+        "ktm-hero"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Romaniacs 2026: 22:14:41; 'l'Allemand a contrôlé la course...'; citation septième victoire",
+      "sourceIds": [
+        "ktm-romaniacs-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Romaniacs 2026 suivent l'Erzbergrodeo (sans saison)",
+      "sourceIds": [
+        "ktm-romaniacs-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'à l'été' removed; no season claim remains."
+    },
+    {
+      "claim": "Septième victoire égale le record historique",
+      "sourceIds": [
+        "ktm-romaniacs-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Erzbergrodeo 2026 dimanche 7 juin; 3:05:39,953 provisoire; Trystan Hart (Canada, KTM) deuxième",
+      "sourceIds": [
+        "ktm-erzberg-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Cinq victoires égalent le record, ne le dépassent pas",
+      "sourceIds": [
+        "ktm-erzberg-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Citations Erzberg",
+      "sourceIds": [
+        "ktm-erzberg-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Forza Orza à Orsa, Suède, quatrième manche sur huit; titre KTM sur la position de leader",
+      "sourceIds": [
+        "ktm-forza-orza-2026",
+        "motorcycle-forza-orza-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Forza Orza 2:20:41; Mitch Brightmore 3:36; Ashton Brightmore 7:16",
+      "sourceIds": [
+        "motorcycle-forza-orza-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Citations Forza Orza",
+      "sourceIds": [
+        "ktm-forza-orza-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Frontmatter et FAQ",
+      "sourceIds": [
+        "ktm-hero",
+        "ktm-erzberg-2026",
+        "ktm-romaniacs-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Backed by body and sources."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Timeline, provisional-results caveat and equalled-vs-beaten record distinction.",
+  "decision": "approve",
+  "summary": "All cited claims confirmed after removing unsupported wording (légende, Carpates, à l'été, Bolt and Román nationalities)."
+}

@@ -1,0 +1,120 @@
+{
+  "id": "sinja-kraus",
+  "name": "Sinja Kraus",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 2,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "2002-04-29",
+      "sources": [
+        "wta-profile",
+        "tennisexplorer-profile"
+      ],
+      "note": "WTA profile shows Apr 29, 2002; TennisExplorer shows 29.4.2002. No conflict found."
+    },
+    "birthPlace": {
+      "value": "Vienna, Austria",
+      "sources": [
+        "wta-profile"
+      ],
+      "note": "Stated on the WTA profile only. TennisExplorer does not state a birthplace."
+    },
+    "nationality": {
+      "value": [
+        "AT"
+      ],
+      "sources": [
+        "wta-profile",
+        "tennisexplorer-profile"
+      ],
+      "note": "WTA profile: Austrian (AUT). TennisExplorer: Country Austria."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "wta-profile",
+      "url": "https://www.wtatennis.com/players/327061/sinja-kraus",
+      "title": "Sinja Kraus - WTA player profile",
+      "publisher": "WTA",
+      "type": "league-or-federation",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "tennisexplorer-profile",
+      "url": "http://www.tennisexplorer.com/player/kraus-e1937/",
+      "title": "Kraus Sinja - player profile",
+      "publisher": "TennisExplorer",
+      "type": "database",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "statsinsider-guangzhou-2026",
+      "url": "https://www.statsinsider.com.au/news/panna-udvardy-vs-sinja-kraus-prediction-wta-guangzhou-2026",
+      "title": "Panna Udvardy vs Sinja Kraus prediction, WTA Guangzhou 2026",
+      "publisher": "Stats Insider",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "vienna-ranking-2026",
+      "url": "https://www.vienna.at/sinja-kraus-hat-weitere-rangverbesserung-im-visier/10524473",
+      "title": "Sinja Kraus hat weitere Rangverbesserung im Visier",
+      "publisher": "vienna.at",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "de"
+    },
+    {
+      "id": "tennisnet-villach-2022",
+      "url": "https://www.tennisnet.com/en/news/itf-tour-villach-sinja-kraus-wins-the-first-title-of-the-season-at-home",
+      "title": "ITF Tour Villach: Sinja Kraus wins the first title of the season at home",
+      "publisher": "Tennisnet",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "vol-peking-2026",
+      "url": "https://www.vol.at/kraus-zieht-in-peking-ins-achtelfinale-ein/10516100",
+      "title": "Kraus zieht in Peking ins Achtelfinale ein",
+      "publisher": "vol.at",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "de"
+    },
+    {
+      "id": "ladies-linz-2023",
+      "url": "https://ladieslinz.at/en/?p=4446",
+      "title": "Sinja Kraus profile, Upper Austria Ladies Linz",
+      "publisher": "Upper Austria Ladies Linz",
+      "type": "official",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "tennisnet-collonge-2022",
+      "url": "https://www.tennisnet.com/en/news/itf-sinja-kraus-in-collonge-bellerive-in-the-semifinals",
+      "title": "ITF: Sinja Kraus in Collonge-Bellerive in the semifinals",
+      "publisher": "Tennisnet",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "derstandard-kitzbuehel-2026",
+      "url": "https://www.derstandard.at/story/3000000331803/kraus-zieht-im-eiltempo-ins-kitzbuehel-viertelfinale-ein",
+      "title": "Kraus zieht im Eiltempo ins Kitzbühel-Viertelfinale ein",
+      "publisher": "Der Standard",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "de"
+    }
+  ]
+}

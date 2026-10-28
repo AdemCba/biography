@@ -1,0 +1,89 @@
+{
+  "worthWriting": true,
+  "reason": "Active Austrian WTA singles player, career-high No. 75, two WTA 125 singles titles. Live news: round-of-32 match at the 2026 Guangzhou Open against Panna Udvardy on 26 October 2026. Three or more solid sources opened.",
+  "wikidata": "",
+  "importance": 2,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "wta-profile",
+      "url": "https://www.wtatennis.com/players/327061/sinja-kraus",
+      "title": "Sinja Kraus - WTA player profile",
+      "publisher": "WTA",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "tennisexplorer-profile",
+      "url": "http://www.tennisexplorer.com/player/kraus-e1937/",
+      "title": "Kraus Sinja - player profile",
+      "publisher": "TennisExplorer",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "statsinsider-guangzhou-2026",
+      "url": "https://www.statsinsider.com.au/news/panna-udvardy-vs-sinja-kraus-prediction-wta-guangzhou-2026",
+      "title": "Panna Udvardy vs Sinja Kraus prediction, WTA Guangzhou 2026",
+      "publisher": "Stats Insider",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "vienna-ranking-2026",
+      "url": "https://www.vienna.at/sinja-kraus-hat-weitere-rangverbesserung-im-visier/10524473",
+      "title": "Sinja Kraus hat weitere Rangverbesserung im Visier",
+      "publisher": "vienna.at",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "tennisnet-villach-2022",
+      "url": "https://www.tennisnet.com/en/news/itf-tour-villach-sinja-kraus-wins-the-first-title-of-the-season-at-home",
+      "title": "ITF Tour Villach: Sinja Kraus wins the first title of the season at home",
+      "publisher": "Tennisnet",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "2002-04-29",
+      "sources": [
+        "wta-profile",
+        "tennisexplorer-profile"
+      ],
+      "note": "WTA profile shows Apr 29, 2002; TennisExplorer shows 29.4.2002. No conflict found."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Vienna, Austria",
+      "sources": [
+        "wta-profile"
+      ],
+      "note": "Stated on the WTA profile only. TennisExplorer does not state a birthplace."
+    },
+    "nationality": {
+      "value": "AT",
+      "sources": [
+        "wta-profile",
+        "tennisexplorer-profile"
+      ],
+      "note": "WTA profile: Austrian (AUT). TennisExplorer: Country Austria."
+    }
+  },
+  "targetQueries": [
+    "Sinja Kraus age",
+    "how old is Sinja Kraus",
+    "Sinja Kraus ranking",
+    "Sinja Kraus WTA ranking",
+    "Sinja Kraus Guangzhou",
+    "Sinja Kraus vs Panna Udvardy",
+    "Sinja Kraus coach",
+    "Sinja Kraus WTA 125 titles",
+    "Sinja Kraus Kitzbuhel",
+    "where is Sinja Kraus from",
+    "Sinja Kraus Cali title"
+  ],
+  "gapNote": "Current ranking conflicts: WTA profile and TennisExplorer show No. 77 (WTA undated; TennisExplorer page dated 28 Oct 2026), Wikipedia (not citable) shows No. 76 as of 19 Oct 2026. Career high No. 75 (Oct 2026, from vienna.at quote context and TennisExplorer). Guangzhou result not confirmed: the WTA player record page lists a round-of-32 win 6-4 6-2 but its opponent field is wrong and no dated report was found; previews only. Doubles career high No. 207 is not on the WTA profile and was not verified from an opened source. No Austrian federation (OEVT) profile was found."
+}

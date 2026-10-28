@@ -1,0 +1,186 @@
+{
+  "date": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Geboren 17. Januar 1990 in Madrid, Nationalität Spanien; im Oktober 2026 36 Jahre alt",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Endurowow profile; arithmetic from the birth date."
+    },
+    {
+      "claim": "Sieg im Hauptrennen 'The Lost Road' am Sonntag, 25. Oktober 2026, Finale der Hard-Enduro-WM der FIM",
+      "sourceIds": [
+        "speedweek-hixpania-2026",
+        "cyclenews-hixpania-2026",
+        "moto1pro-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Race name and win in Speedweek; last FIM round per Moto1Pro; 25 October 2026 is a Sunday, the weekday is inferred from the date."
+    },
+    {
+      "claim": "Rennen rund um Aguilar de Campoo in der Provinz Palencia",
+      "sourceIds": [
+        "moto1pro-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Moto1Pro: disputada en Aguilar de Campoo (Palencia)."
+    },
+    {
+      "claim": "Zeit 2:11:18,43, gut eine Minute vor Lettenbichler, der den sechsten Titel und den fünften in Folge bereits gesichert hatte",
+      "sourceIds": [
+        "cyclenews-hixpania-2026",
+        "mcnews-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "MCNews: 2h11m18.43s, 1m00.82s margin. Cycle News: title clinched before the main race."
+    },
+    {
+      "claim": "Aus der siebten Startreihe, übernahm in der Schlussphase die Führung",
+      "sourceIds": [
+        "speedweek-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Speedweek."
+    },
+    {
+      "claim": "Beim SuperEncierro Achter, beim Campoo Xtreme Siebter",
+      "sourceIds": [
+        "mcnews-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "MCNews."
+    },
+    {
+      "claim": "Speedweek: Sieg acht Jahre nach dem ersten Erfolg bei diesem Rennen",
+      "sourceIds": [
+        "speedweek-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Speedweek wording confirmed."
+    },
+    {
+      "claim": "Billy Bolt Dritter, 5:26 hinter Román; Mitch Brightmore Vierter; Plätze vier bis zehn ohne Abstände",
+      "sourceIds": [
+        "cyclenews-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Cycle News table and gap statement."
+    },
+    {
+      "claim": "Lettenbichler (KTM) Zweiter; Plätze fünf bis sieben James Moore, Ashton Brightmore, Teo Kabakchiev",
+      "sourceIds": [
+        "cyclenews-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Cycle News top-ten table. The 2:12:19 time is not in the source and is not repeated as a sourced figure in the cited sentence."
+    },
+    {
+      "claim": "Gesamtwertung des Jahres: Rang sechs",
+      "sourceIds": [
+        "moto1pro-hixpania-2026",
+        "mcnews-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Moto1Pro and MCNews."
+    },
+    {
+      "claim": "Sherco 2017 bis 2025; 2026 Husqvarna TE 300 für das MR74 Racing Team",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Endurowow."
+    },
+    {
+      "claim": "Zweiter Platz in der Hard-Enduro-WM 2022",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Endurowow: runner-up 2022."
+    },
+    {
+      "claim": "Romaniacs Dritter 2024 und 2025; 2026 Klasse Adventure Ultimate auf CFMOTO 450MT",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Endurowow."
+    },
+    {
+      "claim": "Erzbergrodeo Dritter 2024 und 2026; Hixpania Zweiter 2023 und 2024, Fünfter 2025",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Endurowow."
+    },
+    {
+      "claim": "Siege Hell's Gate 2018, Alestrem 2018, 2020, 2022; EL INKA, Porto Extreme XL Lagares, Sea to Sky 2019",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Endurowow."
+    },
+    {
+      "claim": "GetzenRodeo Dritter 2023 und Zweiter 2025; 2026 Vierter in Alestrem und Fünfter in Abestone",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Endurowow: GetzenRodeo 3rd 2023, 2nd 2025; Alestrem 4th and Abestone 5th in 2026."
+    },
+    {
+      "claim": "Telemadrid Februar 2018: 28 Jahre, Madrilene, Enduro-Extremo-Weltmeister",
+      "sourceIds": [
+        "telemadrid-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "Telemadrid article dated 2 February 2018."
+    },
+    {
+      "claim": "Palencia en la Red: Europameister 2015, Weltmeister 2019",
+      "sourceIds": [
+        "palencia-en-la-red-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Interview states both titles; the page reports the conflict."
+    },
+    {
+      "claim": "Fahrerprofil: zweiter Platz WM 2022, kein Weltmeistertitel 2019",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Endurowow profile."
+    },
+    {
+      "claim": "Interview vom 20. Oktober 2024: 34 Jahre; wichtigster spanischer Vertreter in der Hard-Enduro-WM",
+      "sourceIds": [
+        "palencia-en-la-red-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Interview publication date, age and wording confirmed."
+    },
+    {
+      "claim": "Sonntagslauf entschieden in 2:11:18,43; Lettenbichler hatte den Titel vor dem letzten Lauf gewonnen und wurde am Sonntag Zweiter",
+      "sourceIds": [
+        "cyclenews-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Cycle News: title clinched before the main event; Lettenbichler second."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "The page gives the full top-seven race order and the rider's results outside the world series, and flags the title conflict between Palencia en la Red and Endurowow.",
+  "decision": "approve",
+  "summary": "All cited claims check out against the opened sources. Added the GetzenRodeo, Alestrem and Abestone results and the Lettenbichler title-before-the-final sentence, each confirmed."
+}

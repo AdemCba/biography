@@ -1,0 +1,86 @@
+{
+  "worthWriting": true,
+  "reason": "Active factory hard-enduro rider for Red Bull KTM with several 2026 wins verified on KTM's own race reports. Three or more solid sources, all opened.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "ktm-hero",
+      "url": "https://ktm.com/racing/our-heroes/manuel-lettenbichler",
+      "title": "Manuel Lettenbichler",
+      "publisher": "KTM Racing",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "ktm-erzberg-2026",
+      "url": "https://www.ktm.com/en-se/racing/racing-news/mani-lettenbichler-makes-history-with-fifth-consecutive-erzbergr.html",
+      "title": "Mani Lettenbichler makes history with fifth consecutive Erzbergrodeo victory",
+      "publisher": "KTM Racing",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "ktm-romaniacs-2025",
+      "url": "https://www.ktm.com/en-hu/racing/racing-news/manuel-lettenbichler-wins-2025-red-bull-romaniacs.html",
+      "title": "Manuel Lettenbichler wins 2025 Red Bull Romaniacs",
+      "publisher": "KTM Racing",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "ktm-romaniacs-2026",
+      "url": "https://www.ktm.com/en-us/racing/racing-news/record-equalling-seventh-red-bull-romaniacs-win-for-mani-lettenb.html",
+      "title": "Record-equalling seventh Red Bull Romaniacs win for Mani Lettenbichler",
+      "publisher": "KTM Racing",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "ktm-forza-orza-2026",
+      "url": "https://www.ktm.com/de-ch/racing/racing-news/mani-lettenbichler-wins-forza-orza-to-strengthen-hard-enduro-cha.html",
+      "title": "Mani Lettenbichler wins Forza Orza to strengthen Hard Enduro championship lead",
+      "publisher": "KTM Racing",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "motorcycle-forza-orza-2026",
+      "url": "https://www.motorcycle.com/bikes/mani-lettenbichler-wins-forza-orza-hard-enduro-in-sweden-44670163",
+      "title": "Mani Lettenbichler Wins Forza Orza Hard Enduro in Sweden",
+      "publisher": "Motorcycle.com",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1998-04-30",
+      "sources": [
+        "ktm-hero"
+      ],
+      "note": "Stated as DATE OF BIRTH on the KTM rider profile. Not cross-checked with a second source."
+    },
+    "deathDate": null,
+    "birthPlace": null,
+    "nationality": {
+      "value": "DE",
+      "sources": [
+        "ktm-hero",
+        "ktm-erzberg-2026"
+      ],
+      "note": "KTM profile lists NATIONALITY: GERMAN; KTM race reports describe him as the German."
+    }
+  },
+  "targetQueries": [
+    "how old is Manuel Lettenbichler",
+    "Manuel Lettenbichler nationality",
+    "Manuel Lettenbichler Erzbergrodeo wins",
+    "Manuel Lettenbichler Red Bull Romaniacs wins",
+    "Manuel Lettenbichler Hard Enduro World Championship",
+    "Manuel Lettenbichler KTM",
+    "Manuel Lettenbichler father Andreas"
+  ],
+  "gapNote": "Top results mix Wikipedia and team press pages. The gap is a single dated timeline of his 2026 wins (Erzbergrodeo 7 June, Romaniacs 1 August, Forza Orza in August) with the HEWC standing after round four. The Hixpania 2026 'fifth world title' headline could not be opened (El Norte de Castilla fetch failed) and no second source confirmed it, so it is left out. Birth place is not stated by any opened source."
+}

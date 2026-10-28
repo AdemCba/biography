@@ -1,0 +1,256 @@
+{
+  "date": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Mario Román was born 17 January 1990 in Madrid; nationality Spain",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Endurowow profile states born 17 January 1990, Madrid, nationality Spain."
+    },
+    {
+      "claim": "Age 36 as of October 2026",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic from 17 Jan 1990 to 28 Oct 2026 gives 36."
+    },
+    {
+      "claim": "Román is a Spanish hard-enduro rider from Madrid",
+      "sourceIds": [
+        "endurowow-mario-roman",
+        "telemadrid-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "Telemadrid 2018 calls him madrileño; Endurowow gives Madrid birthplace."
+    },
+    {
+      "claim": "Won the main race 'The Lost Road' of Hixpania, the final round of the 2026 FIM Hard Enduro World Championship, on Sunday 25 October 2026",
+      "sourceIds": [
+        "speedweek-hixpania-2026",
+        "cyclenews-hixpania-2026",
+        "moto1pro-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Speedweek names 'The Lost Road' and Román's win; Moto1Pro calls it the last round of the FIM championship. No source states 25 October explicitly; articles are dated 26.10.2026 and refer to Sunday, which is 25 October 2026. Acceptable inference."
+    },
+    {
+      "claim": "Event held around Aguilar de Campoo, Palencia province",
+      "sourceIds": [
+        "moto1pro-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Moto1Pro gives Aguilar de Campoo (Palencia)."
+    },
+    {
+      "claim": "Finished in 2:11:18.43",
+      "sourceIds": [
+        "cyclenews-hixpania-2026",
+        "mcnews-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources give 2:11:18.43."
+    },
+    {
+      "claim": "About a minute ahead of Manuel Lettenbichler",
+      "sourceIds": [
+        "mcnews-hixpania-2026",
+        "speedweek-hixpania-2026",
+        "moto1pro-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Margin 1:00.82 (MCNews) and +1:00.8 (Speedweek)."
+    },
+    {
+      "claim": "Lettenbichler had clinched his sixth world title and fifth in a row before the final round",
+      "sourceIds": [
+        "cyclenews-hixpania-2026",
+        "mcnews-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Cycle News: fifth consecutive title and sixth career title; MCNews says he clinched it ahead of schedule after Friday."
+    },
+    {
+      "claim": "Román started from the seventh row",
+      "sourceIds": [
+        "speedweek-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Speedweek: 'Starting from the seventh row'."
+    },
+    {
+      "claim": "Took the lead in the closing stages",
+      "sourceIds": [
+        "speedweek-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Speedweek: he pulled away in the final three laps."
+    },
+    {
+      "claim": "Eighth in Friday's SuperEncierro and seventh in Saturday's Campoo Xtreme",
+      "sourceIds": [
+        "mcnews-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "MCNews: eighth on Friday, seventh on Saturday."
+    },
+    {
+      "claim": "Sunday win came eight years after his first Hixpania victory",
+      "sourceIds": [
+        "speedweek-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Speedweek: 'eight years after his first victory in Hixpania'."
+    },
+    {
+      "claim": "Finished sixth overall in the 2026 championship",
+      "sourceIds": [
+        "moto1pro-hixpania-2026",
+        "mcnews-hixpania-2026",
+        "speedweek-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Moto1Pro: sexto in general classification; MCNews: 6th with 120 points."
+    },
+    {
+      "claim": "Lettenbichler finished second on the day",
+      "sourceIds": [
+        "cyclenews-hixpania-2026",
+        "moto1pro-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Moto1Pro: second in the main race."
+    },
+    {
+      "claim": "Sherco 2017 to 2025; 2026 Husqvarna TE 300 for own MR74 Racing Team",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Endurowow: Sherco 2017-2025; 2026 MR74 Racing Team, Husqvarna TE 300."
+    },
+    {
+      "claim": "Runner-up in the 2022 FIM Hard Enduro World Championship as best world championship result",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Endurowow: runner-up 2022 FIM Hard Enduro World Championship."
+    },
+    {
+      "claim": "Third at Red Bull Romaniacs in 2024 and 2025; win in Adventure Ultimate class at 2026 edition on CFMOTO 450MT",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Endurowow: 3rd 2024, 3rd 2025, 2026 Adventure Ultimate winner on CFMOTO 450MT."
+    },
+    {
+      "claim": "Third at Red Bull Erzbergrodeo in 2024 and 2026",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Endurowow: 2024 listed as Red Bull Hare Scramble 3rd; 2026 Erzbergrodeo 3rd in Notable Races. Same event under its later name is an inference the editor may wish to note."
+    },
+    {
+      "claim": "Second place at Hixpania in 2023 and 2024; fifth in 2025",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Endurowow: 2023 2nd, 2024 2nd, 2025 5th."
+    },
+    {
+      "claim": "Telemadrid February 2018: Madrid rider, world champion in Enduro Extremo, aged 28",
+      "sourceIds": [
+        "telemadrid-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated 2 Feb 2018: 'Mario Román, madrileño y de 28 años, un campeón del mundo de Enduro Extremo'."
+    },
+    {
+      "claim": "Wins: Hell's Gate Metzeler 2018, Alestrem 2018, EL INKA 2019, Toyota Porto Extreme XL Lagares 2019",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Endurowow achievements list these wins."
+    },
+    {
+      "claim": "Alestrem wins again in 2020 and 2022",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Endurowow Notable Races section lists these Alestrem wins."
+    },
+    {
+      "claim": "Sea to Sky win in 2019",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Endurowow lists the 2019 Sea to Sky win."
+    },
+    {
+      "claim": "Third at GetzenRodeo in 2023 and second in 2025",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Endurowow: 3rd 2023, 2nd 2025. No GetzenRodeo win listed."
+    },
+    {
+      "claim": "2026: fourth at Alestrem and fifth at Abestone",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Endurowow Notable Races: Alestrem 4th, Abestone 5th."
+    },
+    {
+      "claim": "Palencia en la Red 2024 interview quotes him as 34 years old",
+      "sourceIds": [
+        "palencia-en-la-red-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Interview dated 20/10/2024: 'Pues actualmente tengo 34 años'."
+    },
+    {
+      "claim": "Palencia en la Red describes him as the top Spanish representative in the world hard-enduro championship",
+      "sourceIds": [
+        "palencia-en-la-red-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Interview: 'máximo representante español de hard enduro en el Campeonato del Mundo'."
+    },
+    {
+      "claim": "Palencia en la Red reports European champion in 2015 (first full season) and world champion in 2019",
+      "sourceIds": [
+        "palencia-en-la-red-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Interview says both. The article correctly flags the conflict with Endurowow."
+    },
+    {
+      "claim": "Endurowow profile does not list a 2019 world title",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Endurowow lists 2022 runner-up as best world result; no 2019 world title found."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "The page flags the conflict between Palencia en la Red (2015 European and 2019 world titles) and the Endurowow profile, and uses the exact birth date from the profile, which the other sources do not give.",
+  "decision": "approve",
+  "summary": "All cited claims check out against the sources. The earlier unsupported sentences (Hixpania 2018 year, Sea to Sky 2025/2026 second places, uncited birth-year sentence, process note about FIM results) were removed."
+}

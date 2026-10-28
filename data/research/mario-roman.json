@@ -1,0 +1,104 @@
+{
+  "worthWriting": true,
+  "reason": "Spanish hard-enduro rider with a 2026 Hixpania win (FIM Hard Enduro World Championship round 8, final round), a 2022 championship runner-up place and a 2026 move to his own MR74 Racing Team. Several sources agree on the core career facts.",
+  "wikidata": "",
+  "importance": 3,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "cyclenews-hixpania-2026",
+      "url": "https://www.cyclenews.com/2026/10/article/2026-fim-hard-enduro-round-8-results/",
+      "title": "2026 FIM Hard Enduro Round 8 Results",
+      "publisher": "Cycle News",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "speedweek-hixpania-2026",
+      "url": "https://www.speedweek.com/en/a/hard-enduro-wc/hard-enduro-hixpania-roman-home-victory-lettenbichler-world-champion",
+      "title": "Hard Enduro Hixpania: Román claims home victory",
+      "publisher": "Speedweek",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "moto1pro-hixpania-2026",
+      "url": "https://www.moto1pro.com/enduropro/actualidad/mario-roman-gana-la-hixpania-y-lettenbichler-conquista-su-sexto-mundial",
+      "title": "Mario Román gana la Hixpania y Lettenbichler conquista su sexto Mundial",
+      "publisher": "Moto1Pro",
+      "type": "press",
+      "lang": "es"
+    },
+    {
+      "id": "mcnews-hixpania-2026",
+      "url": "https://www.mcnews.com.au/roman-wins-hixpania-finale-as-lettenbichler-secures-fifth-straight-world-title/",
+      "title": "Román wins Hixpania finale as Lettenbichler secures fifth straight world title",
+      "publisher": "MCNews",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "endurowow-mario-roman",
+      "url": "https://endurowow.com/riders/mario-roman",
+      "title": "Mario Román, rider profile",
+      "publisher": "Endurowow",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "palencia-en-la-red-interview",
+      "url": "https://www.palenciaenlared.es/entrevista-con-mario-roman-piloto-de-hard-enduro/",
+      "title": "Entrevista con Mario Román, piloto de hard enduro",
+      "publisher": "Palencia en la Red",
+      "type": "interview",
+      "lang": "es"
+    },
+    {
+      "id": "telemadrid-2018",
+      "url": "https://www.telemadrid.es/deportes/Mario-Roman-campeon-Enduro-Extremo-0-1981901828--20180202101609.html",
+      "title": "Mario Román, campeón del mundo de Enduro Extremo",
+      "publisher": "Telemadrid",
+      "type": "press",
+      "lang": "es"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1990-01-17",
+      "sources": [
+        "endurowow-mario-roman"
+      ],
+      "note": "Only Endurowow gives the exact day. The Palencia en la Red interview (published 20/10/2024) quotes him as 34 years old, which fits a 1990 birth year. A search snippet from another database lists 16 January 1991, which was not opened and is not used."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Madrid, Spain",
+      "sources": [
+        "endurowow-mario-roman",
+        "telemadrid-2018"
+      ],
+      "note": "Endurowow gives Madrid as place of birth. Telemadrid calls him a Madrid native (madrileño) without stating the birthplace. No source gives Palencia."
+    },
+    "nationality": {
+      "value": "ES",
+      "sources": [
+        "endurowow-mario-roman",
+        "palencia-en-la-red-interview"
+      ],
+      "note": "Endurowow lists Spain. The interview calls him the top Spanish representative in the world championship."
+    }
+  },
+  "targetQueries": [
+    "Mario Román hard enduro",
+    "Mario Román Hixpania 2026",
+    "Mario Román edad",
+    "Mario Román nacionalidad",
+    "Mario Román Husqvarna",
+    "Mario Román MR74 Racing Team",
+    "Mario Román Sherco",
+    "Mario Román Romaniacs 2026",
+    "Where is Mario Román from",
+    "Mario Román biografía"
+  ],
+  "gapNote": "The available coverage is race reports for the 2026 Hixpania final. Little of it places that win in his career: the Sherco years (2017 to 2025), the 2022 world championship runner-up place, the 2018 Hixpania win, and the 2026 move to his own MR74 Racing Team on a Husqvarna TE 300. A page that sets those turning points out with sourced dates can answer the career question better than race-day reports. No official FIM or organizer results page was reachable, so the result rests on press reports that agree with each other."
+}

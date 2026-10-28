@@ -1,0 +1,201 @@
+{
+  "date": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Nascida em Viena em 29 de abril de 2002",
+      "sourceIds": [
+        "wta-profile",
+        "tennisexplorer-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "WTA: Apr 29, 2002, Vienna; TennisExplorer: 29. 4. 2002."
+    },
+    {
+      "claim": "Nacionalidade austríaca",
+      "sourceIds": [
+        "wta-profile",
+        "tennisexplorer-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "WTA AUT; TennisExplorer Austria."
+    },
+    {
+      "claim": "24 anos em 28 de outubro de 2026",
+      "sourceIds": [
+        "tennisexplorer-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic from confirmed birth date."
+    },
+    {
+      "claim": "Outubro de 2026: primeiras oitavas de final em WTA 1000; vitória sobre Jastremska 6-1 6-4 em 1h33 em Pequim; primeira vitória na chave principal",
+      "sourceIds": [
+        "vol-peking-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Vol confirms score, duration and first WTA 1000 main-draw win."
+    },
+    {
+      "claim": "Primeira rodada perdida em Miami, Madri, Roma e Cincinnati",
+      "sourceIds": [
+        "vol-peking-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Vol confirms first-round exits at those events."
+    },
+    {
+      "claim": "Próxima adversária Nikola Bartunkova (tcheca)",
+      "sourceIds": [
+        "vol-peking-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Vol names Bartunkova as next opponent."
+    },
+    {
+      "claim": "Seis anos em Nova York quando bebê e depois Mainz",
+      "sourceIds": [
+        "ladies-linz-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Ladies Linz confirms; 'trabalho do pai' reason removed."
+    },
+    {
+      "claim": "2019 Jovem Promessa do Ano da Áustria (Upper Austria Ladies Linz)",
+      "sourceIds": [
+        "ladies-linz-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Ladies Linz states the 2019 honour."
+    },
+    {
+      "claim": "Desde 2020 atleta militar nas Forças Armadas austríacas",
+      "sourceIds": [
+        "ladies-linz-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Ladies Linz states sports soldier since 2020."
+    },
+    {
+      "claim": "Maio de 2022: torneio ITF W25 em Villach, final contra Falkowska 7-5 3-6 6-4",
+      "sourceIds": [
+        "tennisnet-villach-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Tennisnet 22 May 2022 confirms title and score."
+    },
+    {
+      "claim": "Quatro meses depois: cabeça 4 Carolina Alves 6-3 6-3 em Collonge-Bellerive, semifinais; número 204",
+      "sourceIds": [
+        "tennisnet-collonge-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed: 2 Sept 2022, fourth seed, 6-3 6-3, semi-final, WTA No. 204."
+    },
+    {
+      "claim": "151º lugar, melhor ranking, em maio de 2023",
+      "sourceIds": [
+        "ladies-linz-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Ladies Linz states career-high No. 151, May 2023."
+    },
+    {
+      "claim": "Novembro de 2023: torneio ITF de 40.000 dólares em Creta",
+      "sourceIds": [
+        "ladies-linz-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Ladies Linz states the $40,000 Crete title in November 2023. 'Maior título' phrase removed."
+    },
+    {
+      "claim": "Dois títulos de simples WTA 125: Cali 2025 e Kitzbühel 2026",
+      "sourceIds": [
+        "wta-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "WTA lists both."
+    },
+    {
+      "claim": "Kitzbühel: vitória sobre Eva Bennemann 6-1 6-1 nas oitavas segundo o Der Standard",
+      "sourceIds": [
+        "derstandard-kitzbuehel-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Der Standard: 6:1, 6:1 over Bennemann in the round of 16."
+    },
+    {
+      "claim": "7 de outubro de 2026: 75º lugar; top 50 'bastante possível'",
+      "sourceIds": [
+        "vienna-ranking-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Vienna.at dated 7 Oct 2026: No. 75; quote on top 50."
+    },
+    {
+      "claim": "TennisExplorer: melhor 75º, atual 77º em 28 de outubro de 2026",
+      "sourceIds": [
+        "tennisexplorer-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "TennisExplorer lists career-high 75 and current 77."
+    },
+    {
+      "claim": "Perfil da WTA mostra o 77º sem data",
+      "sourceIds": [
+        "wta-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "WTA shows 77, undated."
+    },
+    {
+      "claim": "Guangzhou: vitória sobre Panna Udvardy 6-4 6-2 em 26 de outubro de 2026",
+      "sourceIds": [
+        "tennisexplorer-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "TennisExplorer: 26.10 win over Udvardy P., 6-4 6-2."
+    },
+    {
+      "claim": "Prévia do Stats Insider: 61% de chance",
+      "sourceIds": [
+        "statsinsider-guangzhou-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stats Insider: 61% chance; framed as model prediction."
+    },
+    {
+      "claim": "Dois dias depois derrota para Badosa 6-1 6-4 nas oitavas",
+      "sourceIds": [
+        "tennisexplorer-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "TennisExplorer: 28.10 R16 loss to Badosa P., 6-1 6-4."
+    },
+    {
+      "claim": "Técnico Alexander Grau; destra",
+      "sourceIds": [
+        "wta-profile",
+        "tennisexplorer-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "WTA lists Grau and right-handed; TennisExplorer lists right-handed."
+    },
+    {
+      "claim": "Frontmatter: vitória sobre Udvardy em Guangzhou em 26 de outubro de 2026",
+      "sourceIds": [
+        "tennisexplorer-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "metaDescription, summary and FAQ match body and result."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Portuguese version adds the Peking run, ITF climb, WTA 125 titles and the Guangzhou result in Brazilian Portuguese framing.",
+  "decision": "approve",
+  "summary": "All claims checked against the cited sources. Guangzhou result now stated from TennisExplorer; removed unsupported father's-job and biggest-title claims and the unsupported round label."
+}

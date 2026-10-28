@@ -1,0 +1,338 @@
+{
+  "date": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 15 May 1997 in Vernon, Normandy, France; age 29 on 28 Oct 2026",
+      "sourceIds": [
+        "psg-player"
+      ],
+      "verdict": "confirmed",
+      "note": "PSG profile shows birth date, Vernon birthplace and age 29."
+    },
+    {
+      "claim": "Full name Masour Ousmane Dembélé; squad number 10",
+      "sourceIds": [
+        "psg-player"
+      ],
+      "verdict": "confirmed",
+      "note": "PSG profile."
+    },
+    {
+      "claim": "France international since September 2016; 2018 World Cup winner with France",
+      "sourceIds": [
+        "psg-player"
+      ],
+      "verdict": "confirmed",
+      "note": "PSG profile."
+    },
+    {
+      "claim": "Nationality France; UEFA lists 'France, Paris Saint-Germain'",
+      "sourceIds": [
+        "uefa-ballon-dor-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "UEFA nominee listing shows this wording."
+    },
+    {
+      "claim": "Won the 2025 Ballon d'Or",
+      "sourceIds": [
+        "uefa-ballon-dor-2026",
+        "si-ballon-dor-2025",
+        "topendsports-ballon-dor-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "UEFA 2025 winners list, SI and Top End Sports all name him winner."
+    },
+    {
+      "claim": "Left thigh injury after Barcelona CL match; remain in care for coming weeks; no return date",
+      "sourceIds": [
+        "psg-medical-communique-2026-10"
+      ],
+      "verdict": "confirmed",
+      "note": "PSG communique: left thigh injury, care for the next weeks, no return date."
+    },
+    {
+      "claim": "Rennes training centre at 13; French youth teams from U17",
+      "sourceIds": [
+        "foot01-rennes-2016"
+      ],
+      "verdict": "confirmed",
+      "note": "Foot01: joined Rennes at 13 (from Evreux) and selected from U17."
+    },
+    {
+      "claim": "First professional contract 1 Oct 2015",
+      "sourceIds": [
+        "foot01-rennes-2016"
+      ],
+      "verdict": "confirmed",
+      "note": "Foot01."
+    },
+    {
+      "claim": "Ligue 1 debut at Angers 6 Nov 2015, brought on in 86th minute",
+      "sourceIds": [
+        "foot01-rennes-2016"
+      ],
+      "verdict": "confirmed",
+      "note": "Foot01."
+    },
+    {
+      "claim": "First league goal vs Bordeaux 22 Nov 2015",
+      "sourceIds": [
+        "foot01-rennes-2016"
+      ],
+      "verdict": "confirmed",
+      "note": "Foot01 names Girondins de Bordeaux, 22 Nov 2015."
+    },
+    {
+      "claim": "12 goals and five assists that season; UNFP best young player in Ligue 1",
+      "sourceIds": [
+        "foot01-rennes-2016"
+      ],
+      "verdict": "confirmed",
+      "note": "Foot01 gives 12 goals, 5 assists and UNFP trophy."
+    },
+    {
+      "claim": "PSG profile lists Ligue 1 Young Player of the Year for 2015-16",
+      "sourceIds": [
+        "psg-player"
+      ],
+      "verdict": "confirmed",
+      "note": "PSG says the award followed his exceptional 2015-16 first season; year is inferred from that wording but supported."
+    },
+    {
+      "claim": "Dortmund announced in May 2016 a contract to 30 June 2021; age 18",
+      "sourceIds": [
+        "bvb-signing-2016"
+      ],
+      "verdict": "confirmed",
+      "note": "BVB article (second fetch): age 18, contract until 30.06.2021. Announcement date itself not shown in the text; 'May 2016' is supported by the Foot01 date."
+    },
+    {
+      "claim": "Club kept terms confidential, so no fee published",
+      "sourceIds": [
+        "bvb-signing-2016"
+      ],
+      "verdict": "confirmed",
+      "note": "BVB: 'All parties have agreed to remain silent and keep all information confidential'; no fee named."
+    },
+    {
+      "claim": "German press put the fee at about 15 million euros, unconfirmed",
+      "sourceIds": [
+        "foot01-rennes-2016"
+      ],
+      "verdict": "confirmed",
+      "note": "Foot01 says German press reportedly cited about 15 million euros, unconfirmed."
+    },
+    {
+      "claim": "Dec 2017 best debutant of 2016-17 Bundesliga presented by German players' association; best XI trophy",
+      "sourceIds": [
+        "fcb-debutant-2017"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated 13 Dec 2017; debutant award and best XI confirmed."
+    },
+    {
+      "claim": "25 Aug 2017 Barcelona transfer: 105m plus add-ons, five-year contract, 400m buy-out; add-on amounts not given",
+      "sourceIds": [
+        "fcb-signing-2017"
+      ],
+      "verdict": "confirmed",
+      "note": "Barcelona page: 105m plus add-ons, five years, 400m buy-out, no add-on figures."
+    },
+    {
+      "claim": "Barcelona honours: three league titles, two Copa del Rey, two Super Cups",
+      "sourceIds": [
+        "psg-player"
+      ],
+      "verdict": "confirmed",
+      "note": "PSG profile."
+    },
+    {
+      "claim": "Sept 2017 injury vs Getafe, 29th minute; medical statement 17 Sept 2017; tendon rupture left thigh biceps femoris; surgery in Finland; 3.5 to 4 months out",
+      "sourceIds": [
+        "fcb-medical-2017"
+      ],
+      "verdict": "confirmed",
+      "note": "Barcelona medical statement matches all details."
+    },
+    {
+      "claim": "PSG signed him 12 Aug 2023 on five-year deal",
+      "sourceIds": [
+        "national-psg-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "The National, 12 Aug 2023, five years."
+    },
+    {
+      "claim": "Fee 50.4m euros, as Barcelona confirmed in its statement, and 'the report by AFP credited the fee to Barcelona'",
+      "sourceIds": [
+        "national-psg-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Fee and Barcelona attribution confirmed. The AFP credit has been removed from the body, so the claim now matches the source."
+    },
+    {
+      "claim": "Quote: 'I'm delighted to be joining Paris Saint-Germain and can't wait to play for my new club'",
+      "sourceIds": [
+        "national-psg-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact quote in The National article."
+    },
+    {
+      "claim": "2024-25: 21 goals and 8 assists in 29 Ligue 1 appearances; 8 goals and 6 assists in Champions League",
+      "sourceIds": [
+        "si-ballon-dor-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "SI article gives these figures."
+    },
+    {
+      "claim": "Men's Ballon d'Or presented 22 Sept 2025",
+      "sourceIds": [
+        "topendsports-ballon-dor-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Top End Sports: presented 22 Sept 2025 at gala in Paris."
+    },
+    {
+      "claim": "Finished ahead of Barcelona's Lamine Yamal, who was second",
+      "sourceIds": [
+        "si-ballon-dor-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "SI says Yamal finished second in the voting. Top End Sports did not state runner-up; SI is sufficient."
+    },
+    {
+      "claim": "PSG profile lists 2025 CL win; describes 2026 title as second consecutive",
+      "sourceIds": [
+        "psg-player"
+      ],
+      "verdict": "confirmed",
+      "note": "PSG: first Champions League triumph 2025 and second consecutive title 2026."
+    },
+    {
+      "claim": "Sept 2025 hamstring injury in 2-0 win over Ukraine in World Cup qualifying; sidelined more than a month",
+      "sourceIds": [
+        "foxsports-2025-injury"
+      ],
+      "verdict": "confirmed",
+      "note": "Fox Sports."
+    },
+    {
+      "claim": "Oct 2025 named in PSG squad for Bayer Leverkusen CL trip",
+      "sourceIds": [
+        "foxsports-2025-injury"
+      ],
+      "verdict": "confirmed",
+      "note": "Fox Sports: squad travelling to Leverkusen on Tuesday. Month not stated explicitly but consistent with the Champions League fixture."
+    },
+    {
+      "claim": "On 9 October PSG left Dembélé out of the Ligue 1 match against Le Mans",
+      "sourceIds": [
+        "roundtable-rest-2026-10"
+      ],
+      "verdict": "confirmed",
+      "note": "Reworded: the 9 Oct date is the announcement, and the Le Mans match was the next day (10 Oct), as the source says."
+    },
+    {
+      "claim": "Club announced both would return to training on 10 October",
+      "sourceIds": [
+        "roundtable-rest-2026-10"
+      ],
+      "verdict": "confirmed",
+      "note": "Roundtable: return to training starting Oct 10."
+    },
+    {
+      "claim": "Quote: 'We all decided Nuno and Ousmane needed rest to focus on the upcoming Ligue 1 and Champions League matches'",
+      "sourceIds": [
+        "roundtable-rest-2026-10"
+      ],
+      "verdict": "confirmed",
+      "note": "Verbatim quote removed; the body now paraphrases Luis Enrique's reasoning, which the source supports."
+    },
+    {
+      "claim": "Quote: 'You have to get used to it, because this will be the norm this season'",
+      "sourceIds": [
+        "roundtable-rest-2026-10"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact quote in Roundtable."
+    },
+    {
+      "claim": "Decision was not about favouritism but about his history of recurring injuries",
+      "sourceIds": [
+        "roundtable-rest-2026-10"
+      ],
+      "verdict": "confirmed",
+      "note": "Softened to what the source says: not apparently about favouritism, and recurring injuries noted."
+    },
+    {
+      "claim": "Came off early in first half while chasing a ball in CL match vs Barcelona; report said out for weeks",
+      "sourceIds": [
+        "gffn-thigh-injury-2026-10"
+      ],
+      "verdict": "confirmed",
+      "note": "GFFN: came off early in first half chasing a ball; out for weeks."
+    },
+    {
+      "claim": "Al Jazeera reported 23 Oct he would miss Ballon d'Or ceremony in London on Monday; the report did not give a reason",
+      "sourceIds": [
+        "aljazeera-ballon-dor-absence-2026-10"
+      ],
+      "verdict": "confirmed",
+      "note": "Body now states the reason given in the source: PSG Ligue 1 home match moved to the same evening after a police decree."
+    },
+    {
+      "claim": "UEFA lists Dembélé among 2026 men's nominees; ceremony 26 Oct in London",
+      "sourceIds": [
+        "uefa-ballon-dor-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "UEFA: nominee, Monday 26 Oct 2026, London Palladium."
+    },
+    {
+      "claim": "Several PSG team-mates nominated; Lyon game postponed to Monday after police request amid violent protests",
+      "sourceIds": [
+        "aljazeera-ballon-dor-absence-2026-10"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera lists PSG nominees and the postponement after a police decree."
+    },
+    {
+      "claim": "Summary/knownFor/metaDescription: left thigh injury, no return date; 2025 Ballon d'Or winner; French forward for PSG and France",
+      "sourceIds": [
+        "psg-medical-communique-2026-10",
+        "uefa-ballon-dor-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Backed by body sources. Frontmatter wording is fine once the body fixes are made."
+    },
+    {
+      "claim": "FAQ: nationality French; UEFA lists 'France, Paris Saint-Germain'; PSG says France international since Sept 2016",
+      "sourceIds": [
+        "uefa-ballon-dor-2026",
+        "psg-player"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources confirm."
+    },
+    {
+      "claim": "Surgery in Finland scheduled later the same week as the statement",
+      "sourceIds": [
+        "fcb-medical-2017"
+      ],
+      "verdict": "confirmed",
+      "note": "Source says surgery was scheduled for later that same week; text now matches."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds the Barcelona medical statement details and the 2025 and 2026 absence timeline that the usual results lack.",
+  "decision": "approve",
+  "summary": "Approved after fixes: AFP attribution removed; 9 Oct announcement vs 10 Oct match corrected; Luis Enrique quote paraphrased; favouritism wording softened; Al Jazeera reason stated; surgery now described as later the same week. All other claims confirmed against the sources."
+}

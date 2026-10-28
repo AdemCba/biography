@@ -10,13 +10,10 @@ knownFor: 'Joueur anglais de fléchettes, bi-champion du monde PDC'
 summary: >-
   Luke Littler est un joueur anglais de fléchettes né à Warrington le 21 janvier
   2007 [s:dartsworld-littler-profile], et il est devenu numéro un mondial en
-  novembre 2025 [s:sky-sports-grand-slam-world-no1-2025]. Il a été sacré
-  champion du monde PDC à 17 ans, en janvier 2025
-  [s:dhnet-littler-world-final-2025], puis l'a conservé en janvier 2026
-  [s:sky-sports-world-championship-2026-final]. Le 30 octobre 2026, Netflix
-  diffuse en direct Beat Luke Littler, où des amateurs tentent de gagner une
-  manche de 501 contre lui pour 501 000 livres
-  [s:whats-on-netflix-beat-luke-littler].
+  novembre 2025. Il a été sacré champion du monde PDC à 17 ans, en janvier
+  2025, puis l'a conservé en janvier 2026. Le 30 octobre 2026, Netflix diffuse
+  en direct Beat Luke Littler, où des amateurs tentent de gagner une manche de
+  501 contre lui pour 501 000 livres.
 status: review
 risk: low
 author: editor-in-chief
@@ -40,37 +37,34 @@ faq:
   - q: Combien de titres mondiaux Luke Littler a-t-il gagnés ?
     a: >-
       Il a remporté le championnat du monde PDC en 2025 et à nouveau en 2026, il
-      est donc bi-champion [s:dhnet-littler-world-final-2025]
-      [s:sky-sports-world-championship-2026-final].
+      est donc bi-champion.
   - q: Quand a lieu Beat Luke Littler sur Netflix ?
     a: >-
       Netflix diffuse l'émission en direct le vendredi 30 octobre 2026 à 15 h
-      sur la côte est américaine. Le prix est de 501 000 livres
-      [s:netflix-tudum-beat-luke-littler]
-      [s:whats-on-netflix-beat-luke-littler].
+      sur la côte est américaine. Le prix est de 501 000 livres.
 reviewNotes: >-
-  UNSUPPORTED: "Plus jeune champion du monde de l'histoire, à 17 ans, en
-  dépassant le record de van Gerwen établi en 2014 à 24 ans" (La DH confirms the
-  youngest champion at 17 and that van Gerwen was champion in 2014 at 24, but
-  does not call it a record Littler broke. The Sky page gives van Gerwen's 2014
-  mark as the youngest world No 1 record (24y251d), not the youngest champion
-  record. Fix: say he was the youngest champion (La DH), and drop the record
-  claim or cite a source for it.) | UNSUPPORTED: "Il a ensuite battu Humphries
-  en finale et conservé le trophée" (The fetched Sky page says he went
-  back-to-back (fourth to do so in Wolverhampton) but does not name the final
-  opponent or score. Cite a final report or drop the opponent.) | UNSUPPORTED:
-  "L'écart s'explique par la date : le chiffre de Sky précède les titres de
-  2026" (Causal explanation. The Sky 2026 page does not discuss the major count.
-  The dates support only that the 8-major figure is from Nov 2025 and the
-  13-major figure from Oct 2026. State the dates and drop the causal claim.) |
-  Reviewer recommends rejection: Most claims are confirmed. Three are
-  unsupported: the youngest-champion 'record' attribution to La DH and Sky, the
-  Humphries-in-the-final detail, and the causal explanation for the 8 vs 13
-  majors gap. The Netflix Tudum byline is dated 22 Oct 2026, and the 30 Oct 2026
-  broadcast at 3 p.m. ET is confirmed. The Friday weekday comes from What's on
-  Netflix. The Sky 81,500 wording is on reaching the final, as the article says.
-  Of 42 claims: 39 confirmed, 3 unsupported, 0 wrong.
-autoReviews: 2
+  UNSUPPORTED: "Le 3 janvier 2024, à 16 ans, finale perdue 7 à 4 contre
+  Humphries; 200 000 livres" (7-4 Humphries, age 16 and GBP 200,000 are
+  confirmed. The date 3 January 2024 does not appear in the fetched NBC report.
+  Cite a source that gives the date or drop it.) | UNSUPPORTED: "La DH rappelle
+  qu'il est devenu le plus jeune champion du monde de l'histoire, à 17 ans, en
+  dépassant le record de van Gerwen établi en 2014 à 24 ans" (La DH's report of
+  the final does not carry the youngest-champion claim as fetched. Sky's 2025
+  final page does say youngest ever PDC champion. The 2014 van Gerwen mark in
+  the Sky Grand Slam page is the youngest PDC world No 1 record (24y 251d), not
+  a youngest champion record. Attribute the youngest claim to Sky
+  (sky-sports-world-championship-2025-final) and drop the record-breaking
+  framing.) | UNSUPPORTED: "L'écart s'explique par la date : le chiffre de Sky
+  précède les titres de 2026" (Causal explanation. The cited Sky 2026 page does
+  not discuss the major count. Dates alone show only that the figures are from
+  Nov 2025 and Oct 2026. State the dates and drop the causal claim.) | Reviewer
+  recommends rejection: Most claims check out. Three need fixing: an unsupported
+  date (3 January 2024 for the 2024 final), a record framing attributed to La DH
+  that the source does not support (youngest champion versus van Gerwen's 2014
+  No 1 record), and a causal explanation for the 8 vs 13 major gap. Citation
+  tags also sit in the summary and FAQ frontmatter.
+autoReviews: 3
+flag: Rejected by the fact-check 3 times; needs a human editor.
 ---
 Luke Littler a 19 ans et il est bi-champion du monde de la PDC. Né à Warrington, en Angleterre, le 21 janvier 2007 [s:dartsworld-littler-profile], il a été sacré pour la première fois à 17 ans, en janvier 2025 [s:dhnet-littler-world-final-2025]. Il est aussi le quatrième joueur à avoir conservé un titre mondial de la PDC [s:sky-sports-world-championship-2026-final]. Si vous êtes arrivé ici pour l'émission Netflix, commencez par la section suivante.
 
@@ -86,9 +80,9 @@ Gary Lineker présente, Richard Osman apporte l'analyse experte, et Angry Ginge,
 
 ## Le titre de 2025 : la finale contre van Gerwen
 
-Le 3 janvier 2024, à 16 ans, Littler avait déjà atteint la finale du championnat du monde et perdu 7 à 4 face à Luke Humphries. Il avait touché 200 000 livres en tant que finaliste [s:nbc-washington-world-final-2024].
+En 2024, à 16 ans, Littler avait déjà atteint la finale du championnat du monde et perdu 7 à 4 face à Luke Humphries. Il avait touché 200 000 livres en tant que finaliste [s:nbc-washington-world-final-2024].
 
-Un an plus tard, le vendredi 3 janvier 2025, il a battu Michael van Gerwen 7 sets à 3 à l'Alexandra Palace [s:dhnet-littler-world-final-2025]. Le quotidien belge La DH rappelle qu'il est devenu le plus jeune champion du monde de l'histoire des fléchettes, à 17 ans, en dépassant le record de van Gerwen établi en 2014 à 24 ans [s:dhnet-littler-world-final-2025] [s:sky-sports-grand-slam-world-no1-2025]. Netflix retient le même âge [s:netflix-tudum-beat-luke-littler].
+Un an plus tard, le vendredi 3 janvier 2025, il a battu Michael van Gerwen 7 sets à 3 à l'Alexandra Palace [s:dhnet-littler-world-final-2025]. Sky Sports le présente comme le plus jeune champion du monde de l'histoire des fléchettes, à 17 ans [s:sky-sports-world-championship-2025-final]. Netflix retient le même âge [s:netflix-tudum-beat-luke-littler].
 
 ## La défense de 2026
 
@@ -107,7 +101,7 @@ Au cours de la saison 2025-2026, Littler a gagné six tournois premier : le cham
 La série s'est arrêtée aux World Series of Darts Finals d'Amsterdam. Il a perdu 10 à 4 contre Jonny Clayton en quarts de finale, ce qui a mis fin à son ambition de remporter tous les majors de l'année [s:sky-sports-world-series-finals-2026]. Ross Smith a gagné le tournoi en battant Gerwyn Price 11 à 5 [s:sky-sports-world-series-finals-2026].
 ## Combien de titres ?
 
-Netflix donne 28 titres PDC dans la carrière de Littler, dont 13 majors, dans une page publiée le 22 octobre 2026 [s:netflix-tudum-beat-luke-littler]. Sky Sports lui en attribuait huit au total en novembre 2025 [s:sky-sports-grand-slam-world-no1-2025]. L'écart s'explique par la date : le chiffre de Sky précède les titres de 2026 [s:sky-sports-world-championship-2026-final].
+Netflix donne 28 titres PDC dans la carrière de Littler, dont 13 majors, dans une page publiée le 22 octobre 2026 [s:netflix-tudum-beat-luke-littler]. Sky Sports lui en attribuait huit au total en novembre 2025 [s:sky-sports-grand-slam-world-no1-2025]. Les deux chiffres correspondent à des dates différentes.
 
 ## Distinction
 

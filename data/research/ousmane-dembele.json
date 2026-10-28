@@ -1,0 +1,92 @@
+{
+  "worthWriting": true,
+  "reason": "Former Ballon d'Or winner (2025) and current PSG and France forward; official PSG and UEFA pages confirm birth date, birthplace and nationality. Recent news (Oct 2026) is sourced from PSG's own medical communique and press reports.",
+  "wikidata": "",
+  "importance": 5,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "psg-player",
+      "url": "https://www.psg.fr/en/players/ousmane-dembele",
+      "title": "Ousmane Dembélé - player profile",
+      "publisher": "Paris Saint-Germain",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "uefa-ballon-dor-2026",
+      "url": "https://www.uefa.com/ballondor/news/02aa-21dcfc743210-2786daba77d8-1000--2026-ballon-d-or-ceremony-when-and-where-all-the-nominees-/",
+      "title": "2026 Ballon d'Or ceremony: when and where, all the nominees",
+      "publisher": "UEFA",
+      "type": "award-body",
+      "lang": "en"
+    },
+    {
+      "id": "psg-medical-communique-2026-10",
+      "url": "https://www.psg.fr/content/communique-medical-apres-barcelone-psg-ucl-kvaratskhelia-marquinhos-dembele-2026-2027",
+      "title": "Communiqué médical après Barcelone-PSG (UCL)",
+      "publisher": "Paris Saint-Germain",
+      "type": "official",
+      "lang": "fr"
+    },
+    {
+      "id": "gffn-thigh-injury-2026-10",
+      "url": "https://www.getfootballnewsfrance.com/2026/psgs-ousmane-dembele-and-marquinhos-set-for-weeks-on-the-sidelines-with-thigh-injuries/",
+      "title": "PSG's Ousmane Dembélé and Marquinhos set for weeks on the sidelines with thigh injuries",
+      "publisher": "Get French Football News",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "roundtable-rest-2026-10",
+      "url": "https://roundtable.io/sports/soccer/ligue-1/paris-st-germain/news/ousmane-dembele-and-nuno-mendes-out-as-psg-returns-to-action",
+      "title": "Ousmane Dembele and Nuno Mendes Out as PSG Returns to Action",
+      "publisher": "Roundtable",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "aljazeera-ballon-dor-absence-2026-10",
+      "url": "https://www.aljazeera.com/sports/2026/10/23/dembele-to-miss-ballon-dor-event-as-psg-game-moved-amid-protests-in-france",
+      "title": "Dembele to miss Ballon d'Or event as PSG game moved amid protests in France",
+      "publisher": "Al Jazeera (AFP, AP, Reuters)",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1997-05-15",
+      "sources": [
+        "psg-player"
+      ],
+      "note": "PSG profile lists 15 May 1997 (age shown as 29 on the page)."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Vernon, Normandy, France",
+      "sources": [
+        "psg-player"
+      ],
+      "note": "PSG profile lists birthplace as Vernon, in Normandy."
+    },
+    "nationality": {
+      "value": "FR",
+      "sources": [
+        "uefa-ballon-dor-2026"
+      ],
+      "note": "UEFA lists him as '(France, Paris Saint-Germain)'. PSG profile says 'A France international since September 2016'."
+    }
+  },
+  "targetQueries": [
+    "how old is Ousmane Dembélé",
+    "where is Ousmane Dembélé from",
+    "Ousmane Dembélé nationality",
+    "Ousmane Dembélé injury",
+    "Ousmane Dembélé return date",
+    "Ousmane Dembélé Ballon d'Or",
+    "Ousmane Dembélé PSG",
+    "Ousmane Dembélé France national team"
+  ],
+  "gapNote": "Most results are stats pages and older injury stories. The gap is a dated, sourced account of the October 2026 situation using PSG's own medical communique: rest after the international break (9 Oct), then a left thigh injury after the Barcelona match (communique: 'restera en soins ces prochaines semaines'), with no return date confirmed by a club source. Note: the brief's premise (out after the September 2026 qualifiers and missing the October internationals) is not supported by sources found; the October break was a rest decision, not an injury, and I found no September 2026 injury report."
+}

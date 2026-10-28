@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Né le 17 janvier 1990 à Madrid, nationalité espagnole",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Endurowow profile."
+    },
+    {
+      "claim": "36 ans en octobre 2026",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic."
+    },
+    {
+      "claim": "Victoire dans « The Lost Road », course principale, dimanche 25 octobre 2026, dernière manche du championnat du monde FIM",
+      "sourceIds": [
+        "speedweek-hixpania-2026",
+        "cyclenews-hixpania-2026",
+        "moto1pro-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Race name and win in Speedweek; last FIM round per Moto1Pro; Sunday is 25 October 2026. Acceptable inference."
+    },
+    {
+      "claim": "Épreuve aux alentours d'Aguilar de Campoo, province de Palencia",
+      "sourceIds": [
+        "moto1pro-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Moto1Pro."
+    },
+    {
+      "claim": "Temps de 2:11:18,43, à un peu plus d'une minute de Lettenbichler, déjà champion pour la sixième fois et cinquième d'affilée",
+      "sourceIds": [
+        "cyclenews-hixpania-2026",
+        "mcnews-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Time, margin and title count confirmed."
+    },
+    {
+      "claim": "Départ de la septième ligne et prise de la tête dans la dernière phase",
+      "sourceIds": [
+        "speedweek-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Speedweek."
+    },
+    {
+      "claim": "Huitième du SuperEncierro du vendredi, septième du Campoo Xtreme du samedi",
+      "sourceIds": [
+        "mcnews-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "MCNews."
+    },
+    {
+      "claim": "Billy Bolt troisième à 5 minutes 26 secondes de Román",
+      "sourceIds": [
+        "cyclenews-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Cycle News results list."
+    },
+    {
+      "claim": "Speedweek situe la victoire huit ans après sa première victoire dans cette épreuve",
+      "sourceIds": [
+        "speedweek-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Speedweek: 'eight years after his first victory in Hixpania'."
+    },
+    {
+      "claim": "Sixième au classement général final",
+      "sourceIds": [
+        "moto1pro-hixpania-2026",
+        "mcnews-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Moto1Pro and MCNews."
+    },
+    {
+      "claim": "Sherco de 2017 à 2025; Husqvarna TE 300 pour le MR74 Racing Team en 2026",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Endurowow."
+    },
+    {
+      "claim": "Deuxième au championnat du monde 2022",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Endurowow: runner-up 2022."
+    },
+    {
+      "claim": "Romaniacs troisième 2024 et 2025; Adventure Ultimate 2026 sur CFMOTO 450MT",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Endurowow."
+    },
+    {
+      "claim": "Erzbergrodeo troisième 2024 et 2026; Hixpania deuxième 2023 et 2024, cinquième 2025",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Endurowow."
+    },
+    {
+      "claim": "Victoires Hell's Gate Metzeler et Alestrem 2018, Alestrem 2020 et 2022, EL INKA, Toyota Porto Extreme XL Lagares et Sea to Sky 2019",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Endurowow achievements and notable races."
+    },
+    {
+      "claim": "Telemadrid en février 2018: Madrilène, 28 ans, champion du monde d'Enduro Extremo",
+      "sourceIds": [
+        "telemadrid-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated 2 Feb 2018."
+    },
+    {
+      "claim": "Palencia en la Red: champion d'Europe 2015, champion du monde 2019",
+      "sourceIds": [
+        "palencia-en-la-red-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Interview says so."
+    },
+    {
+      "claim": "Profil de pilote: deuxième place 2022, aucun titre mondial 2019",
+      "sourceIds": [
+        "endurowow-mario-roman"
+      ],
+      "verdict": "confirmed",
+      "note": "Endurowow."
+    },
+    {
+      "claim": "Entretien publié le 20 octobre 2024, 34 ans; principal représentant espagnol du championnat du monde",
+      "sourceIds": [
+        "palencia-en-la-red-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Interview quotes confirmed."
+    },
+    {
+      "claim": "Temps de la course principale : 2:11:18,43",
+      "sourceIds": [
+        "cyclenews-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Cycle News."
+    },
+    {
+      "claim": "Sixième du championnat 2026, titre pour Lettenbichler",
+      "sourceIds": [
+        "moto1pro-hixpania-2026",
+        "mcnews-hixpania-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "The page sets out the title conflict between Palencia en la Red and the Endurowow profile, and adds the race podium (Billy Bolt third) context.",
+  "decision": "approve",
+  "summary": "All cited claims check out. The unsupported 2018 Hixpania year, the uncited birth-year sentence and the process note about FIM results were removed."
+}
