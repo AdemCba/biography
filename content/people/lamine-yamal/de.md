@@ -1,10 +1,8 @@
 ---
 title: Lamine Yamal
 slug: lamine-yamal
-metaTitle: 'Lamine Yamal: Alter, Rekorde beim FC Barcelona, WM'
-metaDescription: >-
-  Lamine Yamal: Alter, Geburtsort, Rekorde beim FC Barcelona, EM-Sieg 2024,
-  WM-Titel 2026 und das Rennen um den Ballon d’Or 2026, mit Quellen.
+metaTitle: 'Lamine Yamal: Alter ({age}), Rekorde beim FC Barcelona'
+metaDescription: "Lamine Yamal ist {age} Jahre alt (geboren am 13. Juli 2007). Debüt und Rekorde beim FC Barcelona, EM-Sieg 2024, WM 2026 und der Ballon d'Or, mit Quellen."
 knownFor: >-
   Flügelspieler des FC Barcelona und der spanischen Nationalmannschaft,
   zweimaliger Gewinner der Kopa-Trophäe

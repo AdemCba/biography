@@ -1,11 +1,8 @@
 ---
 title: Lionel Messi
 slug: lionel-messi
-metaTitle: 'Lionel Messi: Alter, Ballon d''Or und Karriere'
-metaDescription: >-
-  Lionel Messis Alter, sein Geburtsort Rosario, acht Ballon-d'Or-Titel, der
-  WM-Sieg 2022, der Prinzessin-von-Asturien-Preis und sein Abschied aus der
-  Nationalelf.
+metaTitle: "Lionel Messi: Alter ({age}), Ballon d'Or und Karriere"
+metaDescription: "Lionel Messi ist {age} Jahre alt (geboren am 24. Juni 1987 in Rosario). Acht Ballon-d'Or-Titel, WM-Sieg 2022 und seine Karriere in Zahlen, mit Quellen."
 knownFor: Argentinischer Stürmer und achtmaliger Ballon-d'Or-Gewinner
 summary: >-
   Lionel Messi wurde am 24. Juni 1987 in Rosario in Argentinien geboren. 2023

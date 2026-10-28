@@ -1,10 +1,8 @@
 ---
 title: Kai Cenat
 slug: kai-cenat
-metaTitle: 'Kai Cenat: edad, récords en Twitch y Streamer University'
-metaDescription: >-
-  Edad, lugar de nacimiento, récords de suscriptores con Mafiathon, el caso de
-  Union Square de 2023, la marca Vivet y Streamer University 2026.
+metaTitle: 'Kai Cenat: edad ({age} años), origen y carrera en Twitch'
+metaDescription: "Kai Cenat tiene {age} años (nació el 16 de diciembre de 2001). De dónde es, cómo empezó a hacer streams y sus récords en Twitch, con fuentes."
 knownFor: >-
   Streamer estadounidense conocido por los récords de sus maratones Mafiathon en
   Twitch

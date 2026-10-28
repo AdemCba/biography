@@ -1,11 +1,8 @@
 ---
 title: MrBeast
 slug: mrbeast
-metaTitle: 'MrBeast: Alter, Abonnenten, Vermögen und Hochzeit'
-metaDescription: >-
-  Alter von MrBeast, Herkunft, 500 Millionen YouTube-Abonnenten, Beast Games,
-  Feastables, das geschätzte Vermögen von 2,6 Milliarden Dollar und die Hochzeit
-  2026.
+metaTitle: 'MrBeast: Alter ({age}), Vermögen, Abonnenten, Herkunft'
+metaDescription: "MrBeast ist {age} Jahre alt (geboren am 7. Mai 1998). Herkunft, 500 Millionen YouTube-Abonnenten, Beast Games, Feastables und sein geschätztes Vermögen."
 knownFor: >-
   US-amerikanischer YouTuber, Gründer von Beast Industries und Moderator von
   Beast Games

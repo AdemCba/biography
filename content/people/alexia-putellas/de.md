@@ -1,11 +1,8 @@
 ---
 title: Alexia Putellas
 slug: alexia-putellas
-metaTitle: 'Alexia Putellas: Alter, Abschied vom Barça und Wechsel'
-metaDescription: >-
-  Alexia Putellas verließ den FC Barcelona nach 14 Spielzeiten und wechselte im
-  Juli 2026 zum London City Lionesses. Geburtstag, zwei Ballon d'Or und
-  Klubrekorde.
+metaTitle: 'Alexia Putellas: Alter ({age}), Wechsel und neuer Verein'
+metaDescription: "Alexia Putellas ist {age} Jahre alt (geboren am 4. Februar 1994). Nach 14 Spielzeiten beim FC Barcelona wechselte sie im Juli 2026 zu London City Lionesses."
 knownFor: Spanische Mittelfeldspielerin und zweifache Ballon-d'Or-Siegerin
 summary: >-
   Alexia Putellas ist die spanische Mittelfeldspielerin, die 2021 und 2022 den

@@ -1,10 +1,8 @@
 ---
 title: Kylian Mbappé
 slug: kylian-mbappe
-metaTitle: 'Kylian Mbappé: age, World Cup goals and Real Madrid'
-metaDescription: >-
-  Kylian Mbappé's age, birthplace, PSG and Real Madrid career, 2018 and 2022
-  World Cup finals, 2026 Golden Boot and the Ballon d'Or debate.
+metaTitle: 'Kylian Mbappé: Age ({age}), Club, Goals and Career'
+metaDescription: "Kylian Mbappé is {age} (born 20 December 1998). He plays for Real Madrid; his World Cup goals, trophies and career so far, with sources."
 knownFor: 'French forward, World Cup finalist, Real Madrid'
 summary: >-
   Kylian Mbappé is the French forward who scored in the 2018 World Cup final and

@@ -65,6 +65,12 @@ export function ageOn(birth: string, on: string): number {
   return y - by - (m < bm || (m === bm && d < bd) ? 1 : 0);
 }
 
+/** Replaces {age} in meta titles and descriptions with the age on the build day, so titles never go stale. */
+export function fillAge(text: string, birth: string | undefined, death: string | undefined, today: string): string {
+  if (!text.includes("{age}")) return text;
+  return birth ? text.replace(/\{age\}/g, String(ageOn(birth, death ?? today))) : text.replace(/\s*\(?\{age\}\)?/g, "");
+}
+
 export function formatDate(date: string, locale: Locale): string {
   return new Intl.DateTimeFormat(locale === "pt" ? "pt-BR" : locale, {
     year: "numeric",

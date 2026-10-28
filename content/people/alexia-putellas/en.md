@@ -1,10 +1,8 @@
 ---
 title: Alexia Putellas
 slug: alexia-putellas
-metaTitle: 'Alexia Putellas: age, Barcelona exit and London City move'
-metaDescription: >-
-  Alexia Putellas left FC Barcelona after 14 seasons and signed for London City
-  Lionesses in July 2026. Her birth date, two Ballon d'Or wins and club record.
+metaTitle: 'Alexia Putellas: Age ({age}), Current Club and Transfer'
+metaDescription: "Alexia Putellas is {age} (born 4 February 1994). After 14 seasons at FC Barcelona she joined London City Lionesses in July 2026. Her two Ballon d'Or wins and record."
 knownFor: Spanish midfielder and two-time Ballon d'Or winner
 summary: >-
   Alexia Putellas is the Spanish midfielder who won the Ballon d'Or in 2021 and
