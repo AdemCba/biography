@@ -13,7 +13,7 @@ on:
         description: "Kaç kişi yazılsın (0 = sadece gündem, hızlı çalışma)"
         default: "5"
       topics:
-        description: "Kaç gündem (trend konu) yazısı yazılsın"
+        description: "Her dil için kaç gündem yazısı (o dilin ülkelerinde trend olan konulardan)"
         default: "2"
       people:
         description: "İstediğin kişiler, virgülle (boş = trendlerden seç). Ör: Arda Güler, Kenan Yıldız"
@@ -115,12 +115,14 @@ jobs:
             - Then, if usage allows, repair up to 2 existing pages: pick pages from `npm run -s check` that are in
               status review or show ERROR, `too-short` or `short-for-importance`, expand or fix them in all languages with sourced facts, and fact-check them
               again with review.ts. Never remove a page.
-            - Trending topics: also write ${{ inputs.topics || 2 }} topic article(s) from the section "Son 4 saatte
-              Google'da yükselen konular" of data/trend-candidates/latest.md (prefer terms trending in several
-              countries). Skip deaths, accidents, crime, war, elections and politics, and anything about minors or
+            - Trending topics: for EACH of the five languages, write ${{ inputs.topics || 2 }} topic article(s) about what
+              is trending in that language's own countries, from the section "Son 4 saatte Google'da yükselen konular"
+              of data/trend-candidates/latest.md (column "Diller": a French trend gets a fr page, a Brazilian one pt).
+              Write each topic only in the languages listed for it in "Diller", never in languages where nobody
+              searches it; a story trending in several language areas gets one folder with each of those languages. Skip deaths, accidents, crime, war, elections and politics, and anything about minors or
               sexual content. Confirm the story with WebSearch, then create content/topics/<id>/topic.json
               ({"id", "people": [ids of people on this site the story is about], "trendingIn": [geos],
-              "sources": [same format as person.json]}) and <locale>.md in all five languages with the same
+              "sources": [same format as person.json]}) and <locale>.md for those languages with the same
               frontmatter as a biography (title, slug, metaTitle, metaDescription, summary, status, author,
               targetQueries). Each text: at least 450 words, at least two `##` sections (what happened, the
               background, what comes next), cited with [s:id] from at least two sources, written for that
