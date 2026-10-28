@@ -78,6 +78,10 @@ jobs:
               Wikipedia spikes, scanned twice a day) and confirm with WebSearch that each one is in today's news.
               Prefer living people whose current activity is why they trend (footballers, F1 drivers, creators,
               streamers, musicians); skip people trending only because of an anniversary or an old film on TV.
+              A new site cannot outrank Wikipedia and big media for the most famous names, so prefer rising,
+              mid-level names (new signings, breakout players, creators, reality-TV and series cast) and names
+              trending in ES, MX, AR, BR, PT, DE, AT or FR, where competition is lower. In every text answer the
+              questions people type for them (age, height, partner, nationality, club, net worth only if sourced).
               Do not take names from content/queue.json.
             - Do the writing and fact-checking yourself or with subagents on the same model. Never start a
               subagent in the background: run each one in the foreground (several in one message is fine) and
@@ -122,6 +126,9 @@ jobs:
               searches it; a story trending in several language areas gets one folder with each of those languages. Skip deaths, accidents, crime, war, elections and politics, and anything about minors or
               sexual content. Confirm the story with WebSearch, then create content/topics/<id>/topic.json
               ({"id", "people": [ids of people on this site the story is about], "trendingIn": [geos],
+              "wikidata": "Q..." of the story's main subject that has a photo (P18) on Wikimedia Commons: the person,
+              team, club, product, event or city; check it on wikidata.org. The Publish step downloads that free photo
+              at 1200 px, which Google Discover needs; a topic without it rarely gets Discover traffic.
               "sources": [same format as person.json]}) and <locale>.md for those languages with the same
               frontmatter as a biography (title, slug, metaTitle, metaDescription, summary, status, author,
               targetQueries). Write like a sports or news journalist, not a research summary: open with why people

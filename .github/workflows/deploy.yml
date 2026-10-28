@@ -53,7 +53,7 @@ jobs:
           ANTHROPIC_WRITER_MODEL: ${{ vars.ANTHROPIC_WRITER_MODEL }}
         run: npm run write -- --count ${{ vars.WRITE_PER_DAY || 4 }}
 
-      - name: Photos (free-licensed Wikimedia Commons images for people without one)
+      - name: Photos (free-licensed Wikimedia Commons images for people and topics without one)
         run: npm run images
 
       - name: Fix loop (rewrite failing articles, re-check, flag what still fails; daily run only)
