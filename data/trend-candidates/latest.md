@@ -1,6 +1,6 @@
-# Trend taraması 2026-10-28 09:01 UTC
+# Trend taraması 2026-10-28 09:27 UTC
 
-850 trend sinyali tarandı, 346 tanınmış kişi bulundu.
+850 trend sinyali tarandı, 343 tanınmış kişi bulundu.
 
 Bu çalışmada taslak sırasına kimse eklenmedi.
 
@@ -8,50 +8,50 @@ Bu çalışmada taslak sırasına kimse eklenmedi.
 
 Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konularını atla.
 
-| Arama | Ülkeler | Yaklaşık arama | Başladı (UTC) | Haber |
-| --- | --- | --- | --- | --- |
-| sinja kraus | US, AT | 600 | 07:40 | [Sports News, Transfers, Scores / Watch Live Sport](https://www.skysports.com/tennis/watch/8855413429218133112/guangzhou-open-2026) |
-| fioul | FR | 10000 | 07:40 | [Décryptage. Prix des carburants : dans les stations-service, un « effondrement » des ventes qui inquiète](https://www.ledauphine.com/economie/2026/10/27/prix-des-carburants-dans-les-stations-service-un-effondrement-des-ventes-qui-inquiete) |
-| steuer | DE | 5000 | 08:00 | [Finanzamt: Neue Steuer-Vorauszahlung im Dezember - wer sie reduzieren kann](https://www.finanz.de/news/finanzamt-vorauszahlung-steuern-dezember-10905/) |
-| when is black friday | GB | 2000 | 08:30 | [Shop Early! The Preliminary Black Friday Clothing Deals Worth Snagging Now](https://www.vogue.com/slideshow/best-early-black-friday-clothing-deals-10-27-2026) |
-| noticias | ES | 2000 | 08:50 | [La actualidad y las noticias más destacadas de Valladolid hoy, 28 de octubre](https://www.elnortedecastilla.es/valladolid/actualidad-noticias-destacadas-valladolid-hoy-octubre-20261028071206-di.html) |
-| 20 minutos | ES | 2000 | 08:50 |  |
-| biometria | BR | 2000 | 07:10 | [INSS esclarece: é falsa a informação de que vai bloquear benefício de quem não tiver documento com biometria](https://www.gov.br/inss/pt-br/assuntos/noticias/inss-esclarece-e-falsa-a-informacao-de-que-vai-bloquear-beneficio-de-quem-nao-tiver-documento-com-biometria) |
-| aposentadoria | BR | 2000 | 07:10 | [Outro Canal: Celso Freitas fala sobre aposentadoria após 53 anos e homenagem no SBT: 'Coroação'](https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/celso-freitas-fala-sobre-aposentadoria-apos-53-anos-e-homenagem-no-sbt-coroacao.shtml) |
-| gelber sack | DE | 2000 | 08:00 | [Das ändert sich beim Müll 2027](https://www.t-online.de/heim-garten/wohnen/id_101499494/muell-2027-gelbe-tonne-kommt-das-muessen-sie-jetzt-wissen.html) |
-| quentin deranque | FR | 2000 | 08:00 | [Meurtre de Quentin Deranque à Lyon : la famille de la victime demande l’audition du député LFI Raphaël Arnault pour «association de malfaiteurs»](https://www.lefigaro.fr/faits-divers/meurtre-de-quentin-deranque-a-lyon-la-famille-de-la-victime-demande-l-audition-du-depute-lfi-raphael-arnault-pour-association-de-malfaiteurs-20261027) |
-| sarah knafo | FR | 2000 | 07:50 | [Les lecteurs ne lâchent plus ce roman : voici le livre de Sarah Knafo qui se vend par lot de 100 en octobre](https://www.bfmtv.com/pratique/les-lecteurs-ne-lachent-plus-ce-roman-voici-le-livre-de-sarah-knafo-qui-se-vend-par-lot-de-100-en-octobre_AB-202610260030.html) |
-| camille etienne | FR | 2000 | 07:40 | [« L’usine Chemours a apporté des emplois. Mais à quel prix ? » : les PFAS et leurs dégâts au cœur du récit « Facteur X » dont « Le Monde » dévoile les extraits](https://www.lemonde.fr/idees/article/2026/10/25/l-usine-chemours-a-apporte-des-emplois-mais-a-quel-prix-les-pfas-et-leurs-degats-au-c-ur-du-recit-facteur-x-dont-le-monde-devoile-les-extraits_6800107_3232.html) |
-| coach | US | 1000 | 07:10 | [Doeren: ‘Resources need to match the expectations’ for NC State to win](https://www.wral.com/sports/ncstate-football-dave-doeren-speaks-after-firing-october-2026/) |
-| ticketmaster | GB | 1000 | 08:40 | [‘How is this legal?’ He bought four Olivia Rodrigo tickets, then noticed Ticketmaster had allegedly canceled them without explanation](https://www.yahoo.com/entertainment/music/articles/legal-bought-four-olivia-rodrigo-154500296.html) |
-| michael douglas | GB | 1000 | 08:20 | [Michael Douglas doesn't 'feel bad' about affair revelations from 'before Catherine'](https://www.foxnews.com/entertainment/michael-douglas-doesnt-feel-bad-about-affair-revelations-from-before-catherine) |
-| sally dynevor | GB | 1000 | 08:20 | [Coronation Street's Sally Metcalfe commits brutal Halloween attack as she fears for her life in early ITVX release](https://www.radiotimes.com/tv/soaps/coronation-street/coronation-street-sally-metcalfe-commits-brutal-halloween-attack-fears-life-itvx-newsupdate/) |
-| aviação militar | PT | 1000 | 06:30 | [Avião militar C-130T Hércules dos Estados Unidos acaba de entrar no espaço aéreo brasileiro pelo norte do país](https://aeroin.net/aviao-militar-c-130t-hercules-dos-estados-unidos-acaba-de-entrar-no-espaco-aereo-brasileiro-pelo-norte-do-pais/) |
-| arbre | FR | 1000 | 07:50 | [VIDEO. Des recépages en falaise sécurisent le chemin côtier à Belle Fontaine et au Rocher du Lion à Saint-Nazaire](https://www.ouest-france.fr/pays-de-la-loire/saint-nazaire-44600/video-un-elagage-est-en-cours-sur-le-sentier-cotier-de-saint-nazaire-1bcafd06-238c-3a8f-9b64-4a590b02bb17) |
-| king tides flooding | US | 500 | 07:10 | [‘Highest king tide ever’ swamps South Florida and exposes danger of sea rise](https://www.miamiherald.com/news/local/environment/climate-change/article317788843.html) |
-| m2 | GB | 500 | 07:50 | [M2 remains closed in both directions after ‘serious collision’ near services](https://www.kentonline.co.uk/medway/news/m2-closed-in-both-directions-after-serious-collision-near-346725/) |
-| diario de sevilla | ES | 500 | 08:50 |  |
-| la nueva españa | ES | 500 | 08:50 | [Se llamaba Beatriz: identificada 20 años después 'la momia de la Pedriza' encontrada por unos niños](https://www.elmundo.es/madrid/2026/10/26/6adf9d54e85ece653f8b4579.html) |
-| que se celebra hoy | MX | 500 | 06:00 | [¿Qué santo se celebra hoy? Consulta el santoral del lunes 26 de octubre](https://www.univision.com/shows/primer-impacto/conoce-el-santo-que-se-conmemora-hoy-lunes-26-de-octubre) |
-| sandra felgueiras | PT | 500 | 06:10 | [Filipa Torrinha Nunes deixa duras críticas a Sandra Felgueiras e Tânia Laranjo](https://caras.pt/famosos/2026-10-27-filipa-torrinha-nunes-deixa-duras-criticas-a-sandra-felgueiras-e-tania-laranjo/) |
-| ps plus november 2026 | DE | 500 | 08:20 | [PS Plus November 2026 Free Games: When Are They Announced?](https://www.forbes.com/sites/erikkain/2026/10/26/ps-plus-november-2026-free-games-predictions-leaks-rumors/) |
-| a94 | DE | 500 | 08:10 | [Zusammenstoß: Unfall mit Lkw: Elfjähriger lebensbedrohlich verletzt](https://www.zeit.de/news/2026-10/28/unfall-mit-lkw-elfjaehriger-lebensbedrohlich-verletzt) |
-| trinkgeld | AT | 500 | 07:00 | [„Grenzt an Nötigung“ - Hotelkette kassiert 10 Euro Trinkgeld pro Nacht](https://www.krone.at/4351319) |
-| ted bundy | AT | 500 | 06:00 | [Serial killer Ted Bundy linked to teenage girl's murder after 52 years](https://www.bbc.com/news/articles/ckqxnd7j5007o) |
-| türkei | AT | 500 | 06:00 | [Türkei arbeitet an Strategie für Meeresgebiete](https://orf.at/stories/3446176/) |
-| hiver | FR | 500 | 08:30 | [Météo aujourd'hui : retour du soleil avec une baisse des températures, attention aux brouillards matinaux](https://actualite.lachainemeteo.com/actualite-meteo/2026-10-27/meteo-aujourd-hui-retour-du-soleil-avec-une-baisse-des-temperatures-attention-aux-brouillards-matinaux-93576) |
-| 微博 | US | 200 | 08:10 | [姆巴佩道歉：“中国独裁者”迷因风波背后的资讯真空与“毛泽东热”](https://www.bbc.com/zhongwen/articles/c6x2v4p284ylo/simp) |
-| black friday | US | 200 | 08:10 | [Best Buy reveals holiday calendar with Doorbusters and deals throughout the season](https://corporate.bestbuy.com/2026/holiday-calendar/) |
-| pink | US | 200 | 07:30 | [Pink's Hilarious Reaction to Her No-Makeup Street Style Photo Will Make You Raise a Glass](https://www.eonline.com/news/1437560/pink-reacts-to-no-makeup-paparazzi-photo-criticism) |
-| indw vs zimw | GB | 200 | 07:50 | [India likely to experiment in final ODI](https://www.thehindu.com/sport/cricket/india-likely-to-experiment-in-final-odi/article71632980.ece) |
-| tve | ES | 200 | 08:50 | [70 años de TVE en nuestra memoria: los pilares que han marcado la historia de la cadena con la que empezó todo](https://www.eldiario.es/vertele/noticias/70-anos-rtve-nuestra-memoria-pilares-han-marcado-historia-cadena-empezo-todo_1_13609937.html) |
-| accidente a3 | ES | 200 | 08:50 | [Muere un camionero aplastado por su carga en la A-3 en Arganda y un operario de carreteras resulta herido grave](https://www.elmundo.es/madrid/2026/10/27/6ae0cb03e4d4d861138b459a.html) |
-| accidente adamuz | ES | 200 | 08:50 | [La juez rechaza citar a la investigadora del accidente de Adamuz que denunció cambios en informes técnicos por sus superiores](https://www.abc.es/espana/andalucia/cordoba/provincia/juez-rechaza-citar-investigadora-accidente-adamuz-denuncio-20261027193826-nts.html) |
-| oscar puente | ES | 200 | 08:50 | [Desvelamos el refugio secreto de Óscar Puente cuando quiere desconectar del mundo mediático](https://www.larazon.es/gente/poder/desvelamos-refugio-secreto-oscar-puente-cuando-quiere-desconectar-mundo-mediatico_202610286ae1b2956973466c29dfcf11.html) |
-| mundo | ES | 200 | 08:50 | [Mario Román conquista Hixpania y Lettenbichler se corona pentacampeón del mundo en Aguilar](https://www.elnortedecastilla.es/palencia/mario-roman-conquista-hixpania-lettenbichler-corona-pentacampeon-20261027083024-nt.html) |
-| horóscopo diario | ES | 200 | 08:50 | [Miércoles 28 de octubre. Horóscopo de hoy sobre salud, amor y trabajo. Tu predicción diaria gratis](https://www.lecturas.com/horoscopo/miercoles-28-octubre-horoscopo-hoy-sobre-salud-amor-y-trabajo-tu-prediccion-diaria-gratis_200472) |
+| Arama | Ülkeler | Diller | Yaklaşık arama | Başladı (UTC) | Haber |
+| --- | --- | --- | --- | --- | --- |
+| sinja kraus | US, AT | en, de | 700 | 07:40 | [Sports News, Transfers, Scores / Watch Live Sport](https://www.skysports.com/tennis/watch/8855413429218133112/guangzhou-open-2026) |
+| elimine koh lanta | FR | fr | 10000 | 07:50 | [Qui sont les deux éliminés du dernier épisode de « Koh-Lanta All Stars » ?](https://www.20minutes.fr/arts-stars/television/koh_lanta/4258022-20261028-koh-lanta-all-stars-erreur-strategique-destins-lies-deux-elimines-arene) |
+| newport beach flooding | US | en | 5000 | 07:50 | [PCH closed in Huntington Beach, pockets of flooding as string of mega high tides continue Tuesday](https://www.ocregister.com/2026/10/27/pch-to-close-in-hb-at-8-a-m-ahead-of-todays-peak-in-stringof-mega-high-tides-hitting-region/) |
+| el confidencial | ES | es | 5000 | 09:10 | [Hay algo muy extraño en la audiencia que logró Pedro Sánchez donde Broncano](https://www.elconfidencial.com/comunicacion/2026-10-28/extrano-audiencia-pedro-sanchez-broncano_4454112/) |
+| biometria | BR | pt | 5000 | 07:10 | [INSS esclarece: é falsa a informação de que vai bloquear benefício de quem não tiver documento com biometria](https://www.gov.br/inss/pt-br/assuntos/noticias/inss-esclarece-e-falsa-a-informacao-de-que-vai-bloquear-beneficio-de-quem-nao-tiver-documento-com-biometria) |
+| aposentadoria | BR | pt | 5000 | 07:10 | [Tempo especial pode aumentar fator da aposentadoria por idade](https://previdenciarista.com/blog/tempo-especial-pode-aumentar-fator-da-aposentadoria-por-idade/) |
+| ticketmaster | GB | en | 2000 | 08:40 | [‘How is this legal?’ He bought four Olivia Rodrigo tickets, then noticed Ticketmaster had allegedly canceled them without explanation](https://www.yahoo.com/entertainment/music/articles/legal-bought-four-olivia-rodrigo-154500296.html) |
+| when is black friday | GB | en | 2000 | 08:30 | [Shop Early! The Preliminary Black Friday Clothing Deals Worth Snagging Now](https://www.vogue.com/slideshow/best-early-black-friday-clothing-deals-10-27-2026) |
+| la vanguardia | ES | es | 2000 | 09:20 | [Una normalidad rara en la "calle de los coches", símbolo de la dana, dos años después: "La gente está muy tocada"](https://www.rtve.es/noticias/20261028/dana-valencia-calle-coches-simbolo-despues/17286227.shtml) |
+| el debate | ES | es | 2000 | 09:20 | [El debate / ¿Existen las oleadas ideológicas?](https://elpais.com/opinion/2026-10-28/el-debate-existen-las-oleadas-ideologicas.html) |
+| la razon | ES | es | 2000 | 09:00 | [Desvelamos el refugio secreto de Óscar Puente cuando quiere desconectar del mundo mediático](https://www.larazon.es/gente/poder/desvelamos-refugio-secreto-oscar-puente-cuando-quiere-desconectar-mundo-mediatico_202610286ae1b2956973466c29dfcf11.html) |
+| phantombild | DE | de | 2000 | 08:40 | [Mann attackiert Frau in Innenstadt: Wer diesen Mann kennt, sollte sofort die Polizei rufen](https://www.t-online.de/nachrichten/panorama/kriminalitaet/id_101500838/kiel-phantombild-zeigt-raeuber-nach-tat-in-city-polizei-braucht-hilfe.html) |
+| quentin deranque | FR | fr | 2000 | 08:00 | [Meurtre de Quentin Deranque à Lyon : la famille de la victime demande l’audition du député LFI Raphaël Arnault pour «association de malfaiteurs»](https://www.lefigaro.fr/faits-divers/meurtre-de-quentin-deranque-a-lyon-la-famille-de-la-victime-demande-l-audition-du-depute-lfi-raphael-arnault-pour-association-de-malfaiteurs-20261027) |
+| sarah knafo | FR | fr | 2000 | 07:50 | [Les lecteurs ne lâchent plus ce roman : voici le livre de Sarah Knafo qui se vend par lot de 100 en octobre](https://www.bfmtv.com/pratique/les-lecteurs-ne-lachent-plus-ce-roman-voici-le-livre-de-sarah-knafo-qui-se-vend-par-lot-de-100-en-octobre_AB-202610260030.html) |
+| zimw vs indw | GB | en | 1000 | 09:10 | [India likely to experiment in final ODI](https://www.thehindu.com/sport/cricket/india-likely-to-experiment-in-final-odi/article71632980.ece) |
+| michael douglas | GB | en | 1000 | 08:20 | [SEO Edit ( Oct 28, 2026 ) SEO Title (70 character max) Michael Douglas Talks Midterms: “I'm Hoping For A Massacre”](https://deadline.com/2026/10/michael-douglas-midterms-hoping-for-a-massacre-1237206898/) |
+| cope directo | ES | es | 1000 | 09:20 | [Se decreta el estado de felicidad](https://www.diariovasco.com/real-sociedad/decreta-estado-felicidad-20261025215841-nt.html) |
+| toni nadal | ES | es | 1000 | 09:10 | [Toni Nadal: "Rafa Nadal tuvo el mismo respeto a Roger Federer y Novak Djokovic que el que tuvo por la mujer de la limpieza"](https://www.larazon.es/deportes/tenis/toni-nadal-rafa-nadal-tuvo-mismo-respeto-roger-federer-novak-djokovic-que-que-tuvo-mujer-limpieza_202610286ae0eca7a9eeee544aaec7bb.html) |
+| aviação militar | PT | pt | 1000 | 06:30 | [Avião militar C-130T Hércules dos Estados Unidos acaba de entrar no espaço aéreo brasileiro pelo norte do país](https://aeroin.net/aviao-militar-c-130t-hercules-dos-estados-unidos-acaba-de-entrar-no-espaco-aereo-brasileiro-pelo-norte-do-pais/) |
+| trinkgeld | AT | de | 1000 | 07:00 | [„Grenzt an Nötigung“ - Hotelkette kassiert 10 Euro Trinkgeld pro Nacht](https://www.krone.at/4351319) |
+| ted bundy | AT | de | 1000 | 06:00 | [Serial killer Ted Bundy linked to teenage girl's murder after 52 years](https://www.bbc.com/news/articles/ckqxnd7j5007o) |
+| arbre | FR | fr | 1000 | 07:50 | [Si votre jardin compte un arbre creux, ce visiteur nocturne pourrait bien s’y abriter cet automne](https://www.lefigaro.fr/jardin/si-votre-jardin-compte-un-arbre-creux-ce-visiteur-nocturne-pourrait-bien-s-y-abriter-cet-automne-20261028) |
+| oil rig sinks | US | en | 500 | 09:00 | [Borr Drilling’s Prospector 5 drilling rig sinks offshore Gabon](https://www.offshore-mag.com/special-reports/news/55414243/borr-drillings-prospector-5-drilling-rig-sinks-offshore-gabon) |
+| tokyo open | US | en | 500 | 08:50 | [Naomi Osaka moves into 2nd round in Tokyo, in front of home fans](https://www.espn.com/tennis/story/_/id/50296852/naomi-osaka-moves-2nd-round-tokyo-home-fans) |
+| meteorología | AR | es | 500 | 07:40 | [Clima en Estados Unidos este miércoles 28 de octubre: nieve en el noroeste, lluvias e inundaciones en Florida](https://www.univision.com/noticias/meteorologia/clima-en-estados-unidos-este-miercoles-28-de-octubre-nieve-en-el-noroeste-lluvias-e-inundaciones-en-florida) |
+| dia do funcionário público | BR | pt | 500 | 09:10 | [Ponto facultativo do Dia do Servidor Público é transferido para sexta-feira (30) em Curitiba; veja o que abre e fecha](https://g1.globo.com/pr/parana/noticia/2026/10/28/ponto-facultativo-do-dia-do-servidor-publico-e-transferido-para-sexta-feira-30-em-curitiba-veja-o-que-abre-e-fecha.ghtml) |
+| avenida brasil | BR | pt | 500 | 07:30 | [Avenida Brasil: Max se vinga de Carminha e exibe fotos íntimas para família de Tufão](https://noticiasdatv.uol.com.br/noticia/novelas/avenida-brasil-max-se-vinga-de-carminha-e-exibe-fotos-intimas-para-familia-de-tufao-158628) |
+| skigebiet | DE | de | 500 | 08:50 | [Zu wenig Schnee in den Alpen: Deutsches Skigebiet stellt Betrieb ein](https://www.t-online.de/nachrichten/panorama/gesellschaft/id_101500818/alpen-skigebiet-in-deutschland-stellt-betrieb-ein-zu-wenig-schnee.html) |
+| kältewelle | DE | de | 500 | 08:40 | [Wetterumschwung: Temperatur-Sturz da! Jetzt kommt die Kältewelle](https://www.bild.de/news/wetter/wetterumschwung-temperatur-sturz-da-jetzt-kommt-die-kaeltewelle-6ae09bdedcd605c8d4cea658) |
+| pfarrer | DE | de | 500 | 08:30 | [Landkreis Kronach: Pfarrer erleidet Kopfwunde – und fühlt sich verhöhnt](https://www.np-coburg.de/inhalt.landkreis-kronach-pfarrer-erleidet-kopfwunde-und-fuehlt-sich-verhoehnt.9509879e-75da-44df-8477-5479ea5c7ef1.html) |
+| türkei | AT | de | 500 | 06:00 | [Türkei arbeitet an Strategie für Meeresgebiete](https://orf.at/stories/3446176/) |
+| augmentation smic | FR | fr | 500 | 09:10 | [Smic : une hausse dès le 1er décembre se précise, entre 15 et 100 euros par mois selon qui l’emporte](https://www.capital.fr/votre-carriere/smic-une-hausse-des-le-1er-decembre-se-precise-entre-15-et-100-euros-par-mois-selon-qui-lemporte-1531317) |
+| hiver | FR | fr | 500 | 08:30 | [Pneus hiver : ce qu'il faut savoir avant l'entrée en vigueur dès le 1er novembre](https://actu.orange.fr/france/pneus-hiver-ce-qu-il-faut-savoir-avant-l-entree-en-vigueur-des-le-1er-novembre-l-express-via-6medias-CNT000002tpeXO.html) |
+| laptop | US | en | 200 | 09:00 | [Palmer Luckey’s New Weapon: The American-Made Laptop](https://www.wsj.com/tech/palmer-luckeys-new-weapon-the-american-made-laptop-5e17c6f0) |
+| 微博 | US | en | 200 | 08:10 | [姆巴佩道歉：“中国独裁者”迷因风波背后的资讯真空与“毛泽东热”](https://www.bbc.com/zhongwen/articles/c6x2v4p284ylo/simp) |
+| black friday | US | en | 200 | 08:10 | [Best Buy reveals holiday calendar with Doorbusters and deals throughout the season](https://corporate.bestbuy.com/2026/holiday-calendar/) |
+| spain train crash | GB | en | 200 | 09:10 | [Two high-speed trains collide in Spain, rail operator says](https://www.reuters.com/world/two-high-speed-trains-rear-end-spain-rail-operator-says-2026-10-28/) |
+| darragh macanthony | GB | en | 200 | 09:10 | [Owner Darragh MacAnthony will put his club shares up for sale if Peterborough United fail under Robbie Savage](https://www.peterboroughtoday.co.uk/sport/football/peterborough-united/owner-darragh-macanthony-will-put-his-club-shares-up-for-sale-if-peterborough-united-fail-under-robbie-savage-9313156) |
+| donnarumma | GB | en | 200 | 08:50 | [Guéhi’s reaction to Villa loss was fantastic, says Maresca](https://www.mancity.com/news/mens/enzo-maresca-brighton-carabao-cup-preview-63928692) |
+| sally nugent | GB | en | 200 | 08:50 | [Knighting Sinfield 'easiest decision anyone's had to make,' says Prince William](https://www.bbc.com/news/articles/c65ynjkrjq4wo) |
 
-## Uygun yeni adaylar (118)
+## Uygun yeni adaylar (116)
 
 | Puan | Kişi | Kategori | Nerede trend | Wikipedia artışı | Kaynak | Not |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -97,7 +97,6 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 | 115 | Heiko Weber | athletes | de | 2390.5x | [Q1594738](https://www.wikidata.org/wiki/Q1594738) [Wikipedia](https://en.wikipedia.org/wiki/Heiko_Weber) | recent death, write with care |
 | 114 | Bill Simpson | athletes | de | 2395x | [Q4910876](https://www.wikidata.org/wiki/Q4910876) [Wikipedia](https://en.wikipedia.org/wiki/Bill_Simpson_(racing_driver)) |  |
 | 113 | William Shatner | creators | en, de | 6.3x | [Q16297](https://www.wikidata.org/wiki/Q16297) [Wikipedia](https://en.wikipedia.org/wiki/William_Shatner) |  |
-| 112 | Malik Scott | athletes | en | 19.1x | [Q1587258](https://www.wikidata.org/wiki/Q1587258) [Wikipedia](https://en.wikipedia.org/wiki/Malik_Scott) |  |
 | 112 | Demi Moore | artists | pt | 13.8x | [Q43044](https://www.wikidata.org/wiki/Q43044) [Wikipedia](https://en.wikipedia.org/wiki/Demi_Moore) |  |
 | 112 | Joachim Lottmann | artists | de | 52.6x | [Q78360](https://www.wikidata.org/wiki/Q78360)  | recent death, write with care |
 | 112 | Marie Olfers | artists | de | 911.6x | [Q1897556](https://www.wikidata.org/wiki/Q1897556) [Wikipedia](https://en.wikipedia.org/wiki/Marie_von_Olfers) |  |
@@ -111,7 +110,6 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 | 106 | Romano Floriani Mussolini | athletes | MX | 14.4x | [Q105268643](https://www.wikidata.org/wiki/Q105268643) [Wikipedia](https://en.wikipedia.org/wiki/Romano_Floriani_Mussolini) |  |
 | 104 | Ronaldo | athletes | es, fr | 3.6x | [Q529207](https://www.wikidata.org/wiki/Q529207) [Wikipedia](https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)) |  |
 | 102 | Saïd El Mala | athletes | de | 14.5x | [Q125549770](https://www.wikidata.org/wiki/Q125549770) [Wikipedia](https://en.wikipedia.org/wiki/Said_El_Mala) |  |
-| 101 | Jude Bellingham | athletes | de | 10.5x | [Q66241169](https://www.wikidata.org/wiki/Q66241169) [Wikipedia](https://en.wikipedia.org/wiki/Jude_Bellingham) |  |
 | 99 | Gustav Mahler | artists | de | 8.5x | [Q7304](https://www.wikidata.org/wiki/Q7304) [Wikipedia](https://en.wikipedia.org/wiki/Gustav_Mahler) |  |
 | 99 | Gary Cooper | artists | de | 9.5x | [Q93957](https://www.wikidata.org/wiki/Q93957) [Wikipedia](https://en.wikipedia.org/wiki/Gary_Cooper) |  |
 | 98 | Scarlett Camberos | athletes | es | 15.5x | [Q113628055](https://www.wikidata.org/wiki/Q113628055) [Wikipedia](https://en.wikipedia.org/wiki/Scarlett_Camberos) |  |
@@ -126,7 +124,6 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 | 92 | Simón Rodríguez | artists | es | 10.5x | [Q1358685](https://www.wikidata.org/wiki/Q1358685) [Wikipedia](https://en.wikipedia.org/wiki/Sim%C3%B3n_Rodr%C3%ADguez) |  |
 | 92 | Margaret Qualley | artists | pt | 8.3x | [Q17380672](https://www.wikidata.org/wiki/Q17380672) [Wikipedia](https://en.wikipedia.org/wiki/Margaret_Qualley) |  |
 | 90 | Jennifer Connelly | artists | en | 5x | [Q103343](https://www.wikidata.org/wiki/Q103343) [Wikipedia](https://en.wikipedia.org/wiki/Jennifer_Connelly) |  |
-| 89 | Johann Sebastian Bach | artists | de | 4x | [Q1339](https://www.wikidata.org/wiki/Q1339) [Wikipedia](https://en.wikipedia.org/wiki/Johann_Sebastian_Bach) |  |
 | 87 | Hans-Werner Sinn | business | de | 10.6x | [Q72896](https://www.wikidata.org/wiki/Q72896) [Wikipedia](https://en.wikipedia.org/wiki/Hans-Werner_Sinn) |  |
 | 86 | Paul Bettany | artists | en | 4.2x | [Q242707](https://www.wikidata.org/wiki/Q242707) [Wikipedia](https://en.wikipedia.org/wiki/Paul_Bettany) |  |
 | 86 | François Vincentelli | artists | fr | 10.8x | [Q3086023](https://www.wikidata.org/wiki/Q3086023)  |  |
@@ -147,20 +144,21 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 | 78 | Michael Olise | athletes | fr | 3.3x | [Q62050484](https://www.wikidata.org/wiki/Q62050484) [Wikipedia](https://en.wikipedia.org/wiki/Michael_Olise) |  |
 | 77 | Dario Amodei | business | en | 3.3x | [Q103335665](https://www.wikidata.org/wiki/Q103335665) [Wikipedia](https://en.wikipedia.org/wiki/Dario_Amodei) |  |
 | 77 | Kim Kardashian | business | MX | 0.7x | [Q186304](https://www.wikidata.org/wiki/Q186304) [Wikipedia](https://en.wikipedia.org/wiki/Kim_Kardashian) |  |
-| 77 | Jennifer Lawrence | artists | BR | 1.1x | [Q189490](https://www.wikidata.org/wiki/Q189490) [Wikipedia](https://en.wikipedia.org/wiki/Jennifer_Lawrence) |  |
 | 76 | Hasan Piker | creators | en | 3.3x | [Q72219322](https://www.wikidata.org/wiki/Q72219322) [Wikipedia](https://en.wikipedia.org/wiki/Hasan_Piker) |  |
 | 76 | Christoph Kramer | athletes | de | 3x | [Q1085348](https://www.wikidata.org/wiki/Q1085348) [Wikipedia](https://en.wikipedia.org/wiki/Christoph_Kramer) |  |
 | 75 | Fernando Henrique Cardoso | artists | pt | 2.2x | [Q230578](https://www.wikidata.org/wiki/Q230578) [Wikipedia](https://en.wikipedia.org/wiki/Fernando_Henrique_Cardoso) |  |
 | 75 | Aurore Delplace | artists | fr | 8x | [Q19952310](https://www.wikidata.org/wiki/Q19952310) [Wikipedia](https://en.wikipedia.org/wiki/Aurore_Delplace) |  |
+| 74 | Jake Gyllenhaal | artists | US | 0.9x | [Q133313](https://www.wikidata.org/wiki/Q133313) [Wikipedia](https://en.wikipedia.org/wiki/Jake_Gyllenhaal) |  |
+| 74 | Gianluigi Donnarumma | athletes | GB | 1x | [Q20830808](https://www.wikidata.org/wiki/Q20830808) [Wikipedia](https://en.wikipedia.org/wiki/Gianluigi_Donnarumma) |  |
 | 74 | George Russell | athletes | PT | 1.5x | [Q17319645](https://www.wikidata.org/wiki/Q17319645) [Wikipedia](https://en.wikipedia.org/wiki/George_Russell_(racing_driver)) |  |
 | 74 | Deva Cassel | artists | fr | 4x | [Q112213837](https://www.wikidata.org/wiki/Q112213837) [Wikipedia](https://en.wikipedia.org/wiki/Deva_Cassel) |  |
 | 73 | Pat Murphy | athletes | en | 5.4x | [Q2394087](https://www.wikidata.org/wiki/Q2394087) [Wikipedia](https://en.wikipedia.org/wiki/Pat_Murphy_(baseball_manager)) |  |
+| 73 | Toni Nadal | athletes | ES | 2.7x | [Q2118577](https://www.wikidata.org/wiki/Q2118577) [Wikipedia](https://en.wikipedia.org/wiki/Toni_Nadal) |  |
 | 73 | Jrue Holiday | athletes | BR | 1.6x | [Q622213](https://www.wikidata.org/wiki/Q622213) [Wikipedia](https://en.wikipedia.org/wiki/Jrue_Holiday) |  |
 | 73 | Tom Leeb | artists | fr | 3.1x | [Q50328133](https://www.wikidata.org/wiki/Q50328133) [Wikipedia](https://en.wikipedia.org/wiki/Tom_Leeb) |  |
 | 72 | Jördis Triebel | artists | de | 4.4x | [Q108956](https://www.wikidata.org/wiki/Q108956) [Wikipedia](https://en.wikipedia.org/wiki/J%C3%B6rdis_Triebel) |  |
 | 71 | Justine Lupe | artists | en | 2x | [Q11835913](https://www.wikidata.org/wiki/Q11835913) [Wikipedia](https://en.wikipedia.org/wiki/Justine_Lupe) |  |
 | 71 | Charles Alloncle | business | fr | 6.6x | [Q126539921](https://www.wikidata.org/wiki/Q126539921) [Wikipedia](https://en.wikipedia.org/wiki/Charles_Alloncle) |  |
-| 70 | Janice Tjen | athletes | US | 3.1x | [Q126454806](https://www.wikidata.org/wiki/Q126454806) [Wikipedia](https://en.wikipedia.org/wiki/Janice_Tjen) |  |
 | 70 | Fernando Haddad | business | pt | 2.2x | [Q3069485](https://www.wikidata.org/wiki/Q3069485) [Wikipedia](https://en.wikipedia.org/wiki/Fernando_Haddad) |  |
 | 70 | José Alencar | business | pt | 2.9x | [Q349583](https://www.wikidata.org/wiki/Q349583) [Wikipedia](https://en.wikipedia.org/wiki/Jos%C3%A9_Alencar) |  |
 | 70 | Adriana Araújo | artists | pt | 6.7x | [Q9583761](https://www.wikidata.org/wiki/Q9583761) [Wikipedia](https://en.wikipedia.org/wiki/Adriana_Ara%C3%BAjo_(journalist)) |  |
@@ -174,13 +172,14 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 | 62 | Renan Santos | business | pt | 2.9x | [Q51882553](https://www.wikidata.org/wiki/Q51882553) [Wikipedia](https://en.wikipedia.org/wiki/Renan_Santos) |  |
 | 57 | Cleitinho Azevedo | business | pt | 2.4x | [Q59211077](https://www.wikidata.org/wiki/Q59211077) [Wikipedia](https://en.wikipedia.org/wiki/Cleitinho_Azevedo) |  |
 
-## Sitede zaten var, güncellemeye aday (11)
+## Sitede zaten var, güncellemeye aday (12)
 
 | Puan | Kişi | Kategori | Nerede trend | Wikipedia artışı | Kaynak | Not |
 | --- | --- | --- | --- | --- | --- | --- |
 | 221 | Harry Kane | athletes | en, es, pt, de, fr | 31.4x | [Q969725](https://www.wikidata.org/wiki/Q969725) [Wikipedia](https://en.wikipedia.org/wiki/Harry_Kane) |  |
 | 216 | Alexia Putellas | athletes | en, es, pt, de, fr | 127.2x | [Q4721366](https://www.wikidata.org/wiki/Q4721366) [Wikipedia](https://en.wikipedia.org/wiki/Alexia_Putellas) |  |
 | 200 | Q162202 | artists | en, es, de, fr | 28.3x | [Q162202](https://www.wikidata.org/wiki/Q162202) [Wikipedia](https://en.wikipedia.org/wiki/Nicki_Minaj) |  |
+| 169 | Aitana Bonmatí | athletes | es, de, fr | 20.2x | [Q27995553](https://www.wikidata.org/wiki/Q27995553) [Wikipedia](https://en.wikipedia.org/wiki/Aitana_Bonmat%C3%AD) |  |
 | 152 | Kylian Mbappé | athletes | en, es, de, fr | 4.4x | [Q21621995](https://www.wikidata.org/wiki/Q21621995) [Wikipedia](https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9) |  |
 | 150 | Noah Wyle | artists | en, de | 19.6x | [Q315208](https://www.wikidata.org/wiki/Q315208) [Wikipedia](https://en.wikipedia.org/wiki/Noah_Wyle) |  |
 | 150 | Unai Simón | athletes | es, fr | 35.5x | [Q23908113](https://www.wikidata.org/wiki/Q23908113) [Wikipedia](https://en.wikipedia.org/wiki/Unai_Sim%C3%B3n) |  |
@@ -192,4 +191,4 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 
 ## Elenenler
 
-217 kişi elendi (reşit olmayan, suç ya da trajedi haberi, az tanınan, kategori dışı ya da trend zayıf). Ayrıntı JSON dosyasında.
+215 kişi elendi (reşit olmayan, suç ya da trajedi haberi, az tanınan, kategori dışı ya da trend zayıf). Ayrıntı JSON dosyasında.

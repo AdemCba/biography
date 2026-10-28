@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T09:01:19.249Z",
+  "generatedAt": "2026-10-28T09:27:57.295Z",
   "signals": 850,
   "scaffolded": [],
   "candidates": [
@@ -1623,6 +1623,92 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q27995553",
+      "name": "Aitana Bonmatí",
+      "description": "Spanish football player",
+      "category": "athletes",
+      "occupations": [
+        "association football player"
+      ],
+      "birthYear": 1998,
+      "deathYear": null,
+      "sitelinks": 46,
+      "wikipedia": {
+        "ar": "أيتانا بونماتي",
+        "arz": "ايتانا بونماتى",
+        "ast": "Aitana Bonmatí",
+        "be": "Айтана Банмаці",
+        "bn": "আইতানা বনমাতি",
+        "ca": "Aitana Bonmatí i Conca",
+        "cs": "Aitana Bonmatíová",
+        "da": "Aitana Bonmatí",
+        "de": "Aitana Bonmatí",
+        "en": "Aitana Bonmatí",
+        "eo": "Aitana Bonmatí",
+        "es": "Aitana Bonmatí",
+        "et": "Aitana Bonmatí",
+        "eu": "Aitana Bonmatí",
+        "ext": "Aitana Bonmatí",
+        "fa": "آیتانا بونماتی",
+        "fi": "Aitana Bonmatí",
+        "fr": "Aitana Bonmatí",
+        "ha": "Aitana Bonmatí",
+        "he": "אייטנה בונמטי",
+        "hu": "Aitana Bonmatí",
+        "hy": "Այտանա Բոնմատի",
+        "id": "Aitana Bonmatí",
+        "ie": "Aitana Bonmatí",
+        "it": "Aitana Bonmatí",
+        "ja": "アイタナ・ボンマティ",
+        "ko": "아이타나 본마티",
+        "ml": "ഐറ്റാന ബോൺമാറ്റി",
+        "nl": "Aitana Bonmatí",
+        "no": "Aitana Bonmatí",
+        "oc": "Aitana Bonmatí",
+        "pa": "ਐਤਾਨਾ ਬੋਨਮੈਟੀ",
+        "pl": "Aitana Bonmatí",
+        "pt": "Aitana Bonmatí",
+        "ru": "Бонмати, Айтана",
+        "simple": "Aitana Bonmatí",
+        "sr": "Аитана Бонмати",
+        "sv": "Aitana Bonmatí",
+        "sw": "Aitana Bonmatí",
+        "tn": "Aitana Bonmatí",
+        "tr": "Aitana Bonmatí",
+        "uk": "Айтана Бонматі",
+        "ur": "ایتانا بونماٹی",
+        "uz": "Aitana Bonmatí",
+        "vi": "Aitana Bonmatí",
+        "zh": "艾塔娜·邦马蒂"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "es",
+          "term": "Aitana Bonmatí",
+          "volume": 5765
+        },
+        {
+          "source": "wikipedia-top",
+          "where": "de",
+          "term": "Aitana Bonmatí",
+          "volume": 3783
+        },
+        {
+          "source": "wikipedia-top",
+          "where": "fr",
+          "term": "Aitana Bonmatí",
+          "volume": 8636
+        }
+      ],
+      "newsUrls": [],
+      "spike": 20.2,
+      "score": 169,
+      "decision": "accept",
+      "reasons": [],
+      "onSite": true
+    },
+    {
       "wikidataId": "Q110154",
       "name": "George Takei",
       "description": "American actor, author and activist (born 1937)",
@@ -3130,183 +3216,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q9671",
-      "name": "Michael Schumacher",
-      "description": "German racing driver (born 1969)",
-      "category": null,
-      "occupations": [
-        "Formula One driver",
-        "diplomat",
-        "motorcycle racer"
-      ],
-      "birthYear": 1969,
-      "deathYear": null,
-      "sitelinks": 145,
-      "wikipedia": {
-        "ace": "Michael Schumacher",
-        "af": "Michael Schumacher",
-        "als": "Michael Schumacher",
-        "an": "Michael Schumacher",
-        "ar": "مايكل شوماخر",
-        "arz": "مايكل شوماخر",
-        "ast": "Michael Schumacher",
-        "az": "Mixael Şumaxer",
-        "ban": "Michael Schumacher",
-        "bar": "Michael Schumacher",
-        "ba": "Шумахер Михаэль",
-        "bcl": "Michael Schumacher",
-        "be_x_old": "Міхаэль Шумахэр",
-        "be": "Міхаэль Шумахер",
-        "bew": "Michael Schumacher",
-        "bg": "Михаел Шумахер",
-        "bi": "Michael Schumacher",
-        "bjn": "Michael Schumacher",
-        "bn": "মিশাএল শুমাখার",
-        "br": "Michael Schumacher",
-        "bs": "Michael Schumacher",
-        "bug": "Michael Schumacher",
-        "ca": "Michael Schumacher",
-        "ceb": "Michael Schumacher",
-        "ch": "Michael Schumacher",
-        "ckb": "مایکل شوماخەر",
-        "co": "Michael Schumacher",
-        "cs": "Michael Schumacher",
-        "cy": "Michael Schumacher",
-        "da": "Michael Schumacher",
-        "de": "Michael Schumacher",
-        "diq": "Michael Schumacher",
-        "dv": "މައިކަލް ޝޫމާކަރ",
-        "el": "Μίχαελ Σουμάχερ",
-        "eml": "Michael Schumacher",
-        "en": "Michael Schumacher",
-        "eo": "Michael Schumacher",
-        "es": "Michael Schumacher",
-        "et": "Michael Schumacher",
-        "eu": "Michael Schumacher",
-        "ext": "Michael Schumacher",
-        "fa": "میشائیل شوماخر",
-        "fi": "Michael Schumacher",
-        "fj": "Michael Schumacher",
-        "fr": "Michael Schumacher",
-        "fy": "Michael Schumacher",
-        "ga": "Michael Schumacher",
-        "gl": "Michael Schumacher",
-        "gor": "Michael Schumacher",
-        "gpe": "Michael Schumacher",
-        "he": "מיכאל שומאכר",
-        "hi": "माइकल शूमाकर",
-        "hr": "Michael Schumacher",
-        "ht": "Michael Schumacher",
-        "hu": "Michael Schumacher",
-        "hy": "Միխայել Շումախեր",
-        "hyw": "Մայքըլ Շումախըր",
-        "id": "Michael Schumacher",
-        "ie": "Michael Schumacher",
-        "io": "Michael Schumacher",
-        "is": "Michael Schumacher",
-        "it": "Michael Schumacher",
-        "ja": "ミハエル・シューマッハ",
-        "jv": "Michael Schumacher",
-        "ka": "მიხაელ შუმახერი",
-        "kk": "Михаэль Шумахер",
-        "kn": "ಮೈಕೆಲ್ ಶೂಮಾಕರ್",
-        "ko": "미하엘 슈마허",
-        "la": "Michael Schumacher",
-        "lb": "Michael Schumacher",
-        "lfn": "Michael Schumacher",
-        "li": "Michael Schumacher",
-        "lmo": "Michael Schumacher",
-        "lt": "Michael Schumacher",
-        "lv": "Mihaels Šūmahers",
-        "mad": "Michael Schumacher",
-        "map_bms": "Michael Schumacher",
-        "mg": "Michael Schumacher",
-        "min": "Michael Schumacher",
-        "mk": "Михаел Шумахер",
-        "ml": "മൈക്കൾ ഷൂമാക്കർ",
-        "mn": "Михаэль Шумахер",
-        "mr": "मायकेल शुमाकर",
-        "ms": "Michael Schumacher",
-        "my": "မိုက်ကယ် ရှူးမက်ကာ",
-        "mzn": "مایکل شوماخر",
-        "nap": "Michael Schumacher",
-        "nds": "Michael Schumacher",
-        "nia": "Michael Schumacher",
-        "nl": "Michael Schumacher",
-        "nn": "Michael Schumacher",
-        "nov": "Michael Schumacher",
-        "no": "Michael Schumacher",
-        "oc": "Michael Schumacher",
-        "pag": "Michael Schumacher",
-        "pam": "Michael Schumacher",
-        "pa": "ਮਾਈਕਲ ਸ਼ੂਮਾਕਰ",
-        "pl": "Michael Schumacher",
-        "pms": "Michael Schumacher",
-        "pnb": "مائیکل شوماکر",
-        "pt": "Michael Schumacher",
-        "qu": "Michael Schumacher",
-        "ro": "Michael Schumacher",
-        "ru": "Шумахер, Михаэль",
-        "scn": "Michael Schumacher",
-        "sco": "Michael Schumacher",
-        "shi": "Maykl Cumaxar",
-        "sh": "Michael Schumacher",
-        "simple": "Michael Schumacher",
-        "si": "මයිකල් ෂූමාකර්",
-        "sk": "Michael Schumacher",
-        "sl": "Michael Schumacher",
-        "sm": "Michael Schumacher",
-        "so": "Michael Schumacher",
-        "sq": "Michael Schumacher",
-        "sr": "Михаел Шумахер",
-        "su": "Michael Schumacher",
-        "sv": "Michael Schumacher",
-        "sw": "Michael Schumacher",
-        "szl": "Michael Schumacher",
-        "ta": "மைக்கேல் சூமாக்கர்",
-        "tet": "Michael Schumacher",
-        "tg": "Михаэл Шумахер",
-        "th": "มิชชาเอล ชูมัคเคอร์",
-        "tl": "Michael Schumacher",
-        "tpi": "Michael Schumacher",
-        "tr": "Michael Schumacher",
-        "uk": "Міхаель Шумахер",
-        "ur": "مائیکل شوماکر",
-        "uz": "Michael Schumacher",
-        "vec": "Michael Schumacher",
-        "ve": "Michael Schumacher",
-        "vi": "Michael Schumacher",
-        "vls": "Michael Schumacher",
-        "vo": "Michael Schumacher",
-        "war": "Michael Schumacher",
-        "wa": "Michael Schumacher",
-        "wuu": "迈克尔·舒马赫",
-        "xh": "Michael Schumacher",
-        "yi": "מיכאל שומאכער",
-        "zea": "Michael Schumacher",
-        "zgh": "ⵎⴰⵢⴽⵍ ⵛⵓⵎⴰⵅⵔ",
-        "zh_yue": "米高舒麥加",
-        "zh": "迈克尔·舒马赫",
-        "zu": "Michael Schumacher"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "fr",
-          "term": "Michael Schumacher",
-          "volume": 21804
-        }
-      ],
-      "newsUrls": [],
-      "spike": 19.2,
-      "score": 135,
-      "decision": "reject",
-      "reasons": [
-        "no matching site category"
-      ],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q324546",
       "name": "Marco Rubio",
       "description": "72nd United States Secretary of State since 2025",
@@ -3672,7 +3581,7 @@
           "source": "google-trends",
           "where": "AT",
           "term": "ted bundy",
-          "volume": 500
+          "volume": 1000
         }
       ],
       "newsUrls": [
@@ -6471,37 +6380,39 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q1587258",
-      "name": "Malik Scott",
-      "description": "American boxer",
-      "category": "athletes",
+      "wikidataId": "Q2886981",
+      "name": "Alejandro Rojas-Marcos de la Viesca",
+      "description": "Spanish politician",
+      "category": null,
       "occupations": [
-        "boxer",
-        "boxing trainer"
+        "politician",
+        "lawyer"
       ],
-      "birthYear": 1980,
+      "birthYear": 1940,
       "deathYear": null,
       "sitelinks": 5,
       "wikipedia": {
-        "ar": "مالك سكوت",
-        "arz": "مالك سكوت",
-        "de": "Malik Scott",
-        "en": "Malik Scott",
-        "ru": "Скотт, Малик"
+        "ca": "Alejandro Rojas-Marcos de la Viesca",
+        "en": "Alejandro Rojas-Marcos",
+        "eo": "Alejandro Rojas-Marcos",
+        "es": "Alejandro Rojas-Marcos",
+        "eu": "Alejandro Rojas-Marcos"
       },
       "signals": [
         {
           "source": "wikipedia-top",
-          "where": "en",
-          "term": "Malik Scott",
-          "volume": 26309
+          "where": "es",
+          "term": "Alejandro Rojas-Marcos",
+          "volume": 5334
         }
       ],
       "newsUrls": [],
-      "spike": 19.1,
+      "spike": 79.6,
       "score": 112,
-      "decision": "accept",
-      "reasons": [],
+      "decision": "reject",
+      "reasons": [
+        "no matching site category"
+      ],
       "onSite": false
     },
     {
@@ -6896,6 +6807,128 @@
       "reasons": [
         "no matching site category",
         "pageview spike 0.8x is below 2x"
+      ],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q43945",
+      "name": "Jude the Apostle",
+      "description": "one of the Twelve Apostles of Jesus; traditionally identified with Jude the brother of Jesus",
+      "category": null,
+      "occupations": [
+        "farmer",
+        "missionary"
+      ],
+      "birthYear": 10,
+      "deathYear": 62,
+      "sitelinks": 81,
+      "wikipedia": {
+        "abstract": "Q43945",
+        "an": "Sant Chudas Tadeu",
+        "arc": "ܝܗܘܕܐ ܫܠܝܚܐ",
+        "ar": "تداوس",
+        "arz": "تداوس",
+        "az": "Həvari Faddey",
+        "bar": "Judas Thaddäus",
+        "be_x_old": "Юда Тадэй",
+        "be": "Фадзей (апостал)",
+        "bg": "Юда Тадей",
+        "bn": "প্রেরিত যিহূদা থদ্দেয়",
+        "br": "Jud (abostol)",
+        "ca": "Judes Tadeu",
+        "cdo": "Dăk-tái",
+        "cs": "Juda Tadeáš",
+        "da": "Thaddæus",
+        "de": "Judas Thaddäus",
+        "el": "Απόστολος Θαδδαίος",
+        "en": "Jude the Apostle",
+        "eo": "Judaso Tadeo",
+        "es": "Judas Tadeo",
+        "et": "Taddeus",
+        "eu": "Juda Tadeo",
+        "fa": "تادئوس",
+        "fi": "Taddeus",
+        "fon": "Yɛhwè Judi",
+        "fr": "Jude (apôtre)",
+        "fy": "Judas Taddéus",
+        "ga": "Naomh Iúdás Tadáias",
+        "gl": "Xudas Tadeu",
+        "gn": "Judas Tadeo Marangatu",
+        "gom": "Sant Judasak Magnnem",
+        "he": "תדיאוס הקדוש",
+        "hr": "Juda Tadej",
+        "hu": "Júdás apostol",
+        "hy": "Թադեոս առաքյալ",
+        "hyw": "Ս. Թադէոս Առաքեալ",
+        "iba": "Judas Tadeus",
+        "id": "Yudas bin Yakobus",
+        "it": "Giuda Taddeo",
+        "ja": "タダイ",
+        "jv": "Yudas Tadeus",
+        "ka": "იუდა იაკობისი",
+        "ko": "유다 타대오",
+        "la": "Iudas Thaddaeus",
+        "lt": "Apaštalas Judas Tadas",
+        "lv": "Apustulis Tadejs",
+        "mg": "Joda Tadeo",
+        "mk": "Апостол Јуда",
+        "ml": "യൂദാ ശ്ലീഹാ",
+        "ms": "Yudas bin Yakobus",
+        "nds": "Judas Thaddäus",
+        "nl": "Judas Taddeüs",
+        "nn": "Apostelen Judas Taddeus",
+        "no": "Judas Taddeus",
+        "pl": "Juda Tadeusz Apostoł",
+        "pms": "Tadé (apòstol)",
+        "pt": "Judas Tadeu",
+        "qu": "Judas Tadeu",
+        "ro": "Iuda Tadeu",
+        "ru": "Апостол Фаддей",
+        "sh": "Apostol Tadej",
+        "simple": "Jude the Apostle",
+        "si": "ශාන්ත ජුඩ් අපොස්තුළු",
+        "sk": "Júda Tadeáš",
+        "sl": "Juda Tadej",
+        "sq": "Juda Tadeu",
+        "sr": "Апостол Тадеј",
+        "sv": "Judas Taddaios",
+        "sw": "Yuda Tadei",
+        "ta": "யூதா ததேயு (திருத்தூதர்)",
+        "th": "ยูดาอัครทูต",
+        "tl": "Hudas ang Alagad",
+        "tt": "Яһүд Фаддей",
+        "uk": "Іуда Фаддей",
+        "ur": "تدی",
+        "vi": "Giuđa Tađêô",
+        "war": "Judas Tadeo",
+        "wuu": "犹达·达陡",
+        "zh_yue": "猶大·達太",
+        "zh": "猶達·達陡"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "MX",
+          "term": "mañanitas a san judas tadeo",
+          "volume": 100
+        },
+        {
+          "source": "wikipedia-top",
+          "where": "es",
+          "term": "Judas Tadeo",
+          "volume": 8349
+        }
+      ],
+      "newsUrls": [
+        "https://oem.com.mx/la-prensa/metropoli/implementan-operativo-especial-lineas-2-y-3-del-metro-hidalgo-por-festejo-de-san-judas-tadeo-32807822",
+        "https://www.jornada.com.mx/noticia/2026/10/26/capital/metro-desplegara-50-elementos-de-seguridad-por-devotos-de-san-judas-tadeo-a-templo-de-san-hipolito",
+        "https://www.milenio.com/comunidad/estaciones-cerradas-metro-metrobus-hoy-28-octubre-2026-san-judas-tadeo"
+      ],
+      "spike": 3.3,
+      "score": 111,
+      "decision": "reject",
+      "reasons": [
+        "no matching site category"
       ],
       "onSite": false
     },
@@ -7353,94 +7386,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q27995553",
-      "name": "Aitana Bonmatí",
-      "description": "Spanish football player",
-      "category": "athletes",
-      "occupations": [
-        "association football player"
-      ],
-      "birthYear": 1998,
-      "deathYear": null,
-      "sitelinks": 46,
-      "wikipedia": {
-        "ar": "أيتانا بونماتي",
-        "arz": "ايتانا بونماتى",
-        "ast": "Aitana Bonmatí",
-        "be": "Айтана Банмаці",
-        "bn": "আইতানা বনমাতি",
-        "ca": "Aitana Bonmatí i Conca",
-        "cs": "Aitana Bonmatíová",
-        "da": "Aitana Bonmatí",
-        "de": "Aitana Bonmatí",
-        "en": "Aitana Bonmatí",
-        "eo": "Aitana Bonmatí",
-        "es": "Aitana Bonmatí",
-        "et": "Aitana Bonmatí",
-        "eu": "Aitana Bonmatí",
-        "ext": "Aitana Bonmatí",
-        "fa": "آیتانا بونماتی",
-        "fi": "Aitana Bonmatí",
-        "fr": "Aitana Bonmatí",
-        "ha": "Aitana Bonmatí",
-        "he": "אייטנה בונמטי",
-        "hu": "Aitana Bonmatí",
-        "hy": "Այտանա Բոնմատի",
-        "id": "Aitana Bonmatí",
-        "ie": "Aitana Bonmatí",
-        "it": "Aitana Bonmatí",
-        "ja": "アイタナ・ボンマティ",
-        "ko": "아이타나 본마티",
-        "ml": "ഐറ്റാന ബോൺമാറ്റി",
-        "nl": "Aitana Bonmatí",
-        "no": "Aitana Bonmatí",
-        "oc": "Aitana Bonmatí",
-        "pa": "ਐਤਾਨਾ ਬੋਨਮੈਟੀ",
-        "pl": "Aitana Bonmatí",
-        "pt": "Aitana Bonmatí",
-        "ru": "Бонмати, Айтана",
-        "simple": "Aitana Bonmatí",
-        "sr": "Аитана Бонмати",
-        "sv": "Aitana Bonmatí",
-        "sw": "Aitana Bonmatí",
-        "tn": "Aitana Bonmatí",
-        "tr": "Aitana Bonmatí",
-        "uk": "Айтана Бонматі",
-        "ur": "ایتانا بونماٹی",
-        "uz": "Aitana Bonmatí",
-        "vi": "Aitana Bonmatí",
-        "zh": "艾塔娜·邦马蒂"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "es",
-          "term": "Aitana Bonmatí",
-          "volume": 5765
-        },
-        {
-          "source": "wikipedia-top",
-          "where": "de",
-          "term": "Aitana Bonmatí",
-          "volume": 3783
-        },
-        {
-          "source": "wikipedia-top",
-          "where": "fr",
-          "term": "Aitana Bonmatí",
-          "volume": 8636
-        }
-      ],
-      "newsUrls": [],
-      "spike": 0,
-      "score": 109,
-      "decision": "reject",
-      "reasons": [
-        "pageview spike 0.0x is below 2x"
-      ],
-      "onSite": true
-    },
-    {
       "wikidataId": "Q4730482",
       "name": "Allan Blair",
       "description": "American academic",
@@ -7759,6 +7704,40 @@
       "score": 108,
       "decision": "accept",
       "reasons": [],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q6082381",
+      "name": "Poncho Zuleta",
+      "description": "Colombian singer",
+      "category": "artists",
+      "occupations": [
+        "singer",
+        "composer",
+        "lawyer"
+      ],
+      "birthYear": 1949,
+      "deathYear": null,
+      "sitelinks": 2,
+      "wikipedia": {
+        "br": "Poncho Zuleta",
+        "es": "Poncho Zuleta"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "es",
+          "term": "Poncho Zuleta",
+          "volume": 5581
+        }
+      ],
+      "newsUrls": [],
+      "spike": 83.3,
+      "score": 107,
+      "decision": "reject",
+      "reasons": [
+        "only 2 Wikipedia editions (needs 5)"
+      ],
       "onSite": false
     },
     {
@@ -8631,151 +8610,6 @@
       "newsUrls": [],
       "spike": 14.5,
       "score": 102,
-      "decision": "accept",
-      "reasons": [],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q134467028",
-      "name": "Quillan Salkilld",
-      "description": "Australian mixed martial artist",
-      "category": null,
-      "occupations": [
-        "mixed martial arts fighter"
-      ],
-      "birthYear": 1999,
-      "deathYear": null,
-      "sitelinks": 8,
-      "wikipedia": {
-        "ar": "كويلان سالكيلد",
-        "en": "Quillan Salkilld",
-        "es": "Quillan Salkilld",
-        "fi": "Quillan Salkilld",
-        "fr": "Quillan Salkilld",
-        "ja": "クイラン・サルキルド",
-        "pl": "Quillan Salkilld",
-        "ru": "Солкиллд, Куиллан"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "FR",
-          "term": "salkilld",
-          "volume": 100
-        }
-      ],
-      "newsUrls": [
-        "https://www.mmafighting.com/ufc/518150/quillan-salkilld-faces-benoit-saint-denis-in-main-event-of-ufc-sydney",
-        "https://www.espn.com/mma/story/_/id/50302428/australia-quillan-salkilld-headline-ufc-fight-night-sydney-benoit-saint-denis-february",
-        "https://sports.yahoo.com/articles/top-prospect-quillan-salkilld-headlines-015946331.html"
-      ],
-      "spike": 15.5,
-      "score": 102,
-      "decision": "reject",
-      "reasons": [
-        "no matching site category"
-      ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q66241169",
-      "name": "Jude Bellingham",
-      "description": "English footballer (born 2003)",
-      "category": "athletes",
-      "occupations": [
-        "association football player"
-      ],
-      "birthYear": 2003,
-      "deathYear": null,
-      "sitelinks": 75,
-      "wikipedia": {
-        "af": "Jude Bellingham",
-        "ar": "جود بيلينغهام",
-        "arz": "چود بيلينجام",
-        "ast": "Jude Bellingham",
-        "az": "Cud Bellingem",
-        "ban": "Jude Bellingham",
-        "be_x_old": "Джуд Бэлінггэм",
-        "be": "Джуд Белінгем",
-        "bg": "Джуд Белингам",
-        "bn": "জুড বেলিংহাম",
-        "ca": "Jude Bellingham",
-        "ckb": "جوود بێلینگھام",
-        "cs": "Jude Bellingham",
-        "cy": "Jude Bellingham",
-        "dag": "Jude Bellingham",
-        "da": "Jude Bellingham",
-        "de": "Jude Bellingham",
-        "diq": "Jude Bellingham",
-        "el": "Τζουντ Μπέλινγκχαμ",
-        "en": "Jude Bellingham",
-        "eo": "Jude Bellingham",
-        "es": "Jude Bellingham",
-        "et": "Jude Bellingham",
-        "eu": "Jude Bellingham",
-        "fa": "جود بلینگام",
-        "fi": "Jude Bellingham",
-        "fr": "Jude Bellingham",
-        "gl": "Jude Bellingham",
-        "ha": "Jude Bellingham",
-        "he": "ג'וד בלינגהאם",
-        "hr": "Jude Bellingham",
-        "hu": "Jude Bellingham",
-        "hy": "Ջուդ Բելինգեմ",
-        "id": "Jude Bellingham",
-        "ie": "Jude Bellingham",
-        "io": "Jude Bellingham",
-        "is": "Jude Bellingham",
-        "it": "Jude Bellingham",
-        "ja": "ジュード・ベリンガム",
-        "jv": "Jude Bellingham",
-        "ka": "ჯუდ ბელინგემი",
-        "kk": "Джуд Беллингем",
-        "km": "ជូដ ប៊ែលលីងហាំ",
-        "knc": "Jude Bellingham",
-        "ko": "주드 벨링엄",
-        "lo": "ຈູ້ດ ເບລິງແຮມ",
-        "lt": "Jude Bellingham",
-        "lv": "Džūds Belingems",
-        "mad": "Jude Bellingham",
-        "ms": "Jude Bellingham",
-        "mzn": "جود بلینگام",
-        "nl": "Jude Bellingham",
-        "no": "Jude Bellingham",
-        "nup": "Jude Bellingham",
-        "pl": "Jude Bellingham",
-        "pt": "Jude Bellingham",
-        "ro": "Jude Bellingham",
-        "ru": "Беллингем, Джуд",
-        "sh": "Jude Bellingham",
-        "simple": "Jude Bellingham",
-        "sk": "Jude Bellingham",
-        "sq": "Jude Bellingham",
-        "sr": "Џуд Белингам",
-        "sv": "Jude Bellingham",
-        "tg": "Ҷуд Беллингҳем",
-        "th": "จูด เบลลิงงัม",
-        "tr": "Jude Bellingham",
-        "ts": "Jude Bellingham",
-        "uk": "Джуд Беллінгем",
-        "ur": "جوڈ بیلنگھم",
-        "uz": "Jude Bellingham",
-        "vi": "Jude Bellingham",
-        "vo": "Jude Bellingham",
-        "zh_yue": "貝寧咸",
-        "zh": "祖德·贝林厄姆"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "de",
-          "term": "Jude Bellingham",
-          "volume": 4780
-        }
-      ],
-      "newsUrls": [],
-      "spike": 10.5,
-      "score": 101,
       "decision": "accept",
       "reasons": [],
       "onSite": false
@@ -10214,7 +10048,7 @@
           "source": "google-trends",
           "where": "US",
           "term": "sinja kraus",
-          "volume": 100
+          "volume": 200
         },
         {
           "source": "google-trends",
@@ -10228,8 +10062,8 @@
         "https://lastwordonsports.com/tennis/2026/10/27/wta-guangzhou-day-3-predictions-badosa-kraus/",
         "https://www.bleachernation.com/picks/2026/10/27/shi-vs-yastremska-prediction-at-the-galaxy-holding-group-guangzhou-open-wednesday-october-28/",
         "https://sport.orf.at/stories/3164141/",
-        "https://www.sn.at/sport/mixed/kraus-verliert-in-guangzhou-gegen-badosa-in-zwei-saetzen-art-680804",
-        "https://www.derstandard.at/story/3000000346279/sinja-kraus-in-guangzhou-in-zweiter-runde-an-spanierin-badosa-gescheitert?ref=rss"
+        "https://www.krone.at/4349760",
+        "https://www.heute.at/s/aus-in-china-kraus-scheitert-an-ehemaliger-nummer-2-120273358"
       ],
       "spike": 2.7,
       "score": 92,
@@ -10539,61 +10373,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q82637284",
-      "name": "Sarah Knafo",
-      "description": "French political adviser (born 1993)",
-      "category": null,
-      "occupations": [
-        "official",
-        "political adviser",
-        "politician",
-        "consultant"
-      ],
-      "birthYear": 1993,
-      "deathYear": null,
-      "sitelinks": 12,
-      "wikipedia": {
-        "de": "Sarah Knafo",
-        "en": "Sarah Knafo",
-        "es": "Sarah Knafo",
-        "fi": "Sarah Knafo",
-        "fr": "Sarah Knafo",
-        "id": "Sarah Knafo",
-        "it": "Sarah Knafo",
-        "mg": "Sarah Knafo",
-        "pl": "Sarah Knafo",
-        "pt": "Sarah Knafo",
-        "ru": "Кнафо, Сара",
-        "uk": "Сара Кнафо"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "FR",
-          "term": "sarah knafo",
-          "volume": 2000
-        },
-        {
-          "source": "wikipedia-top",
-          "where": "fr",
-          "term": "Sarah Knafo",
-          "volume": 11376
-        }
-      ],
-      "newsUrls": [
-        "https://www.bfmtv.com/pratique/les-lecteurs-ne-lachent-plus-ce-roman-voici-le-livre-de-sarah-knafo-qui-se-vend-par-lot-de-100-en-octobre_AB-202610260030.html",
-        "https://www.letelegramme.fr/cotes-d-armor/pleguien-22290/le-collectif-des-habitantses-indigneses-de-pleguien-se-mobilise-contre-la-venue-de-sarah-knafo-a-kerfave-7145590.php",
-        "https://www.ouest-france.fr/politique/sarah-knafo-attendue-dans-les-cotes-darmor-lunion-democratique-bretonne-appelle-a-manifester-contre-sa-venue-5c7df310-d149-11f1-a953-ed5fcc297d72"
-      ],
-      "spike": 0.6,
-      "score": 91,
-      "decision": "reject",
-      "reasons": [
-        "no matching site category"
-      ],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q103343",
       "name": "Jennifer Connelly",
       "description": "American actress (born 1970)",
@@ -10896,264 +10675,58 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q1339",
-      "name": "Johann Sebastian Bach",
-      "description": "German composer (1685–1750)",
-      "category": "artists",
+      "wikidataId": "Q82637284",
+      "name": "Sarah Knafo",
+      "description": "French political adviser (born 1993)",
+      "category": null,
       "occupations": [
-        "composer",
-        "organist",
-        "harpsichordist",
-        "violinist",
-        "violist",
-        "conductor",
-        "choir director",
-        "concertmaster",
-        "musicologist",
-        "music educator",
-        "virtuoso",
-        "school teacher"
+        "official",
+        "political adviser",
+        "politician",
+        "consultant"
       ],
-      "birthYear": 1685,
-      "deathYear": 1750,
-      "sitelinks": 222,
+      "birthYear": 1993,
+      "deathYear": null,
+      "sitelinks": 12,
       "wikipedia": {
-        "abstract": "Q1339",
-        "ab": "Бах, Иоганн Себастиан",
-        "af": "Johann Sebastian Bach",
-        "als": "Johann Sebastian Bach",
-        "am": "ዮሐን ሴባስትያን ባክ",
-        "ang": "Johann Sebastian Bach",
-        "ann": "Joyan Sebastian Bâk",
-        "anp": "योहान सेबास्तियन बाख़",
-        "an": "Johann Sebastian Bach",
-        "ar": "يوهان سباستيان باخ",
-        "arz": "باخ",
-        "ast": "Johann Sebastian Bach",
-        "as": "জোহান চেবাষ্টিয়ান বাক",
-        "av": "Йогьанн Себастиан Бах",
-        "awa": "योहान सेबास्तियन बाख",
-        "ay": "Johann Sebastian Bach",
-        "azb": "یوهان سباستیان باخ",
-        "az": "İohann Sebastyan Bax",
-        "bar": "Johann Sebastian Bach",
-        "bat_smg": "Juohans Sebastijans Bachs",
-        "ba": "Йоһанн Себастьян Бах",
-        "be_x_old": "Ёган Сэбастыян Бах",
-        "be": "Іаган Себасцьян Бах",
-        "bew": "Johan Sébastian Bah",
-        "bg": "Йохан Себастиан Бах",
-        "bh": "जोहान सेबेस्टियन बाच",
-        "bi": "Johann Sebastian Bach",
-        "bn": "ইয়োহান জেবাস্টিয়ান বাখ",
-        "br": "Johann Sebastian Bach",
-        "bs": "Johann Sebastian Bach",
-        "btm": "Johann Sebastian Bach",
-        "bxr": "Йоһанн Себастьян Бах",
-        "ca": "Johann Sebastian Bach",
-        "cbk_zam": "Johann Sebastian Bach",
-        "cdo": "Johann Sebastian Bach",
-        "ceb": "Johann Sebastian Bach",
-        "ce": "Иоганн Себастьян Бах",
-        "chr": "ᏲᎭᏂ ᏎᏆᏍᏘᎠᏂ ᏆᎩ",
-        "ch": "Johann Sebastian Bach",
-        "ckb": "یۆھان سباستیان باخ",
-        "co": "Johann Sebastian Bach",
-        "crh": "Yohann Sebastyan Bah",
-        "cs": "Johann Sebastian Bach",
-        "cv": "Бах Иоганн Себастьян",
-        "cy": "Johann Sebastian Bach",
-        "da": "Johann Sebastian Bach",
-        "de": "Johann Sebastian Bach",
-        "diq": "Johann Sebastian Bach",
-        "el": "Γιόχαν Σεμπάστιαν Μπαχ",
-        "en": "Johann Sebastian Bach",
-        "eo": "Johann Sebastian Bach",
-        "es": "Johann Sebastian Bach",
-        "et": "Johann Sebastian Bach",
-        "eu": "Johann Sebastian Bach",
-        "ext": "Johann Sebastian Bach",
-        "fa": "یوهان سباستیان باخ",
-        "fiu_vro": "Bachi Johann Sebastian",
-        "fi": "Johann Sebastian Bach",
-        "fo": "Johann Sebastian Bach",
-        "frr": "Johann Sebastian Bach",
-        "fr": "Jean-Sébastien Bach",
-        "fur": "Johann Sebastian Bach",
-        "fy": "Johann Sebastian Bach",
-        "gan": "巴赫",
-        "ga": "Johann Sebastian Bach",
-        "gcr": "Johann Sebastian Bach",
-        "gd": "Johann Sebastian Bach",
-        "gl": "Johann Sebastian Bach",
-        "gn": "Huã Sevastiã Bach",
-        "gu": "જોહાન સેબેસ્ટિયન બાચ",
-        "gv": "Johann Sebastian Bach",
-        "hak": "Johann Sebastian Bach",
-        "ha": "Johann Sebastian Bach",
-        "haw": "Johann Sebastian Bach",
-        "he": "יוהאן סבסטיאן באך",
-        "hif": "Johann Sebastian Bach",
-        "hi": "योहान सेबास्तियन बाख़",
-        "hr": "Johann Sebastian Bach",
-        "ht": "Johann Sebastian Bach",
-        "hu": "Johann Sebastian Bach",
-        "hy": "Յոհան Սեբաստիան Բախ",
-        "hyw": "Եոհան Սեպասթիան Պախ",
-        "ia": "Johann Sebastian Bach",
-        "id": "Johann Sebastian Bach",
-        "ie": "Johann Sebastian Bach",
-        "ig": "Johann Sebastian Bach",
-        "ik": "Johann Sebastian Bach",
-        "ilo": "Johann Sebastian Bach",
-        "io": "Johann Sebastian Bach",
-        "is": "Johann Sebastian Bach",
-        "it": "Johann Sebastian Bach",
-        "jam": "Johann Sebastian Bach",
-        "ja": "ヨハン・ゼバスティアン・バッハ",
-        "jbo": "io'an.zebastian.bax",
-        "jv": "Johann Sebastian Bach",
-        "kaa": "Johann Sebastian Bach",
-        "kab": "Yohann Sibastyan Bax",
-        "kaj": "Johann Sebastian Bach",
-        "ka": "იოჰან სებასტიან ბახი",
-        "kbd": "Иоган Себастиан Бах",
-        "kbp": "Johann Sebastian Bach",
-        "kk": "Йоганн Себастиан Бах",
-        "km": "ចូហានសឺបាសៀនបាច",
-        "knc": "Johann Sebastian Bach",
-        "kn": "ಯೋಹಾನ್ ಸೆಬಾಸ್ಟಿಯನ್ ಬಾಕ್",
-        "ko": "요한 제바스티안 바흐",
-        "ku": "Johann Sebastian Bach",
-        "kw": "Johann Sebastian Bach",
-        "ky": "Иоганн Себастьян Бах",
-        "lad": "Johann Sebastian Bach",
-        "la": "Ioannes Sebastianus Bachius",
-        "lb": "Johann Sebastian Bach",
-        "lez": "Иогьанн Себастьян Бах",
-        "lfn": "Johann Sebastian Bach",
-        "lij": "Johann Sebastian Bach",
-        "li": "Johann Sebastian Bach",
-        "lmo": "Johann Sebastian Bach",
-        "lo": "ໂຍຮັນ ເຊບັສທີອັນ ບັຄ",
-        "lt": "Johann Sebastian Bach",
-        "lv": "Johans Sebastiāns Bahs",
-        "mad": "Johann Sebastian Bach",
-        "mai": "योहान सेबास्तियन बाख",
-        "map_bms": "Johann Sebastian Bach",
-        "mg": "Johann Sebastian Bach",
-        "min": "Johann Sebastian Bach",
-        "mk": "Јохан Себастијан Бах",
-        "ml": "യൊഹാൻ സെബാസ്റ്റ്യൻ ബാഹ്",
-        "mn": "Иоханн Себастиан Бах",
-        "mr": "योहान सेबास्टियन बाख",
-        "ms": "Johann Sebastian Bach",
-        "mt": "Johann Sebastian Bach",
-        "mwl": "Johann Sebastian Bach",
-        "myv": "Бах, Иоганн Себастьян",
-        "my": "ယိုးဟန် ဇေဘာ့စ်တီအန် ဘာဟ်",
-        "nah": "Johann Sebastian Bach",
-        "nds_nl": "Johann Sebastian Bach",
-        "nds": "Johann Sebastian Bach",
-        "ne": "योहान सेबास्तियन बाख",
-        "new": "योहान सेबेस्टियन बाख",
-        "nl": "Johann Sebastian Bach",
-        "nn": "Johann Sebastian Bach",
-        "nov": "Johann Sebastian Bach",
-        "no": "Johann Sebastian Bach",
-        "ny": "Johann Sebastian Bach",
-        "oc": "Johann Sebastian Bach",
-        "olo": "Johann Sebastian Bach",
-        "or": "ଜୋହାନ୍ ସେବାଷ୍ଟିଆନ୍ ବାକ୍",
-        "os": "Бах, Иоганн Себастьян",
-        "pag": "Johann Sebastian Bach",
-        "pam": "Johann Sebastian Bach",
-        "pa": "ਯੋਹਾਨ ਸੇਬਾਸਤੀਅਨ ਬਾਖ਼",
-        "pcd": "Johann Sebastian Bach",
-        "pdc": "Johann Sebastian Bach",
-        "pl": "Johann Sebastian Bach",
-        "pms": "Johann Sebastian Bach",
-        "pnb": "یوہان سبسٹیان باخ",
-        "ps": "جوهان سباستیان باچ",
-        "pt": "Johann Sebastian Bach",
-        "qu": "Johann Sebastian Bach",
-        "roa_rup": "Johann Sebastian Bach",
-        "ro": "Johann Sebastian Bach",
-        "rsk": "Йоган Себастиян Бах",
-        "rue": "Йоганн Себастьян Бах",
-        "ru": "Бах, Иоганн Себастьян",
-        "rw": "Johann Sebastian Bach",
-        "sah": "Бах Йоhанн Себастиан",
-        "sat": "ᱵᱮᱠ, ᱡᱚᱦᱟᱱ ᱥᱮᱵᱚᱥᱴᱤᱭᱟᱱ",
-        "scn": "Johann Sebastian Bach",
-        "sco": "Johann Sebastian Bach",
-        "sc": "Johann Sebastian Bach",
-        "sd": "جوهان سباستين باخ",
-        "sh": "Johann Sebastian Bach",
-        "simple": "Johann Sebastian Bach",
-        "si": "ජොහාන් සෙබස්තියන් බාක්",
-        "sk": "Johann Sebastian Bach",
-        "sl": "Johann Sebastian Bach",
-        "sm": "Johann Sebastian Bach",
-        "sn": "Johann Sebastian Bach",
-        "so": "Johann Sebastian Bach",
-        "sq": "Johann Sebastian Bach",
-        "sr": "Јохан Себастијан Бах",
-        "stq": "Johann Sebastian Bach",
-        "st": "Johann Sebastian Bach",
-        "su": "Johann Sebastian Bach",
-        "sv": "Johann Sebastian Bach",
-        "sw": "Johann Sebastian Bach",
-        "szl": "Johann Sebastian Bach",
-        "szy": "Yehan. Saypa-sedi’-an.Pa-ha約翰·塞巴斯蒂安·巴哈",
-        "ta": "யோகான் செபாஸ்தியன் பாக்",
-        "te": "జోహన్ సెబాస్టియన్ బాచ్",
-        "tg": "Иоҳанн Бах",
-        "th": "โยฮัน เซบัสทีอัน บัค",
-        "ti": "ዮሃን ሰባስትያን ባኽ",
-        "tk": "Johann Sebastian Bach",
-        "tl": "Johann Sebastian Bach",
-        "tly": "Johann Sebastian Bax",
-        "tok": "jan Pa",
-        "tr": "Johann Sebastian Bach",
-        "tt": "Иоһанн Себастьян Бах",
-        "ug": "يوھان سېباستىيان باخ",
-        "uk": "Йоганн Себастьян Бах",
-        "ur": "یوہن سباستیان باخ",
-        "uz": "Johann Sebastian Bach",
-        "vec": "Johann Sebastian Bach",
-        "vep": "Bah Iogann Sebast'jan",
-        "vi": "Johann Sebastian Bach",
-        "vls": "Johann Sebastian Bach",
-        "vo": "Johann Sebastian Bach",
-        "war": "Johann Sebastian Bach",
-        "wa": "Johann Sebastian Bach",
-        "wuu": "约翰·材排斯汀·巴赫",
-        "xal": "Бах, Иоганн Себастьян",
-        "xh": "Johann Sebastian Bach",
-        "xmf": "იოჰან სებასტიან ბახი",
-        "yi": "יאהאן זעבאסטיאן באך",
-        "yo": "Johann Sebastian Bach",
-        "zea": "Johann Sebastian Bach",
-        "zh_classical": "巴赫",
-        "zh_min_nan": "Johann Sebastian Bach",
-        "zh_yue": "約翰·施巴提恩·巴哈",
-        "zh": "约翰·塞巴斯蒂安·巴赫",
-        "zu": "Johann Sebastian Bach"
+        "de": "Sarah Knafo",
+        "en": "Sarah Knafo",
+        "es": "Sarah Knafo",
+        "fi": "Sarah Knafo",
+        "fr": "Sarah Knafo",
+        "id": "Sarah Knafo",
+        "it": "Sarah Knafo",
+        "mg": "Sarah Knafo",
+        "pl": "Sarah Knafo",
+        "pt": "Sarah Knafo",
+        "ru": "Кнафо, Сара",
+        "uk": "Сара Кнафо"
       },
       "signals": [
         {
+          "source": "google-trends",
+          "where": "FR",
+          "term": "sarah knafo",
+          "volume": 2000
+        },
+        {
           "source": "wikipedia-top",
-          "where": "de",
-          "term": "Johann Sebastian Bach",
-          "volume": 3578
+          "where": "fr",
+          "term": "Sarah Knafo",
+          "volume": 11376
         }
       ],
-      "newsUrls": [],
-      "spike": 4,
+      "newsUrls": [
+        "https://www.bfmtv.com/pratique/les-lecteurs-ne-lachent-plus-ce-roman-voici-le-livre-de-sarah-knafo-qui-se-vend-par-lot-de-100-en-octobre_AB-202610260030.html",
+        "https://www.letelegramme.fr/cotes-d-armor/pleguien-22290/le-collectif-des-habitantses-indigneses-de-pleguien-se-mobilise-contre-la-venue-de-sarah-knafo-a-kerfave-7145590.php",
+        "https://www.ouest-france.fr/politique/sarah-knafo-attendue-dans-les-cotes-darmor-lunion-democratique-bretonne-appelle-a-manifester-contre-sa-venue-5c7df310-d149-11f1-a953-ed5fcc297d72"
+      ],
+      "spike": 0,
       "score": 89,
-      "decision": "accept",
-      "reasons": [],
+      "decision": "reject",
+      "reasons": [
+        "no matching site category"
+      ],
       "onSite": false
     },
     {
@@ -11199,6 +10772,49 @@
       ],
       "newsUrls": [],
       "spike": 9.4,
+      "score": 87,
+      "decision": "reject",
+      "reasons": [
+        "no matching site category"
+      ],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q29696179",
+      "name": "Rodrigo Pacheco",
+      "description": "Brazilian lawyer and politician, 67th president of the Federal Senate from Brazil (2021–2025) and Senator of the Republic since 2019",
+      "category": null,
+      "occupations": [
+        "politician",
+        "advocate"
+      ],
+      "birthYear": 1976,
+      "deathYear": null,
+      "sitelinks": 12,
+      "wikipedia": {
+        "ar": "رودريغو باتشيكو (سياسي)",
+        "arz": "رودريجو پاتشيكو",
+        "de": "Rodrigo Pacheco (Politiker)",
+        "en": "Rodrigo Pacheco (politician)",
+        "es": "Rodrigo Pacheco (político)",
+        "fr": "Rodrigo Pacheco (homme politique)",
+        "mg": "Rodrigo Pacheco",
+        "pt": "Rodrigo Pacheco",
+        "ru": "Пашеку, Родригу",
+        "simple": "Rodrigo Pacheco (politician)",
+        "ur": "روڈریگو پاشیکو (سیاست دان)",
+        "zh": "羅德里戈·帕謝科"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "pt",
+          "term": "Rodrigo Pacheco",
+          "volume": 3354
+        }
+      ],
+      "newsUrls": [],
+      "spike": 10.2,
       "score": 87,
       "decision": "reject",
       "reasons": [
@@ -12543,126 +12159,14 @@
         }
       ],
       "newsUrls": [
+        "https://deadline.com/2026/10/michael-douglas-midterms-hoping-for-a-massacre-1237206898/",
         "https://www.foxnews.com/entertainment/michael-douglas-doesnt-feel-bad-about-affair-revelations-from-before-catherine",
-        "https://www.texarkanagazette.com/news/2026/oct/24/michael-douglas-on-immortality-kirk-douglas-and/",
-        "https://ca.style.yahoo.com/michael-douglas-criticized-over-desperate-210000667.html"
+        "https://www.texarkanagazette.com/news/2026/oct/24/michael-douglas-on-immortality-kirk-douglas-and/"
       ],
       "spike": 1.1,
       "score": 81,
       "decision": "accept",
       "reasons": [],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q43945",
-      "name": "Jude the Apostle",
-      "description": "one of the Twelve Apostles of Jesus; traditionally identified with Jude the brother of Jesus",
-      "category": null,
-      "occupations": [
-        "farmer",
-        "missionary"
-      ],
-      "birthYear": 10,
-      "deathYear": 62,
-      "sitelinks": 81,
-      "wikipedia": {
-        "abstract": "Q43945",
-        "an": "Sant Chudas Tadeu",
-        "arc": "ܝܗܘܕܐ ܫܠܝܚܐ",
-        "ar": "تداوس",
-        "arz": "تداوس",
-        "az": "Həvari Faddey",
-        "bar": "Judas Thaddäus",
-        "be_x_old": "Юда Тадэй",
-        "be": "Фадзей (апостал)",
-        "bg": "Юда Тадей",
-        "bn": "প্রেরিত যিহূদা থদ্দেয়",
-        "br": "Jud (abostol)",
-        "ca": "Judes Tadeu",
-        "cdo": "Dăk-tái",
-        "cs": "Juda Tadeáš",
-        "da": "Thaddæus",
-        "de": "Judas Thaddäus",
-        "el": "Απόστολος Θαδδαίος",
-        "en": "Jude the Apostle",
-        "eo": "Judaso Tadeo",
-        "es": "Judas Tadeo",
-        "et": "Taddeus",
-        "eu": "Juda Tadeo",
-        "fa": "تادئوس",
-        "fi": "Taddeus",
-        "fon": "Yɛhwè Judi",
-        "fr": "Jude (apôtre)",
-        "fy": "Judas Taddéus",
-        "ga": "Naomh Iúdás Tadáias",
-        "gl": "Xudas Tadeu",
-        "gn": "Judas Tadeo Marangatu",
-        "gom": "Sant Judasak Magnnem",
-        "he": "תדיאוס הקדוש",
-        "hr": "Juda Tadej",
-        "hu": "Júdás apostol",
-        "hy": "Թադեոս առաքյալ",
-        "hyw": "Ս. Թադէոս Առաքեալ",
-        "iba": "Judas Tadeus",
-        "id": "Yudas bin Yakobus",
-        "it": "Giuda Taddeo",
-        "ja": "タダイ",
-        "jv": "Yudas Tadeus",
-        "ka": "იუდა იაკობისი",
-        "ko": "유다 타대오",
-        "la": "Iudas Thaddaeus",
-        "lt": "Apaštalas Judas Tadas",
-        "lv": "Apustulis Tadejs",
-        "mg": "Joda Tadeo",
-        "mk": "Апостол Јуда",
-        "ml": "യൂദാ ശ്ലീഹാ",
-        "ms": "Yudas bin Yakobus",
-        "nds": "Judas Thaddäus",
-        "nl": "Judas Taddeüs",
-        "nn": "Apostelen Judas Taddeus",
-        "no": "Judas Taddeus",
-        "pl": "Juda Tadeusz Apostoł",
-        "pms": "Tadé (apòstol)",
-        "pt": "Judas Tadeu",
-        "qu": "Judas Tadeu",
-        "ro": "Iuda Tadeu",
-        "ru": "Апостол Фаддей",
-        "sh": "Apostol Tadej",
-        "simple": "Jude the Apostle",
-        "si": "ශාන්ත ජුඩ් අපොස්තුළු",
-        "sk": "Júda Tadeáš",
-        "sl": "Juda Tadej",
-        "sq": "Juda Tadeu",
-        "sr": "Апостол Тадеј",
-        "sv": "Judas Taddaios",
-        "sw": "Yuda Tadei",
-        "ta": "யூதா ததேயு (திருத்தூதர்)",
-        "th": "ยูดาอัครทูต",
-        "tl": "Hudas ang Alagad",
-        "tt": "Яһүд Фаддей",
-        "uk": "Іуда Фаддей",
-        "ur": "تدی",
-        "vi": "Giuđa Tađêô",
-        "war": "Judas Tadeo",
-        "wuu": "犹达·达陡",
-        "zh_yue": "猶大·達太",
-        "zh": "猶達·達陡"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "es",
-          "term": "Judas Tadeo",
-          "volume": 8349
-        }
-      ],
-      "newsUrls": [],
-      "spike": 3.3,
-      "score": 81,
-      "decision": "reject",
-      "reasons": [
-        "no matching site category"
-      ],
       "onSite": false
     },
     {
@@ -14371,6 +13875,184 @@
       "onSite": true
     },
     {
+      "wikidataId": "Q9671",
+      "name": "Michael Schumacher",
+      "description": "German racing driver (born 1969)",
+      "category": null,
+      "occupations": [
+        "Formula One driver",
+        "diplomat",
+        "motorcycle racer"
+      ],
+      "birthYear": 1969,
+      "deathYear": null,
+      "sitelinks": 145,
+      "wikipedia": {
+        "ace": "Michael Schumacher",
+        "af": "Michael Schumacher",
+        "als": "Michael Schumacher",
+        "an": "Michael Schumacher",
+        "ar": "مايكل شوماخر",
+        "arz": "مايكل شوماخر",
+        "ast": "Michael Schumacher",
+        "az": "Mixael Şumaxer",
+        "ban": "Michael Schumacher",
+        "bar": "Michael Schumacher",
+        "ba": "Шумахер Михаэль",
+        "bcl": "Michael Schumacher",
+        "be_x_old": "Міхаэль Шумахэр",
+        "be": "Міхаэль Шумахер",
+        "bew": "Michael Schumacher",
+        "bg": "Михаел Шумахер",
+        "bi": "Michael Schumacher",
+        "bjn": "Michael Schumacher",
+        "bn": "মিশাএল শুমাখার",
+        "br": "Michael Schumacher",
+        "bs": "Michael Schumacher",
+        "bug": "Michael Schumacher",
+        "ca": "Michael Schumacher",
+        "ceb": "Michael Schumacher",
+        "ch": "Michael Schumacher",
+        "ckb": "مایکل شوماخەر",
+        "co": "Michael Schumacher",
+        "cs": "Michael Schumacher",
+        "cy": "Michael Schumacher",
+        "da": "Michael Schumacher",
+        "de": "Michael Schumacher",
+        "diq": "Michael Schumacher",
+        "dv": "މައިކަލް ޝޫމާކަރ",
+        "el": "Μίχαελ Σουμάχερ",
+        "eml": "Michael Schumacher",
+        "en": "Michael Schumacher",
+        "eo": "Michael Schumacher",
+        "es": "Michael Schumacher",
+        "et": "Michael Schumacher",
+        "eu": "Michael Schumacher",
+        "ext": "Michael Schumacher",
+        "fa": "میشائیل شوماخر",
+        "fi": "Michael Schumacher",
+        "fj": "Michael Schumacher",
+        "fr": "Michael Schumacher",
+        "fy": "Michael Schumacher",
+        "ga": "Michael Schumacher",
+        "gl": "Michael Schumacher",
+        "gor": "Michael Schumacher",
+        "gpe": "Michael Schumacher",
+        "he": "מיכאל שומאכר",
+        "hi": "माइकल शूमाकर",
+        "hr": "Michael Schumacher",
+        "ht": "Michael Schumacher",
+        "hu": "Michael Schumacher",
+        "hy": "Միխայել Շումախեր",
+        "hyw": "Մայքըլ Շումախըր",
+        "id": "Michael Schumacher",
+        "ie": "Michael Schumacher",
+        "io": "Michael Schumacher",
+        "is": "Michael Schumacher",
+        "it": "Michael Schumacher",
+        "ja": "ミハエル・シューマッハ",
+        "jv": "Michael Schumacher",
+        "ka": "მიხაელ შუმახერი",
+        "kk": "Михаэль Шумахер",
+        "kn": "ಮೈಕೆಲ್ ಶೂಮಾಕರ್",
+        "ko": "미하엘 슈마허",
+        "la": "Michael Schumacher",
+        "lb": "Michael Schumacher",
+        "lfn": "Michael Schumacher",
+        "li": "Michael Schumacher",
+        "lmo": "Michael Schumacher",
+        "lt": "Michael Schumacher",
+        "lv": "Mihaels Šūmahers",
+        "mad": "Michael Schumacher",
+        "map_bms": "Michael Schumacher",
+        "mg": "Michael Schumacher",
+        "min": "Michael Schumacher",
+        "mk": "Михаел Шумахер",
+        "ml": "മൈക്കൾ ഷൂമാക്കർ",
+        "mn": "Михаэль Шумахер",
+        "mr": "मायकेल शुमाकर",
+        "ms": "Michael Schumacher",
+        "my": "မိုက်ကယ် ရှူးမက်ကာ",
+        "mzn": "مایکل شوماخر",
+        "nap": "Michael Schumacher",
+        "nds": "Michael Schumacher",
+        "nia": "Michael Schumacher",
+        "nl": "Michael Schumacher",
+        "nn": "Michael Schumacher",
+        "nov": "Michael Schumacher",
+        "no": "Michael Schumacher",
+        "oc": "Michael Schumacher",
+        "pag": "Michael Schumacher",
+        "pam": "Michael Schumacher",
+        "pa": "ਮਾਈਕਲ ਸ਼ੂਮਾਕਰ",
+        "pl": "Michael Schumacher",
+        "pms": "Michael Schumacher",
+        "pnb": "مائیکل شوماکر",
+        "pt": "Michael Schumacher",
+        "qu": "Michael Schumacher",
+        "ro": "Michael Schumacher",
+        "ru": "Шумахер, Михаэль",
+        "scn": "Michael Schumacher",
+        "sco": "Michael Schumacher",
+        "shi": "Maykl Cumaxar",
+        "sh": "Michael Schumacher",
+        "simple": "Michael Schumacher",
+        "si": "මයිකල් ෂූමාකර්",
+        "sk": "Michael Schumacher",
+        "sl": "Michael Schumacher",
+        "sm": "Michael Schumacher",
+        "so": "Michael Schumacher",
+        "sq": "Michael Schumacher",
+        "sr": "Михаел Шумахер",
+        "su": "Michael Schumacher",
+        "sv": "Michael Schumacher",
+        "sw": "Michael Schumacher",
+        "szl": "Michael Schumacher",
+        "ta": "மைக்கேல் சூமாக்கர்",
+        "tet": "Michael Schumacher",
+        "tg": "Михаэл Шумахер",
+        "th": "มิชชาเอล ชูมัคเคอร์",
+        "tl": "Michael Schumacher",
+        "tpi": "Michael Schumacher",
+        "tr": "Michael Schumacher",
+        "uk": "Міхаель Шумахер",
+        "ur": "مائیکل شوماکر",
+        "uz": "Michael Schumacher",
+        "vec": "Michael Schumacher",
+        "ve": "Michael Schumacher",
+        "vi": "Michael Schumacher",
+        "vls": "Michael Schumacher",
+        "vo": "Michael Schumacher",
+        "war": "Michael Schumacher",
+        "wa": "Michael Schumacher",
+        "wuu": "迈克尔·舒马赫",
+        "xh": "Michael Schumacher",
+        "yi": "מיכאל שומאכער",
+        "zea": "Michael Schumacher",
+        "zgh": "ⵎⴰⵢⴽⵍ ⵛⵓⵎⴰⵅⵔ",
+        "zh_yue": "米高舒麥加",
+        "zh": "迈克尔·舒马赫",
+        "zu": "Michael Schumacher"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "fr",
+          "term": "Michael Schumacher",
+          "volume": 21804
+        }
+      ],
+      "newsUrls": [],
+      "spike": 0,
+      "score": 78,
+      "decision": "reject",
+      "reasons": [
+        "no matching site category",
+        "pageview spike 0.0x is below 2x"
+      ],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q30728283",
       "name": "Aurélie Casse",
       "description": "French journalist",
@@ -14893,9 +14575,9 @@
         }
       ],
       "newsUrls": [
-        "https://www.usmagazine.com/entertainment/news/kim-kardashians-kanye-revelations-in-new-citizen-kim-book/",
-        "https://www.inkl.com/news/kim-kardashian-has-lockdown-procedure-to-protect-her-kids-from-negative-news",
-        "https://www.imdb.com/it/news/ni66083148/?ref_=nwc_art_perm"
+        "https://www.gofugyourself.com/kim-wore-something-crackers-to-the-rome-alls-fair-photo-op/",
+        "https://www.harpersbazaar.com/uk/fashion/a74258983/kris-jenner-elizabeth-taylor-scorpio-cape/",
+        "https://www.eonline.com/news/1437450/kim-kardashian-stuns-in-leopard-print-gown-at-alls-fair-premiere-in-rome"
       ],
       "spike": 0.7,
       "score": 77,
@@ -14904,151 +14586,266 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q189490",
-      "name": "Jennifer Lawrence",
-      "description": "American actress and producer (born 1990)",
+      "wikidataId": "Q1339",
+      "name": "Johann Sebastian Bach",
+      "description": "German composer (1685–1750)",
       "category": "artists",
       "occupations": [
-        "actor",
-        "television actor",
-        "film actor",
-        "voice actor",
-        "film producer",
-        "film screenwriter",
-        "film director"
+        "composer",
+        "organist",
+        "harpsichordist",
+        "violinist",
+        "violist",
+        "conductor",
+        "choir director",
+        "concertmaster",
+        "musicologist",
+        "music educator",
+        "virtuoso",
+        "school teacher"
       ],
-      "birthYear": 1990,
-      "deathYear": null,
-      "sitelinks": 110,
+      "birthYear": 1685,
+      "deathYear": 1750,
+      "sitelinks": 222,
       "wikipedia": {
-        "af": "Jennifer Lawrence",
-        "als": "Jennifer Lawrence",
-        "an": "Jennifer Lawrence",
-        "ar": "جينيفر لورنس",
-        "arz": "جينفير لورنس",
-        "ast": "Jennifer Lawrence",
-        "as": "জেনিফাৰ লৰেন্স",
-        "azb": "جنیفر لارنس",
-        "az": "Cennifer Lourens",
-        "bcl": "Jennifer Lawrence",
-        "be_x_old": "Джэніфэр Лоўрэнс",
-        "be": "Джэніфер Лоўрэнс",
-        "bg": "Дженифър Лорънс",
-        "bn": "জেনিফার লরেন্স",
-        "br": "Jennifer Lawrence",
-        "bs": "Jennifer Lawrence",
-        "ca": "Jennifer Lawrence",
-        "cbk_zam": "Jennifer Lawrence",
-        "ceb": "Jennifer Lawrence",
-        "ckb": "جێنیفەر لۆرنس",
-        "cs": "Jennifer Lawrenceová",
-        "cy": "Jennifer Lawrence",
-        "dag": "Jennifer Lawrence",
-        "da": "Jennifer Lawrence",
-        "de": "Jennifer Lawrence",
-        "diq": "Jennifer Lawrence",
-        "dsb": "Jennifer Lawrence",
-        "el": "Τζένιφερ Λόρενς",
-        "en": "Jennifer Lawrence",
-        "eo": "Jennifer Lawrence",
-        "es": "Jennifer Lawrence",
-        "et": "Jennifer Lawrence",
-        "eu": "Jennifer Lawrence",
-        "ext": "Jennifer Lawrence",
-        "fa": "جنیفر لارنس",
-        "fi": "Jennifer Lawrence",
-        "fr": "Jennifer Lawrence",
-        "ga": "Jennifer Lawrence",
-        "gl": "Jennifer Lawrence",
-        "gv": "Jennifer Lawrence",
-        "ha": "Jennifer Lawrence",
-        "he": "ג'ניפר לורנס",
-        "hi": "जेनिफ़र लॉरेंस",
-        "hr": "Jennifer Lawrence",
-        "hu": "Jennifer Lawrence",
-        "hy": "Ջենիֆեր Լոուրենս",
-        "hyw": "Ճենիֆըր Լորանս",
-        "iba": "Jennifer Lawrence",
-        "id": "Jennifer Lawrence",
-        "ie": "Jennifer Lawrence",
-        "ilo": "Jennifer Lawrence",
-        "io": "Jennifer Lawrence",
-        "is": "Jennifer Lawrence",
-        "it": "Jennifer Lawrence",
-        "ja": "ジェニファー・ローレンス",
-        "jv": "Jennifer Lawrence",
-        "ka": "ჯენიფერ ლოურენსი",
-        "kk": "Дженнифер Лоуренс",
-        "kn": "ಜೆನ್ನಿಫರ್ ಲಾರೆನ್ಸ್",
-        "ko": "제니퍼 로렌스",
-        "ku": "Jennifer Lawrence",
-        "kw": "Jennifer Lawrence",
-        "ky": "Дженнифер Лоуренс",
-        "lt": "Jennifer Lawrence",
-        "lv": "Dženifere Lorensa",
-        "mad": "Jennifer Lawrence",
-        "mai": "जेनिफर लरेन्स",
-        "mk": "Џенифер Лоренс",
-        "ml": "ജെന്നിഫർ ലോറൻസ്",
-        "mn": "Женнифер Лоуренс",
-        "mr": "जेनिफर लॉरेन्स",
-        "ms": "Jennifer Lawrence",
-        "my": "ဂျန်နီဖာလောရင့်",
-        "mzn": "جنیفر لارنس",
-        "ne": "जेनिफर लरेन्स",
-        "nl": "Jennifer Lawrence",
-        "nn": "Jennifer Lawrence",
-        "no": "Jennifer Lawrence",
-        "pa": "ਜੈਨੀਫਰ ਲਾਰੈਂਸ",
-        "pl": "Jennifer Lawrence",
-        "pms": "Jennifer Lawrence",
-        "pt": "Jennifer Lawrence",
-        "ro": "Jennifer Lawrence",
-        "ru": "Лоуренс, Дженнифер",
-        "sco": "Jennifer Lawrence",
-        "sh": "Jennifer Lawrence",
-        "simple": "Jennifer Lawrence",
-        "skr": "جینیفر لارنس",
-        "sk": "Jennifer Lawrenceová",
-        "sl": "Jennifer Lawrence",
-        "so": "Jennifer Lawrence",
-        "sq": "Jennifer Lawrence",
-        "sr": "Џенифер Лоренс",
-        "sv": "Jennifer Lawrence",
-        "ta": "ஜெனிபர் லாரன்ஸ்",
-        "th": "เจนนิเฟอร์ ลอว์เรนซ์",
-        "tl": "Jennifer Lawrence",
-        "tr": "Jennifer Lawrence",
-        "uk": "Дженніфер Лоренс",
-        "ur": "جینیفر لارنس",
-        "uz": "Jennifer Lawrence",
-        "vi": "Jennifer Lawrence",
-        "vo": "Jennifer Lawrence",
-        "war": "Jennifer Lawrence",
-        "wuu": "詹妮弗·劳伦斯",
-        "xmf": "ჯენიფერ ლოურენსი",
-        "yo": "Jennifer Lawrence",
-        "zh_min_nan": "Jennifer Lawrence",
-        "zh_yue": "珍妮花羅倫絲",
-        "zh": "珍妮佛·勞倫斯"
+        "abstract": "Q1339",
+        "ab": "Бах, Иоганн Себастиан",
+        "af": "Johann Sebastian Bach",
+        "als": "Johann Sebastian Bach",
+        "am": "ዮሐን ሴባስትያን ባክ",
+        "ang": "Johann Sebastian Bach",
+        "ann": "Joyan Sebastian Bâk",
+        "anp": "योहान सेबास्तियन बाख़",
+        "an": "Johann Sebastian Bach",
+        "ar": "يوهان سباستيان باخ",
+        "arz": "باخ",
+        "ast": "Johann Sebastian Bach",
+        "as": "জোহান চেবাষ্টিয়ান বাক",
+        "av": "Йогьанн Себастиан Бах",
+        "awa": "योहान सेबास्तियन बाख",
+        "ay": "Johann Sebastian Bach",
+        "azb": "یوهان سباستیان باخ",
+        "az": "İohann Sebastyan Bax",
+        "bar": "Johann Sebastian Bach",
+        "bat_smg": "Juohans Sebastijans Bachs",
+        "ba": "Йоһанн Себастьян Бах",
+        "be_x_old": "Ёган Сэбастыян Бах",
+        "be": "Іаган Себасцьян Бах",
+        "bew": "Johan Sébastian Bah",
+        "bg": "Йохан Себастиан Бах",
+        "bh": "जोहान सेबेस्टियन बाच",
+        "bi": "Johann Sebastian Bach",
+        "bn": "ইয়োহান জেবাস্টিয়ান বাখ",
+        "br": "Johann Sebastian Bach",
+        "bs": "Johann Sebastian Bach",
+        "btm": "Johann Sebastian Bach",
+        "bxr": "Йоһанн Себастьян Бах",
+        "ca": "Johann Sebastian Bach",
+        "cbk_zam": "Johann Sebastian Bach",
+        "cdo": "Johann Sebastian Bach",
+        "ceb": "Johann Sebastian Bach",
+        "ce": "Иоганн Себастьян Бах",
+        "chr": "ᏲᎭᏂ ᏎᏆᏍᏘᎠᏂ ᏆᎩ",
+        "ch": "Johann Sebastian Bach",
+        "ckb": "یۆھان سباستیان باخ",
+        "co": "Johann Sebastian Bach",
+        "crh": "Yohann Sebastyan Bah",
+        "cs": "Johann Sebastian Bach",
+        "cv": "Бах Иоганн Себастьян",
+        "cy": "Johann Sebastian Bach",
+        "da": "Johann Sebastian Bach",
+        "de": "Johann Sebastian Bach",
+        "diq": "Johann Sebastian Bach",
+        "el": "Γιόχαν Σεμπάστιαν Μπαχ",
+        "en": "Johann Sebastian Bach",
+        "eo": "Johann Sebastian Bach",
+        "es": "Johann Sebastian Bach",
+        "et": "Johann Sebastian Bach",
+        "eu": "Johann Sebastian Bach",
+        "ext": "Johann Sebastian Bach",
+        "fa": "یوهان سباستیان باخ",
+        "fiu_vro": "Bachi Johann Sebastian",
+        "fi": "Johann Sebastian Bach",
+        "fo": "Johann Sebastian Bach",
+        "frr": "Johann Sebastian Bach",
+        "fr": "Jean-Sébastien Bach",
+        "fur": "Johann Sebastian Bach",
+        "fy": "Johann Sebastian Bach",
+        "gan": "巴赫",
+        "ga": "Johann Sebastian Bach",
+        "gcr": "Johann Sebastian Bach",
+        "gd": "Johann Sebastian Bach",
+        "gl": "Johann Sebastian Bach",
+        "gn": "Huã Sevastiã Bach",
+        "gu": "જોહાન સેબેસ્ટિયન બાચ",
+        "gv": "Johann Sebastian Bach",
+        "hak": "Johann Sebastian Bach",
+        "ha": "Johann Sebastian Bach",
+        "haw": "Johann Sebastian Bach",
+        "he": "יוהאן סבסטיאן באך",
+        "hif": "Johann Sebastian Bach",
+        "hi": "योहान सेबास्तियन बाख़",
+        "hr": "Johann Sebastian Bach",
+        "ht": "Johann Sebastian Bach",
+        "hu": "Johann Sebastian Bach",
+        "hy": "Յոհան Սեբաստիան Բախ",
+        "hyw": "Եոհան Սեպասթիան Պախ",
+        "ia": "Johann Sebastian Bach",
+        "id": "Johann Sebastian Bach",
+        "ie": "Johann Sebastian Bach",
+        "ig": "Johann Sebastian Bach",
+        "ik": "Johann Sebastian Bach",
+        "ilo": "Johann Sebastian Bach",
+        "io": "Johann Sebastian Bach",
+        "is": "Johann Sebastian Bach",
+        "it": "Johann Sebastian Bach",
+        "jam": "Johann Sebastian Bach",
+        "ja": "ヨハン・ゼバスティアン・バッハ",
+        "jbo": "io'an.zebastian.bax",
+        "jv": "Johann Sebastian Bach",
+        "kaa": "Johann Sebastian Bach",
+        "kab": "Yohann Sibastyan Bax",
+        "kaj": "Johann Sebastian Bach",
+        "ka": "იოჰან სებასტიან ბახი",
+        "kbd": "Иоган Себастиан Бах",
+        "kbp": "Johann Sebastian Bach",
+        "kk": "Йоганн Себастиан Бах",
+        "km": "ចូហានសឺបាសៀនបាច",
+        "knc": "Johann Sebastian Bach",
+        "kn": "ಯೋಹಾನ್ ಸೆಬಾಸ್ಟಿಯನ್ ಬಾಕ್",
+        "ko": "요한 제바스티안 바흐",
+        "ku": "Johann Sebastian Bach",
+        "kw": "Johann Sebastian Bach",
+        "ky": "Иоганн Себастьян Бах",
+        "lad": "Johann Sebastian Bach",
+        "la": "Ioannes Sebastianus Bachius",
+        "lb": "Johann Sebastian Bach",
+        "lez": "Иогьанн Себастьян Бах",
+        "lfn": "Johann Sebastian Bach",
+        "lij": "Johann Sebastian Bach",
+        "li": "Johann Sebastian Bach",
+        "lmo": "Johann Sebastian Bach",
+        "lo": "ໂຍຮັນ ເຊບັສທີອັນ ບັຄ",
+        "lt": "Johann Sebastian Bach",
+        "lv": "Johans Sebastiāns Bahs",
+        "mad": "Johann Sebastian Bach",
+        "mai": "योहान सेबास्तियन बाख",
+        "map_bms": "Johann Sebastian Bach",
+        "mg": "Johann Sebastian Bach",
+        "min": "Johann Sebastian Bach",
+        "mk": "Јохан Себастијан Бах",
+        "ml": "യൊഹാൻ സെബാസ്റ്റ്യൻ ബാഹ്",
+        "mn": "Иоханн Себастиан Бах",
+        "mr": "योहान सेबास्टियन बाख",
+        "ms": "Johann Sebastian Bach",
+        "mt": "Johann Sebastian Bach",
+        "mwl": "Johann Sebastian Bach",
+        "myv": "Бах, Иоганн Себастьян",
+        "my": "ယိုးဟန် ဇေဘာ့စ်တီအန် ဘာဟ်",
+        "nah": "Johann Sebastian Bach",
+        "nds_nl": "Johann Sebastian Bach",
+        "nds": "Johann Sebastian Bach",
+        "ne": "योहान सेबास्तियन बाख",
+        "new": "योहान सेबेस्टियन बाख",
+        "nl": "Johann Sebastian Bach",
+        "nn": "Johann Sebastian Bach",
+        "nov": "Johann Sebastian Bach",
+        "no": "Johann Sebastian Bach",
+        "ny": "Johann Sebastian Bach",
+        "oc": "Johann Sebastian Bach",
+        "olo": "Johann Sebastian Bach",
+        "or": "ଜୋହାନ୍ ସେବାଷ୍ଟିଆନ୍ ବାକ୍",
+        "os": "Бах, Иоганн Себастьян",
+        "pag": "Johann Sebastian Bach",
+        "pam": "Johann Sebastian Bach",
+        "pa": "ਯੋਹਾਨ ਸੇਬਾਸਤੀਅਨ ਬਾਖ਼",
+        "pcd": "Johann Sebastian Bach",
+        "pdc": "Johann Sebastian Bach",
+        "pl": "Johann Sebastian Bach",
+        "pms": "Johann Sebastian Bach",
+        "pnb": "یوہان سبسٹیان باخ",
+        "ps": "جوهان سباستیان باچ",
+        "pt": "Johann Sebastian Bach",
+        "qu": "Johann Sebastian Bach",
+        "roa_rup": "Johann Sebastian Bach",
+        "ro": "Johann Sebastian Bach",
+        "rsk": "Йоган Себастиян Бах",
+        "rue": "Йоганн Себастьян Бах",
+        "ru": "Бах, Иоганн Себастьян",
+        "rw": "Johann Sebastian Bach",
+        "sah": "Бах Йоhанн Себастиан",
+        "sat": "ᱵᱮᱠ, ᱡᱚᱦᱟᱱ ᱥᱮᱵᱚᱥᱴᱤᱭᱟᱱ",
+        "scn": "Johann Sebastian Bach",
+        "sco": "Johann Sebastian Bach",
+        "sc": "Johann Sebastian Bach",
+        "sd": "جوهان سباستين باخ",
+        "sh": "Johann Sebastian Bach",
+        "simple": "Johann Sebastian Bach",
+        "si": "ජොහාන් සෙබස්තියන් බාක්",
+        "sk": "Johann Sebastian Bach",
+        "sl": "Johann Sebastian Bach",
+        "sm": "Johann Sebastian Bach",
+        "sn": "Johann Sebastian Bach",
+        "so": "Johann Sebastian Bach",
+        "sq": "Johann Sebastian Bach",
+        "sr": "Јохан Себастијан Бах",
+        "stq": "Johann Sebastian Bach",
+        "st": "Johann Sebastian Bach",
+        "su": "Johann Sebastian Bach",
+        "sv": "Johann Sebastian Bach",
+        "sw": "Johann Sebastian Bach",
+        "szl": "Johann Sebastian Bach",
+        "szy": "Yehan. Saypa-sedi’-an.Pa-ha約翰·塞巴斯蒂安·巴哈",
+        "ta": "யோகான் செபாஸ்தியன் பாக்",
+        "te": "జోహన్ సెబాస్టియన్ బాచ్",
+        "tg": "Иоҳанн Бах",
+        "th": "โยฮัน เซบัสทีอัน บัค",
+        "ti": "ዮሃን ሰባስትያን ባኽ",
+        "tk": "Johann Sebastian Bach",
+        "tl": "Johann Sebastian Bach",
+        "tly": "Johann Sebastian Bax",
+        "tok": "jan Pa",
+        "tr": "Johann Sebastian Bach",
+        "tt": "Иоһанн Себастьян Бах",
+        "ug": "يوھان سېباستىيان باخ",
+        "uk": "Йоганн Себастьян Бах",
+        "ur": "یوہن سباستیان باخ",
+        "uz": "Johann Sebastian Bach",
+        "vec": "Johann Sebastian Bach",
+        "vep": "Bah Iogann Sebast'jan",
+        "vi": "Johann Sebastian Bach",
+        "vls": "Johann Sebastian Bach",
+        "vo": "Johann Sebastian Bach",
+        "war": "Johann Sebastian Bach",
+        "wa": "Johann Sebastian Bach",
+        "wuu": "约翰·材排斯汀·巴赫",
+        "xal": "Бах, Иоганн Себастьян",
+        "xh": "Johann Sebastian Bach",
+        "xmf": "იოჰან სებასტიან ბახი",
+        "yi": "יאהאן זעבאסטיאן באך",
+        "yo": "Johann Sebastian Bach",
+        "zea": "Johann Sebastian Bach",
+        "zh_classical": "巴赫",
+        "zh_min_nan": "Johann Sebastian Bach",
+        "zh_yue": "約翰·施巴提恩·巴哈",
+        "zh": "约翰·塞巴斯蒂安·巴赫",
+        "zu": "Johann Sebastian Bach"
       },
       "signals": [
         {
-          "source": "google-trends",
-          "where": "BR",
-          "term": "jennifer lawrence",
-          "volume": 100
+          "source": "wikipedia-top",
+          "where": "de",
+          "term": "Johann Sebastian Bach",
+          "volume": 3578
         }
       ],
-      "newsUrls": [
-        "https://people.com/jennifer-lawrence-confirms-breast-lift-after-two-kids-nothing-bounced-back-12197734",
-        "https://www.imdb.com/es/news/ni66082251/?ref_=nwc_art_perm",
-        "https://www.yahoo.com/entertainment/celebrity/articles/jennifer-lawrence-36-reveals-cosmetic-182300376.html"
-      ],
-      "spike": 1.1,
+      "newsUrls": [],
+      "spike": 0,
       "score": 77,
-      "decision": "accept",
-      "reasons": [],
+      "decision": "reject",
+      "reasons": [
+        "pageview spike 0.0x is below 2x"
+      ],
       "onSite": false
     },
     {
@@ -15989,6 +15786,215 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q133313",
+      "name": "Jake Gyllenhaal",
+      "description": "American actor (born 1980)",
+      "category": "artists",
+      "occupations": [
+        "film actor",
+        "stage actor",
+        "television actor",
+        "voice actor",
+        "executive producer",
+        "actor"
+      ],
+      "birthYear": 1980,
+      "deathYear": null,
+      "sitelinks": 79,
+      "wikipedia": {
+        "af": "Jake Gyllenhaal",
+        "ar": "جيك جيلنهال",
+        "arz": "چيك چيلينهال",
+        "ast": "Jake Gyllenhaal",
+        "azb": "جئیک جیلنهال",
+        "az": "Ceyk Cillenhol",
+        "bcl": "Jake Gyllenhaal",
+        "be": "Джэйк Джыленхол",
+        "bg": "Джейк Джилънхол",
+        "bn": "জেইক ইলেনহল",
+        "ca": "Jake Gyllenhaal",
+        "ckb": "جەیک جیڵنھاڵ",
+        "co": "Jake Gyllenhaal",
+        "cs": "Jake Gyllenhaal",
+        "cy": "Jake Gyllenhaal",
+        "da": "Jake Gyllenhaal",
+        "de": "Jake Gyllenhaal",
+        "diq": "Jake Gyllenhaal",
+        "el": "Τζέικ Τζίλενχαλ",
+        "en": "Jake Gyllenhaal",
+        "eo": "Jake Gyllenhaal",
+        "es": "Jake Gyllenhaal",
+        "et": "Jake Gyllenhaal",
+        "eu": "Jake Gyllenhaal",
+        "fa": "جیک جیلنهال",
+        "fi": "Jake Gyllenhaal",
+        "fr": "Jake Gyllenhaal",
+        "ga": "Jake Gyllenhaal",
+        "gl": "Jake Gyllenhaal",
+        "gv": "Jake Gyllenhaal",
+        "ha": "Jake Gyllenhaal",
+        "he": "ג'ייק ג'ילנהול",
+        "hi": "जेक जिलएनहॉल",
+        "hr": "Jake Gyllenhaal",
+        "hu": "Jake Gyllenhaal",
+        "hy": "Ջեյք Ջիլենհոլ",
+        "id": "Jake Gyllenhaal",
+        "is": "Jake Gyllenhaal",
+        "it": "Jake Gyllenhaal",
+        "ja": "ジェイク・ジレンホール",
+        "ka": "ჯეიკ ჯილენჰოლი",
+        "kk": "Джейк Джилленхол",
+        "ko": "제이크 질런홀",
+        "ky": "Жейк Жилленхол",
+        "la": "Iacobus Beniamin Gyllenhaal",
+        "lt": "Jake Gyllenhaal",
+        "lv": "Džeiks Jillenhols",
+        "mn": "Жэйк Жилленхол",
+        "mr": "जेक जिलेनहाल",
+        "ms": "Jake Gyllenhaal",
+        "ne": "जेक जिलेनहाल",
+        "nl": "Jake Gyllenhaal",
+        "no": "Jake Gyllenhaal",
+        "pl": "Jake Gyllenhaal",
+        "ppl": "Jake Gyllenhaal",
+        "pt": "Jake Gyllenhaal",
+        "ro": "Jake Gyllenhaal",
+        "ru": "Джилленхол, Джейк",
+        "sco": "Jake Gyllenhaal",
+        "sh": "Jake Gyllenhaal",
+        "simple": "Jake Gyllenhaal",
+        "sk": "Jake Gyllenhaal",
+        "sl": "Jake Gyllenhaal",
+        "sq": "Jake Gyllenhaal",
+        "sr": "Џејк Џиленхол",
+        "su": "Jake Gyllenhaal",
+        "sv": "Jake Gyllenhaal",
+        "ta": "ஜேக் கிலென்ஹால்",
+        "tg": "Ҷейк Ҷилленҳол",
+        "th": "เจก จิลเลินฮอล",
+        "tr": "Jake Gyllenhaal",
+        "uk": "Джейк Джилленгол",
+        "ur": "جیک جلن ہال",
+        "uz": "Jake Gyllenhaal",
+        "vi": "Jake Gyllenhaal",
+        "wuu": "杰克·吉伦哈尔",
+        "xmf": "ჯეიკ ჯილენჰოლი",
+        "zh_yue": "積佳蘭賀",
+        "zh": "杰克·吉林哈尔"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "US",
+          "term": "jake gyllenhaal",
+          "volume": 100
+        }
+      ],
+      "newsUrls": [
+        "https://ew.com/seth-rogen-questioned-jake-gyllenhaal-performance-on-donnie-darko-set-12197517",
+        "https://www.thewrap.com/creative-content/movies/seth-rogen-donnie-darko-jake-gyllenhaal-doubts/",
+        "https://www.imdb.com/news/ni66083509/?ref_=nmnw_art_perm"
+      ],
+      "spike": 0.9,
+      "score": 74,
+      "decision": "accept",
+      "reasons": [],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q20830808",
+      "name": "Gianluigi Donnarumma",
+      "description": "Italian association football player (born 1999)",
+      "category": "athletes",
+      "occupations": [
+        "association football player"
+      ],
+      "birthYear": 1999,
+      "deathYear": null,
+      "sitelinks": 61,
+      "wikipedia": {
+        "ar": "جانلويجي دوناروما",
+        "arz": "جانلويجى دوناروما",
+        "azb": "جانلوئیجی دوناروما",
+        "az": "Canluici Donnarumma",
+        "ban": "Gianluigi Donnarumma",
+        "bg": "Джанлуиджи Донарума",
+        "bn": "জানলুইজি দন্নারুম্মা",
+        "bs": "Gianluigi Donnarumma",
+        "ca": "Gianluigi Donnarumma",
+        "ckb": "جیانلویجی دۆناڕۆما",
+        "cs": "Gianluigi Donnarumma",
+        "da": "Gianluigi Donnarumma",
+        "de": "Gianluigi Donnarumma",
+        "el": "Τζανλουίτζι Ντοναρούμα",
+        "en": "Gianluigi Donnarumma",
+        "es": "Gianluigi Donnarumma",
+        "et": "Gianluigi Donnarumma",
+        "eu": "Gianluigi Donnarumma",
+        "fa": "جانلوئیجی دوناروما",
+        "fi": "Gianluigi Donnarumma",
+        "fr": "Gianluigi Donnarumma",
+        "he": "ג'אנלואיג'י דונארומה",
+        "hr": "Gianluigi Donnarumma",
+        "hu": "Gianluigi Donnarumma",
+        "hy": "Ջանլուիջի Դոննարումմա",
+        "id": "Gianluigi Donnarumma",
+        "is": "Gianluigi Donnarumma",
+        "it": "Gianluigi Donnarumma",
+        "ja": "ジャンルイジ・ドンナルンマ",
+        "jv": "Gianluigi Donnarumma",
+        "ka": "ჯანლუიჯი დონარუმა",
+        "kk": "Джанлуиджи Доннарумма",
+        "ko": "잔루이지 돈나룸마",
+        "la": "Ioannes Ludovicus Donnarumma",
+        "lt": "Gianluigi Donnarumma",
+        "lv": "Džanluidži Donnarumma",
+        "mk": "Џанлујџи Донарума",
+        "ms": "Gianluigi Donnarumma",
+        "nds": "Gianluigi Donnarumma",
+        "ne": "जानलुइजी दान्नारुम्मा",
+        "nl": "Gianluigi Donnarumma",
+        "nn": "Gianluigi Donnarumma",
+        "no": "Gianluigi Donnarumma",
+        "pl": "Gianluigi Donnarumma",
+        "pt": "Gianluigi Donnarumma",
+        "ro": "Gianluigi Donnarumma",
+        "ru": "Доннарумма, Джанлуиджи",
+        "sh": "Gianluigi Donnarumma",
+        "simple": "Gianluigi Donnarumma",
+        "sk": "Gianluigi Donnarumma",
+        "sq": "Gianluigi Donnarumma",
+        "sr": "Ђанлуиђи Донарума",
+        "sv": "Gianluigi Donnarumma",
+        "th": "จันลุยจี ดอนนารุมมา",
+        "tr": "Gianluigi Donnarumma",
+        "uk": "Джанлуїджі Доннарумма",
+        "ur": "جیان لوئیگی دوناروما",
+        "uz": "Gianluigi Donnarumma",
+        "vi": "Gianluigi Donnarumma",
+        "vo": "Gianluigi Donnarumma",
+        "zh": "基安盧基·當拿隆馬"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "GB",
+          "term": "donnarumma",
+          "volume": 200
+        }
+      ],
+      "newsUrls": [
+        "https://www.mancity.com/news/mens/enzo-maresca-brighton-carabao-cup-preview-63928692",
+        "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-make-marc-guehi-34823261",
+        "https://www.sportsmole.co.uk/football/man-city/news/is-maresca-concerned-by-donnarummas-mistakes-as-man-city-goalkeeper_607812.html"
+      ],
+      "spike": 1,
+      "score": 74,
+      "decision": "accept",
+      "reasons": [],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q294372",
       "name": "Adam Brody",
       "description": "American actor",
@@ -16555,6 +16561,84 @@
       ],
       "newsUrls": [],
       "spike": 5,
+      "score": 74,
+      "decision": "reject",
+      "reasons": [
+        "no matching site category"
+      ],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q192377",
+      "name": "João Figueiredo",
+      "description": "Brazilian politician and military officer, 30th President of Brazil from 1979 to 1985",
+      "category": null,
+      "occupations": [
+        "politician",
+        "military officer",
+        "military personnel"
+      ],
+      "birthYear": 1918,
+      "deathYear": 1999,
+      "sitelinks": 46,
+      "wikipedia": {
+        "af": "João Figueiredo",
+        "ar": "جواو فيغيريدو",
+        "arz": "جواو فيجيريدو",
+        "ast": "João Baptista Figueiredo",
+        "be": "Жуан Фігейрэду",
+        "bg": "Жуау Фигейреду",
+        "bn": "হুয়াঁউ বাতিস্তা দি ওলিভেইরা ফিগেইরেদু",
+        "ca": "João Figueiredo",
+        "cs": "João Figueiredo",
+        "da": "João Figueiredo",
+        "de": "João Baptista de Oliveira Figueiredo",
+        "diq": "João Figueiredo",
+        "en": "João Figueiredo",
+        "eo": "João Baptista Figueiredo",
+        "es": "João Baptista Figueiredo",
+        "eu": "João Figueiredo",
+        "fa": "خوان فیگویردو",
+        "fi": "João Figueiredo",
+        "fr": "João Figueiredo",
+        "gl": "João Baptista Figueiredo",
+        "he": "ז'ואאו פיגיירדו",
+        "hy": "Ժուան Ֆիգեյրեդու",
+        "id": "João Baptista de Oliveira Figueiredo",
+        "io": "João Baptista Figueiredo",
+        "is": "João Figueiredo",
+        "it": "João Figueiredo",
+        "ja": "ジョアン・フィゲイレド",
+        "ka": "ჟუან ფიგეირედუ",
+        "ko": "주앙 피게이레두",
+        "la": "Ioannes Baptista de Oliveira Figueiredo",
+        "nl": "João Figueiredo",
+        "no": "João Baptista de Oliveira Figueiredo",
+        "oc": "João Baptista Figueiredo",
+        "pl": "João Baptista de Oliveira Figueiredo",
+        "pt": "João Figueiredo",
+        "ru": "Фигейреду, Жуан",
+        "simple": "João Figueiredo",
+        "sv": "João Baptista de Oliveira Figueiredo",
+        "th": "ฌูเวา ฟีเกย์เรดู",
+        "tr": "João Figueiredo",
+        "uk": "Жуан Фігейреду",
+        "vi": "João Figueiredo",
+        "wuu": "若昂·菲格雷多",
+        "yo": "João Baptista de Oliveira Figueiredo",
+        "zh_yue": "祖奧費基列度",
+        "zh": "若昂·菲格雷多"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "pt",
+          "term": "João Figueiredo",
+          "volume": 3342
+        }
+      ],
+      "newsUrls": [],
+      "spike": 2.9,
       "score": 74,
       "decision": "reject",
       "reasons": [
@@ -17134,6 +17218,55 @@
       "reasons": [
         "pageview spike 0.8x is below 2x"
       ],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q2118577",
+      "name": "Toni Nadal",
+      "description": "Spanish tennis coach",
+      "category": "athletes",
+      "occupations": [
+        "coach",
+        "tennis player",
+        "tennis coach"
+      ],
+      "birthYear": 1961,
+      "deathYear": null,
+      "sitelinks": 15,
+      "wikipedia": {
+        "ar": "توني نادال",
+        "arz": "تونى نادال",
+        "ca": "Antoni Nadal Homar",
+        "de": "Toni Nadal",
+        "en": "Toni Nadal",
+        "es": "Toni Nadal",
+        "fa": "تونی نادال",
+        "fi": "Toni Nadal",
+        "fr": "Toni Nadal",
+        "he": "טוני נדאל",
+        "it": "Toni Nadal",
+        "ks": "ٹونی نَڈال",
+        "pl": "Toni Nadal",
+        "ru": "Надаль, Тони",
+        "th": "โตนี นาดาล"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "ES",
+          "term": "toni nadal",
+          "volume": 1000
+        }
+      ],
+      "newsUrls": [
+        "https://www.larazon.es/deportes/tenis/toni-nadal-rafa-nadal-tuvo-mismo-respeto-roger-federer-novak-djokovic-que-que-tuvo-mujer-limpieza_202610286ae0eca7a9eeee544aaec7bb.html",
+        "https://www.ondacero.es/noticias/sociedad/dura-critica-toni-nadal-sistema-educativo-actual-hacen-tragedia-suspenso_202610276ae0eb2f0e3c8543425917e3.html",
+        "https://www.sport.es/es/noticias/tenis/toni-nadal-entrenador-tio-rafa-135799111"
+      ],
+      "spike": 2.7,
+      "score": 73,
+      "decision": "accept",
+      "reasons": [],
       "onSite": false
     },
     {
@@ -18382,51 +18515,39 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q126454806",
-      "name": "Janice Tjen",
-      "description": "Indonesian tennis player",
-      "category": "athletes",
+      "wikidataId": "Q7405241",
+      "name": "Sally Nugent",
+      "description": "British television presenter",
+      "category": null,
       "occupations": [
-        "tennis player"
+        "journalist"
       ],
-      "birthYear": 2002,
+      "birthYear": 1971,
       "deathYear": null,
-      "sitelinks": 16,
+      "sitelinks": 1,
       "wikipedia": {
-        "cs": "Janice Tjenová",
-        "de": "Janice Tjen",
-        "en": "Janice Tjen",
-        "es": "Janice Tjen",
-        "fi": "Janice Tjen",
-        "fr": "Janice Tjen",
-        "id": "Janice Tjen",
-        "it": "Janice Tjen",
-        "ms": "Janice Tjen",
-        "nl": "Janice Tjen",
-        "pl": "Janice Tjen",
-        "ro": "Janice Tjen",
-        "ru": "Тьен, Джанис",
-        "sw": "Janice Tjen",
-        "uk": "Джаніс Тжен",
-        "zh": "曾丽美"
+        "en": "Sally Nugent"
       },
       "signals": [
         {
           "source": "google-trends",
-          "where": "US",
-          "term": "janice tjen",
-          "volume": 100
+          "where": "GB",
+          "term": "sally nugent",
+          "volume": 200
         }
       ],
       "newsUrls": [
-        "https://www.wtatennis.com/videos/4599087/venus-williams-tjen-sweep-into-guangzhou-quarterfinals-in-doubles-debut",
-        "https://sports.yahoo.com/articles/every-match-venus-williams-won-230000331.html",
-        "https://www.skysports.com/tennis/watch/7880587840207166112/guangzhou-open-2026"
+        "https://www.bbc.com/news/articles/c65ynjkrjq4wo",
+        "https://www.thetimes.com/uk/royal-family/article/knighting-kevin-sinfield-prince-william-dtfgk0fzp",
+        "https://people.com/prince-william-says-kevin-sinfield-should-have-been-knighted-years-ago-12194302"
       ],
-      "spike": 3.1,
+      "spike": 7.8,
       "score": 70,
-      "decision": "accept",
-      "reasons": [],
+      "decision": "reject",
+      "reasons": [
+        "only 1 Wikipedia editions (needs 5)",
+        "no matching site category"
+      ],
       "onSite": false
     },
     {
@@ -18825,6 +18946,111 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q66241169",
+      "name": "Jude Bellingham",
+      "description": "English footballer (born 2003)",
+      "category": "athletes",
+      "occupations": [
+        "association football player"
+      ],
+      "birthYear": 2003,
+      "deathYear": null,
+      "sitelinks": 75,
+      "wikipedia": {
+        "af": "Jude Bellingham",
+        "ar": "جود بيلينغهام",
+        "arz": "چود بيلينجام",
+        "ast": "Jude Bellingham",
+        "az": "Cud Bellingem",
+        "ban": "Jude Bellingham",
+        "be_x_old": "Джуд Бэлінггэм",
+        "be": "Джуд Белінгем",
+        "bg": "Джуд Белингам",
+        "bn": "জুড বেলিংহাম",
+        "ca": "Jude Bellingham",
+        "ckb": "جوود بێلینگھام",
+        "cs": "Jude Bellingham",
+        "cy": "Jude Bellingham",
+        "dag": "Jude Bellingham",
+        "da": "Jude Bellingham",
+        "de": "Jude Bellingham",
+        "diq": "Jude Bellingham",
+        "el": "Τζουντ Μπέλινγκχαμ",
+        "en": "Jude Bellingham",
+        "eo": "Jude Bellingham",
+        "es": "Jude Bellingham",
+        "et": "Jude Bellingham",
+        "eu": "Jude Bellingham",
+        "fa": "جود بلینگام",
+        "fi": "Jude Bellingham",
+        "fr": "Jude Bellingham",
+        "gl": "Jude Bellingham",
+        "ha": "Jude Bellingham",
+        "he": "ג'וד בלינגהאם",
+        "hr": "Jude Bellingham",
+        "hu": "Jude Bellingham",
+        "hy": "Ջուդ Բելինգեմ",
+        "id": "Jude Bellingham",
+        "ie": "Jude Bellingham",
+        "io": "Jude Bellingham",
+        "is": "Jude Bellingham",
+        "it": "Jude Bellingham",
+        "ja": "ジュード・ベリンガム",
+        "jv": "Jude Bellingham",
+        "ka": "ჯუდ ბელინგემი",
+        "kk": "Джуд Беллингем",
+        "km": "ជូដ ប៊ែលលីងហាំ",
+        "knc": "Jude Bellingham",
+        "ko": "주드 벨링엄",
+        "lo": "ຈູ້ດ ເບລິງແຮມ",
+        "lt": "Jude Bellingham",
+        "lv": "Džūds Belingems",
+        "mad": "Jude Bellingham",
+        "ms": "Jude Bellingham",
+        "mzn": "جود بلینگام",
+        "nl": "Jude Bellingham",
+        "no": "Jude Bellingham",
+        "nup": "Jude Bellingham",
+        "pl": "Jude Bellingham",
+        "pt": "Jude Bellingham",
+        "ro": "Jude Bellingham",
+        "ru": "Беллингем, Джуд",
+        "sh": "Jude Bellingham",
+        "simple": "Jude Bellingham",
+        "sk": "Jude Bellingham",
+        "sq": "Jude Bellingham",
+        "sr": "Џуд Белингам",
+        "sv": "Jude Bellingham",
+        "tg": "Ҷуд Беллингҳем",
+        "th": "จูด เบลลิงงัม",
+        "tr": "Jude Bellingham",
+        "ts": "Jude Bellingham",
+        "uk": "Джуд Беллінгем",
+        "ur": "جوڈ بیلنگھم",
+        "uz": "Jude Bellingham",
+        "vi": "Jude Bellingham",
+        "vo": "Jude Bellingham",
+        "zh_yue": "貝寧咸",
+        "zh": "祖德·贝林厄姆"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "de",
+          "term": "Jude Bellingham",
+          "volume": 4780
+        }
+      ],
+      "newsUrls": [],
+      "spike": 0,
+      "score": 70,
+      "decision": "reject",
+      "reasons": [
+        "pageview spike 0.0x is below 2x"
+      ],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q201381",
       "name": "Vincent Kompany",
       "description": "Belgian association football player and manager",
@@ -19110,78 +19336,6 @@
       "score": 69,
       "decision": "accept",
       "reasons": [],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q323063",
-      "name": "Wolf Biermann",
-      "description": "German singer-songwriter and former East German dissident",
-      "category": "artists",
-      "occupations": [
-        "singer-songwriter",
-        "poet",
-        "dissident",
-        "writer",
-        "composer",
-        "Liedermacher",
-        "singer",
-        "actor",
-        "musician",
-        "librettist"
-      ],
-      "birthYear": 1936,
-      "deathYear": null,
-      "sitelinks": 33,
-      "wikipedia": {
-        "ar": "فولف بيرمان",
-        "arz": "فولف بيرمان",
-        "bg": "Волф Бирман",
-        "ca": "Wolf Biermann",
-        "cs": "Wolf Biermann",
-        "da": "Wolf Biermann",
-        "de": "Wolf Biermann",
-        "el": "Βολφ Μπήρμαν",
-        "en": "Wolf Biermann",
-        "eo": "Wolf Biermann",
-        "es": "Wolf Biermann",
-        "et": "Wolf Biermann",
-        "fi": "Wolf Biermann",
-        "fr": "Wolf Biermann",
-        "he": "וולף בירמן",
-        "id": "Wolf Biermann",
-        "it": "Wolf Biermann",
-        "ja": "ヴォルフ・ビーアマン",
-        "ka": "ვოლფ ბირმანი",
-        "ko": "볼프 비어만",
-        "lb": "Wolf Biermann",
-        "mk": "Волф Бирман",
-        "nl": "Wolf Biermann",
-        "no": "Wolf Biermann",
-        "pcd": "Wolf Biermann",
-        "pl": "Wolf Biermann",
-        "ru": "Бирман, Вольф",
-        "sv": "Wolf Biermann",
-        "tr": "Wolf Biermann",
-        "uk": "Вольф Бірман",
-        "vo": "Wolf Biermann",
-        "xmf": "ვოლფ ბირმანი",
-        "zh": "沃尔夫·比尔曼"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "de",
-          "term": "Wolf Biermann",
-          "volume": 3575
-        }
-      ],
-      "newsUrls": [],
-      "spike": 2,
-      "score": 69,
-      "decision": "reject",
-      "reasons": [
-        "pageview spike 2.0x is below 2x"
-      ],
       "onSite": false
     },
     {
@@ -19743,48 +19897,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q7405123",
-      "name": "Sally Dynevor",
-      "description": "English actress",
-      "category": "artists",
-      "occupations": [
-        "actor"
-      ],
-      "birthYear": 1963,
-      "deathYear": null,
-      "sitelinks": 8,
-      "wikipedia": {
-        "af": "Sally Dynevor",
-        "arz": "سالى دينيڤور",
-        "de": "Sally Dynevor",
-        "en": "Sally Dynevor",
-        "es": "Sally Dynevor",
-        "ga": "Sally Dynevor",
-        "simple": "Sally Dynevor",
-        "ur": "سیلی ڈائنوور"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "GB",
-          "term": "sally dynevor",
-          "volume": 1000
-        }
-      ],
-      "newsUrls": [
-        "https://www.radiotimes.com/tv/soaps/coronation-street/coronation-street-sally-metcalfe-commits-brutal-halloween-attack-fears-life-itvx-newsupdate/",
-        "https://www.digitalspy.com/soaps/coronation-street/a74257767/coronation-street-sally-metcalfe-halloween-intruder/",
-        "https://metro.co.uk/2026/10/21/coronation-street-spoilers-next-week-sally-faces-downfall-murder-29721654/"
-      ],
-      "spike": 2,
-      "score": 67,
-      "decision": "reject",
-      "reasons": [
-        "news mentions \"murder\", likely crime or tragedy context"
-      ],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q133698867",
       "name": "Yan Diomande",
       "description": "Ivorian footballer",
@@ -19950,47 +20062,6 @@
       ],
       "newsUrls": [],
       "spike": 4.4,
-      "score": 67,
-      "decision": "reject",
-      "reasons": [
-        "no matching site category"
-      ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q4199383",
-      "name": "Marisa Letícia Lula da Silva",
-      "description": "35th First Lady of Brazil (1950–2017)",
-      "category": null,
-      "occupations": [
-        "politician"
-      ],
-      "birthYear": 1950,
-      "deathYear": 2017,
-      "sitelinks": 11,
-      "wikipedia": {
-        "ar": "ماريسا ليتيسيا لولا دا سيلفا",
-        "ast": "Marisa Letícia Lula da Silva",
-        "en": "Marisa Letícia Lula da Silva",
-        "eo": "Marisa Letícia Lula da Silva",
-        "es": "Marisa Letícia Lula da Silva",
-        "fr": "Marisa Letícia Lula da Silva",
-        "id": "Marisa Letícia",
-        "it": "Marisa Letícia",
-        "pt": "Marisa Letícia Lula da Silva",
-        "simple": "Marisa Letícia Lula da Silva",
-        "tr": "Marisa Letícia Lula da Silva"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "pt",
-          "term": "Marisa Letícia Lula da Silva",
-          "volume": 8117
-        }
-      ],
-      "newsUrls": [],
-      "spike": 3.2,
       "score": 67,
       "decision": "reject",
       "reasons": [
@@ -20165,6 +20236,45 @@
       ],
       "newsUrls": [],
       "spike": 2.2,
+      "score": 66,
+      "decision": "reject",
+      "reasons": [
+        "no matching site category"
+      ],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q18242106",
+      "name": "Camilo Santana",
+      "description": "Brazilian politician",
+      "category": null,
+      "occupations": [
+        "agricultural engineer",
+        "teacher",
+        "politician"
+      ],
+      "birthYear": 1968,
+      "deathYear": null,
+      "sitelinks": 7,
+      "wikipedia": {
+        "ar": "كاميلو سانتانا",
+        "en": "Camilo Santana",
+        "es": "Camilo Santana",
+        "fr": "Camilo Santana",
+        "pt": "Camilo Santana",
+        "ur": "کیمیلو سانتانا",
+        "zh_yue": "金米洛"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "pt",
+          "term": "Camilo Santana",
+          "volume": 3408
+        }
+      ],
+      "newsUrls": [],
+      "spike": 4.5,
       "score": 66,
       "decision": "reject",
       "reasons": [
@@ -20416,85 +20526,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q192377",
-      "name": "João Figueiredo",
-      "description": "Brazilian politician and military officer, 30th President of Brazil from 1979 to 1985",
-      "category": null,
-      "occupations": [
-        "politician",
-        "military officer",
-        "military personnel"
-      ],
-      "birthYear": 1918,
-      "deathYear": 1999,
-      "sitelinks": 46,
-      "wikipedia": {
-        "af": "João Figueiredo",
-        "ar": "جواو فيغيريدو",
-        "arz": "جواو فيجيريدو",
-        "ast": "João Baptista Figueiredo",
-        "be": "Жуан Фігейрэду",
-        "bg": "Жуау Фигейреду",
-        "bn": "হুয়াঁউ বাতিস্তা দি ওলিভেইরা ফিগেইরেদু",
-        "ca": "João Figueiredo",
-        "cs": "João Figueiredo",
-        "da": "João Figueiredo",
-        "de": "João Baptista de Oliveira Figueiredo",
-        "diq": "João Figueiredo",
-        "en": "João Figueiredo",
-        "eo": "João Baptista Figueiredo",
-        "es": "João Baptista Figueiredo",
-        "eu": "João Figueiredo",
-        "fa": "خوان فیگویردو",
-        "fi": "João Figueiredo",
-        "fr": "João Figueiredo",
-        "gl": "João Baptista Figueiredo",
-        "he": "ז'ואאו פיגיירדו",
-        "hy": "Ժուան Ֆիգեյրեդու",
-        "id": "João Baptista de Oliveira Figueiredo",
-        "io": "João Baptista Figueiredo",
-        "is": "João Figueiredo",
-        "it": "João Figueiredo",
-        "ja": "ジョアン・フィゲイレド",
-        "ka": "ჟუან ფიგეირედუ",
-        "ko": "주앙 피게이레두",
-        "la": "Ioannes Baptista de Oliveira Figueiredo",
-        "nl": "João Figueiredo",
-        "no": "João Baptista de Oliveira Figueiredo",
-        "oc": "João Baptista Figueiredo",
-        "pl": "João Baptista de Oliveira Figueiredo",
-        "pt": "João Figueiredo",
-        "ru": "Фигейреду, Жуан",
-        "simple": "João Figueiredo",
-        "sv": "João Baptista de Oliveira Figueiredo",
-        "th": "ฌูเวา ฟีเกย์เรดู",
-        "tr": "João Figueiredo",
-        "uk": "Жуан Фігейреду",
-        "vi": "João Figueiredo",
-        "wuu": "若昂·菲格雷多",
-        "yo": "João Baptista de Oliveira Figueiredo",
-        "zh_yue": "祖奧費基列度",
-        "zh": "若昂·菲格雷多"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "pt",
-          "term": "João Figueiredo",
-          "volume": 3342
-        }
-      ],
-      "newsUrls": [],
-      "spike": 0,
-      "score": 65,
-      "decision": "reject",
-      "reasons": [
-        "no matching site category",
-        "pageview spike 0.0x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q153460",
       "name": "Ilse Aigner",
       "description": "German politician",
@@ -20711,90 +20742,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q465160",
-      "name": "Nadja Benaissa",
-      "description": "German singer",
-      "category": "artists",
-      "occupations": [
-        "singer",
-        "actor",
-        "songwriter",
-        "pop singer"
-      ],
-      "birthYear": 1982,
-      "deathYear": null,
-      "sitelinks": 14,
-      "wikipedia": {
-        "an": "Nadja Benaissa",
-        "ar": "نادية بنعيسى",
-        "arz": "ناديه بنعيسى",
-        "ca": "Nadja Benaissa",
-        "de": "Nadja Benaissa",
-        "en": "Nadja Benaissa",
-        "fa": "نادیا بن عیسی",
-        "fi": "Nadja Benaissa",
-        "fr": "Nadja Benaissa",
-        "ne": "नाडिया बिनाइसा",
-        "pl": "Nadja Benaissa",
-        "pt": "Nadja Benaissa",
-        "ru": "Бенаисса, Надя",
-        "simple": "No Angels"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "de",
-          "term": "Nadja Benaissa",
-          "volume": 4782
-        }
-      ],
-      "newsUrls": [],
-      "spike": 1.9,
-      "score": 64,
-      "decision": "reject",
-      "reasons": [
-        "pageview spike 1.9x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q103477865",
-      "name": "Camille Étienne",
-      "description": "French environmental activist",
-      "category": "artists",
-      "occupations": [
-        "environmentalist",
-        "film director"
-      ],
-      "birthYear": 1998,
-      "deathYear": null,
-      "sitelinks": 2,
-      "wikipedia": {
-        "en": "Camille Étienne",
-        "fr": "Camille Étienne"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "FR",
-          "term": "camille etienne",
-          "volume": 2000
-        }
-      ],
-      "newsUrls": [
-        "https://www.lemonde.fr/idees/article/2026/10/25/l-usine-chemours-a-apporte-des-emplois-mais-a-quel-prix-les-pfas-et-leurs-degats-au-c-ur-du-recit-facteur-x-dont-le-monde-devoile-les-extraits_6800107_3232.html",
-        "https://www.liberation.fr/environnement/pollution/analyse-de-leau-potable-decontamination-actions-en-justice-ou-en-est-la-france-dans-sa-lutte-contre-les-pfas-20261027_KL322ZRPXRFHDH3UXJABBNORO4/",
-        "https://www.geo.fr/environnement/pfas-leur-presence-dans-l-eau-du-robinet-americaine-serait-largement-sous-evaluee-234201"
-      ],
-      "spike": 3.2,
-      "score": 64,
-      "decision": "reject",
-      "reasons": [
-        "only 2 Wikipedia editions (needs 5)"
-      ],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q1393983",
       "name": "Philippe Katerine",
       "description": "French singer and actor",
@@ -20939,50 +20886,14 @@
         }
       ],
       "newsUrls": [
-        "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-28/austin-reaves-posts-26-points-seven-assists",
-        "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-27/simone-fontecchio-illness-doubtful-wednesday",
-        "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-27/caleb-martin-thumb-questionable-wednesday"
+        "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-28/sandro-mamukelashvili-scores-17-points-vs-por",
+        "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-27/aaron-nesmith-hamstring-probable-wednesday",
+        "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-27/aaron-wiggins-knee-questionable-wednesday"
       ],
       "spike": 0.3,
       "score": 63,
       "decision": "accept",
       "reasons": [],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q99465930",
-      "name": "Jones Manoel",
-      "description": "Brazilian intellectual and communist militant",
-      "category": "creators",
-      "occupations": [
-        "historian",
-        "YouTuber",
-        "political activist",
-        "politician"
-      ],
-      "birthYear": 1990,
-      "deathYear": null,
-      "sitelinks": 3,
-      "wikipedia": {
-        "en": "Jones Manoel",
-        "es": "Jones Manoel",
-        "pt": "Jones Manoel"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "pt",
-          "term": "Jones Manoel",
-          "volume": 7468
-        }
-      ],
-      "newsUrls": [],
-      "spike": 4.6,
-      "score": 63,
-      "decision": "reject",
-      "reasons": [
-        "only 3 Wikipedia editions (needs 5)"
-      ],
       "onSite": false
     },
     {
@@ -21031,6 +20942,78 @@
       "reasons": [
         "no matching site category",
         "pageview spike 1.2x is below 2x"
+      ],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q323063",
+      "name": "Wolf Biermann",
+      "description": "German singer-songwriter and former East German dissident",
+      "category": "artists",
+      "occupations": [
+        "singer-songwriter",
+        "poet",
+        "dissident",
+        "writer",
+        "composer",
+        "Liedermacher",
+        "singer",
+        "actor",
+        "musician",
+        "librettist"
+      ],
+      "birthYear": 1936,
+      "deathYear": null,
+      "sitelinks": 33,
+      "wikipedia": {
+        "ar": "فولف بيرمان",
+        "arz": "فولف بيرمان",
+        "bg": "Волф Бирман",
+        "ca": "Wolf Biermann",
+        "cs": "Wolf Biermann",
+        "da": "Wolf Biermann",
+        "de": "Wolf Biermann",
+        "el": "Βολφ Μπήρμαν",
+        "en": "Wolf Biermann",
+        "eo": "Wolf Biermann",
+        "es": "Wolf Biermann",
+        "et": "Wolf Biermann",
+        "fi": "Wolf Biermann",
+        "fr": "Wolf Biermann",
+        "he": "וולף בירמן",
+        "id": "Wolf Biermann",
+        "it": "Wolf Biermann",
+        "ja": "ヴォルフ・ビーアマン",
+        "ka": "ვოლფ ბირმანი",
+        "ko": "볼프 비어만",
+        "lb": "Wolf Biermann",
+        "mk": "Волф Бирман",
+        "nl": "Wolf Biermann",
+        "no": "Wolf Biermann",
+        "pcd": "Wolf Biermann",
+        "pl": "Wolf Biermann",
+        "ru": "Бирман, Вольф",
+        "sv": "Wolf Biermann",
+        "tr": "Wolf Biermann",
+        "uk": "Вольф Бірман",
+        "vo": "Wolf Biermann",
+        "xmf": "ვოლფ ბირმანი",
+        "zh": "沃尔夫·比尔曼"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "de",
+          "term": "Wolf Biermann",
+          "volume": 3575
+        }
+      ],
+      "newsUrls": [],
+      "spike": 0.8,
+      "score": 63,
+      "decision": "reject",
+      "reasons": [
+        "pageview spike 0.8x is below 2x"
       ],
       "onSite": false
     },
@@ -21085,6 +21068,48 @@
       "decision": "reject",
       "reasons": [
         "pageview spike 0.8x is below 2x"
+      ],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q2756496",
+      "name": "Bernardo Sousa",
+      "description": "Portuguese rally driver",
+      "category": null,
+      "occupations": [
+        "rally driver"
+      ],
+      "birthYear": 1987,
+      "deathYear": null,
+      "sitelinks": 8,
+      "wikipedia": {
+        "ar": "برناردو سوسا",
+        "de": "Bernardo Sousa",
+        "en": "Bernardo Sousa (rally driver)",
+        "fi": "Bernardo Sousa",
+        "it": "Bernardo Sousa",
+        "mg": "Bernardo Sousa",
+        "pl": "Bernardo Sousa",
+        "pt": "Bernardo Sousa"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "PT",
+          "term": "bernardo sousa",
+          "volume": 200
+        }
+      ],
+      "newsUrls": [
+        "https://tvi.iol.pt/bigbrother/bruna-gomes/bernardo-sousa/bernardo-sousa-em-lagrimas-o-momento-e-gravado-por-bruna-gomes-eis-o-video",
+        "https://caras.pt/famosos/2026-10-20-bruna-gomes-recorda-memorias-especiais-do-big-brother-com-bernardo-sousa-e-emociona-fas/",
+        "https://www.hiper.fm/bruna-gomes-rendida-a-bernardo-sousa-apos-corrida-de-sucesso-no-funchal-admiro-tanto-o-brilho/"
+      ],
+      "spike": 1.5,
+      "score": 62,
+      "decision": "reject",
+      "reasons": [
+        "no matching site category"
       ],
       "onSite": false
     },
@@ -21312,51 +21337,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q6174903",
-      "name": "Óscar Puente",
-      "description": "Spanish politician and lawyer",
-      "category": null,
-      "occupations": [
-        "politician",
-        "lawyer"
-      ],
-      "birthYear": 1968,
-      "deathYear": null,
-      "sitelinks": 10,
-      "wikipedia": {
-        "arz": "اوسكار پوينت سانتياجو",
-        "ast": "Óscar Puente",
-        "ca": "Óscar Puente Santiago",
-        "en": "Óscar Puente",
-        "es": "Óscar Puente",
-        "et": "Óscar Puente",
-        "fr": "Óscar Puente",
-        "gl": "Óscar Puente",
-        "pl": "Óscar Puente",
-        "pt": "Óscar Puente"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "ES",
-          "term": "oscar puente",
-          "volume": 200
-        }
-      ],
-      "newsUrls": [
-        "https://www.larazon.es/gente/poder/desvelamos-refugio-secreto-oscar-puente-cuando-quiere-desconectar-mundo-mediatico_202610286ae1b2956973466c29dfcf11.html",
-        "https://www.semana.es/living/o-mazo-pequena-aldea-gallega-que-oscar-puente-utiliza-para-refugiarse-solo-tres-habitantes-y-paso-obligado-camino-santiago_2821767",
-        "https://www.elespanol.com/quincemil/vivir/20261020/aldea-solo-habitantes-oscar-puente-raices-paternas-rural-gallego-trt/1003744425619_0.html"
-      ],
-      "spike": 0.7,
-      "score": 61,
-      "decision": "reject",
-      "reasons": [
-        "no matching site category"
-      ],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q59284492",
       "name": "Andre Janones",
       "description": "Brazilian politician and Federal Deputy of Brazil",
@@ -21427,92 +21407,6 @@
       "decision": "reject",
       "reasons": [
         "no matching site category"
-      ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q66751",
-      "name": "Vanessa Petruo",
-      "description": "German pop singer",
-      "category": "artists",
-      "occupations": [
-        "singer",
-        "film actor",
-        "voice actor",
-        "songwriter",
-        "musician"
-      ],
-      "birthYear": 1979,
-      "deathYear": null,
-      "sitelinks": 13,
-      "wikipedia": {
-        "ar": "فانيسا بيتروو",
-        "arz": "فانيسا بيتروو",
-        "bn": "ভানেসা পেত্রুও",
-        "cs": "Vanessa Petruo",
-        "de": "Vanessa Petruo",
-        "en": "Vanessa Petruo",
-        "fa": "ونسا پترئو",
-        "fi": "Vanessa Petruo",
-        "fr": "Vanessa Petruo",
-        "it": "Vanessa Petruo",
-        "ne": "फनेसा पिट्रुओ",
-        "vo": "Vanessa Petruo",
-        "zh_min_nan": "Vanessa Petruo"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "de",
-          "term": "Vanessa Petruo",
-          "volume": 4765
-        }
-      ],
-      "newsUrls": [],
-      "spike": 1.1,
-      "score": 61,
-      "decision": "reject",
-      "reasons": [
-        "pageview spike 1.1x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q3018298",
-      "name": "David Lisnard",
-      "description": "French politician",
-      "category": "business",
-      "occupations": [
-        "politician",
-        "business executive",
-        "professions libérales et assimilés",
-        "miscellaneous persons without work under 60 excluding retirees",
-        "mayor"
-      ],
-      "birthYear": 1969,
-      "deathYear": null,
-      "sitelinks": 5,
-      "wikipedia": {
-        "ar": "ديفيد ليسنارد",
-        "de": "David Lisnard",
-        "en": "David Lisnard",
-        "fr": "David Lisnard",
-        "ru": "Лиснар, Давид"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "fr",
-          "term": "David Lisnard",
-          "volume": 39185
-        }
-      ],
-      "newsUrls": [],
-      "spike": 1.7,
-      "score": 61,
-      "decision": "reject",
-      "reasons": [
-        "pageview spike 1.7x is below 2x"
       ],
       "onSite": false
     },
@@ -21676,94 +21570,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q2756496",
-      "name": "Bernardo Sousa",
-      "description": "Portuguese rally driver",
-      "category": null,
-      "occupations": [
-        "rally driver"
-      ],
-      "birthYear": 1987,
-      "deathYear": null,
-      "sitelinks": 8,
-      "wikipedia": {
-        "ar": "برناردو سوسا",
-        "de": "Bernardo Sousa",
-        "en": "Bernardo Sousa (rally driver)",
-        "fi": "Bernardo Sousa",
-        "it": "Bernardo Sousa",
-        "mg": "Bernardo Sousa",
-        "pl": "Bernardo Sousa",
-        "pt": "Bernardo Sousa"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "PT",
-          "term": "bernardo sousa",
-          "volume": 100
-        }
-      ],
-      "newsUrls": [
-        "https://tvi.iol.pt/bigbrother/bruna-gomes/bernardo-sousa/bernardo-sousa-em-lagrimas-o-momento-e-gravado-por-bruna-gomes-eis-o-video",
-        "https://caras.pt/famosos/2026-10-20-bruna-gomes-recorda-memorias-especiais-do-big-brother-com-bernardo-sousa-e-emociona-fas/",
-        "https://infocul.pt/bruna-gomes-declara-se-a-bernardo-sousa-apos-etapa-do-rali-admiro-tanto-o-brilho-nos-olhos-do-meu-marido/"
-      ],
-      "spike": 1.5,
-      "score": 60,
-      "decision": "reject",
-      "reasons": [
-        "no matching site category"
-      ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q246903",
-      "name": "Enéas Carneiro",
-      "description": "Brazilian politician (1938–2007)",
-      "category": null,
-      "occupations": [
-        "politician",
-        "physician",
-        "military personnel",
-        "author",
-        "academic",
-        "translator",
-        "mathematician",
-        "physicist"
-      ],
-      "birthYear": 1938,
-      "deathYear": 2007,
-      "sitelinks": 8,
-      "wikipedia": {
-        "arz": "انايس كارنيرو",
-        "ca": "Enéas Carneiro",
-        "de": "Enéas Carneiro",
-        "en": "Enéas Carneiro",
-        "es": "Enéas Carneiro",
-        "fr": "Enéas Carneiro",
-        "no": "Enéas Carneiro",
-        "pt": "Enéas Carneiro"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "pt",
-          "term": "Enéas Carneiro",
-          "volume": 8273
-        }
-      ],
-      "newsUrls": [],
-      "spike": 1.7,
-      "score": 60,
-      "decision": "reject",
-      "reasons": [
-        "no matching site category",
-        "pageview spike 1.7x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q106020252",
       "name": "Prisca Thevenot",
       "description": "French politician",
@@ -21802,39 +21608,39 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q116291617",
-      "name": "Sandra Felgueiras",
-      "description": "Portuguese TV presenter and journalist",
-      "category": null,
+      "wikidataId": "Q18218133",
+      "name": "Alejandro Vanoli",
+      "description": "Argentine economist and politician",
+      "category": "business",
       "occupations": [
-        "journalist"
+        "economist"
       ],
-      "birthYear": 1977,
+      "birthYear": 1961,
       "deathYear": null,
-      "sitelinks": 2,
+      "sitelinks": 3,
       "wikipedia": {
-        "en": "Sandra Felgueiras",
-        "pt": "Sandra Felgueiras"
+        "arz": "اليچاندرو ڤانولى",
+        "en": "Alejandro Vanoli",
+        "es": "Alejandro Vanoli"
       },
       "signals": [
         {
           "source": "google-trends",
-          "where": "PT",
-          "term": "sandra felgueiras",
+          "where": "AR",
+          "term": "fecha de cobro auh noviembre 2026",
           "volume": 500
         }
       ],
       "newsUrls": [
-        "https://caras.pt/famosos/2026-10-27-filipa-torrinha-nunes-deixa-duras-criticas-a-sandra-felgueiras-e-tania-laranjo/",
-        "https://sic.pt/sic-caras/passadeira-vermelha/2026-10-27-video-por-cada-jovem-que-nao-tem-uma-casa-para-alugar-ha-um-pai-que-tem-que-o-ajudar-e-que-o-faz-com-muito-sacrificio-9da52274",
-        "https://dioguinho.com/orfaos-de-governo-joana-latino-culpa-o-mai-e-o-governo-pelas-cargas-policiais-nas-acampadas/"
+        "https://comercioyjusticia.info/informacion-general/calendario-de-cobro-de-anses-para-noviembre-de-2026-fechas-confirmadas-para-jubilados-y-pnc/",
+        "https://www.infobae.com/economia/2026/10/28/el-gobierno-aumento-las-jubilaciones-y-asignaciones-de-cuanto-sera-la-minima-en-noviembre/",
+        "https://www.clarin.com/informacion-general/anses-cobro-calendario-pagos-completo-noviembre-2026_0_TVTbqT8MYM.html"
       ],
-      "spike": 2.4,
+      "spike": 2,
       "score": 59,
       "decision": "reject",
       "reasons": [
-        "only 2 Wikipedia editions (needs 5)",
-        "no matching site category"
+        "only 3 Wikipedia editions (needs 5)"
       ],
       "onSite": false
     },
@@ -22025,43 +21831,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q18218133",
-      "name": "Alejandro Vanoli",
-      "description": "Argentine economist and politician",
-      "category": "business",
-      "occupations": [
-        "economist"
-      ],
-      "birthYear": 1961,
-      "deathYear": null,
-      "sitelinks": 3,
-      "wikipedia": {
-        "arz": "اليچاندرو ڤانولى",
-        "en": "Alejandro Vanoli",
-        "es": "Alejandro Vanoli"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "AR",
-          "term": "fecha de cobro auh noviembre 2026",
-          "volume": 200
-        }
-      ],
-      "newsUrls": [
-        "https://comercioyjusticia.info/informacion-general/calendario-de-cobro-de-anses-para-noviembre-de-2026-fechas-confirmadas-para-jubilados-y-pnc/",
-        "https://www.infobae.com/economia/2026/10/28/el-gobierno-aumento-las-jubilaciones-y-asignaciones-de-cuanto-sera-la-minima-en-noviembre/",
-        "https://www.clarin.com/informacion-general/anses-cobro-calendario-pagos-completo-noviembre-2026_0_TVTbqT8MYM.html"
-      ],
-      "spike": 2,
-      "score": 58,
-      "decision": "reject",
-      "reasons": [
-        "only 3 Wikipedia editions (needs 5)"
-      ],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q7356081",
       "name": "Rocío Marengo",
       "description": "Argentinian television personality",
@@ -22203,6 +21972,53 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q465160",
+      "name": "Nadja Benaissa",
+      "description": "German singer",
+      "category": "artists",
+      "occupations": [
+        "singer",
+        "actor",
+        "songwriter",
+        "pop singer"
+      ],
+      "birthYear": 1982,
+      "deathYear": null,
+      "sitelinks": 14,
+      "wikipedia": {
+        "an": "Nadja Benaissa",
+        "ar": "نادية بنعيسى",
+        "arz": "ناديه بنعيسى",
+        "ca": "Nadja Benaissa",
+        "de": "Nadja Benaissa",
+        "en": "Nadja Benaissa",
+        "fa": "نادیا بن عیسی",
+        "fi": "Nadja Benaissa",
+        "fr": "Nadja Benaissa",
+        "ne": "नाडिया बिनाइसा",
+        "pl": "Nadja Benaissa",
+        "pt": "Nadja Benaissa",
+        "ru": "Бенаисса, Надя",
+        "simple": "No Angels"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "de",
+          "term": "Nadja Benaissa",
+          "volume": 4782
+        }
+      ],
+      "newsUrls": [],
+      "spike": 0,
+      "score": 58,
+      "decision": "reject",
+      "reasons": [
+        "pageview spike 0.0x is below 2x"
+      ],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q3591196",
       "name": "Éric Judor",
       "description": "French actor",
@@ -22340,6 +22156,48 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q4199383",
+      "name": "Marisa Letícia Lula da Silva",
+      "description": "35th First Lady of Brazil (1950–2017)",
+      "category": null,
+      "occupations": [
+        "politician"
+      ],
+      "birthYear": 1950,
+      "deathYear": 2017,
+      "sitelinks": 11,
+      "wikipedia": {
+        "ar": "ماريسا ليتيسيا لولا دا سيلفا",
+        "ast": "Marisa Letícia Lula da Silva",
+        "en": "Marisa Letícia Lula da Silva",
+        "eo": "Marisa Letícia Lula da Silva",
+        "es": "Marisa Letícia Lula da Silva",
+        "fr": "Marisa Letícia Lula da Silva",
+        "id": "Marisa Letícia",
+        "it": "Marisa Letícia",
+        "pt": "Marisa Letícia Lula da Silva",
+        "simple": "Marisa Letícia Lula da Silva",
+        "tr": "Marisa Letícia Lula da Silva"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "pt",
+          "term": "Marisa Letícia Lula da Silva",
+          "volume": 8117
+        }
+      ],
+      "newsUrls": [],
+      "spike": 0,
+      "score": 57,
+      "decision": "reject",
+      "reasons": [
+        "no matching site category",
+        "pageview spike 0.0x is below 2x"
+      ],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q59211077",
       "name": "Cleitinho Azevedo",
       "description": "Brazilian politician and Senator of the Brazil",
@@ -22444,6 +22302,53 @@
       "decision": "reject",
       "reasons": [
         "pageview spike 1.0x is below 2x"
+      ],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q66751",
+      "name": "Vanessa Petruo",
+      "description": "German pop singer",
+      "category": "artists",
+      "occupations": [
+        "singer",
+        "film actor",
+        "voice actor",
+        "songwriter",
+        "musician"
+      ],
+      "birthYear": 1979,
+      "deathYear": null,
+      "sitelinks": 13,
+      "wikipedia": {
+        "ar": "فانيسا بيتروو",
+        "arz": "فانيسا بيتروو",
+        "bn": "ভানেসা পেত্রুও",
+        "cs": "Vanessa Petruo",
+        "de": "Vanessa Petruo",
+        "en": "Vanessa Petruo",
+        "fa": "ونسا پترئو",
+        "fi": "Vanessa Petruo",
+        "fr": "Vanessa Petruo",
+        "it": "Vanessa Petruo",
+        "ne": "फनेसा पिट्रुओ",
+        "vo": "Vanessa Petruo",
+        "zh_min_nan": "Vanessa Petruo"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "de",
+          "term": "Vanessa Petruo",
+          "volume": 4765
+        }
+      ],
+      "newsUrls": [],
+      "spike": 0,
+      "score": 57,
+      "decision": "reject",
+      "reasons": [
+        "pageview spike 0.0x is below 2x"
       ],
       "onSite": false
     },
@@ -22596,37 +22501,33 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q29696179",
-      "name": "Rodrigo Pacheco",
-      "description": "Brazilian lawyer and politician, 67th president of the Federal Senate from Brazil (2021–2025) and Senator of the Republic since 2019",
-      "category": null,
+      "wikidataId": "Q3018298",
+      "name": "David Lisnard",
+      "description": "French politician",
+      "category": "business",
       "occupations": [
         "politician",
-        "advocate"
+        "business executive",
+        "professions libérales et assimilés",
+        "miscellaneous persons without work under 60 excluding retirees",
+        "mayor"
       ],
-      "birthYear": 1976,
+      "birthYear": 1969,
       "deathYear": null,
-      "sitelinks": 12,
+      "sitelinks": 5,
       "wikipedia": {
-        "ar": "رودريغو باتشيكو (سياسي)",
-        "arz": "رودريجو پاتشيكو",
-        "de": "Rodrigo Pacheco (Politiker)",
-        "en": "Rodrigo Pacheco (politician)",
-        "es": "Rodrigo Pacheco (político)",
-        "fr": "Rodrigo Pacheco (homme politique)",
-        "mg": "Rodrigo Pacheco",
-        "pt": "Rodrigo Pacheco",
-        "ru": "Пашеку, Родригу",
-        "simple": "Rodrigo Pacheco (politician)",
-        "ur": "روڈریگو پاشیکو (سیاست دان)",
-        "zh": "羅德里戈·帕謝科"
+        "ar": "ديفيد ليسنارد",
+        "de": "David Lisnard",
+        "en": "David Lisnard",
+        "fr": "David Lisnard",
+        "ru": "Лиснар, Давид"
       },
       "signals": [
         {
           "source": "wikipedia-top",
-          "where": "pt",
-          "term": "Rodrigo Pacheco",
-          "volume": 3354
+          "where": "fr",
+          "term": "David Lisnard",
+          "volume": 39185
         }
       ],
       "newsUrls": [],
@@ -22634,7 +22535,6 @@
       "score": 56,
       "decision": "reject",
       "reasons": [
-        "no matching site category",
         "pageview spike 0.0x is below 2x"
       ],
       "onSite": false
@@ -22679,6 +22579,88 @@
       "decision": "reject",
       "reasons": [
         "pageview spike 0.6x is below 2x"
+      ],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q1587258",
+      "name": "Malik Scott",
+      "description": "American boxer",
+      "category": "athletes",
+      "occupations": [
+        "boxer",
+        "boxing trainer"
+      ],
+      "birthYear": 1980,
+      "deathYear": null,
+      "sitelinks": 5,
+      "wikipedia": {
+        "ar": "مالك سكوت",
+        "arz": "مالك سكوت",
+        "de": "Malik Scott",
+        "en": "Malik Scott",
+        "ru": "Скотт, Малик"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "en",
+          "term": "Malik Scott",
+          "volume": 26309
+        }
+      ],
+      "newsUrls": [],
+      "spike": 0,
+      "score": 55,
+      "decision": "reject",
+      "reasons": [
+        "pageview spike 0.0x is below 2x"
+      ],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q246903",
+      "name": "Enéas Carneiro",
+      "description": "Brazilian politician (1938–2007)",
+      "category": null,
+      "occupations": [
+        "politician",
+        "physician",
+        "military personnel",
+        "author",
+        "academic",
+        "translator",
+        "mathematician",
+        "physicist"
+      ],
+      "birthYear": 1938,
+      "deathYear": 2007,
+      "sitelinks": 8,
+      "wikipedia": {
+        "arz": "انايس كارنيرو",
+        "ca": "Enéas Carneiro",
+        "de": "Enéas Carneiro",
+        "en": "Enéas Carneiro",
+        "es": "Enéas Carneiro",
+        "fr": "Enéas Carneiro",
+        "no": "Enéas Carneiro",
+        "pt": "Enéas Carneiro"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "pt",
+          "term": "Enéas Carneiro",
+          "volume": 8273
+        }
+      ],
+      "newsUrls": [],
+      "spike": 0,
+      "score": 55,
+      "decision": "reject",
+      "reasons": [
+        "no matching site category",
+        "pageview spike 0.0x is below 2x"
       ],
       "onSite": false
     },
@@ -22890,57 +22872,6 @@
       "reasons": [
         "no matching site category",
         "pageview spike 0.6x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q115596044",
-      "name": "Sneako",
-      "description": "American YouTuber, online streamer and former manosphere activist (born 1998)",
-      "category": "business",
-      "occupations": [
-        "YouTuber",
-        "content creator",
-        "Internet celebrity",
-        "cinematographer",
-        "political pundit",
-        "fashion model",
-        "online streamer",
-        "influencer",
-        "travel blogger",
-        "gamer",
-        "debater",
-        "stand-up comedian",
-        "film director",
-        "talk show guest",
-        "founder"
-      ],
-      "birthYear": 1998,
-      "deathYear": null,
-      "sitelinks": 3,
-      "wikipedia": {
-        "en": "Sneako",
-        "fa": "اسنیکو",
-        "id": "Sneako"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "US",
-          "term": "sneako",
-          "volume": 100
-        }
-      ],
-      "newsUrls": [
-        "https://sports.ndtv.com/us/us-streamers/sneako-dj-akademiks-feud-explained-after-adin-ross-turns-off-his-camera-mid-stream-12242498",
-        "https://www.hotnewhiphop.com/1014548-sneako-dj-akademiks-streaming-fight",
-        "https://www.billboard.com/music/rb-hip-hop/donald-trump-praises-minaj-ass-michigan-rally-press-secretary-1236367750/"
-      ],
-      "spike": 1.3,
-      "score": 54,
-      "decision": "reject",
-      "reasons": [
-        "only 3 Wikipedia editions (needs 5)"
       ],
       "onSite": false
     },
@@ -23201,42 +23132,35 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q18242106",
-      "name": "Camilo Santana",
-      "description": "Brazilian politician",
-      "category": null,
+      "wikidataId": "Q5224229",
+      "name": "Darragh MacAnthony",
+      "description": "Irish businessman",
+      "category": "business",
       "occupations": [
-        "agricultural engineer",
-        "teacher",
-        "politician"
+        "businessperson"
       ],
-      "birthYear": 1968,
+      "birthYear": 1976,
       "deathYear": null,
-      "sitelinks": 7,
+      "sitelinks": 1,
       "wikipedia": {
-        "ar": "كاميلو سانتانا",
-        "en": "Camilo Santana",
-        "es": "Camilo Santana",
-        "fr": "Camilo Santana",
-        "pt": "Camilo Santana",
-        "ur": "کیمیلو سانتانا",
-        "zh_yue": "金米洛"
+        "en": "Darragh MacAnthony"
       },
       "signals": [
         {
-          "source": "wikipedia-top",
-          "where": "pt",
-          "term": "Camilo Santana",
-          "volume": 3408
+          "source": "google-trends",
+          "where": "GB",
+          "term": "darragh macanthony",
+          "volume": 200
         }
       ],
-      "newsUrls": [],
-      "spike": 0,
+      "newsUrls": [
+        "https://www.peterboroughtoday.co.uk/sport/football/peterborough-united/owner-darragh-macanthony-will-put-his-club-shares-up-for-sale-if-peterborough-united-fail-under-robbie-savage-9313156"
+      ],
+      "spike": 2,
       "score": 53,
       "decision": "reject",
       "reasons": [
-        "no matching site category",
-        "pageview spike 0.0x is below 2x"
+        "only 1 Wikipedia editions (needs 5)"
       ],
       "onSite": false
     },
@@ -23269,79 +23193,6 @@
       "reasons": [
         "only 1 Wikipedia editions (needs 5)",
         "pageview spike 1.0x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q2886981",
-      "name": "Alejandro Rojas-Marcos de la Viesca",
-      "description": "Spanish politician",
-      "category": null,
-      "occupations": [
-        "politician",
-        "lawyer"
-      ],
-      "birthYear": 1940,
-      "deathYear": null,
-      "sitelinks": 5,
-      "wikipedia": {
-        "ca": "Alejandro Rojas-Marcos de la Viesca",
-        "en": "Alejandro Rojas-Marcos",
-        "eo": "Alejandro Rojas-Marcos",
-        "es": "Alejandro Rojas-Marcos",
-        "eu": "Alejandro Rojas-Marcos"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "es",
-          "term": "Alejandro Rojas-Marcos",
-          "volume": 5334
-        }
-      ],
-      "newsUrls": [],
-      "spike": 0,
-      "score": 52,
-      "decision": "reject",
-      "reasons": [
-        "no matching site category",
-        "pageview spike 0.0x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q96668522",
-      "name": "Ali Rabeh",
-      "description": "French politician",
-      "category": null,
-      "occupations": [
-        "politician",
-        "corporate administrative and commercial executive",
-        "corporate administrative and commercial executive",
-        "miscellaneous persons without work under 60 excluding retirees"
-      ],
-      "birthYear": 1984,
-      "deathYear": null,
-      "sitelinks": 1,
-      "wikipedia": {
-        "fr": "Ali Rabeh"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "fr",
-          "term": "Ali Rabeh",
-          "volume": 26760
-        }
-      ],
-      "newsUrls": [],
-      "spike": 1.7,
-      "score": 52,
-      "decision": "reject",
-      "reasons": [
-        "only 1 Wikipedia editions (needs 5)",
-        "no matching site category",
-        "pageview spike 1.7x is below 2x"
       ],
       "onSite": false
     },
@@ -23492,42 +23343,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q2642282",
-      "name": "Alexander Hold",
-      "description": "German actor and judge and politician",
-      "category": "artists",
-      "occupations": [
-        "actor",
-        "judge",
-        "writer",
-        "politician"
-      ],
-      "birthYear": 1962,
-      "deathYear": null,
-      "sitelinks": 2,
-      "wikipedia": {
-        "de": "Alexander Hold",
-        "no": "Alexander Hold"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "de",
-          "term": "Alexander Hold",
-          "volume": 3631
-        }
-      ],
-      "newsUrls": [],
-      "spike": 1.7,
-      "score": 51,
-      "decision": "reject",
-      "reasons": [
-        "only 2 Wikipedia editions (needs 5)",
-        "pageview spike 1.7x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q99373594",
       "name": "Théo Christine",
       "description": "French actor",
@@ -23632,6 +23447,43 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q99465930",
+      "name": "Jones Manoel",
+      "description": "Brazilian intellectual and communist militant",
+      "category": "creators",
+      "occupations": [
+        "historian",
+        "YouTuber",
+        "political activist",
+        "politician"
+      ],
+      "birthYear": 1990,
+      "deathYear": null,
+      "sitelinks": 3,
+      "wikipedia": {
+        "en": "Jones Manoel",
+        "es": "Jones Manoel",
+        "pt": "Jones Manoel"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "pt",
+          "term": "Jones Manoel",
+          "volume": 7468
+        }
+      ],
+      "newsUrls": [],
+      "spike": 0,
+      "score": 49,
+      "decision": "reject",
+      "reasons": [
+        "only 3 Wikipedia editions (needs 5)",
+        "pageview spike 0.0x is below 2x"
+      ],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q10325423",
       "name": "Marcos Claudio Lula da Silva",
       "description": "adopted son of Luiz Inácio Lula da Silva",
@@ -23700,6 +23552,40 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q112824633",
+      "name": "Daniella Marques",
+      "description": "Brazilian business administrator",
+      "category": null,
+      "occupations": [
+        "administrator"
+      ],
+      "birthYear": 1979,
+      "deathYear": null,
+      "sitelinks": 2,
+      "wikipedia": {
+        "en": "Daniella Marques",
+        "pt": "Daniella Marques"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "pt",
+          "term": "Daniella Marques",
+          "volume": 3380
+        }
+      ],
+      "newsUrls": [],
+      "spike": 0.7,
+      "score": 48,
+      "decision": "reject",
+      "reasons": [
+        "only 2 Wikipedia editions (needs 5)",
+        "no matching site category",
+        "pageview spike 0.7x is below 2x"
+      ],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q1576144",
       "name": "Hanni Vanhaiden",
       "description": "",
@@ -23737,28 +23623,28 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q6082381",
-      "name": "Poncho Zuleta",
-      "description": "Colombian singer",
-      "category": "artists",
+      "wikidataId": "Q96668522",
+      "name": "Ali Rabeh",
+      "description": "French politician",
+      "category": null,
       "occupations": [
-        "singer",
-        "composer",
-        "lawyer"
+        "politician",
+        "corporate administrative and commercial executive",
+        "corporate administrative and commercial executive",
+        "miscellaneous persons without work under 60 excluding retirees"
       ],
-      "birthYear": 1949,
+      "birthYear": 1984,
       "deathYear": null,
-      "sitelinks": 2,
+      "sitelinks": 1,
       "wikipedia": {
-        "br": "Poncho Zuleta",
-        "es": "Poncho Zuleta"
+        "fr": "Ali Rabeh"
       },
       "signals": [
         {
           "source": "wikipedia-top",
-          "where": "es",
-          "term": "Poncho Zuleta",
-          "volume": 5581
+          "where": "fr",
+          "term": "Ali Rabeh",
+          "volume": 26760
         }
       ],
       "newsUrls": [],
@@ -23766,40 +23652,7 @@
       "score": 47,
       "decision": "reject",
       "reasons": [
-        "only 2 Wikipedia editions (needs 5)",
-        "pageview spike 0.0x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q112824633",
-      "name": "Daniella Marques",
-      "description": "Brazilian business administrator",
-      "category": null,
-      "occupations": [
-        "administrator"
-      ],
-      "birthYear": 1979,
-      "deathYear": null,
-      "sitelinks": 2,
-      "wikipedia": {
-        "en": "Daniella Marques",
-        "pt": "Daniella Marques"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "pt",
-          "term": "Daniella Marques",
-          "volume": 3380
-        }
-      ],
-      "newsUrls": [],
-      "spike": 0,
-      "score": 46,
-      "decision": "reject",
-      "reasons": [
-        "only 2 Wikipedia editions (needs 5)",
+        "only 1 Wikipedia editions (needs 5)",
         "no matching site category",
         "pageview spike 0.0x is below 2x"
       ],
@@ -23835,6 +23688,42 @@
         "only 1 Wikipedia editions (needs 5)",
         "no matching site category",
         "pageview spike 1.2x is below 2x"
+      ],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q2642282",
+      "name": "Alexander Hold",
+      "description": "German actor and judge and politician",
+      "category": "artists",
+      "occupations": [
+        "actor",
+        "judge",
+        "writer",
+        "politician"
+      ],
+      "birthYear": 1962,
+      "deathYear": null,
+      "sitelinks": 2,
+      "wikipedia": {
+        "de": "Alexander Hold",
+        "no": "Alexander Hold"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "de",
+          "term": "Alexander Hold",
+          "volume": 3631
+        }
+      ],
+      "newsUrls": [],
+      "spike": 0,
+      "score": 46,
+      "decision": "reject",
+      "reasons": [
+        "only 2 Wikipedia editions (needs 5)",
+        "pageview spike 0.0x is below 2x"
       ],
       "onSite": false
     },
