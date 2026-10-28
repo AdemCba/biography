@@ -1,7 +1,9 @@
 {
   "id": "dette-taux-5-pourcent-france-2026",
   "people": [],
-  "trendingIn": ["FR"],
+  "trendingIn": [
+    "FR"
+  ],
   "wikidata": "Q142",
   "sources": [
     {
@@ -22,5 +24,12 @@
       "accessed": "2026-10-28",
       "lang": "fr"
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/topics/dette-taux-5-pourcent-france-2026.jpg",
+    "alt": "Taux de la dette à 5 % : pourquoi l'alerte touche les crédits immobiliers",
+    "credit": "Pierre Blaché from Paris, France",
+    "license": "CC0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paris_from_the_Arc_de_Triomphe,_17_October_2019.jpg"
+  }
 }

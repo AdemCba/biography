@@ -1,7 +1,9 @@
 {
   "id": "exportaciones-mexico-septiembre-2026",
   "people": [],
-  "trendingIn": ["MX"],
+  "trendingIn": [
+    "MX"
+  ],
   "wikidata": "Q96",
   "sources": [
     {
@@ -22,5 +24,12 @@
       "accessed": "2026-10-28",
       "lang": "es"
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/topics/exportaciones-mexico-septiembre-2026.png",
+    "alt": "Exportaciones de México crecen casi 38 % en septiembre, pero hay déficit",
+    "credit": "Wikimedia Commons",
+    "license": "CC BY-SA 2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:States_of_Mexico.svg"
+  }
 }
