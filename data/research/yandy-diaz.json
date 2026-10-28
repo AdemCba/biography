@@ -1,0 +1,70 @@
+{
+  "worthWriting": true,
+  "reason": "Rays designated hitter with a 2026 All-Star season and a postseason story covered by the Tampa Bay Times on 27 Oct 2026. Official MLB and Rays pages back the career facts.",
+  "wikidata": "",
+  "importance": 3,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "mlb-player-650490",
+      "url": "https://www.mlb.com/player/650490",
+      "title": "Yandy Díaz Stats, Age, Position, Height, Weight, Fantasy & News",
+      "publisher": "MLB",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "mlb-rays-roster",
+      "url": "https://www.mlb.com/rays/roster",
+      "title": "Tampa Bay Rays Roster",
+      "publisher": "MLB",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "mlb-news-alds-2026",
+      "url": "https://www.mlb.com/news/yandy-diaz-jonathan-aranda-junior-caminero-rays-offense-alds-2026",
+      "title": "Yandy Díaz, Jonathan Aranda, Junior Caminero catalysts for Rays' offense",
+      "publisher": "MLB",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "tampa-bay-times-steak",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/27/yandy-diaz-t-shirt-tomahawk-steak-chandler-simpson-catch-junior-caminero-drew-rasmussen/",
+      "title": "Yandy Diaz's postseason steak eating gets the T-shirt treatment",
+      "publisher": "Tampa Bay Times",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1991-08-08",
+      "sources": [
+        "mlb-player-650490"
+      ],
+      "note": "MLB player profile. ESPN and Wikipedia list the same date in search snippets only."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Sagua la Grande, Cuba",
+      "sources": [
+        "mlb-player-650490"
+      ],
+      "note": "MLB player profile. Search snippets from ESPN give Villa Clara, Cuba (the province), so the MLB wording is used."
+    },
+    "nationality": null
+  },
+  "targetQueries": [
+    "yandy diaz",
+    "yandy diaz steak",
+    "yandy diaz t-shirt",
+    "yandy diaz rays",
+    "yandy diaz stats 2026",
+    "yandy diaz age",
+    "yandy diaz all-star",
+    "yandy diaz birthplace"
+  ],
+  "gapNote": "Most results for the name are stat pages and fantasy sites. The steak and T-shirt story is the reason people search now, so the page can explain it with the Times report and place Díaz's Rays career and awards next to it with official MLB data. Nationality is not stated on any opened page and is left out."
+}

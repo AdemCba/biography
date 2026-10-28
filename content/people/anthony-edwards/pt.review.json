@@ -1,0 +1,226 @@
+{
+  "date": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Minnesota took Edwards first overall in the 2020 NBA draft",
+      "sourceIds": [
+        "cbs-edwards-draft",
+        "nba-edwards-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "CBS: No. 1 overall pick, Minnesota. NBA.com: 2020, round 1, pick 1."
+    },
+    {
+      "claim": "Born 5 August 2001; age 25 on 28 October 2026",
+      "sourceIds": [
+        "nba-edwards-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com lists birth date August 5, 2001 (age 25)."
+    },
+    {
+      "claim": "Height 6 ft 4 in (1.93 m)",
+      "sourceIds": [
+        "nba-edwards-profile",
+        "bbref-edwards"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com 6'4\" (1.93 m); Basketball-Reference 6-4 (193 cm)."
+    },
+    {
+      "claim": "Wears No. 5",
+      "sourceIds": [
+        "nba-edwards-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com jersey #5."
+    },
+    {
+      "claim": "Stayed in home state to attend University of Georgia; SEC Freshman of the Year; signed Wolves contract 29 Nov 2020",
+      "sourceIds": [
+        "cbs-edwards-draft",
+        "nba-edwards-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "CBS: stayed in home state to attend Georgia. NBA.com bio: 'Voted SEC Freshman of the Year by league coaches'; 'Signed a multi-year contract with the Wolves on Nov. 29, 2020'."
+    },
+    {
+      "claim": "CBS draft grade quotes: natural shooting guard; 'best trait by far is his overall scoring'; 'sophisticated individual shot-creator'; 'not a great college player'; 'criticized for his inconsistent motor'",
+      "sourceIds": [
+        "cbs-edwards-draft"
+      ],
+      "verdict": "confirmed",
+      "note": "All quoted lines appear in the CBS article. Draft-night size 6-5 with 6-9 wingspan also confirmed."
+    },
+    {
+      "claim": "WSB-TV: Therrell High School, then Holy Spirit Prep; grew up in Oakland City; Atlanta native",
+      "sourceIds": [
+        "wsbtv-edwards-team-usa-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "WSB-TV article states all three."
+    },
+    {
+      "claim": "Season scoring 2020-21 to 2025-26 (19.3, 21.3, 24.6, 25.9, 27.6, 28.8); 61 games in 2025-26; 72 in 2020-21",
+      "sourceIds": [
+        "bbref-edwards"
+      ],
+      "verdict": "confirmed",
+      "note": "Basketball-Reference per-game table matches each figure and game count."
+    },
+    {
+      "claim": "Rebounds 4.7 to 5.8; assists 2.9 rising to peak 5.1 in 2023-24",
+      "sourceIds": [
+        "bbref-edwards"
+      ],
+      "verdict": "confirmed",
+      "note": "Table: RPG 4.7-5.8, APG 2.9 to 5.1 (2023-24)."
+    },
+    {
+      "claim": "2026-27: 33.3 points per game after four games; game log 45 at MIA (21 Oct), 15 at ORL (23 Oct), 26 vs TOR (25 Oct), 47 in 41 min at CLE (26 Oct, L)",
+      "sourceIds": [
+        "bbref-edwards",
+        "nba-edwards-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "bbref: 2026-27 G=4, PPG 33.3. NBA.com game log matches each line."
+    },
+    {
+      "claim": "Four All-Star selections, one All-Star Game MVP, two All-NBA, one All-Rookie, three Player of the Week, one Olympic gold",
+      "sourceIds": [
+        "nba-edwards-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com totals match."
+    },
+    {
+      "claim": "Basketball-Reference dating: All-Star 2022-23 to 2025-26; ASG MVP 2025-26; All-NBA 2023-24 and 2024-25; All-Rookie 2020-21",
+      "sourceIds": [
+        "bbref-edwards"
+      ],
+      "verdict": "confirmed",
+      "note": "Season award notes match."
+    },
+    {
+      "claim": "First Player of the Week award dated 13 November 2023",
+      "sourceIds": [
+        "nba-edwards-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com bio: first POW 'on Nov. 13, 2023'."
+    },
+    {
+      "claim": "Won 2026 All-Star Game MVP on 15 Feb 2026; first of career; 10 of 14 votes; 32 pts, 9 reb, 3 ast, six 3PM, 24 min",
+      "sourceIds": [
+        "fox9-edwards-allstar-mvp-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "FOX 9 dated 15 Feb 2026; 10 of 14 votes; 32/9/3/six 3PM/24 min."
+    },
+    {
+      "claim": "April 2024: among 11 players selected for the Paris roster, one spot open",
+      "sourceIds": [
+        "fox9-edwards-usa-2024-roster"
+      ],
+      "verdict": "confirmed",
+      "note": "FOX 9 dated 15 Apr 2024, 11 players selected, one spot open."
+    },
+    {
+      "claim": "Roster names Curry, Durant, Leonard; coach Steve Kerr",
+      "sourceIds": [
+        "wsbtv-edwards-team-usa-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "WSB-TV dated 18 Apr 2024 names Curry, Durant, Leonard; Kerr coaching."
+    },
+    {
+      "claim": "Olympic gold: 17th overall and fifth straight for the US men's team",
+      "sourceIds": [
+        "nba-edwards-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com bio: 'a 17th overall, and fifth-straight, gold medal'."
+    },
+    {
+      "claim": "2023 extension: five years, $260M, from 2024-25, reported 3 July 2023 via The Athletic; base $207M per agent Bill Duffy; supermax if All-NBA",
+      "sourceIds": [
+        "cbs-news-edwards-extension-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "CBS News Minnesota dated July 3, 2023; terms as stated."
+    },
+    {
+      "claim": "Extension signed 8 July 2023",
+      "sourceIds": [
+        "nba-edwards-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com bio: 'Signed multi-year contract extension ... on July 8, 2023'."
+    },
+    {
+      "claim": "Finch Dec 2024: right play about 80% of the time; about 50% a year earlier",
+      "sourceIds": [
+        "si-finch-edwards-decisions-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "SI dated 11 Dec 2024; quotes match."
+    },
+    {
+      "claim": "Finch Aug 2026: Edwards used as point guard 'a disservice'; return to natural position off the ball; double teams in playoffs",
+      "sourceIds": [
+        "bleacher-finch-edwards-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Bleacher Report dated 6 Aug 2026; quotes match."
+    },
+    {
+      "claim": "Timberwolves reached Western Conference finals in 2024 for the first time since 2004",
+      "sourceIds": [
+        "resident-wolves-wcf-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Headline states it; the page itself gives no date beyond the URL (2024/05/22). Date matches the URL."
+    },
+    {
+      "claim": "26 April 2026 AP: bone bruise, hyperextended left knee in Game 4 vs Denver, 'remained structurally intact', 'likely to miss multiple weeks', ESPN and The Athletic first reported",
+      "sourceIds": [
+        "ap-edwards-knee-2026-04"
+      ],
+      "verdict": "confirmed",
+      "note": "AP story dated 26 Apr 2026 contains each element."
+    },
+    {
+      "claim": "Roundtable: team called him week-to-week; 4 Oct 2026 report of about two months away, treatment got him back, now feels great",
+      "sourceIds": [
+        "roundtable-edwards-summer-break-2026-10"
+      ],
+      "verdict": "confirmed",
+      "note": "Roundtable dated 4 Oct 2026; week-to-week stated; article does not name the treatment."
+    },
+    {
+      "claim": "26 Oct 2026: questionable, then available for Cleveland; 27 Oct: questionable for Wednesday vs Golden State; surgery report (right knee, up to two months, Shams Charania)",
+      "sourceIds": [
+        "nba-edwards-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Injury log timestamps and text match."
+    },
+    {
+      "claim": "Basketball-Reference carries the surgery report, dated 28 October",
+      "sourceIds": [
+        "bbref-edwards"
+      ],
+      "verdict": "confirmed",
+      "note": "Injury note dated October 28 (2026)."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds the 2026-27 game log, sourced contract terms, dated coach quotes and an explicit account of the April and October knee reports, including the unreconciled left/right discrepancy. The top results lack these.",
+  "decision": "approve",
+  "summary": "Todas as afirmações citadas foram conferidas nas fontes abertas; a divergência esquerdo/direito é sinalizada, não resolvida."
+}

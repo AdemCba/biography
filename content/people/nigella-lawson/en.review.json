@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "[en] Born 6 January 1960 in London",
+      "sourceIds": [
+        "wikidata-nigella"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened the cited source(s) with WebFetch on 2026-10-28 and found the claim matches."
+    },
+    {
+      "claim": "[en] Nationality: United Kingdom (GB)",
+      "sourceIds": [
+        "wikidata-nigella"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened the cited source(s) with WebFetch on 2026-10-28 and found the claim matches."
+    },
+    {
+      "claim": "[en] How To Eat (1998) was her first cookbook",
+      "sourceIds": [
+        "gfw-nigella-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened the cited source(s) with WebFetch on 2026-10-28 and found the claim matches."
+    },
+    {
+      "claim": "[en] Feast: Food to Celebrate Life published 2005",
+      "sourceIds": [
+        "foodnetwork-nigella-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened the cited source(s) with WebFetch on 2026-10-28 and found the claim matches."
+    },
+    {
+      "claim": "[en] Nigella Feasts on Food Network from fall 2006; Nigella Express from fall 2007",
+      "sourceIds": [
+        "foodnetwork-nigella-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened the cited source(s) with WebFetch on 2026-10-28 and found the claim matches."
+    },
+    {
+      "claim": "[en] Nigella Kitchen published by Hyperion, October 2010",
+      "sourceIds": [
+        "foodnetwork-nigella-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened the cited source(s) with WebFetch on 2026-10-28 and found the claim matches."
+    },
+    {
+      "claim": "[en] Booker Prize judge 1998; Samuel Johnson Prize chair 2000",
+      "sourceIds": [
+        "gfw-nigella-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened the cited source(s) with WebFetch on 2026-10-28 and found the claim matches."
+    },
+    {
+      "claim": "[en] Best Food Personality (Observer Food Monthly, 2014); TV Personality of the Year (Fortnum & Mason, 2016)",
+      "sourceIds": [
+        "gfw-nigella-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened the cited source(s) with WebFetch on 2026-10-28 and found the claim matches."
+    },
+    {
+      "claim": "[en] British Book Awards Author of the Year: 2000 (Guild) versus 2001 (Food Network), disputed and both given",
+      "sourceIds": [
+        "gfw-nigella-profile",
+        "foodnetwork-nigella-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened the cited source(s) with WebFetch on 2026-10-28 and found the claim matches."
+    },
+    {
+      "claim": "[en] Elected Fellow of the Royal Society of Literature, 2026; one of 22 new Fellows",
+      "sourceIds": [
+        "wikidata-nigella",
+        "jaylit-rsl-fellows-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened the cited source(s) with WebFetch on 2026-10-28 and found the claim matches."
+    },
+    {
+      "claim": "[en] Channel 4 and Love Productions announced 26 January 2026; Prue Leith left after nine series",
+      "sourceIds": [
+        "ch4-press-bake-off-judge"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened the cited source(s) with WebFetch on 2026-10-28 and found the claim matches."
+    },
+    {
+      "claim": "[en] Channel 4 release quotes: expertise, empathy and humour; great dames both; two great British icons; Ralph Lee quote",
+      "sourceIds": [
+        "ch4-press-bake-off-judge"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened the cited source(s) with WebFetch on 2026-10-28 and found the claim matches."
+    },
+    {
+      "claim": "[en] Show produced by Love Productions for Channel 4",
+      "sourceIds": [
+        "ch4-press-bake-off-judge"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened the cited source(s) with WebFetch on 2026-10-28 and found the claim matches."
+    },
+    {
+      "claim": "[en] Irish News round-up dated 23 September 2026; Telegraph five stars; Guardian five stars; Radio Times praise; Independent glamour",
+      "sourceIds": [
+        "irish-news-review"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened the cited source(s) with WebFetch on 2026-10-28 and found the claim matches."
+    },
+    {
+      "claim": "[en] Oxford Mail (Yahoo) 27 October 2026: about 7.1 million viewers; Strictly 6.2 million; Broadcasters' Audience Research Board; headline",
+      "sourceIds": [
+        "oxford-mail-bake-off-ratings"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened the cited source(s) with WebFetch on 2026-10-28 and found the claim matches."
+    },
+    {
+      "claim": "[en] Oxford Mail describes her as 66-year-old",
+      "sourceIds": [
+        "oxford-mail-bake-off-ratings"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened the cited source(s) with WebFetch on 2026-10-28 and found the claim matches."
+    },
+    {
+      "claim": "[en] Penguin Random House: bestselling titles and New York Times contributor",
+      "sourceIds": [
+        "prh-nigella-lawson"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened the cited source(s) with WebFetch on 2026-10-28 and found the claim matches."
+    },
+    {
+      "claim": "[en] Penguin UK lists At My Table, Eating, Simply Nigella, Nigellissima",
+      "sourceIds": [
+        "penguin-uk"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened the cited source(s) with WebFetch on 2026-10-28 and found the claim matches."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds dated career milestones from the Guild of Food Writers profile, the Food Network talent bio and Wikidata, and states the disputed British Book Awards year with both sources.",
+  "decision": "approve",
+  "summary": "English version: every checked claim matches its opened source; the disputed British Book Awards year is given with both sources."
+}

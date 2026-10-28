@@ -1,0 +1,80 @@
+{
+  "worthWriting": true,
+  "reason": "Global NBA star with official NBA.com profile, draft record, and dated press coverage of his 2026 knee absences. Injury coverage kept to sourced sports news.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "nba-edwards-profile",
+      "url": "https://www.nba.com/player/1630162/anthony-edwards",
+      "title": "Anthony Edwards | NBA.com player profile",
+      "publisher": "NBA",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "cbs-edwards-draft",
+      "url": "https://www.cbssports.com/nba/news/2020-nba-draft-timberwolves-select-anthony-edwards-with-no-1-overall-pick",
+      "title": "2020 NBA Draft grade: Timberwolves select Anthony Edwards with No. 1 overall pick",
+      "publisher": "CBS Sports",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "ap-edwards-knee-2026-04",
+      "url": "https://wtop.com/sports/2026/04/wolves-anthony-edwards-has-bone-bruise-in-left-knee-ap-source-says-hes-likely-to-miss-weeks/",
+      "title": "Wolves' Anthony Edwards has bone bruise in left knee and is likely to miss weeks, AP source says",
+      "publisher": "The Associated Press via WTOP",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "roundtable-edwards-summer-break-2026-10",
+      "url": "https://roundtable.io/sports/nba/timberwolves/news/anthony-edwards-gives-insight-into-two-month-offseason-break-from-basketball",
+      "title": "Anthony Edwards Gives Insight Into Two-Month Offseason Break From Basketball",
+      "publisher": "Roundtable",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "wsbtv-edwards-team-usa-2024",
+      "url": "https://www.wsbtv.com/news/local/atlanta-native-anthony-edwards-named-team-usa-roster/TNVIUPK26RFGTHNFPNVTYDZMQ4/",
+      "title": "Atlanta native Anthony Edwards named to USA Basketball roster for Paris Olympics",
+      "publisher": "WSB-TV",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "2001-08-05",
+      "sources": [
+        "nba-edwards-profile"
+      ],
+      "note": "NBA.com profile lists birth date August 5, 2001. Birthplace is not stated there."
+    },
+    "deathDate": null,
+    "birthPlace": null,
+    "nationality": {
+      "value": "US",
+      "sources": [
+        "wsbtv-edwards-team-usa-2024"
+      ],
+      "note": "No source states nationality in words. Inferred from Team USA selection and Atlanta background. Use only with care."
+    }
+  },
+  "targetQueries": [
+    "Anthony Edwards knee injury",
+    "How old is Anthony Edwards",
+    "Anthony Edwards height",
+    "Anthony Edwards Timberwolves contract",
+    "Anthony Edwards draft pick 2020",
+    "Anthony Edwards college",
+    "Anthony Edwards Team USA Olympics",
+    "Anthony Edwards All-Star",
+    "Anthony Edwards jersey number",
+    "Anthony Edwards Timberwolves injury update"
+  ],
+  "gapNote": "Top results mix Wikipedia and low-quality aggregator pages with unsourced age, height and net worth. The official NBA.com record plus dated AP and team-season coverage lets us give a clean timeline. The ESPN article linked as the trigger could not be loaded; the 2026-10-27 surgery report is taken from the NBA.com profile, which relays ESPN's Shams Charania. Birthplace and net worth are not sourced and are left out."
+}

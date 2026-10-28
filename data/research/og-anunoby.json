@@ -1,0 +1,95 @@
+{
+  "worthWriting": true,
+  "reason": "Current NBA starter with a 2026 title and two All-Defensive selections; NBA.com and Basketball-Reference cover the career facts, and the SI piece covers the early-season playmaking story.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "nba-bio",
+      "url": "https://www.nba.com/player/1628384/og-anunoby/bio",
+      "title": "OG Anunoby bio",
+      "publisher": "NBA.com",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "nba-all-defensive-2023",
+      "url": "https://www.nba.com/news/2022-23-all-defensive-teams-announced",
+      "title": "2022-23 All-Defensive Teams announced",
+      "publisher": "NBA.com",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "nba-all-defensive-2026",
+      "url": "https://www.nba.com/news/2025-26-all-defensive-teams-announced",
+      "title": "2025-26 All-Defensive Teams announced",
+      "publisher": "NBA.com",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "nba-finals-2026",
+      "url": "https://www.nba.com/news/live-updates-2026-nba-finals-game-5-knicks-seek-first-title-since-1973",
+      "title": "Live updates: 2026 NBA Finals Game 5, Knicks seek first title since 1973",
+      "publisher": "NBA.com",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "br-anunoby",
+      "url": "https://www.basketball-reference.com/players/a/anunoog01.html",
+      "title": "OG Anunoby Stats, Height, Weight, Position",
+      "publisher": "Basketball-Reference",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "si-early-season",
+      "url": "https://www.si.com/nba/knicks/onsi/og-anunoby-showing-knicks-exciting-new-side-him-early-on-01m5rh6cm0cb",
+      "title": "OG Anunoby Is Showing Knicks an Exciting New Side of Him Early On",
+      "publisher": "Sports Illustrated (SI Knicks On SI)",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1997-07-17",
+      "sources": [
+        "nba-bio",
+        "br-anunoby"
+      ],
+      "note": ""
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "London, United Kingdom",
+      "sources": [
+        "br-anunoby"
+      ],
+      "note": "Wikipedia gives Harlesden, London; not used as a citation."
+    },
+    "nationality": {
+      "value": "GB",
+      "sources": [
+        "nba-bio"
+      ],
+      "note": "NBA.com lists country as United Kingdom. No source here states nationality in words."
+    }
+  },
+  "targetQueries": [
+    "OG Anunoby age",
+    "OG Anunoby height",
+    "Where is OG Anunoby from",
+    "Is OG Anunoby British",
+    "OG Anunoby college",
+    "OG Anunoby NBA championship",
+    "OG Anunoby All-Defensive team",
+    "OG Anunoby Knicks",
+    "OG Anunoby stats",
+    "OG Anunoby draft"
+  ],
+  "gapNote": "The SI piece says Anunoby has been a more active passer early in the 2026-27 season (highest passing rate in two years against Boston), with a named columnist's view on his playmaking. Official bio pages give only career facts, so the page can add the early-season role with that sourced context. Search Console data was not available; the query list is inferred from the topic."
+}

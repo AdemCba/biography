@@ -1,0 +1,154 @@
+{
+  "id": "anthony-edwards",
+  "name": "Anthony Edwards",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "2001-08-05",
+      "sources": [
+        "nba-edwards-profile"
+      ],
+      "note": "NBA.com profile lists birth date August 5, 2001. Birthplace is not stated there."
+    },
+    "birthPlace": {
+      "value": "Atlanta, Georgia",
+      "sources": [
+        "bbref-edwards"
+      ],
+      "note": "Basketball-Reference lists the birthplace as Atlanta, Georgia."
+    },
+    "nationality": {
+      "value": [
+        "US"
+      ],
+      "sources": [
+        "wsbtv-edwards-team-usa-2024"
+      ],
+      "note": "No source states nationality in words. Inferred from Team USA selection and Atlanta background. Use only with care."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "nba-edwards-profile",
+      "url": "https://www.nba.com/player/1630162/anthony-edwards",
+      "title": "Anthony Edwards | NBA.com player profile",
+      "publisher": "NBA",
+      "type": "official",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "cbs-edwards-draft",
+      "url": "https://www.cbssports.com/nba/news/2020-nba-draft-timberwolves-select-anthony-edwards-with-no-1-overall-pick",
+      "title": "2020 NBA Draft grade: Timberwolves select Anthony Edwards with No. 1 overall pick",
+      "publisher": "CBS Sports",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "ap-edwards-knee-2026-04",
+      "url": "https://wtop.com/sports/2026/04/wolves-anthony-edwards-has-bone-bruise-in-left-knee-ap-source-says-hes-likely-to-miss-weeks/",
+      "title": "Wolves' Anthony Edwards has bone bruise in left knee and is likely to miss weeks, AP source says",
+      "publisher": "The Associated Press via WTOP",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "roundtable-edwards-summer-break-2026-10",
+      "url": "https://roundtable.io/sports/nba/timberwolves/news/anthony-edwards-gives-insight-into-two-month-offseason-break-from-basketball",
+      "title": "Anthony Edwards Gives Insight Into Two-Month Offseason Break From Basketball",
+      "publisher": "Roundtable",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "wsbtv-edwards-team-usa-2024",
+      "url": "https://www.wsbtv.com/news/local/atlanta-native-anthony-edwards-named-team-usa-roster/TNVIUPK26RFGTHNFPNVTYDZMQ4/",
+      "title": "Atlanta native Anthony Edwards named to USA Basketball roster for Paris Olympics",
+      "publisher": "WSB-TV",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "bbref-edwards",
+      "url": "https://www.basketball-reference.com/players/e/edwaran01.html",
+      "title": "Anthony Edwards Stats | Basketball-Reference.com",
+      "publisher": "Basketball-Reference.com",
+      "type": "database",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "nba-edwards-bio",
+      "url": "https://www.nba.com/player/1630162/bio",
+      "title": "Anthony Edwards | NBA.com player biography",
+      "publisher": "NBA",
+      "type": "official",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "fox9-edwards-allstar-mvp-2026",
+      "url": "https://www.fox9.com/sports/anthony-edwards-wins-nba-all-star-game-mvp",
+      "title": "Timberwolves' Anthony Edwards wins NBA All-Star Game MVP",
+      "publisher": "FOX 9 Minneapolis-St. Paul",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "fox9-edwards-usa-2024-roster",
+      "url": "https://www.fox9.com/sports/anthony-edwards-usa-basketball-2024-summer-olympics-paris",
+      "title": "Anthony Edwards to play for Team USA at 2024 Summer Olympics",
+      "publisher": "FOX 9 Minneapolis-St. Paul",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "cbs-news-edwards-extension-2023",
+      "url": "https://www.cbsnews.com/amp/minnesota/news/anthony-edwards-reported-contract-extension-timberwolves",
+      "title": "Anthony Edwards reportedly agrees to 5-year, $260M extension with Timberwolves",
+      "publisher": "CBS News Minnesota",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "si-finch-edwards-decisions-2024",
+      "url": "https://www.si.com/nba/timberwolves/minnesota-timberwolves-news/chris-finch-shines-light-on-anthony-edwards-growth-in-late-game-decisions-01jevxkfs3rz",
+      "title": "Chris Finch shines light on Anthony Edwards' growth in late-game decisions",
+      "publisher": "Sports Illustrated",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "bleacher-finch-edwards-2026",
+      "url": "https://www.bleacherreport.com/articles/25465740-chris-finch-explains-how-t-wolves-did-anthony-edwards-disservice-lamelo-ball-trade-will-help",
+      "title": "Chris Finch explains how T-Wolves did Anthony Edwards a disservice",
+      "publisher": "Bleacher Report",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "resident-wolves-wcf-2024",
+      "url": "https://resident.com/sports-and-entertainment/2024/05/22/timberwolves-stage-historic-comeback-to-reach-western-conference-finals-for-first-time-since-2004",
+      "title": "Timberwolves Stage Historic Comeback to Reach Western Conference Finals for First Time since 2004",
+      "publisher": "The Resident",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    }
+  ]
+}

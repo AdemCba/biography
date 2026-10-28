@@ -1,0 +1,88 @@
+{
+  "worthWriting": true,
+  "reason": "Global film and stage star with a 2026 announcement (Ridley Scott's Treasure Island, Sony, 11 Nov 2027) that is covered by Variety and other trade outlets. Career facts are backed by an award body (Golden Globes), Playbill and Biography.com.",
+  "wikidata": "",
+  "importance": 5,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "golden-globes-jackman",
+      "url": "https://www.goldenglobes.com/person/hugh-jackman/",
+      "title": "Hugh Jackman - Golden Globes",
+      "publisher": "Hollywood Foreign Press Association (Golden Globes)",
+      "type": "award-body",
+      "lang": "en"
+    },
+    {
+      "id": "playbill-2004-tony-winners",
+      "url": "https://playbill.com/article/wife-avenue-q-assassins-henry-iv-are-2004-tony-award-winners-mays-menzel-jackman-rashad-golden-com-120130",
+      "title": "Wife, Avenue Q, Assassins, Henry IV Are 2004 Tony Award Winners; Mays, Menzel, Jackman, Rashad Golden",
+      "publisher": "Playbill",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "biography-hugh-jackman",
+      "url": "https://www.biography.com/actors/hugh-jackman",
+      "title": "Hugh Jackman Biography",
+      "publisher": "Biography.com (A&E Networks)",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "variety-au-treasure-island-cast",
+      "url": "https://au.variety.com/2026/film/news/hugh-jackman-treasure-island-movie-ridley-scott-jack-thorne-37419/",
+      "title": "Hugh Jackman to Play Pirate Long John Silver in 'Treasure Island' Movie Directed by Ridley Scott",
+      "publisher": "Variety (Australia)",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "variety-au-treasure-island-release",
+      "url": "https://au.variety.com/2026/film/news/24-jump-street-hugh-jackman-treasure-island-release-dates-40874/",
+      "title": "24 Jump Street, Hugh Jackman's Treasure Island Remake Get 2027 Release Dates",
+      "publisher": "Variety (Australia)",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1968-10-12",
+      "sources": [
+        "biography-hugh-jackman"
+      ],
+      "note": "Biography.com: 'Hugh Michael Jackman was born on October 12, 1968, in Sydney, Australia.'"
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Sydney, Australia",
+      "sources": [
+        "biography-hugh-jackman"
+      ],
+      "note": "Same sentence as birthDate."
+    },
+    "nationality": {
+      "value": "AU",
+      "sources": [
+        "biography-hugh-jackman"
+      ],
+      "note": "Biography.com: 'Australian actor and producer Hugh Jackman is best known for playing Wolverine in the X-Men film franchise.'"
+    }
+  },
+  "targetQueries": [
+    "hugh jackman",
+    "hugh jackman age",
+    "where is hugh jackman from",
+    "hugh jackman treasure island",
+    "hugh jackman treasure island release date",
+    "hugh jackman movies",
+    "hugh jackman tony award",
+    "hugh jackman golden globe",
+    "hugh jackman boy from oz",
+    "hugh jackman wolverine",
+    "hugh jackman les miserables",
+    "hugh jackman musical"
+  ],
+  "gapNote": "Most fresh results are news roundups that mix up his role in Treasure Island (Long John Silver in Variety, Blackbeard in other reports) and state the release date without a studio release. The page can give a clear, sourced account of the film (role per Variety, Sony date per Variety, director and writer), his stage Tony (2004) and his Golden Globe (2013), and it avoids the unsourced relationship reports. Outlets also disagree on the year of his Emmy for hosting the Tonys (2004 vs 2005), so the page leaves it out."
+}

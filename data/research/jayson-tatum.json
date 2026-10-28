@@ -1,0 +1,75 @@
+{
+  "worthWriting": true,
+  "reason": "Current NBA starter for the Boston Celtics, 2024 NBA champion, multiple All-Star and All-NBA selections. Several primary and press sources opened and consistent on birth date and draft.",
+  "wikidata": "",
+  "importance": 5,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "yahoo-celtics-nets-buzzer-beater",
+      "url": "https://sports.yahoo.com/nba/breaking-news/article/jayson-tatum-lifts-celtics-past-nets-with-ot-buzzer-beater-after-brutal-mikel-brown-blunder-023957116.html",
+      "title": "Jayson Tatum lifts Celtics past Nets with OT buzzer-beater after brutal Mikel Brown blunder",
+      "publisher": "Yahoo Sports",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "nba-tatum-bio",
+      "url": "https://www.nba.com/player/1628369/jayson-tatum/bio",
+      "title": "Jayson Tatum bio",
+      "publisher": "NBA.com",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "celtics-all-nba-2025",
+      "url": "https://www.nba.com/celtics/news/press-release-20250523-jayson-tatum-named-to-2024-25-all-nba-first-team",
+      "title": "Jayson Tatum Named to 2024-25 All-NBA First Team",
+      "publisher": "Boston Celtics (NBA.com)",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "nbcs-boston-tatum-bio",
+      "url": "https://www.nbcsportsboston.com/nba/boston-celtics/who-is-jayson-tatum-a-complete-basketball-bio/342841/",
+      "title": "Who is Jayson Tatum? A complete basketball bio",
+      "publisher": "NBC Sports Boston",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "nba-usa-roster-2024",
+      "url": "https://www.nba.com/news/usa-basketball-2024-olympics-roster",
+      "title": "LeBron James, Kevin Durant lead USA Basketball's national team roster",
+      "publisher": "NBA.com",
+      "type": "league-or-federation",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1998-03-03",
+      "sources": [
+        "nba-tatum-bio",
+        "nbcs-boston-tatum-bio"
+      ],
+      "note": "Both pages state March 3, 1998."
+    },
+    "deathDate": null,
+    "birthPlace": null,
+    "nationality": null
+  },
+  "targetQueries": [
+    "how old is jayson tatum",
+    "jayson tatum height",
+    "jayson tatum stats",
+    "jayson tatum buzzer beater nets",
+    "jayson tatum championship",
+    "jayson tatum all-star",
+    "jayson tatum all-nba",
+    "jayson tatum duke",
+    "jayson tatum draft 2017",
+    "jayson tatum olympics"
+  ],
+  "gapNote": "Proposed from general search intent, not Search Console. Top results repeat stats that go stale; this page can date-stamp the Oct 27, 2026 overtime win and tie it to the record, using only facts from the opened sources. Birthplace and nationality left out because no opened source states them."
+}

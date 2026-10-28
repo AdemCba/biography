@@ -1,0 +1,259 @@
+{
+  "date": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 17 July 1997 in London, United Kingdom",
+      "sourceIds": [
+        "nba-bio",
+        "br-anunoby"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com gives July 17, 1997 and country United Kingdom; Basketball-Reference gives London, United Kingdom."
+    },
+    {
+      "claim": "Listed at 6-7 (2.01 m) and 240 lb (109 kg)",
+      "sourceIds": [
+        "nba-bio",
+        "br-anunoby"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com: 6'7 (2.01m), 240lb (109kg); Basketball-Reference: 6-7, 240lb."
+    },
+    {
+      "claim": "High school at Jefferson City High School in Missouri; Class 5 All-State; Mr. Basketball finalist",
+      "sourceIds": [
+        "nba-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com lists the school (MO) without years; the awards are listed without years."
+    },
+    {
+      "claim": "College basketball at Indiana",
+      "sourceIds": [
+        "nba-bio",
+        "br-anunoby"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the opened source."
+    },
+    {
+      "claim": "16 games in his last season at Indiana, limited by a knee injury that required surgery",
+      "sourceIds": [
+        "idsnews-draft-2017"
+      ],
+      "verdict": "confirmed",
+      "note": "Indiana Daily Student: 'limited to 16 games last season after sustaining a knee injury that required surgery'."
+    },
+    {
+      "claim": "Waited for his name at the draft on 22 June 2017; Toronto picked him 23rd in round 1",
+      "sourceIds": [
+        "idsnews-draft-2017",
+        "nba-bio",
+        "br-anunoby"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the opened source."
+    },
+    {
+      "claim": "Helped Toronto win the 2019 NBA championship",
+      "sourceIds": [
+        "nba-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com: 'Helped the Raptors win the 2019 NBA Championship'."
+    },
+    {
+      "claim": "Led the NBA in steals in 2022-23: 1.7 per game and 128 total",
+      "sourceIds": [
+        "nba-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com: led the NBA in steals per game (1.7) and total steals (128) in 2022-23."
+    },
+    {
+      "claim": "Named to the 2022-23 All-Defensive Second Team, alongside Bam Adebayo",
+      "sourceIds": [
+        "nba-all-defensive-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "The article lists Adebayo (Miami Heat center) and Anunoby (Toronto forward) on the second team."
+    },
+    {
+      "claim": "Named to the 2025-26 All-Defensive Second Team as a Knicks player",
+      "sourceIds": [
+        "nba-all-defensive-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Second Team listing: 'OG Anunoby, New York Knicks'."
+    },
+    {
+      "claim": "Toronto traded him to New York on 30 December 2023",
+      "sourceIds": [
+        "nba-trade-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com: announced Saturday, December 30, 2023."
+    },
+    {
+      "claim": "Knicks sent RJ Barrett, Immanuel Quickley and a 2024 second-round pick; received Anunoby, Malachi Flynn and Precious Achiuwa",
+      "sourceIds": [
+        "nba-trade-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the opened source."
+    },
+    {
+      "claim": "NBA.com: the Knicks gave up 'two of their top offensive players'; the deal should boost their defense; steals lead cited",
+      "sourceIds": [
+        "nba-trade-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote confirmed; the full sentence is longer than the quoted part."
+    },
+    {
+      "claim": "Anunoby was with Toronto before the trade (early seasons with the Raptors)",
+      "sourceIds": [
+        "nba-trade-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "The trade article confirms he moved from Toronto; it does not state the years."
+    },
+    {
+      "claim": "2025 NBA Cup final: Knicks 124, Spurs 113, 16 December 2025, T-Mobile Arena, Las Vegas",
+      "sourceIds": [
+        "nbc-nycup-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the opened source."
+    },
+    {
+      "claim": "Anunoby scored a game-high 28 points on 10 of 17 shooting, including 5 of 10 from three",
+      "sourceIds": [
+        "nbc-nycup-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the opened source."
+    },
+    {
+      "claim": "NBC New York: he 'chose a fantastic game to go above and beyond' (translated in non-English versions)",
+      "sourceIds": [
+        "nbc-nycup-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote confirmed; the non-English versions translate it."
+    },
+    {
+      "claim": "2026 Finals Game 5: Knicks 94-90 over San Antonio on 13 June 2026, in San Antonio; first title since 1973",
+      "sourceIds": [
+        "nba-finals-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the opened source."
+    },
+    {
+      "claim": "Series closed out in five games",
+      "sourceIds": [
+        "nba-finals-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com: 'closing out the Spurs in five games'."
+    },
+    {
+      "claim": "Jalen Brunson led the Knicks with 45 points in Game 5",
+      "sourceIds": [
+        "nba-finals-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com: 'led by Jalen Brunson (45 pts)'."
+    },
+    {
+      "claim": "Anunoby made one of two free throws, 'pushing it to a two-possession game'",
+      "sourceIds": [
+        "nba-finals-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the opened source."
+    },
+    {
+      "claim": "Sports Illustrated: highest passing rate game in two years against Boston",
+      "sourceIds": [
+        "si-early-season"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the opened source."
+    },
+    {
+      "claim": "Sports Illustrated: Anunoby typically ranks very low in passing among teammates and other players",
+      "sourceIds": [
+        "si-early-season"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the opened source."
+    },
+    {
+      "claim": "Sports Illustrated: passing turnover rate in the 14th percentile among wings at his position last season",
+      "sourceIds": [
+        "si-early-season"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the opened source."
+    },
+    {
+      "claim": "Sports Illustrated: nearly a triple-double in the loss to Boston; scoring not as hot as in the playoffs",
+      "sourceIds": [
+        "si-early-season"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the opened source."
+    },
+    {
+      "claim": "Sports Illustrated: right-hand dominant and has gotten better at drawing fouls",
+      "sourceIds": [
+        "si-early-season"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the opened source."
+    },
+    {
+      "claim": "Shaz Ally quote: 'I don't believe Anunoby will ever become a very impactful passer...'",
+      "sourceIds": [
+        "si-early-season"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote confirmed in the article by Shaz Ally."
+    },
+    {
+      "claim": "Pre-season talk about a possible All-Star year in 2026-27",
+      "sourceIds": [
+        "si-early-season"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the opened source."
+    },
+    {
+      "claim": "Wears number 8 for the Knicks; nine years of experience",
+      "sourceIds": [
+        "nba-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the opened source."
+    },
+    {
+      "claim": "Age 29 as of 28 October 2026 (from the 17 July 1997 birth date)",
+      "sourceIds": [
+        "nba-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic from the confirmed birth date."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Early-season passing angle with sourced Sports Illustrated detail, plus the NBA.com trade and steals context and the 2025 NBA Cup and 2026 Finals facts.",
+  "decision": "approve",
+  "summary": "All checked facts match the cited sources. Quotes in non-English versions are translations of confirmed English quotes."
+}

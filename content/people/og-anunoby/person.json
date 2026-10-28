@@ -1,0 +1,118 @@
+{
+  "id": "og-anunoby",
+  "name": "OG Anunoby",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1997-07-17",
+      "sources": [
+        "nba-bio",
+        "br-anunoby"
+      ]
+    },
+    "birthPlace": {
+      "value": "London, United Kingdom",
+      "sources": [
+        "br-anunoby"
+      ],
+      "note": "Wikipedia gives Harlesden, London; not used as a citation."
+    },
+    "nationality": {
+      "value": [
+        "GB"
+      ],
+      "sources": [
+        "nba-bio"
+      ],
+      "note": "NBA.com lists country as United Kingdom. No source here states nationality in words."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "nba-bio",
+      "url": "https://www.nba.com/player/1628384/og-anunoby/bio",
+      "title": "OG Anunoby bio",
+      "publisher": "NBA.com",
+      "type": "league-or-federation",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "nba-all-defensive-2023",
+      "url": "https://www.nba.com/news/2022-23-all-defensive-teams-announced",
+      "title": "2022-23 All-Defensive Teams announced",
+      "publisher": "NBA.com",
+      "type": "league-or-federation",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "nba-all-defensive-2026",
+      "url": "https://www.nba.com/news/2025-26-all-defensive-teams-announced",
+      "title": "2025-26 All-Defensive Teams announced",
+      "publisher": "NBA.com",
+      "type": "league-or-federation",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "nba-finals-2026",
+      "url": "https://www.nba.com/news/live-updates-2026-nba-finals-game-5-knicks-seek-first-title-since-1973",
+      "title": "Live updates: 2026 NBA Finals Game 5, Knicks seek first title since 1973",
+      "publisher": "NBA.com",
+      "type": "league-or-federation",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "br-anunoby",
+      "url": "https://www.basketball-reference.com/players/a/anunoog01.html",
+      "title": "OG Anunoby Stats, Height, Weight, Position",
+      "publisher": "Basketball-Reference",
+      "type": "database",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "si-early-season",
+      "url": "https://www.si.com/nba/knicks/onsi/og-anunoby-showing-knicks-exciting-new-side-him-early-on-01m5rh6cm0cb",
+      "title": "OG Anunoby Is Showing Knicks an Exciting New Side of Him Early On",
+      "publisher": "Sports Illustrated (SI Knicks On SI)",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "nba-trade-2023",
+      "url": "https://www.nba.com/news/raptors-knicks-trade-og-anunoby-rj-barrett",
+      "title": "Raptors-Knicks trade: OG Anunoby, RJ Barrett",
+      "publisher": "NBA.com",
+      "type": "league-or-federation",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "idsnews-draft-2017",
+      "url": "https://www.idsnews.com/article/2017/06/og-drafted",
+      "title": "OG drafted",
+      "publisher": "Indiana Daily Student",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "nbc-nycup-2025",
+      "url": "https://www.nbcnewyork.com/nba/knicks-spurs-nba-cup-final/6432073/?amp=1",
+      "title": "Knicks vs. Spurs NBA Cup final",
+      "publisher": "NBC New York",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    }
+  ]
+}

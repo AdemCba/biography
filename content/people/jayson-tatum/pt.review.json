@@ -1,0 +1,259 @@
+{
+  "date": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 3 March 1998",
+      "sourceIds": [
+        "nba-tatum-bio",
+        "nbcs-boston-tatum-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Both pages state March 3, 1998."
+    },
+    {
+      "claim": "6 feet 8 inches and 210 pounds, as listed in NBC Sports Boston's 2020 profile",
+      "sourceIds": [
+        "nbcs-boston-tatum-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Attributed to the 2020 profile, so no present-tense claim is made."
+    },
+    {
+      "claim": "Chaminade College Prep, Creve Coeur, Missouri; five-star recruit and No. 3 prospect; 2015-16 averages 29.6 points and 9.1 rebounds; 2016 Gatorade National Player of the Year and McDonald's All-American; committed to Duke in junior year",
+      "sourceIds": [
+        "nbcs-boston-tatum-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "All stated in the NBC bio."
+    },
+    {
+      "claim": "Duke 2016-17: 29 games, 16.8 points and 7.3 rebounds per game; ACC All-Freshman; third-team All-ACC; first team of the ACC Tournament",
+      "sourceIds": [
+        "nbcs-boston-tatum-bio",
+        "nba-tatum-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "NBC gives the averages and All-Freshman/third-team honours; NBA.com lists the ACC Tournament first team."
+    },
+    {
+      "claim": "Duke a No. 2 seed in the 2017 NCAA Tournament, lost in round two to No. 7 South Carolina; skipped sophomore season",
+      "sourceIds": [
+        "nbcs-boston-tatum-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the NBC bio."
+    },
+    {
+      "claim": "Boston took him third overall in 2017 after trading down with Philadelphia; the announcement quote",
+      "sourceIds": [
+        "nbcs-boston-tatum-bio",
+        "nba-tatum-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com: 2017 R1 Pick 3. NBC gives the trade-down, the Markelle Fultz detail and the announcement wording."
+    },
+    {
+      "claim": "Rookie season 13.9 points, 5.0 rebounds, 1.6 assists; Boston No. 2 seed in the East",
+      "sourceIds": [
+        "nbcs-boston-tatum-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the NBC bio."
+    },
+    {
+      "claim": "2018 playoffs 18.5 points and 4.4 rebounds over three series; Game 7 against Cleveland posterized LeBron James",
+      "sourceIds": [
+        "nbcs-boston-tatum-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the NBC bio."
+    },
+    {
+      "claim": "2018-19 averages 15.7 points, 6.0 rebounds, 2.1 assists",
+      "sourceIds": [
+        "nbcs-boston-tatum-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the NBC bio."
+    },
+    {
+      "claim": "All-Rookie First Team 2018; Skills Challenge 2019; first All-Star selection 2020; 39 points in double-overtime win over the Clippers shortly before the All-Star game",
+      "sourceIds": [
+        "nbcs-boston-tatum-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "All stated in the NBC bio (dated February 2020)."
+    },
+    {
+      "claim": "Led the Celtics to the 2024 NBA championship; Celtics averaged team-highs in playoff points, rebounds and assists",
+      "sourceIds": [
+        "nba-tatum-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com bio wording matches."
+    },
+    {
+      "claim": "2023-24: third straight All-NBA First Team, fifth career All-NBA honour, fifth All-Star game; Player of the Month more than once including October/November and February; four career monthly honours",
+      "sourceIds": [
+        "nba-tatum-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com bio states these."
+    },
+    {
+      "claim": "Named to the 2024-25 All-NBA First Team",
+      "sourceIds": [
+        "celtics-all-nba-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Official Celtics release headline states it."
+    },
+    {
+      "claim": "Listed among the Eastern Conference starters for the 2025 All-Star Game",
+      "sourceIds": [
+        "nba-allstar-2025-reserves"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com article (updated 4 February 2025) lists Tatum under Eastern Conference starters."
+    },
+    {
+      "claim": "knownFor: 2024 champion and multiple-time All-Star",
+      "sourceIds": [
+        "nba-tatum-bio",
+        "nba-allstar-2025-reserves"
+      ],
+      "verdict": "confirmed",
+      "note": "Changed from five-time, which the 2025 starter listing makes out of date."
+    },
+    {
+      "claim": "Game 5 win over Dallas 106-88 and the series; 18th franchise title breaking tie with Lakers for most titles",
+      "sourceIds": [
+        "nba-finals-game5-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Score, 18th title and Lakers tie-break stated. The calendar date of Game 5 is not stated in the source and is left out of the body."
+    },
+    {
+      "claim": "Tatum 31 points, 11 assists, eight rebounds in Game 5; Jaylen Brown 21 points and Finals MVP",
+      "sourceIds": [
+        "nba-finals-game5-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Stat lines and MVP stated."
+    },
+    {
+      "claim": "Ruptured right Achilles in the 2025 East semifinal against New York (Knicks)",
+      "sourceIds": [
+        "nba-achilles-surgery"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA.com: Game 4 of the East semifinal against the Knicks; the injury date is not stated and is not given in the body."
+    },
+    {
+      "claim": "Surgery on 13 May 2025",
+      "sourceIds": [
+        "nba-debut-mavs",
+        "nba-achilles-surgery"
+      ],
+      "verdict": "confirmed",
+      "note": "Both give the surgery date as 13 May 2025 (Tuesday)."
+    },
+    {
+      "claim": "Team said he was expected to make a full recovery with no timetable",
+      "sourceIds": [
+        "nba-achilles-surgery"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted wording matches."
+    },
+    {
+      "claim": "Returned in March 2026, 298 days after the operation; started against Dallas; 15 points, 12 rebounds, 7 assists; 120-100 home win",
+      "sourceIds": [
+        "nba-debut-mavs"
+      ],
+      "verdict": "confirmed",
+      "note": "Article states 298 days, the stat line and the score. The March date is taken from the article date and its 'Friday' reference."
+    },
+    {
+      "claim": "Coach Joe Mazzulla: 'We always knew he was coming back this year'; physician remark about not coming back to be a role player",
+      "sourceIds": [
+        "nba-debut-mavs"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes match the article."
+    },
+    {
+      "claim": "On the USA Basketball roster for Paris 2024, listed as Boston Celtics",
+      "sourceIds": [
+        "nba-usa-roster-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Roster line 'Jayson Tatum (Boston Celtics)'."
+    },
+    {
+      "claim": "Did not play in the opening win over Serbia; Kerr said he 'will play' against South Sudan and 'handled it well'",
+      "sourceIds": [
+        "nba-kerr-south-sudan"
+      ],
+      "verdict": "confirmed",
+      "note": "Article says Tatum did not play vs Serbia and quotes Kerr."
+    },
+    {
+      "claim": "USA Basketball reported a fifth straight Olympic men's gold medal in Paris",
+      "sourceIds": [
+        "usab-paris-2024-gold"
+      ],
+      "verdict": "confirmed",
+      "note": "Headline: 'Winning a Fifth-Straight Gold Medal at the Paris Olympics'. The page is dated 10 August 2024; the body does not give that date."
+    },
+    {
+      "claim": "FIBA team profile: USA 6-0 and first place; Tatum among per-game rebounding leaders at 5.3",
+      "sourceIds": [
+        "fiba-usa-paris-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Record 6/0, position 1st, and 'Jayson Tatum, USA, 5.3' in the rebounds per game list."
+    },
+    {
+      "claim": "Oct 2026: Tatum said he was practicing and back healthy; a year earlier he was very uncertain about returning to play",
+      "sourceIds": [
+        "boston-tatum-recovery-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Boston.com (9 Oct 2026) quotes match."
+    },
+    {
+      "claim": "Asked about back-to-back days, 'Yes, I can' and 'yes, I want to'",
+      "sourceIds": [
+        "boston-tatum-recovery-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes match."
+    },
+    {
+      "claim": "Celtics play back-to-back games in the first week; five back-to-back sets in November; new teammates quote",
+      "sourceIds": [
+        "boston-tatum-recovery-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the article."
+    },
+    {
+      "claim": "27 Oct 2026: Celtics 125-124 OT win over Nets at TD Garden; Tatum 40 points, 8 assists, career-high 18 free throws; two dribbles from an inbounds pass, pull-up from the elbow; Brown missed a layup; third straight win, 3-1; jumper made countless times",
+      "sourceIds": [
+        "yahoo-celtics-nets-buzzer-beater"
+      ],
+      "verdict": "confirmed",
+      "note": "All confirmed. The page gives 'Tuesday' and is dated 28 October 2026, so the calendar date 27 October is inferred from those, and the page note should flag it."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Primary NBA.com, USA Basketball and FIBA pages for the Achilles timeline, the 2024 title, the 2025 All-Star starter listing, the Paris gold and the 2026-27 context. Dates inferred from article dates (27 Oct 2026 buzzer, 17 June 2024, injury day) are flagged or left out; the 2020 height is attributed to its year.",
+  "decision": "approve",
+  "summary": "Every checked claim in the Brazilian Portuguese text matches its opened source. Where the Brazilian Portuguese text paraphrases an English quote, the wording is a paraphrase, not a direct quote, and the facts match. The 27 October 2026 date, the 17 June 2024 date and the injury day are inferred from article dates or left out, as in the English page."
+}

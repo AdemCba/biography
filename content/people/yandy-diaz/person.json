@@ -1,0 +1,82 @@
+{
+  "id": "yandy-diaz",
+  "name": "Yandy Díaz",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 3,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1991-08-08",
+      "sources": [
+        "mlb-player-650490"
+      ],
+      "note": "MLB player profile. ESPN and Wikipedia list the same date in search snippets only."
+    },
+    "birthPlace": {
+      "value": "Sagua la Grande, Cuba",
+      "sources": [
+        "mlb-player-650490"
+      ],
+      "note": "MLB player profile. Search snippets from ESPN give Villa Clara, Cuba (the province), so the MLB wording is used."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "mlb-player-650490",
+      "url": "https://www.mlb.com/player/650490",
+      "title": "Yandy Díaz Stats, Age, Position, Height, Weight, Fantasy & News",
+      "publisher": "MLB",
+      "type": "official",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "mlb-rays-roster",
+      "url": "https://www.mlb.com/rays/roster",
+      "title": "Tampa Bay Rays Roster",
+      "publisher": "MLB",
+      "type": "official",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "mlb-news-alds-2026",
+      "url": "https://www.mlb.com/news/yandy-diaz-jonathan-aranda-junior-caminero-rays-offense-alds-2026",
+      "title": "Yandy Díaz, Jonathan Aranda, Junior Caminero catalysts for Rays' offense",
+      "publisher": "MLB",
+      "type": "official",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "baynews9-silver-slugger-2023",
+      "url": "https://baynews9.com/fl/tampa/news/2023/11/10/yandy-d-az-wins-al-silver-slugger-award-at-first-base",
+      "title": "Yandy Díaz wins AL Silver Slugger Award at first base",
+      "publisher": "Bay News 9",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "tampa-bay-times-steak",
+      "url": "https://www.tampabay.com/sports/rays/2026/10/27/yandy-diaz-t-shirt-tomahawk-steak-chandler-simpson-catch-junior-caminero-drew-rasmussen/",
+      "title": "Yandy Diaz's postseason steak eating gets the T-shirt treatment",
+      "publisher": "Tampa Bay Times",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "mlb-news-alcs-2026",
+      "url": "https://www.mlb.com/news/yandy-diaz-declares-rays-will-win-game-6-of-2026-alcs",
+      "title": "Yandy Díaz declares Rays will win Game 6 of 2026 ALCS",
+      "publisher": "MLB",
+      "type": "official",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    }
+  ]
+}

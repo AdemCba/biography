@@ -1,0 +1,398 @@
+{
+  "date": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 12 October 1968 in Sydney, Australia",
+      "sourceIds": [
+        "biography-hugh-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: 'Hugh Michael Jackman was born on October 12, 1968, in Sydney, Australia.'"
+    },
+    {
+      "claim": "Early stage work earned critical praise, including Curly in Oklahoma! in London",
+      "sourceIds": [
+        "biography-hugh-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: critical praise for his portrayals of Curly in Oklahoma! in London (undated)."
+    },
+    {
+      "claim": "Appeared in the Australian television series Correlli (1995)",
+      "sourceIds": [
+        "biography-hugh-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: 'They met while making the Australian television series Correlli (1995).' Role in the series is implied by that sentence."
+    },
+    {
+      "claim": "First wide attention as Wolverine in X-Men (2000), a role first portrayed in the comic book",
+      "sourceIds": [
+        "biography-hugh-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: 'a role first portrayed in the comic book turned big screen hit X-Men (2000).'"
+    },
+    {
+      "claim": "Swordfish and Kate and Leopold followed in 2001",
+      "sourceIds": [
+        "biography-hugh-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: 'Swordfish (2001), Kate and Leopold (2001)'."
+    },
+    {
+      "claim": "Golden Globe nomination for Kate & Leopold at the 2002 ceremony, Musical or Comedy category",
+      "sourceIds": [
+        "golden-globes-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Golden Globes: '2002 Nominee' Best Performance by an Actor in a Motion Picture - Musical or Comedy, Kate & Leopold."
+    },
+    {
+      "claim": "Returned as Wolverine in X2 (2003), X-Men: The Last Stand (2006) and X-Men Origins: Wolverine (2009)",
+      "sourceIds": [
+        "biography-hugh-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com lists X2 (2003), The Last Stand (2006) and X-Men Origins: Wolverine (2009)."
+    },
+    {
+      "claim": "X-Men Origins: Wolverine distributed by 20th Century Fox; domestic gross 179,883,157 USD; worldwide 373,062,864 USD",
+      "sourceIds": [
+        "box-office-mojo-x-men-origins"
+      ],
+      "verdict": "confirmed",
+      "note": "Box Office Mojo tt0458525: Domestic Distributor 20th Century Fox; Domestic $179,883,157; Worldwide $373,062,864."
+    },
+    {
+      "claim": "Logan (2017) was his last appearance as Wolverine",
+      "sourceIds": [
+        "biography-hugh-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: 'Jackman made his last appearance as Wolverine in the 2017 hit Logan.'"
+    },
+    {
+      "claim": "Logan distributed by 20th Century Fox; domestic gross 226,277,068 USD; worldwide 619,180,476 USD",
+      "sourceIds": [
+        "box-office-mojo-logan"
+      ],
+      "verdict": "confirmed",
+      "note": "Box Office Mojo tt3315342: Domestic Distributor 20th Century Fox; Domestic $226,277,068; Worldwide $619,180,476."
+    },
+    {
+      "claim": "The Prestige (2006) with Christian Bale; The Fountain (2006) with three different characters",
+      "sourceIds": [
+        "biography-hugh-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: The Prestige (2006) historical drama; The Fountain portrayed three different characters in 2006."
+    },
+    {
+      "claim": "Offered the role of James Bond in Casino Royale (2006) and turned it down",
+      "sourceIds": [
+        "biography-hugh-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: 'offered the role of James Bond in the 2006 film Casino Royale, but turned it down.'"
+    },
+    {
+      "claim": "Tony Award for Best Actor in a Musical in 2004 for playing Peter Allen in The Boy from Oz",
+      "sourceIds": [
+        "playbill-2004-tony-winners"
+      ],
+      "verdict": "confirmed",
+      "note": "Playbill: 'Tony host Jackman took home the Tony for Best Actor in a Musical for playing Peter Allen in The Boy From Oz.'"
+    },
+    {
+      "claim": "Playbill report dated 7 June 2004 describes him as the Tony host who took the award",
+      "sourceIds": [
+        "playbill-2004-tony-winners"
+      ],
+      "verdict": "confirmed",
+      "note": "Playbill article date June 07, 2004."
+    },
+    {
+      "claim": "Emmy for hosting the 2004 Tony Awards",
+      "sourceIds": [
+        "biography-hugh-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: 'Jackman also claimed an Emmy for his work as host of the 2004 Tonys.'"
+    },
+    {
+      "claim": "Returned to Broadway in 2009 in A Steady Rain; Hugh Jackman: Back on Broadway in 2011; similar format for The Man. The Music. The Show. in 2019",
+      "sourceIds": [
+        "biography-hugh-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: A Steady Rain (2009 return), Back on Broadway (2011), 'similar format' for The Man. The Music. The Show. in 2019."
+    },
+    {
+      "claim": "Golden Globe in January 2013, Best Performance by an Actor in a Motion Picture, Musical or Comedy, for Les Misérables",
+      "sourceIds": [
+        "golden-globes-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Golden Globes: '2013 Winner' for Les Misérables; Biography.com dates the award to January 2013."
+    },
+    {
+      "claim": "Golden Globes list four nominations and one win in total",
+      "sourceIds": [
+        "golden-globes-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Golden Globes page summary: '4 nominations and 1 win'."
+    },
+    {
+      "claim": "Les Misérables distributed by Universal Pictures; domestic gross 149,260,140 USD; worldwide 442,757,529 USD",
+      "sourceIds": [
+        "box-office-mojo-les-miserables"
+      ],
+      "verdict": "confirmed",
+      "note": "Box Office Mojo tt1707386: Domestic Distributor Universal Pictures; Domestic $149,260,140; Worldwide $442,757,529."
+    },
+    {
+      "claim": "First Academy Award nomination came from Les Misérables",
+      "sourceIds": [
+        "biography-hugh-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: 'The role also brought his first Academy Award nomination'."
+    },
+    {
+      "claim": "Nominated for Best Actor in a Leading Role at the 85th Academy Awards; Daniel Day-Lewis won for Lincoln",
+      "sourceIds": [
+        "oscars-2013-ceremony"
+      ],
+      "verdict": "confirmed",
+      "note": "oscars.org 2013 ceremony page lists Hugh Jackman under Les Misérables (Actor in a Leading Role) and the winner as Daniel Day-Lewis for Lincoln."
+    },
+    {
+      "claim": "Star on the Hollywood Walk of Fame on 13 December 2012",
+      "sourceIds": [
+        "biography-hugh-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: 'On December 13, 2012, Jackman was awarded a star on the Hollywood Walk of Fame.'"
+    },
+    {
+      "claim": "Van Helsing (2004) and Scoop (2006) were among his next films",
+      "sourceIds": [
+        "biography-hugh-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com lists Van Helsing (2004) and Scoop (2006)."
+    },
+    {
+      "claim": "Viva Laughlin on CBS in 2007 lasted two episodes before cancellation",
+      "sourceIds": [
+        "biography-hugh-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: 'lasted just two episodes on CBS before being canceled in 2007.'"
+    },
+    {
+      "claim": "Real Steel (2011): father who rebuilds his relationship with his son",
+      "sourceIds": [
+        "biography-hugh-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: 'played a father who forges a better relationship with his son' (2011)."
+    },
+    {
+      "claim": "Deception (2008) earned 4.6 million USD at the box office",
+      "sourceIds": [
+        "biography-hugh-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: 'earning only $4.6 million at the box office.'"
+    },
+    {
+      "claim": "Pan (2015): played the villain (Blackbeard)",
+      "sourceIds": [
+        "biography-hugh-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: 'stepped into the role of the villain' in 2015; the Pan table row names the film."
+    },
+    {
+      "claim": "Movie 43 (2013) was a lighter role after Les Misérables",
+      "sourceIds": [
+        "biography-hugh-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: 'Jackman took on a lighter role in the comedy Movie 43 (2013).'"
+    },
+    {
+      "claim": "Eddie the Eagle (2016): ski coach Bronson Peary",
+      "sourceIds": [
+        "biography-hugh-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: ski coach Bronson Peary in the biopic Eddie the Eagle."
+    },
+    {
+      "claim": "The Greatest Showman (2017): P.T. Barnum; Golden Globe nomination at the 2018 ceremony, Musical or Comedy",
+      "sourceIds": [
+        "biography-hugh-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: The Greatest Showman (2017) and a Golden Globe nomination. Golden Globes: '2018 Nominee' Musical or Comedy."
+    },
+    {
+      "claim": "The Greatest Showman distributed by 20th Century Fox; domestic gross 174,340,174 USD; worldwide 472,132,453 USD",
+      "sourceIds": [
+        "box-office-mojo-greatest-showman"
+      ],
+      "verdict": "confirmed",
+      "note": "Box Office Mojo tt1485796: Domestic Distributor 20th Century Fox; Domestic $174,340,174; Worldwide $472,132,453."
+    },
+    {
+      "claim": "Golden Globe 2023 nomination, Best Performance by an Actor in a Motion Picture, Drama, for The Son",
+      "sourceIds": [
+        "golden-globes-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Golden Globes: '2023 Nominee' Best Performance by an Actor in a Motion Picture - Drama, Son, The."
+    },
+    {
+      "claim": "The Front Runner (2018): Gary Hart, 1988 presidential candidate",
+      "sourceIds": [
+        "biography-hugh-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: The Front Runner (2018); 'disgraced 1988 U.S. presidential candidate Gary Hart'."
+    },
+    {
+      "claim": "Missing Link (2019) animated feature; Bad Education (2019) with Allison Janney, true-story based",
+      "sourceIds": [
+        "biography-hugh-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: Missing Link (2019); 'teamed with Allison Janney in the true-story-based Bad Education'."
+    },
+    {
+      "claim": "Hosted the Academy Awards in 2009",
+      "sourceIds": [
+        "biography-hugh-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: 'he later hosted the Academy Awards in 2009.'"
+    },
+    {
+      "claim": "Named People magazine's Sexiest Man Alive in December 2008",
+      "sourceIds": [
+        "biography-hugh-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: 'In December 2008, Jackman was named Sexiest Man Alive by People magazine.'"
+    },
+    {
+      "claim": "Described as an Australian actor and producer",
+      "sourceIds": [
+        "biography-hugh-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: 'Australian actor and producer Hugh Jackman is best known for playing Wolverine.'"
+    },
+    {
+      "claim": "Australia (2008) with fellow Australians Nicole Kidman and Baz Luhrmann",
+      "sourceIds": [
+        "biography-hugh-jackman"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: 'fellow Australians Nicole Kidman and Baz Luhrmann' and the 2008 film Australia."
+    },
+    {
+      "claim": "Ridley Scott directs Treasure Island; script by Jack Thorne, Emmy-winning writer of Adolescence",
+      "sourceIds": [
+        "variety-au-treasure-island-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Variety (AU), 9 June 2026: 'Scott will direct the film from a script by Emmy-winning Adolescence writer Jack Thorne.'"
+    },
+    {
+      "claim": "Jackman plays pirate Long John Silver in Treasure Island",
+      "sourceIds": [
+        "variety-au-treasure-island-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Variety (AU), 9 June 2026: 'adding another classic character to his filmography, the pirate Long John Silver'."
+    },
+    {
+      "claim": "Variety (June 2026) lists his roles as Wolverine, P.T. Barnum, Van Helsing, Jean Valjean and Robin Hood",
+      "sourceIds": [
+        "variety-au-treasure-island-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Variety (AU), 9 June 2026: 'After playing Wolverine, P.T. Barnum, Van Helsing, Jean Valjean and most recently Robin Hood'."
+    },
+    {
+      "claim": "Scott Free is the production banner; Michael Pruss produces; no distributor is named in June 2026",
+      "sourceIds": [
+        "variety-au-treasure-island-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Variety (AU), 9 June 2026: Scott produces with Michael Pruss for his Scott Free banner. The article names no distributing studio."
+    },
+    {
+      "claim": "Variety calls it a new adaptation of Robert Louis Stevenson's 1883 novel",
+      "sourceIds": [
+        "variety-au-treasure-island-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Variety (AU), 9 June 2026: 'a new adaptation of Robert Louis Stevenson's 1883 novel'."
+    },
+    {
+      "claim": "A24's The Death of Robin Hood, directed by Michael Sarnoski, was set to open on 19 June 2026",
+      "sourceIds": [
+        "variety-au-treasure-island-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Variety (AU), 9 June 2026: 'opens on June 19'. The year 2026 is taken from the article date; the article is dated 2026."
+    },
+    {
+      "claim": "Sony has slated Treasure Island; first in theatres on 11 November 2027",
+      "sourceIds": [
+        "variety-au-treasure-island-release"
+      ],
+      "verdict": "confirmed",
+      "note": "Variety (AU), 1 October 2026: 'Sony has slated ... Ridley Scott's Treasure Island' and 'Treasure Island hits theatres first on Nov. 11, 2027.'"
+    },
+    {
+      "claim": "Jack Thorne will executive produce Treasure Island",
+      "sourceIds": [
+        "variety-au-treasure-island-release"
+      ],
+      "verdict": "confirmed",
+      "note": "Variety (AU), 1 October 2026: 'Thorne will executive produce Treasure Island.'"
+    },
+    {
+      "claim": "The October report covers 2027 release dates for 24 Jump Street and Treasure Island",
+      "sourceIds": [
+        "variety-au-treasure-island-release"
+      ],
+      "verdict": "confirmed",
+      "note": "Variety (AU) headline: '24 Jump Street, Hugh Jackman's Treasure Island Remake Get 2027 Release Dates'."
+    },
+    {
+      "claim": "The film adapts Robert Louis Stevenson's novel",
+      "sourceIds": [
+        "variety-au-treasure-island-release"
+      ],
+      "verdict": "confirmed",
+      "note": "Variety (AU), 1 October 2026: 'Jackman and Scott were teaming up to adapt' Stevenson's novel."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds the Golden Globes and Oscars award-body entries, Box Office Mojo distributor and gross figures for six films, and the dated Variety production and release facts that the top results lack.",
+  "decision": "approve",
+  "summary": "French article checked against the same sources. Claims match, including the Box Office Mojo grosses and the 1 October 2026 Variety date. Approve."
+}

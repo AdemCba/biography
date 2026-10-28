@@ -6,7 +6,23 @@
   ],
   "importance": 4,
   "sameAs": [],
-  "facts": {},
+  "facts": {
+    "birthDate": {
+      "value": "1960-01-06",
+      "sources": ["wikidata-nigella"],
+      "note": "Wikidata gives 6 January 1960. No other source opened for this page gives a date."
+    },
+    "birthPlace": {
+      "value": "London",
+      "sources": ["wikidata-nigella"],
+      "note": "Wikidata lists London as place of birth."
+    },
+    "nationality": {
+      "value": ["GB"],
+      "sources": ["wikidata-nigella"],
+      "note": "Wikidata lists United Kingdom as country of citizenship."
+    }
+  },
   "related": [],
   "sources": [
     {
@@ -52,6 +68,42 @@
       "publisher": "Irish News",
       "type": "press",
       "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "wikidata-nigella",
+      "url": "https://www.wikidata.org/wiki/Q264724",
+      "title": "Nigella Lawson (Q264724), Wikidata item",
+      "publisher": "Wikidata",
+      "type": "database",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "gfw-nigella-profile",
+      "url": "https://gfw.co.uk/member-profiles/353",
+      "title": "Nigella Lawson, member profile",
+      "publisher": "Guild of Food Writers",
+      "type": "other",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "foodnetwork-nigella-bio",
+      "url": "https://www.foodnetwork.com/profiles/talent/nigella-lawson/bio",
+      "title": "Nigella Lawson Bio",
+      "publisher": "Food Network",
+      "type": "official",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "jaylit-rsl-fellows-2026",
+      "url": "https://jaylit.com/?p=44578",
+      "title": "Lola Shoneyin, Claudia Roden Elected Fellows of the Royal Society of Literature",
+      "publisher": "JayLit",
+      "type": "press",
+      "accessed": "2026-10-28",
       "lang": "en"
     }
   ],
