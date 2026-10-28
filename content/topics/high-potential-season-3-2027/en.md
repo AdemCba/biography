@@ -1,17 +1,17 @@
 ---
-title: 'High Potential season 3: ABC''s 2027 return and the long wait'
+title: 'High Potential season 3: no new episodes until February 2027'
 slug: high-potential-season-3-2027
-metaTitle: 'High Potential season 3: return date and what ABC confirmed'
+metaTitle: 'High Potential season 3: premiere after Super Bowl LXI'
 metaDescription: >-
-  High Potential is not on ABC's fall 2026 schedule. Season 3 returns in 2027
-  with a special episode after the Super Bowl, and no premiere date is set yet.
-knownFor: ABC drama that returns with season 3 in 2027
+  High Potential season 3 will not air a new episode in 2026. ABC will premiere
+  it on 14 February 2027, right after Super Bowl LXI.
+knownFor: 'Topic: High Potential season 3 premiere date'
 summary: >-
-  Fans searched for High Potential on Wednesday, 28 October 2026, after coverage
-  made clear that the ABC drama will not return this fall
-  [s:cbr-high-potential]. ABC renewed the show for a third season in March 2026
-  [s:deadline-high-potential], and the new season is set for a midseason slot in
-  2027 [s:cbr-high-potential].
+  ABC will premiere High Potential season 3 on Sunday, 14 February 2027,
+  immediately after Super Bowl LXI, and the season will not air a single new
+  episode in 2026 [s:cbr-high-potential][s:screenrant-high-potential]. New
+  episodes will then air on Tuesdays, but ABC has not announced the exact date
+  or the episode count [s:cbr-high-potential].
 status: published
 risk: low
 publishedAt: '2026-10-28'
@@ -21,44 +21,30 @@ reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - High Potential season 3
-  - High Potential season 3 release date
-  - High Potential renewed
-  - High Potential ABC 2027
-faq:
-  - q: When does High Potential season 3 premiere?
-    a: >-
-      ABC has not announced an exact premiere date, and the show airs no new
-      episodes in 2026 [s:cbr-high-potential]. The season returns in 2027 as
-      part of ABC's midseason programming [s:cbr-high-potential].
-  - q: Is High Potential renewed for a third season?
-    a: >-
-      Yes. Deadline reported the renewal in March 2026, and the show was then
-      looking for a new showrunner [s:deadline-high-potential].
+  - High Potential season 3 premiere date
+  - High Potential Super Bowl
+  - High Potential new episodes 2027
 ---
-## What happened
+Fans searching for High Potential this week are looking for a return date, and the answer is not in the fall. ABC has kept the show off its 2026 schedule, and season 3 will instead open in February 2027 [s:cbr-high-potential]. Unlike the first two seasons, the third will not air a single new episode in 2026 [s:cbr-high-potential].
 
-High Potential is missing from ABC's lineup for the fall of 2026. The network moved the drama to a midseason slot, which means viewers wait until 2027 for new episodes [s:cbr-high-potential]. CBR describes the gap as the longest between seasons in the show's history [s:cbr-high-potential]. That is the reason the schedule news is getting attention now, because it turns a renewal from March into a long wait.
+## What ABC announced
 
-The renewal came earlier. Deadline reported on 5 March 2026 that ABC had picked up a third season [s:deadline-high-potential]. The same report said the production was searching for a new showrunner after Todd Harthan left to work on another project [s:deadline-high-potential]. The reports reviewed do not say whether the search and the later premiere date are connected.
+ABC confirmed the timing on Monday, 12 October, during its Monday Night Football broadcast [s:screenrant-high-potential]. The premiere will air on Sunday, 14 February 2027, right after Super Bowl LXI [s:screenrant-high-potential]. Screen Rant calls it a premiere, not a special, which means the episode opens the season rather than standing alone [s:screenrant-high-potential]. Putting a drama straight after the Super Bowl is a bet on a large live audience, and it gives the return far more attention than a regular night would.
 
-## The 2027 schedule
+## Why the long break stands out
 
-ABC has set one date. A new episode will air straight after Super Bowl LXI on 14 February 2027 [s:cbr-high-potential]. That slot gives a broad audience a first look at the new season, but it is a single episode, not the start of a regular run. Regular episodes are set to air on Tuesdays once the season begins [s:cbr-high-potential].
+CBR describes the gap as the longest break the show has had between seasons, because ABC chose to hold back one of its most popular scripted series [s:cbr-high-potential]. The show finished the 2025–26 season with 16.01 million viewers over 35 days, ranking first among adults 18 to 49 and third in total viewers [s:cbr-high-potential]. Those numbers explain why the scheduling decision is getting attention.
 
-The premiere date for the full season has not been announced. CBR says ABC has not revealed the exact date and that the move is part of a broader scheduling strategy meant to give the show a more consistent run with fewer interruptions [s:cbr-high-potential]. Anyone who sees a specific premiere date before ABC confirms it should treat it with caution.
+## What fills the fall instead
 
-## Background
+ABC's fall 2026 lineup includes returning shows such as Abbott Elementary, 9-1-1, 9-1-1: Nashville and Grey's Anatomy. The new drama R.J. Decker airs on Tuesdays at 10 p.m., and Scrubs returns in a revival [s:cbr-high-potential]. High Potential, The Rookie, The Rookie: North and Shifting Gears are all held for 2027 [s:cbr-high-potential].
 
-The renewal shows that ABC still wanted the drama, even after the production had to look for a new showrunner [s:deadline-high-potential]. The network then chose to keep the show out of the fall. For viewers, the practical point is simple. Nothing new arrives this fall, and the next new material is the February 2027 episode.
+## What the wait means for fans
 
-Fans who want to catch up can use the earlier seasons while they wait. No announcement so far gives the number of episodes in the 2027 run, so any figure given elsewhere should be checked against ABC's own statement.
+The practical answer is short: no new episode arrives in 2026 [s:cbr-high-potential]. The first two seasons together ran 31 episodes, 13 in season 1 and 18 in season 2, so viewers who want to catch up have a full run to revisit before February [s:cbr-high-potential]. CBR's point is that this is the longest break the show has taken, so the return will feel more like a restart than a continuation.
 
-## The timeline in brief
+## Cast, episodes and what to watch
 
-March 2026 brought the renewal and the showrunner search [s:deadline-high-potential]. The fall of 2026 has no new episodes, because the show is missing from ABC's lineup [s:cbr-high-potential]. A special episode follows Super Bowl LXI on 14 February 2027 [s:cbr-high-potential]. The full 2027 midseason run then follows, with new episodes on Tuesdays, but its premiere date is still unannounced [s:cbr-high-potential].
+CBR names Kaitlin Olson as Morgan Gillory and Daniel Sunjata as Karadec [s:cbr-high-potential]. Season 1 had 13 episodes and season 2 had 18, while ABC has not yet said how many episodes season 3 will have [s:cbr-high-potential].
 
-For a network show, the step from renewal to premiere is where most of the uncertainty sits. The renewal tells viewers that a show will return, while the schedule tells them when. In this case, the March renewal and the February 2027 episode are almost a year apart [s:deadline-high-potential] [s:cbr-high-potential].
-
-
-## What to watch next
-Watch for ABC's official premiere date for the 2027 midseason run. The February special will show how the network positions the show after the Super Bowl. Until then, the return is confirmed for 2027, but the exact day, the episode count and the cast schedule remain open.
+ABC has said new episodes will air on Tuesdays, but it still has not announced the exact premiere date beyond the Super Bowl slot [s:cbr-high-potential]. Watch for three things: the precise date and time on the Super Bowl weekend, the episode count, and whether the Tuesday schedule holds once the season starts. Until those details are out, the safe answer for anyone looking for a fall return is that there is no new episode to watch in 2026.

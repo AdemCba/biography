@@ -1,6 +1,6 @@
 # Trend taraması 2026-10-28 15:01 UTC
 
-850 trend sinyali tarandı, 357 tanınmış kişi bulundu.
+850 trend sinyali tarandı, 355 tanınmış kişi bulundu.
 
 Bu çalışmada taslak sırasına kimse eklenmedi.
 
@@ -13,7 +13,7 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 | downdetector | US, BR | en, pt | 1000 | 14:30 | [YouTube Down for Thousands of Users Wednesday, Downdetector Reports](https://gvwire.com/2026/10/28/youtube-down-for-thousands-of-users-wednesday-downdetector-reports/) |
 | camboja | BR, PT | pt | 300 | 14:30 | [A U.S. cruise ship ends voyage due to fuel costs and passengers lose their homes](https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-ends-voyage-passengers-lose-homes) |
 | casper ruud | ES | es | 10000 | 14:10 | [Martín Landaluce roza la hazaña ante Zverev en Viena](https://ftm.es/martin-landaluce-roza-la-hazana-ante-zverev-en-viena/) |
-| gobierno | AR | es | 10000 | 13:20 | [El documento y la historia del vuelo secreto que transportó a Bolsonaro a Estados Unidos](https://www.lanacion.com.ar/economia/el-documento-y-la-historia-del-vuelo-secreto-que-transporto-a-bolsonaro-a-estados-unidos-nid28102026/) |
+| gobierno | AR | es | 10000 | 13:20 | [Cómo colaboró el Gobierno argentino con Flávio Bolsonaro para salir de Brasil](https://www.infobae.com/politica/2026/10/28/como-colaboro-el-gobierno-argentino-con-flavio-bolsonaro-para-salir-de-brasil/) |
 | patrick mahomes | US | en | 5000 | 14:20 | [Chiefs have pressing concerns after loss to Seahawks. Which can be fixed?](https://www.nytimes.com/athletic/7729651/2026/10/28/chiefs-concerns-chris-jones-harrison-butker/) |
 | james bond | GB | en | 5000 | 13:50 | [What a spectre - Bond boys bounce around London](https://www.bbc.co.uk/news/articles/cmde869e8k34o) |
 | tübingen | DE | de | 5000 | 14:20 | [Vater und Tochter tot in Tübingen gefunden - Abschiedsbrief entdeckt](https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/mann-und-tochter-tot-gefunden-mit-abschiedsbrief-100.html) |
@@ -51,7 +51,7 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 | madrid | DE | de | 500 | 14:30 | [Última hora del accidente de trenes en Toledo, en directo / Al menos 68 muertos en el choque de trenes de alta velocidad en Urda](https://elpais.com/espana/2026-10-28/ultima-hora-del-choque-entre-dos-trenes-en-los-yebenes-toledo-en-directo.html) |
 | jeging | AT | de | 500 | 14:20 | [59-Jähriger stirbt bei Unfall mit Hoflader](https://ooe.orf.at/stories/3377159/) |
 
-## Uygun yeni adaylar (118)
+## Uygun yeni adaylar (110)
 
 | Puan | Kişi | Kategori | Nerede trend | Wikipedia artışı | Kaynak | Not |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -65,16 +65,13 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 | 151 | Susan Saint James | artists | en, de | 452.1x | [Q259559](https://www.wikidata.org/wiki/Q259559) [Wikipedia](https://en.wikipedia.org/wiki/Susan_Saint_James) | recent death, write with care |
 | 143 | Vicky López | athletes | es, fr | 88.3x | [Q108422572](https://www.wikidata.org/wiki/Q108422572) [Wikipedia](https://en.wikipedia.org/wiki/Vicky_L%C3%B3pez) |  |
 | 139 | Michael Owen | athletes | en, fr | 15.1x | [Q128829](https://www.wikidata.org/wiki/Q128829) [Wikipedia](https://en.wikipedia.org/wiki/Michael_Owen) |  |
-| 130 | Niclas Füllkrug | athletes | de | 24.9x | [Q326159](https://www.wikidata.org/wiki/Q326159) [Wikipedia](https://en.wikipedia.org/wiki/Niclas_F%C3%BCllkrug) |  |
 | 129 | Matthias Sammer | athletes | de | 23.6x | [Q57183](https://www.wikidata.org/wiki/Q57183) [Wikipedia](https://en.wikipedia.org/wiki/Matthias_Sammer) |  |
 | 127 | Max Liebermann | artists | de | 26.5x | [Q158062](https://www.wikidata.org/wiki/Q158062) [Wikipedia](https://en.wikipedia.org/wiki/Max_Liebermann) |  |
-| 126 | Pierre Cardin | business | fr | 22.3x | [Q299211](https://www.wikidata.org/wiki/Q299211) [Wikipedia](https://en.wikipedia.org/wiki/Pierre_Cardin) |  |
-| 126 | Luis de la Fuente | athletes | fr | 29.9x | [Q3840425](https://www.wikidata.org/wiki/Q3840425) [Wikipedia](https://en.wikipedia.org/wiki/Luis_de_la_Fuente_(footballer%2C_born_1961)) |  |
+| 127 | Marcel Sabitzer | athletes | de | 21.1x | [Q472300](https://www.wikidata.org/wiki/Q472300) [Wikipedia](https://en.wikipedia.org/wiki/Marcel_Sabitzer) |  |
 | 125 | Ched Evans | athletes | en | 130.3x | [Q2277114](https://www.wikidata.org/wiki/Q2277114) [Wikipedia](https://en.wikipedia.org/wiki/Ched_Evans) |  |
 | 125 | Nichelle Nichols | artists | de | 40.2x | [Q254038](https://www.wikidata.org/wiki/Q254038) [Wikipedia](https://en.wikipedia.org/wiki/Nichelle_Nichols) |  |
-| 124 | Birgit Minichmayr | artists | de | 23.9x | [Q94022](https://www.wikidata.org/wiki/Q94022) [Wikipedia](https://en.wikipedia.org/wiki/Birgit_Minichmayr) |  |
+| 124 | Carney Chukwuemeka | athletes | de | 87.6x | [Q106915801](https://www.wikidata.org/wiki/Q106915801) [Wikipedia](https://en.wikipedia.org/wiki/Carney_Chukwuemeka) |  |
 | 123 | Chrishell Stause | artists | en | 23.5x | [Q5108579](https://www.wikidata.org/wiki/Q5108579) [Wikipedia](https://en.wikipedia.org/wiki/Chrishell_Stause) |  |
-| 123 | Sara Sampaio | artists | es | 40x | [Q10368401](https://www.wikidata.org/wiki/Q10368401) [Wikipedia](https://en.wikipedia.org/wiki/Sara_Sampaio) |  |
 | 123 | Mitchell Weiser | athletes | de | 40.4x | [Q694852](https://www.wikidata.org/wiki/Q694852) [Wikipedia](https://en.wikipedia.org/wiki/Mitchell_Weiser) |  |
 | 123 | Jorja Smith | artists | fr | 69.4x | [Q29452199](https://www.wikidata.org/wiki/Q29452199) [Wikipedia](https://en.wikipedia.org/wiki/Jorja_Smith) |  |
 | 122 | Enrique Vila-Matas | artists | es | 85.3x | [Q372313](https://www.wikidata.org/wiki/Q372313) [Wikipedia](https://en.wikipedia.org/wiki/Enrique_Vila-Matas) |  |
@@ -93,10 +90,7 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 | 117 | Antoine Spire | artists | fr | 289.2x | [Q2856743](https://www.wikidata.org/wiki/Q2856743) [Wikipedia](https://en.wikipedia.org/wiki/Antoine_Spire) | recent death, write with care |
 | 116 | Marta Torné | artists | es | 52.7x | [Q924080](https://www.wikidata.org/wiki/Q924080) [Wikipedia](https://en.wikipedia.org/wiki/Marta_Torn%C3%A9) |  |
 | 116 | Itay Tiran | artists | de | 41.4x | [Q1675238](https://www.wikidata.org/wiki/Q1675238) [Wikipedia](https://en.wikipedia.org/wiki/Itay_Tiran) |  |
-| 115 | Andrea Ros | artists | es | 36.8x | [Q5675218](https://www.wikidata.org/wiki/Q5675218) [Wikipedia](https://en.wikipedia.org/wiki/Andrea_Ros) |  |
 | 115 | Michel Temer | artists | es, pt | 7.9x | [Q463533](https://www.wikidata.org/wiki/Q463533) [Wikipedia](https://en.wikipedia.org/wiki/Michel_Temer) |  |
-| 115 | Heiko Weber | athletes | de | 2390.5x | [Q1594738](https://www.wikidata.org/wiki/Q1594738) [Wikipedia](https://en.wikipedia.org/wiki/Heiko_Weber) | recent death, write with care |
-| 114 | Bill Simpson | athletes | de | 2395x | [Q4910876](https://www.wikidata.org/wiki/Q4910876) [Wikipedia](https://en.wikipedia.org/wiki/Bill_Simpson_(racing_driver)) |  |
 | 113 | William Shatner | creators | en, de | 6.3x | [Q16297](https://www.wikidata.org/wiki/Q16297) [Wikipedia](https://en.wikipedia.org/wiki/William_Shatner) |  |
 | 112 | Malik Scott | athletes | en | 19.1x | [Q1587258](https://www.wikidata.org/wiki/Q1587258) [Wikipedia](https://en.wikipedia.org/wiki/Malik_Scott) |  |
 | 112 | Demi Moore | artists | pt | 13.8x | [Q43044](https://www.wikidata.org/wiki/Q43044) [Wikipedia](https://en.wikipedia.org/wiki/Demi_Moore) |  |
@@ -105,7 +99,6 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 | 112 | Matthias Strauss | athletes | de | 572.4x | [Q100271](https://www.wikidata.org/wiki/Q100271)  |  |
 | 111 | Luis Rojas-Marcos | artists | es | 29.5x | [Q5984283](https://www.wikidata.org/wiki/Q5984283)  |  |
 | 111 | Ariadna Gutiérrez | creators | es | 17.7x | [Q18558450](https://www.wikidata.org/wiki/Q18558450) [Wikipedia](https://en.wikipedia.org/wiki/Ariadna_Guti%C3%A9rrez) |  |
-| 110 | Patrick Criado | artists | es | 18.7x | [Q6066826](https://www.wikidata.org/wiki/Q6066826) [Wikipedia](https://en.wikipedia.org/wiki/Patrick_Criado) |  |
 | 109 | Thierry Henry | athletes | US, fr | 2.7x | [Q45901](https://www.wikidata.org/wiki/Q45901) [Wikipedia](https://en.wikipedia.org/wiki/Thierry_Henry) |  |
 | 109 | Naftali Bennett | business | en | 11.3x | [Q39318](https://www.wikidata.org/wiki/Q39318) [Wikipedia](https://en.wikipedia.org/wiki/Naftali_Bennett) |  |
 | 108 | Mario Götze | athletes | de | 12.9x | [Q104454](https://www.wikidata.org/wiki/Q104454) [Wikipedia](https://en.wikipedia.org/wiki/Mario_G%C3%B6tze) |  |
@@ -115,7 +108,6 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 | 98 | Scarlett Camberos | athletes | es | 15.5x | [Q113628055](https://www.wikidata.org/wiki/Q113628055) [Wikipedia](https://en.wikipedia.org/wiki/Scarlett_Camberos) |  |
 | 97 | JAŸ‐Z | business | en | 7.2x | [Q62766](https://www.wikidata.org/wiki/Q62766) [Wikipedia](https://en.wikipedia.org/wiki/Jay-Z) |  |
 | 95 | Daniil Medvedev | athletes | AR, AT | 0.8x | [Q21622022](https://www.wikidata.org/wiki/Q21622022) [Wikipedia](https://en.wikipedia.org/wiki/Daniil_Medvedev) |  |
-| 95 | Sarah Bernhardt | artists | fr | 6.6x | [Q4605](https://www.wikidata.org/wiki/Q4605) [Wikipedia](https://en.wikipedia.org/wiki/Sarah_Bernhardt) |  |
 | 94 | Barbara Schulz | artists | fr | 12.1x | [Q2884036](https://www.wikidata.org/wiki/Q2884036) [Wikipedia](https://en.wikipedia.org/wiki/Barbara_Schulz) |  |
 | 94 | Kate Scott | artists | fr | 11.5x | [Q1735667](https://www.wikidata.org/wiki/Q1735667) [Wikipedia](https://en.wikipedia.org/wiki/Kate_Scott_(British_presenter)) |  |
 | 93 | Lothar Matthäus | athletes | de | 7.5x | [Q36386](https://www.wikidata.org/wiki/Q36386) [Wikipedia](https://en.wikipedia.org/wiki/Lothar_Matth%C3%A4us) |  |
@@ -128,6 +120,7 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 | 86 | Paul Bettany | artists | en | 4.2x | [Q242707](https://www.wikidata.org/wiki/Q242707) [Wikipedia](https://en.wikipedia.org/wiki/Paul_Bettany) |  |
 | 86 | François Vincentelli | artists | fr | 10.8x | [Q3086023](https://www.wikidata.org/wiki/Q3086023)  |  |
 | 84 | Christian Yelich | athletes | en | 7.2x | [Q14375933](https://www.wikidata.org/wiki/Q14375933) [Wikipedia](https://en.wikipedia.org/wiki/Christian_Yelich) |  |
+| 84 | Antonio Banderas | artists | FR | 1x | [Q41548](https://www.wikidata.org/wiki/Q41548) [Wikipedia](https://en.wikipedia.org/wiki/Antonio_Banderas) |  |
 | 83 | Charles III | business | FR | 1.1x | [Q43274](https://www.wikidata.org/wiki/Q43274) [Wikipedia](https://en.wikipedia.org/wiki/Charles_III) |  |
 | 82 | Tony Shalhoub | artists | US | 3.4x | [Q107249](https://www.wikidata.org/wiki/Q107249) [Wikipedia](https://en.wikipedia.org/wiki/Tony_Shalhoub) |  |
 | 82 | Pablo Iglesias Turrión | artists | es | 5.9x | [Q13989269](https://www.wikidata.org/wiki/Q13989269) [Wikipedia](https://en.wikipedia.org/wiki/Pablo_Iglesias_Turri%C3%B3n) |  |
@@ -140,36 +133,33 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 | 80 | Thomas Piketty | business | fr | 4.7x | [Q984448](https://www.wikidata.org/wiki/Q984448) [Wikipedia](https://en.wikipedia.org/wiki/Thomas_Piketty) |  |
 | 79 | Sophia Bush | artists | US | 0.8x | [Q206916](https://www.wikidata.org/wiki/Q206916) [Wikipedia](https://en.wikipedia.org/wiki/Sophia_Bush) |  |
 | 79 | Jennifer Lawrence | artists | ES | 1.1x | [Q189490](https://www.wikidata.org/wiki/Q189490) [Wikipedia](https://en.wikipedia.org/wiki/Jennifer_Lawrence) |  |
-| 79 | Jacques Villeret | artists | fr | 5.4x | [Q267244](https://www.wikidata.org/wiki/Q267244) [Wikipedia](https://en.wikipedia.org/wiki/Jacques_Villeret) |  |
-| 79 | Robert Lewandowski | athletes | fr | 2.7x | [Q151269](https://www.wikidata.org/wiki/Q151269) [Wikipedia](https://en.wikipedia.org/wiki/Robert_Lewandowski) |  |
 | 79 | Rodri | athletes | fr | 3.6x | [Q20994118](https://www.wikidata.org/wiki/Q20994118) [Wikipedia](https://en.wikipedia.org/wiki/Rodri) |  |
 | 78 | Patrick Mahomes | athletes | US | 1.2x | [Q19667998](https://www.wikidata.org/wiki/Q19667998) [Wikipedia](https://en.wikipedia.org/wiki/Patrick_Mahomes) |  |
 | 78 | Lionel Scaloni | athletes | AR | 0.8x | [Q311586](https://www.wikidata.org/wiki/Q311586) [Wikipedia](https://en.wikipedia.org/wiki/Lionel_Scaloni) |  |
 | 78 | Michael Olise | athletes | fr | 3.3x | [Q62050484](https://www.wikidata.org/wiki/Q62050484) [Wikipedia](https://en.wikipedia.org/wiki/Michael_Olise) |  |
 | 77 | Dario Amodei | business | en | 3.3x | [Q103335665](https://www.wikidata.org/wiki/Q103335665) [Wikipedia](https://en.wikipedia.org/wiki/Dario_Amodei) |  |
 | 76 | Hasan Piker | creators | en | 3.3x | [Q72219322](https://www.wikidata.org/wiki/Q72219322) [Wikipedia](https://en.wikipedia.org/wiki/Hasan_Piker) |  |
-| 76 | Christine Neubauer | artists | DE | 3.2x | [Q102672](https://www.wikidata.org/wiki/Q102672) [Wikipedia](https://en.wikipedia.org/wiki/Christine_Neubauer) |  |
+| 76 | Christoph Kramer | athletes | de | 3x | [Q1085348](https://www.wikidata.org/wiki/Q1085348) [Wikipedia](https://en.wikipedia.org/wiki/Christoph_Kramer) |  |
 | 75 | Fernando Henrique Cardoso | artists | pt | 2.2x | [Q230578](https://www.wikidata.org/wiki/Q230578) [Wikipedia](https://en.wikipedia.org/wiki/Fernando_Henrique_Cardoso) |  |
-| 75 | Aurore Delplace | artists | fr | 8x | [Q19952310](https://www.wikidata.org/wiki/Q19952310) [Wikipedia](https://en.wikipedia.org/wiki/Aurore_Delplace) |  |
 | 74 | Deva Cassel | artists | fr | 4x | [Q112213837](https://www.wikidata.org/wiki/Q112213837) [Wikipedia](https://en.wikipedia.org/wiki/Deva_Cassel) |  |
 | 73 | Pat Murphy | athletes | en | 5.4x | [Q2394087](https://www.wikidata.org/wiki/Q2394087) [Wikipedia](https://en.wikipedia.org/wiki/Pat_Murphy_(baseball_manager)) |  |
 | 73 | Jérémy Mathieu | athletes | PT | 1.3x | [Q312892](https://www.wikidata.org/wiki/Q312892) [Wikipedia](https://en.wikipedia.org/wiki/J%C3%A9r%C3%A9my_Mathieu) |  |
-| 73 | Lorenzo Musetti | athletes | AT | 2.3x | [Q54813043](https://www.wikidata.org/wiki/Q54813043) [Wikipedia](https://en.wikipedia.org/wiki/Lorenzo_Musetti) |  |
 | 73 | Tom Leeb | artists | fr | 3.1x | [Q50328133](https://www.wikidata.org/wiki/Q50328133) [Wikipedia](https://en.wikipedia.org/wiki/Tom_Leeb) |  |
+| 72 | Jördis Triebel | artists | de | 4.4x | [Q108956](https://www.wikidata.org/wiki/Q108956) [Wikipedia](https://en.wikipedia.org/wiki/J%C3%B6rdis_Triebel) |  |
 | 71 | Justine Lupe | artists | en | 2x | [Q11835913](https://www.wikidata.org/wiki/Q11835913) [Wikipedia](https://en.wikipedia.org/wiki/Justine_Lupe) |  |
 | 71 | Queen Mary of Denmark | business | AT | 0.6x | [Q208615](https://www.wikidata.org/wiki/Q208615) [Wikipedia](https://en.wikipedia.org/wiki/Queen_Mary_of_Denmark) |  |
 | 71 | Charles Alloncle | business | fr | 6.6x | [Q126539921](https://www.wikidata.org/wiki/Q126539921) [Wikipedia](https://en.wikipedia.org/wiki/Charles_Alloncle) |  |
+| 70 | Carlos Vinícius | athletes | BR | 1.7x | [Q35694605](https://www.wikidata.org/wiki/Q35694605) [Wikipedia](https://en.wikipedia.org/wiki/Carlos_Vin%C3%ADcius) |  |
 | 70 | Bruno Lage | athletes | PT | 1x | [Q56434101](https://www.wikidata.org/wiki/Q56434101) [Wikipedia](https://en.wikipedia.org/wiki/Bruno_Lage) |  |
 | 70 | Fernando Haddad | business | pt | 2.2x | [Q3069485](https://www.wikidata.org/wiki/Q3069485) [Wikipedia](https://en.wikipedia.org/wiki/Fernando_Haddad) |  |
 | 70 | José Alencar | business | pt | 2.9x | [Q349583](https://www.wikidata.org/wiki/Q349583) [Wikipedia](https://en.wikipedia.org/wiki/Jos%C3%A9_Alencar) |  |
-| 70 | Adriana Araújo | artists | pt | 6.7x | [Q9583761](https://www.wikidata.org/wiki/Q9583761) [Wikipedia](https://en.wikipedia.org/wiki/Adriana_Ara%C3%BAjo_(journalist)) |  |
 | 69 | Malo Gusto | athletes | DE | 0x | [Q78752401](https://www.wikidata.org/wiki/Q78752401) [Wikipedia](https://en.wikipedia.org/wiki/Malo_Gusto) |  |
 | 69 | Q76324 | artists | de | 2.7x | [Q76324](https://www.wikidata.org/wiki/Q76324) [Wikipedia](https://en.wikipedia.org/wiki/Juli_Zeh) |  |
 | 68 | Eduardo Campos | business | pt | 2.7x | [Q4864755](https://www.wikidata.org/wiki/Q4864755) [Wikipedia](https://en.wikipedia.org/wiki/Eduardo_Campos) |  |
 | 67 | Broderick Jones | athletes | US | 3.3x | [Q114075871](https://www.wikidata.org/wiki/Q114075871) [Wikipedia](https://en.wikipedia.org/wiki/Broderick_Jones) |  |
 | 67 | Gérard Darmon | artists | FR | 1.1x | [Q958831](https://www.wikidata.org/wiki/Q958831) [Wikipedia](https://en.wikipedia.org/wiki/G%C3%A9rard_Darmon) |  |
-| 66 | Rokhaya Diallo | creators | fr | 2.8x | [Q3439879](https://www.wikidata.org/wiki/Q3439879) [Wikipedia](https://en.wikipedia.org/wiki/Rokhaya_Diallo) |  |
-| 65 | Carlos Vinícius | athletes | BR | 0x | [Q35694605](https://www.wikidata.org/wiki/Q35694605) [Wikipedia](https://en.wikipedia.org/wiki/Carlos_Vin%C3%ADcius) |  |
+| 66 | Lorenzo Musetti | athletes | AT | 0x | [Q54813043](https://www.wikidata.org/wiki/Q54813043) [Wikipedia](https://en.wikipedia.org/wiki/Lorenzo_Musetti) |  |
+| 63 | Pablo Chiapella | artists | ES | 1.3x | [Q4883318](https://www.wikidata.org/wiki/Q4883318) [Wikipedia](https://en.wikipedia.org/wiki/Pablo_Chiapella) |  |
 | 63 | Alejandro Wiebe | artists | AR | 1.5x | [Q620284](https://www.wikidata.org/wiki/Q620284) [Wikipedia](https://en.wikipedia.org/wiki/Alejandro_Wiebe) |  |
 | 62 | Renan Santos | business | pt | 2.9x | [Q51882553](https://www.wikidata.org/wiki/Q51882553) [Wikipedia](https://en.wikipedia.org/wiki/Renan_Santos) |  |
 | 57 | Cleitinho Azevedo | business | pt | 2.4x | [Q59211077](https://www.wikidata.org/wiki/Q59211077) [Wikipedia](https://en.wikipedia.org/wiki/Cleitinho_Azevedo) |  |
@@ -193,4 +183,4 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 
 ## Elenenler
 
-227 kişi elendi (reşit olmayan, suç ya da trajedi haberi, az tanınan, kategori dışı ya da trend zayıf). Ayrıntı JSON dosyasında.
+231 kişi elendi (reşit olmayan, suç ya da trajedi haberi, az tanınan, kategori dışı ya da trend zayıf). Ayrıntı JSON dosyasında.
