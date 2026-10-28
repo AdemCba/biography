@@ -1,7 +1,9 @@
 {
   "id": "mastectomie-radiotherapie-duree-2026",
   "people": [],
-  "trendingIn": ["FR"],
+  "trendingIn": [
+    "FR"
+  ],
   "wikidata": "Q128581",
   "sources": [
     {
@@ -40,5 +42,12 @@
       "accessed": "2026-10-28",
       "lang": "en"
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/topics/mastectomie-radiotherapie-duree-2026.jpg",
+    "alt": "Radiothérapie après mastectomie : un traitement plus court testé sur 898 femmes",
+    "credit": "No machine-readable author provided. KGH assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Breast_DCIS_histopathology_(1).jpg"
+  }
 }

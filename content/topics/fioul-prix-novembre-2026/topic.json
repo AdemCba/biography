@@ -1,7 +1,9 @@
 {
   "id": "fioul-prix-novembre-2026",
   "people": [],
-  "trendingIn": ["FR"],
+  "trendingIn": [
+    "FR"
+  ],
   "wikidata": "Q1059843",
   "sources": [
     {
@@ -31,5 +33,12 @@
       "accessed": "2026-10-28",
       "lang": "fr"
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/topics/fioul-prix-novembre-2026.jpg",
+    "alt": "Fioul : la baisse du litre doit être répercutée dès le 1er novembre 2026",
+    "credit": "User:Mattes",
+    "license": "CC BY 2.0 de",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:GER_%E2%80%94_BY_%E2%80%94_Oberbayern_%E2%80%94_Ingolstadt_%E2%80%94_Auf_der_Schanz_45_%E2%80%94_EG_(Stadtmuseum)_%E2%80%94_Produkte_aus_der_Roh%C3%B6lverarbeitung_%E2%80%94_Mattes_2022-02-26.jpg"
+  }
 }

@@ -1,7 +1,9 @@
 {
   "id": "nurnberg-leverkusen-dfb-pokal-2026",
   "people": [],
-  "trendingIn": ["DE"],
+  "trendingIn": [
+    "DE"
+  ],
   "wikidata": "Q104761",
   "sources": [
     {
@@ -31,5 +33,12 @@
       "accessed": "2026-10-28",
       "lang": "de"
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/topics/nurnberg-leverkusen-dfb-pokal-2026.jpg",
+    "alt": "Bayer 04 gegen 1. FC Nürnberg im DFB-Pokal: Spielstand und Ticker",
+    "credit": "Дмитрий Неймырок",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Metallist-Bayer-04_(7).jpg"
+  }
 }
