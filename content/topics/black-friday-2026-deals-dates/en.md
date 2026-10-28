@@ -1,15 +1,21 @@
 ---
-title: "Black Friday 2026: the date and early retailer deals"
+title: 'Black Friday 2026: the date and early retailer deals'
 slug: black-friday-2026-deals-dates
 metaTitle: 'Black Friday 2026: date and early deals'
 metaDescription: >-
-  Black Friday 2026 is Friday 27 November. Best Buy's holiday calendar lists early deals from 6 November and a ten-day Black Friday run from 19 November.
+  Black Friday 2026 is Friday 27 November. Best Buy's holiday calendar lists
+  early deals from 6 November and a ten-day Black Friday run from 19 November.
 knownFor: US shopping event held the Friday after Thanksgiving
 summary: >-
-  Black Friday 2026 falls on Friday 27 November, and Cyber Monday follows on 30 November [s:awarenessdays-bf2026]. Retailers are already announcing early deals: Best Buy's holiday calendar starts its doorbuster deals on 30 October and its early Black Friday deals on 6 November [s:bestbuy-holiday-2026].
-status: review
+  Black Friday 2026 falls on Friday 27 November, and Cyber Monday follows on 30
+  November [s:awarenessdays-bf2026]. Retailers are already announcing early
+  deals: Best Buy's holiday calendar starts its doorbuster deals on 30 October
+  and its early Black Friday deals on 6 November [s:bestbuy-holiday-2026].
+status: published
 risk: low
+reviewedAt: '2026-10-28'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - when is black friday
@@ -21,13 +27,18 @@ targetQueries:
 faq:
   - q: When is Black Friday 2026?
     a: >-
-      Black Friday 2026 falls on Friday 27 November, the Friday after Thanksgiving in the United States [s:awarenessdays-bf2026].
+      Black Friday 2026 falls on Friday 27 November, the Friday after
+      Thanksgiving in the United States [s:awarenessdays-bf2026].
   - q: When does Best Buy's Black Friday sale start?
     a: >-
-      Best Buy offers ten days of Black Friday doorbusters and deals starting on 19 November, according to its 2026 holiday calendar [s:bestbuy-holiday-2026].
+      Best Buy offers ten days of Black Friday doorbusters and deals starting on
+      19 November, according to its 2026 holiday calendar
+      [s:bestbuy-holiday-2026].
   - q: When is Cyber Monday 2026?
     a: >-
-      Cyber Monday follows on Monday 30 November, three days after Black Friday [s:awarenessdays-bf2026].
+      Cyber Monday follows on Monday 30 November, three days after Black Friday
+      [s:awarenessdays-bf2026].
+publishedAt: '2026-10-28'
 ---
 ## What happened: early deals since late October
 
