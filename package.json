@@ -20,7 +20,8 @@
     "trends": "tsx scripts/trends/run.ts",
     "review": "tsx scripts/review.ts",
     "write": "tsx scripts/write.ts",
-    "images": "tsx scripts/images.ts"
+    "images": "tsx scripts/images.ts",
+    "suggest": "tsx scripts/suggest.ts"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
