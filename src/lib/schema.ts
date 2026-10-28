@@ -72,6 +72,8 @@ export const topicSchema = z.object({
   people: z.array(slug).default([]),
   /** Where it trended, e.g. ["US", "BR"], from Google Trends. */
   trendingIn: z.array(z.string()).default([]),
+  /** Wikidata item of the story's main subject (person, team, product, place); its Commons photo becomes the image. */
+  wikidata: z.string().regex(/^Q\d+$/).optional(),
   image: personSchema.shape.image,
   sources: z.array(sourceSchema).default([]),
 });
