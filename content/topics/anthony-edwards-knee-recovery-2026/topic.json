@@ -1,7 +1,12 @@
 {
   "id": "anthony-edwards-knee-recovery-2026",
-  "people": ["anthony-edwards"],
-  "trendingIn": ["ES", "FR"],
+  "people": [
+    "anthony-edwards"
+  ],
+  "trendingIn": [
+    "ES",
+    "FR"
+  ],
   "sources": [
     {
       "id": "ap-edwards-knee-2026-04",
@@ -21,5 +26,12 @@
       "accessed": "2026-10-28",
       "lang": "en"
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/topics/anthony-edwards-knee-recovery-2026.jpg",
+    "alt": "Anthony Edwards",
+    "credit": "Senior Airman Tara Stetler",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anthony_Edwards_2018_-_1_in_6_181029-F-VX890-1029_(cropped).jpg"
+  }
 }

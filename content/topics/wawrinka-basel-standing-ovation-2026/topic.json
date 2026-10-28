@@ -1,7 +1,14 @@
 {
   "id": "wawrinka-basel-standing-ovation-2026",
-  "people": ["stan-wawrinka"],
-  "trendingIn": ["US", "MX", "DE", "FR"],
+  "people": [
+    "stan-wawrinka"
+  ],
+  "trendingIn": [
+    "US",
+    "MX",
+    "DE",
+    "FR"
+  ],
   "sources": [
     {
       "id": "atp-video",
@@ -75,5 +82,12 @@
       "accessed": "2026-10-27",
       "lang": "de"
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/topics/wawrinka-basel-standing-ovation-2026.jpg",
+    "alt": "Stan Wawrinka",
+    "credit": "Peter Arnold",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stan_Wawrinka,_Basel_2024.jpg"
+  }
 }
