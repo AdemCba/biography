@@ -1,5 +1,5 @@
 ---
-title: 'Anthony Edwards knee injury: what the sources show about his recovery'
+title: 'Anthony Edwards knee injury: how his recovery went and where he stands now'
 slug: anthony-edwards-knee-recovery-2026
 metaTitle: 'Anthony Edwards knee injury: April game and summer break'
 metaDescription: >-
@@ -10,7 +10,7 @@ summary: >-
   Anthony Edwards bruised his left knee in Game 4 of Minnesota's first-round
   playoff series against Denver in April 2026. In October he said he had spent
   roughly two months away from basketball after the season so the knee could
-  heal. The sources we checked give no return date.
+  heal. No return date was ever given.
 status: published
 risk: medium
 reviewedAt: '2026-10-28'
@@ -31,7 +31,7 @@ publishedAt: '2026-10-28'
 
 Minnesota won that game 112-96. The win gave it a 3-1 lead in the series [s:ap-edwards-knee-2026-04]. Teammate Donte DiVincenzo tore his Achilles tendon in the same game and had surgery in New York. The AP said his 2026-27 season was in "great jeopardy" [s:ap-edwards-knee-2026-04]. Forward Julius Randle said he had simply "dapped him up" and that there is not much to say in moments like that [s:ap-edwards-knee-2026-04].
 
-When the AP reported the injury, the team had not announced details or a timeline. An unnamed person with knowledge of the situation told the AP that Edwards was likely to miss multiple weeks [s:ap-edwards-knee-2026-04]. Roundtable later wrote that the team listed him as "week-to-week," meaning it would reassess him from one week to the next [s:roundtable-edwards-summer-break-2026-10]. The two descriptions differ, and neither source gives a return date.
+When the AP reported the injury, the team had not announced details or a timeline. An unnamed person with knowledge of the situation told the AP that Edwards was likely to miss multiple weeks [s:ap-edwards-knee-2026-04]. Roundtable later wrote that the team listed him as "week-to-week," meaning it would reassess him from one week to the next [s:roundtable-edwards-summer-break-2026-10]. The two descriptions differ, and no return date was given at the time.
 
 ## The season before the break
 
@@ -45,4 +45,4 @@ On October 4, Roundtable reported that Edwards had taken roughly two months away
 
 Minnesota traded for LaMelo Ball this summer. Roundtable wrote that the move should let Edwards return to shooting guard [s:roundtable-edwards-summer-break-2026-10]. The article gives the season opener as Wednesday, October 21, at Miami [s:roundtable-edwards-summer-break-2026-10].
 
-None of the sources says how Edwards has played since that opener, or whether his knee limits his minutes. Anyone looking for his current status will need a later update from the team.
+How the knee holds up over a full season is the open question. Minnesota has not said whether it plans to limit his minutes, so the next injury report from the team is the one to watch.

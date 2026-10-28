@@ -124,7 +124,12 @@ jobs:
               ({"id", "people": [ids of people on this site the story is about], "trendingIn": [geos],
               "sources": [same format as person.json]}) and <locale>.md for those languages with the same
               frontmatter as a biography (title, slug, metaTitle, metaDescription, summary, status, author,
-              targetQueries). Each text: at least 450 words, at least two `##` sections (what happened, the
+              targetQueries). Write like a sports or news journalist, not a research summary: open with why people
+              are searching this today, give the reader the useful facts and context, and end with what to watch next.
+              Never talk about "the sources" or "our research" in the text (no "none of the sources say", "according to
+              the sources"); just state facts with [s:id]. Mix short and long sentences, vary how sentences start, no
+              filler, no lists of adjectives, no generic closing paragraph. Each language is written natively for its
+              readers (local names, units, currency, references), not translated word for word. Each text: at least 450 words, at least two `##` sections (what happened, the
               background, what comes next), cited with [s:id] from at least two sources, written for that
               language's readers. Link people with [Name](person:person-id). If a person in the story has no page and is
               notable, write their biography too. review.ts does not handle topics: check each topic text against its

@@ -14,29 +14,35 @@ export const CLICHES: Record<Locale, string[]> = {
     "household name", "needs no introduction", "larger than life", "whether you're", "game-changer",
     "the rest is history", "left an enduring legacy", "cemented his", "cemented her", "cemented their",
     "a beacon of", "stands as a", "multifaceted", "trailblazer", "realm of",
+    // Talking about "the sources" instead of the story reads like a research summary.
+    "none of the sources", "neither source", "the sources show", "the sources say", "according to the sources", "what the sources",
   ],
   es: [
     "en conclusión", "en resumen", "cabe destacar", "cabe mencionar", "es importante destacar", "un testimonio de",
     "sin lugar a dudas", "en el mundo actual", "un verdadero icono", "huella imborrable", "inquebrantable",
     "meteórico ascenso", "no necesita presentación", "lo demás es historia", "un referente indiscutible",
     "se embarcó en", "en el ámbito de",
+    "ninguna de las fuentes", "las fuentes muestran", "según las fuentes",
   ],
   de: [
     "zusammenfassend", "abschließend lässt sich", "es ist wichtig zu beachten", "es ist erwähnenswert",
     "ein zeugnis", "in der heutigen", "schnelllebigen", "eine wahre ikone", "unauslöschlich", "unerschütterlich",
     "kometenhaft", "braucht keine vorstellung", "der rest ist geschichte", "begab sich auf eine reise",
     "im bereich der",
+    "keine der quellen", "die quellen zeigen", "laut den quellen",
   ],
   fr: [
     "en conclusion", "en résumé", "il est important de noter", "il convient de noter", "il est à noter",
     "témoignage de", "dans le monde d'aujourd'hui", "véritable icône", "empreinte indélébile", "inébranlable",
     "ascension fulgurante", "qu'on ne présente plus", "la suite appartient à l'histoire", "s'est lancé dans l'aventure",
     "dans le domaine de",
+    "aucune des sources", "les sources montrent", "selon les sources",
   ],
   pt: [
     "em conclusão", "em resumo", "vale ressaltar", "vale destacar", "é importante notar", "é importante destacar",
     "um verdadeiro ícone", "marca indelével", "inabalável", "ascensão meteórica", "dispensa apresentações",
     "o resto é história", "embarcou em uma jornada", "no mundo atual", "no âmbito de",
+    "nenhuma das fontes", "as fontes mostram", "segundo as fontes",
   ],
 };
 
