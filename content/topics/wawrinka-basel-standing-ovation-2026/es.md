@@ -1,15 +1,25 @@
 ---
 title: Stan Wawrinka recibe una ovación de pie en Basilea antes de su despedida
 slug: wawrinka-basel-standing-ovation
-metaTitle: 'Stan Wawrinka ovación en Basilea y despedida (2026)'
+metaTitle: Stan Wawrinka ovación en Basilea y despedida (2026)
 metaDescription: >-
-  Stan Wawrinka recibió una ovación de pie en el Swiss Indoors de Basilea el 26 de octubre de 2026. Qué dicen los medios sobre el homenaje, su carrera y lo que viene.
-knownFor: Tenista suizo que termina su carrera en el Swiss Indoors de Basilea en octubre de 2026
+  Stan Wawrinka recibió una ovación de pie en el Swiss Indoors de Basilea el 26
+  de octubre de 2026. Qué dicen los medios sobre el homenaje, su carrera y lo
+  que viene.
+knownFor: >-
+  Tenista suizo que termina su carrera en el Swiss Indoors de Basilea en octubre
+  de 2026
 summary: >-
-  Stan Wawrinka recibió una ovación de pie en el Swiss Indoors de Basilea el 26 de octubre de 2026, durante un homenaje antes de su último torneo [s:atp-video] [s:tenniswatcher]. El torneo y Tennis.com describen Basilea como el final de su carrera [s:swissindoors-farewell] [s:tennis-com]. Las fuentes consultadas no anuncian ningún calendario de partidos después de Basilea.
-status: review
+  Stan Wawrinka recibió una ovación de pie en el Swiss Indoors de Basilea el 26
+  de octubre de 2026, durante un homenaje antes de su último torneo
+  [s:atp-video] [s:tenniswatcher]. El torneo y Tennis.com describen Basilea como
+  el final de su carrera [s:swissindoors-farewell] [s:tennis-com]. Las fuentes
+  consultadas no anuncian ningún calendario de partidos después de Basilea.
+status: published
 risk: medium
+reviewedAt: '2026-10-28'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Stan Wawrinka Basilea
@@ -20,10 +30,15 @@ targetQueries:
 faq:
   - q: ¿Stan Wawrinka se retira en Basilea?
     a: >-
-      El torneo y Tennis.com describen Basilea como el final de su carrera [s:swissindoors-farewell] [s:tennis-com]. Su primer partido contra Jiří Lehečka aparecía todavía como pendiente en los textos consultados, y ninguno da el resultado [s:tenniswatcher] [s:blick].
+      El torneo y Tennis.com describen Basilea como el final de su carrera
+      [s:swissindoors-farewell] [s:tennis-com]. Su primer partido contra Jiří
+      Lehečka aparecía todavía como pendiente en los textos consultados, y
+      ninguno da el resultado [s:tenniswatcher] [s:blick].
   - q: ¿Cuántos títulos de Grand Slam individuales tiene Stan Wawrinka?
     a: >-
-      Tres: el Abierto de Australia 2014, Roland Garros 2015 y el US Open 2016 [s:atp-bio] [s:swissindoors-farewell].
+      Tres: el Abierto de Australia 2014, Roland Garros 2015 y el US Open 2016
+      [s:atp-bio] [s:swissindoors-farewell].
+publishedAt: '2026-10-28'
 ---
 ## Qué pasó
 

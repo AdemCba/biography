@@ -1,15 +1,23 @@
 ---
 title: Stan Wawrinka recebe ovação de pé em Basileia antes da despedida
 slug: wawrinka-basel-standing-ovation
-metaTitle: 'Stan Wawrinka ovação em Basileia e despedida (2026)'
+metaTitle: Stan Wawrinka ovação em Basileia e despedida (2026)
 metaDescription: >-
-  Stan Wawrinka recebeu ovação de pé no Swiss Indoors de Basileia em 26 de outubro de 2026. O que dizem as reportagens sobre a homenagem e a despedida.
-knownFor: Tenista suíço que encerra a carreira no Swiss Indoors de Basileia em outubro de 2026
+  Stan Wawrinka recebeu ovação de pé no Swiss Indoors de Basileia em 26 de
+  outubro de 2026. O que dizem as reportagens sobre a homenagem e a despedida.
+knownFor: >-
+  Tenista suíço que encerra a carreira no Swiss Indoors de Basileia em outubro
+  de 2026
 summary: >-
-  Stan Wawrinka recebeu ovação de pé em Basileia, no Swiss Indoors, em 26 de outubro de 2026 [s:atp-video] [s:tenniswatcher]. O torneio e o Tennis.com descrevem Basileia como o fim da carreira [s:swissindoors-farewell] [s:tennis-com].
-status: review
+  Stan Wawrinka recebeu ovação de pé em Basileia, no Swiss Indoors, em 26 de
+  outubro de 2026 [s:atp-video] [s:tenniswatcher]. O torneio e o Tennis.com
+  descrevem Basileia como o fim da carreira [s:swissindoors-farewell]
+  [s:tennis-com].
+status: published
 risk: medium
+reviewedAt: '2026-10-28'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Stan Wawrinka Basileia
@@ -20,10 +28,15 @@ targetQueries:
 faq:
   - q: Stan Wawrinka se aposenta em Basileia?
     a: >-
-      O torneio e o Tennis.com descrevem Basileia como o fim da carreira dele [s:swissindoors-farewell] [s:tennis-com]. A estreia contra Jiří Lehečka ainda aparecia como futura nos textos consultados, e nenhum deles informa o resultado [s:tenniswatcher] [s:blick].
+      O torneio e o Tennis.com descrevem Basileia como o fim da carreira dele
+      [s:swissindoors-farewell] [s:tennis-com]. A estreia contra Jiří Lehečka
+      ainda aparecia como futura nos textos consultados, e nenhum deles informa
+      o resultado [s:tenniswatcher] [s:blick].
   - q: Quantos títulos de Grand Slam de simples Stan Wawrinka conquistou?
     a: >-
-      Três: Aberto da Austrália 2014, Roland Garros 2015 e US Open 2016 [s:atp-bio] [s:swissindoors-farewell].
+      Três: Aberto da Austrália 2014, Roland Garros 2015 e US Open 2016
+      [s:atp-bio] [s:swissindoors-farewell].
+publishedAt: '2026-10-28'
 ---
 ## O que aconteceu
 

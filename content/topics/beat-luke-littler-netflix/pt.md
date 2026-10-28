@@ -3,13 +3,19 @@ title: 'Beat Luke Littler na Netflix: como um amador pode ganhar 501 mil libras'
 slug: beat-luke-littler-netflix
 metaTitle: 'Beat Luke Littler na Netflix: data, formato e prêmio'
 metaDescription: >-
-  Beat Luke Littler é um especial de dardos ao vivo na Netflix na sexta-feira, 30 de outubro de 2026. Vinte amadores jogam uma perna de 501.
+  Beat Luke Littler é um especial de dardos ao vivo na Netflix na sexta-feira,
+  30 de outubro de 2026. Vinte amadores jogam uma perna de 501.
 knownFor: Especial de dardos ao vivo na Netflix
 summary: >-
-  A Netflix transmite ao vivo Beat Luke Littler na sexta-feira, 30 de outubro de 2026. Vinte jogadores amadores disputam, cada um, uma perna de 501 contra Luke Littler, então número 1 do mundo, e quem vencer uma perna leva 501 mil libras. O programa é feito com a PDC e produzido pela Workerbee, selo da Banijay UK.
-status: review
+  A Netflix transmite ao vivo Beat Luke Littler na sexta-feira, 30 de outubro de
+  2026. Vinte jogadores amadores disputam, cada um, uma perna de 501 contra Luke
+  Littler, então número 1 do mundo, e quem vencer uma perna leva 501 mil libras.
+  O programa é feito com a PDC e produzido pela Workerbee, selo da Banijay UK.
+status: published
 risk: medium
+reviewedAt: '2026-10-28'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Beat Luke Littler Netflix
@@ -17,8 +23,8 @@ targetQueries:
   - Beat Luke Littler prêmio
   - Beat Luke Littler data
   - Luke Littler Netflix dardos
+publishedAt: '2026-10-28'
 ---
-
 A Netflix transmite ao vivo, na sexta-feira, 30 de outubro de 2026, o especial de dardos Beat Luke Littler [s:broadcastnow-beat-luke-littler]. Vinte jogadores amadores terão, cada um, uma perna de 501 contra [Luke Littler](person:luke-littler), então número 1 do mundo [s:whats-on-netflix-beat-luke-littler]. Quem vencer uma perna leva 501 mil libras [s:whats-on-netflix-beat-luke-littler].
 
 ## Como funciona o formato

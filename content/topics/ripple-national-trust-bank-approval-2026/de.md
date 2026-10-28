@@ -3,13 +3,25 @@ title: Ripple erhält finale US-Genehmigung für National Trust Bank
 slug: ripple-national-trust-bank-approval
 metaTitle: 'Ripple National Trust Bank: finale US-Genehmigung (2026)'
 metaDescription: >-
-  Ripple hat die finale OCC-Genehmigung für die Ripple National Trust Bank. Sie darf RLUSD-Reserven verwalten und digitale Vermögenswerte verwahren. Was die Lizenz abdeckt.
-knownFor: Krypto-Unternehmen, dessen Treuhandbank-Lizenz die finale Genehmigung in den USA erhielt
+  Ripple hat die finale OCC-Genehmigung für die Ripple National Trust Bank. Sie
+  darf RLUSD-Reserven verwalten und digitale Vermögenswerte verwahren. Was die
+  Lizenz abdeckt.
+knownFor: >-
+  Krypto-Unternehmen, dessen Treuhandbank-Lizenz die finale Genehmigung in den
+  USA erhielt
 summary: >-
-  Die US-Aufsichtsbehörde Office of the Comptroller of the Currency hat Ripple die finale Genehmigung erteilt, die Ripple National Trust Bank zu gründen. Ripple hat die Entscheidung am 26. Oktober 2026 bekanntgegeben [s:ripple-press-final-occ]. Die Lizenz umfasst die Verwaltung der Reserven hinter Ripple USD (RLUSD) und die Verwahrung digitaler Vermögenswerte. Eine Vollbank ist die Bank nicht: National Trust Banks nehmen in der Regel keine Einlagen an und vergeben keine Kredite [s:cointelegraph-ripple-final].
-status: review
+  Die US-Aufsichtsbehörde Office of the Comptroller of the Currency hat Ripple
+  die finale Genehmigung erteilt, die Ripple National Trust Bank zu gründen.
+  Ripple hat die Entscheidung am 26. Oktober 2026 bekanntgegeben
+  [s:ripple-press-final-occ]. Die Lizenz umfasst die Verwaltung der Reserven
+  hinter Ripple USD (RLUSD) und die Verwahrung digitaler Vermögenswerte. Eine
+  Vollbank ist die Bank nicht: National Trust Banks nehmen in der Regel keine
+  Einlagen an und vergeben keine Kredite [s:cointelegraph-ripple-final].
+status: published
 risk: medium
+reviewedAt: '2026-10-28'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Ripple National Trust Bank
@@ -20,10 +32,15 @@ targetQueries:
 faq:
   - q: Wer gibt RLUSD nach der Genehmigung aus?
     a: >-
-      Standard Custody & Trust Company gibt RLUSD weiterhin aus. Das Unternehmen wird von der New Yorker Finanzaufsicht DFS reguliert [s:ripple-press-final-occ] [s:cointelegraph-ripple-final].
+      Standard Custody & Trust Company gibt RLUSD weiterhin aus. Das Unternehmen
+      wird von der New Yorker Finanzaufsicht DFS reguliert
+      [s:ripple-press-final-occ] [s:cointelegraph-ripple-final].
   - q: Wann öffnet die Ripple National Trust Bank?
     a: >-
-      Keine der geprüften Quellen nennt einen Starttermin. Die Genehmigung sagt also nicht, wann die Bank den Betrieb aufnimmt [s:ripple-press-final-occ] [s:cointelegraph-ripple-final].
+      Keine der geprüften Quellen nennt einen Starttermin. Die Genehmigung sagt
+      also nicht, wann die Bank den Betrieb aufnimmt [s:ripple-press-final-occ]
+      [s:cointelegraph-ripple-final].
+publishedAt: '2026-10-28'
 ---
 ## Was geschehen ist
 

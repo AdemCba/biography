@@ -14,7 +14,7 @@ on:
         default: "5"
       topics:
         description: "Kaç gündem (trend konu) yazısı yazılsın"
-        default: "1"
+        default: "2"
       people:
         description: "İstediğin kişiler, virgülle (boş = trendlerden seç). Ör: Arda Güler, Kenan Yıldız"
         required: false
@@ -93,6 +93,13 @@ jobs:
               metaDescription opens with the answer, e.g. "Alexia Putellas ist {age} Jahre alt (geboren am
               4. Februar 1994).", then one concrete fact from today's news. Use {age} only when person.json
               has birthDate. Keep metaTitle under 60 characters and metaDescription under 160.
+            - Traffic first: the fastest wins are people who already have a page and trend again (section
+              "Sitede zaten var, güncellemeye aday" of latest.md). Before writing new people, update up to 3 of
+              them in all five languages: a dated "## <Month Year>" section on why they are in the news, refreshed
+              summary, updatedAt: today. For every person and topic, write the questions people type for that name
+              as FAQ entries and targetQueries ("who is X", "X age", "X wife/husband/partner", "X net worth",
+              "where is X from", "X height", "X club/team now"), answered from sources. Skip only what a source
+              cannot answer and anything about private life of non-public people, health, sex or crime.
             - Small gaps are not blockers. When no source gives a nationality, a birthplace detail or an exact
               date, leave that field out (or say the sources differ, e.g. "born in 1978 or 1979") and carry on.
               Never leave a page in review or flagged for a human for such gaps: fix what the fact-check found
@@ -102,7 +109,7 @@ jobs:
             - Then, if usage allows, repair up to 2 existing pages: pick pages from `npm run -s check` that are in
               status review or show ERROR, `too-short` or `short-for-importance`, expand or fix them in all languages with sourced facts, and fact-check them
               again with review.ts. Never remove a page.
-            - Trending topics: also write ${{ inputs.topics || 1 }} topic article(s) from the section "Son 4 saatte
+            - Trending topics: also write ${{ inputs.topics || 2 }} topic article(s) from the section "Son 4 saatte
               Google'da yükselen konular" of data/trend-candidates/latest.md (prefer terms trending in several
               countries). Skip deaths, accidents, crime, war, elections and politics, and anything about minors or
               sexual content. Confirm the story with WebSearch, then create content/topics/<id>/topic.json

@@ -1,15 +1,24 @@
 ---
 title: Stan Wawrinka ovationné debout à Bâle avant ses adieux
 slug: wawrinka-basel-standing-ovation
-metaTitle: 'Stan Wawrinka ovation à Bâle et adieux (2026)'
+metaTitle: Stan Wawrinka ovation à Bâle et adieux (2026)
 metaDescription: >-
-  Stan Wawrinka a reçu une standing ovation aux Swiss Indoors de Bâle le 26 octobre 2026. Ce que disent les médias sur l'hommage, sa carrière et la suite.
-knownFor: Joueur de tennis suisse qui termine sa carrière aux Swiss Indoors de Bâle en octobre 2026
+  Stan Wawrinka a reçu une standing ovation aux Swiss Indoors de Bâle le 26
+  octobre 2026. Ce que disent les médias sur l'hommage, sa carrière et la suite.
+knownFor: >-
+  Joueur de tennis suisse qui termine sa carrière aux Swiss Indoors de Bâle en
+  octobre 2026
 summary: >-
-  Stan Wawrinka a reçu une standing ovation aux Swiss Indoors de Bâle le 26 octobre 2026, lors d'un hommage avant son dernier tournoi [s:atp-video] [s:tenniswatcher]. Le tournoi et Tennis.com décrivent Bâle comme la fin de sa carrière [s:swissindoors-farewell] [s:tennis-com]. Les sources consultées n'annoncent aucun calendrier après Bâle.
-status: review
+  Stan Wawrinka a reçu une standing ovation aux Swiss Indoors de Bâle le 26
+  octobre 2026, lors d'un hommage avant son dernier tournoi [s:atp-video]
+  [s:tenniswatcher]. Le tournoi et Tennis.com décrivent Bâle comme la fin de sa
+  carrière [s:swissindoors-farewell] [s:tennis-com]. Les sources consultées
+  n'annoncent aucun calendrier après Bâle.
+status: published
 risk: medium
+reviewedAt: '2026-10-28'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Stan Wawrinka Bâle
@@ -20,10 +29,17 @@ targetQueries:
 faq:
   - q: Stan Wawrinka prend-il sa retraite à Bâle ?
     a: >-
-      Le tournoi et Tennis.com décrivent Bâle comme la fin de sa carrière [s:swissindoors-farewell] [s:tennis-com]. Son premier tour contre Jiří Lehečka était encore présenté comme à venir dans les articles consultés, aucun ne donne le résultat [s:tenniswatcher] [s:blick].
-  - q: Combien de titres de Grand Chelem en simple Stan Wawrinka a-t-il remportés ?
+      Le tournoi et Tennis.com décrivent Bâle comme la fin de sa carrière
+      [s:swissindoors-farewell] [s:tennis-com]. Son premier tour contre Jiří
+      Lehečka était encore présenté comme à venir dans les articles consultés,
+      aucun ne donne le résultat [s:tenniswatcher] [s:blick].
+  - q: >-
+      Combien de titres de Grand Chelem en simple Stan Wawrinka a-t-il remportés
+      ?
     a: >-
-      Trois : l'Open d'Australie 2014, Roland-Garros 2015 et l'US Open 2016 [s:atp-bio] [s:swissindoors-farewell].
+      Trois : l'Open d'Australie 2014, Roland-Garros 2015 et l'US Open 2016
+      [s:atp-bio] [s:swissindoors-farewell].
+publishedAt: '2026-10-28'
 ---
 ## Ce qui s'est passé
 

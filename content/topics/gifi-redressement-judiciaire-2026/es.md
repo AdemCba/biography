@@ -3,13 +3,22 @@ title: Gifi pide la reestructuración judicial mientras 32 tiendas pasan a Grand
 slug: gifi-redressement-judiciaire
 metaTitle: 'Gifi reestructuración judicial: tiendas y Grand Frais (2026)'
 metaDescription: >-
-  Gifi pidió una reestructuración judicial en Francia el 20 de octubre de 2026. Qué dicen los medios sobre sus 513 tiendas y los 32 locales para Grand Frais.
-knownFor: Cadena francesa de descuento de decoración que pidió reestructuración judicial en octubre de 2026
+  Gifi pidió una reestructuración judicial en Francia el 20 de octubre de 2026.
+  Qué dicen los medios sobre sus 513 tiendas y los 32 locales para Grand Frais.
+knownFor: >-
+  Cadena francesa de descuento de decoración que pidió reestructuración judicial
+  en octubre de 2026
 summary: >-
-  La cadena francesa Gifi pidió un procedimiento de reestructuración judicial el 20 de octubre de 2026, según varios medios franceses [s:journaldugeek-gifi] [s:tribunaldunet-gifi]. El plan contempla vender 32 tiendas a Grand Frais, y diez tiendas ya han cerrado de forma definitiva [s:demotivateur-gifi]. Las fuentes no coinciden en hasta dónde ha llegado el proceso en el tribunal.
-status: review
+  La cadena francesa Gifi pidió un procedimiento de reestructuración judicial el
+  20 de octubre de 2026, según varios medios franceses [s:journaldugeek-gifi]
+  [s:tribunaldunet-gifi]. El plan contempla vender 32 tiendas a Grand Frais, y
+  diez tiendas ya han cerrado de forma definitiva [s:demotivateur-gifi]. Las
+  fuentes no coinciden en hasta dónde ha llegado el proceso en el tribunal.
+status: published
 risk: medium
+reviewedAt: '2026-10-28'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Gifi reestructuración judicial
@@ -20,10 +29,15 @@ targetQueries:
 faq:
   - q: ¿Gifi está en liquidación?
     a: >-
-      Los reportajes consultados describen una reestructuración judicial, no una liquidación. Un titular menciona la liquidación, pero el cuerpo del artículo no lo confirma [s:journaldugeek-gifi] [s:kohenavocats-gifi].
+      Los reportajes consultados describen una reestructuración judicial, no una
+      liquidación. Un titular menciona la liquidación, pero el cuerpo del
+      artículo no lo confirma [s:journaldugeek-gifi] [s:kohenavocats-gifi].
   - q: ¿Cuántas tiendas de Gifi pasan a Grand Frais?
     a: >-
-      Los reportajes hablan de 32 locales: 17 los explotará directamente Grand Frais, 14 bajo un contrato de gerencia y una tienda de Bayonne vinculada a Gifi 48 [s:demotivateur-gifi] [s:tribunaldunet-gifi].
+      Los reportajes hablan de 32 locales: 17 los explotará directamente Grand
+      Frais, 14 bajo un contrato de gerencia y una tienda de Bayonne vinculada a
+      Gifi 48 [s:demotivateur-gifi] [s:tribunaldunet-gifi].
+publishedAt: '2026-10-28'
 ---
 ## Qué ha pasado
 

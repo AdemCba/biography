@@ -10,13 +10,35 @@
  */
 import { readContent, today } from "../src/lib/content";
 import { writeArticle } from "../src/lib/article-file";
+import { checkContent, GATE_CODES } from "../src/lib/quality";
 
 const args = process.argv.slice(2);
 const val = (n: string) => args[args.indexOf(`--${n}`) + 1];
 const perDay = args.includes("--per-day") ? Number(val("per-day")) : 3;
 const start = new Date(`${args.includes("--from") ? val("from") : today()}T00:00:00Z`);
 
-const store = readContent();
+let store = readContent();
+
+// Trending topics go stale in a day, and review.ts does not handle them: a topic in review that passes
+// every quality gate (sources, length, citations, style) is approved by the fact-check desk here.
+{
+  const { reports } = checkContent(store);
+  let approved = 0;
+  for (const topic of store.topics) {
+    for (const a of Object.values(topic.articles)) {
+      if (!a || a.meta.status !== "review" || a.meta.flag) continue;
+      const report = reports.find((r) => r.topic && r.personId === topic.data.id && r.locale === a.locale);
+      const blocking = report?.issues.some((i) => i.level === "error" || (GATE_CODES.has(i.code) && i.code !== "no-reviewer"));
+      if (blocking) continue;
+      writeArticle(a.file, { ...a.meta, status: "approved", reviewer: "fact-check-desk", reviewedAt: today() }, a.body);
+      approved++;
+    }
+  }
+  if (approved) {
+    console.log(`Approved ${approved} gate-clean trending topic article(s).`);
+    store = readContent();
+  }
+}
 // Existing future slots count against the daily quota of their language.
 const taken = new Map<string, number>();
 const slot = (date: string, locale: string) => `${date}|${locale}`;

@@ -3,13 +3,21 @@ title: Ripple Gets Final US Approval for National Trust Bank
 slug: ripple-national-trust-bank-approval
 metaTitle: 'Ripple National Trust Bank: final US approval (2026)'
 metaDescription: >-
-  Ripple has final OCC approval for Ripple National Trust Bank, which will manage RLUSD reserves and custody digital assets. What the charter covers.
+  Ripple has final OCC approval for Ripple National Trust Bank, which will
+  manage RLUSD reserves and custody digital assets. What the charter covers.
 knownFor: Crypto company whose trust bank charter won final US approval
 summary: >-
-  The US Office of the Comptroller of the Currency has given Ripple final approval to establish Ripple National Trust Bank, Ripple announced on 26 October 2026 [s:ripple-press-final-occ]. The charter covers managing the reserves behind Ripple USD (RLUSD) and providing digital asset custody. It is not a full bank: national trust banks generally take no deposits and make no loans [s:cointelegraph-ripple-final].
-status: review
+  The US Office of the Comptroller of the Currency has given Ripple final
+  approval to establish Ripple National Trust Bank, Ripple announced on 26
+  October 2026 [s:ripple-press-final-occ]. The charter covers managing the
+  reserves behind Ripple USD (RLUSD) and providing digital asset custody. It is
+  not a full bank: national trust banks generally take no deposits and make no
+  loans [s:cointelegraph-ripple-final].
+status: published
 risk: medium
+reviewedAt: '2026-10-28'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Ripple National Trust Bank
@@ -21,10 +29,15 @@ targetQueries:
 faq:
   - q: Who issues RLUSD after the approval?
     a: >-
-      Standard Custody & Trust Company will keep issuing RLUSD, and it is regulated by the New York Department of Financial Services [s:ripple-press-final-occ] [s:cointelegraph-ripple-final].
+      Standard Custody & Trust Company will keep issuing RLUSD, and it is
+      regulated by the New York Department of Financial Services
+      [s:ripple-press-final-occ] [s:cointelegraph-ripple-final].
   - q: When will Ripple National Trust Bank open?
     a: >-
-      None of the sources reviewed gives an opening date, so the approval does not say when the bank will start operating [s:ripple-press-final-occ] [s:cointelegraph-ripple-final].
+      None of the sources reviewed gives an opening date, so the approval does
+      not say when the bank will start operating [s:ripple-press-final-occ]
+      [s:cointelegraph-ripple-final].
+publishedAt: '2026-10-28'
 ---
 ## What happened
 

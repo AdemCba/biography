@@ -1,15 +1,25 @@
 ---
 title: Stan Wawrinka mit Standing Ovations in Basel vor dem Abschied
 slug: wawrinka-basel-standing-ovation
-metaTitle: 'Stan Wawrinka Basel Standing Ovation und Abschied (2026)'
+metaTitle: Stan Wawrinka Basel Standing Ovation und Abschied (2026)
 metaDescription: >-
-  Stan Wawrinka erhielt am 26. Oktober 2026 bei den Swiss Indoors in Basel eine Standing Ovation. Was die Berichte über die Ehrung, seine Karriere und das Nächste sagen.
-knownFor: Schweizer Tennisspieler, der seine Karriere im Oktober 2026 bei den Swiss Indoors in Basel beendet
+  Stan Wawrinka erhielt am 26. Oktober 2026 bei den Swiss Indoors in Basel eine
+  Standing Ovation. Was die Berichte über die Ehrung, seine Karriere und das
+  Nächste sagen.
+knownFor: >-
+  Schweizer Tennisspieler, der seine Karriere im Oktober 2026 bei den Swiss
+  Indoors in Basel beendet
 summary: >-
-  Stan Wawrinka erhielt am 26. Oktober 2026 bei den Swiss Indoors in Basel eine Standing Ovation, während einer Ehrung vor seinem letzten Turnier [s:atp-video] [s:tenniswatcher]. Das Turnier und Tennis.com beschreiben Basel als das Ende seiner Karriere [s:swissindoors-farewell] [s:tennis-com]. Die geprüften Quellen kündigen keine Turnierplanung nach Basel an.
-status: review
+  Stan Wawrinka erhielt am 26. Oktober 2026 bei den Swiss Indoors in Basel eine
+  Standing Ovation, während einer Ehrung vor seinem letzten Turnier
+  [s:atp-video] [s:tenniswatcher]. Das Turnier und Tennis.com beschreiben Basel
+  als das Ende seiner Karriere [s:swissindoors-farewell] [s:tennis-com]. Die
+  geprüften Quellen kündigen keine Turnierplanung nach Basel an.
+status: published
 risk: medium
+reviewedAt: '2026-10-28'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Stan Wawrinka Basel
@@ -20,10 +30,15 @@ targetQueries:
 faq:
   - q: Beendet Stan Wawrinka seine Karriere in Basel?
     a: >-
-      Das Turnier und Tennis.com beschreiben Basel als das Ende seiner Karriere [s:swissindoors-farewell] [s:tennis-com]. Das Erstrundenspiel gegen Jiří Lehečka war in den geprüften Berichten noch angesetzt, ein Ergebnis nennt keiner von ihnen [s:tenniswatcher] [s:blick].
+      Das Turnier und Tennis.com beschreiben Basel als das Ende seiner Karriere
+      [s:swissindoors-farewell] [s:tennis-com]. Das Erstrundenspiel gegen Jiří
+      Lehečka war in den geprüften Berichten noch angesetzt, ein Ergebnis nennt
+      keiner von ihnen [s:tenniswatcher] [s:blick].
   - q: Wie viele Grand-Slam-Einzeltitel hat Stan Wawrinka gewonnen?
     a: >-
-      Drei: 2014 bei den Australian Open, 2015 bei Roland Garros und 2016 bei den US Open [s:atp-bio] [s:swissindoors-farewell].
+      Drei: 2014 bei den Australian Open, 2015 bei Roland Garros und 2016 bei
+      den US Open [s:atp-bio] [s:swissindoors-farewell].
+publishedAt: '2026-10-28'
 ---
 ## Was passiert ist
 

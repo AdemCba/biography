@@ -66,7 +66,10 @@ export function pageMetadata(opts: {
       images: [{ url: absoluteUrl(opts.image ?? DEFAULT_SHARE_IMAGE) }],
     },
     twitter: { card: "summary_large_image", title: opts.title, description: opts.description },
-    robots: opts.noindex ? { index: false, follow: true } : undefined,
+    // Large previews make pages eligible for Google Discover and image-rich results.
+    robots: opts.noindex
+      ? { index: false, follow: true }
+      : { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   };
 }
 

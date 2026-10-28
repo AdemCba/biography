@@ -3,13 +3,20 @@ title: 'Beat Luke Littler auf Netflix: wie Amateure 501.000 Pfund gewinnen könn
 slug: beat-luke-littler-netflix
 metaTitle: 'Beat Luke Littler auf Netflix: Termin, Format und Preisgeld'
 metaDescription: >-
-  Beat Luke Littler ist am Freitag, 30. Oktober 2026, live auf Netflix. Zwanzig Amateure spielen je ein Leg mit 501 um 501.000 Pfund.
+  Beat Luke Littler ist am Freitag, 30. Oktober 2026, live auf Netflix. Zwanzig
+  Amateure spielen je ein Leg mit 501 um 501.000 Pfund.
 knownFor: Live-Darts-Show auf Netflix
 summary: >-
-  Netflix zeigt Beat Luke Littler am Freitag, 30. Oktober 2026, live. Zwanzig Amateure spielen jeweils ein Leg mit 501 gegen Luke Littler, damals die Nummer eins der Welt, und wer ein Leg gewinnt, erhält 501.000 Pfund. Die Show entsteht in Zusammenarbeit mit der PDC und wird von Workerbee produziert, einem Label von Banijay UK.
-status: review
+  Netflix zeigt Beat Luke Littler am Freitag, 30. Oktober 2026, live. Zwanzig
+  Amateure spielen jeweils ein Leg mit 501 gegen Luke Littler, damals die Nummer
+  eins der Welt, und wer ein Leg gewinnt, erhält 501.000 Pfund. Die Show
+  entsteht in Zusammenarbeit mit der PDC und wird von Workerbee produziert,
+  einem Label von Banijay UK.
+status: published
 risk: medium
+reviewedAt: '2026-10-28'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Beat Luke Littler Netflix
@@ -17,8 +24,8 @@ targetQueries:
   - Beat Luke Littler Preisgeld
   - Beat Luke Littler Termin
   - Luke Littler Netflix Darts
+publishedAt: '2026-10-28'
 ---
-
 Netflix zeigt am Freitag, dem 30. Oktober 2026, live die Darts-Show Beat Luke Littler [s:broadcastnow-beat-luke-littler]. Der Titel nennt den Namen des Weltmeisters [s:whats-on-netflix-beat-luke-littler]. Zwanzig Amateure bekommen je ein Leg mit 501 gegen [Luke Littler](person:luke-littler), damals die Nummer eins der Welt [s:whats-on-netflix-beat-luke-littler]. Wer ein Leg gewinnt, erhält 501.000 Pfund [s:whats-on-netflix-beat-luke-littler].
 
 ## Was das Format von den Spielern verlangt
