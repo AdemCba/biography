@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { ThirdPartyScripts } from "@/components/ThirdPartyScripts";
 import { site } from "@/config/site";
 import "../globals.css";
 
@@ -13,12 +14,17 @@ export const metadata: Metadata = {
     ],
     apple: "/apple-touch-icon.png",
   },
+  verification: site.googleVerification ? { google: site.googleVerification } : undefined,
+  other: site.adsenseClient ? { "google-adsense-account": site.adsenseClient } : undefined,
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
-      <body className="min-h-screen">{children}</body>
+      <body className="min-h-screen">
+        {children}
+        <ThirdPartyScripts />
+      </body>
     </html>
   );
 }
