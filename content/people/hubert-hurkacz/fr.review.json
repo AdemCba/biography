@@ -1,0 +1,303 @@
+{
+  "date": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 11 February 1997 in Wrocław",
+      "sourceIds": [
+        "wikidata-hurkacz"
+      ],
+      "verdict": "confirmed",
+      "note": "Wikidata P569 1997-02-11; P19 Wrocław"
+    },
+    {
+      "claim": "Polish citizenship",
+      "sourceIds": [
+        "wikidata-hurkacz"
+      ],
+      "verdict": "confirmed",
+      "note": "Wikidata P27 Poland"
+    },
+    {
+      "claim": "Mother a junior champion in Poland; began tennis at five",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio Personal section"
+    },
+    {
+      "claim": "Gymnastics, basketball and football as a child",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio: as a child also did gymnastics, basketball, football"
+    },
+    {
+      "claim": "Turned professional in 2015",
+      "sourceIds": [
+        "ausopen-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "AO profile: year turned pro 2015"
+    },
+    {
+      "claim": "Nickname Hubi",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio: Nickname is Hubi"
+    },
+    {
+      "claim": "196 cm, 81 kg, plays right-handed",
+      "sourceIds": [
+        "ausopen-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "AO profile: 196 cm, 81 kg, right handed"
+    },
+    {
+      "claim": "Favourite shot serve; favourite surface hard",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio Personal section"
+    },
+    {
+      "claim": "Grew up on clay, all-around game",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio: grew up on clay, has an all-around game"
+    },
+    {
+      "claim": "Idols Federer and Jordan; favourite city Melbourne",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio Personal section"
+    },
+    {
+      "claim": "Six-match losing streak entering Wimbledon 2021; first Grand Slam semifinal",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio Career section"
+    },
+    {
+      "claim": "Beat Federer 6-3 7-6(4) 6-0; Federer's final singles match; eight-time champion",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio gives score, final singles match and 8-time champion wording; three sets follows from score"
+    },
+    {
+      "claim": "Miami 2021 title, five seeds upset including Sinner in the final",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio Career section"
+    },
+    {
+      "claim": "Shanghai 2023 title, saved championship point against Rublev",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio Career section"
+    },
+    {
+      "claim": "Masters 1000 doubles titles Paris 2020 (Auger-Aliassime) and Miami 2022 (Isner)",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio Doubles section"
+    },
+    {
+      "claim": "Best doubles ranking No. 30",
+      "sourceIds": [
+        "ausopen-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "AO profile career best doubles ranking 30"
+    },
+    {
+      "claim": "Masters 1000 semifinals Paris 2021, Miami 2022, Cincinnati 2023; Montreal final lost 2022",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio Other Masters results"
+    },
+    {
+      "claim": "Halle 2022 title, beat Medvedev 6-1 6-4 in 63 minutes, fifth ATP title",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio Career section"
+    },
+    {
+      "claim": "8-4 in ATP singles finals",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio: now 8-4 in finals"
+    },
+    {
+      "claim": "Eight singles titles and four doubles titles",
+      "sourceIds": [
+        "ausopen-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "AO profile: singles titles 8, doubles titles 4"
+    },
+    {
+      "claim": "Year-end No. 9 in 2021 and 2023 after Nitto ATP Finals appearances; career-high No. 6 in August 2024",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio Rankings"
+    },
+    {
+      "claim": "ATP profile calls him top Polish men's player in history",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio Other claims: Milestone"
+    },
+    {
+      "claim": "2026 United Cup: beat No. 3 Zverev and No. 9 Fritz, helping Poland win",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio Team Competitions"
+    },
+    {
+      "claim": "Lost to Zverev in 2024 final and to Fritz in 2023 semifinal and 2025 final",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio Team Competitions"
+    },
+    {
+      "claim": "Career singles record 253-173",
+      "sourceIds": [
+        "ausopen-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "AO profile career win-loss"
+    },
+    {
+      "claim": "Best Australian Open result quarter-final 2024; eight appearances",
+      "sourceIds": [
+        "ausopen-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "AO profile: AO best QF 2024; AO's played 8"
+    },
+    {
+      "claim": "Best Australian Open doubles result first round in 2020 and 2021",
+      "sourceIds": [
+        "ausopen-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "AO profile: AO best doubles 1st round 2020, 2021"
+    },
+    {
+      "claim": "20 January 2026 first-round win over Zizou Bergs, 6-7 7-6 6-3 6-3",
+      "sourceIds": [
+        "sporza-bergs-ao-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sporza: 20 January 2026, first round, sets 6-7 7-6 6-3 6-3, Hurkacz won"
+    },
+    {
+      "claim": "Coaches Gilles Cervara and Matt Terczynski",
+      "sourceIds": [
+        "ausopen-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "AO profile coach field"
+    },
+    {
+      "claim": "As of 28 Oct 2026: singles ranking 28, 27-20 year to date, career earnings 21,224,765 USD",
+      "sourceIds": [
+        "ausopen-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "AO profile: current singles 28 (updated 28/10/2026), YTD 27-20, career earnings $21,224,765"
+    },
+    {
+      "claim": "Swiss Indoors Basel runs 26 October to 1 November 2026",
+      "sourceIds": [
+        "etoto-basel-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "eToto preview: tournament starts 26 October, runs to 1 November"
+    },
+    {
+      "claim": "Zizou Bergs replaces Arthur Fils as first-round opponent in Basel",
+      "sourceIds": [
+        "etoto-basel-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "eToto preview: instead of Fils, Hurkacz faces Bergs (preview, no result reported)"
+    },
+    {
+      "claim": "Basel would be their second meeting this year, after the January Australian Open match",
+      "sourceIds": [
+        "etoto-basel-2026",
+        "sporza-bergs-ao-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "eToto: last meeting was AO January 2026, won by Hurkacz; Sporza confirms the AO result"
+    },
+    {
+      "claim": "Would have pursued race-car driving, basketball or business without tennis",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio Personal section"
+    },
+    {
+      "claim": "Other interests basketball, fast cars, snooker, watches; reads Robert Ludlum",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio Personal section"
+    },
+    {
+      "claim": "Favourites Jason Statham, Papillon, Top Gear, Iron Man, risotto",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio Personal section"
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds the 2026 Australian Open career and current-ranking facts, the Swiss Indoors Basel draw and the 2026 United Cup run, with primary ATP and AO sources that the short top results do not combine.",
+  "decision": "approve",
+  "summary": "All cited facts match the ATP bio, Australian Open profile, Wikidata, Sporza and eToto pages opened for this check. The Basel item is stated as a draw, not a result."
+}

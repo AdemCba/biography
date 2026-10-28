@@ -4,41 +4,34 @@
   "trendingIn": [
     "FR"
   ],
-  "wikidata": "Q1059843",
+  "wikidata": "Q38423",
   "sources": [
     {
-      "id": "selectra-fioul-decret",
+      "id": "legifrance-decret-2026-981",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055011774",
+      "title": "Décret n° 2026-981 du 23 octobre 2026 relatif aux conditions économiques de libération de stocks stratégiques de gazole",
+      "publisher": "Légifrance, Journal officiel de la République française",
+      "type": "official",
+      "accessed": "2026-10-28",
+      "lang": "fr"
+    },
+    {
+      "id": "selectra-fioul-decret-2026-10-28",
       "url": "https://selectra.info/energie/actualites/marche/fioul-decret-24-octobre-baisse-litre-avant-vente",
-      "title": "Commande de fioul en novembre : voici le chiffre que votre livreur doit vous donner avant la vente",
+      "title": "Fioul : le décret du 24 octobre et la baisse annoncée avant la vente",
       "publisher": "Selectra",
       "type": "press",
       "accessed": "2026-10-28",
       "lang": "fr"
     },
     {
-      "id": "lofficiel-decret-gazole-fioul",
-      "url": "https://www.lofficieldesmetiers.fr/gazole-et-fioul-parution-du-decret-sur-la-liberation-des-stocks-strategiques/",
-      "title": "Gazole et fioul : décret sur la libération des stocks stratégiques",
-      "publisher": "L'Officiel des Métiers",
+      "id": "selectra-fioul-livreur-barils-2026-10",
+      "url": "https://selectra.info/energie/actualites/marche/fioul-1er-novembre-livreur-barils-28-octobre",
+      "title": "Fioul : baisse du 1er novembre, livreurs et barils",
+      "publisher": "Selectra",
       "type": "press",
       "accessed": "2026-10-28",
       "lang": "fr"
-    },
-    {
-      "id": "kohen-decret-2026-981",
-      "url": "https://kohenavocats.fr/?p=2156842",
-      "title": "Carburant prix coûtant dès le 1er novembre 2026 : ce que la libération des stocks stratégiques impose aux stations-service",
-      "publisher": "Cabinet Kohen Avocats",
-      "type": "other",
-      "accessed": "2026-10-28",
-      "lang": "fr"
     }
-  ],
-  "image": {
-    "src": "/images/topics/fioul-prix-novembre-2026.jpg",
-    "alt": "Fioul : la baisse du litre doit être répercutée dès le 1er novembre 2026",
-    "credit": "User:Mattes",
-    "license": "CC BY 2.0 de",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:GER_%E2%80%94_BY_%E2%80%94_Oberbayern_%E2%80%94_Ingolstadt_%E2%80%94_Auf_der_Schanz_45_%E2%80%94_EG_(Stadtmuseum)_%E2%80%94_Produkte_aus_der_Roh%C3%B6lverarbeitung_%E2%80%94_Mattes_2022-02-26.jpg"
-  }
+  ]
 }

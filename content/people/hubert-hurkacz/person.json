@@ -1,0 +1,83 @@
+{
+  "id": "hubert-hurkacz",
+  "name": "Hubert Hurkacz",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 4,
+  "wikidata": "Q18927958",
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1997-02-11",
+      "sources": [
+        "wikidata-hurkacz"
+      ],
+      "note": "Wikidata date of birth (P569), day precision."
+    },
+    "birthPlace": {
+      "value": "Wrocław, Poland",
+      "sources": [
+        "wikidata-hurkacz"
+      ],
+      "note": "Wikidata place of birth (P19) is item Q1799, labelled Wrocław (Lower Silesian Voivodeship, Poland)."
+    },
+    "nationality": {
+      "value": [
+        "PL"
+      ],
+      "sources": [
+        "wikidata-hurkacz"
+      ],
+      "note": "Wikidata country of citizenship (P27) is Q36, Poland."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "atp-bio",
+      "url": "https://www.atptour.com/en/players/hubert-hurkacz/hb71/bio",
+      "title": "Hubert Hurkacz - Player Bio",
+      "publisher": "ATP Tour",
+      "type": "league-or-federation",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "wikidata-hurkacz",
+      "url": "https://www.wikidata.org/wiki/Q18927958",
+      "title": "Hubert Hurkacz (Q18927958)",
+      "publisher": "Wikidata",
+      "type": "database",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "ausopen-profile",
+      "url": "https://ausopen.com/players/poland/hubert-hurkacz",
+      "title": "Hubert Hurkacz player profile",
+      "publisher": "Australian Open",
+      "type": "league-or-federation",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "sporza-bergs-ao-2026",
+      "url": "https://sporza.be/nl/matches/tennis/2026-01/hubert-hurkacz-zizou-bergs-strijdvaardige-zizou-bergs-moet-na-4-sets-het-hoofd-buigen-voor-pools-opslagkanon-hubert-hurkacz-top-5-kaliber~1768684384815/",
+      "title": "Strijdvaardige Zizou Bergs moet na 4 sets het hoofd buigen voor Pools opslagkanon Hubert Hurkacz",
+      "publisher": "Sporza",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "nl"
+    },
+    {
+      "id": "etoto-basel-2026",
+      "url": "https://blog.etoto.pl/hurkacz-z-nowym-rywalem-w-bazylei-kto-odpadl-z-turnieju/",
+      "title": "Hurkacz z nowym rywalem w Bazylei. Kto odpadł z turnieju?",
+      "publisher": "eToto blog",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "pl"
+    }
+  ]
+}

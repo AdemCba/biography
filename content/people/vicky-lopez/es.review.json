@@ -1,0 +1,282 @@
+{
+  "date": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 26 July 2006 in Madrid; age 20 on 28 Oct 2026",
+      "sourceIds": [
+        "fcb-profile-es",
+        "fcb-joins-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Club profile gives 26/07/2006 and Madrid; signing on her 16th birthday, 26 July 2022, fits."
+    },
+    {
+      "claim": "Received the women's Kopa Trophy in London on 26 Oct 2026 from Lucy Bronze, second win in a row",
+      "sourceIds": [
+        "efe-kopa-2026",
+        "vanguard-kopa-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "EFE: 26 Oct 2026, London, award handed over by Lucy Bronze, second consecutive win."
+    },
+    {
+      "claim": "Only player to have won the award in both editions held so far",
+      "sourceIds": [
+        "efe-kopa-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "EFE: the only player to win it in both editions held."
+    },
+    {
+      "claim": "Signed for FC Barcelona on 26 July 2022, her 16th birthday, five-season contract",
+      "sourceIds": [
+        "fcb-joins-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Announcement dated 26 July 2022: signed on her 16th birthday for five seasons."
+    },
+    {
+      "claim": "Primera Iberdrola debut for Madrid CFF at 15 years and two months, youngest ever in the league",
+      "sourceIds": [
+        "fcb-joins-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Announcement: debut at 15 years 2 months, youngest player ever to debut in the league."
+    },
+    {
+      "claim": "Spain were runners-up at the U17 European Championship, where she was one of the standouts",
+      "sourceIds": [
+        "fcb-joins-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Announcement describes her as a standout at the recent U17 Euro, where Spain finished runners-up."
+    },
+    {
+      "claim": "Registered with the reserve team, trains at Sant Joan Despi with the senior squad under Jonatan Giraldez",
+      "sourceIds": [
+        "fcb-joins-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Announcement: officially reserve team, trains with senior team at Sant Joan Despi under Giraldez."
+    },
+    {
+      "claim": "Lives and studies at La Masia",
+      "sourceIds": [
+        "fcb-joins-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Announcement: lives and studies at La Masia."
+    },
+    {
+      "claim": "Debuted with the first team in 2022/23, with 13 matches that season",
+      "sourceIds": [
+        "fcb-profile-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Club profile: debut with first team 2022/23, 13 matches under Giraldez."
+    },
+    {
+      "claim": "Liga F league table: 10 league matches and 2 goals in 2022/23",
+      "sourceIds": [
+        "ligaf-player-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Liga F table: 2022/23 Barcelona 10 matches, 2 goals."
+    },
+    {
+      "claim": "Liga F league table: 8 league matches for Madrid CFF in 2021/22, no goals",
+      "sourceIds": [
+        "ligaf-player-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Liga F table: 2021/22 Madrid CFF 8 matches, 0 goals."
+    },
+    {
+      "claim": "Liga F league table: 23 matches and 9 goals in 2023/24, 25 matches and 10 goals in 2024/25",
+      "sourceIds": [
+        "ligaf-player-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Liga F table rows for 2023/24 and 2024/25."
+    },
+    {
+      "claim": "Liga F league table: 28 matches, 10 goals and 9 assists in 2025/26",
+      "sourceIds": [
+        "ligaf-player-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Liga F table row for 2025/26."
+    },
+    {
+      "claim": "Liga F shows four matches and two goals in 2026/27 as of 28 Oct 2026",
+      "sourceIds": [
+        "ligaf-player-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Liga F table row for 2026/27 (4 matches, 2 goals)."
+    },
+    {
+      "claim": "Just Women's Sports: 45 matches, 12 goals and 13 assists in 2025/26",
+      "sourceIds": [
+        "justwomenssports-kopa-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Article gives 45 matches, 12 goals, 13 assists during the 2025/26 season."
+    },
+    {
+      "claim": "Club profile gives 45 matches and 12 goals for a second first-team season without naming it",
+      "sourceIds": [
+        "fcb-profile-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile lists 45 matches and 12 goals for the season after 2024/25, unnamed."
+    },
+    {
+      "claim": "Four Liga F titles, one for each season 2022/23 to 2025/26; three Copa de la Reina; four Supercopa de Espana",
+      "sourceIds": [
+        "fcb-profile-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Club profile honours list."
+    },
+    {
+      "claim": "Club profile lists Champions League titles for three seasons but gives a total of two, so no figure is given",
+      "sourceIds": [
+        "fcb-profile-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile lists UWCL for 2022/23, 2023/24 and 2025/26 with a count of 2; the page states no figure."
+    },
+    {
+      "claim": "National team: 2022 FIFA U-17 World Cup with a Golden Ball, and 2024 UEFA Women's Nations League",
+      "sourceIds": [
+        "fcb-profile-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile honours and individual awards."
+    },
+    {
+      "claim": "Member of Spain's squad at the 2024 Paris Olympics, where Spain finished fourth",
+      "sourceIds": [
+        "fcb-profile-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: Paris 2024 squad, team finished fourth."
+    },
+    {
+      "claim": "Golden Girl award for 2024",
+      "sourceIds": [
+        "fcb-profile-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile individual awards list."
+    },
+    {
+      "claim": "Learned of her call-up while studying for an exam; first senior call-up for the UEFA Women's Nations League final four after playing in youth categories",
+      "sourceIds": [
+        "soccerway-callup-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Soccerway: learned of call-up while studying for an exam; first call-up to senior team for the final four; had played in youth categories."
+    },
+    {
+      "claim": "Said she was nervous, and that it was her first time with some of the players; training had gone well and she was happy to be there",
+      "sourceIds": [
+        "soccerway-callup-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Soccerway summary: she said she was nervous; quote 'Era mi primera vez con algunas de ellas, pero el entrenamiento ha ido bien y estoy muy feliz de estar aqui' confirmed."
+    },
+    {
+      "claim": "Senior debut on 23 February 2024 in the UEFA Women's Nations League semi-final against the Netherlands",
+      "sourceIds": [
+        "eldesmarque-debut-2024",
+        "soccerway-debut-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "El Desmarque article dated 23 Feb 2024 reports the debut in the semi-final; Soccerway says the match was on a Friday, consistent with 23 Feb 2024."
+    },
+    {
+      "claim": "Spain won 3-0, Hermoso and Bonmati scored in the first half and Batlle in the second",
+      "sourceIds": [
+        "soccerway-debut-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Soccerway report: 3-0, Hermoso and Bonmati first half, Ona Batlle second half."
+    },
+    {
+      "claim": "Came on for Jenni Hermoso with a little over a quarter of an hour left; third goal four minutes after her entry",
+      "sourceIds": [
+        "soccerway-debut-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Soccerway report: entered for Hermoso with a little over 15 minutes left; third goal four minutes later."
+    },
+    {
+      "claim": "Coach Montse Tome had asked her for more of the ball and a calmer game",
+      "sourceIds": [
+        "soccerway-debut-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Soccerway: asked what Tome had asked, she answered: more ball and calm the game."
+    },
+    {
+      "claim": "At 17 she was the youngest player to make a senior debut for Spain, per El Desmarque",
+      "sourceIds": [
+        "eldesmarque-debut-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "El Desmarque headline: youngest to debut with the senior team."
+    },
+    {
+      "claim": "Quote: 'Soy vergonzosa. No me gustan estas cosas, pero agradezco el apoyo'",
+      "sourceIds": [
+        "soccerway-debut-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted in the Soccerway report."
+    },
+    {
+      "claim": "Club lists her as a midfielder who can play as an attacking midfielder or on the wing; wears number 19",
+      "sourceIds": [
+        "fcb-profile-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: midfielder, can play as attacking midfielder or winger, number 19."
+    },
+    {
+      "claim": "The women's Young Talent (Kopa) award began in 2025 and she won its first edition",
+      "sourceIds": [
+        "vanguard-kopa-2026",
+        "fcb-profile-es"
+      ],
+      "verdict": "confirmed",
+      "note": "Vanguard: first edition 2025, second consecutive win; profile lists Kopa Trophy 2025."
+    },
+    {
+      "claim": "Just Women's Sports says she has won every edition since the women's category was created",
+      "sourceIds": [
+        "justwomenssports-kopa-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Article: has won every edition since the category launched."
+    },
+    {
+      "claim": "EFE describes the trophy as the award for the best under-21 player in the world",
+      "sourceIds": [
+        "efe-kopa-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "EFE: best under-21 player in the world."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds the Liga F league table by season (primary source, not used by the press), the Madrid CFF season, the unexplained Champions League count in the club profile, and the Spain debut match details from the Soccerway report.",
+  "decision": "approve",
+  "summary": "All 33 cited claims checked against the opened sources; es text matches them."
+}

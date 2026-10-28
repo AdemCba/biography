@@ -7,14 +7,21 @@
   "importance": 5,
   "sameAs": [],
   "facts": {
+    "birthDate": {
+      "value": "1993-07-28",
+      "sources": [
+        "wikidata-q969725"
+      ],
+      "note": "Day-level precision on Wikidata."
+    },
     "nationality": {
       "value": [
         "GB"
       ],
       "sources": [
-        "fa-kane-100-caps"
+        "wikidata-q969725"
       ],
-      "note": "England captain with more than 100 caps, per The FA."
+      "note": "Citizenship of the United Kingdom (Q145) on Wikidata."
     }
   },
   "related": [],
@@ -89,6 +96,60 @@
       "publisher": "Bundesliga",
       "type": "league-or-federation",
       "accessed": "2026-10-27",
+      "lang": "en"
+    },
+    {
+      "id": "uefa-ballon-dor-ceremony-2026",
+      "url": "https://www.uefa.com/ballondor/news/02aa-21dcfc743210-2786daba77d8-1000--2026-ballon-d-or-ceremony-when-and-where-all-the-nominees-/",
+      "title": "2026 Ballon d'Or ceremony: When and where, all the nominees and how the awards are decided",
+      "publisher": "UEFA (Ballon d'Or)",
+      "type": "award-body",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "sky-kane-ballon-dor-win-2026",
+      "url": "https://www.skysports.com/football/news/13601934/harry-kane-wins-2026-ballon-dor-bayern-munich-striker-becomes-first-english-winner-of-award-in-25-years",
+      "title": "Harry Kane wins 2026 Ballon d'Or: Bayern Munich striker becomes first English winner of award in 25 years",
+      "publisher": "Sky Sports",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "fox-kane-munich-return-2026",
+      "url": "https://www.foxsports.com/articles/soccer/ballon-dor-winner-harry-kane-heads-back-to-munich-for-special-welcome-as-bayern-historymaker",
+      "title": "Ballon d'Or winner Harry Kane heads back to Munich for special welcome as Bayern historymaker",
+      "publisher": "FOX Sports (AP)",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "sky-kane-bayern-deal-2029",
+      "url": "https://www.skysports.com/football/news/13599678/harry-kane-england-captain-agrees-new-deal-in-principle-with-bayern-munich-until-2029",
+      "title": "Harry Kane agrees new deal in principle with Bayern Munich until 2029",
+      "publisher": "Sky Sports",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "khelnow-kane-munich-welcome-2026",
+      "url": "https://khelnow.com/football/harry-kane-receive-special-welcome-bayern-munich-202610",
+      "title": "Harry Kane set for special Bayern Munich welcome after Ballon d'Or win",
+      "publisher": "Khel Now",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "wikidata-q969725",
+      "url": "https://www.wikidata.org/wiki/Q969725",
+      "title": "Harry Kane (Q969725), Wikidata item",
+      "publisher": "Wikidata",
+      "type": "database",
+      "accessed": "2026-10-28",
       "lang": "en"
     }
   ],

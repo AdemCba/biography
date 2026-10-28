@@ -1,51 +1,59 @@
 ---
-title: 'Fioul : la baisse du litre doit être répercutée dès le 1er novembre 2026'
+title: 'Fioul domestique : la baisse au litre arrive le 1er novembre 2026'
 slug: fioul-prix-novembre-2026
-metaTitle: 'Fioul novembre 2026 : la baisse et son calendrier'
+metaTitle: 'Fioul : baisse au litre dès le 1er novembre 2026'
 metaDescription: >-
-  Le litre de fioul domestique coûtait 1,9517 € TTC le 23 octobre 2026. Un
-  décret publié le 24 octobre impose une baisse à répercuter avant la vente.
-knownFor: Prix du fioul et décret de baisse
+  Le décret du 23 octobre 2026 prévoit que le client soit informé du montant de
+  la baisse au litre avant la vente de fioul.
 summary: >-
-  Un décret publié au Journal officiel le 24 octobre 2026 oblige les
-  distributeurs à répercuter sur leurs prix de vente une baisse liée aux stocks
-  de gazole, et le fioul domestique en fait partie
-  [s:lofficiel-decret-gazole-fioul] [s:kohen-decret-2026-981]. La répercussion
-  peut commencer le 1er novembre 2026, mais le texte ne fixe aucun montant par
-  litre [s:selectra-fioul-decret]. Le litre coûtait 1,9517 € TTC le 23 octobre,
-  selon un relevé de la DGEC [s:selectra-fioul-decret].
+  Un décret publié au Journal officiel du 24 octobre 2026 encadre une baisse du
+  prix du fioul domestique. La répercussion peut commencer le 1er novembre. Le
+  texte ne fixe pas de montant et ne prévoit pas de contrôle à chaque livraison.
 status: published
-risk: medium
+risk: low
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - prix fioul novembre 2026
-  - baisse prix fioul 1er novembre 2026
+  - baisse prix fioul 1er novembre
   - décret fioul 24 octobre 2026
-  - fioul domestique prix litre 2026
-  - fioul SAGESS baisse
+  - fioul domestique baisse litre
+  - prix du fioul au litre aujourd'hui
+  - livraison fioul baisse avant la vente
 publishedAt: '2026-10-28'
 ---
-Les particuliers qui se chauffent au fioul cherchent ce qui va changer sur leur facture dès novembre. Un décret publié au Journal officiel du 24 octobre 2026 oblige les distributeurs à répercuter sur leurs prix de vente l'écart entre le prix d'achat de la SAGESS et la valeur théorique du marché [s:lofficiel-decret-gazole-fioul]. Le fioul domestique fait partie des produits visés, avec le gazole carburant et le pétrole lampant [s:kohen-decret-2026-981].
+Beaucoup de foyers chauffés au fioul cherchent ces jours-ci ce que la baisse va changer pour leur cuve. Le décret n° 2026-981 du 23 octobre 2026 est paru au Journal officiel du 24 octobre, et la répercussion de l'avantage sur les prix peut commencer le 1er novembre [s:legifrance-decret-2026-981] [s:selectra-fioul-decret-2026-10-28]. Le texte vise le fioul domestique avec le gazole, puisqu'il porte sur la libération de stocks stratégiques de gazole gérés par la SAGESS [s:legifrance-decret-2026-981].
 
-## Ce que fixe le décret
+## Ce que change le décret
 
-Le texte porte le numéro 2026-981 et il est daté du 23 octobre 2026 [s:selectra-fioul-decret]. Il entre en vigueur le 25 octobre 2026 [s:lofficiel-decret-gazole-fioul]. La SAGESS, Société anonyme de gestion de stocks de sécurité, peut vendre jusqu'à 1,6 million de mètres cubes de gazole, soit 1,6 milliard de litres, au coût moyen pondéré d'acquisition et non au prix du marché [s:lofficiel-decret-gazole-fioul]. Ce gazole est proposé aux metteurs à la consommation, au prorata des volumes qu'ils ont mis sur le marché en 2025 [s:lofficiel-decret-gazole-fioul].
+Aucun montant au litre n'est fixé dans le décret. L'avantage se calcule à partir du coût moyen d'acquisition des stocks et d'une valeur de marché estimée, selon un arrêté conjoint des ministres [s:legifrance-decret-2026-981]. Celui qui reçoit cet avantage doit le répercuter sur le prix payé par les clients finals en France [s:legifrance-decret-2026-981].
 
-Le décret ne fixe aucun montant. Il impose en revanche au livreur d'annoncer la baisse en euros par litre avant la vente [s:selectra-fioul-decret]. Pour le client final, ce montant doit être clairement visible avant la conclusion de la vente, et il doit figurer sur la facture ou sur un document joint [s:lofficiel-decret-gazole-fioul]. Les grands distributeurs remettent un reporting détaillé chaque semaine, et les autres un reporting mensuel [s:lofficiel-decret-gazole-fioul].
+Pour l'acheteur, le point central est l'information avant la vente. Le texte prévoit que « le client final est informé, préalablement à la conclusion de la vente, du montant de la baisse de prix unitaire » [s:selectra-fioul-decret-2026-10-28]. Le montant s'exprime en euros par litre.
 
-## Le prix avant la baisse
+Les dates comptent. La répercussion peut commencer le 1er novembre 2026, et le montant net doit être entièrement reversé au plus tard le 31 mars 2027 [s:legifrance-decret-2026-981]. Il entre en vigueur le lendemain de sa publication [s:legifrance-decret-2026-981], et il s'applique jusqu'au 15 avril 2027 [s:legifrance-decret-2026-981].
 
-Le litre de fioul domestique coûtait 1,9517 € TTC le 23 octobre 2026, d'après le relevé de la Direction générale de l'énergie et du climat [s:selectra-fioul-decret]. Selectra fait le calcul pour une livraison de 2 000 litres : chaque centime de baisse par litre représente environ 20 euros de moins sur la facture [s:selectra-fioul-decret].
+Rien n'est imposé à un livreur qui n'a reçu aucune part de l'avantage [s:selectra-fioul-decret-2026-10-28].
 
-Le gouvernement attend une baisse de 12 à 18 centimes par litre, sur un gazole qui se situait entre 2,3 et 2,4 euros le litre depuis le début du mois d'octobre [s:kohen-decret-2026-981]. Ce chiffre vise le gazole à la pompe, et non le fioul domestique [s:selectra-fioul-decret]. Un acheteur de fioul ne peut donc pas en déduire le montant de sa propre baisse.
+## Le niveau des prix et la tendance
 
-## Calendrier et ce qui reste à suivre
+Selon le relevé de la DGEC repris par Selectra, le litre de fioul domestique pour une livraison de 2 000 à 4 999 litres, TTC, valait 1,8926 € le 9 octobre 2026, puis 1,9308 € le 16 octobre [s:selectra-fioul-livreur-barils-2026-10]. Le 18 septembre, il avait atteint 1,9374 €, son niveau le plus haut des douze derniers mois dans ce relevé [s:selectra-fioul-livreur-barils-2026-10]. Le 17 octobre 2025, il était à 1,0984 € [s:selectra-fioul-livreur-barils-2026-10], soit une hausse de 76 % en un an selon le même article [s:selectra-fioul-livreur-barils-2026-10].
 
-La répercussion peut commencer dès le 1er novembre 2026, « dans les meilleurs délais », y compris avant que l'entreprise ait reçu ses barils [s:selectra-fioul-decret]. Les ventes de barils par l'État s'arrêtent le 31 janvier 2027 [s:selectra-fioul-decret]. La totalité de l'avantage doit être reversée au plus tard le 31 mars 2027 [s:lofficiel-decret-gazole-fioul] [s:selectra-fioul-decret].
+Le 12 octobre, le Premier ministre Sébastien Lecornu a annoncé, après une réunion à Matignon, que les prix du gazole et du fioul domestique allaient baisser [s:selectra-fioul-livreur-barils-2026-10]. Matignon, cité par l'AFP, a indiqué que les barils seraient répartis selon les parts de marché de 2025 [s:selectra-fioul-livreur-barils-2026-10].
 
-Le bilan global de la SAGESS est attendu au plus tard le 28 février 2027. Les bilans des autres opérateurs sont dus au 15 avril 2027, date à laquelle le décret cesse de s'appliquer [s:lofficiel-decret-gazole-fioul] [s:kohen-decret-2026-981].
+TotalEnergies a annoncé une remise de 200 € par mètre cube de fioul domestique, soit 0,20 € par litre, pour ses clients chauffés au fioul, du 1er novembre 2026 au 31 janvier 2027. L'entreprise précise que la baisse dépendra des barils qu'elle recevra. L'article ne dit pas si ce montant est hors taxes ou toutes taxes comprises [s:selectra-fioul-livreur-barils-2026-10].
 
-Pour un particulier, le chiffre utile est celui que le livreur doit annoncer en euros par litre avant la vente [s:selectra-fioul-decret]. Le texte prévoit une baisse sans montant national, donc le prix réel se lira sur le devis ou la facture de chaque livreur à partir du 1er novembre.
+## Livraison et contrôles à surveiller
+
+Selectra ne relève dans le texte ni contrôle de chaque livraison, ni contrôle de qualité du fioul livré [s:selectra-fioul-decret-2026-10-28].
+
+En amont, la SAGESS transmet chaque semaine aux ministères les volumes, les zones, les prix et les avantages. Les entreprises qui pèsent au moins 2 % des volumes envoient un bilan hebdomadaire, les autres un bilan mensuel [s:selectra-fioul-decret-2026-10-28].
+
+Concrètement, avant de commander, demandez le montant de la baisse au litre et notez-le sur le devis ou le bon de commande. C'est l'information que le texte rend obligatoire avant la vente [s:selectra-fioul-decret-2026-10-28].
+
+## Ce qu'il faut suivre
+
+Trois échéances fixent le calendrier : le 1er novembre pour le début de la répercussion, le 31 janvier 2027 pour la fin des ventes de stocks prévues à l'article 2, et le 31 mars 2027 pour le reversement complet [s:legifrance-decret-2026-981]. Le texte court jusqu'au 15 avril 2027 [s:legifrance-decret-2026-981].
+
+Pour suivre le prix, le repère reste le relevé hebdomadaire de la DGEC, que Selectra reprend [s:selectra-fioul-livreur-barils-2026-10]. Les relevés publiés après le 16 octobre ne sont pas repris ici : il faut les consulter directement.

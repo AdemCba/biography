@@ -1,0 +1,140 @@
+{
+  "id": "sergio-perez",
+  "name": "Sergio Pérez",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 4,
+  "wikidata": "Q82805",
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1990-01-26",
+      "sources": [
+        "f1-driver-profile",
+        "wikidata-q82805"
+      ],
+      "note": "F1 profile gives 26/01/1990; Wikidata gives 26 January 1990 (day precision)."
+    },
+    "birthPlace": {
+      "value": "Guadalajara, Mexico",
+      "sources": [
+        "f1-driver-profile",
+        "wikidata-q82805"
+      ],
+      "note": "F1 profile gives Guadalajara, Mexico. Wikidata place of birth is Guadalajara (Q9022)."
+    },
+    "nationality": {
+      "value": [
+        "MX"
+      ],
+      "sources": [
+        "f1-driver-profile",
+        "wikidata-q82805"
+      ],
+      "note": "F1 profile lists Mexican; Wikidata country of citizenship is Mexico (Q96)."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "f1-driver-profile",
+      "url": "https://www.formula1.com/en/drivers/sergio-perez",
+      "title": "Sergio Perez",
+      "publisher": "Formula 1",
+      "type": "league-or-federation",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "wikidata-q82805",
+      "url": "https://www.wikidata.org/wiki/Q82805",
+      "title": "Sergio Pérez (Q82805)",
+      "publisher": "Wikidata",
+      "type": "database",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "skysports-cadillac-2029",
+      "url": "https://www.skysports.com/f1/news/13604899/sergio-perez-signs-new-cadillac-f1-contract-until-2029-ahead-of-home-race-at-mexico-city-grand-prix",
+      "title": "Sergio Perez signs new Cadillac F1 contract until 2029 ahead of home race at Mexico City Grand Prix",
+      "publisher": "Sky Sports",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "eurosport-cadillac-2029",
+      "url": "https://www.eurosport.fr/formule-1/f1-sergio-perez-prolonge-chez-cadillac-jusquen-2029_sto23350083/story.shtml",
+      "title": "F1 : Sergio Pérez prolongé chez Cadillac jusqu'en 2029",
+      "publisher": "Eurosport",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "fr"
+    },
+    {
+      "id": "aljazeera-red-bull-exit",
+      "url": "https://www.aljazeera.com/sports/2024/12/18/mexicos-sergio-perez-leaves-red-bull-f1-team-but-no-replacement-named",
+      "title": "Mexico's Sergio Perez leaves Red Bull F1 team but no replacement named",
+      "publisher": "Al Jazeera",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "the-race-perez-career",
+      "url": "https://www.the-race.com/formula-1/sergio-perez-f1-career-rise-and-fall-mark-hughes/",
+      "title": "Mark Hughes: The dramatic rise and fall of Sergio Perez's F1 career",
+      "publisher": "The Race",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "racingnews365-perez",
+      "url": "https://racingnews365.com/drivers/sergio-perez",
+      "title": "Sergio Pérez",
+      "publisher": "RacingNews365",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "f1-mexico-2026",
+      "url": "https://www.formula1.com/en/racing/2026/mexico",
+      "title": "Formula 1 Gran Premio de la Ciudad de México 2026",
+      "publisher": "Formula 1",
+      "type": "league-or-federation",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "elfinanciero-perez-career",
+      "url": "https://www.elfinanciero.com.mx/deportes/2023/03/18/checo-perez-como-fue-la-carrera-del-piloto-antes-de-llegar-a-la-f1/",
+      "title": "Checo Pérez: cómo fue la carrera del piloto antes de llegar a la F1",
+      "publisher": "El Financiero",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "es"
+    },
+    {
+      "id": "record-barcelona-2026",
+      "url": "https://www.record.com.mx/historia/checo-perez-logra-historico-resultado-en-el-gran-premio-de-barcelona-2026061417182325269",
+      "title": "Checo Pérez logra histórico resultado en el Gran Premio de Barcelona 2026",
+      "publisher": "Récord",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "es"
+    },
+    {
+      "id": "cronica-300gp",
+      "url": "https://www.cronica.com.mx/deportes/2026/09/29/checo-perez-regresa-a-mexico-a-celebrar-sus-300-gp-fecha-y-hora-del-show-en-reforma/",
+      "title": "Checo Pérez regresa a México a celebrar sus 300 GP: fecha y hora del show en Reforma",
+      "publisher": "Crónica",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "es"
+    }
+  ]
+}

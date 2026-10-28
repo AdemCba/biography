@@ -1,0 +1,252 @@
+{
+  "date": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Will start his 300th Grand Prix at home; on 28 Oct 2026 extended Cadillac contract to at least end of 2029",
+      "sourceIds": [
+        "eurosport-cadillac-2029",
+        "skysports-cadillac-2029"
+      ],
+      "verdict": "confirmed",
+      "note": "Eurosport: 'jusqu'en 2029', 300e Grand Prix this weekend, updated 28/10/2026; Sky: stay at Cadillac until at least the end of 2029, announced Wednesday."
+    },
+    {
+      "claim": "Race on Sunday 1 November at the Autodromo Hermanos Rodriguez",
+      "sourceIds": [
+        "f1-mexico-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 race page: 'Autodromo Hermanos Rodriguez', schedule '01Nov Race 20:00'."
+    },
+    {
+      "claim": "Previous Cadillac deal understood to end 2027; new deal adds two years",
+      "sourceIds": [
+        "skysports-cadillac-2029"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky: original contract 'understood to have been due to expire at the end of 2027'."
+    },
+    {
+      "claim": "Age 36 at the announcement",
+      "sourceIds": [
+        "eurosport-cadillac-2029"
+      ],
+      "verdict": "confirmed",
+      "note": "Eurosport: 'Pérez, 36 ans'. Consistent with birth date 26 Jan 1990."
+    },
+    {
+      "claim": "Karting from age six",
+      "sourceIds": [
+        "elfinanciero-perez-career"
+      ],
+      "verdict": "confirmed",
+      "note": "El Financiero: 'a los seis años ya formaba parte del karting'."
+    },
+    {
+      "claim": "2004 Skip Barber National Championship",
+      "sourceIds": [
+        "elfinanciero-perez-career"
+      ],
+      "verdict": "confirmed",
+      "note": "El Financiero: 'En 2004 participó en el Campeonato Nacional Skip Barber'."
+    },
+    {
+      "claim": "Moved to Europe at 14; joined BMW in Germany in 2005",
+      "sourceIds": [
+        "elfinanciero-perez-career"
+      ],
+      "verdict": "confirmed",
+      "note": "El Financiero: 'A los 14 años se mudó a Europa'; 'integrarse a la BMW en Alemania en 2005'."
+    },
+    {
+      "claim": "Good Formula 3 results with T-Sport; 2009 British GP2 Series",
+      "sourceIds": [
+        "elfinanciero-perez-career"
+      ],
+      "verdict": "confirmed",
+      "note": "El Financiero: 'buenos resultados en la Fórmula 3 con el equipo T-Sport'; 'el campeonato británico de la GP2 Series en 2009'."
+    },
+    {
+      "claim": "Born Guadalajara 26 January 1990",
+      "sourceIds": [
+        "f1-driver-profile",
+        "wikidata-q82805"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 profile 26/01/1990, Guadalajara; Wikidata 26 January 1990, Guadalajara."
+    },
+    {
+      "claim": "Entered F1 in 2011 as Ferrari Academy driver at Sauber; stayed for 2012; McLaren 2013 as Hamilton replacement; Force India/Racing Point 2014-2020",
+      "sourceIds": [
+        "the-race-perez-career"
+      ],
+      "verdict": "confirmed",
+      "note": "The Race: 'entered F1 in 2011 as a Ferrari Academy driver placed at Sauber'; 'Still on the Ferrari Academy for 2012, he stayed with Sauber'; McLaren 2013 replacing Hamilton; 'seven years at Force India/Racing Point from 2014-20'."
+    },
+    {
+      "claim": "First win at 2020 Sakhir GP in pink Racing Point Mercedes",
+      "sourceIds": [
+        "racingnews365-perez",
+        "the-race-perez-career"
+      ],
+      "verdict": "confirmed",
+      "note": "RacingNews365: 'first F1 win at the Sakhir Grand Prix after a sensational drive from the back of the grid'; The Race: 'pink Mercedes' for Racing Point."
+    },
+    {
+      "claim": "Joined Red Bull in 2021",
+      "sourceIds": [
+        "aljazeera-red-bull-exit"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera: 'joined Red Bull in 2021'."
+    },
+    {
+      "claim": "Went to Red Bull believing he could compete with Verstappen; first Red Bull win at Baku 2021",
+      "sourceIds": [
+        "the-race-perez-career",
+        "racingnews365-perez"
+      ],
+      "verdict": "confirmed",
+      "note": "The Race: joined 'in the belief that he would be able to compete with Verstappen'; 'happy hunting ground of Baku he scored his first victory for the team'. RacingNews365: 2021 Azerbaijan first Red Bull win."
+    },
+    {
+      "claim": "Six GP wins, 39 podiums, 1,638 career points",
+      "sourceIds": [
+        "f1-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 profile: Highest Race Finish 1 (x6), Podiums 39, Career Points 1638."
+    },
+    {
+      "claim": "Five Red Bull wins: Baku 2021, Monaco and Singapore 2022, Saudi Arabia and Azerbaijan 2023",
+      "sourceIds": [
+        "racingnews365-perez"
+      ],
+      "verdict": "confirmed",
+      "note": "RacingNews365 lists these wins with the Red Bull years."
+    },
+    {
+      "claim": "Singapore win probably best of his career; Jeddah 2023 was the win denied in 2022",
+      "sourceIds": [
+        "the-race-perez-career"
+      ],
+      "verdict": "confirmed",
+      "note": "The Race: 'probably the best win of his career' (Singapore); 'he took the Jeddah victory he was denied in 2022'."
+    },
+    {
+      "claim": "Runner-up in the 2023 drivers' championship",
+      "sourceIds": [
+        "the-race-perez-career",
+        "racingnews365-perez"
+      ],
+      "verdict": "confirmed",
+      "note": "The Race: 'finished runner-up in the 2023 drivers' world championship'."
+    },
+    {
+      "claim": "Horner quote on two Constructors' titles and first 1-2",
+      "sourceIds": [
+        "aljazeera-red-bull-exit"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera quotes Horner: 'helping us to two Constructors' titles and to our first 1-2 finish in the Drivers' championship'."
+    },
+    {
+      "claim": "Left Red Bull after four seasons; eighth in 2024 drivers' standings; Red Bull third in constructors'",
+      "sourceIds": [
+        "aljazeera-red-bull-exit"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera: 'after four seasons'; 'came eighth in the drivers' standings'; Red Bull 'surrendered their team title to McLaren with a third-place finish'."
+    },
+    {
+      "claim": "Pérez farewell quote",
+      "sourceIds": [
+        "aljazeera-red-bull-exit"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote matches Al Jazeera text exactly."
+    },
+    {
+      "claim": "Year out in 2025 after being dropped by Red Bull, return with Cadillac in 2026",
+      "sourceIds": [
+        "skysports-cadillac-2029",
+        "racingnews365-perez"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky: 'had a year on the sidelines' after being dropped by Red Bull at end of 2024; RacingNews365: 'After a year on the sidelines, he returns to F1 with the new Cadillac team'."
+    },
+    {
+      "claim": "18 Grand Prix starts for Cadillac in 2026, no points, five retirements, no top-10 finish, six sprints without points",
+      "sourceIds": [
+        "f1-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 profile 2026: Grand Prix Races 18, Grand Prix Points 0, DNFs 5, Grand Prix Top 10s 0, Sprint Races 6, Sprint Points 0."
+    },
+    {
+      "claim": "Barcelona June 2026: started 19th, finished 14th, best Cadillac result, no points yet",
+      "sourceIds": [
+        "record-barcelona-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Record (14 June 2026): started 19th, 'terminó en la P14'; 'mejor resultado para Checo con Cadillac en esta primera temporada'; 'no ha sumado puntos'."
+    },
+    {
+      "claim": "Sky: last in drivers' championship but ahead of Bottas",
+      "sourceIds": [
+        "skysports-cadillac-2029"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky: 'he is last in the Drivers' Championship'; outperformed Bottas per Sky."
+    },
+    {
+      "claim": "300th start in Mexico City; called it a very important moment in his career",
+      "sourceIds": [
+        "cronica-300gp"
+      ],
+      "verdict": "confirmed",
+      "note": "Cronica quotes Pérez: 'Alcanzar los 300 Grandes Premios es un momento muy importante en mi carrera'."
+    },
+    {
+      "claim": "Public show on Paseo de la Reforma Wednesday 28 October from 10:00, organised by Cadillac F1 Team and GP de Mexico",
+      "sourceIds": [
+        "cronica-300gp"
+      ],
+      "verdict": "confirmed",
+      "note": "Cronica: 'miércoles 28 de octubre, a partir de las 10:00 am'; 'organizado por Cadillac Formula 1 Team y el GP de México'."
+    },
+    {
+      "claim": "The Race: electrified F1's following in Mexico",
+      "sourceIds": [
+        "the-race-perez-career"
+      ],
+      "verdict": "confirmed",
+      "note": "The Race: 'electrified F1's following in his home country of Mexico'."
+    },
+    {
+      "claim": "Sky: will celebrate 300th start this Sunday",
+      "sourceIds": [
+        "skysports-cadillac-2029"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky: 'will celebrate his 300th grand prix start this Sunday'."
+    },
+    {
+      "claim": "299 Grand Prix entries before Mexico City",
+      "sourceIds": [
+        "f1-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 profile: Grands Prix Entered 299."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds the Mexican-language early career (karting, Skip Barber, BMW, F3, GP2) and the 2026 Cadillac season figures from the F1 profile and Record, which the existing pages lacked.",
+  "decision": "approve",
+  "summary": "All checked claims match the cited sources. Frontmatter claims (age, contract to 2029, six wins) are backed by the body."
+}

@@ -1,0 +1,127 @@
+{
+  "id": "yaxel-lendeborg",
+  "name": "Yaxel Lendeborg",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 3,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "2002-09-30",
+      "sources": [
+        "nba-profile"
+      ],
+      "note": "NBA.com lists BIRTHDATE September 30, 2002. NBC Sports Bay Area (published 29 Sept 2026) says he turns 24 on Wednesday, which agrees."
+    },
+    "birthPlace": {
+      "value": "United States",
+      "sources": [
+        "acento-dominicano"
+      ],
+      "note": "Acento says he was born in the United States to Dominican parents. No city is stated in any source opened."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "nba-profile",
+      "url": "https://www.nba.com/player/1642865/yaxel-lendeborg/profile",
+      "title": "Yaxel Lendeborg profile",
+      "publisher": "NBA.com",
+      "type": "league-or-federation",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "nbc-bay-area-rookie-profile",
+      "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/yaxel-lendeborg-steph-curry-draymond-green/1967256/",
+      "title": "Yaxel Lendeborg",
+      "publisher": "NBC Sports Bay Area",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "nbc-bay-area-draft-analysis",
+      "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/yaxel-lendeborg-draft-analysis/1945341/",
+      "title": "Yaxel Lendeborg draft analysis",
+      "publisher": "NBC Sports Bay Area",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "fantasypros-shootaround",
+      "url": "https://www.fantasypros.com/nba/news/616237/yaxel-lendeborg-foot-participates-shootaround-wednesday.php",
+      "title": "Yaxel Lendeborg (foot) participates in shootaround Wednesday",
+      "publisher": "FantasyPros",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "fantasypros-draft",
+      "url": "https://www.fantasypros.com/nba/news/592962/yaxel-lendeborg-selected-no11-overall-by-warriors.php",
+      "title": "Yaxel Lendeborg selected No. 11 overall by Warriors",
+      "publisher": "FantasyPros",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "clarosports-puertorriqueno",
+      "url": "https://www.clarosports.com/us/el-puertorriqueno-yaxel-lendeborg-va-por-su-segunda-prueba-en-la-nba-ante-los-lakers/",
+      "title": "El puertorriqueño Yaxel Lendeborg va por su segunda prueba en la NBA ante los Lakers",
+      "publisher": "Claro Sports",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "es"
+    },
+    {
+      "id": "acento-dominicano",
+      "url": "https://acento.com.do/deportes/el-dominicano-yaxel-lendeborg-es-seleccionado-por-golden-state-warriors-en-el-draft-de-la-nba-2026-9705064.html",
+      "title": "El dominicano Yaxel Lendeborg es seleccionado por Golden State Warriors en el draft de la NBA 2026",
+      "publisher": "Acento",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "es"
+    },
+    {
+      "id": "newsweek-summer-league",
+      "url": "https://www.newsweek.com/sports/nba/warriors-rookie-yaxel-lendeborg-continues-to-light-up-summer-league-12215664",
+      "title": "Warriors rookie Yaxel Lendeborg continues to light up Summer League",
+      "publisher": "Newsweek",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "dunkest-curry-intro",
+      "url": "https://www.dunkest.com/en/nba/news/trades/242128/yaxel-lendeborg-introduces-himself-to-the-warriors-i-used-to-hate-steph-curry",
+      "title": "Yaxel Lendeborg introduces himself to the Warriors: I used to hate Steph Curry",
+      "publisher": "Dunkest",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "abc30-kerr-role",
+      "url": "https://abc30.com/post/warriors-need-yaxel-lendeborgs-fast-tracked-development/19920932/",
+      "title": "The Warriors need Yaxel Lendeborg's fast-tracked development",
+      "publisher": "ABC30 (ESPN's Anthony Slater)",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "heavy-ankle-update",
+      "url": "https://heavy.com/sports/yaxel-lendeborg-ankle-injury-update/",
+      "title": "Warriors Get Good Yaxel Lendeborg Injury News Ahead of Final Preseason Game",
+      "publisher": "Heavy",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    }
+  ]
+}

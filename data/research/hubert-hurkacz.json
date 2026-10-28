@@ -1,0 +1,61 @@
+{
+  "worthWriting": true,
+  "reason": "Polish top-10 singles player with two ATP Masters 1000 titles; ATP bio and Wikidata confirm the core facts. Basel 2026 match not sourced, so left out.",
+  "wikidata": "Q18927958",
+  "importance": 4,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "atp-bio",
+      "url": "https://www.atptour.com/en/players/hubert-hurkacz/hb71/bio",
+      "title": "Hubert Hurkacz - Player Bio",
+      "publisher": "ATP Tour",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "wikidata-hurkacz",
+      "url": "https://www.wikidata.org/wiki/Q18927958",
+      "title": "Hubert Hurkacz (Q18927958)",
+      "publisher": "Wikidata",
+      "type": "database",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1997-02-11",
+      "sources": [
+        "wikidata-hurkacz"
+      ],
+      "note": "Wikidata date of birth (P569), day precision."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Wrocław, Poland",
+      "sources": [
+        "wikidata-hurkacz"
+      ],
+      "note": "Wikidata place of birth (P19) is item Q1799, labelled Wrocław (Lower Silesian Voivodeship, Poland)."
+    },
+    "nationality": {
+      "value": "PL",
+      "sources": [
+        "wikidata-hurkacz"
+      ],
+      "note": "Wikidata country of citizenship (P27) is Q36, Poland."
+    }
+  },
+  "targetQueries": [
+    "how old is Hubert Hurkacz",
+    "where is Hubert Hurkacz from",
+    "Hubert Hurkacz nationality",
+    "Hubert Hurkacz ranking",
+    "Hubert Hurkacz titles",
+    "Hubert Hurkacz Wimbledon",
+    "Hubert Hurkacz Miami Open 2021",
+    "Hubert Hurkacz Shanghai Masters 2023",
+    "Hubert Hurkacz Halle 2022"
+  ],
+  "gapNote": "The ATP bio gives the career record (career-high No. 6, two Masters titles, Halle 2022, 2021 Wimbledon semifinal, year-end No. 9 in 2021 and 2023). No sourced current ranking or 2026 result was found, so the page does not state either. Query list is inferred from the search questions, not from Search Console."
+}

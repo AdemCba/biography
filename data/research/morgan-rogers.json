@@ -1,0 +1,75 @@
+{
+  "worthWriting": true,
+  "reason": "Current Chelsea player with a reported record British transfer fee. Three usable sources plus Wikidata. Birthplace differs from the brief (Halesowen, not Middlesbrough).",
+  "wikidata": "Q61598452",
+  "importance": 4,
+  "risk": "high",
+  "sources": [
+    {
+      "id": "chelsea-creativity-article",
+      "url": "https://www.chelseafc.com/en/news/article/morgan-rogers-on-bringing-creativity-a-different-front-three-and-ageless",
+      "title": "Morgan Rogers on bringing creativity, a different front three and ageless",
+      "publisher": "Chelsea FC",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "wikidata-morgan-rogers",
+      "url": "https://www.wikidata.org/wiki/Q61598452",
+      "title": "Morgan Rogers (Q61598452)",
+      "publisher": "Wikidata",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "herald-chelsea-signing",
+      "url": "https://www.theherald.co.za/sport/2026-07-22-chelsea-sign-rogers-from-villa-for-reported-uk-record-fee/",
+      "title": "Chelsea sign Rogers from Villa for reported UK record fee",
+      "publisher": "The Herald",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "fanatik-chelsea-signing",
+      "url": "https://www.fanatik.com.tr/en/video-chelsea-sign-englands-morgan-rogers-from-aston-villa-in-record-british-deal-2631621",
+      "title": "Chelsea Sign England's Morgan Rogers From Aston Villa in Record British Deal",
+      "publisher": "Fanatik",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "2002-07-26",
+      "sources": [
+        "wikidata-morgan-rogers"
+      ],
+      "note": "Wikidata P569. The 11v11 profile also lists 26 July 2002 in search snippets but returned 403 when opened, so it is not cited."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Halesowen, West Midlands, England",
+      "sources": [
+        "wikidata-morgan-rogers"
+      ],
+      "note": "Wikidata P19 gives Halesowen. The brief said Middlesbrough; no opened source supports that, so it is not used. Middlesbrough is a club he played for."
+    },
+    "nationality": {
+      "value": "GB",
+      "sources": [
+        "wikidata-morgan-rogers"
+      ],
+      "note": "Wikidata P27 lists United Kingdom citizenship. Press calls him an England international; England caps were not verified and are left out."
+    }
+  },
+  "targetQueries": [
+    "morgan rogers",
+    "morgan rogers age",
+    "morgan rogers chelsea",
+    "morgan rogers transfer fee",
+    "morgan rogers aston villa",
+    "morgan rogers middlesbrough",
+    "morgan rogers stats"
+  ],
+  "gapNote": "Press reports the reported fee as about 117m pounds and calls it a British record. Chelsea's official pages on the fee and the 10-facts article could not be opened (redirect to login, 403 and 502), so the fee is only reported, not confirmed. The Carabao Cup match at Anfield on 28 Oct 2026 could not be verified: the chelseafc.com match page returned only its title, and no match report was found. The match is left out of the page."
+}

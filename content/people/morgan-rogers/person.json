@@ -1,0 +1,83 @@
+{
+  "id": "morgan-rogers",
+  "name": "Morgan Rogers",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 4,
+  "wikidata": "Q61598452",
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "2002-07-26",
+      "sources": [
+        "wikidata-morgan-rogers"
+      ],
+      "note": "Wikidata P569. The 11v11 profile also lists 26 July 2002 in search snippets but returned 403 when opened, so it is not cited."
+    },
+    "birthPlace": {
+      "value": "Halesowen",
+      "sources": [
+        "wikidata-morgan-rogers"
+      ],
+      "note": "Wikidata P19 gives Halesowen (checked 2026-10-28). The brief said Middlesbrough; no opened source supports that, so it is not used. Middlesbrough is a club he played for."
+    },
+    "nationality": {
+      "value": [
+        "GB"
+      ],
+      "sources": [
+        "wikidata-morgan-rogers"
+      ],
+      "note": "Wikidata P27 lists United Kingdom citizenship. Press calls him an England international; England caps were not verified and are left out."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "wikidata-morgan-rogers",
+      "url": "https://www.wikidata.org/wiki/Q61598452",
+      "title": "Morgan Rogers (Q61598452)",
+      "publisher": "Wikidata",
+      "type": "database",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "herald-chelsea-signing",
+      "url": "https://www.theherald.co.za/sport/2026-07-22-chelsea-sign-rogers-from-villa-for-reported-uk-record-fee/",
+      "title": "Chelsea sign Rogers from Villa for reported UK record fee",
+      "publisher": "The Herald",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "fanatik-chelsea-signing",
+      "url": "https://www.fanatik.com.tr/en/video-chelsea-sign-englands-morgan-rogers-from-aston-villa-in-record-british-deal-2631621",
+      "title": "Chelsea Sign England's Morgan Rogers From Aston Villa in Record British Deal",
+      "publisher": "Fanatik",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "premierleague-villa-freiburg",
+      "url": "https://www.premierleague.com/en/news/4663734",
+      "title": "Aston Villa beat Freiburg to win the Europa League",
+      "publisher": "Premier League",
+      "type": "official",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "analyst-rogers-stats",
+      "url": "https://theanalyst.com/football/player/sc-244850/morgan-rogers",
+      "title": "Morgan Rogers player information",
+      "publisher": "The Analyst",
+      "type": "database",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    }
+  ]
+}

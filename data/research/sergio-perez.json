@@ -1,0 +1,96 @@
+{
+  "worthWriting": true,
+  "reason": "Mexican F1 driver (born 26 January 1990, Guadalajara) with Cadillac since 2026. On 28 October 2026 he extended his Cadillac contract to the end of 2029, ahead of the Mexico City Grand Prix, his 300th start. Primary and database sources checked: F1 driver profile and Wikidata Q82805.",
+  "wikidata": "Q82805",
+  "importance": 4,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "f1-driver-profile",
+      "url": "https://www.formula1.com/en/drivers/sergio-perez",
+      "title": "Sergio Perez",
+      "publisher": "Formula 1",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "wikidata-q82805",
+      "url": "https://www.wikidata.org/wiki/Q82805",
+      "title": "Sergio Pérez (Q82805)",
+      "publisher": "Wikidata",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "espn-cadillac-2029",
+      "url": "https://www.espn.com/f1/story/_/id/50309155/sergio-perez-new-contract-cadillac-2029",
+      "title": "Sergio Perez new contract Cadillac 2029",
+      "publisher": "ESPN",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "skysports-cadillac-2029",
+      "url": "https://www.skysports.com/f1/news/13604899/sergio-perez-signs-new-cadillac-f1-contract-until-2029-ahead-of-home-race-at-mexico-city-grand-prix",
+      "title": "Sergio Perez signs new Cadillac F1 contract until 2029 ahead of home race at Mexico City Grand Prix",
+      "publisher": "Sky Sports",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "eurosport-cadillac-2029",
+      "url": "https://www.eurosport.fr/formule-1/f1-sergio-perez-prolonge-chez-cadillac-jusquen-2029_sto23350083/story.shtml",
+      "title": "F1 : Sergio Pérez prolongé chez Cadillac jusqu'en 2029",
+      "publisher": "Eurosport",
+      "type": "press",
+      "lang": "fr"
+    },
+    {
+      "id": "aljazeera-red-bull-exit",
+      "url": "https://www.aljazeera.com/sports/2024/12/18/mexicos-sergio-perez-leaves-red-bull-f1-team-but-no-replacement-named",
+      "title": "Mexico's Sergio Perez leaves Red Bull F1 team but no replacement named",
+      "publisher": "Al Jazeera",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1990-01-26",
+      "sources": [
+        "f1-driver-profile",
+        "wikidata-q82805"
+      ],
+      "note": "F1 profile gives 26/01/1990; Wikidata gives 26 January 1990 (day precision)."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Guadalajara, Mexico",
+      "sources": [
+        "f1-driver-profile",
+        "wikidata-q82805"
+      ],
+      "note": "F1 profile gives Guadalajara, Mexico. Wikidata place of birth is Guadalajara (Q9022)."
+    },
+    "nationality": {
+      "value": "MX",
+      "sources": [
+        "f1-driver-profile",
+        "wikidata-q82805"
+      ],
+      "note": "F1 profile lists Mexican; Wikidata country of citizenship is Mexico (Q96)."
+    }
+  },
+  "targetQueries": [
+    "sergio perez",
+    "sergio perez contract 2029",
+    "sergio perez cadillac contract",
+    "how old is sergio perez",
+    "where is sergio perez from",
+    "sergio perez red bull",
+    "sergio perez 300th race mexico city",
+    "sergio perez wins",
+    "sergio perez 2024 break"
+  ],
+  "gapNote": "Cadillac's official press release for the 2029 extension was not found in search. The contract is confirmed by three outlets dated 28 October 2026. Earlier reports and a mid-2026 GMAuthority piece gave an end date of 2027, so the page should say the old deal ran to 2027 and the new one to at least 2029, and cite both. Search results do not give Red Bull start and end years from a primary source; the Al Jazeera article gives 2021 and four seasons."
+}

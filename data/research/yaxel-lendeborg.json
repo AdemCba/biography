@@ -1,0 +1,100 @@
+{
+  "worthWriting": true,
+  "reason": "Rookie forward for the Golden State Warriors, 2026 first-round pick (No. 11). Searched because of his early-season play and an injury listing. Sources are primary-led (NBA.com profile) plus press. Spanish-language press disagrees on nationality.",
+  "wikidata": "",
+  "importance": 3,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "nba-profile",
+      "url": "https://www.nba.com/player/1642865/yaxel-lendeborg/profile",
+      "title": "Yaxel Lendeborg profile",
+      "publisher": "NBA.com",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "nbc-bay-area-rookie-profile",
+      "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/yaxel-lendeborg-steph-curry-draymond-green/1967256/",
+      "title": "Yaxel Lendeborg",
+      "publisher": "NBC Sports Bay Area",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "nbc-bay-area-draft-analysis",
+      "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/yaxel-lendeborg-draft-analysis/1945341/",
+      "title": "Yaxel Lendeborg draft analysis",
+      "publisher": "NBC Sports Bay Area",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "fantasypros-shootaround",
+      "url": "https://www.fantasypros.com/nba/news/616237/yaxel-lendeborg-foot-participates-shootaround-wednesday.php",
+      "title": "Yaxel Lendeborg (foot) participates in shootaround Wednesday",
+      "publisher": "FantasyPros",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "fantasypros-draft",
+      "url": "https://www.fantasypros.com/nba/news/592962/yaxel-lendeborg-selected-no11-overall-by-warriors.php",
+      "title": "Yaxel Lendeborg selected No. 11 overall by Warriors",
+      "publisher": "FantasyPros",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "clarosports-puertorriqueno",
+      "url": "https://www.clarosports.com/us/el-puertorriqueno-yaxel-lendeborg-va-por-su-segunda-prueba-en-la-nba-ante-los-lakers/",
+      "title": "El puertorriqueño Yaxel Lendeborg va por su segunda prueba en la NBA ante los Lakers",
+      "publisher": "Claro Sports",
+      "type": "press",
+      "lang": "es"
+    },
+    {
+      "id": "acento-dominicano",
+      "url": "https://acento.com.do/deportes/el-dominicano-yaxel-lendeborg-es-seleccionado-por-golden-state-warriors-en-el-draft-de-la-nba-2026-9705064.html",
+      "title": "El dominicano Yaxel Lendeborg es seleccionado por Golden State Warriors en el draft de la NBA 2026",
+      "publisher": "Acento",
+      "type": "press",
+      "lang": "es"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "2002-09-30",
+      "sources": [
+        "nba-profile"
+      ],
+      "note": "NBA.com lists BIRTHDATE September 30, 2002. NBC Sports Bay Area (published 29 Sept 2026) says he turns 24 on Wednesday, which agrees."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "United States",
+      "sources": [
+        "acento-dominicano"
+      ],
+      "note": "Acento says he was born in the United States to Dominican parents. No city is stated in any source opened."
+    },
+    "nationality": {
+      "value": "US",
+      "sources": [
+        "nba-profile"
+      ],
+      "note": "NBA.com lists COUNTRY USA. Claro Sports calls him Puerto Rican (puertorriqueño) and Acento calls him Dominican (dominicano). Sources disagree; the page should not claim a single nationality."
+    }
+  },
+  "targetQueries": [
+    "Yaxel Lendeborg",
+    "Yaxel Lendeborg age",
+    "Yaxel Lendeborg stats",
+    "Yaxel Lendeborg injury",
+    "Yaxel Lendeborg college",
+    "Yaxel Lendeborg nationality",
+    "Yaxel Lendeborg Warriors",
+    "Yaxel Lendeborg draft"
+  ],
+  "gapNote": "The 31-point, 12-rebound game at Denver (134-114) that the brief names could not be confirmed. ESPN's story and player page returned empty, and no search result shows a 134-114 Warriors-Nuggets game. The page leaves that game out until a source shows it. NBA.com lists PPG 21.8, RPG 9.3, APG 4.8 but no games played. The page can give those as NBA.com season averages without claiming a four-game sample. Injury: FantasyPros (28 Oct 2026) reports he remained questionable with foot inflammation per a reporter, and that he took part in shootaround before the Timberwolves game. No team statement was found. Draft: No. 11 overall, 2026 NBA Draft (NBA.com, FantasyPros). College: at least UAB (two seasons) and Michigan (one season, national title, Big Ten Player of the Year per NBC Sports Bay Area). NBC says he played three levels of college basketball, so a junior college is implied but not named."
+}

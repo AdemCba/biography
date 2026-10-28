@@ -1,62 +1,85 @@
 {
   "id": "bayern-magdeburg-dfb-pokal-2026",
-  "people": [],
-  "trendingIn": [
-    "AT"
+  "people": [
+    "harry-kane"
   ],
-  "wikidata": "Q155730",
+  "trendingIn": [
+    "AT",
+    "DE"
+  ],
+  "wikidata": "Q127429",
   "sources": [
     {
-      "id": "volksstimme-los-2026",
-      "url": "https://www.volksstimme.de/panorama/magdeburg-mit-mega-los-im-pokal-beim-fc-bayern-4314447",
-      "title": "Magdeburg mit Mega-Los im Pokal beim FC Bayern",
-      "publisher": "Volksstimme",
-      "type": "press",
-      "accessed": "2026-10-28",
-      "lang": "de"
-    },
-    {
-      "id": "volksstimme-sander-2026",
-      "url": "https://www.volksstimme.de/panorama/magdeburg-nach-kantersieg-ab-heute-uber-bayern-sprechen-4344658",
-      "title": "Magdeburg nach Kantersieg: Ab heute über Bayern sprechen",
-      "publisher": "Volksstimme",
-      "type": "press",
-      "accessed": "2026-10-28",
-      "lang": "de"
-    },
-    {
-      "id": "zdfheute-auslosung-2026",
-      "url": "https://www.zdfheute.de/sport/auslosung-dfb-pokal-2-runde-fussball-100.html",
-      "title": "DFB-Pokal-Auslosung: 1. FC Magdeburg kriegt die Bayern",
-      "publisher": "ZDFheute",
-      "type": "press",
-      "accessed": "2026-10-28",
-      "lang": "de"
-    },
-    {
-      "id": "bundesliga-karlsruhe-2026",
-      "url": "https://www.bundesliga.com/de/2bundesliga/news/1-fc-magdeburg-karlsruher-sc-spieltag-9-spielbericht-highlights-39698",
-      "title": "1. FC Magdeburg - Karlsruher SC: Spielbericht und Highlights, 9. Spieltag",
-      "publisher": "Bundesliga",
+      "id": "dfb-zweite-runde-zeitgenau-2026",
+      "url": "https://www.dfb.de/news/das-sind-die-zeitgenauen-ansetzungen-der-zweiten-pokalrunde",
+      "title": "DFB-Pokal: Das sind die zeitgenauen Ansetzungen der zweiten Pokalrunde",
+      "publisher": "DFB (Deutscher Fußball-Bund)",
       "type": "league-or-federation",
       "accessed": "2026-10-28",
       "lang": "de"
     },
     {
-      "id": "volksstimme-karlsruhe-2026",
-      "url": "https://www.volksstimme.de/panorama/vor-bayern-kracher-magdeburg-zerlegt-karlsruhe-mit-6-1-4344351",
-      "title": "Vor Bayern-Kracher: Magdeburg zerlegt Karlsruhe mit 6:1",
-      "publisher": "Volksstimme",
+      "id": "dfb-datencenter-bayern-magdeburg-2026",
+      "url": "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58459",
+      "title": "DFB-Pokal 2026/27, 2. Runde",
+      "publisher": "DFB-Datencenter",
+      "type": "league-or-federation",
+      "accessed": "2026-10-28",
+      "lang": "de"
+    },
+    {
+      "id": "sport1-bayern-magdeburg-liveticker-2026",
+      "url": "https://www.sport1.de/news/fussball/dfb-pokal/2026/10/dfb-pokal-hier-lauft-heute-fc-bayern-magdeburg-im-free-tv-liveticker-und-livestream",
+      "title": "DFB-Pokal: Hier läuft heute FC Bayern - Magdeburg im Free-TV, Liveticker und Livestream",
+      "publisher": "SPORT1",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "de"
+    },
+    {
+      "id": "fussballnationalmannschaft-bayern-magdeburg-2026",
+      "url": "https://www.fussballnationalmannschaft.net/dfb-pokal-aufstellung-bayern-magdeburg-123314351.html",
+      "title": "FC Bayern Aufstellung gegen Magdeburg offiziell: Kane nur auf der Bank!",
+      "publisher": "fussballnationalmannschaft.net",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "de"
+    },
+    {
+      "id": "absolutfussball-bayern-magdeburg-2026",
+      "url": "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-aufstellung-heute-gegen-magdeburg-mega-rotation-vor-klassiker-zr-94561720.html",
+      "title": "Bayern-Aufstellung heute gegen Magdeburg: Danks verzichtet auf Weltfußballer Kane",
+      "publisher": "absolutfussball.com",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "de"
+    },
+    {
+      "id": "spox-kane-ersatzbank-2026",
+      "url": "https://www.spox.com/fussball/news/dfb-pokal-gesperrt-verletzt-oder-anderer-grund-darum-ist-harry-kane-nicht-in-der-startelf-des-fc-bayern-muenchen-gegen-magdeburg/blt952381c7a58bee80",
+      "title": "DFB-Pokal: Verletzt oder anderer Grund? Darum ist Harry Kane nicht in der Startelf des FC Bayern München gegen Magdeburg",
+      "publisher": "SPOX",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "de"
+    },
+    {
+      "id": "thelocal-germany-roundup-2026-10-28",
+      "url": "https://www.thelocal.de/20261028/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-144",
+      "title": "Today in Germany: a roundup of the latest news on Wednesday",
+      "publisher": "The Local Germany",
+      "type": "press",
+      "accessed": "2026-10-28",
+      "lang": "en"
+    },
+    {
+      "id": "90min-bayern-magdeburg-2000",
+      "url": "https://www.90min.de/posts/dfb-pokal-als-der-fc-bayern-letztmals-in-der-2-runde-scheiterte",
+      "title": "DFB-Pokal: Als der FC Bayern letztmals in der 2. Runde scheiterte",
+      "publisher": "90min",
       "type": "press",
       "accessed": "2026-10-28",
       "lang": "de"
     }
-  ],
-  "image": {
-    "src": "/images/topics/bayern-magdeburg-dfb-pokal-2026.jpg",
-    "alt": "FC Bayern gegen 1. FC Magdeburg im DFB-Pokal: Anstoß und Vorgeschichte",
-    "credit": "Olaf Meister",
-    "license": "CC BY-SA 4.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eintrag_des_FCM_in_das_Goldene_Buch_der_Stadt_Magdeburg.jpg"
-  }
+  ]
 }

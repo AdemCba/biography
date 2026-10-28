@@ -1,0 +1,103 @@
+{
+  "worthWriting": true,
+  "reason": "Spanish international and FC Barcelona midfielder, aged 20 on 26 Oct 2026 (born 26 July 2006, per the club profile and the club's 2022 signing announcement). Won the women's Kopa Trophy (Young Talent) at the 2026 Ballon d'Or, her second in a row. Name clash with a Mexican journalist: the page covers only the footballer.",
+  "wikidata": "",
+  "importance": 3,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "fcb-profile-es",
+      "url": "https://www.fcbarcelona.es/es/futbol/femenino-a/jugadores/4091512/vicky-lopez",
+      "title": "Vicky López (ficha de jugadora)",
+      "publisher": "FC Barcelona",
+      "type": "official",
+      "lang": "es"
+    },
+    {
+      "id": "fcb-joins-2022",
+      "url": "https://www.fcbarcelona.com/en/football/womens-football/news/2690773/vicky-lopez-joins-fc-barcelona",
+      "title": "Vicky López joins FC Barcelona",
+      "publisher": "FC Barcelona",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "justwomenssports-kopa-2026",
+      "url": "https://justwomenssports.com/reads/ballon-dor-2026-vicky-lopez-young-talent/",
+      "title": "Ballon d'Or 2026: Vicky López Wins Back-to-Back Young Talent Awards",
+      "publisher": "Just Women's Sports",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "efe-kopa-2026",
+      "url": "https://www.infobae.com/america/agencias/2026/10/26/vicky-lopez-revalida-el-trofeo-kopa/",
+      "title": "Vicky López revalida el trofeo Kopa",
+      "publisher": "Infobae (EFE)",
+      "type": "press",
+      "lang": "es"
+    },
+    {
+      "id": "vanguard-kopa-2026",
+      "url": "https://www.vanguardngr.com/2026/10/ballon-dor-barcelona-star-honours-late-nigerian-mother-after-winning-young-talent-award/",
+      "title": "Ballon d'Or: Barcelona star honours late Nigerian mother after winning Young Talent award",
+      "publisher": "Vanguard",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "eldesmarque-debut-2024",
+      "url": "https://www.eldesmarque.com/futbol/femenino/20240223/vicky-lopez-debuta-con-17-anos-con-la-seleccion-espanola-la-mas-joven-en-hacerlo-con-la-absoluta_18_017188272.html",
+      "title": "Vicky López debuta con 17 años con la selección española, la más joven en hacerlo con la absoluta",
+      "publisher": "El Desmarque",
+      "type": "press",
+      "lang": "es"
+    },
+    {
+      "id": "soccerway-debut-2024",
+      "url": "https://es.soccerway.com/noticias/futbol-uefa-nations-league-femenina-vicky-lopez-debuta-con-la-absoluta-a-sus-17-anos-estoy-muy-contenta/v3KeFFpB",
+      "title": "Vicky López debuta con la absoluta a sus 17 años: \"Estoy muy contenta\"",
+      "publisher": "Soccerway",
+      "type": "press",
+      "lang": "es"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "2006-07-26",
+      "sources": [
+        "fcb-profile-es",
+        "fcb-joins-2022"
+      ],
+      "note": "The FC Barcelona profile gives 26/07/2006. The 2022 signing announcement, dated 26 July 2022, says she signed 'on her 16th birthday'."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Madrid, Spain",
+      "sources": [
+        "fcb-profile-es"
+      ],
+      "note": "The FC Barcelona profile gives Madrid as the place of birth. Some third-party profiles add a district; not used."
+    },
+    "nationality": {
+      "value": "ES",
+      "sources": [
+        "fcb-profile-es",
+        "justwomenssports-kopa-2026"
+      ],
+      "note": "Spanish international. Club profile and press both describe her as a Spain international. Other profiles list a second nationality through her mother; not used."
+    }
+  },
+  "targetQueries": [
+    "Vicky López",
+    "Vicky López age",
+    "Vicky López Ballon d'Or 2026",
+    "Vicky López Kopa Trophy",
+    "Vicky López Barcelona",
+    "Vicky López Spain national team",
+    "Vicky López debut Spain",
+    "Vicky López birthday",
+    "Vicky López stats 2025-26"
+  ],
+  "gapNote": "Search results mix the footballer with a Mexican journalist of the same name and with fan wikis that give wrong names. The footballer's page can give a clear answer on age and birthplace from the club's own profile, and it can set out the two Kopa Trophies and the national team debut at 17 in one timeline. The 2025-26 numbers (12 goals, 13 assists, 45 matches) come only from Just Women's Sports and are not repeated in the club profile with a season label."
+}
