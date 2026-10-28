@@ -106,9 +106,11 @@ jobs:
             - Traffic first: the fastest wins are people who already have a page and trend again (section
               "Sitede zaten var, güncellemeye aday" of latest.md). Before writing new people, update up to 3 of
               them in all five languages: a dated "## <Month Year>" section on why they are in the news, refreshed
-              summary, updatedAt: today. For every person and topic, write the questions people type for that name
-              as FAQ entries and targetQueries ("who is X", "X age", "X wife/husband/partner", "X net worth",
-              "where is X from", "X height", "X club/team now"), answered from sources. Skip only what a source
+              summary, updatedAt: today. For every person and topic, run `npm run -s suggest -- "<name>"`: it prints
+              what people really type into Google about that name in each language (autocomplete). Use those as
+              each language's FAQ entries and targetQueries, in that language's own wording, answered from sources;
+              when it prints nothing, fall back to "who is X", "X age", "X partner", "where is X from", "X height",
+              "X club/team now". Skip only what a source
               cannot answer and anything about private life of non-public people, health, sex or crime.
             - Small gaps are not blockers. When no source gives a nationality, a birthplace detail or an exact
               date, leave that field out (or say the sources differ, e.g. "born in 1978 or 1979") and carry on.
