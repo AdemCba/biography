@@ -2,6 +2,7 @@
 
 import type { Candidate } from "./evaluate";
 import type { TrendSignal } from "./sources";
+import { GEOS } from "./config";
 
 export interface Report {
   generatedAt: string;
@@ -33,6 +34,11 @@ export function freshTopics(google: TrendSignal[], now: Date) {
   return [...groups.values()].sort((a, b) => b.where.size - a.where.size || b.volume - a.volume);
 }
 
+/** Site languages whose countries search this term (FR -> fr, MX -> es...). */
+function langsOf(where: Set<string>): string {
+  return [...new Set([...where].map((w) => GEOS.find((g) => g.geo === w)?.wiki).filter(Boolean))].join(", ");
+}
+
 function topicsSection(r: Report): string {
   const list = freshTopics(r.google ?? [], new Date(r.generatedAt)).slice(0, 40);
   if (list.length === 0) return `## Son ${FRESH_HOURS} saatte Google'da yükselen konular\n\nYok.\n`;
@@ -41,9 +47,9 @@ function topicsSection(r: Report): string {
     "",
     "Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konularını atla.",
     "",
-    "| Arama | Ülkeler | Yaklaşık arama | Başladı (UTC) | Haber |",
-    "| --- | --- | --- | --- | --- |",
-    ...list.map((g) => `| ${g.term} | ${[...g.where].join(", ")} | ${g.volume} | ${g.startedAt.slice(11, 16)} | ${g.url ? `[${(g.headline ?? "haber").replace(/\|/g, "/")}](${g.url})` : ""} |`),
+    "| Arama | Ülkeler | Diller | Yaklaşık arama | Başladı (UTC) | Haber |",
+    "| --- | --- | --- | --- | --- | --- |",
+    ...list.map((g) => `| ${g.term} | ${[...g.where].join(", ")} | ${langsOf(g.where)} | ${g.volume} | ${g.startedAt.slice(11, 16)} | ${g.url ? `[${(g.headline ?? "haber").replace(/\|/g, "/")}](${g.url})` : ""} |`),
     "",
   ].join("\n");
 }
