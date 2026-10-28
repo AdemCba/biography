@@ -3,13 +3,19 @@ title: 'Anthony Edwards knee injury: what the sources show about his recovery'
 slug: anthony-edwards-knee-recovery-2026
 metaTitle: 'Anthony Edwards knee injury: April game and summer break'
 metaDescription: >-
-  Anthony Edwards hurt his left knee in the 2026 playoffs and took about two months away from basketball after the season.
+  Anthony Edwards hurt his left knee in the 2026 playoffs and took about two
+  months away from basketball after the season.
 knownFor: Timberwolves guard
 summary: >-
-  Anthony Edwards bruised his left knee in Game 4 of Minnesota's first-round playoff series against Denver in April 2026. In October he said he had spent roughly two months away from basketball after the season so the knee could heal. The sources we checked give no return date.
-status: review
+  Anthony Edwards bruised his left knee in Game 4 of Minnesota's first-round
+  playoff series against Denver in April 2026. In October he said he had spent
+  roughly two months away from basketball after the season so the knee could
+  heal. The sources we checked give no return date.
+status: published
 risk: medium
+reviewedAt: '2026-10-28'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Anthony Edwards knee
@@ -17,8 +23,8 @@ targetQueries:
   - Anthony Edwards knee injury
   - Anthony Edwards Timberwolves injury
   - Anthony Edwards return
+publishedAt: '2026-10-28'
 ---
-
 [Anthony Edwards](person:anthony-edwards) hurt his left knee in the first half of Game 4 of the Minnesota Timberwolves' first-round playoff series against the Denver Nuggets in April 2026. He was contesting a layup by Cam Johnson when his left leg buckled on landing, according to the Associated Press [s:ap-edwards-knee-2026-04]. The injury was a bone bruise and a hyperextension of the knee [s:roundtable-edwards-summer-break-2026-10]. The AP reported that the knee remained structurally intact [s:ap-edwards-knee-2026-04].
 
 ## What happened in Game 4

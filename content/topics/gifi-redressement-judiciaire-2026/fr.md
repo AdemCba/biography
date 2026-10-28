@@ -1,15 +1,25 @@
 ---
-title: Gifi demande son redressement judiciaire, 32 magasins passent à Grand Frais
+title: 'Gifi demande son redressement judiciaire, 32 magasins passent à Grand Frais'
 slug: gifi-redressement-judiciaire
 metaTitle: 'Gifi redressement judiciaire : magasins et Grand Frais (2026)'
 metaDescription: >-
-  Gifi a demandé son redressement judiciaire le 20 octobre 2026. Ce que disent les médias sur ses 513 magasins et les 32 sites repris par Grand Frais.
-knownFor: Enseigne française de déco à petits prix placée en redressement judiciaire en octobre 2026
+  Gifi a demandé son redressement judiciaire le 20 octobre 2026. Ce que disent
+  les médias sur ses 513 magasins et les 32 sites repris par Grand Frais.
+knownFor: >-
+  Enseigne française de déco à petits prix placée en redressement judiciaire en
+  octobre 2026
 summary: >-
-  L'enseigne Gifi a demandé son placement en redressement judiciaire le 20 octobre 2026, selon plusieurs médias français [s:journaldugeek-gifi] [s:tribunaldunet-gifi]. Le plan prévoit la cession de 32 magasins à Grand Frais, et dix magasins ont déjà fermé définitivement [s:demotivateur-gifi]. Les sources ne s'accordent pas sur l'avancement de la procédure devant le tribunal.
-status: review
+  L'enseigne Gifi a demandé son placement en redressement judiciaire le 20
+  octobre 2026, selon plusieurs médias français [s:journaldugeek-gifi]
+  [s:tribunaldunet-gifi]. Le plan prévoit la cession de 32 magasins à Grand
+  Frais, et dix magasins ont déjà fermé définitivement [s:demotivateur-gifi].
+  Les sources ne s'accordent pas sur l'avancement de la procédure devant le
+  tribunal.
+status: published
 risk: medium
+reviewedAt: '2026-10-28'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Gifi redressement judiciaire
@@ -20,10 +30,15 @@ targetQueries:
 faq:
   - q: Gifi est-elle en liquidation ?
     a: >-
-      Les articles consultés décrivent un redressement judiciaire, pas une liquidation. Un titre évoque la liquidation, mais le corps de l'article ne la confirme pas [s:journaldugeek-gifi] [s:kohenavocats-gifi].
+      Les articles consultés décrivent un redressement judiciaire, pas une
+      liquidation. Un titre évoque la liquidation, mais le corps de l'article ne
+      la confirme pas [s:journaldugeek-gifi] [s:kohenavocats-gifi].
   - q: Combien de magasins Gifi passent à Grand Frais ?
     a: >-
-      Les reportages évoquent 32 sites : 17 exploités directement par Grand Frais, 14 en gérance-mandat et un magasin de Bayonne rattaché à Gifi 48 [s:demotivateur-gifi] [s:tribunaldunet-gifi].
+      Les reportages évoquent 32 sites : 17 exploités directement par Grand
+      Frais, 14 en gérance-mandat et un magasin de Bayonne rattaché à Gifi 48
+      [s:demotivateur-gifi] [s:tribunaldunet-gifi].
+publishedAt: '2026-10-28'
 ---
 ## Ce qui s'est passé
 

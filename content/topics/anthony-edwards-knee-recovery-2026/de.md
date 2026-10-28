@@ -3,13 +3,20 @@ title: 'Knieverletzung von Anthony Edwards: Was über seine Genesung bekannt ist
 slug: anthony-edwards-knee-recovery-2026
 metaTitle: 'Anthony Edwards: Knieverletzung und Sommerpause'
 metaDescription: >-
-  Anthony Edwards verletzte sich im April 2026 am linken Knie. Nach der Saison pausierte er rund zwei Monate vom Basketball.
+  Anthony Edwards verletzte sich im April 2026 am linken Knie. Nach der Saison
+  pausierte er rund zwei Monate vom Basketball.
 knownFor: Basketballspieler bei den Timberwolves
 summary: >-
-  Anthony Edwards verletzte sich im April 2026 in Spiel 4 der ersten Playoff-Runde gegen Denver am linken Knie. Im Oktober sagte er, er habe nach der Saison rund zwei Monate ohne Basketball verbracht, damit das Knie ausheilen konnte. Die ausgewerteten Quellen nennen keinen Termin für seine Rückkehr.
-status: review
+  Anthony Edwards verletzte sich im April 2026 in Spiel 4 der ersten
+  Playoff-Runde gegen Denver am linken Knie. Im Oktober sagte er, er habe nach
+  der Saison rund zwei Monate ohne Basketball verbracht, damit das Knie
+  ausheilen konnte. Die ausgewerteten Quellen nennen keinen Termin für seine
+  Rückkehr.
+status: published
 risk: medium
+reviewedAt: '2026-10-28'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Anthony Edwards Knie
@@ -17,8 +24,8 @@ targetQueries:
   - Anthony Edwards Knieverletzung
   - Anthony Edwards Timberwolves Verletzung
   - Anthony Edwards Comeback
+publishedAt: '2026-10-28'
 ---
-
 [Anthony Edwards](person:anthony-edwards) verletzte sich im April 2026 in der ersten Hälfte von Spiel 4 der ersten Playoff-Runde der Minnesota Timberwolves gegen die Denver Nuggets am linken Knie. Beim Versuch, einen Layup von Cam Johnson zu stören, knickte sein linkes Bein bei der Landung ein, berichtete die Associated Press [s:ap-edwards-knee-2026-04]. Die Verletzung umfasst eine Knochenprellung und eine Überstreckung des Knies [s:roundtable-edwards-summer-break-2026-10]. Die AP schrieb, dass das Knie strukturell intakt geblieben ist [s:ap-edwards-knee-2026-04].
 
 ## Was in Spiel 4 passierte

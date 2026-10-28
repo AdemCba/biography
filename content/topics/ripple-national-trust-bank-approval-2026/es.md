@@ -1,15 +1,29 @@
 ---
-title: Ripple obtiene la aprobación final de EE. UU. para su banco fiduciario nacional
+title: >-
+  Ripple obtiene la aprobación final de EE. UU. para su banco fiduciario
+  nacional
 slug: ripple-national-trust-bank-approval
 metaTitle: 'Ripple National Trust Bank: aprobación final de EE. UU. (2026)'
 metaDescription: >-
-  Ripple tiene la aprobación final de la OCC para el Ripple National Trust Bank, que gestionará reservas de RLUSD y custodiará activos digitales. Qué cubre la licencia.
-knownFor: Empresa cripto cuya licencia de banco fiduciario obtuvo la aprobación final en EE. UU.
+  Ripple tiene la aprobación final de la OCC para el Ripple National Trust Bank,
+  que gestionará reservas de RLUSD y custodiará activos digitales. Qué cubre la
+  licencia.
+knownFor: >-
+  Empresa cripto cuya licencia de banco fiduciario obtuvo la aprobación final en
+  EE. UU.
 summary: >-
-  La Oficina del Contralor de la Moneda de EE. UU. ha dado a Ripple la aprobación final para constituir el Ripple National Trust Bank, según anunció Ripple el 26 de octubre de 2026 [s:ripple-press-final-occ]. La licencia cubre la gestión de las reservas que respaldan Ripple USD (RLUSD) y la custodia de activos digitales. No es un banco completo: los bancos fiduciarios nacionales, en general, no aceptan depósitos ni conceden préstamos [s:cointelegraph-ripple-final].
-status: review
+  La Oficina del Contralor de la Moneda de EE. UU. ha dado a Ripple la
+  aprobación final para constituir el Ripple National Trust Bank, según anunció
+  Ripple el 26 de octubre de 2026 [s:ripple-press-final-occ]. La licencia cubre
+  la gestión de las reservas que respaldan Ripple USD (RLUSD) y la custodia de
+  activos digitales. No es un banco completo: los bancos fiduciarios nacionales,
+  en general, no aceptan depósitos ni conceden préstamos
+  [s:cointelegraph-ripple-final].
+status: published
 risk: medium
+reviewedAt: '2026-10-28'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Ripple National Trust Bank
@@ -20,10 +34,15 @@ targetQueries:
 faq:
   - q: ¿Quién emite RLUSD después de la aprobación?
     a: >-
-      Standard Custody & Trust Company seguirá emitiendo RLUSD, y está regulada por el Departamento de Servicios Financieros de Nueva York [s:ripple-press-final-occ] [s:cointelegraph-ripple-final].
+      Standard Custody & Trust Company seguirá emitiendo RLUSD, y está regulada
+      por el Departamento de Servicios Financieros de Nueva York
+      [s:ripple-press-final-occ] [s:cointelegraph-ripple-final].
   - q: ¿Cuándo abrirá el Ripple National Trust Bank?
     a: >-
-      Ninguna de las fuentes consultadas da una fecha de apertura, así que la aprobación no dice cuándo empezará a operar el banco [s:ripple-press-final-occ] [s:cointelegraph-ripple-final].
+      Ninguna de las fuentes consultadas da una fecha de apertura, así que la
+      aprobación no dice cuándo empezará a operar el banco
+      [s:ripple-press-final-occ] [s:cointelegraph-ripple-final].
+publishedAt: '2026-10-28'
 ---
 ## Qué ha pasado
 

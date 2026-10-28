@@ -3,13 +3,19 @@ title: 'Blessure au genou d''Anthony Edwards : ce que l''on sait de sa récupér
 slug: anthony-edwards-knee-recovery-2026
 metaTitle: 'Anthony Edwards et le genou : avril et pause estivale'
 metaDescription: >-
-  Anthony Edwards s'est blessé au genou gauche pendant les playoffs 2026, puis s'est tenu à l'écart du basket environ deux mois après la saison.
+  Anthony Edwards s'est blessé au genou gauche pendant les playoffs 2026, puis
+  s'est tenu à l'écart du basket environ deux mois après la saison.
 knownFor: Joueur des Timberwolves
 summary: >-
-  Anthony Edwards s'est blessé au genou gauche lors du match 4 du premier tour contre Denver, en avril 2026. En octobre, il a expliqué avoir passé environ deux mois loin du basket après la saison pour laisser le genou guérir. Les sources consultées ne donnent pas de date de retour.
-status: review
+  Anthony Edwards s'est blessé au genou gauche lors du match 4 du premier tour
+  contre Denver, en avril 2026. En octobre, il a expliqué avoir passé environ
+  deux mois loin du basket après la saison pour laisser le genou guérir. Les
+  sources consultées ne donnent pas de date de retour.
+status: published
 risk: medium
+reviewedAt: '2026-10-28'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Anthony Edwards genou
@@ -17,8 +23,8 @@ targetQueries:
   - Anthony Edwards blessure genou
   - Anthony Edwards Timberwolves blessure
   - Anthony Edwards retour
+publishedAt: '2026-10-28'
 ---
-
 [Anthony Edwards](person:anthony-edwards) s'est blessé au genou gauche dans la première mi-temps du match 4 du premier tour des playoffs, face aux Nuggets de Denver, en avril 2026. Alors qu'il disputait un lay-up de Cam Johnson, sa jambe gauche a fléchi à la réception, selon l'Associated Press [s:ap-edwards-knee-2026-04]. La blessure est une contusion osseuse et une hyperextension du genou [s:roundtable-edwards-summer-break-2026-10]. L'AP précise que le genou est resté structurellement intact [s:ap-edwards-knee-2026-04].
 
 ## Ce qui s'est passé au match 4

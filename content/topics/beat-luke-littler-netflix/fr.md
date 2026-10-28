@@ -3,13 +3,20 @@ title: 'Beat Luke Littler sur Netflix : comment un amateur peut gagner 501 000 l
 slug: beat-luke-littler-netflix
 metaTitle: 'Beat Luke Littler sur Netflix : date, format et gain'
 metaDescription: >-
-  Beat Luke Littler est une émission de darts en direct sur Netflix le vendredi 30 octobre 2026. Vingt amateurs jouent une manche de 501.
+  Beat Luke Littler est une émission de darts en direct sur Netflix le vendredi
+  30 octobre 2026. Vingt amateurs jouent une manche de 501.
 knownFor: Émission de darts en direct sur Netflix
 summary: >-
-  Netflix diffuse en direct Beat Luke Littler le vendredi 30 octobre 2026. Vingt joueurs amateurs disputent chacun une manche de 501 contre Luke Littler, alors numéro un mondial, et celui qui remporte une manche empoche 501 000 livres. L'émission est créée avec la PDC et produite par Workerbee, label de Banijay UK.
-status: review
+  Netflix diffuse en direct Beat Luke Littler le vendredi 30 octobre 2026. Vingt
+  joueurs amateurs disputent chacun une manche de 501 contre Luke Littler, alors
+  numéro un mondial, et celui qui remporte une manche empoche 501 000 livres.
+  L'émission est créée avec la PDC et produite par Workerbee, label de Banijay
+  UK.
+status: published
 risk: medium
+reviewedAt: '2026-10-28'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Beat Luke Littler Netflix
@@ -17,8 +24,8 @@ targetQueries:
   - Beat Luke Littler gain
   - Beat Luke Littler date
   - Luke Littler Netflix fléchettes
+publishedAt: '2026-10-28'
 ---
-
 Netflix diffuse en direct le vendredi 30 octobre 2026 l'émission Beat Luke Littler [s:broadcastnow-beat-luke-littler]. Vingt joueurs amateurs disputeront chacun une manche de 501 contre [Luke Littler](person:luke-littler), alors numéro un mondial [s:whats-on-netflix-beat-luke-littler]. Celui qui remporte une manche empoche 501 000 livres [s:whats-on-netflix-beat-luke-littler].
 
 ## Ce que le format demande aux joueurs

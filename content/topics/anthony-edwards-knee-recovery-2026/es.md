@@ -3,13 +3,19 @@ title: 'Lesión de rodilla de Anthony Edwards: qué se sabe de su recuperación'
 slug: anthony-edwards-knee-recovery-2026
 metaTitle: 'Anthony Edwards y la lesión de rodilla: abril y pausa de verano'
 metaDescription: >-
-  Anthony Edwards se lesionó la rodilla izquierda en los playoffs de 2026 y se alejó del baloncesto unos dos meses tras la temporada.
+  Anthony Edwards se lesionó la rodilla izquierda en los playoffs de 2026 y se
+  alejó del baloncesto unos dos meses tras la temporada.
 knownFor: Jugador de los Timberwolves
 summary: >-
-  Anthony Edwards se lesionó la rodilla izquierda en el Juego 4 de la primera ronda contra Denver, en abril de 2026. En octubre contó que había pasado unos dos meses sin baloncesto para que la rodilla sanara. Las fuentes consultadas no dan fecha de regreso.
-status: review
+  Anthony Edwards se lesionó la rodilla izquierda en el Juego 4 de la primera
+  ronda contra Denver, en abril de 2026. En octubre contó que había pasado unos
+  dos meses sin baloncesto para que la rodilla sanara. Las fuentes consultadas
+  no dan fecha de regreso.
+status: published
 risk: medium
+reviewedAt: '2026-10-28'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Anthony Edwards rodilla
@@ -17,8 +23,8 @@ targetQueries:
   - Anthony Edwards lesión rodilla
   - Anthony Edwards Timberwolves lesión
   - Anthony Edwards regreso
+publishedAt: '2026-10-28'
 ---
-
 [Anthony Edwards](person:anthony-edwards) se lesionó la rodilla izquierda en la primera mitad del Juego 4 de la primera ronda de los playoffs, en la serie que los Minnesota Timberwolves jugaban contra los Denver Nuggets, en abril de 2026. Según la Associated Press, su pierna izquierda se dobló al aterrizar mientras disputaba una entrada de Cam Johnson [s:ap-edwards-knee-2026-04]. La lesión consistió en una contusión ósea y una hiperextensión de la rodilla [s:roundtable-edwards-summer-break-2026-10]. La AP informó que la rodilla seguía estructuralmente intacta [s:ap-edwards-knee-2026-04].
 
 ## Qué pasó en el Juego 4

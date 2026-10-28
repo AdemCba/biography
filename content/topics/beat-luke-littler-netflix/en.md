@@ -3,13 +3,19 @@ title: 'Beat Luke Littler on Netflix: how amateurs can win £501,000'
 slug: beat-luke-littler-netflix
 metaTitle: 'Beat Luke Littler on Netflix: date, format and prize'
 metaDescription: >-
-  Beat Luke Littler is a live Netflix darts special on Friday 30 October 2026. Twenty amateurs each get one leg of 501 for a £501,000 prize.
+  Beat Luke Littler is a live Netflix darts special on Friday 30 October 2026.
+  Twenty amateurs each get one leg of 501 for a £501,000 prize.
 knownFor: Live Netflix darts special
 summary: >-
-  Netflix is airing Beat Luke Littler live on Friday 30 October 2026. Twenty amateur darts players each get one leg of 501 against Luke Littler, then world No. 1, and whoever wins a leg takes £501,000. The show is created with the PDC and produced by Workerbee, part of Banijay UK.
-status: review
+  Netflix is airing Beat Luke Littler live on Friday 30 October 2026. Twenty
+  amateur darts players each get one leg of 501 against Luke Littler, then world
+  No. 1, and whoever wins a leg takes £501,000. The show is created with the PDC
+  and produced by Workerbee, part of Banijay UK.
+status: published
 risk: medium
+reviewedAt: '2026-10-28'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Beat Luke Littler Netflix
@@ -17,8 +23,8 @@ targetQueries:
   - Beat Luke Littler prize
   - Beat Luke Littler date
   - Luke Littler Netflix darts
+publishedAt: '2026-10-28'
 ---
-
 Netflix is showing a live darts special called Beat Luke Littler on Friday 30 October 2026 [s:broadcastnow-beat-luke-littler]. Twenty amateur players will each get one leg of 501 against [Luke Littler](person:luke-littler), then world No. 1 [s:whats-on-netflix-beat-luke-littler]. Anyone who wins a leg takes £501,000 [s:whats-on-netflix-beat-luke-littler].
 
 ## What the format asks of the players

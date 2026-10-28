@@ -1,15 +1,25 @@
 ---
 title: Stan Wawrinka gets a standing ovation in Basel before his farewell
 slug: wawrinka-basel-standing-ovation
-metaTitle: 'Stan Wawrinka Basel ovation and farewell (2026)'
+metaTitle: Stan Wawrinka Basel ovation and farewell (2026)
 metaDescription: >-
-  Stan Wawrinka received a standing ovation at the Swiss Indoors in Basel on 26 October 2026. What the reports say about the tribute, his career and what comes next.
-knownFor: Swiss tennis player who ended his career at the Swiss Indoors in Basel in October 2026
+  Stan Wawrinka received a standing ovation at the Swiss Indoors in Basel on 26
+  October 2026. What the reports say about the tribute, his career and what
+  comes next.
+knownFor: >-
+  Swiss tennis player who ended his career at the Swiss Indoors in Basel in
+  October 2026
 summary: >-
-  Stan Wawrinka received a standing ovation at the Swiss Indoors in Basel on 26 October 2026, during a tribute before his final tournament [s:atp-video] [s:tenniswatcher]. The tournament and Tennis.com describe Basel as the end of his career [s:swissindoors-farewell] [s:tennis-com]. The sources reviewed do not announce a playing schedule after Basel.
-status: review
+  Stan Wawrinka received a standing ovation at the Swiss Indoors in Basel on 26
+  October 2026, during a tribute before his final tournament [s:atp-video]
+  [s:tenniswatcher]. The tournament and Tennis.com describe Basel as the end of
+  his career [s:swissindoors-farewell] [s:tennis-com]. The sources reviewed do
+  not announce a playing schedule after Basel.
+status: published
 risk: medium
+reviewedAt: '2026-10-28'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Stan Wawrinka Basel
@@ -20,10 +30,15 @@ targetQueries:
 faq:
   - q: Did Stan Wawrinka retire in Basel?
     a: >-
-      The tournament and Tennis.com describe Basel as the end of his career [s:swissindoors-farewell] [s:tennis-com]. His first-round match against Jiří Lehečka was still described as upcoming in the reports reviewed, and none of them gives the result [s:tenniswatcher] [s:blick].
+      The tournament and Tennis.com describe Basel as the end of his career
+      [s:swissindoors-farewell] [s:tennis-com]. His first-round match against
+      Jiří Lehečka was still described as upcoming in the reports reviewed, and
+      none of them gives the result [s:tenniswatcher] [s:blick].
   - q: How many Grand Slam singles titles has Stan Wawrinka won?
     a: >-
-      He won three: the 2014 Australian Open, the 2015 Roland Garros and the 2016 US Open [s:atp-bio] [s:swissindoors-farewell].
+      He won three: the 2014 Australian Open, the 2015 Roland Garros and the
+      2016 US Open [s:atp-bio] [s:swissindoors-farewell].
+publishedAt: '2026-10-28'
 ---
 ## What happened
 

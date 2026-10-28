@@ -1,15 +1,26 @@
 ---
-title: Gifi beantragt Sanierungsverfahren, 32 Filialen gehen an Grand Frais
+title: 'Gifi beantragt Sanierungsverfahren, 32 Filialen gehen an Grand Frais'
 slug: gifi-redressement-judiciaire
 metaTitle: 'Gifi Sanierungsverfahren: Filialen und Grand Frais (2026)'
 metaDescription: >-
-  Gifi hat am 20. Oktober 2026 ein gerichtlich überwachtes Sanierungsverfahren beantragt. Was die Berichte über 513 Filialen und 32 Standorte für Grand Frais sagen.
-knownFor: Französische Discounterkette, die im Oktober 2026 ein Sanierungsverfahren beantragt hat
+  Gifi hat am 20. Oktober 2026 ein gerichtlich überwachtes Sanierungsverfahren
+  beantragt. Was die Berichte über 513 Filialen und 32 Standorte für Grand Frais
+  sagen.
+knownFor: >-
+  Französische Discounterkette, die im Oktober 2026 ein Sanierungsverfahren
+  beantragt hat
 summary: >-
-  Die französische Handelskette Gifi hat laut mehreren französischen Medien am 20. Oktober 2026 ein gerichtlich überwachtes Sanierungsverfahren beantragt [s:journaldugeek-gifi] [s:tribunaldunet-gifi]. Der Plan sieht vor, 32 Standorte an Grand Frais zu verkaufen, und zehn Filialen sind bereits dauerhaft geschlossen [s:demotivateur-gifi]. Die Quellen sind sich nicht einig, wie weit das Verfahren vor Gericht gediehen ist.
-status: review
+  Die französische Handelskette Gifi hat laut mehreren französischen Medien am
+  20. Oktober 2026 ein gerichtlich überwachtes Sanierungsverfahren beantragt
+  [s:journaldugeek-gifi] [s:tribunaldunet-gifi]. Der Plan sieht vor, 32
+  Standorte an Grand Frais zu verkaufen, und zehn Filialen sind bereits
+  dauerhaft geschlossen [s:demotivateur-gifi]. Die Quellen sind sich nicht
+  einig, wie weit das Verfahren vor Gericht gediehen ist.
+status: published
 risk: medium
+reviewedAt: '2026-10-28'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Gifi Sanierungsverfahren
@@ -20,10 +31,17 @@ targetQueries:
 faq:
   - q: Wird Gifi abgewickelt?
     a: >-
-      Die geprüften Berichte beschreiben ein Sanierungsverfahren, keine Liquidation. Eine Überschrift spricht von Liquidation, der Text des Artikels bestätigt das aber nicht [s:journaldugeek-gifi] [s:kohenavocats-gifi].
+      Die geprüften Berichte beschreiben ein Sanierungsverfahren, keine
+      Liquidation. Eine Überschrift spricht von Liquidation, der Text des
+      Artikels bestätigt das aber nicht [s:journaldugeek-gifi]
+      [s:kohenavocats-gifi].
   - q: Wie viele Gifi-Filialen werden zu Grand Frais?
     a: >-
-      Die Berichte nennen 32 Standorte: 17 werden direkt von Grand Frais betrieben, 14 im Modell der Geschäftsführung im Auftrag und ein Geschäft in Bayonne gehört zur Struktur Gifi 48 [s:demotivateur-gifi] [s:tribunaldunet-gifi].
+      Die Berichte nennen 32 Standorte: 17 werden direkt von Grand Frais
+      betrieben, 14 im Modell der Geschäftsführung im Auftrag und ein Geschäft
+      in Bayonne gehört zur Struktur Gifi 48 [s:demotivateur-gifi]
+      [s:tribunaldunet-gifi].
+publishedAt: '2026-10-28'
 ---
 ## Was passiert ist
 

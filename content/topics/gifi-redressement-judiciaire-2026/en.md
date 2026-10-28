@@ -3,13 +3,22 @@ title: Gifi asks for judicial restructuring as 32 stores move to Grand Frais
 slug: gifi-redressement-judiciaire
 metaTitle: 'Gifi judicial restructuring: stores and Grand Frais (2026)'
 metaDescription: >-
-  Gifi asked for a French court-supervised restructuring on 20 October 2026. What the reports say about its 513 stores and 32 Grand Frais sites.
-knownFor: French discount chain whose judicial restructuring was requested in October 2026
+  Gifi asked for a French court-supervised restructuring on 20 October 2026.
+  What the reports say about its 513 stores and 32 Grand Frais sites.
+knownFor: >-
+  French discount chain whose judicial restructuring was requested in October
+  2026
 summary: >-
-  Gifi, the French discount chain, asked for a judicial restructuring procedure on 20 October 2026, according to several French outlets [s:journaldugeek-gifi] [s:tribunaldunet-gifi]. The plan sells 32 stores to Grand Frais, and ten stores have already closed for good [s:demotivateur-gifi]. The sources do not agree on how far the court process has gone.
-status: review
+  Gifi, the French discount chain, asked for a judicial restructuring procedure
+  on 20 October 2026, according to several French outlets [s:journaldugeek-gifi]
+  [s:tribunaldunet-gifi]. The plan sells 32 stores to Grand Frais, and ten
+  stores have already closed for good [s:demotivateur-gifi]. The sources do not
+  agree on how far the court process has gone.
+status: published
 risk: medium
+reviewedAt: '2026-10-28'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Gifi judicial restructuring
@@ -20,10 +29,15 @@ targetQueries:
 faq:
   - q: Is Gifi being liquidated?
     a: >-
-      The reports reviewed describe a judicial restructuring, not a liquidation. One headline uses the word liquidation, but the article body does not [s:journaldugeek-gifi] [s:kohenavocats-gifi].
+      The reports reviewed describe a judicial restructuring, not a liquidation.
+      One headline uses the word liquidation, but the article body does not
+      [s:journaldugeek-gifi] [s:kohenavocats-gifi].
   - q: How many Gifi stores are becoming Grand Frais?
     a: >-
-      The reports describe 32 sites: 17 run directly by Grand Frais, 14 under a managed arrangement, and one Bayonne store linked to Gifi 48 [s:demotivateur-gifi] [s:tribunaldunet-gifi].
+      The reports describe 32 sites: 17 run directly by Grand Frais, 14 under a
+      managed arrangement, and one Bayonne store linked to Gifi 48
+      [s:demotivateur-gifi] [s:tribunaldunet-gifi].
+publishedAt: '2026-10-28'
 ---
 ## What happened
 

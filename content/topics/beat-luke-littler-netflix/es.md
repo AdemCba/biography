@@ -3,13 +3,20 @@ title: 'Beat Luke Littler en Netflix: cómo un aficionado puede ganar 501.000 li
 slug: beat-luke-littler-netflix
 metaTitle: 'Beat Luke Littler en Netflix: fecha, formato y premio'
 metaDescription: >-
-  Beat Luke Littler es un especial de darts en directo en Netflix el viernes 30 de octubre de 2026. Veinte aficionados juegan una pierna de 501.
+  Beat Luke Littler es un especial de darts en directo en Netflix el viernes 30
+  de octubre de 2026. Veinte aficionados juegan una pierna de 501.
 knownFor: Especial de darts en directo en Netflix
 summary: >-
-  Netflix emite en directo Beat Luke Littler el viernes 30 de octubre de 2026. Veinte jugadores aficionados disputan cada uno una pierna de 501 contra Luke Littler, entonces número uno del mundo, y quien gane una pierna se lleva 501.000 libras. El programa lo produce Workerbee, sello de Banijay UK, en colaboración con la PDC.
-status: review
+  Netflix emite en directo Beat Luke Littler el viernes 30 de octubre de 2026.
+  Veinte jugadores aficionados disputan cada uno una pierna de 501 contra Luke
+  Littler, entonces número uno del mundo, y quien gane una pierna se lleva
+  501.000 libras. El programa lo produce Workerbee, sello de Banijay UK, en
+  colaboración con la PDC.
+status: published
 risk: medium
+reviewedAt: '2026-10-28'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Beat Luke Littler Netflix
@@ -17,8 +24,8 @@ targetQueries:
   - Beat Luke Littler premio
   - Beat Luke Littler fecha
   - Luke Littler Netflix darts
+publishedAt: '2026-10-28'
 ---
-
 Netflix emite en directo el viernes 30 de octubre de 2026 el especial de darts Beat Luke Littler [s:broadcastnow-beat-luke-littler]. Veinte jugadores aficionados disputarán cada uno una pierna de 501 contra [Luke Littler](person:luke-littler), entonces número uno del mundo [s:whats-on-netflix-beat-luke-littler]. Quien gane una pierna se lleva 501.000 libras esterlinas [s:whats-on-netflix-beat-luke-littler].
 
 ## Cómo funciona el formato
