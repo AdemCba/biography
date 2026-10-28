@@ -1,11 +1,8 @@
 ---
 title: MrBeast
 slug: mrbeast
-metaTitle: 'MrBeast: edad, suscriptores, patrimonio y boda'
-metaDescription: >-
-  Edad de MrBeast, lugar de origen, 500 millones de suscriptores en YouTube,
-  Beast Games, Feastables, el patrimonio estimado de 2.600 millones y su boda de
-  2026.
+metaTitle: 'MrBeast: edad ({age} años), patrimonio y suscriptores'
+metaDescription: "MrBeast tiene {age} años (nació el 7 de mayo de 1998). Su origen, 500 millones de suscriptores en YouTube, Beast Games, Feastables y su patrimonio estimado."
 knownFor: >-
   YouTuber estadounidense, fundador de Beast Industries y presentador de Beast
   Games

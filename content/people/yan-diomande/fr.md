@@ -1,11 +1,8 @@
 ---
 title: Yan Diomandé
 slug: yan-diomande
-metaTitle: 'Yan Diomandé : âge, transfert au Real Madrid et distinctions'
-metaDescription: >-
-  Âge, lieu de naissance, titre de rookie de la Bundesliga 2025/26 avec le RB
-  Leipzig et contrat au Real Madrid jusqu'en 2033, avec les montants du
-  transfert et leurs sourc
+metaTitle: 'Yan Diomandé : âge ({age} ans), nationalité et Real Madrid'
+metaDescription: "Yan Diomandé a {age} ans (né le 14 novembre 2006) et il est ivoirien. Son parcours au RB Leipzig, son titre de rookie de Bundesliga et son contrat au Real Madrid."
 knownFor: >-
   Ailier ivoirien, Rookie of the Season de la Bundesliga 2025/26 avec le RB
   Leipzig

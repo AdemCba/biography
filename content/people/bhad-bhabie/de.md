@@ -1,10 +1,8 @@
 ---
 title: Bhad Bhabie
 slug: bhad-bhabie
-metaTitle: 'Bhad Bhabie: Alter und Atlantic Records'
-metaDescription: >-
-  Bhad Bhabies Alter (geboren am 26. März 2003), ihr Plattenvertrag bei Atlantic
-  Records von 2017, das Mixtape 15 und die Trennung vom Label 2021.
+metaTitle: 'Bhad Bhabie: Alter ({age}), Karriere und Musik'
+metaDescription: "Bhad Bhabie ist {age} Jahre alt (geboren am 26. März 2003). Wie sie bekannt wurde, ihr Vertrag mit Atlantic Records und ihre Karriere, mit Quellen."
 knownFor: >-
   US-amerikanische Rapperin und Internetpersönlichkeit, bekannt durch den
   viralen Clip „Cash Me Outside“ von 2016 und ihren Vertrag bei Atlantic Records

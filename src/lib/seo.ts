@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { absoluteUrl, site } from "@/config/site";
 import { HREFLANG, OG_LOCALE, type Locale } from "@/i18n/config";
 import { categoryPath, getContent, isoDateTime, lastModified, liveArticle, livePeople, personPath, type Article, type Person } from "./content";
+import { fillAge } from "./markdown";
 import type { Category } from "./schema";
 
 /** hreflang map for a set of locale -> path pairs, with x-default pointing at English when present. */
@@ -100,7 +101,7 @@ export function personJsonLd(person: Person, article: Article, crumbs: { name: s
       "@type": "ProfilePage",
       "@id": url,
       url,
-      name: article.meta.metaTitle ?? article.meta.title,
+      name: fillAge(article.meta.metaTitle ?? article.meta.title, data.facts.birthDate?.value, data.facts.deathDate?.value, new Date().toISOString().slice(0, 10)),
       inLanguage: HREFLANG[article.locale],
       datePublished: isoDateTime(article.meta.publishedAt),
       dateModified: isoDateTime(lastModified(article.meta)),

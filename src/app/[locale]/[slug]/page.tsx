@@ -19,7 +19,7 @@ import {
   livePeople,
   personPath,
 } from "@/lib/content";
-import { ageOn, countryName, formatDate, headings, resolveShortcuts, splitBeforeHeading } from "@/lib/markdown";
+import { ageOn, countryName, fillAge, formatDate, headings, resolveShortcuts, splitBeforeHeading } from "@/lib/markdown";
 import { pageMetadata, personAlternates, personJsonLd } from "@/lib/seo";
 
 export const dynamicParams = false;
@@ -44,11 +44,13 @@ export async function generateMetadata({ params }: PageProps<"/[locale]/[slug]">
   const found = find(locale, slug);
   if (!found) return {};
   const { person, article } = found;
+  const { birthDate, deathDate } = person.data.facts;
+  const fill = (t: string) => fillAge(t, birthDate?.value, deathDate?.value, new Date().toISOString().slice(0, 10));
   return {
     ...pageMetadata({
       locale,
-      title: article.meta.metaTitle ?? article.meta.title,
-      description: article.meta.metaDescription,
+      title: fill(article.meta.metaTitle ?? article.meta.title),
+      description: fill(article.meta.metaDescription),
       path: personPath(locale, slug),
       alternates: personAlternates(person),
       image: person.data.image?.src,

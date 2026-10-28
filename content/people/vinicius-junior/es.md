@@ -1,10 +1,8 @@
 ---
 title: Vinícius Júnior
 slug: vinicius-junior
-metaTitle: 'Vinícius Júnior: edad, Balón de Oro y carrera'
-metaDescription: >-
-  Fecha y lugar de nacimiento de Vinícius Júnior, premio The Best 2024,
-  subcampeonato del Balón de Oro, Ligas de Campeones y contrato hasta 2032.
+metaTitle: 'Vinícius Júnior: edad ({age} años), Balón de Oro y carrera'
+metaDescription: "Vinícius Júnior tiene {age} años (nació el 12 de julio de 2000). Su carrera en el Real Madrid, sus títulos y su historia con el Balón de Oro, con fuentes."
 knownFor: 'Delantero brasileño del Real Madrid y de Brasil, premio The Best FIFA 2024'
 summary: >-
   Vinícius Júnior es el delantero brasileño que ganó la final de la Liga de

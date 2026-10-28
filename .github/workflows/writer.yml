@@ -86,6 +86,13 @@ jobs:
               target) and cite at least one primary source (official site, club, league, award body, company or
               interview) with the matching source type. Fill `facts` in person.json (at least nationality, and
               birth date/place when a source gives them) with source ids; an empty `facts` blocks the page.
+            - Titles for clicks (Search Console: most searches are "<name> age/Alter/edad/âge/idade", and pages
+              at position ~10 get almost no clicks, so the title must make people choose this result):
+              metaTitle answers the top question in the page's language with the {age} placeholder (filled with
+              the current age at build time), e.g. "Alexia Putellas: Alter ({age}), Wechsel und neuer Verein".
+              metaDescription opens with the answer, e.g. "Alexia Putellas ist {age} Jahre alt (geboren am
+              4. Februar 1994).", then one concrete fact from today's news. Use {age} only when person.json
+              has birthDate. Keep metaTitle under 60 characters and metaDescription under 160.
             - Small gaps are not blockers. When no source gives a nationality, a birthplace detail or an exact
               date, leave that field out (or say the sources differ, e.g. "born in 1978 or 1979") and carry on.
               Never leave a page in review or flagged for a human for such gaps: fix what the fact-check found

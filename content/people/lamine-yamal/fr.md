@@ -1,10 +1,8 @@
 ---
 title: Lamine Yamal
 slug: lamine-yamal
-metaTitle: 'Lamine Yamal : âge, records au Barça et Coupe du monde'
-metaDescription: >-
-  Âge de Lamine Yamal, lieu de naissance, records avec le Barça, Euro 2024,
-  Coupe du monde 2026 et course au Ballon d’Or 2026, avec sources.
+metaTitle: 'Lamine Yamal : âge ({age} ans), records au Barça et Mondial'
+metaDescription: "Lamine Yamal a {age} ans (né le 13 juillet 2007). Ses débuts et records au FC Barcelone, l'Euro 2024, la Coupe du monde 2026 et le Ballon d'Or, avec sources."
 knownFor: 'Ailier espagnol du Barça et de la Roja, deux fois lauréat du trophée Kopa'
 summary: >-
   Lamine Yamal est un ailier espagnol qui joue au FC Barcelone et en équipe
