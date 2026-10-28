@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
     inputs:
       count:
-        description: "Kaç kişi yazılsın (How many people to write)"
+        description: "Kaç kişi yazılsın (0 = sadece gündem, hızlı çalışma)"
         default: "5"
       topics:
         description: "Kaç gündem (trend konu) yazısı yazılsın"
@@ -20,8 +20,9 @@ on:
         required: false
         default: ""
 
+# Topics-only runs (count 0) have their own queue so they are never stuck behind a long people run.
 concurrency:
-  group: writer
+  group: writer-${{ inputs.count == '0' && 'topics' || 'people' }}
   cancel-in-progress: false
 
 permissions:
@@ -63,6 +64,11 @@ jobs:
           prompt: |
             This is an unattended run: nobody will answer questions, so never stop to ask or to confirm. Keep working
             until every step is done. Follow docs/subscription-writer-task.md for ${{ inputs.count || 5 }} new people, with these changes:
+            - TOPICS-ONLY RUN when the people count is 0 (this run: "${{ inputs.count || 5 }}"): write only the
+              trending topic articles below, from the freshest rows of "Son 4 saatte Google'da yükselen konular",
+              skipping stories that already have a page in content/topics. Do not write or repair people pages
+              and skip the "Traffic first" and repair steps. Be quick: a few strong sources per topic, one
+              fact-check pass, then schedule and finish. Write the summary as usual.
             - People the owner asked for: "${{ inputs.people }}". If this is not empty, write exactly these people
               (one per comma; ignore the count and skip the trend pick below). If one of them already has a page in
               content/people, update and expand that page in all five languages with today's news instead of
