@@ -17,7 +17,8 @@ export const site = {
   contactEmail: process.env.NEXT_PUBLIC_CONTACT_EMAIL || "editor@example.com",
   locales: enabledLocales(),
   defaultLocale: "en" as Locale,
-  adsenseClient: process.env.NEXT_PUBLIC_ADSENSE_CLIENT || "",
+  // Public publisher id (not a secret); the ADSENSE_CLIENT Actions variable can override it.
+  adsenseClient: process.env.NEXT_PUBLIC_ADSENSE_CLIENT || "ca-pub-8621279653549727",
   gaId: process.env.NEXT_PUBLIC_GA_ID || "",
   googleVerification: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || "",
 };
