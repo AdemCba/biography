@@ -13,6 +13,7 @@ summary: >-
   novembro, nos estúdios do SBT, em São Paulo [s:dgabc-teleton-2026-lineup].
 status: published
 risk: low
+publishedAt: '2026-10-29'
 reviewedAt: '2026-10-29'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -37,7 +38,7 @@ faq:
       A reportagem do Diário do Grande ABC informa que o evento acontece nos
       dias 6 e 7 de novembro, nos estúdios do SBT, em São Paulo
       [s:dgabc-teleton-2026-lineup].
-publishedAt: '2026-10-29'
+publishedTime: '2026-10-29T09:36:12.000Z'
 ---
 ## Por que a busca subiu
 

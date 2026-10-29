@@ -14,6 +14,7 @@ summary: >-
   [s:sport1-bayern-magdeburg-liveticker-2026].
 status: published
 risk: low
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -26,7 +27,7 @@ targetQueries:
   - Bayern Magdeburg Live-Stream
   - Bayern Magdeburg Free-TV
   - Harry Kane Magdeburg
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T21:23:57.000Z'
 ---
 Wer heute nach Bayern gegen Magdeburg sucht, will meist wissen, wann es losgeht und wo man das Spiel sehen kann. Der Anstoß ist am Mittwoch, 28. Oktober 2026, um 20:45 Uhr in der Allianz Arena in München [s:dfb-datencenter-bayern-magdeburg-2026] [s:sport1-bayern-magdeburg-liveticker-2026]. Die ARD zeigt die Partie kostenlos im Free-TV [s:sport1-bayern-magdeburg-liveticker-2026]. Sky überträgt sie im Pay-TV, dazu gibt es Streams bei der ARD-Mediathek, WOW, RTL+ und Sky [s:sport1-bayern-magdeburg-liveticker-2026].
 

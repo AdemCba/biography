@@ -14,6 +14,7 @@ summary: >-
   unfolded.
 status: published
 risk: low
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -24,7 +25,7 @@ targetQueries:
   - SA vs Aus 3rd Test scorecard
   - Australia tour of South Africa 2026
   - Newlands Cape Town Test
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T12:16:54.000Z'
 ---
 The third men's Test between South Africa and Australia is being played at Newlands in Cape Town. The live scorecard shows South Africa on 329 and Australia on 153 for 2, after Australia won the toss and chose to field [s:wisden-sa-aus-3rd-test]. That decision means South Africa batted first, and the scorecard shows their score as 329 [s:wisden-sa-aus-3rd-test]. The status line reads that Australia trail by 176 runs with eight wickets remaining [s:wisden-sa-aus-3rd-test].
 

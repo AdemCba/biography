@@ -12,6 +12,7 @@ summary: >-
   than retiring. The show left TNT for ABC and ESPN in 2025.
 status: published
 risk: high
+publishedAt: '2026-10-29'
 reviewedAt: '2026-10-29'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -21,7 +22,7 @@ targetQueries:
   - Ernie Johnson Inside the NBA last season
   - Ernie Johnson retirement
   - Ernie Johnson Inside the NBA exit
-publishedAt: '2026-10-29'
+publishedTime: '2026-10-29T03:41:43.000Z'
 ---
 ## Why people are searching for it today
 

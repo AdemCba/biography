@@ -33,6 +33,7 @@ faq:
       Figuraba en el once inicial confirmado como capitán. La previa decía que
       se esperaba su regreso al equipo titular tras empezar desde el banquillo
       ante los New York Red Bulls [s:onefootball-imcin] [s:livescore-messi].
+publishedTime: '2026-10-29T00:26:56.000Z'
 ---
 ## Por qué se buscó el partido
 

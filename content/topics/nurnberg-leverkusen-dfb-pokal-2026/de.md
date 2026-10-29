@@ -13,6 +13,7 @@ summary: >-
   [s:ran-ticker-2026].
 status: published
 risk: medium
+publishedAt: '2026-10-29'
 reviewedAt: '2026-10-29'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -22,7 +23,7 @@ targetQueries:
   - Leverkusen Nürnberg Ticker
   - Bayer 04 Nürnberg Anstoß
   - Leverkusen Nürnberg Tore
-publishedAt: '2026-10-29'
+publishedTime: '2026-10-28T21:23:57.000Z'
 ---
 ## Warum das Spiel gerade gesucht wird
 

@@ -22,6 +22,7 @@ targetQueries:
   - tempestade portugal são martinho
   - chuva portugal novembro 2026
   - previsão tempo portugal semana
+publishedTime: '2026-10-29T20:38:34.000Z'
 ---
 Muita gente procura hoje a tempestade em Portugal porque os modelos meteorológicos já mostram a chegada da chuva para os primeiros dias de novembro, e uma possível depressão para 10 e 11 de novembro. [s:observador-tempestade-2026-10-29] A previsão ainda tem muitas incertezas, e os próprios meteorologistas tratam o cenário como probabilidade, não como certeza. [s:observador-tempestade-2026-10-29]
 

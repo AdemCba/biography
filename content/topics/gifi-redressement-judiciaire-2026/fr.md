@@ -17,6 +17,7 @@ summary: >-
   tribunal.
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -38,7 +39,7 @@ faq:
       Les reportages évoquent 32 sites : 17 exploités directement par Grand
       Frais, 14 en gérance-mandat et un magasin de Bayonne rattaché à Gifi 48
       [s:demotivateur-gifi] [s:tribunaldunet-gifi].
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-27T17:17:46.000Z'
 ---
 ## Ce qui s'est passé
 

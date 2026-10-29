@@ -23,6 +23,7 @@ targetQueries:
   - Sri Lanka vs Inglaterra en vivo
   - Inglaterra cricket Lahore 2026
   - final triangular Pakistán 2026
+publishedTime: '2026-10-29T09:17:31.000Z'
 ---
 Inglaterra y Sri Lanka se enfrentan en el Estadio Gaddafi de Lahore el jueves 29 de octubre, y el partido despierta interés en varios países aunque ya no decide quién llega a la final. Inglaterra está eliminada del triangular de ODI que organiza Pakistán junto a Sri Lanka [s:wion-schedule]. La victoria de Sri Lanka sobre Pakistán el martes acabó con las opciones inglesas [s:khaleej-england-out] [s:news24-england-out].
 

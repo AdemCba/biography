@@ -34,6 +34,7 @@ faq:
       Ele aparecia como capitão na escalação confirmada. A prévia dizia que ele
       deveria voltar ao time titular depois de começar no banco contra o New
       York Red Bulls [s:onefootball-imcin] [s:livescore-messi].
+publishedTime: '2026-10-29T00:26:56.000Z'
 ---
 ## Por que o jogo foi buscado
 

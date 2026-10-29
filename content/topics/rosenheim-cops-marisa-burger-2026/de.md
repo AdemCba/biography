@@ -23,6 +23,7 @@ targetQueries:
   - Rosenheim-Cops Sarah Thonig
   - Marisa Burger Miriam Stöckl
   - Rosenheim-Cops letzte Folge
+publishedTime: '2026-10-29T09:17:31.000Z'
 ---
 Der Abschied von Marisa Burger aus den Rosenheim-Cops beschäftigt die Zuschauer gerade. Burger spielt die Sekretärin Miriam Stöckl. Ihre letzte Folge mit dem Titel "Es gabat an Abschied" läuft laut kino.de am Dienstag, 24. November, um 19:25 Uhr im ZDF, in Staffel 26 [s:kino-final-scene].
 

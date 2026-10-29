@@ -12,6 +12,7 @@ summary: >-
   [s:record].
 status: published
 risk: medium
+publishedAt: '2026-10-29'
 reviewedAt: '2026-10-29'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -21,7 +22,7 @@ targetQueries:
   - FC Porto New Balance 2029
   - FC Porto equipamento 2026/27
   - FC Porto Hummel
-publishedAt: '2026-10-29'
+publishedTime: '2026-10-29T15:51:40.000Z'
 ---
 A camisola do FC Porto voltou às conversas nesta quinta-feira, 29 de outubro de 2026. A Record escreve que o contrato com a New Balance é válido até 2029 [s:record]. O título fala em manter a parceria "pelo menos até 2029", mas o corpo do texto dá essa data apenas como validade do contrato em vigor [s:record]. Quem pesquisa o tema hoje quer, sobretudo, saber se a data é oficial.
 

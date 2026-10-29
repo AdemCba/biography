@@ -179,7 +179,11 @@ export function livePeople(locale: Locale, store = getContent()): { person: Pers
   return store.people
     .map((person) => ({ person, article: liveArticle(person, locale) }))
     .filter((x): x is { person: Person; article: Article } => !!x.article)
-    .sort((a, b) => (b.article.meta.publishedAt ?? "").localeCompare(a.article.meta.publishedAt ?? ""));
+    .sort((a, b) => publishedKey(b.article.meta).localeCompare(publishedKey(a.article.meta)));
+}
+
+function publishedKey(meta: ArticleMeta): string {
+  return meta.publishedTime ?? meta.publishedAt ?? "";
 }
 
 export function liveTopics(locale: Locale, store = getContent()): { topic: Topic; article: Article }[] {

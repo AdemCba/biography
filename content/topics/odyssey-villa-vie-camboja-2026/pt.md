@@ -35,6 +35,7 @@ faq:
     a: >-
       A Euronews fala em 203 passageiros de 15 nacionalidades, a maioria
       americanos, além de 156 tripulantes [s:euronews-odyssey].
+publishedTime: '2026-10-28T15:14:29.000Z'
 ---
 ## O que aconteceu
 

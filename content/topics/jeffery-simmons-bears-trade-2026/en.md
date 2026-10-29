@@ -25,6 +25,7 @@ targetQueries:
   - Bears Titans trade
   - Jeffery Simmons Titans trade picks
   - Jeffery Simmons contract
+publishedTime: '2026-10-29T15:51:40.000Z'
 ---
 Fans are searching for [Jeffery Simmons](person:jeffery-simmons) today because NFL Network and ESPN reported that the Chicago Bears are acquiring the Tennessee Titans defensive tackle. NFL.com credits the reporting to Ian Rapoport of NFL Network and Adam Schefter of ESPN, and its headline calls the move a blockbuster trade [s:nfl-trade]. The story is dated Thursday, 29 October 2026 [s:nfl-trade].
 

@@ -16,6 +16,7 @@ summary: >-
   [s:si-lakers-clippers-scoreboard].
 status: published
 risk: low
+publishedAt: '2026-10-29'
 reviewedAt: '2026-10-29'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -35,7 +36,7 @@ faq:
       The game was listed for 10:30pm Eastern, which is 7:30pm in Los Angeles
       and 2:30am UK time on Thursday 29 October, with the Clippers at home
       [s:legion-clippers-schedule].
-publishedAt: '2026-10-29'
+publishedTime: '2026-10-29T03:17:36.000Z'
 ---
 Most people searching for this game want the result of Wednesday's meeting, and this page cannot give it yet. The fixture was listed for Wednesday, October 28, with the Clippers at home and a 10:30pm Eastern start, which is 7:30pm in Los Angeles [s:legion-clippers-schedule]. No final score has been confirmed for it, and the season listing shows none [s:landofbasketball-clippers-2026-27]. For readers in the UK, the tip-off falls at 2:30am on Thursday 29 October [s:legion-clippers-schedule]. One other schedule page also shows the Lakers playing Portland on October 28 [s:si-lakers-clippers-scoreboard], so check the official NBA schedule for the date and tip-off time before relying on them. Anyone who needs the result should check the official box score for the game.
 

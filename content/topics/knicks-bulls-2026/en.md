@@ -32,6 +32,7 @@ faq:
     a: >-
       No. He was listed as out with a hamstring injury, and the team said he
       would be re-evaluated in two weeks [s:covers-knicks-bulls].
+publishedTime: '2026-10-29T00:26:56.000Z'
 ---
 ## Why the game was searched
 

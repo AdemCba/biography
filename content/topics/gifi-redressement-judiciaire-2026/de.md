@@ -18,6 +18,7 @@ summary: >-
   einig, wie weit das Verfahren vor Gericht gediehen ist.
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -41,7 +42,7 @@ faq:
       betrieben, 14 im Modell der Geschäftsführung im Auftrag und ein Geschäft
       in Bayonne gehört zur Struktur Gifi 48 [s:demotivateur-gifi]
       [s:tribunaldunet-gifi].
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-27T17:17:46.000Z'
 ---
 ## Was passiert ist
 

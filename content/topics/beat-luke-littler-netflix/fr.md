@@ -14,6 +14,7 @@ summary: >-
   UK.
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -24,7 +25,7 @@ targetQueries:
   - Beat Luke Littler gain
   - Beat Luke Littler date
   - Luke Littler Netflix fléchettes
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-27T16:50:53.000Z'
 ---
 Netflix diffuse en direct le vendredi 30 octobre 2026 l'émission Beat Luke Littler [s:broadcastnow-beat-luke-littler]. Vingt joueurs amateurs disputeront chacun une manche de 501 contre [Luke Littler](person:luke-littler), alors numéro un mondial [s:whats-on-netflix-beat-luke-littler]. Celui qui remporte une manche empoche 501 000 livres [s:whats-on-netflix-beat-luke-littler].
 

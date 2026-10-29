@@ -13,6 +13,7 @@ summary: >-
   anunciou o resultado a 28 de outubro de 2026.
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -22,7 +23,7 @@ targetQueries:
   - BOAT Cristiano Ronaldo
   - Ronaldo 2008 melhor Bola de Ouro
   - votação BOAT France Football
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T21:23:57.000Z'
 ---
 ## Porque é que se fala disto hoje
 

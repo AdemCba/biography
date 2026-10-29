@@ -16,6 +16,7 @@ summary: >-
   n'annoncent aucun calendrier après Bâle.
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -39,7 +40,7 @@ faq:
     a: >-
       Trois : l'Open d'Australie 2014, Roland-Garros 2015 et l'US Open 2016
       [s:atp-bio] [s:swissindoors-farewell].
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-27T21:21:26.000Z'
 ---
 ## Ce qui s'est passé
 

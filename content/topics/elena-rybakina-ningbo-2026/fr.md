@@ -23,6 +23,7 @@ targetQueries:
   - Rybakina numéro un mondiale
   - Rybakina Fernandez finale
   - Rybakina titre 2026
+publishedTime: '2026-10-29T09:17:31.000Z'
 ---
 Elena Rybakina fait l'actualité parce qu'elle se rapproche de la place de numéro un mondiale en fin d'année. Dimanche 25 octobre, elle a remporté la finale de l'Open de Ningbo face à Leylah Fernandez, 6-2, 6-2, en défendant un titre qu'elle avait déjà gagné l'an dernier [s:star-rybakina-ningbo] [s:qatar-ningbo-title]. La finale a duré une heure et seize minutes. Rybakina a breaké l'adversaire à deux reprises dans chaque set, sans perdre son propre service [s:star-rybakina-ningbo].
 

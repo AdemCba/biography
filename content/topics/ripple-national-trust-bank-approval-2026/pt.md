@@ -18,6 +18,7 @@ summary: >-
   depósitos nem concedem empréstimos [s:cointelegraph-ripple-final].
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -39,7 +40,7 @@ faq:
       Nenhuma das fontes consultadas informa uma data de abertura, então a
       aprovação não diz quando o banco começa a operar
       [s:ripple-press-final-occ] [s:cointelegraph-ripple-final].
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-27T13:55:10.000Z'
 ---
 ## O que aconteceu
 

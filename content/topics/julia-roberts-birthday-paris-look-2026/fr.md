@@ -13,6 +13,7 @@ summary: >-
   moins chers pour chaque pièce.
 status: published
 risk: low
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -23,7 +24,7 @@ targetQueries:
   - Julia Roberts tenue Paris
   - Julia Roberts look Paris octobre 2026
   - quel âge a Julia Roberts
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T12:16:54.000Z'
 ---
 Julia Roberts fête ses 59 ans aujourd’hui. Elle est née le 28 octobre 1967 à Atlanta, en Géorgie [s:georgia-encyclopedia-roberts]. Le même jour, Yahoo Shopping a publié un article consacré à une tenue d’automne qu’elle portait à Paris plus tôt dans le mois [s:yahoo-roberts-paris-look].
 

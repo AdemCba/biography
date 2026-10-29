@@ -43,6 +43,7 @@ faq:
       e pelo aplicativo. Um pico mostra onde as pessoas estão reclamando, mas
       não o número exato de quem não consegue usar o serviço
       [s:gvwire-youtube-outage].
+publishedTime: '2026-10-28T15:14:29.000Z'
 ---
 ## O que aconteceu
 

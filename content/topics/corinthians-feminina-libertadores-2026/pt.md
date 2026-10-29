@@ -13,6 +13,7 @@ summary: >-
   nas quartas de final. A final está marcada para sábado, 31 de outubro.
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -23,7 +24,7 @@ targetQueries:
   - Corinthians feminino Santa Fé semifinal
   - Libertadores feminina 2026 semifinal
   - Corinthians feminino hoje
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T21:23:57.000Z'
 ---
 ## Semifinal em Quito
 

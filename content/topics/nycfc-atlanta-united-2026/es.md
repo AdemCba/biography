@@ -14,6 +14,7 @@ summary: >-
   de la pelea [s:tsn-nycfc-atlanta-2026] [s:scarves-nycfc-atlanta-2026].
 status: published
 risk: low
+publishedAt: '2026-10-29'
 reviewedAt: '2026-10-29'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -33,7 +34,7 @@ faq:
     a: >-
       Bénie Traoré marcó el tanto decisivo en el minuto 90+5, sobre el final del
       partido [s:ap-nycfc-atlanta-2026] [s:tsn-nycfc-atlanta-2026].
-publishedAt: '2026-10-29'
+publishedTime: '2026-10-29T03:17:36.000Z'
 ---
 ## Por qué se busca este partido
 

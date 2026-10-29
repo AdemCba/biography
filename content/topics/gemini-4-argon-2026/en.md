@@ -14,6 +14,7 @@ summary: >-
   and in AI Mode in Search.
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -23,7 +24,7 @@ targetQueries:
   - Gemini 4 Argon release date
   - Gemini 4 Argon access
   - Gemini 4 Argon examples
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T18:18:49.000Z'
 ---
 Google's newest model has a name that sounds like a lab code, and people are searching for it because the company is now showing what it can do. Gemini 4 Argon went to developers on 13 October 2026 [s:google-build-gemini-4-argon]. The first public demonstrations came two weeks later, on 27 October, when Google posted eight examples of the model at work [s:google-gemini-4-argon-examples].
 

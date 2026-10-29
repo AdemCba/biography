@@ -24,6 +24,7 @@ targetQueries:
   - cruzeiro Camboja combustível
   - Villa Vie Residences navio
   - cruzeiro residencial parado
+publishedTime: '2026-10-28T15:17:09.000Z'
 ---
 Um cruzeiro de vida a bordo, vendido como estilo de vida permanente, virou notícia na quarta-feira (28), quando o navio parou no Camboja e os moradores foram mandados embora. O caso chama atenção porque a causa é o preço do combustível, e não um problema técnico ou um acidente [s:michigan-odyssey]. Veja o que se sabe e o que ainda não está claro.
 

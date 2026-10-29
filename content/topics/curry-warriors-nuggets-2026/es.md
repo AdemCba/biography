@@ -13,6 +13,7 @@ summary: >-
   31 puntos y 12 rebotes.
 status: published
 risk: medium
+publishedAt: '2026-10-29'
 reviewedAt: '2026-10-29'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -22,7 +23,7 @@ targetQueries:
   - Warriors Nuggets hoy
   - Stephen Curry Nuggets 24 puntos
   - Yaxel Lendeborg 31 puntos
-publishedAt: '2026-10-29'
+publishedTime: '2026-10-29T03:41:43.000Z'
 ---
 ## Por qué se busca hoy
 

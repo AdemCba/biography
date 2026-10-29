@@ -37,6 +37,7 @@ faq:
       Frost und Bodenfrost in Mitte und Süden [s:dwd-synopse-26-10-2026]. Die
       neuere Ausgabe vom 27.10.2026 sieht für dieselbe Nacht meist 5 bis 0 Grad
       vor, im Nordwesten 10 bis 5 Grad [s:dwd-synopse-27-10-2026].
+publishedTime: '2026-10-28T09:46:26.000Z'
 ---
 Der Wetterumschwung kommt in Etappen.
 

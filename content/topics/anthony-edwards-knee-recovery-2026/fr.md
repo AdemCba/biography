@@ -13,6 +13,7 @@ summary: >-
   sources consultées ne donnent pas de date de retour.
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -23,7 +24,7 @@ targetQueries:
   - Anthony Edwards blessure genou
   - Anthony Edwards Timberwolves blessure
   - Anthony Edwards retour
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T03:45:37.000Z'
 ---
 [Anthony Edwards](person:anthony-edwards) s'est blessé au genou gauche dans la première mi-temps du match 4 du premier tour des playoffs, face aux Nuggets de Denver, en avril 2026. Alors qu'il disputait un lay-up de Cam Johnson, sa jambe gauche a fléchi à la réception, selon l'Associated Press [s:ap-edwards-knee-2026-04]. La blessure est une contusion osseuse et une hyperextension du genou [s:roundtable-edwards-summer-break-2026-10]. L'AP précise que le genou est resté structurellement intact [s:ap-edwards-knee-2026-04].
 

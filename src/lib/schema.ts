@@ -97,6 +97,8 @@ export const articleSchema = z.object({
   risk: z.enum(RISKS).default("medium"),
   /** Publish date. A future date schedules the article; the daily build releases it. */
   publishedAt: isoDate.optional(),
+  /** Exact publish moment (ISO datetime), so same-day stories list newest first. */
+  publishedTime: z.string().datetime().optional(),
   updatedAt: isoDate.optional(),
   reviewedAt: isoDate.optional(),
   /** When the facts should be checked again. */

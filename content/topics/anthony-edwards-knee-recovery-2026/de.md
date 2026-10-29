@@ -14,6 +14,7 @@ summary: >-
   Rückkehr.
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -24,7 +25,7 @@ targetQueries:
   - Anthony Edwards Knieverletzung
   - Anthony Edwards Timberwolves Verletzung
   - Anthony Edwards Comeback
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T03:45:37.000Z'
 ---
 [Anthony Edwards](person:anthony-edwards) verletzte sich im April 2026 in der ersten Hälfte von Spiel 4 der ersten Playoff-Runde der Minnesota Timberwolves gegen die Denver Nuggets am linken Knie. Beim Versuch, einen Layup von Cam Johnson zu stören, knickte sein linkes Bein bei der Landung ein, berichtete die Associated Press [s:ap-edwards-knee-2026-04]. Die Verletzung umfasst eine Knochenprellung und eine Überstreckung des Knies [s:roundtable-edwards-summer-break-2026-10]. Die AP schrieb, dass das Knie strukturell intakt geblieben ist [s:ap-edwards-knee-2026-04].
 

@@ -12,6 +12,7 @@ summary: >-
   Con su salida quedan 20 de los 24 concursantes iniciales.
 status: published
 risk: medium
+publishedAt: '2026-10-29'
 reviewedAt: '2026-10-29'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -21,7 +22,7 @@ targetQueries:
   - quién se fue de MasterChef Celebrity
   - Alejandro Lerner eliminado
   - MasterChef Celebrity eliminado martes 27 de octubre
-publishedAt: '2026-10-29'
+publishedTime: '2026-10-29T03:41:43.000Z'
 ---
 ## Por qué se busca hoy
 

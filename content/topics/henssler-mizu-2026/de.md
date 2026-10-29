@@ -31,6 +31,7 @@ faq:
     a: >-
       Am 15. November auf VOX, sonntags um 20:15 Uhr. Auf RTL+ ist jede Folge
       eine Woche vorher verfügbar [s:webnachrichten-henssler].
+publishedTime: '2026-10-29T00:26:56.000Z'
 ---
 ## Was sich ändert
 

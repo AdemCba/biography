@@ -17,6 +17,7 @@ summary: >-
   geprüften Quellen kündigen keine Turnierplanung nach Basel an.
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -38,7 +39,7 @@ faq:
     a: >-
       Drei: 2014 bei den Australian Open, 2015 bei Roland Garros und 2016 bei
       den US Open [s:atp-bio] [s:swissindoors-farewell].
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-27T21:21:26.000Z'
 ---
 ## Was passiert ist
 

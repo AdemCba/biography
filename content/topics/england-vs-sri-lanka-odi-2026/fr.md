@@ -23,6 +23,7 @@ targetQueries:
   - Sri Lanka Angleterre en direct
   - cricket Lahore 2026
   - finale triangulaire Pakistan 2026
+publishedTime: '2026-10-29T09:17:31.000Z'
 ---
 L'Angleterre affronte le Sri Lanka jeudi 29 octobre au stade Gaddafi de Lahore. Le match attire l'attention dans plusieurs pays, alors qu'il ne décide plus qui disputera la finale. L'Angleterre est déjà éliminée du triangulaire ODI organisé par le Pakistan avec le Sri Lanka [s:wion-schedule]. La victoire du Sri Lanka sur le Pakistan, mardi, a mis fin aux espoirs anglais [s:khaleej-england-out] [s:news24-england-out].
 

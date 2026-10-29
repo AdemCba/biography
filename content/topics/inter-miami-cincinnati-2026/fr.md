@@ -33,6 +33,7 @@ faq:
       Il figurait dans la composition confirmée, comme capitaine. L'avant-match
       annonçait son retour dans le onze de départ après un départ sur le banc
       face aux New York Red Bulls [s:onefootball-imcin] [s:livescore-messi].
+publishedTime: '2026-10-29T00:26:56.000Z'
 ---
 ## Pourquoi ce match a été recherché
 

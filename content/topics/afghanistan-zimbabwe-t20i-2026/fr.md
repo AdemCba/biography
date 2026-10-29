@@ -14,6 +14,7 @@ summary: >-
   [s:geosuper-afg-zim-t20i].
 status: published
 risk: medium
+publishedAt: '2026-10-29'
 reviewedAt: '2026-10-29'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -24,7 +25,7 @@ targetQueries:
   - résultat Afghanistan Zimbabwe T20I
   - Afghanistan Zimbabwe Sharjah
   - Afghanistan Zimbabwe deuxième T20I
-publishedAt: '2026-10-29'
+publishedTime: '2026-10-29T15:51:40.000Z'
 ---
 Le résultat d'Afghanistan - Zimbabwe intéresse les amateurs aujourd'hui, car le
 deuxième T20I de la série de trois matchs se joue jeudi, de nouveau à Sharjah

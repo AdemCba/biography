@@ -25,6 +25,7 @@ targetQueries:
   - Steam AI slop
   - Valve responde juegos IA Steam
   - Steam AI games ban
+publishedTime: '2026-10-29T06:09:37.000Z'
 ---
 Developers are searching for Valve's answer to a problem many of them now describe as routine: AI tools make it cheap to copy a game that someone else has spent years building. On 27 October 2026, two members of Valve's Steam Business Team, Tom Giardino and Marc Wilkinson, spoke at the Steam Indie Connect developer event, co-hosted with the Busan Indie Connect Festival in South Korea, and the clone problem came up in the Q&A [s:invenglobal-valve-ai-clones].
 

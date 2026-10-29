@@ -14,6 +14,7 @@ summary: >-
   danach bis zu zwei Monate pausieren [s:yahoo-final-injury] [s:yahoo-lineup].
 status: published
 risk: medium
+publishedAt: '2026-10-29'
 reviewedAt: '2026-10-29'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -33,7 +34,7 @@ faq:
     a: >-
       Er stand im Verletzungsbericht wegen einer Knieverletzung am rechten Knie
       auf der Ausfallliste [s:yahoo-final-injury].
-publishedAt: '2026-10-29'
+publishedTime: '2026-10-29T03:17:36.000Z'
 ---
 ## Warum das Spiel gerade gesucht wird
 

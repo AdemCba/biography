@@ -36,6 +36,7 @@ faq:
       Downdetector counts reports that users submit on its site and app, so a
       spike shows where people are complaining, not the exact number of people
       who cannot use the service [s:gvwire-youtube-outage].
+publishedTime: '2026-10-28T15:14:29.000Z'
 ---
 ## What happened
 

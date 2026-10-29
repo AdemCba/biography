@@ -14,6 +14,7 @@ summary: >-
   einem Label von Banijay UK.
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -24,7 +25,7 @@ targetQueries:
   - Beat Luke Littler Preisgeld
   - Beat Luke Littler Termin
   - Luke Littler Netflix Darts
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-27T16:50:53.000Z'
 ---
 Netflix zeigt am Freitag, dem 30. Oktober 2026, live die Darts-Show Beat Luke Littler [s:broadcastnow-beat-luke-littler]. Der Titel nennt den Namen des Weltmeisters [s:whats-on-netflix-beat-luke-littler]. Zwanzig Amateure bekommen je ein Leg mit 501 gegen [Luke Littler](person:luke-littler), damals die Nummer eins der Welt [s:whats-on-netflix-beat-luke-littler]. Wer ein Leg gewinnt, erhält 501.000 Pfund [s:whats-on-netflix-beat-luke-littler].
 

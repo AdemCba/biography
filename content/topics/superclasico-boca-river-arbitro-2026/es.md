@@ -34,6 +34,7 @@ faq:
     a: >-
       El domingo 1 de noviembre de 2026 a las 15:00 en La Bombonera, por la
       fecha 15 del Torneo Clausura [s:sitioandino-superclasico].
+publishedTime: '2026-10-28T15:14:29.000Z'
 ---
 ## Qué pasó
 

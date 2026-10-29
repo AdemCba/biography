@@ -24,6 +24,7 @@ targetQueries:
   - ballon d'or 2008 ronaldo
   - vote ballon d'or de tous les temps
   - boat france football
+publishedTime: '2026-10-29T20:38:34.000Z'
 ---
 Beaucoup de lecteurs cherchent aujourd'hui le « Ballon d'Or de tous les temps », car le vote public a désormais un résultat. La saison 2008 de Cristiano Ronaldo arrive en tête, devant la saison 2012 de Lionel Messi. [s:eurosport-boat-2026-10] [s:abola-ronaldo-2008-boat-2026-10] Le quotidien portugais A Bola a publié l'information le 28 octobre. [s:abola-ronaldo-2008-boat-2026-10]
 

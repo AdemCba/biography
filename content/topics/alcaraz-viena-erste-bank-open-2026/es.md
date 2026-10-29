@@ -25,6 +25,7 @@ targetQueries:
   - alcaraz khachanov viena
   - erste bank open 2026
   - alcaraz próximo partido viena
+publishedTime: '2026-10-29T15:11:23.000Z'
 ---
 ## Por qué se busca hoy
 

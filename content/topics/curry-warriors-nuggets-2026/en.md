@@ -14,6 +14,7 @@ summary: >-
   rebounds.
 status: published
 risk: medium
+publishedAt: '2026-10-29'
 reviewedAt: '2026-10-29'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -23,7 +24,7 @@ targetQueries:
   - Warriors Nuggets score
   - Stephen Curry 24 points Nuggets
   - Yaxel Lendeborg 31 points
-publishedAt: '2026-10-29'
+publishedTime: '2026-10-29T03:41:43.000Z'
 ---
 ## Why people search it today
 

@@ -17,6 +17,7 @@ summary: >-
   [s:africas-soccer-octavos].
 status: published
 risk: low
+publishedAt: '2026-10-29'
 reviewedAt: '2026-10-29'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -36,7 +37,7 @@ faq:
       Las fuentes no coinciden: N+ lo ubica en el Complejo de Futbol Mohammed
       VI, en Rabat, mientras que Africa's Soccer da como ciudad Salé
       [s:nmas-octavos] [s:africas-soccer-octavos].
-publishedAt: '2026-10-29'
+publishedTime: '2026-10-29T03:17:36.000Z'
 ---
 ## Por qué se busca el partido hoy
 

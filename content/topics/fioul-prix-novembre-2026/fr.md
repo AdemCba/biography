@@ -11,6 +11,7 @@ summary: >-
   texte ne fixe pas de montant et ne prévoit pas de contrôle à chaque livraison.
 status: published
 risk: low
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -22,7 +23,7 @@ targetQueries:
   - fioul domestique baisse litre
   - prix du fioul au litre aujourd'hui
   - livraison fioul baisse avant la vente
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T21:23:57.000Z'
 ---
 Beaucoup de foyers chauffés au fioul cherchent ces jours-ci ce que la baisse va changer pour leur cuve. Le décret n° 2026-981 du 23 octobre 2026 est paru au Journal officiel du 24 octobre, et la répercussion de l'avantage sur les prix peut commencer le 1er novembre [s:legifrance-decret-2026-981] [s:selectra-fioul-decret-2026-10-28]. Le texte vise le fioul domestique avec le gazole, puisqu'il porte sur la libération de stocks stratégiques de gazole gérés par la SAGESS [s:legifrance-decret-2026-981].
 

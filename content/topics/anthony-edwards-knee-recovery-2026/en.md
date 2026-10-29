@@ -13,6 +13,7 @@ summary: >-
   heal. No return date was ever given.
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -23,7 +24,7 @@ targetQueries:
   - Anthony Edwards knee injury
   - Anthony Edwards Timberwolves injury
   - Anthony Edwards return
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T03:45:37.000Z'
 ---
 [Anthony Edwards](person:anthony-edwards) hurt his left knee in the first half of Game 4 of the Minnesota Timberwolves' first-round playoff series against the Denver Nuggets in April 2026. He was contesting a layup by Cam Johnson when his left leg buckled on landing, according to the Associated Press [s:ap-edwards-knee-2026-04]. The injury was a bone bruise and a hyperextension of the knee [s:roundtable-edwards-summer-break-2026-10]. The AP reported that the knee remained structurally intact [s:ap-edwards-knee-2026-04].
 

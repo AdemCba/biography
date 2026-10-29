@@ -15,6 +15,7 @@ summary: >-
   bisheriger Praxis als Heimat der Serie.
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -24,7 +25,7 @@ targetQueries:
   - The Rookie Staffel 9 Start
   - The Rookie Staffel 9 Handlung
   - The Rookie Staffel 9 Besetzung
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T18:18:49.000Z'
 ---
 Wer nach „The Rookie Staffel 9“ sucht, will meist wissen, wann es weitergeht. Die Antwort aus den Quellen lautet: am 6. Januar in den USA, und in Deutschland folgt die Serie wohl kurz danach. Serienjunkies nennt den 6. Januar als Starttermin bei ABC [s:serienjunkies-rookie-staffel-9-start]. Das Jahr steht dort nicht, aber der Zeitraum passt zu einem Start im Januar 2027.
 

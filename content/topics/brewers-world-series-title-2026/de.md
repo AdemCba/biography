@@ -24,6 +24,7 @@ targetQueries:
   - Brewers Rays Spiel 5
   - World Series 2026 Sieger
   - Brewers erster Titel
+publishedTime: '2026-10-29T09:17:31.000Z'
 ---
 Die Milwaukee Brewers sind Meister. Am Mittwoch, 28. Oktober, gewannen sie das fünfte Spiel der World Series in St. Petersburg mit 4:1 gegen die Tampa Bay Rays und entschieden die Serie damit 4:1 für sich [s:cnn-game5] [s:espn-game]. Es ist der erste World-Series-Titel in der Geschichte des Klubs [s:mlb-brewers] [s:nbc-brewers].
 

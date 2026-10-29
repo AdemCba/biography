@@ -17,6 +17,7 @@ summary: >-
   not announce a playing schedule after Basel.
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -38,7 +39,7 @@ faq:
     a: >-
       He won three: the 2014 Australian Open, the 2015 Roland Garros and the
       2016 US Open [s:atp-bio] [s:swissindoors-farewell].
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-27T21:21:26.000Z'
 ---
 ## What happened
 

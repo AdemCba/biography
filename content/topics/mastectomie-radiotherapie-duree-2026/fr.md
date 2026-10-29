@@ -16,6 +16,7 @@ summary: >-
   sûr et non inférieur au traitement classique [s:curetoday-rt-charm-2026].
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -25,7 +26,7 @@ targetQueries:
   - radiothérapie cancer du sein 16 séances
   - essai RT CHARM radiothérapie
   - radiothérapie mastectomie reconstruction moins de séances
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T21:23:57.000Z'
 ---
 Une étude publiée dans le Journal of Clinical Oncology porte sur la durée de la radiothérapie après une mastectomie chez les femmes qui ont une reconstruction mammaire. Le traitement testé dure environ trois semaines, contre cinq pour le schéma classique [s:ascopost-rt-charm-2026] [s:curetoday-rt-charm-2026]. L'article en ligne date du 12 octobre 2026, et les premiers résultats avaient été présentés en 2024 [s:curetoday-rt-charm-2026] [s:ascopost-rt-charm-2024].
 

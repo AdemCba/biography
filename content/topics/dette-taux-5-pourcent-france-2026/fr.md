@@ -26,6 +26,7 @@ targetQueries:
   - OAT 10 ans 5 %
   - taux crédit immobilier octobre 2026
   - Villeroy de Galhau taux
+publishedTime: '2026-10-28T15:17:09.000Z'
 ---
 Le rendement de la dette française à dix ans a franchi 5 %, et la question qui circule désormais est simple : est-ce que mon crédit immobilier va suivre ? Un ancien gouverneur de la Banque de France a répondu par une mise en garde. Pour comprendre l'enjeu, il faut distinguer la dette de l'État et les prêts que les banques accordent aux ménages [s:econostrum-taux].
 

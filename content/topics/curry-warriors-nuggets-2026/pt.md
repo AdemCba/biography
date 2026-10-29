@@ -13,6 +13,7 @@ summary: >-
   foi Yaxel Lendeborg, com 31 pontos e 12 rebotes.
 status: published
 risk: medium
+publishedAt: '2026-10-29'
 reviewedAt: '2026-10-29'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -22,7 +23,7 @@ targetQueries:
   - Warriors Nuggets placar
   - Stephen Curry Nuggets 24 pontos
   - Yaxel Lendeborg 31 pontos
-publishedAt: '2026-10-29'
+publishedTime: '2026-10-29T03:41:43.000Z'
 ---
 ## Por que se fala disto hoje
 

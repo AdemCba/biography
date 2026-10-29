@@ -15,6 +15,7 @@ summary: >-
   [s:tennis-com].
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -36,7 +37,7 @@ faq:
     a: >-
       Três: Aberto da Austrália 2014, Roland Garros 2015 e US Open 2016
       [s:atp-bio] [s:swissindoors-farewell].
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-27T21:21:26.000Z'
 ---
 ## O que aconteceu
 

@@ -13,6 +13,7 @@ summary: >-
   La votación era pública, costaba un euro por voto y no es un premio oficial.
 status: published
 risk: low
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -24,7 +25,7 @@ targetQueries:
   - votación balón de oro de todos los tiempos
   - boat france football balón de oro
   - super balón de oro
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T21:54:15.000Z'
 ---
 Mucha gente busca hoy el "Balón de Oro de todos los tiempos" porque la votación ya tiene un resultado. La temporada 2008 de Cristiano Ronaldo quedó primera y superó a la de Lionel Messi en 2012 [s:abola-ronaldo-2008-boat-2026-10]. El medio portugués A Bola informó del resultado en una nota fechada el 28 de octubre [s:abola-ronaldo-2008-boat-2026-10].
 

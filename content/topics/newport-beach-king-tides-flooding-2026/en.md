@@ -47,6 +47,7 @@ faq:
       barriers as causes of more frequent coastal flooding. It also says strong
       tidal forces, including full and new moon tides, can flood streets even on
       sunny days [s:noaa-high-tide-flooding].
+publishedTime: '2026-10-28T09:46:26.000Z'
 ---
 Pacific Coast Highway was closed in parts of Huntington Beach on Tuesday, October 27, 2026, after a run of very high tides flooded the area. CBS Los Angeles reported flooding in Newport Beach and Long Beach that week [s:cbs-la-king-tides-2026-10]. The two outlets do not agree on the exact stretch that was shut, so each account is attributed below.
 

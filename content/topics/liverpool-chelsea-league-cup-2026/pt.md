@@ -12,6 +12,7 @@ summary: >-
   em dois meses, e a partida está marcada para as 20h no horário de Londres.
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -22,7 +23,7 @@ targetQueries:
   - Liverpool x Chelsea horário
   - onde assistir Liverpool x Chelsea
   - Liverpool Chelsea Carabao Cup 2026
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T21:23:57.000Z'
 ---
 Hoje é dia de Liverpool x Chelsea em Anfield, pela quarta rodada da Copa da Liga Inglesa, a competição que o público conhece como Carabao Cup [s:liverpoolfc-draw-2026]. A partida está marcada para as 20h no horário de Londres, o que equivale às 17h em Brasília [s:liverpoolfc-fixture-2026]. No Reino Unido, o jogo passa ao vivo pela Sky Sports e pela ITV [s:liverpoolfc-fixture-2026].
 

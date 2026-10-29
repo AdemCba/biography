@@ -25,6 +25,7 @@ targetQueries:
   - Christine Neubauer Ich gebe nicht auf
   - Christine Neubauer Projekt abgelehnt
   - Ein fast perfekter Antrag Iris Berben Heiner Lauterbach
+publishedTime: '2026-10-28T15:17:09.000Z'
 ---
 Christine Neubauer spricht öffentlich über eine Absage, und die Begründung ist ungewöhnlich direkt: Das Projekt sei abgelehnt worden, weil die beiden Hauptfiguren 60 Jahre alt sind. Die Schauspielerin hat das der Abendzeitung München erzählt, der Text erschien am 28. Oktober 2026 um 13.22 Uhr [s:abendzeitung-neubauer]. Die Geschichte ist eine Momentaufnahme aus einem Gespräch, keine Pressemitteilung eines Senders.
 

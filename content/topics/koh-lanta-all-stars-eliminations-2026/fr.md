@@ -41,6 +41,7 @@ faq:
       L'épisode a été diffusé le mardi 27 octobre 2026 sur TF1
       [s:allocine-koh-lanta-27-octobre-2026]
       [s:stars-actu-koh-lanta-episode-10].
+publishedTime: '2026-10-28T09:46:26.000Z'
 ---
 ## Ce qui s'est passé
 

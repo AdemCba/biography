@@ -22,6 +22,7 @@ targetQueries:
   - copa del rey horarios
   - copa del rey aplazados
   - copa del rey 2026
+publishedTime: '2026-10-29T20:38:34.000Z'
 ---
 Mucha gente busca hoy la Copa del Rey porque el jueves 29 de octubre se juegan 23 partidos de la primera ronda, y no todos estaban previstos para esa fecha. [s:sportaragon-copa-2026-10-29] La programación inicial dejaba 14 encuentros para el jueves. [s:infobae-copa-2026-10-07] Nueve partidos aplazados del miércoles se han añadido a la jornada, y ahí está la diferencia. [s:sportaragon-copa-2026-10-29] La guía de Sportaragon, publicada el 29 de octubre, recoge los horarios y las cadenas de todos ellos. [s:sportaragon-copa-2026-10-29]
 

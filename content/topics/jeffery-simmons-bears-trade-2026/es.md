@@ -27,6 +27,7 @@ targetQueries:
   - Jeffery Simmons Chicago Bears
   - Bears Titans cambio
   - Jeffery Simmons contrato
+publishedTime: '2026-10-29T15:51:40.000Z'
 ---
 Los aficionados buscan a [Jeffery Simmons](person:jeffery-simmons) hoy porque NFL Network y ESPN reportaron que los Chicago Bears adquirirán al defensive tackle de los Tennessee Titans en un cambio. NFL.com atribuye la información a Ian Rapoport, de NFL Network, y a Adam Schefter, de ESPN, y su titular lo califica de blockbuster [s:nfl-trade]. La noticia lleva fecha del jueves 29 de octubre de 2026 [s:nfl-trade].
 

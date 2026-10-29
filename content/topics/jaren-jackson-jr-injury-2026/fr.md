@@ -14,6 +14,7 @@ summary: >-
   semaines.
 status: published
 risk: medium
+publishedAt: '2026-10-29'
 reviewedAt: '2026-10-29'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -24,7 +25,7 @@ targetQueries:
   - Jaren Jackson Jr. LCM
   - Jaren Jackson Jr. Jazz blessure
   - Jaren Jackson Jr. retour
-publishedAt: '2026-10-29'
+publishedTime: '2026-10-29T03:41:43.000Z'
 ---
 ## Pourquoi on en parle aujourd'hui
 

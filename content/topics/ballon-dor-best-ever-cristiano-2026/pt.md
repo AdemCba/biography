@@ -12,6 +12,7 @@ summary: >-
   voto e não é um prémio oficial.
 status: published
 risk: low
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -23,7 +24,7 @@ targetQueries:
   - votação bola de ouro de sempre
   - boat france football
   - melhor bola de ouro de sempre
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T21:54:15.000Z'
 ---
 Quem procura "super bola de ouro" nesta semana quer saber o que decidiu a votação da France Football. Resposta: a época de 2008 de Cristiano Ronaldo, eleita a melhor de sempre à frente da de Messi em 2012 [s:abola-ronaldo-2008-boat-2026-10]. A Bola publicou a notícia a 28 de outubro e relata que a France Football revelou o resultado dois dias depois da cerimónia da Bola de Ouro de 2026 [s:abola-ronaldo-2008-boat-2026-10].
 

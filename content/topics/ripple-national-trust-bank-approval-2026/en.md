@@ -15,6 +15,7 @@ summary: >-
   loans [s:cointelegraph-ripple-final].
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -37,7 +38,7 @@ faq:
       None of the sources reviewed gives an opening date, so the approval does
       not say when the bank will start operating [s:ripple-press-final-occ]
       [s:cointelegraph-ripple-final].
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-27T13:55:10.000Z'
 ---
 ## What happened
 

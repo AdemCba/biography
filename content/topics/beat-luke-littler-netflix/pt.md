@@ -13,6 +13,7 @@ summary: >-
   O programa é feito com a PDC e produzido pela Workerbee, selo da Banijay UK.
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -23,7 +24,7 @@ targetQueries:
   - Beat Luke Littler prêmio
   - Beat Luke Littler data
   - Luke Littler Netflix dardos
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-27T16:50:53.000Z'
 ---
 A Netflix transmite ao vivo, na sexta-feira, 30 de outubro de 2026, o especial de dardos Beat Luke Littler [s:broadcastnow-beat-luke-littler]. Vinte jogadores amadores terão, cada um, uma perna de 501 contra [Luke Littler](person:luke-littler), então número 1 do mundo [s:whats-on-netflix-beat-luke-littler]. Quem vencer uma perna leva 501 mil libras [s:whats-on-netflix-beat-luke-littler].
 

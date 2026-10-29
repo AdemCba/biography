@@ -13,6 +13,7 @@ summary: >-
   spending stays on plan.
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -22,7 +23,7 @@ targetQueries:
   - Amazon Q3 2026 earnings
   - Amazon earnings preview AWS
   - Amazon Q3 guidance
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T21:23:57.000Z'
 ---
 ## Why people are searching today
 

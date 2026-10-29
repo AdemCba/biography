@@ -37,6 +37,7 @@ faq:
       L'ancien gouverneur de la Banque de France redoute une contagion, parce
       que les banques se refinancent à partir des taux de long terme de l'État
       [s:capital-dette-taux] [s:journalducoin-dette].
+publishedTime: '2026-10-28T15:14:29.000Z'
 ---
 ## Ce qui s'est passé
 

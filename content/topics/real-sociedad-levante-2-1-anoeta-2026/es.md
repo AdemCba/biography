@@ -36,6 +36,7 @@ faq:
     a: >-
       Asistieron 30.035 espectadores según la crónica del club y la ficha de
       LaLiga [s:club-cronica] [s:laliga-match].
+publishedTime: '2026-10-28T09:46:26.000Z'
 ---
 ## Qué pasó en Anoeta
 

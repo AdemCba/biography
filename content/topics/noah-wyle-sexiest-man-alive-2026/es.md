@@ -24,6 +24,7 @@ targetQueries:
   - Noah Wyle The Pitt
   - Noah Wyle ER Dr. Carter
   - Noah Wyle People 2026
+publishedTime: '2026-10-29T09:17:31.000Z'
 ---
 Noah Wyle está en las búsquedas porque la revista People lo ha elegido Sexiest Man Alive 2026. El anuncio se hizo el 27 de octubre, y el actor, de 55 años, dijo que al principio pensó que era una broma y que nunca esperó recibir ese honor [s:fox19-wyle]. La noticia se difundió el mismo día en cadenas locales de todo el país, que publicaron el mismo texto de Gray News [s:fox19-wyle]. La cobertura de The Daily Beast se centró en la sorpresa del actor y en la reacción de los lectores [s:dailybeast-wyle] [s:dailybeast-backlash].
 
