@@ -3,22 +3,24 @@ title: Harry Kane
 slug: harry-kane
 metaTitle: 'Harry Kane: Bola de Ouro 2026, Bayern e recordes pela Inglaterra'
 metaDescription: >-
-  Harry Kane era o favorito das casas de apostas para a gala da Bola de Ouro
-  2026. Recordes pelo Bayern e pela Inglaterra, e o que ainda não foi
-  confirmado.
+  Harry Kane venceu a Bola de Ouro 2026 em Londres, o primeiro inglês a conseguir
+  isso em cerca de 25 anos. Recordes pelo Bayern e pela Inglaterra.
 knownFor: >-
   Capitão da Inglaterra e atacante do Bayern de Munique, maior artilheiro da
   seleção inglesa
 summary: >-
-  Harry Kane era o favorito das casas de apostas antes da cerimônia da Bola de
-  Ouro, realizada em 26 de outubro de 2026, em Londres. É o maior artilheiro da
-  história da Inglaterra e foi o artilheiro da Bundesliga em 2025-26, com 36
-  gols. As fontes consultadas não confirmam quem venceu a cerimônia nem uma
-  renovação assinada com o Bayern, por isso esta página não informa nenhuma das
-  duas coisas.
+  Harry Kane venceu a Bola de Ouro 2026 na segunda-feira, 26 de outubro, em
+  Londres, e é o primeiro inglês a receber o prêmio em cerca de 25 anos. Ele
+  voltou a Munique, onde o Bayern tinha partidas marcadas contra o Magdeburg pela
+  Copa da Alemanha, na quarta-feira, 28 de outubro, e contra o Borussia Dortmund
+  pela Bundesliga, no sábado, 31. A Sky Sports informa um acordo em princípio
+  para renovar com o Bayern até 2029, com os documentos ainda em finalização, mas
+  nenhuma prorrogação assinada foi anunciada. Ele também é o maior artilheiro da
+  seleção inglesa.
 status: published
 risk: low
 reviewedAt: '2026-10-27'
+updatedAt: '2026-10-29'
 reviewBy: '2027-04-27'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -32,12 +34,13 @@ targetQueries:
   - Harry Kane artilheiro Tottenham
   - Harry Kane hat-tricks Inglaterra
   - Harry Kane gols Copa do Mundo
+  - Harry Kane idade
 faq:
   - q: Quem ganhou a Bola de Ouro 2026?
     a: >-
-      Harry Kane era o favorito das casas de apostas antes da cerimônia de 26 de
-      outubro de 2026, em Londres. Nenhuma das fontes usadas para esta página
-      traz o resultado, então o nome do vencedor não é informado.
+      Harry Kane. A cerimônia foi em 26 de outubro de 2026, no London Palladium, e
+      ele foi o primeiro inglês a vencer o prêmio em cerca de 25 anos. Superou
+      Kylian Mbappé e Lamine Yamal.
   - q: Quantos gols Harry Kane tem pela Inglaterra?
     a: >-
       Segundo a federação inglesa, eram 66 gols antes da sua centésima partida.
@@ -45,18 +48,30 @@ faq:
       federação lhe atribui 14 gols em Copas do Mundo.
   - q: Harry Kane tem contrato com o Bayern de Munique?
     a: >-
-      Ele assinou um contrato de quatro anos em agosto de 2023. Em agosto de
-      2026 confirmou que as conversas sobre uma renovação tinham começado, e as
-      fontes usadas aqui não relatam um novo acordo assinado.
+      Ele assinou um contrato de quatro anos em agosto de 2023. Em 16 de outubro
+      de 2026, a Sky Sports informou um acordo em princípio até o verão de 2029,
+      com os documentos sendo finalizados. As fontes usadas não trazem uma
+      prorrogação assinada.
   - q: Quantos gols Harry Kane marcou na Bundesliga em 2025-26?
     a: >-
       36. A Bundesliga informou que ele venceu o prêmio de artilheiro pela
       terceira temporada seguida, algo que nenhum outro jogador havia conseguido
       em suas três primeiras temporadas na liga.
+  - q: Quantos anos Harry Kane tem?
+    a: >-
+      Ele nasceu em 28 de julho de 1993, então tem 33 anos.
 autoReviews: 1
 publishedAt: '2026-10-27'
 ---
-Harry Kane chegou à cerimônia da Bola de Ouro de 26 de outubro de 2026, em Londres, como favorito das casas de apostas [s:sky-ballon-dor-favourite-2026]. A federação inglesa indica que é a primeira cerimônia realizada fora de Paris [s:fa-ballon-dor-nominees-2026]. Nenhuma das fontes usadas para esta página informa o resultado, então não há vencedor citado aqui. A seguir estão o histórico que o colocou entre os candidatos, sua situação no Bayern e os pontos que ainda não foram confirmados.
+Harry Kane chegou à cerimônia da Bola de Ouro de 26 de outubro de 2026, em Londres, como favorito das casas de apostas [s:sky-ballon-dor-favourite-2026]. Ele venceu, e a cerimônia foi realizada no London Palladium [s:uefa-ballon-dor-ceremony-2026] [s:sky-kane-ballon-dor-win-2026]. A federação inglesa indica que é a primeira cerimônia realizada fora de Paris [s:fa-ballon-dor-nominees-2026]. A seguir estão o histórico que o colocou entre os candidatos, sua situação no Bayern e os pontos que ainda não foram confirmados.
+
+## Outubro de 2026
+
+Kane venceu a Bola de Ouro à frente de Kylian Mbappé e Lamine Yamal, e a cerimônia em Londres começou 45 minutos depois do previsto por causa do trânsito [s:sky-kane-ballon-dor-win-2026]. O Bayern publicou, em inglês, que a Allianz Arena ficaria dourada para o vencedor [s:khelnow-kane-munich-welcome-2026].
+
+Segundo o auxiliar técnico Aaron Danks, Kane estava voltando de Londres para Munique e deveria se apresentar ao treino na terça-feira. Danks falou da “imensa alegria que Harry viveu ontem” [s:fox-kane-munich-return-2026].
+
+A partida da Copa da Alemanha contra o 1. FC Magdeburg estava marcada para quarta-feira, 28 de outubro, na Allianz Arena, e Danks disse que Kane estaria disponível para jogar [s:fox-kane-munich-return-2026] [s:khelnow-kane-munich-welcome-2026]. As fontes usadas aqui não trazem o resultado. O jogo da Bundesliga contra o Borussia Dortmund acontece no sábado, 31 de outubro [s:khelnow-kane-munich-welcome-2026].
 
 ## Mais uma artilharia da Bundesliga
 
@@ -90,12 +105,12 @@ Na Copa de 2018, a Inglaterra chegou às semifinais e Kane ficou com a Chuteira 
 
 ## A negociação com o Bayern
 
-O contrato de Kane termina ao fim da temporada atual, e as conversas visam mantê-lo no clube além de 2027 [s:nst-bayern-extension-talks-2026].
+Em 16 de outubro de 2026, a Sky Sports informou que Kane tinha chegado a um acordo em princípio com o Bayern até o verão de 2029, e que o clube estava finalizando os documentos da prorrogação. Segundo a reportagem, ainda havia alguns pontos a resolver antes da confirmação [s:sky-kane-bayern-deal-2029].
 
-Em 29 de agosto de 2026 ele confirmou que as negociações tinham começado. “A primeira reunião começou na semana passada”, disse, e acrescentou que “não há pânico de nenhum dos dois lados” [s:nst-bayern-extension-talks-2026]. Também afirmou: “tenho certeza de que vamos chegar a um ponto em que os dois lados fiquem satisfeitos” [s:nst-bayern-extension-talks-2026].
+Em 29 de agosto de 2026 ele confirmou que as negociações tinham começado. “A primeira reunião começou na semana passada”, disse, e acrescentou que “não há pânico de nenhum dos dois lados” [s:nst-bayern-extension-talks-2026]. Também afirmou: “tenho certeza de que vamos chegar a um ponto em que os dois lados fiquem satisfeitos” [s:nst-bayern-extension-talks-2026]. Na mesma data, Jan-Christian Dreesen afirmou que “a química está ótima” [s:bundesliga-kane-talks-de-2026].
 
-As fontes consultadas confirmam conversas, não um contrato assinado. A mais recente é de 29 de agosto de 2026 e não relata nenhum acordo [s:nst-bayern-extension-talks-2026].
+As fontes falam em acordo em princípio, não em contrato assinado. Nenhum anúncio oficial do Bayern de uma prorrogação assinada foi encontrado.
 
 ## O que esta página não confirma
 
-O resultado da Bola de Ouro 2026 não foi encontrado em nenhuma fonte aberta para esta página, então não se diz quem venceu. Também ficam de fora a data e o local de nascimento de Kane, porque nenhuma fonte consultada os informa. O site oficial do Bayern não carregou durante a pesquisa, então os dados do clube vêm da federação inglesa, da Bundesliga, do Tottenham e da imprensa.
+A renovação com o Bayern aparece apenas como acordo em princípio. Também não há resultado publicado para o jogo da Copa contra o Magdeburg, de 28 de outubro. O site oficial do Bayern não carregou durante a pesquisa, então os dados do clube vêm da federação inglesa, da Bundesliga, do Tottenham, da Sky Sports, da NST e da TNT.

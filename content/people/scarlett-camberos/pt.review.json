@@ -1,0 +1,244 @@
+{
+  "date": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Nasceu em 20 de novembro de 2000",
+      "sourceIds": [
+        "aztecajalisco-profile-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Only source for the date."
+    },
+    {
+      "claim": "Natural de Los Angeles, Califórnia (Azteca Jalisco, Fox Sports)",
+      "sourceIds": [
+        "aztecajalisco-profile-2026",
+        "foxsports-agradecida-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Both state Los Angeles, California. Angel City says San Diego; conflict stated."
+    },
+    {
+      "claim": "Angel City a descreve como natural de San Diego e formada pela UC Irvine",
+      "sourceIds": [
+        "angel-city-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Mexicano-americana, se identifica mais como mexicana",
+      "sourceIds": [
+        "angel-city-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Jogou pelo América desde 2022",
+      "sourceIds": [
+        "angel-city-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Angel City, clube da NWSL que a contratou",
+      "sourceIds": [
+        "angel-city-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Angel City signed her; no year given."
+    },
+    {
+      "claim": "Em março, o Angel City a contratou por transferência do América",
+      "sourceIds": [
+        "angel-city-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "'signed ... in March via transfer from Club América'. Year removed."
+    },
+    {
+      "claim": "Jogou na NWSL",
+      "sourceIds": [
+        "publimetro-return-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Publimetro: 'jugó en la NWSL' during the 15+ months away. Bay FC removed."
+    },
+    {
+      "claim": "Voltou ao América para o Apertura 2024 como reforço, após mais de 15 meses; camisa 10",
+      "sourceIds": [
+        "publimetro-return-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Renovação em janeiro de 2026 com outras quatro; citada em primeiro; atacante e referência; camisa 10",
+      "sourceIds": [
+        "foxsports-renewal-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Final do Clausura 2026 contra as Rayadas, terceiro título",
+      "sourceIds": [
+        "excelsior-clausura-2026-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Ida 1-0 em Monterrey, volta 3-0 no Estadio Ciudad de los Deportes, agregado 3-1; gol de Camberos",
+      "sourceIds": [
+        "excelsior-clausura-2026-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Na 6ª rodada do Clausura 2026: três gols no 5-1 sobre as Pumas; 26 e 90 minutos; liderança",
+      "sourceIds": [
+        "excelsior-pumas-hat-trick-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Jornada 6 stated; minutes and lead confirmed."
+    },
+    {
+      "claim": "Semifinal 4-1 contra o Gotham FC em Pachuca; hat-trick aos 21, 57 e pênalti aos 89; primeira em mata-mata",
+      "sourceIds": [
+        "concacaf-semifinal-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Final 5-3 contra o Washington Spirit no Estadio Hidalgo",
+      "sourceIds": [
+        "concacaf-final-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Cruzamento no minuto 22; passe para o gol de Geyse aos 27",
+      "sourceIds": [
+        "concacaf-final-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Best Player Award, Scotiabank; nove contribuições para gols, recorde",
+      "sourceIds": [
+        "concacaf-best-player-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Fox Sports: 25 gols, 17 assistências, 42 contribuições em 2025-26",
+      "sourceIds": [
+        "foxsports-goals-assists-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Azteca Jalisco: 47 jogos, 27 gols, sete assistências",
+      "sourceIds": [
+        "aztecajalisco-profile-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Quatro gols no Apertura 2026 em 26 de outubro",
+      "sourceIds": [
+        "foxsports-ballon-21"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "21º na Bola de Ouro Feminina 2026, divulgado segunda-feira 26 de outubro de 2026",
+      "sourceIds": [
+        "foxsports-ballon-21",
+        "clarosports-ballon-21",
+        "sopitas-ballon-21"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Primeira mexicana indicada (Fox); primeira no ranking feminino (Claro)",
+      "sourceIds": [
+        "foxsports-ballon-21",
+        "clarosports-ballon-21"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Sopitas: melhor colocação de uma mexicana, masculina ou feminina",
+      "sourceIds": [
+        "sopitas-ballon-21"
+      ],
+      "verdict": "confirmed",
+      "note": "Attributed claim in source; same source calls Julián Quiñones the best-placed Mexican. Kept as attributed."
+    },
+    {
+      "claim": "Sopitas 28; Azteca Jalisco e Claro 30",
+      "sourceIds": [
+        "sopitas-ballon-21",
+        "aztecajalisco-profile-2026",
+        "clarosports-ballon-21"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed; conflict stated."
+    },
+    {
+      "claim": "Viagem a Londres com Villacampa; cerimônia pela primeira vez na Inglaterra",
+      "sourceIds": [
+        "foxsports-gala-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Agradecida por representar o América e o México",
+      "sourceIds": [
+        "foxsports-agradecida-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Estreia pela seleção principal em setembro de 2022 contra a Nova Zelândia",
+      "sourceIds": [
+        "angel-city-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Fox Sports: jogadora regular da equipe principal",
+      "sourceIds": [
+        "foxsports-ballon-21"
+      ],
+      "verdict": "confirmed",
+      "note": "'una habitual del Tricolor a nivel mayor'."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear birthplace and field-size conflicts, dated details, sources stated accurately.",
+  "decision": "approve",
+  "summary": "Revised article matches the fetched sources or states the conflict. Bay FC and the 2023 year removed; match date tied to the matchday."
+}

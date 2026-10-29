@@ -8,14 +8,16 @@ metaDescription: >-
 knownFor: 'England captain and Bayern Munich striker, England''s record goalscorer'
 summary: >-
   Harry Kane won the 2026 Ballon d'Or in London on Monday 26 October, the first
-  Englishman to take the award in about 25 years. He is back in Munich, where
-  Bayern face a German Cup tie against Magdeburg on Wednesday 28 October and a
-  Bundesliga clash with Borussia Dortmund on Saturday 31 October. Sky Sports
-  reports that he has agreed a new Bayern deal in principle until 2029, with the
-  paperwork still being finalised. He is also England's record goalscorer.
+  Englishman to take the award in about 25 years. He travelled back to Munich,
+  where Bayern were scheduled to play Magdeburg in the German Cup on Wednesday 28
+  October and Borussia Dortmund in the Bundesliga on Saturday 31 October. Sky
+  Sports reports that he has agreed a new Bayern deal in principle until 2029,
+  with the paperwork still being finalised, but no signed extension has been
+  announced. He is also England's record goalscorer.
 status: published
 risk: low
 publishedAt: '2026-10-28'
+updatedAt: '2026-10-29'
 reviewedAt: '2026-10-28'
 reviewBy: '2027-04-28'
 author: editor-in-chief
@@ -70,9 +72,11 @@ Harry Kane won the 2026 Ballon d'Or on Monday 26 October at the London Palladium
 
 ## October 2026
 
-Kane travelled from London to Munich for training on Tuesday, Aaron Danks said, and Bayern have teased a special welcome for him [s:fox-kane-munich-return-2026]. The club posted that the Allianz Arena would shine in gold for its new winner [s:khelnow-kane-munich-welcome-2026].
+Kane beat Kylian Mbappé and Lamine Yamal to the award, and the London ceremony began 45 minutes late because of traffic [s:sky-kane-ballon-dor-win-2026]. On 27 October, FC Bayern's English account posted that the Allianz Arena would shine in gold for him [s:khelnow-kane-munich-welcome-2026].
 
-The next two fixtures are still to be played. The DFB-Pokal tie against 1. FC Magdeburg is on Wednesday 28 October at the Allianz Arena, and Danks said Kane would be available [s:fox-kane-munich-return-2026] [s:khelnow-kane-munich-welcome-2026]. The Bundesliga clash with Borussia Dortmund follows on Saturday 31 October [s:khelnow-kane-munich-welcome-2026]. Bayern are defending the cup, which last season was decided by a Kane hat-trick in the final [s:fox-kane-munich-return-2026].
+Aaron Danks, Bayern's assistant coach, said Kane was travelling from London back to Munich and was due to join training on Tuesday. He spoke of "the immense joy Harry experienced yesterday" [s:fox-kane-munich-return-2026].
+
+The DFB-Pokal tie against 1. FC Magdeburg was scheduled for Wednesday 28 October at the Allianz Arena, and Danks said Kane would be available to play [s:fox-kane-munich-return-2026] [s:khelnow-kane-munich-welcome-2026]. The sources used here do not report its result. The Bundesliga clash with Borussia Dortmund is on Saturday 31 October [s:khelnow-kane-munich-welcome-2026].
 
 ## Bundesliga top scorer for a third year
 
@@ -108,4 +112,4 @@ At the 2018 World Cup England reached the semi-finals and Kane won the Golden Bo
 
 Sky Sports reported on 16 October that Kane had agreed a new deal in principle with Bayern Munich until the summer of 2029, and that the club was finalising the paperwork on the extension [s:sky-kane-bayern-deal-2029]. The report added that a few things still needed to be ironed out before confirmation [s:sky-kane-bayern-deal-2029]. No official Bayern announcement of a signed extension was found for this page, so the deal is reported as agreed in principle, not as signed.
 
-The talks came first. Kane confirmed them in a report dated 29 August 2026. “The first meeting started last week,” he said, adding that “there's no panic from either side” [s:nst-bayern-extension-talks-2026]. He also said “I'm sure we'll get to a point where both sides are happy” [s:nst-bayern-extension-talks-2026].
+The talks came first. Kane confirmed them in a report dated 29 August 2026 [s:nst-bayern-extension-talks-2026]. The same day, Bayern's Jan-Christian Dreesen said "Die Chemie stimmt total", that the chemistry is right [s:bundesliga-kane-talks-de-2026]. “The first meeting started last week,” he said, adding that “there's no panic from either side” [s:nst-bayern-extension-talks-2026]. He also said “I'm sure we'll get to a point where both sides are happy” [s:nst-bayern-extension-talks-2026].

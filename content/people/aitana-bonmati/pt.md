@@ -7,8 +7,9 @@ metaDescription: >-
   Aitana Bonmatí não estar entre as indicadas à Bola de Ouro feminina 2026.
 knownFor: Jogadora do FC Barcelona e tricampeã da Bola de Ouro feminina
 summary: >-
-  Aitana Bonmatí, jogadora do FC Barcelona, não está entre as 30 indicadas à
-  Bola de Ouro feminina 2026. Ela venceu o prêmio em 2023, 2024 e 2025. Uma
+  Alexia Putellas venceu a Bola de Ouro feminina 2026 em Londres, em 26 de
+  outubro, pela terceira vez. Aitana Bonmatí, jogadora do FC Barcelona que
+  venceu o prêmio em 2023, 2024 e 2025, não está entre as 30 indicadas. Uma
   lesão sofrida na temporada 2025-26 é o motivo apontado para sua ausência na
   lista de pré-candidatas.
 status: published
@@ -45,10 +46,25 @@ faq:
     a: >-
       Em Sant Pere de Ribes, na Catalunha, segundo o perfil do FC Barcelona
       [s:fcb-profile-es].
+  - q: Quem ganhou a Bola de Ouro feminina 2026?
+    a: >-
+      Alexia Putellas, na cerimônia de 26 de outubro de 2026, em Londres. É o
+      terceiro prêmio dela [s:noovo-afp-winners-2026]
+      [s:reuters-ballon-dor-women-2026].
+  - q: Quanto tempo Aitana Bonmatí ficou lesionada?
+    a: >-
+      Cerca de cinco meses. Segundo o Excélsior, ela fraturou o perônio esquerdo
+      durante uma concentração da seleção espanhola em novembro de 2025
+      [s:excelsior-2026-omission].
 autoReviews: 1
 publishedAt: '2026-10-27'
+updatedAt: '2026-10-29'
 ---
-Aitana Bonmatí não está entre as 30 jogadoras indicadas à Bola de Ouro feminina 2026. A lista foi divulgada em 8 de setembro de 2026, e a ausência dela foi a maior surpresa das indicações [s:emisoras-nominees-2026] [s:uefa-ballon-dor-nominees-2026]. Ela tinha vencido o prêmio três vezes seguidas, em 2023, 2024 e 2025 [s:fcb-profile-en]. A cerimônia estava marcada para segunda-feira, 26 de outubro, no London Palladium Theatre [s:uefa-ballon-dor-nominees-2026]. As fontes consultadas para esta página não informam quem levou o prêmio, então também não informamos aqui.
+Aitana Bonmatí não está entre as 30 jogadoras indicadas à Bola de Ouro feminina 2026. A lista foi divulgada em 8 de setembro de 2026, e a ausência dela foi a maior surpresa das indicações [s:emisoras-nominees-2026] [s:uefa-ballon-dor-nominees-2026]. Ela tinha vencido o prêmio três vezes seguidas, em 2023, 2024 e 2025 [s:fcb-profile-en].
+
+## Outubro de 2026
+
+A cerimônia da Bola de Ouro 2026 aconteceu na segunda-feira, 26 de outubro, no London Palladium. A premiada na categoria feminina foi Alexia Putellas, que ganhou o troféu pela terceira vez [s:noovo-afp-winners-2026] [s:reuters-ballon-dor-women-2026]. A agência AFP cita Bonmatí como a compatriota que vinha antes de Putellas na lista de vencedoras [s:noovo-afp-winners-2026]. Ela não estava entre as indicadas [s:emisoras-nominees-2026]. A cerimônia é a notícia mais recente sobre ela.
 
 ## Por que ela ficou de fora da lista de 2026
 

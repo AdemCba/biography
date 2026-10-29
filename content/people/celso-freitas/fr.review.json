@@ -1,0 +1,269 @@
+{
+  "date": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Began in radio in 1970",
+      "sourceIds": [
+        "folhape-celso-freitas-sbt-news",
+        "sbt-news-celso-freitas-aposentadoria"
+      ],
+      "verdict": "confirmed",
+      "note": "Folha de Pernambuco: started in radio in 1970; SBT News: radio start at 16."
+    },
+    {
+      "claim": "Began in radio at age 16",
+      "sourceIds": [
+        "sbt-news-celso-freitas-aposentadoria"
+      ],
+      "verdict": "confirmed",
+      "note": "SBT News retirement article: career began on radio at 16."
+    },
+    {
+      "claim": "Joined SBT News in November 2025 and anchored its weekday newscast until October 2026",
+      "sourceIds": [
+        "sbt-news-contrata-celso-freitas",
+        "sbt-news-celso-freitas-aposentadoria"
+      ],
+      "verdict": "confirmed",
+      "note": "Announcement 10 Nov 2025; retirement article says he left the Jornal do SBT News desk from Monday 26 Oct 2026."
+    },
+    {
+      "claim": "TV Globo 1976 to 2004",
+      "sourceIds": [
+        "folhape-celso-freitas-sbt-news"
+      ],
+      "verdict": "confirmed",
+      "note": "Folha de Pernambuco states the Globo years."
+    },
+    {
+      "claim": "Entered Globo presenting local Jornal Nacional and Jornal Hoje segments",
+      "sourceIds": [
+        "museu-da-tv-celso-freitas"
+      ],
+      "verdict": "confirmed",
+      "note": "Museu da TV: joined through local segments of JN and Jornal Hoje; no year given, so the page does not date it."
+    },
+    {
+      "claim": "Took over Jornal Nacional in 1983 alongside Cid Moreira",
+      "sourceIds": [
+        "folhape-celso-freitas-sbt-news",
+        "museu-da-tv-celso-freitas"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources give 1983 and the Cid Moreira pairing."
+    },
+    {
+      "claim": "About six years later became anchor of Fantastico and Globo Reporter",
+      "sourceIds": [
+        "folhape-celso-freitas-sbt-news"
+      ],
+      "verdict": "confirmed",
+      "note": "Folha de Pernambuco only."
+    },
+    {
+      "claim": "SBT News profile lists Senna death, 1994 World Cup, Katrina 2005, Indonesia tsunami 2006, Obama 2008",
+      "sourceIds": [
+        "sbt-news-contrata-celso-freitas"
+      ],
+      "verdict": "confirmed",
+      "note": "Listed in the SBT News profile as historic moments he stood out at."
+    },
+    {
+      "claim": "RecordTV hired him in 2004 for the launch of Domingo Espetacular",
+      "sourceIds": [
+        "folhape-celso-freitas-sbt-news",
+        "poder360-record-demite-celso-freitas"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources: joined at the 2004 launch."
+    },
+    {
+      "claim": "In 2006 replaced Boris Casoy as anchor of Jornal da Record",
+      "sourceIds": [
+        "folhape-celso-freitas-sbt-news"
+      ],
+      "verdict": "confirmed",
+      "note": "Folha de Pernambuco."
+    },
+    {
+      "claim": "Moderated electoral debates, presented Reporter Record and Retrospectivas, hosted Entrevista Record News for five years",
+      "sourceIds": [
+        "poder360-record-demite-celso-freitas"
+      ],
+      "verdict": "confirmed",
+      "note": "Poder360 lists these in the network note."
+    },
+    {
+      "claim": "JR 15 Minutos among his shows at Record",
+      "sourceIds": [
+        "folhape-celso-freitas-sbt-news"
+      ],
+      "verdict": "confirmed",
+      "note": "Folha de Pernambuco lists it; Poder360 also lists it."
+    },
+    {
+      "claim": "Record dismissed him on 11 March 2025 after 21 years",
+      "sourceIds": [
+        "poder360-record-demite-celso-freitas"
+      ],
+      "verdict": "confirmed",
+      "note": "Poder360: Tuesday 11 March 2025, 21 years at the station."
+    },
+    {
+      "claim": "Record note praised his commitment to journalistic ethics and wished him well",
+      "sourceIds": [
+        "poder360-record-demite-celso-freitas"
+      ],
+      "verdict": "confirmed",
+      "note": "Poder360 quotes compromisso inabalavel com a etica jornalistica."
+    },
+    {
+      "claim": "He said in a video he was heading to new challenges",
+      "sourceIds": [
+        "poder360-record-demite-celso-freitas"
+      ],
+      "verdict": "confirmed",
+      "note": "Poder360: video on social media, novos desafios."
+    },
+    {
+      "claim": "Sergio Aguiar with Christina Lemos took over Jornal da Record",
+      "sourceIds": [
+        "poder360-record-demite-celso-freitas"
+      ],
+      "verdict": "confirmed",
+      "note": "Poder360."
+    },
+    {
+      "claim": "SBT News announced him on 10 Nov 2025 with Leandro Magalhaes and Raquel Landim",
+      "sourceIds": [
+        "sbt-news-contrata-celso-freitas",
+        "folhape-celso-freitas-sbt-news"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources, Monday 10 Nov 2025."
+    },
+    {
+      "claim": "The channel was due to launch on 15 December 2025",
+      "sourceIds": [
+        "sbt-news-contrata-celso-freitas"
+      ],
+      "verdict": "confirmed",
+      "note": "Announcement."
+    },
+    {
+      "claim": "Camila Mattoso named newsroom director in the same announcement",
+      "sourceIds": [
+        "sbt-news-contrata-celso-freitas"
+      ],
+      "verdict": "confirmed",
+      "note": "Announcement names her diretora de redacao."
+    },
+    {
+      "claim": "Quote: O SBT News nasce com a credibilidade do SBT e seu alcance em multiplas plataformas",
+      "sourceIds": [
+        "sbt-news-contrata-celso-freitas"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted verbatim in the announcement."
+    },
+    {
+      "claim": "First boa noite on the channel at 18:30 on 15 December 2025",
+      "sourceIds": [
+        "sbt-news-celso-freitas-aposentadoria"
+      ],
+      "verdict": "confirmed",
+      "note": "Retirement article describes his first boa noite on 15 Dec 2025 at 18h30."
+    },
+    {
+      "claim": "Jornal do SBT News airs Monday to Friday 18:30 to 20:30 with Marina Demori",
+      "sourceIds": [
+        "sbt-news-celso-freitas-expectativa"
+      ],
+      "verdict": "confirmed",
+      "note": "Interview article of 11 Dec 2025."
+    },
+    {
+      "claim": "Answered Uma maravilha! when asked about a new project after five decades",
+      "sourceIds": [
+        "sbt-news-celso-freitas-expectativa"
+      ],
+      "verdict": "confirmed",
+      "note": "Verbatim."
+    },
+    {
+      "claim": "Said news channels let the team take the main stories and examine them closely",
+      "sourceIds": [
+        "sbt-news-celso-freitas-expectativa"
+      ],
+      "verdict": "confirmed",
+      "note": "Verbatim: esmiucá-los."
+    },
+    {
+      "claim": "Called his voice a divine gift; advised against very cold water because of thermal shock",
+      "sourceIds": [
+        "sbt-news-celso-freitas-expectativa"
+      ],
+      "verdict": "confirmed",
+      "note": "Verbatim: dadiva divina que Deus me concedeu; choque termico."
+    },
+    {
+      "claim": "Announced retirement on 26 Oct 2026 and left the desk from that Monday",
+      "sourceIds": [
+        "sbt-news-celso-freitas-aposentadoria"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated 26/10/2026: irá se aposentar ... deixa o comando; a partir desta segunda-feira (26)."
+    },
+    {
+      "claim": "Career of more than five decades",
+      "sourceIds": [
+        "sbt-news-celso-freitas-aposentadoria"
+      ],
+      "verdict": "confirmed",
+      "note": "Article: mais de cinco decadas."
+    },
+    {
+      "claim": "Born 18 September 1953 in Criciuma, Santa Catarina",
+      "sourceIds": [
+        "sbt-news-celso-freitas-aposentadoria",
+        "portal-dos-jornalistas-celso-freitas"
+      ],
+      "verdict": "confirmed",
+      "note": "SBT News: Nascido em 18 de setembro de 1953, em Criciuma, Santa Catarina. Portal dos Jornalistas gives the same date."
+    },
+    {
+      "claim": "Museu da TV gives Criciuma and 1953",
+      "sourceIds": [
+        "museu-da-tv-celso-freitas"
+      ],
+      "verdict": "confirmed",
+      "note": "Museu: nasceu em Criciuma ... em 1953 (year only)."
+    },
+    {
+      "claim": "Ages given by the press: 71 in March 2025 and 72 in November 2025",
+      "sourceIds": [
+        "poder360-record-demite-celso-freitas",
+        "folhape-celso-freitas-sbt-news"
+      ],
+      "verdict": "confirmed",
+      "note": "Poder360 gives 71; Folha de Pernambuco gives 72 (hoje com 72 anos)."
+    },
+    {
+      "claim": "Nationality Brazil (BR)",
+      "sourceIds": [
+        "museu-da-tv-celso-freitas"
+      ],
+      "verdict": "confirmed",
+      "note": "No source uses the word nationality. Museu da TV places him among Brazilian television journalists; he was born in Criciuma, Brazil. Inferred from that wording, flagged in person.json."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds the October 2026 retirement report, the dated career timeline and the verified birth date and place.",
+  "decision": "approve",
+  "summary": "All checked claims match the fetched sources; retirement reported 26 Oct 2026."
+}

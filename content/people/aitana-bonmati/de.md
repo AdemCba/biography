@@ -7,10 +7,11 @@ metaDescription: >-
   Warum Aitana Bonmatí 2026 nicht auf der Liste der Frauen-Nominierten steht.
 knownFor: Fußballerin des FC Barcelona und dreifache Gewinnerin des Frauen-Ballon-d'Or
 summary: >-
-  Aitana Bonmatí vom FC Barcelona gehört nicht zu den 30 für den
-  Frauen-Ballon-d'Or 2026 nominierten Spielerinnen. Sie gewann die Auszeichnung
-  2023, 2024 und 2025. Als Grund für ihr Fehlen auf der Shortlist nennen
-  Berichte eine Verletzung aus der Saison 2025/26.
+  Alexia Putellas hat den Frauen-Ballon-d'Or 2026 am 26. Oktober in London
+  gewonnen, ihren dritten. Aitana Bonmatí vom FC Barcelona, die die Auszeichnung
+  2023, 2024 und 2025 gewann, gehörte nicht zu den 30 Nominierten. Als Grund für
+  ihr Fehlen auf der Shortlist nennen Berichte eine Verletzung aus der Saison
+  2025/26.
 status: published
 risk: low
 reviewedAt: '2026-10-27'
@@ -45,10 +46,24 @@ faq:
     a: >-
       In Sant Pere de Ribes in Katalonien, laut dem Profil des FC Barcelona
       [s:fcb-profile-es].
+  - q: Wer hat den Frauen-Ballon-d'Or 2026 gewonnen?
+    a: >-
+      Alexia Putellas, bei der Gala am 26. Oktober 2026 in London. Es war ihr
+      dritter Ballon d'Or [s:noovo-afp-winners-2026]
+      [s:reuters-ballon-dor-women-2026].
+  - q: Wie lange fiel Aitana Bonmatí verletzt aus?
+    a: >-
+      Rund fünf Monate. Laut Excélsior brach sie sich im November 2025 bei einem
+      Lehrgang der Nationalmannschaft das linke Wadenbein [s:excelsior-2026-omission].
 autoReviews: 1
 publishedAt: '2026-10-27'
+updatedAt: '2026-10-29'
 ---
-Aitana Bonmatí steht nicht auf der Liste der 30 nominierten Spielerinnen für den Frauen-Ballon-d'Or 2026. Die Nominierungen wurden am 8. September 2026 bekannt gegeben, und ihr Fehlen war die größte Überraschung der Liste [s:emisoras-nominees-2026] [s:uefa-ballon-dor-nominees-2026]. Dabei hatte sie die Auszeichnung in den drei Jahren zuvor gewonnen, 2023, 2024 und 2025 [s:fcb-profile-en]. Die Gala war für Montag, den 26. Oktober, im London Palladium Theatre angesetzt [s:uefa-ballon-dor-nominees-2026]. Die Quellen für diese Seite nennen keine Siegerin, deshalb nennen wir auch keine.
+Aitana Bonmatí steht nicht auf der Liste der 30 nominierten Spielerinnen für den Frauen-Ballon-d'Or 2026. Die Nominierungen wurden am 8. September 2026 bekannt gegeben, und ihr Fehlen war die größte Überraschung der Liste [s:emisoras-nominees-2026] [s:uefa-ballon-dor-nominees-2026]. Dabei hatte sie die Auszeichnung in den drei Jahren zuvor gewonnen, 2023, 2024 und 2025 [s:fcb-profile-en].
+
+## Oktober 2026
+
+Die Gala zum Ballon d'Or 2026 fand am Montag, dem 26. Oktober, im London Palladium statt. Alexia Putellas wurde als beste Frau ausgezeichnet, es ist ihr dritter Ballon d'Or [s:noovo-afp-winners-2026] [s:reuters-ballon-dor-women-2026]. Laut der AFP-Meldung ist Bonmatí die spanische Spielerin, die in der Liste der Siegerinnen vor Putellas steht [s:noovo-afp-winners-2026]. Bonmatí stand nicht auf der Nominierungsliste [s:emisoras-nominees-2026]. Die Gala ist die aktuellste Nachricht über sie.
 
 ## Warum sie auf der Shortlist fehlt
 

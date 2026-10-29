@@ -1,0 +1,368 @@
+{
+  "date": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 20 October 2003",
+      "sourceIds": [
+        "bvb-player-profile",
+        "fotmob-player"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob shows 20.10.2003; BVB profile text gives October 20, 2003."
+    },
+    {
+      "claim": "Age 23 as of 29 October 2026",
+      "sourceIds": [
+        "bvb-player-profile",
+        "fotmob-player"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic from the confirmed birth date."
+    },
+    {
+      "claim": "Shirt number 17",
+      "sourceIds": [
+        "bvb-player-profile",
+        "bvb-long-term-deal"
+      ],
+      "verdict": "confirmed",
+      "note": "BVB profile title reads #17; BVB deal article says he keeps number 17."
+    },
+    {
+      "claim": "Height 1.87 metres",
+      "sourceIds": [
+        "bvb-player-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "BVB profile: 'the 1.87-meter-tall central midfielder'."
+    },
+    {
+      "claim": "Club profile calls him a central midfielder; its Chelsea section describes him as an attacker",
+      "sourceIds": [
+        "bvb-player-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "BVB profile: central midfielder; 'In August 2022, the attacker joined Chelsea FC'."
+    },
+    {
+      "claim": "Dortmund signed him permanently in August 2025 on a contract through 30 June 2030",
+      "sourceIds": [
+        "bvb-long-term-deal",
+        "bvb-player-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "BVB deal article: permanent contract until 30 June 2030; profile table 'Since 08/2025 Borussia Dortmund'."
+    },
+    {
+      "claim": "Loan at Dortmund in second half of 2024-25 season, from February 2025",
+      "sourceIds": [
+        "bvb-long-term-deal",
+        "bvb-player-profile",
+        "fotmob-player"
+      ],
+      "verdict": "confirmed",
+      "note": "BVB deal article: loan in second half of last season; profile: 'In February 2025, Chukwuemeka joined Borussia Dortmund on loan'; FotMob loan Feb-Jul 2025."
+    },
+    {
+      "claim": "17 competitive appearances and one goal on loan at Dortmund",
+      "sourceIds": [
+        "bvb-long-term-deal",
+        "fotmob-player"
+      ],
+      "verdict": "confirmed",
+      "note": "BVB deal article: 17 competitive appearances, one goal. FotMob loan row: 17 apps, 1 goal."
+    },
+    {
+      "claim": "Played for Dortmund at the FIFA Club World Cup",
+      "sourceIds": [
+        "bvb-long-term-deal"
+      ],
+      "verdict": "confirmed",
+      "note": "BVB deal article says he played on loan during the FIFA Club World Cup."
+    },
+    {
+      "claim": "He kept number 17 on the permanent deal",
+      "sourceIds": [
+        "bvb-long-term-deal"
+      ],
+      "verdict": "confirmed",
+      "note": "BVB deal article."
+    },
+    {
+      "claim": "Sebastian Kehl praised his ability to find solutions in tight spaces",
+      "sourceIds": [
+        "bvb-long-term-deal"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote: 'repeatedly finding solutions in tight spaces'."
+    },
+    {
+      "claim": "Lars Ricken: club wanted more quality and creativity in attacking midfield; delighted to secure long-term services",
+      "sourceIds": [
+        "bvb-long-term-deal"
+      ],
+      "verdict": "confirmed",
+      "note": "Both quotes match the BVB deal article."
+    },
+    {
+      "claim": "Northampton Town 2011 to March 2016, Aston Villa March 2016 to August 2022, Chelsea August 2022 to February 2025",
+      "sourceIds": [
+        "bvb-player-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Previous Clubs table: 2011-03/2016 Northampton; 03/2016-08/2022 Aston Villa; 08/2022-02/2025 Chelsea."
+    },
+    {
+      "claim": "First Chelsea league match 8 October 2022, 3-0 home win over Wolves",
+      "sourceIds": [
+        "sporting-heroes"
+      ],
+      "verdict": "confirmed",
+      "note": "Sporting Heroes: debut 8 Oct 2022, 3-0 home win over Wolves."
+    },
+    {
+      "claim": "23 Premier League appearances for Chelsea in 2022-23 and 2023-24, scored once in 2023-24",
+      "sourceIds": [
+        "sporting-heroes"
+      ],
+      "verdict": "confirmed",
+      "note": "2022-23: 14 apps 0 goals; 2023-24: 9 apps 1 goal."
+    },
+    {
+      "claim": "Won the 2022 UEFA European Under-19 Championship with England",
+      "sourceIds": [
+        "vol-fifa-change-of-association",
+        "vol-austria-choice-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "vol.at FIFA article: England led to U19 Euro 2022 title; the other vol article says the same."
+    },
+    {
+      "claim": "Scored in the 2-0 win over Austria at that tournament",
+      "sourceIds": [
+        "vol-fifa-change-of-association"
+      ],
+      "verdict": "confirmed",
+      "note": "vol.at: he scored in England's 2-0 win over Austria."
+    },
+    {
+      "claim": "He never made England's senior side",
+      "sourceIds": [
+        "vol-austria-choice-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source says he 'did not make it to the senior team'."
+    },
+    {
+      "claim": "FIFA approved his change of association in March 2026",
+      "sourceIds": [
+        "vol-fifa-change-of-association"
+      ],
+      "verdict": "confirmed",
+      "note": "vol.at article dated 10 March 2026; permission granted on Monday (9 March)."
+    },
+    {
+      "claim": "Parents come from Nigeria",
+      "sourceIds": [
+        "vol-austria-choice-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote: 'parents are from Nigeria'."
+    },
+    {
+      "claim": "A change of association was possible because he had never played for England's senior team",
+      "sourceIds": [
+        "vol-austria-choice-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'Therefore, the option of a nationality change exists' after he did not reach the senior team. The eligibility rule itself is not stated."
+    },
+    {
+      "claim": "The ÖFB said it would announce a decision once one had been made",
+      "sourceIds": [
+        "vol-austria-choice-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "ÖFB: 'As soon as a final decision is made, the ÖFB will inform about it.'"
+    },
+    {
+      "claim": "Debut 27 March 2026, Austria 5-1 Ghana in Vienna",
+      "sourceIds": [
+        "beinsports-austria-ghana",
+        "bundesliga-austria-debut"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN: 5-1 at Ernst-Happel-Stadion, Friday 27 March 2026. Bundesliga article dated 28.03.2026 says 'on Friday'."
+    },
+    {
+      "claim": "Called up straight away for the March friendlies",
+      "sourceIds": [
+        "bundesliga-austria-debut"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: called up immediately for the friendlies that month."
+    },
+    {
+      "claim": "Came on as 61st-minute substitute, scored Austria's fourth goal after pass exchange with Marcel Sabitzer, high into the net",
+      "sourceIds": [
+        "beinsports-austria-ghana"
+      ],
+      "verdict": "confirmed",
+      "note": "4-1 goal; 61st-minute sub; exchange with Sabitzer; finish high into the roof of the net."
+    },
+    {
+      "claim": "Austria drew 2-2 with Ireland on 1 October 2026 at the Aviva Stadium, Dublin; Ireland led 2-0 at half time",
+      "sourceIds": [
+        "tt-ireland-austria-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Thursday 1 October 2026, Aviva Stadium, 2-2, half-time 2-0 Ireland."
+    },
+    {
+      "claim": "Chukwuemeka started in attacking midfield, Sasa Kalajdzic lone striker",
+      "sourceIds": [
+        "tt-ireland-austria-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'im Offensivzentrum'; Kalajdzic 'als Solospitze'."
+    },
+    {
+      "claim": "Replaced by Michael Gregoritsch at the start of the second half",
+      "sourceIds": [
+        "tt-ireland-austria-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Substituted in the 46th minute."
+    },
+    {
+      "claim": "FotMob records 45 minutes on the pitch in Dublin",
+      "sourceIds": [
+        "fotmob-player"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob: Ireland match 45 minutes."
+    },
+    {
+      "claim": "FotMob career table: 45 appearances and four goals for Dortmund from August 2025 onwards",
+      "sourceIds": [
+        "fotmob-player"
+      ],
+      "verdict": "confirmed",
+      "note": "Dortmund Aug 2025 to present: 45 apps, 4 goals."
+    },
+    {
+      "claim": "Two Bundesliga appearances this season totalling 47 minutes",
+      "sourceIds": [
+        "fotmob-player"
+      ],
+      "verdict": "confirmed",
+      "note": "Bundesliga 2026/27: 2 apps, 47 minutes."
+    },
+    {
+      "claim": "Goal at Freiburg in April 2025 finished a Dortmund counter-attack in a 4-1 win",
+      "sourceIds": [
+        "blick-freiburg-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Freiburg 1:4 Dortmund; debut goal from a counter-attack. Page published 6 April 2025; the match date itself is not printed, so 'April 2025' follows from the publication date."
+    },
+    {
+      "claim": "First league goal of 2025-26 in a 1-1 draw at Hamburger SV",
+      "sourceIds": [
+        "bundesliga-hamburg-kovac"
+      ],
+      "verdict": "confirmed",
+      "note": "Hamburger SV 1-1 Dortmund; first Bundesliga goal of the season."
+    },
+    {
+      "claim": "Kovac said he was technically accomplished and willing to receive the ball in tight spaces",
+      "sourceIds": [
+        "bundesliga-hamburg-kovac"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted in German; the meaning matches."
+    },
+    {
+      "claim": "Kovac said he had made real progress in recent weeks, though not prepared with the squad from the start",
+      "sourceIds": [
+        "bundesliga-hamburg-kovac"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote: 'Er hatte keine Vorbereitung mit uns ... echt Fortschritte gemacht'."
+    },
+    {
+      "claim": "Bundesliga.com described him as an offensive midfielder",
+      "sourceIds": [
+        "bundesliga-hamburg-kovac"
+      ],
+      "verdict": "confirmed",
+      "note": "'offensive Mittelfeldspieler'."
+    },
+    {
+      "claim": "Chukwuemeka levelled three minutes later, turning in the rebound after his own shot was blocked",
+      "sourceIds": [
+        "beinsports-frankfurt"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'just three minutes later'; rebound of his own blocked shot."
+    },
+    {
+      "claim": "Nationality AT and GB",
+      "sourceIds": [
+        "bvb-player-profile",
+        "fotmob-player"
+      ],
+      "verdict": "confirmed",
+      "note": "BVB text: triple citizen (Austria, UK, Nigeria). FotMob lists Austria. The BVB nationality field says England, which is consistent with GB."
+    },
+    {
+      "claim": "Reports in February 2026 said he could soon play for Austria",
+      "sourceIds": [
+        "vol-austria-choice-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sentence rewritten to what the source states."
+    },
+    {
+      "claim": "Vol.at reported that Paul Wanner was cleared at the same time (Rangnick and match sentence removed)",
+      "sourceIds": [
+        "vol-fifa-change-of-association"
+      ],
+      "verdict": "confirmed",
+      "note": "Sentence rewritten to what the source states."
+    },
+    {
+      "claim": "Eintracht Frankfurt and Dortmund drew 3-3 (no month stated)",
+      "sourceIds": [
+        "beinsports-frankfurt"
+      ],
+      "verdict": "confirmed",
+      "note": "Sentence rewritten to what the source states."
+    },
+    {
+      "claim": "FAQ: club profile describes him as a central midfielder (further-forward line removed)",
+      "sourceIds": [
+        "bvb-player-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Sentence rewritten to what the source states."
+    },
+    {
+      "claim": "Frankfurt match venue sentence removed",
+      "sourceIds": [
+        "beinsports-frankfurt"
+      ],
+      "verdict": "confirmed",
+      "note": "Sentence rewritten to what the source states."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Flags the club profile's central-midfielder versus attacker wording and the Chelsea and Dortmund timeline from one primary source. Several specific dates are unverified.",
+  "decision": "approve",
+  "summary": "Round 2: unsupported sentences rewritten or removed to match the sources. All remaining claims were confirmed in round 1."
+}

@@ -1,0 +1,100 @@
+{
+  "worthWriting": true,
+  "reason": "Argentine singer-songwriter with a long career and a current place in Telefe's MasterChef Celebrity 2026 cast. Living adult, sourced career facts from a biography database and the press. Private life left out.",
+  "wikidata": "",
+  "importance": 3,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "buenamusica-bio-es",
+      "url": "https://buenamusica.com/alejandro-lerner/biografia",
+      "title": "¿Quién es Alejandro Lerner?",
+      "publisher": "Buenamusica",
+      "type": "database",
+      "lang": "es"
+    },
+    {
+      "id": "alejandro-lerner-official",
+      "url": "https://www.alejandro-lerner.com",
+      "title": "Alejandro Lerner (official site)",
+      "publisher": "Alejandro Lerner",
+      "type": "official",
+      "lang": "es"
+    },
+    {
+      "id": "telefe-masterchef-celebrity-2026",
+      "url": "https://www.mitelefe.com/masterchef-celebrity",
+      "title": "MasterChef Celebrity (Telefe)",
+      "publisher": "Telefe",
+      "type": "official",
+      "lang": "es"
+    },
+    {
+      "id": "senal-masterchef-24-2026",
+      "url": "https://senalnews.com/es/tv/telefe-anuncio-el-regreso-de-masterchef-celebrity-con-24-participantes/amp",
+      "title": "Telefe anunció el regreso de MasterChef Celebrity con 24 participantes",
+      "publisher": "Señal News",
+      "type": "press",
+      "lang": "es"
+    },
+    {
+      "id": "cronica-masterchef-lerner-2026",
+      "url": "https://www.cronica.com.ar/diarioshow/farandula/alejandro-lerner-se-incorpora-a-masterchef-celebrity-y-revelo-como-se-prepara-no-tengo-miedo/",
+      "title": "Alejandro Lerner se incorpora a MasterChef Celebrity y reveló cómo se prepara: \"No tengo miedo\"",
+      "publisher": "Crónica",
+      "type": "press",
+      "lang": "es"
+    },
+    {
+      "id": "perfil-masterchef-lerner-2026",
+      "url": "https://noticias.perfil.com/noticias/personajes/el-extrano-accidente-de-maru-botana-en-masterchef.phtml",
+      "title": "El extraño accidente de Maru Botana en MasterChef",
+      "publisher": "Perfil (Noticias)",
+      "type": "press",
+      "lang": "es"
+    },
+    {
+      "id": "lanacion-gran-rex-2001",
+      "url": "https://www.lanacion.com.ar/espectaculos/musica/alejandro-lerner-en-el-gran-rex-nid353741",
+      "title": "Alejandro Lerner, en el Gran Rex",
+      "publisher": "La Nación",
+      "type": "press",
+      "lang": "es"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1957-06-08",
+      "sources": [
+        "buenamusica-bio-es"
+      ],
+      "note": "Buenamusica biography: born in Buenos Aires on 8 June 1957. No second source checked; rock.com.ar returned 403 and the official site has no biography text."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Buenos Aires, Argentina",
+      "sources": [
+        "buenamusica-bio-es"
+      ],
+      "note": "Same biography entry."
+    },
+    "nationality": {
+      "value": "AR",
+      "sources": [
+        "buenamusica-bio-es"
+      ],
+      "note": "Argentine, from the place of birth in the same biography. Press calls him an Argentine singer-songwriter."
+    }
+  },
+  "targetQueries": [
+    "Alejandro Lerner",
+    "Alejandro Lerner age",
+    "Alejandro Lerner songs",
+    "Alejandro Lerner MasterChef Celebrity",
+    "Alejandro Lerner Todo a pulmón",
+    "Alejandro Lerner Juntos para siempre",
+    "Alejandro Lerner Hoy es adiós Santana",
+    "Where is Alejandro Lerner from"
+  ],
+  "gapNote": "Two songs the brief named, \"Un siglo sin ti\" and \"Las hojas muertas\", did not appear in any source opened, so they are left out. The 27 October 2026 elimination (fourth out, lemon pie) could not be confirmed: Telefe's page names him in the cast and a headline mentions a farewell, but no dated source was found. Perfil reports he stayed in competition at the 6 October gala. The page covers his MasterChef run only as far as the sources go."
+}

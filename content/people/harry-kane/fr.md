@@ -3,22 +3,23 @@ title: Harry Kane
 slug: harry-kane
 metaTitle: 'Harry Kane : Ballon d''Or 2026, Bayern et records anglais'
 metaDescription: >-
-  Harry Kane était le favori des bookmakers avant la cérémonie du Ballon d'Or
-  2026. Ses records avec le Bayern et l'Angleterre, et ce qui reste non
-  confirmé.
+  Harry Kane a remporté le Ballon d'Or 2026 à Londres, premier Anglais à y
+  parvenir depuis environ 25 ans. Ses records avec le Bayern et l'Angleterre.
 knownFor: >-
   Capitaine de l'Angleterre et attaquant du Bayern Munich, meilleur buteur de la
   sélection anglaise
 summary: >-
-  Harry Kane était le favori des bookmakers à l'approche de la cérémonie du
-  Ballon d'Or, organisée le 26 octobre 2026 à Londres. Il est le meilleur buteur
-  de l'histoire de l'Angleterre et a été le meilleur buteur de la Bundesliga en
-  2025-26 avec 36 buts. Les sources consultées ne confirment ni le nom du
-  lauréat ni une prolongation signée avec le Bayern, si bien que cette page ne
-  communique ni l'un ni l'autre.
+  Harry Kane a remporté le Ballon d'Or 2026 lundi 26 octobre à Londres, premier
+  Anglais récompensé depuis environ 25 ans. Il est rentré à Munich, où le Bayern
+  devait affronter Magdebourg en Coupe d'Allemagne le mercredi 28 octobre, puis
+  le Borussia Dortmund en Bundesliga le samedi 31. Sky Sports indique qu'il a
+  conclu un accord de principe avec le Bayern jusqu'en 2029, les documents étant
+  en cours de finalisation, mais aucune prolongation signée n'a été annoncée. Il
+  est aussi le meilleur buteur de l'histoire de l'équipe d'Angleterre.
 status: published
 risk: low
 reviewedAt: '2026-10-27'
+updatedAt: '2026-10-29'
 reviewBy: '2027-04-27'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -32,12 +33,13 @@ targetQueries:
   - Harry Kane record Tottenham
   - Harry Kane triplés Angleterre
   - Harry Kane buts Coupe du monde
+  - Harry Kane âge
 faq:
   - q: Qui a remporté le Ballon d'Or 2026 ?
     a: >-
-      Harry Kane était le favori des bookmakers avant la cérémonie du 26 octobre
-      2026 à Londres. Aucune des sources utilisées pour cette page ne donne le
-      résultat, donc aucun lauréat n'est nommé ici.
+      Harry Kane. La cérémonie s'est tenue le lundi 26 octobre 2026 au London
+      Palladium, et il est le premier Anglais à remporter le prix depuis environ
+      25 ans. Il a devancé Kylian Mbappé et Lamine Yamal.
   - q: Combien de buts Harry Kane a-t-il marqués avec l'Angleterre ?
     a: >-
       Selon la Fédération anglaise, il en comptait 66 avant sa centième
@@ -45,18 +47,30 @@ faq:
       profil 2026 de la fédération lui attribue 14 buts en Coupe du monde.
   - q: Harry Kane est-il sous contrat avec le Bayern Munich ?
     a: >-
-      Il a signé un contrat de quatre ans en août 2023. En août 2026, il a
-      confirmé des discussions sur une prolongation, et les sources utilisées ne
-      signalent pas de nouvel accord signé.
+      Il a signé un contrat de quatre ans en août 2023. Le 16 octobre 2026, Sky
+      Sports a annoncé un accord de principe jusqu'à l'été 2029, les documents
+      étant en cours de finalisation. Les sources consultées ne mentionnent pas de
+      prolongation signée.
   - q: Combien de buts Harry Kane a-t-il inscrits en Bundesliga en 2025-26 ?
     a: >-
       36. La Bundesliga a indiqué qu'il a remporté le titre de meilleur buteur
       pour une troisième saison consécutive, une première pour un joueur lors de
       ses trois premières saisons dans le championnat.
+  - q: Quel âge a Harry Kane ?
+    a: >-
+      Il est né le 28 juillet 1993 et a donc 33 ans.
 autoReviews: 1
 publishedAt: '2026-10-27'
 ---
-Harry Kane arrivait en favori des bookmakers à la cérémonie du Ballon d'Or du 26 octobre 2026, à Londres [s:sky-ballon-dor-favourite-2026]. La Fédération anglaise indique qu'il s'agit de la première cérémonie organisée hors de Paris [s:fa-ballon-dor-nominees-2026]. Aucune source utilisée pour cette page ne donne le résultat, donc aucun vainqueur n'est cité. Voici le parcours qui l'a placé parmi les candidats, sa situation au Bayern et les points qui restent à confirmer.
+Harry Kane est arrivé en favori des bookmakers à la cérémonie du Ballon d'Or du 26 octobre 2026, à Londres [s:sky-ballon-dor-favourite-2026]. Il l'a remporté, lors d'une cérémonie tenue au London Palladium [s:uefa-ballon-dor-ceremony-2026] [s:sky-kane-ballon-dor-win-2026]. La Fédération anglaise indique qu'il s'agit de la première cérémonie organisée hors de Paris [s:fa-ballon-dor-nominees-2026]. Voici le parcours qui l'a placé parmi les candidats, sa situation au Bayern et les points qui restent à confirmer.
+
+## Octobre 2026
+
+Kane a battu Kylian Mbappé et Lamine Yamal pour le prix, et la cérémonie de Londres a commencé avec 45 minutes de retard à cause du trafic [s:sky-kane-ballon-dor-win-2026]. Le Bayern a publié sur son compte en anglais que l'Allianz Arena brillerait en or pour le vainqueur [s:khelnow-kane-munich-welcome-2026].
+
+Selon l'entraîneur adjoint Aaron Danks, Kane rentrait de Londres vers Munich et devait rejoindre l'entraînement mardi. Il a évoqué « l'immense joie que Harry a vécue hier » [s:fox-kane-munich-return-2026].
+
+Le match de Coupe d'Allemagne contre le 1. FC Magdebourg était prévu le mercredi 28 octobre à l'Allianz Arena, et Danks a indiqué que Kane serait disponible [s:fox-kane-munich-return-2026] [s:khelnow-kane-munich-welcome-2026]. Les sources utilisées ici ne rapportent pas le résultat. La rencontre de Bundesliga contre le Borussia Dortmund a lieu le samedi 31 octobre [s:khelnow-kane-munich-welcome-2026].
 
 ## Un troisième titre de meilleur buteur à Munich
 
@@ -90,12 +104,12 @@ Il a signé cinq triplés avec l'Angleterre, contre le Panama, la Bulgarie, le M
 
 ## Les négociations avec le Bayern
 
-Le contrat de Kane arrive à échéance à la fin de la saison en cours, et les discussions visent à le garder au club au-delà de 2027 [s:nst-bayern-extension-talks-2026].
+Sky Sports a indiqué le 16 octobre 2026 que Kane avait conclu un accord de principe avec le Bayern jusqu'à l'été 2029, et que le club finalisait les documents de la prolongation [s:sky-kane-bayern-deal-2029]. Il restait, selon le même article, quelques points à régler avant la confirmation [s:sky-kane-bayern-deal-2029].
 
-Le 29 août 2026, il a confirmé que les négociations avaient commencé. « La première réunion a eu lieu la semaine dernière », a-t-il déclaré, ajoutant qu'« il n'y a pas de panique de part ni d'autre » [s:nst-bayern-extension-talks-2026]. Il a aussi dit : « Je suis sûr que nous arriverons à un point où les deux parties seront satisfaites » [s:nst-bayern-extension-talks-2026].
+Le 29 août 2026, il a confirmé que les négociations avaient commencé. « La première réunion a eu lieu la semaine dernière », a-t-il déclaré, ajoutant qu'« il n'y a pas de panique de part ni d'autre » [s:nst-bayern-extension-talks-2026]. Il a aussi dit : « Je suis sûr que nous arriverons à un point où les deux parties seront satisfaites » [s:nst-bayern-extension-talks-2026]. Le même jour, Jan-Christian Dreesen a déclaré : « La chimie est parfaite » [s:bundesliga-kane-talks-de-2026].
 
-Les sources utilisées confirment des discussions, pas un contrat signé. La plus récente date du 29 août 2026 et ne mentionne aucun accord [s:nst-bayern-extension-talks-2026].
+Les sources utilisées parlent d'un accord de principe, pas d'un contrat signé. Aucun communiqué officiel du Bayern annonçant une prolongation signée n'a été trouvé.
 
 ## Ce que cette page ne confirme pas
 
-Le résultat du Ballon d'Or 2026 ne figure dans aucune des sources consultées pour cette page, donc elle ne dit pas qui a gagné. La date et le lieu de naissance de Kane sont également absents, faute de source consultée les indiquant. Le site officiel du Bayern ne s'est pas chargé pendant les recherches, de sorte que les données sur le club viennent de la Fédération anglaise, de la Bundesliga, de Tottenham et de la presse.
+La prolongation avec le Bayern reste un accord de principe : aucune source consultée ne mentionne un contrat signé. Aucun résultat n'a été trouvé pour le match de Coupe d'Allemagne contre Magdebourg du 28 octobre. Le site officiel du Bayern ne s'est pas chargé pendant les recherches, de sorte que les données sur le club viennent de la Fédération anglaise, de la Bundesliga, de Tottenham, de Sky Sports, de NST, de TNT et de la presse.

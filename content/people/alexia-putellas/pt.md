@@ -4,15 +4,15 @@ slug: alexia-putellas
 metaTitle: 'Alexia Putellas: idade, saída do Barça e contratação'
 metaDescription: >-
   Alexia Putellas deixou o FC Barcelona após 14 temporadas e assinou com o
-  London City Lionesses em julho de 2026. Data de nascimento, duas Bolas de Ouro
+  London City Lionesses em julho de 2026. Data de nascimento, três Bolas de Ouro
   e recordes.
-knownFor: Meio-atacante espanhola e duas vezes Bola de Ouro
+knownFor: Meio-atacante espanhola e três vezes vencedora da Bola de Ouro
 summary: >-
-  Alexia Putellas é a meio-atacante espanhola que venceu a Bola de Ouro em 2021
-  e 2022 e passou 14 temporadas no FC Barcelona. O clube anunciou a saída dela
-  em maio de 2026, e em julho ela assinou com o London City Lionesses, da
-  Women's Super League. A passagem pelo Barça inclui 507 jogos e quatro Ligas
-  dos Campeões.
+  Alexia Putellas venceu a Bola de Ouro feminina na segunda-feira, 26 de outubro
+  de 2026, em Londres, o terceiro prêmio dela, e assim iguala o recorde de
+  Aitana Bonmatí, com três. Ela joga pelo London City Lionesses desde julho, depois
+  de deixar o FC Barcelona em maio de 2026, após 14 temporadas. As primeiras
+  duas Bolas de Ouro vieram em 2021 e 2022.
 status: published
 risk: low
 reviewedAt: '2026-10-27'
@@ -24,6 +24,8 @@ targetQueries:
   - Alexia Putellas London City Lionesses
   - Alexia Putellas saiu do Barcelona
   - Alexia Putellas Bola de Ouro
+  - Alexia Putellas Bola de Ouro 2026
+  - Alexia Putellas jogos Barcelona
   - Alexia Putellas seleção espanhola
   - Alexia Putellas salário
   - Alexia Putellas contrato
@@ -40,8 +42,13 @@ faq:
       junho [s:ap-london-city-signing-2026].
   - q: Quantas Bolas de Ouro Alexia Putellas tem?
     a: >-
-      Duas, em 2021 e 2022. O prêmio de 2022 a tornou a primeira jogadora a
-      vencer a Bola de Ouro duas vezes [s:fcb-ballon-dor-2022].
+      Três. Ela venceu em 2021 e 2022 [s:fcb-ballon-dor-2022], e em 2026 foi
+      premiada em Londres na segunda-feira, 26 de outubro
+      [s:reuters-ballon-dor-2026] [s:uefa-ballon-dor-2026-ceremony].
+  - q: Quantos jogos Alexia Putellas fez pelo Barcelona?
+    a: >-
+      Segundo a AP, foram 507 jogos em 14 temporadas, com 232 gols, recorde do
+      clube [s:ap-barcelona-departure-2026].
   - q: Qual é o salário de Alexia Putellas no London City Lionesses?
     a: >-
       Os textos consultados não informam o salário nem a duração do contrato,
@@ -49,8 +56,17 @@ faq:
       [s:aljazeera-london-city-signing-2026].
 autoReviews: 3
 publishedAt: '2026-10-27'
+updatedAt: '2026-10-29'
 ---
 Alexia Putellas deixou o FC Barcelona em maio de 2026, depois de 14 temporadas, e em julho assinou com o London City Lionesses, da Women's Super League [s:ap-barcelona-departure-2026] [s:ap-london-city-signing-2026]. Os anos no Barça são o centro da sua história. Eles renderam duas Bolas de Ouro e uma despedida no Camp Nou em que mais de 91 mil pessoas cantaram o seu nome [s:fcb-farewell-2026].
+
+## Outubro de 2026
+
+Alexia Putellas venceu a Bola de Ouro feminina na segunda-feira, 26 de outubro de 2026, no London Palladium, em Londres. É o terceiro prêmio dela [s:reuters-ballon-dor-2026] [s:uefa-ballon-dor-2026-ceremony]. A Reuters informou que ela recebeu o troféu na segunda-feira [s:reuters-ballon-dor-2026]. A Sky Sports chamou o feito de terceiro prêmio feminino, que iguala um recorde e foi conquistado enquanto ela joga no London City Lionesses [s:sky-ballon-dor-2026-news]. O recorde que ela iguala é o de Aitana Bonmatí, com três prêmios, segundo a 101 Great Goals [s:101greatgoals-ballon-dor-2026]. Os dois primeiros vieram em 2021 e 2022 [s:fcb-ballon-dor-2022].
+
+Antes da cerimônia, a UEFA listou 30 indicadas e observou que Putellas era a única ex-vencedora na lista final [s:uefa-ballon-dor-2026-ceremony]. O Flashscore lembrou que ela tinha deixado o Barça havia pouco tempo para entrar no London City Lionesses [s:flashscore-ballon-dor-2026]. Desde a chegada em julho, ela marcou três gols e deu uma assistência em sete jogos da WSL, segundo a Sky [s:sky-ballon-dor-2026-news].
+
+Os textos divergem sobre a temporada 2025-26 do Barcelona. A Reuters fala em triplete, enquanto a Sky Sports diz que Putellas foi capitã de um quadruplete, incluindo a Liga dos Campeões [s:reuters-ballon-dor-2026] [s:sky-ballon-dor-2026-news]. Como as fontes não batem, esta página não informa o número.
 
 ## Nascida em Mollet del Vallès
 

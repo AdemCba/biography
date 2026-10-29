@@ -1,0 +1,142 @@
+{
+  "id": "carney-chukwuemeka",
+  "name": "Carney Chukwuemeka",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 4,
+  "wikidata": "Q106915801",
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "2003-10-20",
+      "sources": [
+        "bvb-player-profile",
+        "fotmob-player"
+      ],
+      "note": "BVB profile lists 20.10.03; FotMob agrees."
+    },
+    "nationality": {
+      "value": [
+        "AT",
+        "GB"
+      ],
+      "sources": [
+        "bvb-player-profile",
+        "fotmob-player"
+      ],
+      "note": "BVB profile nationality field says England and its career text says triple citizen (Austria, UK, Nigeria). FotMob lists Austria. Birthplace is disputed (BVB: Eisenstadt; vol.at: Vienna), so it is left out."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "bvb-player-profile",
+      "url": "https://www.bvb.de/de/en/teams/football/player/carney-chukwuemeka.html",
+      "title": "Carney Chukwuemeka player profile",
+      "publisher": "Borussia Dortmund",
+      "type": "official",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "bvb-long-term-deal",
+      "url": "https://www.bvb.de/de/en/news/news-overview/news.html/2025/8/26/Chukwuemeka-signs-long-term-deal.html",
+      "title": "Chukwuemeka signs long-term deal",
+      "publisher": "Borussia Dortmund",
+      "type": "official",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "vol-fifa-change-of-association",
+      "url": "https://www.vol.at/fifa-decision-wanner-and-chukwuemeka-allowed-to-play-for-oefb/10038329",
+      "title": "FIFA decision: Wanner and Chukwuemeka allowed to play for ÖFB",
+      "publisher": "vol.at",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "tt-ireland-austria-2026",
+      "url": "https://www.tt.com/artikel/30943591/ein-punkt-der-moral-oesterreich-holt-nach-0-2-rueckstand-in-irland-noch-ein-2-2",
+      "title": "Ein Punkt der Moral: Österreich holt nach 0:2-Rückstand in Irland noch ein 2:2",
+      "publisher": "Tiroler Tageszeitung",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "de"
+    },
+    {
+      "id": "fotmob-player",
+      "url": "https://www.fotmob.com/de/players/1089685/carney-chukwuemeka",
+      "title": "Carney Chukwuemeka, player stats",
+      "publisher": "FotMob",
+      "type": "database",
+      "accessed": "2026-10-29",
+      "lang": "de"
+    },
+    {
+      "id": "vol-austria-choice-2026",
+      "url": "https://www.vol.at/football-dortmunds-chukwuemeka-to-wear-the-oefb-jersey-in-the-future/9982481",
+      "title": "Football: Dortmund's Chukwuemeka to wear the ÖFB jersey in the future",
+      "publisher": "vol.at",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "bundesliga-austria-debut",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/carney-chukwuemeka-austria-debut-goal-allegiance-england-36659",
+      "title": "Carney Chukwuemeka Austria debut goal, allegiance and England",
+      "publisher": "Bundesliga",
+      "type": "league-or-federation",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "beinsports-austria-ghana",
+      "url": "https://pp.beinsports.com/en-au/football/friendlies/articles/austria-5-1-ghana-rangnicks-men-continue-world-cup-preparations-with-thumping-win-2026-03-27",
+      "title": "Austria 5-1 Ghana: Rangnick's men continue World Cup preparations with thumping win",
+      "publisher": "beIN Sports",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "beinsports-frankfurt",
+      "url": "https://www.beinsports.com/en-us/soccer/bundesliga/articles/eintracht-frankfurt-3-3-borussia-dortmund-chukwuemeka-has-final-say-in-six-goal-thriller-2026-01-09",
+      "title": "Eintracht Frankfurt 3-3 Borussia Dortmund: Chukwuemeka has final say in six-goal thriller",
+      "publisher": "beIN Sports",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "blick-freiburg-2025",
+      "url": "https://www.blick.ch/sport/fussball/international/bundesliga/freiburg-dortmund-1-4-chukwuemeka-veredelt-tollen-bvb-konter-mit-debuet-treffer-id20757006.html",
+      "title": "Freiburg - Dortmund 1:4: Chukwuemeka veredelt tollen BVB-Konter mit Debüt-Treffer",
+      "publisher": "Blick",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "de"
+    },
+    {
+      "id": "bundesliga-hamburg-kovac",
+      "url": "https://www.bundesliga.com/de/bundesliga/news/borussia-dortmund-carney-chukwuemeka-tor-startelf-kovac-34758",
+      "title": "Borussia Dortmund: Carney Chukwuemeka, Tor, Startelf, Kovac",
+      "publisher": "Bundesliga",
+      "type": "league-or-federation",
+      "accessed": "2026-10-29",
+      "lang": "de"
+    },
+    {
+      "id": "sporting-heroes",
+      "url": "https://www.sporting-heroes.net/football/chelsea-fc/carney-chukwuemeka-16589/premier-league-appearances_a43607",
+      "title": "Carney Chukwuemeka Premier League appearances",
+      "publisher": "Sporting Heroes",
+      "type": "database",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    }
+  ]
+}

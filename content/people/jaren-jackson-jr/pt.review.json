@@ -1,0 +1,298 @@
+{
+  "date": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Nasceu em 15 de setembro de 1999 em Plainfield, Nova Jersey",
+      "sourceIds": [
+        "nba-jjj-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA bio: 'September 15, 1999' and 'Born Sept. 15, 1999 in Plainfield, N.J.'"
+    },
+    {
+      "claim": "Altura 2,08 m (6 pés e 10 polegadas), 110 kg (242 libras)",
+      "sourceIds": [
+        "nba-jjj-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA bio: 6'10\" (2.08m), 242lb (110kg)."
+    },
+    {
+      "claim": "Jogou na Michigan State",
+      "sourceIds": [
+        "nba-jjj-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA bio: College Michigan State."
+    },
+    {
+      "claim": "Escolhido em quarto lugar no draft de 2018, em 21 de junho",
+      "sourceIds": [
+        "nba-jjj-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA bio: fourth overall, 2018 NBA Draft, June 21, 2018."
+    },
+    {
+      "claim": "Time de calouros de 2018-19",
+      "sourceIds": [
+        "bbref-jjj"
+      ],
+      "verdict": "confirmed",
+      "note": "Basketball Reference: 2018-19 All-Rookie."
+    },
+    {
+      "claim": "Kia Jogador Defensivo do Ano 2022-23",
+      "sourceIds": [
+        "nba-jjj-dpoy-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA news: Kia NBA Defensive Player of the Year 2022-23."
+    },
+    {
+      "claim": "56 votos de primeiro lugar e 391 pontos, à frente de Brook Lopez (Milwaukee)",
+      "sourceIds": [
+        "nba-jjj-dpoy-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "56 first-place votes; 391 points; Brook Lopez of the Milwaukee Bucks with 309."
+    },
+    {
+      "claim": "Liderou a liga com 3,0 tocos por jogo em 2022-23",
+      "sourceIds": [
+        "nba-jjj-dpoy-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "'led the league with 3.0 blocks per game this season'."
+    },
+    {
+      "claim": "Dois títulos de tocos e três seleções para o time defensivo ideal na carreira",
+      "sourceIds": [
+        "bbref-jjj"
+      ],
+      "verdict": "confirmed",
+      "note": "Basketball Reference: 2x BLK Champ, 3x All-Defensive."
+    },
+    {
+      "claim": "Reserva no All-Star de 2023 e no 74.º All-Star Game de 2025, sua segunda seleção",
+      "sourceIds": [
+        "actionnews5-jjj-all-star-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Action News 5: reserve for the 74th All-Star Game; second career selection; also 2023."
+    },
+    {
+      "claim": "Duas vezes All-Star",
+      "sourceIds": [
+        "nba-trade-jazz-2026",
+        "bbref-jjj"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA trade article: 'a two-time All-Star'; Basketball Reference: 2x All Star."
+    },
+    {
+      "claim": "Posição ala-pivô e camisa 20 no Jazz",
+      "sourceIds": [
+        "nba-jjj-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA bio: Forward-Center, #20, Utah Jazz."
+    },
+    {
+      "claim": "Oito temporadas no Grizzlies",
+      "sourceIds": [
+        "westhawaiitoday-jjj-trade-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'Over eight seasons with the Grizzlies'."
+    },
+    {
+      "claim": "Médias de 18,5 pontos e 5,6 rebotes em Memphis",
+      "sourceIds": [
+        "westhawaiitoday-jjj-trade-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'averaged 18.5 points, 5.6 rebounds and 1.5 blocks'."
+    },
+    {
+      "claim": "Linha de carreira de 18,5 pontos, 5,6 rebotes e 1,9 toco em nove temporadas",
+      "sourceIds": [
+        "bbref-jjj"
+      ],
+      "verdict": "confirmed",
+      "note": "Basketball Reference career: 18.5 PTS, 5.6 TRB, 1.9 BLK; 9 seasons."
+    },
+    {
+      "claim": "O Grizzlies informou a lesão no pé direito na entressafra e a cirurgia de turf toe",
+      "sourceIds": [
+        "nba-turf-toe-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Right-foot turf toe injury from offseason basketball activities; surgery complete. No month stated, so none is claimed."
+    },
+    {
+      "claim": "Cirurgia concluída; reavaliação em cerca de 12 semanas; recuperação completa esperada",
+      "sourceIds": [
+        "nba-turf-toe-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "'surgery was complete'; 'will be re-evaluated in about 12 weeks'; 'expected to recover fully'."
+    },
+    {
+      "claim": "Troca de Memphis para o Utah no início de fevereiro de 2026, com escolhas de draft",
+      "sourceIds": [
+        "westhawaiitoday-jjj-trade-2026",
+        "nba-trade-jazz-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Multi-player trade with draft picks going to Memphis, Feb 2026."
+    },
+    {
+      "claim": "A ESPN foi a primeira a noticiar, na terça-feira, 3 de fevereiro",
+      "sourceIds": [
+        "standard-jjj-trade-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'ESPN was first to report'; article dated Feb 3, 2026, report on Tuesday (3 Feb 2026 is a Tuesday)."
+    },
+    {
+      "claim": "As equipes anunciaram a troca naquela noite",
+      "sourceIds": [
+        "nba-trade-jazz-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'the teams announced the deal that Tuesday evening'."
+    },
+    {
+      "claim": "Konchar, Landale e Williams Jr. foram para o Utah; o Utah mandou quatro jogadores ao Memphis",
+      "sourceIds": [
+        "nba-trade-jazz-2026",
+        "standard-jjj-trade-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Utah received Jackson, Konchar, Landale, Williams Jr.; sent Clayton Jr., Anderson, Hendricks, Niang."
+    },
+    {
+      "claim": "Contrato até a temporada 2029-30, com opção de jogador",
+      "sourceIds": [
+        "nba-trade-jazz-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'Under contract through the 2029-30 season, with a player option'."
+    },
+    {
+      "claim": "Restavam três anos e 151 milhões de dólares em contrato de cinco anos",
+      "sourceIds": [
+        "standard-jjj-trade-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'three years and $151 million' left on five-year deal."
+    },
+    {
+      "claim": "2025-26: 45 jogos pelo Memphis, 3 pelo Utah; 19,4 pontos, 5,7 rebotes, 2,0 assistências",
+      "sourceIds": [
+        "bbref-jjj"
+      ],
+      "verdict": "confirmed",
+      "note": "Basketball Reference 2025-26: 48 games total, 45 Memphis, 3 Utah; 19.4 PTS, 5.7 TRB, 2.0 AST."
+    },
+    {
+      "claim": "Crescimento no joelho esquerdo após o exame; cirurgia marcada para o intervalo do All-Star",
+      "sourceIds": [
+        "wsls-jjj-knee-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "WSLS: growth in left knee; surgery 'during the NBA All-Star break'."
+    },
+    {
+      "claim": "2026-27: quatro partidas pelo Utah; 16,3 pontos, 5,0 rebotes, 2,0 assistências",
+      "sourceIds": [
+        "bbref-jjj"
+      ],
+      "verdict": "confirmed",
+      "note": "Basketball Reference 2026-27: 4 games, 16.3 PTS, 5.0 TRB, 2.0 AST."
+    },
+    {
+      "claim": "Saiu cedo do jogo no segundo quarto da segunda-feira e não voltou",
+      "sourceIds": [
+        "thescore-jjj-mcl-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "theScore: 'exited early in the second quarter ... and didn't return'."
+    },
+    {
+      "claim": "Ruptura confirmada do LCM do joelho direito; reavaliação em seis semanas; sem cirurgia",
+      "sourceIds": [
+        "hoopsrumors-jjj-mcl-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Team: 'torn MCL ... will be reevaluated in six weeks'; 'won't require surgery'."
+    },
+    {
+      "claim": "Registro do Basketball Reference atualizado em 27 de outubro de 2026: fora por pelo menos seis a oito semanas",
+      "sourceIds": [
+        "bbref-jjj"
+      ],
+      "verdict": "confirmed",
+      "note": "Injury log 'Updated Oct.27, 2026'; Out (Knee); at least 6-8 weeks."
+    },
+    {
+      "claim": "Shams Charania (ESPN) informou o mesmo afastamento de seis a oito semanas",
+      "sourceIds": [
+        "hoopsrumors-jjj-mcl-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Hoops Rumors: Shams Charania and Tim MacMahon of ESPN, 'approximately six-to-eight weeks'."
+    },
+    {
+      "claim": "O título da Yahoo Sports sobre a notícia falava em 6 a 8 semanas",
+      "sourceIds": [
+        "yahoo-jjj-mcl-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Headline: 'Jaren Jackson Jr. diagnosed with torn MCL, will miss 6-8 weeks'."
+    },
+    {
+      "claim": "Derrota dos Jazz para o Memphis na segunda-feira, 26 de outubro de 2026 (metaDescription, summary, FAQ)",
+      "sourceIds": [
+        "hoopsrumors-jjj-mcl-2026",
+        "thescore-jjj-mcl-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sources say Monday; article dated 27 October makes it 26 October."
+    },
+    {
+      "claim": "Completou 27 anos em setembro de 2026 (FAQ)",
+      "sourceIds": [
+        "nba-jjj-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Born 15 Sep 1999; arithmetic only."
+    },
+    {
+      "claim": "Fora por seis a oito semanas (FAQ, registro de lesões)",
+      "sourceIds": [
+        "bbref-jjj"
+      ],
+      "verdict": "confirmed",
+      "note": "Basketball Reference: 'to miss at least 6-8 weeks'."
+    },
+    {
+      "claim": "Reserva nos All-Star de 2023 e 2025 (FAQ)",
+      "sourceIds": [
+        "actionnews5-jjj-all-star-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Action News 5 confirms 2025 and the 2023 reserve selection."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds the post-trade knee growth and surgery timing, the trade details, and the reevaluation timeline, written for Brazilian readers.",
+  "decision": "approve",
+  "summary": "Round 2: the AP claim is now the Yahoo headline (6-8 weeks). The unsupported month, 2017-18 season and 2025-26 blocks figure were removed. All remaining claims are confirmed against the fetched sources."
+}

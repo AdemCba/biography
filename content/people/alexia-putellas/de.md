@@ -3,13 +3,14 @@ title: Alexia Putellas
 slug: alexia-putellas
 metaTitle: 'Alexia Putellas: Alter ({age}), Wechsel und neuer Verein'
 metaDescription: "Alexia Putellas ist {age} Jahre alt (geboren am 4. Februar 1994). Nach 14 Spielzeiten beim FC Barcelona wechselte sie im Juli 2026 zu London City Lionesses."
-knownFor: Spanische Mittelfeldspielerin und zweifache Ballon-d'Or-Siegerin
+knownFor: Spanische Mittelfeldspielerin und dreifache Ballon-d'Or-Siegerin
 summary: >-
-  Alexia Putellas ist die spanische Mittelfeldspielerin, die 2021 und 2022 den
-  Ballon d'Or gewann und 14 Spielzeiten beim FC Barcelona verbrachte. Der Klub
-  gab ihren Weggang im Mai 2026 bekannt, und im Juli wechselte sie zum London
-  City Lionesses aus der Women's Super League. Ihre Zeit beim Barça umfasst 507
-  Spiele und vier Champions-League-Titel.
+  Alexia Putellas hat den Ballon d'Or der Frauen am Montag, dem 26. Oktober 2026,
+  in London zum dritten Mal gewonnen und damit den Rekord von Aitana Bonmatí
+  eingestellt. Seit Juli spielt sie für den London City Lionesses aus der
+  Women's Super League, nachdem sie den FC Barcelona im Mai 2026 nach 14
+  Spielzeiten verlassen hatte. Ihre ersten beiden Auszeichnungen kamen 2021 und
+  2022.
 status: published
 risk: low
 reviewedAt: '2026-10-27'
@@ -21,6 +22,8 @@ targetQueries:
   - Alexia Putellas London City Lionesses
   - Alexia Putellas verlässt Barcelona
   - Alexia Putellas Ballon d'Or
+  - Alexia Putellas Ballon d'Or 2026
+  - Alexia Putellas Spiele Barcelona
   - Alexia Putellas Nationalmannschaft
   - Alexia Putellas Gehalt
   - Alexia Putellas Vertrag
@@ -37,8 +40,13 @@ faq:
       war [s:ap-london-city-signing-2026].
   - q: Wie viele Ballon d'Or hat Alexia Putellas gewonnen?
     a: >-
-      Zwei, 2021 und 2022. Der Sieg 2022 machte sie zur ersten Spielerin, die
-      den Ballon d'Or zweimal gewann [s:fcb-ballon-dor-2022].
+      Drei. Sie gewann 2021 und 2022 [s:fcb-ballon-dor-2022] und zuletzt am
+      Montag, dem 26. Oktober 2026, in London [s:reuters-ballon-dor-2026]
+      [s:uefa-ballon-dor-2026-ceremony].
+  - q: Wie viele Spiele hat Alexia Putellas für den FC Barcelona gemacht?
+    a: >-
+      Laut AP waren es 507 Spiele in 14 Spielzeiten, dazu 232 Tore, ein
+      Vereinsrekord [s:ap-barcelona-departure-2026].
   - q: Wie hoch ist das Gehalt von Alexia Putellas bei London City Lionesses?
     a: >-
       Die Berichte, auf die sich diese Seite stützt, nennen weder Gehalt noch
@@ -46,8 +54,17 @@ faq:
       [s:aljazeera-london-city-signing-2026].
 autoReviews: 3
 publishedAt: '2026-10-27'
+updatedAt: '2026-10-29'
 ---
 Alexia Putellas hat den FC Barcelona im Mai 2026 nach 14 Spielzeiten verlassen und sich im Juli dem London City Lionesses aus der Women's Super League angeschlossen [s:ap-barcelona-departure-2026] [s:ap-london-city-signing-2026]. Die Jahre in Barcelona prägen ihre Geschichte. Sie brachten zwei Ballon-d'Or-Auszeichnungen und einen Abschied im Camp Nou, bei dem mehr als 91.000 Menschen ihren Namen riefen [s:fcb-farewell-2026].
+
+## Oktober 2026
+
+Alexia Putellas hat den Ballon d'Or der Frauen am Montag, dem 26. Oktober 2026, im London Palladium gewonnen, ihre dritte Auszeichnung [s:reuters-ballon-dor-2026] [s:uefa-ballon-dor-2026-ceremony]. Reuters berichtete, dass ihr die Auszeichnung am Montag überreicht wurde [s:reuters-ballon-dor-2026]. Sky Sports nannte es die dritte Frauen-Auszeichnung, mit der sie einen Rekord einstellt, und zwar als Spielerin der London City Lionesses [s:sky-ballon-dor-2026-news]. Den Rekord teilt sie mit Aitana Bonmatí, die drei Auszeichnungen gewann, wie 101 Great Goals schreibt [s:101greatgoals-ballon-dor-2026]. Ihre ersten beiden kamen 2021 und 2022 [s:fcb-ballon-dor-2022].
+
+Vor der Gala nannte die UEFA 30 nominierte Spielerinnen und hielt fest, dass Putellas die einzige frühere Gewinnerin auf der Shortlist war [s:uefa-ballon-dor-2026-ceremony]. Flashscore beschrieb die Auszeichnung als ihren dritten Triumph und merkte an, dass sie den FC Barcelona kürzlich verlassen hatte, um zum London City Lionesses zu wechseln [s:flashscore-ballon-dor-2026]. Seit ihrem Wechsel im Juli hat sie in sieben WSL-Spielen drei Tore erzielt und eine Vorlage gegeben, laut Sky [s:sky-ballon-dor-2026-news].
+
+Die Quellen widersprechen sich bei der Saison 2025/26 des Barça. Reuters spricht von einem Triple, Sky Sports davon, dass Putellas den Klub zu einem Quadruple mit der Champions League geführt hat [s:reuters-ballon-dor-2026] [s:sky-ballon-dor-2026-news]. Diese Seite nennt deshalb keine Zahl.
 
 ## Geboren in Mollet del Vallès
 

@@ -1,0 +1,173 @@
+{
+  "id": "scarlett-camberos",
+  "name": "Scarlett Camberos",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 3,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "2000-11-20",
+      "sources": [
+        "aztecajalisco-profile-2026"
+      ],
+      "note": "Only source found. Azteca Jalisco gives 20 November 2000. Fox Sports (26 Oct 2026) gives her age as 25, which fits. No club, league or FIFA profile was reachable to confirm it."
+    },
+    "birthPlace": {
+      "value": "San Diego, California, United States",
+      "sources": [
+        "angel-city-profile"
+      ],
+      "note": "Angel City calls her a San Diego native. Azteca Jalisco says Los Angeles, California; not used."
+    },
+    "nationality": {
+      "value": [
+        "MX"
+      ],
+      "sources": [
+        "angel-city-profile",
+        "foxsports-ballon-21"
+      ],
+      "note": "Angel City says she is Mexican-American and identifies more as Mexican. Fox Sports presents her as Mexican. She received her first senior cap for Mexico in September 2022 (Angel City)."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "angel-city-profile",
+      "url": "https://angelcity.com/acfc-post/new-year-new-faces-scarlett-camberos",
+      "title": "New year, new faces: Scarlett Camberos",
+      "publisher": "Angel City FC",
+      "type": "official",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "concacaf-best-player-2026",
+      "url": "https://www.concacaf.com/competitions/w-champions-cup/news/camberos-kouassi-velasco-earn-2025-26-concacaf-w-champions-cup-honors",
+      "title": "Camberos, Kouassi, Velasco earn W Champions Cup honors",
+      "publisher": "CONCACAF",
+      "type": "league-or-federation",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "concacaf-final-2026",
+      "url": "https://www.concacaf.com/competitions/w-champions-cup/news/club-america-tops-washington-spirit-in-thrilling-w-champions-cup-final",
+      "title": "América tops Spirit in thrilling W Champions Cup Final",
+      "publisher": "CONCACAF",
+      "type": "league-or-federation",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "excelsior-clausura-2026-final",
+      "url": "https://www.excelsior.com.mx/deportes/liga-mx-femenil-clausura-2026-america-femenil-campeonas-por-tercera-vez",
+      "title": "Liga MX Femenil Clausura 2026: América Femenil, campeonas por tercera vez",
+      "publisher": "Excélsior",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "es"
+    },
+    {
+      "id": "excelsior-pumas-hat-trick-2026",
+      "url": "https://www.excelsior.com.mx/deportes/america-femenil-golea-pumas-5-1-con-hat-trick-scarlett-camberos-es-lider-clausura-2026",
+      "title": "América Femenil golea a Pumas 5-1 con hat-trick de Scarlett Camberos y es líder del Clausura 2026",
+      "publisher": "Excélsior",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "es"
+    },
+    {
+      "id": "foxsports-ballon-21",
+      "url": "https://www.foxsports.com.mx/2026/10/26/historica-scarlett-camberos-finaliza-en-el-puesto-21-del-balon-de-oro-tras-brillar-con-america/",
+      "title": "¡Histórica! Scarlett Camberos finaliza en el puesto 21 del Balón de Oro tras brillar con América",
+      "publisher": "Fox Sports México",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "es"
+    },
+    {
+      "id": "clarosports-ballon-21",
+      "url": "https://www.clarosports.com/futbol/balon-de-oro/historico-para-mexico-scarlett-camberos-termina-en-el-lugar-21-del-balon-de-oro-femenil-2026/",
+      "title": "Histórico para México: Scarlett Camberos termina en el lugar 21 del Balón de Oro Femenil 2026",
+      "publisher": "Claro Sports",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "es"
+    },
+    {
+      "id": "sopitas-ballon-21",
+      "url": "https://www.sopitas.com/?p=1961203",
+      "title": "Scarlett Camberos, posición 21 del Balón de Oro 2026",
+      "publisher": "Sopitas",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "es"
+    },
+    {
+      "id": "foxsports-goals-assists-2026",
+      "url": "https://www.foxsports.com.mx/2026/10/24/orgullo-mexicano-scarlett-camberos-de-las-nominadas-al-balon-de-oro-con-mas-goles-y-asistencias/",
+      "title": "¡Orgullo mexicano! Scarlett Camberos, de las nominadas al Balón de Oro con más goles y asistencias",
+      "publisher": "Fox Sports México",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "es"
+    },
+    {
+      "id": "aztecajalisco-profile-2026",
+      "url": "https://www.aztecajalisco.com/deportes/la-primer-mexicana-scarlett-camberos-hace-historia-y-es-nominada-al-balon-de-oro-femenil-2026/",
+      "title": "La primer mexicana Scarlett Camberos hace historia y es nominada al Balón de Oro Femenil 2026",
+      "publisher": "Azteca Jalisco",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "es"
+    },
+    {
+      "id": "publimetro-return-2024",
+      "url": "https://www.publimetro.com.mx/deportes/2024/07/15/scarlett-camberos-es-nueva-jugadora-del-america-femenil/",
+      "title": "Scarlett Camberos es nueva jugadora del América Femenil",
+      "publisher": "Publimetro",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "es"
+    },
+    {
+      "id": "foxsports-renewal-2026",
+      "url": "https://www.foxsports.com.mx/2026/01/21/las-aguilas-renuevan-a-cinco-jugadoras-america-femenil-confirma-continuidad-de-scarlett-camberos/",
+      "title": "Las Águilas renuevan a CINCO jugadoras: América Femenil confirma continuidad de Scarlett Camberos",
+      "publisher": "Fox Sports México",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "es"
+    },
+    {
+      "id": "concacaf-semifinal-2026",
+      "url": "https://www.concacaf.com/competitions/w-champions-cup/news/camberos-geyse-lead-club-america-into-w-champions-cup-final",
+      "title": "Camberos, Geyse lead Club América into the Final",
+      "publisher": "CONCACAF",
+      "type": "league-or-federation",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "foxsports-gala-2026",
+      "url": "https://www.foxsports.com.mx/2026/10/25/scarlett-camberos-y-angel-villacampa-viajan-a-la-gala-del-balon-de-oro-en-nombre-de-america-femenil/",
+      "title": "Scarlett Camberos y Ángel Villacampa viajan a la Gala del Balón de Oro en nombre de América Femenil",
+      "publisher": "Fox Sports México",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "es"
+    },
+    {
+      "id": "foxsports-agradecida-2026",
+      "url": "https://www.foxsports.com.mx/2026/10/26/agradecida-por-representar-al-america-y-mexico-scarlett-camberos-emotiva-en-el-balon-de-oro/",
+      "title": "Agradecida por representar al América y México; Scarlett Camberos, emotiva en el Balón de Oro",
+      "publisher": "Fox Sports México",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "es"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "alejandro-lerner",
+  "name": "Alejandro Lerner",
+  "categories": [
+    "artists"
+  ],
+  "importance": 3,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1957-06-08",
+      "sources": [
+        "buenamusica-bio-es"
+      ],
+      "note": "Buenamusica biography: born in Buenos Aires on 8 June 1957. No second source checked; rock.com.ar returned 403 and the official site has no biography text."
+    },
+    "birthPlace": {
+      "value": "Buenos Aires, Argentina",
+      "sources": [
+        "buenamusica-bio-es"
+      ],
+      "note": "Same biography entry."
+    },
+    "nationality": {
+      "value": [
+        "AR"
+      ],
+      "sources": [
+        "buenamusica-bio-es"
+      ],
+      "note": "Argentine, from the place of birth in the same biography. Press calls him an Argentine singer-songwriter."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "buenamusica-bio-es",
+      "url": "https://buenamusica.com/alejandro-lerner/biografia",
+      "title": "¿Quién es Alejandro Lerner?",
+      "publisher": "Buenamusica",
+      "type": "database",
+      "accessed": "2026-10-29",
+      "lang": "es"
+    },
+    {
+      "id": "alejandro-lerner-official",
+      "url": "https://www.alejandro-lerner.com",
+      "title": "Alejandro Lerner (official site)",
+      "publisher": "Alejandro Lerner",
+      "type": "official",
+      "accessed": "2026-10-29",
+      "lang": "es"
+    },
+    {
+      "id": "telefe-masterchef-celebrity-2026",
+      "url": "https://www.mitelefe.com/masterchef-celebrity",
+      "title": "MasterChef Celebrity (Telefe)",
+      "publisher": "Telefe",
+      "type": "official",
+      "accessed": "2026-10-29",
+      "lang": "es"
+    },
+    {
+      "id": "senal-masterchef-24-2026",
+      "url": "https://senalnews.com/es/tv/telefe-anuncio-el-regreso-de-masterchef-celebrity-con-24-participantes/amp",
+      "title": "Telefe anunció el regreso de MasterChef Celebrity con 24 participantes",
+      "publisher": "Señal News",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "es"
+    },
+    {
+      "id": "cronica-masterchef-lerner-2026",
+      "url": "https://www.cronica.com.ar/diarioshow/farandula/alejandro-lerner-se-incorpora-a-masterchef-celebrity-y-revelo-como-se-prepara-no-tengo-miedo/",
+      "title": "Alejandro Lerner se incorpora a MasterChef Celebrity y reveló cómo se prepara: \"No tengo miedo\"",
+      "publisher": "Crónica",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "es"
+    },
+    {
+      "id": "perfil-masterchef-lerner-2026",
+      "url": "https://noticias.perfil.com/noticias/personajes/el-extrano-accidente-de-maru-botana-en-masterchef.phtml",
+      "title": "El extraño accidente de Maru Botana en MasterChef",
+      "publisher": "Perfil (Noticias)",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "es"
+    },
+    {
+      "id": "lanacion-gran-rex-2001",
+      "url": "https://www.lanacion.com.ar/espectaculos/musica/alejandro-lerner-en-el-gran-rex-nid353741",
+      "title": "Alejandro Lerner, en el Gran Rex",
+      "publisher": "La Nación",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "es"
+    },
+    {
+      "id": "canal26-eliminado-2026-10-27",
+      "url": "https://www.canal26.com/espectaculos/2026/10/28/masterchef-celebrity-2026-quien-fue-eliminado-este-martes-27-de-octubre-del-reality-de-telefe/",
+      "title": "MasterChef Celebrity 2026: quién fue eliminado este martes 27 de octubre del reality de Telefe",
+      "publisher": "Canal 26",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "es"
+    },
+    {
+      "id": "exitoina-lerner-eliminado-2026",
+      "url": "https://exitoina.perfil.com/noticias/television/alejandro-lerner-fue-eliminado-masterchef-celebrity-tras-mano-mano-grego-rossello.phtml",
+      "title": "Alejandro Lerner fue eliminado de MasterChef Celebrity tras un mano a mano con Grego Rossello",
+      "publisher": "Exitoina (Perfil)",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "es"
+    },
+    {
+      "id": "telebajocero-lerner-despedida-2026",
+      "url": "https://www.telebajocero.com/alejandro-lerner-se-despide-masterchef-celebrity-una-exigente-prueba-lemon-pie-n1360650",
+      "title": "Alejandro Lerner se despide de MasterChef Celebrity tras una exigente prueba de lemon pie",
+      "publisher": "Telebajocero",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "es"
+    },
+    {
+      "id": "rionegro-lerner-eliminado-2026",
+      "url": "https://www.rionegro.com.ar/redes/alejandro-lerner-quedo-eliminado-de-masterchef-celebrity-el-error-que-lo-dejo-afuera-y-su-emotiva-despedida-4775212/",
+      "title": "Alejandro Lerner quedó eliminado de MasterChef Celebrity: el error que lo dejó afuera y su emotiva despedida",
+      "publisher": "Río Negro",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "es"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "worthWriting": true,
+  "reason": "Forward who joined New York City FC (MLS) from FC Basel 1893 as a Designated Player on 29 June 2026, with official club, league and press sources. Ivory Coast international; several sources agree on the transfer. Today's Atlanta match report could not be verified and is left out.",
+  "wikidata": "",
+  "importance": 3,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "nycfc-announcement",
+      "url": "https://www.newyorkcityfc.com/news/new-york-city-fc-acquires-forward-benie-traore-from-fc-basel-1893-as-a-designated-player",
+      "title": "New York City FC Acquires Forward Bénie Traoré from FC Basel 1893 as a Designated Player",
+      "publisher": "New York City FC",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "nycfc-profile",
+      "url": "https://www.newyorkcityfc.com/players/benie-traore/",
+      "title": "Bénie Traoré player profile",
+      "publisher": "New York City FC",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "mls-transfer",
+      "url": "https://www.mlssoccer.com/news/new-york-city-fc-acquire-forward-benie-traore-basel-ivory-coast",
+      "title": "New York City FC acquire forward Bénie Traoré from Basel",
+      "publisher": "Major League Soccer",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "amny-traore-nycfc",
+      "url": "https://www.amny.com/sports/benie-traore-nycfc-history/",
+      "title": "Bénie Traoré NYCFC coverage",
+      "publisher": "amNY",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "africasoccer-traore-transfer",
+      "url": "https://africasoccer.com/ivorian-benie-traore-joins-new-york-city-fc-from-basel/",
+      "title": "Ivorian winger Bénie Traoré leaves Basel to join New York City FC",
+      "publisher": "AfricaSoccer",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "2002-11-30",
+      "sources": [
+        "nycfc-profile"
+      ],
+      "note": "NYCFC player profile lists 11.30.2002."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Bouaké, Côte d'Ivoire",
+      "sources": [
+        "nycfc-profile"
+      ],
+      "note": "NYCFC player profile lists Bouaké, Côte d'Ivoire."
+    },
+    "nationality": {
+      "value": "CI",
+      "sources": [
+        "nycfc-announcement",
+        "mls-transfer"
+      ],
+      "note": "Described as an Ivorian, Ivory Coast international. Caps figures differ between sources (NYCFC and MLS say seven senior appearances or caps; Wikipedia differs), so no cap count is used."
+    }
+  },
+  "targetQueries": [
+    "benie traore nycfc",
+    "benie traore age",
+    "benie traore transfer fee",
+    "benie traore asec mimosas",
+    "benie traore basel",
+    "benie traore nationality",
+    "benie traore number 9",
+    "benie traore club actuel",
+    "where is benie traore from",
+    "benie traore sheffield united",
+    "benie traore height"
+  ],
+  "gapNote": "Could not verify the claimed 28 Oct 2026 NYCFC 2-1 win over Atlanta United, the stoppage-time winner, the Embolo equaliser, or any AP report: the searches returned only a pre-match listing and older Atlanta results. Left out. NYCFC appearance and goal counts could not be verified as of today (amNY, 5 Aug 2026, said no NYCFC goal yet; figures are dated), so none are stated. The fee is not disclosed by the clubs (MLS, AfricaSoccer); a 20 Minutes/Transfermarkt estimate of EUR 8.75m is unofficial and not used. Sources disagree on Basel tenure (one season vs two) and on Ivory Coast caps; the page avoids both numbers. Top results do not give the NYCFC shirt number or the verified birth details in one place; this page can."
+}

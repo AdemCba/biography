@@ -6,7 +6,32 @@
   ],
   "importance": 3,
   "sameAs": [],
-  "facts": {},
+  "facts": {
+    "birthDate": {
+      "value": "1953-09-18",
+      "sources": [
+        "sbt-news-celso-freitas-aposentadoria",
+        "portal-dos-jornalistas-celso-freitas"
+      ],
+      "note": "SBT News article: \"Nascido em 18 de setembro de 1953, em Criciúma, Santa Catarina\"."
+    },
+    "birthPlace": {
+      "value": "Criciúma, Santa Catarina, Brazil",
+      "sources": [
+        "sbt-news-celso-freitas-aposentadoria",
+        "museu-da-tv-celso-freitas"
+      ]
+    },
+    "nationality": {
+      "value": [
+        "BR"
+      ],
+      "sources": [
+        "museu-da-tv-celso-freitas"
+      ],
+      "note": "No source uses the word nationality. The Museu da TV places him among Brazilian television journalists, and he was born in Criciúma, Brazil."
+    }
+  },
   "related": [],
   "sources": [
     {
@@ -52,6 +77,33 @@
       "publisher": "Propmark",
       "type": "press",
       "accessed": "2026-10-28",
+      "lang": "pt"
+    },
+    {
+      "id": "sbt-news-celso-freitas-aposentadoria",
+      "url": "https://sbtnews.sbt.com.br/noticia/brasil/celso-freitas-se-aposenta-apos-56-anos-de-jornalismo",
+      "title": "Celso Freitas se aposenta após 56 anos de jornalismo",
+      "publisher": "SBT News",
+      "type": "official",
+      "accessed": "2026-10-29",
+      "lang": "pt"
+    },
+    {
+      "id": "museu-da-tv-celso-freitas",
+      "url": "https://www.museudatv.com.br/biografia/celso-freitas/",
+      "title": "Celso Freitas - biografia",
+      "publisher": "Museu da TV (MBRTV)",
+      "type": "database",
+      "accessed": "2026-10-29",
+      "lang": "pt"
+    },
+    {
+      "id": "portal-dos-jornalistas-celso-freitas",
+      "url": "https://www.portaldosjornalistas.com.br/jornalista/celso-freitas/",
+      "title": "Celso Freitas",
+      "publisher": "Portal dos Jornalistas",
+      "type": "database",
+      "accessed": "2026-10-29",
       "lang": "pt"
     }
   ],

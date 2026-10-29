@@ -1,0 +1,110 @@
+{
+  "id": "benie-traore",
+  "name": "Bénie Traoré",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 3,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "2002-11-30",
+      "sources": [
+        "nycfc-profile"
+      ],
+      "note": "NYCFC player profile lists 11.30.2002."
+    },
+    "birthPlace": {
+      "value": "Bouaké, Côte d'Ivoire",
+      "sources": [
+        "nycfc-profile"
+      ],
+      "note": "NYCFC player profile lists Bouaké, Côte d'Ivoire."
+    },
+    "nationality": {
+      "value": [
+        "CI"
+      ],
+      "sources": [
+        "nycfc-announcement",
+        "mls-transfer"
+      ],
+      "note": "Described as an Ivorian, Ivory Coast international. Caps figures differ between sources (NYCFC and MLS say seven senior appearances or caps; Wikipedia differs), so no cap count is used."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "nycfc-announcement",
+      "url": "https://www.newyorkcityfc.com/news/new-york-city-fc-acquires-forward-benie-traore-from-fc-basel-1893-as-a-designated-player",
+      "title": "New York City FC Acquires Forward Bénie Traoré from FC Basel 1893 as a Designated Player",
+      "publisher": "New York City FC",
+      "type": "official",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "nycfc-profile",
+      "url": "https://www.newyorkcityfc.com/players/benie-traore/",
+      "title": "Bénie Traoré player profile",
+      "publisher": "New York City FC",
+      "type": "official",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "mls-transfer",
+      "url": "https://www.mlssoccer.com/news/new-york-city-fc-acquire-forward-benie-traore-basel-ivory-coast",
+      "title": "New York City FC acquire forward Bénie Traoré from Basel",
+      "publisher": "Major League Soccer",
+      "type": "league-or-federation",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "amny-traore-nycfc",
+      "url": "https://www.amny.com/sports/benie-traore-nycfc-history/",
+      "title": "Bénie Traoré NYCFC coverage",
+      "publisher": "amNY",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "africasoccer-traore-transfer",
+      "url": "https://africasoccer.com/ivorian-benie-traore-joins-new-york-city-fc-from-basel/",
+      "title": "Ivorian winger Bénie Traoré leaves Basel to join New York City FC",
+      "publisher": "AfricaSoccer",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "cbs-traore-winner",
+      "url": "https://www.cbsnews.com/newyork/news/benie-traore-nycfc-beat-atlanta-united/",
+      "title": "NYCFC beat Atlanta United 2-1, Bénie Traoré scores the winner",
+      "publisher": "CBS New York",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "infonews-traore-winner",
+      "url": "https://infonews.ca/news/7966107/bnie-traor-scores-winner-as-nycfc-keeps-playoff-hopes-alive-with-2-1-victory-over-atlanta-united/",
+      "title": "Bénie Traoré scores winner as NYCFC keeps playoff hopes alive with 2-1 victory over Atlanta United",
+      "publisher": "Infonews (The Associated Press)",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "scarves-atlanta-recap",
+      "url": "https://scarvesandspikes.com/2026/10/28/atlanta-united-new-york-city-fc-recap-2-1/",
+      "title": "Atlanta United vs New York City FC recap, 2-1",
+      "publisher": "Scarves and Spikes",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    }
+  ]
+}

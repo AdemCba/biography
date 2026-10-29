@@ -1,0 +1,299 @@
+{
+  "date": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 20 November 2000",
+      "sourceIds": [
+        "aztecajalisco-profile-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Azteca Jalisco: 'nació el 20 de noviembre de 2000'. Fox Sports (26 Oct) gives age 25, consistent. Only one source for the date; no club/FIFA profile reachable."
+    },
+    {
+      "claim": "Born in Los Angeles, California (Azteca Jalisco, Fox Sports)",
+      "sourceIds": [
+        "aztecajalisco-profile-2026",
+        "foxsports-agradecida-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Both state Los Angeles, California. Conflicts with Angel City (San Diego native); article states the conflict."
+    },
+    {
+      "claim": "Angel City calls her a San Diego native and UC Irvine graduate",
+      "sourceIds": [
+        "angel-city-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "'Camberos is a San Diego native and UC Irvine graduate.'"
+    },
+    {
+      "claim": "Mexican-American, identifies more as Mexican",
+      "sourceIds": [
+        "angel-city-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote: 'I am Mexican-American, but I've always identified myself more as Mexican.'"
+    },
+    {
+      "claim": "Played for América from 2022",
+      "sourceIds": [
+        "angel-city-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "'transfer from Club América, where she had played since 2022.'"
+    },
+    {
+      "claim": "Angel City signed her in March via transfer from América",
+      "sourceIds": [
+        "angel-city-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "'Angel City signed forward Scarlett Camberos in March via transfer from Club América'. No year stated; year removed from article."
+    },
+    {
+      "claim": "Used her in midfield and up front at Angel City",
+      "sourceIds": [
+        "angel-city-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "'deployed both in the midfield and on the front line.'"
+    },
+    {
+      "claim": "She then played in the NWSL",
+      "sourceIds": [
+        "publimetro-return-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Publimetro: she 'jugó en la NWSL' during the 15+ months away. Bay FC removed from article."
+    },
+    {
+      "claim": "Rejoined América for Apertura 2024 as a new signing, more than 15 months after leaving, wearing No. 10",
+      "sourceIds": [
+        "publimetro-return-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "'regresa al América tras más de 15 meses'; 'nueva jugadora'; Apertura 2024; 'el número 10'."
+    },
+    {
+      "claim": "January 2026 contract extension with four other players; listed first; key forward; No. 10",
+      "sourceIds": [
+        "foxsports-renewal-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Five renewed players including her; 'encabeza la lista de futbolistas renovadas'; 'atacante y referente'; dorsal 10."
+    },
+    {
+      "claim": "Clausura 2026 final: América beat Rayadas, club's third title in the competition",
+      "sourceIds": [
+        "excelsior-clausura-2026-final"
+      ],
+      "verdict": "confirmed",
+      "note": "'por fin levantó su tercer título en la Liga MX Femenil'."
+    },
+    {
+      "claim": "First leg 1-0 in Monterrey, return leg 3-0 at Estadio Ciudad de los Deportes, 3-1 aggregate",
+      "sourceIds": [
+        "excelsior-clausura-2026-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Ida 1-0 at Monterrey; vuelta 3-0; global 3-1."
+    },
+    {
+      "claim": "Camberos scored the goal that sealed the 3-0 comeback",
+      "sourceIds": [
+        "excelsior-clausura-2026-final"
+      ],
+      "verdict": "confirmed",
+      "note": "'la encargada de sellarlo con gol'."
+    },
+    {
+      "claim": "Hat-trick in 5-1 win over Pumas, 1 February 2026",
+      "sourceIds": [
+        "excelsior-pumas-hat-trick-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Article is dated 01 de febrero de 2026 and covers Jornada 6. The match day itself is not stated separately, so the date is the article date."
+    },
+    {
+      "claim": "Goals in the 26th and 90th minutes; win took América to the top",
+      "sourceIds": [
+        "excelsior-pumas-hat-trick-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Minute 26 (2-1) and minute 90; 'liderato general'."
+    },
+    {
+      "claim": "CONCACAF semifinal: América beat Gotham FC 4-1 in Pachuca",
+      "sourceIds": [
+        "concacaf-semifinal-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "4-1 vs Gotham FC; Estadio Hidalgo, Pachuca."
+    },
+    {
+      "claim": "Hat-trick with goals in 21st and 57th minutes and penalty in 89th; first hat-trick in a knockout match",
+      "sourceIds": [
+        "concacaf-semifinal-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "21', 57', 89' penalty; 'first player to score a hat-trick in a knockout-stage match'."
+    },
+    {
+      "claim": "Final: América beat Washington Spirit 5-3 at Estadio Hidalgo, Pachuca",
+      "sourceIds": [
+        "concacaf-final-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'5-3 victory against the Washington Spirit in the Final ... at Estadio Hidalgo in Pachuca'."
+    },
+    {
+      "claim": "Cross in the 22nd minute and through ball for Geyse's goal in the 27th",
+      "sourceIds": [
+        "concacaf-final-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Cross for Aviléz in the 22'; through ball for Geyse in the 27'."
+    },
+    {
+      "claim": "Best Player of the tournament, Best Player Award presented by Scotiabank",
+      "sourceIds": [
+        "concacaf-best-player-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'recipient of the Best Player Award, presented by Scotiabank'."
+    },
+    {
+      "claim": "Nine goal contributions, most in a single edition",
+      "sourceIds": [
+        "concacaf-best-player-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'nine goal contributions, the most in a single edition of the competition'."
+    },
+    {
+      "claim": "2025-26: 25 goals, 17 assists, 42 goal contributions (Fox Sports)",
+      "sourceIds": [
+        "foxsports-goals-assists-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "25 goles, 17 asistencias, 42 contribuciones durante la temporada 2025/2026."
+    },
+    {
+      "claim": "Azteca Jalisco: 47 matches, 27 goals, seven assists in the award period",
+      "sourceIds": [
+        "aztecajalisco-profile-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'En el periodo contemplado para el premio disputó 47 partidos, marcó 27 goles y registró siete asistencias.'"
+    },
+    {
+      "claim": "Four goals in Apertura 2026 as of 26 October",
+      "sourceIds": [
+        "foxsports-ballon-21"
+      ],
+      "verdict": "confirmed",
+      "note": "'sumando cuatro goles en lo que va del torneo Apertura 2026'."
+    },
+    {
+      "claim": "Finished 21st in the 2026 Women's Ballon d'Or, announced 26 October 2026 (Monday)",
+      "sourceIds": [
+        "foxsports-ballon-21",
+        "clarosports-ballon-21",
+        "sopitas-ballon-21"
+      ],
+      "verdict": "confirmed",
+      "note": "21st in all three; Fox dates it 26 de octubre; Claro says 'este lunes 26 de octubre'."
+    },
+    {
+      "claim": "Fox Sports: first Mexican player nominated for the Ballon d'Or",
+      "sourceIds": [
+        "foxsports-ballon-21"
+      ],
+      "verdict": "confirmed",
+      "note": "'la primera mexicana en la historia que es nominada para el galardón más prestigioso a nivel individual'."
+    },
+    {
+      "claim": "Claro Sports: first time a Mexican player appears in the women's ranking",
+      "sourceIds": [
+        "clarosports-ballon-21"
+      ],
+      "verdict": "confirmed",
+      "note": "'El puesto 21 representa la primera aparición de una futbolista mexicana en la clasificación'."
+    },
+    {
+      "claim": "Sopitas: best placing by any Mexican in Ballon d'Or votes, men's or women's",
+      "sourceIds": [
+        "sopitas-ballon-21"
+      ],
+      "verdict": "confirmed",
+      "note": "Sopitas does say 'la mexicana mejor ubicada ... ya sea varonil o femenil'. The same article also says Julián Quiñones is the best-placed Mexican in history, so the source contradicts itself. Attributed claim is accurate; the editor should decide whether to keep it."
+    },
+    {
+      "claim": "Field size: Sopitas says 28 voted on, Azteca Jalisco and Claro say 30",
+      "sourceIds": [
+        "sopitas-ballon-21",
+        "aztecajalisco-profile-2026",
+        "clarosports-ballon-21"
+      ],
+      "verdict": "confirmed",
+      "note": "Sopitas: 28 nominadas (women). Azteca: 30 nominadas. Claro: 30 nominadas. Conflict correctly stated."
+    },
+    {
+      "claim": "Travelled to London with coach Ángel Villacampa for the gala",
+      "sourceIds": [
+        "foxsports-gala-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Viajan a Londres; Villacampa; flight to Inglaterra."
+    },
+    {
+      "claim": "Ceremony held in England for the first time",
+      "sourceIds": [
+        "foxsports-gala-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'país en el que se llevará a cabo la gala por primera vez'."
+    },
+    {
+      "claim": "Said she was grateful to be there and to represent América and Mexico",
+      "sourceIds": [
+        "foxsports-agradecida-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'estoy muy agradecida de estar aquí y representar al Club América, a México'."
+    },
+    {
+      "claim": "Senior debut for Mexico in September 2022 against New Zealand",
+      "sourceIds": [
+        "angel-city-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "'first cap for the senior Mexico women's national team in September 2022 against New Zealand'."
+    },
+    {
+      "claim": "Fox Sports describes her as a regular in the senior team",
+      "sourceIds": [
+        "foxsports-ballon-21"
+      ],
+      "verdict": "confirmed",
+      "note": "'una habitual del Tricolor a nivel mayor'."
+    },
+    {
+      "claim": "Fox Sports calls her the first Mexican player nominated (summary, knownFor)",
+      "sourceIds": [
+        "foxsports-ballon-21"
+      ],
+      "verdict": "confirmed",
+      "note": "Same as body claim."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear conflicts on birthplace and Ballon d'Or field size, dated Concacaf and Clausura details. Unsupported Bay FC and 2023 claims removed.",
+  "decision": "approve",
+  "summary": "All claims in the revised article match the fetched sources or are stated as conflicts. The Sopitas attribution is accurate, but that source contradicts itself on the best-placed Mexican; the article attributes it."
+}

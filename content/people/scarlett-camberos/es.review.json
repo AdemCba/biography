@@ -1,0 +1,259 @@
+{
+  "date": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Nació el 20 de noviembre de 2000",
+      "sourceIds": [
+        "aztecajalisco-profile-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'nació el 20 de noviembre de 2000'. Only source for the date."
+    },
+    {
+      "claim": "Nacida en Los Ángeles, California (Azteca Jalisco, Fox Sports)",
+      "sourceIds": [
+        "aztecajalisco-profile-2026",
+        "foxsports-agradecida-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Both state Los Angeles, California. Angel City says San Diego; the article states the conflict."
+    },
+    {
+      "claim": "Angel City la describe como originaria de San Diego y egresada de UC Irvine",
+      "sourceIds": [
+        "angel-city-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "'San Diego native and UC Irvine graduate'."
+    },
+    {
+      "claim": "Se define como mexicoamericana y más mexicana",
+      "sourceIds": [
+        "angel-city-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "'Mexican-American, but I've always identified myself more as Mexican'."
+    },
+    {
+      "claim": "Jugó en el América desde 2022",
+      "sourceIds": [
+        "angel-city-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "'where she had played since 2022'."
+    },
+    {
+      "claim": "En marzo el Angel City la incorporó por traspaso desde el América",
+      "sourceIds": [
+        "angel-city-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "'signed forward Scarlett Camberos in March via transfer from Club América'. Year removed."
+    },
+    {
+      "claim": "Angel City, club de la NWSL que la fichó",
+      "sourceIds": [
+        "angel-city-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Angel City signed her (no year given)."
+    },
+    {
+      "claim": "Jugó en la NWSL",
+      "sourceIds": [
+        "publimetro-return-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Publimetro: 'jugó en la NWSL' during the 15+ months away. Bay FC removed."
+    },
+    {
+      "claim": "Regresó al América para el Apertura 2024 como nuevo refuerzo, más de 15 meses después, número 10",
+      "sourceIds": [
+        "publimetro-return-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "'regresa al América tras más de 15 meses'; 'nuevo refuerzo' Apertura 2024; número 10."
+    },
+    {
+      "claim": "Renovación en enero de 2026 con otras cuatro jugadoras; la menciona primero; atacante y referente; dorsal 10",
+      "sourceIds": [
+        "foxsports-renewal-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Five renewed players; 'encabeza la lista de futbolistas renovadas'; 'atacante y referente'; dorsal 10."
+    },
+    {
+      "claim": "Final Clausura 2026 vs Rayadas, tercer título",
+      "sourceIds": [
+        "excelsior-clausura-2026-final"
+      ],
+      "verdict": "confirmed",
+      "note": "'su tercer título en la Liga MX Femenil'."
+    },
+    {
+      "claim": "Ida 1-0 en Monterrey, vuelta 3-0 en Estadio Ciudad de los Deportes, global 3-1",
+      "sourceIds": [
+        "excelsior-clausura-2026-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Ida 1-0; vuelta 3-0; global 3-1."
+    },
+    {
+      "claim": "Camberos marcó el gol que cerró la remontada",
+      "sourceIds": [
+        "excelsior-clausura-2026-final"
+      ],
+      "verdict": "confirmed",
+      "note": "'la encargada de sellarlo con gol'."
+    },
+    {
+      "claim": "En la jornada 6 del Clausura 2026 anotó tres goles en el 5-1 sobre Pumas; minutos 26 y 90; liderato general",
+      "sourceIds": [
+        "excelsior-pumas-hat-trick-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Jornada 6 stated; minutes 26 and 90 and 'liderato general' confirmed."
+    },
+    {
+      "claim": "Semifinal: 4-1 vs Gotham FC en Pachuca; hat-trick a los 21 y 57 y penal al 89; primera en una eliminatoria",
+      "sourceIds": [
+        "concacaf-semifinal-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "All confirmed in the Concacaf text."
+    },
+    {
+      "claim": "Final: 5-3 vs Washington Spirit en Estadio Hidalgo, Pachuca",
+      "sourceIds": [
+        "concacaf-final-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Centro al minuto 22 y pase filtrado para el gol de Geyse al 27",
+      "sourceIds": [
+        "concacaf-final-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Best Player Award presentado por Scotiabank; nueve contribuciones a gol, la cifra más alta",
+      "sourceIds": [
+        "concacaf-best-player-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Fox Sports: 25 goles, 17 asistencias, 42 contribuciones en 2025-26",
+      "sourceIds": [
+        "foxsports-goals-assists-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Azteca Jalisco: 47 partidos, 27 goles, siete asistencias",
+      "sourceIds": [
+        "aztecajalisco-profile-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Cuatro goles en el Apertura 2026 al 26 de octubre",
+      "sourceIds": [
+        "foxsports-ballon-21"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Lugar 21 del Balón de Oro Femenino 2026, dado a conocer el lunes 26 de octubre de 2026",
+      "sourceIds": [
+        "foxsports-ballon-21",
+        "clarosports-ballon-21",
+        "sopitas-ballon-21"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed in all three."
+    },
+    {
+      "claim": "Fox Sports: primera mexicana nominada",
+      "sourceIds": [
+        "foxsports-ballon-21"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Claro Sports: primera futbolista mexicana en la clasificación femenina",
+      "sourceIds": [
+        "clarosports-ballon-21"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Sopitas: mejor posición de una mexicana en las votaciones, varonil o femenil",
+      "sourceIds": [
+        "sopitas-ballon-21"
+      ],
+      "verdict": "confirmed",
+      "note": "Attributed claim is in the source; the same source also calls Julián Quiñones the best-placed Mexican in history. Conflict within the source; kept as attributed."
+    },
+    {
+      "claim": "Sopitas 28 nominadas; Azteca Jalisco y Claro 30",
+      "sourceIds": [
+        "sopitas-ballon-21",
+        "aztecajalisco-profile-2026",
+        "clarosports-ballon-21"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed; conflict stated."
+    },
+    {
+      "claim": "Viajó a Londres con Ángel Villacampa; gala por primera vez en Inglaterra",
+      "sourceIds": [
+        "foxsports-gala-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Dijo estar agradecida de estar ahí y de representar al América y a México",
+      "sourceIds": [
+        "foxsports-agradecida-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Debut con la selección mexicana absoluta en septiembre de 2022 ante Nueva Zelanda",
+      "sourceIds": [
+        "angel-city-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Fox Sports: jugadora habitual del equipo nacional",
+      "sourceIds": [
+        "foxsports-ballon-21"
+      ],
+      "verdict": "confirmed",
+      "note": "'una habitual del Tricolor a nivel mayor'."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear birthplace and field-size conflicts, dated tournament details, sources stated accurately.",
+  "decision": "approve",
+  "summary": "Revised article matches the fetched sources or states the conflict. Bay FC and the 2023 year removed; match date now tied to the matchday."
+}

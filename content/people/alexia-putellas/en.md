@@ -4,18 +4,19 @@ slug: alexia-putellas
 metaTitle: 'Alexia Putellas: Age ({age}), Ballon d''Or 2026 and Club'
 metaDescription: >-
   Alexia Putellas is {age} (born 4 February 1994). She won her third Ballon d'Or
-  in October 2026 while playing for London City Lionesses.
+  on 26 October 2026 while playing for London City Lionesses.
 knownFor: Spanish midfielder and three-time Ballon d'Or winner
 summary: >-
-  Alexia Putellas won her third Ballon d'Or in October 2026, a record-equalling
-  third women's award, while playing for London City Lionesses. The Spanish
-  midfielder left FC Barcelona in May 2026 after 14 seasons, and in July she
-  signed for the Women's Super League club on a three-year deal.
+  Alexia Putellas won the Women's Ballon d'Or on Monday 26 October 2026 in
+  London, her third, equalling Aitana Bonmatí's record of three awards. She
+  plays for London City Lionesses after leaving FC Barcelona in May 2026 at the
+  end of 14 seasons, and her first two awards came in 2021 and 2022.
 status: published
 risk: low
 publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 reviewBy: '2027-04-28'
+updatedAt: '2026-10-29'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -28,6 +29,7 @@ targetQueries:
   - Alexia Putellas Ballon d'Or
   - Alexia Putellas leaves Barcelona
   - Alexia Putellas Barcelona exit
+  - Alexia Putellas Barcelona games
   - Alexia Putellas Spain national team
   - Alexia Putellas contract length
   - Alexia Putellas salary
@@ -50,10 +52,15 @@ faq:
       [s:ap-london-city-signing-2026].
   - q: Did Alexia Putellas win the Ballon d'Or in 2026?
     a: >-
-      Yes. She won her third Ballon d'Or at Monday's ceremony in London, as Sky
-      Sports reported on 27 October 2026, a record-equalling third women's award
-      [s:sky-ballon-dor-2026-news]. Her first two came in 2021 and 2022
+      Yes. She won the Women's Ballon d'Or at the London Palladium on Monday 26
+      October 2026, her third award [s:uefa-ballon-dor-2026-ceremony]
+      [s:reuters-ballon-dor-2026]. Her first two came in 2021 and 2022
       [s:fcb-ballon-dor-2022].
+  - q: How many games did Alexia Putellas play for Barcelona?
+    a: >-
+      She played 507 games for Barcelona over 14 seasons and scored 232 goals,
+      a club record, according to the Associated Press
+      [s:ap-barcelona-departure-2026].
   - q: When did Alexia Putellas leave Barcelona?
     a: >-
       Barcelona announced her departure on Tuesday, 26 May 2026, after 14
@@ -70,7 +77,11 @@ Alexia Putellas won her third Ballon d'Or in October 2026, a record-equalling th
 
 ## October 2026
 
-Putellas won the Ballon d'Or at Monday's ceremony in London, her third. Sky Sports reported on 27 October 2026 that it was a record-equalling third women's award [s:sky-ballon-dor-2026-news]. She had joined London City in July, and since that move she has scored three goals and has an assist in her seven WSL games, according to Sky [s:sky-ballon-dor-2026-news]. Her first two awards came in 2021 and 2022 [s:fcb-ballon-dor-2022].
+Alexia Putellas won the Women's Ballon d'Or on Monday 26 October 2026 at the London Palladium, her third award [s:reuters-ballon-dor-2026] [s:uefa-ballon-dor-2026-ceremony]. Reuters reported that she was presented with the award on the Monday [s:reuters-ballon-dor-2026]. Sky Sports called it a record-equalling third women's award, won while she plays for London City Lionesses [s:sky-ballon-dor-2026-news]. The record she equals belongs to Aitana Bonmatí, who won three awards, as 101 Great Goals notes [s:101greatgoals-ballon-dor-2026]. Her first two came in 2021 and 2022 [s:fcb-ballon-dor-2022].
+
+Before the ceremony, UEFA listed 30 women's nominees and noted that Putellas was the only former winner on the shortlist [s:uefa-ballon-dor-2026-ceremony]. Flashscore described the award as her third triumph and noted that she had recently left Barcelona to join London City Lionesses [s:flashscore-ballon-dor-2026]. Since her move in July she has scored three goals and has one assist in seven WSL games, according to Sky [s:sky-ballon-dor-2026-news].
+
+Sources disagree on Barcelona's 2025-26 season. Reuters calls it a treble, while Sky Sports says Putellas captained the club to a quadruple, including the Champions League [s:reuters-ballon-dor-2026] [s:sky-ballon-dor-2026-news]. We have not settled the count, so this page does not give one.
 
 ## Born in Mollet del Vallès
 

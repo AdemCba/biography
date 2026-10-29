@@ -4,15 +4,15 @@ slug: alexia-putellas
 metaTitle: 'Alexia Putellas : âge, départ du Barça et transfert'
 metaDescription: >-
   Alexia Putellas a quitté le FC Barcelone après 14 saisons et a rejoint London
-  City Lionesses en juillet 2026. Date de naissance, deux Ballons d'Or et
+  City Lionesses en juillet 2026. Date de naissance, trois Ballons d'Or et
   records.
-knownFor: Milieu de terrain espagnole et deux fois lauréate du Ballon d'Or
+knownFor: Milieu de terrain espagnole et trois fois lauréate du Ballon d'Or
 summary: >-
-  Alexia Putellas est la milieu de terrain espagnole qui a remporté le Ballon
-  d'Or en 2021 et 2022 et passé 14 saisons au FC Barcelone. Le club a annoncé
-  son départ en mai 2026, et elle a rejoint London City Lionesses, en Women's
-  Super League, en juillet. Son passage au Barça comprend 507 matchs et quatre
-  Ligues des champions.
+  Alexia Putellas a remporté le Ballon d'Or féminin le lundi 26 octobre 2026 à
+  Londres, son troisième, ce qui égale le record d'Aitana Bonmatí. Elle évolue
+  à London City Lionesses depuis juillet, après avoir quitté le FC Barcelone en
+  mai 2026 au terme de 14 saisons. Ses deux premiers Ballons d'Or datent de 2021
+  et 2022.
 status: published
 risk: low
 reviewedAt: '2026-10-27'
@@ -24,6 +24,8 @@ targetQueries:
   - Alexia Putellas London City Lionesses
   - Alexia Putellas quitte le Barça
   - Alexia Putellas Ballon d'Or
+  - Alexia Putellas Ballon d'Or 2026
+  - Alexia Putellas matchs Barça
   - Alexia Putellas équipe d'Espagne
   - Alexia Putellas salaire
   - Alexia Putellas contrat
@@ -40,8 +42,13 @@ faq:
       fin du mois de juin [s:ap-london-city-signing-2026].
   - q: Combien de Ballons d'Or Alexia Putellas a-t-elle remportés ?
     a: >-
-      Deux, en 2021 et en 2022. Le prix de 2022 a fait d'elle la première
-      lauréate à gagner le Ballon d'Or deux fois [s:fcb-ballon-dor-2022].
+      Trois. Elle les a gagnés en 2021 et 2022 [s:fcb-ballon-dor-2022], puis de
+      nouveau à Londres le lundi 26 octobre 2026 [s:reuters-ballon-dor-2026]
+      [s:uefa-ballon-dor-2026-ceremony].
+  - q: Combien de matchs Alexia Putellas a-t-elle joués avec le Barça ?
+    a: >-
+      Selon l'AP, 507 matchs en 14 saisons, avec 232 buts, un record du club
+      [s:ap-barcelona-departure-2026].
   - q: Quel est le salaire d'Alexia Putellas à London City Lionesses ?
     a: >-
       Les textes consultés n'indiquent ni son salaire ni la durée de son
@@ -49,8 +56,17 @@ faq:
       [s:aljazeera-london-city-signing-2026].
 autoReviews: 3
 publishedAt: '2026-10-27'
+updatedAt: '2026-10-29'
 ---
 Alexia Putellas a quitté le FC Barcelone en mai 2026, après 14 saisons, et a rejoint en juillet les London City Lionesses, en Women's Super League [s:ap-barcelona-departure-2026] [s:ap-london-city-signing-2026]. Les années passées au Barça forment le cœur de son histoire. Elles lui ont valu deux Ballons d'Or et un adieu au Camp Nou, où plus de 91 000 personnes ont scandé son nom [s:fcb-farewell-2026].
+
+## Octobre 2026
+
+Alexia Putellas a remporté le Ballon d'Or féminin le lundi 26 octobre 2026 au London Palladium, à Londres. C'est sa troisième distinction [s:reuters-ballon-dor-2026] [s:uefa-ballon-dor-2026-ceremony]. Reuters rapporte qu'elle a reçu le trophée le lundi [s:reuters-ballon-dor-2026]. Sky Sports a parlé d'un troisième Ballon d'Or féminin, qui égale un record, remporté alors qu'elle joue à London City Lionesses [s:sky-ballon-dor-2026-news]. Le record égalé est celui d'Aitana Bonmatí, qui a remporté trois distinctions, selon 101 Great Goals [s:101greatgoals-ballon-dor-2026]. Ses deux premiers Ballons d'Or sont venus en 2021 et 2022 [s:fcb-ballon-dor-2022].
+
+Avant la cérémonie, l'UEFA a retenu 30 nominées et a noté qu'elle était la seule ancienne lauréate de la liste finale [s:uefa-ballon-dor-2026-ceremony]. Flashscore rappelle qu'elle venait de quitter le Barça pour rejoindre London City Lionesses [s:flashscore-ballon-dor-2026]. Depuis son arrivée en juillet, elle compte trois buts et une passe décisive en sept matchs de WSL, selon Sky [s:sky-ballon-dor-2026-news].
+
+Reuters parle d'un triplé du Barcelone en 2025-2026, alors que Sky Sports évoque un quadruplé, Ligue des champions comprise [s:reuters-ballon-dor-2026] [s:sky-ballon-dor-2026-news]. Les sources ne s'accordent pas, cette page ne retient donc aucun chiffre.
 
 ## Née à Mollet del Vallès
 

@@ -7,10 +7,11 @@ metaDescription: >-
   Aitana Bonmatí no aparece entre las nominadas al Balón de Oro femenino 2026.
 knownFor: Futbolista del FC Barcelona y tres veces ganadora del Balón de Oro femenino
 summary: >-
-  Aitana Bonmatí, jugadora del FC Barcelona, no figura entre las 30 nominadas al
-  Balón de Oro femenino 2026. Ganó el premio en 2023, 2024 y 2025, y la lesión
-  que sufrió en la temporada 2025-26 es el motivo que se da para su ausencia en
-  la lista de candidatas.
+  Alexia Putellas ganó el Balón de Oro femenino 2026 en Londres el 26 de
+  octubre, por tercera vez. Aitana Bonmatí, jugadora del FC Barcelona que ganó
+  el premio en 2023, 2024 y 2025, no figuró entre las 30 nominadas, y la lesión
+  de la temporada 2025-26 es el motivo que se da para su ausencia en la lista de
+  candidatas.
 status: published
 risk: low
 reviewedAt: '2026-10-27'
@@ -45,10 +46,24 @@ faq:
     a: >-
       En Sant Pere de Ribes, Cataluña, según el perfil del FC Barcelona
       [s:fcb-profile-es].
+  - q: ¿Quién ganó el Balón de Oro femenino 2026?
+    a: >-
+      Alexia Putellas, en la gala del 26 de octubre de 2026 en Londres, su
+      tercer Balón de Oro [s:noovo-afp-winners-2026]
+      [s:reuters-ballon-dor-women-2026].
+  - q: ¿Cuánto tiempo estuvo lesionada Aitana Bonmatí?
+    a: >-
+      Unos cinco meses. Según Excélsior, se fracturó el peroné izquierdo en una
+      concentración de la selección en noviembre de 2025 [s:excelsior-2026-omission].
 autoReviews: 1
 publishedAt: '2026-10-27'
+updatedAt: '2026-10-29'
 ---
-Aitana Bonmatí no figura entre las 30 jugadoras nominadas al Balón de Oro femenino 2026. La lista se dio a conocer el 8 de septiembre de 2026, y su ausencia fue la gran sorpresa de las candidaturas [s:emisoras-nominees-2026] [s:uefa-ballon-dor-nominees-2026]. Antes había ganado el premio tres años seguidos, en 2023, 2024 y 2025 [s:fcb-profile-en]. La gala estaba prevista para el lunes 26 de octubre en el London Palladium Theatre [s:uefa-ballon-dor-nominees-2026]. Las fuentes consultadas para esta página no dicen quién se llevó el premio, así que tampoco lo decimos aquí.
+Aitana Bonmatí no figura entre las 30 jugadoras nominadas al Balón de Oro femenino 2026. La lista se dio a conocer el 8 de septiembre de 2026, y su ausencia fue la gran sorpresa de las candidaturas [s:emisoras-nominees-2026] [s:uefa-ballon-dor-nominees-2026]. Antes había ganado el premio tres años seguidos, en 2023, 2024 y 2025 [s:fcb-profile-en].
+
+## Octubre de 2026
+
+La gala del Balón de Oro 2026 se celebró el lunes 26 de octubre en el London Palladium, y el premio femenino fue para Alexia Putellas, que lo gana por tercera vez [s:noovo-afp-winners-2026] [s:reuters-ballon-dor-women-2026]. La agencia AFP recuerda que Bonmatí es la jugadora española que aparece antes que Putellas en la lista de ganadoras [s:noovo-afp-winners-2026]. Bonmatí no estaba entre las nominadas, así que la votación no la incluyó [s:emisoras-nominees-2026]. La gala es la noticia más reciente sobre ella.
 
 ## Fuera de la lista de 2026
 

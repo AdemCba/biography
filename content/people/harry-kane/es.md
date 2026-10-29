@@ -3,21 +3,23 @@ title: Harry Kane
 slug: harry-kane
 metaTitle: 'Harry Kane: Balón de Oro 2026, Bayern y récords con Inglaterra'
 metaDescription: >-
-  Harry Kane llegó como favorito de las casas de apuestas a la gala del Balón de
-  Oro 2026. Sus récords con Bayern y Inglaterra, y lo que sigue sin confirmarse.
+  Harry Kane ganó el Balón de Oro 2026 en Londres, el primer inglés en lograrlo
+  en unos 25 años. Su renovación con el Bayern y sus récords con Inglaterra.
 knownFor: >-
   Capitán de Inglaterra y delantero del Bayern de Múnich, máximo goleador de la
   selección inglesa
 summary: >-
-  Harry Kane era el favorito de las casas de apuestas antes de la gala del Balón
-  de Oro, celebrada el 26 de octubre de 2026 en Londres. Es el máximo goleador
-  de la historia de Inglaterra y fue el máximo goleador de la Bundesliga en
-  2025-26, con 36 tantos. Las fuentes consultadas no confirman quién ganó la
-  gala ni una renovación firmada con el Bayern, así que esta página no informa
-  de ninguna de las dos cosas.
+  Harry Kane ganó el Balón de Oro 2026 en Londres el lunes 26 de octubre, el
+  primer inglés en conseguirlo en unos 25 años. Después viajó a Múnich, donde el
+  Bayern tenía previsto jugar contra el Magdeburgo en la Copa de Alemania el
+  miércoles 28 de octubre y contra el Borussia Dortmund en la Bundesliga el
+  sábado 31. Sky Sports informa de un acuerdo en principio para renovar hasta
+  2029, con los papeles todavía en curso, aunque no se ha anunciado una prórroga
+  firmada. Es también el máximo goleador de la selección inglesa.
 status: published
 risk: low
 reviewedAt: '2026-10-27'
+updatedAt: '2026-10-29'
 reviewBy: '2027-04-27'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -31,12 +33,13 @@ targetQueries:
   - Harry Kane máximo goleador Tottenham
   - Harry Kane hat-tricks Inglaterra
   - Harry Kane goles Mundial
+  - Harry Kane edad
 faq:
   - q: ¿Quién ganó el Balón de Oro 2026?
     a: >-
-      Harry Kane era el favorito de las casas de apuestas antes de la gala del
-      26 de octubre de 2026 en Londres. Ninguna de las fuentes consultadas para
-      esta página recoge el resultado, así que no se indica el ganador.
+      Harry Kane. La gala se celebró el lunes 26 de octubre de 2026 en el London
+      Palladium, y fue el primer inglés en ganar el premio en unos 25 años. Superó
+      a Kylian Mbappé y Lamine Yamal.
   - q: ¿Cuántos goles tiene Harry Kane con Inglaterra?
     a: >-
       Según la federación inglesa, tenía 66 goles antes de su centésima
@@ -44,18 +47,29 @@ faq:
       su perfil de 2026, suma 14 goles en los Mundiales.
   - q: ¿Tiene Harry Kane contrato con el Bayern de Múnich?
     a: >-
-      Firmó un contrato de cuatro años en agosto de 2023. En agosto de 2026
-      confirmó que había empezado a negociar una renovación, y las fuentes
-      consultadas no informan de un nuevo acuerdo firmado.
+      Firmó un contrato de cuatro años en agosto de 2023. El 16 de octubre de 2026,
+      Sky Sports informó de un acuerdo en principio hasta el verano de 2029, con
+      los papeles en curso. Las fuentes consultadas no recogen una prórroga firmada.
   - q: ¿Cuántos goles marcó Harry Kane en la Bundesliga en 2025-26?
     a: >-
       36. La Bundesliga informó de que ganó el premio al máximo goleador por
       tercera temporada consecutiva, algo que ningún otro jugador había logrado
       en sus tres primeras temporadas en la liga.
+  - q: ¿Cuántos años tiene Harry Kane?
+    a: >-
+      Nació el 28 de julio de 1993, así que tiene 33 años.
 autoReviews: 1
 publishedAt: '2026-10-27'
 ---
-Harry Kane llegó a la gala del Balón de Oro del 26 de octubre de 2026, celebrada en Londres, como favorito de las casas de apuestas [s:sky-ballon-dor-favourite-2026]. La federación inglesa indica que es la primera gala que se celebra fuera de París [s:fa-ballon-dor-nominees-2026]. Ninguna de las fuentes usadas para esta página recoge el resultado, así que no se nombra a ningún ganador. Lo que sigue es el historial que lo puso entre los candidatos, su situación en el Bayern y los puntos que todavía no están confirmados.
+Harry Kane ganó el Balón de Oro 2026 en la gala del lunes 26 de octubre, celebrada en el London Palladium [s:uefa-ballon-dor-ceremony-2026] [s:sky-kane-ballon-dor-win-2026]. Antes de la gala era el favorito de las casas de apuestas [s:sky-ballon-dor-favourite-2026]. La federación inglesa indica que es la primera gala que se celebra fuera de París [s:fa-ballon-dor-nominees-2026]. Lo que sigue es el historial que lo puso entre los candidatos, su situación en el Bayern y lo que todavía no está confirmado.
+
+## Octubre de 2026
+
+Kane se llevó el premio por delante de Kylian Mbappé y Lamine Yamal, y la gala de Londres empezó 45 minutos tarde por problemas de tráfico [s:sky-kane-ballon-dor-win-2026]. El Bayern publicó en su cuenta en inglés que la Allianz Arena se iluminaría de dorado para el ganador [s:khelnow-kane-munich-welcome-2026].
+
+El asistente técnico Aaron Danks dijo que Kane regresaba de Londres a Múnich y que debía incorporarse al entrenamiento el martes. Habló de «la inmensa alegría que Harry vivió ayer» [s:fox-kane-munich-return-2026].
+
+El partido de Copa de Alemania contra el 1. FC Magdeburgo estaba previsto para el miércoles 28 de octubre en la Allianz Arena, y Danks dijo que Kane estaría disponible para jugar [s:fox-kane-munich-return-2026] [s:khelnow-kane-munich-welcome-2026]. Las fuentes usadas aquí no informan del resultado. El partido de Bundesliga contra el Borussia Dortmund es el sábado 31 de octubre [s:khelnow-kane-munich-welcome-2026].
 
 ## Un tercer título de máximo goleador en Múnich
 
@@ -89,12 +103,12 @@ En el Mundial de 2018, Inglaterra llegó a semifinales y Kane ganó la Bota de O
 
 ## La negociación con el Bayern
 
-El contrato de Kane vence al final de la temporada actual, y las conversaciones buscan que siga en el club más allá de 2027 [s:nst-bayern-extension-talks-2026].
+Sky Sports informó el 16 de octubre de 2026 de que Kane había llegado a un acuerdo en principio con el Bayern hasta el verano de 2029, y de que el club estaba cerrando los papeles de la prórroga. Según el texto, todavía había que pulir algunos puntos antes de la confirmación [s:sky-kane-bayern-deal-2029].
 
-El 29 de agosto de 2026 confirmó que las negociaciones habían empezado. “La primera reunión fue la semana pasada”, dijo, y añadió que “no hay pánico por ninguna de las dos partes” [s:nst-bayern-extension-talks-2026]. También afirmó: “Estoy seguro de que llegaremos a un punto en el que ambas partes estén contentas” [s:nst-bayern-extension-talks-2026].
+Las conversaciones se confirmaron antes. El 29 de agosto de 2026 Kane dijo que las negociaciones habían empezado. «La primera reunión fue la semana pasada», dijo, y añadió que «no hay pánico por ninguna de las dos partes» [s:nst-bayern-extension-talks-2026]. También afirmó: «Estoy seguro de que llegaremos a un punto en el que ambas partes estén contentas» [s:nst-bayern-extension-talks-2026]. Ese mismo día, Jan-Christian Dreesen dijo que «la química es total» [s:bundesliga-kane-talks-de-2026].
 
-Las fuentes consultadas confirman conversaciones, no un contrato firmado. La más reciente tiene fecha de 29 de agosto de 2026 y no informa de ningún acuerdo [s:nst-bayern-extension-talks-2026].
+Las fuentes consultadas hablan de un acuerdo en principio, no de un contrato firmado. No se ha encontrado un anuncio oficial del Bayern de una prórroga firmada.
 
 ## Lo que esta página no confirma
 
-No se ha encontrado el resultado del Balón de Oro 2026 en ninguna fuente abierta para esta página, así que no se dice quién ganó. Tampoco se incluyen la fecha y el lugar de nacimiento de Kane, porque ninguna fuente consultada los recoge. La web oficial del Bayern no cargó durante la investigación, de modo que los datos del club proceden de la federación inglesa, la Bundesliga, el Tottenham y la prensa.
+La renovación con el Bayern figura solo como acuerdo en principio. Tampoco se ha encontrado un resultado para el partido de Copa contra el Magdeburgo del 28 de octubre. La web oficial del Bayern no cargó durante la investigación, de modo que los datos del club proceden de la federación inglesa, la Bundesliga, el Tottenham, Sky Sports, NST y TNT.

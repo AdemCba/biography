@@ -12,15 +12,17 @@ knownFor: >-
 summary: >-
   Harry Kane hat den Ballon d'Or 2026 am Montag, 26. Oktober, in London gewonnen
   und ist damit der erste Engländer seit rund 25 Jahren, der die Auszeichnung
-  erhält. Zurück in München wartet auf den FC Bayern am Mittwoch, 28. Oktober,
-  das DFB-Pokalspiel gegen Magdeburg und am Samstag, 31. Oktober, das
-  Bundesligaspiel gegen Borussia Dortmund. Sky Sports meldet, dass Kane sich mit
+  erhält. Er reiste zurück nach München, wo der FC Bayern am Mittwoch, 28. Oktober,
+  im DFB-Pokal gegen Magdeburg und am Samstag, 31. Oktober, in der Bundesliga
+  gegen Borussia Dortmund spielen sollte. Sky Sports meldet, dass Kane sich mit
   dem Klub grundsätzlich auf einen neuen Vertrag bis 2029 geeinigt hat, die
-  Unterlagen werden noch fertiggestellt. Außerdem ist er der erfolgreichste
-  Torschütze der englischen Nationalmannschaft.
+  Unterlagen werden noch fertiggestellt, eine unterschriebene Verlängerung ist
+  aber nicht bekannt. Außerdem ist er der erfolgreichste Torschütze der
+  englischen Nationalmannschaft.
 status: published
 risk: low
 publishedAt: '2026-10-28'
+updatedAt: '2026-10-29'
 reviewedAt: '2026-10-28'
 reviewBy: '2027-04-28'
 author: editor-in-chief
@@ -78,20 +80,20 @@ autoReviews: 2
 ---
 Harry Kane hat den Ballon d'Or am Montag, 26. Oktober 2026, im London Palladium gewonnen. Er ist der erste Engländer seit rund 25 Jahren, dem die Auszeichnung gelingt [s:uefa-ballon-dor-ceremony-2026] [s:sky-kane-ballon-dor-win-2026]. Für den FC Bayern ist er der vierte Gewinner nach Franz Beckenbauer, Gerd Müller und Karl-Heinz Rummenigge [s:fox-kane-munich-return-2026]. Geboren wurde er am 28. Juli 1993, er ist also 33 [s:wikidata-q969725] [s:khelnow-kane-munich-welcome-2026].
 
-Kane setzte sich bei der Wahl gegen Kylian Mbappé und Lamine Yamal durch [s:sky-kane-ballon-dor-win-2026]. Wegen Verkehrsproblemen begann die Gala in London mit 45 Minuten Verspätung [s:sky-kane-ballon-dor-win-2026]. Schon im Oktober hatte Kane gesagt, ein Ballon d'Or wäre großartig, und dies sei seine bisher beste Chance [s:sky-kane-bayern-deal-2029].
+Kane setzte sich bei der Wahl gegen Kylian Mbappé und Lamine Yamal durch [s:sky-kane-ballon-dor-win-2026]. Wegen Verkehrsproblemen begann die Gala in London mit 45 Minuten Verspätung [s:sky-kane-ballon-dor-win-2026]. Wegen Verkehrsproblemen begann die Gala in London zudem 45 Minuten später als geplant [s:sky-kane-ballon-dor-win-2026].
 
 Wer Kane ist, lässt sich schnell sagen. Er ist Kapitän der englischen Nationalmannschaft, seit 2017 [s:tottenham-2022], und seit August 2023 Stürmer des FC Bayern [s:tnt-bayern-signing-2023]. Davor spielte er für die Tottenham Hotspur in London [s:tnt-bayern-signing-2023]. Mit seinen Toren für England ist er der erfolgreichste Torschütze in der Geschichte des Landes [s:fa-kane-100-caps].
 
 ## Oktober 2026
 
-Die nächsten Tage sind in München schon verplant. Kane reiste am Dienstag von London zum Training nach München, sagte Aaron Danks, und der FC Bayern hat ihm einen besonderen Empfang angekündigt [s:fox-kane-munich-return-2026]. Der Klub schrieb, dass die Allianz Arena für den neuen Ballon-d'Or-Gewinner in Gold leuchten werde [s:khelnow-kane-munich-welcome-2026].
+Kane reiste laut Co-Trainer Aaron Danks von London zurück nach München und sollte am Dienstag ins Training einsteigen. Danks sprach von der „immensen Freude, die Harry gestern erlebt hat“, und der FC Bayern hatte ihm einen besonderen Empfang angekündigt [s:fox-kane-munich-return-2026]. Der Klub schrieb am 27. Oktober auf seinem englischsprachigen Kanal, dass die Allianz Arena für den Ballon-d'Or-Gewinner in Gold leuchten werde [s:khelnow-kane-munich-welcome-2026].
 
-Am Mittwoch, 28. Oktober, steht das DFB-Pokalspiel gegen den 1. FC Magdeburg an. Es ist noch nicht gespielt; Danks zufolge kann Kane dabei eingesetzt werden [s:fox-kane-munich-return-2026] [s:khelnow-kane-munich-welcome-2026]. Den Pokal verteidigt der Verein, nachdem Kane die Endspielentscheidung der vergangenen Saison mit einem Hattrick gesichert hatte [s:fox-kane-munich-return-2026]. Am Samstag, 31. Oktober, folgt das Bundesliga-Spitzenspiel gegen Borussia Dortmund [s:khelnow-kane-munich-welcome-2026].
+Das DFB-Pokalspiel gegen den 1. FC Magdeburg war für Mittwoch, 28. Oktober, in der Allianz Arena angesetzt. Danks sagte, Kane sei einsatzbereit [s:fox-kane-munich-return-2026] [s:khelnow-kane-munich-welcome-2026]. Ein Ergebnis wird in den hier genutzten Quellen nicht genannt. Am Samstag, 31. Oktober, folgt das Bundesligaspiel gegen Borussia Dortmund [s:khelnow-kane-munich-welcome-2026].
 
 ## Der Vertrag: Einigung in Prinzip bis 2029
 
 Sky Sports meldete am 16. Oktober, dass sich Kane mit dem FC Bayern grundsätzlich auf einen neuen Vertrag bis zum Sommer 2029 geeinigt hat. Der Klub bereite die Unterlagen der Verlängerung vor [s:sky-kane-bayern-deal-2029]. Vor einer Bestätigung seien noch ein paar Punkte zu klären, schrieb das Portal [s:sky-kane-bayern-deal-2029]. Eine offizielle Mitteilung des FC Bayern zu einer unterschriebenen Verlängerung fand sich für diese Seite nicht.
-Die Gespräche waren Ende August bereits öffentlich. Kane bestätigte sie in einem Bericht vom 29. August: „Das erste Treffen hat letzte Woche stattgefunden“, sagte er, und: „Es gibt keine Panik auf beiden Seiten“, und: „Ich bin sicher, wir kommen an einen Punkt, an dem beide Seiten zufrieden sind“ [s:nst-bayern-extension-talks-2026].
+Die Gespräche waren Ende August bereits öffentlich. Kane bestätigte sie in einem Bericht vom 29. August; Jan-Christian Dreesen sagte im selben Bericht: „Die Chemie stimmt total“ [s:bundesliga-kane-talks-de-2026]. Er sagte: „Das erste Treffen hat letzte Woche stattgefunden“, und: „Es gibt keine Panik auf beiden Seiten“. Außerdem: „Ich bin sicher, wir kommen an einen Punkt, an dem beide Seiten zufrieden sind“ [s:nst-bayern-extension-talks-2026].
 
 ## Vom Londoner Klub Tottenham nach München
 

@@ -1,0 +1,81 @@
+{
+  "worthWriting": true,
+  "reason": "Borussia Dortmund midfielder, trending in Germany. Permanent Dortmund deal through 2030 and a switch of international allegiance to Austria approved by FIFA in March 2026. Club, press and data sources agree on the core career facts. Birthplace disputed, so left out.",
+  "wikidata": "Q106915801",
+  "importance": 4,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "bvb-player-profile",
+      "url": "https://www.bvb.de/de/en/teams/football/player/carney-chukwuemeka.html",
+      "title": "Carney Chukwuemeka player profile",
+      "publisher": "Borussia Dortmund",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "bvb-long-term-deal",
+      "url": "https://www.bvb.de/de/en/news/news-overview/news.html/2025/8/26/Chukwuemeka-signs-long-term-deal.html",
+      "title": "Chukwuemeka signs long-term deal",
+      "publisher": "Borussia Dortmund",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "vol-fifa-change-of-association",
+      "url": "https://www.vol.at/fifa-decision-wanner-and-chukwuemeka-allowed-to-play-for-oefb/10038329",
+      "title": "FIFA decision: Wanner and Chukwuemeka allowed to play for ÖFB",
+      "publisher": "vol.at",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "tt-ireland-austria-2026",
+      "url": "https://www.tt.com/artikel/30943591/ein-punkt-der-moral-oesterreich-holt-nach-0-2-rueckstand-in-irland-noch-ein-2-2",
+      "title": "Ein Punkt der Moral: Österreich holt nach 0:2-Rückstand in Irland noch ein 2:2",
+      "publisher": "Tiroler Tageszeitung",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "fotmob-player",
+      "url": "https://www.fotmob.com/de/players/1089685/carney-chukwuemeka",
+      "title": "Carney Chukwuemeka, player stats",
+      "publisher": "FotMob",
+      "type": "database",
+      "lang": "de"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "2003-10-20",
+      "sources": [
+        "bvb-player-profile",
+        "fotmob-player"
+      ],
+      "note": "BVB profile lists 20.10.03; FotMob agrees."
+    },
+    "deathDate": null,
+    "birthPlace": null,
+    "nationality": {
+      "value": "AT, GB",
+      "sources": [
+        "bvb-player-profile",
+        "fotmob-player"
+      ],
+      "note": "BVB profile nationality field says England and its career text says triple citizen (Austria, UK, Nigeria). FotMob lists Austria. Birthplace is disputed (BVB: Eisenstadt; vol.at: Vienna), so it is left out."
+    }
+  },
+  "targetQueries": [
+    "carney chukwuemeka age",
+    "carney chukwuemeka stats",
+    "carney chukwuemeka nationality",
+    "carney chukwuemeka austria",
+    "carney chukwuemeka aston villa",
+    "carney chukwuemeka chelsea",
+    "carney chukwuemeka borussia dortmund",
+    "carney chukwuemeka height",
+    "carney chukwuemeka contract"
+  ],
+  "gapNote": "Search results mix Austria eligibility news with rumour and an unverified 2026 season stat line. The page can give a dated career timeline from the club's own profile, the FIFA change-of-association date, and the 1 Oct 2026 Dublin match (started, replaced at half time). Birthplace is not settled and is left out."
+}
