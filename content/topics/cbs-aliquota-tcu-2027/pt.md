@@ -24,6 +24,7 @@ targetQueries:
   - 'alíquota CBS 11,3%'
   - TCU CBS 2027
   - reforma tributária CBS PIS Cofins
+publishedTime: '2026-10-28T15:17:09.000Z'
 ---
 O Tribunal de Contas da União votou nesta quarta-feira (28) uma proposta de alíquota para a nova contribuição que vai substituir o PIS e a Cofins. A taxa sugerida é de 11,3% para 2027, e a palavra final é do Senado [s:cnn-cbs]. A decisão saiu do plenário do tribunal nesta quarta-feira, e a CNN Brasil publicou a reportagem às 11h21 [s:cnn-cbs]. Quem busca o número quer saber se a conta do consumidor vai subir, e a resposta depende de como o Senado decidir.
 

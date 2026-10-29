@@ -34,6 +34,7 @@ faq:
     a: >-
       Seine Eltern haben viel in den Kartsport investiert, und die nächste
       Mahnung sei nicht einfach gewesen, sagt er [s:autobild-vettel].
+publishedTime: '2026-10-29T00:26:56.000Z'
 ---
 ## Was in der Doku steckt
 

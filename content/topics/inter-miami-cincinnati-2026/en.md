@@ -33,6 +33,7 @@ faq:
     a: >-
       7:30pm ET at Nu Stadium on Wednesday, October 28, in MLS Matchday 33
       [s:onefootball-imcin].
+publishedTime: '2026-10-29T00:26:56.000Z'
 ---
 ## Why the match drew searches
 

@@ -14,6 +14,7 @@ summary: >-
   para 31 de outubro [s:ohoje-corinthians-santa-fe-2026-10].
 status: published
 risk: low
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -25,7 +26,7 @@ targetQueries:
   - Corinthians feminino Santa Fe horário
   - Libertadores feminina semifinal Corinthians
   - Corinthians feminino semifinal
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T21:54:15.000Z'
 ---
 Quem procura o jogo hoje quer saber o horário e onde assistir. O Corinthians entra em campo às 17h de Brasília desta quarta-feira, 28 de outubro, contra o Independiente Santa Fe, da Colômbia [s:ohoje-corinthians-santa-fe-2026-10]. O Lance diz que o horário ainda precisa ser confirmado, mas a ficha do jogo traz 17h [s:lance-corinthians-santa-fe-2026-10]. A Radio Nacional, da Colômbia, informa 15h no horário colombiano, que equivale às 17h em Brasília [s:radionacional-santa-fe-corinthians-2026-10].
 

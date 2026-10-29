@@ -14,6 +14,7 @@ summary: >-
   it posted in the second quarter.
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -26,7 +27,7 @@ targetQueries:
   - amzn stock earnings
   - aws growth q3 2026
   - amazon earnings preview
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T21:54:15.000Z'
 ---
 People are searching for Amazon stock on Wednesday, October 28, 2026, because the company reports its third-quarter results the next day. Amazon said in an announcement dated October 15 that it would discuss the results on Thursday, October 29, at 2:00 p.m. Pacific time, or 5:00 p.m. Eastern [s:amzn-ir-q3-2026-call]. The report comes after the market closes [s:pepperstone-amzn-q3-2026].
 

@@ -12,6 +12,7 @@ summary: >-
   were won by nine wickets and 121 runs, and India's batting carried the second.
 status: published
 risk: low
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -22,7 +23,7 @@ targetQueries:
   - India vs Zimbabwe women live score
   - India Zimbabwe ODI 2026 women
   - Vadodara ODI India Zimbabwe
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T12:16:54.000Z'
 ---
 India Women play the third and final one-day international of the series against Zimbabwe Women in Vadodara on 28 October [s:wisden-ind-zim-3rd-odi]. The series is already decided, because India lead it 2-0 with one match left [s:newsonair-ind-zim-2nd-odi]. The third match cannot change who has won the series, but it closes a tour that India have dominated so far.
 

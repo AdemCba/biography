@@ -36,6 +36,7 @@ faq:
       Der Betreiber nennt steigende Kosten, Verluste seit der Saison 2019/2020
       und Regen statt Schnee als Gründe [s:t-online-kolben-skigebiet]
       [s:schneehoehen-kolben-skibetrieb].
+publishedTime: '2026-10-28T09:46:26.000Z'
 ---
 Am Kolben in Oberammergau endet der organisierte Winterbetrieb. Die Piste wird nicht mehr präpariert und nicht mehr künstlich beschneit, und das Gelände läuft im Dezember so weiter wie im Sommer [s:t-online-kolben-skigebiet]. Bei ausreichender natürlicher Schneelage dürfen Skitourengeher das Gelände weiter selbst nutzen [s:t-online-kolben-skigebiet].
 

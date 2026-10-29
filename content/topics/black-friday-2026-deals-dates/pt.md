@@ -16,6 +16,7 @@ summary: >-
   de novembro [s:bestbuy-holiday-2026].
 status: published
 risk: low
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -42,7 +43,7 @@ faq:
     a: >-
       A Cyber Monday cai na segunda-feira, 30 de novembro, três dias depois da
       Black Friday [s:awarenessdays-bf2026].
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T09:44:44.000Z'
 ---
 ## O que aconteceu: ofertas antecipadas desde o fim de outubro
 

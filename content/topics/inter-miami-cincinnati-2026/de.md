@@ -33,6 +33,7 @@ faq:
       Er stand in der bestätigten Startelf als Kapitän [s:onefootball-imcin].
       Vor dem Spiel hieß es, er solle nach einem Start auf der Bank wieder in
       die Startelf rücken [s:livescore-messi].
+publishedTime: '2026-10-29T00:26:56.000Z'
 ---
 ## Warum das Spiel gesucht wurde
 

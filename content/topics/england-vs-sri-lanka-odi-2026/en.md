@@ -22,6 +22,7 @@ targetQueries:
   - Sri Lanka vs England live score
   - England cricket Lahore 2026
   - Pakistan tri-series 2026 final
+publishedTime: '2026-10-29T09:17:31.000Z'
 ---
 England and Sri Lanka meet at the Gaddafi Stadium in Lahore on Thursday 29 October, and the match is drawing searches in several countries even though it no longer decides who reaches the final. England are already out of the one-day tri-series that Pakistan is hosting with Sri Lanka and England [s:wion-schedule]. Sri Lanka's win over Pakistan on Tuesday ended England's hopes [s:khaleej-england-out] [s:news24-england-out].
 

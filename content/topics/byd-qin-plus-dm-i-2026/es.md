@@ -13,6 +13,7 @@ summary: >-
   lanzamiento, y algunas cifras previas no coinciden con las oficiales.
 status: published
 risk: low
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -23,7 +24,7 @@ targetQueries:
   - BYD Qin Plus DM-i precio
   - BYD Qin Plus autonomía eléctrica
   - BYD Qin Plus nuevo modelo
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T12:16:54.000Z'
 ---
 BYD presentó el 27 de octubre de 2026 en China la tercera generación del Qin Plus DM-i, un sedán híbrido enchufable con una carrocería más grande y más autonomía eléctrica [s:cnevpost-launch-2026-10]. Quien busca el modelo hoy quiere saber qué cambia respecto al anterior, cuánto cuesta y cuánto puede recorrer en modo eléctrico. Las cifras del lanzamiento ya están publicadas, aunque algunos datos de los avances previos no coinciden con ellas [s:cnevpost-prelaunch-2026-10] [s:chinaevhome-preview-2026-10].
 

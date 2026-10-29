@@ -24,6 +24,7 @@ targetQueries:
   - avengers doomsday imax
   - avengers doomsday 4dx
   - avengers doomsday premium formats
+publishedTime: '2026-10-29T20:38:34.000Z'
 ---
 Fans are searching for the new *Avengers: Doomsday* posters because Marvel has released a set made for premium cinema formats, and Doctor Doom is the focus of three of the four official posters. [s:comicbasics-doomsday-premium-2026] The film opens on December 18, and the release date is printed on the posters. [s:comicbasics-doomsday-formats-2026] [s:tribune-doomsday-posters-2026]
 

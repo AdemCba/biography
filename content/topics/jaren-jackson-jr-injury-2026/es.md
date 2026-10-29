@@ -16,6 +16,7 @@ summary: >-
   semanas.
 status: published
 risk: medium
+publishedAt: '2026-10-29'
 reviewedAt: '2026-10-29'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -26,7 +27,7 @@ targetQueries:
   - Jaren Jackson Jr. Jazz lesión
   - Jaren Jackson Jr. cuántas semanas
   - Jaren Jackson Jr. regreso
-publishedAt: '2026-10-29'
+publishedTime: '2026-10-29T03:41:43.000Z'
 ---
 ## Por qué se habla de esto hoy
 

@@ -13,6 +13,7 @@ summary: >-
   p.m. ET on FOX.
 status: published
 risk: low
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -23,7 +24,7 @@ targetQueries:
   - World Series Game 5 2026
   - Rays World Series Game 4
   - Rays Brewers World Series score
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T12:16:54.000Z'
 ---
 Tampa Bay beat the Milwaukee Brewers 4-3 in 12 innings on Tuesday, October 27, at Tropicana Field, and the win kept the Rays' World Series alive [s:rays-mlb-game-4] [s:fox13-world-series-schedule]. The game lasted four hours and 20 minutes [s:rays-mlb-game-4]. Milwaukee had led the series 3-0 going into it, so a loss would have been a sweep [s:rays-mlb-game-4]. Tampa Bay now trails 3-1 [s:rays-mlb-game-4].
 

@@ -67,7 +67,8 @@ for (const article of queue) {
     date = day.toISOString().slice(0, 10);
   }
   taken.set(slot(date, article.locale), (taken.get(slot(date, article.locale)) ?? 0) + 1);
-  writeArticle(article.file, { ...article.meta, status: "published", publishedAt: date, updatedAt: undefined }, article.body);
+  const publishedTime = date === today() ? new Date().toISOString() : `${date}T06:00:00.000Z`;
+  writeArticle(article.file, { ...article.meta, status: "published", publishedAt: date, publishedTime, updatedAt: undefined }, article.body);
   console.log(`${date}  ${article.personId}/${article.locale}`);
 }
 const unreviewed = entries.flatMap((p) => Object.values(p.articles)).filter((a) => a?.meta.status === "approved" && !a.meta.reviewer).length;

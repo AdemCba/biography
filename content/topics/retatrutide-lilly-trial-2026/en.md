@@ -12,6 +12,7 @@ summary: >-
   is not approved anywhere yet.
 status: published
 risk: high
+publishedAt: '2026-10-29'
 reviewedAt: '2026-10-29'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -21,7 +22,7 @@ targetQueries:
   - retatrutide Lilly trial results
   - retatrutide approval
   - Eli Lilly retatrutide weight loss
-publishedAt: '2026-10-29'
+publishedTime: '2026-10-29T03:17:36.000Z'
 ---
 ## Why people are searching this today
 

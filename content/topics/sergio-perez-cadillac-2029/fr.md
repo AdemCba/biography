@@ -13,6 +13,7 @@ summary: >-
   Grand Prix. Son ancien contrat devait prendre fin en 2027, selon Sky Sports.
 status: published
 risk: low
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -24,7 +25,7 @@ targetQueries:
   - Sergio Pérez 300e Grand Prix
   - Sergio Pérez Grand Prix du Mexique 2026
   - Sergio Pérez âge
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T21:54:15.000Z'
 ---
 [Sergio Pérez](person:sergio-perez) est recherché ce mercredi 28 octobre 2026, jour où le pilote mexicain a annoncé qu'il prolongeait son contrat avec l'écurie Cadillac jusqu'en 2029 [s:eurosport-perez-cadillac-2029-10] [s:dhnet-perez-cadillac-2029-10]. L'annonce tombe à quelques jours du Grand Prix du Mexique, sa course à domicile [s:dhnet-perez-cadillac-2029-10]. Les internautes veulent surtout savoir ce qui a été signé et jusqu'à quand.
 

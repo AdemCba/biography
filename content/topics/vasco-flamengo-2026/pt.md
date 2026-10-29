@@ -32,6 +32,7 @@ faq:
     a: >-
       Na quinta-feira, 29 de outubro, às 20h (de Brasília), no Nilton Santos
       [s:lance-vasco-flamengo] [s:exame-vasco-flamengo].
+publishedTime: '2026-10-29T00:26:56.000Z'
 ---
 ## Por que o clássico está em alta
 

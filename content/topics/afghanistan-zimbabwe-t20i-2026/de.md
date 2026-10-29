@@ -14,6 +14,7 @@ summary: >-
   Ort statt [s:geosuper-afg-zim-t20i].
 status: published
 risk: medium
+publishedAt: '2026-10-29'
 reviewedAt: '2026-10-29'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -24,7 +25,7 @@ targetQueries:
   - Afghanistan Simbabwe Sharjah
   - Afghanistan Simbabwe 1. T20 Länderspiel
   - Afghanistan Simbabwe zweites Spiel
-publishedAt: '2026-10-29'
+publishedTime: '2026-10-29T15:51:40.000Z'
 ---
 Die Suche nach dem Ergebnis von Afghanistan gegen Simbabwe läuft heute, weil
 das zweite T20-Länderspiel der Serie am Donnerstag wieder in Sharjah stattfindet

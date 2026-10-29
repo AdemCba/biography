@@ -34,6 +34,7 @@ faq:
       Il s'est rompu le tendon d'Achille droit au début du septième match des
       Finales NBA 2025 et a manqué toute la saison suivante
       [s:yahoo-pacers-preview].
+publishedTime: '2026-10-29T00:26:56.000Z'
 ---
 ## Pourquoi on cherchait Haliburton
 

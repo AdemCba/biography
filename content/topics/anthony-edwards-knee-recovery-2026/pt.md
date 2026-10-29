@@ -13,6 +13,7 @@ summary: >-
   fontes consultadas não informam data de retorno.
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -23,7 +24,7 @@ targetQueries:
   - Anthony Edwards lesão joelho
   - Anthony Edwards Timberwolves lesão
   - Anthony Edwards retorno
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T03:45:37.000Z'
 ---
 [Anthony Edwards](person:anthony-edwards) machucou o joelho esquerdo na primeira metade do Jogo 4 da primeira rodada dos playoffs, contra o Denver Nuggets, em abril de 2026. Ao disputar uma bandeja de Cam Johnson, a perna esquerda dobrou na aterrissagem, segundo a Associated Press [s:ap-edwards-knee-2026-04]. A lesão foi uma contusão óssea com hiperextensão do joelho [s:roundtable-edwards-summer-break-2026-10]. A AP informou que o joelho permaneceu estruturalmente intacto [s:ap-edwards-knee-2026-04].
 

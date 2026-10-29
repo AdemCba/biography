@@ -13,6 +13,7 @@ summary: >-
   despliega a los Partners en los próximos días.
 status: published
 risk: low
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -24,7 +25,7 @@ targetQueries:
   - twitch recaps instagram
   - twitch stream recap clips
   - twitch partners clips youtube
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T21:23:57.000Z'
 ---
 Si has llegado a esta página buscando "twitch", lo más probable es que sea por el anuncio de esta semana. Los clips de los directos de sus streamers empiezan a salir de la plataforma. Los socios de Twitch, los Partners, podrán ver algunos de sus clips de Stream Recaps promocionados en Instagram y YouTube, en un programa que la compañía llama Recaps Spotlight [s:twitch-recaps-spotlight-2026-10-27]. Cada clip promocionado acredita al streamer y lleva a los espectadores a su canal de Twitch [s:twitch-recaps-spotlight-2026-10-27].
 

@@ -16,6 +16,7 @@ summary: >-
   concordam sobre até onde o processo avançou no tribunal.
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -37,7 +38,7 @@ faq:
       As reportagens falam em 32 pontos: 17 serão operados diretamente pela
       Grand Frais, 14 em regime de gerência e uma loja de Bayonne ligada à Gifi
       48 [s:demotivateur-gifi] [s:tribunaldunet-gifi].
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-27T17:17:46.000Z'
 ---
 ## O que aconteceu
 

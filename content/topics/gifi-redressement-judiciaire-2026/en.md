@@ -16,6 +16,7 @@ summary: >-
   agree on how far the court process has gone.
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -37,7 +38,7 @@ faq:
       The reports describe 32 sites: 17 run directly by Grand Frais, 14 under a
       managed arrangement, and one Bayonne store linked to Gifi 48
       [s:demotivateur-gifi] [s:tribunaldunet-gifi].
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-27T17:17:46.000Z'
 ---
 ## What happened
 

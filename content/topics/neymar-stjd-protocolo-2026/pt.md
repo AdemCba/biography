@@ -34,6 +34,7 @@ faq:
       É uma regra que proíbe cobrir a boca ao falar com um adversário, criada
       para combater manifestações racistas, porque o gesto pode esconder ofensas
       discriminatórias [s:lance-neymar].
+publishedTime: '2026-10-29T00:26:56.000Z'
 ---
 ## O que aconteceu
 

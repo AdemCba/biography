@@ -24,6 +24,7 @@ targetQueries:
   - cristiano ronaldo 2008 ballon d'or
   - ballon d'or all time vote
   - boat france football
+publishedTime: '2026-10-29T20:38:34.000Z'
 ---
 Many people are searching for the "all-time Ballon d'Or" today because the public vote has a result. Cristiano Ronaldo's 2008 season came first and beat Lionel Messi's 2012 season. [s:abola-ronaldo-2008-boat-2026-10] A Bola, the Portuguese newspaper, reported the result in a piece dated October 28. [s:abola-ronaldo-2008-boat-2026-10]
 

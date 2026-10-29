@@ -16,6 +16,7 @@ summary: >-
   fuentes no coinciden en hasta dónde ha llegado el proceso en el tribunal.
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -37,7 +38,7 @@ faq:
       Los reportajes hablan de 32 locales: 17 los explotará directamente Grand
       Frais, 14 bajo un contrato de gerencia y una tienda de Bayonne vinculada a
       Gifi 48 [s:demotivateur-gifi] [s:tribunaldunet-gifi].
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-27T17:17:46.000Z'
 ---
 ## Qué ha pasado
 

@@ -33,6 +33,7 @@ faq:
     a: >-
       He ruptured his right Achilles early in Game 7 of the 2025 NBA Finals and
       missed the entire following season [s:yahoo-pacers-preview].
+publishedTime: '2026-10-29T00:26:56.000Z'
 ---
 ## Why Haliburton was in the news
 

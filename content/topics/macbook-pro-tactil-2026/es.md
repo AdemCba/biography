@@ -16,6 +16,7 @@ summary: >-
   [s:macrumors-macbook-pro-touch-2026].
 status: published
 risk: low
+publishedAt: '2026-10-29'
 reviewedAt: '2026-10-29'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -39,7 +40,7 @@ faq:
     a: >-
       Las preventas abrieron el 28 de octubre y la venta comienza el viernes 6
       de noviembre [s:macrumors-macbook-pro-touch-2026].
-publishedAt: '2026-10-29'
+publishedTime: '2026-10-29T09:36:12.000Z'
 ---
 ## Qué anunció Apple
 

@@ -15,6 +15,7 @@ summary: >-
   publicó el resultado el 28 de octubre de 2026.
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -24,7 +25,7 @@ targetQueries:
   - BOAT Cristiano Ronaldo
   - Cristiano Ronaldo 2008 mejor Balón de Oro
   - votación BOAT France Football
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T21:23:57.000Z'
 ---
 ## Por qué se busca hoy
 

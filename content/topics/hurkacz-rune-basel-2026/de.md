@@ -14,6 +14,7 @@ summary: >-
   der zweiten Runde aufeinandertreffen.
 status: published
 risk: low
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -27,7 +28,7 @@ targetQueries:
   - holger rune achillessehne
   - holger rune 373 tage
   - swiss indoors basel 2026
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T21:54:15.000Z'
 ---
 [Hubert Hurkacz](person:hubert-hurkacz) und Holger Rune sind gerade gemeinsam im Gespräch, weil sie in Basel aufeinandertreffen sollen. Der an Nummer zehn gesetzte Hurkacz gewann am 27. Oktober gegen Zizou Bergs 3:6, 6:3, 6:4 [s:tennismajors-hurkacz-bergs]. Rune setzte sich in seinem Match in Basel gegen Quentin Halys 6:4, 6:7 (2), 7:6 (5) durch. Der Sieg beendete 373 Tage ohne Erfolg auf der ATP-Tour [s:tennismajors-rune-373]. Das nächste Duell ist für die zweite Runde angesetzt [s:sky-swiss-indoors-2026].
 

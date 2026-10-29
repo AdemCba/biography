@@ -24,6 +24,7 @@ targetQueries:
   - balanza comercial México septiembre 2026
   - déficit comercial México 2026
   - exportaciones mexicanas récord
+publishedTime: '2026-10-28T15:14:29.000Z'
 ---
 Las exportaciones mexicanas volvieron a dispararse en septiembre, y el dato apareció en los titulares del martes 27 de octubre. El número es grande, casi 38 % más que hace un año, pero no alcanza para dejar la balanza en superávit. Las compras del exterior crecieron todavía más, y el mes terminó con un saldo negativo [s:elfinanciero-exportaciones][s:expansion-exportaciones].
 

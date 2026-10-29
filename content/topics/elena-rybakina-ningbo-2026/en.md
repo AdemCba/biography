@@ -22,6 +22,7 @@ targetQueries:
   - Rybakina year-end No. 1
   - Rybakina Fernandez final
   - Rybakina title 2026
+publishedTime: '2026-10-29T09:17:31.000Z'
 ---
 Elena Rybakina is trending because she has moved closer to the year-end No. 1 ranking. On Sunday 25 October she won the Ningbo Open final 6-2, 6-2 against Leylah Fernandez, defending a title she had also won last year [s:star-rybakina-ningbo] [s:qatar-ningbo-title]. The match lasted one hour and 16 minutes, and Rybakina broke her opponent's serve twice in each set without losing her own [s:star-rybakina-ningbo].
 

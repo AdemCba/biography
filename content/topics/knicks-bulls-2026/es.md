@@ -32,6 +32,7 @@ faq:
     a: >-
       No. Figuraba como baja por una lesión de isquiotibiales, y el equipo dijo
       que lo volverían a evaluar en dos semanas [s:covers-knicks-bulls].
+publishedTime: '2026-10-29T00:26:56.000Z'
 ---
 ## Por qué se buscó el partido
 

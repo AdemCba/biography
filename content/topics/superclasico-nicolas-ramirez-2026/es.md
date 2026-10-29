@@ -25,6 +25,7 @@ targetQueries:
   - Nicolás Ramírez árbitro
   - Superclásico 1 de noviembre 2026
   - Boca River Superclásico hora
+publishedTime: '2026-10-28T15:17:09.000Z'
 ---
 El árbitro del próximo Superclásico ya tiene nombre, y el anuncio llegó en medio de una discusión que va más allá de la cancha. La Liga Profesional confirmó a Nicolás Ramírez para el Boca-River del domingo 1 de noviembre, en La Bombonera [s:infobae-superclasico]. Como el partido puede definir el campeonato, la designación genera atención desde el primer minuto.
 

@@ -18,6 +18,7 @@ summary: >-
   octubre [s:lanacion-lakers-clippers-recap] [s:si-lakers-clippers-scoreboard].
 status: published
 risk: low
+publishedAt: '2026-10-29'
 reviewedAt: '2026-10-29'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -37,7 +38,7 @@ faq:
       Los Lakers ganaron 125-117 el viernes 23 de octubre de 2026 en el
       Crypto.com Arena [s:si-lakers-clippers-scoreboard]
       [s:lanacion-lakers-clippers-recap].
-publishedAt: '2026-10-29'
+publishedTime: '2026-10-29T03:17:36.000Z'
 ---
 Mucha gente busca este partido por una pregunta sencilla: el resultado del miércoles. El encuentro figuraba para el miércoles 28 de octubre, con los Clippers como local y el balón en juego a las 22:30 hora del Este, es decir, a las 23:30 en Buenos Aires [s:legion-clippers-schedule]. Todavía no hay un marcador final confirmado para ese duelo, y el calendario de temporada tampoco muestra puntajes para esa fecha [s:landofbasketball-clippers-2026-27]. Otra página de calendario muestra a los Lakers contra los Trail Blazers ese mismo 28 de octubre [s:si-lakers-clippers-scoreboard], así que conviene verificar la fecha y el horario en el calendario oficial de la NBA antes de confiar en ellos. Quien necesite el resultado tendrá que esperar el acta oficial del partido.
 

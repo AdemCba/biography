@@ -35,6 +35,7 @@ faq:
       El lunes 23 de noviembre de 2026, con un episodio nuevo cada día de lunes
       a viernes, en formato a la carta [s:mediaset-love-for-rent]
       [s:blogtv-love-for-rent].
+publishedTime: '2026-10-29T00:26:56.000Z'
 ---
 ## Qué es y cuándo llega
 

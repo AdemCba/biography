@@ -24,6 +24,7 @@ targetQueries:
   - carlos tevez despedida bombonera
   - partido despedida tevez fecha
   - tevez messi cristiano ronaldo bombonera
+publishedTime: '2026-10-29T15:11:23.000Z'
 ---
 ## Por qué se busca hoy
 

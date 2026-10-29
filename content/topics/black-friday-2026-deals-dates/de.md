@@ -14,6 +14,7 @@ summary: >-
   Black-Friday-Angeboten am 6. November [s:bestbuy-holiday-2026].
 status: published
 risk: low
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -40,7 +41,7 @@ faq:
     a: >-
       Der Cyber Monday fällt auf Montag, den 30. November, drei Tage nach dem
       Black Friday [s:awarenessdays-bf2026].
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T09:44:44.000Z'
 ---
 ## Was passiert ist: frühe Angebote seit Ende Oktober
 

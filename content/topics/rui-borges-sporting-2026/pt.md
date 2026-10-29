@@ -13,6 +13,7 @@ summary: >-
   [s:abola-contract-status-2026].
 status: published
 risk: medium
+publishedAt: '2026-10-29'
 reviewedAt: '2026-10-29'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -28,7 +29,7 @@ faq:
       O contrato dele é válido até junho de 2028 [s:abola-contract-status-2026],
       mas A Bola descreve a sua posição como "a prazo"
       [s:abola-contract-status-2026].
-publishedAt: '2026-10-29'
+publishedTime: '2026-10-29T15:51:40.000Z'
 ---
 ## Porque é procurado hoje
 

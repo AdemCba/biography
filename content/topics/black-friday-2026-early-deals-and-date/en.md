@@ -41,6 +41,7 @@ faq:
       Best Buy says most purchases made October 30 through December 31 can be
       returned through January 15, 2027, or January 31, 2027 for Plus and Total
       members [s:bestbuy-holiday-calendar-2026].
+publishedTime: '2026-10-28T09:46:26.000Z'
 ---
 Black Friday 2026 falls on Friday, November 27 [s:awarenessdays-black-friday-2026]. SSBCrack gives the same date and says Cyber Monday is November 30 [s:ssbcrack-black-friday-2026]. Best Buy has published a dated calendar for the run-up, and it is the main retailer schedule this article can confirm.
 

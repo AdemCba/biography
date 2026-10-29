@@ -21,6 +21,7 @@ summary: >-
   [s:cointelegraph-ripple-final].
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -42,7 +43,7 @@ faq:
       Ninguna de las fuentes consultadas da una fecha de apertura, así que la
       aprobación no dice cuándo empezará a operar el banco
       [s:ripple-press-final-occ] [s:cointelegraph-ripple-final].
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-27T13:55:10.000Z'
 ---
 ## Qué ha pasado
 

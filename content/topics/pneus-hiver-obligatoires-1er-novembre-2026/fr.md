@@ -46,6 +46,7 @@ faq:
       Depuis le 1er novembre 2024, les pneus marqués seulement M+S ne suffisent
       plus dans les zones concernées, et seul le marquage 3PMSF vaut équivalence
       [s:letribunaldunet-pneus-hiver-2026] [s:service-public-pneus-hiver-2026].
+publishedTime: '2026-10-28T09:46:26.000Z'
 ---
 Les pneus hiver redeviennent obligatoires à partir du 1er novembre 2026 dans une partie des communes de montagne. Le dispositif court jusqu'au 31 mars 2027 [s:service-public-pneus-hiver-2026]. Il ne concerne pas tout le territoire, et chaque conducteur doit donc vérifier si son itinéraire traverse une zone concernée.
 

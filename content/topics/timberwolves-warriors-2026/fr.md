@@ -16,6 +16,7 @@ summary: >-
   [s:yahoo-lineup].
 status: published
 risk: medium
+publishedAt: '2026-10-29'
 reviewedAt: '2026-10-29'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -35,7 +36,7 @@ faq:
     a: >-
       Il figurait forfait sur le rapport des blessures, pour une blessure au
       genou droit [s:yahoo-final-injury].
-publishedAt: '2026-10-29'
+publishedTime: '2026-10-29T03:17:36.000Z'
 ---
 ## Pourquoi ce match revient dans les recherches
 

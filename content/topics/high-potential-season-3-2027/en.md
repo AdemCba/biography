@@ -24,6 +24,7 @@ targetQueries:
   - High Potential season 3 premiere date
   - High Potential Super Bowl
   - High Potential new episodes 2027
+publishedTime: '2026-10-28T15:14:29.000Z'
 ---
 Fans searching for High Potential this week are looking for a return date, and the answer is not in the fall. ABC has kept the show off its 2026 schedule, and season 3 will instead open in February 2027 [s:cbr-high-potential]. Unlike the first two seasons, the third will not air a single new episode in 2026 [s:cbr-high-potential].
 

@@ -15,6 +15,7 @@ summary: >-
   Millionen Euro [s:orf-burgenland-nachzahlung] [s:newsat-ams-135-mio].
 status: published
 risk: high
+publishedAt: '2026-10-29'
 reviewedAt: '2026-10-29'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -25,7 +26,7 @@ targetQueries:
   - AMS Nachzahlung Burgenland
   - Arbeitslosengeld falsch berechnet
   - AMS Nachzahlung Jänner 2027
-publishedAt: '2026-10-29'
+publishedTime: '2026-10-29T15:51:40.000Z'
 ---
 ## Was passiert ist
 

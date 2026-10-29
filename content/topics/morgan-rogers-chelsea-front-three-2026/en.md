@@ -13,6 +13,7 @@ summary: >-
   responsibility.
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -22,7 +23,7 @@ targetQueries:
   - Morgan Rogers front three
   - Chelsea front three Palmer Joao Pedro
   - Morgan Rogers Chelsea stats
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T21:23:57.000Z'
 ---
 ## The debut that set the tone
 

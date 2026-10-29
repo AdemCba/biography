@@ -15,6 +15,7 @@ summary: >-
   anterior.
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -25,7 +26,7 @@ targetQueries:
   - Google Cloud ingresos 2026
   - Alphabet resultados Google Cloud 103 %
   - Alphabet acciones resultados trimestrales
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T21:23:57.000Z'
 ---
 Alphabet publicó el 28 de octubre de 2026 sus resultados del tercer trimestre, y la cifra que más se busca es la de Google Cloud, que más que duplicó sus ingresos [s:9to5google-q3-2026]. Los ingresos totales de la matriz de Google llegaron a 127.577 millones de dólares, un 25 % más que un año antes [s:sec-q3-2026-8k]. El beneficio neto, en cambio, bajó frente al año anterior [s:9to5google-q3-2026] [s:sec-q3-2026-8k].
 

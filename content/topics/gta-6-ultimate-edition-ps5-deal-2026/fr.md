@@ -14,6 +14,7 @@ summary: >-
   sur PS5 et Xbox Series X|S [s:gameinformer-gta6-editions].
 status: published
 risk: low
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -24,7 +25,7 @@ targetQueries:
   - GTA 6 date de sortie
   - GTA 6 prix Ultimate Edition
   - GTA 6 contenu Ultimate Edition
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T12:16:54.000Z'
 ---
 Une offre de carte cadeau circule à trois semaines de la sortie de GTA 6. Le titre d'Esquire India demande si l'édition Ultimate a vraiment baissé de prix. L'article répond que la remise porte sur la carte, et non sur le jeu [s:esquire-gta6-newegg-card]. Il faut donc distinguer deux choses.
 

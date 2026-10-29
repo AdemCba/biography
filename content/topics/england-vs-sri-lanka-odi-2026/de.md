@@ -23,6 +23,7 @@ targetQueries:
   - Sri Lanka England Liveticker
   - England Cricket Lahore 2026
   - Dreierturnier Pakistan 2026 Finale
+publishedTime: '2026-10-29T09:17:31.000Z'
 ---
 England trifft am Donnerstag, 29. Oktober, im Gaddafi-Stadion in Lahore auf Sri Lanka. Das Spiel wird in mehreren Ländern gesucht, obwohl es nicht mehr entscheidet, wer ins Finale kommt. England ist aus dem ODI-Dreierturnier ausgeschieden, das Pakistan gemeinsam mit Sri Lanka und England austrägt [s:wion-schedule]. Sri Lankas Sieg über Pakistan am Dienstag hat die Hoffnungen der Engländer beendet [s:khaleej-england-out] [s:news24-england-out].
 

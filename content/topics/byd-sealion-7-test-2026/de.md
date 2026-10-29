@@ -16,6 +16,7 @@ summary: >-
   [s:autobild-sealion-7-test-2026].
 status: published
 risk: low
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -26,7 +27,7 @@ targetQueries:
   - BYD Sealion 7 Reichweite
   - BYD Sealion 7 Erfahrungen
   - BYD Sealion 7 Auto Bild
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T12:16:54.000Z'
 ---
 Auto Bild hat den BYD Sealion 7 im Testfazit veröffentlicht, am 27. Oktober 2026, mit der Note 2,1 [s:autobild-sealion-7-test-2026]. Es handelt sich um einen Testbericht mit Fazit, der Fahrverhalten, Platzangebot, Antrieb, Laden und Preis bewertet [s:autobild-sealion-7-test-2026].
 

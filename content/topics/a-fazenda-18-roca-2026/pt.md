@@ -22,6 +22,7 @@ targetQueries:
   - enquete A Fazenda 2026
   - A Fazenda 18 desistência
   - A Fazenda 18 eliminados
+publishedTime: '2026-10-29T09:17:31.000Z'
 ---
 A Fazenda 18 volta às buscas porque a sexta roça está em disputa e a enquete do UOL pergunta quem deve ficar [s:uol-enquete-roca6]. A temporada, da Record, já teve eliminações e duas desistências em poucos dias, o que aumentou o interesse do público pela votação.
 

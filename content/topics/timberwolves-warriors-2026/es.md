@@ -18,6 +18,7 @@ summary: >-
   [s:yahoo-lineup].
 status: published
 risk: medium
+publishedAt: '2026-10-29'
 reviewedAt: '2026-10-29'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -37,7 +38,7 @@ faq:
     a: >-
       Figuraba de baja por una lesión en la rodilla derecha, y el informe
       preveía una artroscopia en esa rodilla [s:yahoo-final-injury].
-publishedAt: '2026-10-29'
+publishedTime: '2026-10-29T03:17:36.000Z'
 ---
 ## Por qué se busca este partido ahora
 

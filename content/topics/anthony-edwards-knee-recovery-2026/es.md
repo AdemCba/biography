@@ -13,6 +13,7 @@ summary: >-
   no dan fecha de regreso.
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -23,7 +24,7 @@ targetQueries:
   - Anthony Edwards lesión rodilla
   - Anthony Edwards Timberwolves lesión
   - Anthony Edwards regreso
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T03:45:37.000Z'
 ---
 [Anthony Edwards](person:anthony-edwards) se lesionó la rodilla izquierda en la primera mitad del Juego 4 de la primera ronda de los playoffs, en la serie que los Minnesota Timberwolves jugaban contra los Denver Nuggets, en abril de 2026. Según la Associated Press, su pierna izquierda se dobló al aterrizar mientras disputaba una entrada de Cam Johnson [s:ap-edwards-knee-2026-04]. La lesión consistió en una contusión ósea y una hiperextensión de la rodilla [s:roundtable-edwards-summer-break-2026-10]. La AP informó que la rodilla seguía estructuralmente intacta [s:ap-edwards-knee-2026-04].
 

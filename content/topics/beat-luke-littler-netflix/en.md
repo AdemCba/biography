@@ -13,6 +13,7 @@ summary: >-
   and produced by Workerbee, part of Banijay UK.
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -23,7 +24,7 @@ targetQueries:
   - Beat Luke Littler prize
   - Beat Luke Littler date
   - Luke Littler Netflix darts
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-27T16:50:53.000Z'
 ---
 Netflix is showing a live darts special called Beat Luke Littler on Friday 30 October 2026 [s:broadcastnow-beat-luke-littler]. Twenty amateur players will each get one leg of 501 against [Luke Littler](person:luke-littler), then world No. 1 [s:whats-on-netflix-beat-luke-littler]. Anyone who wins a leg takes £501,000 [s:whats-on-netflix-beat-luke-littler].
 

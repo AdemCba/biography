@@ -24,6 +24,7 @@ targetQueries:
   - AJ Dybantsa stats
   - AJ Dybantsa lesión
   - AJ Dybantsa Cavaliers
+publishedTime: '2026-10-29T06:09:37.000Z'
 ---
 AJ Dybantsa jugó por fin su primer partido de temporada regular con los Washington Wizards. El 28 de octubre de 2026 anotó 19 puntos ante los Cleveland Cavaliers, en una noche que empezó bien para él y terminó con derrota para su equipo [s:nba-dybantsa-debut-cavaliers]. La búsqueda de su nombre en estos días gira sobre todo en torno a dos preguntas: si ya estaba sano y cuánto aportó. La crónica oficial de la NBA responde a ambas [s:nba-dybantsa-debut-cavaliers].
 

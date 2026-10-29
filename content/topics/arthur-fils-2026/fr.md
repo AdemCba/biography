@@ -12,6 +12,7 @@ summary: >-
   répondu à ce sujet à Cincinnati [s:puntodebreak-cincinnati-2026].
 status: published
 risk: medium
+publishedAt: '2026-10-29'
 reviewedAt: '2026-10-29'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -22,7 +23,7 @@ targetQueries:
   - Arthur Fils Cincinnati
   - Arthur Fils blessure
   - Arthur Fils classement
-publishedAt: '2026-10-29'
+publishedTime: '2026-10-29T15:51:40.000Z'
 ---
 ## Ce qui s'est passé
 

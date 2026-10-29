@@ -13,6 +13,7 @@ summary: >-
   meet in the second round.
 status: published
 risk: low
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -26,7 +27,7 @@ targetQueries:
   - holger rune achilles
   - holger rune 373 days
   - swiss indoors basel 2026
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T21:54:15.000Z'
 ---
 [Hubert Hurkacz](person:hubert-hurkacz) and Holger Rune are trending together because they are on course to meet in Basel. Hurkacz, the tenth seed, beat Zizou Bergs 3-6, 6-3, 6-4 on 27 October [s:tennismajors-hurkacz-bergs]. Rune beat Quentin Halys 6-4, 6-7 (2), 7-6 (5) in his own Basel match, a win that ended 373 days without an ATP Tour victory [s:tennismajors-rune-373]. The two are due to meet in the second round [s:sky-swiss-indoors-2026].
 

@@ -36,18 +36,40 @@ export function TrendingList({ locale, page }: { locale: Locale; page: number })
   const topics = all.slice((page - 1) * TOPICS_PER_PAGE, page * TOPICS_PER_PAGE);
   const pages = trendingPageCount(locale);
   return (
-    <div className="mx-auto max-w-3xl py-10">
+    <div className="mx-auto max-w-5xl py-10">
       <h1 className="text-4xl font-semibold">{t.title}</h1>
       {page === 1 && <p className="mt-3 text-lg text-muted">{t.intro}</p>}
       {topics.length ? (
-        <ul className="mt-8 divide-y divide-line">
-          {topics.map(({ topic, article }) => (
-            <li key={topic.data.id} className="py-5">
-              <Link href={topicPath(locale, article.meta.slug)} className="font-serif text-2xl hover:underline">{article.meta.title}</Link>
-              <p className="mt-1 text-sm text-muted">{formatDate(article.meta.publishedAt!, locale)}</p>
-              <p className="mt-2">{article.meta.summary}</p>
-            </li>
-          ))}
+        <ul className="mt-8 grid gap-6 sm:grid-cols-2">
+          {topics.map(({ topic, article }, i) => {
+            const lead = page === 1 && i === 0;
+            return (
+              <li key={topic.data.id} className={lead ? "sm:col-span-2" : undefined}>
+                <Link href={topicPath(locale, article.meta.slug)} className="group block h-full overflow-hidden rounded-xl border border-line transition hover:shadow-lg">
+                  <div className={`relative overflow-hidden bg-line ${lead ? "aspect-[2/1]" : "aspect-[16/9]"}`}>
+                    {topic.data.image ? (
+                      // eslint-disable-next-line @next/next/no-img-element
+                      <img
+                        src={topic.data.image.src}
+                        alt={article.meta.title}
+                        loading={i < 3 ? "eager" : "lazy"}
+                        className="h-full w-full object-cover transition duration-300 group-hover:scale-105"
+                      />
+                    ) : (
+                      <div className="h-full w-full bg-gradient-to-br from-line to-muted/30" />
+                    )}
+                    <span className="absolute left-3 top-3 rounded-full bg-black/70 px-3 py-1 text-xs font-medium text-white">
+                      {formatDate(article.meta.publishedAt!, locale)}
+                    </span>
+                  </div>
+                  <div className="p-5">
+                    <h2 className={`font-serif font-semibold leading-snug group-hover:underline ${lead ? "text-3xl" : "text-xl"}`}>{article.meta.title}</h2>
+                    <p className={`mt-2 text-muted ${lead ? "line-clamp-3" : "line-clamp-2"}`}>{article.meta.summary}</p>
+                  </div>
+                </Link>
+              </li>
+            );
+          })}
         </ul>
       ) : (
         <p className="mt-8 text-muted">{t.empty}</p>

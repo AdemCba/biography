@@ -24,6 +24,7 @@ targetQueries:
   - avengers doomsday brasil
   - avengers doomsday imax
   - avengers doomsday 4dx
+publishedTime: '2026-10-29T20:38:34.000Z'
 ---
 Muita gente procura os novos pôsteres de *Vingadores: Doomsday* porque a Marvel lançou um conjunto feito para formatos premium de cinema, e o Doutor Destino é o foco de três dos quatro pôsteres oficiais. [s:comicbasics-doomsday-premium-2026] O filme estreia em 18 de dezembro, e a data aparece nos pôsteres. [s:comicbasics-doomsday-formats-2026] [s:tribune-doomsday-posters-2026]
 

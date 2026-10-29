@@ -25,6 +25,7 @@ targetQueries:
   - Ramses II colossal statue Egypt
   - Ramesses II Moses
   - Behbeit El-Hagar statues
+publishedTime: '2026-10-28T15:17:09.000Z'
 ---
 Two colossal statues of Ramesses II have turned up in the Nile Delta, and the story is spreading because one report ties the find to Moses. Egypt's ministry announced the discovery on 14 October, and excavation is still under way [s:bernama-ramesses]. Here is what has been confirmed, what is still open, and where the Moses claim comes from.
 

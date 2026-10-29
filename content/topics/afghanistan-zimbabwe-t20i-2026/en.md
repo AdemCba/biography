@@ -13,6 +13,7 @@ summary: >-
   ground [s:geosuper-afg-zim-t20i].
 status: published
 risk: medium
+publishedAt: '2026-10-29'
 reviewedAt: '2026-10-29'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -23,7 +24,7 @@ targetQueries:
   - Afghanistan Zimbabwe T20I result
   - Afghanistan vs Zimbabwe Sharjah
   - Afghanistan Zimbabwe second T20I
-publishedAt: '2026-10-29'
+publishedTime: '2026-10-29T15:51:40.000Z'
 ---
 Fans are searching for the Afghanistan vs Zimbabwe result because the second
 T20I of the three-match series is on Thursday, again at Sharjah

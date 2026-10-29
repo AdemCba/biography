@@ -23,6 +23,7 @@ targetQueries:
   - wetter nebel deutschland
   - wetter wochenende deutschland
   - hochnebel deutschland
+publishedTime: '2026-10-29T20:38:34.000Z'
 ---
 Viele Menschen suchen heute nach dem Wetter für morgen, und die Antwort fällt in Deutschland uneinheitlich aus. Der Deutsche Wetterdienst (DWD) erwartet in der Wochenvorhersage keine markanten Wettergefahren, dafür "zeitweise leicht wechselhaft" Wetter. [s:dwd-wochenvorhersage-2026-10-29] Für Freitag und Samstag, den 30. und 31. Oktober, heißt es dort ausdrücklich: "keine markanten Wettergefahren". [s:dwd-wochenvorhersage-2026-10-29]
 

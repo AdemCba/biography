@@ -41,6 +41,7 @@ faq:
       [s:bemparana-ponto-facultativo-30]. Unidades Básicas de Saúde, Salas do
       Empreendedor e a Setran ficam fechadas na sexta-feira
       [s:bemparana-emenda-finados-abre-fecha].
+publishedTime: '2026-10-28T09:46:26.000Z'
 ---
 A Prefeitura de Curitiba transferiu o ponto facultativo do Dia do Servidor Público para a sexta-feira, 30 de outubro de 2026. A data original era quarta-feira, 28 de outubro [s:tribunapr-calendario-2026]. A mudança foi publicada em decreto de 14 de outubro, e o Bem Paraná identifica o dia 30 como a última sexta-feira de outubro [s:bemparana-ponto-facultativo-30].
 

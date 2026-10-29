@@ -38,6 +38,7 @@ faq:
       Some scholars have suggested that Ramesses II was the unnamed pharaoh of
       the Exodus story, but the reports describe that identification as
       uncertain [s:foxnews-ramesses-statues].
+publishedTime: '2026-10-28T15:14:29.000Z'
 ---
 ## What happened
 

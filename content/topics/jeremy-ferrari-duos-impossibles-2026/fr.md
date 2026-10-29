@@ -17,6 +17,7 @@ summary: >-
   [s:fnac-duos-impossibles-2024].
 status: published
 risk: medium
+publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -26,7 +27,7 @@ targetQueries:
   - les duos impossibles canal+ 28 octobre
   - les duos impossibles paul mirabel
   - les duos impossibles 11e édition
-publishedAt: '2026-10-28'
+publishedTime: '2026-10-28T21:23:57.000Z'
 ---
 Canal+ diffuse ce mercredi 28 octobre le premier volet de la 11e édition des Duos impossibles, le spectacle créé par Jérémy Ferrari. Le second volet suit le jeudi 29 octobre [s:serie-news-duos-11e-edition] [s:serie-news-duos-commandeur-eboue]. C'est la première fois que l'édition est répartie sur deux soirées, ce qui change la façon de la suivre [s:serie-news-duos-commandeur-eboue].
 

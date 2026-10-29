@@ -44,6 +44,7 @@ faq:
     a: >-
       O INSS orienta consultar o Meu INSS ou ligar para o 135 em caso de dúvida
       [s:inss-biometria].
+publishedTime: '2026-10-28T09:46:26.000Z'
 ---
 ## O que o INSS afirma
 
