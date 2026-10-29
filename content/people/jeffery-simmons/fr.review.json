@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Age 29 and birth date 28 July 1997",
+      "sourceIds": [
+        "titans-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Titans bio gives the birth date; age derived as of 29 Oct 2026."
+    },
+    {
+      "claim": "Drafted 19th overall by the Titans in 2019, first round",
+      "sourceIds": [
+        "titans-draft"
+      ],
+      "verdict": "confirmed",
+      "note": "Titans draft article."
+    },
+    {
+      "claim": "Titans June 19, 2026 multi-year extension; four-time Pro Bowl, five-time captain, three-time Community Man of the Year; first-team All-Pro 2025, second-team 2021 and 2022",
+      "sourceIds": [
+        "titans-extension"
+      ],
+      "verdict": "confirmed",
+      "note": "Titans extension page."
+    },
+    {
+      "claim": "Bears acquiring him from the Titans; picks 2027 and 2028 first-round, 2027 fourth, 2028 fifth; three years and 105.8 million",
+      "sourceIds": [
+        "nfl-trade"
+      ],
+      "verdict": "confirmed",
+      "note": "NFL.com report; a team statement was not found, and the page attributes the trade to NFL.com."
+    },
+    {
+      "claim": "Born in Lasalle, Louisiana; hometown Macon, Mississippi; LaSalle Parish",
+      "sourceIds": [
+        "titans-bio",
+        "wikidata"
+      ],
+      "verdict": "confirmed",
+      "note": "Sources disagree on birthplace versus hometown; both are cited as separate facts."
+    },
+    {
+      "claim": "Mississippi State; 6-4 and 305 pounds",
+      "sourceIds": [
+        "titans-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Titans bio."
+    },
+    {
+      "claim": "Quotes from Jon Robinson, DaQuan Jones, Simmons (2020) and Robert Saleh (minicamp)",
+      "sourceIds": [
+        "titans-draft",
+        "titans-2020-camp",
+        "nfl-snaps"
+      ],
+      "verdict": "confirmed",
+      "note": "Translated quotes match the English source wording."
+    },
+    {
+      "claim": "NFL.com 2024 profile: 27.5 sacks since 2020, seventh among DTs; second-time Walter Payton nominee; 50,000 donation; 2024 youth camp with 500+ youth",
+      "sourceIds": [
+        "nfl-motys"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile is dated 2024 and the page labels it that way."
+    },
+    {
+      "claim": "2025: 60 QB pressures and 11 sacks; 750 snaps in each season with 15+ games; 35.276 million per year average",
+      "sourceIds": [
+        "nfl-snaps"
+      ],
+      "verdict": "confirmed",
+      "note": "NFL.com snap article."
+    },
+    {
+      "claim": "Citizenship United States",
+      "sourceIds": [
+        "wikidata"
+      ],
+      "verdict": "confirmed",
+      "note": "Wikidata."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds primary team sources and NFL.com usage figures that the top results do not give, written for this locale.",
+  "decision": "approve",
+  "summary": "All checked claims match the cited sources. Translations keep the same facts and citations."
+}

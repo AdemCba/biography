@@ -18,13 +18,13 @@
     "birthDate": {
       "value": "1981-08-08",
       "sources": [
-        "britannica"
+        "biography-com"
       ]
     },
     "birthPlace": {
       "value": "Basel, Switzerland",
       "sources": [
-        "britannica"
+        "biography-com"
       ]
     },
     "nationality": {
@@ -102,6 +102,46 @@
       "publisher": "Al Jazeera",
       "type": "press",
       "accessed": "2026-10-26"
+    },
+    {
+      "id": "biography-com",
+      "url": "https://www.biography.com/athletes/roger-federer",
+      "title": "Roger Federer: Biography",
+      "publisher": "Biography.com",
+      "type": "press",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "lavercup",
+      "url": "https://www.lavercup.com/",
+      "title": "Laver Cup",
+      "publisher": "Laver Cup",
+      "type": "league-or-federation",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "mg-2009-french-open",
+      "url": "https://mg.co.za/2009-06-07-federer-ends-long-wait-for-french-title/",
+      "title": "Federer ends long wait for French title",
+      "publisher": "Mail & Guardian",
+      "type": "press",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "tennis-2009-final",
+      "url": "https://www.tennis.com/news/articles/return-winners-the-2009-atp-french-open-final",
+      "title": "Return winners: the 2009 ATP French Open final",
+      "publisher": "Tennis.com",
+      "type": "press",
+      "accessed": "2026-10-29"
+    },
+    {
+      "id": "itf-olympics",
+      "url": "https://itftennis.com/en/news-and-media/articles/own-the-podium-roger-federer-olympic-doubles-champion-and-singles-silver-medalist",
+      "title": "Own the Podium: Roger Federer, Olympic doubles champion and singles silver-medalist",
+      "publisher": "International Tennis Federation",
+      "type": "league-or-federation",
+      "accessed": "2026-10-29"
     }
   ]
 }

@@ -1,11 +1,8 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "model": "claude-haiku-5-5",
-  "approved": false,
-  "reasons": [
-    "UNSUPPORTED: \"La diferencia entre 8 y 13 majors viene de la fecha de cada fuente, anterior a los títulos de 2026\" (Causal explanation. The cited Sky 2026 final page says nothing about major counts. Dates alone show only that the 8 figure is Nov 2025 and the 13 figure is Oct 2026. Rephrase to state the dates or drop the cause.)",
-    "Reviewer recommends rejection: Almost all claims check out. One body sentence gives a causal explanation for the 8 vs 13 major gap that no source supports. Citation tags also sit in the summary and FAQ frontmatter, but the body is the only place for them."
-  ],
+  "approved": true,
+  "reasons": [],
   "claims": [
     {
       "claim": "Nacido en Warrington, Inglaterra, el 21 de enero de 2007",
@@ -13,15 +10,15 @@
         "dartsworld-littler-profile"
       ],
       "verdict": "confirmed",
-      "note": "Profile gives 21/01/2007, Warrington, England."
+      "note": "Profile: Born 21/01/2007, Place of Birth Warrington, England."
     },
     {
-      "claim": "Nacionalidad inglesa / de nacionalidad inglesa (FAQ)",
+      "claim": "Nacionalidad inglesa",
       "sourceIds": [
         "dartsworld-littler-profile"
       ],
       "verdict": "confirmed",
-      "note": "Profile states nationality as English."
+      "note": "Profile: Nationality English."
     },
     {
       "claim": "Dos veces campeón del mundo de la PDC (2025 y 2026)",
@@ -30,129 +27,120 @@
         "sky-sports-world-championship-2026-final"
       ],
       "verdict": "confirmed",
-      "note": "Sky 2026 final report: 7-1 win over Gian van Veen, 3 Jan 2026, defending title."
+      "note": "Sky 2025: won title at 17; Sky 2026: 7-1 final, successful defence."
     },
     {
-      "claim": "Campeón del mundo con 17 años en 2025, más joven de la historia",
+      "claim": "Campeón del mundo con 17 años en enero de 2025, el más joven de la historia",
       "sourceIds": [
         "sky-sports-world-championship-2025-final"
       ],
       "verdict": "confirmed",
-      "note": "Sky: youngest ever PDC world champion, beat Michael van Gerwen; DOB 21/01/2007 gives 17 in Jan 2025. Score not given by source."
+      "note": "Sky: sport's youngest world champion at 17 years old."
     },
     {
-      "claim": "Venció a Michael van Gerwen 7 sets a 3 en la final de enero de 2025",
+      "claim": "Venció a Michael van Gerwen por 7 sets a 3 en enero de 2025",
       "sourceIds": [
         "dhnet-littler-world-final-2025"
       ],
       "verdict": "confirmed",
-      "note": "La DH/Belga: 7 sets a 3, Alexandra Palace, 3 Jan 2025."
+      "note": "DH: 7 sets à 3 vs van Gerwen, Friday at Alexandra Palace; photo caption dates it 3 January 2025."
     },
     {
-      "claim": "Número 1 del mundo en noviembre de 2025 con 18 años y 299 días; récord anterior de Van Gerwen (2014)",
+      "claim": "Número 1 del mundo en noviembre de 2025 tras el Grand Slam, con 18 años y 299 días; récord anterior de Van Gerwen de 2014",
       "sourceIds": [
         "sky-sports-grand-slam-world-no1-2025"
       ],
       "verdict": "confirmed",
-      "note": "Sky: reached No 1 on 16 Nov 2025, 18y 299d; van Gerwen 24y 251d in 2014."
+      "note": "Sky, published 16 Nov 2025: overtook Humphries in PDC Order of Merit; youngest ever PDC world No 1 at 18y 299d; previous record van Gerwen 2014."
     },
     {
-      "claim": "Semifinal del Grand Slam 2025 ganada 16-9 a Danny Noppert",
+      "claim": "Semifinal 16-9 contra Danny Noppert en Wolverhampton",
       "sourceIds": [
         "sky-sports-grand-slam-world-no1-2025"
       ],
       "verdict": "confirmed",
-      "note": "Sky: Littler beat Noppert 16-9 in Wolverhampton."
+      "note": "Sky: beat Danny Noppert 16-9 in the semi-final in Wolverhampton."
     },
     {
-      "claim": "Después batió de nuevo a Humphries en la final y retuvo el Grand Slam; cuarto jugador que lo gana dos ediciones seguidas en Wolverhampton",
+      "claim": "Batió de nuevo a Humphries en la final y retuvo el Grand Slam; cuarto en repetir en Wolverhampton",
       "sourceIds": [
         "sky-sports-grand-slam-world-no1-2025"
       ],
       "verdict": "confirmed",
-      "note": "Sky fetch: he defeated Luke Humphries in the final to retain the title; fourth to win Wolverhampton in consecutive years. The earlier reviewer note that the opponent was not named was not borne out on re-fetch. Final score not given."
+      "note": "Sky: retained Grand Slam with convincing win over Humphries; fourth to go back-to-back in Wolverhampton."
     },
     {
-      "claim": "Ventaja sobre Humphries de 72.000 libras antes del torneo y 81.500 al llegar a la final",
+      "claim": "Diferencia con Humphries de 72.000 libras antes del torneo y 81.500 libras tras llegar a la final",
       "sourceIds": [
         "sky-sports-grand-slam-world-no1-2025"
       ],
       "verdict": "confirmed",
-      "note": "Sky: 72,000 before; Littler led by 81,500 after reaching final."
+      "note": "Sky: £72,000 separating the two Lukes; Littler now moves £81,500 in front."
     },
     {
-      "claim": "Ocho majors en total en noviembre de 2025 (Sky)",
-      "sourceIds": [
-        "sky-sports-grand-slam-world-no1-2025"
-      ],
-      "verdict": "confirmed",
-      "note": "Sky: eight major titles as of that date."
-    },
-    {
-      "claim": "Netflix: 28 títulos de la PDC, 13 majors, página fechada 22 oct 2026",
-      "sourceIds": [
-        "netflix-tudum-beat-luke-littler"
-      ],
-      "verdict": "confirmed",
-      "note": "Tudum: 28 PDC titles, 13 majors; publication date 22 Oct 2026."
-    },
-    {
-      "claim": "La diferencia entre 8 y 13 majors viene de la fecha de cada fuente, anterior a los títulos de 2026",
-      "sourceIds": [
-        "sky-sports-world-championship-2026-final"
-      ],
-      "verdict": "unsupported",
-      "note": "Causal explanation. The cited Sky 2026 final page says nothing about major counts. Dates alone show only that the 8 figure is Nov 2025 and the 13 figure is Oct 2026. Rephrase to state the dates or drop the cause."
-    },
-    {
-      "claim": "Campeón del mundo de 2026: 7-1 a Gian van Veen, sábado 3 de enero, Alexandra Palace, 1 millón de libras, mayor premio de la historia",
-      "sourceIds": [
-        "sky-sports-world-championship-2026-final",
-        "abola-littler-world-final-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Sky: 7-1, Sat 3 Jan 2026, Alexandra Palace, GBP 1m, biggest payday in darts history. A Bola: age 18, Gian van Veen 23, second consecutive title."
-    },
-    {
-      "claim": "Cuarto jugador que defiende con éxito el título; el último fue Gary Anderson en 2016",
-      "sourceIds": [
-        "sky-sports-world-championship-2026-final"
-      ],
-      "verdict": "confirmed",
-      "note": "Sky: fourth player to defend; last before him Gary Anderson 2016."
-    },
-    {
-      "claim": "Bicampeón más joven de la historia (Ara)",
+      "claim": "Phil Taylor estuvo más de tres mil días como número 1",
       "sourceIds": [
         "ara-littler-bicampeon-2026"
       ],
       "verdict": "confirmed",
-      "note": "Ara: bicampeón del mundo de dardos más joven de la historia."
+      "note": "Ara: 3.343 días como número 1 mundial."
     },
     {
-      "claim": "Campeón consecutivo (What's on Netflix)",
+      "claim": "Bicampeón del mundo, el más joven de la historia en lograrlo",
+      "sourceIds": [
+        "ara-littler-bicampeon-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Ara: el bicampeón del mundo de dardos más joven de la historia."
+    },
+    {
+      "claim": "Edad de 18 años al ganar la final de 2026",
+      "sourceIds": [
+        "abola-littler-world-final-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "A BOLA: de 18 anos; campeão mundial pela segunda vez consecutiva."
+    },
+    {
+      "claim": "Final del 3 de enero de 2026 en Alexandra Palace, 7-1 a Gian van Veen",
+      "sourceIds": [
+        "sky-sports-world-championship-2026-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky: Saturday 3 January 2026, Alexandra Palace; beat Gian van Veen 7-1."
+    },
+    {
+      "claim": "Premio de un millón de libras, la mayor cantidad pagada en la historia de los dardos",
+      "sourceIds": [
+        "sky-sports-world-championship-2026-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky: £1m winner's cheque, the biggest payday in darts history."
+    },
+    {
+      "claim": "Cuarto jugador en defender con éxito el título; el último fue Gary Anderson en 2016",
+      "sourceIds": [
+        "sky-sports-world-championship-2026-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky: fourth player to successfully defend; first since Gary Anderson in 2016."
+    },
+    {
+      "claim": "What's on Netflix lo describe como campeón consecutivo",
       "sourceIds": [
         "whats-on-netflix-beat-luke-littler"
       ],
       "verdict": "confirmed",
-      "note": "Source describes two-time back-to-back champion."
+      "note": "What's on Netflix: two-time back-to-back World Darts Champion."
     },
     {
-      "claim": "Phil Taylor más de tres mil días como número 1 (Ara)",
-      "sourceIds": [
-        "ara-littler-bicampeon-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Ara: 3,343 days."
-    },
-    {
-      "claim": "Seis torneos premier ganados en 2026 (Mundial, World Masters, UK Open, Premier League, World Cup con Humphries, World Matchplay)",
+      "claim": "Seis torneos premier ganados en 2026 (Mundial, World Masters, UK Open, Premier League, World Cup of Darts, World Matchplay)",
       "sourceIds": [
         "sky-sports-world-series-finals-2026",
         "sky-sports-players-championship-27-2026"
       ],
       "verdict": "confirmed",
-      "note": "Sky lists the six titles. Note that the Sky article is dated Aug 2026, so the claim is as of that date; the article says so."
+      "note": "Sky lists these six premier titles; the pairing with Humphries is not stated and has been removed."
     },
     {
       "claim": "Había ganado todos los majors del circuito PDC de 2026 hasta ese momento",
@@ -160,90 +148,113 @@
         "sky-sports-players-championship-27-2026"
       ],
       "verdict": "confirmed",
-      "note": "Sky, 25 Aug 2026: has won every major title on the PDC circuit so far in 2026."
+      "note": "Sky: world No 1 has won every major title on the PDC circuit so far in 2026 (article dated 25 Aug 2026)."
     },
     {
-      "claim": "Perdió 10-4 con Jonny Clayton en cuartos de final de los World Series Finals de Ámsterdam",
+      "claim": "Derrota 10-4 contra Jonny Clayton en cuartos en Ámsterdam; fin del intento de ganar todos los majors",
       "sourceIds": [
         "sky-sports-world-series-finals-2026"
       ],
       "verdict": "confirmed",
-      "note": "Sky: Clayton beat Littler 10-4 in quarter-finals."
+      "note": "Sky: crushing 10-4 defeat to Jonny Clayton in the last eight; clean-sweep bid over."
     },
     {
-      "claim": "Ross Smith venció 11-5 a Gerwyn Price en la final",
+      "claim": "Ross Smith ganó el torneo al vencer 11-5 a Gerwyn Price",
       "sourceIds": [
         "sky-sports-world-series-finals-2026"
       ],
       "verdict": "confirmed",
-      "note": "Sky: Smith 11-5 Price."
+      "note": "Sky: Ross Smith won, beating Gerwyn Price 11-5 in the final."
     },
     {
-      "claim": "Llegó a la final del Mundial de 2024 con 16 años y perdió 7-4 contra Humphries; 200.000 libras como finalista",
+      "claim": "Subcampeonato de 2024 a los 16 años; derrota 7-4 contra Luke Humphries; 200.000 libras como finalista",
       "sourceIds": [
         "nbc-washington-world-final-2024",
         "bolanarede-littler-world-final-2024"
       ],
       "verdict": "confirmed",
-      "note": "NBC: 7-4 Humphries, runner-up GBP 200,000, age 16. Bola na Rede: age 16 at final."
+      "note": "NBC: 16-year-old, beaten 7-4 by Humphries, 200,000 pounds; Bola na Rede: 16 anos, 7-4, 200 mil libras."
     },
     {
-      "claim": "Nombrado MBE en 2025 por sus servicios al dardo",
+      "claim": "Netflix: 28 títulos de la PDC, 13 majors, página del 22 de octubre de 2026",
       "sourceIds": [
-        "dartsworld-littler-profile"
+        "netflix-tudum-beat-luke-littler"
       ],
       "verdict": "confirmed",
-      "note": "Profile: MBE in 2025 for services to darts."
+      "note": "Netflix: 28 PDC titles including 13 major singles titles; page dated Oct. 22, 2026."
     },
     {
-      "claim": "Netflix Beat Luke Littler: viernes 30 de octubre de 2026, 15:00 ET",
+      "claim": "Sky Sports le atribuía ocho majors en su crónica del 16 de noviembre de 2025",
+      "sourceIds": [
+        "sky-sports-grand-slam-world-no1-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky: eight major titles to his name; page published Sunday 16 November 2025."
+    },
+    {
+      "claim": "Netflix: viernes 30 de octubre de 2026, 15:00 en el este de Estados Unidos",
       "sourceIds": [
         "netflix-tudum-beat-luke-littler",
         "whats-on-netflix-beat-luke-littler"
       ],
       "verdict": "confirmed",
-      "note": "Tudum: Oct 30 at 3 p.m. ET. What's on Netflix: Friday Oct 30 2026, no start time given. Friday checked against calendar."
+      "note": "Netflix: 7 p.m. UK / 3 p.m. ET; What's on Netflix: Friday October 30, 2026."
     },
     {
-      "claim": "Premio de 501.000 libras (unos 667.000 dólares)",
+      "claim": "Premio de 501.000 libras, unos 667.000 dólares",
       "sourceIds": [
         "netflix-tudum-beat-luke-littler"
       ],
       "verdict": "confirmed",
-      "note": "Tudum: GBP 501,000 ($667,000)."
+      "note": "Netflix: £501,000 ($667,000)."
     },
     {
-      "claim": "Banijay UK produce el especial",
-      "sourceIds": [
-        "whats-on-netflix-beat-luke-littler",
-        "netflix-tudum-beat-luke-littler"
-      ],
-      "verdict": "confirmed",
-      "note": "What's on Netflix: Banijay UK. Tudum: Netflix and Workerbee (part of Banijay UK)."
-    },
-    {
-      "claim": "24 aspirantes por 20 plazas; grupos y sorteo contra Littler; si alguno le gana termina la competición",
-      "sourceIds": [
-        "netflix-tudum-beat-luke-littler"
-      ],
-      "verdict": "confirmed",
-      "note": "Tudum: 24 contestants, 20 spots, groups, random draw, ends when someone beats Littler."
-    },
-    {
-      "claim": "Cada uno de los veinte aficionados juega una única pierna de 501",
+      "claim": "Banijay UK produce el especial para Netflix",
       "sourceIds": [
         "whats-on-netflix-beat-luke-littler"
       ],
       "verdict": "confirmed",
-      "note": "What's on Netflix: 20 chosen amateurs, single perfect leg of 501."
+      "note": "What's on Netflix: Banijay UK is putting the event together for Netflix."
     },
     {
-      "claim": "Gary Lineker presenta, Richard Osman analista, Angry Ginge, Laura Turner, Lee Mack",
+      "claim": "Una pierna es una partida completa de 501 a cero; cada jugador empieza con 501 y resta lo que anota; cierra en general con un doble",
+      "sourceIds": [
+        "dartcounter-501-rules"
+      ],
+      "verdict": "confirmed",
+      "note": "DartCounter: a leg is one complete game from 501 to zero; final dart must be a double in a standard game."
+    },
+    {
+      "claim": "24 aspirantes por 20 plazas; seleccionados en grupos y sorteados contra Littler",
       "sourceIds": [
         "netflix-tudum-beat-luke-littler"
       ],
       "verdict": "confirmed",
-      "note": "Tudum names them."
+      "note": "Netflix: 24 contestants compete for 20 spots; players split into groups and randomly selected to face Littler."
+    },
+    {
+      "claim": "Cada uno de los veinte aficionados juega una única pierna de 501 contra él, en directo",
+      "sourceIds": [
+        "whats-on-netflix-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "What's on Netflix: 20 chosen amateurs get a single perfect leg of 501 against Littler on live television."
+    },
+    {
+      "claim": "Si alguien le gana, la competición termina",
+      "sourceIds": [
+        "netflix-tudum-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "Netflix: competition ends the moment somebody defeats Littler."
+    },
+    {
+      "claim": "Gary Lineker presenta; Richard Osman analista; Angry Ginge, Laura Turner y Lee Mack",
+      "sourceIds": [
+        "netflix-tudum-beat-luke-littler"
+      ],
+      "verdict": "confirmed",
+      "note": "Netflix: Gary Lineker hosts; Richard Osman expert analyst; Angry Ginge, Laura Turner, Lee Mack."
     },
     {
       "claim": "Inscripción en BeatLukeLittler.com y pruebas regionales en Londres y Manchester en septiembre de 2026",
@@ -251,37 +262,38 @@
         "whats-on-netflix-beat-luke-littler"
       ],
       "verdict": "confirmed",
-      "note": "What's on Netflix: register at BeatLukeLittler.com; open heats London and Manchester Sept 2026."
+      "note": "What's on Netflix: BeatLukeLittler.com; open regional heats in London and Manchester in September 2026."
     },
     {
-      "claim": "Una pierna de dardos es una partida completa; 501: empieza en 501, resta, llega exactamente a cero, cierre con doble",
-      "sourceIds": [
-        "dartcounter-501-rules"
-      ],
-      "verdict": "confirmed",
-      "note": "DartCounter: leg is one complete game; start 501; exactly zero; double-out in most games."
-    },
-    {
-      "claim": "Por eso ganarle en una sola pierna exige precisión de principio a fin",
-      "sourceIds": [
-        "dartcounter-501-rules"
-      ],
-      "verdict": "confirmed",
-      "note": "Interpretive sentence, supported by the rules."
-    },
-    {
-      "claim": "Edad: 19 años a 27 de octubre de 2026 (FAQ)",
+      "claim": "MBE en 2025 por sus servicios al dardo",
       "sourceIds": [
         "dartsworld-littler-profile"
       ],
       "verdict": "confirmed",
-      "note": "Born 21 Jan 2007; 19 on 27 Oct 2026."
+      "note": "Profile: Awarded an MBE in 2025 for services to darts."
+    },
+    {
+      "claim": "Llegó a número 1 del mundo en noviembre de 2025 (resumen)",
+      "sourceIds": [
+        "sky-sports-grand-slam-world-no1-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky article published 16 Nov 2025 on reaching world No 1."
+    },
+    {
+      "claim": "Alexandra Palace, Londres, sede del Mundial de la PDC",
+      "sourceIds": [
+        "sky-sports-world-championship-2026-final",
+        "dhnet-littler-world-final-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky 2026 page: Alexandra Palace; DH 2025: Alexandra Palace de Londres."
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "Dated timeline with primary sources, the 501 explainer for non-darts readers, and the 8 vs 13 major-count discrepancy between sources.",
-  "decision": "reject",
-  "summary": "Almost all claims check out. One body sentence gives a causal explanation for the 8 vs 13 major gap that no source supports. Citation tags also sit in the summary and FAQ frontmatter, but the body is the only place for them."
+  "valueNote": "Sourced timeline of the 2025-2026 titles, the Netflix format and the Grand Slam ranking detail, with the two major counts stated with their dates.",
+  "decision": "approve",
+  "summary": "All checked claims are supported by the cited pages after the edits (Humphries pairing removed; the major-count sentence now gives dates only)."
 }

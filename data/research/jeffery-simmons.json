@@ -1,0 +1,78 @@
+{
+  "worthWriting": true,
+  "reason": "Living NFL defensive tackle in the news for a trade from the Titans to the Bears reported by NFL.com on 29 Oct 2026. Team bio and extension pages give birth date, draft, and honours. Trade not yet confirmed by an official team release in our search.",
+  "wikidata": "Q45146310",
+  "importance": 4,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "titans-bio",
+      "url": "https://www.tennesseetitans.com/team/players-roster/jeffery-simmons/",
+      "title": "Jeffery Simmons (DT): Bio, News, Stats & more",
+      "publisher": "Tennessee Titans",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "titans-extension",
+      "url": "https://www.tennesseetitans.com/news/titans-dt-jeffery-simmons-reach-deal-on-multi-year-contract-extension",
+      "title": "Titans, DT Jeffery Simmons Reach Deal on Multi-Year Contract Extension",
+      "publisher": "Tennessee Titans",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "nfl-trade",
+      "url": "https://www.nfl.com/news/jeffery-simmons-bears-titans-trade",
+      "title": "Jeffery Simmons Bears Titans trade",
+      "publisher": "NFL.com",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q45146310",
+      "title": "Jeffery Simmons (Q45146310)",
+      "publisher": "Wikidata",
+      "type": "database",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1997-07-28",
+      "sources": [
+        "titans-bio",
+        "wikidata"
+      ],
+      "note": "Titans bio: born Jeffery Bernard Simmons Jr. on July 28, 1997. Wikidata gives 28 July 1997."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "LaSalle Parish, Louisiana",
+      "sources": [
+        "titans-bio",
+        "wikidata"
+      ],
+      "note": "Titans bio says born in Lasalle, La. The same bio calls him the Macon, Miss., native (hometown)."
+    },
+    "nationality": {
+      "value": "US",
+      "sources": [
+        "wikidata"
+      ],
+      "note": "Wikidata lists country of citizenship as United States. No team page states it in these words."
+    }
+  },
+  "targetQueries": [
+    "who is Jeffery Simmons",
+    "Jeffery Simmons age",
+    "Jeffery Simmons team now",
+    "Jeffery Simmons Bears trade",
+    "where is Jeffery Simmons from",
+    "Jeffery Simmons height",
+    "Jeffery Simmons contract",
+    "Jeffery Simmons draft"
+  ],
+  "gapNote": "Trade details (picks and date) come only from NFL.com, whose published date is blank; ESPN's trade story could not be opened. Search results still showed older 2025 rumor coverage saying the Titans would not trade him, so the page should attribute the trade to NFL.com and say no team release was found. Titans bio and extension page are primary sources for bio, draft and honours; contract length and value are not stated on the Titans page, so the page should give only the June 2026 extension date. Birthplace conflicts between Louisiana (birth) and Mississippi (hometown) are both cited."
+}

@@ -1,0 +1,114 @@
+{
+  "id": "carlos-tevez",
+  "name": "Carlos Tevez",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 4,
+  "wikidata": "Q50600",
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1984-02-05",
+      "sources": [
+        "mancity-legends-tevez",
+        "fotmob-tevez",
+        "wikidata-tevez"
+      ],
+      "note": "Man City legends page, FotMob and Wikidata agree."
+    },
+    "birthPlace": {
+      "value": "Ciudadela, Buenos Aires",
+      "sources": [
+        "mancity-legends-tevez",
+        "wikidata-tevez"
+      ],
+      "note": "Man City legends page and Wikidata. Other press reports give Fuerte Apache; not used."
+    },
+    "nationality": {
+      "value": [
+        "AR"
+      ],
+      "sources": [
+        "fotmob-tevez",
+        "wikidata-tevez"
+      ],
+      "note": "Argentina per FotMob and Wikidata."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "infobae-tevez-farewell-2026",
+      "url": "https://www.infobae.com/deportes/2026/10/29/a-la-espera-de-messi-y-cristiano-ronaldo-los-nombres-de-la-primera-lista-de-confirmados-para-el-partido-despedida-de-tevez-en-la-bombonera/",
+      "title": "A la espera de Messi y Cristiano Ronaldo: los nombres de la primera lista de confirmados para el partido despedida de Tevez en La Bombonera",
+      "publisher": "Infobae",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "es"
+    },
+    {
+      "id": "canal26-tevez-farewell-date",
+      "url": "https://www.canal26.com/deportes/2026/10/21/llego-el-dia-t-carlos-tevez-confirmo-la-fecha-de-su-partido-despedida-en-la-bombonera/",
+      "title": "Llegó el día: Carlos Tevez confirmó la fecha de su partido despedida en La Bombonera",
+      "publisher": "Canal 26",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "es"
+    },
+    {
+      "id": "mancity-legends-tevez",
+      "url": "https://www.mancity.com/mancitylegends/tevez-carlos",
+      "title": "Carlos Tevez - Man City Legends",
+      "publisher": "Manchester City",
+      "type": "official",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "mufcinfo-tevez",
+      "url": "https://www.mufcinfo.com/manupag/a-z_player_archive/a-z_player_archive_pages/tevez_carlos.html",
+      "title": "Carlos Tevez - Manchester United player archive",
+      "publisher": "MUFCInfo.com",
+      "type": "database",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "futdados-tevez-stats",
+      "url": "https://futdados.com/arg/carlos-tevez-goles-estadisticas-records/",
+      "title": "Carlos Tévez: goles, estadísticas y 29 títulos",
+      "publisher": "Futdados",
+      "type": "database",
+      "accessed": "2026-10-29",
+      "lang": "es"
+    },
+    {
+      "id": "fotmob-tevez",
+      "url": "https://www.fotmob.com/es/players/38817/carlos-tevez",
+      "title": "Carlos Tevez - FotMob",
+      "publisher": "FotMob",
+      "type": "database",
+      "accessed": "2026-10-29",
+      "lang": "es"
+    },
+    {
+      "id": "wikidata-tevez",
+      "url": "https://www.wikidata.org/wiki/Q50600",
+      "title": "Carlos Tevez (Q50600)",
+      "publisher": "Wikidata",
+      "type": "database",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "juventus-tevez-profile",
+      "url": "https://www.juventus.com/en/news/articles/carlos-t-vez-a-world-class-talent",
+      "title": "Carlos Tévez: a world class talent",
+      "publisher": "Juventus",
+      "type": "official",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    }
+  ]
+}

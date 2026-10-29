@@ -1,0 +1,84 @@
+{
+  "worthWriting": true,
+  "reason": "Living French professional tennis player in the news on 29 Oct 2026. Official ATP, Roland-Garros and Australian Open profiles plus two dated press pieces give enough solid facts for a page.",
+  "wikidata": "Q107207693",
+  "importance": 3,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "atp-bio",
+      "url": "https://www.atptour.com/en/players/Arthur-Fils/f0f1/bio",
+      "title": "Arthur Fils Bio",
+      "publisher": "ATP Tour",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "rolandgarros-player",
+      "url": "https://www.rolandgarros.com/en-us/players/47762-a.fils",
+      "title": "Arthur Fils player profile",
+      "publisher": "Roland-Garros",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "ausopen-player",
+      "url": "https://ausopen.com/node/159486",
+      "title": "Arthur Fils player profile",
+      "publisher": "Australian Open",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "puntodebreak-cincinnati-2026",
+      "url": "https://www.puntodebreak.com/fr/2026/08/24/fils-envoie-message-ses-detracteurs-apres-sa-victoire-cincinnati",
+      "title": "Fils envoie message ses detracteurs apres sa victoire Cincinnati",
+      "publisher": "Punto de Break",
+      "type": "press",
+      "lang": "fr"
+    },
+    {
+      "id": "puntodebreak-criticism-2026",
+      "url": "https://www.puntodebreak.com/en/2026/05/19/son-confesses-how-he-faces-the-criticism-that-comes-to-him-from-france",
+      "title": "Son confesses how he faces the criticism that comes to him from France",
+      "publisher": "Punto de Break",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "2004-06-12",
+      "sources": [
+        "rolandgarros-player"
+      ],
+      "note": "Roland-Garros profile. Not stated on the ATP bio or Australian Open pages."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Bondoufle, France",
+      "sources": [
+        "rolandgarros-player"
+      ],
+      "note": "Roland-Garros profile."
+    },
+    "nationality": {
+      "value": "FR",
+      "sources": [
+        "ausopen-player",
+        "atp-bio"
+      ],
+      "note": "Australian Open profile lists France; ATP bio refers to the French Federation and calls him French."
+    }
+  },
+  "targetQueries": [
+    "Arthur Fils age",
+    "Arthur Fils ranking",
+    "Arthur Fils Cincinnati",
+    "Arthur Fils coach",
+    "Where is Arthur Fils from",
+    "Arthur Fils height",
+    "Arthur Fils Roland Garros"
+  ],
+  "gapNote": "Search results disagree on current ranking, titles and career earnings, so this page uses only the figures two official profiles agree on and cites dates. The L'Equipe article on his remarks could not be fetched, so the quote is not used. The Punto de Break pieces (May and August 2026) cover the criticism and the Cincinnati win in verifiable detail. Vienna has no confirmed 2026 result, so the page leaves it out."
+}

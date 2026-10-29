@@ -1,21 +1,23 @@
 ---
 title: Stan Wawrinka
 slug: stan-wawrinka
-metaTitle: 'Stan Wawrinka: age, Grand Slams and Basel farewell'
+metaTitle: Stan Wawrinka retires after Basel loss to Lehecka
 metaDescription: >-
-  Stan Wawrinka's birth date and place, his three Grand Slam titles, world No. 3
-  peak and final season, ending with the Basel farewell in October 2026.
+  Stan Wawrinka retired after losing 5-7, 6-7(2) to Jiri Lehecka in Basel on 27
+  October 2026, a day after a standing ovation at the Swiss Indoors.
 knownFor: Swiss tennis player and three-time Grand Slam singles champion
 summary: >-
   Stan Wawrinka is the Swiss tennis player who won three Grand Slam singles
   titles, at the 2014 Australian Open, the 2015 French Open and the 2016 US
-  Open. He reached a career-high ranking of world No. 3, and his final
-  tournament is the Swiss Indoors in Basel, where a farewell evening was
-  scheduled for 26 October 2026.
+  Open. On 27 October 2026 he lost his first-round match at the Swiss Indoors in
+  Basel to Jiri Lehecka, 5-7, 6-7(2), and retired after it. The night before,
+  the tournament had held a tribute at which he received a standing ovation. He
+  reached a career-high ranking of world No. 3.
 status: published
 risk: low
-reviewedAt: '2026-10-27'
-reviewBy: '2027-04-27'
+publishedAt: '2026-10-29'
+reviewedAt: '2026-10-29'
+reviewBy: '2027-04-29'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -23,12 +25,13 @@ targetQueries:
   - stan wawrinka retirement
   - stan wawrinka basel 2026
   - stan wawrinka last tournament
+  - stan wawrinka final match
   - stan wawrinka grand slam titles
   - stan wawrinka nationality
-  - stan wawrinka farewell exhibition geneva
   - stan wawrinka career high ranking
   - stan wawrinka coach magnus norman
   - stan wawrinka age
+  - stan wawrinka farewell exhibition geneva
 faq:
   - q: How old is Stan Wawrinka?
     a: >-
@@ -36,9 +39,14 @@ faq:
       [s:roland-garros-profile].
   - q: Is Stan Wawrinka retiring?
     a: >-
-      Yes. He announced in January 2026 that it would be his final season, and
-      Basel is his final tournament [s:roland-garros-profile]
-      [s:tennisuptodate-lyon].
+      Yes. He announced in January 2026 that it would be his final season
+      [s:roland-garros-profile]. He lost his first-round match in Basel on 27
+      October 2026 and retired after it [s:tennis365-farewell].
+  - q: Who did Stan Wawrinka lose to in Basel?
+    a: >-
+      Jiri Lehecka, 5-7, 6-7(2), in the first round on 27 October 2026
+      [s:tennis365-farewell] [s:srf-lehecka]. Lehecka was the eighth seed
+      [s:atp-news-basel-fc].
   - q: How many Grand Slam titles has Stan Wawrinka won?
     a: >-
       Three singles titles: the 2014 Australian Open, the 2015 Roland-Garros and
@@ -47,8 +55,7 @@ faq:
     a: >-
       Magnus Norman, as listed on the Roland-Garros and Australian Open profiles
       [s:roland-garros-profile] [s:ausopen-profile].
-autoReviews: 2
-publishedAt: '2026-10-27'
+autoReviews: 3
 ---
 Stan Wawrinka won three Grand Slam singles titles, and he is now ending his career in Basel. He won the Australian Open in 2014, Roland-Garros in 2015 and the US Open in 2016 [s:roland-garros-profile]. His career-high singles ranking was world No. 3 [s:atp-bio]. In January 2026 he announced that this would be his final season [s:roland-garros-profile]. Swiss Indoors Basel has been presented as his farewell tournament [s:swiss-indoors-farewell].
 
@@ -92,4 +99,14 @@ That farewell was set for Super Monday, 26 October 2026, at 6 p.m. Tennis.com al
 
 On 22 October 2026 he lost in the second round at Lyon to top seed Flavio Cobolli, 6-2, 6-4 [s:tennisuptodate-lyon]. That was his penultimate tournament. Basel is the last one [s:tennisuptodate-lyon]. A farewell exhibition in Geneva on 19 December has also been reported [s:tennisuptodate-lyon].
 
-The outcome of his Basel matches and the tribute evening was not available in the sources used for this page, so the page does not describe them.
+## October 2026
+
+Stan Wawrinka received a standing ovation at the Swiss Indoors in Basel on Monday, 26 October 2026 [s:atp-video] [s:tenniswatcher]. The ATP had announced a farewell ceremony at St. Jakobshalle for that Monday [s:atp-news-basel-fc]. TennisWatcher describes an emotional ceremony that lasted more than an hour, with the ovation on Centre Court [s:tenniswatcher].
+
+Roger Brennwald called him "the Sylvester Stallone of tennis" and presented him with a golden ball. A giant portrait of Wawrinka was spray-painted live on court. The Swiss singer Bastian Baker, a close friend, performed a song for him, and video messages were shown on the big screen, including one from Roger Federer [s:tenniswatcher].
+
+Wawrinka said: "I always gave the best of myself, but I never dreamed of winning Grand Slams" [s:tenniswatcher].
+
+On Tuesday, 27 October, he played eighth seed Jiri Lehecka in the first round [s:atp-news-basel-fc] [s:tennis365-farewell]. He lost 5-7, 6-7(2). The match ended at 23:02 local time, and he lost the tiebreak 2-7 [s:srf-lehecka].
+
+He retired after the match [s:tennis365-farewell]. About the farewell he said: "For me, it's an ideal end, it's a dream end" [s:tennis365-farewell]. The ATP had described Basel as his 19th and final appearance at the Swiss Indoors [s:atp-news-basel-fc].

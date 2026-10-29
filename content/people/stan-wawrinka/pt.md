@@ -1,21 +1,23 @@
 ---
 title: Stan Wawrinka
 slug: stan-wawrinka
-metaTitle: 'Stan Wawrinka: idade, Grand Slams e adeus em Basileia'
+metaTitle: Stan Wawrinka se aposenta após derrota em Basileia
 metaDescription: >-
-  Data e local de nascimento de Stan Wawrinka, seus três Grand Slams, o auge
-  como número 3 do mundo e a última temporada, com a despedida em Basileia.
+  Stan Wawrinka se aposentou após perder por 5-7 e 6-7(2) para Jiří Lehečka em
+  Basileia, em 27 de outubro de 2026, um dia após uma ovação de pé.
 knownFor: 'Tenista suíço, tricampeão de Grand Slam em simples'
 summary: >-
   Stan Wawrinka é o tenista suíço que venceu três títulos de Grand Slam em
   simples: o Aberto da Austrália de 2014, Roland Garros de 2015 e o US Open de
-  2016. Chegou ao terceiro lugar do ranking mundial e seu último torneio é o
-  Swiss Indoors, em Basileia, onde uma noite de despedida estava marcada para 26
-  de outubro de 2026.
+  2016. Em 27 de outubro de 2026 perdeu na primeira rodada do Swiss Indoors, em
+  Basileia, para Jiří Lehečka, por 5-7 e 6-7(2), e se aposentou depois da
+  partida. Na véspera, o torneio lhe prestou uma homenagem com ovação de pé.
+  Chegou ao terceiro lugar do ranking mundial.
 status: published
 risk: low
-reviewedAt: '2026-10-27'
-reviewBy: '2027-04-27'
+publishedAt: '2026-10-29'
+reviewedAt: '2026-10-29'
+reviewBy: '2027-04-29'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -27,27 +29,32 @@ targetQueries:
   - stan wawrinka nacionalidade
   - stan wawrinka idade
   - stan wawrinka melhor ranking
+  - stan wawrinka titulos
   - stan wawrinka técnico magnus norman
 faq:
   - q: Quantos anos tem Stan Wawrinka?
     a: >-
-      Ele nasceu em 28 de março de 1985, então tem 41 anos em 27 de outubro de
-      2026 [s:roland-garros-profile].
+      Nasceu em 28 de março de 1985, então tem 41 anos em 27 de outubro de 2026
+      [s:roland-garros-profile].
   - q: Stan Wawrinka vai se aposentar?
     a: >-
-      Sim. Em janeiro de 2026 ele anunciou que essa seria sua última temporada,
-      e Basileia é seu último torneio [s:roland-garros-profile]
-      [s:tennisuptodate-lyon].
+      Sim. Em janeiro de 2026 anunciou que essa seria sua última temporada
+      [s:roland-garros-profile]. Perdeu na primeira rodada em Basileia, em 27 de
+      outubro de 2026, e se aposentou depois da partida [s:tennis365-farewell].
+  - q: Para quem Stan Wawrinka perdeu em Basileia?
+    a: >-
+      Para Jiří Lehečka, por 5-7 e 6-7(2), na primeira rodada, em 27 de outubro
+      de 2026 [s:tennis365-farewell] [s:srf-lehecka]. Lehečka era o oitavo
+      cabeça de chave [s:atp-news-basel-fc].
   - q: Quantos Grand Slams Stan Wawrinka conquistou?
     a: >-
       Três títulos de simples: Aberto da Austrália 2014, Roland Garros 2015 e US
       Open 2016 [s:roland-garros-profile].
   - q: Quem é o técnico de Stan Wawrinka?
     a: >-
-      Magnus Norman, conforme os perfis oficiais de Roland Garros e do Aberto da
+      Magnus Norman, segundo os perfis oficiais de Roland Garros e do Aberto da
       Austrália [s:roland-garros-profile] [s:ausopen-profile].
-autoReviews: 2
-publishedAt: '2026-10-27'
+autoReviews: 3
 ---
 Stan Wawrinka venceu três Grand Slams em simples e agora encerra a carreira em Basileia. Ganhou o Aberto da Austrália em 2014, Roland Garros em 2015 e o US Open em 2016 [s:roland-garros-profile]. Seu melhor ranking foi o terceiro lugar do mundo [s:atp-bio]. Em janeiro de 2026 anunciou que aquela seria sua última temporada [s:roland-garros-profile], e o Swiss Indoors de Basileia foi apresentado como sua despedida [s:swiss-indoors-farewell].
 
@@ -91,4 +98,14 @@ Antes do torneio de Basileia de 2025, ele destacou a importância da recuperaç�
 
 Em 22 de outubro de 2026 ele perdeu na segunda rodada em Lyon para o cabeça de chave número 1, Flavio Cobolli [s:tennisuptodate-lyon]. O placar foi 6-2 e 6-4 [s:tennisuptodate-lyon]. Aquela partida foi seu penúltimo torneio, o que deixou Basileia como sua última parada [s:tennisuptodate-lyon]. Também há relatos de uma exibição de despedida em Genebra em 19 de dezembro [s:tennisuptodate-lyon].
 
-O resultado de suas partidas em Basileia e da noite de homenagem não estava nas fontes usadas para esta página, por isso ela não os descreve.
+## Outubro de 2026
+
+Stan Wawrinka recebeu uma ovação de pé no Swiss Indoors, em Basileia, na segunda-feira, 26 de outubro de 2026 [s:atp-video] [s:tenniswatcher]. A ATP havia anunciado uma cerimônia de despedida no St. Jakobshalle para aquela segunda-feira [s:atp-news-basel-fc]. Segundo a TennisWatcher, a cerimônia foi emocionante, durou mais de uma hora e a ovação aconteceu na Centre Court [s:tenniswatcher].
+
+Roger Brennwald o chamou de "o Sylvester Stallone do tênis" e lhe entregou uma bola dourada. Um grande retrato dele foi pintado ao vivo na quadra. O cantor suíço Bastian Baker, amigo próximo, cantou uma música para ele, e mensagens em vídeo, entre elas a de Roger Federer, foram exibidas no telão [s:tenniswatcher].
+
+Wawrinka disse: "Sempre dei o melhor de mim, mas nunca sonhei em vencer Grand Slams" (tradução própria) [s:tenniswatcher].
+
+Na terça-feira, 27 de outubro, ele enfrentou na primeira rodada o oitavo cabeça de chave, Jiří Lehečka [s:atp-news-basel-fc] [s:tennis365-farewell]. Perdeu por 5-7 e 6-7(2). A partida terminou às 23h02, hora local, e ele perdeu o tie-break do segundo set por 2-7 [s:srf-lehecka].
+
+Ele se aposentou depois da partida [s:tennis365-farewell]. Sobre a despedida, disse: "For me, it's an ideal end, it's a dream end" (em tradução própria: "Para mim, é um final ideal, um final de sonho") [s:tennis365-farewell]. A ATP havia descrito Basileia como sua 19.ª e última participação no Swiss Indoors [s:atp-news-basel-fc].

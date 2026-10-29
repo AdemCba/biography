@@ -1,216 +1,364 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-29",
   "model": "claude-haiku-5-5",
   "approved": true,
   "reasons": [],
   "claims": [
     {
-      "claim": "Kane was the bookmakers' favourite for the 2026 Ballon d'Or; ceremony 26 Oct 2026 in London",
+      "claim": "Won the 2026 Ballon d'Or at the London Palladium on Monday 26 October; first Englishman in about 25 years",
+      "sourceIds": [
+        "uefa-ballon-dor-ceremony-2026",
+        "sky-kane-ballon-dor-win-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "UEFA gives the London Palladium Theatre and Monday 26 October; Sky says first English winner in 25 years."
+    },
+    {
+      "claim": "Bayern's fourth Ballon d'Or winner after Beckenbauer, Muller and Rummenigge",
+      "sourceIds": [
+        "fox-kane-munich-return-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "FOX/AP names the same three players and calls Kane the fourth."
+    },
+    {
+      "claim": "Born 28 July 1993, so 33 years old",
+      "sourceIds": [
+        "wikidata-q969725",
+        "khelnow-kane-munich-welcome-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Wikidata gives 28 July 1993; Khel Now calls him 33-year-old."
+    },
+    {
+      "claim": "Ceremony began 45 minutes late because of London traffic",
+      "sourceIds": [
+        "sky-kane-ballon-dor-win-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky: delayed by 45 minutes to an 8.45pm start due to London traffic."
+    },
+    {
+      "claim": "Vote by 100 journalists; Kane ahead of Mbappe and Yamal; also Striker of the Year",
+      "sourceIds": [
+        "bundesliga-kane-ballon-dor-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Bundesliga 27 Oct: vote by 100 journalists from the top 100 FIFA-ranked nations; placings; Striker of the Year."
+    },
+    {
+      "claim": "Travelled London to Munich for Tuesday training, per Aaron Danks; Bayern teased a special welcome",
+      "sourceIds": [
+        "fox-kane-munich-return-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "FOX: Danks said Kane was travelling to training on Tuesday; Bayern teased a special welcome."
+    },
+    {
+      "claim": "Danks said Kane would be available to play against Magdeburg",
+      "sourceIds": [
+        "fox-kane-munich-return-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "FOX: Danks said Kane would be available to play in Wednesday's cup match."
+    },
+    {
+      "claim": "Bayern beat 1. FC Magdeburg 6-1 in the German Cup on Wednesday 28 October; Michael Olise scored twice",
+      "sourceIds": [
+        "sportschau-bayern-magdeburg-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sportschau: 6:1 on 28 October; Olise at 10 and 50 minutes."
+    },
+    {
+      "claim": "Kane did not play; rested as a reward for being named Ballon d'Or winner",
+      "sourceIds": [
+        "sportschau-bayern-magdeburg-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sportschau: Kane was rested as a reward; he was not on the pitch."
+    },
+    {
+      "claim": "Bayern promised to recognise the award before the Dortmund match on Saturday 31 October; FOX report published before the match",
+      "sourceIds": [
+        "fox-kane-munich-return-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "FOX: promised recognition of his achievement before the Klassiker; article published before the match."
+    },
+    {
+      "claim": "World Soccer Talk, citing Sky Sports Germany's Florian Plettenberg: extension to 2029 being finalised, to be signed before year end",
+      "sourceIds": [
+        "worldsoccertalk-kane-contract-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Article 28 Oct: ironing out final details; both sides want to sign before the end of the calendar year; source Plettenberg."
+    },
+    {
+      "claim": "No club or Kane confirmation of a signed deal in the sources",
+      "sourceIds": [
+        "worldsoccertalk-kane-contract-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "The article quotes no statement from Bayern or Kane's camp."
+    },
+    {
+      "claim": "Sky Sports, 16 Oct: agreed new deal in principle until summer 2029; paperwork being finalised; a few things to iron out",
+      "sourceIds": [
+        "sky-kane-bayern-deal-2029"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky dated 16 Oct 2026; neither Kane nor Bayern confirmed in that article."
+    },
+    {
+      "claim": "Kane confirmed talks in a report dated 29 August 2026 and said they were positive",
+      "sourceIds": [
+        "bundesliga-kane-talks-de-2026",
+        "nst-bayern-extension-talks-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Bundesliga DE dated 29.08.2026: talks positive, so far so good; NST reports Kane confirming talks."
+    },
+    {
+      "claim": "Kane quotes: first meeting started last week; no panic from either side; I'm sure both sides will be happy",
+      "sourceIds": [
+        "nst-bayern-extension-talks-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "All three quotes verified word for word and attributed to Kane."
+    },
+    {
+      "claim": "Signed from Tottenham in August 2023 on a four-year contract",
+      "sourceIds": [
+        "aljazeera-kane-bayern-2023",
+        "sky-kane-bayern-signing-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera (12 Aug 2023) and Sky (13 Aug 2023) both say four-year deal."
+    },
+    {
+      "claim": "Sky: initial 86m pounds fee, add-ons taking it close to 100m, described as a Bayern and Bundesliga record",
+      "sourceIds": [
+        "sky-kane-bayern-signing-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky: initial 86m fee with add-ons close to 100m; record fee wording."
+    },
+    {
+      "claim": "Al Jazeera: reported fee could top 100m pounds; highest fee ever paid by a Bundesliga club; previous record 80m euros Bayern paid for Lucas Hernandez in 2019",
+      "sourceIds": [
+        "aljazeera-kane-bayern-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera: reported fee could hit more than 100m pounds; highest fee for a Bundesliga club; previous record 80m euros from Atletico Madrid in 2019."
+    },
+    {
+      "claim": "Tottenham 2019: 25 goals in 40 caps while he played for the club",
+      "sourceIds": [
+        "tottenham-2019"
+      ],
+      "verdict": "confirmed",
+      "note": "Spurs list reads 25 goals in 40 caps (2011-)."
+    },
+    {
+      "claim": "Jimmy Greaves' 266 goals for Spurs as the record Kane was chasing",
+      "sourceIds": [
+        "tottenham-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Spurs 8 June 2022 article cites Greaves' 266 at Spurs."
+    },
+    {
+      "claim": "Lithuania debut March 2015; goal 79 seconds after coming off the bench",
+      "sourceIds": [
+        "tottenham-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Article: 79 seconds after coming off the bench against Lithuania, March 2015."
+    },
+    {
+      "claim": "99 caps, 66 goals and 17 assists before the 100th cap",
+      "sourceIds": [
+        "fa-kane-100-caps"
+      ],
+      "verdict": "confirmed",
+      "note": "FA feature of 9 Sep 2024."
+    },
+    {
+      "claim": "Hodgson 5 goals in 16 games; Southgate 61 in 81",
+      "sourceIds": [
+        "fa-kane-100-caps"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches FA figures."
+    },
+    {
+      "claim": "25 goals in 34 games at Wembley",
+      "sourceIds": [
+        "fa-kane-100-caps"
+      ],
+      "verdict": "confirmed",
+      "note": "FA: a record 25 goals in 34 games at Wembley."
+    },
+    {
+      "claim": "17 goals in 14 World Cup qualifiers; 23 goals and 8 assists in 21 EURO qualifiers",
+      "sourceIds": [
+        "fa-kane-100-caps"
+      ],
+      "verdict": "confirmed",
+      "note": "FA figures match."
+    },
+    {
+      "claim": "Four against San Marino, first England player to do so since Ian Wright in November 1993",
+      "sourceIds": [
+        "fa-kane-100-caps"
+      ],
+      "verdict": "confirmed",
+      "note": "FA: since Ian Wright in November 1993, also against San Marino."
+    },
+    {
+      "claim": "March 2023 Italy goal passed Rooney's 53",
+      "sourceIds": [
+        "fa-kane-100-caps"
+      ],
+      "verdict": "confirmed",
+      "note": "FA: breaking Rooney's record of 53 with a strike against Italy in March 2023."
+    },
+    {
+      "claim": "Rooney's 53 goals came in 120 caps, 2003 to 2018",
+      "sourceIds": [
+        "tottenham-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Article: 53 goals in 120 caps between 2003 and 2018."
+    },
+    {
+      "claim": "Nations League goal vs Germany made him the second England player to 50 goals, above Charlton's 49",
+      "sourceIds": [
+        "tottenham-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Article says exactly this."
+    },
+    {
+      "claim": "Faced 44 countries; most often Italy (six) and Switzerland (five)",
+      "sourceIds": [
+        "fa-kane-100-caps"
+      ],
+      "verdict": "confirmed",
+      "note": "FA figures match."
+    },
+    {
+      "claim": "15 major tournament goals from 29 appearances: 8 in 11 World Cup matches, 7 in 18 EURO finals matches",
+      "sourceIds": [
+        "fa-kane-100-caps"
+      ],
+      "verdict": "confirmed",
+      "note": "FA figures match."
+    },
+    {
+      "claim": "14 World Cup goals; England's leading men's World Cup scorer ahead of Gary Lineker",
+      "sourceIds": [
+        "fa-ballon-dor-nominees-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "FA 2026 profile: moves him beyond Lineker."
+    },
+    {
+      "claim": "Five England hat-tricks",
+      "sourceIds": [
+        "fa-kane-100-caps"
+      ],
+      "verdict": "confirmed",
+      "note": "FA lists Panama, Bulgaria, Montenegro, Albania and San Marino."
+    },
+    {
+      "claim": "Bulgaria treble took him to 25 international goals and above Geoff Hurst into the top 15",
+      "sourceIds": [
+        "tottenham-2019"
+      ],
+      "verdict": "confirmed",
+      "note": "Spurs 2019 article says this."
+    },
+    {
+      "claim": "2018 World Cup semi-finals and Golden Boot; four goals in three games at Euro 2020; England captain since 2017",
+      "sourceIds": [
+        "tottenham-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Article says all three."
+    },
+    {
+      "claim": "Record caps as England captain, passing Bobby Moore; 125 senior caps, equalling Peter Shilton",
+      "sourceIds": [
+        "fa-ballon-dor-nominees-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "FA 2026 profile."
+    },
+    {
+      "claim": "Bundesliga 2025/26: 36 goals, hat-trick in 5-1 win over Cologne; first player to win top scorer in each of first three seasons; Lewandowski only other three-in-a-row winner",
+      "sourceIds": [
+        "bundesliga-top-scorer-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Bundesliga report dated 16 May 2026."
+    },
+    {
+      "claim": "FA profile: 36 Bundesliga goals in 31 league games; 100 goals in 104 Bayern games; European Golden Shoe; third straight top scorer award; extraordinary scoring",
+      "sourceIds": [
+        "fa-ballon-dor-nominees-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "All figures match the FA profile."
+    },
+    {
+      "claim": "Sky: Kane described as bookmakers' favourite before the ceremony; no odds quoted",
       "sourceIds": [
         "sky-ballon-dor-favourite-2026"
       ],
       "verdict": "confirmed",
-      "note": "Sky: 'the bookmakers' favourite to be crowned'; 'The 70th Ballon d'Or ceremony will take place on October 26, 2026 in London'. No odds quoted, as the page says."
+      "note": "Sky: bookmakers' favourite; no odds or bookmaker named."
     },
     {
-      "claim": "The 2026 ceremony is the first held outside Paris",
+      "claim": "Accumulated voting points decide the prizes at the ceremony",
       "sourceIds": [
         "fa-ballon-dor-nominees-2026"
       ],
       "verdict": "confirmed",
-      "note": "FA: 'held outside of Paris for the first time'."
+      "note": "FA: accumulated points determine who takes the trophies."
     },
     {
-      "claim": "36 Bundesliga goals in 2025/26 including a hat-trick in a 5-1 win over Cologne on Matchday 34",
-      "sourceIds": [
-        "bundesliga-top-scorer-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Bundesliga report gives 36 goals, a treble in a 5-1 home win over Cologne on Matchday 34."
-    },
-    {
-      "claim": "Bundesliga report dated 16 May 2026: first player to win the top scorer award in each of his first three seasons; Lewandowski only other player with three in a row",
-      "sourceIds": [
-        "bundesliga-top-scorer-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Both sentences quoted in the report; date 16.05.2026."
-    },
-    {
-      "claim": "FA profile: 36 Bundesliga goals in 31 league games, 100 Bayern goals in 104 competitive games, European Golden Shoe, third straight top-scorer award",
-      "sourceIds": [
-        "fa-ballon-dor-nominees-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "All four items quoted in the FA profile."
-    },
-    {
-      "claim": "FA credits his Bayern form with 'extraordinary scoring' and says accumulated points decide the prizes",
-      "sourceIds": [
-        "fa-ballon-dor-nominees-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Both phrases appear in the FA profile."
-    },
-    {
-      "claim": "Bayern signed Kane from Tottenham in August 2023, club-record deal, four-year contract, Bayern were German champions",
-      "sourceIds": [
-        "tnt-bayern-signing-2023"
-      ],
-      "verdict": "confirmed",
-      "note": "TNT: 'signed a four-year contract'; 'club-record deal for the German champions'. The article is dated 12/08/2023; it does not spell out the month in the text, so August rests on that date."
-    },
-    {
-      "claim": "Potential fee of EUR 120 million (GBP 104m), and the previous Bayern record EUR 80m (GBP 68m) for Lucas Hernandez from Atletico Madrid in 2019",
-      "sourceIds": [
-        "tnt-bayern-signing-2023"
-      ],
-      "verdict": "confirmed",
-      "note": "TNT: 'a potential EUR 120 million (GBP 104m) fee'; 'previous record EUR 80m (GBP 68m) they spent on Lucas Hernandez from Atletico Madrid in 2019'."
-    },
-    {
-      "claim": "Tottenham 2019 article: 25 goals in 40 caps for England",
-      "sourceIds": [
-        "tottenham-2019"
-      ],
-      "verdict": "confirmed",
-      "note": "The figure appears in the article's list entry 'HARRY KANE - 25 goals in 40 caps'."
-    },
-    {
-      "claim": "Tottenham 2022 feature: Jimmy Greaves' 266 Spurs goals was the record he was chasing",
-      "sourceIds": [
-        "tottenham-2022"
-      ],
-      "verdict": "confirmed",
-      "note": "'Jimmy Greaves' 266 at Spurs' is quoted."
-    },
-    {
-      "claim": "Debut against Lithuania in March 2015, scored 79 seconds after coming off the bench",
-      "sourceIds": [
-        "tottenham-2022"
-      ],
-      "verdict": "confirmed",
-      "note": "'scored 79 seconds after coming off the bench against Lithuania in March, 2015'."
-    },
-    {
-      "claim": "FA Sept 2024: 99 caps, 66 goals, 17 assists before the 100th cap against Finland at Wembley",
-      "sourceIds": [
-        "fa-kane-100-caps"
-      ],
-      "verdict": "confirmed",
-      "note": "Caps, goals and assists quoted. The Finland fixture is described as a preview; the result is not claimed."
-    },
-    {
-      "claim": "Hodgson: 5 goals in 16 games; Southgate: 61 in 81; 25 goals in 34 games at Wembley (record)",
-      "sourceIds": [
-        "fa-kane-100-caps"
-      ],
-      "verdict": "confirmed",
-      "note": "All figures quoted."
-    },
-    {
-      "claim": "March 2023 goal against Italy passed Rooney's 53; Rooney 120 caps 2003-2018",
-      "sourceIds": [
-        "fa-kane-100-caps",
-        "tottenham-2022"
-      ],
-      "verdict": "confirmed",
-      "note": "FA: strike against Italy in March 2023 broke Rooney's 53. Tottenham 2022: Rooney 53 goals in 120 caps, 2003-2018."
-    },
-    {
-      "claim": "Nations League late equaliser against Germany made him second England player to 50 goals, above Bobby Charlton's 49",
-      "sourceIds": [
-        "tottenham-2022"
-      ],
-      "verdict": "confirmed",
-      "note": "Quoted: 'only the second player to score 50 goals for England' and 'moved above ... Bobby Charlton (49 goals)'."
-    },
-    {
-      "claim": "44 countries faced; Italy six and Switzerland five most often; scored or assisted against all but ten",
-      "sourceIds": [
-        "fa-kane-100-caps"
-      ],
-      "verdict": "confirmed",
-      "note": "All quoted."
-    },
-    {
-      "claim": "Qualifying: 17 goals in 14 World Cup qualifiers; 23 goals and 8 assists in 21 EURO qualifiers; four against San Marino, first since Ian Wright in November 1993",
-      "sourceIds": [
-        "fa-kane-100-caps"
-      ],
-      "verdict": "confirmed",
-      "note": "FA: 'first player to score four goals in an England international since Ian Wright in November 1993'. The page says 'first England player', which matches."
-    },
-    {
-      "claim": "15 major tournament goals from 29 appearances (8 in 11 World Cup, 7 in 18 EURO finals); 2026 FA profile raises World Cup goals to 14, ahead of Gary Lineker",
+      "claim": "England's record goalscorer",
       "sourceIds": [
         "fa-kane-100-caps",
         "fa-ballon-dor-nominees-2026"
       ],
       "verdict": "confirmed",
-      "note": "All figures quoted in the two FA pages."
+      "note": "FA records; passed Rooney in March 2023."
     },
     {
-      "claim": "Five England hat-tricks against Panama, Bulgaria, Montenegro, Albania and San Marino",
+      "claim": "Kane is 33 as of 29 October 2026",
       "sourceIds": [
-        "fa-kane-100-caps"
+        "wikidata-q969725",
+        "khelnow-kane-munich-welcome-2026"
       ],
       "verdict": "confirmed",
-      "note": "All five opponents listed."
+      "note": "Date of birth 28 July 1993."
     },
     {
-      "claim": "Bulgaria hat-trick took him to 25 international goals and above Geoff Hurst into England's top 15",
-      "sourceIds": [
-        "tottenham-2019"
-      ],
-      "verdict": "confirmed",
-      "note": "Both points quoted."
-    },
-    {
-      "claim": "2018 World Cup: England reached the semi-finals and Kane won the Golden Boot",
-      "sourceIds": [
-        "tottenham-2022"
-      ],
-      "verdict": "confirmed",
-      "note": "'led the Three Lions to semi-finals of the 2018 World Cup, where he claimed the tournament's Golden Boot'."
-    },
-    {
-      "claim": "Euro 2020: four goals in three games to take England to the final; named England captain in 2017",
-      "sourceIds": [
-        "tottenham-2022"
-      ],
-      "verdict": "confirmed",
-      "note": "Both quoted."
-    },
-    {
-      "claim": "Record caps as England captain passing Bobby Moore; 125 senior caps equalling Peter Shilton",
+      "claim": "First ceremony held outside Paris",
       "sourceIds": [
         "fa-ballon-dor-nominees-2026"
       ],
       "verdict": "confirmed",
-      "note": "Both quoted."
-    },
-    {
-      "claim": "Bayern deal runs out at end of the season; talks aim to keep him beyond 2027",
-      "sourceIds": [
-        "nst-bayern-extension-talks-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "NST: 'current deal runs out at the end of this season'; 'beyond 2027'."
-    },
-    {
-      "claim": "On 29 August 2026 Kane confirmed talks; quotes on first meeting, no panic and both sides happy",
-      "sourceIds": [
-        "nst-bayern-extension-talks-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Date and all three quotes match the article. No signed agreement reported."
+      "note": "FA profile: the ceremony is held outside Paris for the first time, in London."
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "Joins the FA, Bundesliga, Sky and TNT material with the August 2026 extension status, which the general top results do not set out in one place, and states plainly what the sources do not confirm.",
+  "valueNote": "Adds the 28 October Magdeburg result with Kane rested, the Bundesliga vote details, the status of the tribute and the contract talks in one dated section, with the transfer fee given as reported by two outlets.",
   "decision": "approve",
-  "summary": "All cited claims in this pt page were checked against the opened sources (same claims as the English page, translated) and match. The corrections made during this review (FA 70th-ceremony attribution, unsupported single-manager sentence, uncited 2018 sentence, unsupported shortlist sentence in de) are fixed. No birth facts are stated because no opened source gives them."
+  "summary": "Every claim checked matches its cited source. The fee and the contract status are attributed to the outlets that reported them."
 }

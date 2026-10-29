@@ -1,0 +1,169 @@
+{
+  "date": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Jeffery Simmons is 29 years old (born 28 July 1997)",
+      "sourceIds": [
+        "titans-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Titans bio: born Jeffery Bernard Simmons Jr. on July 28, 1997. Age 29 as of 29 Oct 2026 is derived from that date."
+    },
+    {
+      "claim": "Titans drafted him 19th overall in 2019 (first round)",
+      "sourceIds": [
+        "titans-draft",
+        "titans-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Titans draft article: selected Mississippi State DL with the 19th overall pick; bio: 19th overall pick in 2019 draft."
+    },
+    {
+      "claim": "Titans June 2026 extension announcement calls him a five-time captain",
+      "sourceIds": [
+        "titans-extension"
+      ],
+      "verdict": "confirmed",
+      "note": "Titans page: a four-time Pro Bowl selection, a five-time captain, and a three-time Community Man of the Year winner. Announcement dated Jun 19, 2026."
+    },
+    {
+      "claim": "NFL.com reports the Chicago Bears are acquiring him from the Titans; Titans receive 2027 and 2028 first-round picks and a 2027 fourth-rounder; Bears receive a 2028 fifth-round selection",
+      "sourceIds": [
+        "nfl-trade"
+      ],
+      "verdict": "confirmed",
+      "note": "NFL.com article text. The page's published date is blank, so the trade date is not stated in the source; the page does not give a date and does not claim one beyond NFL.com's report."
+    },
+    {
+      "claim": "Born in Lasalle, Louisiana; hometown Macon, Mississippi",
+      "sourceIds": [
+        "titans-bio",
+        "wikidata"
+      ],
+      "verdict": "confirmed",
+      "note": "Titans bio: born in Lasalle, La. and calls him the Macon, Miss., native. Wikidata: place of birth LaSalle Parish."
+    },
+    {
+      "claim": "Mississippi State college; 6-4 and 305 pounds",
+      "sourceIds": [
+        "titans-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Titans bio: College Mississippi State; height 6-4; weight 305 lbs."
+    },
+    {
+      "claim": "Jon Robinson quote: excited about the ability he has; team expects him to be a big difference-maker for years to come",
+      "sourceIds": [
+        "titans-draft"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes match the Titans draft article text."
+    },
+    {
+      "claim": "Teammate DaQuan Jones: He came in and wrecked shop",
+      "sourceIds": [
+        "titans-2020-camp"
+      ],
+      "verdict": "confirmed",
+      "note": "Titans 2020 article quotes Jones."
+    },
+    {
+      "claim": "August 2020 quotes on being disruptive in the middle of the pocket and 'I'm just trying to be the best Jeffery Simmons I can be'",
+      "sourceIds": [
+        "titans-2020-camp"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated August 13, 2020; quotes match."
+    },
+    {
+      "claim": "Every season with at least 15 games, at least 750 snaps; 60 QB pressures and 11 sacks last season",
+      "sourceIds": [
+        "nfl-snaps"
+      ],
+      "verdict": "confirmed",
+      "note": "NFL.com snap article. 'Last season' refers to 2025 in an article written in the 2026 offseason; the year is derived from that context."
+    },
+    {
+      "claim": "Saleh wants DTs to penetrate, split doubles, be disruptive in the backfield; plan should unleash Simmons; rotation quotes; 50 of 60 plays quote",
+      "sourceIds": [
+        "nfl-snaps"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes match the NFL.com article."
+    },
+    {
+      "claim": "Simmons minicamp quote: I want to have that mindset of, Nah coach, I could go for more",
+      "sourceIds": [
+        "nfl-snaps"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote matches."
+    },
+    {
+      "claim": "Contract average of 35.276 million per year; head-and-shoulders above interior rushers",
+      "sourceIds": [
+        "nfl-snaps"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote matches."
+    },
+    {
+      "claim": "NFL.com 2024 profile: 27.5 sacks since 2020, seventh among DTs, two-time Pro Bowler",
+      "sourceIds": [
+        "nfl-motys"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile figures are as of 2024; the page says 'two-time Pro Bowler' at that time, and the later Titans page says four-time, so the 2024 figure is dated and labelled as the 2024 profile."
+    },
+    {
+      "claim": "Second-time nominee for the Walter Payton Man of the Year; 50,000 donation to Noxubee Titans; inaugural youth camp in Starkville 2024 with more than 500 youth; Give 'Em a Reason legacy",
+      "sourceIds": [
+        "nfl-motys"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile text matches each item."
+    },
+    {
+      "claim": "Multi-year extension announced June 19, 2026; NFL.com puts it at three years and 105.8 million",
+      "sourceIds": [
+        "titans-extension",
+        "nfl-trade"
+      ],
+      "verdict": "confirmed",
+      "note": "Titans dateline Jun 19, 2026 and 'multi-year' wording; NFL.com gives the three-year, 105.8 million value."
+    },
+    {
+      "claim": "First-team All-Pro 2025, second-team 2021 and 2022",
+      "sourceIds": [
+        "titans-extension"
+      ],
+      "verdict": "confirmed",
+      "note": "Titans page quotes this exactly."
+    },
+    {
+      "claim": "Fourth-career Pro Bowl and first-career first-team All-Pro in 2025",
+      "sourceIds": [
+        "nfl-trade"
+      ],
+      "verdict": "confirmed",
+      "note": "NFL.com article text."
+    },
+    {
+      "claim": "Wikidata Q45146310 citizenship United States (nationality field)",
+      "sourceIds": [
+        "wikidata"
+      ],
+      "verdict": "confirmed",
+      "note": "Wikidata lists country of citizenship United States. Only Wikidata states this; no team page does."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds the Titans' own bio and extension page, the NFL.com snap and pressure figures, and the 2020 quotes, which the top results do not cover. The trade rests on NFL.com's report, and the page says so.",
+  "decision": "approve",
+  "summary": "All checked claims match the cited sources. The trade is reported by NFL.com; no team statement was found, and the page attributes it to NFL.com."
+}

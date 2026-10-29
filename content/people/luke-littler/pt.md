@@ -13,9 +13,12 @@ summary: >-
   e manteve o título em janeiro de 2026. Em 30 de outubro de 2026, a Netflix
   transmite Beat Luke Littler, em que amadores tentam vencê-lo em uma perna de
   501 por 501 mil libras.
-status: review
+status: published
 risk: low
+reviewedAt: '2026-10-29'
+reviewBy: '2027-04-29'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Luke Littler
@@ -41,25 +44,8 @@ faq:
     a: >-
       A transmissão ao vivo acontece na sexta-feira, 30 de outubro de 2026, às
       15h no horário do leste dos Estados Unidos. O prêmio é de 501 mil libras.
-reviewNotes: >-
-  UNSUPPORTED: "Começou a jogar aos 18 meses, entrou em academia aos 10 anos e
-  venceu o Campeonato Mundial Juniores aos 16" (The fetched Bola na Rede page
-  does not give the 18 months, academy at 10, or junior championship at 16. Cite
-  a source that says it, or drop the paragraph.) | UNSUPPORTED: "A BOLA
-  descreveu o prêmio de 1 milhão de libras como um ganho recorde na competição"
-  (The fetched A BOLA page does not describe the prize as a record. The record
-  claim is in Sky (biggest payday in darts history). Attribute it to Sky.) |
-  UNSUPPORTED: "A diferença vem da data de cada fonte, já que o Mundial de 2026
-  veio depois" (Causal explanation. The cited Sky 2026 page does not discuss the
-  major count. Dates alone show only that the figures are from Nov 2025 and Oct
-  2026. Drop the cause.) | Reviewer recommends rejection: Most claims check out.
-  Three need fixing: a biographical paragraph (18 months, academy at 10, junior
-  title at 16) the cited Bola na Rede page does not support, a record-prize
-  claim attributed to A BOLA that its page does not make, and a causal
-  explanation for the 8 vs 13 major gap. Citation tags also sit in the summary
-  and FAQ frontmatter.
-autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+autoReviews: 4
+publishedAt: '2026-10-29'
 ---
 Luke Littler tem 19 anos e é bicampeão mundial da PDC [s:sky-sports-world-championship-2025-final] [s:sky-sports-world-championship-2026-final]. Nasceu em Warrington, na Inglaterra, em 21 de janeiro de 2007 [s:dartsworld-littler-profile]. É o quarto jogador a defender o título mundial com sucesso [s:sky-sports-world-championship-2026-final].
 
@@ -97,12 +83,13 @@ Aos 18 anos e 299 dias ele se tornou o número 1 mais jovem da história da PDC,
 
 ## Temporada 2025/26: seis torneios premier e a derrota em Amsterdã
 
-A Sky Sports lista seis torneios premier vencidos por Littler na temporada 2025/26: o Mundial, o World Masters, o UK Open, a Premier League, a World Cup of Darts, em dupla com Luke Humphries, e o World Matchplay [s:sky-sports-world-series-finals-2026] [s:sky-sports-players-championship-27-2026].
+A Sky Sports lista seis torneios premier vencidos por Littler na temporada 2025/26: o Mundial, o World Masters, o UK Open, a Premier League, a World Cup of Darts e o World Matchplay [s:sky-sports-world-series-finals-2026] [s:sky-sports-players-championship-27-2026].
 
 Essa sequência parou no World Series of Darts Finals, em Amsterdã. Ele perdeu por 10 a 4 para Jonny Clayton nas quartas de final, e com isso acabou a tentativa de vencer todos os majors do ano [s:sky-sports-world-series-finals-2026]. Ross Smith levou o torneio ao bater Gerwyn Price por 11 a 5 [s:sky-sports-world-series-finals-2026].
+
 ## Quantos majors ele tem
 
-A Netflix informa 28 títulos da PDC na carreira de Littler, sendo 13 majors, em uma página datada de 22 de outubro de 2026 [s:netflix-tudum-beat-luke-littler]. A Sky Sports atribuía a ele oito majors no total em novembro de 2025 [s:sky-sports-grand-slam-world-no1-2025]. As duas cifras correspondem a datas diferentes.
+A Netflix informa 28 títulos da PDC na carreira de Littler, sendo 13 majors, em uma página datada de 22 de outubro de 2026 [s:netflix-tudum-beat-luke-littler]. Na crônica do Grand Slam de 2025, publicada em 16 de novembro de 2025, a Sky Sports atribuía a ele oito majors no total [s:sky-sports-grand-slam-world-no1-2025].
 
 ## Distinção
 

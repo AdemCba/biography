@@ -1,127 +1,54 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-29",
   "model": "claude-haiku-5-5",
   "approved": true,
   "reasons": [],
   "claims": [
     {
-      "claim": "Born in Paris on 20 December 1998",
+      "claim": "2026/27 LaLiga listing for Real Madrid: 10 matches (10 started), 11 goals, 2 assists, 894 minutes; no separate cup totals",
       "sourceIds": [
-        "britannica-mbappe"
+        "fotmob-mbappe"
       ],
       "verdict": "confirmed",
-      "note": "Britannica Quick Facts: December 20, 1998, Paris, France."
+      "note": "Opened FotMob player page 701154 on 2026-10-29. It lists 2026/2027 under LaLiga: 10 matches, 10 started, 11 goals, 2 assists, 894 minutes. It gives no separate cup appearances or goals for the season."
     },
     {
-      "claim": "2018 final goal; France beat Croatia 4-2 in Moscow, 15 July 2018",
+      "claim": "107 caps for France and 67 goals for the national team, January 2017 to September 2026",
       "sourceIds": [
-        "fader-final-2018"
+        "fotmob-mbappe"
       ],
       "verdict": "confirmed",
-      "note": "Source matches."
+      "note": "FotMob page states 107 caps and 67 goals for France, career from January 2017 to September 2026."
     },
     {
-      "claim": "2022 final hat-trick: 3-3 after extra time, Argentina 4-2 on penalties, Lusail, 18 December 2022",
-      "sourceIds": [
-        "malaymail-final-2022"
-      ],
-      "verdict": "confirmed",
-      "note": "Source matches; photo caption gives 18 December."
-    },
-    {
-      "claim": "Golden Boot tracker last updated 19 July 2026: Mbappé 10, Messi 8, Haaland and Bellingham 7, Kane and Dembélé 6",
-      "sourceIds": [
-        "nbc-golden-boot-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Standings and update date match."
-    },
-    {
-      "claim": "2016-17 Monaco: 26 goals in 44 matches, Champions League semi-final, first Ligue 1 title in 17 years",
+      "claim": "First senior international goal came against the Netherlands in the 2018 World Cup qualifiers",
       "sourceIds": [
         "planetsport-mbappe"
       ],
       "verdict": "confirmed",
-      "note": "Matches source."
+      "note": "Planet Sport feature: 'A first senior international goal came against the Netherlands in the 2018 World Cup qualification stages'."
     },
     {
-      "claim": "2017-18 21 goals in 44 appearances; 2018-19 33 Ligue 1 goals, UNFP and Kopa Trophy",
+      "claim": "First international hat-trick came in a 2022 World Cup qualifier",
       "sourceIds": [
         "planetsport-mbappe"
       ],
       "verdict": "confirmed",
-      "note": "Matches source."
+      "note": "Planet Sport feature: 'Kylian Mbappe scored his first ever international hat-trick during a 2022 World Cup qualifier'."
     },
     {
-      "claim": "Hat-trick against Metz, youngest in Ligue 1 since Ménez 2005; four goals in 13 minutes vs Lyon",
+      "claim": "FAQ: He is French, and FotMob lists him as from France. Born 20 December 1998",
       "sourceIds": [
-        "planetsport-mbappe"
+        "fotmob-mbappe"
       ],
       "verdict": "confirmed",
-      "note": "Matches source (opponent is Metz)."
-    },
-    {
-      "claim": "2020-21: 20 Champions League goals vs Istanbul Başakşehir; Bayern 1-0 in 2020 final",
-      "sourceIds": [
-        "planetsport-mbappe"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches source."
-    },
-    {
-      "claim": "Real Madrid signing on a Monday after leaks; five-year deal to 2029; unveiled Tuesday July 2024 at packed Bernabéu",
-      "sourceIds": [
-        "soccerway-realmadrid-fr",
-        "yahoo-realmadrid-unveil"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches sources."
-    },
-    {
-      "claim": "2025 European Golden Shoe, 31 La Liga goals",
-      "sourceIds": [
-        "topendsports-golden-shoe"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches source."
-    },
-    {
-      "claim": "Pelé quote and second-teenager claim, 1958 Brazil v Sweden",
-      "sourceIds": [
-        "dailystar-pele-2018"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches source."
-    },
-    {
-      "claim": "2016 UEFA U-19 Euro: five goals, first international competition",
-      "sourceIds": [
-        "uefa-under19-2016"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches source."
-    },
-    {
-      "claim": "L'Équipe interview, 7 September 2026, I'd vote for me, rivals Dembélé and Yamal",
-      "sourceIds": [
-        "worldsoccertalk-ballon-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches source."
-    },
-    {
-      "claim": "Ceremony scheduled for Monday 26 October 2026 at London Palladium; Mbappé among men's nominees",
-      "sourceIds": [
-        "thenational-ballon-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Pre-ceremony preview; schedule and nominee confirmed. No winner stated in any source checked."
+      "note": "FotMob page gives nationality France and birth date 20 December 1998 (as in the earlier verified birthDate fact)."
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "Dated timeline with primary quotes; answers the age and birthplace questions up front.",
+  "valueNote": "Adds the 2026/27 LaLiga line for Real Madrid and the France caps and goals total, which the other pages in this set do not give with a source.",
   "decision": "approve",
-  "summary": "All checked claims confirmed against the sources after fixes."
+  "summary": "New claims checked against FotMob and Planet Sport; all confirmed. Earlier claims were checked in the previous review and are unchanged."
 }

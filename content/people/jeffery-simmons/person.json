@@ -1,0 +1,112 @@
+{
+  "id": "jeffery-simmons",
+  "name": "Jeffery Simmons",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 4,
+  "wikidata": "Q45146310",
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1997-07-28",
+      "sources": [
+        "titans-bio",
+        "wikidata"
+      ],
+      "note": "Titans bio: born Jeffery Bernard Simmons Jr. on July 28, 1997. Wikidata gives 28 July 1997."
+    },
+    "birthPlace": {
+      "value": "LaSalle Parish, Louisiana",
+      "sources": [
+        "titans-bio",
+        "wikidata"
+      ],
+      "note": "Titans bio says born in Lasalle, La. The same bio calls him the Macon, Miss., native (hometown)."
+    },
+    "nationality": {
+      "value": [
+        "US"
+      ],
+      "sources": [
+        "wikidata"
+      ],
+      "note": "Wikidata lists country of citizenship as United States. No team page states it in these words."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "titans-bio",
+      "url": "https://www.tennesseetitans.com/team/players-roster/jeffery-simmons/",
+      "title": "Jeffery Simmons (DT): Bio, News, Stats & more",
+      "publisher": "Tennessee Titans",
+      "type": "official",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "titans-extension",
+      "url": "https://www.tennesseetitans.com/news/titans-dt-jeffery-simmons-reach-deal-on-multi-year-contract-extension",
+      "title": "Titans, DT Jeffery Simmons Reach Deal on Multi-Year Contract Extension",
+      "publisher": "Tennessee Titans",
+      "type": "official",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "nfl-trade",
+      "url": "https://www.nfl.com/news/jeffery-simmons-bears-titans-trade",
+      "title": "Jeffery Simmons Bears Titans trade",
+      "publisher": "NFL.com",
+      "type": "league-or-federation",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q45146310",
+      "title": "Jeffery Simmons (Q45146310)",
+      "publisher": "Wikidata",
+      "type": "database",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "titans-draft",
+      "url": "https://www.tennesseetitans.com/news/titans-select-mississippi-state-d-lineman-jeffery-simmons-with-19th-pick-of-nfl-",
+      "title": "Titans Excited About Selection of Mississippi State D-Lineman Jeffery Simmons With 19th Pick of NFL Draft",
+      "publisher": "Tennessee Titans",
+      "type": "official",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "nfl-motys",
+      "url": "https://www.nfl.com/honors/man-of-the-year/nominees/2024/titans",
+      "title": "Titans nominee profile, 2024 Walter Payton Man of the Year",
+      "publisher": "NFL.com",
+      "type": "league-or-federation",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "nfl-snaps",
+      "url": "https://www.nfl.com/news/titans-to-curtail-jeffery-simmons-snaps-to-keep-star-dt-fresh-for-key-moments",
+      "title": "Titans to curtail Jeffery Simmons' snaps to keep star DT fresh for key moments",
+      "publisher": "NFL.com",
+      "type": "league-or-federation",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "titans-2020-camp",
+      "url": "https://www.tennesseetitans.com/news/titans-dl-jeffery-simmons-ready-to-throw-his-weight-around-this-fall",
+      "title": "Titans DL Jeffery Simmons Ready to Throw His Weight Around This Fall",
+      "publisher": "Tennessee Titans",
+      "type": "official",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    }
+  ]
+}

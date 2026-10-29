@@ -1,0 +1,401 @@
+{
+  "date": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Boca Juniors debut in 2001 against Talleres de Córdoba, aged 17",
+      "sourceIds": [
+        "mancity-legends-tevez",
+        "juventus-tevez-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Man City legends page gives the 2001 debut against Talleres; Juventus profile says he debuted at 17."
+    },
+    {
+      "claim": "Juventus profile written at his 2013 arrival calls him an Argentine frontman",
+      "sourceIds": [
+        "juventus-tevez-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Juventus article dated 27 June 2013 calls him an Argentine frontman."
+    },
+    {
+      "claim": "Farewell match on Sunday 20 December at La Bombonera; start time not confirmed",
+      "sourceIds": [
+        "canal26-tevez-farewell-date"
+      ],
+      "verdict": "confirmed",
+      "note": "Canal 26: domingo 20 de diciembre en La Bombonera, horario a confirmar."
+    },
+    {
+      "claim": "Ticket prices and sales not yet announced; organisers to publish them in coming days",
+      "sourceIds": [
+        "canal26-tevez-farewell-date"
+      ],
+      "verdict": "confirmed",
+      "note": "Canal 26 says prices and sales are not yet out and will be announced in the coming days."
+    },
+    {
+      "claim": "Guest list not yet defined; Messi and Cristiano Ronaldo named as possible guests",
+      "sourceIds": [
+        "canal26-tevez-farewell-date"
+      ],
+      "verdict": "confirmed",
+      "note": "Canal 26 says the guest list is still open and names Messi and Ronaldo as possible guests."
+    },
+    {
+      "claim": "Tevez announced the date in a post shared between his Instagram and the event's official account",
+      "sourceIds": [
+        "canal26-tevez-farewell-date"
+      ],
+      "verdict": "confirmed",
+      "note": "Canal 26: publicación compartida entre el Instagram del jugador y la cuenta oficial del evento."
+    },
+    {
+      "claim": "Born 5 February 1984 as Carlos Alberto Martínez in Ciudadela, Buenos Aires",
+      "sourceIds": [
+        "mancity-legends-tevez",
+        "wikidata-tevez"
+      ],
+      "verdict": "confirmed",
+      "note": "Man City legends page gives the birth details; Wikidata confirms date, Ciudadela and Argentina."
+    },
+    {
+      "claim": "Grew up in Fuerte Apache, nickname El Apache; adopted by mother's sister and Segundo Tevez, later took the surname",
+      "sourceIds": [
+        "mancity-legends-tevez"
+      ],
+      "verdict": "confirmed",
+      "note": "Man City legends page gives all three points."
+    },
+    {
+      "claim": "Boca Juniors first spell August 2001 to June 2005",
+      "sourceIds": [
+        "fotmob-tevez"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob lists Boca Juniors 2001 to June 2005."
+    },
+    {
+      "claim": "Joined Corinthians in January 2005",
+      "sourceIds": [
+        "fotmob-tevez"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob lists Corinthians from January 2005."
+    },
+    {
+      "claim": "Captained Corinthians to the Brazilian title and was Brazilian Player of the Year in 2005",
+      "sourceIds": [
+        "juventus-tevez-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Juventus profile: captained the side to a domestic title; Brazilian Player of the Year, 2005."
+    },
+    {
+      "claim": "First non-Brazilian to win the Brazilian best-player award",
+      "sourceIds": [
+        "mancity-legends-tevez"
+      ],
+      "verdict": "confirmed",
+      "note": "Man City legends page says he became the first non-Brazilian to win the best player's honour."
+    },
+    {
+      "claim": "West Ham United August 2006 to June 2007",
+      "sourceIds": [
+        "fotmob-tevez"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob lists West Ham from August 2006 to June 2007."
+    },
+    {
+      "claim": "Scored a late winner at Manchester United during the West Ham spell",
+      "sourceIds": [
+        "juventus-tevez-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Juventus profile: scoring a late winner at Manchester United, under West Ham."
+    },
+    {
+      "claim": "Manchester United loan signed August 2007 from Media Sports Investments",
+      "sourceIds": [
+        "mufcinfo-tevez"
+      ],
+      "verdict": "confirmed",
+      "note": "MUFCInfo: loan signed 10/08/2007 from Media Sports Investments."
+    },
+    {
+      "claim": "Manchester United debut 15 August 2007 in a 1-1 draw at Portsmouth",
+      "sourceIds": [
+        "mufcinfo-tevez"
+      ],
+      "verdict": "confirmed",
+      "note": "MUFCInfo: 15/08/2007 away at Portsmouth, 1-1."
+    },
+    {
+      "claim": "99 appearances and 34 goals for Manchester United",
+      "sourceIds": [
+        "mufcinfo-tevez",
+        "futdados-tevez-stats"
+      ],
+      "verdict": "confirmed",
+      "note": "MUFCInfo total 99 and 34; FutDados 2007-2009 99 and 34."
+    },
+    {
+      "claim": "Loan ended July 2009",
+      "sourceIds": [
+        "mufcinfo-tevez"
+      ],
+      "verdict": "confirmed",
+      "note": "MUFCInfo: end of loan 07/2009."
+    },
+    {
+      "claim": "Competitions played at Manchester United in both seasons: Premier League and European Cup; League Cup in 2008-09",
+      "sourceIds": [
+        "mufcinfo-tevez"
+      ],
+      "verdict": "confirmed",
+      "note": "MUFCInfo competition list matches; it does not list trophies, which the article does not claim from this source."
+    },
+    {
+      "claim": "Manchester City 2009 to 2013 with 125 appearances and 74 goals",
+      "sourceIds": [
+        "mancity-legends-tevez"
+      ],
+      "verdict": "confirmed",
+      "note": "Man City legends header: 2009-2013, 125 appearances, 74 goals."
+    },
+    {
+      "claim": "Joined Manchester City on 14 July 2009",
+      "sourceIds": [
+        "mancity-legends-tevez"
+      ],
+      "verdict": "confirmed",
+      "note": "Man City legends page: joined City on 14 July 2009."
+    },
+    {
+      "claim": "First City goal on 27 August 2009, 2-0 win over Crystal Palace",
+      "sourceIds": [
+        "mancity-legends-tevez"
+      ],
+      "verdict": "confirmed",
+      "note": "Man City legends page gives the date, opponent and 2-0 score."
+    },
+    {
+      "claim": "Premier League Player of the Month in December 2009",
+      "sourceIds": [
+        "mancity-legends-tevez"
+      ],
+      "verdict": "confirmed",
+      "note": "Man City legends page: first awarded December 2009."
+    },
+    {
+      "claim": "Made captain by Roberto Mancini",
+      "sourceIds": [
+        "mancity-legends-tevez"
+      ],
+      "verdict": "confirmed",
+      "note": "Man City legends page: made club captain by Roberto Mancini."
+    },
+    {
+      "claim": "Suspension in 2011-12, resumed training 14 February 2012",
+      "sourceIds": [
+        "mancity-legends-tevez"
+      ],
+      "verdict": "confirmed",
+      "note": "Man City legends page gives the suspension and the 14 February 2012 date."
+    },
+    {
+      "claim": "Juventus signing in June 2013 from Manchester City",
+      "sourceIds": [
+        "juventus-tevez-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Juventus article dated 27 June 2013 says he joins from City, the English spell ending last season."
+    },
+    {
+      "claim": "Juventus spell July 2013 to June 2015",
+      "sourceIds": [
+        "fotmob-tevez"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob lists Juventus jul 2013 to jun 2015."
+    },
+    {
+      "claim": "Returned to Boca Juniors in 2015",
+      "sourceIds": [
+        "mancity-legends-tevez",
+        "fotmob-tevez"
+      ],
+      "verdict": "confirmed",
+      "note": "Man City legends page says he returned to Boca in 2015; FotMob lists the return from July 2015."
+    },
+    {
+      "claim": "Shanghai Shenhua January 2017 to January 2018; Boca again January 2018 to June 2021 on a free transfer",
+      "sourceIds": [
+        "fotmob-tevez"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob: Shanghai ene 2017 - ene 2018; Boca ene 2018 - jun 2021, traspaso gratuito."
+    },
+    {
+      "claim": "Argentina caps January 2004 to December 2015",
+      "sourceIds": [
+        "fotmob-tevez"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob: selección ene 2004 - dic 2015."
+    },
+    {
+      "claim": "76 matches and 13 goals for Argentina",
+      "sourceIds": [
+        "fotmob-tevez",
+        "futdados-tevez-stats"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob 76 and 13; FutDados 76 and 13."
+    },
+    {
+      "claim": "FotMob warns that counts before 2006 may be inexact",
+      "sourceIds": [
+        "fotmob-tevez"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob note: goals and matches before 2006 could be inexact."
+    },
+    {
+      "claim": "Juventus 2013 profile gave 64 Argentina appearances at that time",
+      "sourceIds": [
+        "juventus-tevez-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Juventus profile: 64 appearances and 13 goals."
+    },
+    {
+      "claim": "Olympic gold with Argentina at Athens 2004",
+      "sourceIds": [
+        "mancity-legends-tevez",
+        "juventus-tevez-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Both pages say Olympic gold at the 2004 Athens Games."
+    },
+    {
+      "claim": "Eight goals in six matches at the 2004 Olympics",
+      "sourceIds": [
+        "juventus-tevez-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Juventus profile: eight goals in six appearances."
+    },
+    {
+      "claim": "Played at the 2006 and 2010 World Cups",
+      "sourceIds": [
+        "juventus-tevez-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Juventus profile: 2006 and 2010 FIFA World Cups."
+    },
+    {
+      "claim": "Juventus profile lists Corinthians domestic title, 2004 Olympic gold, Premier League and Champions League 2007-08, and Premier League, Club World Cup and League Cup 2008-09",
+      "sourceIds": [
+        "juventus-tevez-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Juventus profile lists these titles by season."
+    },
+    {
+      "claim": "Manchester City: FA Cup 2010-11; Premier League and Community Shield 2011-12",
+      "sourceIds": [
+        "mancity-legends-tevez",
+        "juventus-tevez-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Man City page lists FA Cup 2010-11 and Premier League/Community Shield 2011-12; Juventus profile confirms FA Cup 2010/11."
+    },
+    {
+      "claim": "2011-12 Premier League was the club's first top-flight title in 44 years",
+      "sourceIds": [
+        "juventus-tevez-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Juventus profile: first top-flight title in 44 years."
+    },
+    {
+      "claim": "No Boca Juniors honours are listed, because the checked sources give none",
+      "sourceIds": [
+        "mancity-legends-tevez",
+        "juventus-tevez-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Statement about the checked sources: neither lists Boca honours."
+    },
+    {
+      "claim": "Infobae published a first list of names on 29 October 2026",
+      "sourceIds": [
+        "infobae-tevez-farewell-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Infobae article dated 29 October 2026."
+    },
+    {
+      "claim": "Tevez confirmed Lionel Messi and Juan Román Riquelme in an interview with Rio Ferdinand, as Infobae reports",
+      "sourceIds": [
+        "infobae-tevez-farewell-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Infobae: confirmó la presencia de Messi y Juan Román Riquelme in an interview with Rio Ferdinand. Attributed to Infobae."
+    },
+    {
+      "claim": "Former players and internationals have told Tevez they will attend",
+      "sourceIds": [
+        "infobae-tevez-farewell-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Infobae: several idols and stars told him they will be present."
+    },
+    {
+      "claim": "Cristiano Ronaldo's attendance still awaited; Tevez said he would contact him",
+      "sourceIds": [
+        "infobae-tevez-farewell-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Infobae: still waiting on news; A Cristiano lo voy a buscar yo."
+    },
+    {
+      "claim": "FAQ: age 42 as of 29 October 2026",
+      "sourceIds": [
+        "mancity-legends-tevez",
+        "wikidata-tevez"
+      ],
+      "verdict": "confirmed",
+      "note": "Birth date 5 February 1984 gives age 42 on that date."
+    },
+    {
+      "claim": "FAQ: 76 caps and 13 goals, 2004 to 2015",
+      "sourceIds": [
+        "fotmob-tevez",
+        "futdados-tevez-stats"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources agree."
+    },
+    {
+      "claim": "FAQ: Messi attendance reported by Infobae but not officially confirmed; Canal 26 says list open",
+      "sourceIds": [
+        "infobae-tevez-farewell-2026",
+        "canal26-tevez-farewell-date"
+      ],
+      "verdict": "confirmed",
+      "note": "Answer keeps the report attributed and states the guest list is open."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Gives a dated club-by-club timeline, a sourced titles list and a farewell-match status that separates confirmed dates from press reports of guests. The club stats conflict between databases, so the page uses the FotMob dates and marks where sources disagree.",
+  "decision": "approve",
+  "summary": "Every claim checked against an opened source matches, including the Boca Juniors return dates from FotMob. Guest names are reported by Infobae and marked as not confirmed."
+}

@@ -1,0 +1,74 @@
+{
+  "worthWriting": true,
+  "reason": "Head coach of Sporting CP in the Liga Portugal; widely covered by Portuguese press. Coaching career and club history are sourced; the 29 Oct 2026 story is about football context only.",
+  "wikidata": "Q121147850",
+  "importance": 3,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "abola-sporting-appointment-2024",
+      "url": "https://www.abola.pt/futebol/noticias/oficial-rui-borges-e-o-novo-treinador-do-sporting-2024122609120785747",
+      "title": "Oficial: Rui Borges é o novo treinador do Sporting",
+      "publisher": "A BOLA",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "rtp-coaching-profile-2024",
+      "url": "https://www.rtp.pt/noticias/sporting/perfil-rui-borges-sete-epocas-como-treinador_d1623772",
+      "title": "Perfil: Rui Borges, sete épocas como treinador",
+      "publisher": "RTP",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "abola-contract-status-2026",
+      "url": "https://www.abola.pt/noticias/rui-borges-a-prazo-com-os-dias-cada-vez-mais-contados-no-sporting-2026102623203982279",
+      "title": "Rui Borges, a prazo, com os dias cada vez mais contados no Sporting",
+      "publisher": "A BOLA",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "abola-public-statement-2026",
+      "url": "https://www.abola.pt/noticias/rui-borges-sporting-o-meu-filho-foi-enxovalhado-no-ultimo-jogo-por-ser-filho-de-quem-e-nao-admito-2026102912525838987",
+      "title": "Rui Borges (Sporting) on public criticism after a recent match",
+      "publisher": "A BOLA",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "lpfp-best-coach-2025",
+      "url": "https://pt.soccerway.com/noticias/futebol-liga-portugal-betclic-liga-portugal-rui-borges-distinguido-como-melhor-treinador-da-edicao-2024-25/fys2e0Hc",
+      "title": "Liga Portugal: Rui Borges distinguido como melhor treinador da edição 2024/25",
+      "publisher": "Soccerway",
+      "type": "press",
+      "lang": "pt"
+    }
+  ],
+  "facts": {
+    "birthDate": null,
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Mirandela",
+      "sources": [
+        "rtp-coaching-profile-2024"
+      ],
+      "note": "RTP calls Mirandela his 'cidade natal'. The country is not stated in that source."
+    },
+    "nationality": null
+  },
+  "targetQueries": [
+    "Rui Borges Sporting coach",
+    "Rui Borges head coach Sporting CP",
+    "Is Rui Borges still Sporting coach",
+    "Rui Borges coaching career",
+    "Rui Borges Moreirense",
+    "Rui Borges Vitoria de Guimaraes",
+    "Rui Borges Liga Portugal best coach 2024/25",
+    "Rui Borges age",
+    "Rui Borges Sporting contract",
+    "Rui Borges where is he from"
+  ],
+  "gapNote": "Sources disagree on the contract end: the 2024 CMVM-based report gave 30 June 2026 with an option to 2027, while A Bola (27 Oct 2026) gives June 2028 plus an option. Sources also disagree on his birth date (7 July vs 16 July 1981), so no birthDate is recorded. No nationality source was found in the pages opened. No primary club or league page was reachable (sportingcp.com redirected, ligaportugal.pt returned 404). A Bola (27 Oct 2026) describes his position as at risk after a defeat to Académico de Viseu."
+}

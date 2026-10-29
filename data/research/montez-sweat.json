@@ -1,0 +1,97 @@
+{
+  "worthWriting": true,
+  "reason": "NFL starter on the Chicago Bears with a first-round draft pick (2019), a contract through 2027 and a league-announced two-game suspension in October 2026. Primary team and NFL pages were opened and agree on team, number, draft slot and 2025 sacks.",
+  "wikidata": "Q45145153",
+  "importance": 3,
+  "risk": "high",
+  "sources": [
+    {
+      "id": "bears-roster",
+      "url": "https://www.chicagobears.com/team/players-roster/montez-sweat/",
+      "title": "Montez Sweat - Chicago Bears roster and biography",
+      "publisher": "Chicago Bears",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "bears-2025-stats",
+      "url": "https://www.chicagobears.com/team/players-roster/montez-sweat/splits/2025/pre/",
+      "title": "Montez Sweat - Chicago Bears player page (2025 biography)",
+      "publisher": "Chicago Bears",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "nfl-player-profile",
+      "url": "https://www.nfl.com/players/montez-sweat/",
+      "title": "Montez Sweat - Stats, News and Video - DE",
+      "publisher": "NFL",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "nfl-suspension-return",
+      "url": "https://www.nfl.com/news/montez-sweat-returns-to-bears-devastating-two-game-suspension",
+      "title": "Montez Sweat returns to Bears following 'devastating' two-game suspension",
+      "publisher": "NFL.com",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "ajc-suspension",
+      "url": "https://www.ajc.com/news/2026/10/bears-de-montez-sweat-suspended-2-games-for-violating-nfls-performance-enhancing-substances-policy/",
+      "title": "Bears DE Montez Sweat suspended 2 games for violating NFL's performance-enhancing substances policy",
+      "publisher": "Associated Press via The Atlanta Journal-Constitution",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "suntimes-illness",
+      "url": "https://chicago.suntimes.com/bears/2026/07/29/bears-training-camp-montez-sweat-back-from-illness-defensive-end-nfl",
+      "title": "Bears DE Montez Sweat back from illness",
+      "publisher": "Chicago Sun-Times",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q45145153",
+      "title": "Montez Sweat (Wikidata)",
+      "publisher": "Wikidata",
+      "type": "database",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1996-09-04",
+      "sources": [
+        "wikidata"
+      ],
+      "note": "Only Wikidata states it in an opened source. No team or league page gives a birth date (the Bears and NFL pages show only age 30). Not cross-checked against a primary source."
+    },
+    "deathDate": null,
+    "birthPlace": null,
+    "nationality": {
+      "value": "US",
+      "sources": [
+        "wikidata"
+      ],
+      "note": "Wikidata country of citizenship: United States. Wikidata birthplace is Stone Mountain, but a Mississippi State bio snippet reportedly says Richmond, Kentucky; the MSU page could not be opened, so birthplace is left out."
+    }
+  },
+  "targetQueries": [
+    "Montez Sweat",
+    "how old is Montez Sweat",
+    "Montez Sweat team",
+    "Montez Sweat Bears contract",
+    "Montez Sweat suspension",
+    "Montez Sweat sacks",
+    "Montez Sweat draft",
+    "Montez Sweat height",
+    "Montez Sweat college",
+    "where is Montez Sweat from",
+    "Montez Sweat Bears return"
+  ],
+  "gapNote": "Top results cover the 2019 draft and contract but do not connect the October 2026 two-game suspension, the voided guaranteed money (NFL.com) and the sack-total mismatch (team biography 57.0 vs 59 in the team stats table). The brief said he is returning from injury; no opened source says that. The Athletic 29 Oct article could not be opened (NYT blocks fetches), so the Bears reinforcement story is not used."
+}

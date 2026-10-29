@@ -1,0 +1,84 @@
+{
+  "id": "arthur-fils",
+  "name": "Arthur Fils",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 3,
+  "wikidata": "Q107207693",
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "2004-06-12",
+      "sources": [
+        "rolandgarros-player"
+      ],
+      "note": "Roland-Garros profile. Not stated on the ATP bio or Australian Open pages."
+    },
+    "birthPlace": {
+      "value": "Bondoufle, France",
+      "sources": [
+        "rolandgarros-player"
+      ],
+      "note": "Roland-Garros profile."
+    },
+    "nationality": {
+      "value": [
+        "FR"
+      ],
+      "sources": [
+        "ausopen-player",
+        "atp-bio"
+      ],
+      "note": "Australian Open profile lists France; ATP bio refers to the French Federation and calls him French."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "atp-bio",
+      "url": "https://www.atptour.com/en/players/Arthur-Fils/f0f1/bio",
+      "title": "Arthur Fils Bio",
+      "publisher": "ATP Tour",
+      "type": "league-or-federation",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "rolandgarros-player",
+      "url": "https://www.rolandgarros.com/en-us/players/47762-a.fils",
+      "title": "Arthur Fils player profile",
+      "publisher": "Roland-Garros",
+      "type": "official",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "ausopen-player",
+      "url": "https://ausopen.com/node/159486",
+      "title": "Arthur Fils player profile",
+      "publisher": "Australian Open",
+      "type": "official",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "puntodebreak-cincinnati-2026",
+      "url": "https://www.puntodebreak.com/fr/2026/08/24/fils-envoie-message-ses-detracteurs-apres-sa-victoire-cincinnati",
+      "title": "Fils envoie message ses detracteurs apres sa victoire Cincinnati",
+      "publisher": "Punto de Break",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "fr"
+    },
+    {
+      "id": "puntodebreak-criticism-2026",
+      "url": "https://www.puntodebreak.com/en/2026/05/19/son-confesses-how-he-faces-the-criticism-that-comes-to-him-from-france",
+      "title": "Son confesses how he faces the criticism that comes to him from France",
+      "publisher": "Punto de Break",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    }
+  ]
+}

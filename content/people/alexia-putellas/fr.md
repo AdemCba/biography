@@ -1,23 +1,24 @@
 ---
 title: Alexia Putellas
 slug: alexia-putellas
-metaTitle: 'Alexia Putellas : âge, départ du Barça et transfert'
+metaTitle: 'Alexia Putellas : âge ({age}) et Ballon d''Or 2026'
 metaDescription: >-
-  Alexia Putellas a quitté le FC Barcelone après 14 saisons et a rejoint London
-  City Lionesses en juillet 2026. Date de naissance, trois Ballons d'Or et
-  records.
+  Alexia Putellas a {age} ans. Le 26 octobre 2026, elle a remporté son troisième
+  Ballon d'Or, égalant le record d'Aitana Bonmatí.
 knownFor: Milieu de terrain espagnole et trois fois lauréate du Ballon d'Or
 summary: >-
   Alexia Putellas a remporté le Ballon d'Or féminin le lundi 26 octobre 2026 à
-  Londres, son troisième, ce qui égale le record d'Aitana Bonmatí. Elle évolue
-  à London City Lionesses depuis juillet, après avoir quitté le FC Barcelone en
-  mai 2026 au terme de 14 saisons. Ses deux premiers Ballons d'Or datent de 2021
-  et 2022.
+  Londres, son troisième, ce qui égale le record de trois distinctions d'Aitana
+  Bonmatí. Elle évolue à London City Lionesses depuis juillet 2026, après avoir
+  quitté le FC Barcelone en mai au terme de 14 saisons. Ses deux premiers
+  Ballons d'Or datent de 2021 et 2022.
 status: published
 risk: low
-reviewedAt: '2026-10-27'
+publishedAt: '2026-10-29'
+reviewedAt: '2026-10-29'
+reviewBy: '2027-04-29'
 author: editor-in-chief
-reviewer: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Alexia Putellas âge
@@ -25,12 +26,11 @@ targetQueries:
   - Alexia Putellas quitte le Barça
   - Alexia Putellas Ballon d'Or
   - Alexia Putellas Ballon d'Or 2026
-  - Alexia Putellas matchs Barça
-  - Alexia Putellas équipe d'Espagne
-  - Alexia Putellas salaire
-  - Alexia Putellas contrat
-  - Alexia Putellas club
   - Alexia Putellas combien de Ballons d'Or
+  - Alexia Putellas matchs Barça
+  - Alexia Putellas club
+  - Alexia Putellas buts
+  - Alexia Putellas équipe d'Espagne
   - Alexia Putellas et Aitana Bonmatí
 faq:
   - q: Quel âge a Alexia Putellas ?
@@ -45,35 +45,39 @@ faq:
       fin du mois de juin [s:ap-london-city-signing-2026].
   - q: Combien de Ballons d'Or Alexia Putellas a-t-elle remportés ?
     a: >-
-      Trois. Elle les a gagnés en 2021 et 2022 [s:fcb-ballon-dor-2022], puis de
-      nouveau à Londres le lundi 26 octobre 2026 [s:reuters-ballon-dor-2026]
-      [s:uefa-ballon-dor-2026-ceremony].
+      Trois. Elle les a gagnés en 2021 et 2022
+      [s:uefa-womens-ballon-dor-2026-result], puis à nouveau à Londres le lundi
+      26 octobre 2026 [s:uefa-womens-ballon-dor-2026-result]
+      [s:reuters-ballon-dor-2026].
   - q: Combien de matchs Alexia Putellas a-t-elle joués avec le Barça ?
     a: >-
       Selon l'AP, 507 matchs en 14 saisons, avec 232 buts, un record du club
       [s:ap-barcelona-departure-2026].
-  - q: Quel est le salaire d'Alexia Putellas à London City Lionesses ?
+  - q: Combien de buts Alexia Putellas a-t-elle marqués en WSL ?
     a: >-
-      Les textes consultés ne confirment aucun salaire. CBS Sports cite un montant
-      non officiel, que cette page ne reprend pas [s:cbs-london-city-signing-2026].
+      Trois buts et une passe décisive en sept matchs de WSL depuis son arrivée
+      en juillet, selon Sky [s:sky-ballon-dor-2026-news].
   - q: Alexia Putellas a-t-elle égalé le record d'Aitana Bonmatí ?
     a: >-
-      Oui. Son troisième Ballon d'Or, remporté le 26 octobre 2026, égale les trois
-      distinctions d'Aitana Bonmatí [s:101greatgoals-ballon-dor-2026]
+      Oui. Son troisième Ballon d'Or, remporté le 26 octobre 2026, égale les
+      trois distinctions d'Aitana Bonmatí [s:101greatgoals-ballon-dor-2026]
       [s:sky-ballon-dor-2026-news].
-autoReviews: 3
-publishedAt: '2026-10-27'
-updatedAt: '2026-10-29'
+  - q: Pourquoi Alexia Putellas a-t-elle quitté le Barça ?
+    a: >-
+      Son contrat avec le FC Barcelone a expiré à la fin du mois de juin 2026
+      [s:ap-london-city-signing-2026]. Elle a dit vouloir changer et se remettre
+      en question [s:cbs-london-city-signing-2026].
+autoReviews: 4
 ---
 Alexia Putellas a quitté le FC Barcelone en mai 2026, après 14 saisons, et a rejoint en juillet les London City Lionesses, en Women's Super League [s:ap-barcelona-departure-2026] [s:ap-london-city-signing-2026]. Les années passées au Barça forment le cœur de son histoire. Elles lui ont valu deux Ballons d'Or et un adieu au Camp Nou, où plus de 91 000 personnes ont scandé son nom [s:fcb-farewell-2026].
 
 ## Octobre 2026
 
-Alexia Putellas a remporté le Ballon d'Or féminin le lundi 26 octobre 2026 au London Palladium, à Londres. C'est sa troisième distinction [s:reuters-ballon-dor-2026] [s:uefa-ballon-dor-2026-ceremony]. Reuters rapporte qu'elle a reçu le trophée le lundi [s:reuters-ballon-dor-2026]. Sky Sports a parlé d'un troisième Ballon d'Or féminin, qui égale un record, remporté alors qu'elle joue à London City Lionesses [s:sky-ballon-dor-2026-news]. Le record égalé est celui d'Aitana Bonmatí, qui a remporté trois distinctions, selon 101 Great Goals [s:101greatgoals-ballon-dor-2026]. Ses deux premiers Ballons d'Or sont venus en 2021 et 2022 [s:fcb-ballon-dor-2022].
+Alexia Putellas a remporté le Ballon d'Or féminin le lundi 26 octobre 2026 à Londres, sa troisième distinction [s:uefa-womens-ballon-dor-2026-result]. Selon l'UEFA, elle a devancé Ewa Pajor et Khadija Shaw, arrivées deuxième et troisième [s:uefa-womens-ballon-dor-2026-result]. Reuters rapporte qu'elle a reçu le trophée le lundi [s:reuters-ballon-dor-2026]. Ses deux premiers Ballons d'Or datent de 2021 et 2022 [s:uefa-womens-ballon-dor-2026-result].
 
-La page de l'UEFA sur la cérémonie indique le lundi 26 octobre au London Palladium, et précise qu'elle était la seule ancienne lauréate de la liste des nominées [s:uefa-ballon-dor-2026-ceremony]. Flashscore rappelle qu'elle venait de quitter le Barça pour rejoindre London City Lionesses [s:flashscore-ballon-dor-2026]. Depuis son arrivée en juillet, elle compte trois buts et une passe décisive en sept matchs de WSL, selon Sky [s:sky-ballon-dor-2026-news].
+Sky Sports parle d'un troisième Ballon d'Or féminin qui égale un record, remporté alors qu'elle joue à London City Lionesses [s:sky-ballon-dor-2026-news]. 101 Great Goals précise que le record égalé est celui de son ancienne coéquipière du Barça, Aitana Bonmatí, qui compte également trois distinctions [s:101greatgoals-ballon-dor-2026]. Depuis son transfert en juillet, elle a marqué trois buts et délivré une passe décisive en sept matchs de WSL, selon Sky [s:sky-ballon-dor-2026-news].
 
-Reuters parle d'un triplé du Barcelone en 2025-2026, alors que Sky Sports évoque un quadruplé, Ligue des champions comprise [s:reuters-ballon-dor-2026] [s:sky-ballon-dor-2026-news]. Les sources ne s'accordent pas, cette page ne retient donc aucun chiffre.
+Les sources ne s'accordent pas sur la saison 2025-2026 du Barcelone. Reuters parle d'un triplé, tandis que Sky Sports et 101 Great Goals évoquent un quadruplé [s:reuters-ballon-dor-2026] [s:sky-ballon-dor-2026-news] [s:101greatgoals-ballon-dor-2026]. Cette page ne retient aucun chiffre.
 
 ## Née à Mollet del Vallès
 
@@ -87,7 +91,7 @@ Putellas est championne du monde avec l'Espagne [s:ap-london-city-signing-2026].
 
 Putellas a rejoint le Barcelone à 18 ans, en 2012, en provenance du Levante [s:ap-barcelona-departure-2026]. Selon l'AP, son bilan au club compte 507 matchs, deuxième place de l'histoire du club, et 232 buts, un record du club [s:ap-barcelona-departure-2026]. Pendant cette période, elle a remporté 38 trophées, dont quatre Ligues des champions et dix titres de championne d'Espagne [s:ap-barcelona-departure-2026].
 
-Le quatrième titre européen du club est arrivé le week-end précédant l'annonce de son départ. L'AP l'a décrit comme la « quatrième fois en six saisons » [s:ap-barcelona-departure-2026]. L'article d'adieu du club indique qu'elle a soulevé ce trophée, et le décrit comme un moment déterminant dans sa décision de partir [s:fcb-farewell-2026].
+Le quatrième titre européen du club est arrivé le week-end précédant l'annonce de son départ. L'AP l'a décrit comme la « quatrième fois en six saisons » [s:ap-barcelona-departure-2026]. L'article d'adieu du club décrit ce triomphe comme un moment déterminant dans sa décision de partir [s:fcb-farewell-2026].
 
 ## Deux Ballons d'Or
 
@@ -117,7 +121,7 @@ Le club appartient à Michele Kang, qui possède aussi l'OL Lyonnes, le club fra
 
 Putellas a déclaré que « l'ambition » du club et son « engagement constant à grandir en tant que club indépendant réservé aux femmes » résonnaient profondément en elle [s:ap-london-city-signing-2026]. Elle a ajouté : « J'ai hâte d'avoir un impact sur le terrain alors que nous visons les titres » [s:ap-london-city-signing-2026]. Kang a déclaré qu'« Alexia Putellas incarne le sommet du talent, du dévouement et de la vision dans le football féminin » [s:ap-london-city-signing-2026].
 
-Les textes sur lesquels s'appuie cette page n'indiquent aucun salaire. CBS Sports donne une durée de trois ans, mais le salaire qu'il cite n'est pas officiel, si bien que cette page ne le reprend pas [s:cbs-london-city-signing-2026].
+CBS Sports cite aussi un montant de salaire, que cette page ne reprend pas [s:cbs-london-city-signing-2026].
 
 ## Ce qui reste incertain
 

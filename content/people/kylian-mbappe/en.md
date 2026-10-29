@@ -1,8 +1,10 @@
 ---
 title: Kylian Mbappé
 slug: kylian-mbappe
-metaTitle: 'Kylian Mbappé: Age ({age}), Club, Goals and Career'
-metaDescription: "Kylian Mbappé is {age} (born 20 December 1998). He plays for Real Madrid; his World Cup goals, trophies and career so far, with sources."
+metaTitle: 'Kylian Mbappé: Age ({age}), From Monaco to Real Madrid'
+metaDescription: >-
+  Kylian Mbappé is {age}, born on 20 December 1998. How he went from Monaco to
+  PSG and Real Madrid, his two World Cup finals and the 2026 Golden Boot race.
 knownFor: 'French forward, World Cup finalist, Real Madrid'
 summary: >-
   Kylian Mbappé is the French forward who scored in the 2018 World Cup final and
@@ -12,8 +14,9 @@ summary: >-
   due to be awarded on 26 October 2026.
 status: published
 risk: low
-reviewedAt: '2026-10-26'
-reviewBy: '2027-04-26'
+publishedAt: '2026-10-29'
+reviewedAt: '2026-10-29'
+reviewBy: '2027-04-29'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -28,21 +31,35 @@ targetQueries:
   - Kylian Mbappé Monaco career
   - Kylian Mbappé nationality
   - Kylian Mbappé age
+  - Kylian Mbappé
+  - Mbappe
+  - Kylian Mbappé age
+  - How old is Mbappe
+  - Kylian Mbappe
 faq:
   - q: How old is Kylian Mbappé?
-    a: 'He was born on 20 December 1998, so he is 27 as of 26 October 2026.'
+    a: 'He was born on 20 December 1998, so he is 27 as of 29 October 2026.'
+  - q: How old is Mbappe?
+    a: He is 27 years old. He turns 28 on 20 December 2026.
+  - q: Who is Kylian Mbappé?
+    a: >-
+      A French forward born in 1998, who scored in the 2018 and 2022 World Cup
+      finals and plays for Real Madrid.
   - q: Where is Kylian Mbappé from?
     a: >-
-      He was born in Paris, France, on 20 December 1998, and his nationality is
-      French.
+      He is French, and FotMob lists him as from France [s:fotmob-mbappe]. He
+      was born on 20 December 1998 [s:fotmob-mbappe].
   - q: How many goals did Kylian Mbappé score at the 2026 World Cup?
     a: >-
       He scored 10 goals, which put him first on the Golden Boot tracker ahead
       of Lionel Messi with 8.
-autoReviews: 3
-publishedAt: '2026-10-26'
+autoReviews: 6
 ---
-Kylian Mbappé is a French forward born in Paris on 20 December 1998 [s:britannica-mbappe]. He scored in the 2018 World Cup final, which France won, and scored a hat-trick in the 2022 final, which France lost on penalties [s:fader-final-2018] [s:malaymail-final-2022]. At the 2026 World Cup he led the 2026 Golden Boot tracker with 10 goals [s:nbc-golden-boot-2026].
+Kylian Mbappé is a French forward born on 20 December 1998 [s:fotmob-mbappe]. He scored in the 2018 World Cup final, which France won, and scored a hat-trick in the 2022 final, which France lost [s:fader-final-2018] [s:nbcboston-final-2022]. At the 2026 World Cup he led the 2026 Golden Boot tracker with 10 goals [s:nbc-golden-boot-2026].
+
+## How old Kylian Mbappé is
+
+Kylian Mbappé is 27 years old. He was born on 20 December 1998 [s:fotmob-mbappe], so he turns 28 on 20 December 2026.
 
 ## From Monaco to Paris
 
@@ -62,17 +79,25 @@ He later told PSG he would not extend his contract and would leave when it expir
 
 ## Real Madrid
 
-The club announced the signing on a Monday, after reports had leaked over the weekend. The contract ran for five years, through 2029 [s:soccerway-realmadrid-fr]. Real Madrid unveiled him at a packed Bernabéu on a Tuesday afternoon in July 2024 [s:yahoo-realmadrid-unveil]. He told the crowd: “Since being a kid I dreamed about playing for Madrid and today I’m here. It means a lot to me.” [s:yahoo-realmadrid-unveil]
+The club announced the signing on a Monday, after reports had leaked over the weekend. The contract ran for five years, through 2029 [s:soccerway-realmadrid-fr]. Real Madrid unveiled him at a packed Bernabéu on a Tuesday in July 2024 [s:yahoo-realmadrid-unveil]. He told the crowd: “Since being a kid I dreamed about playing for Madrid and today I’m here. It means a lot to me.” [s:yahoo-realmadrid-unveil]
 
-The 2025 European Golden Shoe went to Mbappé for 31 La Liga goals for Real Madrid, and it was his first win of the award [s:topendsports-golden-shoe]. A September 2026 report still calls him the Real Madrid forward [s:worldsoccertalk-ballon-2026].
+The 2025 European Golden Shoe went to Mbappé for 31 La Liga goals for Real Madrid, and it was his first win of the award [s:topendsports-golden-shoe]. A September 2026 report still calls him a Real Madrid star [s:worldsoccertalk-ballon-2026].
+
+## Real Madrid in the 2026-27 season
+
+FotMob's LaLiga listing for the 2026/27 season shows him starting all 10 of his matches, with 11 goals and 2 assists in 894 minutes [s:fotmob-mbappe]. The page does not give separate cup totals for the season [s:fotmob-mbappe], so the league figures are the only ones this page can confirm.
 
 ## Two World Cup finals
 
 France beat Croatia 4-2 in Moscow in July 2018 [s:fader-final-2018]. Mbappé scored in the final at 19, and he became only the second teenager to score in a World Cup final [s:dailystar-pele-2018]. The first was Pelé, who scored in Brazil’s 1958 final win over Sweden [s:dailystar-pele-2018]. Pelé welcomed him to the club on Twitter, saying it was great to have some company [s:dailystar-pele-2018].
 
-The 2018 final was played in Moscow, and the report is dated 15 July 2018 [s:fader-final-2018]. Britannica lists the 2018 World Cup among his awards and honors [s:britannica-mbappe]. His international rise started earlier. France won the 2016 UEFA European Under-19 Championship, with Mbappé scoring five goals, and he calls it his first international competition [s:uefa-under19-2016].
+The 2018 final was played in Moscow, and the report is dated 15 July 2018 [s:fader-final-2018]. His international rise started earlier. France won the 2016 UEFA European Under-19 Championship, with Mbappé scoring five goals, and he calls it his first international competition [s:uefa-under19-2016].
 
-The 2022 final was played at Lusail Stadium on 18 December 2022. It ended 3-3 after extra time, and Argentina won the shootout 4-2 [s:malaymail-final-2022]. Mbappé scored a hat-trick: two goals in the 80th minute, 97 seconds apart, and a penalty in extra time [s:malaymail-final-2022]. Britannica puts it this way: “In 2022 he became the first player in football history to score four goals in his World Cup finals appearances.” [s:britannica-mbappe]
+The 2022 final was played at Lusail Stadium on 18 December 2022 and ended 3-3 after extra time [s:nbcboston-final-2022]. Mbappé scored a hat-trick: two goals in the 80th and 81st minutes, and a penalty in the 118th minute of extra time [s:nbcboston-final-2022].
+
+## France's national team record
+
+Mbappé has 107 caps for France, and FotMob counts 67 goals for the national team from January 2017 to September 2026 [s:fotmob-mbappe]. His first senior international goal came against the Netherlands in the 2018 World Cup qualifiers, and his first international hat-trick came in a 2022 World Cup qualifier [s:planetsport-mbappe].
 
 ## The 2026 Golden Boot and the Ballon d’Or debate
 

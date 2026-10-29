@@ -10,25 +10,18 @@
     "birthDate": {
       "value": "1998-12-20",
       "sources": [
-        "britannica-mbappe"
+        "fotmob-mbappe"
       ],
-      "note": "Britannica gives 20 December 1998."
-    },
-    "birthPlace": {
-      "value": "Paris, France",
-      "sources": [
-        "britannica-mbappe"
-      ],
-      "note": "Britannica gives Paris, France."
+      "note": "FotMob player page gives 20 December 1998."
     },
     "nationality": {
       "value": [
         "FR"
       ],
       "sources": [
-        "britannica-mbappe"
+        "fotmob-mbappe"
       ],
-      "note": "Britannica describes him as a French football player."
+      "note": "FotMob player page says he is from France."
     }
   },
   "related": [],
@@ -43,12 +36,12 @@
       "lang": "en"
     },
     {
-      "id": "britannica-mbappe",
-      "url": "https://www.Britannica.com/biography/Kylian-Mbappe",
-      "title": "Kylian Mbappé",
-      "publisher": "Encyclopaedia Britannica",
+      "id": "fotmob-mbappe",
+      "url": "https://www.fotmob.com/players/701154",
+      "title": "Kylian Mbappé - FotMob player profile",
+      "publisher": "FotMob",
       "type": "database",
-      "accessed": "2026-10-26",
+      "accessed": "2026-10-29",
       "lang": "en"
     },
     {
@@ -70,12 +63,30 @@
       "lang": "en"
     },
     {
+      "id": "britannica-mbappe",
+      "url": "https://www.Britannica.com/biography/Kylian-Mbappe",
+      "title": "Kylian Mbappé",
+      "publisher": "Encyclopaedia Britannica",
+      "type": "database",
+      "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
       "id": "malaymail-final-2022",
       "url": "https://www.malaymail.com/news/sports/2022/12/19/mbappes-hat-trick-in-vain-on-messis-night/45981",
       "title": "Mbappe's hat-trick in vain on Messi's night",
       "publisher": "Malay Mail (Reuters)",
       "type": "press",
       "accessed": "2026-10-26",
+      "lang": "en"
+    },
+    {
+      "id": "nbcboston-final-2022",
+      "url": "https://nbcboston.com/news/sports/world-cup-2022/kylian-mbappe-gets-hat-trick-in-world-cup-final",
+      "title": "Kylian Mbappe gets hat trick in World Cup final",
+      "publisher": "NBC Boston",
+      "type": "press",
+      "accessed": "2026-10-29",
       "lang": "en"
     },
     {

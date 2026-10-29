@@ -1,0 +1,104 @@
+{
+  "worthWriting": true,
+  "reason": "Former Argentina and Boca Juniors forward with a long club record across Argentina, Brazil, England, Italy and China. Trending in Argentina because a farewell match at La Bombonera is being organised. Facts below are from opened sources; the farewell match is reported with its unconfirmed parts marked.",
+  "wikidata": "Q50600",
+  "importance": 4,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "infobae-tevez-farewell-2026",
+      "url": "https://www.infobae.com/deportes/2026/10/29/a-la-espera-de-messi-y-cristiano-ronaldo-los-nombres-de-la-primera-lista-de-confirmados-para-el-partido-despedida-de-tevez-en-la-bombonera/",
+      "title": "A la espera de Messi y Cristiano Ronaldo: los nombres de la primera lista de confirmados para el partido despedida de Tevez en La Bombonera",
+      "publisher": "Infobae",
+      "type": "press",
+      "lang": "es"
+    },
+    {
+      "id": "canal26-tevez-farewell-date",
+      "url": "https://www.canal26.com/deportes/2026/10/21/llego-el-dia-t-carlos-tevez-confirmo-la-fecha-de-su-partido-despedida-en-la-bombonera/",
+      "title": "Llegó el día: Carlos Tevez confirmó la fecha de su partido despedida en La Bombonera",
+      "publisher": "Canal 26",
+      "type": "press",
+      "lang": "es"
+    },
+    {
+      "id": "mancity-legends-tevez",
+      "url": "https://www.mancity.com/mancitylegends/tevez-carlos",
+      "title": "Carlos Tevez - Man City Legends",
+      "publisher": "Manchester City",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "mufcinfo-tevez",
+      "url": "https://www.mufcinfo.com/manupag/a-z_player_archive/a-z_player_archive_pages/tevez_carlos.html",
+      "title": "Carlos Tevez - Manchester United player archive",
+      "publisher": "MUFCInfo.com",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "futdados-tevez-stats",
+      "url": "https://futdados.com/arg/carlos-tevez-goles-estadisticas-records/",
+      "title": "Carlos Tévez: goles, estadísticas y 29 títulos",
+      "publisher": "Futdados",
+      "type": "database",
+      "lang": "es"
+    },
+    {
+      "id": "fotmob-tevez",
+      "url": "https://www.fotmob.com/es/players/38817/carlos-tevez",
+      "title": "Carlos Tevez - FotMob",
+      "publisher": "FotMob",
+      "type": "database",
+      "lang": "es"
+    },
+    {
+      "id": "wikidata-tevez",
+      "url": "https://www.wikidata.org/wiki/Q50600",
+      "title": "Carlos Tevez (Q50600)",
+      "publisher": "Wikidata",
+      "type": "database",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1984-02-05",
+      "sources": [
+        "mancity-legends-tevez",
+        "fotmob-tevez",
+        "wikidata-tevez"
+      ],
+      "note": "Man City legends page, FotMob and Wikidata agree."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Ciudadela, Buenos Aires",
+      "sources": [
+        "mancity-legends-tevez",
+        "wikidata-tevez"
+      ],
+      "note": "Man City legends page and Wikidata. Other press reports give Fuerte Apache; not used."
+    },
+    "nationality": {
+      "value": "AR",
+      "sources": [
+        "fotmob-tevez",
+        "wikidata-tevez"
+      ],
+      "note": "Argentina per FotMob and Wikidata."
+    }
+  },
+  "targetQueries": [
+    "Carlos Tevez partido despedida La Bombonera",
+    "Carlos Tevez edad",
+    "Carlos Tevez equipo actual",
+    "Carlos Tevez goles selección argentina",
+    "Carlos Tevez clubes carrera",
+    "Carlos Tevez Manchester United partidos",
+    "Carlos Tevez Juventus",
+    "Carlos Tevez de dónde es"
+  ],
+  "gapNote": "Boca Juniors and manutd.com official player pages could not be opened (no result or 403), so club stats come from fan archive and stats databases that disagree on some totals. The farewell match guest list is only reported, not confirmed; the page must say so."
+}

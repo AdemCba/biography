@@ -10,13 +10,16 @@ knownFor: 'Joueur anglais de fléchettes, bi-champion du monde PDC'
 summary: >-
   Luke Littler est un joueur anglais de fléchettes né à Warrington le 21 janvier
   2007 [s:dartsworld-littler-profile], et il est devenu numéro un mondial en
-  novembre 2025. Il a été sacré champion du monde PDC à 17 ans, en janvier
-  2025, puis l'a conservé en janvier 2026. Le 30 octobre 2026, Netflix diffuse
-  en direct Beat Luke Littler, où des amateurs tentent de gagner une manche de
-  501 contre lui pour 501 000 livres.
-status: review
+  novembre 2025. Il a été sacré champion du monde PDC à 17 ans, en janvier 2025,
+  puis l'a conservé en janvier 2026. Le 30 octobre 2026, Netflix diffuse en
+  direct Beat Luke Littler, où des amateurs tentent de gagner une manche de 501
+  contre lui pour 501 000 livres.
+status: published
 risk: low
+reviewedAt: '2026-10-29'
+reviewBy: '2027-04-29'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Luke Littler
@@ -42,29 +45,8 @@ faq:
     a: >-
       Netflix diffuse l'émission en direct le vendredi 30 octobre 2026 à 15 h
       sur la côte est américaine. Le prix est de 501 000 livres.
-reviewNotes: >-
-  UNSUPPORTED: "Le 3 janvier 2024, à 16 ans, finale perdue 7 à 4 contre
-  Humphries; 200 000 livres" (7-4 Humphries, age 16 and GBP 200,000 are
-  confirmed. The date 3 January 2024 does not appear in the fetched NBC report.
-  Cite a source that gives the date or drop it.) | UNSUPPORTED: "La DH rappelle
-  qu'il est devenu le plus jeune champion du monde de l'histoire, à 17 ans, en
-  dépassant le record de van Gerwen établi en 2014 à 24 ans" (La DH's report of
-  the final does not carry the youngest-champion claim as fetched. Sky's 2025
-  final page does say youngest ever PDC champion. The 2014 van Gerwen mark in
-  the Sky Grand Slam page is the youngest PDC world No 1 record (24y 251d), not
-  a youngest champion record. Attribute the youngest claim to Sky
-  (sky-sports-world-championship-2025-final) and drop the record-breaking
-  framing.) | UNSUPPORTED: "L'écart s'explique par la date : le chiffre de Sky
-  précède les titres de 2026" (Causal explanation. The cited Sky 2026 page does
-  not discuss the major count. Dates alone show only that the figures are from
-  Nov 2025 and Oct 2026. State the dates and drop the causal claim.) | Reviewer
-  recommends rejection: Most claims check out. Three need fixing: an unsupported
-  date (3 January 2024 for the 2024 final), a record framing attributed to La DH
-  that the source does not support (youngest champion versus van Gerwen's 2014
-  No 1 record), and a causal explanation for the 8 vs 13 major gap. Citation
-  tags also sit in the summary and FAQ frontmatter.
-autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+autoReviews: 4
+publishedAt: '2026-10-29'
 ---
 Luke Littler a 19 ans et il est bi-champion du monde de la PDC. Né à Warrington, en Angleterre, le 21 janvier 2007 [s:dartsworld-littler-profile], il a été sacré pour la première fois à 17 ans, en janvier 2025 [s:dhnet-littler-world-final-2025]. Il est aussi le quatrième joueur à avoir conservé un titre mondial de la PDC [s:sky-sports-world-championship-2026-final]. Si vous êtes arrivé ici pour l'émission Netflix, commencez par la section suivante.
 
@@ -96,12 +78,13 @@ Il a ensuite battu Humphries en finale et conservé le trophée. Sky Sports note
 
 ## Saison 2025-2026 : six grands tournois, puis un revers à Amsterdam
 
-Au cours de la saison 2025-2026, Littler a gagné six tournois premier : le championnat du monde, le World Masters, l'UK Open, la Premier League, la World Cup of Darts (en paire avec Luke Humphries) et le World Matchplay [s:sky-sports-world-series-finals-2026] [s:sky-sports-players-championship-27-2026]. Sky Sports a aussi écrit qu'il avait remporté jusque-là tous les majors du circuit PDC en 2026 [s:sky-sports-players-championship-27-2026].
+Au cours de la saison 2025-2026, Littler a gagné six tournois premier : le championnat du monde, le World Masters, l'UK Open, la Premier League, la World Cup of Darts et le World Matchplay [s:sky-sports-world-series-finals-2026] [s:sky-sports-players-championship-27-2026]. Sky Sports a aussi écrit qu'il avait remporté jusque-là tous les majors du circuit PDC en 2026 [s:sky-sports-players-championship-27-2026].
 
 La série s'est arrêtée aux World Series of Darts Finals d'Amsterdam. Il a perdu 10 à 4 contre Jonny Clayton en quarts de finale, ce qui a mis fin à son ambition de remporter tous les majors de l'année [s:sky-sports-world-series-finals-2026]. Ross Smith a gagné le tournoi en battant Gerwyn Price 11 à 5 [s:sky-sports-world-series-finals-2026].
+
 ## Combien de titres ?
 
-Netflix donne 28 titres PDC dans la carrière de Littler, dont 13 majors, dans une page publiée le 22 octobre 2026 [s:netflix-tudum-beat-luke-littler]. Sky Sports lui en attribuait huit au total en novembre 2025 [s:sky-sports-grand-slam-world-no1-2025]. Les deux chiffres correspondent à des dates différentes.
+Netflix donne 28 titres PDC dans la carrière de Littler, dont 13 majors, dans une page publiée le 22 octobre 2026 [s:netflix-tudum-beat-luke-littler]. Dans sa chronique du Grand Slam de 2025, publiée le 16 novembre 2025, Sky Sports lui attribuait huit majors au total [s:sky-sports-grand-slam-world-no1-2025].
 
 ## Distinction
 

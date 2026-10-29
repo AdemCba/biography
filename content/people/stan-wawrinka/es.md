@@ -1,26 +1,29 @@
 ---
 title: Stan Wawrinka
 slug: stan-wawrinka
-metaTitle: 'Stan Wawrinka: edad, Grand Slams y despedida en Basilea'
+metaTitle: Stan Wawrinka se retira tras perder en Basilea
 metaDescription: >-
-  Fecha y lugar de nacimiento de Stan Wawrinka, sus tres Grand Slam, su pico
-  como n.º 3 del mundo y su última temporada, con la despedida en Basilea.
+  Stan Wawrinka se retiró tras perder 5-7 y 6-7(2) ante Jiří Lehečka en Basilea
+  el 27 de octubre de 2026, un día después de una ovación de pie.
 knownFor: 'Tenista suizo, tres veces campeón de Grand Slam en individuales'
 summary: >-
   Stan Wawrinka es el tenista suizo que ganó tres títulos de Grand Slam en
   individuales: el Abierto de Australia de 2014, Roland Garros de 2015 y el US
-  Open de 2016. Llegó a ser número 3 del mundo y su último torneo es el Swiss
-  Indoors de Basilea, donde estaba prevista una velada de despedida el 26 de
-  octubre de 2026.
+  Open de 2016. El 27 de octubre de 2026 perdió en primera ronda del Swiss
+  Indoors de Basilea ante Jiří Lehečka, por 5-7 y 6-7(2), y se retiró después
+  del partido. La víspera, el torneo le había rendido un homenaje con una
+  ovación de pie. Llegó a ser número 3 del mundo.
 status: published
 risk: low
-reviewedAt: '2026-10-27'
-reviewBy: '2027-04-27'
+publishedAt: '2026-10-29'
+reviewedAt: '2026-10-29'
+reviewBy: '2027-04-29'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - stan wawrinka retirada
+  - stan wawrinka retiro
   - stan wawrinka basilea 2026
   - stan wawrinka último torneo
   - stan wawrinka grand slam
@@ -35,8 +38,14 @@ faq:
       octubre de 2026 [s:roland-garros-profile].
   - q: ¿Se retira Stan Wawrinka?
     a: >-
-      Sí. En enero de 2026 anunció que esa sería su última temporada, y Basilea
-      es su último torneo [s:roland-garros-profile] [s:tennisuptodate-lyon].
+      Sí. En enero de 2026 anunció que esa sería su última temporada
+      [s:roland-garros-profile]. Perdió en primera ronda en Basilea el 27 de
+      octubre de 2026 y se retiró después del partido [s:tennis365-farewell].
+  - q: ¿Ante quién perdió Stan Wawrinka en Basilea?
+    a: >-
+      Ante Jiří Lehečka, por 5-7 y 6-7(2), en primera ronda, el 27 de octubre de
+      2026 [s:tennis365-farewell] [s:srf-lehecka]. Lehečka era el octavo cabeza
+      de serie [s:atp-news-basel-fc].
   - q: ¿Cuántos Grand Slam ha ganado Stan Wawrinka?
     a: >-
       Tres en individuales: el Abierto de Australia de 2014, Roland Garros de
@@ -45,8 +54,7 @@ faq:
     a: >-
       Magnus Norman, según los perfiles oficiales de Roland Garros y del Abierto
       de Australia [s:roland-garros-profile] [s:ausopen-profile].
-autoReviews: 2
-publishedAt: '2026-10-27'
+autoReviews: 3
 ---
 Stan Wawrinka ganó tres Grand Slam en individuales y ahora cierra su carrera en Basilea. Se impuso en el Abierto de Australia en 2014, en Roland Garros en 2015 y en el US Open en 2016 [s:roland-garros-profile]. Su mejor clasificación fue el número 3 del mundo [s:atp-bio]. En enero de 2026 anunció que esta sería su última temporada [s:roland-garros-profile], y el torneo Swiss Indoors de Basilea se ha presentado como su despedida [s:swiss-indoors-farewell].
 
@@ -90,4 +98,14 @@ Antes del torneo de Basilea de 2025 insistió en lo importante que era recuperar
 
 El 22 de octubre de 2026 cayó en segunda ronda en Lyon ante el primer cabeza de serie, Flavio Cobolli, por 6-2 y 6-4 [s:tennisuptodate-lyon]. Ese partido fue su penúltimo torneo, lo que dejó a Basilea como su última cita [s:tennisuptodate-lyon]. También se ha informado de una exhibición de despedida en Ginebra el 19 de diciembre [s:tennisuptodate-lyon].
 
-Las fuentes usadas para esta página no recogen el resultado de sus partidos en Basilea. Tampoco describen la velada de homenaje.
+## Octubre de 2026
+
+Stan Wawrinka recibió una ovación de pie en el Swiss Indoors de Basilea el lunes 26 de octubre de 2026 [s:atp-video] [s:tenniswatcher]. La ATP había anunciado una ceremonia de despedida en el St. Jakobshalle para ese lunes [s:atp-news-basel-fc]. TennisWatcher describe una ceremonia emotiva que duró más de una hora, con la ovación en la Center Court [s:tenniswatcher].
+
+Roger Brennwald lo llamó «el Sylvester Stallone del tenis» y le entregó una pelota dorada. Un gran retrato suyo fue pintado en directo sobre la pista. El cantante suizo Bastian Baker, amigo cercano, interpretó una canción para él, y en la pantalla grande se proyectaron mensajes en vídeo, entre ellos uno de Roger Federer [s:tenniswatcher].
+
+Wawrinka dijo: «Siempre di lo mejor de mí, pero nunca soñé con ganar Grand Slams» (traducción propia) [s:tenniswatcher].
+
+El martes 27 de octubre jugó en primera ronda contra el octavo cabeza de serie, Jiří Lehečka [s:atp-news-basel-fc] [s:tennis365-farewell]. Perdió 5-7 y 6-7(2). El partido terminó a las 23:02 hora local, y perdió el tie-break del segundo set por 2-7 [s:srf-lehecka].
+
+Se retiró después del partido [s:tennis365-farewell]. Sobre su despedida dijo: «Para mí es un final ideal, un final de ensueño» (traducción propia) [s:tennis365-farewell]. La ATP había descrito Basilea como su 19.ª y última participación en el Swiss Indoors [s:atp-news-basel-fc].

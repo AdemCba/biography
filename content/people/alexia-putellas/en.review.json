@@ -1,41 +1,84 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "model": "claude-haiku-5-5",
   "approved": true,
   "reasons": [],
   "claims": [
     {
-      "claim": "Won the third Ballon d'Or at Monday's ceremony in London (26 October 2026); Sky reported it on 27 October",
+      "claim": "Won the Women's Ballon d'Or on Monday 26 October 2026 in London, her third award",
+      "sourceIds": [
+        "uefa-womens-ballon-dor-2026-result",
+        "reuters-ballon-dor-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "UEFA: Monday, October 26, 2026, London; 'has won her third Women's Ballon d'Or'. Reuters: presented 'on Monday'."
+    },
+    {
+      "claim": "Named ahead of Ewa Pajor and Khadija Shaw, who finished second and third",
+      "sourceIds": [
+        "uefa-womens-ballon-dor-2026-result"
+      ],
+      "verdict": "confirmed",
+      "note": "UEFA: 'ahead of Ewa Pajor and Khadija Shaw, who finished second and third'."
+    },
+    {
+      "claim": "Presented with the award on the Monday",
+      "sourceIds": [
+        "reuters-ballon-dor-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Reuters (via bdnews24): presented with the award 'on Monday'."
+    },
+    {
+      "claim": "First two Ballon d'Or wins came in 2021 and 2022",
+      "sourceIds": [
+        "uefa-womens-ballon-dor-2026-result"
+      ],
+      "verdict": "confirmed",
+      "note": "UEFA: 'also won in 2021 and 2022'."
+    },
+    {
+      "claim": "Sky called it a record-equalling third women's Ballon d'Or",
       "sourceIds": [
         "sky-ballon-dor-2026-news"
       ],
       "verdict": "confirmed",
-      "note": "Sky: 'at Monday's ceremony in London'. 27 October is the Sky article's date."
+      "note": "Sky: 'claimed a record-equalling third women's Ballon d'Or'. Sky does not name the player."
     },
     {
-      "claim": "Record-equalling third women's Ballon d'Or",
+      "claim": "Won while playing for London City Lionesses",
       "sourceIds": [
         "sky-ballon-dor-2026-news",
-        "sky-ballon-dor-2026-video"
+        "reuters-ballon-dor-2026"
       ],
       "verdict": "confirmed",
-      "note": "Sky: 'record-equalling third women's Ballon d'Or'. Sky does not name the player it equals."
+      "note": "Reuters photo caption identifies her as a London City Lionesses player; Sky text covers the London City move. The Sky video page returned 404 and is not cited in the new text."
     },
     {
-      "claim": "Was playing for London City Lionesses when she won",
+      "claim": "Record she equals is Aitana Bonmatí's, three awards",
       "sourceIds": [
-        "sky-ballon-dor-2026-video"
+        "101greatgoals-ballon-dor-2026"
       ],
       "verdict": "confirmed",
-      "note": "Sky headline and text."
+      "note": "101 Great Goals: 'She equals her former team-mate Bonmati's record of three awards.'"
     },
     {
-      "claim": "Since her July move: three goals and an assist in seven WSL games",
+      "claim": "Since her July move: three goals and one assist in seven WSL games",
       "sourceIds": [
         "sky-ballon-dor-2026-news"
       ],
       "verdict": "confirmed",
-      "note": "Sky text matches."
+      "note": "Sky: 'scored three goals and has an assist in her seven WSL games'."
+    },
+    {
+      "claim": "Reuters says Barcelona won the treble in 2025-26; Sky and 101 Great Goals say quadruple",
+      "sourceIds": [
+        "reuters-ballon-dor-2026",
+        "sky-ballon-dor-2026-news",
+        "101greatgoals-ballon-dor-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Reuters: 'won the treble with Barcelona in the 2025-26 campaign'. Sky: 'captained Barcelona to a quadruple last season'. 101 GG: 'continental quadruple in 2025-26'."
     },
     {
       "claim": "Left FC Barcelona in May 2026 after 14 seasons; departure announced Tuesday 26 May 2026",
@@ -43,217 +86,128 @@
         "ap-barcelona-departure-2026"
       ],
       "verdict": "confirmed",
-      "note": "AP dateline and text."
+      "note": "AP: announced Tuesday May 26, 2026; 14 seasons."
     },
     {
-      "claim": "Joined Barcelona at 18, in 2012, from Levante",
+      "claim": "Joined Barcelona in 2012 at 18, from Levante",
       "sourceIds": [
         "ap-barcelona-departure-2026"
       ],
       "verdict": "confirmed",
-      "note": "AP text."
+      "note": "AP: joined from Levante in 2012 at 18."
     },
     {
-      "claim": "507 games (second on all-time list), 232 goals (club record), 38 trophies, four Champions Leagues, 10 Spanish league titles",
+      "claim": "507 games (second on the all-time list), 232 goals (club record), 38 trophies, four Champions Leagues, ten Spanish league titles",
       "sourceIds": [
         "ap-barcelona-departure-2026"
       ],
       "verdict": "confirmed",
-      "note": "All figures match the AP text."
+      "note": "AP article figures match."
     },
     {
-      "claim": "Fourth Champions League title came on the Saturday before the announcement; AP: 'fourth time in six seasons'",
+      "claim": "Fourth Champions League title won on Saturday, 'fourth time in six seasons'",
       "sourceIds": [
         "ap-barcelona-departure-2026"
       ],
       "verdict": "confirmed",
-      "note": "AP text. The source does not date the Saturday."
+      "note": "AP: 'on Saturday helped Barcelona win the Champions League title for the fourth time in six seasons'."
     },
     {
-      "claim": "Club farewell article: she lifted the fourth Champions League trophy, a determining moment in her decision",
+      "claim": "Farewell article calls the win a determining moment in her decision to leave",
       "sourceIds": [
         "fcb-farewell-2026"
       ],
       "verdict": "confirmed",
-      "note": "Source wording matches. It does not say 'final'."
+      "note": "FC Barcelona: she recognised lifting the fourth Champions League trophy was a determining moment. The page does not say the trophy was lifted by her in other words; the new text does not claim it."
     },
     {
-      "claim": "Camp Nou farewell on the Wednesday after the announcement; more than 91,000 people chanted her name",
-      "sourceIds": [
-        "fcb-farewell-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Source: Wednesday, 'the day after announcing her departure'; 91,000 matches. The calendar date is not given in the source."
-    },
-    {
-      "claim": "Quotes: 'an incredible emptiness' (day before) and 'full of love' (on the day)",
-      "sourceIds": [
-        "fcb-farewell-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Both match."
-    },
-    {
-      "claim": "The event began with a video of her farewell announcement",
-      "sourceIds": [
-        "fcb-farewell-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Source: 'began by showing a video of the announcement of her farewell'."
-    },
-    {
-      "claim": "Xavi Llorens brought her back to Barcelona; said she had no ceiling as a player or person",
-      "sourceIds": [
-        "fcb-farewell-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Source calls him 'the coach who brought her back to Barcelona'; the ceiling quote is his."
-    },
-    {
-      "claim": "Video tribute from Puyol, Busquets, Iniesta, Pedri, Raphinha and former teammates",
-      "sourceIds": [
-        "fcb-farewell-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Source names these and ex-players Virginia Torrecilla, Melanie Serrano and Vicky Losada."
-    },
-    {
-      "claim": "Vicky Lopez spoke on behalf of players who grew up with her as a role model; 'an example on and off the field'",
-      "sourceIds": [
-        "fcb-farewell-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Source: 'spoke in the name of all players who have grown up with Alexia as their role model'; quote matches."
-    },
-    {
-      "claim": "'Magnolias' rang out at the event",
-      "sourceIds": [
-        "fcb-farewell-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Source names the song."
-    },
-    {
-      "claim": "Event ended with an institutional photograph and a collective hug",
-      "sourceIds": [
-        "fcb-farewell-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Source: 'an institutional photograph, the award of a gift, and a collective hug'. The article leaves out the gift, which is fine."
-    },
-    {
-      "claim": "Academy with the FC Barcelona Foundation for more than 400 girls (future tense)",
-      "sourceIds": [
-        "fcb-farewell-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Source: 'she will open up an academy'."
-    },
-    {
-      "claim": "Club says she made Barca 'a world leader in women's football' and her career 'changed the face of women's football'",
-      "sourceIds": [
-        "fcb-farewell-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Both phrases match; the article labels them as club wording."
-    },
-    {
-      "claim": "First women's Ballon d'Or winner for the club (2021); 2020 cancelled due to Covid-19; first two-time winner in consecutive years; 'record two wins'",
+      "claim": "Club calls her its first women's Ballon d'Or winner (2021); 2020 cancelled because of Covid-19; record two wins; first two-time winner in consecutive years",
       "sourceIds": [
         "fcb-ballon-dor-2022"
       ],
       "verdict": "confirmed",
-      "note": "All match the club's 2022 report."
+      "note": "FC Barcelona 2022 article: first-ever winner for the club, 2020 cancelled for Covid-19, record two wins, first two-time winner in consecutive years."
     },
     {
-      "claim": "Quotes from the 2022 club report ('when I won a year ago...'; 'I'm proud to play for Barca, my lifetime club')",
+      "claim": "Quotes from 2022 club report: 'when I won a year ago I told myself I had to get even better and serve the team'; 'I'm proud to play for Barça, my lifetime club'",
       "sourceIds": [
         "fcb-ballon-dor-2022"
       ],
       "verdict": "confirmed",
-      "note": "Both match."
+      "note": "Both quotes confirmed verbatim in the club article."
     },
     {
-      "claim": "Her first two Ballon d'Or awards came in 2021 and 2022",
-      "sourceIds": [
-        "fcb-ballon-dor-2022"
-      ],
-      "verdict": "confirmed",
-      "note": "Source covers both."
-    },
-    {
-      "claim": "Video quote 'The time has come to acknowledge...'; AP's 'a perfect story'",
+      "claim": "Departure video: 'The time has come to acknowledge that I've given everything for these colors'; described her time at the club as 'a perfect story'",
       "sourceIds": [
         "ap-barcelona-departure-2026"
       ],
       "verdict": "confirmed",
-      "note": "Both match the AP text."
+      "note": "AP quotes the video line and 'It's been a perfect story'."
     },
     {
-      "claim": "Born 4 February 1994 in Mollet del Valles, Spanish; listed as attacking midfield",
+      "claim": "Farewell at Camp Nou on the Wednesday after the announcement; more than 91,000 people chanted her name",
+      "sourceIds": [
+        "fcb-farewell-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "FC Barcelona: farewell on a Wednesday; 'more than 91,000 people would chant her name'."
+    },
+    {
+      "claim": "Said she felt 'an incredible emptiness' the day before and was 'full of love' on the day",
+      "sourceIds": [
+        "fcb-farewell-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "FC Barcelona: 'Yesterday my heart hurt. I felt an incredible emptiness. Today I am full of love.'"
+    },
+    {
+      "claim": "Xavi Llorens brought her back and said she had no ceiling as a player or person",
+      "sourceIds": [
+        "fcb-farewell-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "FC Barcelona: 'She did not have a ceiling as a player nor as a person.'"
+    },
+    {
+      "claim": "Video tribute with messages from Puyol, Busquets, Iniesta, Pedri, Raphinha and former teammates; song 'Magnolias'; ended with photograph and collective hug",
+      "sourceIds": [
+        "fcb-farewell-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "FC Barcelona lists these names, former players, 'Magnolias' and the photo and hug."
+    },
+    {
+      "claim": "Vicky López called her 'an example on and off the field'; academy for more than 400 girls with the FC Barcelona Foundation",
+      "sourceIds": [
+        "fcb-farewell-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "FC Barcelona: 'She is an example on and off the field'; academy for more than 400 girls."
+    },
+    {
+      "claim": "Club describes her as making Barcelona 'a world leader in women's football' and her career 'changed the face of women's football'",
+      "sourceIds": [
+        "fcb-farewell-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Club's own wording, attributed as such in the text."
+    },
+    {
+      "claim": "Born 4 February 1994 in Mollet del Vallès; Spanish; attacking midfield",
       "sourceIds": [
         "soccerdonna-putellas-profile"
       ],
       "verdict": "confirmed",
-      "note": "SoccerDonna: 04.02.1994, Mollet del Vallés, Spain, Attacking Midfield."
+      "note": "SoccerDonna: 04.02.1994; Mollet del Vallés; Spain; attacking midfield."
     },
     {
-      "claim": "Barcelona contract expired end of June 2026; statement signing announced Wednesday 8 July 2026",
-      "sourceIds": [
-        "ap-london-city-signing-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "AP confirms the expiry and 'statement signing'. 8 July is from the dateline and 'Wednesday'."
-    },
-    {
-      "claim": "Aged 32 when she signed",
+      "claim": "World Cup winner with Spain; part of the 2023 World Cup squad",
       "sourceIds": [
         "ap-london-city-signing-2026",
         "aljazeera-london-city-signing-2026"
       ],
       "verdict": "confirmed",
-      "note": "Both say 32-year-old."
-    },
-    {
-      "claim": "Three-year deal with London City Lionesses",
-      "sourceIds": [
-        "cbs-london-city-signing-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "CBS: 'three-year deal'. AP and Al Jazeera do not state the length."
-    },
-    {
-      "claim": "CBS reports unofficial salary figures (new deal reportedly over $1.85m a year; about $860,000 a year at Barcelona) that the page does not repeat",
-      "sourceIds": [
-        "cbs-london-city-signing-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "CBS: 'reportedly worth over $1.85 million per year'; Barcelona 'an estimated $860,000 annually'. The article describes them as reported or estimated and does not state them as fact."
-    },
-    {
-      "claim": "Michele Kang owns OL Lyonnes; London City promoted to the WSL in 2025, sixth of 12 in its first season",
-      "sourceIds": [
-        "ap-london-city-signing-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Source says 'Super League'."
-    },
-    {
-      "claim": "Quotes: 'ambition ... women-only independent club'; 'impact on the pitch as we challenge for titles'; Kang's 'pinnacle of talent, dedication, and vision'",
-      "sourceIds": [
-        "ap-london-city-signing-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "All three match."
-    },
-    {
-      "claim": "World Cup winner with Spain; part of the 2023 World Cup-winning squad",
-      "sourceIds": [
-        "ap-london-city-signing-2026",
-        "aljazeera-london-city-signing-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Both match."
+      "note": "AP: 'a World Cup winner with Spain'. Al Jazeera: part of Spain's 2023 World Cup-winning squad."
     },
     {
       "claim": "Named the world's best female player in 2021 and 2022",
@@ -261,13 +215,79 @@
         "aljazeera-london-city-signing-2026"
       ],
       "verdict": "confirmed",
-      "note": "Al Jazeera text matches."
+      "note": "Al Jazeera: 'crowned the world's best female player in 2021 and 2022'."
+    },
+    {
+      "claim": "Signed for London City Lionesses; announced Wednesday 8 July 2026 as a 'statement signing'; aged 32",
+      "sourceIds": [
+        "ap-london-city-signing-2026",
+        "aljazeera-london-city-signing-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "AP: Wednesday, July 8, 2026, 'statement signing', age 32. Al Jazeera: 32-year-old."
+    },
+    {
+      "claim": "Three-year deal",
+      "sourceIds": [
+        "cbs-london-city-signing-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "CBS: 'three-year contract'."
+    },
+    {
+      "claim": "Barcelona contract expired at the end of June 2026",
+      "sourceIds": [
+        "ap-london-city-signing-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "AP: contract expired at the end of June 2026."
+    },
+    {
+      "claim": "Said she wanted to change and challenge herself",
+      "sourceIds": [
+        "cbs-london-city-signing-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "CBS quote: 'I want to change, I want to improve, I want to challenge myself'."
+    },
+    {
+      "claim": "CBS mentions a salary figure, which this page does not repeat",
+      "sourceIds": [
+        "cbs-london-city-signing-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "CBS article mentions a salary figure; the page does not repeat it and makes no claim about its status."
+    },
+    {
+      "claim": "London City owned by Michele Kang, who also owns OL Lyonnes; promoted in 2025; sixth of 12 in first season",
+      "sourceIds": [
+        "ap-london-city-signing-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "AP: Kang owns the club and OL Lyonnes; promoted 2025; sixth of 12."
+    },
+    {
+      "claim": "Putellas quotes on ambition, impact; Kang quote on pinnacle of talent",
+      "sourceIds": [
+        "ap-london-city-signing-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "AP quotes match verbatim."
+    },
+    {
+      "claim": "Summary and FAQ: equals Aitana Bonmatí's record of three awards",
+      "sourceIds": [
+        "101greatgoals-ballon-dor-2026",
+        "sky-ballon-dor-2026-news"
+      ],
+      "verdict": "confirmed",
+      "note": "101 Great Goals states the record; Sky states 'record-equalling'."
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "A dated timeline with the club's own wording labelled as club voice gives more than a short news summary. Much of the page still restates AP and FC Barcelona releases, and some paragraphs describe the sources rather than Putellas.",
+  "valueNote": "Adds the 26 October 2026 result from UEFA's report, the record-equalling detail with the Barcelona season conflict between Reuters and Sky, and WSL form since the July move. These are not in the usual top results at this detail.",
   "decision": "approve",
-  "summary": "Approve. Every cited claim is confirmed on re-check, the ceremony date is Monday 26 October, and the salary sentence matches CBS. The closing meta sections are gone; the English reads as an editorial timeline with sourced quotes."
+  "summary": "All claims in the English page match the cited sources. The new October 2026 section uses UEFA for the result, Sky and 101 Great Goals for the record and WSL form, and flags the conflict between Reuters (treble) and Sky/101 Great Goals (quadruple) without choosing a number."
 }

@@ -1,10 +1,10 @@
 ---
 title: Aitana Bonmatí
 slug: aitana-bonmati
-metaTitle: 'Aitana Bonmatí: Alter, Ballon d''Or und Nicht-Nominierung 2026'
+metaTitle: 'Aitana Bonmatí: drei Ballon d''Or und das Fehlen 2026'
 metaDescription: >-
-  Alter, Geburtsort, drei Ballon-d'Or-Siege und Karriere beim FC Barcelona:
-  Warum Aitana Bonmatí 2026 nicht auf der Liste der Frauen-Nominierten steht.
+  Drei Ballon-d'Or-Siege (2023 bis 2025), Alter und Geburtsort. Warum Aitana
+  Bonmatí 2026 nicht unter den 30 nominierten Frauen stand, mit Quellen.
 knownFor: Fußballerin des FC Barcelona und dreifache Gewinnerin des Frauen-Ballon-d'Or
 summary: >-
   Alexia Putellas hat den Frauen-Ballon-d'Or 2026 am 26. Oktober in London
@@ -14,8 +14,9 @@ summary: >-
   2025/26.
 status: published
 risk: low
-reviewedAt: '2026-10-27'
-reviewBy: '2027-04-27'
+publishedAt: '2026-10-29'
+reviewedAt: '2026-10-29'
+reviewBy: '2027-04-29'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -27,14 +28,25 @@ targetQueries:
   - Aitana Bonmatí Verletzung
   - Aitana Bonmatí Alter
   - Aitana Bonmatí FC Barcelona
+  - aitana bonmatí ballon d'or
+  - Wie viele Ballon d'Ors hat Bonmatí
 faq:
+  - q: Hat Aitana Bonmatí den Ballon d'Or 2026 gewonnen?
+    a: >-
+      Nein. Sie stand nicht unter den 30 nominierten Frauen
+      [s:uefa-ballon-dor-nominees-2026] und die Auszeichnung ging an Alexia
+      Putellas [s:noovo-afp-winners-2026].
+  - q: Wer ist Aitana Bonmatí?
+    a: >-
+      Eine Fußballerin des FC Barcelona, die 2023, 2024 und 2025 den Ballon d'Or
+      gewann [s:fcb-profile-en].
   - q: Ist Aitana Bonmatí für den Ballon d'Or 2026 nominiert?
     a: >-
       Nein. Sie stand nicht unter den 30 nominierten Frauen, deren Liste am 8.
       September 2026 veröffentlicht wurde [s:uefa-ballon-dor-nominees-2026]
       [s:emisoras-nominees-2026]. Excélsior führt das Fehlen vor allem auf eine
       Verletzung in der Saison 2025/26 zurück [s:excelsior-2026-omission].
-  - q: Wie viele Ballon d'Or hat Aitana Bonmatí gewonnen?
+  - q: Wie viele Ballon d'Ors hat Aitana Bonmatí gewonnen?
     a: >-
       Drei, in den Jahren 2023, 2024 und 2025 [s:fcb-profile-en]. Dazu kommen
       zwei The-Best-Auszeichnungen der FIFA, 2023 und 2024 [s:fcb-profile-en].
@@ -54,10 +66,9 @@ faq:
   - q: Wie lange fiel Aitana Bonmatí verletzt aus?
     a: >-
       Rund fünf Monate. Laut Excélsior brach sie sich im November 2025 bei einem
-      Lehrgang der Nationalmannschaft das linke Wadenbein [s:excelsior-2026-omission].
-autoReviews: 1
-publishedAt: '2026-10-27'
-updatedAt: '2026-10-29'
+      Lehrgang der Nationalmannschaft das linke Wadenbein
+      [s:excelsior-2026-omission].
+autoReviews: 2
 ---
 Aitana Bonmatí steht nicht auf der Liste der 30 nominierten Spielerinnen für den Frauen-Ballon-d'Or 2026. Die Nominierungen wurden am 8. September 2026 bekannt gegeben, und ihr Fehlen war die größte Überraschung der Liste [s:emisoras-nominees-2026] [s:uefa-ballon-dor-nominees-2026]. Dabei hatte sie die Auszeichnung in den drei Jahren zuvor gewonnen, 2023, 2024 und 2025 [s:fcb-profile-en].
 
@@ -75,7 +86,7 @@ Laut Excélsior brach sie sich im November 2025 während eines Lehrgangs der spa
 
 ## Drei Ballon-d'Or-Siege
 
-Das Vereinsprofil nennt Ballon-d'Or-Titel für 2023, 2024 und 2025 [s:fcb-profile-en]. Den ersten gewann sie im Oktober 2023 [s:fcb-profile-en]. Davor lag ein Jahr, in dem Spanien Weltmeister wurde und sie als beste Spielerin des Turniers ausgezeichnet wurde [s:fcb-profile-en]. Im Januar 2024 kam ein The-Best-Preis der FIFA dazu, und insgesamt hat sie zwei davon, für 2023 und 2024 [s:fcb-profile-en]. Im April 2024 wurde sie als erste Fußballerin mit dem Laureus-Preis als Weltsportlerin des Jahres geehrt [s:fcb-profile-en].
+Aitana Bonmatí hat drei Ballon d'Or gewonnen, 2023, 2024 und 2025 [s:fcb-profile-en]. Das Vereinsprofil nennt diese drei Titel. Den ersten gewann sie im Oktober 2023 [s:fcb-profile-en]. Davor lag ein Jahr, in dem Spanien Weltmeister wurde und sie als beste Spielerin des Turniers ausgezeichnet wurde [s:fcb-profile-en]. Im Januar 2024 kam ein The-Best-Preis der FIFA dazu, und insgesamt hat sie zwei davon, für 2023 und 2024 [s:fcb-profile-en]. Im April 2024 wurde sie als erste Fußballerin mit dem Laureus-Preis als Weltsportlerin des Jahres geehrt [s:fcb-profile-en].
 
 ## Vom B-Team in die erste Mannschaft
 

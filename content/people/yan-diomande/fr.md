@@ -1,8 +1,11 @@
 ---
 title: Yan Diomandé
 slug: yan-diomande
-metaTitle: 'Yan Diomandé : âge ({age} ans), nationalité et Real Madrid'
-metaDescription: "Yan Diomandé a {age} ans (né le 14 novembre 2006) et il est ivoirien. Son parcours au RB Leipzig, son titre de rookie de Bundesliga et son contrat au Real Madrid."
+metaTitle: 'Yan Diomandé : {age} ans, d''Abidjan au Real Madrid'
+metaDescription: >-
+  Yan Diomandé a {age} ans, né à Abidjan le 14 novembre 2006. Sa nationalité
+  ivoirienne, son chemin par les États-Unis et Leganés, Leipzig puis le Real
+  Madrid.
 knownFor: >-
   Ailier ivoirien, Rookie of the Season de la Bundesliga 2025/26 avec le RB
   Leipzig
@@ -13,14 +16,18 @@ summary: >-
   novembre 2006.
 status: published
 risk: low
-reviewedAt: '2026-10-26'
-reviewBy: '2027-04-26'
+publishedAt: '2026-10-29'
+reviewedAt: '2026-10-29'
+reviewBy: '2027-04-29'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Yan Diomandé Real Madrid
   - Yan Diomandé âge
+  - Origine de Yan Diomandé
+  - Nationalité de Yan Diomandé
+  - De quelle ethnie est Yan Diomandé
   - Yan Diomandé transfert
   - Yan Diomandé montant transfert
   - Yan Diomandé Bundesliga
@@ -29,11 +36,19 @@ targetQueries:
   - Yan Diomandé statistiques
 faq:
   - q: Quel âge a Yan Diomandé ?
-    a: Il est né le 14 novembre 2006 et a donc 19 ans au 26 octobre 2026.
+    a: Il est né le 14 novembre 2006 et a donc 19 ans au 29 octobre 2026.
   - q: De quelle origine est Yan Diomandé ?
     a: >-
       Il est né à Abidjan, en Côte d'Ivoire, et joue en équipe nationale
       ivoirienne.
+  - q: Quelle est la nationalité de Yan Diomandé ?
+    a: >-
+      Il est de nationalité ivoirienne, selon FotMob, qui le classe parmi les
+      joueurs de Côte d'Ivoire.
+  - q: De quelle ethnie est Yan Diomandé ?
+    a: >-
+      Les articles consultés ne mentionnent pas d'origine ethnique. Cette page
+      n'en parle donc pas.
   - q: Combien le Real Madrid a-t-il payé pour Yan Diomandé ?
     a: >-
       Les montants varient. Press Association évoque 115,8 millions de livres,
@@ -43,10 +58,13 @@ faq:
     a: >-
       Le club a annoncé l'arrivée le 6 août 2026, avec un contrat jusqu'au 30
       juin 2033.
-autoReviews: 1
-publishedAt: '2026-10-26'
+autoReviews: 2
 ---
 Yan Diomandé est un ailier ivoirien de 19 ans, né le 14 novembre 2006 à Abidjan [s:fotmob-player] [s:lalibre-profile]. En 2025/26, sous le maillot du RB Leipzig, il a été élu Rookie of the Season de la Bundesliga [s:bundesliga-rookie-2025-26]. Le 6 août 2026, le Real Madrid a annoncé son arrivée avec un contrat courant jusqu'au 30 juin 2033 [s:beinsports-signing] [s:irishnews-signing].
+
+## Âge, origine et nationalité
+
+Yan Diomandé a 19 ans : il est né le 14 novembre 2006 à Abidjan, en Côte d'Ivoire [s:fotmob-player] [s:lalibre-profile]. Il a donc eu 19 ans en novembre 2025 et reste à 19 ans au 29 octobre 2026. FotMob indique qu'il est de nationalité ivoirienne et qu'il joue pour l'équipe de Côte d'Ivoire [s:fotmob-player]. Les articles consultés ne mentionnent pas d'origine ethnique, et cette page n'en donne donc pas.
 
 ## Les années aux États-Unis
 

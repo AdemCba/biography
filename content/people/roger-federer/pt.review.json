@@ -1,52 +1,307 @@
 {
-  "date": "2026-10-26",
-  "model": "claude-subscription",
+  "date": "2026-10-29",
+  "model": "claude-haiku-5-5",
   "approved": true,
   "reasons": [],
   "claims": [
     {
-      "claim": "Federer is 45 in October 2026 (FAQ)",
-      "sourceIds": [
-        "britannica"
-      ],
-      "verdict": "confirmed",
-      "note": "From the birth date 8 Aug 1981, he turns 45 on 8 Aug 2026, so 45 on 26 Oct 2026 is arithmetically correct. The birth date itself was not checked against the source."
-    },
-    {
-      "claim": "Birth, family, 20 Slams, Paris 2009, records, Olympics, retirement letter, Laver Cup doubles and score",
-      "sourceIds": [
-        "atp-bio",
-        "britannica",
-        "cnn-2009",
-        "retirement-statement",
-        "nbc-laver"
-      ],
-      "verdict": "confirmed",
-      "note": "Same facts confirmed in the roger-federer/en and /es reviews against these sources; NBC opened in this re-check."
-    },
-    {
-      "claim": "Mirka reached No. 76 in the WTA",
+      "claim": "Gandula em 1993 e 1994 no torneio da Basileia",
       "sourceIds": [
         "atp-bio"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed against atp-bio in the en review."
+      "note": "ATP bio: ballboy 1993-94, Basel."
     },
     {
-      "claim": "Hall of Fame: class of 2026, Swiss Tennis announcement, Laver Cup created for Rod Laver; 29 Aug 2026 Newport; Mirka's speech; seven former No. 1s; quotes; 310 weeks",
+      "claim": "Já tinha 20 títulos de Grand Slam ao se aposentar em 2022",
+      "sourceIds": [
+        "aljazeera-hof"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera: 20-time Grand Slam champion."
+    },
+    {
+      "claim": "Nasceu em 8 de agosto de 1981 na Basileia, Suíça",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: born August 8, 1981, in Basel."
+    },
+    {
+      "claim": "Pai suíço Robert, mãe sul-africana Lynette, irmã Diana",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio."
+    },
+    {
+      "claim": "Começou aos oito anos; admirava Edberg, Becker e Sampras",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio."
+    },
+    {
+      "claim": "Profissional em 1998",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: turned pro in 1998."
+    },
+    {
+      "claim": "10 títulos e 75 vitórias na Basileia",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio: 10 titles and 75 match wins at Basel."
+    },
+    {
+      "claim": "Seis Abertos da Austrália, um Roland Garros, oito Wimbledons, cinco US Opens",
+      "sourceIds": [
+        "aljazeera-hof"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera breakdown."
+    },
+    {
+      "claim": "Oito Wimbledons são recorde masculino",
+      "sourceIds": [
+        "aljazeera-hof"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera: men's-record eight Wimbledon titles."
+    },
+    {
+      "claim": "Julho de 2017, aos 35 anos, oitavo Wimbledon",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: July 2017, age 35."
+    },
+    {
+      "claim": "ITHF: primeiro homem a vencer 20 títulos de Grand Slam em simples",
+      "sourceIds": [
+        "ithf-class-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "ITHF: first male player to win 20 major singles titles."
+    },
+    {
+      "claim": "Três finais de Roland Garros perdidas para Nadal; Roland Garros era o único Slam que faltava",
+      "sourceIds": [
+        "tennis-2009-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Tennis.com: three previous finals lost to Nadal; clinched the only Slam missing."
+    },
+    {
+      "claim": "7 de junho de 2009, 6-1, 7-6 e 6-4 sobre Soderling; igualou 14 Grand Slams de Sampras; sexto homem com os quatro torneios",
+      "sourceIds": [
+        "mg-2009-french-open"
+      ],
+      "verdict": "confirmed",
+      "note": "Mail & Guardian: 6-1 7-6 6-4 vs Soderling, 7 June 2009; equalled Sampras 14; sixth man to win all four majors."
+    },
+    {
+      "claim": "103 títulos, 1.251 vitórias; só Connors venceu mais na Era Aberta, com 1.274",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio."
+    },
+    {
+      "claim": "237 semanas consecutivas como número 1, recorde desde 1973; 310 semanas no total",
+      "sourceIds": [
+        "atp-bio",
+        "ithf-class-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio: 237 consecutive weeks since 1973; ITHF: 310 weeks."
+    },
+    {
+      "claim": "O Hall da Fama cita os 103 títulos da ATP",
+      "sourceIds": [
+        "ithf-class-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "ITHF: 103 ATP singles titles."
+    },
+    {
+      "claim": "Em 2000 terminou em quarto lugar nos Jogos de Sydney",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio: finished fourth at Sydney 2000."
+    },
+    {
+      "claim": "Ouro nas duplas em Pequim 2008 com Stan Wawrinka; prata no simples em 2012 derrotado por Andy Murray em Wimbledon",
+      "sourceIds": [
+        "itf-olympics"
+      ],
+      "verdict": "confirmed",
+      "note": "ITF: doubles gold with Wawrinka at Beijing 2008; singles silver to Murray, held at Wimbledon."
+    },
+    {
+      "claim": "Federer criou a Laver Cup, para homenagear Rod Laver",
       "sourceIds": [
         "ithf-class-2026",
+        "lavercup"
+      ],
+      "verdict": "confirmed",
+      "note": "ITHF: created the Laver Cup; Laver Cup site: created to honor Rod Laver."
+    },
+    {
+      "claim": "Casado com Mirka Vavrinec, número 76 da WTA; primeiro beijo nos Jogos de Sydney em 2000",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio."
+    },
+    {
+      "claim": "Dois pares de gêmeos: Myla e Charlene, Leo e Lenny; quatro filhos",
+      "sourceIds": [
+        "atp-bio",
+        "retirement-statement"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio twin names; Scroll: four children."
+    },
+    {
+      "claim": "Roger Federer Foundation criada em 2003; projetos no sul da África e na Suíça; mais de 50 milhões de dólares; mais de um milhão de crianças",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio: founded 2003; countries; over $50 million; over 1 million children."
+    },
+    {
+      "claim": "Exibição na Cidade do Cabo em 7 de fevereiro de 2020 contra Nadal; 51.954 pessoas, uma das duas maiores plateias; 3,5 milhões de dólares",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio: Cape Town exhibition with Nadal, 51,954 fans, one of two largest crowds in tennis history, $3.5 million."
+    },
+    {
+      "claim": "Citação sobre o joelho",
+      "sourceIds": [
+        "nbc-laver"
+      ],
+      "verdict": "confirmed",
+      "note": "NBC/AP: 'my knee is not so good anymore and I think it's the end'."
+    },
+    {
+      "claim": "Anúncio em 15 de setembro de 2022, aos 41 anos; Laver Cup de Londres último torneio; três anos de lesões e cirurgias",
+      "sourceIds": [
+        "retirement-statement"
+      ],
+      "verdict": "confirmed",
+      "note": "Scroll: announcement 15 Sept 2022, age 41, Laver Cup in London last ATP event, three years of injuries and surgeries."
+    },
+    {
+      "claim": "Torneio na semana seguinte",
+      "sourceIds": [
+        "retirement-statement"
+      ],
+      "verdict": "confirmed",
+      "note": "Scroll: Laver Cup held the following week."
+    },
+    {
+      "claim": "Ligação a Nadal; resposta 'custe o que custar'; derrota por 4-6, 7-6 e 11-9 para Sock e Tiafoe em 23 de setembro",
+      "sourceIds": [
+        "nbc-laver"
+      ],
+      "verdict": "confirmed",
+      "note": "NBC/AP: Nadal call, reply 'whatever it takes', lost 4-6 7-6 9-11 to Sock and Tiafoe."
+    },
+    {
+      "claim": "Agradecimento a Mirka, aos pais e à irmã",
+      "sourceIds": [
+        "retirement-statement"
+      ],
+      "verdict": "confirmed",
+      "note": "Scroll: thanks to Mirka, parents and sister."
+    },
+    {
+      "claim": "Hall da Fama anunciado em 10 de novembro de 2025, classe de 2026, categoria Jogador; notícia dada na Swiss Tennis por membros do Hall",
+      "sourceIds": [
+        "ithf-class-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "ITHF: announcement dated November 10, 2025; learned at Swiss Tennis from fellow Hall of Famers."
+    },
+    {
+      "claim": "Cerimônia no sábado, 29 de agosto de 2026, em Newport, Rhode Island",
+      "sourceIds": [
+        "aljazeera-hof"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera: Saturday, August 29, 2026, Newport."
+    },
+    {
+      "claim": "Visita ao museu na quinta-feira anterior; Mirka fez o discurso de apresentação; sete ex-números 1 incluindo Edberg, McEnroe e Roddick",
+      "sourceIds": [
+        "atp-hof-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP gallery: museum tour Thursday; Mirka's introductory speech; seven former No. 1s named."
+    },
+    {
+      "claim": "Federer tinha 45 anos; descrito às lágrimas pela Al Jazeera",
+      "sourceIds": [
+        "aljazeera-hof"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera: 45-year-old; tearful headline."
+    },
+    {
+      "claim": "Citações sobre honra, fama e 'carta de amor' e 'não é uma despedida'",
+      "sourceIds": [
+        "aljazeera-hof"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera quotes verified, translated as 'tradução nossa'."
+    },
+    {
+      "claim": "Homenageado junto com Mary Carillo",
+      "sourceIds": [
+        "aljazeera-hof"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera: inducted alongside Mary Carillo."
+    },
+    {
+      "claim": "Djokovic parabenizou por vídeo; exibição com Martina Navratilova na sexta-feira",
+      "sourceIds": [
         "aljazeera-hof",
         "atp-hof-2026"
       ],
       "verdict": "confirmed",
-      "note": "Pages opened in this re-check; matches."
+      "note": "Al Jazeera: Djokovic video message. ATP gallery: exhibition on Friday with Navratilova."
+    },
+    {
+      "claim": "Nacionalidade suíça (CH) nos facts",
+      "sourceIds": [
+        "britannica",
+        "atp-bio"
+      ],
+      "verdict": "source_unreachable",
+      "note": "Britannica returned HTTP 403 today. ATP bio confirms Swiss father only."
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "Clear timeline from ball boy to the 2026 Hall of Fame ceremony, with the Paris 2009 story and translated primary quotes.",
+  "valueNote": "Adds the Roland Garros 2009 match context, the Olympic record and the Hall of Fame ceremony details from ATP, ITF and Al Jazeera, which the usual top Portuguese results do not all carry.",
   "decision": "approve",
-  "summary": "Re-check after fixes. 21 flagged claim(s) from the previous review were corrected or removed: The previous check could open no source. In this re-check NBC, ITHF, the ATP gallery and Al Jazeera were opened; every other pt claim matches a claim confirmed in the en/es reviews against the same atp-bio, britannica, cnn-2009 and retirement-statement pages. Mirka's ranking is now tagged to atp-bio (confirmed in the en review); foundation figure and 'única partida' removed; the Hall of Fame section was rewritten with real content and the gallery filler dropped."
+  "summary": "Every cited claim was opened and confirmed except the nationality fact, which cites Britannica (blocked, HTTP 403 today)."
 }

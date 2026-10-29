@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Appointed Sporting head coach on 26 December 2024, succeeding João Pereira, from Vitória de Guimarães",
+      "sourceIds": [
+        "abola-sporting-appointment-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "A BOLA article dated 26 Dec 2024 reports the official appointment and that V. Guimarães confirmed his departure."
+    },
+    {
+      "claim": "Sporting paid Vitória SC a fee of 4,100,000 euros",
+      "sourceIds": [
+        "abola-sporting-appointment-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the same article."
+    },
+    {
+      "claim": "Contract valid to 30 June 2026 with option to 30 June 2027 (first report)",
+      "sourceIds": [
+        "abola-sporting-appointment-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the same article."
+    },
+    {
+      "claim": "Four staff moved from Guimarães under the deal, including two assistant coaches",
+      "sourceIds": [
+        "abola-sporting-appointment-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Two assistant coaches plus Fernando Alves and José Pedro Lage."
+    },
+    {
+      "claim": "Born or coaching start in Mirandela; Mirandela called his home town; began coaching there after ending his playing career",
+      "sourceIds": [
+        "rtp-coaching-profile-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "RTP calls Mirandela his 'cidade natal' and says he began coaching there after ending playing career. Country not stated; not repeated in the body."
+    },
+    {
+      "claim": "Académico de Viseu: kept out of relegation in 2018/19; Taça semi-final 2019/20 lost to FC Porto",
+      "sourceIds": [
+        "rtp-coaching-profile-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in RTP profile."
+    },
+    {
+      "claim": "Académica fourth in 2020/21, matching best season since leaving top flight in 2015/16",
+      "sourceIds": [
+        "rtp-coaching-profile-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in RTP profile."
+    },
+    {
+      "claim": "Nacional sixth in 2021/22, frustration at missing promotion",
+      "sourceIds": [
+        "rtp-coaching-profile-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "RTP refers to 'sentimento de frustração'."
+    },
+    {
+      "claim": "Vilafranquense fifth at 19th matchday; Mafra 14th to sixth in last 14 rounds",
+      "sourceIds": [
+        "rtp-coaching-profile-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in RTP profile."
+    },
+    {
+      "claim": "Joined Moreirense July 2023; 55 points in 34 matchdays, sixth; 16 matchdays without conceding; played there 2007/08 and 2008/09; extended contract to 2026",
+      "sourceIds": [
+        "rtp-coaching-profile-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "All stated in RTP profile."
+    },
+    {
+      "claim": "Presented by Vitória de Guimarães on 28 May 2024; sixth with 23 points after 15 matchdays in 2024/25; Portuguese record of nine consecutive UEFA wins",
+      "sourceIds": [
+        "rtp-coaching-profile-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in RTP profile; the record is placed in the article's Vitória section, which is written before his Sporting move."
+    },
+    {
+      "claim": "Sporting appointment followed Rúben Amorim's departure and João Pereira's spell of about a month",
+      "sourceIds": [
+        "rtp-coaching-profile-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "RTP says the appointment was to succeed Amorim (left for Manchester United) and Pereira, whose spell lasted about a month."
+    },
+    {
+      "claim": "Sporting won the 2024/25 Liga Portugal, the club's 21st league title",
+      "sourceIds": [
+        "lpfp-best-coach-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Soccerway report of the award states the 21st title."
+    },
+    {
+      "claim": "Voted best coach 2024/25 by the league's coaches and captains; gala at LPFP headquarters in Porto",
+      "sourceIds": [
+        "lpfp-best-coach-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the same article."
+    },
+    {
+      "claim": "Nationality Portuguese (Liga Portugal profile)",
+      "sourceIds": [
+        "ligaportugal-coach-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile field NACIONALIDADE reads Portugal. Liga Portugal is a league source."
+    },
+    {
+      "claim": "Contract runs to June 2028 with option for one more year (27 Oct 2026 report)",
+      "sourceIds": [
+        "abola-contract-status-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in A Bola report; conflict with the 2024 report is disclosed in the body."
+    },
+    {
+      "claim": "27 Oct 2026: position at risk; Sporting lost 1-2 at home to Académico de Viseu; Marítimo match could be last; wins would only postpone an exit",
+      "sourceIds": [
+        "abola-contract-status-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "All stated in the A Bola article. The date is the article date."
+    },
+    {
+      "claim": "29 Oct 2026: Sporting's coach spoke publicly; A Bola reported his remarks",
+      "sourceIds": [
+        "abola-public-statement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "The article reports his remarks. The page does not name the setting or the match, so the body says nothing about either."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds a sourced club-by-club career record, the contract-term conflict between two A Bola reports, and the 2024/25 league award with the league's own nationality field, written natively.",
+  "decision": "approve",
+  "summary": "The pt text states the same facts as the English page. Each sourced fact matches the cited source, the contract conflict is disclosed and the page does not mention family."
+}

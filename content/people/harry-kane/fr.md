@@ -1,25 +1,35 @@
 ---
 title: Harry Kane
 slug: harry-kane
-metaTitle: 'Harry Kane : Ballon d''Or 2026, Bayern et records anglais'
+metaTitle: 'Harry Kane, {age} : Ballon d''Or 2026 avec le Bayern'
 metaDescription: >-
-  Harry Kane a remporté le Ballon d'Or 2026 à Londres, premier Anglais à y
-  parvenir depuis environ 25 ans. Ses records avec le Bayern et l'Angleterre.
+  Harry Kane a remporté le Ballon d'Or 2026 à Londres. Il a {age} ans et joue au
+  Bayern, qui a battu Magdebourg 6-1 le 28 octobre sans lui.
 knownFor: >-
   Capitaine de l'Angleterre et attaquant du Bayern Munich, meilleur buteur de la
   sélection anglaise
 summary: >-
-  Harry Kane a remporté le Ballon d'Or 2026 lundi 26 octobre à Londres, premier Anglais récompensé depuis environ 25 ans. Il est rentré à Munich. Le match de Coupe d'Allemagne contre Magdebourg était prévu le mercredi 28 octobre, et le Bayern affronte le Borussia Dortmund en Bundesliga le samedi 31. Sky Sports indique qu'il a conclu un accord de principe avec le Bayern jusqu'en 2029, les documents étant en cours de finalisation, mais aucune prolongation signée n'a été annoncée. Il est aussi le meilleur buteur de l'histoire de l'équipe d'Angleterre.
+  Harry Kane a remporté le Ballon d'Or 2026 lundi 26 octobre à Londres, premier
+  Anglais récompensé depuis environ 25 ans. Le Bayern a battu Magdebourg 6-1 en
+  Coupe d'Allemagne le mercredi 28 octobre, Kane étant laissé au repos. Le club
+  a annoncé un hommage avant le match de Bundesliga contre le Borussia Dortmund,
+  samedi 31 octobre. Sky Sports a indiqué le 16 octobre un accord de principe
+  avec le Bayern jusqu'en 2029, et un article du 28 octobre précise que les
+  documents sont toujours en cours de finalisation. Aucune prolongation signée
+  n'a été annoncée. Il est aussi le meilleur buteur de l'histoire de l'équipe
+  d'Angleterre.
 status: published
 risk: low
-reviewedAt: '2026-10-27'
-updatedAt: '2026-10-29'
-reviewBy: '2027-04-27'
+publishedAt: '2026-10-29'
+reviewedAt: '2026-10-29'
+reviewBy: '2027-04-29'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Harry Kane Ballon d'Or 2026
+  - Harry Kane âge
+  - Harry Kane statistiques
   - Harry Kane prolongation Bayern Munich
   - Harry Kane buts avec l'Angleterre
   - Harry Kane transfert Bayern 2023
@@ -27,13 +37,13 @@ targetQueries:
   - Harry Kane record Tottenham
   - Harry Kane triplés Angleterre
   - Harry Kane buts Coupe du monde
-  - Harry Kane âge
+  - Harry Kane club
 faq:
   - q: Qui a remporté le Ballon d'Or 2026 ?
     a: >-
-      Harry Kane. La cérémonie s'est tenue le lundi 26 octobre 2026 au London
-      Palladium, et il est le premier Anglais à remporter le prix depuis environ
-      25 ans. Il a devancé Kylian Mbappé et Lamine Yamal.
+      Harry Kane. La cérémonie s'est tenue le lundi 26 octobre 2026 à Londres,
+      et il est le premier Anglais à remporter le prix depuis environ 25 ans. Il
+      a devancé Kylian Mbappé et Lamine Yamal.
   - q: Combien de buts Harry Kane a-t-il marqués avec l'Angleterre ?
     a: >-
       Selon la Fédération anglaise, il en comptait 66 avant sa centième
@@ -42,27 +52,33 @@ faq:
   - q: Harry Kane est-il sous contrat avec le Bayern Munich ?
     a: >-
       Il a signé un contrat de quatre ans en août 2023. Le 16 octobre 2026, Sky
-      Sports a annoncé un accord de principe jusqu'à l'été 2029, les documents
-      étant en cours de finalisation. Les sources consultées ne mentionnent pas de
-      prolongation signée.
+      Sports a annoncé un accord de principe jusqu'à l'été 2029. Un article du
+      28 octobre indique que les documents sont toujours en cours de
+      finalisation. Aucune prolongation signée n'a été annoncée.
   - q: Combien de buts Harry Kane a-t-il inscrits en Bundesliga en 2025-26 ?
     a: >-
       36. La Bundesliga a indiqué qu'il a remporté le titre de meilleur buteur
       pour une troisième saison consécutive, une première pour un joueur lors de
       ses trois premières saisons dans le championnat.
   - q: Quel âge a Harry Kane ?
+    a: Il est né le 28 juillet 1993 et a donc 33 ans au 29 octobre 2026.
+  - q: Pour quel club joue Harry Kane ?
     a: >-
-      Il est né le 28 juillet 1993 et a donc 33 ans.
-autoReviews: 1
-publishedAt: '2026-10-27'
+      Pour le Bayern Munich. Il y a été recruté en août 2023 depuis les
+      Tottenham Hotspur, dans un transfert record pour le club.
+autoReviews: 2
 ---
 Harry Kane est arrivé en favori des bookmakers à la cérémonie du Ballon d'Or du 26 octobre 2026, à Londres [s:sky-ballon-dor-favourite-2026]. Il l'a remporté, lors d'une cérémonie tenue au London Palladium [s:uefa-ballon-dor-ceremony-2026] [s:sky-kane-ballon-dor-win-2026]. La Fédération anglaise indique qu'il s'agit de la première cérémonie organisée hors de Paris [s:fa-ballon-dor-nominees-2026]. Voici le parcours qui l'a placé parmi les candidats, sa situation au Bayern et les points qui restent à confirmer.
 
 ## Octobre 2026
 
-Harry Kane a remporté le Ballon d'Or 2026 lundi 26 octobre au London Palladium, premier Anglais récompensé depuis environ 25 ans [s:uefa-ballon-dor-ceremony-2026] [s:sky-kane-ballon-dor-win-2026]. Il a devancé Kylian Mbappé et Lamine Yamal, et la cérémonie a commencé avec 45 minutes de retard à cause du trafic [s:sky-kane-ballon-dor-win-2026].
+Harry Kane a remporté le Ballon d'Or 2026 lundi 26 octobre au London Palladium, premier Anglais récompensé depuis environ 25 ans [s:uefa-ballon-dor-ceremony-2026] [s:sky-kane-ballon-dor-win-2026]. Selon la Bundesliga, le vote a été organisé auprès de 100 journalistes représentant les 100 nations masculines les mieux classées par la FIFA, et Kane a devancé Kylian Mbappé et Lamine Yamal. Il a aussi reçu le prix de Striker of the Year [s:bundesliga-kane-ballon-dor-2026]. La cérémonie a commencé avec 45 minutes de retard à cause du trafic [s:sky-kane-ballon-dor-win-2026].
 
-L'entraîneur adjoint Aaron Danks a indiqué que Kane rentrait de Londres à Munich pour rejoindre l'entraînement mardi. Il a évoqué « l'immense joie que Harry a vécue hier » [s:fox-kane-munich-return-2026]. Le Bayern avait annoncé un accueil spécial avant le match de Coupe d'Allemagne contre le 1. FC Magdebourg, mercredi 28 octobre, et Danks a dit que Kane serait disponible [s:fox-kane-munich-return-2026] [s:khelnow-kane-munich-welcome-2026]. Les sources consultées ne rapportent pas le résultat de cette rencontre. Le club a promis de saluer le trophée lors du match de Bundesliga contre le Borussia Dortmund, samedi 31 octobre [s:fox-kane-munich-return-2026] [s:khelnow-kane-munich-welcome-2026].
+Selon l'entraîneur adjoint Aaron Danks, Kane est rentré de Londres à Munich pour rejoindre l'entraînement mardi. Le Bayern avait annoncé un « accueil spécial » avant son match de Coupe d'Allemagne [s:fox-kane-munich-return-2026]. Danks a dit que Kane serait disponible pour le match contre Magdebourg [s:fox-kane-munich-return-2026].
+
+Le Bayern a battu le 1. FC Magdebourg 6-1 au deuxième tour de la Coupe d'Allemagne, mercredi 28 octobre, avec deux buts de Michael Olise [s:sportschau-bayern-magdeburg-2026]. Kane n'a pas joué. Selon Sportschau, il a été mis au repos en récompense de son élection comme Weltfußballer, le titre de meilleur joueur du monde [s:sportschau-bayern-magdeburg-2026]. Le club avait promis de saluer le trophée avant le match de Bundesliga contre le Borussia Dortmund, samedi 31 octobre. Le compte rendu FOX/AP a été publié avant ce match et ne confirme donc pas si l'hommage a eu lieu [s:fox-kane-munich-return-2026].
+
+Le 28 octobre, World Soccer Talk a rapporté, citant le journaliste de Sky Sport Allemagne Florian Plettenberg, que le Bayern et Kane finalisaient encore une prolongation jusqu'en 2029, et que les deux parties voulaient la signer avant la fin de l'année civile [s:worldsoccertalk-kane-contract-2026]. Les sources consultées ne mentionnent ni contrat signé ni confirmation du club ou de Kane [s:worldsoccertalk-kane-contract-2026].
 
 ## Un troisième titre de meilleur buteur à Munich
 
@@ -72,7 +88,7 @@ Le profil de la Fédération anglaise recense 36 buts en Bundesliga en 31 matchs
 
 ## De Tottenham au Bayern
 
-En août 2023, le Bayern a recruté Kane auprès des Tottenham Hotspur, lors d'un transfert record pour le club, avec un contrat de quatre ans [s:tnt-bayern-signing-2023]. Selon TNT, le Bayern était alors champion d'Allemagne [s:tnt-bayern-signing-2023]. Le montant évoqué était de 120 millions d'euros (104 millions de livres), présenté comme un montant potentiel et non comme un prix confirmé [s:tnt-bayern-signing-2023]. Selon TNT, ce montant aurait dépassé le record précédent du club, les 80 millions d'euros (68 millions de livres) versés pour Lucas Hernández à l'Atlético de Madrid en 2019 [s:tnt-bayern-signing-2023].
+En août 2023, le Bayern a recruté Kane auprès des Tottenham Hotspur, avec un contrat de quatre ans [s:aljazeera-kane-bayern-2023] [s:sky-kane-bayern-signing-2023]. Sky Sports a indiqué un montant initial de 86 millions de livres, qui avec les compléments de prix se rapprochait de 100 millions, et l'a présenté comme un record pour le Bayern et la Bundesliga [s:sky-kane-bayern-signing-2023]. Al Jazeera a indiqué que le montant pouvait dépasser 100 millions de livres, et l'a décrit comme le transfert le plus cher jamais payé par un club de Bundesliga. Le record précédent cité est de 80 millions d'euros, versés par le Bayern à l'Atlético de Madrid pour Lucas Hernández en 2019 [s:aljazeera-kane-bayern-2023].
 
 Ses années à Tottenham ont aussi laissé des marques. L'article du club en 2019 le plaçait à 25 buts en 40 sélections avec l'Angleterre pendant qu'il jouait à Tottenham [s:tottenham-2019]. Un reportage du club en 2022 indiquait que le record qu'il visait était celui de Jimmy Greaves, avec 266 buts sous le maillot de Tottenham [s:tottenham-2022].
 
@@ -98,10 +114,10 @@ Il a signé cinq triplés avec l'Angleterre, contre le Panama, la Bulgarie, le M
 
 Sky Sports a indiqué le 16 octobre 2026 que Kane avait conclu un accord de principe avec le Bayern jusqu'à l'été 2029, et que le club finalisait les documents de la prolongation [s:sky-kane-bayern-deal-2029]. Il restait, selon le même article, quelques points à régler avant la confirmation [s:sky-kane-bayern-deal-2029].
 
-Le 29 août 2026, il a confirmé que les négociations avaient commencé. « La première réunion a eu lieu la semaine dernière », a-t-il déclaré, ajoutant qu'« il n'y a pas de panique de part ni d'autre » [s:nst-bayern-extension-talks-2026]. Il a aussi dit : « Je suis sûr que nous arriverons à un point où les deux parties seront satisfaites » [s:nst-bayern-extension-talks-2026]. Le même jour, Jan-Christian Dreesen a déclaré : « La chimie est parfaite » [s:bundesliga-kane-talks-de-2026].
+Dans un article daté du 29 août 2026, il a confirmé que les négociations avaient commencé et jugé qu'elles se passaient bien : « jusqu'ici, tout va bien » [s:bundesliga-kane-talks-de-2026] [s:nst-bayern-extension-talks-2026]. Il a dit que « la première réunion a eu lieu la semaine dernière » et qu'« il n'y a pas de panique de part ni d'autre » [s:nst-bayern-extension-talks-2026]. Il a aussi dit : « Je suis sûr que nous arriverons à un point où les deux parties seront satisfaites » [s:nst-bayern-extension-talks-2026].
 
-Les sources utilisées parlent d'un accord de principe, pas d'un contrat signé. Aucun communiqué officiel du Bayern annonçant une prolongation signée n'a été trouvé.
+Les sources utilisées parlent d'un accord de principe, pas d'un contrat signé. Aucun communiqué officiel du Bayern annonçant une prolongation signée n'a été trouvé [s:worldsoccertalk-kane-contract-2026].
 
 ## Ce que cette page ne confirme pas
 
-La prolongation avec le Bayern reste un accord de principe : aucune source consultée ne mentionne un contrat signé. Aucun résultat n'a été trouvé pour le match de Coupe d'Allemagne contre Magdebourg du 28 octobre. Le site officiel du Bayern ne s'est pas chargé pendant les recherches, de sorte que les données sur le club viennent de la Fédération anglaise, de la Bundesliga, de Tottenham, de Sky Sports, de NST, de TNT et de la presse.
+La prolongation avec le Bayern reste un accord de principe : aucune source consultée ne mentionne un contrat signé, et aucune annonce officielle du Bayern ou de Kane n'a été trouvée.
