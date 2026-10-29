@@ -1,7 +1,10 @@
 {
   "id": "knicks-bulls-2026",
   "people": [],
-  "trendingIn": ["GB", "MX"],
+  "trendingIn": [
+    "GB",
+    "MX"
+  ],
   "wikidata": "Q131364",
   "sources": [
     {
@@ -49,5 +52,12 @@
       "accessed": "2026-10-29",
       "lang": "en"
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/topics/knicks-bulls-2026.jpg",
+    "alt": "Knicks vs Bulls: the line, records and the injuries that mattered",
+    "credit": "Andrés Nieto Porras from Palma de Mallorca, España",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madison_Square_Garden_(4432377106).jpg"
+  }
 }

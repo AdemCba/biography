@@ -1,7 +1,16 @@
 {
   "id": "inter-miami-cincinnati-2026",
-  "people": ["lionel-messi"],
-  "trendingIn": ["ES", "PT", "DE", "FR", "GB", "AR"],
+  "people": [
+    "lionel-messi"
+  ],
+  "trendingIn": [
+    "ES",
+    "PT",
+    "DE",
+    "FR",
+    "GB",
+    "AR"
+  ],
   "wikidata": "Q615",
   "sources": [
     {
@@ -40,5 +49,12 @@
       "accessed": "2026-10-29",
       "lang": "en"
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/topics/inter-miami-cincinnati-2026.jpg",
+    "alt": "Lionel Messi",
+    "credit": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg"
+  }
 }

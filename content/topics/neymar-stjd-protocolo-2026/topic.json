@@ -1,7 +1,11 @@
 {
   "id": "neymar-stjd-protocolo-2026",
-  "people": ["vinicius-junior"],
-  "trendingIn": ["BR"],
+  "people": [
+    "vinicius-junior"
+  ],
+  "trendingIn": [
+    "BR"
+  ],
   "wikidata": "Q142794",
   "sources": [
     {
@@ -31,5 +35,12 @@
       "accessed": "2026-10-29",
       "lang": "pt"
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/topics/neymar-stjd-protocolo-2026.jpg",
+    "alt": "Vinícius Júnior",
+    "credit": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Neymar_Junior_Brazil_V_Morocco_13_June_2026-40.jpg"
+  }
 }
