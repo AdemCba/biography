@@ -9,13 +9,7 @@ knownFor: >-
   Capitaine de l'Angleterre et attaquant du Bayern Munich, meilleur buteur de la
   sélection anglaise
 summary: >-
-  Harry Kane a remporté le Ballon d'Or 2026 lundi 26 octobre à Londres, premier
-  Anglais récompensé depuis environ 25 ans. Il est rentré à Munich, où le Bayern
-  devait affronter Magdebourg en Coupe d'Allemagne le mercredi 28 octobre, puis
-  le Borussia Dortmund en Bundesliga le samedi 31. Sky Sports indique qu'il a
-  conclu un accord de principe avec le Bayern jusqu'en 2029, les documents étant
-  en cours de finalisation, mais aucune prolongation signée n'a été annoncée. Il
-  est aussi le meilleur buteur de l'histoire de l'équipe d'Angleterre.
+  Harry Kane a remporté le Ballon d'Or 2026 lundi 26 octobre à Londres, premier Anglais récompensé depuis environ 25 ans. Il est rentré à Munich. Le match de Coupe d'Allemagne contre Magdebourg était prévu le mercredi 28 octobre, et le Bayern affronte le Borussia Dortmund en Bundesliga le samedi 31. Sky Sports indique qu'il a conclu un accord de principe avec le Bayern jusqu'en 2029, les documents étant en cours de finalisation, mais aucune prolongation signée n'a été annoncée. Il est aussi le meilleur buteur de l'histoire de l'équipe d'Angleterre.
 status: published
 risk: low
 reviewedAt: '2026-10-27'
@@ -66,11 +60,9 @@ Harry Kane est arrivé en favori des bookmakers à la cérémonie du Ballon d'Or
 
 ## Octobre 2026
 
-Kane a battu Kylian Mbappé et Lamine Yamal pour le prix, et la cérémonie de Londres a commencé avec 45 minutes de retard à cause du trafic [s:sky-kane-ballon-dor-win-2026]. Le Bayern a publié sur son compte en anglais que l'Allianz Arena brillerait en or pour le vainqueur [s:khelnow-kane-munich-welcome-2026].
+Harry Kane a remporté le Ballon d'Or 2026 lundi 26 octobre au London Palladium, premier Anglais récompensé depuis environ 25 ans [s:uefa-ballon-dor-ceremony-2026] [s:sky-kane-ballon-dor-win-2026]. Il a devancé Kylian Mbappé et Lamine Yamal, et la cérémonie a commencé avec 45 minutes de retard à cause du trafic [s:sky-kane-ballon-dor-win-2026].
 
-Selon l'entraîneur adjoint Aaron Danks, Kane rentrait de Londres vers Munich et devait rejoindre l'entraînement mardi. Il a évoqué « l'immense joie que Harry a vécue hier » [s:fox-kane-munich-return-2026].
-
-Le match de Coupe d'Allemagne contre le 1. FC Magdebourg était prévu le mercredi 28 octobre à l'Allianz Arena, et Danks a indiqué que Kane serait disponible [s:fox-kane-munich-return-2026] [s:khelnow-kane-munich-welcome-2026]. Les sources utilisées ici ne rapportent pas le résultat. La rencontre de Bundesliga contre le Borussia Dortmund a lieu le samedi 31 octobre [s:khelnow-kane-munich-welcome-2026].
+L'entraîneur adjoint Aaron Danks a indiqué que Kane rentrait de Londres à Munich pour rejoindre l'entraînement mardi. Il a évoqué « l'immense joie que Harry a vécue hier » [s:fox-kane-munich-return-2026]. Le Bayern avait annoncé un accueil spécial avant le match de Coupe d'Allemagne contre le 1. FC Magdebourg, mercredi 28 octobre, et Danks a dit que Kane serait disponible [s:fox-kane-munich-return-2026] [s:khelnow-kane-munich-welcome-2026]. Les sources consultées ne rapportent pas le résultat de cette rencontre. Le club a promis de saluer le trophée lors du match de Bundesliga contre le Borussia Dortmund, samedi 31 octobre [s:fox-kane-munich-return-2026] [s:khelnow-kane-munich-welcome-2026].
 
 ## Un troisième titre de meilleur buteur à Munich
 

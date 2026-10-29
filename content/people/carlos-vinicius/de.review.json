@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Der Sieg über São Luiz am 17. Januar 2026 glich den höchsten Sieg in der Geschichte dieses Duells aus",
+      "sourceIds": [
+        "90min-hat-trick-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Article subtitle says Grêmio 'igualou maior vitória da história do confronto'."
+    },
+    {
+      "claim": "Der Grêmio suchte einen Mittelstürmer als Nachfolger von Matías Arezo, der zu Peñarol nach Uruguay zurückgekehrt war",
+      "sourceIds": [
+        "90min-gremio-move-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Article says Grêmio's target was a striker to replace Matías Arezo, who left to return to Peñarol (Uruguay)."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "The two added sentences explain why Grêmio went for him in 2025 and how big the January 2026 win was, context the top results do not give.",
+  "decision": "approve",
+  "summary": "Both sentences added in this revision are confirmed by their cited sources. The rest of the page was approved earlier and was not re-checked in this pass."
+}

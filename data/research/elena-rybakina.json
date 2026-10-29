@@ -1,0 +1,111 @@
+{
+  "worthWriting": true,
+  "reason": "Active world No. 1 with official WTA profile, a 2026 title in the news, and several press reports on the Ningbo final and her earlier major titles.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "wta-profile",
+      "url": "https://www.wtatennis.com/players/324166/-",
+      "title": "Elena Rybakina player profile",
+      "publisher": "WTA",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "wta-ningbo-preview",
+      "url": "https://www.wtatennis.com/news/4598107/elena-rybakina-vs-leylah-fernandez-everything-to-know-about-the-ningbo-final",
+      "title": "Elena Rybakina vs Leylah Fernandez: everything to know about the Ningbo final",
+      "publisher": "WTA",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "the-star-ningbo-final",
+      "url": "https://www.thestar.com.my/sport/tennis/2026/10/25/tennis-rybakina-brushes-aside-fernandez-to-retain-ningbo-crown",
+      "title": "Tennis-Rybakina brushes aside Fernandez to retain Ningbo crown",
+      "publisher": "The Star (Reuters)",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "qatar-tribune-ningbo",
+      "url": "https://www.qatar-tribune.com/article/261033/sports/rybakina-wins-ningbo-open-for-tour-leading-4th-title-of-season",
+      "title": "Rybakina wins Ningbo Open for tour-leading 4th title of season",
+      "publisher": "Qatar Tribune",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "tennis-wta-finals-2025",
+      "url": "https://www.tennis.com/news/articles/elena-rybakina-finishes-2025-resurgence-by-beating-world-no-1-aryna-sabalenka-to-win-wta-finals",
+      "title": "Elena Rybakina finishes 2025 resurgence by beating world No. 1 Aryna Sabalenka to win WTA Finals",
+      "publisher": "Tennis.com",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "nbc-boston-wimbledon-2022",
+      "url": "https://www.nbcboston.com/news/sports/elena-rybakina-captures-wimbledon-singles-title/2767801/",
+      "title": "Elena Rybakina captures Wimbledon singles title",
+      "publisher": "NBC Boston",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "wta-australian-open-2026",
+      "url": "https://www.wtatennis.com/news/4442117/47-aces-a-hefty-payday-and-more-from-rybakinas-memorable-two-weeks-down-under",
+      "title": "47 aces, a hefty payday and more from Rybakina's memorable two weeks down under",
+      "publisher": "WTA",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "emisoras-us-open-2026",
+      "url": "https://emisorasunidas.com/deportes/2026/09/13/rybakina-destrona-a-sabalenka-y-conquista-el-us-open-2026/",
+      "title": "Rybakina destrona a Sabalenka y conquista el US Open 2026",
+      "publisher": "Emisoras Unidas",
+      "type": "press",
+      "lang": "es"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1999-06-17",
+      "sources": [
+        "wta-profile"
+      ],
+      "note": "WTA profile shows Jun 17, 1999."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Moscow, Russia",
+      "sources": [
+        "wta-profile"
+      ],
+      "note": "WTA profile shows Moscow, Russia."
+    },
+    "nationality": {
+      "value": "KZ",
+      "sources": [
+        "wta-profile",
+        "the-star-ningbo-final",
+        "nbc-boston-wimbledon-2022"
+      ],
+      "note": "WTA profile shows KAZ; The Star calls her Kazakhstan's Elena Rybakina; NBC Boston describes her as a Russian athlete representing Kazakhstan since 2018."
+    }
+  },
+  "targetQueries": [
+    "who is elena rybakina",
+    "elena rybakina age",
+    "where is elena rybakina from",
+    "elena rybakina nationality",
+    "elena rybakina ranking",
+    "elena rybakina ningbo open 2026",
+    "elena rybakina titles 2026",
+    "elena rybakina wimbledon",
+    "elena rybakina wta finals"
+  ],
+  "gapNote": "Most English results are aggregator bios with conflicting ages, ranks and title counts. The WTA profile stats block shows 4 and its highlights list 15 singles titles; the page uses the 15 total only as stated by The Star and Qatar Tribune in October 2026. Facts used: birth date and place (WTA), Kazakhstan nationality, Wimbledon 2022 title (NBC Boston), 2025 WTA Finals title (Tennis.com), Ningbo 2026 result, tour-leading title count and No. 1 ranking as reported on 25-26 October 2026. Height, partner, coach and the 2026 majors are not in any source we opened, so they are left out."
+}

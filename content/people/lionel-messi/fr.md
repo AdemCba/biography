@@ -1,11 +1,10 @@
 ---
 title: Lionel Messi
 slug: lionel-messi
-metaTitle: 'Lionel Messi : âge, Ballon d''Or et carrière'
+metaTitle: 'Âge de Messi : {age} ans, de Rosario à la Coupe du monde'
 metaDescription: >-
-  Âge de Lionel Messi, sa ville natale de Rosario, ses huit Ballons d'Or, le
-  Mondial 2022, le prix Princesse des Asturies et son départ de l'équipe
-  d'Argentine.
+  Lionel Messi a {age} ans (né le 24 juin 1987 à Rosario). Champion du monde au
+  Qatar en 2022, il a dit adieu à la sélection argentine en octobre 2026.
 knownFor: Attaquant argentin et huit fois Ballon d'Or
 summary: >-
   Lionel Messi est né le 24 juin 1987 à Rosario, en Argentine. Il a remporté un
@@ -21,6 +20,10 @@ reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - âge de Lionel Messi
+  - âge de Messi
+  - quel est l'âge de Messi
+  - Messi a combien d'âge
+  - Messi à quel âge
   - où est né Messi
   - combien de Ballons d'Or Messi a-t-il
   - Messi retraite équipe d'Argentine
@@ -46,10 +49,30 @@ faq:
       Oui. Il a annoncé sa retraite le 31 août 2026, et son dernier match fut
       une victoire 3-0 face au Bénin le 6 octobre 2026 [s:reuters-factbox-2026]
       [s:worldsoccertalk-retirement] [s:intermiami-player].
+  - q: Quel est l'âge de Messi ?
+    a: >-
+      Il a 39 ans au 29 octobre 2026. Il est né le 24 juin 1987
+      [s:intermiami-player] [s:wikidata-messi].
+  - q: Messi a combien d'âge ?
+    a: >-
+      39 ans en octobre 2026. Son âge change chaque 24 juin, date de son
+      anniversaire [s:intermiami-player].
+  - q: Messi à quel âge a-t-il rejoint le FC Barcelone ?
+    a: >-
+      Il a 13 ans en 2000, année où il rejoint le FC Barcelone
+      [s:reuters-factbox-2026]. Il dispute son premier match avec l'équipe
+      première à 16 ans, en 2003 [s:reuters-factbox-2026].
 autoReviews: 2
 publishedAt: '2026-10-26'
+updatedAt: '2026-10-29'
 ---
 Lionel Messi a disputé son dernier match avec l'Argentine le 6 octobre 2026, une victoire 3-0 sur le Bénin à Buenos Aires, où il a marqué [s:worldsoccertalk-retirement] [s:intermiami-player]. Il avait auparavant remporté un record de huit Ballons d'Or et soulevé la Coupe du monde au Qatar en 2022 [s:reuters-ballon-dor-2023] [s:si-2022-final].
+
+## Quel âge a Lionel Messi ?
+
+Lionel Messi a 39 ans au 29 octobre 2026, né le 24 juin 1987 à Rosario, en Argentine [s:intermiami-player] [s:wikidata-messi]. La fiche de l'Inter Miami affiche la même date de naissance et le même âge [s:intermiami-player].
+
+Il avait 13 ans quand il rejoint le FC Barcelone en 2000 [s:reuters-factbox-2026], et 16 ans lorsqu'il joue son premier match avec l'équipe première, en 2003 [s:reuters-factbox-2026].
 
 ## De Rosario au Barça
 

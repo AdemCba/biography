@@ -13,7 +13,7 @@ summary: >-
   Porchetto entdeckte ihn 1974, und Anfang der 1980er-Jahre begann seine
   Solokarriere. 2026 gehörte er zu den 24 Teilnehmern von MasterChef Celebrity
   bei Telefe und schied am 27. Oktober als Vierter aus.
-status: review
+status: published
 risk: medium
 reviewedAt: '2026-10-29'
 reviewBy: '2027-04-29'
@@ -33,7 +33,10 @@ faq:
       Er wurde am 8. Juni 1957 geboren und ist am 29. Oktober 2026 somit 69
       Jahre alt.
   - q: Woher kommt Alejandro Lerner?
-    a: Er wurde am 8. Juni 1957 in Buenos Aires in Argentinien geboren.
+    a: >-
+      Er wurde am 8. Juni 1957 in Buenos Aires in Argentinien geboren. 1985
+      reiste er in die Vereinigten Staaten, um Musik und Jazz zu studieren, und
+      später wohnte er rund acht Jahre in Hotels dort.
   - q: Welche Lieder von Alejandro Lerner sind am bekanntesten?
     a: >-
       "Todo a pulmón", 1983 als Single erschienen, und "Juntos para siempre" von
@@ -43,7 +46,8 @@ faq:
     a: >-
       Ja. Er war einer der 24 Teilnehmer der Staffel 2026 bei Telefe, moderiert
       von Wanda Nara, und schied am 27. Oktober 2026 als Vierter aus.
-autoReviews: 1
+autoReviews: 3
+publishedAt: '2026-10-29'
 ---
 Alejandro Lerner wurde am 8. Juni 1957 in Buenos Aires geboren [s:buenamusica-bio-es]. Im September 2026 kündigte Telefe die 24 Teilnehmer der neuen Staffel von MasterChef Celebrity an, und Lerner war einer von ihnen [s:senal-masterchef-24-2026].
 
@@ -57,11 +61,11 @@ Die ersten Solojahre brachten Erfolge: "Todo a pulmón" erschien 1983 als Single
 
 ## Alben, Hotelzimmer und "El poder de los sueños"
 
-1990 wurde "Juntos para siempre" das Titelthema der Fernsehserie La banda del Golden Rocket, und das Album Amor infinito erschien 1993 [s:buenamusica-bio-es]. Eine Reportage der Zeitung La Nación vom November 2001 beschrieb ein Leben zwischen Argentinien und den Vereinigten Staaten. Rund acht Jahre hatte er bei seinen US-Aufenthalten in Hotels gewohnt, und eines seiner Alben trägt den Namen Magic hotel, nach einem dieser Hotels [s:lanacion-gran-rex-2001]. Außerdem schrieb er "El poder de los sueños", ein Lied, das der Radiosender von Disney für ganz Lateinamerika in Auftrag gegeben hatte [s:lanacion-gran-rex-2001].
+1990 wurde "Juntos para siempre" das Titelthema der Fernsehserie La banda del Golden Rocket, und das Album Amor infinito erschien 1993 [s:buenamusica-bio-es]. Eine Reportage der Zeitung La Nación vom November 2001 beschrieb ein Leben zwischen Argentinien und den Vereinigten Staaten. Rund acht Jahre hatte er bei seinen US-Aufenthalten in Hotels gewohnt, und eines seiner Alben trägt den Namen Magic hotel, nach einem dieser Hotels [s:lanacion-gran-rex-2001]. Die Zeitung nennt außerdem "El poder de los sueños", ein Lied, das beim Radiosender von Disney für ganz Lateinamerika läuft [s:lanacion-gran-rex-2001].
 
 In den USA wurde er 2002 bekannter, als er "Hoy es adiós" mit Carlos Santana sang [s:buenamusica-bio-es].
 
-Etwa vier Jahre vor diesem Artikel hatte er an einem zehntägigen Songwriting-Treffen in einem französischen Schloss teilgenommen, zu dem rund zwanzig Komponisten kamen. Daraus entstand "Si quieres saber quien soy", das den Titel seines damaligen Albums gab [s:lanacion-gran-rex-2001]. Im November 2001 stand er zwei Abende lang im Teatro Gran Rex auf der Bühne, gemeinsam mit Gustavo Santaolalla, David Lebón und Sandra Mihanovich. Er sagte, dass er nicht jedes Lied allein singen wolle [s:lanacion-gran-rex-2001]. Zu seinen Mitarbeitern zählten Armando Manzanero, Luis Miguel und Carole King [s:lanacion-gran-rex-2001].
+Zehn Tage lang war er mit rund zwanzig Komponisten aus aller Welt zusammen. Der Titel "Si quieres saber quien soy" war damals der seines neuesten Albums [s:lanacion-gran-rex-2001]. Im November 2001 stand er zwei Abende lang im Teatro Gran Rex auf der Bühne, gemeinsam mit Gustavo Santaolalla, David Lebón und Sandra Mihanovich. Zu seinen Mitarbeitern zählten Armando Manzanero, Luis Miguel und Carole King [s:lanacion-gran-rex-2001].
 
 ## Alben seit 1999
 
@@ -81,4 +85,4 @@ Lerner schied am Dienstag, dem 27. Oktober 2026, als Vierter aus MasterChef Cele
 
 Er führte die Fehler auf Nervosität zurück: Er habe einen Nervenzusammenbruch gehabt und Eiweiß und Eigelb verwechselt [s:canal26-eliminado-2026-10-27] [s:rionegro-lerner-eliminado-2026]. Die Jury bemängelte, der Teig sei nicht durchgebacken gewesen, die Zitronencreme habe die falsche Konsistenz gehabt und die Mengen hätten nicht gestimmt [s:rionegro-lerner-eliminado-2026]. Bei der Präsentation seines Tellers sagte er, er sei hässlich, aber seiner [s:canal26-eliminado-2026-10-27].
 
-Im Abschied sagte er, er fühle sich wieder wie ein Schüler. Seine Mitstreiter verabschiedeten ihn mit Umarmungen und Applaus und mit dem Vortrag eines seiner Lieder [s:rionegro-lerner-eliminado-2026].
+Im Abschied sagte er, er fühle sich wieder wie ein Schüler. Seine Mitstreiter verabschiedeten ihn mit Umarmungen und Applaus und mit dem Vortrag eines seiner Lieder [s:rionegro-lerner-eliminado-2026]. Auch die offizielle Telefe-Seite greift den Abschied auf, mit einer Schlagzeile, die ihn zitiert: Er fühle sich wieder wie in der Schulzeit [s:telefe-masterchef-celebrity-2026].

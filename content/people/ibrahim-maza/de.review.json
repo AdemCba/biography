@@ -1,0 +1,232 @@
+{
+  "date": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Maza ist 20 Jahre alt, geboren am 24. November 2005 (Summary, FAQ, Body)",
+      "sourceIds": [
+        "bundesliga-player",
+        "fotmob-player"
+      ],
+      "verdict": "confirmed",
+      "note": "Bundesliga-Profil: 24.11.2005, Alter 20; FotMob: November 24, 2005, Alter 20."
+    },
+    {
+      "claim": "Geboren in Berlin",
+      "sourceIds": [
+        "bayer04-transfer"
+      ],
+      "verdict": "confirmed",
+      "note": "Vereinsmitteilung: 'the German-Algerian born in Berlin'."
+    },
+    {
+      "claim": "Spielt für Algerien; Deutsch-Algerier",
+      "sourceIds": [
+        "bayer04-transfer",
+        "bundesliga-player"
+      ],
+      "verdict": "confirmed",
+      "note": "Verein: German-Algerian, 'Algeria international'; Bundesliga listet Algerien (DZA) und Deutschland (DEU)."
+    },
+    {
+      "claim": "Kommt aus der Nachwuchsabteilung von Hertha BSC; Wechsel nach Leverkusen im Sommer 2025",
+      "sourceIds": [
+        "bayer04-young-talent"
+      ],
+      "verdict": "confirmed",
+      "note": "'moved from the youth section at Hertha Berlin to Leverkusen in the summer of 2025'."
+    },
+    {
+      "claim": "Verpflichtung von Hertha BSC, Vertrag bis 30. Juni 2030; Bekanntgabe 1. Mai 2025",
+      "sourceIds": [
+        "bayer04-transfer"
+      ],
+      "verdict": "confirmed",
+      "note": "'signed a contract to 30 June 2030'; Artikel datiert 1.05.2025."
+    },
+    {
+      "claim": "44 Pflichtspiele für Leverkusen in allen Wettbewerben in der vergangenen Saison",
+      "sourceIds": [
+        "bayer04-young-talent"
+      ],
+      "verdict": "confirmed",
+      "note": "'made 44 appearances ... across all competitions'."
+    },
+    {
+      "claim": "27. Mai 2023 in Wolfsburg eingewechselt zur Halbzeit (46. Minute), Ausgleich in der 55. Minute, Hertha gewinnt 2:1",
+      "sourceIds": [
+        "hertha-wolfsburg-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Spielbericht: 27.05.2023, Wolfsburg 1-2 Hertha, Einwechslung 46., Tor 55."
+    },
+    {
+      "claim": "Zitat zu den 'besten Möglichkeiten' bei Hertha in der zweiten Liga; Hertha in der 2. Bundesliga",
+      "sourceIds": [
+        "bayer04-transfer"
+      ],
+      "verdict": "confirmed",
+      "note": "Zitat vorhanden; Verein nennt Hertha 'Bundesliga 2 side'."
+    },
+    {
+      "claim": "Simon Rolfes: 'derzeit einen der interessantesten jungen offensiven Spieler'; Sportdirektor",
+      "sourceIds": [
+        "bayer04-transfer"
+      ],
+      "verdict": "confirmed",
+      "note": "Zitat vorhanden; Artikel nennt Rolfes 'sporting managing director'."
+    },
+    {
+      "claim": "Leverkusen gibt Verpflichtung am 1. Mai 2025 bekannt",
+      "sourceIds": [
+        "bayer04-transfer"
+      ],
+      "verdict": "confirmed",
+      "note": "Artikel datiert 1.05.2025."
+    },
+    {
+      "claim": "Spieler des Spiels beim 1:0-Auswärtssieg in der Champions League bei Benfica",
+      "sourceIds": [
+        "bayer04-young-talent"
+      ],
+      "verdict": "confirmed",
+      "note": "1-0 bei Benfica; 'Maza was also voted Player of the Match'."
+    },
+    {
+      "claim": "Africa Soccer: fünf Tore in 45 Spielen für Leverkusen bis September 2026",
+      "sourceIds": [
+        "africasoccer-mazadona"
+      ],
+      "verdict": "confirmed",
+      "note": "Im Artikel genannt; Datum 11. September 2026."
+    },
+    {
+      "claim": "In Algerien 'Mazadona' genannt, Anspielung auf Maradona",
+      "sourceIds": [
+        "africasoccer-mazadona"
+      ],
+      "verdict": "confirmed",
+      "note": "Im Artikel genannt."
+    },
+    {
+      "claim": "13 Spiele für U18, U19 und U20 Deutschlands, dann 2024 Entscheidung für Algerien",
+      "sourceIds": [
+        "bayer04-transfer"
+      ],
+      "verdict": "confirmed",
+      "note": "'13 appearances for the Germany U18, U19 and U20 teams'; 'opting to play for Algeria in 2024'."
+    },
+    {
+      "claim": "FotMob führt seit Oktober 2024 24 Spiele und 3 Tore für Algerien",
+      "sourceIds": [
+        "fotmob-player"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob nennt Matches und Goals, Zeitraum Oct 2024 - now."
+    },
+    {
+      "claim": "Africa Soccer: 21 Spiele und zwei Tore im Profil vom September 2026",
+      "sourceIds": [
+        "africasoccer-mazadona"
+      ],
+      "verdict": "confirmed",
+      "note": "21 appearances, two goals; Artikel vom 11.09.2026."
+    },
+    {
+      "claim": "Algerien bei der WM 2026, Maza in allen vier Partien in der Startelf",
+      "sourceIds": [
+        "bayer04-young-talent"
+      ],
+      "verdict": "confirmed",
+      "note": "'starting all four matches'."
+    },
+    {
+      "claim": "Zitate vor Argentinien: 'Das erste Spiel ist sehr wichtig gegen Argentinien'; 'Ruhe wird der Schlüssel zum Erfolg...'; 'Wir werden Messi schlagen, so Gott will'",
+      "sourceIds": [
+        "africasoccer-argentina"
+      ],
+      "verdict": "confirmed",
+      "note": "Alle drei Zitate im Original vorhanden (Artikel vom 8. Juni 2026); Übersetzung sinngemäß."
+    },
+    {
+      "claim": "Auf der Shortlist mit zehn Spielern für Men's Young Talent of the Year",
+      "sourceIds": [
+        "bayer04-young-talent"
+      ],
+      "verdict": "confirmed",
+      "note": "'ten-player shortlist'."
+    },
+    {
+      "claim": "Lamine Yamal und Yan Diomande auf derselben Liste",
+      "sourceIds": [
+        "bayer04-young-talent"
+      ],
+      "verdict": "confirmed",
+      "note": "Beide genannt."
+    },
+    {
+      "claim": "Bei der Ballon-d'Or-Gala 2026 im London Palladium",
+      "sourceIds": [
+        "bayer04-young-talent"
+      ],
+      "verdict": "confirmed",
+      "note": "'at the London Palladium ... 2026 Ballon d'Or awards ceremony'."
+    },
+    {
+      "claim": "Africa Soccer: erste Ballon-d'Or-Nominierung",
+      "sourceIds": [
+        "africasoccer-mazadona"
+      ],
+      "verdict": "confirmed",
+      "note": "'first Ballon d'Or nomination'."
+    },
+    {
+      "claim": "10. Oktober 2026, GetFootballNewsGermany unter Berufung auf Sky Deutschland: Verlängerung über 2030 hinaus; Arsenal, Tottenham, Chelsea, Aston Villa, Manchester City; kein PSG",
+      "sourceIds": [
+        "leverkusen-talks-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Datum, Quelle, Clubs und fehlendes PSG bestätigt."
+    },
+    {
+      "claim": "Bulinews unter Berufung auf Sky Deutschland: PSG beobachtet genau, Interesse gegenüber Beratern, Januar-Wechsel in Betracht",
+      "sourceIds": [
+        "psg-interest-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Bestätigt. Die Seite trägt kein sichtbares Datum; der Artikel sollte es nicht nennen."
+    },
+    {
+      "claim": "Bundesliga-Profil: 180 cm, Trikotnummer 30",
+      "sourceIds": [
+        "bundesliga-player"
+      ],
+      "verdict": "confirmed",
+      "note": "180 cm, Nummer 30."
+    },
+    {
+      "claim": "Bundesliga-Profil: 7 Einsätze, 2 Tore, 2 Vorlagen in 2026/27",
+      "sourceIds": [
+        "bundesliga-player"
+      ],
+      "verdict": "confirmed",
+      "note": "Saison 2026/2027: 7, 2, 2."
+    },
+    {
+      "claim": "FAQ: Bayer 04 beschreibt ihn als Deutsch-Algerier; 2024 Entscheidung für Algerien nach 13 Spielen in deutschen Jugendteams",
+      "sourceIds": [
+        "bayer04-transfer"
+      ],
+      "verdict": "confirmed",
+      "note": "Stimmt mit der Vereinsmitteilung überein."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Gibt eine datierte Chronologie, Zitate aus Vereins- und Pressequellen, benennt die widersprüchlichen Zahlen je Quelle und trennt die PSG-Berichte von bestätigten Wechseln.",
+  "decision": "approve",
+  "summary": "Alle Angaben sind belegt. Die frühere Formulierung Länderspiele ist jetzt Spiele."
+}

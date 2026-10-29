@@ -1,0 +1,129 @@
+{
+  "id": "elena-rybakina",
+  "name": "Elena Rybakina",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1999-06-17",
+      "sources": [
+        "wta-profile"
+      ],
+      "note": "WTA profile shows Jun 17, 1999."
+    },
+    "birthPlace": {
+      "value": "Moscow, Russia",
+      "sources": [
+        "wta-profile"
+      ],
+      "note": "WTA profile shows Moscow, Russia."
+    },
+    "nationality": {
+      "value": [
+        "KZ"
+      ],
+      "sources": [
+        "wta-profile",
+        "the-star-ningbo-final",
+        "nbc-boston-wimbledon-2022"
+      ],
+      "note": "WTA profile shows KAZ; The Star calls her Kazakhstan's Elena Rybakina; NBC Boston describes her as a Russian athlete representing Kazakhstan since 2018."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "wta-profile",
+      "url": "https://www.wtatennis.com/players/324166/-",
+      "title": "Elena Rybakina player profile",
+      "publisher": "WTA",
+      "type": "league-or-federation",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "wta-ningbo-preview",
+      "url": "https://www.wtatennis.com/news/4598107/elena-rybakina-vs-leylah-fernandez-everything-to-know-about-the-ningbo-final",
+      "title": "Elena Rybakina vs Leylah Fernandez: everything to know about the Ningbo final",
+      "publisher": "WTA",
+      "type": "league-or-federation",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "the-star-ningbo-final",
+      "url": "https://www.thestar.com.my/sport/tennis/2026/10/25/tennis-rybakina-brushes-aside-fernandez-to-retain-ningbo-crown",
+      "title": "Tennis-Rybakina brushes aside Fernandez to retain Ningbo crown",
+      "publisher": "The Star (Reuters)",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "qatar-tribune-ningbo",
+      "url": "https://www.qatar-tribune.com/article/261033/sports/rybakina-wins-ningbo-open-for-tour-leading-4th-title-of-season",
+      "title": "Rybakina wins Ningbo Open for tour-leading 4th title of season",
+      "publisher": "Qatar Tribune",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "tennis-wta-finals-2025",
+      "url": "https://www.tennis.com/news/articles/elena-rybakina-finishes-2025-resurgence-by-beating-world-no-1-aryna-sabalenka-to-win-wta-finals",
+      "title": "Elena Rybakina finishes 2025 resurgence by beating world No. 1 Aryna Sabalenka to win WTA Finals",
+      "publisher": "Tennis.com",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "nbc-boston-wimbledon-2022",
+      "url": "https://www.nbcboston.com/news/sports/elena-rybakina-captures-wimbledon-singles-title/2767801/",
+      "title": "Elena Rybakina captures Wimbledon singles title",
+      "publisher": "NBC Boston",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "wta-australian-open-2026",
+      "url": "https://www.wtatennis.com/news/4442117/47-aces-a-hefty-payday-and-more-from-rybakinas-memorable-two-weeks-down-under",
+      "title": "47 aces, a hefty payday and more from Rybakina's memorable two weeks down under",
+      "publisher": "WTA",
+      "type": "league-or-federation",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "emisoras-us-open-2026",
+      "url": "https://emisorasunidas.com/deportes/2026/09/13/rybakina-destrona-a-sabalenka-y-conquista-el-us-open-2026/",
+      "title": "Rybakina destrona a Sabalenka y conquista el US Open 2026",
+      "publisher": "Emisoras Unidas",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "es"
+    },
+    {
+      "id": "us-open-2026-ap",
+      "url": "https://newschannel9.com/news/nation-world/rybakina-tops-sabalenka-to-win-us-open-claim-no-1-ranking",
+      "title": "Rybakina tops Sabalenka to win US Open, claim No. 1 ranking",
+      "publisher": "NewsChannel 9 (AP)",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "wta-ningbo-2025",
+      "url": "https://www.wtatennis.com/es/news/4385270/perfect-10-rybakina-defeats-alexandrova-to-claim-milestone-ningbo-title",
+      "title": "Perfect 10: Rybakina defeats Alexandrova to claim milestone Ningbo title",
+      "publisher": "WTA",
+      "type": "league-or-federation",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    }
+  ]
+}

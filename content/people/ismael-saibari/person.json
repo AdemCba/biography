@@ -1,0 +1,114 @@
+{
+  "id": "ismael-saibari",
+  "name": "Ismael Saibari",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 3,
+  "wikidata": "Q98784065",
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "2001-01-28",
+      "sources": [
+        "fotmob-saibari",
+        "fotmob-saibari-fr",
+        "footmercato-saibari"
+      ],
+      "note": "Same date on FotMob (English and French pages) and Footmercato. Bayern's own profile was not reachable."
+    },
+    "birthPlace": {
+      "value": "Terrassa, Spain",
+      "sources": [
+        "footmercato-saibari"
+      ],
+      "note": "Only Footmercato gives a birthplace among the sources opened. FotMob does not list one."
+    },
+    "nationality": {
+      "value": [
+        "MA"
+      ],
+      "sources": [
+        "fotmob-saibari",
+        "fotmob-saibari-fr",
+        "bundesliga-saibari-favourite-position"
+      ],
+      "note": "FotMob lists Morocco as country, Bundesliga calls him a Morocco international. Footmercato also lists Belgium as a second nationality. That is not confirmed by a federation source, so it is left out of the page."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "africasoccer-union-7-0",
+      "url": "https://africasoccer.com/?p=618660",
+      "title": "Bayern Munich thrash Union Berlin 7-0 as Ismael Saibari scores first goal",
+      "publisher": "Africa Soccer",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "hespress-can-2025-cameroon",
+      "url": "https://fr.hespress.com/457682-can-2025-ismael-saibari-elu-meilleur-joueur-face-au-cameroun.html",
+      "title": "CAN 2025 : Ismael Saibari élu meilleur joueur face au Cameroun",
+      "publisher": "Hespress",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "fr"
+    },
+    {
+      "id": "bundesliga-saibari-favourite-position",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/bayern-munich-ismael-saibari-favourite-position-ten-38614",
+      "title": "Ismael Saibari unveiled as Bayern Munich player",
+      "publisher": "Bundesliga",
+      "type": "league-or-federation",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "thesportsencounter-bayern-magdeburg-6-1",
+      "url": "https://www.thesportsencounter.com/2026/10/28/bayern-magdeburg-6-1-olise-davies-kane-dfb-pokal-2026-copy/",
+      "title": "Kane Watches as Olise, Davies Fire Bayern Past Magdeburg 6-1",
+      "publisher": "The Sports Encounter",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "fotmob-saibari",
+      "url": "https://www.fotmob.com/players/1180288/ismael-saibari",
+      "title": "Ismael Saibari player profile",
+      "publisher": "FotMob",
+      "type": "database",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "fotmob-saibari-fr",
+      "url": "https://www.fotmob.com/fr/players/1180288",
+      "title": "Ismael Saibari, profil du joueur",
+      "publisher": "FotMob",
+      "type": "database",
+      "accessed": "2026-10-29",
+      "lang": "fr"
+    },
+    {
+      "id": "footmercato-saibari",
+      "url": "https://www.footmercato.net/joueur/ismael-saibari-ben-el-basra/",
+      "title": "Ismael Saibari, fiche joueur",
+      "publisher": "Footmercato",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "fr"
+    },
+    {
+      "id": "omroepbrabant-saibari-psv-sale",
+      "url": "https://www.omroepbrabant.nl/nieuws/6015711/psv-verkoopt-saibari-definitief-voor-recordbedrag-aan-bayern-munchen",
+      "title": "PSV verkoopt Saibari definitief voor recordbedrag aan Bayern München",
+      "publisher": "Omroep Brabant",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "nl"
+    }
+  ]
+}

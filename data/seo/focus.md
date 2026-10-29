@@ -18,9 +18,9 @@ For each page, edit only that language's file:
 
 ## Pages
 
-- [ ] de/alexia-putellas (349 impressions, 0 clicks, position 10.4): alexia putellas alter, putellas wechsel, putellas alter, putellas gehalt, wo spielt alexia putellas, alexia putellas wechsel, alexia putellas gehalt, alexia putellas
-- [ ] en/alexia-putellas (122 impressions, 0 clicks, position 11.1): alexia putellas club now, alexia putellas, alexia putellas age, alexia putellas club, alexia putellas current club, alexia putellas position in barcelona, where is alexia putellas playing now, where does putellas play
-- [ ] fr/lionel-messi (113 impressions, 0 clicks, position 10.8): age de messi, messi age, age messi, l'âge de lionel messi, quel est l'âge de messi, messi à quel âge, l'age de messi, messi a combien d'âge
+- [x] de/alexia-putellas (349 impressions, 0 clicks, position 10.4): alexia putellas alter, putellas wechsel, putellas alter, putellas gehalt, wo spielt alexia putellas, alexia putellas wechsel, alexia putellas gehalt, alexia putellas (done 2026-10-29)
+- [x] en/alexia-putellas (122 impressions, 0 clicks, position 11.1): alexia putellas club now, alexia putellas, alexia putellas age, alexia putellas club, alexia putellas current club, alexia putellas position in barcelona, where is alexia putellas playing now, where does putellas play (done 2026-10-29)
+- [x] fr/lionel-messi (113 impressions, 0 clicks, position 10.8): age de messi, messi age, age messi, l'âge de lionel messi, quel est l'âge de messi, messi à quel âge, l'age de messi, messi a combien d'âge (done 2026-10-29)
 - [ ] de/aitana-bonmati (85 impressions, 1 clicks, position 6.9): aitana bonmatí ballon d'or, aitana bonmatí ballon d'or 2026, aitana bonmatí ballon d or, wie viele ballon d'ors hat bonmati, aitana bonmatí wie viele ballon d or, aitana bonmatí, bonmati ballon d'or 2026, bonmati 2026
 - [ ] fr/yan-diomande (78 impressions, 0 clicks, position 10.5): yan diomandé âge, origine de yan diomande, diomande a quel age, nationalite diomande, age de diomande, yan diamondé, yan diomandé est de quelle ethnie, diomande age
 - [ ] en/kylian-mbappe (73 impressions, 0 clicks, position 15.6): kylian mbappé, mbappe, kylian mbappé age, mbappé, mbappe age, mbappé age, how old is mbappe, kylian mbappe

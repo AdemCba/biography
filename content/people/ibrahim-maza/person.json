@@ -1,0 +1,124 @@
+{
+  "id": "ibrahim-maza",
+  "name": "Ibrahim Maza",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 3,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "2005-11-24",
+      "sources": [
+        "bundesliga-player",
+        "fotmob-player"
+      ],
+      "note": "Bundesliga profile and FotMob both give 24 November 2005. He was 20 on 29 October 2026."
+    },
+    "birthPlace": {
+      "value": "Berlin",
+      "sources": [
+        "bayer04-transfer"
+      ],
+      "note": "Club announcement calls him the German-Algerian born in Berlin. The Bundesliga profile gives no birthplace."
+    },
+    "nationality": {
+      "value": [
+        "DZ",
+        "DE"
+      ],
+      "sources": [
+        "bundesliga-player",
+        "bayer04-transfer"
+      ],
+      "note": "Bundesliga profile lists Algeria and Germany. Club says he is German-Algerian and opted for Algeria in 2024 after 13 appearances for Germany U18 to U20."
+    }
+  },
+  "related": [
+    "lamine-yamal",
+    "yan-diomande"
+  ],
+  "sources": [
+    {
+      "id": "bayer04-transfer",
+      "url": "https://www.bayer04.de/en-us/news/bayer04/bayer-04-sign-maza-from-hertha-berlin",
+      "title": "Bayer 04 sign Maza from Hertha Berlin",
+      "publisher": "Bayer 04 Leverkusen",
+      "type": "official",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "bayer04-young-talent",
+      "url": "https://www.bayer04.de/en-us/news/bayer04/ballon-dor-2026-maza-nominated-as-mens-young-talent-of-the-year",
+      "title": "Ballon d'Or 2026: Maza nominated as Men's Young Talent of the Year",
+      "publisher": "Bayer 04 Leverkusen",
+      "type": "official",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "bundesliga-player",
+      "url": "https://www.bundesliga.com/en/2bundesliga/player/ibrahim-maza",
+      "title": "Ibrahim Maza player profile",
+      "publisher": "Bundesliga",
+      "type": "league-or-federation",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "fotmob-player",
+      "url": "https://www.fotmob.com/players/1457626",
+      "title": "Ibrahim Maza player profile",
+      "publisher": "FotMob",
+      "type": "database",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "leverkusen-talks-report",
+      "url": "https://www.getfootballnewsgermany.com/2026/bayer-leverkusen-in-talks-with-ibrahim-maza-over-contract-extension/",
+      "title": "Bayer Leverkusen in talks with Ibrahim Maza over contract extension",
+      "publisher": "GetFootballNewsGermany",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "psg-interest-report",
+      "url": "https://bulinews.com/psg-weigh-january-move-for-leverkusen-star",
+      "title": "PSG weigh January move for Leverkusen star",
+      "publisher": "Bulinews",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "hertha-wolfsburg-2023",
+      "url": "https://herthabsc.com/en/news/2023/05/match-report-wobbsc-2223",
+      "title": "Match report: Wolfsburg vs Hertha BSC, 2022/23",
+      "publisher": "Hertha BSC",
+      "type": "official",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "africasoccer-argentina",
+      "url": "https://africasoccer.com/?p=547172",
+      "title": "World Cup 2026: Ibrahim Maza cautions Algeria against Argentina's mind games",
+      "publisher": "Africa Soccer",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "africasoccer-mazadona",
+      "url": "https://africasoccer.com/ibrahim-maza-algerias-mazadona-earns-first-ballon-dor-nomination/",
+      "title": "Ibrahim Maza: Algeria's 'Mazadona' earns first Ballon d'Or nomination",
+      "publisher": "Africa Soccer",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    }
+  ]
+}

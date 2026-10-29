@@ -3,13 +3,10 @@ title: 'Noah Wyle: ER, The Pitt and Sexiest Man Alive 2026'
 slug: noah-wyle
 metaTitle: 'Noah Wyle: Sexiest Man Alive 2026, ER and The Pitt'
 metaDescription: >-
-  Noah Wyle, People's 2026 Sexiest Man Alive, on his ER years, two Emmys for The
-  Pitt, the timing of season 3 and his earlier TV roles.
+  People named Noah Wyle its 2026 Sexiest Man Alive on 27 October 2026, weeks after his second lead actor Emmy for The Pitt.
 knownFor: Dr. John Carter in ER and Dr. Robby in The Pitt
 summary: >-
-  People named Noah Wyle its 2026 Sexiest Man Alive on 27 October 2026. He is
-  best known for playing Dr. John Carter on ER and Dr. Michael "Robby"
-  Robinavitch on The Pitt, the role that won him two lead actor Emmys.
+  People named Noah Wyle its 2026 Sexiest Man Alive on 27 October 2026. He is best known for playing Dr. John Carter on ER and Dr. Michael "Robby" Robinavitch on The Pitt, the role that won him two lead actor Emmys in 2025 and 2026.
 status: published
 risk: medium
 reviewedAt: '2026-10-27'
@@ -18,33 +15,37 @@ author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
-  - Noah Wyle Sexiest Man Alive 2026
-  - how old is Noah Wyle
-  - Noah Wyle The Pitt season 3 release date
-  - Noah Wyle Emmy wins
-  - Noah Wyle ER Dr John Carter
-  - Noah Wyle movies and TV shows
-  - Noah Wyle Falling Skies
-  - Noah Wyle Librarian Flynn Carsen
+  - noah wyle sexiest man alive
+  - noah wyle age
+  - noah wyle er
+  - noah wyle the pitt
+  - noah wyle emmy
+  - noah wyle movies and tv shows
+  - noah wyle a few good men
+  - noah wyle donnie darko
 faq:
   - q: How old is Noah Wyle?
-    a: 'Noah Wyle was born on 4 June 1971, so he turned 55 in 2026.'
+    a: 'Noah Wyle was born on 4 June 1971, so he turned 55 in 2026 [s:encyclopedia-wyle].'
+  - q: When was Noah Wyle named Sexiest Man Alive?
+    a: 'People named him its 2026 Sexiest Man Alive on 27 October 2026 [s:abc-sexiest-2026].'
   - q: When does season 3 of The Pitt premiere?
     a: >-
-      HBO Max has not announced an exact date. Trade reports point to January
-      2027.
+      HBO Max has not announced an exact date [s:tvline-season3]. Trade reports point to January 2027 [s:variety-au-season3-trailer].
   - q: How many Emmys has Noah Wyle won?
     a: >-
-      He has won two as an actor, both for Outstanding Lead Actor in a Drama
-      Series for The Pitt, in 2025 and 2026.
+      He has won two as an actor, both for Outstanding Lead Actor in a Drama Series for The Pitt, in 2025 and 2026 [s:variety-au-emmy-2025][s:variety-au-emmy-2026].
   - q: What was Noah Wyle's role on ER?
     a: >-
-      He played Dr. John Carter from 1994, and was nominated for a supporting
-      actor Emmy every year from 1995 to 1999.
+      He played Dr. John Carter from 1994, and was nominated for a supporting actor Emmy every year from 1995 to 1999 [s:yahoo-sexiest-2026][s:tva-er].
 autoReviews: 2
 publishedAt: '2026-10-27'
+updatedAt: '2026-10-29'
 ---
-People named Noah Wyle its 2026 Sexiest Man Alive on 27 October 2026, about a month after he won his second straight Emmy for the lead role in The Pitt [s:abc-sexiest-2026][s:tva-the-pitt]. He said the news "sounded like a prank" when he first heard it [s:yahoo-sexiest-2026]. "Just not in a million years did I think this would be an honor bestowed on me in this lifetime," he said [s:abc-sexiest-2026].
+Noah Wyle is in the news after People named him its 2026 Sexiest Man Alive on 27 October 2026 [s:abc-sexiest-2026]. He is best known for two medical dramas: ER, where he played Dr. John Carter [s:tva-er], and The Pitt, where he plays Dr. Michael "Robby" Robinavitch [s:abc-sexiest-2026].
+
+## October 2026
+
+People published the announcement on Tuesday, 27 October 2026 [s:yahoo-sexiest-2026]. It came about six weeks after Wyle won his second straight lead actor Emmy for The Pitt [s:variety-au-emmy-2026]. He said the news "sounded like a prank" when he first heard it [s:yahoo-sexiest-2026]. "Just not in a million years did I think this would be an honor bestowed on me in this lifetime," he said [s:abc-sexiest-2026].
 
 ## From ER to The Pitt
 
@@ -52,7 +53,7 @@ Wyle's first major role was Dr. John Carter on ER, which he began playing in 199
 
 ## Two Emmys for The Pitt
 
-The Pitt debuted on HBO Max in January 2025, and it was renewed for a second season that February [s:variety-au-emmy-2025]. Wyle plays Dr. Michael "Robby" Robinavitch in the HBO Max medical drama [s:abc-sexiest-2026][s:shoot-icg-2026]. He won the Emmy for Outstanding Lead Actor in a Drama Series for the role in 2025 and again in 2026 [s:tva-the-pitt]. The 2025 win was his first acting Emmy. In that speech he said being in the category was "the honor of a lifetime" and told shift workers, "if anybody is going on shift tonight or coming off shift tonight, thank you for being in that job" [s:variety-au-emmy-2025]. The series also won Outstanding Drama Series that year [s:tva-the-pitt]. In 2026 he beat Mark Ruffalo, Gary Oldman, Sterling K. Brown and Rufus Sewell [s:variety-au-emmy-2026]. The show swept the top lead actor and drama series awards at the 2025 Primetime Emmys, the 2026 Golden Globes and the 2026 Critics Choice Awards [s:shoot-icg-2026]. Variety noted that he is the fifth actor to win the lead drama Emmy for a show's first two seasons, and the first since Bryan Cranston in 2009 [s:variety-au-emmy-2026]. In his speech he said, "This is all I've ever wanted to do" [s:variety-au-emmy-2026]. He also received a 2026 nomination for Outstanding Directing for a Drama Series [s:tva-the-pitt].
+The Pitt debuted on HBO Max in January 2025, and it was renewed for a second season that February [s:variety-au-emmy-2025]. Wyle plays Dr. Michael "Robby" Robinavitch in the HBO Max medical drama [s:abc-sexiest-2026][s:shoot-icg-2026]. He won the Emmy for Outstanding Lead Actor in a Drama Series for the role in 2025 and again in 2026 [s:tva-the-pitt]. The 2025 win was his first acting Emmy. In that speech he said that having his name "included in your company" was "the honor of a lifetime", and told shift workers, "if anybody is going on shift tonight or coming off shift tonight, thank you for being in that job" [s:variety-au-emmy-2025]. The show swept the top lead actor and drama series awards at the 2025 Primetime Emmys, the 2026 Golden Globes and the 2026 Critics Choice Awards [s:shoot-icg-2026]. In 2026 he beat Mark Ruffalo, Gary Oldman, Sterling K. Brown and Rufus Sewell [s:variety-au-emmy-2026]. Variety noted that he is the fifth actor to win the lead drama Emmy for a show's first two seasons, and the first since Bryan Cranston in 2009 [s:variety-au-emmy-2026]. In his speech he said, "This is all I've ever wanted to do" [s:variety-au-emmy-2026]. He also received a 2026 nomination for Outstanding Directing for a Drama Series [s:tva-the-pitt].
 
 ## Behind the camera and the awards around the show
 

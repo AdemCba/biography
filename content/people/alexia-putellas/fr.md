@@ -29,6 +29,9 @@ targetQueries:
   - Alexia Putellas équipe d'Espagne
   - Alexia Putellas salaire
   - Alexia Putellas contrat
+  - Alexia Putellas club
+  - Alexia Putellas combien de Ballons d'Or
+  - Alexia Putellas et Aitana Bonmatí
 faq:
   - q: Quel âge a Alexia Putellas ?
     a: >-
@@ -51,9 +54,13 @@ faq:
       [s:ap-barcelona-departure-2026].
   - q: Quel est le salaire d'Alexia Putellas à London City Lionesses ?
     a: >-
-      Les textes consultés n'indiquent ni son salaire ni la durée de son
-      contrat, cette page ne donne donc aucun de ces deux éléments
-      [s:aljazeera-london-city-signing-2026].
+      Les textes consultés ne confirment aucun salaire. CBS Sports cite un montant
+      non officiel, que cette page ne reprend pas [s:cbs-london-city-signing-2026].
+  - q: Alexia Putellas a-t-elle égalé le record d'Aitana Bonmatí ?
+    a: >-
+      Oui. Son troisième Ballon d'Or, remporté le 26 octobre 2026, égale les trois
+      distinctions d'Aitana Bonmatí [s:101greatgoals-ballon-dor-2026]
+      [s:sky-ballon-dor-2026-news].
 autoReviews: 3
 publishedAt: '2026-10-27'
 updatedAt: '2026-10-29'
@@ -64,13 +71,13 @@ Alexia Putellas a quitté le FC Barcelone en mai 2026, après 14 saisons, et a r
 
 Alexia Putellas a remporté le Ballon d'Or féminin le lundi 26 octobre 2026 au London Palladium, à Londres. C'est sa troisième distinction [s:reuters-ballon-dor-2026] [s:uefa-ballon-dor-2026-ceremony]. Reuters rapporte qu'elle a reçu le trophée le lundi [s:reuters-ballon-dor-2026]. Sky Sports a parlé d'un troisième Ballon d'Or féminin, qui égale un record, remporté alors qu'elle joue à London City Lionesses [s:sky-ballon-dor-2026-news]. Le record égalé est celui d'Aitana Bonmatí, qui a remporté trois distinctions, selon 101 Great Goals [s:101greatgoals-ballon-dor-2026]. Ses deux premiers Ballons d'Or sont venus en 2021 et 2022 [s:fcb-ballon-dor-2022].
 
-Avant la cérémonie, l'UEFA a retenu 30 nominées et a noté qu'elle était la seule ancienne lauréate de la liste finale [s:uefa-ballon-dor-2026-ceremony]. Flashscore rappelle qu'elle venait de quitter le Barça pour rejoindre London City Lionesses [s:flashscore-ballon-dor-2026]. Depuis son arrivée en juillet, elle compte trois buts et une passe décisive en sept matchs de WSL, selon Sky [s:sky-ballon-dor-2026-news].
+La page de l'UEFA sur la cérémonie indique le lundi 26 octobre au London Palladium, et précise qu'elle était la seule ancienne lauréate de la liste des nominées [s:uefa-ballon-dor-2026-ceremony]. Flashscore rappelle qu'elle venait de quitter le Barça pour rejoindre London City Lionesses [s:flashscore-ballon-dor-2026]. Depuis son arrivée en juillet, elle compte trois buts et une passe décisive en sept matchs de WSL, selon Sky [s:sky-ballon-dor-2026-news].
 
 Reuters parle d'un triplé du Barcelone en 2025-2026, alors que Sky Sports évoque un quadruplé, Ligue des champions comprise [s:reuters-ballon-dor-2026] [s:sky-ballon-dor-2026-news]. Les sources ne s'accordent pas, cette page ne retient donc aucun chiffre.
 
 ## Née à Mollet del Vallès
 
-Alexia Putellas est née le 4 février 1994 à Mollet del Vallès, en Catalogne [s:soccerdonna-putellas-profile]. Son poste est celui de milieu offensif [s:soccerdonna-putellas-profile]. Elle est de nationalité espagnole [s:soccerdonna-putellas-profile].
+Alexia Putellas a 32 ans. Elle est née le 4 février 1994 à Mollet del Vallès, en Catalogne [s:soccerdonna-putellas-profile]. Son poste est celui de milieu offensif [s:soccerdonna-putellas-profile]. Elle est de nationalité espagnole [s:soccerdonna-putellas-profile].
 
 ## Sélection espagnole et distinctions
 
@@ -104,13 +111,13 @@ Dans son article d'adieu, le club la crédite d'avoir fait du Barça « un leade
 
 ## Le transfert aux London City Lionesses
 
-Son contrat avec le FC Barcelone a expiré à la fin du mois de juin 2026 [s:ap-london-city-signing-2026]. Le mercredi 8 juillet 2026, les London City Lionesses ont annoncé son arrivée, que l'AP qualifie de « recrutement phare » [s:ap-london-city-signing-2026]. Elle avait 32 ans à sa signature, selon l'AP et Al Jazeera [s:ap-london-city-signing-2026] [s:aljazeera-london-city-signing-2026].
+Elle joue à London City Lionesses, en Women's Super League [s:ap-london-city-signing-2026], sous contrat de trois ans selon CBS Sports [s:cbs-london-city-signing-2026]. Son contrat avec le FC Barcelone a expiré à la fin du mois de juin 2026 [s:ap-london-city-signing-2026], et elle a dit vouloir changer et se remettre en question [s:cbs-london-city-signing-2026]. Le mercredi 8 juillet 2026, les London City Lionesses ont annoncé son arrivée, que l'AP qualifie de « recrutement phare » [s:ap-london-city-signing-2026]. Elle avait 32 ans à sa signature, selon l'AP et Al Jazeera [s:ap-london-city-signing-2026] [s:aljazeera-london-city-signing-2026].
 
 Le club appartient à Michele Kang, qui possède aussi l'OL Lyonnes, le club français [s:ap-london-city-signing-2026]. London City est monté en Women's Super League en 2025 et a terminé sixième sur 12 équipes lors de sa première saison dans l'élite [s:ap-london-city-signing-2026].
 
 Putellas a déclaré que « l'ambition » du club et son « engagement constant à grandir en tant que club indépendant réservé aux femmes » résonnaient profondément en elle [s:ap-london-city-signing-2026]. Elle a ajouté : « J'ai hâte d'avoir un impact sur le terrain alors que nous visons les titres » [s:ap-london-city-signing-2026]. Kang a déclaré qu'« Alexia Putellas incarne le sommet du talent, du dévouement et de la vision dans le football féminin » [s:ap-london-city-signing-2026].
 
-Les textes sur lesquels s'appuie cette page n'indiquent ni la durée du contrat ni aucun salaire. Cette page n'en donne donc aucun [s:aljazeera-london-city-signing-2026].
+Les textes sur lesquels s'appuie cette page n'indiquent aucun salaire. CBS Sports donne une durée de trois ans, mais le salaire qu'il cite n'est pas officiel, si bien que cette page ne le reprend pas [s:cbs-london-city-signing-2026].
 
 ## Ce qui reste incertain
 

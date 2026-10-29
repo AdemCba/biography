@@ -1,0 +1,88 @@
+{
+  "worthWriting": true,
+  "reason": "Current Bayern Munich player, signed from PSV on 1 July 2026. Morocco international. Sources agree on the club move, shirt number and the 6-1 cup win in which he scored.",
+  "wikidata": "Q98784065",
+  "importance": 3,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "bundesliga-saibari-favourite-position",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/bayern-munich-ismael-saibari-favourite-position-ten-38614",
+      "title": "Ismael Saibari unveiled as Bayern Munich player",
+      "publisher": "Bundesliga",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "thesportsencounter-bayern-magdeburg-6-1",
+      "url": "https://www.thesportsencounter.com/2026/10/28/bayern-magdeburg-6-1-olise-davies-kane-dfb-pokal-2026-copy/",
+      "title": "Kane Watches as Olise, Davies Fire Bayern Past Magdeburg 6-1",
+      "publisher": "The Sports Encounter",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "fotmob-saibari",
+      "url": "https://www.fotmob.com/players/1180288/ismael-saibari",
+      "title": "Ismael Saibari player profile",
+      "publisher": "FotMob",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "fotmob-saibari-fr",
+      "url": "https://www.fotmob.com/fr/players/1180288",
+      "title": "Ismael Saibari, profil du joueur",
+      "publisher": "FotMob",
+      "type": "database",
+      "lang": "fr"
+    },
+    {
+      "id": "footmercato-saibari",
+      "url": "https://www.footmercato.net/joueur/ismael-saibari-ben-el-basra/",
+      "title": "Ismael Saibari, fiche joueur",
+      "publisher": "Footmercato",
+      "type": "press",
+      "lang": "fr"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "2001-01-28",
+      "sources": [
+        "fotmob-saibari",
+        "fotmob-saibari-fr",
+        "footmercato-saibari"
+      ],
+      "note": "Same date on FotMob (English and French pages) and Footmercato. Bayern's own profile was not reachable."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Terrassa, Spain",
+      "sources": [
+        "footmercato-saibari"
+      ],
+      "note": "Only Footmercato gives a birthplace among the sources opened. FotMob does not list one."
+    },
+    "nationality": {
+      "value": "MA",
+      "sources": [
+        "fotmob-saibari",
+        "fotmob-saibari-fr",
+        "bundesliga-saibari-favourite-position"
+      ],
+      "note": "FotMob lists Morocco as country, Bundesliga calls him a Morocco international. Footmercato also lists Belgium as a second nationality. That is not confirmed by a federation source, so it is left out of the page."
+    }
+  },
+  "targetQueries": [
+    "who is ismael saibari",
+    "ismael saibari age",
+    "ismael saibari bayern munich",
+    "ismael saibari where is he from",
+    "ismael saibari nationality",
+    "ismael saibari height",
+    "ismael saibari shirt number",
+    "ismael saibari psv"
+  ],
+  "gapNote": "Top results cover the transfer and the nationality dispute only in passing. The page can add the 28 October 2026 cup result he scored in (confirmed by a match report, with Kane on the bench), the favourite-position comment from his unveiling, and the conflicting nationality reports. The official Bayern signing page and the official DFB match report could not be opened, and the player-of-the-match award is not verified, so it stays out."
+}

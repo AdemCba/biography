@@ -13,7 +13,7 @@ summary: >-
   il lance une carrière solo au début des années 1980. Il fait partie des 24
   candidats de la saison 2026 de MasterChef Celebrity sur Telefe, et il est le
   quatrième à sortir, le 27 octobre 2026.
-status: review
+status: published
 risk: medium
 reviewedAt: '2026-10-29'
 reviewBy: '2027-04-29'
@@ -31,7 +31,10 @@ faq:
   - q: Quel âge a Alejandro Lerner ?
     a: 'Il est né le 8 juin 1957, il a donc 69 ans au 29 octobre 2026.'
   - q: D'où vient Alejandro Lerner ?
-    a: 'Il est né à Buenos Aires, en Argentine, le 8 juin 1957.'
+    a: >-
+      Il est né à Buenos Aires, en Argentine, le 8 juin 1957. En 1985, il est
+      parti aux États-Unis pour étudier la musique et le jazz, puis il a passé
+      environ huit ans dans des hôtels américains.
   - q: Quelles sont les chansons les plus connues d'Alejandro Lerner ?
     a: >-
       "Todo a pulmón", sorti en single en 1983, et "Juntos para siempre", de
@@ -42,7 +45,8 @@ faq:
       Oui. Il faisait partie des 24 candidats de la saison 2026 sur Telefe,
       présentée par Wanda Nara, et il a été éliminé quatrième le 27 octobre
       2026.
-autoReviews: 1
+autoReviews: 3
+publishedAt: '2026-10-29'
 ---
 Alejandro Lerner est né à Buenos Aires le 8 juin 1957 [s:buenamusica-bio-es]. En septembre 2026, Telefe a annoncé les 24 candidats de la nouvelle saison de MasterChef Celebrity, et Lerner en faisait partie [s:senal-masterchef-24-2026].
 
@@ -56,11 +60,11 @@ C'est Raúl Porchetto qui le remarque en 1974 et l'invite à rejoindre Reino de 
 
 ## Disques, hôtels et « El poder de los sueños »
 
-« Juntos para siempre » devient en 1990 le générique de la série La banda del Golden Rocket, et l'album Amor infinito paraît en 1993 [s:buenamusica-bio-es]. Un article de La Nación publié en novembre 2001 décrit une vie partagée entre l'Argentine et les États-Unis. Il avait passé environ huit ans dans des hôtels américains, et son album Magic hotel porte le nom de l'un d'eux [s:lanacion-gran-rex-2001]. Il a aussi écrit « El poder de los sueños », un titre commandé par le réseau radio de Disney pour toute l'Amérique latine [s:lanacion-gran-rex-2001].
+« Juntos para siempre » devient en 1990 le générique de la série La banda del Golden Rocket, et l'album Amor infinito paraît en 1993 [s:buenamusica-bio-es]. Un article de La Nación publié en novembre 2001 décrit une vie partagée entre l'Argentine et les États-Unis. Il avait passé environ huit ans dans des hôtels américains, et son album Magic hotel porte le nom de l'un d'eux [s:lanacion-gran-rex-2001]. Le même article cite « El poder de los sueños », un titre diffusé par le réseau radio de Disney pour toute l'Amérique latine [s:lanacion-gran-rex-2001].
 
 Sa notoriété aux États-Unis progresse en 2002, année où il chante « Hoy es adiós » avec Carlos Santana [s:buenamusica-bio-es].
 
-Environ quatre ans avant cet article, il avait participé à une retraite d'écriture de dix jours dans un château français, avec une vingtaine de compositeurs. C'est de là que vient « Si quieres saber quien soy », qui a donné son titre à son album de l'époque [s:lanacion-gran-rex-2001]. En novembre 2001, il se produit deux soirs au Teatro Gran Rex avec Gustavo Santaolalla, David Lebón et Sandra Mihanovich. Il dit ne pas vouloir chanter toutes les chansons lui-même [s:lanacion-gran-rex-2001]. Parmi ceux avec qui il a travaillé, on compte Armando Manzanero, Luis Miguel et Carole King [s:lanacion-gran-rex-2001].
+Il a passé dix jours avec une vingtaine de compositeurs venus du monde entier. Le titre « Si quieres saber quien soy » était alors celui de son album le plus récent [s:lanacion-gran-rex-2001]. En novembre 2001, il s'est produit deux soirs au Teatro Gran Rex, avec Gustavo Santaolalla, David Lebón et Sandra Mihanovich. Parmi ses collaborateurs, on compte Armando Manzanero, Luis Miguel et Carole King [s:lanacion-gran-rex-2001].
 
 ## Albums depuis 1999
 
@@ -76,8 +80,8 @@ Lors d'une soirée d'élimination relatée par Perfil le 6 octobre 2026, une gic
 
 ## Éliminé le 27 octobre 2026
 
-Lerner a été éliminé quatrième de MasterChef Celebrity le mardi 27 octobre 2026 [s:canal26-eliminado-2026-10-27] [s:exitoina-lerner-eliminado-2026]. L'épreuve était un lemon pie, et la plupart des candidats ont fait des erreurs [s:canal26-eliminado-2026-10-27]. Lors du duel final, il a affronté Grego Rossello, dont le plat figurait lui aussi parmi les moins réussis de la soirée [s:exitoina-lerner-eliminado-2026]. Le jury a voté son élimination [s:canal26-eliminado-2026-10-27].
+Lerner a été éliminé quatrième de MasterChef Celebrity le mardi 27 octobre 2026 [s:canal26-eliminado-2026-10-27] [s:exitoina-lerner-eliminado-2026]. L'épreuve était un lemon pie. La plupart des candidats ont fait des erreurs [s:canal26-eliminado-2026-10-27]. Lors du duel final, il a affronté Grego Rossello. Son plat figurait lui aussi parmi les moins réussis de la soirée [s:exitoina-lerner-eliminado-2026]. Le jury a voté son élimination [s:canal26-eliminado-2026-10-27].
 
-Il a imputé ses erreurs au stress : il a dit avoir fait une crise de nerfs et confondu blancs et jaunes d'œufs [s:canal26-eliminado-2026-10-27] [s:rionegro-lerner-eliminado-2026]. Le jury a relevé une pâte crue, une crème au citron à la mauvaise consistance et des proportions erronées [s:rionegro-lerner-eliminado-2026]. En présentant son plat, il a dit qu'il n'était pas beau, mais qu'il était le sien [s:canal26-eliminado-2026-10-27].
+Il a imputé ses erreurs au stress. Il a dit avoir fait une crise de nerfs et confondu blancs et jaunes d'œufs [s:canal26-eliminado-2026-10-27] [s:rionegro-lerner-eliminado-2026]. Le jury a relevé une pâte crue, une crème au citron à la mauvaise consistance et des proportions erronées [s:rionegro-lerner-eliminado-2026]. En présentant son plat, il a dit qu'il n'était pas beau, mais qu'il était le sien [s:canal26-eliminado-2026-10-27].
 
-Lors de son départ, il a dit se sentir à nouveau élève. Ses camarades l'ont applaudi et ont interprété l'une de ses chansons [s:rionegro-lerner-eliminado-2026].
+Lors de son départ, il a dit se sentir à nouveau élève. Ses camarades l'ont applaudi et ont interprété l'une de ses chansons [s:rionegro-lerner-eliminado-2026]. Le site officiel de Telefe a repris ses adieux sous un titre qui le cite : il s'est senti de nouveau comme au lycée [s:telefe-masterchef-celebrity-2026].

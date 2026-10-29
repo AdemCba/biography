@@ -13,7 +13,7 @@ summary: >-
   discovered in 1974 and began a solo career in the early 1980s. He was one of
   the 24 contestants in the 2026 season of MasterChef Celebrity on Telefe, and
   the fourth to leave, on 27 October 2026.
-status: review
+status: published
 risk: medium
 reviewedAt: '2026-10-29'
 reviewBy: '2027-04-29'
@@ -31,7 +31,10 @@ faq:
   - q: How old is Alejandro Lerner?
     a: 'He was born on 8 June 1957, so he is 69 as of 29 October 2026.'
   - q: Where is Alejandro Lerner from?
-    a: 'He was born in Buenos Aires, Argentina, on 8 June 1957.'
+    a: >-
+      He was born in Buenos Aires, Argentina, on 8 June 1957. He travelled to
+      the United States in 1985 to study music and jazz, and later spent about
+      eight years living in hotels there.
   - q: What are Alejandro Lerner's best-known songs?
     a: >-
       "Todo a pulmón", a single from 1983, and "Juntos para siempre" from 1990,
@@ -41,7 +44,8 @@ faq:
     a: >-
       Yes. He was one of the 24 contestants in the 2026 season on Telefe, hosted
       by Wanda Nara, and was eliminated fourth on 27 October 2026.
-autoReviews: 3
+autoReviews: 4
+publishedAt: '2026-10-29'
 ---
 Alejandro Lerner was born in Buenos Aires on 8 June 1957 [s:buenamusica-bio-es]. In September 2026 Telefe announced the 24 contestants of its MasterChef Celebrity season, and he was one of them [s:senal-masterchef-24-2026].
 
@@ -55,7 +59,7 @@ The first solo years brought the hits. "Todo a pulmón" came out as a single in 
 
 "Juntos para siempre" became the theme of the TV series La banda del Golden Rocket in 1990 [s:buenamusica-bio-es]. The album Amor infinito came out in 1993 [s:buenamusica-bio-es].
 
-A November 2001 article in La Nación described a life split between Argentina and the United States. He had spent about eight years staying in hotels in the US, and he named his album Magic hotel after one of them [s:lanacion-gran-rex-2001]. He also wrote "El poder de los sueños", a song commissioned by Disney's radio network across Latin America [s:lanacion-gran-rex-2001].
+A November 2001 article in La Nación described a life split between Argentina and the United States. He had spent about eight years staying in hotels in the US, and he named his album Magic hotel after one of them [s:lanacion-gran-rex-2001]. The same article names "El poder de los sueños", a song that airs on Disney's radio network across Latin America [s:lanacion-gran-rex-2001].
 
 Attention in the United States came in 2002, when he sang "Hoy es adiós" with Carlos Santana [s:buenamusica-bio-es].
 
@@ -77,4 +81,4 @@ Lerner was eliminated fourth from MasterChef Celebrity on Tuesday 27 October 202
 
 He put the mistakes down to nerves. He said he had a nervous breakdown and confused the egg whites with the yolks [s:canal26-eliminado-2026-10-27] [s:rionegro-lerner-eliminado-2026]. The jury said his dough was undercooked, his lemon filling had the wrong consistency, and the proportions were wrong [s:rionegro-lerner-eliminado-2026]. Asked about his plate, he said it was ugly but his own [s:canal26-eliminado-2026-10-27].
 
-In his farewell he said he felt like a student again. His fellow contestants applauded him and performed one of his songs [s:rionegro-lerner-eliminado-2026].
+In his farewell he said he felt like a student again. His fellow contestants applauded him and performed one of his songs [s:rionegro-lerner-eliminado-2026]. Telefe's own site ran the farewell under a headline quoting him on feeling like a high school student again [s:telefe-masterchef-celebrity-2026].

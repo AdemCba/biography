@@ -1,0 +1,322 @@
+{
+  "date": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 28 January 2001; age 25",
+      "sourceIds": [
+        "fotmob-saibari",
+        "footmercato-saibari",
+        "fotmob-saibari-fr"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob (EN and FR) and Footmercato give 28/01/2001; FotMob shows age 25."
+    },
+    {
+      "claim": "Birthplace Terrassa, Spain",
+      "sourceIds": [
+        "footmercato-saibari"
+      ],
+      "verdict": "confirmed",
+      "note": "Footmercato: 'Terrassa Espagne'."
+    },
+    {
+      "claim": "Born in Spain, grew up in Belgium",
+      "sourceIds": [
+        "omroepbrabant-saibari-psv-sale"
+      ],
+      "verdict": "confirmed",
+      "note": "Omroep Brabant: born in Spain, grew up in Belgium."
+    },
+    {
+      "claim": "Country Morocco; Morocco international",
+      "sourceIds": [
+        "fotmob-saibari",
+        "fotmob-saibari-fr",
+        "bundesliga-saibari-favourite-position"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob country Morocco; Bundesliga calls him a Morocco international."
+    },
+    {
+      "claim": "Belgium also listed as second nationality (not stated as fact)",
+      "sourceIds": [
+        "footmercato-saibari"
+      ],
+      "verdict": "confirmed",
+      "note": "Footmercato lists Belgique as second nationality; the article correctly does not state it as fact."
+    },
+    {
+      "claim": "Height 185 cm",
+      "sourceIds": [
+        "footmercato-saibari"
+      ],
+      "verdict": "confirmed",
+      "note": "Footmercato: 1.85 m."
+    },
+    {
+      "claim": "Genk U19 spell July 2019 to July 2020, 6 matches, no goals",
+      "sourceIds": [
+        "fotmob-saibari"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob: Genk U19 Jul 2019 - Jul 2020, 6 matches, 0 goals."
+    },
+    {
+      "claim": "PSV signed him from KRC Genk in 2020 for 200,000 euros",
+      "sourceIds": [
+        "omroepbrabant-saibari-psv-sale"
+      ],
+      "verdict": "confirmed",
+      "note": "Omroep Brabant: 'In 2020 pikte PSV hem voor 200.000 euro op bij KRC Genk'."
+    },
+    {
+      "claim": "PSV first team Oct 2020 to Jul 2026: 142 matches, 42 goals",
+      "sourceIds": [
+        "fotmob-saibari",
+        "omroepbrabant-saibari-psv-sale"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob and Omroep Brabant agree."
+    },
+    {
+      "claim": "Jong PSV: 55 matches, 9 goals",
+      "sourceIds": [
+        "fotmob-saibari"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob: Jong PSV Jul 2020 - Jun 2023, 55 matches, 9 goals."
+    },
+    {
+      "claim": "29 assists for PSV",
+      "sourceIds": [
+        "omroepbrabant-saibari-psv-sale"
+      ],
+      "verdict": "confirmed",
+      "note": "Omroep Brabant: 142 matches, 42 goals, 29 assists."
+    },
+    {
+      "claim": "Two KNVB Cup wins with PSV, 2021/22 and 2022/23",
+      "sourceIds": [
+        "fotmob-saibari"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob lists KNVB Cup 2022/23 and 2021/22."
+    },
+    {
+      "claim": "Official move to Bayern on 1 July 2026; wears number 34",
+      "sourceIds": [
+        "bundesliga-saibari-favourite-position",
+        "fotmob-saibari-fr"
+      ],
+      "verdict": "confirmed",
+      "note": "Bundesliga: officially joined on 1 July, number 34 shirt; FotMob shows 34."
+    },
+    {
+      "claim": "Bayern contract runs to 30 June 2031",
+      "sourceIds": [
+        "fotmob-saibari",
+        "footmercato-saibari"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob and Footmercato: 30/06/2031."
+    },
+    {
+      "claim": "Bayern will pay at least 50 million euros; Eindhovens Dagblad says 55 million",
+      "sourceIds": [
+        "omroepbrabant-saibari-psv-sale"
+      ],
+      "verdict": "confirmed",
+      "note": "Omroep Brabant reports both figures as reported."
+    },
+    {
+      "claim": "Omroep Brabant headline calls it a record fee",
+      "sourceIds": [
+        "omroepbrabant-saibari-psv-sale"
+      ],
+      "verdict": "confirmed",
+      "note": "Headline says recordbedrag; no PSV attribution made."
+    },
+    {
+      "claim": "The move was reportedly timed for 1 July so it could count in the new financial year",
+      "sourceIds": [
+        "omroepbrabant-saibari-psv-sale"
+      ],
+      "verdict": "confirmed",
+      "note": "Source says reportedly deliberately delayed until 1 July; article now says reportedly."
+    },
+    {
+      "claim": "FotMob transfer value 45 million euros",
+      "sourceIds": [
+        "fotmob-saibari",
+        "fotmob-saibari-fr"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob: 45M highest value."
+    },
+    {
+      "claim": "Eberl said Saibari caused Bayern problems in a January Champions League match in Eindhoven, though Bayern won",
+      "sourceIds": [
+        "bundesliga-saibari-favourite-position"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: Eberl said Saibari caused problems even though we won."
+    },
+    {
+      "claim": "Saibari: 'Their style of play suits me.'",
+      "sourceIds": [
+        "bundesliga-saibari-favourite-position"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact quote."
+    },
+    {
+      "claim": "Favourite position number ten; can also play out wide and a little deeper",
+      "sourceIds": [
+        "bundesliga-saibari-favourite-position"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact quotes."
+    },
+    {
+      "claim": "Positions attacking midfielder, central midfielder, left winger, striker; preferred foot right",
+      "sourceIds": [
+        "fotmob-saibari"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob."
+    },
+    {
+      "claim": "Came on 63rd minute at 7-0 win over Union Berlin, scored about seven minutes later from Davies pass",
+      "sourceIds": [
+        "africasoccer-union-7-0"
+      ],
+      "verdict": "confirmed",
+      "note": "Substitution 63rd minute; scored seven minutes after coming on; pass from Davies."
+    },
+    {
+      "claim": "First Bayern goal on 18 September 2026",
+      "sourceIds": [
+        "africasoccer-union-7-0"
+      ],
+      "verdict": "confirmed",
+      "note": "Article is dated 18 September 2026 and describes a Friday-evening match; consistent."
+    },
+    {
+      "claim": "Bundesliga 2026/27: 7 appearances, 4 starts, 333 minutes, 2 goals, 2 assists",
+      "sourceIds": [
+        "fotmob-saibari",
+        "fotmob-saibari-fr"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob."
+    },
+    {
+      "claim": "Footmercato 12 matches and 3 goals; FotMob 13 matches and 3 goals for Bayern",
+      "sourceIds": [
+        "footmercato-saibari",
+        "fotmob-saibari"
+      ],
+      "verdict": "confirmed",
+      "note": "Both figures match their sources."
+    },
+    {
+      "claim": "Bayern beat Magdeburg 6-1, second round DFB-Pokal, Allianz Arena, 28 October 2026",
+      "sourceIds": [
+        "thesportsencounter-bayern-magdeburg-6-1"
+      ],
+      "verdict": "confirmed",
+      "note": "Match details confirmed."
+    },
+    {
+      "claim": "Magdeburg equalised in the 15th minute; Saibari scored in the 21st for 2-1",
+      "sourceIds": [
+        "thesportsencounter-bayern-magdeburg-6-1"
+      ],
+      "verdict": "confirmed",
+      "note": "15' Zukowski; 21' Saibari."
+    },
+    {
+      "claim": "Olise scored twice; Davies, Brown and Daiber also scored",
+      "sourceIds": [
+        "thesportsencounter-bayern-magdeburg-6-1"
+      ],
+      "verdict": "confirmed",
+      "note": "Olise 10' and 50' pen; Davies 70'; Brown 73'; Daiber 90+3'."
+    },
+    {
+      "claim": "Harry Kane was an unused substitute; Saibari played as central forward in Kane's place",
+      "sourceIds": [
+        "thesportsencounter-bayern-magdeburg-6-1"
+      ],
+      "verdict": "confirmed",
+      "note": "Source says Kane watched from the bench and Saibari replaced a striker in Kane's place."
+    },
+    {
+      "claim": "No player of the match named in the match report",
+      "sourceIds": [
+        "thesportsencounter-bayern-magdeburg-6-1"
+      ],
+      "verdict": "confirmed",
+      "note": "None named in the source."
+    },
+    {
+      "claim": "Morocco: 36 appearances and 12 goals since August 2023 (FotMob)",
+      "sourceIds": [
+        "fotmob-saibari-fr",
+        "fotmob-saibari"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob FR: 36 and 12, from aout 2023."
+    },
+    {
+      "claim": "Footmercato gives 26 matches and 8 goals for Morocco",
+      "sourceIds": [
+        "footmercato-saibari"
+      ],
+      "verdict": "confirmed",
+      "note": "Footmercato: 26 matches, 8 goals."
+    },
+    {
+      "claim": "Morocco U23 summer 2023: 5 matches, 1 goal",
+      "sourceIds": [
+        "fotmob-saibari-fr",
+        "fotmob-saibari"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob: U23 Jun-Aug 2023, 5 matches, 1 goal."
+    },
+    {
+      "claim": "Honours: 2025 Africa Cup of Nations and 2025 FIFA Arab Cup with Morocco",
+      "sourceIds": [
+        "fotmob-saibari"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob honours list."
+    },
+    {
+      "claim": "Played at the FIFA World Cup with Morocco",
+      "sourceIds": [
+        "bundesliga-saibari-favourite-position"
+      ],
+      "verdict": "confirmed",
+      "note": "Bundesliga: 'having competed at the FIFA World Cup with Morocco'."
+    },
+    {
+      "claim": "CAN 2025 quarter-final vs Cameroon: player of the match after a goal in the 74th minute; win sent Morocco to semi-finals",
+      "sourceIds": [
+        "hespress-can-2025-cameroon"
+      ],
+      "verdict": "confirmed",
+      "note": "Hespress: elu meilleur joueur, 74e minute, qualification pour les demi-finales."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Source-by-source timeline and explicit handling of conflicting databases (Footmercato vs FotMob) add value.",
+  "decision": "approve",
+  "summary": "All claims now match their sources. The three earlier wording problems (PSV attribution, reported 1 July timing, Eberl framing) are fixed in the article."
+}

@@ -1,0 +1,155 @@
+{
+  "id": "david-alaba",
+  "name": "David Alaba",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1992-06-24",
+      "sources": [
+        "dfb-datencenter",
+        "fussballtransfers"
+      ],
+      "note": "Both give 24.06.1992 / 24/06/1992."
+    },
+    "birthPlace": {
+      "value": "Vienna, Austria",
+      "sources": [
+        "fussballtransfers"
+      ],
+      "note": "Listed as Vienna (Viena). DFB profile does not list birthplace."
+    },
+    "nationality": {
+      "value": [
+        "AT"
+      ],
+      "sources": [
+        "dfb-datencenter"
+      ],
+      "note": "DFB lists Österreich. fussballtransfers also lists Nigeria; no primary source confirms it, so it is not used."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "udinese-official",
+      "url": "https://www.udinese.it/",
+      "title": "Udinese Calcio official website (first-team squad list)",
+      "publisher": "Udinese Calcio",
+      "type": "official",
+      "accessed": "2026-10-29",
+      "lang": "it"
+    },
+    {
+      "id": "sosfanta-udinese-statement",
+      "url": "https://www.sosfanta.com/squadra/udinese/alaba-udinese-ufficiale-annuncio-dettagli-parole/",
+      "title": "Alaba Udinese ufficiale: annuncio, dettagli e parole",
+      "publisher": "SOS Fanta",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "it"
+    },
+    {
+      "id": "italpress-udinese",
+      "url": "https://www.italpress.com/?p=750415",
+      "title": "Udinese officially announce Alaba signing",
+      "publisher": "Italpress",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "fanatik-udinese",
+      "url": "https://www.fanatik.com.tr/en/david-alaba-is-officially-with-udinese-i-still-want-to-win-2638967",
+      "title": "David Alaba is officially with Udinese! I still want to win",
+      "publisher": "Fanatik",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "irish-times-austria",
+      "url": "https://www.irishtimes.com/sport/soccer/2026/09/29/chopped-and-changed-austria-a-great-unknown-for-ireland/",
+      "title": "Chopped-and-changed Austria a great unknown for Ireland",
+      "publisher": "The Irish Times",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "weekend-at-rangnick",
+      "url": "https://www.weekend.at/sport/david-alaba-oefb-zukunft",
+      "title": "David Alaba and the ÖFB (page title not captured)",
+      "publisher": "weekend.at",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "de"
+    },
+    {
+      "id": "dfb-datencenter",
+      "url": "https://datencenter.dfb.de/profil/140333",
+      "title": "Informationen zum Spieler: David Alaba",
+      "publisher": "DFB Datencenter",
+      "type": "league-or-federation",
+      "accessed": "2026-10-29",
+      "lang": "de"
+    },
+    {
+      "id": "fussballtransfers",
+      "url": "https://www.fussballtransfers.com/spieler/david-olatukunbo-alaba/",
+      "title": "David Alaba player profile",
+      "publisher": "fussballtransfers.com",
+      "type": "database",
+      "accessed": "2026-10-29",
+      "lang": "de"
+    },
+    {
+      "id": "tntsports-2021",
+      "url": "https://www.tntsports.co.uk/football/liga/2020-2021/real-madrid-confirm-deal-to-sign-defender-david-alaba-on-a-free-transfer-following-exit-from-bayern-_sto8341281/story.shtml",
+      "title": "Real Madrid confirm deal to sign defender David Alaba on a free transfer",
+      "publisher": "TNT Sports",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "si-2021-alaba",
+      "url": "https://www.si.com/soccer/2021/05/28/david-alaba-real-madrid-free-transfer-bayern-munich",
+      "title": "Real Madrid Signs David Alaba on Free Transfer From Bayern Munich",
+      "publisher": "Sports Illustrated",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "bundesliga-alaba-landmarks",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/david-alaba-5-career-landmarks-bayern-munich-record-breaker-real-madrid-16063",
+      "title": "David Alaba: 5 career landmarks, Bayern Munich record-breaker, Real Madrid",
+      "publisher": "Bundesliga.com",
+      "type": "league-or-federation",
+      "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "tt-steckbrief-oefb-2016",
+      "url": "https://www.tt.com/artikel/11572140/fussball-em-steckbriefe-oefb-teamspieler-3-mittelfeld",
+      "title": "Fußball-EM: Steckbriefe ÖFB-Teamspieler 3 - Mittelfeld",
+      "publisher": "tt.com (ÖFB squad profile, status 1 June 2016)",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "de"
+    },
+    {
+      "id": "salzburg24-moldova-2017",
+      "url": "https://www.salzburg24.at/sport/sportwelt/alaba-gegen-moldau-erstmals-von-beginn-an-oefb-kapitaen-art-146088",
+      "title": "Alaba gegen Moldau erstmals von Beginn an ÖFB-Kapitän",
+      "publisher": "Salzburg24",
+      "type": "press",
+      "accessed": "2026-10-29",
+      "lang": "de"
+    }
+  ]
+}

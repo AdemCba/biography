@@ -9,13 +9,7 @@ knownFor: >-
   Capitán de Inglaterra y delantero del Bayern de Múnich, máximo goleador de la
   selección inglesa
 summary: >-
-  Harry Kane ganó el Balón de Oro 2026 en Londres el lunes 26 de octubre, el
-  primer inglés en conseguirlo en unos 25 años. Después viajó a Múnich, donde el
-  Bayern tenía previsto jugar contra el Magdeburgo en la Copa de Alemania el
-  miércoles 28 de octubre y contra el Borussia Dortmund en la Bundesliga el
-  sábado 31. Sky Sports informa de un acuerdo en principio para renovar hasta
-  2029, con los papeles todavía en curso, aunque no se ha anunciado una prórroga
-  firmada. Es también el máximo goleador de la selección inglesa.
+  Harry Kane ganó el Balón de Oro 2026 en Londres el lunes 26 de octubre, el primer inglés en conseguirlo en unos 25 años. Después viajó a Múnich. El partido de Copa de Alemania contra el Magdeburgo era el miércoles 28 de octubre, y el sábado 31 juega contra el Borussia Dortmund en la Bundesliga. Sky Sports informa de un acuerdo en principio para renovar hasta 2029, con los papeles todavía en curso, aunque no se ha anunciado una prórroga firmada. Es también el máximo goleador de la selección inglesa.
 status: published
 risk: low
 reviewedAt: '2026-10-27'
@@ -65,11 +59,9 @@ Harry Kane ganó el Balón de Oro 2026 en la gala del lunes 26 de octubre, celeb
 
 ## Octubre de 2026
 
-Kane se llevó el premio por delante de Kylian Mbappé y Lamine Yamal, y la gala de Londres empezó 45 minutos tarde por problemas de tráfico [s:sky-kane-ballon-dor-win-2026]. El Bayern publicó en su cuenta en inglés que la Allianz Arena se iluminaría de dorado para el ganador [s:khelnow-kane-munich-welcome-2026].
+Kane ganó el Balón de Oro 2026 en el London Palladium el lunes 26 de octubre, el primer inglés en conseguirlo en unos 25 años [s:uefa-ballon-dor-ceremony-2026] [s:sky-kane-ballon-dor-win-2026]. Superó a Kylian Mbappé y Lamine Yamal, y la gala empezó 45 minutos tarde por problemas de tráfico [s:sky-kane-ballon-dor-win-2026].
 
-El asistente técnico Aaron Danks dijo que Kane regresaba de Londres a Múnich y que debía incorporarse al entrenamiento el martes. Habló de «la inmensa alegría que Harry vivió ayer» [s:fox-kane-munich-return-2026].
-
-El partido de Copa de Alemania contra el 1. FC Magdeburgo estaba previsto para el miércoles 28 de octubre en la Allianz Arena, y Danks dijo que Kane estaría disponible para jugar [s:fox-kane-munich-return-2026] [s:khelnow-kane-munich-welcome-2026]. Las fuentes usadas aquí no informan del resultado. El partido de Bundesliga contra el Borussia Dortmund es el sábado 31 de octubre [s:khelnow-kane-munich-welcome-2026].
+El asistente técnico Aaron Danks dijo que Kane volvía de Londres a Múnich para entrenar el martes, y habló de «la inmensa alegría que Harry vivió ayer» [s:fox-kane-munich-return-2026]. El Bayern había preparado una bienvenida especial antes del partido de Copa de Alemania contra el 1. FC Magdeburgo, el miércoles 28 de octubre, y Danks dijo que Kane estaría disponible para jugar [s:fox-kane-munich-return-2026] [s:khelnow-kane-munich-welcome-2026]. Las fuentes consultadas no informan del resultado de ese partido. El club prometió además reconocer el premio cuando se enfrente al Borussia Dortmund el sábado 31 de octubre [s:fox-kane-munich-return-2026] [s:khelnow-kane-munich-welcome-2026].
 
 ## Un tercer título de máximo goleador en Múnich
 

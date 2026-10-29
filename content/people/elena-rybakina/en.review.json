@@ -1,0 +1,183 @@
+{
+  "date": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 17 June 1999 in Moscow; represents Kazakhstan (WTA profile KAZ)",
+      "sourceIds": [
+        "wta-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "WTA profile: Jun 17, 1999; Moscow, Russia; KAZ."
+    },
+    {
+      "claim": "World No. 1 (current and career-high)",
+      "sourceIds": [
+        "wta-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "WTA profile shows current 1 and career-high 1."
+    },
+    {
+      "claim": "Represented Kazakhstan since 2018",
+      "sourceIds": [
+        "nbc-boston-wimbledon-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "NBC: Russian athlete representing Kazakhstan since 2018."
+    },
+    {
+      "claim": "Wimbledon 2022: beat No. 3 seed Ons Jabeur 3-6, 6-2, 6-2 on Saturday 9 July 2022",
+      "sourceIds": [
+        "nbc-boston-wimbledon-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Date, seed, opponent and score match NBC."
+    },
+    {
+      "claim": "WTA Finals 2025: beat Sabalenka 6-3, 7-6(0) on Saturday 8 November 2025; No. 6 seed; fourth player in seven years; 11-match streak; back in top five; record $5.235m; undefeated in Riyadh",
+      "sourceIds": [
+        "tennis-wta-finals-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "All checked against Tennis.com."
+    },
+    {
+      "claim": "Ningbo 2025 final: Alexandrova took the opening set after converting a break point in the second game",
+      "sourceIds": [
+        "wta-ningbo-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "WTA: Alexandrova converted a break point in the second game and took the first set."
+    },
+    {
+      "claim": "Ningbo 2025: 3-6, 6-0, 6-2; nine straight games; second set 6-0; 3-0 lead in the third; closed out the 6-2 decider",
+      "sourceIds": [
+        "wta-ningbo-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "WTA: final 3-6, 6-0, 6-2; decider 6-2."
+    },
+    {
+      "claim": "Ningbo 2025: 10th career WTA title; second of 2025 at WTA 500; quote; WTA Finals contention",
+      "sourceIds": [
+        "wta-ningbo-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the WTA article."
+    },
+    {
+      "claim": "Australian Open 31 Jan 2026: beat Sabalenka 6-4, 4-6, 6-4 in 2h18m after winning six of the last seven games; 47 aces; AUD 4.1m (USD 2.75m); second career Grand Slam title",
+      "sourceIds": [
+        "wta-australian-open-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "All match the WTA article."
+    },
+    {
+      "claim": "US Open final Saturday 12 Sept 2026: beat Sabalenka 6-4, 5-7, 6-2; first US Open title; third Grand Slam singles title; set to replace Sabalenka as No. 1",
+      "sourceIds": [
+        "us-open-2026-ap"
+      ],
+      "verdict": "confirmed",
+      "note": "AP: dateline Sat, Sept 12; first U.S. Open championship; third Grand Slam; will replace Sabalenka when rankings are released."
+    },
+    {
+      "claim": "Ningbo 2026 semifinals: Rybakina beat Shnaider 6-3, 7-5; Fernandez beat Bouzkova 6-3, 7-5",
+      "sourceIds": [
+        "wta-ningbo-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the WTA preview."
+    },
+    {
+      "claim": "Fernandez is from Canada",
+      "sourceIds": [
+        "qatar-tribune-ningbo"
+      ],
+      "verdict": "confirmed",
+      "note": "Qatar Tribune: Canada's Leylah Fernandez."
+    },
+    {
+      "claim": "Opening set won in 38 minutes, breaking at 4-2; broke for 2-1 in the second; second year and second win at Ningbo",
+      "sourceIds": [
+        "the-star-ningbo-final"
+      ],
+      "verdict": "confirmed",
+      "note": "The Star match report matches."
+    },
+    {
+      "claim": "Winner receives 500 points and $185,500; Rybakina defends as reigning champion; title would help secure year-end No. 1",
+      "sourceIds": [
+        "wta-ningbo-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the WTA preview."
+    },
+    {
+      "claim": "Fourth title of 2026, most of any player this year; 15th overall",
+      "sourceIds": [
+        "qatar-tribune-ningbo",
+        "the-star-ningbo-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Qatar Tribune and The Star both say this."
+    },
+    {
+      "claim": "Next event is the Pan Pacific Open in Tokyo; season finale in Indian Wells starts 8 November",
+      "sourceIds": [
+        "the-star-ningbo-final"
+      ],
+      "verdict": "confirmed",
+      "note": "The Star: Pan Pacific Open in Tokyo this week; WTA Finals in Indian Wells from November 8."
+    },
+    {
+      "claim": "Rybakina won the 2025 WTA Finals in Riyadh",
+      "sourceIds": [
+        "tennis-wta-finals-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Tennis.com: undefeated in Riyadh, title won."
+    },
+    {
+      "claim": "Current singles ranking 1; career-high 1",
+      "sourceIds": [
+        "wta-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "WTA profile."
+    },
+    {
+      "claim": "The Star counts the Ningbo win as her 15th career title",
+      "sourceIds": [
+        "the-star-ningbo-final"
+      ],
+      "verdict": "confirmed",
+      "note": "The Star: her 15th overall."
+    },
+    {
+      "claim": "WTA profile shows 4 titles in the statistics block and 15 in career highlights",
+      "sourceIds": [
+        "wta-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Age 27 as of 29 October 2026",
+      "sourceIds": [
+        "wta-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Born 17 June 1999."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Flags the conflicting title counts between the WTA profile and the match reports.",
+  "decision": "approve",
+  "summary": "All claims checked against sources; the earlier errors (decider score, next event, first major, break-point details, title-count attribution, defence claim) are corrected."
+}

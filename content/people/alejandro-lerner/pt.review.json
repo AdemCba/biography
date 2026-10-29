@@ -5,60 +5,44 @@
   "reasons": [],
   "claims": [
     {
-      "claim": "Nasceu em Buenos Aires em 8 de junho de 1957",
+      "claim": "Nasceu em Buenos Aires, em 8 de junho de 1957",
       "sourceIds": [
         "buenamusica-bio-es"
       ],
       "verdict": "confirmed",
-      "note": "Buenamusica biography."
+      "note": "Buenamusica biography. Single source, as recorded in person.json."
     },
     {
-      "claim": "Em setembro de 2026 a Telefe anunciou os 24 participantes do MasterChef Celebrity; ele estava na lista",
+      "claim": "A Telefe anunciou 24 participantes do MasterChef Celebrity em setembro de 2026; Lerner estava na lista",
       "sourceIds": [
         "senal-masterchef-24-2026"
       ],
       "verdict": "confirmed",
-      "note": "Announcement dated 9 Sep 2026; cast list includes Lerner."
+      "note": "Señal dateline 9 SEP 2026; 24 participants; Lerner named."
     },
     {
-      "claim": "Foi descoberto por Raul Porchetto em 1974 e levado para o Reino de Munt, um grupo de vida curta",
+      "claim": "Raúl Porchetto o descobriu em 1974 e o levou ao Reino de Munt",
       "sourceIds": [
         "buenamusica-bio-es"
       ],
       "verdict": "confirmed",
-      "note": "1974 entry."
+      "note": "Buenamusica 1974 entry."
     },
     {
-      "claim": "Por volta de 1977 tocou no Soluna, banda de Gustavo Santaolalla",
+      "claim": "Por volta de 1977 tocou no Soluna; em 1980 entrou para o grupo de Sandra Mihanovich; formou o La Magia entre 1981 e 1982; carreira solo a partir de 1982",
       "sourceIds": [
         "buenamusica-bio-es"
       ],
       "verdict": "confirmed",
-      "note": "Around 1977 entry."
+      "note": "Buenamusica entries for 1977, 1980, 1981-1982."
     },
     {
-      "claim": "Em 1980 entrou para o grupo de Sandra Mihanovich como pianista e vocalista",
+      "claim": "Todo a pulmón saiu como single em 1983",
       "sourceIds": [
         "buenamusica-bio-es"
       ],
       "verdict": "confirmed",
-      "note": "1980 entry."
-    },
-    {
-      "claim": "Entre 1981 e 1982 formou o La Magia; o grupo se separou em 1982 e ele começou a carreira solo",
-      "sourceIds": [
-        "buenamusica-bio-es"
-      ],
-      "verdict": "confirmed",
-      "note": "1981, 1982 entries."
-    },
-    {
-      "claim": "'Todo a pulmon' saiu como single em 1983",
-      "sourceIds": [
-        "buenamusica-bio-es"
-      ],
-      "verdict": "confirmed",
-      "note": "1983 entry."
+      "note": "Buenamusica 1983 entry."
     },
     {
       "claim": "Em 1985 viajou aos Estados Unidos para estudar música e jazz e recebeu o Prêmio Konex como compositor de rock da década",
@@ -66,193 +50,97 @@
         "buenamusica-bio-es"
       ],
       "verdict": "confirmed",
-      "note": "1985 entry; Premio Konex (Autor/Compositor de Rock de la Decada)."
+      "note": "Buenamusica: formarse musicalmente y conocer el jazz; Konex award."
     },
     {
-      "claim": "'Juntos para siempre' virou o tema da série La banda del Golden Rocket em 1990",
+      "claim": "Juntos para siempre virou tema da série La banda del Golden Rocket em 1990; Amor infinito saiu em 1993",
       "sourceIds": [
         "buenamusica-bio-es"
       ],
       "verdict": "confirmed",
-      "note": "1990 entry."
+      "note": "Buenamusica 1990 and 1993 entries."
     },
     {
-      "claim": "O disco Amor infinito saiu em 1993",
-      "sourceIds": [
-        "buenamusica-bio-es"
-      ],
-      "verdict": "confirmed",
-      "note": "1993 entry."
-    },
-    {
-      "claim": "Reportagem do La Nación de novembro de 2001: vida dividida entre Argentina e EUA; cerca de oito anos em hotéis; disco Magic hotel",
+      "claim": "Reportagem do La Nación de novembro de 2001: vida entre Argentina e EUA, cerca de oito anos em hotéis, disco Magic hotel, El poder de los sueños na rádio da Disney para a América Latina",
       "sourceIds": [
         "lanacion-gran-rex-2001"
       ],
       "verdict": "confirmed",
-      "note": "Article dated 24 Nov 2001; 'Durante ocho anos... vivia en un hotel'; 'Tanto que le puse ese nombre a un album'."
+      "note": "Article dated 24 November 2001; all details present."
     },
     {
-      "claim": "Escreveu 'El poder de los sueños', encomendada pela rede de rádio da Disney para toda a América Latina",
-      "sourceIds": [
-        "lanacion-gran-rex-2001"
-      ],
-      "verdict": "confirmed",
-      "note": "Source says it airs on the Disney radio network across Latin America."
-    },
-    {
-      "claim": "Nos Estados Unidos o público passou a conhecê-lo melhor em 2002, quando cantou 'Hoy es adiós' com Carlos Santana",
+      "claim": "Em 2002 cantou Hoy es adiós com Carlos Santana",
       "sourceIds": [
         "buenamusica-bio-es"
       ],
       "verdict": "confirmed",
-      "note": "2002 entry; recognition in the US."
+      "note": "Buenamusica 2002 entry."
     },
     {
-      "claim": "A coletânea 20 años saiu em 1999; 'Campeones de la vida' ganhou um Martín Fierro no mesmo ano",
+      "claim": "20 años saiu em 1999, o ano em que Campeones de la vida ganhou um Martín Fierro",
       "sourceIds": [
         "buenamusica-bio-es"
       ],
       "verdict": "confirmed",
-      "note": "1999 entry."
+      "note": "Buenamusica 1999 entry."
     },
     {
-      "claim": "Discos Si quieres saber quien soy (2000), Lerner vivo (2002), Buen viaje (2003), Canciones para gente niña (2006), Enojado (2007), En vivo Gran Rex (2011), Autentico (2016), Bailando (2016)",
+      "claim": "Discografia: Si quieres saber quien soy (2000), Lerner vivo (2002), Buen viaje (2003), Canciones para gente niña (2006), Enojado (2007), En vivo Gran Rex (2011), Autentico (2016)",
       "sourceIds": [
         "buenamusica-bio-es"
       ],
       "verdict": "confirmed",
-      "note": "All years match the Buenamusica entries."
+      "note": "Each album and year appears in the Buenamusica biography."
     },
     {
-      "claim": "'Los sueños del ayer' foi a trilha sonora de Cuéntame cómo pasó, em 2017",
+      "claim": "Autentico em 2016, ano em que participou do Bailando; Los sueños del ayer trilha de Cuéntame cómo pasó em 2017",
       "sourceIds": [
         "buenamusica-bio-es"
       ],
       "verdict": "confirmed",
-      "note": "2017 entry."
+      "note": "Buenamusica 2016 and 2017 entries."
     },
     {
-      "claim": "A Telefe anunciou o retorno do MasterChef Celebrity com 24 participantes em 9 de setembro de 2026; Wanda Nara apresenta; júri Betular, Martitegui e Botana",
+      "claim": "Wanda Nara apresenta; júri formado por Damián Betular, Germán Martitegui e Maru Botana",
       "sourceIds": [
         "senal-masterchef-24-2026"
       ],
       "verdict": "confirmed",
-      "note": "Stated in the announcement."
+      "note": "Señal: conducción de Wanda Nara; jury named."
     },
     {
-      "claim": "Lerner aparece na lista de participantes desse anúncio",
-      "sourceIds": [
-        "senal-masterchef-24-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Cast list includes Alejandro Lerner."
-    },
-    {
-      "claim": "O Crónica noticiou que Pía Shaw tinha confirmado a participação dele no A la Barbarossa",
+      "claim": "Crónica: Pía Shaw confirmou a participação dele no A la Barbarossa; relatos sobre ignorância, coragem, YouTube e medo de errar",
       "sourceIds": [
         "cronica-masterchef-lerner-2026"
       ],
       "verdict": "confirmed",
-      "note": "Article dated 8 Sep 2026."
+      "note": "Article dated 8 September 2026; quotes match the source."
     },
     {
-      "claim": "Contou que o desafio lhe deu vertigem, porque precisou encarar a própria ignorância, e que depois criou coragem",
-      "sourceIds": [
-        "cronica-masterchef-lerner-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Paraphrase of 'me tuve que enfrentar a mi ignorancia' and 'Despues me animé'."
-    },
-    {
-      "claim": "Estuda em casa com vídeos do YouTube e anotações",
-      "sourceIds": [
-        "cronica-masterchef-lerner-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Stated in the article."
-    },
-    {
-      "claim": "Citação: 'Não tenho medo de errar, de jeito nenhum. Mas quero aprender'",
-      "sourceIds": [
-        "cronica-masterchef-lerner-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Source quote matches in translation."
-    },
-    {
-      "claim": "Em uma gala de eliminação noticiada pela Perfil em 6 de outubro de 2026, um respingo de óleo quente atingiu o rosto de Maru Botana",
+      "claim": "Perfil (6 de outubro de 2026): óleo quente atingiu o rosto de Maru Botana; a proposta dele ficou entre as três pior avaliadas",
       "sourceIds": [
         "perfil-masterchef-lerner-2026"
       ],
       "verdict": "confirmed",
-      "note": "Article dated 6 Oct 2026."
+      "note": "Article dated 06-10-2026; splash and ranking confirmed."
     },
     {
-      "claim": "A proposta dele ficou entre as três pior avaliadas daquela noite",
-      "sourceIds": [
-        "perfil-masterchef-lerner-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Source: 'Su propuesta quedo entre las tres peor evaluadas'."
-    },
-    {
-      "claim": "Seguiu na competição",
-      "sourceIds": [
-        "perfil-masterchef-lerner-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Source: 'Lerner consiguio seguir en competencia.'"
-    },
-    {
-      "claim": "Saiu em quarto lugar na terça-feira, 27 de outubro de 2026",
+      "claim": "Saiu em quarto lugar na terça-feira, 27 de outubro de 2026, em disputa final com Grego Rossello; desafio lemon pie",
       "sourceIds": [
         "canal26-eliminado-2026-10-27",
         "exitoina-lerner-eliminado-2026"
       ],
       "verdict": "confirmed",
-      "note": "Both sources say fourth."
+      "note": "Canal26 and Exitoina confirm position, challenge, duel and Rossello's dish."
     },
     {
-      "claim": "O desafio foi um lemon pie e a maioria dos participantes errou",
-      "sourceIds": [
-        "canal26-eliminado-2026-10-27"
-      ],
-      "verdict": "confirmed",
-      "note": "Source: 'Todos presentaron errores imperdonables'."
-    },
-    {
-      "claim": "Na disputa final enfrentou Grego Rossello, cujo prato também esteve entre os menos bem-sucedidos",
-      "sourceIds": [
-        "exitoina-lerner-eliminado-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Source names both as the two least successful dishes."
-    },
-    {
-      "claim": "O júri decidiu pela saída dele",
-      "sourceIds": [
-        "canal26-eliminado-2026-10-27"
-      ],
-      "verdict": "confirmed",
-      "note": "Canal26: 'por mayoria'. Rio Negro says unanimous. No margin in the article."
-    },
-    {
-      "claim": "Atribuiu os erros aos nervos e disse ter tido uma crise nervosa, trocando as claras pelas gemas",
+      "claim": "Atribuiu os erros aos nervos e a uma crise nervosa, trocando claras por gemas; o júri apontou massa malcozida, creme sem consistência e quantidades erradas",
       "sourceIds": [
         "canal26-eliminado-2026-10-27",
         "rionegro-lerner-eliminado-2026"
       ],
       "verdict": "confirmed",
-      "note": "Canal26: 'una crisis nerviosa'; Rio Negro: egg whites and yolks."
-    },
-    {
-      "claim": "O júri apontou que a massa estava malcozida, o creme de limão não tinha a consistência certa e as quantidades estavam erradas",
-      "sourceIds": [
-        "rionegro-lerner-eliminado-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Betular and Martitegui comments."
+      "note": "Rionegro jury criticism and nerves; Canal26 egg mix-up."
     },
     {
       "claim": "Ao apresentar o prato, disse que era feio, mas era dele",
@@ -260,45 +148,45 @@
         "canal26-eliminado-2026-10-27"
       ],
       "verdict": "confirmed",
-      "note": "Canal26: 'ugly but his own'."
+      "note": "Canal26: Es feo, pero es mío."
     },
     {
-      "claim": "Na despedida disse que voltar a se sentir um estudante foi uma experiência que levaria no coração; os colegas se despediram com abraços, aplausos e a interpretação de uma de suas músicas",
+      "claim": "Na despedida disse que voltar a se sentir estudante foi uma experiência; colegas com abraços, aplausos e uma música sua",
       "sourceIds": [
         "rionegro-lerner-eliminado-2026"
       ],
       "verdict": "confirmed",
-      "note": "Source confirms; performer not named."
+      "note": "Rionegro farewell paragraph."
     },
     {
-      "claim": "Summary, knownFor, metaDescription: cantor e compositor nascido em Buenos Aires (sem nacionalidade)",
+      "claim": "O site da Telefe publicou a despedida com título que o cita dizendo ter voltado a se sentir como no ensino médio",
+      "sourceIds": [
+        "telefe-masterchef-celebrity-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "mitelefe.com headline quoting him on secundaria."
+    },
+    {
+      "claim": "Quote 'Não tenho medo de errar, de jeito nenhum. Mas quero aprender' (translated from the Spanish original)",
+      "sourceIds": [
+        "cronica-masterchef-lerner-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Same meaning as the Spanish quote in the source; translation is faithful."
+    },
+    {
+      "claim": "FAQ: 69 anos desde 29 de outubro de 2026",
       "sourceIds": [
         "buenamusica-bio-es"
       ],
       "verdict": "confirmed",
-      "note": "Role descriptor; birthplace from Buenamusica. No nationality asserted."
-    },
-    {
-      "claim": "FAQ: tem 69 anos desde 29 de outubro de 2026",
-      "sourceIds": [
-        "buenamusica-bio-es"
-      ],
-      "verdict": "confirmed",
-      "note": "Arithmetic correct."
-    },
-    {
-      "claim": "FAQ: nasceu em Buenos Aires, Argentina, em 8 de junho de 1957",
-      "sourceIds": [
-        "buenamusica-bio-es"
-      ],
-      "verdict": "confirmed",
-      "note": "Birthplace; country is geographic."
+      "note": "Arithmetic from the confirmed birth date."
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "Timeline and press quotes add context. The body is restructured for Brazilian readers (own section titles and sentence order), not a mirror of en.",
+  "valueNote": "",
   "decision": "approve",
-  "summary": "Approved. Every claim is confirmed by a fetched source. Nationality removed; body rewritten natively for Brazilian Portuguese."
+  "summary": "All body and FAQ claims match their cited sources. Adds the Crónica quotes, the 2001 La Nación context on his years in the US, and a clear account of the elimination."
 }

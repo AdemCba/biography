@@ -1,0 +1,126 @@
+{
+  "worthWriting": true,
+  "reason": "Current Serie A news (Udinese signing, 24 Sep 2026) plus a 2021 Real Madrid move and Bayern Munich career. Enough sourced material for a page; the national-team status is disputed and is written with both reports.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "udinese-official",
+      "url": "https://www.udinese.it/",
+      "title": "Udinese Calcio official website (first-team squad list)",
+      "publisher": "Udinese Calcio",
+      "type": "official",
+      "lang": "it"
+    },
+    {
+      "id": "sosfanta-udinese-statement",
+      "url": "https://www.sosfanta.com/squadra/udinese/alaba-udinese-ufficiale-annuncio-dettagli-parole/",
+      "title": "Alaba Udinese ufficiale: annuncio, dettagli e parole",
+      "publisher": "SOS Fanta",
+      "type": "press",
+      "lang": "it"
+    },
+    {
+      "id": "italpress-udinese",
+      "url": "https://www.italpress.com/?p=750415",
+      "title": "Udinese officially announce Alaba signing",
+      "publisher": "Italpress",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "fanatik-udinese",
+      "url": "https://www.fanatik.com.tr/en/david-alaba-is-officially-with-udinese-i-still-want-to-win-2638967",
+      "title": "David Alaba is officially with Udinese! I still want to win",
+      "publisher": "Fanatik",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "irish-times-austria",
+      "url": "https://www.irishtimes.com/sport/soccer/2026/09/29/chopped-and-changed-austria-a-great-unknown-for-ireland/",
+      "title": "Chopped-and-changed Austria a great unknown for Ireland",
+      "publisher": "The Irish Times",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "weekend-at-rangnick",
+      "url": "https://www.weekend.at/sport/david-alaba-oefb-zukunft",
+      "title": "David Alaba and the ÖFB: future in doubt",
+      "publisher": "weekend.at",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "dfb-datencenter",
+      "url": "https://datencenter.dfb.de/profil/140333",
+      "title": "Informationen zum Spieler: David Alaba",
+      "publisher": "DFB Datencenter",
+      "type": "league-or-federation",
+      "lang": "de"
+    },
+    {
+      "id": "fussballtransfers",
+      "url": "https://www.fussballtransfers.com/spieler/david-olatukunbo-alaba/",
+      "title": "David Alaba player profile",
+      "publisher": "fussballtransfers.com",
+      "type": "database",
+      "lang": "de"
+    },
+    {
+      "id": "tntsports-2021",
+      "url": "https://www.tntsports.co.uk/football/liga/2020-2021/real-madrid-confirm-deal-to-sign-defender-david-alaba-on-a-free-transfer-following-exit-from-bayern-_sto8341281/story.shtml",
+      "title": "Real Madrid confirm deal to sign defender David Alaba on a free transfer",
+      "publisher": "TNT Sports",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "si-2021-alaba",
+      "url": "https://www.si.com/soccer/2021/05/28/david-alaba-real-madrid-free-transfer-bayern-munich",
+      "title": "Real Madrid Signs David Alaba on Free Transfer From Bayern Munich",
+      "publisher": "Sports Illustrated",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1992-06-24",
+      "sources": [
+        "dfb-datencenter",
+        "fussballtransfers"
+      ],
+      "note": "Both give 24.06.1992 / 24/06/1992."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Vienna, Austria",
+      "sources": [
+        "fussballtransfers"
+      ],
+      "note": "Listed as Vienna (Viena). DFB profile does not list birthplace."
+    },
+    "nationality": {
+      "value": "AT",
+      "sources": [
+        "dfb-datencenter"
+      ],
+      "note": "DFB lists Österreich. fussballtransfers also lists Nigeria; no primary source confirms it, so it is not used."
+    }
+  },
+  "targetQueries": [
+    "how old is david alaba",
+    "where is david alaba from",
+    "david alaba club now",
+    "david alaba udinese contract",
+    "david alaba real madrid",
+    "david alaba bayern munich",
+    "is david alaba in austria squad",
+    "david alaba nationality",
+    "david alaba position"
+  ],
+  "gapNote": "Top results mix outdated club status (Real Madrid listed as current) with the 2026 Udinese move, and give no clear account of why he is out of Austria's squad. Sources differ on the reason: Irish Times says he had no club when the squad was named; weekend.at quotes Rangnick saying the call was to protect Alaba from physical overload. Calf injury reports (mid-October 2026) appear only in teaser text and are not written as fact. The vienna.at squad article is from May 2025 and is not used. No World Cup results are written because none were verified."
+}

@@ -1,0 +1,171 @@
+{
+  "date": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Nascida em 17 de junho de 1999 em Moscou; KAZ no perfil WTA; representa o Cazaquistão",
+      "sourceIds": [
+        "wta-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "WTA profile matches."
+    },
+    {
+      "claim": "Número 1 do mundo (atual e melhor posição)",
+      "sourceIds": [
+        "wta-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "WTA profile: 1 and 1."
+    },
+    {
+      "claim": "Representa o Cazaquistão desde 2018",
+      "sourceIds": [
+        "nbc-boston-wimbledon-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "NBC matches."
+    },
+    {
+      "claim": "Wimbledon 2022: sábado 9 de julho, 3-6, 6-2, 6-2 contra Jabeur, terceira cabeça de chave",
+      "sourceIds": [
+        "nbc-boston-wimbledon-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches NBC."
+    },
+    {
+      "claim": "Finais da WTA 2025: sábado 8 de novembro, 6-3 e 7-6(0) contra Sabalenka; sexta cabeça de chave; quarta jogadora em sete anos; invicta em Riade; 5,235 milhões de dólares",
+      "sourceIds": [
+        "tennis-wta-finals-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches Tennis.com."
+    },
+    {
+      "claim": "Fim de ano: 11 vitórias seguidas e de volta ao top 5",
+      "sourceIds": [
+        "tennis-wta-finals-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Ningbo 2025: 3-6, 6-0, 6-2; Alexandrova ficou com o primeiro set após converter um break point no segundo game; nove games seguidos; 6-0; 3-0; set decisivo 6-2",
+      "sourceIds": [
+        "wta-ningbo-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the WTA article."
+    },
+    {
+      "claim": "Décimo título de simples na WTA e o segundo de 2025, ambos WTA 500; citação à equipe",
+      "sourceIds": [
+        "wta-ningbo-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Aberto da Austrália 31 de janeiro de 2026: 6-4, 4-6, 6-4 contra Sabalenka em 2h18; seis dos últimos sete games; 47 aces; 4,1 milhões AUD (2,75 milhões USD); segundo Grand Slam",
+      "sourceIds": [
+        "wta-australian-open-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the WTA article."
+    },
+    {
+      "claim": "US Open sábado 12 de setembro de 2026: 6-4, 5-7, 6-2 contra Sabalenka; primeiro US Open; terceiro Grand Slam; substituiria Sabalenka como número 1",
+      "sourceIds": [
+        "us-open-2026-ap"
+      ],
+      "verdict": "confirmed",
+      "note": "AP matches."
+    },
+    {
+      "claim": "Semifinal Ningbo 2026: 6-3, 7-5 contra Shnaider; Fernandez venceu Bouzkova 6-3, 7-5; Fernandez canadense",
+      "sourceIds": [
+        "wta-ningbo-preview",
+        "qatar-tribune-ningbo"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Fernandez número 30 do ranking",
+      "sourceIds": [
+        "the-star-ningbo-final"
+      ],
+      "verdict": "confirmed",
+      "note": "The Star: Fernandez is world number 30."
+    },
+    {
+      "claim": "Primeiro set em 38 minutos, quebra com 4-2; quebra para 2-1 no segundo; segundo ano e segunda vitória no torneio",
+      "sourceIds": [
+        "the-star-ningbo-final"
+      ],
+      "verdict": "confirmed",
+      "note": "The Star matches."
+    },
+    {
+      "claim": "500 pontos e 185.500 dólares; defendia os pontos como campeã em exercício; título aproximaria do número 1 de fim de ano",
+      "sourceIds": [
+        "wta-ningbo-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Quarto título da temporada, o maior número de qualquer jogadora em 2026; 15.º título da carreira",
+      "sourceIds": [
+        "qatar-tribune-ningbo",
+        "the-star-ningbo-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Both match."
+    },
+    {
+      "claim": "Rybakina venceu as Finais da WTA de 2025 em Riade",
+      "sourceIds": [
+        "tennis-wta-finals-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Tennis.com: undefeated in Riyadh."
+    },
+    {
+      "claim": "Ranking atual e melhor posição número 1; reportagens de fim de outubro a descrevem como número 1 e líder em títulos",
+      "sourceIds": [
+        "wta-profile",
+        "the-star-ningbo-final",
+        "qatar-tribune-ningbo"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "O The Star conta Ningbo como 15.º título; perfil WTA 4 nas estatísticas e 15 nos destaques",
+      "sourceIds": [
+        "the-star-ningbo-final",
+        "wta-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Idade 27 desde 29 de outubro de 2026",
+      "sourceIds": [
+        "wta-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Born 17 June 1999."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Flags the conflicting title counts and gives the match-report count.",
+  "decision": "approve",
+  "summary": "All claims checked against the sources. Earlier errors (decider 6-2, unsupported first-Grand-Slam and break-point details, Fernandez ranking cited to the wrong source, title count attributed to The Star only, defence claim) are corrected."
+}

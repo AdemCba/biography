@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 25 March 1995, age 31 on 29 Oct 2026; born in Bom Jesus das Selvas, Maranhão; Brazilian",
+      "sourceIds": [
+        "gremio-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile confirms date, place and nationality."
+    },
+    {
+      "claim": "Club history from Caldense 2016 to Grêmio 2025",
+      "sourceIds": [
+        "gremio-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Club list and years match."
+    },
+    {
+      "claim": "Fulham: 52 matches, 8 goals, 3 assists; contract ended 30 June 2025; free from start of year",
+      "sourceIds": [
+        "90min-gremio-move-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Source confirms."
+    },
+    {
+      "claim": "Presented 28 July 2025; shirt 95; contract until December 2026; Corinthians and Rio meeting",
+      "sourceIds": [
+        "gremio-presentation-2025",
+        "90min-gremio-move-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Source confirms."
+    },
+    {
+      "claim": "11 goals in 19 matches; three in three in February; Gaúcho top scorer with five; 23 goals in 33 matches",
+      "sourceIds": [
+        "gremio-february-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source confirms."
+    },
+    {
+      "claim": "Hat-trick 17 January in 5-0 over São Luiz; 1 July 2026 quotes; 31 goals in 49 matches",
+      "sourceIds": [
+        "90min-hat-trick-2026",
+        "gremio-july-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source confirms."
+    },
+    {
+      "claim": "Pre-contract talk with Atlético-MG, Vasco and Mexican club; denial; Itatiaia; 21 goals in 51 (reported)",
+      "sourceIds": [
+        "flashscore-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Source confirms; figure flagged as unverified."
+    },
+    {
+      "claim": "O Povo July 2026: keep-him effort, renewal talks since April, salary increase, contract valid until December",
+      "sourceIds": [
+        "opovo-renewal-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source confirms."
+    },
+    {
+      "claim": "NetVasco 26 Oct 2026: Vasco linked (reported); denial of pre-contract; no signed agreement",
+      "sourceIds": [
+        "netvasco-denial-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source confirms."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear club timeline and dated 2026 form from primary Grêmio figures; Vasco link labelled as reported with the player's denial.",
+  "decision": "approve",
+  "summary": "All claims match the cited sources after removing the three unsupported phrases."
+}

@@ -9,14 +9,7 @@ knownFor: >-
   Capitão da Inglaterra e atacante do Bayern de Munique, maior artilheiro da
   seleção inglesa
 summary: >-
-  Harry Kane venceu a Bola de Ouro 2026 na segunda-feira, 26 de outubro, em
-  Londres, e é o primeiro inglês a receber o prêmio em cerca de 25 anos. Ele
-  voltou a Munique, onde o Bayern tinha partidas marcadas contra o Magdeburg pela
-  Copa da Alemanha, na quarta-feira, 28 de outubro, e contra o Borussia Dortmund
-  pela Bundesliga, no sábado, 31. A Sky Sports informa um acordo em princípio
-  para renovar com o Bayern até 2029, com os documentos ainda em finalização, mas
-  nenhuma prorrogação assinada foi anunciada. Ele também é o maior artilheiro da
-  seleção inglesa.
+  Harry Kane venceu a Bola de Ouro 2026 na segunda-feira, 26 de outubro, em Londres, e é o primeiro inglês a receber o prêmio em cerca de 25 anos. Ele voltou a Munique. A partida da Copa da Alemanha contra o Magdeburg era na quarta-feira, 28 de outubro, e a da Bundesliga contra o Borussia Dortmund, no sábado, 31. A Sky Sports informa um acordo em princípio para renovar com o Bayern até 2029, com os documentos ainda em finalização, mas nenhuma prorrogação assinada foi anunciada. Ele também é o maior artilheiro da seleção inglesa.
 status: published
 risk: low
 reviewedAt: '2026-10-27'
@@ -67,11 +60,9 @@ Harry Kane chegou à cerimônia da Bola de Ouro de 26 de outubro de 2026, em Lon
 
 ## Outubro de 2026
 
-Kane venceu a Bola de Ouro à frente de Kylian Mbappé e Lamine Yamal, e a cerimônia em Londres começou 45 minutos depois do previsto por causa do trânsito [s:sky-kane-ballon-dor-win-2026]. O Bayern publicou, em inglês, que a Allianz Arena ficaria dourada para o vencedor [s:khelnow-kane-munich-welcome-2026].
+Harry Kane venceu a Bola de Ouro 2026 no London Palladium, na segunda-feira, 26 de outubro, e é o primeiro inglês a receber o prêmio em cerca de 25 anos [s:uefa-ballon-dor-ceremony-2026] [s:sky-kane-ballon-dor-win-2026]. Superou Kylian Mbappé e Lamine Yamal, e a cerimônia começou 45 minutos depois do previsto por causa do trânsito [s:sky-kane-ballon-dor-win-2026].
 
-Segundo o auxiliar técnico Aaron Danks, Kane estava voltando de Londres para Munique e deveria se apresentar ao treino na terça-feira. Danks falou da “imensa alegria que Harry viveu ontem” [s:fox-kane-munich-return-2026].
-
-A partida da Copa da Alemanha contra o 1. FC Magdeburg estava marcada para quarta-feira, 28 de outubro, na Allianz Arena, e Danks disse que Kane estaria disponível para jogar [s:fox-kane-munich-return-2026] [s:khelnow-kane-munich-welcome-2026]. As fontes usadas aqui não trazem o resultado. O jogo da Bundesliga contra o Borussia Dortmund acontece no sábado, 31 de outubro [s:khelnow-kane-munich-welcome-2026].
+O auxiliar técnico Aaron Danks disse que Kane voltava de Londres a Munique para o treino de terça-feira, e falou da “imensa alegria que Harry viveu ontem” [s:fox-kane-munich-return-2026]. O Bayern havia prometido uma recepção especial antes do jogo da Copa da Alemanha contra o 1. FC Magdeburg, na quarta-feira, 28 de outubro, e Danks disse que Kane estaria disponível para jogar [s:fox-kane-munich-return-2026] [s:khelnow-kane-munich-welcome-2026]. As fontes consultadas não trazem o resultado desse jogo. O clube também prometeu reconhecer o prêmio no jogo da Bundesliga contra o Borussia Dortmund, no sábado, 31 de outubro [s:fox-kane-munich-return-2026] [s:khelnow-kane-munich-welcome-2026].
 
 ## Mais uma artilharia da Bundesliga
 

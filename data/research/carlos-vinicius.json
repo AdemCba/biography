@@ -1,0 +1,94 @@
+{
+  "worthWriting": true,
+  "reason": "Current Grêmio striker with a club-published profile and dated 2026 season reports. Contract talks and a reported Vasco link are covered by sourced press with the player's denial.",
+  "wikidata": "",
+  "importance": 3,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "gremio-profile",
+      "url": "https://gremio.net/futebol/perfil/922",
+      "title": "Carlos Vinícius Atacante",
+      "publisher": "Grêmio FBPA (gremio.net)",
+      "type": "official",
+      "lang": "pt"
+    },
+    {
+      "id": "gremio-presentation-2025",
+      "url": "https://gremio.net/noticias/detalhes/29154/carlos-vinicius-e-apresentado-oficialmente-pelo-gremio-",
+      "title": "Carlos Vinícius é apresentado oficialmente pelo Grêmio",
+      "publisher": "Grêmio FBPA (gremio.net)",
+      "type": "official",
+      "lang": "pt"
+    },
+    {
+      "id": "gremio-february-2026",
+      "url": "https://gremio.net/noticias/detalhes/30175/carlos-vinicius-eleito-o-melhor-jogador-de-fevereiro-do-brasileirao",
+      "title": "Carlos Vinícius eleito o melhor jogador de fevereiro do Brasileirão",
+      "publisher": "Grêmio FBPA (gremio.net)",
+      "type": "official",
+      "lang": "pt"
+    },
+    {
+      "id": "netvasco-denial-2026",
+      "url": "https://netvasco.com.br/n/395179/atacante-carlos-vinicius-do-gremio-nega-ter-assinado-pre-contrato-com-o-vasco",
+      "title": "Atacante Carlos Vinícius, do Grêmio, nega ter assinado pré-contrato com o Vasco",
+      "publisher": "NetVasco",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "opovo-renewal-2026",
+      "url": "https://www.opovo.com.br/agencia/jogada10/2026/07/24/para-evitar-saida-gremio-avanca-na-renovacao-de-carlos-vinicius.html",
+      "title": "Para evitar saída, Grêmio avança na renovação de Carlos Vinícius",
+      "publisher": "O Povo (Jogada 10)",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "90min-gremio-move-2025",
+      "url": "https://www.90min.com/pt-br/negociacao-gremio-atacante-carlos-vinicius-ex-fulham-alvo-corinthians",
+      "title": "Negociação do Grêmio por Carlos Vinícius, ex-Fulham",
+      "publisher": "90min",
+      "type": "press",
+      "lang": "pt"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1995-03-25",
+      "sources": [
+        "gremio-profile"
+      ],
+      "note": "Club profile. Only official source opened."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Bom Jesus das Selvas, Maranhão",
+      "sources": [
+        "gremio-profile"
+      ],
+      "note": "Club profile lists 'Bom Jesus das Selvas /MA'. Not confirmed by a second source."
+    },
+    "nationality": {
+      "value": "BR",
+      "sources": [
+        "gremio-profile"
+      ],
+      "note": "Club profile lists 'Brasileiro'."
+    }
+  },
+  "targetQueries": [
+    "who is Carlos Vinícius",
+    "Carlos Vinícius age",
+    "Carlos Vinícius Grêmio",
+    "Carlos Vinícius Vasco",
+    "Carlos Vinícius Fulham",
+    "Carlos Vinícius goals 2026",
+    "Carlos Vinícius contract Grêmio 2026",
+    "Carlos Vinícius height",
+    "where is Carlos Vinícius from",
+    "Carlos Vinícius club now"
+  ],
+  "gapNote": "Results mix him with Vinícius Júnior and show stale 2026 goal totals. This page gives dated counts from the club, states the contract status (ends December 2026, pre-contract allowed), and reports the Vasco talk with the player's denial and the disagreement among outlets. The 2026 total after March is not confirmed by a source we opened."
+}

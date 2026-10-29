@@ -62,39 +62,47 @@ faq:
       2022-23, con 56 votos de primer puesto [s:nba-jjj-dpoy-2023]. Basketball
       Reference también recoge dos títulos de tapones y tres selecciones en el
       mejor quinteto defensivo [s:bbref-jjj].
+  - q: ¿Cuáles son las estadísticas de carrera de Jaren Jackson Jr.?
+    a: >-
+      Basketball Reference registra 18,5 puntos, 5,6 rebotes, 1,5 asistencias y
+      1,9 tapones por partido en 459 partidos, incluido su tiempo en Utah
+      [s:bbref-jjj].
   - q: ¿Hasta cuándo es su contrato de Jaren Jackson Jr.?
     a: >-
       Tiene contrato hasta la temporada 2029-30 y cuenta con una opción de
       jugador [s:nba-trade-jazz-2026].
 autoReviews: 2
 publishedAt: '2026-10-29'
+updatedAt: '2026-10-29'
 ---
 ## De Plainfield al cuarto pick
 
-Jackson nació el 15 de septiembre de 1999 en Plainfield, Nueva Jersey [s:nba-jjj-bio]. Jugó en Michigan State [s:nba-jjj-bio]. Los Memphis Grizzlies lo eligieron cuarto en el draft de 2018, el 21 de junio de ese año [s:nba-jjj-bio]. Basketball Reference le atribuye una selección en el mejor quinteto de novatos de 2018-19 [s:bbref-jjj].
+Jackson nació el 15 de septiembre de 1999 en Plainfield, Nueva Jersey [s:nba-jjj-bio]. Jugó en Michigan State, donde en la temporada 2017-18 fue elegido Novato del Año y Jugador Defensivo del Año de la Big Ten [s:nba-jjj-bio]. Los Memphis Grizzlies lo eligieron cuarto en el draft de 2018, el 21 de junio de ese año [s:nba-jjj-bio]. Basketball Reference le atribuye una selección en el mejor quinteto de novatos de 2018-19 [s:bbref-jjj]. Esa temporada de novato jugó 58 partidos y promedió 13,8 puntos, 4,7 rebotes y 1,4 tapones [s:bbref-jjj]. Antes de llegar a la NBA ayudó a Estados Unidos a ganar el oro en el Mundial FIBA Sub-17 de 2016 [s:nba-jjj-bio].
 
 ## Jugador Defensivo del Año y selecciones All-Star
 
-La NBA lo nombró Kia Jugador Defensivo del Año de 2022-23. Recibió 56 votos de primer puesto y 391 puntos, por delante de Brook Lopez, de los Milwaukee Bucks [s:nba-jjj-dpoy-2023]. Esa temporada lideró la liga con 3,0 tapones por partido [s:nba-jjj-dpoy-2023]. En su carrera, Basketball Reference le atribuye dos títulos de tapones y tres selecciones en el mejor quinteto defensivo [s:bbref-jjj].
+La NBA lo nombró Kia Jugador Defensivo del Año de 2022-23. Recibió 56 votos de primer puesto y 391 puntos, por delante de Brook Lopez, de los Milwaukee Bucks, que tuvo 31 votos de primer puesto y 309 puntos [s:nba-jjj-dpoy-2023]. El premio se anunció el 17 de abril de 2023 [s:nba-jjj-dpoy-2023]. Esa temporada lideró la liga con 3,0 tapones por partido [s:nba-jjj-dpoy-2023], y promedió 18,6 puntos y 6,8 rebotes en 63 partidos con Memphis [s:bbref-jjj].
 
-Fue suplente en el All-Star de 2023 y volvió a ser elegido para el 74.º All-Star de 2025, su segunda selección [s:actionnews5-jjj-all-star-2025]. La NBA lo cuenta como dos veces All-Star [s:nba-trade-jazz-2026]. Su posición figura como alero-pívot y lleva el número 20 en los Jazz [s:nba-jjj-bio].
+Basketball Reference recoge dos títulos de tapones y tres selecciones en el mejor quinteto defensivo a lo largo de su carrera [s:bbref-jjj]. Esas selecciones fueron de primer equipo en 2021-22 y 2022-23, y de segundo equipo en 2024-25 [s:bbref-jjj]. También terminó quinto en la votación al Jugador Defensivo del Año de 2021-22 y séptimo en 2024-25 [s:bbref-jjj].
+
+Fue suplente en el All-Star de 2023 y volvió a ser elegido para el 74.º All-Star de 2025, su segunda selección [s:actionnews5-jjj-all-star-2025]. En esa temporada 2024-25 promedió 22,2 puntos y 5,6 rebotes en 74 partidos [s:bbref-jjj]. La NBA lo cuenta como dos veces All-Star [s:nba-trade-jazz-2026]. La NBA también lo recoge en el evento NBA Rising Stars de 2019 y 2020 [s:nba-jjj-bio]. Su posición figura como alero-pívot y lleva el número 20 en los Jazz [s:nba-jjj-bio].
 
 ## Ocho temporadas en Memphis
 
-Jackson pasó ocho temporadas con los Grizzlies. En ese tiempo promedió 18,5 puntos y 5,6 rebotes [s:westhawaiitoday-jjj-trade-2026]. La línea de carrera de Basketball Reference, que incluye sus partidos con Utah, es de 18,5 puntos, 5,6 rebotes y 1,9 tapones por partido en nueve temporadas [s:bbref-jjj].
+Jackson pasó ocho temporadas con los Grizzlies [s:westhawaiitoday-jjj-trade-2026]. La línea de carrera de Basketball Reference, que incluye sus partidos con Utah, es de 18,5 puntos, 5,6 rebotes, 1,5 asistencias y 1,9 tapones por partido en nueve temporadas y 459 partidos [s:bbref-jjj].
 
 Los Grizzlies informaron de que se había lesionado el pie derecho durante actividades de baloncesto en la temporada baja y que se había operado de una lesión conocida como turf toe, en el dedo gordo del pie [s:nba-turf-toe-2025]. El equipo dijo que la cirugía se había completado, que lo reevaluarían en unas 12 semanas y que se esperaba una recuperación completa [s:nba-turf-toe-2025].
 
 ## De Memphis a Utah
 
-A principios de febrero de 2026 los Grizzlies lo traspasaron a los Jazz en un acuerdo de varios jugadores que también incluía picks del draft [s:westhawaiitoday-jjj-trade-2026]. ESPN fue el primero en informar del acuerdo, el martes 3 de febrero [s:standard-jjj-trade-2026]. Los equipos lo anunciaron esa misma noche [s:nba-trade-jazz-2026]. John Konchar, Jock Landale y Vince Williams Jr. también llegaron a Utah, y Utah envió cuatro jugadores a Memphis [s:nba-trade-jazz-2026] [s:standard-jjj-trade-2026]. Su contrato llega hasta la temporada 2029-30, con opción de jugador [s:nba-trade-jazz-2026]. Cuando se cerró el traspaso, The Standard informó de que le quedaban tres años y 151 millones de dólares de su contrato actual de cinco años [s:standard-jjj-trade-2026].
+A principios de febrero de 2026 los Grizzlies lo traspasaron a los Jazz en un acuerdo de varios jugadores que también incluía picks del draft [s:westhawaiitoday-jjj-trade-2026]. ESPN fue el primero en informar del acuerdo, el martes 3 de febrero [s:standard-jjj-trade-2026]. Los equipos lo anunciaron esa misma noche [s:nba-trade-jazz-2026]. John Konchar, Jock Landale y Vince Williams Jr. también llegaron a Utah, y Utah envió cuatro jugadores a Memphis [s:nba-trade-jazz-2026] [s:standard-jjj-trade-2026]. Memphis recibió a Walter Clayton Jr., Kyle Anderson, Taylor Hendricks y Georges Niang, además de tres futuras selecciones de primera ronda [s:nba-trade-jazz-2026]. Su contrato llega hasta la temporada 2029-30, con opción de jugador [s:nba-trade-jazz-2026]. Cuando se cerró el traspaso, The Standard informó de que le quedaban tres años y 151 millones de dólares de su contrato actual de cinco años [s:standard-jjj-trade-2026].
 
-En la temporada 2025-26 jugó 45 partidos con Memphis y tres con Utah. En esos 48 partidos promedió 19,4 puntos, 5,7 rebotes, 2,0 asistencias [s:bbref-jjj].
+En la temporada 2025-26 jugó 45 partidos con Memphis y tres con Utah. En esos 48 partidos promedió 19,4 puntos, 5,7 rebotes y 2,0 asistencias [s:bbref-jjj]. Solo con Memphis fueron 19,2 puntos, 5,8 rebotes y 1,9 asistencias por partido, y en sus tres partidos con Utah promedió 22,3 puntos [s:bbref-jjj].
 
 Un reconocimiento médico tras el traspaso reveló un crecimiento en la rodilla izquierda, y la operación estaba fijada para el descanso del All-Star [s:wsls-jjj-knee-2026]. Ese problema es independiente de la lesión que se explica a continuación.
 
 ## La lesión del LCM derecho
 
-Al inicio de la temporada 2026-27 jugó cuatro partidos con Utah, con promedios de 16,3 puntos, 5,0 rebotes y 2,0 asistencias [s:bbref-jjj]. Jackson salió pronto del partido en el segundo cuarto del lunes y no volvió [s:thescore-jjj-mcl-2026]. El equipo confirmó un desgarro del LCM de la rodilla derecha y dijo que lo reevaluarán en seis semanas [s:hoopsrumors-jjj-mcl-2026]. No necesitará cirugía [s:hoopsrumors-jjj-mcl-2026].
+Al inicio de la temporada 2026-27 jugó cuatro partidos con Utah, con promedios de 16,3 puntos, 5,0 rebotes y 2,0 asistencias [s:bbref-jjj]. En esos partidos también promedió 1,3 tapones [s:thescore-jjj-mcl-2026]. Jackson salió pronto del partido en el segundo cuarto del lunes y no volvió [s:thescore-jjj-mcl-2026]. El equipo anunció el martes que había sufrido un desgarro del LCM de la rodilla derecha y que lo reevaluarán en seis semanas [s:thescore-jjj-mcl-2026] [s:hoopsrumors-jjj-mcl-2026]. No necesitará cirugía [s:hoopsrumors-jjj-mcl-2026].
 
 El registro de lesiones de Basketball Reference, actualizado el 27 de octubre de 2026, lo recoge como baja por la rodilla durante al menos seis a ocho semanas, con un desgarro del LCM [s:bbref-jjj]. Shams Charania, de ESPN, informó de la misma baja de seis a ocho semanas [s:hoopsrumors-jjj-mcl-2026]. El titular de Yahoo Sports sobre la noticia hablaba de 6-8 semanas [s:yahoo-jjj-mcl-2026].

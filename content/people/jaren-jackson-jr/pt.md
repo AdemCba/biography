@@ -61,39 +61,47 @@ faq:
       2022-23, com 56 votos de primeiro lugar [s:nba-jjj-dpoy-2023]. O
       Basketball Reference também registra dois títulos de tocos e três seleções
       para o time defensivo ideal [s:bbref-jjj].
+  - q: Quais são as estatísticas de carreira do Jaren Jackson Jr.?
+    a: >-
+      O Basketball Reference registra 18,5 pontos, 5,6 rebotes, 1,5 assistência e
+      1,9 toco por jogo em 459 partidas, incluindo o período no Utah
+      [s:bbref-jjj].
   - q: Quanto tempo dura o contrato do Jaren Jackson Jr.?
     a: >-
       Ele tem contrato até a temporada 2029-30 e uma opção de jogador
       [s:nba-trade-jazz-2026].
 autoReviews: 2
 publishedAt: '2026-10-29'
+updatedAt: '2026-10-29'
 ---
 ## De Plainfield à quarta escolha
 
-Jackson nasceu em 15 de setembro de 1999, em Plainfield, Nova Jersey [s:nba-jjj-bio]. Jogou na Michigan State [s:nba-jjj-bio]. O Memphis Grizzlies o escolheu em quarto lugar no draft de 2018, em 21 de junho daquele ano [s:nba-jjj-bio]. O Basketball Reference registra uma seleção para o time de calouros de 2018-19 [s:bbref-jjj].
+Jackson nasceu em 15 de setembro de 1999, em Plainfield, Nova Jersey [s:nba-jjj-bio]. Jogou na Michigan State, onde em 2017-18 foi eleito o Calouro do Ano e o Jogador Defensivo do Ano da Big Ten [s:nba-jjj-bio]. O Memphis Grizzlies o escolheu em quarto lugar no draft de 2018, em 21 de junho daquele ano [s:nba-jjj-bio]. O Basketball Reference registra uma seleção para o time de calouros de 2018-19 [s:bbref-jjj]. Naquela temporada de estreia, ele jogou 58 partidas e teve médias de 13,8 pontos, 4,7 rebotes e 1,4 toco [s:bbref-jjj]. Antes da NBA, ajudou os Estados Unidos a conquistar o ouro no Mundial Sub-17 da FIBA em 2016 [s:nba-jjj-bio].
 
 ## Jogador Defensivo do Ano e seleções para o All-Star
 
-A NBA o nomeou Kia Jogador Defensivo do Ano de 2022-23. Ele recebeu 56 votos de primeiro lugar e 391 pontos, à frente de Brook Lopez, do Milwaukee Bucks [s:nba-jjj-dpoy-2023]. Naquela temporada liderou a liga com 3,0 tocos por jogo [s:nba-jjj-dpoy-2023]. Em toda a carreira, o Basketball Reference registra dois títulos de tocos e três seleções para o time defensivo ideal [s:bbref-jjj].
+A NBA o nomeou Kia Jogador Defensivo do Ano de 2022-23. Ele recebeu 56 votos de primeiro lugar e 391 pontos, à frente de Brook Lopez, do Milwaukee Bucks, que teve 31 votos de primeiro lugar e 309 pontos [s:nba-jjj-dpoy-2023]. O prêmio foi anunciado em 17 de abril de 2023 [s:nba-jjj-dpoy-2023]. Naquela temporada liderou a liga com 3,0 tocos por jogo [s:nba-jjj-dpoy-2023], e teve médias de 18,6 pontos e 6,8 rebotes em 63 jogos pelo Memphis [s:bbref-jjj].
 
-Foi reserva no All-Star de 2023 e voltou a ser escolhido para o 74.º All-Star Game, em 2025, sua segunda seleção [s:actionnews5-jjj-all-star-2025]. A NBA o registra como duas vezes All-Star [s:nba-trade-jazz-2026]. Sua posição aparece como ala-pivô, e ele usa a camisa 20 no Jazz [s:nba-jjj-bio].
+Em toda a carreira, o Basketball Reference registra dois títulos de tocos e três seleções para o time defensivo ideal [s:bbref-jjj]. Essas seleções foram de primeiro time em 2021-22 e 2022-23, e de segundo time em 2024-25 [s:bbref-jjj]. Ele também terminou em quinto na votação de Jogador Defensivo do Ano de 2021-22 e em sétimo em 2024-25 [s:bbref-jjj].
+
+Foi reserva no All-Star de 2023 e voltou a ser escolhido para o 74.º All-Star Game, em 2025, sua segunda seleção [s:actionnews5-jjj-all-star-2025]. Nessa temporada 2024-25, teve médias de 22,2 pontos e 5,6 rebotes em 74 jogos [s:bbref-jjj]. A NBA o registra como duas vezes All-Star [s:nba-trade-jazz-2026]. A biografia da NBA também o inclui no evento NBA Rising Stars em 2019 e 2020 [s:nba-jjj-bio]. Sua posição aparece como ala-pivô, e ele usa a camisa 20 no Jazz [s:nba-jjj-bio].
 
 ## Oito temporadas no Memphis
 
-Jackson passou oito temporadas no Grizzlies. Nesse período teve médias de 18,5 pontos e 5,6 rebotes [s:westhawaiitoday-jjj-trade-2026]. A linha de carreira do Basketball Reference, que inclui seus jogos pelo Utah, é de 18,5 pontos, 5,6 rebotes e 1,9 toco por jogo em nove temporadas [s:bbref-jjj].
+Jackson passou oito temporadas no Grizzlies [s:westhawaiitoday-jjj-trade-2026]. A linha de carreira do Basketball Reference, que inclui seus jogos pelo Utah, é de 18,5 pontos, 5,6 rebotes, 1,5 assistência e 1,9 toco por jogo em nove temporadas e 459 partidas [s:bbref-jjj].
 
 O Grizzlies informou que ele havia machucado o pé direito durante atividades de basquete na entressafra e que tinha sido operado de uma lesão conhecida como turf toe, no dedo grande do pé [s:nba-turf-toe-2025]. O clube disse que a cirurgia foi concluída, que ele seria reavaliado em cerca de 12 semanas e que se espera uma recuperação completa [s:nba-turf-toe-2025].
 
 ## Do Memphis ao Utah
 
-No início de fevereiro de 2026, o Grizzlies o trocou para o Jazz em um acordo com vários jogadores, que também envolvia escolhas de draft [s:westhawaiitoday-jjj-trade-2026]. A ESPN foi a primeira a noticiar o acordo, na terça-feira, 3 de fevereiro [s:standard-jjj-trade-2026]. As equipes anunciaram a troca naquela noite [s:nba-trade-jazz-2026]. John Konchar, Jock Landale e Vince Williams Jr. também foram para o Utah, e o Utah mandou quatro jogadores para o Memphis [s:nba-trade-jazz-2026] [s:standard-jjj-trade-2026]. O contrato vai até a temporada 2029-30, com opção de jogador [s:nba-trade-jazz-2026]. Na época da troca, o The Standard informou que restavam três anos e 151 milhões de dólares em seu contrato atual de cinco anos [s:standard-jjj-trade-2026].
+No início de fevereiro de 2026, o Grizzlies o trocou para o Jazz em um acordo com vários jogadores, que também envolvia escolhas de draft [s:westhawaiitoday-jjj-trade-2026]. A ESPN foi a primeira a noticiar o acordo, na terça-feira, 3 de fevereiro [s:standard-jjj-trade-2026]. As equipes anunciaram a troca naquela noite [s:nba-trade-jazz-2026]. John Konchar, Jock Landale e Vince Williams Jr. também foram para o Utah, e o Utah mandou quatro jogadores para o Memphis [s:nba-trade-jazz-2026] [s:standard-jjj-trade-2026]. O Memphis recebeu Walter Clayton Jr., Kyle Anderson, Taylor Hendricks e Georges Niang, além de três escolhas de primeira rodada futuras [s:nba-trade-jazz-2026]. O contrato vai até a temporada 2029-30, com opção de jogador [s:nba-trade-jazz-2026]. Na época da troca, o The Standard informou que restavam três anos e 151 milhões de dólares em seu contrato atual de cinco anos [s:standard-jjj-trade-2026].
 
-Na temporada 2025-26 ele jogou 45 partidas pelo Memphis e três pelo Utah. Nessas 48 partidas, teve médias de 19,4 pontos, 5,7 rebotes, 2,0 assistências [s:bbref-jjj].
+Na temporada 2025-26 ele jogou 45 partidas pelo Memphis e três pelo Utah. Nessas 48 partidas, teve médias de 19,4 pontos, 5,7 rebotes e 2,0 assistências [s:bbref-jjj]. Só pelo Memphis foram 19,2 pontos, 5,8 rebotes e 1,9 assistência por jogo, e nos três jogos pelo Utah ele teve média de 22,3 pontos [s:bbref-jjj].
 
 Um exame médico feito depois da troca revelou um crescimento no joelho esquerdo, e a cirurgia estava marcada para o intervalo do All-Star [s:wsls-jjj-knee-2026]. Esse problema é separado da lesão descrita a seguir.
 
 ## A ruptura do LCM direito
 
-No início da temporada 2026-27 ele jogou quatro partidas pelo Utah, com médias de 16,3 pontos, 5,0 rebotes e 2,0 assistências [s:bbref-jjj]. Jackson saiu cedo do jogo no segundo quarto da segunda-feira e não voltou [s:thescore-jjj-mcl-2026]. O time confirmou a ruptura do LCM do joelho direito e disse que o reavaliará em seis semanas [s:hoopsrumors-jjj-mcl-2026]. Ele não precisará de cirurgia [s:hoopsrumors-jjj-mcl-2026].
+No início da temporada 2026-27 ele jogou quatro partidas pelo Utah, com médias de 16,3 pontos, 5,0 rebotes e 2,0 assistências [s:bbref-jjj]. Nesses jogos, também teve média de 1,3 toco por partida [s:thescore-jjj-mcl-2026]. Jackson saiu cedo do jogo no segundo quarto da segunda-feira e não voltou [s:thescore-jjj-mcl-2026]. O time anunciou na terça-feira a ruptura do LCM do joelho direito e disse que o reavaliará em seis semanas [s:thescore-jjj-mcl-2026] [s:hoopsrumors-jjj-mcl-2026]. Ele não precisará de cirurgia [s:hoopsrumors-jjj-mcl-2026].
 
 O registro de lesões do Basketball Reference, atualizado em 27 de outubro de 2026, o lista fora por causa do joelho por pelo menos seis a oito semanas, com ruptura do LCM [s:bbref-jjj]. Shams Charania, da ESPN, informou o mesmo afastamento de seis a oito semanas [s:hoopsrumors-jjj-mcl-2026]. O título da Yahoo Sports sobre a notícia falava em 6 a 8 semanas [s:yahoo-jjj-mcl-2026].

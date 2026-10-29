@@ -1,0 +1,268 @@
+{
+  "date": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Nacido el 24 de junio de 1992 en Viena; 34 años a 29 oct 2026",
+      "sourceIds": [
+        "dfb-datencenter",
+        "fussballtransfers"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB and fussballtransfers give 24.06.1992; fussballtransfers gives Viena Österreich."
+    },
+    {
+      "claim": "Nacionalidad austriaca",
+      "sourceIds": [
+        "dfb-datencenter"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB: Nation Österreich."
+    },
+    {
+      "claim": "Fichaje por el Udinese el 24 de septiembre de 2026",
+      "sourceIds": [
+        "italpress-udinese",
+        "fussballtransfers"
+      ],
+      "verdict": "confirmed",
+      "note": "Italpress dated 24 Sept 2026; fussballtransfers 'Im Klub seit 24/09/2026'."
+    },
+    {
+      "claim": "Contrato hasta el 30 de junio de 2027",
+      "sourceIds": [
+        "italpress-udinese",
+        "sosfanta-udinese-statement"
+      ],
+      "verdict": "confirmed",
+      "note": "Italpress and SOS Fanta give 30 June 2027. Fanatik says only 'June 2027'; cite italpress-udinese."
+    },
+    {
+      "claim": "Defensa en la lista del primer equipo, dorsal 5",
+      "sourceIds": [
+        "udinese-official"
+      ],
+      "verdict": "confirmed",
+      "note": "Entry '5 David Alaba' under difensori."
+    },
+    {
+      "claim": "Bayern: 431 partidos en 13 temporadas, diez Ligas, dos Champions",
+      "sourceIds": [
+        "si-2021-alaba",
+        "tntsports-2021"
+      ],
+      "verdict": "confirmed",
+      "note": "SI and TNT match."
+    },
+    {
+      "claim": "Fin de la etapa en el Bayern el 30 de junio de 2021 (DFB)",
+      "sourceIds": [
+        "dfb-datencenter"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Llegó en 2008 desde el reserva del Austria Viena",
+      "sourceIds": [
+        "bundesliga-alaba-landmarks"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match in substance."
+    },
+    {
+      "claim": "Debut en la Copa el 10 feb 2010 vs Greuther Fürth, 17 años y 232 días, el más joven",
+      "sourceIds": [
+        "bundesliga-alaba-landmarks"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Cesión al Hoffenheim, 17 partidos de Bundesliga",
+      "sourceIds": [
+        "bundesliga-alaba-landmarks"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Van Gaal lateral izquierdo, Guardiola central, Flick central fijo; 298 partidos",
+      "sourceIds": [
+        "bundesliga-alaba-landmarks"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Capitán en el partido 400, dic 2020 vs Atlético",
+      "sourceIds": [
+        "bundesliga-alaba-landmarks"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Triplete 2012/13 (23/11/4); sanción en la final de 2012",
+      "sourceIds": [
+        "bundesliga-alaba-landmarks"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Triplete 2019/20 con Flick; 2020/21 décimo título, 17 min antes del final vs Augsburgo",
+      "sourceIds": [
+        "bundesliga-alaba-landmarks"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Seis medallas de la Copa; la primera en 2010, sin convocatoria",
+      "sourceIds": [
+        "bundesliga-alaba-landmarks"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Real Madrid confirmó el fichaje libre el 28 de mayo de 2021, con 28 años; sin condiciones",
+      "sourceIds": [
+        "tntsports-2021",
+        "si-2021-alaba"
+      ],
+      "verdict": "confirmed",
+      "note": "TNT dated 28/05/2021; SI: 28-year-old; Real did not provide details."
+    },
+    {
+      "claim": "Real: La Liga y Champions 2022 vs Liverpool",
+      "sourceIds": [
+        "bundesliga-alaba-landmarks"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Debut con Austria 14 oct 2009, derrota 1-3 en París",
+      "sourceIds": [
+        "tt-steckbrief-oefb-2016"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Futbolista más joven de la historia del ÖFB, 17 años y tres meses",
+      "sourceIds": [
+        "salzburg24-moldova-2017"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Perfil ÖFB a 1 jun 2016: 45 internacionalidades, 11 goles",
+      "sourceIds": [
+        "tt-steckbrief-oefb-2016"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Koller lo nombra capitán vs Moldavia, eliminatoria Mundial, 55.ª internacionalidad, solo ese partido",
+      "sourceIds": [
+        "salzburg24-moldova-2017"
+      ],
+      "verdict": "confirmed",
+      "note": "WM-Qualifikationsspiel; Koller: only for that game."
+    },
+    {
+      "claim": "Liberado por el Real Madrid al final de 2025-26, sin club",
+      "sourceIds": [
+        "irish-times-austria"
+      ],
+      "verdict": "confirmed",
+      "note": "Irish Times: released at end of last season."
+    },
+    {
+      "claim": "A mediados de septiembre seguía buscando club, sin partido oficial desde principios de julio de 2026",
+      "sourceIds": [
+        "weekend-at-rangnick"
+      ],
+      "verdict": "confirmed",
+      "note": "Report of 15.09.2026."
+    },
+    {
+      "claim": "Rangnick lo dejó fuera para los partidos de la Liga de Naciones (15 sep 2026)",
+      "sourceIds": [
+        "weekend-at-rangnick"
+      ],
+      "verdict": "confirmed",
+      "note": "'für die anstehenden Nations-League-Duelle wurde er nicht nominiert'."
+    },
+    {
+      "claim": "Informe indica: decisión tras llamadas, buscaba proteger a Alaba de sobrecarga física",
+      "sourceIds": [
+        "weekend-at-rangnick"
+      ],
+      "verdict": "confirmed",
+      "note": "Now attributed to the report, not Rangnick. Report narration confirms both points."
+    },
+    {
+      "claim": "Irish Times: sin club hasta Udinese, por eso quedó fuera de la ventana",
+      "sourceIds": [
+        "irish-times-austria"
+      ],
+      "verdict": "confirmed",
+      "note": "'signed for Udinese last week, so he was omitted for this window'."
+    },
+    {
+      "claim": "No retirado de la selección; ausencia en noviembre realista",
+      "sourceIds": [
+        "weekend-at-rangnick"
+      ],
+      "verdict": "confirmed",
+      "note": "'vorerst unbestätigt'; 'ein reales Szenario'."
+    },
+    {
+      "claim": "Centrales Danso, Affengruber, Bacher; jóvenes Querfeld y Ndukwe",
+      "sourceIds": [
+        "weekend-at-rangnick"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Revisión en marzo de 2027 solo con fichaje rápido y regreso sin problemas",
+      "sourceIds": [
+        "weekend-at-rangnick"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: quick signing and error-free return."
+    },
+    {
+      "claim": "Collavino: campeón consolidado, líder, profesional ejemplar",
+      "sourceIds": [
+        "italpress-udinese"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Alaba: 'Todavía quiero ganar'",
+      "sourceIds": [
+        "fanatik-udinese",
+        "sosfanta-udinese-statement"
+      ],
+      "verdict": "confirmed",
+      "note": "English 'I still want to win'; Italian 'Voglio vincere ancora'."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Dated timeline with primary-source checks and both accounts of the Nations League dispute.",
+  "decision": "approve",
+  "summary": "Rewording fixes the misattributed quote; all other claims confirmed."
+}

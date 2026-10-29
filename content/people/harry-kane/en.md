@@ -7,13 +7,7 @@ metaDescription: >-
   first Englishman to win it in 25 years. His Bayern and England record.
 knownFor: 'England captain and Bayern Munich striker, England''s record goalscorer'
 summary: >-
-  Harry Kane won the 2026 Ballon d'Or in London on Monday 26 October, the first
-  Englishman to take the award in about 25 years. He travelled back to Munich,
-  where Bayern were scheduled to play Magdeburg in the German Cup on Wednesday 28
-  October and Borussia Dortmund in the Bundesliga on Saturday 31 October. Sky
-  Sports reports that he has agreed a new Bayern deal in principle until 2029,
-  with the paperwork still being finalised, but no signed extension has been
-  announced. He is also England's record goalscorer.
+  Harry Kane won the 2026 Ballon d'Or in London on Monday 26 October, the first Englishman to take the award in about 25 years. He returned to Munich, where Bayern's German Cup tie against Magdeburg was on Wednesday 28 October, and Bayern play Borussia Dortmund in the Bundesliga on Saturday 31 October. Sky Sports reports that he has agreed a new Bayern deal in principle until 2029, with the paperwork still being finalised, but no signed extension has been announced. He is also England's record goalscorer.
 status: published
 risk: low
 publishedAt: '2026-10-28'
@@ -68,15 +62,13 @@ faq:
       him 14 World Cup goals.
 autoReviews: 2
 ---
-Harry Kane won the 2026 Ballon d'Or on Monday 26 October at the London Palladium, the first Englishman to win it in about 25 years [s:uefa-ballon-dor-ceremony-2026] [s:sky-kane-ballon-dor-win-2026]. He is Bayern's fourth Ballon d'Or winner, after Franz Beckenbauer, Gerd Müller and Karl-Heinz Rummenigge, [s:fox-kane-munich-return-2026]. Born on 28 July 1993, he is 33 [s:wikidata-q969725] [s:khelnow-kane-munich-welcome-2026].
+Harry Kane won the 2026 Ballon d'Or on Monday 26 October at the London Palladium, the first Englishman to win it in about 25 years [s:uefa-ballon-dor-ceremony-2026] [s:sky-kane-ballon-dor-win-2026]. He is Bayern's fourth Ballon d'Or winner, after Franz Beckenbauer, Gerd Müller and Karl-Heinz Rummenigge [s:fox-kane-munich-return-2026]. Born on 28 July 1993, he is 33 [s:wikidata-q969725] [s:khelnow-kane-munich-welcome-2026].
 
 ## October 2026
 
-Kane beat Kylian Mbappé and Lamine Yamal to the award, and the London ceremony began 45 minutes late because of traffic [s:sky-kane-ballon-dor-win-2026]. On 27 October, FC Bayern's English account posted that the Allianz Arena would shine in gold for him [s:khelnow-kane-munich-welcome-2026].
+Kane won the 2026 Ballon d'Or at the London Palladium on Monday 26 October, the first Englishman to win it in about 25 years [s:uefa-ballon-dor-ceremony-2026] [s:sky-kane-ballon-dor-win-2026]. He beat Kylian Mbappé and Lamine Yamal, and the ceremony began 45 minutes late because of traffic [s:sky-kane-ballon-dor-win-2026].
 
-Aaron Danks, Bayern's assistant coach, said Kane was travelling from London back to Munich and was due to join training on Tuesday. He spoke of "the immense joy Harry experienced yesterday" [s:fox-kane-munich-return-2026].
-
-The DFB-Pokal tie against 1. FC Magdeburg was scheduled for Wednesday 28 October at the Allianz Arena, and Danks said Kane would be available to play [s:fox-kane-munich-return-2026] [s:khelnow-kane-munich-welcome-2026]. The sources used here do not report its result. The Bundesliga clash with Borussia Dortmund is on Saturday 31 October [s:khelnow-kane-munich-welcome-2026].
+Bayern's assistant coach Aaron Danks said Kane was travelling from London to Munich to join training on Tuesday, and spoke of "the immense joy Harry experienced yesterday" [s:fox-kane-munich-return-2026]. Bayern had promised him a special welcome before the German Cup tie against 1. FC Magdeburg on Wednesday 28 October, and Danks said Kane would be available to play [s:fox-kane-munich-return-2026] [s:khelnow-kane-munich-welcome-2026]. The sources checked for this page do not report the result of that match. Bayern also promised to recognise the award when they face Borussia Dortmund on Saturday 31 October [s:fox-kane-munich-return-2026] [s:khelnow-kane-munich-welcome-2026].
 
 ## Bundesliga top scorer for a third year
 
@@ -112,4 +104,4 @@ At the 2018 World Cup England reached the semi-finals and Kane won the Golden Bo
 
 Sky Sports reported on 16 October that Kane had agreed a new deal in principle with Bayern Munich until the summer of 2029, and that the club was finalising the paperwork on the extension [s:sky-kane-bayern-deal-2029]. The report added that a few things still needed to be ironed out before confirmation [s:sky-kane-bayern-deal-2029]. No official Bayern announcement of a signed extension was found for this page, so the deal is reported as agreed in principle, not as signed.
 
-The talks came first. Kane confirmed them in a report dated 29 August 2026 [s:nst-bayern-extension-talks-2026]. The same day, Bayern's Jan-Christian Dreesen said "Die Chemie stimmt total", that the chemistry is right [s:bundesliga-kane-talks-de-2026]. “The first meeting started last week,” he said, adding that “there's no panic from either side” [s:nst-bayern-extension-talks-2026]. He also said “I'm sure we'll get to a point where both sides are happy” [s:nst-bayern-extension-talks-2026].
+The talks came first. Kane confirmed them in a report dated 29 August 2026 [s:nst-bayern-extension-talks-2026]. The same day, Bayern's Jan-Christian Dreesen said the chemistry was "totally right" [s:bundesliga-kane-talks-de-2026]. “The first meeting started last week,” he said, adding that “there's no panic from either side” [s:nst-bayern-extension-talks-2026]. He also said “I'm sure we'll get to a point where both sides are happy” [s:nst-bayern-extension-talks-2026].

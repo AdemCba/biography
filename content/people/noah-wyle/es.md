@@ -3,14 +3,13 @@ title: 'Noah Wyle: ER, The Pitt y el hombre más sexy vivo de 2026'
 slug: noah-wyle
 metaTitle: 'Noah Wyle: hombre más sexy 2026, ER y The Pitt'
 metaDescription: >-
-  Noah Wyle, elegido hombre más sexy vivo de 2026 por People: su etapa en ER,
-  dos Emmy por The Pitt, la temporada 3 y sus primeros papeles en televisión.
+  People nombró a Noah Wyle hombre más sexy vivo de 2026 el 27 de octubre de 2026, unas semanas después de su segundo Emmy por The Pitt.
 knownFor: El doctor John Carter en ER y el doctor Robby en The Pitt
 summary: >-
   People nombró a Noah Wyle su hombre más sexy vivo de 2026 el 27 de octubre de
   2026. Es conocido por interpretar al doctor John Carter en ER y al doctor
   Michael «Robby» Robinavitch en The Pitt, el papel que le valió dos Emmy como
-  mejor actor protagonista de drama.
+  mejor actor protagonista de drama en 2025 y 2026.
 status: published
 risk: medium
 reviewedAt: '2026-10-27'
@@ -19,33 +18,37 @@ author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
-  - Noah Wyle hombre más sexy del mundo 2026
-  - cuántos años tiene Noah Wyle
-  - Noah Wyle temporada 3 The Pitt
-  - Noah Wyle premios Emmy
-  - Noah Wyle ER doctor John Carter
-  - Noah Wyle películas y series
-  - Noah Wyle Falling Skies
-  - Noah Wyle The Librarian
+  - noah wyle sexiest man alive
+  - noah wyle people
+  - noah wyle er
+  - noah wyle the pitt
+  - noah wyle películas y programas de televisión
+  - noah wyle donnie darko
+  - noah wyle a few good men
+  - noah wyle actor
 faq:
   - q: ¿Cuántos años tiene Noah Wyle?
-    a: 'Nació el 4 de junio de 1971, así que cumplió 55 años en 2026.'
+    a: 'Nació el 4 de junio de 1971, así que cumplió 55 años en 2026 [s:encyclopedia-wyle].'
+  - q: ¿Por qué se habla de Noah Wyle en octubre de 2026?
+    a: 'People lo nombró hombre más sexy vivo de 2026 el 27 de octubre de 2026 [s:abc-sexiest-2026].'
   - q: ¿Cuándo se estrena la temporada 3 de The Pitt?
     a: >-
-      HBO Max no ha anunciado una fecha exacta. La prensa especializada apunta a
-      enero de 2027.
+      HBO Max no ha anunciado una fecha exacta [s:tvline-season3]. La prensa especializada apunta a enero de 2027 [s:variety-au-season3-trailer].
   - q: ¿Cuántos Emmy ha ganado Noah Wyle?
     a: >-
-      Dos como actor, ambos a mejor actor protagonista de drama por The Pitt, en
-      2025 y 2026.
+      Dos como actor, ambos a mejor actor protagonista de drama por The Pitt, en 2025 y 2026 [s:variety-au-emmy-2025][s:variety-au-emmy-2026].
   - q: ¿Qué papel tenía Noah Wyle en ER?
     a: >-
-      Interpretó al doctor John Carter desde 1994 y fue nominado al Emmy como
-      actor de reparto cada año entre 1995 y 1999.
+      Interpretó al doctor John Carter desde 1994 y fue nominado al Emmy como actor de reparto cada año entre 1995 y 1999 [s:yahoo-sexiest-2026][s:tva-er].
 autoReviews: 1
 publishedAt: '2026-10-27'
+updatedAt: '2026-10-29'
 ---
-People nombró a Noah Wyle su hombre más sexy vivo de 2026 el 27 de octubre de 2026, unas cuatro semanas después de que ganara por segunda vez seguida el Emmy al mejor actor protagonista de drama por The Pitt [s:abc-sexiest-2026][s:tva-the-pitt]. Cuando se enteró, pensó que era una broma: dijo que la noticia «sonaba a broma» [s:yahoo-sexiest-2026]. «Ni en un millón de años pensé que esto sería un honor que me concedieran en esta vida», dijo [s:abc-sexiest-2026].
+Noah Wyle está en las noticias porque People lo nombró hombre más sexy vivo de 2026 el 27 de octubre de 2026 [s:abc-sexiest-2026]. Es conocido por dos series médicas: ER, donde interpretó al doctor John Carter [s:tva-er], y The Pitt, donde interpreta al doctor Michael «Robby» Robinavitch [s:abc-sexiest-2026].
+
+## Octubre de 2026
+
+People publicó el nombramiento el martes 27 de octubre de 2026 [s:yahoo-sexiest-2026], unas seis semanas después de que Wyle ganara por segunda vez seguida el Emmy al mejor actor protagonista de drama por The Pitt [s:variety-au-emmy-2026]. Cuando se enteró, dijo que la noticia «sonaba a broma» [s:yahoo-sexiest-2026]. «Ni en un millón de años pensé que esto sería un honor que me concedieran en esta vida», dijo [s:abc-sexiest-2026].
 
 ## De ER a The Pitt
 
@@ -53,7 +56,7 @@ El primer gran papel de Wyle fue el del doctor John Carter en ER, que empezó a 
 
 ## Dos Emmy por The Pitt
 
-The Pitt se estrenó en HBO Max en enero de 2025, y HBO la renovó para una segunda temporada ese mismo febrero [s:variety-au-emmy-2025]. Es un drama médico, y Wyle interpreta al doctor Michael «Robby» Robinavitch, el personaje principal [s:abc-sexiest-2026]. Ganó el Emmy al mejor actor protagonista de drama por ese papel en 2025 y de nuevo en 2026 [s:tva-the-pitt]. El premio de 2025 fue su primer Emmy como actor. Ese día dijo que estar en la categoría era «el honor de una vida», y se dirigió a los trabajadores por turnos: «si alguien entra de guardia esta noche o sale de ella, gracias por estar en ese trabajo» [s:variety-au-emmy-2025]. Esa temporada la serie fue nominada a mejor serie dramática, pero no la ganó [s:variety-au-emmy-2025]. Ese mismo año superó a Mark Ruffalo, Gary Oldman, Sterling K. Brown y Rufus Sewell [s:variety-au-emmy-2026]. Variety señala que es el quinto actor que gana el Emmy de drama protagonista por las dos primeras temporadas de una serie, y el primero desde Bryan Cranston en 2009 [s:variety-au-emmy-2026]. Al recibirlo dijo: «Esto es todo lo que siempre he querido hacer» [s:variety-au-emmy-2026]. Ese año fue nominado también al Emmy a mejor dirección en una serie dramática [s:tva-the-pitt].
+The Pitt se estrenó en HBO Max en enero de 2025, y HBO la renovó para una segunda temporada ese mismo febrero [s:variety-au-emmy-2025]. Es un drama médico, y Wyle interpreta al doctor Michael «Robby» Robinavitch, el personaje principal [s:abc-sexiest-2026]. Ganó el Emmy al mejor actor protagonista de drama por ese papel en 2025 y de nuevo en 2026 [s:tva-the-pitt]. El premio de 2025 fue su primer Emmy como actor. Dijo que ver su nombre incluido entre los nominados era «el honor de una vida», y se dirigió a los trabajadores por turnos: «si alguien entra de guardia esta noche o sale de ella, gracias por estar en ese trabajo» [s:variety-au-emmy-2025]. La serie se llevó los premios de mejor actor protagonista y de mejor serie dramática en los Emmy de 2025, y también en los Globos de Oro de 2026 y los Critics Choice Awards de 2026 [s:shoot-icg-2026]. En 2026 superó a Mark Ruffalo, Gary Oldman, Sterling K. Brown y Rufus Sewell [s:variety-au-emmy-2026]. Variety señala que es el quinto actor que gana el Emmy de drama protagonista por las dos primeras temporadas de una serie, y el primero desde Bryan Cranston en 2009 [s:variety-au-emmy-2026]. Al recibirlo dijo: «Esto es todo lo que siempre he querido hacer» [s:variety-au-emmy-2026]. Ese año fue nominado también al Emmy a mejor dirección en una serie dramática [s:tva-the-pitt].
 
 ## Detrás de cámara y los premios de la serie
 

@@ -1,0 +1,96 @@
+{
+  "worthWriting": true,
+  "reason": "Current Bundesliga regular and Algeria international, named on the 2026 Men's Young Talent of the Year shortlist. Official club and league pages cover the basics; the current contract talks and PSG interest are sourced to press reports only.",
+  "wikidata": "",
+  "importance": 3,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "bayer04-transfer",
+      "url": "https://www.bayer04.de/en-us/news/bayer04/bayer-04-sign-maza-from-hertha-berlin",
+      "title": "Bayer 04 sign Maza from Hertha Berlin",
+      "publisher": "Bayer 04 Leverkusen",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "bayer04-young-talent",
+      "url": "https://www.bayer04.de/en-us/news/bayer04/ballon-dor-2026-maza-nominated-as-mens-young-talent-of-the-year",
+      "title": "Ballon d'Or 2026: Maza nominated as Men's Young Talent of the Year",
+      "publisher": "Bayer 04 Leverkusen",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "bundesliga-player",
+      "url": "https://www.bundesliga.com/en/2bundesliga/player/ibrahim-maza",
+      "title": "Ibrahim Maza player profile",
+      "publisher": "Bundesliga",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "fotmob-player",
+      "url": "https://www.fotmob.com/players/1457626",
+      "title": "Ibrahim Maza player profile",
+      "publisher": "FotMob",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "leverkusen-talks-report",
+      "url": "https://www.getfootballnewsgermany.com/2026/bayer-leverkusen-in-talks-with-ibrahim-maza-over-contract-extension/",
+      "title": "Bayer Leverkusen in talks with Ibrahim Maza over contract extension",
+      "publisher": "GetFootballNewsGermany",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "psg-interest-report",
+      "url": "https://bulinews.com/psg-weigh-january-move-for-leverkusen-star",
+      "title": "PSG weigh January move for Leverkusen star",
+      "publisher": "Bulinews",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "2005-11-24",
+      "sources": [
+        "bundesliga-player",
+        "fotmob-player"
+      ],
+      "note": "Bundesliga profile and FotMob both give 24 November 2005. He was 20 on 29 October 2026."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Berlin",
+      "sources": [
+        "bayer04-transfer"
+      ],
+      "note": "Club announcement calls him the German-Algerian born in Berlin. The Bundesliga profile gives no birthplace."
+    },
+    "nationality": {
+      "value": "DZ,DE",
+      "sources": [
+        "bundesliga-player",
+        "bayer04-transfer"
+      ],
+      "note": "Bundesliga profile lists Algeria and Germany. Club says he is German-Algerian and opted for Algeria in 2024 after 13 appearances for Germany U18 to U20."
+    }
+  },
+  "targetQueries": [
+    "ibrahim maza age",
+    "ibrahim maza nationality",
+    "ibrahim maza algeria",
+    "ibrahim maza transfer",
+    "ibrahim maza contract",
+    "ibrahim maza psg",
+    "ibrahim maza height",
+    "ibrahim maza ballon d or",
+    "ibrahim maza stats",
+    "ibrahim maza club"
+  ],
+  "gapNote": "Official club profile gives the 2025 Hertha transfer, the 2030 contract and the Kopa shortlist. Press on the 2026 talks and PSG interest is sourced but unconfirmed. Stat figures conflict: the Bundesliga page shows 2026/27 totals (7 apps, 2 goals, 2 assists), and the club says 44 apps last season across all competitions. No goal and assist total for 2025-26 was verified, so the page omits it. Placing in the Kopa vote was reported by one French outlet only and is omitted."
+}

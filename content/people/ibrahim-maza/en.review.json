@@ -1,0 +1,224 @@
+{
+  "date": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Ibrahim Maza was born on 24 November 2005, so he is 20 (summary, FAQ, body)",
+      "sourceIds": [
+        "bundesliga-player",
+        "fotmob-player"
+      ],
+      "verdict": "confirmed",
+      "note": "Bundesliga profile gives 24.11.2005 and age 20; FotMob gives November 24, 2005, age 20."
+    },
+    {
+      "claim": "Born in Berlin",
+      "sourceIds": [
+        "bayer04-transfer"
+      ],
+      "verdict": "confirmed",
+      "note": "Club announcement: 'the German-Algerian born in Berlin'."
+    },
+    {
+      "claim": "Nationality: German-Algerian; plays for Algeria",
+      "sourceIds": [
+        "bayer04-transfer",
+        "bundesliga-player"
+      ],
+      "verdict": "confirmed",
+      "note": "Club says German-Algerian and 'Algeria international'; Bundesliga lists Algeria (DZA) and Germany (DEU)."
+    },
+    {
+      "claim": "Came through Hertha BSC youth section; moved to Leverkusen in summer 2025",
+      "sourceIds": [
+        "bayer04-young-talent"
+      ],
+      "verdict": "confirmed",
+      "note": "'moved from the youth section at Hertha Berlin to Leverkusen in the summer of 2025'."
+    },
+    {
+      "claim": "Signed from Hertha BSC on a contract to 30 June 2030; signing announced 1 May 2025",
+      "sourceIds": [
+        "bayer04-transfer"
+      ],
+      "verdict": "confirmed",
+      "note": "'signed a contract to 30 June 2030'; article dated 1.05.2025."
+    },
+    {
+      "claim": "44 appearances for Leverkusen in all competitions last season",
+      "sourceIds": [
+        "bayer04-young-talent"
+      ],
+      "verdict": "confirmed",
+      "note": "'made 44 appearances for the Werkself across all competitions'."
+    },
+    {
+      "claim": "Scored equaliser on 27 May 2023 at Wolfsburg, came on in the 46th minute, goal in the 55th, Hertha won 2-1",
+      "sourceIds": [
+        "hertha-wolfsburg-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Match report: 27 May 2023, Wolfsburg 1-2 Hertha, substitution 46th, goal 55th at 1-1."
+    },
+    {
+      "claim": "Quote: 'the best opportunities to develop and improve with Hertha in the second division'; Hertha were in the second division",
+      "sourceIds": [
+        "bayer04-transfer"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote present; article calls Hertha 'Bundesliga 2 side'."
+    },
+    {
+      "claim": "Simon Rolfes: 'currently one of the most interesting young attacking players'",
+      "sourceIds": [
+        "bayer04-transfer"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote present; article names Rolfes as sporting managing director."
+    },
+    {
+      "claim": "Made 13 appearances for Germany U18, U19 and U20 before opting for Algeria in 2024",
+      "sourceIds": [
+        "bayer04-transfer"
+      ],
+      "verdict": "confirmed",
+      "note": "'13 appearances for the Germany U18, U19 and U20 teams' and 'opting to play for Algeria in 2024'."
+    },
+    {
+      "claim": "FotMob lists 24 matches and 3 goals for Algeria since October 2024",
+      "sourceIds": [
+        "fotmob-player"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob labels the figures Matches and Goals, period Oct 2024 - now."
+    },
+    {
+      "claim": "Africa Soccer: 21 appearances and two goals for Algeria (September 2026 profile)",
+      "sourceIds": [
+        "africasoccer-mazadona"
+      ],
+      "verdict": "confirmed",
+      "note": "21 appearances, two goals, both at the 2025 AFCON; article dated 11 September 2026."
+    },
+    {
+      "claim": "Five goals in 45 matches for Leverkusen by September 2026",
+      "sourceIds": [
+        "africasoccer-mazadona"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the article."
+    },
+    {
+      "claim": "Known in Algeria as 'Mazadona', a reference to Maradona",
+      "sourceIds": [
+        "africasoccer-mazadona"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the article."
+    },
+    {
+      "claim": "Voted Player of the Match in the Champions League 1-0 away win at Benfica",
+      "sourceIds": [
+        "bayer04-young-talent"
+      ],
+      "verdict": "confirmed",
+      "note": "Leverkusen won 1-0 away to Benfica; 'Maza was also voted Player of the Match'."
+    },
+    {
+      "claim": "Started all four Algeria matches at the 2026 World Cup",
+      "sourceIds": [
+        "bayer04-young-talent"
+      ],
+      "verdict": "confirmed",
+      "note": "'starting all four matches'."
+    },
+    {
+      "claim": "Quotes before Argentina: 'The first match is very important against Argentina'; 'Calmness will be the key to success in this confrontation'; 'We will beat Messi, God willing'",
+      "sourceIds": [
+        "africasoccer-argentina"
+      ],
+      "verdict": "confirmed",
+      "note": "All three quotes present; article dated 8 June 2026."
+    },
+    {
+      "claim": "On the ten-player shortlist for Men's Young Talent of the Year (Ballon d'Or)",
+      "sourceIds": [
+        "bayer04-young-talent"
+      ],
+      "verdict": "confirmed",
+      "note": "'named on the ten-player shortlist'."
+    },
+    {
+      "claim": "Lamine Yamal and Yan Diomande are on the same list",
+      "sourceIds": [
+        "bayer04-young-talent"
+      ],
+      "verdict": "confirmed",
+      "note": "Both named; Yamal won the category."
+    },
+    {
+      "claim": "Attended the 2026 Ballon d'Or ceremony at the London Palladium",
+      "sourceIds": [
+        "bayer04-young-talent"
+      ],
+      "verdict": "confirmed",
+      "note": "'was at the London Palladium ... for the 2026 Ballon d'Or awards ceremony'."
+    },
+    {
+      "claim": "Africa Soccer describes the shortlist place as his first Ballon d'Or nomination",
+      "sourceIds": [
+        "africasoccer-mazadona"
+      ],
+      "verdict": "confirmed",
+      "note": "'first Ballon d'Or nomination'."
+    },
+    {
+      "claim": "10 October 2026 GetFootballNewsGermany report, citing Sky Germany: talks to extend beyond 2030; monitoring clubs Arsenal, Tottenham, Chelsea, Aston Villa, Manchester City; no PSG",
+      "sourceIds": [
+        "leverkusen-talks-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Date, attribution, five clubs and absence of PSG all confirmed."
+    },
+    {
+      "claim": "Bulinews, citing Sky Germany: PSG closely monitoring him, made interest known to representatives, considering a January move",
+      "sourceIds": [
+        "psg-interest-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed. The page carries no visible publication date; the article should not date it."
+    },
+    {
+      "claim": "Bundesliga profile lists 180 cm and shirt number 30",
+      "sourceIds": [
+        "bundesliga-player"
+      ],
+      "verdict": "confirmed",
+      "note": "Height 180 cm, shirt 30."
+    },
+    {
+      "claim": "Bundesliga profile shows 7 appearances, 2 goals and 2 assists for 2026/27",
+      "sourceIds": [
+        "bundesliga-player"
+      ],
+      "verdict": "confirmed",
+      "note": "Season 2026/2027: 7 apps, 2 goals, 2 assists."
+    },
+    {
+      "claim": "FAQ: Bayer 04 describes him as German-Algerian; opted for Algeria in 2024 after 13 appearances for Germany's youth teams",
+      "sourceIds": [
+        "bayer04-transfer"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the club announcement."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Gives a dated timeline, quotes from primary and press sources, reconciles conflicting appearance and national-team totals by naming each source, and separates the PSG reports from confirmed moves.",
+  "decision": "approve",
+  "summary": "All claims check out against the sources. The earlier caps wording is now matches."
+}

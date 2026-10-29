@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "O placar de 5 a 0 sobre o São Luiz, em 17 de janeiro de 2026, igualou a maior vitória da história deste confronto",
+      "sourceIds": [
+        "90min-hat-trick-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Article subtitle says Grêmio 'igualou maior vitória da história do confronto'."
+    },
+    {
+      "claim": "O Grêmio buscava um centroavante para substituir Matías Arezo, que havia deixado o clube para voltar ao Peñarol, do Uruguai",
+      "sourceIds": [
+        "90min-gremio-move-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Article says Grêmio's target was a striker to replace Matías Arezo, who left to return to Peñarol (Uruguay)."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "The two added sentences explain why Grêmio went for him in 2025 and how big the January 2026 win was, context the top results do not give.",
+  "decision": "approve",
+  "summary": "Both sentences added in this revision are confirmed by their cited sources. The rest of the page was approved earlier and was not re-checked in this pass."
+}

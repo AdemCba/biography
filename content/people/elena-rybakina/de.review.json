@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Rybakina war die erste kasachische Sportlerin, die ein Einzel-Finale bei einem Grand-Slam-Turnier erreichte",
+      "sourceIds": [
+        "nbc-boston-wimbledon-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Article says Rybakina was the first Kazakh athlete to reach a singles major final (Wimbledon 2022)."
+    },
+    {
+      "claim": "Ihre Saisonbilanz 2025 lautete 58 Siege und 19 Niederlagen, 14 davon nach den US Open",
+      "sourceIds": [
+        "tennis-wta-finals-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Article says her season record was 58-19, with 14 of those wins coming after the US Open."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "The two added sentences give the Kazakh first and the 2025 season record, which the page did not state before.",
+  "decision": "approve",
+  "summary": "Both sentences added in this revision are confirmed by their cited sources. The rest of the page was approved earlier and was not re-checked in this pass."
+}

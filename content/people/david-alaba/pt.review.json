@@ -1,0 +1,268 @@
+{
+  "date": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Nascido em 24 de junho de 1992 em Viena; 34 anos em 29 out 2026",
+      "sourceIds": [
+        "dfb-datencenter",
+        "fussballtransfers"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB and fussballtransfers give 24.06.1992; fussballtransfers gives Viena Österreich."
+    },
+    {
+      "claim": "Nacionalidade austríaca",
+      "sourceIds": [
+        "dfb-datencenter"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB: Nation Österreich."
+    },
+    {
+      "claim": "Assinatura com o Udinese em 24 de setembro de 2026",
+      "sourceIds": [
+        "italpress-udinese",
+        "fussballtransfers"
+      ],
+      "verdict": "confirmed",
+      "note": "Italpress dated 24 Sept 2026; fussballtransfers 'Im Klub seit 24/09/2026'."
+    },
+    {
+      "claim": "Contrato até 30 de junho de 2027",
+      "sourceIds": [
+        "italpress-udinese",
+        "sosfanta-udinese-statement"
+      ],
+      "verdict": "confirmed",
+      "note": "Italpress and SOS Fanta give 30 June 2027. Fanatik says only 'June 2027'; cite italpress-udinese."
+    },
+    {
+      "claim": "Defensor na lista do time principal, camisa 5",
+      "sourceIds": [
+        "udinese-official"
+      ],
+      "verdict": "confirmed",
+      "note": "Entry '5 David Alaba' under difensori."
+    },
+    {
+      "claim": "Bayern: 431 jogos em 13 temporadas, dez Bundesligas, duas Ligas dos Campeões",
+      "sourceIds": [
+        "si-2021-alaba",
+        "tntsports-2021"
+      ],
+      "verdict": "confirmed",
+      "note": "SI and TNT match."
+    },
+    {
+      "claim": "Fim da passagem pelo Bayern em 30 de junho de 2021 (DFB)",
+      "sourceIds": [
+        "dfb-datencenter"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Chegou em 2008 vindo da equipe reserva do Austria Viena",
+      "sourceIds": [
+        "bundesliga-alaba-landmarks"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match in substance."
+    },
+    {
+      "claim": "Estreia na Copa em 10 fev 2010 vs Greuther Fürth, 17 anos e 232 dias, mais jovem",
+      "sourceIds": [
+        "bundesliga-alaba-landmarks"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Empréstimo ao Hoffenheim, 17 jogos da Bundesliga",
+      "sourceIds": [
+        "bundesliga-alaba-landmarks"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Van Gaal lateral esquerdo, Guardiola zagueiro, Flick zagueiro titular; 298 jogos",
+      "sourceIds": [
+        "bundesliga-alaba-landmarks"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Capitão na partida 400, dez 2020 vs Atlético",
+      "sourceIds": [
+        "bundesliga-alaba-landmarks"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Tríplice coroa 2012-13 (23/11/4); suspenso na final de 2012",
+      "sourceIds": [
+        "bundesliga-alaba-landmarks"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Tríplice coroa 2019-20 com Flick; 2020-21 décimo título, saiu 17 min antes do fim vs Augsburg",
+      "sourceIds": [
+        "bundesliga-alaba-landmarks"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Seis medalhas da Copa; a primeira na final de 2010, fora da lista de relacionados",
+      "sourceIds": [
+        "bundesliga-alaba-landmarks"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Real Madrid confirmou transferência livre em 28 de maio de 2021, aos 28 anos; condições não divulgadas",
+      "sourceIds": [
+        "tntsports-2021",
+        "si-2021-alaba"
+      ],
+      "verdict": "confirmed",
+      "note": "TNT dated 28/05/2021; SI: 28-year-old; Real did not provide details."
+    },
+    {
+      "claim": "Real: La Liga e Liga dos Campeões 2022, sobre o Liverpool",
+      "sourceIds": [
+        "bundesliga-alaba-landmarks"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Estreia pela Áustria em 14 out 2009, derrota por 3-1 em Paris",
+      "sourceIds": [
+        "tt-steckbrief-oefb-2016"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Jogador mais jovem da história da ÖFB, 17 anos e três meses",
+      "sourceIds": [
+        "salzburg24-moldova-2017"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Perfil da ÖFB em 1º jun 2016: 45 partidas, 11 gols",
+      "sourceIds": [
+        "tt-steckbrief-oefb-2016"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Koller o escolhe capitão vs Moldávia, Eliminatórias da Copa, 55.ª partida, decisão só para aquele jogo",
+      "sourceIds": [
+        "salzburg24-moldova-2017"
+      ],
+      "verdict": "confirmed",
+      "note": "WM-Qualifikationsspiel; Koller: only for that game."
+    },
+    {
+      "claim": "Liberado pelo Real Madrid ao fim de 2025-26, sem clube",
+      "sourceIds": [
+        "irish-times-austria"
+      ],
+      "verdict": "confirmed",
+      "note": "Irish Times: released at end of last season."
+    },
+    {
+      "claim": "Meados de setembro: ainda procurava clube, sem jogo oficial desde o início de julho de 2026",
+      "sourceIds": [
+        "weekend-at-rangnick"
+      ],
+      "verdict": "confirmed",
+      "note": "Report of 15.09.2026."
+    },
+    {
+      "claim": "Rangnick o deixou fora dos jogos da Liga das Nações (reportagem de 15 set 2026)",
+      "sourceIds": [
+        "weekend-at-rangnick"
+      ],
+      "verdict": "confirmed",
+      "note": "'für die anstehenden Nations-League-Duelle wurde er nicht nominiert'."
+    },
+    {
+      "claim": "Informe indica: decisión tras llamadas, buscaba proteger a Alaba de sobrecarga física",
+      "sourceIds": [
+        "weekend-at-rangnick"
+      ],
+      "verdict": "confirmed",
+      "note": "Now attributed to the report, not Rangnick. Report narration confirms both points."
+    },
+    {
+      "claim": "Irish Times: sem clube até o Udinese, por isso ficou de fora da janela",
+      "sourceIds": [
+        "irish-times-austria"
+      ],
+      "verdict": "confirmed",
+      "note": "'signed for Udinese last week, so he was omitted for this window'."
+    },
+    {
+      "claim": "Não se aposentou da seleção; ausência em novembro realista",
+      "sourceIds": [
+        "weekend-at-rangnick"
+      ],
+      "verdict": "confirmed",
+      "note": "'vorerst unbestätigt'; 'ein reales Szenario'."
+    },
+    {
+      "claim": "Zagueiros Danso, Affengruber, Bacher; jovens Querfeld e Ndukwe",
+      "sourceIds": [
+        "weekend-at-rangnick"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Reavaliação em março de 2027 só com contratação rápida e retorno sem problemas",
+      "sourceIds": [
+        "weekend-at-rangnick"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: quick signing and error-free return."
+    },
+    {
+      "claim": "Collavino: campeão consagrado, líder, profissional exemplar",
+      "sourceIds": [
+        "italpress-udinese"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Alaba: «Ainda quero vencer»",
+      "sourceIds": [
+        "fanatik-udinese",
+        "sosfanta-udinese-statement"
+      ],
+      "verdict": "confirmed",
+      "note": "English 'I still want to win'; Italian 'Voglio vincere ancora'."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Dated timeline with primary-source checks and both accounts of the Nations League dispute.",
+  "decision": "approve",
+  "summary": "Rewording fixes the misattributed quote; all other claims confirmed."
+}

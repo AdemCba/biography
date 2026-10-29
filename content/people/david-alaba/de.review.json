@@ -1,0 +1,276 @@
+{
+  "date": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Geboren 24. Juni 1992 in Wien; 34 Jahre am 29.10.2026",
+      "sourceIds": [
+        "dfb-datencenter",
+        "fussballtransfers"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB and fussballtransfers give 24.06.1992; fussballtransfers gives Viena Österreich."
+    },
+    {
+      "claim": "Nationalität Österreich",
+      "sourceIds": [
+        "dfb-datencenter"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB: Nation Österreich."
+    },
+    {
+      "claim": "Wechsel zu Udinese am 24. September 2026",
+      "sourceIds": [
+        "italpress-udinese",
+        "fussballtransfers"
+      ],
+      "verdict": "confirmed",
+      "note": "Italpress dated 24 Sept 2026; fussballtransfers 'Im Klub seit 24/09/2026'."
+    },
+    {
+      "claim": "Vertrag bis 30. Juni 2027",
+      "sourceIds": [
+        "italpress-udinese",
+        "sosfanta-udinese-statement"
+      ],
+      "verdict": "confirmed",
+      "note": "Italpress and SOS Fanta give 30 June 2027. Fanatik says only 'June 2027'; cite italpress-udinese."
+    },
+    {
+      "claim": "Abwehrspieler im Profikader, Nummer 5",
+      "sourceIds": [
+        "udinese-official"
+      ],
+      "verdict": "confirmed",
+      "note": "Entry '5 David Alaba' under difensori."
+    },
+    {
+      "claim": "Bayern: 431 Pflichtspiele in 13 Spielzeiten, zehn Bundesliga-Titel, zwei CL-Siege",
+      "sourceIds": [
+        "si-2021-alaba",
+        "tntsports-2021"
+      ],
+      "verdict": "confirmed",
+      "note": "SI: 431 games in 13 years, 10 German titles; TNT: two CLs and 10 Bundesliga crowns."
+    },
+    {
+      "claim": "Bayern-Zeit endet 30. Juni 2021 (DFB)",
+      "sourceIds": [
+        "dfb-datencenter"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "2008 aus der Reserve des FC Austria Wien nach München",
+      "sourceIds": [
+        "bundesliga-alaba-landmarks"
+      ],
+      "verdict": "confirmed",
+      "note": "Bundesliga.com: played for Austria Wien's reserves before Bayern."
+    },
+    {
+      "claim": "DFB-Pokal-Debüt 10.02.2010 gegen Greuther Fürth, 17 Jahre 232 Tage, jüngster Debütant",
+      "sourceIds": [
+        "bundesliga-alaba-landmarks"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Hoffenheim-Leihe 2010/11, 17 Bundesligaspiele",
+      "sourceIds": [
+        "bundesliga-alaba-landmarks"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Van Gaal Linksverteidiger, Guardiola Innenverteidiger, Flick fester Innenverteidiger; 298 Bundesligaspiele",
+      "sourceIds": [
+        "bundesliga-alaba-landmarks"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Kapitän im 400. Pflichtspiel, Dezember 2020 gegen Atlético",
+      "sourceIds": [
+        "bundesliga-alaba-landmarks"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Triple 2012/13: 23 Liga, 11 CL, 4 Pokal; 2012 CL-Finale wegen Sperre verpasst",
+      "sourceIds": [
+        "bundesliga-alaba-landmarks"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Triple 2019/20 mit Flick; 2020/21 zehnter Titel, 17 Minuten vor Schluss gegen Augsburg",
+      "sourceIds": [
+        "bundesliga-alaba-landmarks"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Sechs DFB-Pokal-Medaillen, erste im Finale 2010, nicht im Spieltagskader",
+      "sourceIds": [
+        "bundesliga-alaba-landmarks"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Finale 15. Mai 2010, 4:0 gegen Werder Bremen",
+      "sourceIds": [
+        "bundesliga-alaba-landmarks"
+      ],
+      "verdict": "confirmed",
+      "note": "Source gives 15 May 2010 and 4-0."
+    },
+    {
+      "claim": "Real Madrid bestätigte 28. Mai 2021 Ablösefreien, 28 Jahre alt; Konditionen nicht genannt",
+      "sourceIds": [
+        "tntsports-2021",
+        "si-2021-alaba"
+      ],
+      "verdict": "confirmed",
+      "note": "TNT dated 28/05/2021; SI: 28-year-old; 'Real did not provide details'."
+    },
+    {
+      "claim": "Real: La Liga und CL 2022 gegen Liverpool",
+      "sourceIds": [
+        "bundesliga-alaba-landmarks"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Debüt Österreich 14.10.2009, 1:3 in Paris gegen Frankreich",
+      "sourceIds": [
+        "tt-steckbrief-oefb-2016"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Jüngster ÖFB-Spieler der Geschichte mit 17 Jahren und drei Monaten",
+      "sourceIds": [
+        "salzburg24-moldova-2017"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "ÖFB-Profil Stand 1.6.2016: 45 Länderspiele, 11 Tore",
+      "sourceIds": [
+        "tt-steckbrief-oefb-2016"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Binde im März 2017 gegen Moldau, WM-Qualifikation, 55. Länderspiel, Koller: nur für dieses Spiel; zuvor gegen Irland und Slowakei",
+      "sourceIds": [
+        "salzburg24-moldova-2017"
+      ],
+      "verdict": "confirmed",
+      "note": "WM-Quali v Moldau; Irland WM-Quali; Slowakei Test."
+    },
+    {
+      "claim": "Von Real Madrid zum Ende der Saison 2025/26 entlassen, ohne Verein",
+      "sourceIds": [
+        "irish-times-austria"
+      ],
+      "verdict": "confirmed",
+      "note": "Irish Times: released at end of last season."
+    },
+    {
+      "claim": "Mitte September noch auf Vereinssuche, kein Pflichtspiel seit Anfang Juli 2026",
+      "sourceIds": [
+        "weekend-at-rangnick"
+      ],
+      "verdict": "confirmed",
+      "note": "Report of 15.09.2026."
+    },
+    {
+      "claim": "Rangnick ließ ihn für die Nations-League-Spiele aus dem Kader (Bericht vom 15.09.2026)",
+      "sourceIds": [
+        "weekend-at-rangnick"
+      ],
+      "verdict": "confirmed",
+      "note": "'Für die anstehenden Nations-League-Duelle wurde er nicht nominiert.'"
+    },
+    {
+      "claim": "Bericht schreibt: Entscheidung nach Telefonaten, solle Alaba vor körperlicher Überlastung schützen",
+      "sourceIds": [
+        "weekend-at-rangnick"
+      ],
+      "verdict": "confirmed",
+      "note": "Now attributed to the report, not Rangnick. Report narration confirms both points."
+    },
+    {
+      "claim": "Irish Times: ohne Verein bis zur Unterschrift bei Udinese, deshalb nicht nominiert",
+      "sourceIds": [
+        "irish-times-austria"
+      ],
+      "verdict": "confirmed",
+      "note": "'signed for Udinese last week, so he was omitted for this window'."
+    },
+    {
+      "claim": "Keine Nationalmannschaftskarriere-Beendigung; November-Absenz realistisch",
+      "sourceIds": [
+        "weekend-at-rangnick"
+      ],
+      "verdict": "confirmed",
+      "note": "'vorerst unbestätigt'; 'ein reales Szenario'."
+    },
+    {
+      "claim": "Innenverteidiger Danso, Affengruber, Bacher; junge Querfeld und Ndukwe",
+      "sourceIds": [
+        "weekend-at-rangnick"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "März 2027 Neubewertung nur bei zeitnaher Vereinsunterschrift und fehlerfreier Rückkehr",
+      "sourceIds": [
+        "weekend-at-rangnick"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match in substance."
+    },
+    {
+      "claim": "Collavino: etablierter Champion, Anführer, vorbildlicher Profi",
+      "sourceIds": [
+        "italpress-udinese"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact match."
+    },
+    {
+      "claim": "Alaba: 'Ich will immer noch gewinnen'",
+      "sourceIds": [
+        "fanatik-udinese",
+        "sosfanta-udinese-statement"
+      ],
+      "verdict": "confirmed",
+      "note": "English 'I still want to win'; Italian 'Voglio vincere ancora'."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Dated timeline with primary-source checks and both accounts of the Nations League dispute.",
+  "decision": "approve",
+  "summary": "Rewording fixes the misattributed quote; all other claims confirmed."
+}
