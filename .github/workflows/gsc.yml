@@ -1,0 +1,44 @@
+name: Search Console
+
+# Daily: pull Search Console data and refresh data/seo/focus.md (pages near page one with few clicks
+# and their real queries) for the writer. Needs the GSC_SERVICE_ACCOUNT secret; skips without it.
+
+on:
+  schedule:
+    - cron: "30 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gsc
+  cancel-in-progress: false
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      GSC_SERVICE_ACCOUNT: ${{ secrets.GSC_SERVICE_ACCOUNT }}
+      GSC_SITE: ${{ vars.GSC_SITE || 'sc-domain:orbivida.com' }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Pull Search Console data
+        if: ${{ env.GSC_SERVICE_ACCOUNT != '' }}
+        run: npm run gsc
+      - name: Save on main
+        run: |
+          if [ -n "$(git status --porcelain data)" ]; then
+            git config user.name "orbivida-bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data
+            git commit -m "data: search console"
+            git pull --rebase -X theirs
+            git push
+          fi
