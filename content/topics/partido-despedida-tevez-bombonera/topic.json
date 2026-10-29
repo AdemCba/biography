@@ -1,7 +1,9 @@
 {
   "id": "partido-despedida-tevez-bombonera",
   "people": [],
-  "trendingIn": ["AR"],
+  "trendingIn": [
+    "AR"
+  ],
   "wikidata": "Q50600",
   "sources": [
     {
@@ -22,5 +24,12 @@
       "accessed": "2026-10-29",
       "lang": "es"
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/topics/partido-despedida-tevez-bombonera.jpg",
+    "alt": "Partido de despedida de Carlos Tevez en La Bombonera: fecha, invitados y qué se sabe",
+    "credit": "Egghead06",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carlos_Tevez_with_Argentina_November_2014_(cropped).jpg"
+  }
 }
