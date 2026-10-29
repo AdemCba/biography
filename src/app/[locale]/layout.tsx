@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     ],
     apple: "/apple-touch-icon.png",
   },
-  verification: site.googleVerification ? { google: site.googleVerification } : undefined,
+  verification: { ...(site.googleVerification ? { google: site.googleVerification } : {}), yandex: "7d20264d9b91af0a" },
   // AdSense site verification (the "meta tag" option in AdSense > Sites).
   other: site.adsenseClient ? { "google-adsense-account": site.adsenseClient } : undefined,
 };
