@@ -163,6 +163,8 @@ function checkArticle(person: Person, article: Article, store: ContentStore): Ar
 
 /** Shortest trending-topic article that still explains the story and its background. */
 export const MIN_TOPIC_WORDS = 400;
+/** New topics are written to this length; shorter live ones are expanded over time. */
+export const TARGET_TOPIC_WORDS = 650;
 
 /** Trending topics: same sourcing, approval and style rules as biographies, sized for a news explainer. */
 function checkTopicArticle(topic: Topic, article: Article, store: ContentStore): ArticleReport {
@@ -195,6 +197,7 @@ function checkTopicArticle(topic: Topic, article: Article, store: ContentStore):
   const minCitations = Math.max(3, Math.floor(words / 300));
   if (cited.length < minCitations) push(gate, "few-citations", `${cited.length} citations; need at least ${minCitations} for ${words} words`);
   if (words < MIN_TOPIC_WORDS) push(gate, "too-short", `Only ${words} words; a trending-topic page needs at least ${MIN_TOPIC_WORDS}`);
+  else if (words < TARGET_TOPIC_WORDS) push("warning", "short-topic", `${words} words; aim for ${TARGET_TOPIC_WORDS}+ with background and context`);
   const sections = (body.match(/^##\s+/gm) ?? []).length;
   if (sections < 2) push(gate, "thin-structure", `${sections} sections; explain what happened and the background in at least 2`);
   if (new Set(cited.filter((id) => sourceIds.has(id))).size < 2) push(gate, "single-source", "Body must cite at least 2 distinct sources");
