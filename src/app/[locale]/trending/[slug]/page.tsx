@@ -23,6 +23,7 @@ import {
 } from "@/lib/content";
 import { formatDate, resolveShortcuts, splitBeforeHeading } from "@/lib/markdown";
 import { pageMetadata } from "@/lib/seo";
+import { responsiveImage } from "@/lib/images";
 
 export const dynamicParams = false;
 
@@ -146,7 +147,7 @@ export default async function TopicPage({ params }: PageProps<"/[locale]/trendin
         {topic.data.image && (
           <figure>
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={topic.data.image.src} alt={topic.data.image.alt} className="w-full rounded-md object-cover" />
+            <img {...responsiveImage(topic.data.image.src, "(min-width: 768px) 768px, 100vw")} alt={topic.data.image.alt} fetchPriority="high" className="w-full rounded-md object-cover" />
             <figcaption className="mt-1 text-[11px] text-muted">
               {t.bio.imageCredit}: <a href={topic.data.image.sourceUrl} rel="noopener" className="underline">{topic.data.image.credit}</a>, {topic.data.image.license}
             </figcaption>

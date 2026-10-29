@@ -21,6 +21,7 @@ import {
 } from "@/lib/content";
 import { ageOn, countryName, fillAge, formatDate, headings, resolveShortcuts, splitBeforeHeading } from "@/lib/markdown";
 import { pageMetadata, personAlternates, personJsonLd } from "@/lib/seo";
+import { responsiveImage } from "@/lib/images";
 
 export const dynamicParams = false;
 
@@ -148,7 +149,7 @@ export default async function BiographyPage({ params }: PageProps<"/[locale]/[sl
           {data.image && (
             <figure className="mb-4 shrink-0 sm:mb-0 sm:w-44">
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={data.image.src} alt={data.image.alt} width={176} height={220} className="w-full rounded-md object-cover" />
+              <img {...responsiveImage(data.image.src, "176px")} alt={data.image.alt} fetchPriority="high" width={176} height={220} className="w-full rounded-md object-cover" />
               <figcaption className="mt-1 text-[11px] leading-snug text-muted">
                 {t.bio.imageCredit}: <a href={data.image.sourceUrl} rel="noopener" className="underline">{data.image.credit}</a>, {data.image.license}
               </figcaption>

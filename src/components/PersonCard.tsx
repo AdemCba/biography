@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { Article, Person } from "@/lib/content";
 import { personPath } from "@/lib/content";
+import { responsiveImage } from "@/lib/images";
 
 export function PersonCard({ person, article }: { person: Person; article: Article }) {
   const img = person.data.image;
@@ -9,7 +10,7 @@ export function PersonCard({ person, article }: { person: Person; article: Artic
       {img ? (
         // Plain img: the site is a static export and images are already sized in /public/images.
         // eslint-disable-next-line @next/next/no-img-element
-        <img src={img.src} alt={img.alt} width={72} height={72} loading="lazy" className="size-18 shrink-0 rounded-md object-cover" />
+        <img {...responsiveImage(img.src, "72px")} alt={img.alt} width={72} height={72} loading="lazy" className="size-18 shrink-0 rounded-md object-cover" />
       ) : (
         <div aria-hidden className="flex size-18 shrink-0 items-center justify-center rounded-md bg-line font-serif text-2xl text-muted">
           {person.data.name.charAt(0)}
