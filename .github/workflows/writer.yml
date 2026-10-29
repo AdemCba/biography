@@ -124,6 +124,12 @@ jobs:
             - Then, if usage allows, repair up to 2 existing pages: pick pages from `npm run -s check` that are in
               status review or show ERROR, `too-short` or `short-for-importance`, expand or fix them in all languages with sourced facts, and fact-check them
               again with review.ts. Never remove a page.
+            - Trending topics are written only in TOPICS-ONLY runs (people count 0); a people run skips this step,
+              because the 2-hourly topics run covers it and two runs at once would write the same story twice.
+              Never write a story the site already has: before creating a topic, grep content/topics for the
+              story's main names (people, teams, products, places) and read any topic from the last 3 days that
+              matches. If it is the same story, add the missing language to that folder or update it with the
+              news; never open a second folder for it.
             - Trending topics: for EACH of the five languages, write ${{ inputs.topics || 2 }} topic article(s) about what
               is trending in that language's own countries, from the section "Son 4 saatte Google'da yükselen konular"
               of data/trend-candidates/latest.md (column "Diller": a French trend gets a fr page, a Brazilian one pt).
