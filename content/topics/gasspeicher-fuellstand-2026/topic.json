@@ -1,7 +1,10 @@
 {
   "id": "gasspeicher-fuellstand-2026",
   "people": [],
-  "trendingIn": ["DE", "AT"],
+  "trendingIn": [
+    "DE",
+    "AT"
+  ],
   "wikidata": "Q183",
   "sources": [
     {
@@ -22,5 +25,12 @@
       "accessed": "2026-10-29",
       "lang": "de"
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/topics/gasspeicher-fuellstand-2026.jpg",
+    "alt": "Gasspeicher in Deutschland: Füllstand vor dem Stichtag 1. November in Gefahr",
+    "credit": "dronepicr",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Berlin_(32881394137).jpg"
+  }
 }

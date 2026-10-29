@@ -1,7 +1,10 @@
 {
   "id": "intel-earnings-stock-slump-2026",
   "people": [],
-  "trendingIn": ["GB", "ES"],
+  "trendingIn": [
+    "GB",
+    "ES"
+  ],
   "wikidata": "Q248",
   "sources": [
     {
@@ -22,5 +25,12 @@
       "accessed": "2026-10-29",
       "lang": "es"
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/topics/intel-earnings-stock-slump-2026.jpg",
+    "alt": "Intel shares slump ahead of third-quarter results on 29 October",
+    "credit": "Coolcaesar",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2200_Mission_College_Boulevard.jpg"
+  }
 }
