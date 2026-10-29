@@ -1,7 +1,8 @@
 # Search Console focus list
 
 From Search Console, 2026-10-22 to 2026-10-29, updated automatically every day.
-two (average position 6-16) but almost no clicks. The queries are what people typed. The writer works
+
+Each page below shows on Google's first or second page (average position 3-20) but gets almost no clicks. The queries are what people typed. The writer works
 through this list from the top, up to 3 pages per people run, then ticks the box with the date.
 
 For each page, edit only that language's file:
