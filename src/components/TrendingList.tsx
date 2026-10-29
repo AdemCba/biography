@@ -6,6 +6,7 @@ import { TRENDING } from "@/i18n/trending";
 import { liveTopics, topicPath } from "@/lib/content";
 import { formatDate } from "@/lib/markdown";
 import { pageMetadata } from "@/lib/seo";
+import { responsiveImage } from "@/lib/images";
 
 export const TOPICS_PER_PAGE = 20;
 
@@ -50,9 +51,10 @@ export function TrendingList({ locale, page }: { locale: Locale; page: number })
                     {topic.data.image ? (
                       // eslint-disable-next-line @next/next/no-img-element
                       <img
-                        src={topic.data.image.src}
+                        {...responsiveImage(topic.data.image.src, lead ? "(min-width: 1024px) 1024px, 100vw" : "(min-width: 640px) 50vw, 100vw")}
                         alt={article.meta.title}
-                        loading={i < 3 ? "eager" : "lazy"}
+                        loading={i === 0 ? "eager" : "lazy"}
+                        fetchPriority={i === 0 ? "high" : undefined}
                         className="h-full w-full object-cover transition duration-300 group-hover:scale-105"
                       />
                     ) : (
