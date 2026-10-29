@@ -67,7 +67,7 @@ jobs:
             - TOPICS-ONLY RUN when the people count is 0 (this run: "${{ inputs.count || 5 }}"): write only the
               trending topic articles below, from the freshest rows of "Son 4 saatte Google'da yükselen konular",
               skipping stories that already have a page in content/topics. Do not write or repair people pages
-              and skip the "Traffic first" and repair steps. Be quick: a few strong sources per topic, one
+              and skip the "Search Console first", "Traffic first" and repair steps. Be quick: a few strong sources per topic, one
               fact-check pass, then schedule and finish. Write the summary as usual.
             - People the owner asked for: "${{ inputs.people }}". If this is not empty, write exactly these people
               (one per comma; ignore the count and skip the trend pick below). If one of them already has a page in
@@ -103,6 +103,9 @@ jobs:
               metaDescription opens with the answer, e.g. "Alexia Putellas ist {age} Jahre alt (geboren am
               4. Februar 1994).", then one concrete fact from today's news. Use {age} only when person.json
               has birthDate. Keep metaTitle under 60 characters and metaDescription under 160.
+            - Search Console first: open data/seo/focus.md and handle up to 3 unticked pages there exactly as the
+              file says (only that language's file), then tick them with today's date. These pages already show on
+              Google's first pages, so this is the quickest way to more clicks.
             - Traffic first: the fastest wins are people who already have a page and trend again (section
               "Sitede zaten var, güncellemeye aday" of latest.md). Before writing new people, update up to 3 of
               them in all five languages: a dated "## <Month Year>" section on why they are in the news, refreshed
