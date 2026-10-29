@@ -219,7 +219,7 @@ export function categoryPath(locale: Locale, slug: string): string {
 }
 
 /** Slugs a biography may not use because a fixed page lives there. */
-export const RESERVED_SLUGS = ["category", "search", "about", "editorial-policy", "privacy", "contact", "terms", "search-index.json", "admin", "editors", "trending"];
+export const RESERVED_SLUGS = ["category", "search", "about", "editorial-policy", "privacy", "contact", "terms", "copyright", "cookies", "disclaimer", "search-index.json", "admin", "editors", "trending"];
 
 /**
  * `output: "export"` refuses a dynamic route with zero params (e.g. before the first biography goes live).

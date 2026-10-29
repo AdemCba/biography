@@ -10,7 +10,7 @@ import { pageMetadata } from "@/lib/seo";
 type Key = keyof Dictionary["pages"];
 
 /** Plain text with bare https:// URLs turned into links. */
-function linkify(text: string) {
+export function linkify(text: string) {
   return text.split(/(https:\/\/[^\s]+?)(?=[.,;]?(?:\s|$))/).map((part, i) =>
     part.startsWith("https://") ? (
       <a key={i} href={part} rel="nofollow noopener" target="_blank">

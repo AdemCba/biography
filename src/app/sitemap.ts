@@ -62,7 +62,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const editor of store.editors) {
       if (editor.i18n[locale]) entries.push({ url: absoluteUrl(editorPath(locale, editor.id)) });
     }
-    for (const p of ["about", "editorial-policy", "contact", "privacy", "terms"]) entries.push({ url: absoluteUrl(`/${locale}/${p}/`) });
+    for (const p of ["about", "editorial-policy", "contact", "privacy", "terms", "copyright", "cookies", "disclaimer"]) entries.push({ url: absoluteUrl(`/${locale}/${p}/`) });
   }
   return entries;
 }
