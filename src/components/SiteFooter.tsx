@@ -2,6 +2,7 @@ import Link from "next/link";
 import { site } from "@/config/site";
 import { LOCALE_NAMES, type Locale } from "@/i18n/config";
 import { getDictionary } from "@/i18n/dictionaries";
+import { LEGAL_PAGES } from "@/i18n/legalPages";
 
 export function SiteFooter({ locale }: { locale: Locale }) {
   const t = getDictionary(locale);
@@ -11,6 +12,9 @@ export function SiteFooter({ locale }: { locale: Locale }) {
     ["privacy", t.footer.privacy],
     ["contact", t.footer.contact],
     ["terms", t.footer.terms],
+    ["cookies", LEGAL_PAGES[locale].cookies.footer],
+    ["copyright", LEGAL_PAGES[locale].copyright.footer],
+    ["disclaimer", LEGAL_PAGES[locale].disclaimer.footer],
   ] as const;
   return (
     <footer className="mt-16 border-t border-line">
