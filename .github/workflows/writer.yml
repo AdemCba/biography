@@ -54,8 +54,9 @@ jobs:
         if: ${{ env.HAS_TOKEN == 'true' }}
         uses: anthropics/claude-code-action@v1
         with:
-          # Topics-only runs use the second account (CLAUDE_CODE_OAUTH_TOKEN_2) when it is set, to split usage.
-          claude_code_oauth_token: ${{ inputs.count == '0' && secrets.CLAUDE_CODE_OAUTH_TOKEN_2 || secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          # Repo variable WRITER_ACCOUNT picks the account: unset/1 = main token, 2 = second token
+          # (CLAUDE_CODE_OAUTH_TOKEN_2) for every run, split = second token for topics-only runs only.
+          claude_code_oauth_token: ${{ (vars.WRITER_ACCOUNT == '2' || (vars.WRITER_ACCOUNT == 'split' && inputs.count == '0')) && secrets.CLAUDE_CODE_OAUTH_TOKEN_2 || secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           github_token: ${{ github.token }}
           show_full_output: true
           claude_args: >-
