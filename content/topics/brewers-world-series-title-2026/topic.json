@@ -1,7 +1,9 @@
 {
   "id": "brewers-world-series-title-2026",
   "people": [],
-  "trendingIn": ["DE"],
+  "trendingIn": [
+    "DE"
+  ],
   "wikidata": "Q848103",
   "sources": [
     {
@@ -67,5 +69,12 @@
       "accessed": "2026-10-29",
       "lang": "en"
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/topics/brewers-world-series-title-2026.jpg",
+    "alt": "Milwaukee Brewers gewinnen die World Series: der erste Titel der Vereinsgeschichte",
+    "credit": "User:Lightburst",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Milwaukee_Brewers_baseball_cap.jpg"
+  }
 }

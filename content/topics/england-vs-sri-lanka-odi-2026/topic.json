@@ -1,7 +1,12 @@
 {
   "id": "england-vs-sri-lanka-odi-2026",
   "people": [],
-  "trendingIn": ["GB", "ES", "DE", "FR"],
+  "trendingIn": [
+    "GB",
+    "ES",
+    "DE",
+    "FR"
+  ],
   "wikidata": "Q1321565",
   "sources": [
     {
@@ -58,5 +63,12 @@
       "accessed": "2026-10-29",
       "lang": "en"
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/topics/england-vs-sri-lanka-odi-2026.jpg",
+    "alt": "England vs Sri Lanka: what is left to play for in Lahore",
+    "credit": "Tim Felce",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_England_Cricket_Team_Ashes_2015.jpg"
+  }
 }
