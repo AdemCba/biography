@@ -1,6 +1,6 @@
-# Trend taraması 2026-10-30 03:01 UTC
+# Trend taraması 2026-10-30 06:01 UTC
 
-850 trend sinyali tarandı, 339 tanınmış kişi bulundu.
+850 trend sinyali tarandı, 352 tanınmış kişi bulundu.
 
 Bu çalışmada taslak sırasına kimse eklenmedi.
 
@@ -10,159 +10,180 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 
 | Arama | Ülkeler | Diller | Yaklaşık arama | Başladı (UTC) | Haber |
 | --- | --- | --- | --- | --- | --- |
-| darius acuff jr. | MX, BR | es, pt | 400 | 01:50 | [Darius Acuff Jr. erupts at the rim](https://www.nba.com/watch/video/darius-acuff-jr-erupts-at-the-rim?plsrc=nba&collection=must-watch-videos) |
-| green bay packers | GB, BR | en, pt | 300 | 00:50 | [Panthers vs. Packers (30 Oct, 2026) Live Score](https://www.espn.co.uk/nfl/game/_/gameId/401873023) |
-| reddit | AT, FR | de, fr | 200 | 00:50 | [Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks](https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html) |
-| winter storm warning | US | en | 50000 | 02:30 | [Winter Storm Warning Issued for Up to 15 Inches of Snow Through Friday](https://www.autoblog.com/news/winter-storm-warning-issued-for-up-to-15-inches-of-snow-through-friday) |
-| sorteo lotería nacional | ES | es | 10000 | 23:10 | [Comprobar Lotería Nacional hoy, en directo: resultados, números, décimo ganador y premios del sorteo del ju...](https://www.abc.es/loterias/loteria-nacional/loteria-nacional-hoy-jueves-directo-comprobar-resultados-numeros-sorteo-20261029183000-di.html) |
-| memphis grizzlies vs portland trail blazers match player stats | US | en | 5000 | 02:30 | [Golden State Warriors vs Minnesota Timberwolves Oct 28, 2026 Box Scores](https://www.nba.com/game/gsw-vs-min-0022600139/box-score) |
-| josh turek | US | en | 2000 | 02:30 | [Democrats are rediscovering what an appealing politics of progress looks like](https://www.economist.com/united-states/2026/10/29/democrats-are-rediscovering-what-an-appealing-politics-of-progress-looks-like) |
-| packers | GB | en | 2000 | 01:50 | [Carolina Panthers vs Green Bay Packers predictions, odds and an 11-2 Bet Builder tip](https://www.racingpost.com/sport/nfl-tips/carolina-panthers-vs-green-bay-packers-betting-tips-bet-builder-predictions-aT4ZT6Y79xXK/) |
-| joanna wietrzyk | GB | en | 2000 | 00:30 | [Hyrox athlete who soiled herself in race admits putting others at risk but says backlash was traumatic](https://www.bbc.co.uk/news/articles/c6gr8l15k744o) |
-| the elder scrolls vi sentinel | GB | en | 2000 | 00:10 | [The Elder Scrolls 6 Will Reportedly Show the History of the Titular Artifacts](https://www.ign.com/articles/the-elder-scrolls-6-is-reportedly-subtitled-sentinel-new-story-details-revealed-ahead-of-rumored-announcement) |
-| r7 com votação fazenda 18 hoje | BR | pt | 2000 | 01:50 | [Qual deve ser o Poder da Chama Vermelha?](https://record.r7.com/a-fazenda/a-fazenda-18/enquetes/qual-deve-ser-o-poder-da-chama-vermelha-30102026/) |
-| samstag feiertag | DE | de | 2000 | 02:20 | [Kirchen in Bayern - Luther und Gesang: Darum geht es am Reformationstag - Bayern - SZ.de](https://www.sueddeutsche.de/bayern/kirchen-in-bayern-luther-und-gesang-darum-geht-es-am-reformationstag-dpa.urn-newsml-dpa-com-20090101-261029-930-909591) |
-| nickeil alexander-walker | US | en | 1000 | 02:30 | [Nickeil Alexander-Walker knocks down the 3](https://www.espn.com/video/clip/_/id/50243863/nickeil-alexander-walker-knocks-3) |
-| posiciones de américa de cali contra fortaleza fútbol club | ES | es | 1000 | 02:50 | [Remontada roja y liderato parcial: América vence a Fortaleza](https://colombia.as.com/futbol/remontada-roja-y-liderato-america-vence-a-fortaleza-f202610-n/) |
-| meson tino 2.0 vallecas | ES | es | 1000 | 23:40 | [Pesadilla en la cocina - Temporada 10 - Mesón Tino 2.0](https://www.atresplayer.com/lasexta/programas/pesadilla-en-la-cocina/temporada-10/meson-tino-20_6a95b2ce203eb0e452d29582/) |
-| manu ginobili | AR | es | 1000 | 02:10 | [A 24 años del debut de Manu Ginóbili en la NBA](https://www.lanueva.com/nota/2026-10-29-10-4-0-a-24-anos-del-debut-de-manu-ginobili-en-la-nba) |
-| telefe | AR | es | 1000 | 01:40 | [Rating: MasterChef Celebrity lideró en Telefe, Es mi sueño en El Trece, LAM le ganó a Bendita y Qué mañana fue...](https://exitoina.perfil.com/noticias/rating/rating-masterchef-celebrity-lidero-en-telefe-es-mi-sueno-en-el-trece-lam-le-gano-a-bendita-y-que-manana-fue-lo-mejor-de-el-nueve.phtml) |
-| juca kfouri | BR | pt | 1000 | 02:30 | [Juca Kfouri: Amor e devastação: O dia em que o futebol deixou de ser importante](https://www.uol.com.br/esporte/futebol/colunas/juca-kfouri/2026/10/29/amor-e-devastacao-o-dia-em-que-o-futebol-deixou-de-ser-importante.htm) |
-| amazon aktien | DE | de | 1000 | 00:50 | [KI-Boom: Amazon enttäuscht trotz Cloud-Boom – Aktie sackt ab](https://www.handelsblatt.com/technik/ki/ki-boom-amazon-enttaeuscht-trotz-cloud-boom-aktie-sackt-ab/100265410.html) |
-| markus lanz | DE | de | 1000 | 23:30 | [„So kann ich Sie nicht ernstnehmen“ – Lanz bringt SPD-Politiker Krach in Bedrängnis](https://www.welt.de/politik/deutschland/article6ae2e1b221fd087fed7ee2fc/markus-lanz-so-kann-ich-sie-nicht-ernstnehmen-moderator-bringt-spd-politiker-krach-in-bedraengnis.html) |
-| zach edey | US | en | 500 | 02:40 | [Courtside Audio Reveals Warriors Rookie Yaxel Lendeborg Defending Draymond Green Against 7-foot-4 Grizzlies Star](https://www.basketballnews.com/news/basketballnews-nba-active-news-courtside-audio-reveals-warriors-rookie-yaxel-lendeborg-defending-draymond-green-against-seven-foot-four-grizzlies-star/) |
-| cedric coward | US | en | 500 | 02:30 | [3 Takeaways From Grizzlies’ 110-105 Win Over Jazz](https://sports.yahoo.com/articles/3-takeaways-grizzlies-110-105-162825397.html) |
-| pokemon mcdonalds happy meal | US | en | 500 | 02:30 | [McDonald’s Is Bringing Back the Iconic Meal Fans Have Waited 8 Long Years For](https://www.allrecipes.com/mcdonalds-pokemon-happy-meal-12200513) |
-| atlético nacional - santa fe | ES | es | 500 | 01:20 | [Atlético Nacional S. A. - Santa Fe / Pronóstico y cuotas 30.10.2026](https://as.com/apuestas/pronosticos/atletico-nacional-vs-santa-fe-pronostico-30-10-2026/) |
-| ramón rojo villa sonido la changa | MX | es | 500 | 01:50 | [Ramón Rojo Villa, líder de Sonido La Changa enfrenta problema de salud; esto se sabe](https://www.milenio.com/espectaculos/famosos/ramon-rojo-lider-sonido-la-changa-enfrenta-problemas-de-salud) |
-| puma rodriguez | AR | es | 500 | 01:30 | [La inesperada sorpresa de Tomás Cochello en Es mi sueño para El Puma Rodríguez](https://www.eltrecetv.com.ar/videos/es-mi-sueno/2026/10/29/la-inesperada-sorpresa-de-tomas-cochello-en-es-mi-sueno-para-el-puma-rodriguez/) |
-| carlos vinícius | BR | pt | 500 | 01:50 | [Com nova SAF, Vasco começa a planejar elenco para 2027; veja quais posições terão reforços](https://ge.globo.com/futebol/times/vasco/noticia/2026/10/29/com-nova-saf-vasco-comeca-a-planejar-elenco-para-2027-veja-quais-posicoes-terao-reforcos.ghtml) |
-| gremio | PT | pt | 500 | 01:20 | [Grêmio 2 x 0 Athletico-PR / Campeonato Brasileiro: melhores momentos](https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/29-10-2026/gremio-atletico-pr.ghtml) |
-| markus lanz heute gäste zdf | DE | de | 500 | 00:20 | ["Markus Lanz": Die Themen & Gäste heute am 28. Oktober 2026](https://www.prisma.de/news/tv/Markus-Lanz-Die-Themen-Gaeste-heute-am-28-Oktober-2026,43234473) |
-| packers – panthers | DE | de | 500 | 00:00 | ['Rogue drone' interrupts Packers game](https://www.wisn.com/article/packers-panthers-game-drone-disruption/74289999) |
-| andrew tate | DE | de | 500 | 23:20 | [Investigation Discovery to Probe Andrew Tate Allegations in ‘Toxic Empire’ Docuseries](https://www.imdb.com/de/news/ni66085934/?ref_=nwc_art_perm) |
-| zakee wheatley | US | en | 200 | 02:40 | [Panthers rookie DB 'overperforming' heading into Week 8](https://pantherswire.usatoday.com/story/sports/nfl/panthers/2026/10/29/panthers-zakee-wheatley-espn-week-8/92496513007/) |
-| clive owen | US | en | 200 | 02:30 | [Amanda Owen surprises her youngest children with epic Easter egg hunt at Ravenseat](https://uk.news.yahoo.com/amanda-owen-surprises-her-youngest-200000654.html) |
-| the sentinel | US | en | 200 | 02:30 | [Police and paramedics scrambled to Stoke-on-Trent 'sudden death'](https://www.stokesentinel.co.uk/news/stoke-on-trent-news/police-paramedics-scrambled-stoke-trent-11218954) |
-| pelicans vs kings | GB | en | 200 | 00:30 | [Kings Pelicans Basketball](https://www.idahostatejournal.com/sports/national/kings-pelicans-basketball/image_a45ad1a9-96a7-5055-888b-1583a2d35dfd.html) |
-| hawks vs cavaliers | GB | en | 200 | 00:20 | [~!$+[𝐇𝐞𝐫𝐞'𝐬 𝐖𝐚𝐲 𝐓𝐨 𝐋𝐢𝐯𝐞] Cavaliers vs Hawks LIVE FREE](https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2h1bWF5cmFrdGVyLmdpdGh1Yi5pby92aWRlby9tLnhtbCIvPjwva3JwYW5vPg==&id=video-cavaliers-vs-hawks-enus-10) |
-| richard norton | GB | en | 200 | 00:00 | [Actor's death may be first confirmed fatality linked to unapproved peptides](https://www.abc.net.au/news/2026-10-29/victoria-peptide-death-coroners-report-richard-norton/107320590) |
-| tom holland | GB | en | 200 | 23:50 | [Epik High invites Tom Holland and Zendaya after naming interview funniest](https://biz.chosun.com/en/en-entertainment/2026/10/30/IZX2GBACX5BULIA6PHWBZLYA5Q/) |
-| kwid 2027 | MX | es | 200 | 02:50 | [El Renault Kwid 2027 se actualiza para México: mejora seguridad, equipamiento y se mantiene como el auto más barato del país](https://www.motorpasion.com.mx/industria/renault-kwid-2027-se-actualiza-para-mexico-mejora-seguridad-equipamiento-se-mantiene-como-auto-barato-pais) |
-| astros - fuerza regia | MX | es | 200 | 02:10 | [Va Fuerza Regia por otro paso hacia el bicampeonato](https://www.mediotiempo.com/basquetbol/va-fuerza-regia-por-otro-paso-hacia-el-bicampeonato) |
+| cameron boozer | ES, BR, FR | es, pt, fr | 500 | 03:30 | [Cameron Boozer becomes second-youngest NBA player with triple-double](https://www.nytimes.com/athletic/7737859/2026/10/30/cameron-boozer-becomes-second-youngest-nba-player-with-triple-double/) |
+| posiciones de atlético nacional contra independiente santa fe | MX, AR | es | 4000 | 04:00 | [Cómo fue el partido de James Rodríguez en Nacional vs. Santa Fe](https://www.espn.com.mx/futbol/colombia/nota/_/id/17451125/nacional-vs-santa-fe-como-fue-partido-james-rodriguez) |
+| trail blazers - grizzlies | ES, AR | es | 1000 | 02:10 | [Memphis Grizzlies vs Portland Trail Blazers Oct 29, 2026 Play-by-Play](https://www.nba.com/game/mem-vs-por-0022600146/play-by-play) |
+| paula badosa | US, ES | en, es | 400 | 05:20 | [Paula Badosa - Harriet Dart: horario, dónde ver, estadísticas y pronósticos](https://www.betfair.es/blog/tenis/wta/paula-badosa---harriet-dart-horario-donde-ver-estadisticas-y-pronosticos-291026-1210.html) |
+| black friday | US, GB | en | 300 | 05:30 | [The Home Depot is giving away free Ryobi tools for Black Friday](https://www.usatoday.com/story/shopping/deals/black-friday/2026/10/29/the-home-depot-black-friday-deals-2026-dates/92491345007/) |
+| ae prat futbol | ES | es | 10000 | 05:40 | [AE Prat 1-6 Athletic Club: resumen, resultados y goles](https://as.com/futbol/copa_del_rey/ae-prat-athletic-club-en-directo-copa-del-rey-en-vivo-hoy-f202610-d/) |
+| turkey | GB | en | 5000 | 05:40 | [Rock collapse kills two in Turkey's Cappadocia, local media reports](https://www.bbc.co.uk/news/articles/cknv08nvzld4o) |
+| manu ginobili | AR | es | 2000 | 02:10 | [El emocionante homenaje de la NBA a Manu Ginóbili por los 24 años de su histórico debut en la liga más prestigiosa del mundo](https://www.infobae.com/deportes/2026/10/30/el-emocionante-homenaje-de-la-nba-a-manu-ginobili-por-los-24-anos-de-su-historico-debut-en-la-liga-mas-prestigiosa-del-mundo/) |
+| fall fabian | DE | de | 2000 | 05:30 | [„Der Tod trägt einen Namen“](https://www.bild.de/news/inland/anwaeltin-von-fabians-mutter-im-plaedoyer-der-tod-traegt-einen-namen-6ae3608b7953cec15ae66519) |
+| pensiones | AR | es | 1000 | 05:10 | [El Gobierno puso bajo revisión más de 20 mil registros y volvió a suspender el pago de las pensiones por invalidez](https://www.infobae.com/politica/2026/10/28/el-gobierno-puso-bajo-revision-mas-de-20-mil-registros-y-volvio-a-suspender-el-pago-de-las-pensiones-por-invalidez/) |
+| influenciadora valéria diniz | BR | pt | 1000 | 03:40 | [Influencer manda menino fazer o “L” e se recusa a comprar balas dele no CE](https://www.metropoles.com/brasil/influencer-manda-menino-fazer-o-l-e-se-recusa-a-comprar-balas-dele-no-ce) |
+| arbeitslosigkeit | AT | de | 1000 | 05:10 | [AMS-Nachzahlungen: Auch im Burgenland Tausende betroffen](https://burgenland.orf.at/stories/3377290/) |
+| ps5 pro | GB | en | 500 | 04:00 | [Phantom Blade Zero Launches Today For GeForce RTX & RTX Spark, And New DLSS Games and Updates Are Available Now](https://www.nvidia.com/en-gb/geforce/news/phantom-blade-zero-path-tracing-dlss-4-5-ray-reconstruction/) |
+| belinda | MX | es | 500 | 04:40 | [Belinda sorprende con su disfraz de Halloween y una fiesta llena de estrellas](https://es-us.vida-estilo.yahoo.com/belinda-sorprende-disfraz-halloween-fiesta-144559079.html) |
+| linea 12 | MX | es | 500 | 04:00 | [Línea 12 del Metro opera parcialmente por fallas en sistema eléctrico](https://www.jornada.com.mx/noticia/2026/10/29/capital/linea-12-del-metro-opera-parcialmente-por-fallas-en-sistema-electrico) |
+| diego maradona | AR | es | 500 | 03:00 | [Diego, el genio universitario](https://www.pagina12.com.ar/2026/10/27/diego-el-genio-universitario/) |
+| doenca ze felipe | BR | pt | 500 | 03:40 | [Zé Felipe revela diagnóstico de síndrome do piriforme após dores nos glúteos; entenda a condição](https://g1.globo.com/saude/noticia/2026/10/29/ze-felipe-revela-diagnostico-de-sindrome-do-piriforme-apos-dores-nos-gluteos-entenda-a-condicao.ghtml) |
+| favoriten | AT | de | 500 | 04:30 | [Angst in Wien-Favoriten – Maskierte Jugend-Bande terrorisiert Grätzl in Favoriten](https://www.heute.at/s/maskierte-jugend-bande-terrorisiert-graetzl-in-favoriten-120272909) |
+| un si grand soleil | FR | fr | 500 | 05:40 | [Un Si Grand Soleil en avance : résumé de l'épisode du vendredi 30 octobre 2026 [SPOILERS]](https://divertissements.orange.fr/cinema-series/toutes-les-actus-series/un-si-grand-soleil-en-avance-resume-de-l-episode-du-vendredi-30-octobre-2026-spoilers-CNT000002tsiRr.html) |
+| l'amour est dans le pré | FR | fr | 500 | 05:10 | [L'amour est dans le pré : Épisode 10 - Partie 2 26-10-2026](https://www.m6.fr/l-amour-est-dans-le-pre-p_857/episode-10-partie-2-c_13200937) |
+| fire detection system | US | en | 200 | 05:40 | [Fire alarm communication devices enhance the efficiency of early incident response.](https://www.vietnam.vn/en/thiet-bi-truyen-tin-bao-chay-nang-cao-hieu-qua-xu-ly-su-co-tu-som) |
+| cmg | US | en | 200 | 05:40 | [Chipotle stock pops on sustained sales momentum in Q3](https://finance.yahoo.com/markets/stocks/article/chipotle-stock-pops-on-sustained-sales-momentum-in-q3-203209272.html) |
+| cyber risk insurance | US | en | 200 | 05:30 | [Which small businesses need cyber liability insurance most?](https://keyt.com/stacker-small-business/2026/10/29/which-small-businesses-need-cyber-liability-insurance-most/) |
+| dividend stocks | US | en | 200 | 05:30 | [Top Wall Street analysts prefer these 3 dividend stocks for stable income](https://www.cnbc.com/2026/10/26/top-wall-street-analysts-prefer-these-3-dividend-stocks-for-stable-income.html) |
+| etf | US | en | 200 | 05:30 |  |
+| bonds | US | en | 200 | 05:30 | [Microsoft plans to raise $25 billion in debt as it pursues AI buildout](https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html) |
+| callum turner | GB | en | 200 | 05:00 | [What a spectre - Bond boys bounce around London](https://www.bbc.co.uk/news/articles/cmde869e8k34o) |
+| uk budget pensioner tax allowance | GB | en | 200 | 04:50 | [Budget 2026: State Pensioners with incomes under £13,037 a year to pay no Income Tax as new allowance introduced](https://www.moneysavingexpert.com/news/2026/10/budget-state-pension-tax-free-allowance-rise/) |
+| reddit | GB | en | 200 | 03:30 | [Reddit is moving to “a logged-in-only experience,” CEO says](https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/) |
+| israeli elections netanyahu | GB | en | 200 | 03:10 | [Israel’s election ended in deadlock. Here are four ways out](https://www.cnn.com/2026/10/29/middleeast/israels-election-deadlock-four-scenarios-vis-intl) |
+| trail blazers vs grizzlies | GB | en | 200 | 02:50 | [Trail Blazers' Ja Morant exits first game vs. Grizzlies with hamstring injury](https://www.espn.com/nba/story/_/id/50325662/trail-blazers-ja-morant-exit-grizzlies-hamstring-injury) |
+| fusilamiento | ES | es | 200 | 05:30 | [Los 323 legionarios fusilados por falangistas en octubre de 1936](https://www.elmundo.es/cultura/2026/10/29/6ae36580e9cf4ad0218b45c7.html) |
+| john f cryan | ES | es | 200 | 04:20 | [John Cryan, neurobiólogo: “Nuestros hallazgos sugieren que el café, con cafeína o descafeinado, influye en la microbiota y la salud mental”](https://www.elconfidencial.com/alma-corazon-vida/2026-10-29/john-cryan-cafe-cafeina-descafeinado-influye-microbiota-salud-mental-1qrt_4453420/) |
+| u. católica - ldu quito | ES | es | 200 | 02:40 | [Qué canal pasa Universidad Católica vs Liga de Quito hoy: dónde ver en vivo](https://www.365scores.com/es/news/donde-ver-u-catolica-vs-liga-hoy-vivo/) |
+| grizzlies | MX | es | 200 | 04:10 | [Trail Blazers' Ja Morant exits first game vs. Grizzlies with hamstring injury](https://www.espn.com/nba/story/_/id/50325662/trail-blazers-ja-morant-exit-grizzlies-hamstring-injury) |
+| marisa manchado | MX | es | 200 | 03:50 |  |
+| precio dolar blue | AR | es | 200 | 04:00 | [Dólar blue, dólar hoy: a cuánto cotizan el jueves 29 de octubre de 2026](https://www.pagina12.com.ar/2026/10/29/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-jueves-29-de-octubre-de-2026/) |
+| pablo migliore | AR | es | 200 | 02:10 | [La advertencia de Betular a Pablo Migliore por el ingrediente que usó en MasterChef: “Provoca alucinaciones y taquicardia”](https://www.infobae.com/teleshow/2026/10/30/la-advertencia-de-betular-a-pablo-migliore-por-el-ingrediente-que-uso-en-masterchef-provoca-alucinaciones-y-taquicardia/) |
+| simone tebet | BR | pt | 200 | 04:10 | [Precisamos de PEC para contenção dos gastos, defende Tebet à CNN](https://www.cnnbrasil.com.br/economia/money/macroeconomia/precisamos-de-pec-para-contencao-dos-gastos-defende-tebet-a-cnn/) |
+| susep | BR | pt | 200 | 03:50 | [Seguros digitais são mais uma forma de obter seguros regulamentados pela Susep](https://www.itatiaia.com.br/economia/investimentos/seguros-digitais-sao-mais-uma-forma-de-obter-seguros-regulamentados-pela-susep/) |
 
-## Uygun yeni adaylar (93)
-
-| Puan | Kişi | Kategori | Nerede trend | Wikipedia artışı | Kaynak | Not |
-| --- | --- | --- | --- | --- | --- | --- |
-| 192 | Fátima Báñez | business | en, es, de, fr | 11076x | [Q453730](https://www.wikidata.org/wiki/Q453730) [Wikipedia](https://en.wikipedia.org/wiki/F%C3%A1tima_B%C3%A1%C3%B1ez) | recent death, write with care |
-| 191 | Susan Saint James | artists | en, es, de, fr | 277.3x | [Q259559](https://www.wikidata.org/wiki/Q259559) [Wikipedia](https://en.wikipedia.org/wiki/Susan_Saint_James) | recent death, write with care |
-| 188 | Mao Zedong | artists | en, es, pt, de, fr | 8.4x | [Q5816](https://www.wikidata.org/wiki/Q5816) [Wikipedia](https://en.wikipedia.org/wiki/Mao_Zedong) |  |
-| 183 | Matthew Perry | artists | en, es, pt, de, fr | 8.3x | [Q171758](https://www.wikidata.org/wiki/Q171758) [Wikipedia](https://en.wikipedia.org/wiki/Matthew_Perry) |  |
-| 178 | Benjamin Netanyahu | business | en, es, pt, de, fr | 5.7x | [Q43723](https://www.wikidata.org/wiki/Q43723) [Wikipedia](https://en.wikipedia.org/wiki/Benjamin_Netanyahu) |  |
-| 161 | Flávio Bolsonaro | business | en, es, pt, de, fr | 2.7x | [Q10283057](https://www.wikidata.org/wiki/Q10283057) [Wikipedia](https://en.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro) |  |
-| 150 | Walter Koenig | artists | en, de | 67.3x | [Q376176](https://www.wikidata.org/wiki/Q376176) [Wikipedia](https://en.wikipedia.org/wiki/Walter_Koenig) | recent death, write with care |
-| 147 | Deborah Kara Unger | artists | de, fr | 39x | [Q233801](https://www.wikidata.org/wiki/Q233801) [Wikipedia](https://en.wikipedia.org/wiki/Deborah_Kara_Unger) |  |
-| 133 | Carl von Clausewitz | artists | de | 74.6x | [Q76430](https://www.wikidata.org/wiki/Q76430) [Wikipedia](https://en.wikipedia.org/wiki/Carl_von_Clausewitz) |  |
-| 132 | David Walliams | artists | en | 25.7x | [Q359665](https://www.wikidata.org/wiki/Q359665) [Wikipedia](https://en.wikipedia.org/wiki/David_Walliams) |  |
-| 130 | Eric Bauza | artists | en | 37.6x | [Q5386105](https://www.wikidata.org/wiki/Q5386105) [Wikipedia](https://en.wikipedia.org/wiki/Eric_Bauza) | recent death, write with care |
-| 130 | Juan Manuel Fangio | business | de | 43.9x | [Q2069](https://www.wikidata.org/wiki/Q2069) [Wikipedia](https://en.wikipedia.org/wiki/Juan_Manuel_Fangio) |  |
-| 129 | Adam DeVine | athletes | en | 28.7x | [Q4678957](https://www.wikidata.org/wiki/Q4678957) [Wikipedia](https://en.wikipedia.org/wiki/Adam_DeVine) |  |
-| 127 | Jérémy Mathieu | athletes | fr | 66.9x | [Q312892](https://www.wikidata.org/wiki/Q312892) [Wikipedia](https://en.wikipedia.org/wiki/J%C3%A9r%C3%A9my_Mathieu) |  |
-| 123 | Justin Tucker | athletes | en | 33.7x | [Q3791153](https://www.wikidata.org/wiki/Q3791153) [Wikipedia](https://en.wikipedia.org/wiki/Justin_Tucker) |  |
-| 122 | Romano Floriani Mussolini | athletes | es | 49.2x | [Q105268643](https://www.wikidata.org/wiki/Q105268643) [Wikipedia](https://en.wikipedia.org/wiki/Romano_Floriani_Mussolini) |  |
-| 121 | Iván Valenciano | athletes | es | 146.1x | [Q1319079](https://www.wikidata.org/wiki/Q1319079) [Wikipedia](https://en.wikipedia.org/wiki/Iv%C3%A1n_Valenciano) |  |
-| 121 | Q76324 | artists | DE, de | 8.9x | [Q76324](https://www.wikidata.org/wiki/Q76324) [Wikipedia](https://en.wikipedia.org/wiki/Juli_Zeh) |  |
-| 120 | Artur Brauner | artists | de | 52.8x | [Q215578](https://www.wikidata.org/wiki/Q215578) [Wikipedia](https://en.wikipedia.org/wiki/Artur_Brauner) |  |
-| 119 | Donnie Iris | artists | en | 338x | [Q5296666](https://www.wikidata.org/wiki/Q5296666) [Wikipedia](https://en.wikipedia.org/wiki/Donnie_Iris) | recent death, write with care |
-| 119 | Paul Rée | artists | de | 241.9x | [Q62596](https://www.wikidata.org/wiki/Q62596) [Wikipedia](https://en.wikipedia.org/wiki/Paul_R%C3%A9e) |  |
-| 117 | Dick Ebersol | artists | en | 123.1x | [Q1209648](https://www.wikidata.org/wiki/Q1209648) [Wikipedia](https://en.wikipedia.org/wiki/Dick_Ebersol) |  |
-| 117 | Eder Sarabia | athletes | es | 224.1x | [Q106834887](https://www.wikidata.org/wiki/Q106834887) [Wikipedia](https://en.wikipedia.org/wiki/Eder_Sarabia) |  |
-| 117 | Barack Obama | creators | BR, pt | 3.1x | [Q76](https://www.wikidata.org/wiki/Q76) [Wikipedia](https://en.wikipedia.org/wiki/Barack_Obama) |  |
-| 117 | Ulrich Noethen | artists | de | 18.9x | [Q95673](https://www.wikidata.org/wiki/Q95673) [Wikipedia](https://en.wikipedia.org/wiki/Ulrich_Noethen) |  |
-| 115 | Jurij Rodionov | athletes | de | 46.4x | [Q30148749](https://www.wikidata.org/wiki/Q30148749) [Wikipedia](https://en.wikipedia.org/wiki/Jurij_Rodionov) |  |
-| 114 | Heiko Weber | athletes | de | 983.5x | [Q1594738](https://www.wikidata.org/wiki/Q1594738) [Wikipedia](https://en.wikipedia.org/wiki/Heiko_Weber) | recent death, write with care |
-| 114 | Michael Douglas | artists | de, fr | 6.9x | [Q119798](https://www.wikidata.org/wiki/Q119798) [Wikipedia](https://en.wikipedia.org/wiki/Michael_Douglas) |  |
-| 113 | Manuel Bandera | artists | es | 114.2x | [Q9027608](https://www.wikidata.org/wiki/Q9027608) [Wikipedia](https://en.wikipedia.org/wiki/Manuel_Bandera) |  |
-| 113 | Lit Killah | creators | es | 79.4x | [Q63854269](https://www.wikidata.org/wiki/Q63854269) [Wikipedia](https://en.wikipedia.org/wiki/Lit_Killah) |  |
-| 113 | Lolo Rico | artists | es | 83.9x | [Q5978519](https://www.wikidata.org/wiki/Q5978519) [Wikipedia](https://en.wikipedia.org/wiki/Lolo_Rico) |  |
-| 113 | Matthias Strauss | athletes | de | 575.4x | [Q100271](https://www.wikidata.org/wiki/Q100271)  |  |
-| 113 | David Daiber | athletes | de | 162.7x | [Q134713602](https://www.wikidata.org/wiki/Q134713602) [Wikipedia](https://en.wikipedia.org/wiki/David_Santos_Daiber) |  |
-| 112 | DeForest Buckner | athletes | en | 17.6x | [Q18685090](https://www.wikidata.org/wiki/Q18685090) [Wikipedia](https://en.wikipedia.org/wiki/DeForest_Buckner) |  |
-| 112 | Bill Simpson | athletes | de | 819.1x | [Q4910876](https://www.wikidata.org/wiki/Q4910876) [Wikipedia](https://en.wikipedia.org/wiki/Bill_Simpson_(racing_driver)) |  |
-| 112 | Jumbo Schreiner | artists | de | 43.7x | [Q123493](https://www.wikidata.org/wiki/Q123493) [Wikipedia](https://en.wikipedia.org/wiki/Jumbo_Schreiner) |  |
-| 110 | Michael Olise | athletes | de, fr | 6.4x | [Q62050484](https://www.wikidata.org/wiki/Q62050484) [Wikipedia](https://en.wikipedia.org/wiki/Michael_Olise) |  |
-| 108 | Jennifer Lawrence | artists | en, de | 3.7x | [Q189490](https://www.wikidata.org/wiki/Q189490) [Wikipedia](https://en.wikipedia.org/wiki/Jennifer_Lawrence) |  |
-| 107 | Corinne Luchaire | artists | fr | 16.4x | [Q2294413](https://www.wikidata.org/wiki/Q2294413) [Wikipedia](https://en.wikipedia.org/wiki/Corinne_Luchaire) |  |
-| 107 | Billy Crawford | artists | fr | 16.4x | [Q863061](https://www.wikidata.org/wiki/Q863061) [Wikipedia](https://en.wikipedia.org/wiki/Billy_Crawford) |  |
-| 105 | William Katt | artists | en | 11.4x | [Q1336685](https://www.wikidata.org/wiki/Q1336685) [Wikipedia](https://en.wikipedia.org/wiki/William_Katt) |  |
-| 104 | David Garrett | artists | de | 13.1x | [Q160430](https://www.wikidata.org/wiki/Q160430) [Wikipedia](https://en.wikipedia.org/wiki/David_Garrett) |  |
-| 102 | Danny Masterson | artists | en, de | 4.6x | [Q374220](https://www.wikidata.org/wiki/Q374220) [Wikipedia](https://en.wikipedia.org/wiki/Danny_Masterson) |  |
-| 102 | Ruy Barbosa | artists | pt | 13.5x | [Q916935](https://www.wikidata.org/wiki/Q916935) [Wikipedia](https://en.wikipedia.org/wiki/Ruy_Barbosa) |  |
-| 99 | Sophie Marceau | artists | fr | 8.9x | [Q162753](https://www.wikidata.org/wiki/Q162753) [Wikipedia](https://en.wikipedia.org/wiki/Sophie_Marceau) |  |
-| 97 | Lisa-Marie Koroll | artists | de | 14.5x | [Q15275292](https://www.wikidata.org/wiki/Q15275292) [Wikipedia](https://en.wikipedia.org/wiki/Lisa-Marie_Koroll) |  |
-| 97 | David Fincher | artists | fr | 9.8x | [Q184903](https://www.wikidata.org/wiki/Q184903) [Wikipedia](https://en.wikipedia.org/wiki/David_Fincher) |  |
-| 96 | Jacques Bainville | artists | fr | 12.8x | [Q966894](https://www.wikidata.org/wiki/Q966894) [Wikipedia](https://en.wikipedia.org/wiki/Jacques_Bainville) |  |
-| 95 | Tiffany Pollard | artists | en | 11.2x | [Q530355](https://www.wikidata.org/wiki/Q530355) [Wikipedia](https://en.wikipedia.org/wiki/Tiffany_Pollard) |  |
-| 95 | Étienne Daho | artists | fr | 12.6x | [Q289556](https://www.wikidata.org/wiki/Q289556) [Wikipedia](https://en.wikipedia.org/wiki/%C3%89tienne_Daho) |  |
-| 94 | Yair Lapid | artists | en | 7.3x | [Q1396120](https://www.wikidata.org/wiki/Q1396120) [Wikipedia](https://en.wikipedia.org/wiki/Yair_Lapid) |  |
-| 94 | Bastian Schweinsteiger | athletes | de | 8.1x | [Q44298](https://www.wikidata.org/wiki/Q44298) [Wikipedia](https://en.wikipedia.org/wiki/Bastian_Schweinsteiger) |  |
-| 93 | Naftali Bennett | business | en | 6.1x | [Q39318](https://www.wikidata.org/wiki/Q39318) [Wikipedia](https://en.wikipedia.org/wiki/Naftali_Bennett) |  |
-| 92 | Shirley Ballas | artists | en | 11.2x | [Q7498691](https://www.wikidata.org/wiki/Q7498691) [Wikipedia](https://en.wikipedia.org/wiki/Shirley_Ballas) |  |
-| 91 | George Michael | artists | de | 6.5x | [Q130311](https://www.wikidata.org/wiki/Q130311) [Wikipedia](https://en.wikipedia.org/wiki/George_Michael) |  |
-| 88 | Marcel Sabitzer | athletes | de | 7.3x | [Q472300](https://www.wikidata.org/wiki/Q472300) [Wikipedia](https://en.wikipedia.org/wiki/Marcel_Sabitzer) |  |
-| 86 | Bob Uecker | athletes | en | 6.6x | [Q888295](https://www.wikidata.org/wiki/Q888295) [Wikipedia](https://en.wikipedia.org/wiki/Bob_Uecker) | recent death, write with care |
-| 85 | Mark Ballas | artists | en | 9.1x | [Q976563](https://www.wikidata.org/wiki/Q976563) [Wikipedia](https://en.wikipedia.org/wiki/Mark_Ballas) |  |
-| 85 | Simón Rodríguez | artists | es | 7.9x | [Q1358685](https://www.wikidata.org/wiki/Q1358685) [Wikipedia](https://en.wikipedia.org/wiki/Sim%C3%B3n_Rodr%C3%ADguez) |  |
-| 85 | Okairy Giner | artists | es | 10.6x | [Q17466073](https://www.wikidata.org/wiki/Q17466073) [Wikipedia](https://en.wikipedia.org/wiki/Oka_Giner) |  |
-| 83 | John Wayne Gacy | artists | de | 5.8x | [Q298252](https://www.wikidata.org/wiki/Q298252) [Wikipedia](https://en.wikipedia.org/wiki/John_Wayne_Gacy) |  |
-| 81 | Richard Norton | athletes | GB | 6x | [Q35358](https://www.wikidata.org/wiki/Q35358) [Wikipedia](https://en.wikipedia.org/wiki/Richard_Norton_(actor)) | recent death, write with care |
-| 80 | Russell Brand | creators | en | 3.3x | [Q296609](https://www.wikidata.org/wiki/Q296609) [Wikipedia](https://en.wikipedia.org/wiki/Russell_Brand) |  |
-| 80 | Jacques Villeret | artists | fr | 5.7x | [Q267244](https://www.wikidata.org/wiki/Q267244) [Wikipedia](https://en.wikipedia.org/wiki/Jacques_Villeret) |  |
-| 78 | Tom Holland | artists | GB | 0.9x | [Q2023710](https://www.wikidata.org/wiki/Q2023710) [Wikipedia](https://en.wikipedia.org/wiki/Tom_Holland) |  |
-| 78 | Andrew Tate | athletes | DE | 1.3x | [Q18637166](https://www.wikidata.org/wiki/Q18637166) [Wikipedia](https://en.wikipedia.org/wiki/Andrew_Tate) |  |
-| 77 | Q2680 | artists | GB | 1x | [Q2680](https://www.wikidata.org/wiki/Q2680) [Wikipedia](https://en.wikipedia.org/wiki/Bruce_Willis) |  |
-| 77 | Pablo Iglesias Turrión | artists | es | 4.5x | [Q13989269](https://www.wikidata.org/wiki/Q13989269) [Wikipedia](https://en.wikipedia.org/wiki/Pablo_Iglesias_Turri%C3%B3n) |  |
-| 76 | Q185002 | business | fr | 2.7x | [Q185002](https://www.wikidata.org/wiki/Q185002) [Wikipedia](https://en.wikipedia.org/wiki/Myl%C3%A8ne_Farmer) |  |
-| 75 | Manu Ginóbili | athletes | AR | 0.8x | [Q213132](https://www.wikidata.org/wiki/Q213132) [Wikipedia](https://en.wikipedia.org/wiki/Manu_Gin%C3%B3bili) |  |
-| 74 | Hasan Piker | creators | en | 2.5x | [Q72219322](https://www.wikidata.org/wiki/Q72219322) [Wikipedia](https://en.wikipedia.org/wiki/Hasan_Piker) |  |
-| 73 | Clive Owen | artists | US | 0.8x | [Q183178](https://www.wikidata.org/wiki/Q183178) [Wikipedia](https://en.wikipedia.org/wiki/Clive_Owen) |  |
-| 73 | Sofia Essaïdi | artists | fr | 3.2x | [Q454911](https://www.wikidata.org/wiki/Q454911) [Wikipedia](https://en.wikipedia.org/wiki/Sofia_Essa%C3%AFdi) |  |
-| 73 | Pierre Moscovici | business | fr | 3.8x | [Q356919](https://www.wikidata.org/wiki/Q356919) [Wikipedia](https://en.wikipedia.org/wiki/Pierre_Moscovici) |  |
-| 71 | Nickeil Alexander-Walker | athletes | US | 0.6x | [Q56513207](https://www.wikidata.org/wiki/Q56513207) [Wikipedia](https://en.wikipedia.org/wiki/Nickeil_Alexander-Walker) |  |
-| 70 | Sara Sampaio | artists | es | 2.4x | [Q10368401](https://www.wikidata.org/wiki/Q10368401) [Wikipedia](https://en.wikipedia.org/wiki/Sara_Sampaio) |  |
-| 70 | Fernando Haddad | business | pt | 2.3x | [Q3069485](https://www.wikidata.org/wiki/Q3069485) [Wikipedia](https://en.wikipedia.org/wiki/Fernando_Haddad) |  |
-| 69 | Alice Wegmann | artists | BR | 3.7x | [Q16336382](https://www.wikidata.org/wiki/Q16336382) [Wikipedia](https://en.wikipedia.org/wiki/Alice_Wegmann) |  |
-| 68 | Zach Edey | athletes | US | 0.8x | [Q106817973](https://www.wikidata.org/wiki/Q106817973) [Wikipedia](https://en.wikipedia.org/wiki/Zach_Edey) |  |
-| 67 | Johan Bakayoko | athletes | DE | 0.5x | [Q102179077](https://www.wikidata.org/wiki/Q102179077) [Wikipedia](https://en.wikipedia.org/wiki/Johan_Bakayoko) |  |
-| 67 | Jan-Lennard Struff | athletes | AT | 1.2x | [Q1681537](https://www.wikidata.org/wiki/Q1681537) [Wikipedia](https://en.wikipedia.org/wiki/Jan-Lennard_Struff) |  |
-| 66 | José Luis Rodríguez | artists | AR | 0.7x | [Q10750565](https://www.wikidata.org/wiki/Q10750565) [Wikipedia](https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_(singer)) |  |
-| 66 | Markus Lanz | artists | DE | 1.4x | [Q43773](https://www.wikidata.org/wiki/Q43773) [Wikipedia](https://en.wikipedia.org/wiki/Markus_Lanz) |  |
-| 65 | Joshua Turek | athletes | US | 1.2x | [Q108470940](https://www.wikidata.org/wiki/Q108470940) [Wikipedia](https://en.wikipedia.org/wiki/Josh_Turek) |  |
-| 64 | Jaxson Hayes | athletes | GB | 0.3x | [Q60963199](https://www.wikidata.org/wiki/Q60963199) [Wikipedia](https://en.wikipedia.org/wiki/Jaxson_Hayes) |  |
-| 63 | Cedric Coward | athletes | US | 0.8x | [Q131392043](https://www.wikidata.org/wiki/Q131392043) [Wikipedia](https://en.wikipedia.org/wiki/Cedric_Coward) |  |
-| 63 | Darius Acuff Jr. | athletes | MX | 1.6x | [Q130749172](https://www.wikidata.org/wiki/Q130749172) [Wikipedia](https://en.wikipedia.org/wiki/Darius_Acuff_Jr.) |  |
-| 62 | Pablo Migliore | athletes | AR | 0.7x | [Q2305653](https://www.wikidata.org/wiki/Q2305653) [Wikipedia](https://en.wikipedia.org/wiki/Pablo_Migliore) |  |
-| 60 | Enrique Piñeyro | artists | AR | 0.9x | [Q5379791](https://www.wikidata.org/wiki/Q5379791) [Wikipedia](https://en.wikipedia.org/wiki/Enrique_Pi%C3%B1eyro_(actor)) |  |
-| 60 | Aaron Wiggins | athletes | BR | 0.2x | [Q98686661](https://www.wikidata.org/wiki/Q98686661) [Wikipedia](https://en.wikipedia.org/wiki/Aaron_Wiggins) |  |
-| 60 | Dorothée Gilbert | artists | FR | 1.3x | [Q3037208](https://www.wikidata.org/wiki/Q3037208) [Wikipedia](https://en.wikipedia.org/wiki/Doroth%C3%A9e_Gilbert) |  |
-| 57 | Josh Norman | athletes | MX | 0x | [Q3810322](https://www.wikidata.org/wiki/Q3810322) [Wikipedia](https://en.wikipedia.org/wiki/Josh_Norman) |  |
-| 56 | Miguel Torruco Marqués | business | MX | 0.7x | [Q19521973](https://www.wikidata.org/wiki/Q19521973) [Wikipedia](https://en.wikipedia.org/wiki/Miguel_Torruco_Marqu%C3%A9s) |  |
-
-## Sitede zaten var, güncellemeye aday (9)
+## Uygun yeni adaylar (116)
 
 | Puan | Kişi | Kategori | Nerede trend | Wikipedia artışı | Kaynak | Not |
 | --- | --- | --- | --- | --- | --- | --- |
-| 189 | Alexia Putellas | athletes | en, es, de, fr | 18.9x | [Q4721366](https://www.wikidata.org/wiki/Q4721366) [Wikipedia](https://en.wikipedia.org/wiki/Alexia_Putellas) |  |
-| 173 | Harry Kane | athletes | en, es, pt, de, fr | 5x | [Q969725](https://www.wikidata.org/wiki/Q969725) [Wikipedia](https://en.wikipedia.org/wiki/Harry_Kane) |  |
-| 152 | Noah Wyle | artists | en, de | 21.4x | [Q315208](https://www.wikidata.org/wiki/Q315208) [Wikipedia](https://en.wikipedia.org/wiki/Noah_Wyle) |  |
-| 127 | Ismael Saibari | athletes | de | 61.6x | [Q98784065](https://www.wikidata.org/wiki/Q98784065) [Wikipedia](https://en.wikipedia.org/wiki/Ismael_Saibari) |  |
-| 123 | Stan Wawrinka | athletes | de, fr | 10.9x | [Q193661](https://www.wikidata.org/wiki/Q193661) [Wikipedia](https://en.wikipedia.org/wiki/Stan_Wawrinka) |  |
-| 120 | Carlos Vinícius | athletes | BR, pt | 9.6x | [Q35694605](https://www.wikidata.org/wiki/Q35694605) [Wikipedia](https://en.wikipedia.org/wiki/Carlos_Vin%C3%ADcius) |  |
-| 110 | Q162202 | artists | en, es | 4x | [Q162202](https://www.wikidata.org/wiki/Q162202) [Wikipedia](https://en.wikipedia.org/wiki/Nicki_Minaj) |  |
-| 74 | Ibrahim Maza | athletes | fr | 3.9x | [Q118118504](https://www.wikidata.org/wiki/Q118118504) [Wikipedia](https://en.wikipedia.org/wiki/Ibrahim_Maza) |  |
-| 72 | Kimi Antonelli | athletes | AR | 0.7x | [Q112073790](https://www.wikidata.org/wiki/Q112073790) [Wikipedia](https://en.wikipedia.org/wiki/Kimi_Antonelli) |  |
+| 223 | Q16296 | artists | en, es, pt, de, fr | 576.3x | [Q16296](https://www.wikidata.org/wiki/Q16296) [Wikipedia](https://en.wikipedia.org/wiki/Patrick_Stewart) | recent death, write with care |
+| 218 | Ian McKellen | artists | en, es, pt, de, fr | 22.6x | [Q170510](https://www.wikidata.org/wiki/Q170510) [Wikipedia](https://en.wikipedia.org/wiki/Ian_McKellen) |  |
+| 217 | Christine Lagarde | athletes | en, es, pt, de, fr | 73.2x | [Q484605](https://www.wikidata.org/wiki/Q484605) [Wikipedia](https://en.wikipedia.org/wiki/Christine_Lagarde) |  |
+| 198 | Benjamin Netanyahu | business | GB, en, es, pt, de, fr | 2.8x | [Q43723](https://www.wikidata.org/wiki/Q43723) [Wikipedia](https://en.wikipedia.org/wiki/Benjamin_Netanyahu) |  |
+| 176 | Matthew Perry | artists | en, es, pt, de, fr | 6.3x | [Q171758](https://www.wikidata.org/wiki/Q171758) [Wikipedia](https://en.wikipedia.org/wiki/Matthew_Perry) |  |
+| 174 | Elke Sommer | artists | en, de, fr | 225.7x | [Q241115](https://www.wikidata.org/wiki/Q241115) [Wikipedia](https://en.wikipedia.org/wiki/Elke_Sommer) | recent death, write with care |
+| 169 | Fátima Báñez | business | es, de, fr | 3230.1x | [Q453730](https://www.wikidata.org/wiki/Q453730) [Wikipedia](https://en.wikipedia.org/wiki/F%C3%A1tima_B%C3%A1%C3%B1ez) | recent death, write with care |
+| 168 | Mao Zedong | artists | es, pt, fr | 15.9x | [Q5816](https://www.wikidata.org/wiki/Q5816) [Wikipedia](https://en.wikipedia.org/wiki/Mao_Zedong) |  |
+| 150 | Walter Koenig | artists | en, de | 73.4x | [Q376176](https://www.wikidata.org/wiki/Q376176) [Wikipedia](https://en.wikipedia.org/wiki/Walter_Koenig) | recent death, write with care |
+| 148 | Susan Saint James | artists | en, de | 80.2x | [Q259559](https://www.wikidata.org/wiki/Q259559) [Wikipedia](https://en.wikipedia.org/wiki/Susan_Saint_James) | recent death, write with care |
+| 141 | Sunny Ozell | artists | en, de | 420.2x | [Q21663441](https://www.wikidata.org/wiki/Q21663441) [Wikipedia](https://en.wikipedia.org/wiki/Sunny_Ozell) |  |
+| 141 | Marisa Manchado | artists | MX, es | 3264x | [Q5789239](https://www.wikidata.org/wiki/Q5789239) [Wikipedia](https://en.wikipedia.org/wiki/Marisa_Manchado) |  |
+| 138 | Alfred Hitchcock | artists | de | 26.6x | [Q7374](https://www.wikidata.org/wiki/Q7374) [Wikipedia](https://en.wikipedia.org/wiki/Alfred_Hitchcock) |  |
+| 137 | Jacob Misiorowski | athletes | en, es | 18.5x | [Q112686301](https://www.wikidata.org/wiki/Q112686301) [Wikipedia](https://en.wikipedia.org/wiki/Jacob_Misiorowski) |  |
+| 135 | Q16297 | creators | en, de | 13.1x | [Q16297](https://www.wikidata.org/wiki/Q16297) [Wikipedia](https://en.wikipedia.org/wiki/William_Shatner) |  |
+| 133 | Joachim Gauck | artists | de | 22.6x | [Q2538](https://www.wikidata.org/wiki/Q2538) [Wikipedia](https://en.wikipedia.org/wiki/Joachim_Gauck) |  |
+| 129 | Bob Uecker | athletes | en | 20x | [Q888295](https://www.wikidata.org/wiki/Q888295) [Wikipedia](https://en.wikipedia.org/wiki/Bob_Uecker) | recent death, write with care |
+| 129 | Eric Bauza | artists | en | 22.4x | [Q5386105](https://www.wikidata.org/wiki/Q5386105) [Wikipedia](https://en.wikipedia.org/wiki/Eric_Bauza) | recent death, write with care |
+| 129 | William Hartnell | artists | en | 73.3x | [Q361996](https://www.wikidata.org/wiki/Q361996) [Wikipedia](https://en.wikipedia.org/wiki/William_Hartnell) |  |
+| 127 | Andrzej Żuławski | artists | fr | 21.2x | [Q515904](https://www.wikidata.org/wiki/Q515904) [Wikipedia](https://en.wikipedia.org/wiki/Andrzej_%C5%BBu%C5%82awski) |  |
+| 127 | Thandiwe Newton | artists | fr | 22.4x | [Q229029](https://www.wikidata.org/wiki/Q229029) [Wikipedia](https://en.wikipedia.org/wiki/Thandiwe_Newton) |  |
+| 126 | Brent Spiner | artists | de | 38.3x | [Q311453](https://www.wikidata.org/wiki/Q311453) [Wikipedia](https://en.wikipedia.org/wiki/Brent_Spiner) |  |
+| 126 | Janet Leigh | artists | de | 19.3x | [Q205314](https://www.wikidata.org/wiki/Q205314) [Wikipedia](https://en.wikipedia.org/wiki/Janet_Leigh) |  |
+| 126 | Jérémy Mathieu | athletes | fr | 43.6x | [Q312892](https://www.wikidata.org/wiki/Q312892) [Wikipedia](https://en.wikipedia.org/wiki/J%C3%A9r%C3%A9my_Mathieu) |  |
+| 125 | Vera Miles | artists | de | 47.7x | [Q237864](https://www.wikidata.org/wiki/Q237864) [Wikipedia](https://en.wikipedia.org/wiki/Vera_Miles) |  |
+| 124 | Nikoloz Basilashvili | athletes | es | 38.3x | [Q16297666](https://www.wikidata.org/wiki/Q16297666) [Wikipedia](https://en.wikipedia.org/wiki/Nikoloz_Basilashvili) |  |
+| 124 | Melody | artists | es | 22.9x | [Q466111](https://www.wikidata.org/wiki/Q466111) [Wikipedia](https://en.wikipedia.org/wiki/Melody_(Spanish_singer)) |  |
+| 124 | Alma Reville | artists | de | 122.6x | [Q203165](https://www.wikidata.org/wiki/Q203165) [Wikipedia](https://en.wikipedia.org/wiki/Alma_Reville) |  |
+| 123 | Jennifer Hetrick | artists | en | 349.6x | [Q273065](https://www.wikidata.org/wiki/Q273065) [Wikipedia](https://en.wikipedia.org/wiki/Jennifer_Hetrick) |  |
+| 122 | Justin Tucker | athletes | en | 19.9x | [Q3791153](https://www.wikidata.org/wiki/Q3791153) [Wikipedia](https://en.wikipedia.org/wiki/Justin_Tucker) |  |
+| 122 | Willian José | athletes | pt | 35.3x | [Q2469796](https://www.wikidata.org/wiki/Q2469796) [Wikipedia](https://en.wikipedia.org/wiki/Willian_Jos%C3%A9) |  |
+| 122 | Michael Herbig | artists | de | 24.5x | [Q45292](https://www.wikidata.org/wiki/Q45292) [Wikipedia](https://en.wikipedia.org/wiki/Michael_%22Bully%22_Herbig) |  |
+| 122 | Miriam Neureuther | athletes | de | 31x | [Q60480](https://www.wikidata.org/wiki/Q60480) [Wikipedia](https://en.wikipedia.org/wiki/Miriam_Neureuther) |  |
+| 121 | Ella Langley | artists | de | 24.4x | [Q127559972](https://www.wikidata.org/wiki/Q127559972) [Wikipedia](https://en.wikipedia.org/wiki/Ella_Langley) |  |
+| 120 | Romano Floriani Mussolini | athletes | es | 30.4x | [Q105268643](https://www.wikidata.org/wiki/Q105268643) [Wikipedia](https://en.wikipedia.org/wiki/Romano_Floriani_Mussolini) |  |
+| 120 | Tallon Griekspoor | athletes | de | 31.4x | [Q28777443](https://www.wikidata.org/wiki/Q28777443) [Wikipedia](https://en.wikipedia.org/wiki/Tallon_Griekspoor) |  |
+| 119 | Tino Edelmann | athletes | de | 704.2x | [Q703730](https://www.wikidata.org/wiki/Q703730) [Wikipedia](https://en.wikipedia.org/wiki/Tino_Edelmann) |  |
+| 118 | Willson Contreras | athletes | en, es | 11.8x | [Q8023023](https://www.wikidata.org/wiki/Q8023023) [Wikipedia](https://en.wikipedia.org/wiki/Willson_Contreras) |  |
+| 117 | Walter | athletes | pt | 60.4x | [Q545249](https://www.wikidata.org/wiki/Q545249) [Wikipedia](https://en.wikipedia.org/wiki/Walter_(footballer%2C_born_1989)) |  |
+| 116 | Michel Pineda | athletes | es | 1690.5x | [Q3313000](https://www.wikidata.org/wiki/Q3313000) [Wikipedia](https://en.wikipedia.org/wiki/Michel_Pineda) | recent death, write with care |
+| 115 | David Walliams | artists | en | 14.8x | [Q359665](https://www.wikidata.org/wiki/Q359665) [Wikipedia](https://en.wikipedia.org/wiki/David_Walliams) |  |
+| 115 | Joe Hyams | artists | de | 2032.3x | [Q1691470](https://www.wikidata.org/wiki/Q1691470) [Wikipedia](https://en.wikipedia.org/wiki/Joe_Hyams) |  |
+| 114 | Pablo Hernández de Cos | business | es | 51.5x | [Q54370999](https://www.wikidata.org/wiki/Q54370999) [Wikipedia](https://en.wikipedia.org/wiki/Pablo_Hern%C3%A1ndez_de_Cos) |  |
+| 114 | Jérôme Kym | athletes | de | 125.8x | [Q61415282](https://www.wikidata.org/wiki/Q61415282) [Wikipedia](https://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Kym) |  |
+| 114 | Judith Magre | artists | fr | 18.6x | [Q1711059](https://www.wikidata.org/wiki/Q1711059) [Wikipedia](https://en.wikipedia.org/wiki/Judith_Magre) |  |
+| 113 | William Contreras | athletes | en, es | 11x | [Q97672385](https://www.wikidata.org/wiki/Q97672385) [Wikipedia](https://en.wikipedia.org/wiki/William_Contreras) |  |
+| 113 | David Daiber | athletes | de | 145.3x | [Q134713602](https://www.wikidata.org/wiki/Q134713602) [Wikipedia](https://en.wikipedia.org/wiki/David_Santos_Daiber) |  |
+| 113 | Philipp Blom | artists | de | 67.3x | [Q72001](https://www.wikidata.org/wiki/Q72001) [Wikipedia](https://en.wikipedia.org/wiki/Philipp_Blom) |  |
+| 112 | Jorge de Juan | artists | es | 806.7x | [Q9012962](https://www.wikidata.org/wiki/Q9012962) [Wikipedia](https://en.wikipedia.org/wiki/Jorge_de_Juan) |  |
+| 112 | Jean-Pierre Farandou | business | fr | 28x | [Q33106208](https://www.wikidata.org/wiki/Q33106208) [Wikipedia](https://en.wikipedia.org/wiki/Jean-Pierre_Farandou) |  |
+| 112 | Mouss Diouf | artists | fr | 18.1x | [Q658468](https://www.wikidata.org/wiki/Q658468) [Wikipedia](https://en.wikipedia.org/wiki/Mouss_Diouf) |  |
+| 112 | Danièle Thompson | artists | fr | 17.5x | [Q374760](https://www.wikidata.org/wiki/Q374760) [Wikipedia](https://en.wikipedia.org/wiki/Dani%C3%A8le_Thompson) |  |
+| 111 | Ré Soupault | artists | de | 696.7x | [Q2178652](https://www.wikidata.org/wiki/Q2178652) [Wikipedia](https://en.wikipedia.org/wiki/R%C3%A9_Soupault) |  |
+| 111 | Axel Ranisch | artists | de | 39.1x | [Q15784859](https://www.wikidata.org/wiki/Q15784859) [Wikipedia](https://en.wikipedia.org/wiki/Axel_Ranisch) |  |
+| 110 | Manuel Bandera | artists | es | 36.3x | [Q9027608](https://www.wikidata.org/wiki/Q9027608) [Wikipedia](https://en.wikipedia.org/wiki/Manuel_Bandera) |  |
+| 110 | Sasha Meneghel | athletes | pt | 38.7x | [Q16240175](https://www.wikidata.org/wiki/Q16240175) [Wikipedia](https://en.wikipedia.org/wiki/Sasha_Meneghel) |  |
+| 106 | Hayden Panettiere | artists | en, de | 4x | [Q171571](https://www.wikidata.org/wiki/Q171571) [Wikipedia](https://en.wikipedia.org/wiki/Hayden_Panettiere) | recent death, write with care |
+| 106 | Katerina Jacob | artists | de | 16.7x | [Q1735831](https://www.wikidata.org/wiki/Q1735831) [Wikipedia](https://en.wikipedia.org/wiki/Katerina_Jacob) |  |
+| 106 | Stefanie Kloß | artists | de | 18.2x | [Q13607645](https://www.wikidata.org/wiki/Q13607645)  |  |
+| 105 | Sophie Marceau | artists | fr | 11x | [Q162753](https://www.wikidata.org/wiki/Q162753) [Wikipedia](https://en.wikipedia.org/wiki/Sophie_Marceau) |  |
+| 104 | Cameron Boozer | athletes | ES, BR, FR | 0.6x | [Q117336594](https://www.wikidata.org/wiki/Q117336594) [Wikipedia](https://en.wikipedia.org/wiki/Cameron_Boozer) |  |
+| 103 | Jan-Lennard Struff | athletes | de | 13.3x | [Q1681537](https://www.wikidata.org/wiki/Q1681537) [Wikipedia](https://en.wikipedia.org/wiki/Jan-Lennard_Struff) |  |
+| 99 | Frederik Pleitgen | artists | de | 16.1x | [Q110855](https://www.wikidata.org/wiki/Q110855) [Wikipedia](https://en.wikipedia.org/wiki/Frederik_Pleitgen) |  |
+| 98 | Josef Mengele | artists | de | 9.2x | [Q57109](https://www.wikidata.org/wiki/Q57109) [Wikipedia](https://en.wikipedia.org/wiki/Josef_Mengele) |  |
+| 98 | Rikke Lylloff | artists | de | 15.3x | [Q12333487](https://www.wikidata.org/wiki/Q12333487)  |  |
+| 98 | Anthony Delon | artists | fr | 12.6x | [Q573147](https://www.wikidata.org/wiki/Q573147) [Wikipedia](https://en.wikipedia.org/wiki/Anthony_Delon) |  |
+| 97 | Mckenna Grace | artists | en, fr | 2.5x | [Q20752077](https://www.wikidata.org/wiki/Q20752077) [Wikipedia](https://en.wikipedia.org/wiki/Mckenna_Grace) |  |
+| 97 | Victoria Justice | artists | es | 9.5x | [Q200194](https://www.wikidata.org/wiki/Q200194) [Wikipedia](https://en.wikipedia.org/wiki/Victoria_Justice) |  |
+| 97 | Ruy Barbosa | artists | pt | 12x | [Q916935](https://www.wikidata.org/wiki/Q916935) [Wikipedia](https://en.wikipedia.org/wiki/Ruy_Barbosa) |  |
+| 97 | Cary Grant | business | de | 8.9x | [Q83410](https://www.wikidata.org/wiki/Q83410) [Wikipedia](https://en.wikipedia.org/wiki/Cary_Grant) |  |
+| 97 | Anthony Perkins | artists | de | 9.6x | [Q193146](https://www.wikidata.org/wiki/Q193146) [Wikipedia](https://en.wikipedia.org/wiki/Anthony_Perkins) |  |
+| 97 | Roland Lescure | business | fr | 13.2x | [Q30130489](https://www.wikidata.org/wiki/Q30130489) [Wikipedia](https://en.wikipedia.org/wiki/Roland_Lescure) |  |
+| 96 | Jon Ossoff | business | en, fr | 2.3x | [Q28839536](https://www.wikidata.org/wiki/Q28839536) [Wikipedia](https://en.wikipedia.org/wiki/Jon_Ossoff) |  |
+| 96 | Michael Olise | athletes | de, fr | 2.4x | [Q62050484](https://www.wikidata.org/wiki/Q62050484) [Wikipedia](https://en.wikipedia.org/wiki/Michael_Olise) |  |
+| 95 | Lisa-Marie Koroll | artists | de | 13.9x | [Q15275292](https://www.wikidata.org/wiki/Q15275292) [Wikipedia](https://en.wikipedia.org/wiki/Lisa-Marie_Koroll) |  |
+| 92 | Paula Badosa | athletes | US, ES | 1.4x | [Q19560013](https://www.wikidata.org/wiki/Q19560013) [Wikipedia](https://en.wikipedia.org/wiki/Paula_Badosa) |  |
+| 92 | Willy Adames | athletes | en | 11.7x | [Q17465549](https://www.wikidata.org/wiki/Q17465549) [Wikipedia](https://en.wikipedia.org/wiki/Willy_Adames) |  |
+| 92 | Q76324 | artists | de | 9.4x | [Q76324](https://www.wikidata.org/wiki/Q76324) [Wikipedia](https://en.wikipedia.org/wiki/Juli_Zeh) |  |
+| 92 | Q13990552 | athletes | de | 8x | [Q13990552](https://www.wikidata.org/wiki/Q13990552) [Wikipedia](https://en.wikipedia.org/wiki/Alexander_Zverev) |  |
+| 92 | Felix Neureuther | athletes | de | 10.2x | [Q61041](https://www.wikidata.org/wiki/Q61041) [Wikipedia](https://en.wikipedia.org/wiki/Felix_Neureuther) |  |
+| 92 | Jennifer Love Hewitt | artists | fr | 7.6x | [Q175104](https://www.wikidata.org/wiki/Q175104) [Wikipedia](https://en.wikipedia.org/wiki/Jennifer_Love_Hewitt) |  |
+| 91 | Tiffany Pollard | artists | en | 9.7x | [Q530355](https://www.wikidata.org/wiki/Q530355) [Wikipedia](https://en.wikipedia.org/wiki/Tiffany_Pollard) |  |
+| 91 | Ann-Kathrin Kramer | artists | de | 11.4x | [Q97152](https://www.wikidata.org/wiki/Q97152) [Wikipedia](https://en.wikipedia.org/wiki/Ann-Kathrin_Kramer) |  |
+| 91 | Corinne Luchaire | artists | fr | 11.3x | [Q2294413](https://www.wikidata.org/wiki/Q2294413) [Wikipedia](https://en.wikipedia.org/wiki/Corinne_Luchaire) |  |
+| 89 | Jennifer Lawrence | artists | en | 4x | [Q189490](https://www.wikidata.org/wiki/Q189490) [Wikipedia](https://en.wikipedia.org/wiki/Jennifer_Lawrence) |  |
+| 89 | Hugo Travers | business | fr | 12.4x | [Q65130631](https://www.wikidata.org/wiki/Q65130631) [Wikipedia](https://en.wikipedia.org/wiki/Hugo_Travers) |  |
+| 87 | Christine Weston Chandler | creators | fr | 11x | [Q98406706](https://www.wikidata.org/wiki/Q98406706)  |  |
+| 85 | Russell Brand | creators | en | 4.8x | [Q296609](https://www.wikidata.org/wiki/Q296609) [Wikipedia](https://en.wikipedia.org/wiki/Russell_Brand) |  |
+| 85 | Johann Wolfgang von Goethe | artists | de | 3x | [Q5879](https://www.wikidata.org/wiki/Q5879) [Wikipedia](https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe) |  |
+| 85 | Bastian Schweinsteiger | athletes | de | 5.3x | [Q44298](https://www.wikidata.org/wiki/Q44298) [Wikipedia](https://en.wikipedia.org/wiki/Bastian_Schweinsteiger) |  |
+| 82 | Diego Maradona | athletes | AR | 0.9x | [Q17515](https://www.wikidata.org/wiki/Q17515) [Wikipedia](https://en.wikipedia.org/wiki/Diego_Maradona) |  |
+| 81 | Pat Murphy | athletes | en | 6.7x | [Q2394087](https://www.wikidata.org/wiki/Q2394087) [Wikipedia](https://en.wikipedia.org/wiki/Pat_Murphy_(baseball_manager)) |  |
+| 81 | Michael Sheen | artists | en | 3x | [Q298276](https://www.wikidata.org/wiki/Q298276) [Wikipedia](https://en.wikipedia.org/wiki/Michael_Sheen) |  |
+| 80 | Manu Ginóbili | athletes | AR | 1.8x | [Q213132](https://www.wikidata.org/wiki/Q213132) [Wikipedia](https://en.wikipedia.org/wiki/Manu_Gin%C3%B3bili) |  |
+| 80 | Orelsan | artists | fr | 6.4x | [Q2813374](https://www.wikidata.org/wiki/Q2813374) [Wikipedia](https://en.wikipedia.org/wiki/Orelsan) |  |
+| 78 | Christian Yelich | athletes | en | 4.2x | [Q14375933](https://www.wikidata.org/wiki/Q14375933) [Wikipedia](https://en.wikipedia.org/wiki/Christian_Yelich) |  |
+| 76 | Katrin Sass | artists | de | 4.1x | [Q71698](https://www.wikidata.org/wiki/Q71698) [Wikipedia](https://en.wikipedia.org/wiki/Katrin_Sass) |  |
+| 75 | Jérémy Ferrari | artists | fr | 7.3x | [Q3190745](https://www.wikidata.org/wiki/Q3190745) [Wikipedia](https://en.wikipedia.org/wiki/J%C3%A9r%C3%A9my_Ferrari) |  |
+| 74 | Nora Tschirner | artists | de | 3.7x | [Q63228](https://www.wikidata.org/wiki/Q63228) [Wikipedia](https://en.wikipedia.org/wiki/Nora_Tschirner) |  |
+| 73 | Barry Bonds | athletes | US | 1.6x | [Q314712](https://www.wikidata.org/wiki/Q314712) [Wikipedia](https://en.wikipedia.org/wiki/Barry_Bonds) |  |
+| 73 | James Acaster | artists | en | 3.8x | [Q15072714](https://www.wikidata.org/wiki/Q15072714) [Wikipedia](https://en.wikipedia.org/wiki/James_Acaster) |  |
+| 73 | Belinda Peregrín | artists | MX | 1.3x | [Q232514](https://www.wikidata.org/wiki/Q232514) [Wikipedia](https://en.wikipedia.org/wiki/Belinda_Peregr%C3%ADn) |  |
+| 70 | Pokimane | creators | US | 1.9x | [Q55956238](https://www.wikidata.org/wiki/Q55956238) [Wikipedia](https://en.wikipedia.org/wiki/Pokimane) |  |
+| 70 | Sophia Thomalla | artists | de | 3.8x | [Q109608](https://www.wikidata.org/wiki/Q109608) [Wikipedia](https://en.wikipedia.org/wiki/Sophia_Thomalla) |  |
+| 69 | Romano Schmid | athletes | AT | 0.9x | [Q30080273](https://www.wikidata.org/wiki/Q30080273) [Wikipedia](https://en.wikipedia.org/wiki/Romano_Schmid) |  |
+| 68 | Callum Turner | artists | GB | 0.6x | [Q18162913](https://www.wikidata.org/wiki/Q18162913) [Wikipedia](https://en.wikipedia.org/wiki/Callum_Turner) |  |
+| 67 | AJ Dybantsa | athletes | US | 2.1x | [Q120562122](https://www.wikidata.org/wiki/Q120562122) [Wikipedia](https://en.wikipedia.org/wiki/AJ_Dybantsa) |  |
+| 67 | Shy'm | artists | fr | 2x | [Q242432](https://www.wikidata.org/wiki/Q242432) [Wikipedia](https://en.wikipedia.org/wiki/Shy'm) |  |
+| 63 | Maya Jama | artists | en | 2x | [Q40548765](https://www.wikidata.org/wiki/Q40548765) [Wikipedia](https://en.wikipedia.org/wiki/Maya_Jama) |  |
+| 63 | Ricardo Andrés Vega Torres | athletes | DE | 0.8x | [Q739160](https://www.wikidata.org/wiki/Q739160) [Wikipedia](https://en.wikipedia.org/wiki/Dion_Phaneuf) |  |
+| 61 | Pablo Migliore | athletes | AR | 0.4x | [Q2305653](https://www.wikidata.org/wiki/Q2305653) [Wikipedia](https://en.wikipedia.org/wiki/Pablo_Migliore) |  |
+| 61 | Zé Felipe | artists | BR | 0.8x | [Q46579461](https://www.wikidata.org/wiki/Q46579461) [Wikipedia](https://en.wikipedia.org/wiki/Z%C3%A9_Felipe) |  |
+| 60 | Ty Jerome | athletes | MX | 0.4x | [Q61660709](https://www.wikidata.org/wiki/Q61660709) [Wikipedia](https://en.wikipedia.org/wiki/Ty_Jerome) |  |
+| 59 | Darius Acuff Jr. | athletes | ES | 0.9x | [Q130749172](https://www.wikidata.org/wiki/Q130749172) [Wikipedia](https://en.wikipedia.org/wiki/Darius_Acuff_Jr.) |  |
+| 59 | Cedric Coward | athletes | MX | 0.4x | [Q131392043](https://www.wikidata.org/wiki/Q131392043) [Wikipedia](https://en.wikipedia.org/wiki/Cedric_Coward) |  |
+| 58 | Daniel Carr | athletes | DE | 0.1x | [Q16233702](https://www.wikidata.org/wiki/Q16233702) [Wikipedia](https://en.wikipedia.org/wiki/Daniel_Carr_(ice_hockey)) |  |
+
+## Sitede zaten var, güncellemeye aday (7)
+
+| Puan | Kişi | Kategori | Nerede trend | Wikipedia artışı | Kaynak | Not |
+| --- | --- | --- | --- | --- | --- | --- |
+| 149 | Alexia Putellas | athletes | de, fr | 41.3x | [Q4721366](https://www.wikidata.org/wiki/Q4721366) [Wikipedia](https://en.wikipedia.org/wiki/Alexia_Putellas) |  |
+| 144 | Harry Kane | athletes | en, es, de, fr | 2.4x | [Q969725](https://www.wikidata.org/wiki/Q969725) [Wikipedia](https://en.wikipedia.org/wiki/Harry_Kane) |  |
+| 123 | Jeffery Simmons | athletes | en | 141.6x | [Q45146310](https://www.wikidata.org/wiki/Q45146310) [Wikipedia](https://en.wikipedia.org/wiki/Jeffery_Simmons) |  |
+| 117 | Charlyn Corral | athletes | es | 61.3x | [Q5765134](https://www.wikidata.org/wiki/Q5765134) [Wikipedia](https://en.wikipedia.org/wiki/Charlyn_Corral) |  |
+| 100 | Noah Wyle | artists | en | 10x | [Q315208](https://www.wikidata.org/wiki/Q315208) [Wikipedia](https://en.wikipedia.org/wiki/Noah_Wyle) |  |
+| 84 | Q162202 | artists | en | 2.3x | [Q162202](https://www.wikidata.org/wiki/Q162202) [Wikipedia](https://en.wikipedia.org/wiki/Nicki_Minaj) |  |
+| 73 | Kimi Antonelli | athletes | AR | 0.9x | [Q112073790](https://www.wikidata.org/wiki/Q112073790) [Wikipedia](https://en.wikipedia.org/wiki/Kimi_Antonelli) |  |
 
 ## Elenenler
 
-237 kişi elendi (reşit olmayan, suç ya da trajedi haberi, az tanınan, kategori dışı ya da trend zayıf). Ayrıntı JSON dosyasında.
+229 kişi elendi (reşit olmayan, suç ya da trajedi haberi, az tanınan, kategori dışı ya da trend zayıf). Ayrıntı JSON dosyasında.
