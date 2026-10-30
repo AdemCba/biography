@@ -1,6 +1,6 @@
 # Search Console focus list
 
-From Search Console, 2026-10-22 to 2026-10-29, updated automatically every day.
+From Search Console, 2026-10-23 to 2026-10-30, updated automatically every day.
 
 Each page below shows on Google's first or second page (average position 3-20) but gets almost no clicks. The queries are what people typed. The writer works
 through this list from the top, up to 3 pages per people run, then ticks the box with the date.
@@ -18,31 +18,31 @@ For each page, edit only that language's file:
 
 ## Pages
 
-- [ ] de/trending/being-sebastian-vettel-geldsorgen-ferrari (114 impressions, 0 clicks, position 6.2): sebastian vettel geldsorgen
-- [ ] es/nicki-minaj (99 impressions, 0 clicks, position 13.7): de donde es nicki minaj, nicki minaj, nicki minaj de donde es, cuántos años tiene nicki minaj, de donde es nicky minaj, de dónde es nicki minaj, donde nacio nicki minaj, edad de nicki minaj
-- [ ] de/bhad-bhabie (63 impressions, 0 clicks, position 11.8): bhad bhabie, bhad bhabie alter, bhad babie, bhad barbie, bhad bhabie rapper
-- [ ] es/yan-diomande (63 impressions, 0 clicks, position 13.4): diomande edad, diomande edad real, edad real diomande, diomande eda, edad de diomande, diomande exad, diomandé edad real, edad de diomande real
-- [ ] es/kai-cenat (61 impressions, 0 clicks, position 11.8): kai cenat, kai cenat edad, edad de kai cenat, edad kai cenat, de donde es kai cenat, kaai cenat, kai cenar, kai cenats
-- [ ] fr/kai-cenat (58 impressions, 0 clicks, position 13.8): kai cenat, kai streamer, age kai cenat, kai cenat wikipedia, kai cenat’s, kait cenat
-- [ ] fr/roger-federer (57 impressions, 0 clicks, position 12.3): age federer, federer age, a quel age federer a pris sa retraite, age de federer, federer retraite age, age retraite federer, federer age retraite, roger champion de tennis suisse
-- [ ] de/lionel-messi (52 impressions, 0 clicks, position 8.6): wie alt war messi bei seinem ersten ballon d'or, messi alter, messi alter erster ballon d or, messi erster ballon d'or alter, messi ballon d'or alter, wie alt war messi beim ersten ballon d'or, messi erste ballon d'or alter, messi erster ballon d'or
-- [ ] de/mrbeast (51 impressions, 0 clicks, position 8.7): mr beast alter, wie alt ist mr beast, wie alt ist mrbeast, mrbeast alter, alter mrbeast, mr beast herkunft, wie viel dollar hat mr beast, alter mr beast
-- [ ] pt/lamine-yamal (50 impressions, 0 clicks, position 11.8): yamal idade, idade yamal, lamine yamal idade, idade lamine yamal 2026, lamine age, lamine yamal, lamine yamal age, laminy yamal
-- [ ] de/og-anunoby (49 impressions, 0 clicks, position 13.9): og anunoby, anunoby knicks, o.g. anunoby, og anuboby, og anuoby
-- [ ] fr/lamine-yamal (49 impressions, 0 clicks, position 12.6): age yamal 2026, l'âge de yamal, yamal age 2026, l'age de yamal, quel âge a yamal, age de yamal, age yamal, lamine yamal age
-- [ ] es/mrbeast (47 impressions, 0 clicks, position 10.6): cuántos años tiene mrbeast, patrimonio de mrbeast, mr beast patrimonio, cuanto años tiene mrbeast, cuantos años tiene mr beast 2026, cuántos años tiene mrbeast actualmente, mrbeast edad, patrimonio mr beast
-- [ ] fr/sylvie-tellier (40 impressions, 0 clicks, position 11.4): miss france sylvie tellier, sylvie tellier, miss france 2002, miss france sylvie tellier 2002, sylvie teillier, sylvie tellier 2002, sylvie tellier legion d honneur, tellier miss france
-- [ ] fr/bhad-bhabie (37 impressions, 0 clicks, position 12.7): bhad bhabie, bahabie, bhad babie, bhadbhabie
-- [ ] de/usain-bolt (33 impressions, 0 clicks, position 14.7): usain bolt, usain bolt alter, bolt usain, usain bolt goldmedaillen, usain bolt rekord, bold sprinter, hussein bolt, sprinter bolt
-- [ ] de/lamine-yamal (32 impressions, 0 clicks, position 13.8): yamal alter, ballon d or jüngster spieler, wie alt war lamine yamal bei der em 2024, wie alt war lamine yamal bei seinem debüt, jüngster ballon d or gewinner alter, jüngster ballon d'or gewinner, alter yamal, in welcher mannschaft spielt lamine yamal
-- [ ] en/yandy-diaz (32 impressions, 0 clicks, position 11.2): how old is diaz on the rays, how old is diaz on tampa bay rays, where is yandy diaz from, diaz tampa bay rays, how long has yandy diaz been with the rays, how old is diaz from the rays, tampa bay diaz age, diaz tampa bay
-- [ ] en/aitana-bonmati (31 impressions, 0 clicks, position 11.2): aitana bonmatí, aitana bonmatí age, aitana bonmatí total ballon d or, aitana bonmatí 2026, aitana bonmati ballon d or 2026, bonmati, aitana bonmati, aitana bonmati age
-- [ ] de/charlyn-corral (30 impressions, 0 clicks, position 11.3): charlyn corral, charlyn corral balon de oro, wo spielt charlyn corral, charilyn corral, charlyn corral (, charlyn corral 2025/2026, charlyn corral alter, charlyn corral ballon dor
-- [ ] de/ibai-llanos (30 impressions, 0 clicks, position 11.6): ibai, ibai llanos, ibai streamer
-- [ ] es/ishowspeed (29 impressions, 0 clicks, position 10.8): cuantos años tiene speed, speed edad, cuantos años tiene ishowspeed, cuántos años tiene speed, como se llama ishowspeed, edad speed, i show speed edad, ishowspeed de que país es
-- [ ] en/ishowspeed (27 impressions, 0 clicks, position 10.0): ishowspeed nationality, where is ishowspeed from, speed nationality, where does ishowspeed come from, ishowspeed government name, ishowspeed is from, ishowspeed real country, what is ishowspeed nationality
-- [ ] es/bhad-bhabie (26 impressions, 0 clicks, position 10.2): bhad bhabie, bhad bhabie edad, bhad baby, bhad babie
-- [ ] es/jensen-huang (25 impressions, 0 clicks, position 9.0): jensen huang edad, jensen huang, jensen huang estudios, jensen huang que estudio, creador de nvidia, founder nvidia, nvidia fundador, ceo de nvidia jensen huang
+- [ ] de/trending/being-sebastian-vettel-geldsorgen-ferrari (661 impressions, 0 clicks, position 7.0): sebastian vettel geldsorgen, vettel geldsorgen
+- [ ] es/nicki-minaj (271 impressions, 0 clicks, position 12.2): de donde es nicki minaj, nicki minaj de donde es, nicki minaj, cuántos años tiene nicki minaj, donde nacio nicki minaj, de donde es nicky minaj, de dónde es nicki minaj, nicky minaj de donde es
+- [ ] fr/carlos-alcaraz (183 impressions, 0 clicks, position 12.6): carlos alcaraz, alcaraz, c. alcaraz, alcaraz age, alcaraz taille âge, quel âge a carlos alcaraz
+- [ ] es/yaxel-lendeborg (124 impressions, 0 clicks, position 7.2): yaxel lendeborg edad, edad yaxel lendeborg, edad de yaxel lendeborg, yaxel lendeborg donde nacio, cuantos años tiene yaxel lendeborg, donde nacio yaxel lendeborg, que edad tiene yaxel lendeborg, yaxel lendeborg
+- [ ] fr/roger-federer (99 impressions, 0 clicks, position 11.4): federer age, age federer, a quel age federer a pris sa retraite, age de federer, age retraite federer, federer retraite age, federer age retraite, roger champion de tennis suisse
+- [ ] es/yan-diomande (95 impressions, 0 clicks, position 12.8): diomande edad, diomande edad real, edad real diomande, diomande eda, diomandé edad real, edad de diomande, edad diomande, diamande edad
+- [ ] de/mrbeast (89 impressions, 0 clicks, position 8.5): mr beast alter, wie alt ist mrbeast, wie alt ist mr beast, mrbeast alter, alter mrbeast, mr beast herkunft, wie viel dollar hat mr beast, alter mr beast
+- [ ] fr/kai-cenat (89 impressions, 0 clicks, position 13.2): kai cenat, kai streamer, age kai cenat, kai cenat wikipedia, kai cenat’s, kai cinat, kai cneat, kait cenat
+- [ ] de/bhad-bhabie (86 impressions, 0 clicks, position 12.0): bhad bhabie, bhad bhabie alter, bhad babie, bha bhabie, bhad barbie, bhad bhabie rapper
+- [ ] es/kai-cenat (84 impressions, 0 clicks, position 11.2): kai cenat, kai cenat edad, edad de kai cenat, edad kai cenat, cual es el streamer mas famoso del mundo, de donde es kai cenat, kaai cenat, kai cenar
+- [ ] es/roger-federer (81 impressions, 0 clicks, position 19.8): roger federer, federer, federer edad, a que edad ganó federer su primer grand slam, cuántos años tiene federer, edad de federer, cuantos roland garros tiene federer, edad federer
+- [ ] en/quenton-nelson (75 impressions, 0 clicks, position 11.5): quentin nelson age, quenton nelson age, quinton nelson age, nelson colts age, quienten nelson age, quentin nelson agr, quenton, quenton nelson
+- [ ] de/usain-bolt (73 impressions, 0 clicks, position 13.9): usain bolt, usain bolt alter, usain bolt goldmedaillen, bolt usain, usain bolt rekord, bold sprinter, wie alt war usain bolt bei seinem weltrekord, wie viele olympische goldmedaillen hat usain bolt
+- [ ] es/mrbeast (68 impressions, 0 clicks, position 10.5): cuántos años tiene mrbeast, patrimonio de mrbeast, mr beast patrimonio, mrbeast patrimonio, cuantos años tiene mr beast, cuanto años tiene mrbeast, cuantos años tiene mr beast 2026, cuánto tiene mrbeast
+- [ ] de/lionel-messi (66 impressions, 0 clicks, position 9.6): wie alt war messi bei seinem ersten ballon d'or, messi alter, messi alter erster ballon d or, messi ballon d'or alter, messi erster ballon d'or alter, wie alt war messi beim ersten ballon d'or, in welchem alter hat messi seinen ersten ballon d'or gewonnen, messi ballon d'or jahre
+- [ ] fr/lamine-yamal (64 impressions, 0 clicks, position 12.1): age yamal 2026, l'âge de yamal, l'age de yamal, yamal age 2026, age de yamal en 2026, l'âge de lamine yamal, quel âge a yamal, age de yamal
+- [ ] fr/bhad-bhabie (61 impressions, 0 clicks, position 12.4): bhad bhabie, bhadbhabie, bahabie, bhad, bhad babie, had babie
+- [ ] de/og-anunoby (58 impressions, 0 clicks, position 14.1): og anunoby, o.g. anunoby, anunoby, anunoby knicks, og anuboby, og anuoby
+- [ ] fr/sylvie-tellier (58 impressions, 0 clicks, position 11.6): miss france sylvie tellier, miss france 2002, sylvie tellier, miss france sylvie tellier 2002, tellier sylvie miss france, ancienne miss france sylvie tellier, sylvie miss france, sylvie teillier
+- [ ] pt/lamine-yamal (56 impressions, 0 clicks, position 13.8): yamal idade, idade yamal, lamine yamal idade, animal jogador, idade lamine yamal 2026, lamine age, lamine yamal, lamine yamal age
+- [ ] es/yandy-diaz (52 impressions, 1 clicks, position 10.4): yandy diaz, yandy díaz, de donde es yandy diaz, yandi diaz, yandy díaz estadísticas, edad de yandy diaz, yandy diaz de donde es, yandy díaz estatura
+- [ ] es/jensen-huang (49 impressions, 0 clicks, position 10.5): jensen huang, jensen huang edad, jensen huang que estudio, creador de nvidia, jensen huang estudios, founder nvidia, nvidia fundador, ceo de nvidia jensen huang
+- [ ] en/aitana-bonmati (48 impressions, 0 clicks, position 11.3): aitana bonmatí, aitana bonmatí total ballon d or, aitana bonmatí age, aitana bonmatí 2026, aitana bonmati ballon d or 2026, aitana bonmatí not nominated, aitanabonmati, bonmati
+- [ ] de/charlyn-corral (44 impressions, 0 clicks, position 11.4): charlyn corral, charlyn corral balon de oro, charlyn corral alter, charlyn corral verein, wo spielt charlyn corral, charilyn corral, charlyn corral (, charlyn corral 2025/2026
+- [ ] de/ibai-llanos (43 impressions, 0 clicks, position 10.9): ibai, ibai llanos, streamer llanos, ibai streamer
 - [x] de/alexia-putellas (349 impressions, 0 clicks, position 10.4): alexia putellas alter, putellas wechsel, putellas alter, putellas gehalt, wo spielt alexia putellas, alexia putellas wechsel, alexia putellas gehalt, alexia putellas (done 2026-10-29)
 - [x] en/alexia-putellas (122 impressions, 0 clicks, position 11.1): alexia putellas club now, alexia putellas, alexia putellas age, alexia putellas club, alexia putellas current club, alexia putellas position in barcelona, where is alexia putellas playing now, where does putellas play (done 2026-10-29)
 - [x] fr/lionel-messi (113 impressions, 0 clicks, position 10.8): age de messi, messi age, age messi, l'âge de lionel messi, quel est l'âge de messi, messi à quel âge, l'age de messi, messi a combien d'âge (done 2026-10-29)
