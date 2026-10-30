@@ -9,15 +9,19 @@ summary: >-
   Reports say McDonald's will bring a Pokémon Happy Meal to US restaurants in
   November 2026 for the franchise's 30th anniversary, but neither company has
   announced it.
-status: review
+status: published
 risk: medium
+reviewedAt: '2026-10-30'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - pokemon happy meal 2026
   - mcdonalds pokemon happy meal november 2026
   - pokemon happy meal toys 2026
   - mcdonalds pokemon cards happy meal
+publishedAt: '2026-10-30'
+publishedTime: '2026-10-30T03:12:05.665Z'
 ---
 People are searching for a Pokémon Happy Meal in the US because reports say it returns in November 2026, timed to the franchise's 30th anniversary [s:dexerto-pokebeach-nov] [s:essential-japan-us-collab]. Neither McDonald's nor The Pokémon Company has made an announcement, so every detail below comes from reporting and leaked images [s:essential-japan-us-collab] [s:soleretriever-collab].
 

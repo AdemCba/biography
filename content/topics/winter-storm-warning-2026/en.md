@@ -9,9 +9,11 @@ summary: >-
   The National Weather Service in Anchorage has a winter storm warning over
   Alaska's Parks Highway corridor. Snow totals of up to 15 inches are forecast
   before the warning ends Friday, and travel could turn hazardous fast.
-status: review
+status: published
 risk: low
+reviewedAt: '2026-10-30'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - winter storm warning
@@ -19,6 +21,8 @@ targetQueries:
   - winter storm warning 15 inches
   - Parks Highway snow warning
   - winter storm warning Friday
+publishedAt: '2026-10-30'
+publishedTime: '2026-10-30T03:12:05.666Z'
 ---
 "Winter storm warning" is trending in the United States, and one of the alerts in the news is a warning from the National Weather Service in Anchorage for Alaska's Northern Susitna Valley. The forecast calls for 7 to 15 inches of snow, with the warning running through Friday, October 30 [s:yahoo-nws-15] [s:ssbcrack-alaska].
 

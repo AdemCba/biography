@@ -10,15 +10,19 @@ summary: >-
   El Renault Kwid 2027 llega a México con una actualización moderada de diseño y
   tecnología. Motorpasión dice que la seguridad no mejoró y que el auto sigue
   siendo el más barato del país.
-status: review
+status: published
 risk: medium
+reviewedAt: '2026-10-30'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Renault Kwid 2027 México
   - Renault Kwid 2027 precio
   - Renault Kwid más barato de México
   - Renault Kwid 2027 seguridad
+publishedAt: '2026-10-30'
+publishedTime: '2026-10-30T03:12:05.664Z'
 ---
 El Renault Kwid 2027 aparece en las búsquedas porque su actualización llega a México con cambios de diseño y un tablero nuevo, pero sin una mejora de seguridad, según Motorpasión [s:motorpasion-kwid-2027]. El mismo medio sostiene que el Kwid sigue siendo el auto nuevo más barato que se puede comprar en el país [s:motorpasion-kwid-2027].
 
