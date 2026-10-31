@@ -1,7 +1,12 @@
 {
   "id": "paris-masters-2026-cuadro",
-  "people": ["carlos-alcaraz", "rafael-jodar"],
-  "trendingIn": ["ES"],
+  "people": [
+    "carlos-alcaraz",
+    "rafael-jodar"
+  ],
+  "trendingIn": [
+    "ES"
+  ],
   "wikidata": "Q1230166",
   "sources": [
     {
@@ -22,5 +27,12 @@
       "accessed": "2026-10-31",
       "lang": "en"
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/topics/paris-masters-2026-cuadro.jpg",
+    "alt": "Carlos Alcaraz",
+    "credit": "Patrice from France",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nadal_VS_Wawrinka_2007_Paris.jpg"
+  }
 }

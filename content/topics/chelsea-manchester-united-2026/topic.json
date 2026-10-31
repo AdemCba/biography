@@ -1,7 +1,19 @@
 {
   "id": "chelsea-manchester-united-2026",
-  "people": ["michael-carrick"],
-  "trendingIn": ["ES", "MX", "AR", "PT", "US", "FR", "DE", "AT", "BR"],
+  "people": [
+    "michael-carrick"
+  ],
+  "trendingIn": [
+    "ES",
+    "MX",
+    "AR",
+    "PT",
+    "US",
+    "FR",
+    "DE",
+    "AT",
+    "BR"
+  ],
   "wikidata": "Q9616",
   "sources": [
     {
@@ -22,5 +34,12 @@
       "accessed": "2026-10-31",
       "lang": "en"
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/topics/chelsea-manchester-united-2026.jpg",
+    "alt": "Michael Carrick",
+    "credit": "Vespa125125CFC (talk)",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stamford_Bridge_-_West_Stand.jpg"
+  }
 }
