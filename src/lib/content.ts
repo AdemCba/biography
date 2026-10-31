@@ -4,7 +4,7 @@ import matter from "gray-matter";
 import type { z } from "zod";
 import { ALL_LOCALES, type Locale } from "@/i18n/config";
 import { checkContent } from "./quality";
-import { wordCount } from "./markdown";
+import { CITATION_RE, wordCount } from "./markdown";
 import {
   articleSchema,
   categorySchema,
@@ -131,6 +131,11 @@ function readEntries<S extends typeof personSchema | typeof topicSchema>(
         issues.push({ file, message: formatZod(meta.error) });
         continue;
       }
+      // Summaries and meta descriptions are shown as plain text: drop [s:id] citation markers the writer sometimes leaves in.
+      for (const key of ["summary", "metaDescription"] as const) {
+        const v = meta.data[key];
+        if (typeof v === "string") meta.data[key] = stripCitations(v);
+      }
       articles[locale] = { personId: id, locale, file, meta: meta.data, body: content.trim() };
     }
     out.push({ data: parsed.data as z.infer<S>, dir, articles });
@@ -155,6 +160,10 @@ export function getContent(): ContentStore {
   }
   cached = store;
   return store;
+}
+
+export function stripCitations(text: string): string {
+  return text.replace(CITATION_RE, "").replace(/\s+([.,;:!?])/g, "$1").replace(/\s{2,}/g, " ").trim();
 }
 
 export function today(): string {
