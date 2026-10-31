@@ -19,10 +19,14 @@ on:
         description: "İstediğin kişiler, virgülle (boş = trendlerden seç). Ör: Arda Güler, Kenan Yıldız"
         required: false
         default: ""
+      repair:
+        description: "Sadece düzeltme: doğrulamada takılan kişiler (id, virgülle). Yeni yazı yazılmaz."
+        required: false
+        default: ""
 
 # Topics-only runs (count 0) have their own queue so they are never stuck behind a long people run.
 concurrency:
-  group: writer-${{ inputs.count == '0' && 'topics' || 'people' }}
+  group: writer-${{ inputs.repair != '' && 'repair' || (inputs.count == '0' && 'topics' || 'people') }}
   cancel-in-progress: false
 
 permissions:
@@ -47,6 +51,7 @@ jobs:
 
       # Fresh Google Trends + Wikipedia scan, so a manual run picks from what people search right now.
       - name: Scan today's trends
+        if: ${{ inputs.repair == '' }}
         continue-on-error: true
         run: npm run trends
 
@@ -65,7 +70,16 @@ jobs:
             --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebSearch,WebFetch,Task,TodoWrite"
           prompt: |
             This is an unattended run: nobody will answer questions, so never stop to ask or to confirm. Keep working
-            until every step is done. Follow docs/subscription-writer-task.md for ${{ inputs.count || 5 }} new people, with these changes:
+            until every step is done.
+            - REPAIR-ONLY RUN when this is not empty: "${{ inputs.repair }}". Then do ONLY this and ignore every
+              other step below: for each person id listed, open every content/people/<id>/<locale>.md still in
+              status review and its <locale>.review.json. Fix only what the fact-check flagged: correct a quote or
+              claim to the source's exact wording, or delete the sentence or FAQ entry. Do not rewrite, research or
+              expand anything else. Then fact-check that page again (review.ts --prompt / --record, see
+              docs/subscription-writer-task.md) and, once it is approved, set status: approved, reviewer:
+              fact-check-desk, reviewedAt: today and remove flag/reviewNotes. Finish with
+              `npx tsx scripts/schedule.ts --per-day 1000` and `npm run -s check` without ERROR, then write the summary.
+            Follow docs/subscription-writer-task.md for ${{ inputs.count || 5 }} new people, with these changes:
             - TOPICS-ONLY RUN when the people count is 0 (this run: "${{ inputs.count || 5 }}"): write only the
               trending topic articles below, from the freshest rows of "Son 4 saatte Google'da yükselen konular",
               skipping stories that already have a page in content/topics. Do not write or repair people pages
