@@ -73,9 +73,13 @@ jobs:
             until every step is done.
             - REPAIR-ONLY RUN when this is not empty: "${{ inputs.repair }}". Then do ONLY this and ignore every
               other step below: for each person id listed, open every content/people/<id>/<locale>.md still in
-              status review and its <locale>.review.json. Fix only what the fact-check flagged: correct a quote or
-              claim to the source's exact wording, or delete the sentence or FAQ entry. Do not rewrite, research or
-              expand anything else. Then fact-check that page again (review.ts --prompt / --record, see
+              status review (or approved with a flag:) and its <locale>.review.json. Fix only what the fact-check
+              flagged: correct a quote or claim to the source's exact wording, or delete the sentence or FAQ entry.
+              When a source could not be opened (HTTP 403, unreachable), swap it in person.json for another reliable
+              source that states the same facts and is reachable with WebFetch, or delete the claims only it backs.
+              Do not rewrite, research or expand anything else. Work in this conversation, one person after another;
+              if you use subagents, run them in the foreground and wait for each result (background agents are killed
+              when you end your turn). Then fact-check that page again (review.ts --prompt / --record, see
               docs/subscription-writer-task.md) and, once it is approved, set status: approved, reviewer:
               fact-check-desk, reviewedAt: today and remove flag/reviewNotes. Finish with
               `npx tsx scripts/schedule.ts --per-day 1000` and `npm run -s check` without ERROR, then write the summary.
