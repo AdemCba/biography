@@ -1,6 +1,6 @@
 # Trend taraması 2026-10-31 21:01 UTC
 
-850 trend sinyali tarandı, 274 tanınmış kişi bulundu.
+850 trend sinyali tarandı, 277 tanınmış kişi bulundu.
 
 Bu çalışmada taslak sırasına kimse eklenmedi.
 
@@ -46,17 +46,17 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 | fermín lópez | BR | pt | 500 | 20:20 | [El Barça, inflexible con Fermín ante una posible 'locura' del Manchester United](https://www.sport.es/es/noticias/barca/barca-inflexible-fermin-posible-locura-135948034) |
 | liga italiana | PT | pt | 500 | 20:00 | [Ruben Amorim perde pela primeira vez na Serie A](https://www.publico.pt/2026/10/28/desporto/noticia/ruben-amorim-perde-primeira-serie-2192993) |
 | classificações de bayern x borussia dortmund | PT | pt | 500 | 19:40 | [Bayern 2-2 Dortmund (Oct 31, 2026) Game Analysis](https://www.espn.com/soccer/report/_/gameId/401884754) |
-| milan vs inter | PT | pt | 500 | 19:40 | [AC Milan vs Inter Milan LIVE: Italian Serie A - watch, stats, table & head-to-head](https://www.bbc.com/sport/football/live/cw99zj4rpd4dt) |
+| milan vs inter | PT | pt | 500 | 19:40 | [AC Milan v Inter and the tale of an iconic image](https://www.bbc.com/sport/football/articles/cq99zlpzm87ro) |
 | orf on | AT | de | 500 | 20:50 | [Mann aus 15 Meter tiefem Schacht gerettet](https://ooe.orf.at/stories/3377594/) |
 | barcelona vs alavés | AT | de | 500 | 19:50 | [Opción ‘Licha’ Martínez en el Atlético](https://as.com/futbol/internacional/opcion-licha-martinez-en-el-atletico-f202610-n/) |
 | برشلونة ضد ألافيس | AT | de | 500 | 19:50 | [قناة مشاهدة مباراة برشلونة وألافيس في الدوري الإسباني اليوم السبت](https://www.akhbrna.ae/sports/qnaa-mshahda-mbaraa-brshlwna-walafys/) |
 
-## Uygun yeni adaylar (107)
+## Uygun yeni adaylar (96)
 
 | Puan | Kişi | Kategori | Nerede trend | Wikipedia artışı | Kaynak | Not |
 | --- | --- | --- | --- | --- | --- | --- |
-| 184 | Patrick Stewart | artists | en, de, fr | 454.6x | [Q16296](https://www.wikidata.org/wiki/Q16296) [Wikipedia](https://en.wikipedia.org/wiki/Patrick_Stewart) | recent death, write with care |
-| 179 | Ian McKellen | artists | en, de, fr | 35.6x | [Q170510](https://www.wikidata.org/wiki/Q170510) [Wikipedia](https://en.wikipedia.org/wiki/Ian_McKellen) |  |
+| 180 | Patrick Stewart | artists | pt, de, fr | 547.8x | [Q16296](https://www.wikidata.org/wiki/Q16296) [Wikipedia](https://en.wikipedia.org/wiki/Patrick_Stewart) | recent death, write with care |
+| 175 | Ian McKellen | artists | pt, de, fr | 44.7x | [Q170510](https://www.wikidata.org/wiki/Q170510) [Wikipedia](https://en.wikipedia.org/wiki/Ian_McKellen) |  |
 | 155 | Christine Lagarde | athletes | de, fr | 102.3x | [Q484605](https://www.wikidata.org/wiki/Q484605) [Wikipedia](https://en.wikipedia.org/wiki/Christine_Lagarde) |  |
 | 155 | Susan Sarandon | artists | de, fr | 24.2x | [Q133050](https://www.wikidata.org/wiki/Q133050) [Wikipedia](https://en.wikipedia.org/wiki/Susan_Sarandon) |  |
 | 154 | Tim Curry | artists | de, fr | 25.1x | [Q52392](https://www.wikidata.org/wiki/Q52392) [Wikipedia](https://en.wikipedia.org/wiki/Tim_Curry) | recent death, write with care |
@@ -65,54 +65,47 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 | 150 | Barry Bostwick | artists | de, fr | 66.5x | [Q809019](https://www.wikidata.org/wiki/Q809019) [Wikipedia](https://en.wikipedia.org/wiki/Barry_Bostwick) |  |
 | 149 | Matthew Perry | artists | en, pt, de, fr | 3.9x | [Q171758](https://www.wikidata.org/wiki/Q171758) [Wikipedia](https://en.wikipedia.org/wiki/Matthew_Perry) |  |
 | 145 | Richard O'Brien | artists | de, fr | 41.5x | [Q982182](https://www.wikidata.org/wiki/Q982182) [Wikipedia](https://en.wikipedia.org/wiki/Richard_O'Brien) |  |
-| 141 | Sunny Ozell | artists | en, de | 546.3x | [Q21663441](https://www.wikidata.org/wiki/Q21663441) [Wikipedia](https://en.wikipedia.org/wiki/Sunny_Ozell) |  |
 | 138 | Peter Hinwood | artists | de, fr | 74x | [Q707846](https://www.wikidata.org/wiki/Q707846) [Wikipedia](https://en.wikipedia.org/wiki/Peter_Hinwood) |  |
-| 135 | Huldrych Zwingli | artists | de | 162.7x | [Q123034](https://www.wikidata.org/wiki/Q123034) [Wikipedia](https://en.wikipedia.org/wiki/Huldrych_Zwingli) |  |
+| 131 | Matthew Perry | artists | pt, de, fr | 5.9x | [Q171758](https://www.wikidata.org/wiki/Q171758) [Wikipedia](https://en.wikipedia.org/wiki/Matthew_Perry) |  |
 | 128 | Angelica Kauffmann | artists | de | 64.9x | [Q123098](https://www.wikidata.org/wiki/Q123098) [Wikipedia](https://en.wikipedia.org/wiki/Angelica_Kauffman) |  |
-| 126 | Younès Belhanda | athletes | fr | 124.5x | [Q348266](https://www.wikidata.org/wiki/Q348266) [Wikipedia](https://en.wikipedia.org/wiki/Youn%C3%A8s_Belhanda) |  |
+| 126 | J. Paul Getty | business | de | 46.9x | [Q318591](https://www.wikidata.org/wiki/Q318591) [Wikipedia](https://en.wikipedia.org/wiki/J._Paul_Getty) |  |
 | 126 | Davide Astori | athletes | fr | 275.6x | [Q456164](https://www.wikidata.org/wiki/Q456164) [Wikipedia](https://en.wikipedia.org/wiki/Davide_Astori) |  |
 | 125 | Gisèle Pelicot | artists | fr | 20x | [Q130240908](https://www.wikidata.org/wiki/Q130240908) [Wikipedia](https://en.wikipedia.org/wiki/Gis%C3%A8le_Pelicot) |  |
 | 124 | Marina Sirtis | artists | de | 32.1x | [Q232945](https://www.wikidata.org/wiki/Q232945) [Wikipedia](https://en.wikipedia.org/wiki/Marina_Sirtis) |  |
-| 123 | Jennifer Hetrick | artists | en | 474.1x | [Q273065](https://www.wikidata.org/wiki/Q273065) [Wikipedia](https://en.wikipedia.org/wiki/Jennifer_Hetrick) |  |
 | 123 | Charles Gray | artists | de | 54.5x | [Q961187](https://www.wikidata.org/wiki/Q961187) [Wikipedia](https://en.wikipedia.org/wiki/Charles_Gray_(actor)) |  |
 | 123 | Imre Nagy | business | de | 17.9x | [Q177917](https://www.wikidata.org/wiki/Q177917) [Wikipedia](https://en.wikipedia.org/wiki/Imre_Nagy) |  |
 | 122 | Miriam Neureuther | athletes | de | 32.7x | [Q60480](https://www.wikidata.org/wiki/Q60480) [Wikipedia](https://en.wikipedia.org/wiki/Miriam_Neureuther) |  |
 | 122 | Charlotte de Turckheim | artists | fr | 65.7x | [Q510042](https://www.wikidata.org/wiki/Q510042) [Wikipedia](https://en.wikipedia.org/wiki/Charlotte_de_Turckheim) |  |
-| 122 | Camille | artists | fr | 24.6x | [Q242914](https://www.wikidata.org/wiki/Q242914) [Wikipedia](https://en.wikipedia.org/wiki/Camille_(French_singer)) |  |
 | 122 | Riccardo Cocciante | artists | fr | 36.2x | [Q471344](https://www.wikidata.org/wiki/Q471344) [Wikipedia](https://en.wikipedia.org/wiki/Riccardo_Cocciante) |  |
 | 121 | Jutta Speidel | artists | de | 37.4x | [Q95651](https://www.wikidata.org/wiki/Q95651) [Wikipedia](https://en.wikipedia.org/wiki/Jutta_Speidel) |  |
 | 121 | Judith Magre | artists | fr | 76.6x | [Q1711059](https://www.wikidata.org/wiki/Q1711059) [Wikipedia](https://en.wikipedia.org/wiki/Judith_Magre) |  |
 | 121 | Selah Sue | artists | fr | 31.1x | [Q271679](https://www.wikidata.org/wiki/Q271679) [Wikipedia](https://en.wikipedia.org/wiki/Selah_Sue) |  |
 | 121 | Luz Casal | artists | fr | 198.9x | [Q265053](https://www.wikidata.org/wiki/Q265053) [Wikipedia](https://en.wikipedia.org/wiki/Luz_Casal) |  |
-| 120 | Sean Mathias | artists | en | 61.6x | [Q2262221](https://www.wikidata.org/wiki/Q2262221) [Wikipedia](https://en.wikipedia.org/wiki/Sean_Mathias) |  |
+| 120 | Tommy Paul | athletes | es | 31x | [Q20050871](https://www.wikidata.org/wiki/Q20050871) [Wikipedia](https://en.wikipedia.org/wiki/Tommy_Paul_(tennis)) |  |
 | 120 | Samuel Lino | athletes | pt | 19.5x | [Q67222776](https://www.wikidata.org/wiki/Q67222776) [Wikipedia](https://en.wikipedia.org/wiki/Samuel_Lino) |  |
 | 120 | Patricia Quinn | artists | de | 50.5x | [Q462982](https://www.wikidata.org/wiki/Q462982) [Wikipedia](https://en.wikipedia.org/wiki/Patricia_Quinn) |  |
-| 120 | Sonia Rolland | artists | fr | 21x | [Q1986254](https://www.wikidata.org/wiki/Q1986254) [Wikipedia](https://en.wikipedia.org/wiki/Sonia_Rolland) |  |
 | 118 | Emmanuel Moire | artists | fr | 26.4x | [Q989425](https://www.wikidata.org/wiki/Q989425) [Wikipedia](https://en.wikipedia.org/wiki/Emmanuel_Moire) |  |
-| 117 | Lisa Dillon | artists | en | 271.7x | [Q6557935](https://www.wikidata.org/wiki/Q6557935) [Wikipedia](https://en.wikipedia.org/wiki/Lisa_Dillon) |  |
+| 116 | Diego Moreira | athletes | PT, DE, FR | 2.4x | [Q110616805](https://www.wikidata.org/wiki/Q110616805) [Wikipedia](https://en.wikipedia.org/wiki/Diego_Moreira) |  |
 | 116 | Nell Campbell | artists | de | 61.7x | [Q273092](https://www.wikidata.org/wiki/Q273092) [Wikipedia](https://en.wikipedia.org/wiki/Nell_Campbell) |  |
-| 115 | Q16297 | creators | en, de | 6.1x | [Q16297](https://www.wikidata.org/wiki/Q16297) [Wikipedia](https://en.wikipedia.org/wiki/William_Shatner) |  |
+| 115 | Lucas Trejo | athletes | es | 86.1x | [Q6696334](https://www.wikidata.org/wiki/Q6696334) [Wikipedia](https://en.wikipedia.org/wiki/Lucas_Trejo) |  |
+| 115 | Sunny Ozell | artists | de | 899.2x | [Q21663441](https://www.wikidata.org/wiki/Q21663441) [Wikipedia](https://en.wikipedia.org/wiki/Sunny_Ozell) |  |
 | 115 | Jérôme Kym | athletes | de | 123.8x | [Q61415282](https://www.wikidata.org/wiki/Q61415282) [Wikipedia](https://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Kym) |  |
-| 114 | Diego Moreira | athletes | US, DE, FR | 1.2x | [Q110616805](https://www.wikidata.org/wiki/Q110616805) [Wikipedia](https://en.wikipedia.org/wiki/Diego_Moreira) |  |
+| 114 | Zé Ricardo | athletes | pt | 107.9x | [Q24338838](https://www.wikidata.org/wiki/Q24338838) [Wikipedia](https://en.wikipedia.org/wiki/Z%C3%A9_Ricardo) |  |
 | 114 | Nilam Farooq | artists | de | 19.5x | [Q1310400](https://www.wikidata.org/wiki/Q1310400) [Wikipedia](https://en.wikipedia.org/wiki/Nilam_Farooq) |  |
 | 113 | Q13990552 | athletes | de | 14.4x | [Q13990552](https://www.wikidata.org/wiki/Q13990552) [Wikipedia](https://en.wikipedia.org/wiki/Alexander_Zverev) |  |
 | 113 | Christine Westermann | artists | de | 21.6x | [Q108165](https://www.wikidata.org/wiki/Q108165) [Wikipedia](https://en.wikipedia.org/wiki/Christine_Westermann) |  |
 | 113 | Sinje Irslinger | artists | de | 98.6x | [Q19959943](https://www.wikidata.org/wiki/Q19959943) [Wikipedia](https://en.wikipedia.org/wiki/Sinje_Irslinger) |  |
 | 113 | Jonathan Adams | artists | de | 66.6x | [Q1703086](https://www.wikidata.org/wiki/Q1703086) [Wikipedia](https://en.wikipedia.org/wiki/Jonathan_Adams_(British_actor)) |  |
 | 113 | Jürgen Tonkel | artists | de | 19.6x | [Q109720](https://www.wikidata.org/wiki/Q109720) [Wikipedia](https://en.wikipedia.org/wiki/J%C3%BCrgen_Tonkel) |  |
-| 112 | Bryce Young | athletes | en | 17.2x | [Q79416176](https://www.wikidata.org/wiki/Q79416176) [Wikipedia](https://en.wikipedia.org/wiki/Bryce_Young) |  |
 | 111 | Daniel Guichard | artists | fr | 23.5x | [Q3014126](https://www.wikidata.org/wiki/Q3014126) [Wikipedia](https://en.wikipedia.org/wiki/Daniel_Guichard) |  |
-| 108 | Christine Weston Chandler | creators | fr | 17.6x | [Q98406706](https://www.wikidata.org/wiki/Q98406706)  |  |
-| 107 | John Adams | artists | en | 9.1x | [Q11806](https://www.wikidata.org/wiki/Q11806) [Wikipedia](https://en.wikipedia.org/wiki/John_Adams) |  |
+| 109 | Sasha Meneghel | athletes | pt | 22.4x | [Q16240175](https://www.wikidata.org/wiki/Q16240175) [Wikipedia](https://en.wikipedia.org/wiki/Sasha_Meneghel) |  |
+| 106 | Q16297 | creators | de | 11.2x | [Q16297](https://www.wikidata.org/wiki/Q16297) [Wikipedia](https://en.wikipedia.org/wiki/William_Shatner) |  |
+| 105 | Q2680 | artists | es, FR | 1.5x | [Q2680](https://www.wikidata.org/wiki/Q2680) [Wikipedia](https://en.wikipedia.org/wiki/Bruce_Willis) |  |
 | 105 | Mao Zedong | artists | pt, fr | 2.4x | [Q5816](https://www.wikidata.org/wiki/Q5816) [Wikipedia](https://en.wikipedia.org/wiki/Mao_Zedong) |  |
 | 104 | Harold Ramis | artists | fr | 12.8x | [Q286890](https://www.wikidata.org/wiki/Q286890) [Wikipedia](https://en.wikipedia.org/wiki/Harold_Ramis) |  |
 | 103 | Mate Rimac | business | de | 15.1x | [Q16113468](https://www.wikidata.org/wiki/Q16113468) [Wikipedia](https://en.wikipedia.org/wiki/Mate_Rimac) |  |
-| 102 | Sebastian Croft | artists | en | 11.9x | [Q24004789](https://www.wikidata.org/wiki/Q24004789) [Wikipedia](https://en.wikipedia.org/wiki/Sebastian_Croft) |  |
-| 101 | James Blunt | artists | en | 8.4x | [Q130799](https://www.wikidata.org/wiki/Q130799) [Wikipedia](https://en.wikipedia.org/wiki/James_Blunt) |  |
 | 101 | Kaio Jorge | athletes | pt | 13.6x | [Q56876908](https://www.wikidata.org/wiki/Q56876908) [Wikipedia](https://en.wikipedia.org/wiki/Kaio_Jorge) |  |
 | 101 | Dejan Petković | athletes | pt | 13.9x | [Q2015351](https://www.wikidata.org/wiki/Q2015351) [Wikipedia](https://en.wikipedia.org/wiki/Dejan_Petkovi%C4%87) |  |
-| 98 | Kaká | athletes | GB, DE | 0.9x | [Q531814](https://www.wikidata.org/wiki/Q531814) [Wikipedia](https://en.wikipedia.org/wiki/Kak%C3%A1) |  |
-| 97 | Leigh Anne Pinnock | artists | en | 10.4x | [Q19750811](https://www.wikidata.org/wiki/Q19750811) [Wikipedia](https://en.wikipedia.org/wiki/Leigh-Anne_Pinnock) |  |
 | 95 | Götz Alsmann | artists | de | 13.6x | [Q90401](https://www.wikidata.org/wiki/Q90401) [Wikipedia](https://en.wikipedia.org/wiki/G%C3%B6tz_Alsmann) |  |
 | 95 | Q185002 | business | fr | 8.2x | [Q185002](https://www.wikidata.org/wiki/Q185002) [Wikipedia](https://en.wikipedia.org/wiki/Myl%C3%A8ne_Farmer) |  |
 | 94 | Martin Luther | artists | de | 5.3x | [Q9554](https://www.wikidata.org/wiki/Q9554) [Wikipedia](https://en.wikipedia.org/wiki/Martin_Luther) |  |
@@ -122,58 +115,55 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 | 92 | Juliette | creators | pt | 13.7x | [Q105824749](https://www.wikidata.org/wiki/Q105824749) [Wikipedia](https://en.wikipedia.org/wiki/Juliette_(Brazilian_singer)) |  |
 | 89 | Joachim Meyerhoff | artists | de | 11.9x | [Q1690316](https://www.wikidata.org/wiki/Q1690316) [Wikipedia](https://en.wikipedia.org/wiki/Joachim_Meyerhoff) |  |
 | 88 | Roland Lescure | business | fr | 10.4x | [Q30130489](https://www.wikidata.org/wiki/Q30130489) [Wikipedia](https://en.wikipedia.org/wiki/Roland_Lescure) |  |
-| 86 | Michael Douglas | artists | en | 3.3x | [Q119798](https://www.wikidata.org/wiki/Q119798) [Wikipedia](https://en.wikipedia.org/wiki/Michael_Douglas) |  |
-| 85 | Michael Sheen | artists | en | 4.2x | [Q298276](https://www.wikidata.org/wiki/Q298276) [Wikipedia](https://en.wikipedia.org/wiki/Michael_Sheen) |  |
+| 87 | Barack Obama | creators | pt | 2.8x | [Q76](https://www.wikidata.org/wiki/Q76) [Wikipedia](https://en.wikipedia.org/wiki/Barack_Obama) |  |
 | 85 | Achraf Hakimi | athletes | fr | 5.4x | [Q26932598](https://www.wikidata.org/wiki/Q26932598) [Wikipedia](https://en.wikipedia.org/wiki/Achraf_Hakimi) |  |
 | 85 | Olivier Giroud | athletes | fr | 5x | [Q1911](https://www.wikidata.org/wiki/Q1911) [Wikipedia](https://en.wikipedia.org/wiki/Olivier_Giroud) |  |
 | 84 | Lisa-Marie Koroll | artists | de | 10.2x | [Q15275292](https://www.wikidata.org/wiki/Q15275292) [Wikipedia](https://en.wikipedia.org/wiki/Lisa-Marie_Koroll) |  |
 | 83 | Mark Benecke | artists | de | 9.5x | [Q70307](https://www.wikidata.org/wiki/Q70307) [Wikipedia](https://en.wikipedia.org/wiki/Mark_Benecke) |  |
 | 83 | Thomas Fritsch | artists | de | 8.1x | [Q89764](https://www.wikidata.org/wiki/Q89764) [Wikipedia](https://en.wikipedia.org/wiki/Thomas_Fritsch) |  |
-| 82 | Romesh Ranganathan | artists | en | 7.5x | [Q15072767](https://www.wikidata.org/wiki/Q15072767) [Wikipedia](https://en.wikipedia.org/wiki/Romesh_Ranganathan) |  |
+| 81 | Leonard Nimoy | artists | de | 3.9x | [Q16345](https://www.wikidata.org/wiki/Q16345) [Wikipedia](https://en.wikipedia.org/wiki/Leonard_Nimoy) |  |
 | 81 | Julia Piaton | artists | fr | 8.1x | [Q3189060](https://www.wikidata.org/wiki/Q3189060) [Wikipedia](https://en.wikipedia.org/wiki/Julia_Piaton) |  |
-| 80 | Maya Jama | artists | en | 6.7x | [Q40548765](https://www.wikidata.org/wiki/Q40548765) [Wikipedia](https://en.wikipedia.org/wiki/Maya_Jama) |  |
+| 80 | Robert Lewandowski | athletes | PT | 1.1x | [Q151269](https://www.wikidata.org/wiki/Q151269) [Wikipedia](https://en.wikipedia.org/wiki/Robert_Lewandowski) |  |
 | 80 | Sophia Thomalla | artists | de | 6.7x | [Q109608](https://www.wikidata.org/wiki/Q109608) [Wikipedia](https://en.wikipedia.org/wiki/Sophia_Thomalla) |  |
 | 80 | Liam Neeson | artists | de | 2.9x | [Q58444](https://www.wikidata.org/wiki/Q58444) [Wikipedia](https://en.wikipedia.org/wiki/Liam_Neeson) |  |
-| 79 | James Acaster | artists | en | 5.4x | [Q15072714](https://www.wikidata.org/wiki/Q15072714) [Wikipedia](https://en.wikipedia.org/wiki/James_Acaster) |  |
+| 80 | Martin Sellner | creators | de | 8x | [Q26262585](https://www.wikidata.org/wiki/Q26262585) [Wikipedia](https://en.wikipedia.org/wiki/Martin_Sellner) |  |
 | 79 | Arnaud Denis | artists | fr | 9.3x | [Q2863095](https://www.wikidata.org/wiki/Q2863095) [Wikipedia](https://en.wikipedia.org/wiki/Arnaud_Denis) | recent death, write with care |
+| 78 | Demi Moore | artists | FR | 1x | [Q43044](https://www.wikidata.org/wiki/Q43044) [Wikipedia](https://en.wikipedia.org/wiki/Demi_Moore) |  |
 | 78 | Winona Ryder | artists | FR | 1.4x | [Q101797](https://www.wikidata.org/wiki/Q101797) [Wikipedia](https://en.wikipedia.org/wiki/Winona_Ryder) |  |
-| 78 | Corinne Luchaire | artists | fr | 7x | [Q2294413](https://www.wikidata.org/wiki/Q2294413) [Wikipedia](https://en.wikipedia.org/wiki/Corinne_Luchaire) |  |
 | 78 | Sophie Marceau | artists | fr | 2.8x | [Q162753](https://www.wikidata.org/wiki/Q162753) [Wikipedia](https://en.wikipedia.org/wiki/Sophie_Marceau) |  |
 | 78 | Heath Ledger | artists | fr | 2.4x | [Q40572](https://www.wikidata.org/wiki/Q40572) [Wikipedia](https://en.wikipedia.org/wiki/Heath_Ledger) |  |
 | 78 | Joe Dassin | artists | fr | 4x | [Q272943](https://www.wikidata.org/wiki/Q272943) [Wikipedia](https://en.wikipedia.org/wiki/Joe_Dassin) |  |
-| 76 | Bob Uecker | athletes | en | 3.5x | [Q888295](https://www.wikidata.org/wiki/Q888295) [Wikipedia](https://en.wikipedia.org/wiki/Bob_Uecker) | recent death, write with care |
+| 77 | Q62050484 | athletes | PT | 0.7x | [Q62050484](https://www.wikidata.org/wiki/Q62050484) [Wikipedia](https://en.wikipedia.org/wiki/Michael_Olise) |  |
 | 76 | Q76324 | artists | de | 4.3x | [Q76324](https://www.wikidata.org/wiki/Q76324) [Wikipedia](https://en.wikipedia.org/wiki/Juli_Zeh) |  |
 | 76 | Andrzej Żuławski | artists | fr | 4x | [Q515904](https://www.wikidata.org/wiki/Q515904) [Wikipedia](https://en.wikipedia.org/wiki/Andrzej_%C5%BBu%C5%82awski) |  |
 | 75 | Daniela Katzenberger | artists | de | 6.2x | [Q22979](https://www.wikidata.org/wiki/Q22979) [Wikipedia](https://en.wikipedia.org/wiki/Daniela_Katzenberger) |  |
-| 75 | Q2680 | artists | FR | 0x | [Q2680](https://www.wikidata.org/wiki/Q2680) [Wikipedia](https://en.wikipedia.org/wiki/Bruce_Willis) |  |
-| 75 | Demi Moore | artists | FR | 0x | [Q43044](https://www.wikidata.org/wiki/Q43044) [Wikipedia](https://en.wikipedia.org/wiki/Demi_Moore) |  |
+| 75 | Geena Davis | artists | FR | 1.2x | [Q280098](https://www.wikidata.org/wiki/Q280098) [Wikipedia](https://en.wikipedia.org/wiki/Geena_Davis) |  |
 | 75 | Bernard Lavilliers | artists | fr | 5x | [Q822558](https://www.wikidata.org/wiki/Q822558) [Wikipedia](https://en.wikipedia.org/wiki/Bernard_Lavilliers) |  |
 | 74 | Xuxa | business | pt | 3.7x | [Q275939](https://www.wikidata.org/wiki/Q275939) [Wikipedia](https://en.wikipedia.org/wiki/Xuxa) |  |
 | 74 | Laurent Voulzy | artists | fr | 5.5x | [Q1363146](https://www.wikidata.org/wiki/Q1363146) [Wikipedia](https://en.wikipedia.org/wiki/Laurent_Voulzy) |  |
-| 73 | Zion Suzuki | athletes | GB | 1x | [Q67498669](https://www.wikidata.org/wiki/Q67498669) [Wikipedia](https://en.wikipedia.org/wiki/Zion_Suzuki) |  |
-| 73 | Philippe de Villiers | artists | fr | 4.1x | [Q704846](https://www.wikidata.org/wiki/Q704846) [Wikipedia](https://en.wikipedia.org/wiki/Philippe_de_Villiers) |  |
-| 72 | Alex Iwobi | athletes | GB | 0.6x | [Q21091691](https://www.wikidata.org/wiki/Q21091691) [Wikipedia](https://en.wikipedia.org/wiki/Alex_Iwobi) |  |
-| 71 | Marco Silva | athletes | DE | 1.6x | [Q6757714](https://www.wikidata.org/wiki/Q6757714) [Wikipedia](https://en.wikipedia.org/wiki/Marco_Silva) |  |
-| 71 | Lena Gercke | artists | AT | 1x | [Q77435](https://www.wikidata.org/wiki/Q77435) [Wikipedia](https://en.wikipedia.org/wiki/Lena_Gercke) |  |
+| 73 | Fermín López | athletes | BR | 0.6x | [Q117312887](https://www.wikidata.org/wiki/Q117312887) [Wikipedia](https://en.wikipedia.org/wiki/Ferm%C3%ADn_L%C3%B3pez) |  |
+| 73 | Kaká | athletes | DE | 0x | [Q531814](https://www.wikidata.org/wiki/Q531814) [Wikipedia](https://en.wikipedia.org/wiki/Kak%C3%A1) |  |
 | 71 | Ann-Kathrin Kramer | artists | de | 4.6x | [Q97152](https://www.wikidata.org/wiki/Q97152) [Wikipedia](https://en.wikipedia.org/wiki/Ann-Kathrin_Kramer) |  |
 | 71 | Geena Davis | artists | FR | 0x | [Q280098](https://www.wikidata.org/wiki/Q280098) [Wikipedia](https://en.wikipedia.org/wiki/Geena_Davis) |  |
 | 71 | M. Pokora | artists | fr | 3.3x | [Q380799](https://www.wikidata.org/wiki/Q380799) [Wikipedia](https://en.wikipedia.org/wiki/M._Pokora) |  |
 | 70 | Orelsan | artists | fr | 3.3x | [Q2813374](https://www.wikidata.org/wiki/Q2813374) [Wikipedia](https://en.wikipedia.org/wiki/Orelsan) |  |
 | 69 | Shirin David | creators | de | 3.9x | [Q27031148](https://www.wikidata.org/wiki/Q27031148) [Wikipedia](https://en.wikipedia.org/wiki/Shirin_David) |  |
-| 67 | Jan Josef Liefers | artists | AT | 1.6x | [Q214574](https://www.wikidata.org/wiki/Q214574) [Wikipedia](https://en.wikipedia.org/wiki/Jan_Josef_Liefers) |  |
-| 64 | Jaime Munguia | athletes | GB | 2.2x | [Q53310808](https://www.wikidata.org/wiki/Q53310808) [Wikipedia](https://en.wikipedia.org/wiki/Jaime_Mungu%C3%ADa) |  |
+| 68 | Lena Gercke | artists | AT | 0x | [Q77435](https://www.wikidata.org/wiki/Q77435) [Wikipedia](https://en.wikipedia.org/wiki/Lena_Gercke) |  |
+| 67 | Rodolfo Sancho | artists | es | 4.4x | [Q5860270](https://www.wikidata.org/wiki/Q5860270) [Wikipedia](https://en.wikipedia.org/wiki/Rodolfo_Sancho) |  |
+| 67 | Marco Silva | athletes | DE | 0x | [Q6757714](https://www.wikidata.org/wiki/Q6757714) [Wikipedia](https://en.wikipedia.org/wiki/Marco_Silva) |  |
+| 62 | Lima Duarte | artists | PT | 1.1x | [Q1791430](https://www.wikidata.org/wiki/Q1791430) [Wikipedia](https://en.wikipedia.org/wiki/Lima_Duarte) |  |
+| 62 | Jan Josef Liefers | artists | AT | 0x | [Q214574](https://www.wikidata.org/wiki/Q214574) [Wikipedia](https://en.wikipedia.org/wiki/Jan_Josef_Liefers) |  |
 
 ## Sitede zaten var, güncellemeye aday (6)
 
 | Puan | Kişi | Kategori | Nerede trend | Wikipedia artışı | Kaynak | Not |
 | --- | --- | --- | --- | --- | --- | --- |
 | 127 | Brent Spiner | artists | de | 67.4x | [Q311453](https://www.wikidata.org/wiki/Q311453) [Wikipedia](https://en.wikipedia.org/wiki/Brent_Spiner) |  |
-| 121 | Jeffery Simmons | athletes | en | 56.1x | [Q45146310](https://www.wikidata.org/wiki/Q45146310) [Wikipedia](https://en.wikipedia.org/wiki/Jeffery_Simmons) |  |
 | 120 | Arthur Fery | athletes | de | 209.5x | [Q107406917](https://www.wikidata.org/wiki/Q107406917) [Wikipedia](https://en.wikipedia.org/wiki/Arthur_Fery) |  |
 | 87 | Nico Santos | artists | de | 9.6x | [Q23806108](https://www.wikidata.org/wiki/Q23806108) [Wikipedia](https://en.wikipedia.org/wiki/Nico_Santos_(singer)) |  |
-| 77 | Raphinha | athletes | US | 0.9x | [Q28861547](https://www.wikidata.org/wiki/Q28861547) [Wikipedia](https://en.wikipedia.org/wiki/Raphinha) |  |
+| 82 | Jan-Lennard Struff | athletes | de | 6.9x | [Q1681537](https://www.wikidata.org/wiki/Q1681537) [Wikipedia](https://en.wikipedia.org/wiki/Jan-Lennard_Struff) |  |
 | 76 | Sebastian Fitzek | artists | de | 5.5x | [Q67216](https://www.wikidata.org/wiki/Q67216) [Wikipedia](https://en.wikipedia.org/wiki/Sebastian_Fitzek) |  |
 
 ## Elenenler
 
-161 kişi elendi (reşit olmayan, suç ya da trajedi haberi, az tanınan, kategori dışı ya da trend zayıf). Ayrıntı JSON dosyasında.
+176 kişi elendi (reşit olmayan, suç ya da trajedi haberi, az tanınan, kategori dışı ya da trend zayıf). Ayrıntı JSON dosyasında.
