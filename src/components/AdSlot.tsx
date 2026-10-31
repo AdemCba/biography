@@ -11,19 +11,20 @@ declare global {
 
 /**
  * Reserved-height ad container so ads never shift the layout (CLS).
- * Renders nothing until an AdSense client id is configured.
+ * Renders nothing without an ad unit id (slot): an <ins> without one never fills and only leaves an
+ * empty 280px box. Until manual units exist, Auto ads (turned on in AdSense) place the ads.
  */
 export function AdSlot({ label, slot, className = "" }: { label: string; slot?: string; className?: string }) {
   const ref = useRef<HTMLModElement>(null);
   useEffect(() => {
-    if (!site.adsenseClient || !ref.current || ref.current.dataset.adsbygoogleStatus) return;
+    if (!site.adsenseClient || !slot || !ref.current || ref.current.dataset.adsbygoogleStatus) return;
     try {
       (window.adsbygoogle = window.adsbygoogle || []).push({});
     } catch {
       /* ad blockers */
     }
   }, []);
-  if (!site.adsenseClient) return null;
+  if (!site.adsenseClient || !slot) return null;
   return (
     <aside aria-label={label} className={`my-8 min-h-[280px] ${className}`}>
       <p className="mb-1 text-center text-[11px] uppercase tracking-wider text-muted">{label}</p>
