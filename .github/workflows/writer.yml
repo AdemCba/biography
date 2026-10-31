@@ -79,9 +79,13 @@ jobs:
             - When no people were named above, pick the people from today's trends only: read data/trend-candidates/latest.md (Google Trends +
               Wikipedia spikes, scanned twice a day) and confirm with WebSearch that each one is in today's news.
               Prefer living people whose current activity is why they trend (footballers, F1 drivers, creators,
-              streamers, musicians); skip people trending only because of an anniversary or an old film on TV.
+              streamers, musicians). Also take living film and TV actors, including character actors and stars of
+              80s-2000s films and series, when they trend for a reunion, reboot, sequel, streaming release, new role
+              or anniversary: competitors get most of their traffic from exactly these names ("christopher lloyd",
+              "patrick renna") and few sites cover them well.
               A new site cannot outrank Wikipedia and big media for the most famous names, so prefer rising,
-              mid-level names (new signings, breakout players, creators, reality-TV and series cast) and names
+              mid-level names (new signings, breakout players, creators, reality-TV and series cast, nostalgia
+              and character actors) and names
               trending in ES, MX, AR, BR, PT, DE, AT or FR, where competition is lower. In every text answer the
               questions people type for them (age, height, partner, nationality, club, net worth only if sourced).
               Do not take names from content/queue.json.
