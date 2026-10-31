@@ -5,7 +5,11 @@
   ],
   "trendingIn": [
     "ES",
-    "MX"
+    "MX",
+    "AR",
+    "BR",
+    "DE",
+    "AT"
   ],
   "wikidata": "Q85518537",
   "sources": [
@@ -25,6 +29,42 @@
       "publisher": "ATP Tour",
       "type": "official",
       "accessed": "2026-10-29",
+      "lang": "en"
+    },
+    {
+      "id": "atptour-alcaraz-paul-vienna-qf-2026",
+      "url": "https://www.atptour.com/en/news/alcaraz-paul-vienna-2026-qf",
+      "title": "Carlos Alcaraz downs Tommy Paul, sets Vienna SF with Daniil Medvedev",
+      "publisher": "ATP Tour",
+      "type": "official",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "tennismajors-alcaraz-medvedev-2026",
+      "url": "https://www.tennismajors.com/atp/alcaraz-sees-off-paul-in-vienna-and-now-comes-the-real-test-medvedev-864454.html",
+      "title": "Alcaraz sees off Paul in Vienna and now comes the real test: Medvedev",
+      "publisher": "Tennis Majors",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "ubitennis-alcaraz-vienna-sf-2026",
+      "url": "https://www.ubitennis.net/2026/10/carlos-alcaraz-reaches-vienna-semi-finals-daniil-medvedev-qualifies-for-atp-finals/",
+      "title": "Carlos Alcaraz Reaches Vienna Semi-Finals, Daniil Medvedev Qualifies For ATP Finals",
+      "publisher": "UBITENNIS",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "tennistemple-medvedev-alcaraz-2026",
+      "url": "https://en.tennistemple.com/match/medvedev-alcaraz-vienna-2026/9488343/",
+      "title": "Medvedev vs Alcaraz - Vienna 2026",
+      "publisher": "TennisTemple",
+      "type": "stats",
+      "accessed": "2026-10-31",
       "lang": "en"
     }
   ],
