@@ -1,0 +1,113 @@
+{
+  "id": "nico-santos",
+  "name": "Nico Santos",
+  "categories": [
+    "artists"
+  ],
+  "importance": 3,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1993-01-07",
+      "sources": [
+        "joyn-nico-santos-profile",
+        "mallorca-magazin-2020",
+        "promiflash-nico-santos"
+      ],
+      "note": "Joyn, Mallorca Magazin and Promiflash agree. Official site does not state a birth date. One low-quality page gives 28 January 1993 and was disregarded."
+    },
+    "birthPlace": {
+      "value": "Bremen, Germany",
+      "sources": [
+        "joyn-nico-santos-profile",
+        "mallorca-magazin-2020",
+        "promiflash-nico-santos"
+      ],
+      "note": "Born as Nico Wellenbrink, son of actor and TV director Egon Wellenbrink (Joyn)."
+    },
+    "nationality": {
+      "value": [
+        "DE"
+      ],
+      "sources": [
+        "promiflash-nico-santos"
+      ],
+      "note": "Promiflash lists nationality as Deutschland. Joyn describes Spain as his 'Heimatland' in the context of a Eurovision-style contest, not as nationality. Mallorca Magazin calls him a German musician. Dutch or Filipino heritage is not supported by any source found."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "nico-santos-official",
+      "url": "https://www.nico-santos.de/",
+      "title": "Nico Santos (official website)",
+      "publisher": "Nico Santos",
+      "type": "official",
+      "accessed": "2026-10-31",
+      "lang": "de"
+    },
+    {
+      "id": "berlin-tickets-arena-tour",
+      "url": "https://www.berlin.de/tickets/pop-rock/nico-santos-arena-tour-2026-b8399570-8e44-4074-b8a8-dadddc7a78ef/",
+      "title": "Nico Santos - Arena-Tour 2026",
+      "publisher": "berlin.de tickets",
+      "type": "database",
+      "accessed": "2026-10-31",
+      "lang": "de"
+    },
+    {
+      "id": "berlin-max-schmeling-halle",
+      "url": "https://www.berlin.de/en/tickets/rock-pop/nico-santos-arena-tour-2026/2026-10-30-nico-santos-arena-tour-2026-075ad122-57e4-44ce-8896-3b66908b1331/",
+      "title": "Nico Santos Arena Tour 2026, Berlin, 30 October 2026",
+      "publisher": "berlin.de tickets",
+      "type": "database",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "hamburg-tourism-barclays",
+      "url": "https://www.hamburg-tourism.de/sehen-erleben/veranstaltungen/veranstaltungskalender/nico-santos-arena-tour-2026/",
+      "title": "Nico Santos - Arena Tour 2026",
+      "publisher": "Hamburg Tourismus",
+      "type": "database",
+      "accessed": "2026-10-31",
+      "lang": "de"
+    },
+    {
+      "id": "muenchen-olympiahalle-pov",
+      "url": "https://www.muenchen.de/veranstaltungen/konzerte/nico-santos",
+      "title": "POV: Arena Tour 2026 in der Olympiahalle",
+      "publisher": "muenchen.de",
+      "type": "database",
+      "accessed": "2026-10-31",
+      "lang": "de"
+    },
+    {
+      "id": "joyn-nico-santos-profile",
+      "url": "https://www.joyn.de/bts/stars/nico-santos-39246",
+      "title": "Nico Santos, Singer-Songwriter und Produzent",
+      "publisher": "Joyn",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "de"
+    },
+    {
+      "id": "mallorca-magazin-2020",
+      "url": "https://www.mallorcamagazin.com/nachrichten/gesellschaft/2020/05/12/80019/tipp-der-deutsche-popstar-von-mallorca.html",
+      "title": "TV-Tipp: Der deutsche Popstar von Mallorca",
+      "publisher": "Mallorca Magazin",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "de"
+    },
+    {
+      "id": "promiflash-nico-santos",
+      "url": "https://www.promiflash.de/thema/nico-santos-saenger",
+      "title": "Nico Santos (Sänger), Steckbrief",
+      "publisher": "Promiflash",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "de"
+    }
+  ]
+}

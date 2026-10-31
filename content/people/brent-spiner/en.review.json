@@ -1,0 +1,247 @@
+{
+  "date": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Brent Spiner is an American actor best known as Lt. Commander Data in Star Trek: The Next Generation",
+      "sourceIds": [
+        "tmdb-brent-spiner",
+        "latw-brent-spiner"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb: best known for the android Lieutenant Commander Data in TNG. LATW: American actor."
+    },
+    {
+      "claim": "Born 2 February 1949 in Houston, Texas; age 77",
+      "sourceIds": [
+        "tmdb-brent-spiner"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb: birthday February 2, 1949; Houston, Texas, USA. Age 77 follows from the birth date on 31 October 2026."
+    },
+    {
+      "claim": "In June 2026 at a Spacecon panel he said he still prefers Tilda Swinton, not Tom Hiddleston, as Data",
+      "sourceIds": [
+        "popverse-fancast-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Popverse, published Wednesday 24 June 2026: quote 'I don't see it. I mean, I love it, but I still say Tilda Swinton' from Spacecon 2026 panel."
+    },
+    {
+      "claim": "Popverse reported no current plans to recast Data",
+      "sourceIds": [
+        "popverse-fancast-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Article notes there are no current plans to recast Data."
+    },
+    {
+      "claim": "Spacecon ran 12 to 14 June 2026 in San Antonio, Texas",
+      "sourceIds": [
+        "popverse-fancast-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Popverse article lists the Spacecon dates and location."
+    },
+    {
+      "claim": "'There's that double-edged sword of being identified with one role' (SYFY WIRE, 2021)",
+      "sourceIds": [
+        "syfy-reboot-interview-2021"
+      ],
+      "verdict": "confirmed",
+      "note": "Interview published 16 February 2021 with this quote."
+    },
+    {
+      "claim": "He was 38 when he started playing Data (2011 StarTrek.com interview)",
+      "sourceIds": [
+        "startrek-catching-up-2011"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote 'I was 38 when I started playing Data.' Article dated 12 October 2011."
+    },
+    {
+      "claim": "'I realized pretty early on that there was really no precedent for it'",
+      "sourceIds": [
+        "startrek-catching-up-2011"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote present."
+    },
+    {
+      "claim": "'it would be really tedious if I played him like a machine and a robot for seven years'",
+      "sourceIds": [
+        "startrek-catching-up-2011"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote present."
+    },
+    {
+      "claim": "The Next Generation began in 1987 and Spiner appeared in 176 episodes as Data",
+      "sourceIds": [
+        "tmdb-brent-spiner"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb: Star Trek: The Next Generation, TV, 1987; 176 episodes, as Data."
+    },
+    {
+      "claim": "'a seven-year episode that went on and on and on'",
+      "sourceIds": [
+        "startrek-catching-up-2011"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote present."
+    },
+    {
+      "claim": "If he had been ten years younger he could have played the role for thirty years",
+      "sourceIds": [
+        "startrek-catching-up-2011"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote: 'If I was 10 years younger, I could play this for 30 years.'"
+    },
+    {
+      "claim": "Schedule quote about reading scripts and learning lines",
+      "sourceIds": [
+        "startrek-catching-up-2011"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote present."
+    },
+    {
+      "claim": "Has only seen the first 20 or so episodes of the show",
+      "sourceIds": [
+        "startrek-catching-up-2011"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote: 'I've only seen the first 20 or so, from the first season.'"
+    },
+    {
+      "claim": "He played Lore, Data's evil brother; quote 'I always like playing Lore...' and 'because I am evil'",
+      "sourceIds": [
+        "syfy-reboot-interview-2021"
+      ],
+      "verdict": "confirmed",
+      "note": "Both quotes present in the 2021 interview."
+    },
+    {
+      "claim": "'It was all one character, even though the Soongs were human'",
+      "sourceIds": [
+        "syfy-reboot-interview-2021"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote present."
+    },
+    {
+      "claim": "Played Dr. Arik Soong in Star Trek: Enterprise, three episodes, 2004",
+      "sourceIds": [
+        "tmdb-brent-spiner"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb: Star Trek: Enterprise (2004, TV, 3 episodes, as Dr. Arik Soong)."
+    },
+    {
+      "claim": "Data appeared in Generations (1994), First Contact (1996), Insurrection (1998) and Nemesis (2002)",
+      "sourceIds": [
+        "tmdb-brent-spiner"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb credits list the four films with those years."
+    },
+    {
+      "claim": "He was part of the team that wrote the story for Nemesis; Data's death seemed to close the character's story",
+      "sourceIds": [
+        "startrek-return-2019"
+      ],
+      "verdict": "confirmed",
+      "note": "Article: he said he was part of the team that wrote the story; he had believed Data's death closed the character's story."
+    },
+    {
+      "claim": "'I thought it was the right way to go' about Data's death",
+      "sourceIds": [
+        "startrek-return-2019"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote: 'at the time I thought it was the right way to go.'"
+    },
+    {
+      "claim": "Played Data and the Soong brothers in Star Trek: Picard, 2020 to 2022",
+      "sourceIds": [
+        "tmdb-brent-spiner"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb: Picard (TV, 2020-2022) as Data, Dr. Altan Inigo Soong, Dr. Adam Soong."
+    },
+    {
+      "claim": "Said at Destination Star Trek Birmingham in 2019 that he had accepted his Trek run was over before he was offered a part in Picard",
+      "sourceIds": [
+        "startrek-return-2019"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated 28 October 2019 reports this."
+    },
+    {
+      "claim": "'I assumed they wanted me to play Picard because I can'",
+      "sourceIds": [
+        "startrek-return-2019"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote present."
+    },
+    {
+      "claim": "Voiced Data in Star Trek: Lower Decks in 2024",
+      "sourceIds": [
+        "tmdb-brent-spiner"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb: Star Trek: Lower Decks (TV, 2024, as Data, voice)."
+    },
+    {
+      "claim": "Broadway roles: Hank in A History of the American Film (his Broadway debut), Hubert in Life (x) 3, John Adams in 1776, the Duke in Big River, Aramis in The Three Musketeers, Franz and Dennis in Sunday in the Park with George",
+      "sourceIds": [
+        "latw-brent-spiner"
+      ],
+      "verdict": "confirmed",
+      "note": "LATW lists these roles; it gives no years, and the page does not give years for them."
+    },
+    {
+      "claim": "In 1996 he played Dr. Brackish Okun in Independence Day",
+      "sourceIds": [
+        "tmdb-brent-spiner"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb bio: Dr. Brackish Okun in Independence Day, 1996."
+    },
+    {
+      "claim": "2011: Big Bang Theory guest role 'It's not even a cameo. It's a cam'; hoped to be brought back; 'hardly working compared to what I used to do in Star Trek'",
+      "sourceIds": [
+        "startrek-catching-up-2011"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes present in the 2011 interview."
+    },
+    {
+      "claim": "Played a fictional version of himself in Fresh Hell, called it 'a sit-trag, because it's a comedy, but it's also sad'",
+      "sourceIds": [
+        "startrek-catching-up-2011"
+      ],
+      "verdict": "confirmed",
+      "note": "Interview describes the series and the quote."
+    },
+    {
+      "claim": "Said he has never been very good at playing himself",
+      "sourceIds": [
+        "startrek-catching-up-2011"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote present."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Sourced quotes from the 2011, 2019 and 2021 interviews, a dated June 2026 comment, and the verified career list add to the usual age and birthplace results.",
+  "decision": "approve",
+  "summary": "All checked claims match their sources. Birth date and place come from TMDb only, with no official source found for them, which the page does not overstate."
+}

@@ -1,10 +1,10 @@
 ---
 title: Roger Federer
 slug: roger-federer
-metaTitle: 'Roger Federer : âge, titres du Grand Chelem et retraite'
+metaTitle: 'Roger Federer : {age} ans et sa retraite de 2022'
 metaDescription: >-
-  Âge, origines et 20 titres du Grand Chelem de Roger Federer : 237 semaines de
-  suite au 1er rang, dernier match avec Nadal, Temple de la renommée en 2026.
+  Federer a annoncé sa retraite à 41 ans, le 15 septembre 2022. Son dernier
+  match, en double avec Nadal à Londres, a clos une carrière de 20 Grand Chelem.
 knownFor: 'Joueur de tennis suisse, vainqueur de 20 titres du Grand Chelem'
 summary: >-
   Roger Federer est un joueur de tennis suisse né à Bâle en 1981. Il a remporté
@@ -14,18 +14,29 @@ summary: >-
   Temple de la renommée du tennis en août 2026.
 status: published
 risk: medium
-publishedAt: '2026-10-29'
-reviewedAt: '2026-10-29'
-reviewBy: '2027-04-29'
+publishedAt: '2026-10-31'
+reviewedAt: '2026-10-31'
+reviewBy: '2027-05-01'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - roger federer âge
+  - federer âge
+  - âge de federer
+  - à quel âge federer a pris sa retraite
+  - âge retraite federer
+  - roger champion de tennis suisse
   - combien de grand chelem federer
   - quand federer a pris sa retraite
   - femme de roger federer
 faq:
+  - q: Quel âge a Roger Federer ?
+    a: 'Il est né le 8 août 1981 à Bâle, il a donc 45 ans depuis le 8 août 2026.'
+  - q: À quel âge Roger Federer a-t-il pris sa retraite ?
+    a: >-
+      Il avait 41 ans lorsqu'il a annoncé sa retraite, le 15 septembre 2022. Son
+      dernier match a eu lieu le 23 septembre 2022, à Londres.
   - q: Combien de titres du Grand Chelem Roger Federer a-t-il gagnés ?
     a: >-
       Vingt en simple : six Open d'Australie, un Roland-Garros, huit Wimbledon
@@ -39,13 +50,14 @@ faq:
       Mirka Vavrinec, ancienne joueuse classée jusqu'à la 76e place mondiale à
       la WTA. Le couple a deux paires de jumeaux.
 autoRevisions: 1
-autoReviews: 3
+autoReviews: 4
+publishedTime: '2026-10-31T09:37:48.487Z'
 ---
 Avant de soulever des trophées, Roger Federer ramassait des balles. En 1993 et 1994, il était ramasseur au tournoi de Bâle, sa ville natale [s:atp-bio]. Lorsqu'il a annoncé sa retraite en 2022, il avait remporté 20 titres du Grand Chelem [s:aljazeera-hof].
 
 ## Une enfance à Bâle
 
-Federer est né le 8 août 1981 à Bâle, en Suisse [s:biography-com]. Son père, Robert, est suisse, et sa mère, Lynette, est sud-africaine. Il a une sœur, Diana [s:atp-bio]. Il a commencé le tennis à huit ans et a grandi en admirant Stefan Edberg, Boris Becker et Pete Sampras [s:atp-bio]. Il devient professionnel en 1998 [s:biography-com]. Au tournoi de Bâle, il a remporté 10 titres et 75 victoires [s:atp-bio].
+Federer est né le 8 août 1981 à Bâle, en Suisse [s:biography-com]. Son père, Robert, est suisse, et sa mère, Lynette, est sud-africaine [s:biography-com]. Il a commencé le tennis à huit ans [s:atp-bio]. Il devient professionnel en 1998 [s:biography-com]. Au tournoi de Bâle, il a remporté 10 titres et 75 victoires [s:atp-bio].
 
 ## Les 20 titres du Grand Chelem
 
@@ -70,6 +82,10 @@ Federer a créé la Laver Cup [s:ithf-class-2026]. L'événement rend hommage à
 Il est marié à Mirka Vavrinec, qui a atteint la 76e place mondiale à la WTA [s:atp-bio]. Leur premier baiser a eu lieu aux Jeux olympiques de Sydney en 2000 [s:atp-bio]. Ils ont deux paires de jumeaux, Myla et Charlene, puis Leo et Lenny [s:atp-bio], soit quatre enfants au total [s:retirement-statement].
 
 En 2003, il a créé la Roger Federer Foundation, qui soutient des projets d'éducation communautaires en Afrique australe et en Suisse [s:atp-bio]. Selon la fondation, elle a investi plus de 50 millions de dollars et touché plus d'un million d'enfants [s:atp-bio]. Elle agit en Zambie, en Namibie, au Zimbabwe, au Malawi, au Botswana, en Afrique du Sud et en Suisse [s:atp-bio]. Le 7 février 2020, il a joué une exhibition au Cap contre Rafael Nadal : 51 954 spectateurs sont venus, et 3,5 millions de dollars ont été reversés à la fondation [s:atp-bio].
+
+## Âge et date de la retraite
+
+Roger Federer a annoncé sa retraite le 15 septembre 2022, à 41 ans [s:retirement-statement]. Son dernier match a eu lieu le 23 septembre 2022, en double avec Rafael Nadal, à la Laver Cup de Londres [s:nbc-laver] [s:retirement-statement]. Né le 8 août 1981, il a 45 ans depuis le 8 août 2026 [s:biography-com].
 
 ## La retraite
 

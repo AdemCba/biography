@@ -1,376 +1,271 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-31",
   "model": "claude-haiku-5-5",
   "approved": true,
   "reasons": [],
   "claims": [
     {
-      "claim": "metaTitle: age placeholder {age} (rendered as 24 on 2026-10-28)",
+      "claim": "Nació el 30 de septiembre de 2002",
       "sourceIds": [
         "nba-profile"
       ],
       "verdict": "confirmed",
-      "note": "Birth date 2002-09-30 gives age 24 on 2026-10-28. Placeholder judged correct per editor note."
+      "note": "NBA.com profile: BIRTHDATE September 30, 2002."
     },
     {
-      "claim": "metaDescription: born 30 September 2002",
+      "claim": "Tiene 24 años",
       "sourceIds": [
         "nba-profile"
       ],
       "verdict": "confirmed",
-      "note": "NBA.com lists birthdate September 30, 2002."
+      "note": "Birth date 2002-09-30 implies 24 on 2026-10-31."
     },
     {
-      "claim": "metaDescription: on 28 Oct 2026 listed as questionable for foot inflammation",
+      "claim": "Nació en Estados Unidos, hijo de padres dominicanos",
       "sourceIds": [
-        "fantasypros-shootaround"
+        "acento-dominicano"
       ],
       "verdict": "confirmed",
-      "note": "Article states still listed as questionable with foot inflammation vs Timberwolves."
+      "note": "Acento: 'Nacido en Estados Unidos de padres dominicanos'. No city given."
     },
     {
-      "claim": "knownFor: rookie forward of the Golden State Warriors",
+      "claim": "Padre Okary Lendeborg (selección dominicana), madre Yissel Raposo (baloncesto y voleibol)",
       "sourceIds": [
-        "nbc-bay-area-rookie-profile"
+        "acento-dominicano"
       ],
       "verdict": "confirmed",
-      "note": "NBC calls him a 6-foot-9 forward and an NBA rookie."
+      "note": "Named in the Acento article body."
     },
     {
-      "claim": "knownFor: number 11 pick in the 2026 draft",
+      "claim": "Claro Sports lo describe como puertorriqueño",
+      "sourceIds": [
+        "clarosports-puertorriqueno"
+      ],
+      "verdict": "confirmed",
+      "note": "Headline: 'El puertorriqueño Yaxel Lendeborg'."
+    },
+    {
+      "claim": "Delantero novato de los Warriors, elegido número 11 del draft 2026",
       "sourceIds": [
         "fantasypros-draft",
         "nba-profile"
       ],
       "verdict": "confirmed",
-      "note": "Selected No. 11 overall; NBA.com shows 2026 R1 Pick 11."
+      "note": "FantasyPros: 'No.11 overall'; NBA.com: '2026 R1 Pick 11'."
     },
     {
-      "claim": "summary: rookie forward of the Warriors",
-      "sourceIds": [
-        "nbc-bay-area-rookie-profile"
-      ],
-      "verdict": "confirmed",
-      "note": "Forward per NBC."
-    },
-    {
-      "claim": "summary: picked 11th in the 2026 draft",
+      "claim": "Tenía 23 años en el draft y llegaba como sénior",
       "sourceIds": [
         "fantasypros-draft"
       ],
       "verdict": "confirmed",
-      "note": "Selected No.11 overall by Golden State."
+      "note": "'23-year-old senior'."
     },
     {
-      "claim": "summary: born 30 September 2002",
-      "sourceIds": [
-        "nba-profile"
-      ],
-      "verdict": "confirmed",
-      "note": "NBA.com birthdate."
-    },
-    {
-      "claim": "summary: 28 Oct 2026 still on questionable list for foot inflammation",
-      "sourceIds": [
-        "fantasypros-shootaround"
-      ],
-      "verdict": "confirmed",
-      "note": "FantasyPros questionable with foot inflammation."
-    },
-    {
-      "claim": "FAQ: 24 years old on 28 Oct 2026",
-      "sourceIds": [
-        "nba-profile"
-      ],
-      "verdict": "confirmed",
-      "note": "Birth date gives 24 on that date."
-    },
-    {
-      "claim": "FAQ: FantasyPros reported questionable with foot inflammation and took part in shootaround before the Timberwolves game",
-      "sourceIds": [
-        "fantasypros-shootaround"
-      ],
-      "verdict": "confirmed",
-      "note": "Both points stated in the article."
-    },
-    {
-      "claim": "FAQ: two seasons at UAB, one at Michigan, national title in 2026",
-      "sourceIds": [
-        "nbc-bay-area-draft-analysis"
-      ],
-      "verdict": "confirmed",
-      "note": "Transferred after two seasons at UAB; one season at Michigan; led Michigan to 2026 national title."
-    },
-    {
-      "claim": "FAQ: Acento says born in the United States to Dominican parents",
-      "sourceIds": [
-        "acento-dominicano"
-      ],
-      "verdict": "confirmed",
-      "note": "Nacido en Estados Unidos de padres dominicanos."
-    },
-    {
-      "claim": "FAQ: Claro Sports describes him as Puerto Rican",
-      "sourceIds": [
-        "clarosports-puertorriqueno"
-      ],
-      "verdict": "confirmed",
-      "note": "Article repeatedly calls him puertorriqueño."
-    },
-    {
-      "claim": "Body: 23 years old at the draft and a senior in college",
-      "sourceIds": [
-        "fantasypros-draft"
-      ],
-      "verdict": "confirmed",
-      "note": "23-year-old senior."
-    },
-    {
-      "claim": "Body: NBA lists him as Round 1, pick 11",
-      "sourceIds": [
-        "nba-profile"
-      ],
-      "verdict": "confirmed",
-      "note": "2026 R1 Pick 11."
-    },
-    {
-      "claim": "Body: he was a fan of Kyrie Irving and hated Stephen Curry",
+      "claim": "Era fan de Kyrie Irving y por eso no veía bien a Curry; ahora juega con él",
       "sourceIds": [
         "dunkest-curry-intro"
       ],
       "verdict": "confirmed",
-      "note": "I used to hate Steph Curry; huge fan of Kyrie Irving."
+      "note": "'I've always been a huge fan of Kyrie Irving. Because of that, I hated Steph Curry'."
     },
     {
-      "claim": "Body: quote Es una situacion increible about learning from Curry",
+      "claim": "'Es una situación increíble' sobre aprender de Curry",
       "sourceIds": [
         "dunkest-curry-intro"
       ],
       "verdict": "confirmed",
-      "note": "Translation of It's an incredible situation."
+      "note": "'It's an incredible situation...learn from him'."
     },
     {
-      "claim": "Body: Warriors wing spot was thin and injured; they awaited Jimmy Butler and Moses Moody back from serious knee injuries",
-      "sourceIds": [
-        "abc30-kerr-role"
-      ],
-      "verdict": "confirmed",
-      "note": "Lengthy rehabs for serious knee injuries; wing currently thin and injured."
-    },
-    {
-      "claim": "Body: Kerr put him in the starting lineup",
-      "sourceIds": [
-        "abc30-kerr-role"
-      ],
-      "verdict": "confirmed",
-      "note": "Kerr inserted him into the starting lineup."
-    },
-    {
-      "claim": "Body: Kerr quote He is going to play a ton, already one of our best players, and he deserves it",
-      "sourceIds": [
-        "abc30-kerr-role"
-      ],
-      "verdict": "confirmed",
-      "note": "Source: He's going to play a ton; Frankly, he deserves it; He's one of our best players already. Spanish rendering keeps the meaning. Described as receptivo, source says unbelievably coachable; acceptable paraphrase."
-    },
-    {
-      "claim": "Body: Draymond Green quote about playing together for a long time",
-      "sourceIds": [
-        "abc30-kerr-role"
-      ],
-      "verdict": "confirmed",
-      "note": "It looked like we had been playing together for a long time. Meaning matches."
-    },
-    {
-      "claim": "Body: Mike Dunleavy called him a good passer who defends tanto con balon como sin el",
+      "claim": "Dunkest: buen pasador que defiende tanto con balón como sin él",
       "sourceIds": [
         "dunkest-curry-intro"
       ],
       "verdict": "confirmed",
-      "note": "He's a good passer, he defends both on and off the ball."
+      "note": "'He's a good passer, he defends both on and off the ball'."
     },
     {
-      "claim": "Body: Warriors beat the Lakers 92-88 in Summer League and reached the final",
+      "claim": "Butler y Moody volvían de graves lesiones de rodilla",
+      "sourceIds": [
+        "abc30-kerr-role"
+      ],
+      "verdict": "confirmed",
+      "note": "'serious knee injuries'."
+    },
+    {
+      "claim": "Kerr lo puso en el quinteto titular; 'Va a jugar muchísimo'; 'uno de nuestros mejores jugadores'; se lo merece",
+      "sourceIds": [
+        "abc30-kerr-role"
+      ],
+      "verdict": "confirmed",
+      "note": "'Kerr inserted him into the starting lineup'; 'He's going to play a ton'; 'Frankly, he deserves it. He's one of our best players already.'"
+    },
+    {
+      "claim": "Draymond Green: parecía que llevaban mucho tiempo jugando juntos",
+      "sourceIds": [
+        "abc30-kerr-role"
+      ],
+      "verdict": "confirmed",
+      "note": "'It looked like we had been playing together for a long time' (translated)."
+    },
+    {
+      "claim": "Summer League: victoria 92-88 sobre Lakers, llegaron a la final",
       "sourceIds": [
         "newsweek-summer-league"
       ],
       "verdict": "confirmed",
-      "note": "Advanced to the Summer League championship with a 92-88 win over the Lakers."
+      "note": "'92-88 win over the Los Angeles Lakers'; advanced to the Summer League championship."
     },
     {
-      "claim": "Body: 15 points, 5 of 8 from the field, all 3 free throws",
+      "claim": "15 puntos, 5 de 8 en tiros de campo, tres tiros libres",
       "sourceIds": [
         "newsweek-summer-league"
       ],
       "verdict": "confirmed",
-      "note": "15 points, 5-for-8, 3 of 3 free throws."
+      "note": "15 points; 5-for-8; all three free throws."
     },
     {
-      "claim": "Body: Newsweek quote about giving the Warriors many reasons to be pleased with the newest addition",
+      "claim": "Newsweek: plenty of reasons to feel good about their newest addition",
       "sourceIds": [
         "newsweek-summer-league"
       ],
       "verdict": "confirmed",
-      "note": "Source: giving the Golden State Warriors plenty of reasons to feel good about their newest addition. Meaning matches."
+      "note": "Translated quote."
     },
     {
-      "claim": "Body: NBC says Golden State's early-season prospects depend heavily on Lendeborg",
+      "claim": "NBC: las opciones de Golden State dependen en gran medida de Lendeborg",
       "sourceIds": [
         "nbc-bay-area-rookie-profile"
       ],
       "verdict": "confirmed",
-      "note": "Largely dependent on Lendeborg making an impact."
+      "note": "'largely dependent on Lendeborg'."
     },
     {
-      "claim": "Body: NBA.com averages of 21.8 points, 9.3 rebounds, 4.8 assists",
+      "claim": "NBA.com: 19,8 puntos, 7,8 rebotes y 3,3 asistencias por partido",
       "sourceIds": [
         "nba-profile"
       ],
       "verdict": "confirmed",
-      "note": "PPG 21.8, RPG 9.3, APG 4.8. Games played not listed, as the article says."
+      "note": "Points 19.8, rebounds 7.8, assists 3.3."
     },
     {
-      "claim": "Body: Heavy reports a left-ankle tweak after stepping on Kevon Looney's foot in the 101-89 win over the Lakers",
+      "claim": "Se torció el tobillo izquierdo en la victoria 101-89 sobre Lakers, al pisar a Kevon Looney en el tercer cuarto",
       "sourceIds": [
         "heavy-ankle-update"
       ],
       "verdict": "confirmed",
-      "note": "Tweaked his left ankle; stepped on Kevon Looney's foot in the third quarter; 101-89 win."
+      "note": "'tweaked his left ankle'; 101-89; stepped on Kevon Looney's foot; third quarter. 'Sprain' not used in source, page does not use it."
     },
     {
-      "claim": "Body: Kerr said Yeah, he's fine and that he practiced fully that day",
+      "claim": "Kerr: 'Sí, está bien'; había entrenado a fondo ese día",
       "sourceIds": [
         "heavy-ankle-update"
       ],
       "verdict": "confirmed",
-      "note": "Source: Yeah, he's fine; He practiced fully today. Spanish rendering keeps meaning."
+      "note": "'Yeah, he's fine'; 'He practiced fully today'."
     },
     {
-      "claim": "Body: the foot information came from a journalist's post",
+      "claim": "28 de octubre de 2026: FantasyPros lo dio como cuestionable por inflamación en el pie",
       "sourceIds": [
         "fantasypros-shootaround"
       ],
       "verdict": "confirmed",
-      "note": "Anthony Slater posted the foot update on X and it is embedded. Article does not name him, so the sentence is vague, and the comma before the tag is a copy-edit slip."
+      "note": "'still listed as questionable with foot inflammation'; byline Wed, Oct 28th 2026."
     },
     {
-      "claim": "Body: participation in shootaround was a good sign for his status",
+      "claim": "La noticia partía de un mensaje de Anthony Slater en redes",
       "sourceIds": [
         "fantasypros-shootaround"
       ],
       "verdict": "confirmed",
-      "note": "His participation in shootaround is a good sign for his status."
+      "note": "Quoted tweet by Anthony Slater."
     },
     {
-      "claim": "Body: NBC says he played three levels of college basketball",
+      "claim": "Participó en el shootaround antes del partido contra los Timberwolves",
+      "sourceIds": [
+        "fantasypros-shootaround"
+      ],
+      "verdict": "confirmed",
+      "note": "'participated in shootaround ahead of Wednesday's game against the Timberwolves'."
+    },
+    {
+      "claim": "NBC: jugó 'tres niveles de baloncesto universitario'",
       "sourceIds": [
         "nbc-bay-area-rookie-profile"
       ],
       "verdict": "confirmed",
-      "note": "Played three levels of college basketball."
+      "note": "'He played three levels of college basketball'."
     },
     {
-      "claim": "Body: averaged 11 rebounds per game at UAB",
+      "claim": "Dos temporadas en la UAB y una en Michigan",
+      "sourceIds": [
+        "nbc-bay-area-draft-analysis"
+      ],
+      "verdict": "confirmed",
+      "note": "'two seasons at the University of Alabama-Birmingham'; 'only season at Michigan'."
+    },
+    {
+      "claim": "En la UAB promedió 11 rebotes por partido",
       "sourceIds": [
         "nbc-bay-area-rookie-profile"
       ],
       "verdict": "confirmed",
-      "note": "Averaged 11 rebounds per game over two seasons."
+      "note": "'averaged 11 rebounds per game' at UAB."
     },
     {
-      "claim": "Body: two seasons at UAB and one at Michigan",
+      "claim": "26 dobles-dobles como júnior, la cifra más alta del país",
       "sourceIds": [
         "nbc-bay-area-draft-analysis"
       ],
       "verdict": "confirmed",
-      "note": "Transferred after two seasons at UAB; only one season at Michigan."
+      "note": "'26 double-doubles as a junior were tops in the nation'."
     },
     {
-      "claim": "Body: 26 double-doubles as a junior, the most in the country",
-      "sourceIds": [
-        "nbc-bay-area-draft-analysis"
-      ],
-      "verdict": "confirmed",
-      "note": "26 double-doubles as a junior were tops in the nation."
-    },
-    {
-      "claim": "Body: 37.2 percent from three-point range at Michigan",
+      "claim": "En Michigan convirtió el 37,2 por ciento de sus triples",
       "sourceIds": [
         "nbc-bay-area-rookie-profile"
       ],
       "verdict": "confirmed",
-      "note": "Shot 37.2 percent from deep at Michigan."
+      "note": "'shot 37.2 percent from deep' at Michigan."
     },
     {
-      "claim": "Body: led Michigan to the 2026 NCAA title and was Big Ten Player of the Year",
+      "claim": "Llevó a Michigan al título nacional de la NCAA de 2026 y fue Jugador del Año de la Big Ten",
       "sourceIds": [
         "nbc-bay-area-draft-analysis"
       ],
       "verdict": "confirmed",
-      "note": "Led Michigan to the national championship; won Big Ten Player of the Year."
+      "note": "'leading Michigan to the national championship'; 'winning Big Ten Player of the Year'."
     },
     {
-      "claim": "Body: 112 major college games, last six in the NCAA Tournament",
+      "claim": "112 partidos universitarios de alto nivel, los últimos seis en ese torneo",
       "sourceIds": [
         "nbc-bay-area-draft-analysis"
       ],
       "verdict": "confirmed",
-      "note": "112 major-college games, the last six in the 2026 tournament."
+      "note": "'112 major-college games'; 'the last six in the 2026 NCAA Tournament'."
     },
     {
-      "claim": "Body: NBA.com lists height 2.06 m and weight 112 kg",
+      "claim": "2,06 metros y 112 kilos",
       "sourceIds": [
         "nba-profile"
       ],
       "verdict": "confirmed",
-      "note": "6'9 (2.06m), 247lb (112kg)."
+      "note": "6'9\" (2.06m), 247lb (112kg)."
     },
     {
-      "claim": "Body: NBC lists 240 pounds",
+      "claim": "NBC da 240 libras",
       "sourceIds": [
         "nbc-bay-area-rookie-profile"
       ],
       "verdict": "confirmed",
-      "note": "6-foot-9, 240-pound forward."
-    },
-    {
-      "claim": "Body: Acento says born in the United States to Dominican parents",
-      "sourceIds": [
-        "acento-dominicano"
-      ],
-      "verdict": "confirmed",
-      "note": "Nacido en Estados Unidos de padres dominicanos. No city stated in any source."
-    },
-    {
-      "claim": "Body: Claro Sports describes him as Puerto Rican; sources disagree on nationality and the page takes no side",
-      "sourceIds": [
-        "clarosports-puertorriqueno",
-        "acento-dominicano"
-      ],
-      "verdict": "confirmed",
-      "note": "Both sources cited and the disagreement is stated accurately."
-    },
-    {
-      "claim": "person.json facts.birthDate 2002-09-30",
-      "sourceIds": [
-        "nba-profile"
-      ],
-      "verdict": "confirmed",
-      "note": "NBA.com birthdate."
-    },
-    {
-      "claim": "person.json facts.birthPlace United States (country only)",
-      "sourceIds": [
-        "acento-dominicano"
-      ],
-      "verdict": "confirmed",
-      "note": "Acento states born in the United States. NBA.com lists COUNTRY USA. No city claimed."
+      "note": "'240-pound forward'."
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "Sources cross-checked, and the article adds clear value: it separates the Oct 27 ankle tweak from the Oct 28 foot-inflammation questionable tag, flags that the NBA stats are season averages with no games played, and states the Puerto Rico versus Dominican origin conflict with both sources cited and no pick made.",
+  "valueNote": "Corrects the stats the other top results repeat, separates the nationality conflict between Acento and Claro Sports, and gives the injury news with the date of the source. Birthplace is country-level only, and the page says so.",
   "decision": "approve",
-  "summary": "All 45 claims checked against the fetched sources and confirmed; no wrong, unsupported, outdated or unreachable claims, and no uncited claims. Non-blocking copy-edit fix: in the section on the foot injury, the sentence about the journalist's post has a stray comma before its citation tag and does not name the reporter (Anthony Slater per the FantasyPros embed). The metaTitle/metaDescription {age} placeholder is correct at 24. Quotes were checked against the fetched excerpts for meaning; the Spanish renderings match."
+  "summary": "All cited claims were opened and confirmed against their sources. The earlier stats (21,8/9,3/4,8) did not match NBA.com and were corrected to 19,8/7,8/3,3. No uncited claims. Nationality conflict is stated and cited."
 }

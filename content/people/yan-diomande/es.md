@@ -1,11 +1,10 @@
 ---
 title: Yan Diomande
 slug: yan-diomande
-metaTitle: 'Yan Diomande: edad, fichaje por el Real Madrid y premios'
+metaTitle: 'Yan Diomande: {age} años, de Abiyán al Real Madrid'
 metaDescription: >-
-  Edad, lugar de nacimiento, premio rookie de la Bundesliga 2025/26 con el RB
-  Leipzig y contrato con el Real Madrid hasta 2033, con las cifras del traspaso
-  y sus fuentes.
+  Tiene 19 años y nació el 14 de noviembre de 2006 en Abiyán. Fue rookie de la
+  Bundesliga 2025/26 con el RB Leipzig y el Real Madrid lo fichó hasta 2033.
 knownFor: >-
   Extremo ivoriano, Rookie de la temporada de la Bundesliga 2025/26 con el RB
   Leipzig
@@ -16,8 +15,9 @@ summary: >-
   Nació en Abiyán el 14 de noviembre de 2006.
 status: published
 risk: low
-reviewedAt: '2026-10-26'
-reviewBy: '2027-04-26'
+publishedAt: '2026-10-31'
+reviewedAt: '2026-10-31'
+reviewBy: '2027-05-01'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -30,11 +30,27 @@ targetQueries:
   - Yan Diomande Costa de Marfil
   - Yan Diomande contrato
   - Yan Diomande estadísticas
+  - diomande edad
+  - diomande edad real
+  - edad real diomande
+  - diomande eda
+  - diomandé edad real
+  - edad de diomande
+  - edad diomande
+  - diamande edad
 faq:
   - q: ¿Cuántos años tiene Yan Diomande?
     a: >-
-      Nació el 14 de noviembre de 2006, así que tiene 19 años a 26 de octubre de
+      Nació el 14 de noviembre de 2006, así que tiene 19 años a 31 de octubre de
       2026.
+  - q: ¿Cuál es la edad real de Diomande?
+    a: >-
+      Tiene 19 años. Las fuentes consultadas no dan otra edad ni otra fecha de
+      nacimiento.
+  - q: ¿Cuál es la fecha de nacimiento de Yan Diomande?
+    a: >-
+      Nació el 14 de noviembre de 2006 en Abiyán, según FotMob. Cumplirá 20 años
+      en noviembre de 2026.
   - q: ¿De dónde es Yan Diomande?
     a: 'Nació en Abiyán, Costa de Marfil, y juega con la selección de su país.'
   - q: ¿Cuánto pagó el Real Madrid por Yan Diomande?
@@ -46,28 +62,31 @@ faq:
     a: >-
       El club anunció el fichaje el 6 de agosto de 2026, con contrato hasta el
       30 de junio de 2033.
-autoReviews: 1
-publishedAt: '2026-10-26'
+autoReviews: 2
+publishedTime: '2026-10-31T09:37:48.490Z'
 ---
 Yan Diomande es un extremo ivoriano de 19 años, nacido el 14 de noviembre de 2006 en Abiyán [s:fotmob-player] [s:lalibre-profile]. En la temporada 2025/26 fue el mejor rookie de la Bundesliga jugando para el RB Leipzig [s:bundesliga-rookie-2025-26]. El 6 de agosto de 2026 el Real Madrid anunció su fichaje, con un contrato que llega hasta el 30 de junio de 2033 [s:beinsports-signing] [s:irishnews-signing].
 
+## Edad y fecha de nacimiento
+
+Yan Diomande tiene 19 años y nació el 14 de noviembre de 2006, según el perfil de FotMob [s:fotmob-player]. La Libre también lo describe como un ivoriano de 19 años natural de Abiyán [s:lalibre-profile]. Cuando debutó con Costa de Marfil en el Mundial tenía 19 años y 212 días, según Fratmat [s:fratmat-world-cup-debut]. Las fuentes consultadas no dan otra edad ni otra fecha de nacimiento, así que la edad documentada es 19 años. Cumplirá 20 en noviembre de 2026.
+
 ## Su paso por Estados Unidos
 
-No llegó a Europa de forma directa. Fue a Estados Unidos a estudiar y a jugar al fútbol, y allí lo vio un ojeador en un torneo internacional [s:lalibre-profile]. Se mudó a Florida solo, sin su familia, y entrenó en un instituto y en la DME Academy de Daytona Beach [s:lalibre-profile]. También hizo pruebas con dos equipos de la MLS, los Colorado Rapids y el Charlotte FC, que no acabaron en contrato. Llegó a la conclusión de que Estados Unidos no le convenía [s:lalibre-profile].
+No llegó a Europa de forma directa. Fue a Estados Unidos a estudiar y a jugar al fútbol, y allí lo vio un ojeador en un torneo internacional [s:lalibre-profile]. Se mudó a Florida solo, sin su familia, y entrenó en la DME Academy de Daytona Beach [s:lalibre-profile]. También hizo pruebas con dos equipos de la MLS, los Colorado Rapids y el Charlotte FC, que no acabaron en contrato [s:lalibre-profile].
 
 Dos pruebas en Europa tampoco salieron bien. Una prueba con los Rangers en octubre de 2023 no terminó en fichaje, y más tarde otra con el Olympiacos tampoco funcionó [s:lalibre-profile].
 
 ## Del Leganés al Leipzig
 
-Su carrera hacia la Bundesliga pasó por España. Según La Libre, llegó al Leganés procedente de Estados Unidos por 1,5 millones de euros y firmó allí su primer contrato profesional [s:lalibre-profile]. Sus primeros minutos llegaron a finales de marzo, en el Santiago Bernabéu, ante unos 73.000 espectadores [s:lalibre-profile].
-
+Su carrera hacia la Bundesliga pasó por España. Según La Libre, llegó al Leganés procedente de Estados Unidos por 1,5 millones de euros y firmó allí su primer contrato profesional [s:lalibre-profile].
 El salto al Leipzig fue rápido. La Libre asegura que el club alemán lo compró por 20 millones de euros en el julio siguiente a su etapa en el Leganés [s:lalibre-profile]. El entrenador del Leipzig, Ole Werner, dijo a La Libre que ese talento no se lo habían dado, porque ya lo tenía [s:lalibre-profile].
 
 ## Las cifras de la temporada, liga y total
 
 La Bundesliga da para su temporada 12 goles y ocho asistencias [s:bundesliga-rookie-2025-26]. Africa Soccer recoge las mismas cifras en 33 partidos de liga [s:africasoccer-rookie]. La propia liga destaca que ha intentado más regates que ningún otro jugador de la competición y que ha disputado más duelos que nadie [s:bundesliga-rookie-2025-26].
 
-El once ideal sub-21 de la temporada de la Bundesliga lo llama «camino de convertirse en una estrella». Le atribuye 437 duelos ganados, la cifra más alta de la liga, y lo sitúa entre los diez mejores de la competición en sprints, carreras intensas y velocidad punta [s:bundesliga-u21-team].
+El once ideal sub-21 de la temporada de la Bundesliga lo describe como alguien que va camino de convertirse en una superestrella. Le atribuye 437 duelos ganados, la cifra más alta de la liga, y lo sitúa entre los diez mejores de la competición en sprints, carreras intensas y velocidad punta [s:bundesliga-u21-team].
 
 Las cifras totales son más altas. Contando todas las competiciones, la Bundesliga le atribuye 13 goles y 10 asistencias en 36 partidos [s:bundesliga-golden-boy-2026]. Son cifras de otro alcance, así que no deben mezclarse con las de liga.
 

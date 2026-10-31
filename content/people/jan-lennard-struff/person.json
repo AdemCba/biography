@@ -1,0 +1,122 @@
+{
+  "id": "jan-lennard-struff",
+  "name": "Jan-Lennard Struff",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 2,
+  "wikidata": "Q1681537",
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1990-04-25",
+      "sources": [
+        "wikidata-struff",
+        "tennisexplorer-struff"
+      ],
+      "note": "Wikidata and Tennis Explorer both give 25 April 1990. The ATP semi-final report says he is 34, but the ATP preview of 28 Oct 2026 says 36, which matches this date. The ATP player bio page was not usable (it renders another player)."
+    },
+    "birthPlace": {
+      "value": "Warstein, Germany",
+      "sources": [
+        "lavercup-struff",
+        "wikidata-struff"
+      ],
+      "note": "Wikidata gives Warstein (P19). Laver Cup lists Warstein, Germany. A Tennis Explorer page does not state a birthplace."
+    },
+    "nationality": {
+      "value": [
+        "DE"
+      ],
+      "sources": [
+        "wikidata-struff",
+        "lavercup-struff"
+      ],
+      "note": "Wikidata gives Germany as country of citizenship. Laver Cup lists his country as GER."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "atp-basel-preview-2026",
+      "url": "https://www.atptour.com/en/news/struff-feature-djokovic-basel-2026",
+      "title": "Struff feature Djokovic Basel 2026",
+      "publisher": "ATP Tour",
+      "type": "league-or-federation",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "atp-brussels-semifinal-2026",
+      "url": "https://www.atptour.com/en/news/struff-fils-brussels-2026-saturday-sf",
+      "title": "Struff vs Fils Brussels 2026 semi-final report",
+      "publisher": "ATP Tour",
+      "type": "league-or-federation",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "lavenir-brussels-final-2026",
+      "url": "https://www.lavenir.net/sports/tennis/2026/10/25/european-open-tallon-griekspoor-efface-jan-lennard-struff-en-finale-a-bruxelles-CQ4UHYSP2VD3XOQFHG2UODFGOA/",
+      "title": "European Open: Tallon Griekspoor efface Jan-Lennard Struff en finale a Bruxelles",
+      "publisher": "L'Avenir",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "fr"
+    },
+    {
+      "id": "wikidata-struff",
+      "url": "https://www.wikidata.org/wiki/Q1681537",
+      "title": "Jan-Lennard Struff (Wikidata item Q1681537)",
+      "publisher": "Wikidata",
+      "type": "database",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "tennisexplorer-struff",
+      "url": "https://www.tennisexplorer.com/player/struff/?annual=all&surface=5",
+      "title": "Struff Jan-Lennard player profile",
+      "publisher": "Tennis Explorer",
+      "type": "database",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "lavercup-struff",
+      "url": "https://lavercup.com/player/jan-lennard-struff",
+      "title": "Jan-Lennard Struff, Team Europe player profile",
+      "publisher": "Laver Cup",
+      "type": "other",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "atp-munich-2024-title",
+      "url": "https://www.atptour.com/es/news/struff-munich-2024-first-time-winner-spotlight",
+      "title": "Ganador por primera vez: Jan-Lennard Struff (Munich 2024)",
+      "publisher": "ATP Tour",
+      "type": "league-or-federation",
+      "accessed": "2026-10-31",
+      "lang": "es"
+    },
+    {
+      "id": "atp-wimbledon-2026-r4",
+      "url": "https://www.atptour.com/en/news/hurkacz-struff-wimbledon-2026-sunday",
+      "title": "Hurkacz-Struff, Wimbledon 2026 Sunday",
+      "publisher": "ATP Tour",
+      "type": "league-or-federation",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "tennismajors-wimbledon-qf-2026",
+      "url": "https://www.tennismajors.com/wimbledon-news/at-36-struff-reaches-a-first-grand-slam-quarterfinal-as-hurkacz-retires-hurt-855246.html",
+      "title": "At 36, Struff reaches a first Grand Slam quarterfinal as Hurkacz retires hurt",
+      "publisher": "Tennis Majors",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    }
+  ]
+}

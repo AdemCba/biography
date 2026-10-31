@@ -1,0 +1,209 @@
+{
+  "date": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Geboren am 13. Oktober 1971 in Berlin",
+      "sourceIds": [
+        "deutsche-biographie"
+      ],
+      "verdict": "confirmed",
+      "note": "Lebensdaten 1971-10-13, Geburtsort Berlin"
+    },
+    {
+      "claim": "Tiermedizin nach etwa drei Monaten abgebrochen; Jura; erstes Staatsexamen, zweites nicht angetreten; Promotion im Urheberrecht",
+      "sourceIds": [
+        "fitzek-author"
+      ],
+      "verdict": "confirmed",
+      "note": "Author page education station"
+    },
+    {
+      "claim": "Wollte Rockstar als Schlagzeuger werden; Plan scheiterte; spielte in der Cafeteria des Hockeyclubs; nie vorgehabt, Autor zu werden",
+      "sourceIds": [
+        "fitzek-author"
+      ],
+      "verdict": "confirmed",
+      "note": "Author page, Station 1 and closing quote"
+    },
+    {
+      "claim": "Volontariat 1996 bei 104.6 RTL; um 1999 Chefredakteur beim Berliner Rundfunk",
+      "sourceIds": [
+        "fitzek-author"
+      ],
+      "verdict": "confirmed",
+      "note": "Author page: traineeship while studying; editor-in-chief three years later"
+    },
+    {
+      "claim": "Die Therapie erschien 2006",
+      "sourceIds": [
+        "news-at-jubilee"
+      ],
+      "verdict": "confirmed",
+      "note": "news.at: 2006 debut"
+    },
+    {
+      "claim": "Idee im Wartezimmer einer orthopädischen Praxis Anfang der 2000er",
+      "sourceIds": [
+        "fitzek-author"
+      ],
+      "verdict": "confirmed",
+      "note": "Author page, Station 4"
+    },
+    {
+      "claim": "Autorenseite: Die Therapie ist Debüt im psychologischen Thriller; Deutschlands erfolgreichster Thrillerautor",
+      "sourceIds": [
+        "fitzek-anniversary",
+        "fitzek-author"
+      ],
+      "verdict": "confirmed",
+      "note": "Anniversary page; author page"
+    },
+    {
+      "claim": "Jubiläumsshow 7. August 2026 in der Waldbühne Berlin; 20 Jahre als Buchautor",
+      "sourceIds": [
+        "fitzek-waldbuehne",
+        "fitzek-anniversary"
+      ],
+      "verdict": "confirmed",
+      "note": "Official news page; anniversary page"
+    },
+    {
+      "claim": "20.000 Menschen erreichen; Idee des ersten psychologischen Thrillers im Jahr 2000",
+      "sourceIds": [
+        "fitzek-waldbuehne"
+      ],
+      "verdict": "confirmed",
+      "note": "Official news page"
+    },
+    {
+      "claim": "Termine 7. und 8. August",
+      "sourceIds": [
+        "news-at-jubilee"
+      ],
+      "verdict": "confirmed",
+      "note": "Caption 07.08.2026 und 08.08.2026"
+    },
+    {
+      "claim": "Über 160.000 Gäste bei der Thriller Live Arena Tour",
+      "sourceIds": [
+        "fitzek-anniversary"
+      ],
+      "verdict": "confirmed",
+      "note": "Anniversary page"
+    },
+    {
+      "claim": "Der Nachtzug seit 21. Oktober 2026 erhältlich; gebundene Ausgabe 26,00 Euro inkl. MwSt.",
+      "sourceIds": [
+        "fitzek-official",
+        "droemer-nachtzug"
+      ],
+      "verdict": "confirmed",
+      "note": "Homepage news 21.10.2026 'ab sofort erhältlich'; Droemer 26,00 EUR incl. VAT"
+    },
+    {
+      "claim": "Handlung: Corvin, Prag nach Berlin, Judith ermordet, Sohn Emil entführt, geständige Mörderin Blanka",
+      "sourceIds": [
+        "volksstimme-nachtzug"
+      ],
+      "verdict": "confirmed",
+      "note": "Article states all of these"
+    },
+    {
+      "claim": "Innsbruck 3. November 2026, 19.30 Uhr, Buchhandlung Tyrolia, ausverkauft",
+      "sourceIds": [
+        "tt-innsbruck"
+      ],
+      "verdict": "confirmed",
+      "note": "Lesung 3. November 19.30 Uhr; ausverkauft"
+    },
+    {
+      "claim": "Stuttgart 20. November 2026 ab 19.30 Uhr, Haus der Wirtschaft, 25 bis 30 Euro, Ermäßigungen",
+      "sourceIds": [
+        "stuttgart-nachtzug"
+      ],
+      "verdict": "confirmed",
+      "note": "Date, time, venue, prices, Ermäßigungen"
+    },
+    {
+      "claim": "REM: Horror-Thriller mit Annika Strauss; Bestseller-Duo; Taschenbuch und Hörbuch 19. März 2026",
+      "sourceIds": [
+        "fitzek-rem"
+      ],
+      "verdict": "confirmed",
+      "note": "REM page"
+    },
+    {
+      "claim": "Cover-Siegel Der Spiegel #1 Bestseller; Taschenbuch 320 Seiten; Hörbuch 5 Stunden 12 Minuten",
+      "sourceIds": [
+        "fitzek-rem"
+      ],
+      "verdict": "confirmed",
+      "note": "Cover graphic; 320 pages; 5 h 12 min"
+    },
+    {
+      "claim": "Träume aufgezeichnet; nächster Schlaf tödlich; Alysee vier Jahre; Vater ermordet während sie schläft; Erbe könnte Geheimnis aufdecken",
+      "sourceIds": [
+        "fitzek-rem"
+      ],
+      "verdict": "confirmed",
+      "note": "Blurb on REM page"
+    },
+    {
+      "claim": "Candle Girl Taschenbuch 30. Dezember 2025; Therapy Sonderausgabe Hardcover 2. März 2026; Parent-teacher night Taschenbuch 1. Juli 2026",
+      "sourceIds": [
+        "fitzek-anniversary"
+      ],
+      "verdict": "confirmed",
+      "note": "Anniversary page timeline"
+    },
+    {
+      "claim": "Parent-teacher night im Stil des Nummer-1-Bestsellers laut Website",
+      "sourceIds": [
+        "fitzek-anniversary"
+      ],
+      "verdict": "confirmed",
+      "note": "Site wording"
+    },
+    {
+      "claim": "Sechs Folgen, Josy Larenz, Viktor Larenz Psychiater, zwei Jahre später geheimnisvolle Frau",
+      "sourceIds": [
+        "prime-therapy"
+      ],
+      "verdict": "confirmed",
+      "note": "Prime Video listing"
+    },
+    {
+      "claim": "Tour 2027 vom 11. Mai (Deutsches Theater München) bis 6. Juni (Jahrhunderthalle Frankfurt); Roman 2023; Korrektur zur persönlichen Teilnahme",
+      "sourceIds": [
+        "kino-einladung"
+      ],
+      "verdict": "confirmed",
+      "note": "Tour dates; 23 Oct 2023; correction 27 April 2026"
+    },
+    {
+      "claim": "Gastrolle GZSZ, Mmai, UFA-Studios Potsdam-Babelsberg; Aussage spannend, Seiten wechseln",
+      "sourceIds": [
+        "weekend-gzsz"
+      ],
+      "verdict": "confirmed",
+      "note": "Shoot from 12 May 2026; quote"
+    },
+    {
+      "claim": "Botschafter von The Premature Baby, Weißer Ring, ALFA",
+      "sourceIds": [
+        "fitzek-author"
+      ],
+      "verdict": "confirmed",
+      "note": "Author page"
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds the sourced career details, the REM premise and specs, and the paperback timeline that the top results usually skip.",
+  "decision": "approve",
+  "summary": "Every checked claim matches its cited source. No uncited factual sentences."
+}

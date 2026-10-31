@@ -1,51 +1,69 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-31",
   "model": "claude-haiku-5-5",
   "approved": true,
   "reasons": [],
   "claims": [
-    {
-      "claim": "Ramasseur de balles en 1993 et 1994 au tournoi de Bâle",
-      "sourceIds": [
-        "atp-bio"
-      ],
-      "verdict": "confirmed",
-      "note": "ATP bio: ballboy 1993-94 at the Basel tournament."
-    },
-    {
-      "claim": "À sa retraite en 2022 il avait 20 titres du Grand Chelem",
-      "sourceIds": [
-        "aljazeera-hof"
-      ],
-      "verdict": "confirmed",
-      "note": "Al Jazeera: 20-time Grand Slam champion."
-    },
     {
       "claim": "Né le 8 août 1981 à Bâle",
       "sourceIds": [
         "biography-com"
       ],
       "verdict": "confirmed",
-      "note": "Biography.com: born August 8, 1981, in Basel."
+      "note": "Biography.com gives 8 August 1981, Basel."
     },
     {
-      "claim": "Père suisse Robert, mère sud-africaine Lynette, sœur Diana",
+      "claim": "Annonce de retraite le 15 septembre 2022, à 41 ans",
+      "sourceIds": [
+        "retirement-statement",
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Statement dated September 15, 2022; 'I am 41 years old.'"
+    },
+    {
+      "claim": "Dernier match le 23 septembre 2022, en double avec Nadal, à la Laver Cup de Londres",
+      "sourceIds": [
+        "nbc-laver",
+        "retirement-statement"
+      ],
+      "verdict": "confirmed",
+      "note": "Loss on Sept. 23 with Nadal; statement says the Laver Cup in London is his final ATP event."
+    },
+    {
+      "claim": "A 45 ans depuis le 8 août 2026",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic from the confirmed birth date."
+    },
+    {
+      "claim": "Ramasseur au tournoi de Bâle en 1993 et 1994",
       "sourceIds": [
         "atp-bio"
       ],
       "verdict": "confirmed",
-      "note": "ATP bio."
+      "note": "ATP: ballboy 1993-94 at Basel."
     },
     {
-      "claim": "Tennis commencé à huit ans; modèles Edberg, Becker, Sampras",
+      "claim": "A commencé le tennis à huit ans",
       "sourceIds": [
         "atp-bio"
       ],
       "verdict": "confirmed",
-      "note": "ATP bio."
+      "note": "ATP: began playing at age 8."
     },
     {
-      "claim": "Professionnel en 1998",
+      "claim": "Père Robert suisse, mère Lynette sud-africaine",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com: Swiss father Robert, South African mother Lynette."
+    },
+    {
+      "claim": "Devient professionnel en 1998",
       "sourceIds": [
         "biography-com"
       ],
@@ -53,20 +71,20 @@
       "note": "Biography.com: turned pro in 1998."
     },
     {
-      "claim": "10 titres et 75 victoires à Bâle",
+      "claim": "Au tournoi de Bâle, 10 titres et 75 victoires",
       "sourceIds": [
         "atp-bio"
       ],
       "verdict": "confirmed",
-      "note": "ATP bio: 10 titles and 75 match wins at Basel."
+      "note": "ATP: 10 titles and 75 matches."
     },
     {
-      "claim": "Six Open d'Australie, un Roland-Garros, huit Wimbledon, cinq US Open",
+      "claim": "20 titres du Grand Chelem: six Open d'Australie, un Roland-Garros, huit Wimbledon, cinq US Open",
       "sourceIds": [
         "aljazeera-hof"
       ],
       "verdict": "confirmed",
-      "note": "Al Jazeera breakdown."
+      "note": "Breakdown given in Al Jazeera."
     },
     {
       "claim": "Huit Wimbledon, record masculin",
@@ -74,55 +92,49 @@
         "aljazeera-hof"
       ],
       "verdict": "confirmed",
-      "note": "Al Jazeera: men's-record eight Wimbledon titles."
+      "note": "Men's-record eight Wimbledon titles."
     },
     {
-      "claim": "Juillet 2017, à 35 ans, huitième titre à Wimbledon",
+      "claim": "Juillet 2017, à 35 ans, huitième Wimbledon",
       "sourceIds": [
         "biography-com"
       ],
       "verdict": "confirmed",
-      "note": "Biography.com: July 2017 at age 35."
+      "note": "Biography.com: July 2017, at 35."
     },
     {
-      "claim": "ITHF: premier joueur à 20 titres du Grand Chelem en simple",
+      "claim": "Premier joueur à gagner 20 titres du Grand Chelem en simple (ITHF)",
       "sourceIds": [
         "ithf-class-2026"
       ],
       "verdict": "confirmed",
-      "note": "ITHF: first male player to win 20 major singles titles."
+      "note": "First male player with 20 major singles titles."
     },
     {
-      "claim": "Trois finales précédentes perdues face à Nadal; Roland-Garros seul majeur manquant",
+      "claim": "Roland-Garros 2009: trois finales perdues face à Nadal, victoire sur Soderling 6-1, 7-6, 6-4 le 7 juin 2009",
       "sourceIds": [
-        "tennis-2009-final"
-      ],
-      "verdict": "confirmed",
-      "note": "Tennis.com: three previous Roland Garros finals lost to Nadal; clinched the only Slam missing."
-    },
-    {
-      "claim": "7 juin 2009, victoire 6-1, 7-6, 6-4 contre Soderling; égalité avec 14 titres de Sampras; sixième homme à avoir gagné les quatre tournois",
-      "sourceIds": [
+        "tennis-2009-final",
         "mg-2009-french-open"
       ],
       "verdict": "confirmed",
-      "note": "Mail & Guardian: 6-1 7-6 6-4 vs Soderling on 7 June 2009; equalled Sampras 14; sixth man to win all four majors."
+      "note": "Both sources confirm; score and date match."
     },
     {
-      "claim": "103 titres et 1 251 victoires; seul Connors fait mieux dans l'ère Open avec 1 274",
+      "claim": "Égale les 14 titres de Sampras, sixième homme à gagner les quatre tournois",
+      "sourceIds": [
+        "mg-2009-french-open",
+        "tennis-2009-final"
+      ],
+      "verdict": "confirmed",
+      "note": "Sixth man and 14 majors confirmed."
+    },
+    {
+      "claim": "103 titres et 1 251 victoires en simple; Connors 1 274 victoires",
       "sourceIds": [
         "atp-bio"
       ],
       "verdict": "confirmed",
-      "note": "ATP bio."
-    },
-    {
-      "claim": "L'ITHF retient 103 titres sur le circuit ATP",
-      "sourceIds": [
-        "ithf-class-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "ITHF: 103 ATP singles titles."
+      "note": "ATP page figures."
     },
     {
       "claim": "237 semaines consécutives au 1er rang, record depuis 1973",
@@ -130,7 +142,7 @@
         "atp-bio"
       ],
       "verdict": "confirmed",
-      "note": "ATP bio."
+      "note": "ATP: 237 consecutive weeks, since 1973."
     },
     {
       "claim": "310 semaines au total au sommet",
@@ -138,177 +150,120 @@
         "ithf-class-2026"
       ],
       "verdict": "confirmed",
-      "note": "ITHF: 310 weeks as No. 1."
+      "note": "ITHF: 310 total weeks."
     },
     {
-      "claim": "Quatrième aux JO de Sydney 2000",
+      "claim": "Sydney 2000, quatrième",
       "sourceIds": [
         "atp-bio"
       ],
       "verdict": "confirmed",
-      "note": "ATP bio: finished fourth at Sydney 2000."
+      "note": "ATP: 4th."
     },
     {
-      "claim": "Or en double avec Wawrinka à Pékin 2008; argent en simple 2012, battu par Murray à Wimbledon",
+      "claim": "Or en double avec Wawrinka à Pékin 2008; argent en simple, battu par Murray en finale à Wimbledon 2012",
       "sourceIds": [
         "itf-olympics"
       ],
       "verdict": "confirmed",
-      "note": "ITF: doubles gold with Wawrinka at Beijing 2008; singles silver after losing to Murray, held at Wimbledon."
+      "note": "ITF article."
     },
     {
-      "claim": "Federer a créé la Laver Cup; événement en hommage à Rod Laver",
+      "claim": "Création de la Laver Cup, hommage à Rod Laver",
       "sourceIds": [
         "ithf-class-2026",
         "lavercup"
       ],
       "verdict": "confirmed",
-      "note": "ITHF: created the Laver Cup to honor Rod Laver; Laver Cup site confirms the honour."
+      "note": "ITHF: created the Laver Cup; Laver Cup site: honours Rod Laver."
     },
     {
-      "claim": "Mariée à Mirka Vavrinec, 76e place WTA; premier baiser aux JO de Sydney 2000",
+      "claim": "Mariage avec Mirka, 76e place WTA; premier baiser à Sydney 2000",
       "sourceIds": [
         "atp-bio"
       ],
       "verdict": "confirmed",
-      "note": "ATP bio: wife, WTA No. 76, first kiss at Sydney 2000."
+      "note": "ATP: WTA career-high 76; shared first kiss at Sydney 2000."
     },
     {
-      "claim": "Deux paires de jumeaux, quatre enfants",
+      "claim": "Deux paires de jumeaux, Myla et Charlene, Leo et Lenny; quatre enfants",
       "sourceIds": [
         "atp-bio",
         "retirement-statement"
       ],
       "verdict": "confirmed",
-      "note": "ATP bio twin names; Scroll: four children."
+      "note": "Names on ATP page; four children in statement."
     },
     {
-      "claim": "Fondation créée en 2003, actions en Afrique australe et Suisse; plus de 50 M$ investis; plus d'un million d'enfants",
+      "claim": "Fondation créée en 2003, plus de 50 millions de dollars, plus d'un million d'enfants, pays cités",
       "sourceIds": [
         "atp-bio"
       ],
       "verdict": "confirmed",
-      "note": "ATP bio: founded 2003; countries; over $50 million; over 1 million children."
+      "note": "ATP page."
     },
     {
-      "claim": "Pays d'action: Zambie, Namibie, Zimbabwe, Malawi, Botswana, Afrique du Sud, Suisse",
+      "claim": "Exhibition au Cap, 7 février 2020, 51 954 spectateurs, 3,5 millions de dollars",
       "sourceIds": [
         "atp-bio"
       ],
       "verdict": "confirmed",
-      "note": "ATP bio lists these countries."
+      "note": "ATP: 51,954 fans; $3.5 million raised."
     },
     {
-      "claim": "7 février 2020 exhibition au Cap contre Nadal, 51 954 spectateurs, 3,5 M$",
-      "sourceIds": [
-        "atp-bio"
-      ],
-      "verdict": "confirmed",
-      "note": "ATP bio."
-    },
-    {
-      "claim": "Citation sur le genou; annonce du 15 septembre 2022 à 41 ans; Laver Cup dernier tournoi; trois années de blessures",
-      "sourceIds": [
-        "nbc-laver",
-        "retirement-statement"
-      ],
-      "verdict": "confirmed",
-      "note": "NBC/AP: knee quote. Scroll: announcement 15 Sept 2022 at 41, Laver Cup last event, three years of injuries; Laver Cup held the following week."
-    },
-    {
-      "claim": "Remerciements à Mirka, ses quatre enfants, ses parents et sa sœur",
-      "sourceIds": [
-        "retirement-statement"
-      ],
-      "verdict": "confirmed",
-      "note": "Scroll: thanks to Mirka, four children, parents and sister."
-    },
-    {
-      "claim": "Appel à Nadal pour un dernier double; réponse de Nadal; défaite 4-6, 7-6, 11-9 face à Sock et Tiafoe le 23 septembre",
+      "claim": "Genou, citation et « un dernier double », « quoi qu'il faille »",
       "sourceIds": [
         "nbc-laver"
       ],
       "verdict": "confirmed",
-      "note": "NBC/AP: call to Nadal; reply 'whatever it takes'; lost 4-6 7-6 9-11 to Sock and Tiafoe."
+      "note": "Quotes are free translations marked as such."
     },
     {
-      "claim": "Annonce de l'ITHF le 10 novembre 2025; apprise à Swiss Tennis de membres du Temple",
+      "claim": "Intronisation au Temple le samedi 29 août 2026 à Newport, Rhode Island, à 45 ans, en larmes",
+      "sourceIds": [
+        "aljazeera-hof",
+        "atp-hof-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Ceremony Saturday 29 August 2026; tearful."
+    },
+    {
+      "claim": "Annonce de l'entrée dans la promotion 2026 le 10 novembre 2025",
       "sourceIds": [
         "ithf-class-2026"
       ],
       "verdict": "confirmed",
-      "note": "ITHF page dated November 10, 2025; learned at Swiss Tennis from fellow Hall of Famers."
+      "note": "Date tag reads 11/10/2025, i.e. 10 November 2025 in US format."
     },
     {
-      "claim": "Cérémonie samedi 29 août 2026 à Newport (Rhode Island); en larmes; 45 ans",
-      "sourceIds": [
-        "aljazeera-hof"
-      ],
-      "verdict": "confirmed",
-      "note": "Al Jazeera: Saturday 29 August 2026, Newport; tearful; 45-year-old."
-    },
-    {
-      "claim": "Visite du musée le jeudi; Mirka a prononcé le discours de présentation",
+      "claim": "Visite du musée le jeudi précédent; Mirka prononce le discours; sept anciens numéros un; exhibition avec Navratilova le vendredi",
       "sourceIds": [
         "atp-hof-2026"
       ],
       "verdict": "confirmed",
-      "note": "ATP gallery: museum tour Thursday; Mirka delivered his introductory speech."
+      "note": "Photo captions confirm each detail."
     },
     {
-      "claim": "Le texte d'intronisation cite 20 titres majeurs, 103 titres ATP et 310 semaines",
+      "claim": "Citations de Federer lors de l'intronisation",
+      "sourceIds": [
+        "aljazeera-hof"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes match the English source; French renderings are marked as free translations."
+    },
+    {
+      "claim": "Federer a 'appris à Swiss Tennis' l'intronisation",
       "sourceIds": [
         "ithf-class-2026"
       ],
       "verdict": "confirmed",
-      "note": "ITHF citation text."
-    },
-    {
-      "claim": "Citations: l'un des plus grands honneurs; la célébrité n'a jamais été le but; ce n'est donc pas un adieu",
-      "sourceIds": [
-        "aljazeera-hof"
-      ],
-      "verdict": "confirmed",
-      "note": "Al Jazeera quotes verified."
-    },
-    {
-      "claim": "Mary Carillo co-intronisée",
-      "sourceIds": [
-        "aljazeera-hof"
-      ],
-      "verdict": "confirmed",
-      "note": "Al Jazeera: inducted alongside Mary Carillo."
-    },
-    {
-      "claim": "Sept anciens numéros un cités dont Edberg, McEnroe, Roddick; exhibition du vendredi avec Navratilova",
-      "sourceIds": [
-        "atp-hof-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "ATP gallery: seven former No. 1s named; exhibition on Friday with Navratilova."
-    },
-    {
-      "claim": "Djokovic a félicité Federer par message vidéo",
-      "sourceIds": [
-        "aljazeera-hof"
-      ],
-      "verdict": "confirmed",
-      "note": "Al Jazeera: Djokovic congratulated in video message."
-    },
-    {
-      "claim": "Nationalité suisse (CH) dans les facts",
-      "sourceIds": [
-        "britannica",
-        "atp-bio"
-      ],
-      "verdict": "source_unreachable",
-      "note": "Britannica returned HTTP 403. ATP bio confirms Swiss father only."
+      "note": "Received news at Swiss Tennis."
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "Adds the Roland-Garros 2009 context from match reports, the Olympic record, the Laver Cup origin and the Newport ceremony details from ATP and Al Jazeera, which the French top results do not all carry.",
+  "valueNote": "Adds the retirement age and dates with primary statement sourcing, the 2009 French Open context, and the Hall of Fame details from the induction coverage.",
   "decision": "approve",
-  "summary": "Every cited claim was opened and confirmed except the nationality fact, which cites Britannica (blocked, HTTP 403 today)."
+  "summary": "All cited claims checked against their sources in this pass. The unverifiable sister claim was removed, and the admiration sentence was dropped as unsourced."
 }

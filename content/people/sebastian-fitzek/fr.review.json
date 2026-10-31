@@ -1,0 +1,209 @@
+{
+  "date": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Né à Berlin le 13 octobre 1971",
+      "sourceIds": [
+        "deutsche-biographie"
+      ],
+      "verdict": "confirmed",
+      "note": "Lebensdaten 1971-10-13, Geburtsort Berlin"
+    },
+    {
+      "claim": "Médecine vétérinaire arrêtée après trois mois; droit; premier examen d'État sans second; doctorat en droit d'auteur",
+      "sourceIds": [
+        "fitzek-author"
+      ],
+      "verdict": "confirmed",
+      "note": "Author page education station"
+    },
+    {
+      "claim": "Voulait être rock star à la batterie; projet échoué; cafétéria du club de hockey; jamais eu l'intention de devenir auteur",
+      "sourceIds": [
+        "fitzek-author"
+      ],
+      "verdict": "confirmed",
+      "note": "Author page, Station 1 and closing quote"
+    },
+    {
+      "claim": "Stage à 104.6 RTL en 1996; rédacteur en chef de Berliner Rundfunk vers 1999",
+      "sourceIds": [
+        "fitzek-author"
+      ],
+      "verdict": "confirmed",
+      "note": "Author page"
+    },
+    {
+      "claim": "Die Therapie paru en 2006",
+      "sourceIds": [
+        "news-at-jubilee"
+      ],
+      "verdict": "confirmed",
+      "note": "news.at 2006"
+    },
+    {
+      "claim": "Idée dans une salle d'attente d'orthopédie au début des années 2000",
+      "sourceIds": [
+        "fitzek-author"
+      ],
+      "verdict": "confirmed",
+      "note": "Author page, Station 4"
+    },
+    {
+      "claim": "Site: Therapy premier thriller psychologique; auteur de thrillers le plus vendu d'Allemagne",
+      "sourceIds": [
+        "fitzek-anniversary",
+        "fitzek-author"
+      ],
+      "verdict": "confirmed",
+      "note": "Anniversary page; author page"
+    },
+    {
+      "claim": "Spectacle d'anniversaire le 7 août 2026 à la Waldbühne; vingt ans comme auteur de livres",
+      "sourceIds": [
+        "fitzek-waldbuehne",
+        "fitzek-anniversary"
+      ],
+      "verdict": "confirmed",
+      "note": "Official news page; anniversary page"
+    },
+    {
+      "claim": "Vouloir s'adresser à 20 000 personnes; idée du premier thriller psychologique en 2000",
+      "sourceIds": [
+        "fitzek-waldbuehne"
+      ],
+      "verdict": "confirmed",
+      "note": "Official news page"
+    },
+    {
+      "claim": "Représentations les 7 et 8 août",
+      "sourceIds": [
+        "news-at-jubilee"
+      ],
+      "verdict": "confirmed",
+      "note": "Caption 07.08.2026 und 08.08.2026"
+    },
+    {
+      "claim": "Plus de 160 000 spectateurs à la Thriller Live Arena Tour",
+      "sourceIds": [
+        "fitzek-anniversary"
+      ],
+      "verdict": "confirmed",
+      "note": "Anniversary page"
+    },
+    {
+      "claim": "Der Nachtzug disponible depuis le 21 octobre 2026; relié à 26,00 euros TTC",
+      "sourceIds": [
+        "fitzek-official",
+        "droemer-nachtzug"
+      ],
+      "verdict": "confirmed",
+      "note": "Homepage 21.10.2026 'ab sofort erhältlich'; Droemer hardcover 26,00 EUR incl. VAT"
+    },
+    {
+      "claim": "Intrigue: Corvin, Prague vers Berlin, Judith assassinée, Emil enlevé, meurtrière avouée Blanka",
+      "sourceIds": [
+        "volksstimme-nachtzug"
+      ],
+      "verdict": "confirmed",
+      "note": "Article states all of these"
+    },
+    {
+      "claim": "Innsbruck 3 novembre 2026 à 19 h 30, Tyrolia, complet",
+      "sourceIds": [
+        "tt-innsbruck"
+      ],
+      "verdict": "confirmed",
+      "note": "19.30 Uhr; ausverkauft"
+    },
+    {
+      "claim": "Stuttgart 20 novembre 2026, 19 h 30, Haus der Wirtschaft, 25 à 30 euros, réductions",
+      "sourceIds": [
+        "stuttgart-nachtzug"
+      ],
+      "verdict": "confirmed",
+      "note": "Date, time, venue, prices, Ermäßigungen"
+    },
+    {
+      "claim": "REM: thriller d'horreur avec Annika Strauss; duo à succès; poche et audio le 19 mars 2026",
+      "sourceIds": [
+        "fitzek-rem"
+      ],
+      "verdict": "confirmed",
+      "note": "REM page"
+    },
+    {
+      "claim": "Mention Der Spiegel #1 Bestseller sur la couverture; poche 320 pages; audio 5 h 12",
+      "sourceIds": [
+        "fitzek-rem"
+      ],
+      "verdict": "confirmed",
+      "note": "Cover graphic; 320 pages; 5 h 12 min"
+    },
+    {
+      "claim": "Rêves enregistrés; sommeil suivant fatal; Alysee quatre ans; père assassiné pendant son sommeil; héritage pouvant révéler le secret",
+      "sourceIds": [
+        "fitzek-rem"
+      ],
+      "verdict": "confirmed",
+      "note": "Blurb on REM page"
+    },
+    {
+      "claim": "Candle Girl poche 30 décembre 2025; Therapy édition spéciale reliée 2 mars 2026; Parent-teacher night poche 1er juillet 2026",
+      "sourceIds": [
+        "fitzek-anniversary"
+      ],
+      "verdict": "confirmed",
+      "note": "Anniversary page timeline"
+    },
+    {
+      "claim": "Parent-teacher night dans le style du best-seller numéro 1 selon le site",
+      "sourceIds": [
+        "fitzek-anniversary"
+      ],
+      "verdict": "confirmed",
+      "note": "Site wording"
+    },
+    {
+      "claim": "Thriller en six épisodes; Josy Larenz; Viktor Larenz psychiatre; deux ans plus tard une femme mystérieuse",
+      "sourceIds": [
+        "prime-therapy"
+      ],
+      "verdict": "confirmed",
+      "note": "Prime Video listing"
+    },
+    {
+      "claim": "Tournée 2027 du 11 mai (Deutsches Theater Munich) au 6 juin (Jahrhunderthalle Francfort); roman de 2023; correction sur la présence en personne",
+      "sourceIds": [
+        "kino-einladung"
+      ],
+      "verdict": "confirmed",
+      "note": "Tour dates; 2023 release; correction"
+    },
+    {
+      "claim": "Rôle invité dans GZSZ, studios UFA Potsdam-Babelsberg, tournage en mai; expérience passionnante",
+      "sourceIds": [
+        "weekend-gzsz"
+      ],
+      "verdict": "confirmed",
+      "note": "Shoot from 12 May 2026; quote"
+    },
+    {
+      "claim": "Ambassadeur de The Premature Baby, Weisser Ring et ALFA",
+      "sourceIds": [
+        "fitzek-author"
+      ],
+      "verdict": "confirmed",
+      "note": "Author page"
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds the sourced career details, the REM premise and specs, and the paperback timeline that the top results usually skip.",
+  "decision": "approve",
+  "summary": "Every checked claim matches its cited source. No uncited factual sentences."
+}

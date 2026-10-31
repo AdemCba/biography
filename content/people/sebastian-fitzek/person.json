@@ -1,0 +1,154 @@
+{
+  "id": "sebastian-fitzek",
+  "name": "Sebastian Fitzek",
+  "categories": [
+    "artists"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1971-10-13",
+      "sources": [
+        "deutsche-biographie"
+      ],
+      "note": "Deutsche Biographie lists Lebensdaten 1971-10-13. Other press also gives 13 October 1971."
+    },
+    "birthPlace": {
+      "value": "Berlin",
+      "sources": [
+        "deutsche-biographie"
+      ],
+      "note": "Listed as Geburtsort Berlin. Some encyclopedias say West Berlin; the page says Berlin."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "droemer-nachtzug",
+      "url": "https://www.droemer-knaur.de/buch/sebastian-fitzek-der-nachtzug-9783426283226",
+      "title": "Der Nachtzug (release listing)",
+      "publisher": "Verlagsgruppe Droemer Knaur",
+      "type": "company",
+      "accessed": "2026-10-31",
+      "lang": "de"
+    },
+    {
+      "id": "fitzek-official",
+      "url": "https://www.sebastianfitzek.de/",
+      "title": "Sebastian Fitzek - Willkommen in der Fitzek World",
+      "publisher": "Sebastian Fitzek",
+      "type": "official",
+      "accessed": "2026-10-31",
+      "lang": "de"
+    },
+    {
+      "id": "fitzek-author",
+      "url": "https://sebastianfitzek.de/en/author/",
+      "title": "Author - Sebastian Fitzek",
+      "publisher": "Sebastian Fitzek",
+      "type": "official",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "fitzek-rem",
+      "url": "https://sebastianfitzek.de/en/book/rem/",
+      "title": "REM - Sebastian Fitzek and Annika Strauss",
+      "publisher": "Sebastian Fitzek",
+      "type": "official",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "deutsche-biographie",
+      "url": "https://deutsche-biographie.de/122093801.html",
+      "title": "Fitzek, Sebastian",
+      "publisher": "Deutsche Biographie",
+      "type": "database",
+      "accessed": "2026-10-31",
+      "lang": "de"
+    },
+    {
+      "id": "tt-innsbruck",
+      "url": "https://www.tt.com/artikel/30945072/der-nachtzug-steuert-bald-auch-innsbruck-an",
+      "title": "Schnitzeljagd auf Schienen: Der Nachtzug steuert bald auch Innsbruck an",
+      "publisher": "Tiroler Tageszeitung",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "de"
+    },
+    {
+      "id": "news-at-jubilee",
+      "url": "https://www.news.at/schlagzeilen/fitzek-feiert-autorenjubilaum-mit-shows-in-berlin",
+      "title": "Fitzek feiert Autorenjubiläum mit Shows in Berlin",
+      "publisher": "news.at",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "de"
+    },
+    {
+      "id": "volksstimme-nachtzug",
+      "url": "https://www.volksstimme.de/kultur/nachster-halt-fitzek-der-neue-psychothriller-der-nachtzug-4341264",
+      "title": "Nächster Halt Fitzek: Der neue Psychothriller Der Nachtzug",
+      "publisher": "Volksstimme",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "de"
+    },
+    {
+      "id": "stuttgart-nachtzug",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/sebastian-fitzek-der-nachtzug-535736",
+      "title": "Sebastian Fitzek: Der Nachtzug (event listing)",
+      "publisher": "Stadt Stuttgart",
+      "type": "other",
+      "accessed": "2026-10-31",
+      "lang": "de"
+    },
+    {
+      "id": "prime-therapy",
+      "url": "https://www.primevideo.com/dp/0L9N3RYYCVCPYP8DNGWVDLHKUO",
+      "title": "Sebastian Fitzek's Therapy",
+      "publisher": "Amazon Prime Video",
+      "type": "other",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "fitzek-waldbuehne",
+      "url": "https://sebastianfitzek.de/en/news/jubilaumsshow-in-der-waldbuhne-2026/",
+      "title": "Anniversary show at the Waldbühne 2026",
+      "publisher": "Sebastian Fitzek",
+      "type": "official",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "fitzek-anniversary",
+      "url": "https://sebastianfitzek.de/en/?p=4131",
+      "title": "20 Years Sebastian Fitzek - The Anniversary",
+      "publisher": "Sebastian Fitzek",
+      "type": "official",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "kino-einladung",
+      "url": "https://www.kino.de/news/sebastian-fitzeks-die-einladung-auf-tour-alle-termine-fuer-2027-im-ueberblick--01KQ4EWKQC2K5ZQFZFVDX8BWJE",
+      "title": "Sebastian Fitzeks Die Einladung auf Tour: alle Termine für 2027 im Überblick",
+      "publisher": "kino.de",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "de"
+    },
+    {
+      "id": "weekend-gzsz",
+      "url": "https://www.weekend.at/lifestyle/unterhaltung/sebastian-fitzek-gzsz",
+      "title": "Sebastian Fitzek bei GZSZ",
+      "publisher": "weekend.at",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "de"
+    }
+  ]
+}

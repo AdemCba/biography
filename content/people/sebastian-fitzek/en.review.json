@@ -1,0 +1,219 @@
+{
+  "date": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born in Berlin on 13 October 1971",
+      "sourceIds": [
+        "deutsche-biographie"
+      ],
+      "verdict": "confirmed",
+      "note": "Lebensdaten 1971-10-13 and Geburtsort Berlin on the Deutsche Biographie page"
+    },
+    {
+      "claim": "Began veterinary medicine and stopped after about three months; studied law, passed first state exam, did not sit second, doctorate in copyright law",
+      "sourceIds": [
+        "fitzek-author"
+      ],
+      "verdict": "confirmed",
+      "note": "Author page: studied veterinary medicine for three months; first state examination; doctorate in copyright law"
+    },
+    {
+      "claim": "Drummer ambition, failed plan, played in hockey club cafeteria; never intended to become an author",
+      "sourceIds": [
+        "fitzek-author"
+      ],
+      "verdict": "confirmed",
+      "note": "Author page, Station 1 and closing quote"
+    },
+    {
+      "claim": "Radio traineeship at 104.6 RTL in 1996; editor-in-chief at Berliner Rundfunk around 1999",
+      "sourceIds": [
+        "fitzek-author"
+      ],
+      "verdict": "confirmed",
+      "note": "Author page: traineeship while studying; editor-in-chief three years later"
+    },
+    {
+      "claim": "Die Therapie published in 2006",
+      "sourceIds": [
+        "news-at-jubilee",
+        "fitzek-author",
+        "fitzek-anniversary"
+      ],
+      "verdict": "confirmed",
+      "note": "news.at states 2006; author page 'since 2006'"
+    },
+    {
+      "claim": "Idea came in an orthopedic waiting room in the early 2000s",
+      "sourceIds": [
+        "fitzek-author"
+      ],
+      "verdict": "confirmed",
+      "note": "Author page, Station 4"
+    },
+    {
+      "claim": "Therapy is the psychological thriller debut; site calls him Germany's best-selling thriller author",
+      "sourceIds": [
+        "fitzek-anniversary",
+        "fitzek-author"
+      ],
+      "verdict": "confirmed",
+      "note": "Anniversary page: psychological thriller debut; author page: Germany's best-selling thriller author"
+    },
+    {
+      "claim": "Anniversary show 7 August 2026 at Waldbühne Berlin; marks 20th anniversary as book author",
+      "sourceIds": [
+        "fitzek-waldbuehne",
+        "fitzek-anniversary"
+      ],
+      "verdict": "confirmed",
+      "note": "Official news page gives 7 August 2026 at Waldbühne Berlin; anniversary page cites 20th anniversary as book author"
+    },
+    {
+      "claim": "Show reported for 7 and 8 August",
+      "sourceIds": [
+        "news-at-jubilee"
+      ],
+      "verdict": "confirmed",
+      "note": "Caption: Jubiläum am 07.08.2026 und 08.08.2026 in der Waldbühne"
+    },
+    {
+      "claim": "Wants to reach 20,000 people; idea for first psychological thriller dates to 2000",
+      "sourceIds": [
+        "fitzek-waldbuehne"
+      ],
+      "verdict": "confirmed",
+      "note": "Official news page: 'tell 20,000 people'; 'In the year 2000, I had the idea'"
+    },
+    {
+      "claim": "Over 160,000 guests at the Thriller Live Arena Tour",
+      "sourceIds": [
+        "fitzek-anniversary"
+      ],
+      "verdict": "confirmed",
+      "note": "Anniversary page: sold-out tour with over 160,000 guests"
+    },
+    {
+      "claim": "Der Nachtzug available from 21 October 2026",
+      "sourceIds": [
+        "fitzek-official",
+        "droemer-nachtzug"
+      ],
+      "verdict": "confirmed",
+      "note": "Homepage news dated 21.10.2026: 'DER NACHTZUG ist ab sofort erhältlich!'; Droemer listing 21.10.2026"
+    },
+    {
+      "claim": "Hardcover at 26.00 euros including VAT",
+      "sourceIds": [
+        "droemer-nachtzug"
+      ],
+      "verdict": "confirmed",
+      "note": "Gebundene Ausgabe, 26,00 EUR incl. VAT"
+    },
+    {
+      "claim": "Plot: Corvin on train Prague to Berlin, wife Judith murdered, five-year-old son Emil kidnapped, confessed killer Blanka",
+      "sourceIds": [
+        "volksstimme-nachtzug"
+      ],
+      "verdict": "confirmed",
+      "note": "Article states all of these"
+    },
+    {
+      "claim": "Innsbruck reading 3 November 2026 at 19.30, Tyrolia bookshop, sold out",
+      "sourceIds": [
+        "tt-innsbruck"
+      ],
+      "verdict": "confirmed",
+      "note": "Lesung 3. November, 19.30 Uhr, Buchhandlung Tyrolia; 'bereits ausverkauft'"
+    },
+    {
+      "claim": "Stuttgart reading 20 November 2026 from 19.30 at Haus der Wirtschaft, tickets 25 to 30 euros, reductions available",
+      "sourceIds": [
+        "stuttgart-nachtzug"
+      ],
+      "verdict": "confirmed",
+      "note": "Date, 7:30 PM, venue, EUR 25 to 30, Ermäßigungen"
+    },
+    {
+      "claim": "REM horror thriller with Annika Strauss; new bestselling duo; paperback and audiobook 19 March 2026",
+      "sourceIds": [
+        "fitzek-rem"
+      ],
+      "verdict": "confirmed",
+      "note": "REM page: 'The new bestselling duo!'; 19.03.2026 for paperback and audiobook"
+    },
+    {
+      "claim": "Cover label Der Spiegel #1 Bestseller; paperback 320 pages; audiobook 5 hours 12 minutes",
+      "sourceIds": [
+        "fitzek-rem"
+      ],
+      "verdict": "confirmed",
+      "note": "Cover graphic text; 320 pages; 5 hours and 12 minutes"
+    },
+    {
+      "claim": "Dreams recorded to be rewatched; next sleep is fatal; four-year-old Alysee; father murdered while she sleeps; she inherits something that could reveal the secret",
+      "sourceIds": [
+        "fitzek-rem"
+      ],
+      "verdict": "confirmed",
+      "note": "Blurb summary on REM page"
+    },
+    {
+      "claim": "Candle Girl paperback 30 December 2025; Therapy hardcover special edition 2 March 2026; Parent-teacher night paperback 1 July 2026",
+      "sourceIds": [
+        "fitzek-anniversary"
+      ],
+      "verdict": "confirmed",
+      "note": "Release dates listed on anniversary page timeline"
+    },
+    {
+      "claim": "Parent-teacher night written in the style of the book the site calls his No. 1 bestseller",
+      "sourceIds": [
+        "fitzek-anniversary"
+      ],
+      "verdict": "confirmed",
+      "note": "Site describes it as in the style of his No. 1 bestseller"
+    },
+    {
+      "claim": "Six-episode psychological thriller on Prime Video; Josy Larenz vanishes; father Viktor, psychiatrist; two years later a mysterious woman",
+      "sourceIds": [
+        "prime-therapy"
+      ],
+      "verdict": "confirmed",
+      "note": "Listing: six episodes, based on bestseller, Viktor Larenz psychiatrist, two years later"
+    },
+    {
+      "claim": "Die Einladung stage tour 2027: 11 May Deutsches Theater Munich, 6 June Jahrhunderthalle Frankfurt; novel from 2023; earlier claim of in-person appearance corrected",
+      "sourceIds": [
+        "kino-einladung"
+      ],
+      "verdict": "confirmed",
+      "note": "Tour dates, novel published 23 October 2023, correction dated 27 April 2026"
+    },
+    {
+      "claim": "GZSZ guest role, UFA studios Potsdam-Babelsberg, filmed in May; said switching sides was exciting",
+      "sourceIds": [
+        "weekend-gzsz"
+      ],
+      "verdict": "confirmed",
+      "note": "Shoot began 12 May 2026; quote on exciting switch of sides"
+    },
+    {
+      "claim": "Ambassador for The Premature Baby, Weisser Ring and ALFA self-help umbrella organisation",
+      "sourceIds": [
+        "fitzek-author"
+      ],
+      "verdict": "confirmed",
+      "note": "Author page ambassador roles"
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds the sourced author-page career details, the REM premise and specs, and the paperback timeline that the top results usually skip.",
+  "decision": "approve",
+  "summary": "Every checked claim matches its cited source. No uncited factual sentences. The body is 700+ words."
+}

@@ -1,0 +1,92 @@
+{
+  "id": "brent-spiner",
+  "name": "Brent Spiner",
+  "categories": [
+    "artists"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1949-02-02",
+      "sources": [
+        "tmdb-brent-spiner"
+      ],
+      "note": "TMDb gives February 2, 1949. No official or interview source with the birth date was found; Wikipedia gives the same date but is not cited."
+    },
+    "birthPlace": {
+      "value": "Houston, Texas, United States",
+      "sources": [
+        "tmdb-brent-spiner"
+      ],
+      "note": "TMDb gives Houston, Texas, USA."
+    },
+    "nationality": {
+      "value": [
+        "US"
+      ],
+      "sources": [
+        "latw-brent-spiner",
+        "tmdb-brent-spiner"
+      ],
+      "note": "Both pages describe him as an American actor."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "popverse-fancast-2026",
+      "url": "https://www.thepopverse.com/tv-star-trek-the-next-generation-data-fancast-tom-hiddleston-brent-spiner-tilda-swinton",
+      "title": "Star Trek: The Next Generation Data fancast Tom Hiddleston Brent Spiner Tilda Swinton",
+      "publisher": "Popverse",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "startrek-return-2019",
+      "url": "https://www.startrek.com/news/brent-spiner-reveals-surprise-at-his-return-to-star-trek",
+      "title": "Brent Spiner reveals surprise at his return to Star Trek",
+      "publisher": "StarTrek.com",
+      "type": "official",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "startrek-catching-up-2011",
+      "url": "https://www.startrek.com/en-un/news/catching-up-with-brent-spiner-part-1",
+      "title": "Catching up with Brent Spiner, part 1",
+      "publisher": "StarTrek.com",
+      "type": "official",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "syfy-reboot-interview-2021",
+      "url": "https://www.syfy.com/syfy-wire/brent-spiner-star-trek-the-next-generation-reboot-book-interview",
+      "title": "Brent Spiner talks playing evil on Star Trek and whether there should be a The Next Generation reboot",
+      "publisher": "SYFY WIRE",
+      "type": "interview",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "tmdb-brent-spiner",
+      "url": "https://www.themoviedb.org/person/1213786",
+      "title": "Brent Spiner",
+      "publisher": "The Movie Database",
+      "type": "database",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "latw-brent-spiner",
+      "url": "https://latw.org/node/1525",
+      "title": "Brent Spiner",
+      "publisher": "Los Angeles Theatre Works",
+      "type": "other",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    }
+  ]
+}

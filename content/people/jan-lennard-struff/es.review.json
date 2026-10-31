@@ -1,0 +1,266 @@
+{
+  "date": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Jan-Lennard Struff es un tenista alemán de 36 años, nacido el 25 de abril de 1990 en Warstein.",
+      "sourceIds": [
+        "wikidata-struff"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against Jan-Lennard Struff (Wikidata item Q1681537)."
+    },
+    {
+      "claim": "Ganó su primer título ATP en Múnich en 2024, a los 33 años, y en octubre de 2026 llegó a la final del European Open de Bruselas.",
+      "sourceIds": [
+        "atp-munich-2024-title",
+        "lavenir-brussels-final-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against Ganador por primera vez: Jan-Lennard Struff (Munich 2024); European Open: Tallon Griekspoor efface Jan-Lennard Struff en finale a Bruxelles."
+    },
+    {
+      "claim": "Tiene 36 años y nació el 25 de abril de 1990.",
+      "sourceIds": [
+        "wikidata-struff"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against Jan-Lennard Struff (Wikidata item Q1681537)."
+    },
+    {
+      "claim": "La vista previa de la ATP del 28 de octubre de 2026 da la misma edad.",
+      "sourceIds": [
+        "atp-basel-preview-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against Struff feature Djokovic Basel 2026."
+    },
+    {
+      "claim": "La vista previa de la ATP del 28 de octubre de 2026 lo sitúa como número 47 del mundo.",
+      "sourceIds": [
+        "atp-basel-preview-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against Struff feature Djokovic Basel 2026."
+    },
+    {
+      "claim": "Nació en Warstein, Alemania.",
+      "sourceIds": [
+        "lavercup-struff"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against Jan-Lennard Struff, Team Europe player profile."
+    },
+    {
+      "claim": "Wikidata también registra Alemania como su nacionalidad.",
+      "sourceIds": [
+        "wikidata-struff"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against Jan-Lennard Struff (Wikidata item Q1681537)."
+    },
+    {
+      "claim": "Mide 193 cm, es decir 6 pies y 4 pulgadas.",
+      "sourceIds": [
+        "lavercup-struff"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against Jan-Lennard Struff, Team Europe player profile."
+    },
+    {
+      "claim": "Juega con la mano derecha.",
+      "sourceIds": [
+        "tennisexplorer-struff"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against Struff Jan-Lennard player profile."
+    },
+    {
+      "claim": "A los 36 años, Jan-Lennard Struff llegó en julio de 2026 a los cuartos de final de un Grand Slam por primera vez, en Wimbledon, y se convirtió en el hombre de más edad de la era Open en conseguirlo.",
+      "sourceIds": [
+        "atp-wimbledon-2026-r4"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against Hurkacz-Struff, Wimbledon 2026 Sunday."
+    },
+    {
+      "claim": "Era su intento número 47 en un torneo grande.",
+      "sourceIds": [
+        "tennismajors-wimbledon-qf-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against At 36, Struff reaches a first Grand Slam quarterfinal as Hurkacz retires hurt."
+    },
+    {
+      "claim": "Struff ganó el BMW Open de Múnich el 21 de abril de 2024, con una victoria en la final ante Taylor Fritz, su primer título del circuito ATP.",
+      "sourceIds": [
+        "atp-munich-2024-title"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against Ganador por primera vez: Jan-Lennard Struff (Munich 2024)."
+    },
+    {
+      "claim": "Tenía 33 años.",
+      "sourceIds": [
+        "atp-munich-2024-title"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against Ganador por primera vez: Jan-Lennard Struff (Munich 2024)."
+    },
+    {
+      "claim": "Un informe posterior de la ATP describe aquella victoria como un título conquistado en casa.",
+      "sourceIds": [
+        "atp-brussels-semifinal-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against Struff vs Fils Brussels 2026 semi-final report."
+    },
+    {
+      "claim": "Antes de Bruselas, sus tres primeras derrotas en una final llegaron en el ATP 250 de Múnich (2021), en el Masters 1000 de Madrid (2023) y en el ATP 250 de Stuttgart (2023).",
+      "sourceIds": [
+        "lavenir-brussels-final-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against European Open: Tallon Griekspoor efface Jan-Lennard Struff en finale a Bruxelles."
+    },
+    {
+      "claim": "El 5 de julio de 2026, en la cuarta ronda, Struff perdió los dos primeros sets ante Hubert Hurkacz, por 3-6 y 6-7(5).",
+      "sourceIds": [
+        "atp-wimbledon-2026-r4"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against Hurkacz-Struff, Wimbledon 2026 Sunday."
+    },
+    {
+      "claim": "Después ganó los dos siguientes y se puso 4-2 arriba en el quinto cuando Hurkacz se retiró.",
+      "sourceIds": [
+        "atp-wimbledon-2026-r4"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against Hurkacz-Struff, Wimbledon 2026 Sunday."
+    },
+    {
+      "claim": "Ese triunfo le dio el cuarto de final ante Jannik Sinner, su primer cuarto de final en un Grand Slam.",
+      "sourceIds": [
+        "tennismajors-wimbledon-qf-2026",
+        "atp-wimbledon-2026-r4"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against At 36, Struff reaches a first Grand Slam quarterfinal as Hurkacz retires hurt; Hurkacz-Struff, Wimbledon 2026 Sunday."
+    },
+    {
+      "claim": "El sábado 24 de octubre de 2026, Struff venció por 6-4, 6-7(7), 7-6(5) al primer cabeza de serie, Arthur Fils, en la semifinal.",
+      "sourceIds": [
+        "atp-brussels-semifinal-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against Struff vs Fils Brussels 2026 semi-final report."
+    },
+    {
+      "claim": "Había remontado dos veces un break en contra en el tercer set.",
+      "sourceIds": [
+        "atp-brussels-semifinal-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against Struff vs Fils Brussels 2026 semi-final report."
+    },
+    {
+      "claim": "La ATP lo destacó como el primer alemán en llegar a la final en la historia del torneo, y como su tercera victoria ante un jugador del top 10 de ese año.",
+      "sourceIds": [
+        "atp-brussels-semifinal-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against Struff vs Fils Brussels 2026 semi-final report."
+    },
+    {
+      "claim": "El mismo informe considera la victoria una de las más importantes de su temporada, y la final era su primera final ATP desde el título de Múnich en 2024.",
+      "sourceIds": [
+        "atp-brussels-semifinal-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against Struff vs Fils Brussels 2026 semi-final report."
+    },
+    {
+      "claim": "La final, el 25 de octubre, fue para Tallon Griekspoor, por 4-6, 6-3, 6-4 tras 2 horas y 2 minutos de juego.",
+      "sourceIds": [
+        "lavenir-brussels-final-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against European Open: Tallon Griekspoor efface Jan-Lennard Struff en finale a Bruxelles."
+    },
+    {
+      "claim": "Antes del partido, L'Avenir situaba a Struff en el puesto 58 y a Griekspoor en el 60.",
+      "sourceIds": [
+        "lavenir-brussels-final-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against European Open: Tallon Griekspoor efface Jan-Lennard Struff en finale a Bruxelles."
+    },
+    {
+      "claim": "Struff llegó a Basilea con la confianza recuperada",
+      "sourceIds": [
+        "atp-basel-preview-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against Struff feature Djokovic Basel 2026."
+    },
+    {
+      "claim": "y abrió el Swiss Indoors con una victoria por 6-4, 6-3 sobre Yannick Hanfmann el miércoles 28 de octubre.",
+      "sourceIds": [
+        "atp-basel-preview-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against Struff feature Djokovic Basel 2026."
+    },
+    {
+      "claim": "La vista previa de la ATP de ese día lo sitúa como número 47 del mundo y señala que había ganado cinco de sus últimos seis partidos del circuito.",
+      "sourceIds": [
+        "atp-basel-preview-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against Struff feature Djokovic Basel 2026."
+    },
+    {
+      "claim": "Su siguiente rival era Novak Djokovic, que lidera el cara a cara 8-0.",
+      "sourceIds": [
+        "atp-basel-preview-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against Struff feature Djokovic Basel 2026."
+    },
+    {
+      "claim": "Las cifras de edad no coinciden. El informe de semifinal de la ATP lo llama de 34 años, mientras que la vista previa del 28 de octubre dice 36, que coincide con su fecha de nacimiento.",
+      "sourceIds": [
+        "atp-brussels-semifinal-2026",
+        "atp-basel-preview-2026",
+        "wikidata-struff"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against Struff vs Fils Brussels 2026 semi-final report; Struff feature Djokovic Basel 2026; Jan-Lennard Struff (Wikidata item Q1681537)."
+    },
+    {
+      "claim": "Struff mide 193 cm y es diestro.",
+      "sourceIds": [
+        "tennisexplorer-struff"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against Struff Jan-Lennard player profile."
+    },
+    {
+      "claim": "La ATP lo presenta como un alemán de saque potente.",
+      "sourceIds": [
+        "atp-basel-preview-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked on 31 Oct 2026 against Struff feature Djokovic Basel 2026."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds the dated ATP ranking, the Brussels final result and the Wimbledon comeback, and flags the conflicting age reports rather than picking one.",
+  "decision": "approve",
+  "summary": "Every cited claim matches the source opened on 31 Oct 2026. Age reports conflict (34 vs 36) and are both cited. Basel results after 28 Oct and the Djokovic result are left out as unverified."
+}

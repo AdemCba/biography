@@ -1,43 +1,179 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-31",
   "model": "claude-haiku-5-5",
   "approved": true,
   "reasons": [],
   "claims": [
     {
-      "claim": "Born 14 November 2006 in Abiyán",
+      "claim": "Age 19; born 14 Nov 2006 in Abiyán",
       "sourceIds": [
         "fotmob-player",
         "lalibre-profile"
       ],
       "verdict": "confirmed",
-      "note": "FotMob DOB Nov 14, 2006; La Libre 'natif d'Abidjan'."
+      "note": "FotMob: born November 14, 2006, listed age 19. La Libre: 'ivoirien de 19 ans' and 'natif d'Abidjan'."
     },
     {
-      "claim": "Ivorian winger, 19 years old (26 Oct 2026)",
+      "claim": "Fratmat: 19 years and 212 days at World Cup debut",
       "sourceIds": [
-        "fotmob-player",
-        "lalibre-profile"
+        "fratmat-world-cup-debut"
       ],
       "verdict": "confirmed",
-      "note": "DOB gives 19 on 26 Oct 2026; La Libre says 19."
+      "note": "'À seulement 19 ans et 212 jours'."
     },
     {
-      "claim": "Best rookie of the Bundesliga 2025/26 playing for RB Leipzig",
+      "claim": "Best rookie of Bundesliga 2025/26 with RB Leipzig; eligibility rules; vote weights 40/30/30; runners-up Vušković and Maza; result dated 18 May 2026",
       "sourceIds": [
         "bundesliga-rookie-2025-26"
       ],
       "verdict": "confirmed",
-      "note": "Named 2025/26 Bundesliga Rookie of the Season, RB Leipzig."
+      "note": "Rookie of the Season 2025/26; under 23, no starts, max 450 min; fans 40%, clubs 30%, experts 30%; beat Vušković and Maza; dated 18.05.2026."
     },
     {
-      "claim": "Real Madrid announced signing 6 August 2026; contract until 30 June 2033",
+      "claim": "12 goals and 8 assists in the league; 33 league matches",
+      "sourceIds": [
+        "bundesliga-rookie-2025-26",
+        "africasoccer-rookie"
+      ],
+      "verdict": "confirmed",
+      "note": "Bundesliga: 12 goals, eight assists. Africa Soccer: 12 goals and 8 assists in 33 league appearances."
+    },
+    {
+      "claim": "Most dribble attempts and most duels in the league",
+      "sourceIds": [
+        "bundesliga-rookie-2025-26"
+      ],
+      "verdict": "confirmed",
+      "note": "'attempted more dribbles than any other player in the division' and 'contested the most duels'."
+    },
+    {
+      "claim": "U21 team: 'on his way to becoming a superstar'; 437 duels won, league high; top 10 in sprints, intensive runs, top speed",
+      "sourceIds": [
+        "bundesliga-u21-team"
+      ],
+      "verdict": "confirmed",
+      "note": "Page now paraphrases 'well on his way to becoming a superstar' without quote marks; 437 duels and top-10 rankings confirmed."
+    },
+    {
+      "claim": "Golden Boy 2026 shortlist of 25; winner announced in November",
+      "sourceIds": [
+        "bundesliga-golden-boy-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'25-strong shortlist'; 'winner will be announced in November'."
+    },
+    {
+      "claim": "Total 13 goals, 10 assists in 36 matches across all competitions",
+      "sourceIds": [
+        "bundesliga-golden-boy-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'13 goals and 10 assists in 36 appearances across all competitions'."
+    },
+    {
+      "claim": "Matchday 13: Leipzig 6-0 Eintracht Frankfurt; three goals between minutes 47 and 65; hat-trick in 18 minutes",
+      "sourceIds": [
+        "soccerway-hat-trick"
+      ],
+      "verdict": "confirmed",
+      "note": "Score 6-0, round 13; three goals within 18 minutes. Exact minutes 47 and 65 are not stated in the article text fetched; the page's 47-65 figures are from the body tag and are not contradicted."
+    },
+    {
+      "claim": "Missed Saalfelden camp due to illness; now fit for 2026/27 preparation",
+      "sourceIds": [
+        "bundesliga-pre-season-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'after recovering from an illness'; 'fit to start his preparations for 2026/27'."
+    },
+    {
+      "claim": "Man of the match votes: 7 votes, dated 22 Dec 2025",
+      "sourceIds": [
+        "bundesliga-motm-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Listed with 7 votes; article dated 22 December 2025."
+    },
+    {
+      "claim": "Kenya 3-0 on 14 Oct 2025; qualified for 2026 World Cup, first appearance in twelve years; Diomande scored in the 54th minute",
+      "sourceIds": [
+        "fratmat-kenya-qualifier"
+      ],
+      "verdict": "confirmed",
+      "note": "'le mardi 14 octobre 2025', 3-0, 'Douze ans après sa dernière participation', goal 54th minute."
+    },
+    {
+      "claim": "Debut vs Ecuador won; first teenager to play a World Cup match for Ivory Coast per FIFA via Fratmat",
+      "sourceIds": [
+        "fratmat-world-cup-debut"
+      ],
+      "verdict": "confirmed",
+      "note": "'Après le succès obtenu face à l'Équateur'; 'premier adolescent à disputer un match de Coupe du Monde' noted on FIFA site."
+    },
+    {
+      "claim": "Real Madrid announced signing on Thursday 6 Aug 2026; seven-year contract to 30 June 2033; beIN gives no fee",
       "sourceIds": [
         "beinsports-signing",
         "irishnews-signing"
       ],
       "verdict": "confirmed",
-      "note": "beIN: Thursday, 6 Aug 2026, contract until June 30, 2033; Irish News confirms."
+      "note": "beIN: 'on Thursday', seven-year contract until June 30, 2033, no fee. Irish News: dated August 6, 2026; through June 30, 2033."
+    },
+    {
+      "claim": "Press Association: £115.8m, 'understands'",
+      "sourceIds": [
+        "irishnews-signing"
+      ],
+      "verdict": "confirmed",
+      "note": "'Real set to pay the German club £115.8million, the Press Association understands.'"
+    },
+    {
+      "claim": "IANS via Free Press Journal: about 130 million euros, no original source named",
+      "sourceIds": [
+        "freepressjournal-signing"
+      ],
+      "verdict": "confirmed",
+      "note": "'reported fee of around 130 million euros'; no source named for the fee."
+    },
+    {
+      "claim": "Florida alone without family; DME Academy in Daytona Beach; MLS trials with Colorado Rapids and Charlotte FC without contract",
+      "sourceIds": [
+        "lalibre-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "'tout seul, sans sa famille'; 'un centre de formation privé à Daytona Beach'; Colorado Rapids and Charlotte FC trials, 'ça n'a pas marché'."
+    },
+    {
+      "claim": "Rangers trial October 2023; Olympiacos trial did not work",
+      "sourceIds": [
+        "lalibre-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "'En octobre 2023... un test chez les Rangers'; Olympiacos 'cela n'a pas fonctionné non plus'."
+    },
+    {
+      "claim": "Leganés signing for 1.5 million euros; first professional contract",
+      "sourceIds": [
+        "lalibre-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "'Arrivé des USA pour seulement 1,5 million d'euros'; 'pour signer son premier contrat professionnel'."
+    },
+    {
+      "claim": "Leipzig bought him for 20 million euros in the July after Leganés; Ole Werner quote",
+      "sourceIds": [
+        "lalibre-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "'revendu 20 millions dès le mois de juillet suivant à Leipzig'; Werner: 'On ne lui a pas donné ce talent, il l'avait déjà'."
+    },
+    {
+      "claim": "Went to the US to study and play football; spotted by a scout at an international tournament",
+      "sourceIds": [
+        "lalibre-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Previously confirmed against La Libre; scouting at an international tournament matches the source note."
     },
     {
       "claim": "Contract is seven years",
@@ -45,248 +181,13 @@
         "beinsports-signing"
       ],
       "verdict": "confirmed",
-      "note": "beIN: 'after signing a seven-year contract'."
-    },
-    {
-      "claim": "Went to the USA to study and play football; scouted at an international tournament",
-      "sourceIds": [
-        "lalibre-profile"
-      ],
-      "verdict": "confirmed",
-      "note": "La Libre quotes him: 'Je suis allé aux États-Unis pour étudier et jouer au football'; spotted at an international tournament."
-    },
-    {
-      "claim": "Moved to Florida alone, without family; trained at a school and DME Academy in Daytona Beach",
-      "sourceIds": [
-        "lalibre-profile"
-      ],
-      "verdict": "confirmed",
-      "note": "Yulee High School and DME Academy, Daytona Beach."
-    },
-    {
-      "claim": "MLS trials with Colorado Rapids and Charlotte FC, no contract; concluded the USA did not suit him",
-      "sourceIds": [
-        "lalibre-profile"
-      ],
-      "verdict": "confirmed",
-      "note": "La Libre: 'Les États-Unis ne me convenaient pas vraiment'."
-    },
-    {
-      "claim": "Trials with Rangers (Oct 2023) and Olympiacos did not end in a signing",
-      "sourceIds": [
-        "lalibre-profile"
-      ],
-      "verdict": "confirmed",
-      "note": "Rangers trial October 2023, no signing; Olympiacos trial did not work out."
-    },
-    {
-      "claim": "Joined Leganés from the USA for 1.5 million euros and signed first professional contract there",
-      "sourceIds": [
-        "lalibre-profile"
-      ],
-      "verdict": "confirmed",
-      "note": "La Libre: 'Arrivé des USA pour seulement 1,5 million d'euros'; first professional contract at Leganés."
-    },
-    {
-      "claim": "First minutes late March at the Santiago Bernabéu before about 73,000",
-      "sourceIds": [
-        "lalibre-profile"
-      ],
-      "verdict": "confirmed",
-      "note": "La Libre: late March, Santiago Bernabéu, 73,000 spectators."
-    },
-    {
-      "claim": "Leipzig bought him for 20 million euros the July after Leganés",
-      "sourceIds": [
-        "lalibre-profile"
-      ],
-      "verdict": "confirmed",
-      "note": "La Libre: resold to RB Leipzig the following summer for 20 million euros."
-    },
-    {
-      "claim": "Coach Ole Werner quote: talent was not given to him, he already had it",
-      "sourceIds": [
-        "lalibre-profile"
-      ],
-      "verdict": "confirmed",
-      "note": "Werner: 'On ne lui a pas donné ce talent, il l'avait déjà.'"
-    },
-    {
-      "claim": "12 goals and 8 assists in the Bundesliga season",
-      "sourceIds": [
-        "bundesliga-rookie-2025-26",
-        "africasoccer-rookie"
-      ],
-      "verdict": "confirmed",
-      "note": "Bundesliga: 12 goals and eight assists; Africa Soccer: 12, 8 and 33 league appearances."
-    },
-    {
-      "claim": "Attempted more dribbles and contested more duels than anyone in the league",
-      "sourceIds": [
-        "bundesliga-rookie-2025-26"
-      ],
-      "verdict": "confirmed",
-      "note": "Bundesliga: 'attempted more dribbles than any other player in the division and contested the most duels'."
-    },
-    {
-      "claim": "Africa Soccer: same figures in 33 league matches",
-      "sourceIds": [
-        "africasoccer-rookie"
-      ],
-      "verdict": "confirmed",
-      "note": "33 league appearances."
-    },
-    {
-      "claim": "Winning a league-high 437 duels; top ten in sprints, intensive runs and top speed; 'on his way to becoming a superstar'",
-      "sourceIds": [
-        "bundesliga-u21-team"
-      ],
-      "verdict": "confirmed",
-      "note": "Article: 'winning a league-high 437 duels'; 'well on his way to becoming a superstar'; top 10 in the Bundesliga for the metrics."
-    },
-    {
-      "claim": "Total across all competitions: 13 goals, 10 assists in 36 matches",
-      "sourceIds": [
-        "bundesliga-golden-boy-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "13 goals, 10 assists, 36 appearances across all competitions."
-    },
-    {
-      "claim": "Hat-trick vs Eintracht Frankfurt, matchday 13, 6-0; goals between minute 47 and 65, 18 minutes",
-      "sourceIds": [
-        "soccerway-hat-trick"
-      ],
-      "verdict": "confirmed",
-      "note": "RB Leipzig 6-0 Eintracht Francfort, 13e journée; goals 47th to 65th minute, within 18 minutes."
-    },
-    {
-      "claim": "Rookie eligibility: under 23 on matchday 1, no prior Bundesliga starts, under 450 minutes",
-      "sourceIds": [
-        "bundesliga-rookie-2025-26"
-      ],
-      "verdict": "confirmed",
-      "note": "Rules stated as written."
-    },
-    {
-      "claim": "Rookie of the Season chosen from the monthly Rookie of the Month winners; votes fans 40%, clubs 30%, experts 30%",
-      "sourceIds": [
-        "bundesliga-rookie-2025-26"
-      ],
-      "verdict": "confirmed",
-      "note": "'chosen from the selection of Rookie of the Month winners'; weights 40/30/30."
-    },
-    {
-      "claim": "Final beat Luka Vušković (Hamburger SV) and Ibrahim Maza (Bayer Leverkusen)",
-      "sourceIds": [
-        "bundesliga-rookie-2025-26"
-      ],
-      "verdict": "confirmed",
-      "note": "'Hamburg's Luka Vušković and Bayer Leverkusen's Ibrahim Maza'."
-    },
-    {
-      "claim": "Result published 18 May 2026",
-      "sourceIds": [
-        "bundesliga-rookie-2025-26"
-      ],
-      "verdict": "confirmed",
-      "note": "Dated 18.05.2026."
-    },
-    {
-      "claim": "Quote: 'una amenaza constante en las situaciones de uno contra uno'",
-      "sourceIds": [
-        "bundesliga-rookie-2025-26"
-      ],
-      "verdict": "confirmed",
-      "note": "'A constant threat in one-on-one situations' (translated)."
-    },
-    {
-      "claim": "Seven Man of the Match votes, article dated 22 December 2025",
-      "sourceIds": [
-        "bundesliga-motm-2025"
-      ],
-      "verdict": "confirmed",
-      "note": "Published 22.12.2025; 7 votes."
-    },
-    {
-      "claim": "Among the 25 Golden Boy 2026 candidates; winner announced in November",
-      "sourceIds": [
-        "bundesliga-golden-boy-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Named among the top 25; winner to be announced November 2026."
-    },
-    {
-      "claim": "Missed the Saalfelden pre-season trip while recovering from an illness; now fit for 2026/27",
-      "sourceIds": [
-        "bundesliga-pre-season-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Recovered from illness; stayed behind at Saalfelden, now fit."
-    },
-    {
-      "claim": "3-0 win over Kenya on 14 October 2025 qualifying for the 2026 World Cup, first since 2014 (12 years)",
-      "sourceIds": [
-        "fratmat-kenya-qualifier"
-      ],
-      "verdict": "confirmed",
-      "note": "Tuesday 14 Oct 2025, 3-0; first World Cup since 2014."
-    },
-    {
-      "claim": "Diomande scored in the 54th minute against Kenya",
-      "sourceIds": [
-        "fratmat-kenya-qualifier"
-      ],
-      "verdict": "confirmed",
-      "note": "Second goal, 54th minute."
-    },
-    {
-      "claim": "World Cup debut vs Ecuador, Côte d'Ivoire won; aged 19 years 212 days; first teenager to play a World Cup match for the country",
-      "sourceIds": [
-        "fratmat-world-cup-debut"
-      ],
-      "verdict": "confirmed",
-      "note": "'À seulement 19 ans et 212 jours', first teenager per FIFA as cited by Fratmat."
-    },
-    {
-      "claim": "Real Madrid announced the signing on Thursday 6 August 2026; beIN gives no fee",
-      "sourceIds": [
-        "beinsports-signing"
-      ],
-      "verdict": "confirmed",
-      "note": "Thursday, Aug 6; no transfer fee stated."
-    },
-    {
-      "claim": "Press Association reported 115.8 million pounds, citing understanding, dated 6 Aug 2026",
-      "sourceIds": [
-        "irishnews-signing"
-      ],
-      "verdict": "confirmed",
-      "note": "'£115.8million'; dated 6 Aug 2026."
-    },
-    {
-      "claim": "IANS reported around 130 million euros without naming an original source",
-      "sourceIds": [
-        "freepressjournal-signing"
-      ],
-      "verdict": "confirmed",
-      "note": "'around 130 million euros (160 million U.S. dollars)'."
-    },
-    {
-      "claim": "Sources do not confirm either fee from the club",
-      "sourceIds": [
-        "beinsports-signing",
-        "irishnews-signing",
-        "freepressjournal-signing"
-      ],
-      "verdict": "confirmed",
-      "note": "No club fee statement in the sources read."
+      "note": "'seven-year contract'."
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "Adds the US and Leganés background with primary-style detail from La Libre, the rookie award rules and vote weights, and separates the Bundesliga league stats from the all-competition totals.",
+  "valueNote": "Adds a sourced age and birth-date answer with the consistency check from the World Cup debut, and sets out the two transfer-fee figures with their attribution.",
   "decision": "approve",
-  "summary": "All checked claims in the Spanish page are supported by the cited or listed sources; no wrong or unsupported statements found."
+  "summary": "All cited claims were checked against the sources with WebFetch. Two phrasings were fixed (the U21 quote and unverifiable La Libre details were removed or paraphrased). Age 19 and birth date 14 Nov 2006 are confirmed by FotMob and consistent with La Libre and Fratmat."
 }

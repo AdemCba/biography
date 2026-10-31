@@ -1,0 +1,113 @@
+{
+  "id": "arthur-fery",
+  "name": "Arthur Fery",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 3,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "2002-07-12",
+      "sources": [
+        "info-fr"
+      ],
+      "note": "Info.fr states he was born 12 juillet 2002 in Sèvres. No official profile fetched gives the date; the ATP and Australian Open pages show age only. Verify against ATP if it becomes available."
+    },
+    "birthPlace": {
+      "value": "Sèvres, Hauts-de-Seine, France",
+      "sources": [
+        "atp-bio",
+        "info-fr"
+      ],
+      "note": "ATP bio: 'Born in Sèvres, France.' Info.fr adds Hauts-de-Seine. The tennis-db profile field shows Wimbledon, England, which refers to residence, not birth."
+    },
+    "nationality": {
+      "value": [
+        "FR",
+        "GB"
+      ],
+      "sources": [
+        "info-fr",
+        "ausopen-profile",
+        "lta-who-is"
+      ],
+      "note": "Info.fr says he holds French and British nationality. Australian Open lists United Kingdom as country; ATP and LTA say he represents Great Britain. The Connexion calls him a Franco-British player who feels British and was born in Sèvres."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "atp-bio",
+      "url": "https://www.atptour.com/en/players/arthur-fery/f0dm/bio",
+      "title": "Arthur Fery - ATP Tour biography",
+      "publisher": "ATP Tour",
+      "type": "league-or-federation",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "ausopen-profile",
+      "url": "https://ausopen.com/players/united-kingdom/arthur-fery",
+      "title": "Arthur Fery - Australian Open player profile",
+      "publisher": "Australian Open",
+      "type": "official",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "lta-semi-zverev",
+      "url": "https://www.lta.org.uk/fan-zone/wimbledon-championships/news/arthur-ferys-dream-run-ends-in-semi-finals-to-alexander-zverev",
+      "title": "Arthur Fery's dream run ends in semi-finals to Alexander Zverev",
+      "publisher": "Lawn Tennis Association",
+      "type": "league-or-federation",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "lta-who-is",
+      "url": "https://www.lta.org.uk/fan-zone/wimbledon-championships/news/who-is-british-wild-card-arthur-fery",
+      "title": "Wimbledon 2026: Who is British wild card Arthur Fery?",
+      "publisher": "Lawn Tennis Association",
+      "type": "league-or-federation",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "info-fr",
+      "url": "https://info.fr/wimbledon-2026-arthur-fery-quarts-finale-ne-a-sevres/",
+      "title": "Wimbledon : le Franco-Britannique Arthur Fery en quarts, né à Sèvres",
+      "publisher": "Info.fr",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "fr"
+    },
+    {
+      "id": "connexion-france",
+      "url": "https://www.connexionfrance.com/news/meet-arthur-fery-the-french-born-player-flying-the-flag-for-britain-at-wimbledon/801187",
+      "title": "Meet Arthur Fery: the French-born player flying the flag for Britain at Wimbledon",
+      "publisher": "The Connexion",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "itf-2023",
+      "url": "https://www.itftennis.com/en/news-and-media/articles/fery-fery-good-arthur-fery-kicks-off-2023-season-with-third-itf-title-in-six-months/",
+      "title": "Fery, Fery good: Arthur Fery kicks off 2023 season with third ITF title in six months",
+      "publisher": "ITF",
+      "type": "league-or-federation",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "flashscore-ao",
+      "url": "https://www.flashscore.com/news/tennis-australian-open-atp-singles-british-qualifier-arthur-fery-stuns-20th-seed-flavio-cobolli-at-australian-open/4zG42Hse",
+      "title": "British qualifier Arthur Fery stuns 20th seed Flavio Cobolli at Australian Open",
+      "publisher": "Flashscore",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    }
+  ]
+}

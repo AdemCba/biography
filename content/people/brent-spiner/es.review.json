@@ -1,0 +1,207 @@
+{
+  "date": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Actor estadounidense conocido por el Teniente Comandante Data en La nueva generación",
+      "sourceIds": [
+        "tmdb-brent-spiner",
+        "latw-brent-spiner"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb: best known for Lieutenant Commander Data in TNG; LATW: American actor."
+    },
+    {
+      "claim": "Nacido el 2 de febrero de 1949 en Houston, Texas; 77 años",
+      "sourceIds": [
+        "tmdb-brent-spiner"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb birthday and birthplace."
+    },
+    {
+      "claim": "En junio de 2026, en un panel de Spacecon, dijo que sigue prefiriendo a Tilda Swinton",
+      "sourceIds": [
+        "popverse-fancast-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Popverse, 24 June 2026, quote from Spacecon 2026 panel."
+    },
+    {
+      "claim": "Spacecon del 12 al 14 de junio de 2026 en San Antonio (Texas)",
+      "sourceIds": [
+        "popverse-fancast-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Popverse lists the dates and location."
+    },
+    {
+      "claim": "Popverse informó de que no se planea cambiar de actor para Data",
+      "sourceIds": [
+        "popverse-fancast-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Article says no recasting is planned."
+    },
+    {
+      "claim": "«Hay una espada de doble filo...» (SYFY WIRE, 2021)",
+      "sourceIds": [
+        "syfy-reboot-interview-2021"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote in 2021 interview, published 16 February 2021."
+    },
+    {
+      "claim": "Tenía 38 años al empezar a interpretar a Data (StarTrek.com, 2011)",
+      "sourceIds": [
+        "startrek-catching-up-2011"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote 'I was 38 when I started playing Data.'"
+    },
+    {
+      "claim": "Serie empezó en 1987, 176 episodios como Data",
+      "sourceIds": [
+        "tmdb-brent-spiner"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb: TNG 1987, 176 episodes as Data."
+    },
+    {
+      "claim": "«un episodio de siete años que seguía y seguía»",
+      "sourceIds": [
+        "startrek-catching-up-2011"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote present."
+    },
+    {
+      "claim": "Con diez años menos podría haber interpretado el papel durante treinta",
+      "sourceIds": [
+        "startrek-catching-up-2011"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote 'If I was 10 years younger, I could play this for 30 years.'"
+    },
+    {
+      "claim": "Quotes on the workload and on rewatching (solo ha visto los primeros veinte)",
+      "sourceIds": [
+        "startrek-catching-up-2011"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes present."
+    },
+    {
+      "claim": "Interpretó a Lore, el hermano malvado de Data; «porque soy malvado»",
+      "sourceIds": [
+        "syfy-reboot-interview-2021"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes present in 2021 interview."
+    },
+    {
+      "claim": "«Era todo un solo personaje, aunque los Soong fueran humanos»",
+      "sourceIds": [
+        "syfy-reboot-interview-2021"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote present."
+    },
+    {
+      "claim": "Doctor Arik Soong en Enterprise, tres episodios en 2004; hermanos Soong en Picard",
+      "sourceIds": [
+        "tmdb-brent-spiner"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb credits."
+    },
+    {
+      "claim": "Cuatro películas: Generations (1994), First Contact (1996), Insurrection (1998), Nemesis (2002)",
+      "sourceIds": [
+        "tmdb-brent-spiner"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb credits with years."
+    },
+    {
+      "claim": "Formó parte del equipo que escribió la historia de Nemesis; la muerte de Data parecía cerrar el arco",
+      "sourceIds": [
+        "startrek-return-2019"
+      ],
+      "verdict": "confirmed",
+      "note": "Article reports both points."
+    },
+    {
+      "claim": "«Pensé que era el camino correcto»",
+      "sourceIds": [
+        "startrek-return-2019"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote 'I thought it was the right way to go'."
+    },
+    {
+      "claim": "Picard, 2020 a 2022, como Data y los hermanos Soong; Lower Decks 2024 voz de Data",
+      "sourceIds": [
+        "tmdb-brent-spiner"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb credits."
+    },
+    {
+      "claim": "Aceptó que su etapa en Star Trek había terminado antes de la oferta de Picard (Destination Star Trek Birmingham, 2019)",
+      "sourceIds": [
+        "startrek-return-2019"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated 28 October 2019."
+    },
+    {
+      "claim": "«Supuse que querían que interpretara a Picard porque puedo»",
+      "sourceIds": [
+        "startrek-return-2019"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote present."
+    },
+    {
+      "claim": "Papeles en Broadway: Hank, Hubert, John Adams, Duque, Aramis, Franz y Dennis",
+      "sourceIds": [
+        "latw-brent-spiner"
+      ],
+      "verdict": "confirmed",
+      "note": "LATW lists these roles without years."
+    },
+    {
+      "claim": "En 1996 interpretó al doctor Brackish Okun en Independence Day",
+      "sourceIds": [
+        "tmdb-brent-spiner"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb bio."
+    },
+    {
+      "claim": "Big Bang Theory: «No es ni siquiera un cameo. Es un cam»; «No era nada comparado con lo que hacía en Star Trek»",
+      "sourceIds": [
+        "startrek-catching-up-2011"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes present in 2011 interview."
+    },
+    {
+      "claim": "Fresh Hell: versión ficticia de sí mismo; «una sit-trag...»; nunca se le ha dado bien interpretarse a sí mismo",
+      "sourceIds": [
+        "startrek-catching-up-2011"
+      ],
+      "verdict": "confirmed",
+      "note": "Interview describes the series and quotes."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Sourced quotes, a dated June 2026 comment and the verified career list give more than the usual age and birthplace results.",
+  "decision": "approve",
+  "summary": "Each claim matches the cited source in this language; the translated quotes match the English originals in the sources."
+}

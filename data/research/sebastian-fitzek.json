@@ -1,0 +1,102 @@
+{
+  "worthWriting": true,
+  "reason": "Germany's best-selling thriller author with a new novel out on 21 Oct 2026, a 20th anniversary year and a co-written 2026 horror thriller. Enough sourced facts for a full page.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "droemer-nachtzug",
+      "url": "https://www.droemer-knaur.de/buch/sebastian-fitzek-der-nachtzug-9783426283226",
+      "title": "Der Nachtzug (release listing)",
+      "publisher": "Verlagsgruppe Droemer Knaur",
+      "type": "company",
+      "lang": "de"
+    },
+    {
+      "id": "fitzek-official",
+      "url": "https://www.sebastianfitzek.de/",
+      "title": "Sebastian Fitzek - Willkommen in der Fitzek World",
+      "publisher": "Sebastian Fitzek",
+      "type": "official",
+      "lang": "de"
+    },
+    {
+      "id": "fitzek-author",
+      "url": "https://sebastianfitzek.de/en/author/",
+      "title": "Author - Sebastian Fitzek",
+      "publisher": "Sebastian Fitzek",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "fitzek-rem",
+      "url": "https://sebastianfitzek.de/en/book/rem/",
+      "title": "REM - Sebastian Fitzek and Annika Strauss",
+      "publisher": "Sebastian Fitzek",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "deutsche-biographie",
+      "url": "https://deutsche-biographie.de/122093801.html",
+      "title": "Fitzek, Sebastian",
+      "publisher": "Deutsche Biographie",
+      "type": "database",
+      "lang": "de"
+    },
+    {
+      "id": "tt-innsbruck",
+      "url": "https://www.tt.com/artikel/30945072/der-nachtzug-steuert-bald-auch-innsbruck-an",
+      "title": "Schnitzeljagd auf Schienen: Der Nachtzug steuert bald auch Innsbruck an",
+      "publisher": "Tiroler Tageszeitung",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "news-at-jubilee",
+      "url": "https://www.news.at/schlagzeilen/fitzek-feiert-autorenjubilaum-mit-shows-in-berlin",
+      "title": "Fitzek feiert Autorenjubiläum mit Shows in Berlin",
+      "publisher": "news.at",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "volksstimme-nachtzug",
+      "url": "https://www.volksstimme.de/kultur/nachster-halt-fitzek-der-neue-psychothriller-der-nachtzug-4341264",
+      "title": "Nächster Halt Fitzek: Der neue Psychothriller Der Nachtzug",
+      "publisher": "Volksstimme",
+      "type": "press",
+      "lang": "de"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1971-10-13",
+      "sources": [
+        "deutsche-biographie"
+      ],
+      "note": "Deutsche Biographie lists Lebensdaten 1971-10-13. Other press also gives 13 October 1971."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Berlin",
+      "sources": [
+        "deutsche-biographie"
+      ],
+      "note": "Listed as Geburtsort Berlin. Some encyclopedias say West Berlin; the page says Berlin."
+    },
+    "nationality": null
+  },
+  "targetQueries": [
+    "who is sebastian fitzek",
+    "sebastian fitzek age",
+    "sebastian fitzek books",
+    "sebastian fitzek der nachtzug",
+    "sebastian fitzek therapy",
+    "sebastian fitzek books in order",
+    "sebastian fitzek rem",
+    "sebastian fitzek innsbruck"
+  ],
+  "gapNote": "Top results mix Wikipedia with reading-order lists. This page can give one clear answer: the age from a verified birth date, the new novel's release date from the publisher and the author's own site, the 2026 anniversary and REM with its co-author. Nationality could not be sourced explicitly; the official site only says Germany's best-selling thriller author, so nationality is left out."
+}

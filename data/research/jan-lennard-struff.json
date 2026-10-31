@@ -1,0 +1,99 @@
+{
+  "worthWriting": true,
+  "reason": "Active German top-50 ATP player with a 2026 Brussels final, a Wimbledon quarter-final and a Munich 2024 title, all covered by ATP Tour pages and dated press. Birth date and birthplace are confirmed by three independent databases and profiles.",
+  "wikidata": "Q1681537",
+  "importance": 2,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "atp-basel-preview-2026",
+      "url": "https://www.atptour.com/en/news/struff-feature-djokovic-basel-2026",
+      "title": "Struff feature Djokovic Basel 2026",
+      "publisher": "ATP Tour",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "atp-brussels-semifinal-2026",
+      "url": "https://www.atptour.com/en/news/struff-fils-brussels-2026-saturday-sf",
+      "title": "Struff vs Fils Brussels 2026 semi-final report",
+      "publisher": "ATP Tour",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "lavenir-brussels-final-2026",
+      "url": "https://www.lavenir.net/sports/tennis/2026/10/25/european-open-tallon-griekspoor-efface-jan-lennard-struff-en-finale-a-bruxelles-CQ4UHYSP2VD3XOQFHG2UODFGOA/",
+      "title": "European Open: Tallon Griekspoor efface Jan-Lennard Struff en finale a Bruxelles",
+      "publisher": "L'Avenir",
+      "type": "press",
+      "lang": "fr"
+    },
+    {
+      "id": "wikidata-struff",
+      "url": "https://www.wikidata.org/wiki/Q1681537",
+      "title": "Jan-Lennard Struff (Wikidata item Q1681537)",
+      "publisher": "Wikidata",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "tennisexplorer-struff",
+      "url": "https://www.tennisexplorer.com/player/struff/?annual=all&surface=5",
+      "title": "Struff Jan-Lennard player profile",
+      "publisher": "Tennis Explorer",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "lavercup-struff",
+      "url": "https://lavercup.com/player/jan-lennard-struff",
+      "title": "Jan-Lennard Struff, Team Europe player profile",
+      "publisher": "Laver Cup",
+      "type": "other",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1990-04-25",
+      "sources": [
+        "wikidata-struff",
+        "tennisexplorer-struff"
+      ],
+      "note": "Wikidata and Tennis Explorer both give 25 April 1990. The ATP semi-final report says he is 34, but the ATP preview of 28 Oct 2026 says 36, which matches this date. The ATP player bio page was not usable (it renders another player)."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Warstein, Germany",
+      "sources": [
+        "lavercup-struff",
+        "wikidata-struff"
+      ],
+      "note": "Wikidata gives Warstein (P19). Laver Cup lists Warstein, Germany. A Tennis Explorer page does not state a birthplace."
+    },
+    "nationality": {
+      "value": "DE",
+      "sources": [
+        "wikidata-struff",
+        "lavercup-struff"
+      ],
+      "note": "Wikidata gives Germany as country of citizenship. Laver Cup lists his country as GER."
+    }
+  },
+  "targetQueries": [
+    "jan-lennard struff ranking",
+    "jan lennard struff age",
+    "jan-lennard struff height",
+    "jan-lennard struff atp",
+    "jan-lennard struff score",
+    "jan-lennard struff stats",
+    "jan lennard struff wimbledon",
+    "jan lennard struff alexander bublik",
+    "jan lennard struff alexander shevchenko",
+    "jan-lennard struff alejandro tabilo",
+    "jan lennard struff prediction",
+    "jan-lennard struff vs mariano navone"
+  ],
+  "gapNote": "Most results are match previews and betting pages. Our page can give the career facts (birth date, birthplace, Brussels final, Munich 2024 title, Wimbledon quarter-final) with ATP and dated sources, and mark the ranking with its date. The Basel results after 28 Oct 2026 are unverified and left out. The ATP results page shows a Djokovic win that no other source confirms."
+}
