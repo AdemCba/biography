@@ -4,7 +4,7 @@
   "approved": false,
   "reasons": [
     "Prose reads machine-written",
-    "Reviewer recommends rejection: Facts match the cited sources after the corrections, including the attribution of the sequencing and executive-production credit to Questlove. The remaining issue is style: the German page mirrors the English structure sentence by sentence, which the style guide treats as a translation. Not rewritten here because the brief excludes style rewrites."
+    "Reviewer recommends rejection: [de page] All checked facts match the cited sources; no factual fix needed. Remaining issue is style only: the page mirrors the English structure sentence by sentence."
   ],
   "claims": [
     {
@@ -14,143 +14,127 @@
         "television-academy-common"
       ],
       "verdict": "confirmed",
-      "note": "Both sources give date and place; artist page gives birth name."
+      "note": "Grammy artist page gives birth name, date and place; TV Academy gives March 13 and Chicago, Illinois."
     },
     {
-      "claim": "Common is the first rapper with a Grammy, an Oscar and an Emmy; Recording Academy news item dated 14 September 2017",
+      "claim": "First rapper to win a Grammy, an Oscar and an Emmy",
       "sourceIds": [
         "grammy-first-rapper-emmy-oscar"
       ],
       "verdict": "confirmed",
-      "note": "Source confirms the first-rapper claim and the publication date September 14, 2017."
+      "note": "Article headline and text: first rapper to take home a GRAMMY, an Oscar, and an Emmy."
     },
     {
-      "claim": "Fourth studio album as a major career high; Common calls the period one of the greatest times of his life",
+      "claim": "Like Water for Chocolate is his fourth studio album and a career high; quoted 'one of the greatest times in my life'",
       "sourceIds": [
         "grammy-qa-like-water-for-chocolate"
       ],
       "verdict": "confirmed",
-      "note": "Source: 'His fourth album Like Water For Chocolate'; 'one of the greatest times in my life.' German rendering is faithful."
+      "note": "Interview calls it his fourth album and a major career high; English original is 'Man, this was one of the greatest times in my life'. The Spanish, Portuguese, German and French quotes are faithful renderings."
     },
     {
-      "claim": "Title from the film Like Water for Chocolate; people cooking and showing love; wanted something similar in music",
+      "claim": "Album title comes from a film whose concept was people cooking and showing love",
       "sourceIds": [
         "grammy-qa-like-water-for-chocolate"
       ],
       "verdict": "confirmed",
-      "note": "Source: 'people cooking food and showing their love'; 'showing it through the music'."
+      "note": "Interview describes the film concept. The article gives no year, so nothing is contradicted."
     },
     {
-      "claim": "The Light was the first hit and the first song on mainstream radio",
+      "claim": "'The Light' was the album's first hit and his first song on mainstream radio",
       "sourceIds": [
         "grammy-qa-like-water-for-chocolate"
       ],
       "verdict": "confirmed",
-      "note": "Source: 'his first hit (The Light)'; 'the first song that I had on the radio, on mainstream radio.'"
+      "note": "Interview: 'That was the first song that I had on the radio, on mainstream radio'."
     },
     {
-      "claim": "He knew it sounded good but never knew what it would become (quote translated)",
-      "sourceIds": [
-        "grammy-qa-like-water-for-chocolate"
-      ],
-      "verdict": "confirmed",
-      "note": "Source: 'I knew it sounded great but I never knew what it would get to be.' German is a faithful translation."
-    },
-    {
-      "claim": "The Light listed under Best Rap Solo Performance in 2001",
+      "claim": "'The Light' nominated Best Rap Solo Performance, 2001",
       "sourceIds": [
         "grammy-artist-common"
       ],
       "verdict": "confirmed",
-      "note": "Artist page lists 2001 Best Rap Solo Performance for The Light, with no label; wording now says listed, not nominated."
+      "note": "Grammy artist page lists 2001 Best Rap Solo Performance for The Light (nominee)."
     },
     {
-      "claim": "Femi Kuti is on the record; Common says getting him was incredible (unglaublich)",
+      "claim": "Femi Kuti appears on the album; getting him was 'incredible'",
       "sourceIds": [
         "grammy-qa-like-water-for-chocolate"
       ],
       "verdict": "confirmed",
-      "note": "Source: 'To get him on it was incredible.' Translation is faithful."
+      "note": "Interview: Femi Kuti on the album, Common calls it incredible."
     },
     {
-      "claim": "Geto Heaven was created for D'Angelo; D'Angelo wanted Chicken Grease and offered something in return",
+      "claim": "'Geto Heaven' was made for D'Angelo; D'Angelo wanted 'Chicken Grease' and offered something in return; Common got D'Angelo onto 'Geto Heaven'",
       "sourceIds": [
         "grammy-qa-like-water-for-chocolate"
       ],
       "verdict": "confirmed",
-      "note": "Source: 'Geto Heaven was actually created for D'Angelo'; 'Can I get Chicken Grease and I'll give you something.'"
+      "note": "Interview states each point."
     },
     {
-      "claim": "Common says he got D'Angelo on Geto Heaven",
+      "claim": "'Chicken Grease' would have fitted Common's own work like 'Cold Blooded' before it ended on D'Angelo's Voodoo",
       "sourceIds": [
         "grammy-qa-like-water-for-chocolate"
       ],
       "verdict": "confirmed",
-      "note": "Source: 'I got him on Geto Heaven.'"
+      "note": "Interview: Chicken Grease would have fit 'the same lane as Cold Blooded'; it ended on Voodoo."
     },
     {
-      "claim": "Chicken Grease would have been Common's, in the lane of Cold Blooded, before it went to D'Angelo's Voodoo",
+      "claim": "Questlove sequenced the album and executive-produced it",
       "sourceIds": [
         "grammy-qa-like-water-for-chocolate"
       ],
       "verdict": "confirmed",
-      "note": "Source: 'would have been for me in the same lane as Cold Blooded'; 'the song on D'Angelo's Voodoo, Chicken Grease'."
+      "note": "Interview: Questlove sequenced the album and 'truly executive-produced' it."
     },
     {
-      "claim": "Common says Questlove set the track order and truly executive-produced the album",
+      "claim": "A&R Wendy Goldstein introduced him to his acting coach",
       "sourceIds": [
         "grammy-qa-like-water-for-chocolate"
       ],
       "verdict": "confirmed",
-      "note": "Source: 'Ahmir did the sequencing... he truly executive-produced that album.' Attribution corrected to Ahmir/Questlove as the subject."
+      "note": "Interview: 'My A&R Wendy Goldstein actually introduced me to my acting coach'."
     },
     {
-      "claim": "Wendy Goldstein, his A&R, introduced him to his acting coach",
-      "sourceIds": [
-        "grammy-qa-like-water-for-chocolate"
-      ],
-      "verdict": "confirmed",
-      "note": "Source: 'My A&R Wendy Goldstein actually introduced me to my acting coach.'"
-    },
-    {
-      "claim": "Best Original Song at the 87th Academy Awards: Glory from Selma; credited to John Stephens (John Legend) and Lonnie Lynn (Common)",
+      "claim": "Glory won Best Original Song at the 87th Academy Awards, credited to John Stephens and Lonnie Lynn",
       "sourceIds": [
         "oscars-2015-ceremony"
       ],
       "verdict": "confirmed",
-      "note": "Source: 'Glory' from Selma; Music and Lyric by John Stephens and Lonnie Lynn. Legend/Common names appear in the page caption."
+      "note": "Oscars.org: Glory from Selma, music and lyric by John Stephens and Lonnie Lynn, 87th Academy Awards (22 Feb 2015)."
     },
     {
-      "claim": "Television Academy lists a 2015 Golden Globe win for Best Original Song",
+      "claim": "Glory won the 2015 Golden Globe for Best Original Song",
       "sourceIds": [
         "television-academy-common"
       ],
       "verdict": "confirmed",
-      "note": "Source: 'won the 2015 Golden Globe Award for Best Original Song' for Glory."
+      "note": "TV Academy: 2015 Best Original Song winner, Glory from Selma."
     },
     {
-      "claim": "2016 Grammys: Glory nominated for Best Rap Song and Best Rap/Sung Collaboration, won Best Song Written for Visual Media",
+      "claim": "At the 2016 Grammys Glory was nominated for Best Rap Song and Best Rap/Sung Collaboration and won Best Song Written for Visual Media",
       "sourceIds": [
         "grammy-artist-common"
       ],
       "verdict": "confirmed",
-      "note": "Artist page marks those labels as stated."
+      "note": "Grammy artist page lists all three entries with those statuses."
     },
     {
-      "claim": "Common played civil rights leader James Bevel in Selma, a 2014 film",
+      "claim": "Played civil rights leader James Bevel in Selma (2014)",
       "sourceIds": [
         "television-academy-common"
       ],
       "verdict": "confirmed",
-      "note": "Source: 'co-starred as Civil Rights Movement leader James Bevel' in Selma (2014)."
+      "note": "TV Academy film credits: Selma (2014), as James Bevel."
     },
     {
-      "claim": "2017 Primetime Emmy for Outstanding Original Music and Lyrics for Letter to the Free, listed under the show 13th with Netflix as platform",
+      "claim": "2017 Primetime Emmy for Outstanding Original Music and Lyrics for 'Letter to the Free' from 13th (Netflix)",
       "sourceIds": [
         "television-academy-common"
       ],
       "verdict": "confirmed",
-      "note": "Source: Outstanding Original Music And Lyrics - 2017, show 13th, song Letter To The Free, platform Netflix."
+      "note": "TV Academy lists the 2017 win for 13th, Netflix platform not separately stated but song credited to 13th."
     },
     {
       "claim": "Shared the Emmy with Robert Glasper and Karriem Riggins",
@@ -158,31 +142,31 @@
         "grammy-first-rapper-emmy-oscar"
       ],
       "verdict": "confirmed",
-      "note": "Source: 'shared the honor with GRAMMY-winner Robert Glasper and Karriem Riggins.'"
+      "note": "Article: Common shared the honor with Robert Glasper and Karriem Riggins."
     },
     {
-      "claim": "One Emmy nomination, which was the win",
+      "claim": "One Emmy nomination in total, which was the win",
       "sourceIds": [
         "television-academy-common"
       ],
       "verdict": "confirmed",
-      "note": "Page shows 1 nomination and 1 Emmy."
+      "note": "TV Academy: 1 nomination, 1 win."
     },
     {
-      "claim": "Emmy leaves him one Tony short of EGOT; club has 13 members so far",
+      "claim": "The Emmy left him one Tony from EGOT, a club of 13 members at that time",
       "sourceIds": [
         "grammy-first-rapper-emmy-oscar"
       ],
       "verdict": "confirmed",
-      "note": "Source: 'one Tony short of EGOT'; 'only 13 members so far.'"
+      "note": "Article: one Tony win away from the so-called EGOT, an elite club with only 13 members so far."
     },
     {
-      "claim": "Best Rap Album nominations: 2006 Be, 2008 Finding Forever, 2010 Universal Mind Control, 2015 Nobody's Smiling, 2025 The Auditorium, Vol. 1",
+      "claim": "Grammy Best Rap Album nominations: Be (2006), Finding Forever (2008), Universal Mind Control (2010), Nobody's Smiling (2015), The Auditorium, Vol. 1 (2025)",
       "sourceIds": [
         "grammy-artist-common"
       ],
       "verdict": "confirmed",
-      "note": "All five entries appear under Best Rap Album with those years. Nominations are marked for 2010, 2015 and 2025; 2006 and 2008 carry no label."
+      "note": "All five appear as Best Rap Album nominees with those years."
     },
     {
       "claim": "Southside listed for 2008 in Best Rap Performance by a Duo or Group",
@@ -190,103 +174,71 @@
         "grammy-artist-common"
       ],
       "verdict": "confirmed",
-      "note": "Entry present for 2008, unlabelled. Wording now says listed."
+      "note": "Grammy artist page: 2008 nominee."
     },
     {
-      "claim": "Three wins and 22 nominations in total",
+      "claim": "Totals of three wins and 22 nominations",
       "sourceIds": [
         "grammy-artist-common"
       ],
       "verdict": "confirmed",
-      "note": "Page totals: 3 wins and 22 nominations."
+      "note": "Grammy artist page: 3 wins, 22 nominations."
     },
     {
-      "claim": "Television Academy bio lists the film titles, and Common narrated Bouncing Cats",
+      "claim": "Filmography (Smokin' Aces through Smallfoot) and narration of Bouncing Cats",
       "sourceIds": [
         "television-academy-common"
       ],
       "verdict": "confirmed",
-      "note": "Film list matches. Page text: 'He also narrated the documentary Bouncing Cats' (verified on a second fetch)."
+      "note": "All listed credits appear on the TV Academy page, including Bouncing Cats (narrator)."
     },
     {
-      "claim": "Pete Rock and Common first worked together nearly 30 years before, on the 1996 diss track The Bitch In Yoo",
+      "claim": "Pete Rock and Common first worked together nearly 30 years earlier on 'The Bitch In Yoo' (1996); The Auditorium, Vol. 1 is both artists' first full-length release since 2021",
       "sourceIds": [
         "complex-the-auditorium-vol-1"
       ],
       "verdict": "confirmed",
-      "note": "Source: 'Nearly 30 years since they first collaborated on Common's classic 1996 diss track The Bitch In Yoo.'"
+      "note": "Complex article states both points."
     },
     {
-      "claim": "The Auditorium, Vol. 1 is both artists' first full-length release since 2021",
+      "claim": "Common has said there may be a second volume",
       "sourceIds": [
         "complex-the-auditorium-vol-1"
       ],
       "verdict": "confirmed",
-      "note": "Source: 'first full-length offerings since 2021.'"
+      "note": "Complex reports Common telling People that there may be a second volume. The quote originates with People, so the citation is secondhand but accurate."
     },
     {
-      "claim": "Common has said a second volume is possible",
-      "sourceIds": [
-        "complex-the-auditorium-vol-1"
-      ],
-      "verdict": "confirmed",
-      "note": "Source quotes Common to People: 'there may be a second volume.'"
-    },
-    {
-      "claim": "2025 Best Rap Album nomination; When the Sun Shines Again nominated for Best Rap Performance",
+      "claim": "The Auditorium, Vol. 1 nominated for Best Rap Album (2025); 'When the Sun Shines Again' nominated for Best Rap Performance",
       "sourceIds": [
         "grammy-artist-common"
       ],
       "verdict": "confirmed",
-      "note": "Both entries are marked nominations in 2025."
+      "note": "Both 2025 nominations listed."
     },
     {
-      "claim": "Television Academy lists the 2003 Best R&B Song Grammy for Love of My Life and a Best Rap Performance by a Duo or Group Grammy for Southside, without a year",
+      "claim": "Love of My Life won the 2003 Best R&B Song Grammy and was his first career Grammy",
       "sourceIds": [
-        "television-academy-common"
-      ],
-      "verdict": "confirmed",
-      "note": "Source: 'won the Grammy Award for Best R&B Song for ... Love of My Life'; 'second Grammy Award for Best Rap Performance by a Duo or Group for Southside'. No year."
-    },
-    {
-      "claim": "Recording Academy artist page names Love of My Life as his first career Grammy",
-      "sourceIds": [
+        "television-academy-common",
         "grammy-artist-common"
       ],
       "verdict": "confirmed",
-      "note": "Source biography: 'Common won his first career GRAMMY for Best R&B Song.'"
+      "note": "TV Academy lists it as 2003 winner; Grammy artist page quotes the bio saying it was his first career GRAMMY."
     },
     {
-      "claim": "Artist page lists Southside under 2008 without marking it as a win",
+      "claim": "Southside is a Grammy win listed without a year by the TV Academy, but not marked as a win on the Grammy artist page, so the win is disputed",
       "sourceIds": [
+        "television-academy-common",
         "grammy-artist-common"
       ],
       "verdict": "confirmed",
-      "note": "2008 Southside entry is unlabelled."
-    },
-    {
-      "claim": "FAQ: artist page gives three wins and 22 nominations, names Love of My Life (2003) as his first Grammy and marks Glory (2016) as a win",
-      "sourceIds": [
-        "grammy-artist-common"
-      ],
-      "verdict": "confirmed",
-      "note": "Totals, first career Grammy and the Glory 2016 win all match the page."
-    },
-    {
-      "claim": "Metadescription and summary: 2025 Grammy nomination for The Auditorium, Vol. 1; Oscar for Glory; Emmy for Letter to the Free; films American Gangster, Wanted, John Wick: Chapter 2",
-      "sourceIds": [
-        "grammy-artist-common",
-        "oscars-2015-ceremony",
-        "television-academy-common"
-      ],
-      "verdict": "confirmed",
-      "note": "All match the sources."
+      "note": "The two sources disagree as the article says; the page correctly labels it disputed rather than picking one."
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": false,
   "addsValue": true,
-  "valueNote": "Flags the conflicting Grammy records and cites primary sources. The German version follows the English article section by section and sentence by sentence, which the style guide counts as a translation. Its facts now match the sources.",
+  "valueNote": "Adds the disputed Southside win, the EGOT remark and interview detail from the Recording Academy that the usual top results do not carry.",
   "decision": "reject",
-  "summary": "Facts match the cited sources after the corrections, including the attribution of the sequencing and executive-production credit to Questlove. The remaining issue is style: the German page mirrors the English structure sentence by sentence, which the style guide treats as a translation. Not rewritten here because the brief excludes style rewrites."
+  "summary": "[de page] All checked facts match the cited sources; no factual fix needed. Remaining issue is style only: the page mirrors the English structure sentence by sentence."
 }

@@ -11,9 +11,12 @@ summary: >-
   the 1996 United States team. He coaches the men's basketball team at the
   University of Memphis, and in March 2026 the school said he would return for
   the next season after a 13-19 year.
-status: review
+status: published
 risk: medium
+reviewedAt: '2026-10-31'
+reviewBy: '2027-05-01'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - penny hardaway shoes
@@ -40,16 +43,9 @@ faq:
     a: >-
       Across 14 NBA seasons he scored 10,684 points, grabbed 3,146 rebounds and
       recorded 3,525 assists, according to Basketball-Reference.
-flag: Rejected by the fact-check 4 times; needs a human editor.
-reviewNotes: >-
-  11 of 38 claims could not be checked (source unreachable) | Reviewer
-  recommends rejection: Reject for now: Basketball-Reference (bbref-hardaway)
-  returned HTTP 403 for every attempt, so the career totals, All-Star and
-  All-NBA years, draft pick, height/weight, positions, high school and the 1971
-  birth year are unverified. All other claims were checked against opened
-  sources. Fix: re-check once bbref is reachable, or cite a different source for
-  those facts.
-autoReviews: 4
+autoReviews: 5
+publishedAt: '2026-10-31'
+publishedTime: '2026-10-31T16:45:45.924Z'
 ---
 Anfernee Hardaway, known as Penny, was born in Memphis. Basketball-Reference lists him as a 6-foot-7 guard from Treadwell High School who was born in Memphis, Tennessee [s:bbref-hardaway]. Since 2018 he has coached the University of Memphis Tigers, the team he played for as a student [s:si-hardaway-hire-2018].
 

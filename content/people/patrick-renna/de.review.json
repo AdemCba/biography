@@ -4,239 +4,161 @@
   "approved": false,
   "reasons": [
     "Prose reads machine-written",
-    "Reviewer recommends rejection: Facts confirmed against sources; the German prose still reads as a translation. Style judgement left for an editor."
+    "Reviewer recommends rejection: Factual problems fixed: Dugout Dads premise now 'starts coaching' per source; two unsupported Boston.com clauses removed. Style still reads as translated, so the page stays rejected for the editor."
   ],
   "claims": [
     {
-      "claim": "Geboren am 3. März 1979 in Boston (Text, metaDescription, FAQ-Alter)",
+      "claim": "Geburtsdatum 3. März 1979 (Alter 47 am 31.10.2026)",
       "sourceIds": [
         "apple-snapshot"
       ],
       "verdict": "confirmed",
-      "note": "Apple: birth date 1979-03-03; 'From: Boston, MA'."
+      "note": "Apple: birth date March 3, 1979. 47 years on 2026-10-31 is correct."
     },
     {
-      "claim": "Bekannt als Hamilton 'Ham' Porter in The Sandlot (1993)",
+      "claim": "Geboren in Boston; US-Schauspieler",
+      "sourceIds": [
+        "apple-snapshot",
+        "boston-com-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Apple: From Boston, MA; description 'American actor'. Boston.com: born in the North End."
+    },
+    {
+      "claim": "Hamilton 'Ham' Porter in The Sandlot (1993)",
       "sourceIds": [
         "apple-snapshot"
       ],
       "verdict": "confirmed",
-      "note": "Apple lists The Sandlot (1993), Hamilton Porter."
+      "note": "Apple bio: played Hamilton Porter; film 1993."
     },
     {
-      "claim": "47 Jahre alt am 31. Oktober 2026",
+      "claim": "Kinderbuch A Little Slugger's Guide, E-Book bei Penguin am 25.02.2025 erschienen",
       "sourceIds": [
-        "apple-snapshot"
+        "penguin-book"
       ],
       "verdict": "confirmed",
-      "note": "Arithmetic correct."
+      "note": "Penguin: eBook published 25 February 2025, author Patrick Renna."
     },
     {
-      "claim": "Geburt 'im Grunde an der Ecke Salem Street und Prince Street' in der North End",
+      "claim": "Erstes Kinderbuch; Illustrationen von Tommy Parker; 20 Regeln; Jim Abbott und Michael Jordan; Alter 6 bis 10; Signierstunde 26.02. bei Trident mit Ticketverkauf",
       "sourceIds": [
         "boston-com-interview"
       ],
       "verdict": "confirmed",
-      "note": "Direct quote in Boston.com (translated)."
+      "note": "Boston.com states each of these points."
     },
     {
-      "claim": "Umzug nach Watertown als Kleinkind; Kindheit in Savin Hill, Dorchester, etwa 7 bis 13 Jahre; Little League",
+      "claim": "Lifelong Red Sox fan; Little League in Savin Hill, Dorchester, ages 7 to 13; family moved to Watertown as a toddler; born on corner of Salem and Prince Streets in North End",
       "sourceIds": [
         "boston-com-interview"
       ],
       "verdict": "confirmed",
-      "note": "Boston.com: moved to Watertown around age 3; Savin Hill in Dorchester longest, ages 7-13; played Little League in Dorchester."
+      "note": "Boston.com quotes match."
     },
     {
-      "claim": "Red-Sox-Fan 'seit jeher'; 'Sportfan für alle Boston-Teams'",
+      "claim": "Sandlot-Vorsprechen: 'im Grunde' das erste; zweites Vorsprechen war The Sandlot nach einer Folge Salute Your Shorts",
       "sourceIds": [
         "boston-com-interview"
       ],
       "verdict": "confirmed",
-      "note": "Lifelong Red Sox fan; 'all-sports fan for Boston'."
+      "note": "Boston.com is internally inconsistent on this, and the page reports both statements accurately."
     },
     {
-      "claim": "Der Film kam 1993 ins Kino",
-      "sourceIds": [
-        "apple-snapshot"
-      ],
-      "verdict": "confirmed",
-      "note": "Apple credit year 1993."
-    },
-    {
-      "claim": "Vorsprechen 'im Grunde' das erste; zweites Vorsprechen The Sandlot nach Salute Your Shorts",
+      "claim": "Nicht in The Sandlot 2 und 3: 'Ich habe mich dafür entschieden, es so zu lassen'",
       "sourceIds": [
         "boston-com-interview"
       ],
       "verdict": "confirmed",
-      "note": "Boston.com: 'Sandlot was basically my first audition'; Salute Your Shorts episode, then Sandlot as second audition."
+      "note": "Source: 'I didn't want to be' and 'I chose to let it be'. German wording is a fair translation."
     },
     {
-      "claim": "Nicht dabei bei The Sandlot 2 und 3, 'weil er es nicht wollte'; 'Ich habe mich dafür entschieden, es so zu lassen'",
-      "sourceIds": [
-        "boston-com-interview"
-      ],
-      "verdict": "confirmed",
-      "note": "Quotes: 'I wasn't in 2 or 3. I didn't want to be.' and 'I chose to let it be'."
-    },
-    {
-      "claim": "Apple führt ihn als US-Schauspieler",
+      "claim": "Filmografie: Son-in-Law (1993) mit Carla Gugino; The Big Green (1995); Dorm Daze (2003); Lavalantula; You Gotta Believe; Bad Roomies als Produzent",
       "sourceIds": [
         "apple-snapshot"
       ],
       "verdict": "confirmed",
-      "note": "Apple: 'American actor'."
+      "note": "Apple credits match. Lavalantula and You Gotta Believe carry no year, and the page does not give one."
     },
     {
-      "claim": "Neben Carla Gugino in Son-in-Law (1993)",
-      "sourceIds": [
-        "apple-snapshot"
-      ],
-      "verdict": "confirmed",
-      "note": "Apple bio: 'starred alongside Carla Gugino in Son-in-Law'."
-    },
-    {
-      "claim": "The Big Green (1995), Lavalantula, You Gotta Believe, Dorm Daze (2003)",
-      "sourceIds": [
-        "apple-snapshot"
-      ],
-      "verdict": "confirmed",
-      "note": "Apple lists The Big Green (1995) and Dorm Daze (2003); other two named without years."
-    },
-    {
-      "claim": "Boston.com nennt You Gotta Believe und Monster Summer (2024) unter seinen Filmen",
+      "claim": "You Gotta Believe und Monster Summer (2024) als Filme",
       "sourceIds": [
         "boston-com-interview",
         "apple-snapshot"
       ],
       "verdict": "confirmed",
-      "note": "Undated 'späteren' dropped. Boston.com names both films; Apple lists Monster Summer (2024)."
+      "note": "Apple lists Monster Summer 2024. Boston.com mentions both films as 'last year'."
     },
     {
-      "claim": "Laut Apple mitproduziert: Bad Roomies",
-      "sourceIds": [
-        "apple-snapshot"
-      ],
-      "verdict": "confirmed",
-      "note": "Apple: 'producing the film Bad Roomies'."
-    },
-    {
-      "claim": "Am 25. Februar 2025 erschien bei Penguin das E-Book unter Rennas Namen",
-      "sourceIds": [
-        "penguin-book"
-      ],
-      "verdict": "confirmed",
-      "note": "Penguin: eBook 25 February 2025, author Patrick Renna."
-    },
-    {
-      "claim": "Boston.com nennt es sein erstes Kinderbuch; Illustrationen von Tommy Parker, einige zeigen Renna selbst",
-      "sourceIds": [
-        "boston-com-interview"
-      ],
-      "verdict": "confirmed",
-      "note": "Re-fetch: 'to launch his first children's book' and 'including a few depicting Renna himself'. Earlier reviewer notes were out of date. Tommy Parker named by Boston.com."
-    },
-    {
-      "claim": "20 Regeln für Platz und Alltag, mit echten Geschichten über Jim Abbott und Michael Jordan",
-      "sourceIds": [
-        "boston-com-interview"
-      ],
-      "verdict": "confirmed",
-      "note": "Boston.com: 20 rules; Jim Abbott and Michael Jordan stories."
-    },
-    {
-      "claim": "Für Leser etwa von 6 bis 10 Jahren",
-      "sourceIds": [
-        "boston-com-interview"
-      ],
-      "verdict": "confirmed",
-      "note": "Boston.com: 'ages 6 to 10, I'd say'."
-    },
-    {
-      "claim": "Signierstunde mit Ticketverkauf am 26. Februar bei Trident Bookseller",
-      "sourceIds": [
-        "boston-com-interview"
-      ],
-      "verdict": "confirmed",
-      "note": "Boston.com: Trident Bookseller on Feb. 26, ticketed."
-    },
-    {
-      "claim": "Im Februar 2025 stellten Renna, Kyle Howard und Lynsey Bartilson Moore Hambino Media vor, mit 'einer Reihe von fiktionalen und nicht fiktionalen Projekten'",
+      "claim": "Hambino Media im Februar 2025 von Renna, Kyle Howard und Lynsey Bartilson Moore vorgestellt; Projekte mit Blind Nil (Gaines) und Golf Digest",
       "sourceIds": [
         "movieguide-hambino"
       ],
       "verdict": "confirmed",
-      "note": "Movieguide dated 5 Feb 2025; co-founders confirmed. The quoted phrase is a translation presented in quote marks, not verbatim; acceptable only if marked as a translation or paraphrased."
+      "note": "Movieguide: announced Feb 2025. Blind Nil is the Gaines company. Golf Digest series confirmed."
     },
     {
-      "claim": "Zwei unbetitelte Projekte mit Blind Nil (Chip und Joanna Gaines) und eine unbetitelte Serie für Golf Digest",
+      "claim": "Projekte als 'fiktionale und nicht fiktionale' Projekte",
       "sourceIds": [
         "movieguide-hambino"
       ],
       "verdict": "confirmed",
-      "note": "Movieguide confirms both."
+      "note": "Source says 'scripted and unscripted projects'. The German rendering is a reasonable equivalent."
     },
     {
-      "claim": "Dugout Dads entsteht über Hambino Media, geführt von Renna und Howard",
+      "claim": "Dugout Dads: Renna beginnt, das Little-League-Team seines Sohnes zu trainieren",
       "sourceIds": [
         "entertainmentnow-dugout-dads"
       ],
       "verdict": "confirmed",
-      "note": "EntertainmentNow: led by Renna and Howard, produced by Hambino Media."
+      "note": "Source: Renna plays a father who 'starts coaching his son's Little League team'. Corrected wording."
     },
     {
-      "claim": "Juni 2026: Renna spielt einen Vater, der das Little-League-Team seines Sohnes übernimmt; Start später im selben Jahr",
+      "claim": "Angekündigt im Juni 2026; Erscheinen später im Jahr angekündigt; produziert über Hambino Media",
       "sourceIds": [
         "entertainmentnow-dugout-dads"
       ],
       "verdict": "confirmed",
-      "note": "Published 10 Jun 2026; premise and 'later this year' confirmed."
+      "note": "Article dated June 10, 2026. 'Slated to be released later this year'. Produced through Hambino Media."
     },
     {
-      "claim": "Am 29. August 2026 meldete Time Out, dass alle Folgen auf YouTube sind",
+      "claim": "Alle Folgen am 29. August 2026 auf YouTube; Comedy über Little-League-Trainer, der zum ersten Mal ein Team betreut",
       "sourceIds": [
         "timeout-dugout-dads"
       ],
       "verdict": "confirmed",
-      "note": "Time Out dated 29 Aug 2026: all episodes on YouTube now."
+      "note": "Time Out dated Aug 29, 2026; 'watch all the episodes on YouTube now'; first-time Little League coach."
     },
     {
-      "claim": "'herzliche Comedy' über einen Little-League-Trainer, der zum ersten Mal ein Team betreut; Drehbuch Sebastian Jones und Dan Kopelman; Regie Victor Nelli Jr.",
+      "claim": "Drehbuch Sebastian Jones und Dan Kopelman; Regie Victor Nelli Jr.",
       "sourceIds": [
         "timeout-dugout-dads"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed; 'heartfelt' translated."
+      "note": "Time Out credits match."
     },
     {
-      "claim": "Sandlot-Veteranen im Ensemble, spielen aber neue Figuren; Michael Peña und Danielle Fishel als Neuzugänge",
+      "claim": "Sandlot-Veteranen spielen neue Figuren; Michael Peña und Danielle Fishel neu dabei",
       "sourceIds": [
         "timeout-dugout-dads"
       ],
       "verdict": "confirmed",
-      "note": "Names listed; cast 'isn't playing their original Sandlot characters'."
+      "note": "Time Out: veterans play new characters, newcomers include Michael Peña and Danielle Fishel."
     },
     {
-      "claim": "FAQ: Dugout Dads, Comedy über einen Little-League-Trainer, Ende August 2026 auf YouTube",
+      "claim": "Renna als Dugout-Dads-Hauptdarsteller; Dugout Dads bei Hambino Media",
       "sourceIds": [
+        "entertainmentnow-dugout-dads",
         "timeout-dugout-dads"
       ],
       "verdict": "confirmed",
-      "note": "Consistent with Time Out."
-    },
-    {
-      "claim": "FAQ: in Boston geboren, vor allem in Dorchester aufgewachsen",
-      "sourceIds": [
-        "boston-com-interview"
-      ],
-      "verdict": "confirmed",
-      "note": "Boston.com: Dorchester is where he lived longest."
+      "note": "Entertainment Now: Renna and Kyle Howard lead; Hambino Media produces. Time Out: Renna created the show and plays Ham's role."
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": false,
   "addsValue": true,
-  "valueNote": "Facts and sources are sound, but the German prose still follows the English section by section with calques (for example 'Red-Sox-Fan' and 'Im Ensemble stehen'). Left unchanged per repair scope; a localisation rewrite is needed.",
+  "valueNote": "Primary-ish sources (Apple credits, Penguin listing, boston.com interview). The page adds the Boston childhood timeline and the Sandlot audition contradiction.",
   "decision": "reject",
-  "summary": "Facts confirmed against sources; the German prose still reads as a translation. Style judgement left for an editor."
+  "summary": "Factual problems fixed: Dugout Dads premise now 'starts coaching' per source; two unsupported Boston.com clauses removed. Style still reads as translated, so the page stays rejected for the editor."
 }

@@ -35,26 +35,25 @@ faq:
       [s:mediamass-death-hoax].
   - q: ¿Quién es la pareja de Patrick J. Adams?
     a: >-
-      Está casado con la actriz Troian Bellisario. Según Just Jared, Adams dijo
-      que, tras siete temporadas, en realidad llevaba ocho años lejos de casa y
-      de su mujer [s:justjared-suits-exit-2024].
+      Está casado con la actriz Troian Bellisario [s:wikidata-q644565]. Según
+      Just Jared, Adams dijo que, tras siete temporadas, en realidad llevaba
+      ocho años lejos de casa y de su mujer [s:justjared-suits-exit-2024].
   - q: ¿Por qué dejó Suits Patrick J. Adams?
     a: >-
       Lo dejó al terminar la séptima temporada. Dijo que no cuidaba bien su
       salud mental, que bebía demasiado hacia el final de esa temporada y que
       sentía que la historia de Mike Ross ya estaba contada
       [s:tvline-suits-exit] [s:justjared-suits-exit-2024].
-flag: Rejected by the fact-check 4 times; needs a human editor.
+flag: Rejected by the fact-check 6 times; needs a human editor.
 reviewNotes: >-
-  Adds no value over existing pages: Follows the English page sentence by
-  sentence, with the same sections, quotes and English-only sources. It adds no
-  Spanish-language sources or Spanish-specific context, and the style guide
-  treats a sentence-by-sentence translation as failing review. | Reviewer
-  recommends rejection: All cited facts check out against the opened sources
-  after the fixes. Rejection is for the translation-only issue, not for a
-  factual error. The flagged FAQ eight-years claim is in the cited Just Jared
-  article.
-autoReviews: 4
+  Prose reads machine-written | Adds no value over existing pages: The page
+  follows the English page sentence by sentence, with the same sections, quotes
+  and English-only sources. It adds no Spanish-language sources or
+  Spanish-specific context, which the style guide treats as failing review. |
+  Reviewer recommends rejection: Factual fixes applied to the two unsupported
+  sentences (spouse cited to Wikidata; archive reading matched to D23). Rejected
+  on style only: sentence-by-sentence translation of the English page.
+autoReviews: 6
 ---
 Mike Ross, el abogado de Suits, es el papel por el que más se conoce a Patrick J. Adams, la serie que USA emitió [s:usc-sda-patrick-j-adams] [s:tvseriesfinale-suits]. El actor canadiense nació el 27 de agosto de 1981 en Toronto, Ontario [s:wikidata-q644565] [s:wikidata-q172], y Wikidata lo registra con nacionalidad canadiense [s:wikidata-q16]. Su perfil en la Escuela de Artes Dramáticas de la USC recoge además películas como Old School, Pillow Talk, Room for Rent y Rosemary's Baby [s:usc-sda-patrick-j-adams].
 
@@ -66,13 +65,13 @@ Suits se emitió en USA del 23 de junio de 2011 al 25 de septiembre de 2019, con
 
 Adams se fue al terminar la séptima temporada [s:tvline-suits-exit]. Lo explicó en una entrevista de 2018 con The Hollywood Reporter, que Just Jared citó en 2024: «ya hemos contado su historia, y si se queda más tiempo, Mike será solo otro abogado en la televisión» [s:justjared-suits-exit-2024]. Según ese mismo texto, empezó a pensar en irse hacia la mitad de la sexta temporada [s:justjared-suits-exit-2024].
 
-Más franco fue en un episodio del pódcast Dinner's On Me, con Jesse Tyler Ferguson, al hablar de su salud [s:tvline-suits-exit]. Reconoció que no cuidaba bien su salud mental y que había bebido demasiado hacia el final de la séptima temporada. Sobre quedarse, dijo que solo el dinero habría sido motivo, y que nunca se arrepintió de irse: «Fue lo correcto para mi matrimonio... Era el momento» [s:tvline-suits-exit]. Está casado con la actriz Troian Bellisario [s:justjared-suits-exit-2024].
+Más franco fue en un episodio del pódcast Dinner's On Me, con Jesse Tyler Ferguson, al hablar de su salud [s:tvline-suits-exit]. Reconoció que no cuidaba bien su salud mental y que había bebido demasiado hacia el final de la séptima temporada. Sobre quedarse, dijo que solo el dinero habría sido motivo, y que nunca se arrepintió de irse: «Fue lo correcto para mi matrimonio... Era el momento» [s:tvline-suits-exit]. Está casado con la actriz Troian Bellisario [s:wikidata-q644565].
 
 ## Preparar a John Glenn para The Right Stuff
 
 Tras Suits, Adams fue elegido para el mayor John Glenn en The Right Stuff, la serie de Disney+ sobre los astronautas del Mercury Seven [s:d23-right-stuff-glenn] [s:tvline-right-stuff-preview]. Cuenta que fue el primero del reparto en ser elegido: «creo que fui el primero en ser elegido» [s:tvline-right-stuff-preview]. Admite que el papel le daba miedo, «tenía mucho miedo, la verdad», y de Glenn le llamó la atención que fuera «el bicho raro de los Mercury Seven, y no porque fuera el mejor» [s:tvline-right-stuff-preview].
 
-Se metió a fondo en el material. Los archivos de Glenn en la Universidad Estatal de Ohio tienen «cientos y cientos de cajas de cosas», y Adams dijo que tuvo «el lujo de disponer de una cantidad enorme de recursos» [s:d23-right-stuff-glenn]. Leyó cartas privadas, diarios y la correspondencia de Glenn con presidentes. Se quedó con lo que le hablaba a él, sus «puntos de apoyo», en vez de imitar al personaje [s:d23-right-stuff-glenn]. Cuando llegó la oferta, dijo: «Esto es lo que he estado esperando» [s:tvline-right-stuff-preview].
+Se metió a fondo en el material. Los archivos de Glenn en la Universidad Estatal de Ohio tienen «cientos y cientos de cajas de cosas», y Adams dijo que tuvo «el lujo de disponer de una cantidad enorme de recursos» [s:d23-right-stuff-glenn]. Leyó sus escritos personales, sus notas de servicio y su correspondencia con varios presidentes. Se quedó con lo que le hablaba a él, sus «puntos de apoyo», en vez de imitar al personaje [s:d23-right-stuff-glenn]. Cuando llegó la oferta, dijo: «Esto es lo que he estado esperando» [s:tvline-right-stuff-preview].
 
 ## Take Me Out, su debut en Broadway
 

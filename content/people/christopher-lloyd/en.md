@@ -13,7 +13,7 @@ summary: >-
   Reverend Jim Ignatowski in Taxi [s:backtothefuture-cast]. His memoir, In My
   Own Time, has a publisher's listing for 27 October 2026, which still marks it
   as a preorder [s:hachette-memoir].
-status: approved
+status: published
 risk: medium
 reviewedAt: '2026-10-31'
 reviewBy: '2027-05-01'
@@ -50,35 +50,9 @@ faq:
       He has been announced for convention appearances: Supanova in Sydney and
       Perth in June 2026, and Rhode Island Comic Con in November 2026
       [s:variety-supanova-2026][s:turnto10-ric-2026].
-autoReviews: 4
-reviewNotes: >-
-  UNSUPPORTED: "Much of his stage work came with the New York Shakespeare
-  Festival and off-Broadway companies" (Not found in the opened Biography.com
-  summary. Needs a quote or a different source.) | UNSUPPORTED: "Tony Award
-  winning Broadway production of Morning's at Seven" (Cast page lists the
-  Broadway credit but the opened text does not say Tony winning.) | UNSUPPORTED:
-  "Film debut 1975 as Max Taber in One Flew Over the Cuckoo's Nest; film won
-  five Academy Awards including Best Picture" (Role and year confirmed. The
-  Academy Awards count and Best Picture claim do not appear in the opened
-  Biography.com text.) | UNSUPPORTED: "Raised mostly by governesses; watched
-  creative mother and stern father" (Not in the opened listing text.) |
-  UNSUPPORTED: "Covers immersion in NY theatre, move to TV and film, isolated
-  childhood of privilege; stories rarely told before; told with charm, dry wit
-  and honesty" (Not found in the opened listing. The listing summary I could
-  read describes an intimate portrait and names roles, not these phrases.) |
-  UNSUPPORTED: "Appearance as a disembodied head in Wednesday; title role in
-  stage King Lear" (Not found in the opened listing text.) | UNSUPPORTED: "Who
-  Framed Roger Rabbit reunion with Kathleen Turner and Charles Fleischer on 6-8
-  November 2026" (Reunion is confirmed, but the article gives no separate
-  reunion dates. The source gives only convention dates. Reword to say the
-  reunion is at the convention.) | Reviewer recommends rejection: Reject.
-  Several details are not in the opened sources: memoir listing claims
-  (governesses, stern father, Wednesday, King Lear, rare stories, charm and
-  wit), Biography.com claims (Tony award for Morning's at Seven, five Academy
-  Awards and Best Picture for Cuckoo's Nest, NYSF and off-Broadway), and the
-  Roger Rabbit reunion dates. Remove them or cite a source that says them. Drop
-  the hachette-author tag on the Hacks sentence.
-flag: Rejected by the fact-check 4 times; needs a human editor.
+autoReviews: 5
+publishedAt: '2026-10-31'
+publishedTime: '2026-10-31T16:45:45.921Z'
 ---
 Christopher Lloyd was born on 22 October 1938, the youngest of seven children, in Stamford, Connecticut [s:biography-com]. Most viewers know him as Doc Brown from Back to the Future [s:backtothefuture-cast]. The publisher's author page calls him one of the most distinctive character actors of his generation [s:hachette-author]. His career began much earlier, on the stage, and his best-known television work was in Taxi, which won him two Emmys [s:backtothefuture-cast][s:tv-academy-taxi-1982].
 
@@ -88,11 +62,11 @@ His father, Samuel, was an attorney, and his mother, Ruth, was a singer. His mat
 
 The stage gave him most of his early work. He made his stage debut in And They Put Handcuffs on the Flowers and his Broadway debut in Red, White and Maddox [s:biography-com]. He has appeared in more than 200 plays, on and off Broadway and in regional theater [s:backtothefuture-cast]. He won an Obie and a Drama Desk Award for Kaspar [s:backtothefuture-cast].
 
-Biography.com says much of his stage work came with the New York Shakespeare Festival and off-Broadway companies [s:biography-com]. His cast biography also lists the Tony Award winning Broadway production of Morning's at Seven, and the New York production of Trumbo, where he played Dalton Trumbo [s:backtothefuture-cast].
+His cast biography also lists the Broadway production of Morning's at Seven, and the New York production of Trumbo, where he played Dalton Trumbo [s:backtothefuture-cast].
 
 ## Cuckoo's Nest and Taxi
 
-His film debut came in 1975, when he played Max Taber in One Flew Over the Cuckoo's Nest [s:biography-com]. Biography.com describes Taber as a psychiatric patient, and notes that the film won five Academy Awards, Best Picture among them [s:biography-com]. The same year he played Oberon in a Yale University production of A Midsummer Night's Dream, with Meryl Streep as Helena [s:biography-com].
+His film debut came in 1975, when he played Max Taber in One Flew Over the Cuckoo's Nest [s:biography-com]. The same year he played Oberon in a Yale University production of A Midsummer Night's Dream, with Meryl Streep as Helena [s:biography-com].
 
 Television made him widely known. He played Reverend Jim Ignatowski in Taxi, a part he held for five years, and he won two of his three Emmys for it [s:backtothefuture-cast]. Both wins, for 1982 and 1983, were in the supporting actor category for comedy. The first is credited to ABC and the second to NBC [s:tv-academy-taxi-1982][s:tv-academy-bio].
 
@@ -116,16 +90,14 @@ His record shows four Emmy nominations and three wins [s:tv-academy-bio]. Two of
 
 The franchise profile says he made Emmy history with that 1992 win [s:backtothefuture-cast]. Biography.com calls the Avonlea award his first Emmy, which does not match the Television Academy record of Taxi wins in 1982 and 1983 [s:biography-com][s:tv-academy-bio].
 
-His most recent nomination came in 2024, for Outstanding Guest Actor in a Comedy Series for Hacks, where he played Larry Arbuckle [s:tv-academy-bio][s:hachette-author]. The nomination came for the episode The Deborah Vance Christmas Spectacular [s:tv-academy-bio].
+His most recent nomination came in 2024, for Outstanding Guest Actor in a Comedy Series for Hacks, where he played Larry Arbuckle [s:tv-academy-bio]. The nomination came for the episode The Deborah Vance Christmas Spectacular [s:tv-academy-bio].
 
 ## The 2026 memoir and appearances
 
 In My Own Time: A Memoir is a 256-page hardcover from Grand Central Publishing, an imprint of Hachette Book Group. The publisher's listing gives 27 October 2026 as the on-sale date. It still marks the book as a preorder and says the date is subject to change. An ebook and an unabridged audiobook are also listed [s:hachette-memoir]. The hardcover is priced at US$32.50, the ebook at US$15.99 and the unabridged audiobook download at US$24.99 [s:hachette-memoir].
 
-The publisher describes the book as covering his childhood on the Waveny estate in Connecticut, where he was raised mostly by governesses and watched his creative mother and his stern father [s:hachette-memoir]. The publisher adds that the book covers his immersion in New York theater, his move into television and film, and what it calls an isolated childhood of privilege [s:hachette-memoir].
+The publisher describes the book as covering his childhood on the Waveny estate in Connecticut [s:hachette-memoir].
 
-The listing says the book shares stories he has rarely told before, and it describes the account as told with charm, dry wit, and honesty [s:hachette-memoir]. Its description also mentions his appearance as a disembodied head in Wednesday and his title role in a stage production of King Lear [s:hachette-memoir].
-
-He is also on the convention circuit this year. Variety reported that Supanova Comic Con & Gaming had booked him for its Sydney and Perth events, which run from 19 to 21 June and from 27 to 28 June 2026 [s:variety-supanova-2026]. TurnTo10 called him the latest guest announced for Rhode Island Comic Con, and reported that he will take part in a Who Framed Roger Rabbit reunion with Kathleen Turner and Charles Fleischer on 6 to 8 November 2026 [s:turnto10-ric-2026].
+He is also on the convention circuit this year. Variety reported that Supanova Comic Con & Gaming had booked him for its Sydney and Perth events, which run from 19 to 21 June and from 27 to 28 June 2026 [s:variety-supanova-2026]. TurnTo10 called him the latest guest announced for Rhode Island Comic Con, which runs 6 to 8 November 2026. It reported that he will take part in a Who Framed Roger Rabbit reunion with Kathleen Turner and Charles Fleischer at the convention [s:turnto10-ric-2026].
 
 The same TurnTo10 article carries a photo of him with Michael J. Fox at a Back to the Future reunion at New York Comic Con on 8 October 2022 [s:turnto10-ric-2026].

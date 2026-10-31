@@ -45,18 +45,18 @@ faq:
       Für 2026 sind Auftritte auf Conventions angekündigt: bei den
       Supanova-Events in Sydney und Perth im Juni und bei der Rhode Island Comic
       Con im November [s:variety-supanova-2026][s:turnto10-ric-2026].
-flag: Rejected by the fact-check 5 times; needs a human editor.
+flag: Rejected by the fact-check 6 times; needs a human editor.
 reviewNotes: >-
-  Prose reads machine-written | Adds no value over existing pages: Every fact is
-  now sourced and confirmed, but the page is still a sentence-by-sentence
-  rendering of the English draft with the same headings and repeated 'laut
-  Verlag / Biography.com zufolge' attribution. It does not use the German
-  queries (Alter, Filme, aktuell) beyond the FAQ and has no German-language
-  sources. Left unchanged per repair scope. | Reviewer recommends rejection: All
-  factual claims now check out against the opened sources. The remaining issues
-  are style and value only (formulaic attribution, translation of the English
-  draft), which the repair scope does not rewrite.
-autoReviews: 5
+  Prose reads machine-written | Adds no value over existing pages: Flagged
+  claims are removed or corrected and every fact checks out, but the page is
+  still a sentence-by-sentence rendering of the English draft with the same
+  headings and repeated attribution formulas, and it has no German-language
+  sources or German search queries beyond the FAQ. Left for a human editor per
+  repair scope. | Reviewer recommends rejection: Facts all check out. Remaining
+  reasons are style and localisation only: formulaic attribution and a
+  translation of the English draft that adds no German-specific value. Not
+  rewritten per repair scope.
+autoReviews: 6
 ---
 Wer heute Christopher Lloyd sucht, landet meist bei Doc Brown aus Zurück in die Zukunft [s:backtothefuture-cast]. Begonnen hat er aber als Bühnenschauspieler, schon mit 14 Jahren im Sommertheater [s:biography-com]. Geboren am 22. Oktober 1938 als jüngstes von sieben Kindern in Stamford, Connecticut [s:biography-com], stand er zuerst auf dem Theater. Taxi machte ihn im Fernsehen bekannt, und für diese Serie erhielt er zwei seiner drei Emmys [s:backtothefuture-cast][s:tv-academy-taxi-1982]. Der Verlag seiner Memoiren nennt ihn einen der markantesten Charakterdarsteller seiner Generation [s:hachette-author].
 
@@ -66,11 +66,11 @@ Sein Vater Samuel war Anwalt, seine Mutter Ruth Sängerin. Der Großvater mütte
 
 Das Theater bestimmte seine ersten Jahre. Sein Bühnendebüt gab er mit And They Put Handcuffs on the Flowers, sein Broadway-Debüt mit Red, White and Maddox [s:biography-com]. Er hat in mehr als 200 Stücken gespielt, am Broadway, abseits davon und an Regionaltheatern [s:backtothefuture-cast]. Für Kaspar bekam er einen Obie und einen Drama Desk Award [s:backtothefuture-cast].
 
-Biography.com zufolge arbeitete er vor allem bei Produktionen des New York Shakespeare Festival und bei Off-Broadway-Bühnen, mit gelegentlichen Rollen am Broadway [s:biography-com]. Seine Biografie auf der offiziellen Seite der Filmreihe nennt außerdem die preisgekrönte Broadway-Inszenierung von Morning's at Seven und die New Yorker Produktion von Trumbo, in der er Dalton Trumbo spielte [s:backtothefuture-cast].
+Seine Biografie auf der offiziellen Seite der Filmreihe nennt außerdem die Broadway-Inszenierung von Morning's at Seven und die New Yorker Produktion von Trumbo, in der er Dalton Trumbo spielte [s:backtothefuture-cast].
 
 ## Vom Kuckucksnest ins Fernsehen
 
-Sein Kinodebüt gab er 1975 als Max Taber in Einer flog über das Kuckucksnest [s:biography-com]. Biography.com beschreibt Taber als Psychiatriepatienten und weist darauf hin, dass der Film fünf Oscars gewann, darunter den für den besten Film [s:biography-com]. Im selben Jahr spielte er an der Yale University den Oberon in Ein Sommernachtstraum, Helena wurde von Meryl Streep gespielt [s:biography-com].
+Sein Kinodebüt gab er 1975 als Max Taber in Einer flog über das Kuckucksnest [s:biography-com]. Im selben Jahr spielte er an der Yale University den Oberon in Ein Sommernachtstraum, Helena wurde von Meryl Streep gespielt [s:biography-com].
 
 Das Fernsehen machte ihn bekannt. Fünf Jahre lang war er in Taxi der Reverend Jim Ignatowski, und für diese Rolle holte er zwei seiner drei Emmys [s:backtothefuture-cast]. Seine Auszeichnungen für 1982 und 1983 verzeichnet die Television Academy in der Kategorie Nebendarsteller einer Comedyserie. Den Preis von 1982 führt sie für ABC, den von 1983 für NBC [s:tv-academy-taxi-1982][s:tv-academy-bio]. Unter den Nominierten des Jahrgangs 1982 war auch Danny DeVito, ebenfalls aus Taxi, sowie Steve Landesberg und Ron Glass aus Barney Miller [s:tv-academy-taxi-1982].
 
@@ -92,16 +92,14 @@ Auf seiner Seite der Academy stehen vier Nominierungen und drei Auszeichnungen [
 
 Die offizielle Seite der Filmreihe schreibt, dass er mit dem Preis von 1992 Emmy-Geschichte geschrieben habe [s:backtothefuture-cast]. Biography.com bezeichnet denselben Preis dagegen als seinen ersten Emmy. Das passt nicht zu den Auszeichnungen für Taxi 1982 und 1983, die die Academy verzeichnet [s:biography-com][s:tv-academy-bio].
 
-Seine jüngste Nominierung stammt von 2024, als bester Gastdarsteller in einer Comedyserie für Hacks, wo er Larry Arbuckle spielte [s:tv-academy-bio][s:hachette-author]. Nominiert wurde er für die Folge The Deborah Vance Christmas Spectacular [s:tv-academy-bio].
+Seine jüngste Nominierung stammt von 2024, als bester Gastdarsteller in einer Comedyserie für Hacks, wo er Larry Arbuckle spielte [s:tv-academy-bio]. Nominiert wurde er für die Folge The Deborah Vance Christmas Spectacular [s:tv-academy-bio].
 
 ## Aktuell: Buch und Conventions 2026
 
 In My Own Time: A Memoir ist ein gebundenes Buch mit 256 Seiten. Es erscheint bei Grand Central Publishing, einem Imprint der Hachette Book Group. Der Verlag nennt den 27. Oktober 2026 als Erscheinungstermin, führt das Buch aber noch als Vorbestellung und weist darauf hin, dass sich der Termin ändern kann. E-Book und ungekürztes Hörbuch sind ebenfalls gelistet [s:hachette-memoir]. Die Hardcover-Ausgabe kostet laut Verlag 32,50 US-Dollar, das E-Book 15,99 US-Dollar und der ungekürzte Download des Hörbuchs 24,99 US-Dollar [s:hachette-memoir].
 
-Laut Verlag erzählt er von seiner Kindheit auf dem Waveny-Anwesen in Connecticut. Dort wuchs er vor allem bei Gouvernanten auf und beobachtete seine kreative Mutter und seinen strengen Vater [s:hachette-memoir]. Außerdem geht es um seine Jahre am New Yorker Theater und seinen Weg zu Fernsehen und Film [s:hachette-memoir].
+Laut Verlag erzählt er von seiner Kindheit auf dem Waveny-Anwesen in Connecticut [s:hachette-memoir].
 
-Die Beschreibung des Verlags nennt als Erzählton Charme, trockenen Witz und Ehrlichkeit [s:hachette-memoir]. Sie nennt außerdem seinen Auftritt als körperloser Kopf in Wednesday und die Titelrolle in einer Bühneninszenierung von King Lear [s:hachette-memoir].
-
-Für 2026 sind Conventions angekündigt. Variety meldete, Supanova habe ihn für die Veranstaltungen in Sydney vom 19. bis 21. Juni und in Perth vom 27. bis 28. Juni 2026 gebucht [s:variety-supanova-2026]. TurnTo10 nannte ihn den neuesten angekündigten Gast der Rhode Island Comic Con, wo er mit Kathleen Turner und Charles Fleischer bei einem Wiedersehen zu Falsches Spiel mit Roger Rabbit dabei sein soll, vom 6. bis 8. November 2026 [s:turnto10-ric-2026].
+Für 2026 sind Conventions angekündigt. Variety meldete, Supanova habe ihn für die Veranstaltungen in Sydney vom 19. bis 21. Juni und in Perth vom 27. bis 28. Juni 2026 gebucht [s:variety-supanova-2026]. TurnTo10 nannte ihn den neuesten angekündigten Gast der Rhode Island Comic Con, die vom 6. bis 8. November 2026 stattfindet. Dort soll er mit Kathleen Turner und Charles Fleischer bei einem Wiedersehen zu Falsches Spiel mit Roger Rabbit dabei sein [s:turnto10-ric-2026].
 
 Ein Foto im selben Artikel zeigt ihn mit Michael J. Fox bei einem Back-to-the-Future-Wiedersehen auf dem New York Comic Con am 8. Oktober 2022 [s:turnto10-ric-2026].

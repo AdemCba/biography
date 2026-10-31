@@ -42,14 +42,12 @@ faq:
       A página da Recording Academy registra três vitórias e 22 indicações no
       total. Ela cita Love of My Life (2003) como o primeiro Grammy da carreira
       dele e marca Glory (2016) como vitória.
-flag: Rejected by the fact-check 4 times; needs a human editor.
+flag: Rejected by the fact-check 5 times; needs a human editor.
 reviewNotes: >-
-  Prose reads machine-written | Reviewer recommends rejection: Facts match the
-  cited sources after the corrections. The only remaining issue is style: the
-  Portuguese page mirrors the English structure sentence by sentence, which the
-  style guide treats as a translation. Not rewritten here because the brief
-  excludes style rewrites.
-autoReviews: 4
+  Prose reads machine-written | Reviewer recommends rejection: [pt page] All
+  checked facts match the cited sources; no factual fix needed. Remaining issue
+  is style only: the page mirrors the English structure sentence by sentence.
+autoReviews: 5
 ---
 Common nasceu Lonnie Rashid Lynn Jr. em 13 de março de 1972, em Chicago, Illinois [s:grammy-artist-common] [s:television-academy-common]. A própria Recording Academy destaca que ele foi o primeiro rapper a levar um Grammy, um Oscar e um Emmy [s:grammy-first-rapper-emmy-oscar].
 

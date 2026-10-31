@@ -4,40 +4,39 @@
   "approved": false,
   "reasons": [
     "Prose reads machine-written",
-    "Adds no value over existing pages: All facts now carry sources that confirm them, but the page is still a sentence-by-sentence rendering of the English draft with the same headings and sources. It has no Portuguese-language sources or Brazilian-reader context. Left unchanged per repair scope.",
-    "Reviewer recommends rejection: All factual claims now check out against the opened sources. Remaining issues are style and localisation only, which the repair scope does not rewrite."
+    "Adds no value over existing pages: Flagged claims are removed or corrected and every fact checks out, but the page is still a sentence-by-sentence rendering of the English draft with the same headings and sources, with no Portuguese-language sources or Brazilian-reader context. Left for a human editor per repair scope.",
+    "Reviewer recommends rejection: Facts all check out. Remaining reasons are style and localisation only: the prose is a sentence-by-sentence rendering of the English draft and adds no Brazilian-reader value. Not rewritten per repair scope."
   ],
   "claims": [
     {
-      "claim": "Só que ele começou no palco; estreia no palco antes do cinema",
-      "sourceIds": [
-        "biography-com"
-      ],
-      "verdict": "confirmed",
-      "note": "Page: 200+ stage productions before working in film; summer stock at 14."
-    },
-    {
-      "claim": "Nascido em 22 de outubro de 1938, em Stamford, Connecticut, caçula de sete irmãos",
+      "claim": "Nasceu em 22 de outubro de 1938, em Stamford, Connecticut",
       "sourceIds": [
         "biography-com",
-        "tv-academy-bio",
-        "tmdb"
+        "tmdb",
+        "tv-academy-bio"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed."
+      "note": "Confirmed across sources."
     },
     {
-      "claim": "Taxi deu dois dos três Emmys; editora o chama de ator de personagem marcante",
+      "claim": "Doc Brown em De Volta para o Futuro; reverendo Jim Ignatowski em Taxi",
       "sourceIds": [
         "backtothefuture-cast",
-        "tv-academy-taxi-1982",
         "hachette-author"
       ],
       "verdict": "confirmed",
       "note": "Confirmed."
     },
     {
-      "claim": "Trabalho com o New York Shakespeare Festival, companhias fora da Broadway e alguns papéis na Broadway",
+      "claim": "Caçula de sete irmãos; pai Samuel (advogado) e mãe Ruth (cantora); avô Lewis Lapham cofundou a Texaco; aprendiz de verão aos 14; Neighborhood Playhouse aos 19 com Sanford Meisner",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed on Biography.com."
+    },
+    {
+      "claim": "Estreia no palco com And They Put Handcuffs on the Flowers; estreia na Broadway com Red, White and Maddox",
       "sourceIds": [
         "biography-com"
       ],
@@ -45,7 +44,15 @@
       "note": "Confirmed."
     },
     {
-      "claim": "Montagem vencedora do Tony Award de Morning's at Seven; produção nova-iorquina de Trumbo",
+      "claim": "Mais de 200 peças, na Broadway, fora dela e em teatros regionais",
+      "sourceIds": [
+        "backtothefuture-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Cast page: over two hundred plays."
+    },
+    {
+      "claim": "Obie e Drama Desk por Kaspar",
       "sourceIds": [
         "backtothefuture-cast"
       ],
@@ -53,7 +60,15 @@
       "note": "Confirmed."
     },
     {
-      "claim": "Estreia no cinema em 1975 em Um Estranho no Ninho; filme ganhou cinco Oscars incluindo melhor filme",
+      "claim": "Montagem de Morning's at Seven na Broadway; produção nova-iorquina de Trumbo como Dalton Trumbo",
+      "sourceIds": [
+        "backtothefuture-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed; the Tony wording was removed as instructed."
+    },
+    {
+      "claim": "Estreia no cinema em 1975 como Max Taber em Um Estranho no Ninho",
       "sourceIds": [
         "biography-com"
       ],
@@ -61,7 +76,7 @@
       "note": "Confirmed."
     },
     {
-      "claim": "Oberon em Yale com Meryl Streep como Helena",
+      "claim": "Oberon em Yale com Meryl Streep como Helena, 1975",
       "sourceIds": [
         "biography-com"
       ],
@@ -69,17 +84,31 @@
       "note": "Confirmed."
     },
     {
-      "claim": "Taxi cinco anos; Jim Ignatowski; Emmys 1982 ABC e 1983 NBC; indicados DeVito, Landesberg, Glass",
+      "claim": "Cinco anos em Taxi; dois dos três Emmys por esse papel",
       "sourceIds": [
-        "backtothefuture-cast",
-        "tv-academy-bio",
+        "backtothefuture-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Prêmios de Taxi em 1982 (ABC) e 1983 (NBC)",
+      "sourceIds": [
+        "tv-academy-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Indicados de 1982: Danny DeVito, Steve Landesberg e Ron Glass; Lloyd vencedor",
+      "sourceIds": [
         "tv-academy-taxi-1982"
       ],
       "verdict": "confirmed",
       "note": "Confirmed."
     },
     {
-      "claim": "Juiz Doom 1988; tio Fester 1991 e 1993",
+      "claim": "Professor B.O. Beanes em Amazing Stories",
       "sourceIds": [
         "biography-com"
       ],
@@ -87,15 +116,56 @@
       "note": "Confirmed."
     },
     {
-      "claim": "Mais de noventa produções; Independent Spirit por Twenty Bucks; Eight Men Out",
+      "claim": "Doc: máquina do tempo nuclear num DeLorean; amigo de Marty McFly; o manda para 1955",
       "sourceIds": [
+        "backtothefuture-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed on cast page."
+    },
+    {
+      "claim": "Partes II (1989) e III (1990); romance com Clara no Velho Oeste",
+      "sourceIds": [
+        "biography-com",
         "backtothefuture-cast"
       ],
       "verdict": "confirmed",
       "note": "Confirmed."
     },
     {
-      "claim": "Quatro indicações e três prêmios Emmy; Road to Avonlea 1992 como Alistair Dimple; Professor Dimpie",
+      "claim": "Professor Plum em Clue (1985); klingon em Star Trek III (1984)",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Juiz Doom em Uma Cilada para Roger Rabbit (1988); tio Fester em A Família Addams (1991) e sequência (1993)",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Papel como assassino frio e sem alma em Twenty Bucks; prêmio Independent Spirit; mais de noventa produções; Eight Men Out nos créditos",
+      "sourceIds": [
+        "backtothefuture-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted: chilly depiction as a soulless murderer; Independent Spirit; over ninety productions; Eight Men Out listed."
+    },
+    {
+      "claim": "Quatro indicações e três prêmios Emmy",
+      "sourceIds": [
+        "tv-academy-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Prêmio de 1992 como melhor ator principal de série dramática por Road to Avonlea, Alistair Dimple; Biography.com: Professor Dimpie",
       "sourceIds": [
         "tv-academy-bio",
         "biography-com"
@@ -104,7 +174,31 @@
       "note": "Confirmed."
     },
     {
-      "claim": "Segundo a editora, infância em Waveny, governantas, mãe criativa e pai severo",
+      "claim": "Biography.com chama o prêmio de Avonlea de seu primeiro Emmy",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Perfil da franquia: fez história nos Emmys com o prêmio de 1992",
+      "sourceIds": [
+        "backtothefuture-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Indicação de 2024 por Hacks, melhor ator convidado de série de comédia, Larry Arbuckle, episódio The Deborah Vance Christmas Spectacular",
+      "sourceIds": [
+        "tv-academy-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed; unsupported hachette-author citation removed."
+    },
+    {
+      "claim": "Livro In My Own Time: capa dura de 256 páginas, Grand Central, lançamento 27 de outubro de 2026, pré-venda",
       "sourceIds": [
         "hachette-memoir"
       ],
@@ -112,7 +206,7 @@
       "note": "Confirmed."
     },
     {
-      "claim": "Descrição fala em charme, humor seco e honestidade",
+      "claim": "E-book e audiolivro; preços US$ 32,50, US$ 15,99 e US$ 24,99",
       "sourceIds": [
         "hachette-memoir"
       ],
@@ -120,7 +214,7 @@
       "note": "Confirmed."
     },
     {
-      "claim": "Cabeça sem corpo em Wednesday; papel-título em Rei Lear",
+      "claim": "Infância na propriedade Waveny, em Connecticut",
       "sourceIds": [
         "hachette-memoir"
       ],
@@ -128,7 +222,7 @@
       "note": "Confirmed."
     },
     {
-      "claim": "Supanova Sydney 19-21 junho, Perth 27-28 junho 2026",
+      "claim": "Supanova Sydney de 19 a 21 de junho e Perth de 27 a 28 de junho de 2026",
       "sourceIds": [
         "variety-supanova-2026"
       ],
@@ -136,7 +230,7 @@
       "note": "Confirmed."
     },
     {
-      "claim": "Rhode Island Comic Con 6-8 novembro 2026; convidado mais recente; reencontro com Turner e Fleischer",
+      "claim": "Rhode Island Comic Con de 6 a 8 de novembro de 2026; convidado mais recente anunciado",
       "sourceIds": [
         "turnto10-ric-2026"
       ],
@@ -144,9 +238,33 @@
       "note": "Confirmed."
     },
     {
-      "claim": "Foto com Michael J. Fox, New York Comic Con, 8 de outubro de 2022",
+      "claim": "Reencontro de Roger Rabbit com Kathleen Turner e Charles Fleischer na convenção",
       "sourceIds": [
         "turnto10-ric-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Reunion confirmed with no separate dates; now tied to the convention."
+    },
+    {
+      "claim": "Foto com Michael J. Fox na New York Comic Con, 8 de outubro de 2022",
+      "sourceIds": [
+        "turnto10-ric-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Caption confirmed."
+    },
+    {
+      "claim": "Completou 88 anos em outubro de 2026",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic."
+    },
+    {
+      "claim": "Um dos atores de personagem mais marcantes da sua geração",
+      "sourceIds": [
+        "hachette-author"
       ],
       "verdict": "confirmed",
       "note": "Confirmed."
@@ -155,7 +273,7 @@
   "uncitedClaims": [],
   "readsHumanWritten": false,
   "addsValue": false,
-  "valueNote": "All facts now carry sources that confirm them, but the page is still a sentence-by-sentence rendering of the English draft with the same headings and sources. It has no Portuguese-language sources or Brazilian-reader context. Left unchanged per repair scope.",
+  "valueNote": "Flagged claims are removed or corrected and every fact checks out, but the page is still a sentence-by-sentence rendering of the English draft with the same headings and sources, with no Portuguese-language sources or Brazilian-reader context. Left for a human editor per repair scope.",
   "decision": "reject",
-  "summary": "All factual claims now check out against the opened sources. Remaining issues are style and localisation only, which the repair scope does not rewrite."
+  "summary": "Facts all check out. Remaining reasons are style and localisation only: the prose is a sentence-by-sentence rendering of the English draft and adds no Brazilian-reader value. Not rewritten per repair scope."
 }

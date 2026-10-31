@@ -41,17 +41,14 @@ faq:
     a: >-
       Em 14 temporadas ele somou 10.684 pontos, 3.146 rebotes e 3.525
       assistências, segundo o Basketball-Reference.
-flag: Rejected by the fact-check 4 times; needs a human editor.
+flag: Rejected by the fact-check 5 times; needs a human editor.
 reviewNotes: >-
-  11 of 38 claims could not be checked (source unreachable) | Prose reads
-  machine-written | Adds no value over existing pages: Follows the English page
-  section by section and keeps the English term 'probation'. Not localised for
-  Brazilian readers. Style judgement left to the human editor. | Reviewer
-  recommends rejection: Reject for now: Basketball-Reference (bbref-hardaway)
-  returned HTTP 403, so the career totals, All-Star and All-NBA years, draft
-  pick, height, positions, Treadwell and the 1971 birth year are unverified.
-  Remaining claims were checked against opened sources.
-autoReviews: 4
+  Adds no value over existing pages: Follows the English page section by
+  section; no localised context for Brazilian readers. | Reviewer recommends
+  rejection: All facts confirmed. Style/value only: the page mirrors the English
+  page section by section and keeps the English term 'probation' without
+  localising it. Left in review for a human editor.
+autoReviews: 5
 ---
 Penny Hardaway, nome de quadra de Anfernee Hardaway, nasceu em Memphis e hoje comanda os Tigers, o time da Universidade de Memphis. O Basketball-Reference o descreve como um jogador de 2,01 m, formado no Treadwell High School e nascido em Memphis, no Tennessee [s:bbref-hardaway]. Desde 2018 ele dirige a equipe em que havia jogado como universitário [s:si-hardaway-hire-2018].
 

@@ -28,9 +28,8 @@ faq:
   - q: ¿Cuántos años tiene William Devane?
     a: >-
       Las fuentes no coinciden en su año de nacimiento. Las cabeceras de Plex y
-      Cinegraph dan 1939, pero sus textos biográficos dan 1937, al igual que la
-      base de datos alemana fernsehserien [s:plex-william-devane]
-      [s:cinegraph-william-devane] [s:fernsehserien-devane]. Por eso esta página
+      Cinegraph dan 1939, pero sus textos biográficos dan 1937
+      [s:plex-william-devane] [s:cinegraph-william-devane]. Por eso esta página
       no indica su edad.
   - q: ¿De dónde es William Devane?
     a: >-
@@ -48,20 +47,18 @@ faq:
   - q: ¿Qué papel interpretó William Devane en Revenge?
     a: >-
       Interpretó a Edward Grayson, el padre de Conrad Grayson, en 2012
-      [s:fernsehserien-devane] [s:tvmaze-edward-grayson].
-flag: Rejected by the fact-check 4 times; needs a human editor.
+      [s:tvmaze-edward-grayson].
+flag: Rejected by the fact-check 5 times; needs a human editor.
 reviewNotes: >-
-  11 of 37 claims could not be checked (source unreachable) | Prose reads
-  machine-written | Reviewer recommends rejection: Rejected: fernsehserien.de
-  returned HTTP 403, so its claims could not be checked. Opened sources confirm
-  the rest. Mine That Bird is now attributed to the character Blach, not Devane.
-  The Knots Landing identity inference is removed. The prose mirrors the English
-  page; that is a style reason.
-autoReviews: 4
+  Prose reads machine-written | Reviewer recommends rejection: Every checked
+  claim matches its source. Rejected on style only: the text mirrors the English
+  page sentence by sentence and is built from source attributions and credit
+  lists.
+autoReviews: 5
 ---
 Para muchos espectadores, William Devane es James Heller en 24 y el presidente John F. Kennedy en The Missiles of October [s:plex-william-devane] [s:gulfnews-devane-24]. Gulf News añade que también ha hecho de presidente en Stargate SG-1 y de secretario de Estado en The West Wing [s:gulfnews-devane-24].
 
-Las fuentes no se ponen de acuerdo en su año de nacimiento. En las cabeceras de Plex y Cinegraph figura el 5 de septiembre de 1939, pero el texto biográfico de ambas páginas dice 5 de septiembre de 1937 [s:plex-william-devane] [s:cinegraph-william-devane]. La base de datos alemana fernsehserien también da 1937 [s:fernsehserien-devane]. Ninguna de las páginas consultadas aclara la diferencia, así que aquí no damos ni año de nacimiento ni edad. Cinegraph lo sitúa en Albany, Nueva York (Estados Unidos) [s:cinegraph-william-devane].
+Las fuentes no se ponen de acuerdo en su año de nacimiento. En las cabeceras de Plex y Cinegraph figura el 5 de septiembre de 1939, pero el texto biográfico de ambas páginas dice 5 de septiembre de 1937 [s:plex-william-devane] [s:cinegraph-william-devane]. Ninguna de las páginas consultadas aclara la diferencia, así que aquí no damos ni año de nacimiento ni edad. Cinegraph lo sitúa en Albany, Nueva York (Estados Unidos) [s:cinegraph-william-devane].
 
 ## Del teatro de Nueva York al plató
 
@@ -71,9 +68,9 @@ Según Plex, su primera escuela fue el teatro: empezó en el New York Shakespear
 
 Marathon Man (1976) le dio el papel de un agente despiadado [s:gulfnews-devane-24]. Según Plex, también aparece en McCabe & Mrs. Miller (1971, como abogado) y en Rolling Thunder (1977, como el mayor Charles Rane) [s:plex-william-devane]. Gulf News cuenta además que fue el interés amoroso de Natalie Wood en la miniserie De aquí a la eternidad, de 1979 [s:gulfnews-devane-24].
 
-En Space Cowboys (2000) interpretó a Eugene Davis, y en Payback (1999), a Carter [s:fernsehserien-devane]. En Hollow Man (2000) fue el doctor Howard Kramer, y en Interstellar (2014), Williams [s:fernsehserien-devane]. Plex le atribuye también a Tom Wetherly en Testament (1983) y a Mike Leak en The Bad News Bears in Breaking Training (1977) [s:plex-william-devane].
+En Space Cowboys (2000) interpretó a Eugene Davis, y en Payback (1999), a Carter [s:cinegraph-william-devane]. En Hollow Man (2000) fue el doctor Howard Kramer, y en Interstellar (2014), Williams [s:cinegraph-william-devane]. Plex le atribuye también a Tom Wetherly en Testament (1983) y a Mike Leak en The Bad News Bears in Breaking Training (1977) [s:plex-william-devane].
 
-En la película 50 to 1, estrenada en 2014, da vida al doctor Leonard Blach [s:fernsehserien-devane]. Gulf News indica que su personaje, Leonard Blach, es uno de los propietarios de Mine That Bird, el caballo outsider que ganó el Derby de Kentucky de 2009 [s:gulfnews-devane-24].
+En la película 50 to 1, estrenada en 2014, da vida al doctor Leonard Blach [s:cinegraph-william-devane]. Gulf News indica que su personaje, Leonard Blach, es uno de los propietarios de Mine That Bird, el caballo outsider que ganó el Derby de Kentucky de 2009 [s:gulfnews-devane-24].
 
 ## Dos nominaciones al Emmy, ningún premio
 
@@ -81,15 +78,15 @@ La Academia de Televisión registra dos nominaciones al Emmy para Devane y ning�
 
 ## Greg Sumner en Knots Landing
 
-Gulf News describe a Greg Sumner como un villano y sitúa su etapa en la serie de CBS entre 1983 y 1993 [s:gulfnews-devane-24]. Plex incluye Knots Landing entre sus títulos destacados [s:plex-william-devane]. La base de datos alemana fernsehserien recoge una serie titulada Unter der Sonne Kaliforniens, con Greg Sumner, de 1979 a 1993 [s:fernsehserien-devane].
+Gulf News describe a Greg Sumner como un villano y sitúa su etapa en la serie de CBS entre 1983 y 1993 [s:gulfnews-devane-24]. Plex incluye Knots Landing entre sus títulos destacados [s:plex-william-devane].
 
 En diciembre de 2011, Michael Fairman TV informó de que había sido elegido para interpretar a Edward Grayson en Revenge, el padre de Conrad Grayson y patriarca del clan de los Hamptons [s:michaelfairman-revenge-2011]. TVmaze lo incluye en los episodios emitidos el 8 y el 15 de febrero de 2012 [s:tvmaze-edward-grayson].
 
 ## Presidentes y otros papeles en televisión
 
-Gulf News dice que ha sido presidente en Stargate SG-1 y en The Dark Knight Rises (2012), de Christopher Nolan [s:gulfnews-devane-24]. La base de datos fernsehserien enumera un presidente Hayes en una serie llamada "Stargate", de 2004 a 2009, sin precisar si se trata de SG-1 [s:fernsehserien-devane]. Gulf News también lo sitúa como secretario de Estado en The West Wing [s:gulfnews-devane-24].
+Gulf News dice que ha sido presidente en Stargate SG-1 y en The Dark Knight Rises (2012), de Christopher Nolan [s:gulfnews-devane-24]. Gulf News también lo sitúa como secretario de Estado en The West Wing [s:gulfnews-devane-24].
 
-En esa misma base de datos aparecen Jesse Stone, donde interpretó al doctor Dix entre 2006 y 2015, y The Grinder, con el papel de Dean Sr. en 2015 y 2016 [s:fernsehserien-devane]. También figura como Peters en Psych en 2010 [s:fernsehserien-devane], aunque Plex da 2006 [s:plex-william-devane]. Plex incluye Falling from the Sky: Flight 174 y Jesse Stone: Lost in Paradise entre sus títulos conocidos [s:plex-william-devane].
+Plex también lo recoge como doctor Dix en las películas de Jesse Stone entre 2006 y 2015, como Dean Sanderson Sr. en The Grinder en 2015 y como Peters en Psych en 2006 [s:plex-william-devane]. Plex incluye Falling from the Sky: Flight 174 y Jesse Stone: Lost in Paradise entre sus títulos conocidos [s:plex-william-devane].
 
 ## Heller en 24
 

@@ -4,27 +4,19 @@
   "approved": false,
   "reasons": [
     "Prose reads machine-written",
-    "Adds no value over existing pages: Every fact is now sourced and confirmed, but the page is still a sentence-by-sentence rendering of the English draft with the same headings and repeated 'laut Verlag / Biography.com zufolge' attribution. It does not use the German queries (Alter, Filme, aktuell) beyond the FAQ and has no German-language sources. Left unchanged per repair scope.",
-    "Reviewer recommends rejection: All factual claims now check out against the opened sources. The remaining issues are style and value only (formulaic attribution, translation of the English draft), which the repair scope does not rewrite."
+    "Adds no value over existing pages: Flagged claims are removed or corrected and every fact checks out, but the page is still a sentence-by-sentence rendering of the English draft with the same headings and repeated attribution formulas, and it has no German-language sources or German search queries beyond the FAQ. Left for a human editor per repair scope.",
+    "Reviewer recommends rejection: Facts all check out. Remaining reasons are style and localisation only: formulaic attribution and a translation of the English draft that adds no German-specific value. Not rewritten per repair scope."
   ],
   "claims": [
     {
-      "claim": "Begonnen als Bühnenschauspieler, schon mit 14 im Sommertheater",
-      "sourceIds": [
-        "biography-com"
-      ],
-      "verdict": "confirmed",
-      "note": "Page: began as an apprentice in summer stock at age 14."
-    },
-    {
-      "claim": "Geboren 22. Oktober 1938 in Stamford, Connecticut; jüngstes von sieben Kindern",
+      "claim": "Geboren am 22. Oktober 1938 in Stamford, Connecticut",
       "sourceIds": [
         "biography-com",
-        "tv-academy-bio",
-        "tmdb"
+        "tmdb",
+        "tv-academy-bio"
       ],
       "verdict": "confirmed",
-      "note": "Date and place confirmed; youngest of four girls and three boys (seven) on Biography.com."
+      "note": "Confirmed across sources."
     },
     {
       "claim": "Doc Brown aus Zurück in die Zukunft; Reverend Jim Ignatowski aus Taxi",
@@ -33,18 +25,18 @@
         "hachette-author"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed on both pages."
+      "note": "Confirmed."
     },
     {
-      "claim": "Vater Samuel Anwalt, Mutter Ruth Sängerin; Großvater Lewis Lapham Mitbegründer von Texaco; Sommertheater mit 14; Neighborhood Playhouse mit 19 bei Meisner",
+      "claim": "Jüngstes von sieben Kindern; Vater Samuel (Anwalt), Mutter Ruth (Sängerin); Großvater Lewis Lapham Mitbegründer von Texaco; Sommertheater mit 14; Neighborhood Playhouse mit 19 bei Sanford Meisner",
       "sourceIds": [
         "biography-com"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed: attorney, singer, Lapham co-founded Texaco, summer stock at 14, Neighborhood Playhouse at 19 with Sanford Meisner."
+      "note": "Confirmed on Biography.com."
     },
     {
-      "claim": "Bühnendebüt And They Put Handcuffs on the Flowers; Broadway-Debüt Red, White and Maddox",
+      "claim": "Bühnendebüt mit And They Put Handcuffs on the Flowers; Broadway-Debüt mit Red, White and Maddox",
       "sourceIds": [
         "biography-com"
       ],
@@ -52,47 +44,31 @@
       "note": "Confirmed."
     },
     {
-      "claim": "Mehr als 200 Stücke; Obie und Drama Desk für Kaspar",
+      "claim": "Mehr als 200 Stücke, am Broadway, abseits davon und an Regionaltheatern",
       "sourceIds": [
         "backtothefuture-cast"
       ],
       "verdict": "confirmed",
-      "note": "Page: over two hundred plays; Obie and Drama Desk for Kaspar."
+      "note": "Cast page: over two hundred plays."
     },
     {
-      "claim": "Vor allem New York Shakespeare Festival und Off-Broadway, gelegentlich Broadway",
-      "sourceIds": [
-        "biography-com"
-      ],
-      "verdict": "confirmed",
-      "note": "Page: mostly New York Shakespeare Festivals and off-Broadway, with occasional Broadway roles."
-    },
-    {
-      "claim": "Preisgekrönte Broadway-Inszenierung von Morning's at Seven",
+      "claim": "Obie und Drama Desk Award für Kaspar",
       "sourceIds": [
         "backtothefuture-cast"
       ],
       "verdict": "confirmed",
-      "note": "Page: the Tony Award winning Broadway production of MORINGS AT SEVEN."
+      "note": "Confirmed."
     },
     {
-      "claim": "Trumbo, New Yorker Produktion, Dalton Trumbo",
+      "claim": "Broadway-Inszenierung von Morning's at Seven; New Yorker Produktion von Trumbo als Dalton Trumbo",
       "sourceIds": [
         "backtothefuture-cast"
       ],
       "verdict": "confirmed",
-      "note": "Page: Dalton Trumbo in the New York production of TRUMBO."
+      "note": "Confirmed; the Tony wording was removed as instructed."
     },
     {
-      "claim": "Kinodebüt 1975 als Max Taber; Film gewann fünf Oscars inkl. bester Film",
-      "sourceIds": [
-        "biography-com"
-      ],
-      "verdict": "confirmed",
-      "note": "Page: screen debut as Max Taber; the film won five Academy Awards including Best Picture."
-    },
-    {
-      "claim": "Oberon an der Yale University, Helena von Meryl Streep gespielt (1975)",
+      "claim": "Kinodebüt 1975 als Max Taber in Einer flog über das Kuckucksnest",
       "sourceIds": [
         "biography-com"
       ],
@@ -100,17 +76,55 @@
       "note": "Confirmed."
     },
     {
-      "claim": "Fünf Jahre Taxi; zwei Emmys dafür; 1982 ABC, 1983 NBC; Nominierte 1982 DeVito, Landesberg, Glass",
+      "claim": "Oberon an der Yale University mit Meryl Streep als Helena, 1975",
       "sourceIds": [
-        "backtothefuture-cast",
-        "tv-academy-bio",
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Fünf Jahre in Taxi; zwei der drei Emmys für diese Rolle",
+      "sourceIds": [
+        "backtothefuture-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Taxi-Auszeichnungen 1982 (ABC) und 1983 (NBC)",
+      "sourceIds": [
+        "tv-academy-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Nominierte 1982: Danny DeVito, Steve Landesberg, Ron Glass; Lloyd Gewinner",
+      "sourceIds": [
         "tv-academy-taxi-1982"
       ],
       "verdict": "confirmed",
-      "note": "Five-year run; two Emmys; TV Academy lists 1982 ABC and 1983 NBC; 1982 nominees DeVito, Landesberg, Glass confirmed."
+      "note": "Confirmed."
     },
     {
-      "claim": "Doc 1985, Marty McFly, Zeitreise 1955, Atomantrieb-DeLorean",
+      "claim": "Professor B.O. Beanes in Amazing Stories",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Doc: Zeitmaschine mit Atomantrieb in einem DeLorean; Freundschaft mit Marty McFly; schickt ihn ins Jahr 1955",
+      "sourceIds": [
+        "backtothefuture-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed on cast page."
+    },
+    {
+      "claim": "Teil II (1989) und III (1990); Liebesgeschichte mit Clara im Wilden Westen",
       "sourceIds": [
         "biography-com",
         "backtothefuture-cast"
@@ -119,82 +133,96 @@
       "note": "Confirmed."
     },
     {
-      "claim": "Teil II und III 1989 und 1990; Clara im Wilden Westen; Plum in Clue (1985); Klingone in Star Trek III (1984); Beanes in Amazing Stories",
+      "claim": "Professor Plum in Clue (1985); Klingone in Star Trek III (1984)",
       "sourceIds": [
-        "biography-com",
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Richter Doom in Falsches Spiel mit Roger Rabbit (1988); Onkel Fester in Die Addams Family (1991) und Fortsetzung (1993)",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Mehr als neunzig Produktionen; Independent Spirit Award für Twenty Bucks mit seelenlosem Mörder; Eight Men Out in der Filmliste",
+      "sourceIds": [
         "backtothefuture-cast"
       ],
       "verdict": "confirmed",
       "note": "Confirmed."
     },
     {
-      "claim": "Richter Doom 1988; Onkel Fester 1991 und 1993",
+      "claim": "Vier Nominierungen und drei Auszeichnungen",
+      "sourceIds": [
+        "tv-academy-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Preis 1992 als Hauptdarsteller in Dramaserie für Road to Avonlea, Alistair Dimple; Biography.com: Professor Dimpie",
+      "sourceIds": [
+        "tv-academy-bio",
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Biography.com bezeichnet den Avonlea-Preis als seinen ersten Emmy",
       "sourceIds": [
         "biography-com"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed: Addams Family 1991; Addams Family Values (1993) listed."
+      "note": "Confirmed."
     },
     {
-      "claim": "Mehr als neunzig Produktionen; Independent Spirit für Twenty Bucks; Figur als kühle Darstellung eines seelenlosen Mörders; Eight Men Out",
+      "claim": "Filmreihen-Seite: Emmy-Geschichte mit dem Preis von 1992",
       "sourceIds": [
         "backtothefuture-cast"
       ],
       "verdict": "confirmed",
-      "note": "Page: over ninety film and television productions; Independent Spirit for Twenty Bucks; chilly depiction as a soulless murderer; Eight Men Out listed."
+      "note": "Confirmed."
     },
     {
-      "claim": "Vier Nominierungen, drei Auszeichnungen; Road to Avonlea 1992 als Alistair Dimple; Professor Dimpie bei Biography.com",
+      "claim": "Nominierung 2024 für Hacks, bester Gastdarsteller Comedyserie, Larry Arbuckle, Folge The Deborah Vance Christmas Spectacular",
       "sourceIds": [
-        "tv-academy-bio",
-        "biography-com"
+        "tv-academy-bio"
       ],
       "verdict": "confirmed",
-      "note": "TV Academy: 4 nominations, 3 wins; Avonlea 1992 as Alistair Dimple; Biography.com: Professor Dimpie."
+      "note": "Confirmed; unsupported hachette-author citation removed."
     },
     {
-      "claim": "Hacks 2024, bester Gastdarsteller Comedyserie, Larry Arbuckle, Folge The Deborah Vance Christmas Spectacular",
-      "sourceIds": [
-        "tv-academy-bio",
-        "hachette-author"
-      ],
-      "verdict": "confirmed",
-      "note": "TV Academy confirms the nomination. The author page also mentions the 2024 Hacks nomination, so the tag stays."
-    },
-    {
-      "claim": "Memoiren: 256 Seiten gebunden, Grand Central, 27. Oktober 2026, Vorbestellung, Termin kann sich ändern; E-Book und Hörbuch; Preise",
+      "claim": "Memoiren In My Own Time: 256 Seiten, gebunden, Grand Central, Erscheinen 27. Oktober 2026, Vorbestellung",
       "sourceIds": [
         "hachette-memoir"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed: 256 pages, hardcover, Grand Central, on sale Oct 27 2026, preorder, date subject to change, ebook, unabridged audiobook, USD prices."
+      "note": "Confirmed."
     },
     {
-      "claim": "Kindheit auf dem Waveny-Anwesen; bei Gouvernanten aufgewachsen; kreative Mutter, strenger Vater",
+      "claim": "E-Book und ungekürztes Hörbuch; Preise 32,50, 15,99 und 24,99 US-Dollar",
       "sourceIds": [
         "hachette-memoir"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed: Waveny; raised primarily by governesses; creative mother and stern father."
+      "note": "Confirmed."
     },
     {
-      "claim": "Erzählton: Charme, trockener Witz, Ehrlichkeit; Theater New York; Weg zu Fernsehen und Film",
+      "claim": "Kindheit auf dem Waveny-Anwesen in Connecticut",
       "sourceIds": [
         "hachette-memoir"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed: told with charm, dry wit, and honesty; New York theater; path to television and film."
+      "note": "Confirmed."
     },
     {
-      "claim": "Körperloser Kopf in Wednesday; Titelrolle King Lear",
-      "sourceIds": [
-        "hachette-memoir"
-      ],
-      "verdict": "confirmed",
-      "note": "Confirmed: disembodied head in Wednesday; title role in a stage production of King Lear."
-    },
-    {
-      "claim": "Supanova Sydney 19.-21. Juni, Perth 27.-28. Juni 2026",
+      "claim": "Supanova Sydney 19.-21. Juni und Perth 27.-28. Juni 2026",
       "sourceIds": [
         "variety-supanova-2026"
       ],
@@ -202,43 +230,50 @@
       "note": "Confirmed."
     },
     {
-      "claim": "Rhode Island Comic Con 6.-8. November 2026; neuester Gast; Wiedersehen mit Turner und Fleischer",
+      "claim": "Rhode Island Comic Con vom 6. bis 8. November 2026; neuester angekündigter Gast",
       "sourceIds": [
         "turnto10-ric-2026"
       ],
       "verdict": "confirmed",
-      "note": "Page: November 6 to 8; Lloyd is the latest guest announced; Turner and Fleischer named in a Who Framed Roger Rabbit reunion."
+      "note": "Confirmed."
     },
     {
-      "claim": "Foto mit Michael J. Fox, New York Comic Con, 8. Oktober 2022",
+      "claim": "Wiedersehen mit Kathleen Turner und Charles Fleischer zu Roger Rabbit auf der Convention",
       "sourceIds": [
         "turnto10-ric-2026"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed: photo caption, New York Comic Con on October 8, 2022."
+      "note": "Reunion confirmed with no separate dates; now tied to the convention."
     },
     {
-      "claim": "Der Verlag nennt ihn einen der markantesten Charakterdarsteller seiner Generation; Schöpfer von Doc Brown und Jim Ignatowski",
+      "claim": "Foto mit Michael J. Fox auf dem New York Comic Con, 8. Oktober 2022",
+      "sourceIds": [
+        "turnto10-ric-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Caption confirmed."
+    },
+    {
+      "claim": "Im Oktober 2026 88 Jahre alt geworden",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic."
+    },
+    {
+      "claim": "Einer der markantesten Charakterdarsteller seiner Generation",
       "sourceIds": [
         "hachette-author"
       ],
       "verdict": "confirmed",
-      "note": "Author page: most distinctive character actors of his generation; creator of iconic roles including Doc Brown and Jim Ignatowski."
-    },
-    {
-      "claim": "Woher stammt: Stamford, Connecticut; US-amerikanischer Schauspieler",
-      "sourceIds": [
-        "tv-academy-bio",
-        "tmdb"
-      ],
-      "verdict": "confirmed",
-      "note": "TMDB: American actor; birthplace Stamford, Connecticut, USA."
+      "note": "Confirmed."
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": false,
   "addsValue": false,
-  "valueNote": "Every fact is now sourced and confirmed, but the page is still a sentence-by-sentence rendering of the English draft with the same headings and repeated 'laut Verlag / Biography.com zufolge' attribution. It does not use the German queries (Alter, Filme, aktuell) beyond the FAQ and has no German-language sources. Left unchanged per repair scope.",
+  "valueNote": "Flagged claims are removed or corrected and every fact checks out, but the page is still a sentence-by-sentence rendering of the English draft with the same headings and repeated attribution formulas, and it has no German-language sources or German search queries beyond the FAQ. Left for a human editor per repair scope.",
   "decision": "reject",
-  "summary": "All factual claims now check out against the opened sources. The remaining issues are style and value only (formulaic attribution, translation of the English draft), which the repair scope does not rewrite."
+  "summary": "Facts all check out. Remaining reasons are style and localisation only: formulaic attribution and a translation of the English draft that adds no German-specific value. Not rewritten per repair scope."
 }

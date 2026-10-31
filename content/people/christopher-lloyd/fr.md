@@ -44,16 +44,17 @@ faq:
       Il est annoncé dans des conventions : aux événements Supanova de Sydney et
       de Perth en juin 2026, puis au Rhode Island Comic Con en novembre 2026
       [s:variety-supanova-2026][s:turnto10-ric-2026].
-flag: Rejected by the fact-check 5 times; needs a human editor.
+flag: Rejected by the fact-check 6 times; needs a human editor.
 reviewNotes: >-
-  Prose reads machine-written | Adds no value over existing pages: All facts now
-  carry sources that confirm them, but the page is still a
-  paragraph-by-paragraph rendering of the English draft with the same headings
-  and sources. It has no French-language sources or French-specific queries.
-  Left unchanged per repair scope. | Reviewer recommends rejection: All factual
-  claims now check out against the opened sources. Remaining issues are style
-  and localisation only, which the repair scope does not rewrite.
-autoReviews: 5
+  Prose reads machine-written | Adds no value over existing pages: Flagged
+  claims are removed or corrected and every fact checks out, but the page is
+  still a paragraph-by-paragraph rendering of the English draft with the same
+  headings and sources, and it has no French-language sources or French-specific
+  queries. Left for a human editor per repair scope. | Reviewer recommends
+  rejection: Facts all check out. Remaining reasons are style and localisation
+  only: the prose is a paragraph-by-paragraph rendering of the English draft and
+  adds no French-reader value. Not rewritten per repair scope.
+autoReviews: 6
 ---
 Christopher Lloyd est surtout le docteur Brown de Retour vers le futur [s:backtothefuture-cast]. Sa filmographie commence pourtant sur les planches [s:biography-com]. Né le 22 octobre 1938 à Stamford, dans le Connecticut, le plus jeune de sept enfants [s:biography-com], il fait d'abord carrière au théâtre, avant que la télévision le rende célèbre avec Taxi. Deux de ses trois Emmy viennent de ce rôle [s:backtothefuture-cast][s:tv-academy-taxi-1982]. Son éditeur le range parmi les acteurs de caractère les plus singuliers de sa génération [s:hachette-author].
 
@@ -63,11 +64,11 @@ Son père, Samuel, est avocat, et sa mère, Ruth, chanteuse. Son grand-père mat
 
 Le théâtre occupe ses premières années. Il monte sur scène pour la première fois dans And They Put Handcuffs on the Flowers, puis fait ses débuts à Broadway dans Red, White and Maddox [s:biography-com]. Il a joué dans plus de deux cents pièces, à Broadway, hors Broadway et dans des théâtres régionaux [s:backtothefuture-cast]. Pour Kaspar, il reçoit l'Obie et le Drama Desk Award [s:backtothefuture-cast].
 
-Selon Biography.com, son travail sur scène s'est surtout fait avec le New York Shakespeare Festival et des compagnies hors Broadway, avec quelques rôles à Broadway [s:biography-com]. Sa biographie sur le site officiel de la saga cite aussi la production de Morning's at Seven, récompensée par un Tony Award, et la version new-yorkaise de Trumbo, où il incarne Dalton Trumbo [s:backtothefuture-cast].
+Sa biographie sur le site officiel de la saga cite aussi la production de Morning's at Seven à Broadway, et la version new-yorkaise de Trumbo, où il incarne Dalton Trumbo [s:backtothefuture-cast].
 
 ## Vol au-dessus d'un nid de coucou, puis Taxi
 
-Il débute au cinéma en 1975 dans Vol au-dessus d'un nid de coucou, dans le rôle de Max Taber [s:biography-com]. Biography.com décrit Taber comme un patient psychiatrique et rappelle que le film a remporté cinq Oscars, dont celui du meilleur film [s:biography-com]. La même année, il joue Obéron dans une production du Songe d'une nuit d'été à l'université Yale, où Meryl Streep interprète Helena [s:biography-com].
+Il débute au cinéma en 1975 dans Vol au-dessus d'un nid de coucou, dans le rôle de Max Taber [s:biography-com]. La même année, il joue Obéron dans une production du Songe d'une nuit d'été à l'université Yale, où Meryl Streep interprète Helena [s:biography-com].
 
 C'est la télévision qui le rend populaire. Pendant cinq ans, il incarne le révérend Jim Ignatowski dans Taxi, et il décroche deux de ses trois Emmy pour ce personnage [s:backtothefuture-cast]. La Television Academy enregistre ses victoires pour les saisons 1982 et 1983. Toutes deux relèvent du second rôle masculin dans une comédie, celle de 1982 étant attribuée à ABC et celle de 1983 à NBC [s:tv-academy-taxi-1982][s:tv-academy-bio]. Parmi les nommés de 1982 figurent Danny DeVito, lui aussi issu de Taxi, puis Steve Landesberg et Ron Glass, de Barney Miller [s:tv-academy-taxi-1982].
 
@@ -89,16 +90,14 @@ La Television Academy lui compte quatre nominations et trois victoires [s:tv-aca
 
 Le site officiel de la saga affirme qu'il a fait histoire aux Emmy avec cette victoire de 1992 [s:backtothefuture-cast]. Biography.com la présente pourtant comme son premier Emmy, ce qui ne concorde pas avec le palmarès de la Academy, qui retient les victoires pour Taxi en 1982 et 1983 [s:biography-com][s:tv-academy-bio].
 
-Sa dernière nomination date de 2024, comme meilleur acteur invité dans une série comique, pour Hacks, où il joue Larry Arbuckle [s:tv-academy-bio][s:hachette-author]. Elle concerne l'épisode The Deborah Vance Christmas Spectacular [s:tv-academy-bio].
+Sa dernière nomination date de 2024, comme meilleur acteur invité dans une série comique, pour Hacks, où il joue Larry Arbuckle [s:tv-academy-bio]. Elle concerne l'épisode The Deborah Vance Christmas Spectacular [s:tv-academy-bio].
 
 ## Ce qu'il prépare en 2026
 
 In My Own Time: A Memoir est un ouvrage relié de 256 pages, publié par Grand Central Publishing, une marque du groupe Hachette Book Group. La fiche de l'éditeur indique une parution le 27 octobre 2026, mais le titre y figure toujours en précommande, et l'éditeur précise que la date peut changer. Une version numérique et un livre audio intégral sont aussi proposés [s:hachette-memoir]. Le prix de l'ouvrage relié est de 32,50 dollars américains, celui de la version numérique de 15,99 dollars et celui du téléchargement audio intégral de 24,99 dollars [s:hachette-memoir].
 
-D'après l'éditeur, il y raconte son enfance à Waveny, dans le Connecticut, où il grandit surtout entouré de gouvernantes, face à une mère créative et à un père sévère [s:hachette-memoir]. Le livre évoque aussi ses années de théâtre new-yorkais et son passage vers la télévision et le cinéma [s:hachette-memoir].
+D'après l'éditeur, il y raconte son enfance à Waveny, dans le Connecticut [s:hachette-memoir].
 
-La fiche décrit un ton fait de charme, d'humour sec et d'honnêteté [s:hachette-memoir]. Elle évoque aussi son apparition en tête coupée dans Wednesday et le rôle-titre qu'il a tenu dans une mise en scène du Roi Lear [s:hachette-memoir].
-
-Côté conventions, Variety a annoncé sa présence au Supanova de Sydney, du 19 au 21 juin, puis à Perth, les 27 et 28 juin 2026 [s:variety-supanova-2026]. TurnTo10 le présente comme le dernier invité annoncé pour le Rhode Island Comic Con, où il doit participer, avec Kathleen Turner et Charles Fleischer, à des retrouvailles autour de Qui veut la peau de Roger Rabbit, du 6 au 8 novembre 2026 [s:turnto10-ric-2026].
+Côté conventions, Variety a annoncé sa présence au Supanova de Sydney, du 19 au 21 juin, puis à Perth, les 27 et 28 juin 2026 [s:variety-supanova-2026]. TurnTo10 le présente comme le dernier invité annoncé pour le Rhode Island Comic Con, qui se tient du 6 au 8 novembre 2026. Il doit y participer, avec Kathleen Turner et Charles Fleischer, à des retrouvailles autour de Qui veut la peau de Roger Rabbit [s:turnto10-ric-2026].
 
 Le même article publie une photo de lui avec Michael J. Fox lors d'une rencontre Retour vers le futur au New York Comic Con, le 8 octobre 2022 [s:turnto10-ric-2026].

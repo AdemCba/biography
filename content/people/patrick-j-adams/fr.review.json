@@ -3,276 +3,141 @@
   "model": "claude-haiku-5-5",
   "approved": false,
   "reasons": [
-    "Adds no value over existing pages: Follows the English page sentence by sentence, with the same sections, quotes and English-only sources. It adds no French-language sources or French-specific context, which the style guide treats as failing review.",
-    "Reviewer recommends rejection: All cited facts check out after the fixes. Rejection is for the translation-only issue, not a factual error."
+    "Prose reads machine-written",
+    "Adds no value over existing pages: The page follows the English page sentence by sentence, with the same sections and English-only sources, and adds no local-language sources or local context. The style guide treats this as failing review.",
+    "Reviewer recommends rejection: Factual fixes applied to the unsupported sentences; remaining rejection is for localisation only (sentence-by-sentence translation of the English page)."
   ],
   "claims": [
     {
-      "claim": "Mike Ross, avocat de Suits, diffusée sur USA",
+      "claim": "Born 27 Aug 1981 in Toronto; Canadian nationality",
+      "sourceIds": [
+        "wikidata-q644565",
+        "wikidata-q172",
+        "wikidata-q16"
+      ],
+      "verdict": "confirmed",
+      "note": "Wikidata: birth date 27 Aug 1981, Toronto, citizenship Canada."
+    },
+    {
+      "claim": "Suits (USA) as Mike Ross; film credits Old School, Pillow Talk, Room for Rent, Rosemary's Baby",
       "sourceIds": [
         "usc-sda-patrick-j-adams",
         "tvseriesfinale-suits"
       ],
       "verdict": "confirmed",
-      "note": "USC: best known for Mike Ross on Suits; TV Series Finale: network USA."
+      "note": "USC profile lists these credits and the Suits lead role."
     },
     {
-      "claim": "Né le 27 août 1981 à Toronto",
+      "claim": "Suits aired 23 Jun 2011 to 25 Sep 2019, nine seasons, 134 episodes",
       "sourceIds": [
-        "wikidata-q644565",
-        "wikidata-q172"
+        "tvseriesfinale-suits"
       ],
       "verdict": "confirmed",
-      "note": "Wikidata: 27 August 1981, Toronto."
+      "note": "Matches TV Series Finale."
     },
     {
-      "claim": "Wikidata attribue la nationalité canadienne",
-      "sourceIds": [
-        "wikidata-q16"
-      ],
-      "verdict": "confirmed",
-      "note": "Country of citizenship: Canada."
-    },
-    {
-      "claim": "Fiche USC mentionne Old School, Pillow Talk, Room for Rent et Rosemary's Baby",
+      "claim": "SAG Award nomination for drama series for Suits",
       "sourceIds": [
         "usc-sda-patrick-j-adams"
       ],
       "verdict": "confirmed",
-      "note": "All four titles appear in the USC credits."
+      "note": "USC profile."
     },
     {
-      "claim": "Suits diffusée sur USA, fin de la série après la septième saison",
+      "claim": "Left Suits after season 7; began considering leaving mid-season 6; 2018 THR quote 'we've told his story'",
       "sourceIds": [
         "tvline-suits-exit",
-        "tvseriesfinale-suits"
-      ],
-      "verdict": "confirmed",
-      "note": "Exited after seven seasons; network USA."
-    },
-    {
-      "claim": "Entretien 2018 au Hollywood Reporter repris par Just Jared en 2024: 'on a raconté son histoire...'",
-      "sourceIds": [
         "justjared-suits-exit-2024"
       ],
       "verdict": "confirmed",
-      "note": "Source quotes the 2018 interview; French is a translation."
+      "note": "Matches TVLine and Just Jared (quoting THR 2018)."
     },
     {
-      "claim": "Commencé à y penser vers la fin de la première moitié de la sixième saison",
-      "sourceIds": [
-        "justjared-suits-exit-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches source."
-    },
-    {
-      "claim": "Podcast Dinner's On Me avec Jesse Tyler Ferguson: santé mentale, trop bu vers la fin de la septième saison",
+      "claim": "Dinner's On Me podcast: mental health not well cared for; drinking too much at end of season 7; money only reason to stay; never regretted; 'right thing for my marriage... it was time'",
       "sourceIds": [
         "tvline-suits-exit"
       ],
       "verdict": "confirmed",
-      "note": "Podcast named; matches source."
+      "note": "Matches TVLine interview."
     },
     {
-      "claim": "Seul l'argent aurait pu le retenir; ne l'a jamais regretté; 'C'était la bonne chose pour mon mariage... Il était temps'",
-      "sourceIds": [
-        "tvline-suits-exit"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches source quotes."
-    },
-    {
-      "claim": "Marié à l'actrice Troian Bellisario",
-      "sourceIds": [
-        "justjared-suits-exit-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "Article identifies the now-wife as Troian Bellisario."
-    },
-    {
-      "claim": "Rôle du major John Glenn dans The Right Stuff, série Disney+ sur les Mercury Seven",
+      "claim": "Cast as Major John Glenn in The Right Stuff (Disney+); first cast; 'a lot of fear'; Glenn the odd man out of the Mercury Seven",
       "sourceIds": [
         "d23-right-stuff-glenn",
         "tvline-right-stuff-preview"
       ],
       "verdict": "confirmed",
-      "note": "D23 names Adams as Major John Glenn in the Disney+ series."
+      "note": "Matches D23 and TVLine preview."
     },
     {
-      "claim": "Premier comédien engagé: 'Je crois que j'ai été le premier à être choisi'",
-      "sourceIds": [
-        "tvline-right-stuff-preview"
-      ],
-      "verdict": "confirmed",
-      "note": "Translation of 'I think I was the first person cast'."
-    },
-    {
-      "claim": "'très peur, pour être honnête'; Glenn 'le vilain petit canard des Mercury Seven, et pas parce qu'il était le meilleur'",
-      "sourceIds": [
-        "tvline-right-stuff-preview"
-      ],
-      "verdict": "confirmed",
-      "note": "Translations of 'I had a lot of fear, to be honest' and 'the odd man out ... not because he was the best'."
-    },
-    {
-      "claim": "Archives de Glenn à l'université d'État de l'Ohio: 'des centaines et des centaines de cartons de choses'",
+      "claim": "Ohio State archives hundreds of boxes; luxury of enormous resources; personal writings, service notes, communications with presidents; linchpins/touchstones not imitation",
       "sourceIds": [
         "d23-right-stuff-glenn"
       ],
       "verdict": "confirmed",
-      "note": "Translation of 'hundreds and hundreds of boxes of stuff'. The unsupported 'quelques jours' was removed."
+      "note": "Matches D23 wording."
     },
     {
-      "claim": "'une quantité énorme de ressources'",
+      "claim": "Take Me Out 2022 revival: Broadway debut as Kippy Sunderstrom; naked every night; leave my body; Scott Ellis chance to fix it; panic attacks",
       "sourceIds": [
-        "d23-right-stuff-glenn"
+        "justjared-take-me-out-2024"
       ],
       "verdict": "confirmed",
-      "note": "Translation of 'an enormous amount of resources'."
+      "note": "Matches Just Jared."
     },
     {
-      "claim": "Lettres privées, journaux, échanges avec des présidents; points d'appui sans imiter",
-      "sourceIds": [
-        "d23-right-stuff-glenn"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches D23 (private letters, journal entries, correspondence with presidents, linchpins)."
-    },
-    {
-      "claim": "'C'est ce que j'attendais'",
-      "sourceIds": [
-        "tvline-right-stuff-preview"
-      ],
-      "verdict": "confirmed",
-      "note": "Translation of 'This is what I've been waiting for'."
-    },
-    {
-      "claim": "La pièce a fermé le 11 juin 2022 au Hayes Theatre",
+      "claim": "Take Me Out closed 11 June 2022 at the Hayes Theatre; BroadwayWorld 12 June 2022 Tony 2022 Best Revival; Adams in cast",
       "sourceIds": [
         "broadwayworld-take-me-out-tony"
       ],
       "verdict": "confirmed",
-      "note": "'closed yesterday, June 11, at the Hayes Theatre'."
+      "note": "Matches BroadwayWorld."
     },
     {
-      "claim": "BroadwayWorld annonçait le Tony 2022 de la meilleure reprise d'une pièce; cite Adams parmi les interprètes",
-      "sourceIds": [
-        "broadwayworld-take-me-out-tony"
-      ],
-      "verdict": "confirmed",
-      "note": "Article dated Jun. 12, 2022; cast list includes Adams."
-    },
-    {
-      "claim": "Débuts à Broadway dans le rôle de Kippy Sunderstrom",
-      "sourceIds": [
-        "justjared-take-me-out-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "Article: Broadway debut as Kippy Sunderstrom."
-    },
-    {
-      "claim": "Adams a dit que la pièce demandait d'être nus chaque soir",
-      "sourceIds": [
-        "justjared-take-me-out-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "'in a play where we had to be naked every night'. The unsupported 'trac' clause was removed."
-    },
-    {
-      "claim": "'C'était tellement intense que je crois que j'ai vraiment dû quitter mon corps chaque soir'",
-      "sourceIds": [
-        "justjared-take-me-out-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "Translation of the exact quote."
-    },
-    {
-      "claim": "Scott Ellis l'a poussé à accepter malgré ses crises de panique: 'c'est ta chance de régler ça, en gros'",
-      "sourceIds": [
-        "justjared-take-me-out-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "Source: 'this is your chance to fix that, essentially'. The French is a faithful translation ('en gros' = essentially)."
-    },
-    {
-      "claim": "The Madison, série Paramount+; Adams joue Russell McIntosh; Paige interprétée par Elle Chapman, cadette des Clyburn",
+      "claim": "The Madison cast: Pfeiffer as Stacy, Russell as Preston, Adams as Russell McIntosh, Paige McIntosh played by Elle Chapman (younger Clyburn daughter)",
       "sourceIds": [
         "paramount-madison-cast"
       ],
       "verdict": "confirmed",
-      "note": "Cast list and character descriptions confirm."
+      "note": "Matches Paramount+ cast page."
     },
     {
-      "claim": "Page Facebook 'R.I.P. Patrick J. Adams' affirme sa mort 'vers 11 heures, heure de l'Est, le jeudi (29 octobre 2026)'",
+      "claim": "Facebook hoax page 29 Oct 2026, death about 11 a.m. ET, nearly one million likes, no major Canadian network report; reps 30 Oct 'still alive and well'; update 31 Oct 'seems false'",
       "sourceIds": [
         "mediamass-death-hoax"
       ],
       "verdict": "confirmed",
-      "note": "Matches source wording, translated."
+      "note": "Matches Mediamass."
     },
     {
-      "claim": "Près d'un million de j'aime; aucune grande chaîne canadienne n'avait annoncé le décès",
-      "sourceIds": [
-        "mediamass-death-hoax"
-      ],
-      "verdict": "confirmed",
-      "note": "'nearly one million' likes; skeptics noted no major Canadian network."
-    },
-    {
-      "claim": "Le 30 octobre, représentants: 'est toujours vivant et bien portant, arrêtez de croire...'",
-      "sourceIds": [
-        "mediamass-death-hoax"
-      ],
-      "verdict": "confirmed",
-      "note": "Translation of 'still alive and well, stop believing what you see on the Internet'."
-    },
-    {
-      "claim": "Mise à jour du 31 octobre 2026: l'information 'semble fausse'",
-      "sourceIds": [
-        "mediamass-death-hoax"
-      ],
-      "verdict": "confirmed",
-      "note": "'This story seems to be false.'"
-    },
-    {
-      "claim": "FAQ: a eu 45 ans en août 2026",
+      "claim": "Age 45 in Aug 2026 (FAQ)",
       "sourceIds": [
         "wikidata-q644565"
       ],
       "verdict": "confirmed",
-      "note": "Birthdate arithmetic correct."
+      "note": "Birth 27 Aug 1981."
     },
     {
-      "claim": "FAQ: Facebook 29 octobre 2026; représentants 30 octobre: vivant et bien portant",
+      "claim": "Married to actress Troian Bellisario",
       "sourceIds": [
-        "mediamass-death-hoax"
+        "wikidata-q644565"
       ],
       "verdict": "confirmed",
-      "note": "Matches source."
+      "note": "Wikidata lists Troian Bellisario as spouse. Citation corrected to Wikidata."
     },
     {
-      "claim": "FAQ: après sept saisons, il comptait huit ans loin de chez lui et de sa femme",
+      "claim": "Private letters, diaries and exchanges with presidents read for the role",
       "sourceIds": [
-        "justjared-suits-exit-2024"
+        "d23-right-stuff-glenn"
       ],
       "verdict": "confirmed",
-      "note": "Source: 'After seven seasons - really, eight years of being away from home and away from my now-wife ...'. The reviewer flagged this as absent, but it is in the cited article."
-    },
-    {
-      "claim": "FAQ: fin de la septième saison; santé mentale; trop bu; histoire de Mike Ross achevée",
-      "sourceIds": [
-        "tvline-suits-exit",
-        "justjared-suits-exit-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches both sources."
+      "note": "Sentence corrected: D23 says personal writings, service notes and communications with several presidents. Now matches the cited source or Wikidata."
     }
   ],
   "uncitedClaims": [],
-  "readsHumanWritten": true,
+  "readsHumanWritten": false,
   "addsValue": false,
-  "valueNote": "Follows the English page sentence by sentence, with the same sections, quotes and English-only sources. It adds no French-language sources or French-specific context, which the style guide treats as failing review.",
+  "valueNote": "The page follows the English page sentence by sentence, with the same sections and English-only sources, and adds no local-language sources or local context. The style guide treats this as failing review.",
   "decision": "reject",
-  "summary": "All cited facts check out after the fixes. Rejection is for the translation-only issue, not a factual error."
+  "summary": "Factual fixes applied to the unsupported sentences; remaining rejection is for localisation only (sentence-by-sentence translation of the English page)."
 }

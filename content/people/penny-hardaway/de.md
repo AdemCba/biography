@@ -40,19 +40,14 @@ faq:
     a: >-
       In 14 NBA-Saisons erzielte er 10.684 Punkte, holte 3.146 Rebounds und
       verteilte 3.525 Assists, laut Basketball-Reference.
-flag: Rejected by the fact-check 4 times; needs a human editor.
+flag: Rejected by the fact-check 5 times; needs a human editor.
 reviewNotes: >-
-  11 of 38 claims could not be checked (source unreachable) | Prose reads
-  machine-written | Adds no value over existing pages: Reads as a
-  sentence-by-sentence translation of the English page with English terms left
-  in; no localisation for German readers. Style judgement left to the human
-  editor. Facts were the same as the English version. | Reviewer recommends
-  rejection: Reject for now: Basketball-Reference (bbref-hardaway) returned HTTP
-  403, so the career totals, All-Star and All-NBA years, draft pick,
-  height/weight, positions, Treadwell and the 1971 birth year are unverified.
-  Remaining claims were checked against opened sources. Style: the page still
-  reads as a translation of the English version.
-autoReviews: 4
+  Adds no value over existing pages: Reads as a section-by-section translation
+  of the English page with no localised context. | Reviewer recommends
+  rejection: All facts confirmed. Style/value only: the page mirrors the English
+  page section by section and keeps English terms. Left in review for a human
+  editor.
+autoReviews: 5
 ---
 Penny, eigentlich Anfernee Hardaway, ist in Memphis geboren. Laut Basketball-Reference besuchte er die Treadwell High School und wurde in Memphis, Tennessee, geboren [s:bbref-hardaway]. Seit 2018 betreut er die Tigers der University of Memphis, für die er selbst als Student gespielt hatte [s:si-hardaway-hire-2018].
 

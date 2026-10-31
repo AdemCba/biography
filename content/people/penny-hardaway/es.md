@@ -40,19 +40,19 @@ faq:
     a: >-
       En 14 temporadas anotó 10.684 puntos, capturó 3.146 rebotes y repartió
       3.525 asistencias, según Basketball-Reference.
-flag: Rejected by the fact-check 4 times; needs a human editor.
+flag: Rejected by the fact-check 6 times; needs a human editor.
 reviewNotes: >-
-  11 of 38 claims could not be checked (source unreachable) | Prose reads
-  machine-written | Adds no value over existing pages: Follows the English page
-  section by section; the 'probation' term is glossed but the text is not
-  localised for Spanish-speaking readers. Style judgement left to the human
-  editor. | Reviewer recommends rejection: Reject for now: Basketball-Reference
-  (bbref-hardaway) returned HTTP 403, so the career totals, All-Star and All-NBA
-  years, draft pick, height, positions, Treadwell and the 1971 birth year are
-  unverified. Remaining claims were checked against opened sources.
-autoReviews: 4
+  Adds no value over existing pages: Every factual claim now checks out. The
+  page still follows the English article section by section and adds no
+  Spanish-specific context (no Spanish-language sources or local framing of who
+  Memphis, Tennessee or NBA-era figures are for Spanish readers); the style
+  guide treats a sentence-by-sentence version as a failure. | Reviewer
+  recommends rejection: Facts pass after removing the unsupported 'unas semanas
+  antes' probation timing. Remaining reason is value only: the page mirrors the
+  English article and adds no localised context for Spanish readers.
+autoReviews: 6
 ---
-Penny, como se le conoce en Memphis, nació en la ciudad. Basketball-Reference lo describe como un jugador de 2,01 metros que estudió en el Treadwell High School y nació en Memphis, Tennessee [s:bbref-hardaway]. Desde 2018 dirige a los Tigers de la Universidad de Memphis, el equipo en el que jugó como estudiante [s:si-hardaway-hire-2018].
+Anfernee Hardaway nació en la ciudad. Basketball-Reference lo describe como un jugador de 2,01 metros que estudió en el Treadwell High School y nació en Memphis, Tennessee [s:bbref-hardaway]. Desde 2018 dirige a los Tigers de la Universidad de Memphis, el equipo en el que jugó como estudiante [s:si-hardaway-hire-2018].
 
 ## De la universidad al draft de 1993
 
@@ -86,7 +86,7 @@ El 28 de marzo de 2021 Memphis derrotó 77-64 a Mississippi State en la final de
 
 En octubre de 2022 Memphis cerró con Hardaway una extensión de seis años por 16,5 millones de dólares antes de incentivos, hasta la temporada 2027-28 [s:cbs-hardaway-extension-2022] [s:actionnews5-extension-2022]. Según CBS Sports, el salario de la primera temporada fue de 2,5 millones de dólares, con subidas de 100.000 dólares al año [s:cbs-hardaway-extension-2022]. La universidad recordó que Hardaway tenía un balance de 84 victorias y 43 derrotas en cuatro temporadas, con cuatro campañas seguidas de 20 victorias y una participación en el Torneo de la NCAA en 2022 [s:actionnews5-extension-2022]. El director deportivo Laird Veatch dijo que el contrato “llevaba bastante tiempo en preparación” y que no podrían haber encontrado mejor entrenador principal para el programa [s:actionnews5-extension-2022].
 
-Unas semanas antes, el programa había sido puesto en probation, un periodo de prueba, por infracciones relacionadas con jugadores inelegibles y con el reclutamiento, vinculadas a la temporada 2019-20. Según el mismo reportaje, la universidad se libró de sanciones más duras [s:actionnews5-extension-2022].
+El programa había sido puesto en probation, un periodo de prueba, por infracciones relacionadas con jugadores inelegibles y con el reclutamiento, vinculadas a la temporada 2019-20. Según el mismo reportaje, la universidad se libró de sanciones más duras [s:actionnews5-extension-2022].
 
 ## La decisión de 2026
 

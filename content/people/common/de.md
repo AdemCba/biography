@@ -44,15 +44,12 @@ faq:
       Die Künstlerseite der Recording Academy führt insgesamt drei Siege und 22
       Nominierungen auf. Als ersten Grammy nennt sie Love of My Life (2003), und
       Glory ist als Sieg (2016) markiert.
-flag: Rejected by the fact-check 5 times; needs a human editor.
+flag: Rejected by the fact-check 6 times; needs a human editor.
 reviewNotes: >-
-  Prose reads machine-written | Reviewer recommends rejection: Facts match the
-  cited sources after the corrections, including the attribution of the
-  sequencing and executive-production credit to Questlove. The remaining issue
-  is style: the German page mirrors the English structure sentence by sentence,
-  which the style guide treats as a translation. Not rewritten here because the
-  brief excludes style rewrites.
-autoReviews: 5
+  Prose reads machine-written | Reviewer recommends rejection: [de page] All
+  checked facts match the cited sources; no factual fix needed. Remaining issue
+  is style only: the page mirrors the English structure sentence by sentence.
+autoReviews: 6
 ---
 Lonnie Rashid Lynn Jr. kam am 13. März 1972 in Chicago, Illinois, zur Welt [s:grammy-artist-common] [s:television-academy-common]. Als Common hat er als erster Rapper einen Grammy, einen Oscar und einen Emmy gewonnen, wie die Recording Academy in einer Meldung vom 14. September 2017 schreibt [s:grammy-first-rapper-emmy-oscar].
 

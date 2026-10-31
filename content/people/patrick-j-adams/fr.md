@@ -45,15 +45,15 @@ faq:
       soin de sa santé mentale, avoir trop bu vers la fin de cette saison, et
       juger l'histoire de Mike Ross achevée [s:tvline-suits-exit]
       [s:justjared-suits-exit-2024].
-flag: Rejected by the fact-check 4 times; needs a human editor.
+flag: Rejected by the fact-check 6 times; needs a human editor.
 reviewNotes: >-
-  Adds no value over existing pages: Follows the English page sentence by
-  sentence, with the same sections, quotes and English-only sources. It adds no
-  French-language sources or French-specific context, which the style guide
-  treats as failing review. | Reviewer recommends rejection: All cited facts
-  check out after the fixes. Rejection is for the translation-only issue, not a
-  factual error.
-autoReviews: 4
+  Prose reads machine-written | Adds no value over existing pages: The page
+  follows the English page sentence by sentence, with the same sections and
+  English-only sources, and adds no local-language sources or local context. The
+  style guide treats this as failing review. | Reviewer recommends rejection:
+  Factual fixes applied to the unsupported sentences; remaining rejection is for
+  localisation only (sentence-by-sentence translation of the English page).
+autoReviews: 6
 ---
 Patrick J. Adams reste d'abord Mike Ross, l'avocat de Suits, la série judiciaire diffusée sur USA [s:usc-sda-patrick-j-adams] [s:tvseriesfinale-suits]. Ce Canadien est né le 27 août 1981 à Toronto [s:wikidata-q644565] [s:wikidata-q172], et Wikidata lui attribue la nationalité canadienne [s:wikidata-q16]. Sa fiche sur le site de la School of Dramatic Arts de l'USC mentionne aussi Old School, Pillow Talk, Room for Rent et Rosemary's Baby [s:usc-sda-patrick-j-adams].
 
@@ -61,13 +61,13 @@ Patrick J. Adams reste d'abord Mike Ross, l'avocat de Suits, la série judiciair
 
 Adams a quitté la série à la fin de la septième saison [s:tvline-suits-exit]. Dans un entretien accordé en 2018 au Hollywood Reporter, repris par Just Jared en 2024, il a expliqué que l'histoire du personnage était arrivée à son terme : « on a raconté son histoire, et s'il reste plus longtemps, Mike ne sera plus qu'un avocat parmi d'autres à la télévision » [s:justjared-suits-exit-2024]. Il avait commencé à y penser vers la fin de la première moitié de la sixième saison [s:justjared-suits-exit-2024].
 
-Sur sa santé, il a été plus franc dans un épisode du podcast Dinner's On Me, avec Jesse Tyler Ferguson [s:tvline-suits-exit]. Il reconnaît ne pas avoir assez soigné sa santé mentale et avoir trop bu vers la fin de la septième saison. Seul l'argent, selon lui, aurait pu le retenir, et il ne l'a jamais regretté : « C'était la bonne chose pour mon mariage... Il était temps » [s:tvline-suits-exit]. Il est marié à l'actrice Troian Bellisario [s:justjared-suits-exit-2024].
+Sur sa santé, il a été plus franc dans un épisode du podcast Dinner's On Me, avec Jesse Tyler Ferguson [s:tvline-suits-exit]. Il reconnaît ne pas avoir assez soigné sa santé mentale et avoir trop bu vers la fin de la septième saison. Seul l'argent, selon lui, aurait pu le retenir, et il ne l'a jamais regretté : « C'était la bonne chose pour mon mariage... Il était temps » [s:tvline-suits-exit]. Il est marié à l'actrice Troian Bellisario [s:wikidata-q644565].
 
 ## Dans la peau de John Glenn
 
 Après Suits, Adams a décroché le rôle du major John Glenn dans The Right Stuff, la série Disney+ consacrée aux astronautes du Mercury Seven [s:d23-right-stuff-glenn] [s:tvline-right-stuff-preview]. Il affirme avoir été le premier comédien engagé : « Je crois que j'ai été le premier à être choisi » [s:tvline-right-stuff-preview]. Le rôle lui faisait peur, « très peur, pour être honnête », et il voit en Glenn « le vilain petit canard des Mercury Seven, et pas parce qu'il était le meilleur » [s:tvline-right-stuff-preview].
 
-Pour s'y préparer, il a consulté les archives de Glenn à l'université d'État de l'Ohio, qui contiennent « des centaines et des centaines de cartons de choses » [s:d23-right-stuff-glenn]. Il évoque aussi « une quantité énorme de ressources » à sa disposition [s:d23-right-stuff-glenn]. Lettres privées, journaux, échanges avec des présidents : il a tout lu, puis gardé ce qui lui parlait, ses « points d'appui », sans chercher à imiter le personnage [s:d23-right-stuff-glenn]. Quand l'offre est arrivée, sa réaction a été : « C'est ce que j'attendais » [s:tvline-right-stuff-preview].
+Pour s'y préparer, il a consulté les archives de Glenn à l'université d'État de l'Ohio, qui contiennent « des centaines et des centaines de cartons de choses » [s:d23-right-stuff-glenn]. Il évoque aussi « une quantité énorme de ressources » à sa disposition [s:d23-right-stuff-glenn]. Ses écrits personnels, ses notes de service et ses échanges avec plusieurs présidents : il a tout lu, puis gardé ce qui lui parlait, ses « points d'appui », sans chercher à imiter le personnage [s:d23-right-stuff-glenn]. Quand l'offre est arrivée, sa réaction a été : « C'est ce que j'attendais » [s:tvline-right-stuff-preview].
 
 ## Débuts à Broadway dans Take Me Out
 

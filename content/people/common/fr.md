@@ -43,14 +43,12 @@ faq:
       La page artiste de la Recording Academy recense trois victoires et 22
       nominations au total. Elle cite Love of My Life (2003) comme son premier
       Grammy en carrière et marque Glory (2016) comme une victoire.
-flag: Rejected by the fact-check 4 times; needs a human editor.
+flag: Rejected by the fact-check 5 times; needs a human editor.
 reviewNotes: >-
-  Prose reads machine-written | Reviewer recommends rejection: Facts match the
-  cited sources after the corrections. The only remaining issue is style: the
-  French page mirrors the English structure sentence by sentence, which the
-  style guide treats as a translation. Not rewritten here because the brief
-  excludes style rewrites.
-autoReviews: 4
+  Prose reads machine-written | Reviewer recommends rejection: [fr page] All
+  checked facts match the cited sources; no factual fix needed. Remaining issue
+  is style only: the page mirrors the English structure sentence by sentence.
+autoReviews: 5
 ---
 Né Lonnie Rashid Lynn Jr. le 13 mars 1972 à Chicago, dans l'Illinois [s:grammy-artist-common] [s:television-academy-common]. La Recording Academy le présente comme le premier rappeur à avoir remporté un Grammy, un Oscar et un Emmy [s:grammy-first-rapper-emmy-oscar].
 

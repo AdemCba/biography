@@ -46,15 +46,15 @@ faq:
       mental, que bebia demais no fim daquela temporada e que a história de Mike
       Ross já estava contada [s:tvline-suits-exit]
       [s:justjared-suits-exit-2024].
-flag: Rejected by the fact-check 4 times; needs a human editor.
+flag: Rejected by the fact-check 6 times; needs a human editor.
 reviewNotes: >-
-  Adds no value over existing pages: Follows the English page sentence by
-  sentence, with the same sections, quotes and English-only sources. It adds no
-  Brazilian-Portuguese-language sources or Brazil-specific context, which the
-  style guide treats as failing review. | Reviewer recommends rejection: All
-  cited facts check out after the fixes. Rejection is for the translation-only
-  issue, not a factual error.
-autoReviews: 4
+  Prose reads machine-written | Adds no value over existing pages: The page
+  follows the English page sentence by sentence, with the same sections and
+  English-only sources, and adds no local-language sources or local context. The
+  style guide treats this as failing review. | Reviewer recommends rejection:
+  Factual fixes applied to the unsupported sentences; remaining rejection is for
+  localisation only (sentence-by-sentence translation of the English page).
+autoReviews: 6
 ---
 Patrick J. Adams ficou conhecido como Mike Ross, o advogado da série Suits, exibida pela USA [s:usc-sda-patrick-j-adams] [s:tvseriesfinale-suits]. O ator canadense nasceu em 27 de agosto de 1981, em Toronto, Ontário [s:wikidata-q644565] [s:wikidata-q172], e a Wikidata registra cidadania canadense para ele [s:wikidata-q16]. O perfil na Escola de Artes Dramáticas da USC cita filmes como Old School, Pillow Talk, Room for Rent e Rosemary's Baby [s:usc-sda-patrick-j-adams].
 
@@ -66,13 +66,13 @@ Suits foi ao ar pela USA de 23 de junho de 2011 a 25 de setembro de 2019, em nov
 
 Adams deixou o elenco quando a sétima temporada terminou [s:tvline-suits-exit]. Numa entrevista de 2018 ao The Hollywood Reporter, citada pelo Just Jared em 2024, ele explicou a decisão: "já contamos a história dele, e se ele ficar mais tempo, Mike vai ser só mais um advogado na televisão" [s:justjared-suits-exit-2024]. Ele começou a pensar na saída no fim da primeira metade da sexta temporada [s:justjared-suits-exit-2024].
 
-Em um episódio do podcast Dinner's On Me, com Jesse Tyler Ferguson, ele foi mais direto sobre a própria saúde [s:tvline-suits-exit]. Disse que não cuidava bem da saúde mental e que bebeu demais no fim da sétima temporada. Para ele, só o dinheiro justificaria ficar, e nunca se arrependeu da decisão: "Foi a coisa certa para o meu casamento... Chegou a hora" [s:tvline-suits-exit]. Ele é casado com a atriz Troian Bellisario [s:justjared-suits-exit-2024].
+Em um episódio do podcast Dinner's On Me, com Jesse Tyler Ferguson, ele foi mais direto sobre a própria saúde [s:tvline-suits-exit]. Disse que não cuidava bem da saúde mental e que bebeu demais no fim da sétima temporada. Para ele, só o dinheiro justificaria ficar, e nunca se arrependeu da decisão: "Foi a coisa certa para o meu casamento... Chegou a hora" [s:tvline-suits-exit]. Ele é casado com a atriz Troian Bellisario [s:wikidata-q644565].
 
 ## De Mike Ross a John Glenn
 
 O papel seguinte foi o major John Glenn em The Right Stuff, a série do Disney+ sobre os astronautas do Mercury Seven [s:d23-right-stuff-glenn] [s:tvline-right-stuff-preview]. Ele diz ter sido o primeiro do elenco a ser escalado: "Acho que fui o primeiro a ser escalado" [s:tvline-right-stuff-preview]. Admitiu que o papel o assustava, "muito medo, para ser sincero", e viu em Glenn "o ponto fora da curva do Mercury Seven, e não porque era o melhor" [s:tvline-right-stuff-preview].
 
-Ele estudou muito o material de Glenn. Os arquivos de Glenn na Universidade Estadual de Ohio têm "centenas e centenas de caixas de coisas" [s:d23-right-stuff-glenn], e ele disse ter tido "o luxo de uma quantidade enorme de recursos" [s:d23-right-stuff-glenn]. Leu cartas particulares, diários e a correspondência de Glenn com presidentes. Guardou o que mais o tocava, seus "pontos de apoio", em vez de fazer uma imitação do personagem [s:d23-right-stuff-glenn]. Quando a proposta chegou, disse: "É isso que eu estava esperando" [s:tvline-right-stuff-preview].
+Ele estudou muito o material de Glenn. Os arquivos de Glenn na Universidade Estadual de Ohio têm "centenas e centenas de caixas de coisas" [s:d23-right-stuff-glenn], e ele disse ter tido "o luxo de uma quantidade enorme de recursos" [s:d23-right-stuff-glenn]. Leu seus escritos pessoais, suas notas de serviço e sua correspondência com vários presidentes. Guardou o que mais o tocava, seus "pontos de apoio", em vez de fazer uma imitação do personagem [s:d23-right-stuff-glenn]. Quando a proposta chegou, disse: "É isso que eu estava esperando" [s:tvline-right-stuff-preview].
 
 ## Broadway com Take Me Out
 
