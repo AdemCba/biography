@@ -2,27 +2,29 @@
   {
     "id": "editor-in-chief",
     "name": "Adem Caba",
-    "sameAs": [],
+    "sameAs": [
+      "https://www.linkedin.com/in/adem-caba-7a306121a/"
+    ],
     "i18n": {
       "en": {
         "role": "Founder and editor-in-chief",
-        "bio": "Adem Caba founded Orbivida because he likes reading about the people behind famous names: where they grew up, what went wrong and what they did next. He sets the editorial policy, decides which people we cover and reviews pages on sensitive topics himself."
+        "bio": "Adem Caba founded Orbivida because he likes reading about the people behind famous names: where they grew up, what went wrong and what they did next. He sets the editorial policy, decides which people we cover and reviews pages on sensitive topics himself. By profession he is a software developer, and he built the site's sourcing and fact-check workflow himself, so every page lists where each fact comes from."
       },
       "es": {
         "role": "Fundador y editor jefe",
-        "bio": "Adem Caba fundó Orbivida porque le gusta leer sobre las personas que hay detrás de los nombres famosos: dónde crecieron, qué les salió mal y qué hicieron después. Define la política editorial, decide qué personas cubrimos y revisa en persona las páginas sobre temas sensibles."
+        "bio": "Adem Caba fundó Orbivida porque le gusta leer sobre las personas que hay detrás de los nombres famosos: dónde crecieron, qué les salió mal y qué hicieron después. Define la política editorial, decide qué personas cubrimos y revisa en persona las páginas sobre temas sensibles. De profesión es desarrollador de software y construyó él mismo el sistema de fuentes y verificación del sitio, por eso cada página indica de dónde sale cada dato."
       },
       "pt": {
         "role": "Fundador e editor-chefe",
-        "bio": "Adem Caba criou a Orbivida porque gosta de ler sobre as pessoas por trás dos nomes famosos: onde cresceram, o que deu errado e o que fizeram depois. Ele define a política editorial, escolhe quem entra no site e revisa pessoalmente as páginas sobre temas sensíveis."
+        "bio": "Adem Caba criou a Orbivida porque gosta de ler sobre as pessoas por trás dos nomes famosos: onde cresceram, o que deu errado e o que fizeram depois. Ele define a política editorial, escolhe quem entra no site e revisa pessoalmente as páginas sobre temas sensíveis. De profissão é desenvolvedor de software e construiu ele mesmo o sistema de fontes e checagem do site, por isso cada página mostra de onde vem cada informação."
       },
       "de": {
         "role": "Gründer und Chefredakteur",
-        "bio": "Adem Caba hat Orbivida gegründet, weil ihn die Menschen hinter bekannten Namen interessieren: wo sie aufgewachsen sind, was schiefging und was danach kam. Er legt die Redaktionsrichtlinien fest, entscheidet, über wen wir schreiben, und prüft Seiten zu sensiblen Themen selbst."
+        "bio": "Adem Caba hat Orbivida gegründet, weil ihn die Menschen hinter bekannten Namen interessieren: wo sie aufgewachsen sind, was schiefging und was danach kam. Er legt die Redaktionsrichtlinien fest, entscheidet, über wen wir schreiben, und prüft Seiten zu sensiblen Themen selbst. Beruflich ist er Softwareentwickler und hat das Quellen- und Faktencheck-System der Seite selbst gebaut, deshalb nennt jede Seite die Herkunft jeder Angabe."
       },
       "fr": {
         "role": "Fondateur et rédacteur en chef",
-        "bio": "Adem Caba a fondé Orbivida parce qu'il aime découvrir les personnes derrière les noms célèbres : où elles ont grandi, ce qui a mal tourné et ce qu'elles ont fait ensuite. Il fixe la ligne éditoriale, choisit les personnalités traitées et relit lui-même les pages sur les sujets sensibles."
+        "bio": "Adem Caba a fondé Orbivida parce qu'il aime découvrir les personnes derrière les noms célèbres : où elles ont grandi, ce qui a mal tourné et ce qu'elles ont fait ensuite. Il fixe la ligne éditoriale, choisit les personnalités traitées et relit lui-même les pages sur les sujets sensibles. Développeur logiciel de métier, il a lui-même conçu le système de sources et de vérification du site : chaque page indique d'où vient chaque information."
       }
     }
   },
