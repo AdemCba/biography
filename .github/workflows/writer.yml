@@ -141,7 +141,14 @@ jobs:
               of data/trend-candidates/latest.md (column "Diller": a French trend gets a fr page, a Brazilian one pt).
               Write each topic only in the languages listed for it in "Diller", never in languages where nobody
               searches it; a story trending in several language areas gets one folder with each of those languages. Skip deaths, accidents, crime, war, elections and politics, and anything about minors or
-              sexual content. Confirm the story with WebSearch, then create content/topics/<id>/topic.json
+              sexual content. Money stories about people who already have a page here are welcome even when they
+              are not in the trend list: a new contract, salary, transfer fee, business deal, property sale, record
+              earnings, or a civil dispute over money, estates or royalties. Write one only when at least two major
+              outlets report it, state only what they report (claims as claims, rulings as rulings), never cover
+              criminal cases, divorces' private details or family grief, link the person with (person:id), and
+              add a dated line about it to that person's page in the same language. At most one such story per
+              language per run, and trend-list stories come first.
+              Confirm the story with WebSearch, then create content/topics/<id>/topic.json
               ({"id", "people": [ids of people on this site the story is about], "trendingIn": [geos],
               "wikidata": "Q..." of the story's main subject that has a photo (P18) on Wikimedia Commons: the person,
               team, club, product, event or city; check it on wikidata.org. The Publish step downloads that free photo
