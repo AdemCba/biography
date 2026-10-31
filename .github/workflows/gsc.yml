@@ -22,6 +22,7 @@ jobs:
     env:
       GSC_SERVICE_ACCOUNT: ${{ secrets.GSC_SERVICE_ACCOUNT }}
       GSC_SITE: ${{ vars.GSC_SITE || 'sc-domain:orbivida.com' }}
+      GA_PROPERTY_ID: ${{ vars.GA_PROPERTY_ID || '561160137' }}
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-node@v5
@@ -32,6 +33,11 @@ jobs:
       - name: Pull Search Console data
         if: ${{ env.GSC_SERVICE_ACCOUNT != '' }}
         run: npm run gsc
+      # Same service account, Viewer on the GA4 property. Never blocks the Search Console data.
+      - name: Pull Google Analytics data
+        if: ${{ env.GSC_SERVICE_ACCOUNT != '' }}
+        continue-on-error: true
+        run: npm run ga
       - name: Save on main
         run: |
           if [ -n "$(git status --porcelain data)" ]; then
