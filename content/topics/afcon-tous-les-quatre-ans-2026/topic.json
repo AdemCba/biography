@@ -1,7 +1,9 @@
 {
   "id": "afcon-tous-les-quatre-ans-2026",
   "people": [],
-  "trendingIn": ["FR"],
+  "trendingIn": [
+    "FR"
+  ],
   "wikidata": "Q83145",
   "sources": [
     {
@@ -31,5 +33,12 @@
       "accessed": "2026-10-31",
       "lang": "en"
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/topics/afcon-tous-les-quatre-ans-2026.png",
+    "alt": "CAN 2028 : la CAF revient-elle sur la Coupe d'Afrique tous les quatre ans ?",
+    "credit": "EOZyo",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Confederation_of_African_Football_member_associations_map.svg"
+  }
 }

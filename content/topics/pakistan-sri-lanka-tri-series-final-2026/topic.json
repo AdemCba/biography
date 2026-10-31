@@ -1,7 +1,12 @@
 {
   "id": "pakistan-sri-lanka-tri-series-final-2026",
   "people": [],
-  "trendingIn": ["US", "ES", "DE", "FR"],
+  "trendingIn": [
+    "US",
+    "ES",
+    "DE",
+    "FR"
+  ],
   "wikidata": "Q203092",
   "sources": [
     {
@@ -76,5 +81,12 @@
       "accessed": "2026-10-31",
       "lang": "en"
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/topics/pakistan-sri-lanka-tri-series-final-2026.jpg",
+    "alt": "Pakistan vs Sri Lanka: the tri-series final in Lahore",
+    "credit": "Astronomyinertia",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sri_Lanka_Cricket_Team_Practicing.jpg"
+  }
 }
