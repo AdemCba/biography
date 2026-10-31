@@ -1,7 +1,16 @@
 {
   "id": "man-city-brighton-2026",
   "people": [],
-  "trendingIn": ["GB", "ES", "MX", "AR", "BR", "DE", "AT", "FR"],
+  "trendingIn": [
+    "GB",
+    "ES",
+    "MX",
+    "AR",
+    "BR",
+    "DE",
+    "AT",
+    "FR"
+  ],
   "wikidata": "Q48159",
   "sources": [
     {
@@ -40,5 +49,12 @@
       "accessed": "2026-10-31",
       "lang": "en"
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/topics/man-city-brighton-2026.jpg",
+    "alt": "man-city-brighton-2026",
+    "credit": "Cléria De Souza",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Etihad_Stadium.jpg"
+  }
 }
