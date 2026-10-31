@@ -1,7 +1,9 @@
 {
   "id": "ocon-hirakawa-mexico-2026",
   "people": [],
-  "trendingIn": ["GB"],
+  "trendingIn": [
+    "GB"
+  ],
   "wikidata": "Q15074165",
   "sources": [
     {
@@ -40,5 +42,12 @@
       "accessed": "2026-10-31",
       "lang": "en"
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/topics/ocon-hirakawa-mexico-2026.jpg",
+    "alt": "ocon-hirakawa-mexico-2026",
+    "credit": "Morio",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Esteban_Ocon_2017_Malaysia_1.jpg"
+  }
 }

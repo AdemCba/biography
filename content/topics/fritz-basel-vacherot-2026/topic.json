@@ -1,7 +1,10 @@
 {
   "id": "fritz-basel-vacherot-2026",
   "people": [],
-  "trendingIn": ["US", "ES"],
+  "trendingIn": [
+    "US",
+    "ES"
+  ],
   "wikidata": "Q17660516",
   "sources": [
     {
@@ -40,5 +43,12 @@
       "accessed": "2026-10-31",
       "lang": "en"
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/topics/fritz-basel-vacherot-2026.jpg",
+    "alt": "fritz-basel-vacherot-2026",
+    "credit": "si.robi",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fritz_RG19_(23)_(48199372707).jpg"
+  }
 }

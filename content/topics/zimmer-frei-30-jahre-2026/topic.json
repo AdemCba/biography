@@ -1,7 +1,9 @@
 {
   "id": "zimmer-frei-30-jahre-2026",
   "people": [],
-  "trendingIn": ["DE"],
+  "trendingIn": [
+    "DE"
+  ],
   "wikidata": "Q108165",
   "sources": [
     {
@@ -40,5 +42,12 @@
       "accessed": "2026-10-31",
       "lang": "de"
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/topics/zimmer-frei-30-jahre-2026.jpg",
+    "alt": "zimmer-frei-30-jahre-2026",
+    "credit": "Superbass",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christine_Westermann_2008.JPG"
+  }
 }
