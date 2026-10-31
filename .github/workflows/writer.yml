@@ -160,8 +160,9 @@ jobs:
               Never talk about "the sources" or "our research" in the text (no "none of the sources say", "according to
               the sources"); just state facts with [s:id]. Mix short and long sentences, vary how sentences start, no
               filler, no lists of adjectives, no generic closing paragraph. Each language is written natively for its
-              readers (local names, units, currency, references), not translated word for word. Each text: at least 450 words, at least two `##` sections (what happened, the
-              background, what comes next), cited with [s:id] from at least two sources, written for that
+              readers (local names, units, currency, references), not translated word for word. Each text: at least 700 words of substance (no padding),
+              at least three `##` sections (what happened, the background, why it matters / what comes next), with
+              details a quick news note lacks: the people involved and their history, earlier events, numbers, quotes, cited with [s:id] from at least two sources, written for that
               language's readers. Link people with [Name](person:person-id). If a person in the story has no page and is
               notable, write their biography too. review.ts does not handle topics: check each topic text against its
               sources in one foreground subagent pass, fix what does not match, then set status: approved,
