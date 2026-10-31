@@ -1,6 +1,6 @@
-# Trend taraması 2026-10-31 15:01 UTC
+# Trend taraması 2026-10-31 18:01 UTC
 
-850 trend sinyali tarandı, 394 tanınmış kişi bulundu.
+850 trend sinyali tarandı, 391 tanınmış kişi bulundu.
 
 Bu çalışmada taslak sırasına kimse eklenmedi.
 
@@ -10,48 +10,48 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 
 | Arama | Ülkeler | Diller | Yaklaşık arama | Başladı (UTC) | Haber |
 | --- | --- | --- | --- | --- | --- |
-| carlos alcaraz | AR, BR, DE, AT | es, pt, de | 3000 | 14:20 | [Alcaraz - Medvedev, en directo / Última hora de las semifinales de Viena hoy, en vivo](https://www.marca.com/tenis/2026/10/31/6ae5e3f5020dbf8b21c188b7-directo.html) |
-| manchester city - brighton | ES, MX, AR | es | 15000 | 14:30 | [Manchester City vs Brighton & Hove Albion: Premier League preview, team news, stats & head-to-head](https://www.bbc.com/sport/football/live/c6x2v4k8e0y9t) |
-| coventry city - sunderland afc | ES, MX, AR | es | 600 | 14:30 | [Coventry City vs Sunderland: Premier League preview, team news, stats & head-to-head](https://www.bbc.com/sport/football/live/ck7vpjr37devt) |
-| premier league table | US, GB | en | 11000 | 14:30 | [Chris Sutton predicts more Everton misery for Newcastle at St James' Park](https://nufcblog.co.uk/chris-sutton-predicts-more-everton-misery-for-newcastle-at-st-james-park-43344) |
-| man city vs brighton | US, DE | en, de | 10500 | 14:20 | [Manchester City v Brighton, Bournemouth v Leeds, and more: clockwatch - live](https://www.theguardian.com/football/live/2026/oct/31/manchester-city-v-brighton-bournemouth-v-leeds-and-more-clockwatch-live) |
-| taylor fritz | US, ES | en, es | 2500 | 14:30 | [Fritz advances to Basel SFs after his Live Race rival Fils retires](https://www.atptour.com/en/news/fils-fritz-basel-2026-friday) |
-| rayo vallecano - celta de vigo | US, MX | en, es | 1500 | 14:30 | [⊗[FÚTBOL-LIVE]⊗ Rayo Vallecano vs Celta Vigo 𝕍𝕖𝕣 𝔼𝕝 ℙ𝕒𝕣𝕥𝕚𝕕𝕠 𝔼𝕟 𝔻𝕚𝕣𝕖𝕔𝕥𝕠 HD](https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2ZyYW5jaXNqaGFycmlzby5naXRodWIuaW8vbml0YXEvdGJyLnhtbCIvPjwva3JwYW5vPg==&id=rayo-vallecano-vs-celta-vigo-espn-t9fyh) |
-| feyenoord - fortuna sittard | ES, MX | es | 400 | 14:50 | [LIVE Eredivisie / Feyenoord neemt het op tegen Fortuna Sittard, opstellingen bekend](https://www.telegraaf.nl/sport/voetbal/live-eredivisie-feyenoord-neemt-het-op-tegen-fortuna-sittard-opstellingen-bekend/163891809.html) |
-| monza fc | AR, BR | es, pt | 400 | 14:30 | [[!LIVESTREAMs!]Tv] Bologna v Monza Calcio in diretta gratis "Serie A italiana" Stream](https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5bmVwcHkuZ2l0aHViLmlvL2JhYnUvTWF0Y2hzdGF0aW9uLnhtbCIvPjwva3JwYW5vPg==&id=video-bologna-v-monza-calcio-en-str-ukolfrh) |
-| bologna fc | AR, BR | es, pt | 400 | 14:10 | [[DIRETTA@HD] Monza-Bologna in diretta streaming dove vederla la partita in 31 ottobre 2026](https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vc2Fnb3JtaWEwMDQ3LmdpdGh1Yi5pby9qb3JpbmEveGNlLnhtbCIvPjwva3JwYW5vPg==&id=video-monza-bologna-live-ditect-tvuss01-7p0mery) |
-| city x brighton | BR | pt | 10000 | 14:20 | [Manchester City x Brighton pela Premier League: onde assistir ao vivo, horário e escalação](https://www.estadao.com.br/esportes/futebol/manchester-city-x-brighton-pela-premier-league-onde-assistir-ao-vivo-horario-e-escalacao/) |
-| manchester city – brighton | FR | fr | 10000 | 14:40 | [Manchester City vs Brighton & Hove Albion: Premier League preview, team news, stats & head-to-head](https://www.bbc.com/sport/football/live/c6x2v4k8e0y9t) |
-| chelsea - manchester united | PT | pt | 5000 | 11:40 | [Don't let Chelsea get him! €9m agreement must trigger Liverpool deal](https://www.anfieldwatch.co.uk/liverpool-fc/news/dont-let-chelsea-get-him-eur9m-agreement-must-trigger-liverpool-deal/) |
-| stéphane plaza | FR | fr | 5000 | 14:50 | ["Il imposait des trucs" : Jeanfi Janssens évoque sa relation "un peu tendue" avec Stéphane Plaza lorsqu'ils travaillaient ensemble](https://fr.style.yahoo.com/imposait-trucs-jeanfi-janssens-%C3%A9voque-080225955.html) |
-| noah fifita | US | en | 2000 | 14:20 | [Noah Fifita could have cashed out. He coaches flag football with fifth graders instead - The Athletic](https://www.nytimes.com/athletic/7731376/2026/10/29/arizona-noah-fifita-qb-wildcats-college-football/) |
-| posiciones de chelsea contra manchester united | MX | es | 2000 | 14:50 | [Chelsea - Manchester United, en directo / Última hora de Premier League en vivo hoy](https://www.marca.com/futbol/premier-league/chelsea-m-united/2026/10/31/01_0106_20261031_8_1-directo.html) |
-| zimmer frei! | DE | de | 2000 | 14:40 | [Unterhaltung - Legendär! Wir feiern 'Zimmer frei!' - hier anschauen](https://www.ardmediathek.de/video/unterhaltung/legendaer-wir-feiern-zimmer-frei/wdr/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtNDc5YjY5ODAtMmM2Ny00YmVhLTgxYTUtMzc3N2VmMzc2MGY3) |
-| bordeaux-bègles – bayonne | FR | fr | 2000 | 14:40 | [Bordeaux-Bègles - Bayonne, Top 14 2026-2027, match en direct le 31-10-2026](https://www.lequipe.fr/Rugby/match-direct/top-14/2026-2027/ubb-begles-bordeaux-bayonne-live/42446) |
-| sorteo superior lotería nacional | MX | es | 1000 | 14:30 | [Resultados de Lotería Nacional Sorteo Hoy 30 de Octubre 2026: Premio Mayor y Números Ganadores](https://www.nmas.com.mx/economia/resultados-loteria-nacional-hoy-30-de-octubre-2026-sorteo-superior-2902-numero-ganador/) |
-| sebastián báez | AR | es | 1000 | 14:30 | [Thiago Tirante y Juan Manuel Cerúndolo avanzaron a la final de la qualy del Masters 1000 de París](https://deportv.gob.ar/tenis/thiago-tirante-juan-manuel-cerundolo-avanzo-final-qualy-atp-masters-1000-paris-tenis-nid:18485) |
-| estêvão willian | BR | pt | 1000 | 14:30 | [Rafael Reis: Crise de Estêvão movimenta Mercado da Bola e já gera rumores para janeiro](https://www.uol.com.br/esporte/futebol/colunas/rafael-reis/2026/10/31/crise-de-estevao-movimenta-mercado-da-bola-e-ja-gera-rumores-para-janeiro.htm) |
-| premier league | PT | pt | 1000 | 14:40 | [Chelsea v Manchester United: Premier League – live](https://www.theguardian.com/football/live/2026/oct/31/chelsea-v-manchester-united-premier-league-live) |
-| chelsea | PT | pt | 1000 | 13:10 | [Chelsea-Man. United: tudo decidido perto do final](https://www.abola.pt/futebol/jogo/chelsea-manchester-united-11177094/liveblog) |
-| restaurante baía dos juncos | PT | pt | 1000 | 12:30 | [Pedra de grandes dimensões atingiu esplanada na Baía dos Juncos](https://www.dnoticias.pt/2026/10/31/511101-pedra-de-grandes-dimensoes-atingiu-esplanada-na-baia-dos-juncos/) |
-| levante - atlético madrid | PT | pt | 1000 | 12:20 | [Levante - Atlético, hoy en directo / Última hora de LALIGA EA Sports, en vivo](https://www.marca.com/futbol/laliga-ea-sports/levante-atletico/2026/10/31/01_0101_20261031_855_175-directo.html) |
-| novo emblema do benfica | PT | pt | 1000 | 11:50 | [Assembleia Geral Ordinária – Apreciação e votação Relatório de Gestão](https://www.slbenfica.pt/pt-pt/instituicao/clube/assembleias-convocatorias/acompanhar/31-outubro-contas-2025-26) |
-| express | DE | de | 1000 | 14:30 | [Rain and storms to haunt millions of Halloween trick-or-treaters across 20+ states](https://www.foxweather.com/weather-news/halloween-wet-weather-rain-midwest-plains-southwest-southeast-us) |
-| stade français – la rochelle | FR | fr | 1000 | 14:40 | [Stade Français - La Rochelle, Top 14 2026-2027, match en direct le 31-10-2026](https://www.lequipe.fr/Rugby/match-direct/top-14/2026-2027/stade-francais-la-rochelle-live/42450) |
-| west ham vs west brom | US | en | 500 | 14:20 | [West Ham United v West Bromwich Albion: Championship stats & head-to-head](https://www.bbc.com/sport/football/live/cq8jzx1yenr3t) |
-| wolves vs cardiff city | US | en | 500 | 14:20 | [Wolverhampton Wanderers v Cardiff City: Championship stats & head-to-head](https://www.bbc.com/sport/football/live/cqrky864x8n6t) |
-| alcaraz | US | en | 500 | 14:20 | [Así le hemos contado el triunfo de Carlos Alcaraz sobre Tommy Paul](https://elpais.com/deportes/tenis/2026-10-30/carlos-alcaraz-tommy-paul-en-el-torneo-de-viena-en-directo.html) |
-| ocon | GB | en | 500 | 14:40 | [Ocon out, Hirakawa in as Haas make shock Mexican Grand Prix driver change](https://www.racefans.net/2026/10/31/ocon-out-hirakawa-in-as-haas-make-shock-mexican-grand-prix-driver-change/) |
-| eibar - almería | ES | es | 500 | 14:40 | [Eibar - Almería en directo: LaLiga Hypermotion hoy, en vivo](https://as.com/futbol/segunda/eibar-almeria-en-directo-laliga-hypermotion-hoy-en-vivo-f202610-d/) |
-| futebol | BR | pt | 500 | 14:40 | [Sem espaço no Fluminense, Riquelme tem chance de retomada com a Seleção sub-20](https://ge.globo.com/futebol/times/fluminense/noticia/2026/10/31/sem-espaco-no-fluminense-riquelme-tem-chance-de-retomada-com-a-selecao-sub-20.ghtml) |
-| novelas quem ama cuida | BR | pt | 500 | 14:30 | [Quem Ama Cuida: Pilar surta e parte para cima de Zeni](https://gshow.globo.com/novelas/quem-ama-cuida/vem-por-ai/noticia/quem-ama-cuida-pilar-surta-e-parte-para-cima-de-zeni.ghtml) |
-| city - brighton | PT | pt | 500 | 14:20 | [Manchester City vs Brighton & Hove Albion: Premier League preview, team news, stats & head-to-head](https://www.bbc.com/sport/football/live/c6x2v4k8e0y9t) |
-| freiwillige feuerwehr ebelsberg | AT | de | 500 | 14:30 | [Grabstätte in Flammen: Feuerwehr musste am Friedhof ausrücken](https://www.fotokerschi.at/blog/grabstatte-in-flammen-feuerwehr-musste-am-friedhof-ausrucken) |
-| man city – brighton | AT | de | 500 | 14:30 | [City only missing Semenyo ahead of Brighton clash](https://www.mancity.com/news/mens/enzo-maresca-brighton-squad-update-63928963) |
-| lyon – vannes | FR | fr | 500 | 14:40 | [Lyon - Vannes, Top 14 2026-2027, match en direct le 31-10-2026](https://www.lequipe.fr/Rugby/match-direct/top-14/2026-2027/lyon-vannes-live/42448) |
-| rayo – celta vigo | FR | fr | 500 | 14:40 | [~!@![CANAL-DEPORTIVO] Rayo Vallecano vs Celta Vigo 𝐄𝐍 𝐕𝐈𝐕𝐎 Ｇｒａｔｉｓ partido del 31 de octubre de 2026. HD31](https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2ZyYW5jaXNqaGFycmlzby5naXRodWIuaW8vbml0YXEvdGJyLnhtbCIvPjwva3JwYW5vPg==&id=rayo-vallecano-vs-celta-vigo-fox-sports-is6cw) |
+| jobe bellingham | US, GB, MX, DE, FR | en, es, de, fr | 4200 | 17:20 | [Jude and Jobe Bellingham's father Mark called up by England Veterans Over-50s for Republic of Ireland clash after prolific 17-year non-league career](https://www.goal.com/en/news/jude-jobe-bellingham-father-mark-called-up-england-veterans-over-50s-republic-of-ireland/blte8207e2c80279ddc) |
+| bayern munich | US, BR | en, pt | 5200 | 17:30 | [Bayern Munich vs Dortmund LIVE! Bundesliga match updates, news, score, stream and highlights](https://www.skysports.com/football/live-blog/13605682/bayern-munich-vs-dortmund-live-bundesliga-match-updates-news-score-stream-and-highlights) |
+| moscou | PT, FR | pt, fr | 2500 | 17:20 | [La Russie prévenue par les États-Unis d'une «menace crédible» d'attentat à Moscou samedi](https://www.lefigaro.fr/international/la-russie-prevenue-par-les-etats-unis-d-une-menace-credible-d-attentat-a-moscou-samedi-20261031) |
+| rangers vs aberdeen | US, ES | en, es | 400 | 17:30 | [Rangers vs Aberdeen LIVE: Scottish League Cup radio commentary, live text, team news, stats, match report & reaction](https://www.bbc.com/sport/football/live/cmx23ln75zk0t) |
+| feyenoord | GB, AR | en, es | 400 | 17:20 | [Oppermachtig Feyenoord krijgt Fortuna Sittard er niet onder: 1-1](https://nos.nl/artikel/2637485-oppermachtig-feyenoord-krijgt-fortuna-sittard-er-niet-onder-1-1) |
+| bbc news mundo | ES, AR | es | 400 | 17:10 | [Una cadena de fallos técnicos tumbó el sistema de seguridad ferroviaria LZB en Urda](https://elpais.com/espana/2026-10-31/una-cadena-de-fallos-tecnicos-tumbo-el-sistema-de-seguridad-ferroviaria-lzb-en-urda.html) |
+| roma | MX, AR | es | 400 | 17:20 | [Cortei, a Roma sette denunciati e 369 identificati](https://www.mattinopadova.it/italia/cortei-a-roma-sette-denunciati-e-369-identificati-hwb20ud9) |
+| granizo | AR | es | 200000 | 17:10 | [Tras el diluvio en la Ciudad, se extendió la alerta amarilla por tormentas y posible granizo para el AMBA y las provincias de Buenos Aires, Santa Fe y Entre Ríos](https://www.clarin.com/sociedad/alerta-amarilla-tormentas-amba-zonas-provincias-buenos-aires-santa-fe-rios_0_vXhUbMlZQa.html) |
+| kätzchen | DE | de | 10000 | 17:40 | [Tiere sichergestellt: Mann bietet Katzenbabys für 20 Euro oder Döner an](https://www.stern.de/gesellschaft/regional/nordrhein-westfalen/tiere-sichergestellt--mann-bietet-katzenbabys-fuer-20-euro-oder-doener-an-38479562.html) |
+| jardin | FR | fr | 5000 | 17:30 | [Jardin potager : que faut-il faire dès l automne pour avoir de belles récoltes au printemps ?](https://www.rtl.fr/actu/divers/jardin-potager-que-faut-il-faire-des-l-automne-pour-avoir-de-belles-recoltes-au-printemps-7900691089) |
+| mateta | GB | en | 2000 | 17:40 | [Leeds news: Dominic Calvert-Lewin set for new contract](https://www.bbc.co.uk/sport/football/articles/c6x2w1epxx8yo) |
+| bonfire night | GB | en | 2000 | 17:40 | [Can I report my neighbour for setting off fireworks? Full laws and rules explained](https://www.thesun.co.uk/news/40850805/report-neighbour-fireworks-laws-rules/) |
+| celta b - córdoba | ES | es | 2000 | 17:00 | [Celta Fortuna - Córdoba CF, en directo: LaLiga Hypermotion, hoy en vivo](https://as.com/futbol/segunda/celta-fortuna-cordoba-cf-en-directo-laliga-hypermotion-hoy-en-vivo-f202610-d/) |
+| bayern | MX | es | 2000 | 17:40 | [Jugendproteste: Verletzter bei Jugend-Demo in Nürnberg](https://www.zeit.de/news/2026-10/31/verletzter-bei-jugend-demo-in-nuernberg) |
+| bundesliga | BR | pt | 2000 | 17:20 | [Verdacht auf Unregelmäßigkeiten im Zusammenhang mit dem Ballon d'Or 2026; Organisatoren leiten dringende Untersuchung ein.](https://www.vietnam.vn/de/nghi-van-bat-thuong-o-qua-bong-vang-2026-ban-to-chuc-dieu-tra-khan-cap) |
+| inundação | PT | pt | 2000 | 17:20 | [Megabarreira de 9 quilômetros possui 62 comportas de aço com até 480 toneladas cada para proteger região inteira contra inundações](https://midiamax.com.br/trends/2026/10/30/megabarreira-de-9-quilometros-possui-62-comportas-de-aco-com-ate-480-toneladas-cada-para-proteger-regiao-inteira-contra-inundacoes/) |
+| nbc news | US | en | 1000 | 17:40 | [Election cheat sheet: These early races could tell us where the midterms are headed](https://www.axios.com/2026/10/31/your-election-night-cheat-sheet) |
+| murray state vs illinois st | US | en | 1000 | 17:30 | [Can Morgan State football bounce back after another loss? ‘Time to finish.’](https://www.capitalgazette.com/2026/10/30/morgan-state-football-losing-streak-turnaround/) |
+| philadelphia vs cincinnati | US | en | 1000 | 17:20 | [Clinching scenarios: How FC Cincinnati can lock in a playoff spot this weekend](https://www.wcpo.com/sports/fc-cincinnati/clinching-acenarios-how-fc-cincinnati-can-lock-in-a-playoff-spot-this-weekend) |
+| d.c. united vs columbus | US | en | 1000 | 17:20 | [MATCH GUIDE / Crew vs. DC United](https://www.columbuscrew.com/news/match-guide-crew-vs-dc-united) |
+| roma vs | MX | es | 1000 | 17:30 | [Cuándo juegan Udinese vs. Roma por Serie A: equipo, fecha, hora y TV en vivo](https://www.espn.com.mx/futbol/italia/nota/_/id/17443524/udinese-vs-roma-serie-a-equipo-fecha-hora-y-tv-en-vivo) |
+| godoy cruz - almirante brown | AR | es | 1000 | 17:20 | [Godoy Cruz vs Almirante Brown, en vivo, por la Primera Nacional: minuto a minuto y qué canal pasa el partido por TV](https://tn.com.ar/deportes/futbol/2026/10/31/godoy-cruz-vs-almirante-brown-en-vivo-por-la-fecha-36-de-la-primera-nacional-hora-donde-ver-y-formaciones/) |
+| posiciones de bayer leverkusen contra vfb stuttgart | AR | es | 1000 | 17:10 | [Stuttgart win at Leverkusen ahead of Bundesliga Klassiker](https://sports.yahoo.com/articles/stuttgart-win-leverkusen-ahead-bundesliga-164819711.html) |
+| al-hilal x al fateh | BR | pt | 1000 | 17:30 | [Al-Hilal x Al-Fateh: onde assistir, horário e escalações](https://www.lance.com.br/onde-assistir/al-hilal-x-al-fateh-onde-assistir-horario-e-escalacoes.html) |
+| warren buffett | DE | de | 1000 | 17:30 | [Warren Buffett said he hasn't drunk water in 5 decades: Bill Ackman](https://www.businessinsider.com/warren-buffett-bill-ackman-water-coke-soda-junk-food-diet-2026-10) |
+| straßenbahn | DE | de | 1000 | 17:30 | [Unfälle: Mehrere Verletzte bei Zusammenstoß von Straßenbahn und Auto](https://www.zeit.de/news/2026-10/31/mehrere-verletzte-bei-zusammenstoss-von-strassenbahn-und-auto) |
+| lask – wsg tirol | AT | de | 1000 | 17:40 | [Bundesliga: Rastloser LASK gegen WSG gefordert](https://sport.orf.at/stories/3164249/) |
+| ali rabeh | FR | fr | 1000 | 17:20 | [Trappes : le maire Ali Rabeh visé par une lettre raciste contenant une poudre blanche](https://www.leparisien.fr/yvelines-78/trappes-le-maire-ali-rabeh-vise-par-une-lettre-raciste-contenant-une-poudre-blanche-31-10-2026-YCX55W67H5CT7BVCJY26BNLV5I.php) |
+| eva longoria | US | en | 500 | 17:30 | [Jeff Bezos once gave Eva Longoria and the admiral behind Osama bin Laden's capture $100 million—but she says you don't need wealth to give back](https://fortune.com/article/billionaire-jeff-bezos-gave-eva-longoria-admiral-behind-osama-bin-ladens-capture-100-million-she-says-you-dont-need-wealth-to-give-back/) |
+| montréal vs new york city | US | en | 500 | 17:30 | [New York City vs Montréal: Major League Soccer stats & head-to-head](https://www.bbc.com/sport/football/live/cmd7q08ngx7zt) |
+| nw state vs uiw | US | en | 500 | 17:20 | [Demons look to turn progress into breakthrough at UIW](https://nsudemons.com/news/2026/10/30/demon-football-demons-look-to-turn-progress-into-breakthrough-at-uiw.aspx) |
+| acassuso - ferro | AR | es | 500 | 17:40 | [Acassuso vs. Ferro, por la Primera Nacional: seguilo EN VIVO](https://www.tycsports.com/primera-nacional/argentina-campeonato-primera-nacional-2026-acassuso-vs-ferro-fecha-36-id769259.html) |
+| san martín - gimnasia jujuy | AR | es | 500 | 17:40 | [San Martín (SJ) vs Gimnasia Jujuy, en vivo, por la Primera Nacional: minuto a minuto y qué canal pasa el partido por TV](https://tn.com.ar/deportes/futbol/2026/10/31/san-martin-sj-vs-gimnasia-jujuy-en-vivo-por-la-fecha-36-de-la-primera-nacional-hora-donde-ver-y-formaciones/) |
+| caminhoneiro | BR | pt | 500 | 17:40 | [Caminhoneiro luta para voltar à estrada após acidente devastador](https://www.terra.com.br/noticias/caminhoneiro-luta-para-voltar-a-estrada-apos-acidente-devastador,feec41410b26372a966162bfa9bf42865ad5ihha.html) |
+| ponte 25 de abril | PT | pt | 500 | 17:40 | [Ponte 25 de Abril: porque é que atravessar o Tejo continua a ser um pesadelo?](https://sapo.pt/artigo/ponte-25-de-abril-porque-e-que-atravessar-o-tejo-continua-a-ser-um-pesadelo-6ae1a46a73157f98660826f5) |
+| benfica b - chaves | PT | pt | 500 | 17:30 | [Objetivo: regressar às vitórias](https://www.slbenfica.pt/pt-pt/agora/noticias/2026/10/30/futebol-formacao-benfica-b-chaves-antevisao-nelson-verissimo-9-jornada-liga-2) |
+| bayern - borussia | PT | pt | 500 | 16:50 | [So sehen Sie heute Bayern – Dortmund live im TV](https://www.bild.de/sport/fussball/bundesliga-so-sehen-sie-heute-bayern-dortmund-live-im-tv-6ae46045e6383048f41d3c5b) |
+| fc bayern | AT | de | 500 | 17:40 | [Auszeichnung für Bayern-Star: Exaktes Ballon-d'Or-Ergebnis: So knapp lag Kane vor Mbappé](https://www.zeit.de/news/2026-10/30/exaktes-ballon-d-or-ergebnis-so-knapp-lag-kane-vor-mbapp) |
+| schneefallgrenze | AT | de | 500 | 17:10 | [Schnee bis auf 700 Meter: So wird das Wetter zu Allerheiligen und Wochenbeginn](https://www.nachrichten.at/oberoesterreich/schnee-bis-auf-700-meter-so-wird-das-wetter-zu-allerheiligen-und-wochenbeginn;art4,4227705) |
+| kc koi | FR | fr | 500 | 17:50 | [League of Legends : un duel entre la Karmine Corp et KOI pour une place en quarts des Worlds, G2 éliminé](https://www.lequipe.fr/Esport/Actualites/League-of-legends-un-duel-entre-la-karmine-corp-et-koi-pour-une-place-en-quarts-des-worlds-g2-elimine/1739962) |
 
-## Uygun yeni adaylar (148)
+## Uygun yeni adaylar (140)
 
 | Puan | Kişi | Kategori | Nerede trend | Wikipedia artışı | Kaynak | Not |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -59,6 +59,7 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 | 219 | Ian McKellen | artists | en, es, pt, de, fr | 35.6x | [Q170510](https://www.wikidata.org/wiki/Q170510) [Wikipedia](https://en.wikipedia.org/wiki/Ian_McKellen) |  |
 | 172 | Elke Sommer | artists | en, es, de | 103.3x | [Q241115](https://www.wikidata.org/wiki/Q241115) [Wikipedia](https://en.wikipedia.org/wiki/Elke_Sommer) | recent death, write with care |
 | 169 | Matthew Perry | artists | en, es, pt, de, fr | 3.9x | [Q171758](https://www.wikidata.org/wiki/Q171758) [Wikipedia](https://en.wikipedia.org/wiki/Matthew_Perry) |  |
+| 159 | Johan Bellingham | athletes | US, GB, MX, DE, FR | 1.7x | [Q110483835](https://www.wikidata.org/wiki/Q110483835) [Wikipedia](https://en.wikipedia.org/wiki/Jobe_Bellingham) |  |
 | 155 | Christine Lagarde | athletes | de, fr | 102.3x | [Q484605](https://www.wikidata.org/wiki/Q484605) [Wikipedia](https://en.wikipedia.org/wiki/Christine_Lagarde) |  |
 | 155 | Susan Sarandon | artists | de, fr | 24.2x | [Q133050](https://www.wikidata.org/wiki/Q133050) [Wikipedia](https://en.wikipedia.org/wiki/Susan_Sarandon) |  |
 | 154 | Tim Curry | artists | de, fr | 25.1x | [Q52392](https://www.wikidata.org/wiki/Q52392) [Wikipedia](https://en.wikipedia.org/wiki/Tim_Curry) | recent death, write with care |
@@ -108,8 +109,8 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 | 115 | Eder Sarabia | athletes | es | 83.4x | [Q106834887](https://www.wikidata.org/wiki/Q106834887) [Wikipedia](https://en.wikipedia.org/wiki/Eder_Sarabia) |  |
 | 115 | Michel Pineda | athletes | es | 734.5x | [Q3313000](https://www.wikidata.org/wiki/Q3313000) [Wikipedia](https://en.wikipedia.org/wiki/Michel_Pineda) | recent death, write with care |
 | 115 | Lucas Trejo | athletes | es | 86.1x | [Q6696334](https://www.wikidata.org/wiki/Q6696334) [Wikipedia](https://en.wikipedia.org/wiki/Lucas_Trejo) |  |
+| 115 | Alex de Minaur | athletes | BR | 16.6x | [Q22958938](https://www.wikidata.org/wiki/Q22958938) [Wikipedia](https://en.wikipedia.org/wiki/Alex_de_Minaur) |  |
 | 115 | Jérôme Kym | athletes | de | 123.8x | [Q61415282](https://www.wikidata.org/wiki/Q61415282) [Wikipedia](https://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Kym) |  |
-| 114 | Enrique Piñeyro | artists | es | 55.7x | [Q5379791](https://www.wikidata.org/wiki/Q5379791) [Wikipedia](https://en.wikipedia.org/wiki/Enrique_Pi%C3%B1eyro_(actor)) |  |
 | 114 | Pablo Guede | athletes | es | 53.6x | [Q6056049](https://www.wikidata.org/wiki/Q6056049) [Wikipedia](https://en.wikipedia.org/wiki/Pablo_Guede) |  |
 | 114 | Zé Ricardo | athletes | pt | 107.9x | [Q24338838](https://www.wikidata.org/wiki/Q24338838) [Wikipedia](https://en.wikipedia.org/wiki/Z%C3%A9_Ricardo) |  |
 | 114 | Nilam Farooq | artists | de | 19.5x | [Q1310400](https://www.wikidata.org/wiki/Q1310400) [Wikipedia](https://en.wikipedia.org/wiki/Nilam_Farooq) |  |
@@ -130,10 +131,8 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 | 103 | Mate Rimac | business | de | 15.1x | [Q16113468](https://www.wikidata.org/wiki/Q16113468) [Wikipedia](https://en.wikipedia.org/wiki/Mate_Rimac) |  |
 | 102 | Sebastian Croft | artists | en | 11.9x | [Q24004789](https://www.wikidata.org/wiki/Q24004789) [Wikipedia](https://en.wikipedia.org/wiki/Sebastian_Croft) |  |
 | 101 | James Blunt | artists | en | 8.4x | [Q130799](https://www.wikidata.org/wiki/Q130799) [Wikipedia](https://en.wikipedia.org/wiki/James_Blunt) |  |
-| 101 | Kaio Jorge | athletes | pt | 13.6x | [Q56876908](https://www.wikidata.org/wiki/Q56876908) [Wikipedia](https://en.wikipedia.org/wiki/Kaio_Jorge) |  |
 | 101 | Dejan Petković | athletes | pt | 13.9x | [Q2015351](https://www.wikidata.org/wiki/Q2015351) [Wikipedia](https://en.wikipedia.org/wiki/Dejan_Petkovi%C4%87) |  |
 | 97 | Leigh Anne Pinnock | artists | en | 10.4x | [Q19750811](https://www.wikidata.org/wiki/Q19750811) [Wikipedia](https://en.wikipedia.org/wiki/Leigh-Anne_Pinnock) |  |
-| 95 | Taylor Fritz | athletes | US, ES | 1x | [Q17660516](https://www.wikidata.org/wiki/Q17660516) [Wikipedia](https://en.wikipedia.org/wiki/Taylor_Fritz) |  |
 | 95 | David Walliams | artists | en | 8.7x | [Q359665](https://www.wikidata.org/wiki/Q359665) [Wikipedia](https://en.wikipedia.org/wiki/David_Walliams) |  |
 | 95 | Götz Alsmann | artists | de | 13.6x | [Q90401](https://www.wikidata.org/wiki/Q90401) [Wikipedia](https://en.wikipedia.org/wiki/G%C3%B6tz_Alsmann) |  |
 | 95 | Q185002 | business | fr | 8.2x | [Q185002](https://www.wikidata.org/wiki/Q185002) [Wikipedia](https://en.wikipedia.org/wiki/Myl%C3%A8ne_Farmer) |  |
@@ -145,13 +144,10 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 | 93 | Joachim Gauck | artists | de | 7.5x | [Q2538](https://www.wikidata.org/wiki/Q2538) [Wikipedia](https://en.wikipedia.org/wiki/Joachim_Gauck) |  |
 | 92 | Juliette | creators | pt | 13.7x | [Q105824749](https://www.wikidata.org/wiki/Q105824749) [Wikipedia](https://en.wikipedia.org/wiki/Juliette_(Brazilian_singer)) |  |
 | 92 | Jonathan Frakes | artists | de | 9.4x | [Q346595](https://www.wikidata.org/wiki/Q346595) [Wikipedia](https://en.wikipedia.org/wiki/Jonathan_Frakes) |  |
-| 89 | Daniil Medvedev | athletes | AT | 6.3x | [Q21622022](https://www.wikidata.org/wiki/Q21622022) [Wikipedia](https://en.wikipedia.org/wiki/Daniil_Medvedev) |  |
 | 89 | Joachim Meyerhoff | artists | de | 11.9x | [Q1690316](https://www.wikidata.org/wiki/Q1690316) [Wikipedia](https://en.wikipedia.org/wiki/Joachim_Meyerhoff) |  |
 | 88 | Glenn Close | artists | en | 4.8x | [Q372311](https://www.wikidata.org/wiki/Q372311) [Wikipedia](https://en.wikipedia.org/wiki/Glenn_Close) |  |
-| 88 | Valentin Vacherot | athletes | FR | 8.6x | [Q107314093](https://www.wikidata.org/wiki/Q107314093) [Wikipedia](https://en.wikipedia.org/wiki/Valentin_Vacherot) |  |
 | 88 | Roland Lescure | business | fr | 10.4x | [Q30130489](https://www.wikidata.org/wiki/Q30130489) [Wikipedia](https://en.wikipedia.org/wiki/Roland_Lescure) |  |
 | 86 | Michael Douglas | artists | en | 3.3x | [Q119798](https://www.wikidata.org/wiki/Q119798) [Wikipedia](https://en.wikipedia.org/wiki/Michael_Douglas) |  |
-| 86 | Lisandro Martínez | athletes | AR | 5.3x | [Q30881092](https://www.wikidata.org/wiki/Q30881092) [Wikipedia](https://en.wikipedia.org/wiki/Lisandro_Mart%C3%ADnez) |  |
 | 85 | Michael Sheen | artists | en | 4.2x | [Q298276](https://www.wikidata.org/wiki/Q298276) [Wikipedia](https://en.wikipedia.org/wiki/Michael_Sheen) |  |
 | 85 | Achraf Hakimi | athletes | fr | 5.4x | [Q26932598](https://www.wikidata.org/wiki/Q26932598) [Wikipedia](https://en.wikipedia.org/wiki/Achraf_Hakimi) |  |
 | 85 | Olivier Giroud | athletes | fr | 5x | [Q1911](https://www.wikidata.org/wiki/Q1911) [Wikipedia](https://en.wikipedia.org/wiki/Olivier_Giroud) |  |
@@ -160,62 +156,56 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 | 83 | Mark Benecke | artists | de | 9.5x | [Q70307](https://www.wikidata.org/wiki/Q70307) [Wikipedia](https://en.wikipedia.org/wiki/Mark_Benecke) |  |
 | 83 | Thomas Fritsch | artists | de | 8.1x | [Q89764](https://www.wikidata.org/wiki/Q89764) [Wikipedia](https://en.wikipedia.org/wiki/Thomas_Fritsch) |  |
 | 82 | Romesh Ranganathan | artists | en | 7.5x | [Q15072767](https://www.wikidata.org/wiki/Q15072767) [Wikipedia](https://en.wikipedia.org/wiki/Romesh_Ranganathan) |  |
-| 82 | Viktor Gyökeres | athletes | BR | 0.9x | [Q47075606](https://www.wikidata.org/wiki/Q47075606) [Wikipedia](https://en.wikipedia.org/wiki/Viktor_Gy%C3%B6keres) |  |
+| 82 | Warren Buffett | business | DE | 1x | [Q47213](https://www.wikidata.org/wiki/Q47213) [Wikipedia](https://en.wikipedia.org/wiki/Warren_Buffett) |  |
 | 81 | Catherine Zeta-Jones | artists | en | 2.2x | [Q47664](https://www.wikidata.org/wiki/Q47664) [Wikipedia](https://en.wikipedia.org/wiki/Catherine_Zeta-Jones) |  |
-| 81 | Leonard Nimoy | artists | de | 3.9x | [Q16345](https://www.wikidata.org/wiki/Q16345) [Wikipedia](https://en.wikipedia.org/wiki/Leonard_Nimoy) |  |
 | 81 | Julia Piaton | artists | fr | 8.1x | [Q3189060](https://www.wikidata.org/wiki/Q3189060) [Wikipedia](https://en.wikipedia.org/wiki/Julia_Piaton) |  |
 | 80 | Maya Jama | artists | en | 6.7x | [Q40548765](https://www.wikidata.org/wiki/Q40548765) [Wikipedia](https://en.wikipedia.org/wiki/Maya_Jama) |  |
-| 80 | Dmitry Medvedev | business | AT | 1x | [Q23530](https://www.wikidata.org/wiki/Q23530) [Wikipedia](https://en.wikipedia.org/wiki/Dmitry_Medvedev) |  |
 | 80 | Sophia Thomalla | artists | de | 6.7x | [Q109608](https://www.wikidata.org/wiki/Q109608) [Wikipedia](https://en.wikipedia.org/wiki/Sophia_Thomalla) |  |
 | 80 | Liam Neeson | artists | de | 2.9x | [Q58444](https://www.wikidata.org/wiki/Q58444) [Wikipedia](https://en.wikipedia.org/wiki/Liam_Neeson) |  |
 | 80 | Martin Sellner | creators | de | 8x | [Q26262585](https://www.wikidata.org/wiki/Q26262585) [Wikipedia](https://en.wikipedia.org/wiki/Martin_Sellner) |  |
 | 79 | James Acaster | artists | en | 5.4x | [Q15072714](https://www.wikidata.org/wiki/Q15072714) [Wikipedia](https://en.wikipedia.org/wiki/James_Acaster) |  |
+| 79 | Medhi Benatia | athletes | ES | 3.4x | [Q462779](https://www.wikidata.org/wiki/Q462779) [Wikipedia](https://en.wikipedia.org/wiki/Medhi_Benatia) |  |
 | 79 | Mario Osuna | athletes | es | 7.8x | [Q16301969](https://www.wikidata.org/wiki/Q16301969) [Wikipedia](https://en.wikipedia.org/wiki/Mario_Osuna) |  |
 | 79 | Arnaud Denis | artists | fr | 9.3x | [Q2863095](https://www.wikidata.org/wiki/Q2863095) [Wikipedia](https://en.wikipedia.org/wiki/Arnaud_Denis) | recent death, write with care |
 | 78 | Corinne Luchaire | artists | fr | 7x | [Q2294413](https://www.wikidata.org/wiki/Q2294413) [Wikipedia](https://en.wikipedia.org/wiki/Corinne_Luchaire) |  |
 | 78 | Sophie Marceau | artists | fr | 2.8x | [Q162753](https://www.wikidata.org/wiki/Q162753) [Wikipedia](https://en.wikipedia.org/wiki/Sophie_Marceau) |  |
 | 78 | Heath Ledger | artists | fr | 2.4x | [Q40572](https://www.wikidata.org/wiki/Q40572) [Wikipedia](https://en.wikipedia.org/wiki/Heath_Ledger) |  |
 | 78 | Joe Dassin | artists | fr | 4x | [Q272943](https://www.wikidata.org/wiki/Q272943) [Wikipedia](https://en.wikipedia.org/wiki/Joe_Dassin) |  |
+| 77 | Eva Longoria | artists | US | 0.8x | [Q163263](https://www.wikidata.org/wiki/Q163263) [Wikipedia](https://en.wikipedia.org/wiki/Eva_Longoria) |  |
+| 77 | Jean-Philippe Mateta | athletes | GB | 1.2x | [Q26964668](https://www.wikidata.org/wiki/Q26964668) [Wikipedia](https://en.wikipedia.org/wiki/Jean-Philippe_Mateta) |  |
+| 77 | Jude Bellingham | athletes | BR | 0.8x | [Q66241169](https://www.wikidata.org/wiki/Q66241169) [Wikipedia](https://en.wikipedia.org/wiki/Jude_Bellingham) |  |
+| 77 | Erling Haaland | athletes | AT | 0.8x | [Q28967995](https://www.wikidata.org/wiki/Q28967995) [Wikipedia](https://en.wikipedia.org/wiki/Erling_Haaland) |  |
 | 76 | Bob Uecker | athletes | en | 3.5x | [Q888295](https://www.wikidata.org/wiki/Q888295) [Wikipedia](https://en.wikipedia.org/wiki/Bob_Uecker) | recent death, write with care |
+| 76 | Heidi Klum | business | AT | 1.2x | [Q60036](https://www.wikidata.org/wiki/Q60036) [Wikipedia](https://en.wikipedia.org/wiki/Heidi_Klum) |  |
 | 76 | Q76324 | artists | de | 4.3x | [Q76324](https://www.wikidata.org/wiki/Q76324) [Wikipedia](https://en.wikipedia.org/wiki/Juli_Zeh) |  |
 | 76 | Andrzej Żuławski | artists | fr | 4x | [Q515904](https://www.wikidata.org/wiki/Q515904) [Wikipedia](https://en.wikipedia.org/wiki/Andrzej_%C5%BBu%C5%82awski) |  |
-| 75 | Julia Grabher | athletes | AT | 4.6x | [Q18972370](https://www.wikidata.org/wiki/Q18972370) [Wikipedia](https://en.wikipedia.org/wiki/Julia_Grabher) |  |
+| 75 | Marcos Leonardo | athletes | BR | 2.2x | [Q98534760](https://www.wikidata.org/wiki/Q98534760) [Wikipedia](https://en.wikipedia.org/wiki/Marcos_Leonardo) |  |
+| 75 | Diego Costa | athletes | BR | 1.1x | [Q459707](https://www.wikidata.org/wiki/Q459707) [Wikipedia](https://en.wikipedia.org/wiki/Diego_Costa) |  |
 | 75 | Daniela Katzenberger | artists | de | 6.2x | [Q22979](https://www.wikidata.org/wiki/Q22979) [Wikipedia](https://en.wikipedia.org/wiki/Daniela_Katzenberger) |  |
 | 75 | Bernard Lavilliers | artists | fr | 5x | [Q822558](https://www.wikidata.org/wiki/Q822558) [Wikipedia](https://en.wikipedia.org/wiki/Bernard_Lavilliers) |  |
 | 74 | Xuxa | business | pt | 3.7x | [Q275939](https://www.wikidata.org/wiki/Q275939) [Wikipedia](https://en.wikipedia.org/wiki/Xuxa) |  |
-| 74 | Emiliano Martínez | athletes | FR | 0.7x | [Q3275904](https://www.wikidata.org/wiki/Q3275904) [Wikipedia](https://en.wikipedia.org/wiki/Emiliano_Mart%C3%ADnez) |  |
 | 74 | Laurent Voulzy | artists | fr | 5.5x | [Q1363146](https://www.wikidata.org/wiki/Q1363146) [Wikipedia](https://en.wikipedia.org/wiki/Laurent_Voulzy) |  |
 | 73 | Philippe de Villiers | artists | fr | 4.1x | [Q704846](https://www.wikidata.org/wiki/Q704846) [Wikipedia](https://en.wikipedia.org/wiki/Philippe_de_Villiers) |  |
-| 71 | Sebastián Báez | athletes | AR | 1.3x | [Q47396310](https://www.wikidata.org/wiki/Q47396310) [Wikipedia](https://en.wikipedia.org/wiki/Sebasti%C3%A1n_B%C3%A1ez) |  |
-| 71 | Carlos Espí | athletes | PT | 0.6x | [Q124636010](https://www.wikidata.org/wiki/Q124636010) [Wikipedia](https://en.wikipedia.org/wiki/Carlos_Esp%C3%AD) |  |
-| 71 | Julio César Enciso | athletes | DE | 0.5x | [Q85872272](https://www.wikidata.org/wiki/Q85872272) [Wikipedia](https://en.wikipedia.org/wiki/Julio_Enciso_(footballer%2C_born_2004)) |  |
 | 71 | Ann-Kathrin Kramer | artists | de | 4.6x | [Q97152](https://www.wikidata.org/wiki/Q97152) [Wikipedia](https://en.wikipedia.org/wiki/Ann-Kathrin_Kramer) |  |
 | 71 | M. Pokora | artists | fr | 3.3x | [Q380799](https://www.wikidata.org/wiki/Q380799) [Wikipedia](https://en.wikipedia.org/wiki/M._Pokora) |  |
-| 70 | Saido Berahino | athletes | US | 0.5x | [Q7399978](https://www.wikidata.org/wiki/Q7399978) [Wikipedia](https://en.wikipedia.org/wiki/Saido_Berahino) |  |
-| 70 | Giuliano Simeone | athletes | ES | 0.7x | [Q111672750](https://www.wikidata.org/wiki/Q111672750) [Wikipedia](https://en.wikipedia.org/wiki/Giuliano_Simeone) |  |
+| 70 | Marco Caneira | athletes | PT | 1.9x | [Q343997](https://www.wikidata.org/wiki/Q343997) [Wikipedia](https://en.wikipedia.org/wiki/Marco_Caneira) |  |
 | 70 | Orelsan | artists | fr | 3.3x | [Q2813374](https://www.wikidata.org/wiki/Q2813374) [Wikipedia](https://en.wikipedia.org/wiki/Orelsan) |  |
-| 69 | Borja Iglesias | athletes | BR | 0.2x | [Q18719485](https://www.wikidata.org/wiki/Q18719485) [Wikipedia](https://en.wikipedia.org/wiki/Borja_Iglesias) |  |
 | 69 | Shirin David | creators | de | 3.9x | [Q27031148](https://www.wikidata.org/wiki/Q27031148) [Wikipedia](https://en.wikipedia.org/wiki/Shirin_David) |  |
-| 68 | Rocío Jurado | artists | ES | 1.1x | [Q259152](https://www.wikidata.org/wiki/Q259152) [Wikipedia](https://en.wikipedia.org/wiki/Roc%C3%ADo_Jurado) |  |
 | 67 | Rodolfo Sancho | artists | es | 4.4x | [Q5860270](https://www.wikidata.org/wiki/Q5860270) [Wikipedia](https://en.wikipedia.org/wiki/Rodolfo_Sancho) |  |
-| 66 | Lee Naylor | athletes | US | 0.6x | [Q174333](https://www.wikidata.org/wiki/Q174333) [Wikipedia](https://en.wikipedia.org/wiki/Lee_Naylor_(footballer)) |  |
-| 66 | Michele Di Gregorio | athletes | BR | 0.5x | [Q42317168](https://www.wikidata.org/wiki/Q42317168) [Wikipedia](https://en.wikipedia.org/wiki/Michele_Di_Gregorio) |  |
-| 64 | Yannick Hanfmann | athletes | DE | 1x | [Q29628209](https://www.wikidata.org/wiki/Q29628209) [Wikipedia](https://en.wikipedia.org/wiki/Yannick_Hanfmann) |  |
-| 62 | Dave Jones | athletes | BR | 1x | [Q1173249](https://www.wikidata.org/wiki/Q1173249) [Wikipedia](https://en.wikipedia.org/wiki/Dave_Jones_(footballer%2C_born_1956)) |  |
-| 57 | Benjamin Böckle | athletes | AT | 0.3x | [Q65552959](https://www.wikidata.org/wiki/Q65552959) [Wikipedia](https://en.wikipedia.org/wiki/Benjamin_B%C3%B6ckle) |  |
+| 63 | Joane Gadou | athletes | DE | 0.6x | [Q118441569](https://www.wikidata.org/wiki/Q118441569) [Wikipedia](https://en.wikipedia.org/wiki/Joane_Gadou) |  |
+| 60 | Scott Wright | athletes | ES | 0x | [Q21623345](https://www.wikidata.org/wiki/Q21623345) [Wikipedia](https://en.wikipedia.org/wiki/Scott_Wright_(footballer)) |  |
+| 59 | Maxime Delanghe | athletes | MX | 0x | [Q99348926](https://www.wikidata.org/wiki/Q99348926) [Wikipedia](https://en.wikipedia.org/wiki/Maxime_Delanghe) |  |
 
-## Sitede zaten var, güncellemeye aday (7)
+## Sitede zaten var, güncellemeye aday (5)
 
 | Puan | Kişi | Kategori | Nerede trend | Wikipedia artışı | Kaynak | Not |
 | --- | --- | --- | --- | --- | --- | --- |
 | 127 | Brent Spiner | artists | de | 67.4x | [Q311453](https://www.wikidata.org/wiki/Q311453) [Wikipedia](https://en.wikipedia.org/wiki/Brent_Spiner) |  |
-| 122 | Carlos Alcaraz | athletes | US, AR, BR | 2x | [Q85518537](https://www.wikidata.org/wiki/Q85518537) [Wikipedia](https://en.wikipedia.org/wiki/Carlos_Alcaraz) |  |
 | 121 | Jeffery Simmons | athletes | en | 56.1x | [Q45146310](https://www.wikidata.org/wiki/Q45146310) [Wikipedia](https://en.wikipedia.org/wiki/Jeffery_Simmons) |  |
 | 120 | Arthur Fery | athletes | de | 209.5x | [Q107406917](https://www.wikidata.org/wiki/Q107406917) [Wikipedia](https://en.wikipedia.org/wiki/Arthur_Fery) |  |
 | 87 | Nico Santos | artists | de | 9.6x | [Q23806108](https://www.wikidata.org/wiki/Q23806108) [Wikipedia](https://en.wikipedia.org/wiki/Nico_Santos_(singer)) |  |
-| 82 | Jan-Lennard Struff | athletes | de | 6.9x | [Q1681537](https://www.wikidata.org/wiki/Q1681537) [Wikipedia](https://en.wikipedia.org/wiki/Jan-Lennard_Struff) |  |
 | 76 | Sebastian Fitzek | artists | de | 5.5x | [Q67216](https://www.wikidata.org/wiki/Q67216) [Wikipedia](https://en.wikipedia.org/wiki/Sebastian_Fitzek) |  |
 
 ## Elenenler
 
-239 kişi elendi (reşit olmayan, suç ya da trajedi haberi, az tanınan, kategori dışı ya da trend zayıf). Ayrıntı JSON dosyasında.
+246 kişi elendi (reşit olmayan, suç ya da trajedi haberi, az tanınan, kategori dışı ya da trend zayıf). Ayrıntı JSON dosyasında.
