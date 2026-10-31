@@ -41,19 +41,12 @@ faq:
     a: >-
       Er wurde in Boston, Massachusetts, geboren und sagt, dass er vor allem in
       Dorchester aufgewachsen ist [s:boston-com-interview].
+flag: Rejected by the fact-check 4 times; needs a human editor.
 reviewNotes: >-
-  UNSUPPORTED: "Boston.com nennt You Gotta Believe und Monster Summer (2024)
-  unter seinen späteren Filmen" (Boston.com names both films but gives no dates
-  or timeline; no opened source dates You Gotta Believe. Drop 'späteren', or
-  date it from a source.) | Prose reads machine-written | Reviewer recommends
-  rejection: Rejected. Two fixes: (1) drop 'späteren' from 'Boston.com nennt You
-  Gotta Believe und Monster Summer (2024) unter seinen späteren Filmen', since
-  Boston.com does not date them; (2) rework the text as a German localisation
-  rather than a sentence-by-sentence translation of the English, and mark the
-  Movieguide phrase as a translation or paraphrase rather than a direct quote.
-  The rest of the facts check out.
-autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+  Prose reads machine-written | Reviewer recommends rejection: Facts confirmed
+  against sources; the German prose still reads as a translation. Style
+  judgement left for an editor.
+autoReviews: 4
 ---
 Der US-Schauspieler Patrick Renna wurde am 3. März 1979 in Boston geboren [s:apple-snapshot]. Bekannt wurde er vor allem als Hamilton „Ham“ Porter in *The Sandlot* (1993). Seitdem kamen ein Baseball-Kinderbuch, eine Produktionsfirma und die YouTube-Comedy *Dugout Dads* dazu, deren Hauptdarsteller er ist [s:penguin-book] [s:movieguide-hambino] [s:timeout-dugout-dads].
 
@@ -67,7 +60,7 @@ Der Film kam 1993 ins Kino [s:apple-snapshot]. Wie er zu seiner Rolle kam, erzä
 
 ## Rollen nach dem Film
 
-Auf seiner Apple-Seite wird er als US-Schauspieler geführt [s:apple-snapshot]. Dort taucht er neben Carla Gugino in *Son-in-Law* (1993) auf. Verzeichnet sind außerdem *The Big Green* (1995), *Lavalantula*, *You Gotta Believe* und *National Lampoon Presents: Dorm Daze* (2003) [s:apple-snapshot]. Boston.com nennt *You Gotta Believe* und *Monster Summer* (2024) unter seinen späteren Filmen [s:boston-com-interview] [s:apple-snapshot]. Laut Apple hat er zudem *Bad Roomies* mitproduziert [s:apple-snapshot].
+Auf seiner Apple-Seite wird er als US-Schauspieler geführt [s:apple-snapshot]. Dort taucht er neben Carla Gugino in *Son-in-Law* (1993) auf. Verzeichnet sind außerdem *The Big Green* (1995), *Lavalantula*, *You Gotta Believe* und *National Lampoon Presents: Dorm Daze* (2003) [s:apple-snapshot]. Boston.com nennt *You Gotta Believe* und *Monster Summer* (2024) unter seinen Filmen [s:boston-com-interview] [s:apple-snapshot]. Laut Apple hat er zudem *Bad Roomies* mitproduziert [s:apple-snapshot].
 
 ## Ein Baseball-Buch für Kinder
 
@@ -75,7 +68,7 @@ Am 25. Februar 2025 erschien bei Penguin das E-Book *A Little Slugger's Guide to
 
 ## Hambino Media
 
-Im Februar 2025 stellten Renna, Kyle Howard und Lynsey Bartilson Moore die Firma Hambino Media vor. Sie hatte nach eigenen Angaben „eine Reihe von fiktionalen und nicht fiktionalen Projekten“ in Arbeit [s:movieguide-hambino]. Angekündigt waren zwei noch unbetitelte Vorhaben mit Blind Nil, der Firma von Chip und Joanna Gaines, sowie eine unbetitelte Serie für Golf Digest [s:movieguide-hambino]. *Dugout Dads* entsteht über dieselbe Firma, die Renna und Howard führen [s:entertainmentnow-dugout-dads].
+Im Februar 2025 stellten Renna, Kyle Howard und Lynsey Bartilson Moore die Firma Hambino Media vor. Sie hatte nach eigenen Angaben eine Reihe fiktionaler und nicht fiktionaler Projekte in Arbeit [s:movieguide-hambino]. Angekündigt waren zwei noch unbetitelte Vorhaben mit Blind Nil, der Firma von Chip und Joanna Gaines, sowie eine unbetitelte Serie für Golf Digest [s:movieguide-hambino]. *Dugout Dads* entsteht über dieselbe Firma, die Renna und Howard führen [s:entertainmentnow-dugout-dads].
 
 ## Dugout Dads auf YouTube
 

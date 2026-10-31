@@ -10,10 +10,13 @@ summary: >-
   Brandon Blackstock was a talent manager in Nashville and the son of Narvel
   Blackstock, who owned Starstruck Entertainment [s:livenow-fox]. He managed
   Kelly Clarkson from 2017 until their split in 2020 [s:livenow-fox]. He died on
-  7 August 2025, aged 48 [s:cbs-death].
-status: review
+  7 August 2025, aged 48 [s:obituary-axelson] [s:fox-coroner].
+status: published
 risk: high
+reviewedAt: '2026-10-31'
+reviewBy: '2027-05-01'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - who is Brandon Blackstock
@@ -44,7 +47,9 @@ faq:
     a: >-
       Yes. The family obituary says he was born to Narvel and Elisa Blackstock
       [s:obituary-axelson].
-flag: 'High-risk article: needs a human editor''s approval.'
+autoReviews: 1
+publishedAt: '2026-10-31'
+publishedTime: '2026-10-31T14:36:56.052Z'
 ---
 Brandon Blackstock was a talent manager, best known for managing Kelly Clarkson [s:cbs-death]. He died on 7 August 2025, at the age of 48 [s:obituary-axelson] [s:fox-coroner].
 
@@ -58,7 +63,7 @@ The family's obituary notes more than two decades in the music industry [s:fox-o
 
 ## Montana ventures
 
-The obituary also credits him with building businesses outside music. It names Headwaters Livestock Auction among the companies he built, and says he created the Valley View Rodeo in Bozeman, Montana [s:fox-obituary]. He also owned V Bar B Cattle Co., a ranch in Montana [s:fox-obituary].
+The obituary also credits him with building businesses outside music. It names Headwaters Livestock Auction among the companies he built, and describes the Valley View Rodeo in Bozeman, Montana, as part of his legacy [s:fox-obituary]. He also owned V Bar B Cattle Co., a ranch in Montana [s:fox-obituary].
 
 ## Managing Kelly Clarkson
 

@@ -40,24 +40,19 @@ faq:
     a: >-
       En 14 temporadas anotó 10.684 puntos, capturó 3.146 rebotes y repartió
       3.525 asistencias, según Basketball-Reference.
+flag: Rejected by the fact-check 4 times; needs a human editor.
 reviewNotes: >-
-  UNSUPPORTED: "Creció en Memphis y volvió a la ciudad como entrenador"
-  (Birthplace is supported; 'creció' and 'volvió' are not stated in any opened
-  source. Reword or cite.) | UNSUPPORTED: "Dos días después, el director
-  deportivo y Hardaway hablaron de la asistencia a los partidos en casa" (Source
-  says dwindling basketball attendance, not home games. Change to 'asistencia'
-  or cite.) | UNCITED: "'Creció en la ciudad' (first paragraph)" | UNCITED:
-  "Middle name 'Deon' was removed from the es body; check that the reviewNotes
-  item is no longer relevant." | Prose reads machine-written | Reviewer
-  recommends rejection: Reject. Fix: remove 'creció en la ciudad y volvió a
-  ella' unless cited; change 'asistencia a los partidos en casa' to 'asistencia'
-  to match Daily Memphian; translate 'probation'; rewrite as a Spanish-first
-  text rather than a sentence-by-sentence translation. Veatch quote and TSHF
-  Dream Team are supported, despite old reviewer notes.
-autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+  11 of 38 claims could not be checked (source unreachable) | Prose reads
+  machine-written | Adds no value over existing pages: Follows the English page
+  section by section; the 'probation' term is glossed but the text is not
+  localised for Spanish-speaking readers. Style judgement left to the human
+  editor. | Reviewer recommends rejection: Reject for now: Basketball-Reference
+  (bbref-hardaway) returned HTTP 403, so the career totals, All-Star and All-NBA
+  years, draft pick, height, positions, Treadwell and the 1971 birth year are
+  unverified. Remaining claims were checked against opened sources.
+autoReviews: 4
 ---
-Penny, como se le conoce en Memphis, creció en la ciudad y volvió a ella como entrenador. Basketball-Reference lo describe como un jugador de 2,01 metros que estudió en el Treadwell High School y nació en Memphis, Tennessee [s:bbref-hardaway]. Desde 2018 dirige a los Tigers de la Universidad de Memphis, el equipo en el que jugó como estudiante [s:si-hardaway-hire-2018].
+Penny, como se le conoce en Memphis, nació en la ciudad. Basketball-Reference lo describe como un jugador de 2,01 metros que estudió en el Treadwell High School y nació en Memphis, Tennessee [s:bbref-hardaway]. Desde 2018 dirige a los Tigers de la Universidad de Memphis, el equipo en el que jugó como estudiante [s:si-hardaway-hire-2018].
 
 ## De la universidad al draft de 1993
 
@@ -95,4 +90,4 @@ Unas semanas antes, el programa había sido puesto en probation, un periodo de p
 
 ## La decisión de 2026
 
-En marzo de 2026 la universidad anunció que Hardaway volvería a dirigir al equipo la temporada siguiente [s:gotigers-return-2026]. Los Tigers de 2025-26 habían terminado con 13 victorias y 19 derrotas [s:dailymemphian-hardaway-2026]. El columnista del Daily Memphian John Martin escribió que “la tarea que tiene por delante es inmensa” [s:dailymemphian-hardaway-2026]. En otra información del mismo diario, Hardaway dijo: “Sé que puedo volver después de un fracaso” [s:dailymemphian-hardaway-2026]. Ocho jugadores de aquel plantel tenían hasta el viernes para decidir si seguían en 2026-27. Dos días después de que se decidiera mantenerlo, el director deportivo y Hardaway hablaron de la asistencia a los partidos en casa [s:dailymemphian-hardaway-2026].
+En marzo de 2026 la universidad anunció que Hardaway volvería a dirigir al equipo la temporada siguiente [s:gotigers-return-2026]. Los Tigers de 2025-26 habían terminado con 13 victorias y 19 derrotas [s:dailymemphian-hardaway-2026]. El columnista del Daily Memphian John Martin escribió que “la tarea que tiene por delante es inmensa” [s:dailymemphian-hardaway-2026]. En otra información del mismo diario, Hardaway dijo: “Sé que puedo volver después de un fracaso” [s:dailymemphian-hardaway-2026]. Ocho jugadores de aquel plantel tenían hasta el viernes para decidir si seguían en 2026-27. Dos días después de que se decidiera mantenerlo, el director deportivo y Hardaway hablaron de la asistencia [s:dailymemphian-hardaway-2026].

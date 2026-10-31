@@ -46,17 +46,20 @@ faq:
       Nach der siebten Staffel. Er sagte, er habe nicht gut auf seine psychische
       Gesundheit geachtet, zu viel getrunken und die Geschichte von Mike Ross
       für erzählt gehalten [s:tvline-suits-exit] [s:justjared-suits-exit-2024].
-flag: Rejected by the fact-check 4 times; needs a human editor.
+flag: Rejected by the fact-check 5 times; needs a human editor.
 reviewNotes: >-
-  UNSUPPORTED: "'bis zum Ende der siebten Staffel' zu viel getrunken" (Source
-  says he was drinking too much, with no timing to the end of season seven.
-  Delete 'bis zum Ende der siebten Staffel'.) | Reviewer recommends rejection:
-  Nearly all claims check out against the opened sources. Reject for one
-  unsupported detail: 'bis zum Ende der siebten Staffel' is not in the TVLine
-  source (delete it). Also, the German text is built on English sources with no
-  German-language sourcing or local context, so it needs localising before
-  approval.
-autoReviews: 4
+  Adds no value over existing pages: Follows the English article section by
+  section with the same quotes and English-language sources. The only
+  German-specific additions are the translated quotes and the wording of the
+  metaTitle and FAQ, so it adds little beyond the English page for German
+  readers. Style guide asks for localisation with German-language sources or
+  local context. | Reviewer recommends rejection: All cited facts check out
+  against the opened sources after the fixes. The wrong-source unsupported
+  details ('ein paar Tage', 'Ehre', 'zum ersten Mal', 'passte nicht hinein'
+  quote) were removed or rephrased. Rejection is for localisation only: it is a
+  sentence-by-sentence translation of the English page with English-only
+  sources.
+autoReviews: 5
 ---
 Am bekanntesten ist Patrick J. Adams als Mike Ross, der Anwalt aus Suits, die beim Sender USA lief [s:usc-sda-patrick-j-adams] [s:tvseriesfinale-suits]. Geboren wurde der Kanadier am 27. August 1981 in Toronto [s:wikidata-q644565] [s:wikidata-q172]. Wikidata führt Kanada als Staat seiner Staatsbürgerschaft [s:wikidata-q16]. Seine Profilseite an der USC School of Dramatic Arts nennt außerdem Pillow Talk, Room for Rent, Old School und Rosemary's Baby [s:usc-sda-patrick-j-adams].
 
@@ -66,7 +69,7 @@ Suits lief von 23. Juni 2011 bis 25. September 2019 beim Sender USA, in neun Sta
 
 ## Warum er nach der siebten Staffel ging
 
-Nach der siebten Staffel stieg Adams aus [s:tvline-suits-exit]. Laut Just Jared hatte er gegen Ende der ersten Hälfte der sechsten Staffel zum ersten Mal ans Gehen gedacht, nachdem Mike aus dem Gefängnis entlassen worden war [s:justjared-suits-exit-2024]. Seine Begründung lautete: "Wir haben seine Geschichte erzählt, und wenn er länger bleibt, ist Mike einfach nur ein weiterer Anwalt im Fernsehen" [s:justjared-suits-exit-2024].
+Nach der siebten Staffel stieg Adams aus [s:tvline-suits-exit]. Laut Just Jared hatte er gegen Ende der ersten Hälfte der sechsten Staffel ans Gehen gedacht, nachdem Mike aus dem Gefängnis entlassen worden war [s:justjared-suits-exit-2024]. Seine Begründung lautete: "Wir haben seine Geschichte erzählt, und wenn er länger bleibt, ist Mike einfach nur ein weiterer Anwalt im Fernsehen" [s:justjared-suits-exit-2024].
 
 Deutlicher wurde er im Podcast Dinner's On Me mit Jesse Tyler Ferguson, als es um seine Gesundheit ging [s:tvline-suits-exit]. Er habe nicht gut auf seine psychische Gesundheit geachtet und bis zum Ende der siebten Staffel zu viel getrunken [s:tvline-suits-exit]. Er beschrieb sich als ziemlich unglücklich und deprimiert und sagte, ihm habe das Rüstzeug gefehlt, um mit dieser Depression umzugehen [s:tvline-suits-exit]. Das Trinken, sagte er, belaste seine Beziehung, ganz sicher [s:tvline-suits-exit]. Als einzigen Grund zu bleiben nannte er das Geld [s:tvline-suits-exit].
 
@@ -74,15 +77,15 @@ Bereut habe er die Entscheidung keine Sekunde: "Es war das Richtige für meine E
 
 ## Glenn für die Disney+-Serie The Right Stuff
 
-Danach übernahm Adams die Rolle des John Glenn in The Right Stuff, der Disney+-Serie über die Mercury Seven [s:d23-right-stuff-glenn] [s:tvline-right-stuff-preview]. Er glaube, er sei die erste Person gewesen, die für die Serie besetzt wurde [s:tvline-right-stuff-preview]. Die Rolle machte ihm Angst: "Ich hatte, ehrlich gesagt, große Angst" [s:tvline-right-stuff-preview]. Glenn sei der Außenseiter unter den Mercury Seven gewesen, und er "passte nicht hinein" [s:tvline-right-stuff-preview].
+Danach übernahm Adams die Rolle des John Glenn in The Right Stuff, der Disney+-Serie über die Mercury Seven [s:d23-right-stuff-glenn] [s:tvline-right-stuff-preview]. Er glaube, er sei die erste Person gewesen, die für die Serie besetzt wurde [s:tvline-right-stuff-preview]. Die Rolle machte ihm Angst: "Ich hatte, ehrlich gesagt, große Angst" [s:tvline-right-stuff-preview]. Glenn sei der Außenseiter unter den Mercury Seven gewesen, und zwar nicht, weil er der Beste war [s:tvline-right-stuff-preview].
 
-Gründlich bereitete er sich vor. Das Archiv der Ohio State University mit Glenns Unterlagen umfasst Hunderte und Aberhunderte Kisten voller Zeug [s:d23-right-stuff-glenn]. Ein paar Tage lang suchte er darin nach den wichtigsten Stücken [s:d23-right-stuff-glenn]. Glenns Leben sei außergewöhnlich gut dokumentiert, sagte er, und er habe sich in alles vertieft, was mit Glenn zu tun hatte [s:d23-right-stuff-glenn]. Die Stücke, die etwas in ihm auslösten, nutzte er als seine "Angelpunkte". Die Idee, Glenn imitieren zu müssen, habe er bewusst verworfen [s:d23-right-stuff-glenn]. Als das Angebot kam, sagte er: "Das ist es, worauf ich gewartet habe" [s:tvline-right-stuff-preview].
+Gründlich bereitete er sich vor. Das Archiv der Ohio State University mit Glenns Unterlagen umfasst Hunderte und Aberhunderte Kisten voller Zeug [s:d23-right-stuff-glenn]. Glenns Leben sei außergewöhnlich gut dokumentiert, sagte er, und er habe sich in alles vertieft, was mit Glenn zu tun hatte [s:d23-right-stuff-glenn]. Die Stücke, die etwas in ihm auslösten, nutzte er als seine "Angelpunkte". Die Idee, Glenn imitieren zu müssen, habe er bewusst verworfen [s:d23-right-stuff-glenn]. Als das Angebot kam, sagte er: "Das ist es, worauf ich gewartet habe" [s:tvline-right-stuff-preview].
 
 ## Take Me Out am Broadway
 
 Die Aufführungen von Take Me Out endeten am 11. Juni 2022 im Hayes Theatre [s:broadwayworld-take-me-out-tony]. Ein BroadwayWorld-Bericht vom 12. Juni 2022 meldete den Tony Award als bestes Revival eines Theaterstücks [s:broadwayworld-take-me-out-tony]. Der Bericht nennt Adams unter den Darstellern, ohne seine Rolle zu erwähnen [s:broadwayworld-take-me-out-tony].
 
-Das Stück verlangte, dass die Darsteller jeden Abend nackt auftraten [s:justjared-take-me-out-2024]. Adams beschrieb die Rolle als so intensiv, "dass ich glaube, ich musste jeden Abend wirklich aus meinem Körper heraus" [s:justjared-take-me-out-2024]. Der Artikel bezieht seine Zweifel vor der Rolle auf Panikattacken auf der Bühne [s:justjared-take-me-out-2024]. Adams sagte, er habe die Anfrage als Ehre empfunden, aber nicht gewusst, ob er sie bewältigen könne [s:justjared-take-me-out-2024]. Regisseur Scott Ellis habe ihm gesagt, dies sei seine Chance, das in den Griff zu bekommen [s:justjared-take-me-out-2024]. Adams gab zu, er sei natürlich verängstigt gewesen [s:justjared-take-me-out-2024].
+Das Stück verlangte, dass die Darsteller jeden Abend nackt auftraten [s:justjared-take-me-out-2024]. Adams beschrieb die Rolle als so intensiv, "dass ich glaube, ich musste jeden Abend wirklich aus meinem Körper heraus" [s:justjared-take-me-out-2024]. Der Artikel bezieht seine Zweifel vor der Rolle auf Panikattacken auf der Bühne [s:justjared-take-me-out-2024]. Regisseur Scott Ellis habe ihm gesagt, dies sei seine Chance, das in den Griff zu bekommen [s:justjared-take-me-out-2024]. Adams gab zu, er sei natürlich verängstigt gewesen [s:justjared-take-me-out-2024].
 
 ## The Madison und die falsche Todesnachricht
 

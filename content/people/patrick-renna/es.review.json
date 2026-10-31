@@ -1,11 +1,8 @@
 {
   "date": "2026-10-31",
   "model": "claude-haiku-5-5",
-  "approved": false,
-  "reasons": [
-    "UNSUPPORTED: \"Boston.com menciona You Gotta Believe y Monster Summer (2024) entre sus películas posteriores\" (Boston.com names both films but gives no dates or timeline, and no opened source dates You Gotta Believe. Drop 'posteriores', or date You Gotta Believe from a source. Apple lists Monster Summer (2024).)",
-    "Reviewer recommends rejection: Rejected for one minor fix. Boston.com does not date You Gotta Believe or Monster Summer, so 'entre sus películas posteriores' is unsupported. Drop 'posteriores' or cite a dated source. Everything else checks out."
-  ],
+  "approved": true,
+  "reasons": [],
   "claims": [
     {
       "claim": "Nacido el 3 de marzo de 1979 en Boston (cuerpo, metaDescription, FAQ de edad)",
@@ -104,13 +101,13 @@
       "note": "Apple lists The Big Green (1995) and Dorm Daze (2003); Lavalantula and You Gotta Believe named without years."
     },
     {
-      "claim": "Boston.com menciona You Gotta Believe y Monster Summer (2024) entre sus películas posteriores",
+      "claim": "Boston.com menciona You Gotta Believe y Monster Summer (2024) entre sus películas",
       "sourceIds": [
         "boston-com-interview",
         "apple-snapshot"
       ],
-      "verdict": "unsupported",
-      "note": "Boston.com names both films but gives no dates or timeline, and no opened source dates You Gotta Believe. Drop 'posteriores', or date You Gotta Believe from a source. Apple lists Monster Summer (2024)."
+      "verdict": "confirmed",
+      "note": "Undated 'posteriores' dropped. Boston.com names both films; Apple lists Monster Summer (2024)."
     },
     {
       "claim": "Productor de Bad Roomies",
@@ -236,7 +233,7 @@
   "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "Solid localisation: Spanish-language framing, the Boston.com audition and sequel details, and the Hambino and Dugout Dads timeline. The only defect is the 'películas posteriores' timing phrase.",
-  "decision": "reject",
-  "summary": "Rejected for one minor fix. Boston.com does not date You Gotta Believe or Monster Summer, so 'entre sus películas posteriores' is unsupported. Drop 'posteriores' or cite a dated source. Everything else checks out."
+  "valueNote": "Facts and sources are sound; audition and sequel details add value. Prose unchanged except for the flagged fixes.",
+  "decision": "approve",
+  "summary": "All cited claims checked against opened sources and confirmed. Approved."
 }

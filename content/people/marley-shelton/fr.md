@@ -13,7 +13,7 @@ summary: >-
   Grindhouse et dans les films Scream [s:tmdb-marley-shelton]. En 2022, elle
   revient dans la saga Scream sous les traits de la shérif Judy Hicks
   [s:etonline-scream-judy-hicks].
-status: review
+status: published
 risk: medium
 reviewedAt: '2026-10-31'
 reviewBy: '2027-05-01'
@@ -48,15 +48,9 @@ faq:
     a: >-
       Elle y joue Emma Dutton. À la télévision, elle joue aussi Hannah Gray dans
       Manhunt [s:tmdb-marley-shelton].
-autoReviews: 3
-reviewNotes: >-
-  UNSUPPORTED: "Shelton n'en revenait pas quand on lui a proposé le retour" (ET
-  says she learned her character would return and was over the moon. It does not
-  say she was offered the role. Change to 'quand elle a appris le retour'.) |
-  Reviewer recommends rejection: Reject. One fix: 'quand on lui a proposé le
-  retour' implies an offer the ET article does not describe. Change to 'quand
-  elle a appris le retour'. All other claims check out.
-flag: Rejected by the fact-check 3 times; needs a human editor.
+autoReviews: 4
+publishedAt: '2026-10-31'
+publishedTime: '2026-10-31T14:36:56.063Z'
 ---
 Née à Los Angeles, en Californie, le 12 avril 1974, Marley Shelton est une actrice américaine [s:tmdb-marley-shelton] [s:wikidata-marley-shelton]. Son premier crédit recensé sur TMDb est un rôle dans un épisode de *The Family Man* (1990) [s:tmdb-marley-shelton]. Parmi ses premiers films figure *The Sandlot* (1993), où elle incarne Wendy [s:tmdb-marley-shelton]. Wikidata cite l'University of California, Los Angeles et le lycée Eagle Rock High School parmi ses établissements [s:wikidata-marley-shelton].
 
@@ -68,13 +62,13 @@ Dans les années 1990, TMDb la crédite aussi de Tricia Nixon Cox dans *Nixon* (
 
 ## Rodriguez, Sin City et Grindhouse
 
-Sa filmographie comprend *Sin City* (2005), où elle joue The Customer [s:tmdb-marley-shelton]. Dans un entretien de 2007, elle explique que Robert Rodriguez a repéré son potentiel, dans *Sin City* comme dans *Planet Terror*. Elle décrit un réalisateur qui donne aux acteurs le sentiment que tout est possible, et qui écrit, réalise, compose la musique et monte ses films [s:sliceofscifi-grindhouse-interview].
+Sa filmographie comprend *Sin City* (2005), où elle joue The Customer [s:tmdb-marley-shelton]. Dans un entretien de 2007, elle explique que Robert Rodriguez a repéré son potentiel, dans *Sin City* comme dans *Planet Terror*. Elle dit aussi qu'il écrit, réalise, compose la musique et monte ses propres films [s:sliceofscifi-grindhouse-interview].
 
-Dans *Grindhouse*, elle joue Dakota dans *Planet Terror*, l'un des deux films du programme double [s:tmdb-marley-shelton] [s:sliceofscifi-grindhouse-interview]. Elle a conçu le personnage à partir des blondes glaciales des films d'Hitchcock, et dit avoir étudié le suspense pour le rôle [s:sliceofscifi-grindhouse-interview]. Elle cite *Psychose* comme son film préféré [s:sliceofscifi-grindhouse-interview]. Elle aime aussi *Le Crime était presque parfait* [s:sliceofscifi-grindhouse-interview].
+Dans *Grindhouse*, elle joue Dakota dans *Planet Terror*, l'un des deux films du programme double [s:tmdb-marley-shelton] [s:sliceofscifi-grindhouse-interview]. Elle a conçu le personnage à partir des blondes glaciales des films d'Hitchcock, et dit avoir étudié le suspense pour le rôle [s:sliceofscifi-grindhouse-interview]. Elle cite *Psychose* comme son Hitchcock préféré [s:sliceofscifi-grindhouse-interview]. Elle aime aussi *Le Crime était presque parfait* [s:sliceofscifi-grindhouse-interview].
 
-Rodriguez lui a demandé de jouer une séquence comme dans un film muet [s:sliceofscifi-grindhouse-interview]. *Planet Terror* a été tourné avant *Death Proof*, avec une équipe largement commune aux deux films, le tout dans les Troublemaker Studios de Rodriguez, à Austin [s:sliceofscifi-grindhouse-interview]. Quentin Tarantino était présent sur le tournage de *Planet Terror*, dont il a aidé à la coréalisation [s:sliceofscifi-grindhouse-interview]. Son plus gros défi physique, selon elle, a été de courir en talons hauts nuit après nuit. Sa doublure cascade, Tracey Dashnaw, a réalisé la scène où Dakota saute par une fenêtre [s:sliceofscifi-grindhouse-interview].
+Rodriguez lui a demandé de jouer une séquence comme dans un film muet [s:sliceofscifi-grindhouse-interview]. *Planet Terror* a été tourné avant *Death Proof*, le tout dans les Troublemaker Studios de Rodriguez, à Austin [s:sliceofscifi-grindhouse-interview]. Quentin Tarantino était présent sur le tournage de *Planet Terror*, dont il a aidé à la coréalisation [s:sliceofscifi-grindhouse-interview]. Son plus gros défi physique, selon elle, a été de courir en talons hauts nuit après nuit. Sa doublure cascade, Tracey Dashnaw, a réalisé la scène où Dakota saute par une fenêtre [s:sliceofscifi-grindhouse-interview].
 
-Elle compare aussi les méthodes des deux réalisateurs. Rodriguez travaille vite et en numérique, tandis que Tarantino tourne en pellicule et parle davantage avec les acteurs [s:sliceofscifi-grindhouse-interview]. Rodriguez avait qualifié le film de comédie « Gore-Ball », mêlant comédie screwball et zombies [s:sliceofscifi-grindhouse-interview]. Dans le même entretien, elle évoque *The Fifth Patient* (2007), un thriller indépendant dont la projection était attendue aux CineVegas [s:sliceofscifi-grindhouse-interview] [s:tmdb-marley-shelton].
+Elle compare aussi les méthodes des deux réalisateurs. Rodriguez travaille vite et en numérique, tandis que Tarantino tourne en pellicule et est, selon elle, le réalisateur le plus bavard [s:sliceofscifi-grindhouse-interview]. Rodriguez avait qualifié le film de comédie « Gore-Ball », mêlant comédie screwball et zombies [s:sliceofscifi-grindhouse-interview]. Dans le même entretien, elle évoque *The Fifth Patient* (2007), un thriller indépendant dont la projection était attendue aux CineVegas [s:sliceofscifi-grindhouse-interview] [s:tmdb-marley-shelton].
 
 ## Scream : de l'adjointe à la shérif
 
@@ -82,7 +76,7 @@ Judy Hicks apparaît pour la première fois dans *Scream 4* (2011) [s:tmdb-marle
 
 Hicks a été promue shérif pour *Scream* (2022) [s:etonline-scream-judy-hicks]. Elle est la mère de Wes, incarné par Dylan Minnette [s:etonline-scream-judy-hicks]. Quand elle apprend que le personnage reviendrait, Shelton dit n'en pas revenir et être aux anges [s:etonline-scream-judy-hicks]. Selon l'article, les fans restent divisés sur Hicks [s:etonline-scream-judy-hicks].
 
-Shelton s'est aussi étonnée de la popularité des *lemon squares*, les carrés au citron associés au personnage [s:etonline-scream-judy-hicks]. Elle dit ne pas en revenir de leur succès [s:etonline-scream-judy-hicks]. Selon elle, le film montre comment les personnages ont changé une dizaine d'années après *Scream 4* [s:etonline-scream-judy-hicks].
+Shelton s'est aussi étonnée de la popularité des *lemon squares*, les carrés au citron associés au personnage [s:etonline-scream-judy-hicks]. Elle dit ne pas en revenir de leur succès [s:etonline-scream-judy-hicks]. Selon l'article, le nouveau film montre où en sont les personnages, surtout dix ans après *Scream 4* [s:etonline-scream-judy-hicks].
 
 ## Télévision et autres films
 

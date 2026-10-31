@@ -40,25 +40,19 @@ faq:
     a: >-
       En 14 saisons, il a inscrit 10 684 points, capté 3 146 rebonds et
       distribué 3 525 passes décisives, selon Basketball-Reference.
+flag: Rejected by the fact-check 4 times; needs a human editor.
 reviewNotes: >-
-  UNSUPPORTED: "A grandi à Memphis et y est revenu comme entraîneur" (Birthplace
-  is supported; 'a grandi' and 'y est revenu' are not stated in any opened
-  source. Reword or cite.) | UNSUPPORTED: "Deux jours après, directeur sportif
-  et Hardaway évoquent la fréquentation des matchs à domicile" (Source says
-  dwindling basketball attendance, not home games. Change to 'fréquentation' or
-  cite.) | UNCITED: "'a grandi à Memphis et y est revenu comme entraîneur'
-  (first paragraph)" | Prose reads machine-written | Adds no value over existing
-  pages: The French text follows the English section by section and keeps the
-  English word 'probation'. It does not localise the context or French sources.
-  | Reviewer recommends rejection: Reject. Fix: remove 'a grandi à Memphis et y
-  est revenu' unless cited; change 'fréquentation des matchs à domicile' to
-  'fréquentation' to match Daily Memphian; replace 'probation' with a French
-  term; rewrite for French readers instead of a sentence-by-sentence
-  translation. Other facts check out.
-autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+  11 of 38 claims could not be checked (source unreachable) | Prose reads
+  machine-written | Adds no value over existing pages: Follows the English page
+  section by section and keeps the English term 'probation'. Not localised for
+  French readers. Style judgement left to the human editor. | Reviewer
+  recommends rejection: Reject for now: Basketball-Reference (bbref-hardaway)
+  returned HTTP 403, so the career totals, All-Star and All-NBA years, draft
+  pick, height, positions, Treadwell and the 1971 birth year are unverified.
+  Remaining claims were checked against opened sources.
+autoReviews: 4
 ---
-Anfernee Hardaway, dit Penny, a grandi à Memphis et y est revenu comme entraîneur. Basketball-Reference indique qu'il mesure 2,01 m, qu'il est passé par le lycée Treadwell et qu'il est né à Memphis, dans le Tennessee [s:bbref-hardaway]. Depuis 2018, il dirige les Tigers de l'université de Memphis, l'équipe dans laquelle il avait joué en tant qu'étudiant [s:si-hardaway-hire-2018].
+Anfernee Hardaway, dit Penny, est originaire de Memphis. Basketball-Reference indique qu'il mesure 2,01 m, qu'il est passé par le lycée Treadwell et qu'il est né à Memphis, dans le Tennessee [s:bbref-hardaway]. Depuis 2018, il dirige les Tigers de l'université de Memphis, l'équipe dans laquelle il avait joué en tant qu'étudiant [s:si-hardaway-hire-2018].
 
 ## Des bancs de la fac à la draft de 1993
 
@@ -96,4 +90,4 @@ Quelques semaines plus tôt, le programme avait été placé en probation pour d
 
 ## La décision de 2026
 
-En mars 2026, l'université a annoncé que Hardaway dirigerait de nouveau l'équipe la saison suivante [s:gotigers-return-2026]. Les Tigers avaient fini la saison 2025-2026 avec 13 victoires et 19 défaites [s:dailymemphian-hardaway-2026]. Dans le Daily Memphian, le chroniqueur John Martin écrivait que « la tâche qui l'attend est immense » [s:dailymemphian-hardaway-2026]. Dans un autre texte du journal, Hardaway a déclaré : « Je sais que je peux me relever d'un échec » [s:dailymemphian-hardaway-2026]. Huit joueurs de l'effectif avaient jusqu'à un vendredi pour dire s'ils restaient en 2026-2027. Deux jours après la décision de le garder, le directeur sportif et Hardaway ont évoqué la fréquentation des matchs à domicile [s:dailymemphian-hardaway-2026].
+En mars 2026, l'université a annoncé que Hardaway dirigerait de nouveau l'équipe la saison suivante [s:gotigers-return-2026]. Les Tigers avaient fini la saison 2025-2026 avec 13 victoires et 19 défaites [s:dailymemphian-hardaway-2026]. Dans le Daily Memphian, le chroniqueur John Martin écrivait que « la tâche qui l'attend est immense » [s:dailymemphian-hardaway-2026]. Dans un autre texte du journal, Hardaway a déclaré : « Je sais que je peux me relever d'un échec » [s:dailymemphian-hardaway-2026]. Huit joueurs de l'effectif avaient jusqu'à un vendredi pour dire s'ils restaient en 2026-2027. Deux jours après la décision de le garder, le directeur sportif et Hardaway ont évoqué la fréquentation [s:dailymemphian-hardaway-2026].

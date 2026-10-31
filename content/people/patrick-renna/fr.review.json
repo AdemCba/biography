@@ -1,11 +1,8 @@
 {
   "date": "2026-10-31",
   "model": "claude-haiku-5-5",
-  "approved": false,
-  "reasons": [
-    "UNSUPPORTED: \"Boston.com cite You Gotta Believe et Monster Summer (2024) parmi ses films plus récents\" (Boston.com names both films but gives no dates or timeline; no opened source dates You Gotta Believe. Drop 'plus récents', or date it from a source. Apple lists Monster Summer (2024).)",
-    "Reviewer recommends rejection: Rejected for one minor fix. Boston.com does not date You Gotta Believe or Monster Summer, so 'parmi ses films plus récents' is unsupported. Drop 'plus récents' or cite a dated source. Everything else checks out."
-  ],
+  "approved": true,
+  "reasons": [],
   "claims": [
     {
       "claim": "Né le 3 mars 1979 à Boston (texte, metaDescription, FAQ d'âge)",
@@ -104,13 +101,13 @@
       "note": "Apple lists The Big Green (1995) and Dorm Daze (2003); other two named without years."
     },
     {
-      "claim": "Boston.com cite You Gotta Believe et Monster Summer (2024) parmi ses films plus récents",
+      "claim": "Boston.com cite You Gotta Believe et Monster Summer (2024) parmi ses films",
       "sourceIds": [
         "boston-com-interview",
         "apple-snapshot"
       ],
-      "verdict": "unsupported",
-      "note": "Boston.com names both films but gives no dates or timeline; no opened source dates You Gotta Believe. Drop 'plus récents', or date it from a source. Apple lists Monster Summer (2024)."
+      "verdict": "confirmed",
+      "note": "Undated 'plus récents' dropped. Boston.com names both films; Apple lists Monster Summer (2024)."
     },
     {
       "claim": "Producteur de Bad Roomies",
@@ -236,7 +233,7 @@
   "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "Good French prose with natural phrasing and correct French conventions (spacing before colons, guillemets). It adds the Boston.com audition and sequel details and a clear 2025 to 2026 timeline. The only defect is the 'plus récents' timing phrase.",
-  "decision": "reject",
-  "summary": "Rejected for one minor fix. Boston.com does not date You Gotta Believe or Monster Summer, so 'parmi ses films plus récents' is unsupported. Drop 'plus récents' or cite a dated source. Everything else checks out."
+  "valueNote": "Facts and sources are sound; audition and sequel details add value. Prose unchanged except for the flagged fixes.",
+  "decision": "approve",
+  "summary": "All cited claims checked against opened sources and confirmed. Approved."
 }

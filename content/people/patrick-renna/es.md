@@ -11,9 +11,12 @@ summary: >-
   Hamilton "Ham" Porter en The Sandlot (1993). Nacido en Boston en 1979, ha
   escrito un libro infantil de béisbol, ayudó a fundar la productora Hambino
   Media y lidera la serie cómica Dugout Dads, que llegó a YouTube en 2026.
-status: review
+status: published
 risk: medium
+reviewedAt: '2026-10-31'
+reviewBy: '2027-05-01'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - patrick renna películas
@@ -40,17 +43,9 @@ faq:
     a: >-
       Nació en Boston, Massachusetts, y dice que creció sobre todo en Dorchester
       [s:boston-com-interview].
-reviewNotes: >-
-  UNSUPPORTED: "Boston.com menciona You Gotta Believe y Monster Summer (2024)
-  entre sus películas posteriores" (Boston.com names both films but gives no
-  dates or timeline, and no opened source dates You Gotta Believe. Drop
-  'posteriores', or date You Gotta Believe from a source. Apple lists Monster
-  Summer (2024).) | Reviewer recommends rejection: Rejected for one minor fix.
-  Boston.com does not date You Gotta Believe or Monster Summer, so 'entre sus
-  películas posteriores' is unsupported. Drop 'posteriores' or cite a dated
-  source. Everything else checks out.
-autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+autoReviews: 4
+publishedAt: '2026-10-31'
+publishedTime: '2026-10-31T14:36:56.066Z'
 ---
 Nacido en Boston el 3 de marzo de 1979 [s:apple-snapshot], Patrick Renna es sobre todo conocido por el papel de Hamilton «Ham» Porter en *The Sandlot* (1993). Desde entonces ha publicado un libro infantil de béisbol, ha ayudado a poner en marcha una productora y encabeza *Dugout Dads*, una comedia que ya puede verse en YouTube [s:penguin-book] [s:movieguide-hambino] [s:timeout-dugout-dads].
 
@@ -62,7 +57,7 @@ Renna ha contado a Boston.com que vino al mundo «básicamente, en la esquina de
 
 ## Cine y televisión tras The Sandlot
 
-Su ficha en Apple es escueta: lo presenta como actor estadounidense y enumera sus créditos [s:apple-snapshot]. Figura como coprotagonista, junto a Carla Gugino, de Son-in-Law (1993) [s:apple-snapshot]. Aparece también en The Big Green (1995), en Lavalantula y en You Gotta Believe, además de en el reparto de National Lampoon Presents: Dorm Daze (2003) [s:apple-snapshot]. Boston.com menciona You Gotta Believe y Monster Summer (2024) entre sus películas posteriores [s:boston-com-interview] [s:apple-snapshot]. Apple le atribuye, por último, la producción de Bad Roomies [s:apple-snapshot].
+Su ficha en Apple es escueta: lo presenta como actor estadounidense y enumera sus créditos [s:apple-snapshot]. Figura como coprotagonista, junto a Carla Gugino, de Son-in-Law (1993) [s:apple-snapshot]. Aparece también en The Big Green (1995), en Lavalantula y en You Gotta Believe, además de en el reparto de National Lampoon Presents: Dorm Daze (2003) [s:apple-snapshot]. Boston.com menciona You Gotta Believe y Monster Summer (2024) entre sus películas [s:boston-com-interview] [s:apple-snapshot]. Apple le atribuye, por último, la producción de Bad Roomies [s:apple-snapshot].
 
 ## Un libro de béisbol para niños
 
@@ -70,7 +65,7 @@ El 25 de febrero de 2025, Penguin publicó una edición electrónica de *A Littl
 
 ## Hambino Media
 
-En febrero de 2025, Renna, Kyle Howard y Lynsey Bartilson Moore presentaron Hambino Media, cuyo catálogo en marcha incluía «un conjunto de proyectos guionizados y no guionizados» [s:movieguide-hambino]. Entre los anuncios había dos proyectos sin título con Blind Nil, la empresa de Chip y Joanna Gaines, y una serie sin título con Golf Digest [s:movieguide-hambino]. *Dugout Dads* sale de esa misma productora, que Renna y Howard lideran [s:entertainmentnow-dugout-dads].
+En febrero de 2025, Renna, Kyle Howard y Lynsey Bartilson Moore presentaron Hambino Media, cuyo catálogo en marcha incluía un conjunto de proyectos guionizados y no guionizados [s:movieguide-hambino]. Entre los anuncios había dos proyectos sin título con Blind Nil, la empresa de Chip y Joanna Gaines, y una serie sin título con Golf Digest [s:movieguide-hambino]. *Dugout Dads* sale de esa misma productora, que Renna y Howard lideran [s:entertainmentnow-dugout-dads].
 
 ## Dugout Dads, en YouTube
 

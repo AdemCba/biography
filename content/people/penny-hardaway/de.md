@@ -40,26 +40,21 @@ faq:
     a: >-
       In 14 NBA-Saisons erzielte er 10.684 Punkte, holte 3.146 Rebounds und
       verteilte 3.525 Assists, laut Basketball-Reference.
+flag: Rejected by the fact-check 4 times; needs a human editor.
 reviewNotes: >-
-  UNSUPPORTED: "Wuchs in Memphis auf und ist als Cheftrainer in seine
-  Heimatstadt zurückgekehrt" (Birthplace is supported; 'wuchs auf' and
-  'Heimatstadt zurückgekehrt' are not stated in any opened source. Reword or
-  cite.) | UNSUPPORTED: "Zwei Tage später sprachen AD und Hardaway über
-  Zuschauerzahlen bei Heimspielen" (Source says dwindling basketball attendance,
-  not Heimspiele specifically. Change to 'Zuschauerzahlen' or cite.) | UNCITED:
-  "'wuchs in Memphis auf' and 'Heimatstadt zurückgekehrt' (first paragraph)" |
-  Prose reads machine-written | Adds no value over existing pages: The German
-  text tracks the English section by section, with English terms left in
-  ('Probation'). It does not localise the queries, context or sources for German
-  readers beyond the target query headings. | Reviewer recommends rejection:
-  Reject. Fix: remove 'wuchs auf' and 'Heimatstadt zurückgekehrt' unless cited;
-  change 'Zuschauerzahlen bei Heimspielen' to 'Zuschauerzahlen' to match Daily
-  Memphian; translate or gloss 'Probation'; rewrite for German readers rather
-  than sentence-by-sentence. Other facts check out.
-autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+  11 of 38 claims could not be checked (source unreachable) | Prose reads
+  machine-written | Adds no value over existing pages: Reads as a
+  sentence-by-sentence translation of the English page with English terms left
+  in; no localisation for German readers. Style judgement left to the human
+  editor. Facts were the same as the English version. | Reviewer recommends
+  rejection: Reject for now: Basketball-Reference (bbref-hardaway) returned HTTP
+  403, so the career totals, All-Star and All-NBA years, draft pick,
+  height/weight, positions, Treadwell and the 1971 birth year are unverified.
+  Remaining claims were checked against opened sources. Style: the page still
+  reads as a translation of the English version.
+autoReviews: 4
 ---
-Penny, eigentlich Anfernee Hardaway, wuchs in Memphis auf und ist heute als Cheftrainer in seine Heimatstadt zurückgekehrt. Laut Basketball-Reference besuchte er die Treadwell High School und wurde in Memphis, Tennessee, geboren [s:bbref-hardaway]. Seit 2018 betreut er die Tigers der University of Memphis, für die er selbst als Student gespielt hatte [s:si-hardaway-hire-2018].
+Penny, eigentlich Anfernee Hardaway, ist in Memphis geboren. Laut Basketball-Reference besuchte er die Treadwell High School und wurde in Memphis, Tennessee, geboren [s:bbref-hardaway]. Seit 2018 betreut er die Tigers der University of Memphis, für die er selbst als Student gespielt hatte [s:si-hardaway-hire-2018].
 
 ## Studium in Memphis und der Draft 1993
 
@@ -97,4 +92,4 @@ Wenige Wochen zuvor war das Programm wegen Verstößen bei der Spielberechtigung
 
 ## Die Entscheidung 2026
 
-Im März 2026 gab die Universität bekannt, dass Hardaway die Mannschaft in der kommenden Saison wieder führen wird [s:gotigers-return-2026]. Die Tigers hatten die Saison 2025/26 mit 13 Siegen und 19 Niederlagen beendet [s:dailymemphian-hardaway-2026]. Kolumnist John Martin vom Daily Memphian schrieb, die Aufgabe vor ihm sei „immens“ [s:dailymemphian-hardaway-2026]. In einem verwandten Beitrag der Zeitung sagte Hardaway: „Ich weiß, dass ich aus einem Rückschlag zurückkommen kann“ [s:dailymemphian-hardaway-2026]. Acht Spieler des Kaders hatten bis zu einem Freitag Zeit, ihm mitzuteilen, ob sie 2026/27 bleiben. Zwei Tage nachdem man entschieden hatte, ihn zu halten, sprachen der Sportdirektor und Hardaway über die Zuschauerzahlen bei Heimspielen [s:dailymemphian-hardaway-2026].
+Im März 2026 gab die Universität bekannt, dass Hardaway die Mannschaft in der kommenden Saison wieder führen wird [s:gotigers-return-2026]. Die Tigers hatten die Saison 2025/26 mit 13 Siegen und 19 Niederlagen beendet [s:dailymemphian-hardaway-2026]. Kolumnist John Martin vom Daily Memphian schrieb, die Aufgabe vor ihm sei „immens“ [s:dailymemphian-hardaway-2026]. In einem verwandten Beitrag der Zeitung sagte Hardaway: „Ich weiß, dass ich aus einem Rückschlag zurückkommen kann“ [s:dailymemphian-hardaway-2026]. Acht Spieler des Kaders hatten bis zu einem Freitag Zeit, ihm mitzuteilen, ob sie 2026/27 bleiben. Zwei Tage nachdem man entschieden hatte, ihn zu halten, sprachen der Sportdirektor und Hardaway über die Zuschauerzahlen [s:dailymemphian-hardaway-2026].

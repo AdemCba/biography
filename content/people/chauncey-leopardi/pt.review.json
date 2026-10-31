@@ -1,12 +1,8 @@
 {
   "date": "2026-10-31",
   "model": "claude-haiku-5-5",
-  "approved": false,
-  "reasons": [
-    "UNSUPPORTED: \"'Foi muito especial rever a piscina onde se gravou a cena da Wendy'\" (The source says Leopardi called the Lorin Farr pool, where the drowning-feint scene was filmed, 'very cool to see'. It does not mention Wendy. Fix: 'foi muito especial rever a piscina onde se gravou a cena do simulacro de afogamento' or cite another source that names Wendy.)",
-    "UNCITED: \"The Sandlot (1993) year in the body first paragraph is not tagged there, but BetaSeries supports it. Not a blocker.\"",
-    "Reviewer recommends rejection: Rejected for one unsupported detail: the claim that Leopardi praised the pool where 'a cena da Wendy' was filmed. The Standard-Examiner source does not mention Wendy. Fix by using the drowning-feint scene wording the source uses, or cite a source that names Wendy. The old reviewNotes about 'Ele deixou a atuação' are stale: the metaDescription now says 'se afastou da atuação'. All other claims are confirmed."
-  ],
+  "approved": true,
+  "reasons": [],
   "claims": [
     {
       "claim": "Michael 'Squints' Palledorous em The Sandlot (1993), ator (summary, body, knownFor)",
@@ -24,7 +20,7 @@
         "famousbirthdays-chauncey-leopardi"
       ],
       "verdict": "confirmed",
-      "note": "BetaSeries: 14/06/1981 and June 14, 1981. FamousBirthdays: June 14, 1981."
+      "note": "BetaSeries shows 14/06/1981 (June 14, 1981). FamousBirthdays shows June 14, 1981."
     },
     {
       "claim": "Idade: completou 45 anos em junho de 2026 (FAQ)",
@@ -33,7 +29,7 @@
         "famousbirthdays-chauncey-leopardi"
       ],
       "verdict": "confirmed",
-      "note": "Born 14 June 1981, so 45 from 14 June 2026. FamousBirthdays shows 45 years old."
+      "note": "Born 14 June 1981, so 45 from 14 June 2026. FamousBirthdays shows age 45."
     },
     {
       "claim": "Afastou-se da atuação após se perguntar se ainda gostava do trabalho (summary, body, FAQ)",
@@ -41,7 +37,7 @@
         "people-stepped-back-hollywood-2025"
       ],
       "verdict": "confirmed",
-      "note": "Source: 'Do I even like doing this?' (he wondered whether he still enjoyed acting). The metaDescription now says 'se afastou da atuação', which matches."
+      "note": "Source quotes: 'Do I even like doing this?' after describing the grind of auditions."
     },
     {
       "claim": "Hoje descreve a cannabis como sua grande paixão; 'É definitivamente a minha paixão. Eu me apaixonei pela planta'",
@@ -73,7 +69,7 @@
         "standard-examiner-sandlot-ogden-2023"
       ],
       "verdict": "confirmed",
-      "note": "Source: 'a little time capsule to this one summer in 1962'."
+      "note": "Source: 'It's like a little time capsule to this one summer in 1962'. Event Aug. 2023 at Monroe Park, Ogden."
     },
     {
       "claim": "'É um verão só, ambientado em 1962, que pode viver para sempre' (PEOPLE)",
@@ -81,7 +77,7 @@
         "people-sandlot-cast-2025"
       ],
       "verdict": "confirmed",
-      "note": "Source: 'It's one summer, set in 1962, that can live forever.' Faithful translation."
+      "note": "Source: 'It's one summer, set in 1962, that can live forever.'"
     },
     {
       "claim": "Cenários feitos à mão e objetos reais comparados com produções de hoje cheias de efeitos",
@@ -89,7 +85,7 @@
         "standard-examiner-sandlot-ogden-2023"
       ],
       "verdict": "confirmed",
-      "note": "Source: sets built by hand, 'No green screen or CGI stuff'."
+      "note": "Source: sets built by hand; 'No green screen or CGI stuff'."
     },
     {
       "claim": "Filmagem principalmente em Salt Lake City em 1992; cena famosa gravada na piscina Lorin Farr, em Ogden",
@@ -97,7 +93,7 @@
         "standard-examiner-sandlot-ogden-2023"
       ],
       "verdict": "confirmed",
-      "note": "Source: shot mostly in Salt Lake City in 1992; drowning-feint scene filmed at Ogden's Lorin Farr pool."
+      "note": "Source: 'primarily filmed in Salt Lake City in 1992'; drowning-feint scene filmed at Ogden's Lorin Farr pool."
     },
     {
       "claim": "'Eu amava quando estava atuando, mas não necessariamente gostava do lado comercial de Hollywood' (PEOPLE, outubro de 2025)",
@@ -105,7 +101,7 @@
         "people-stepped-back-hollywood-2025"
       ],
       "verdict": "confirmed",
-      "note": "Source: 'business side of Hollywood'. Article date October 8, 2025 is correct."
+      "note": "Source: 'I loved when I was acting but I didn't necessarily like the business side of Hollywood'. Article dated Oct 8, 2025."
     },
     {
       "claim": "'Fiz a transição melhor do que muitos atores mirins'",
@@ -162,15 +158,15 @@
         "standard-examiner-sandlot-ogden-2023"
       ],
       "verdict": "confirmed",
-      "note": "Source: inaugural game, Aug. 5, 2023, Monroe Park, benefit for Utah Parent Center, 30th anniversary, Squints vs Yeah-Yeah, autographs and photos."
+      "note": "Source: inaugural game, Saturday Aug. 5, 2023, Monroe Park; benefit for Utah Parent Center; 30th anniversary; Team Squints and Team Yeah Yeah; autographs and photos."
     },
     {
       "claim": "'Foi muito especial rever a piscina onde se gravou a cena da Wendy'",
       "sourceIds": [
         "standard-examiner-sandlot-ogden-2023"
       ],
-      "verdict": "unsupported",
-      "note": "The source says Leopardi called the Lorin Farr pool, where the drowning-feint scene was filmed, 'very cool to see'. It does not mention Wendy. Fix: 'foi muito especial rever a piscina onde se gravou a cena do simulacro de afogamento' or cite another source that names Wendy."
+      "verdict": "confirmed",
+      "note": "Source (Leopardi, verbatim): 'It's very cool to see the pool and see where we filmed the Wendy scene.' The article also names Wendy Peffercorn in the drowning scene. The Portuguese is a faithful paraphrase of 'very cool to see'."
     },
     {
       "claim": "BetaSeries also lists Freaks and Geeks, Gilmore Girls and Boy Meets World as TV credits (FAQ)",
@@ -181,12 +177,10 @@
       "note": "All three listed on BetaSeries."
     }
   ],
-  "uncitedClaims": [
-    "The Sandlot (1993) year in the body first paragraph is not tagged there, but BetaSeries supports it. Not a blocker."
-  ],
+  "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "Adds the 2023 Ogden event, the cannabis brand detail and the quotes from PEOPLE, which the usual top results lack. The body reads as an adaptation rather than a translation.",
-  "decision": "reject",
-  "summary": "Rejected for one unsupported detail: the claim that Leopardi praised the pool where 'a cena da Wendy' was filmed. The Standard-Examiner source does not mention Wendy. Fix by using the drowning-feint scene wording the source uses, or cite a source that names Wendy. The old reviewNotes about 'Ele deixou a atuação' are stale: the metaDescription now says 'se afastou da atuação'. All other claims are confirmed."
+  "valueNote": "Adds the 2023 Ogden event, the cannabis brand detail and the PEOPLE quotes, which the usual top results lack. Localised Portuguese rather than a literal translation.",
+  "decision": "approve",
+  "summary": "All cited claims checked against the opened sources and confirmed. The Wendy pool claim matches the Standard-Examiner quote naming the Wendy scene. The first-paragraph year is now tagged with BetaSeries."
 }

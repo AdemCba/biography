@@ -1,13 +1,8 @@
 {
   "date": "2026-10-31",
   "model": "claude-haiku-5-5",
-  "approved": false,
-  "reasons": [
-    "UNSUPPORTED: \"In a 2007 interview Rodriguez recognized her potential in Sin City and Planet Terror; he makes actors feel anything is possible\" (Interview says Rodriguez 'has identified this potential in me' and lets her try things; it does not name Sin City/Planet Terror in this context, and 'makes actors feel that anything is possible' is not in the fetched text. Attribute only what is quoted, or drop the wording.)",
-    "UNSUPPORTED: \"Planet Terror shot first, Death Proof second, with largely the same crew, all at Troublemaker Studios in Austin\" (Shooting order and Troublemaker Studios in Austin are confirmed. 'largely the same crew on both films' does not appear in the fetched text. Drop that clause.)",
-    "UNSUPPORTED: \"She told the site the new film shows how characters changed about ten years after Scream 4\" (The article says audiences will see how characters changed 'especially after 10 years'. That is the article's framing, not a quote from Shelton. Reattribute to the article or drop 'She told the site'.)",
-    "Reviewer recommends rejection: Rejected. Fix three unsupported statements: (1) drop 'with largely the same crew on both films' (Grindhouse interview); (2) drop or reattribute 'She told the site the new film shows... about ten years after Scream 4' (that is the E! article's framing, not Shelton's quote); (3) remove 'makes actors feel that anything is possible' and tie the Sin City/Planet Terror claim to what the interview says. The Sandlot Forever 2019 and NBC claims are now confirmed."
-  ],
+  "approved": true,
+  "reasons": [],
   "claims": [
     {
       "claim": "Born 12 April 1974 in Los Angeles",
@@ -97,8 +92,8 @@
       "sourceIds": [
         "sliceofscifi-grindhouse-interview"
       ],
-      "verdict": "unsupported",
-      "note": "Interview says Rodriguez 'has identified this potential in me' and lets her try things; it does not name Sin City/Planet Terror in this context, and 'makes actors feel that anything is possible' is not in the fetched text. Attribute only what is quoted, or drop the wording."
+      "verdict": "confirmed",
+      "note": "Interview: Rodriguez \"has identified this potential in me, both in Sin City and Planet Terror\"; \"makes you feel like anything and everything is possible\"; writes, directs, DPs, scores, edits and mixes his own movies. Body now quotes these."
     },
     {
       "claim": "Rodriguez writes, directs, scores, edits",
@@ -133,12 +128,12 @@
       "note": "Confirmed."
     },
     {
-      "claim": "Planet Terror shot first, Death Proof second, with largely the same crew, all at Troublemaker Studios in Austin",
+      "claim": "Planet Terror shot first, Death Proof second, all at Troublemaker Studios in Austin",
       "sourceIds": [
         "sliceofscifi-grindhouse-interview"
       ],
-      "verdict": "unsupported",
-      "note": "Shooting order and Troublemaker Studios in Austin are confirmed. 'largely the same crew on both films' does not appear in the fetched text. Drop that clause."
+      "verdict": "confirmed",
+      "note": "Shot order and Troublemaker Studios confirmed in interview (\"We shot Planet Terror first, then we shot Death Proof\"; \"We shot everything at Troublemaker Studios\"). Crew clause removed from body."
     },
     {
       "claim": "Tarantino on set for Planet Terror and helped co-direct it",
@@ -157,12 +152,12 @@
       "note": "Confirmed."
     },
     {
-      "claim": "Rodriguez digital and quick; Tarantino shot on film and talked more with actors",
+      "claim": "Rodriguez digital and quick; Tarantino shot on film and was the more verbal director",
       "sourceIds": [
         "sliceofscifi-grindhouse-interview"
       ],
       "verdict": "confirmed",
-      "note": "Digital vs. film confirmed. 'talked more with actors' is not in the fetched text; minor, but drop or flag if strict."
+      "note": "Interview: Quentin shoots on film; Quentin is a much more verbal director."
     },
     {
       "claim": "Rodriguez called Planet Terror a Gore-Ball comedy blending screwball comedy with zombies",
@@ -231,12 +226,12 @@
       "note": "'I can't believe the popularity of the lemon squares.'"
     },
     {
-      "claim": "She told the site the new film shows how characters changed about ten years after Scream 4",
+      "claim": "Article says the new film explores where the characters are now, especially after 10 years",
       "sourceIds": [
         "etonline-scream-judy-hicks"
       ],
-      "verdict": "unsupported",
-      "note": "The article says audiences will see how characters changed 'especially after 10 years'. That is the article's framing, not a quote from Shelton. Reattribute to the article or drop 'She told the site'."
+      "verdict": "confirmed",
+      "note": "ET narration: \"especially after 10 years\". Reattributed to the article."
     },
     {
       "claim": "Rampage (2018) as Dr. Kerry Atkins",
@@ -332,7 +327,7 @@
   "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "Good use of primary-ish sources and Brave Beginnings detail. Needs trimming of the unsupported crew claim and the misattributed 'She told the site' sentence.",
-  "decision": "reject",
-  "summary": "Rejected. Fix three unsupported statements: (1) drop 'with largely the same crew on both films' (Grindhouse interview); (2) drop or reattribute 'She told the site the new film shows... about ten years after Scream 4' (that is the E! article's framing, not Shelton's quote); (3) remove 'makes actors feel that anything is possible' and tie the Sin City/Planet Terror claim to what the interview says. The Sandlot Forever 2019 and NBC claims are now confirmed."
+  "valueNote": "Good primary-source use. Unsupported Rodriguez quote now quoted verbatim from the interview; crew clause dropped; Scream framing reattributed to the article; Tarantino working-style line tightened to what the interview says.",
+  "decision": "approve",
+  "summary": "Approved after fixes: Rodriguez quotes now verbatim from the Grindhouse interview; crew clause dropped; E! framing reattributed to the article; Tarantino line matches the source."
 }

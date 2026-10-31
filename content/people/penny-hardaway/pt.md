@@ -41,23 +41,19 @@ faq:
     a: >-
       Em 14 temporadas ele somou 10.684 pontos, 3.146 rebotes e 3.525
       assistências, segundo o Basketball-Reference.
+flag: Rejected by the fact-check 4 times; needs a human editor.
 reviewNotes: >-
-  UNSUPPORTED: "Cresceu em Memphis" (Birthplace is supported; 'cresceu em
-  Memphis' is not stated in any opened source. Reword or cite.) | UNSUPPORTED:
-  "Dois dias depois, diretor de atletismo e Hardaway trataram do público 'nos
-  jogos em casa'" (Source says dwindling basketball attendance, not home games.
-  Change to 'público' or cite.) | UNCITED: "'cresceu em Memphis' (first
-  paragraph)" | Prose reads machine-written | Adds no value over existing pages:
-  The Portuguese text follows the English section by section, keeps the English
-  word 'probation', and does not localise context or Brazilian sources. |
-  Reviewer recommends rejection: Reject. Fix: remove 'cresceu em Memphis' unless
-  cited; change 'público nos jogos em casa' to 'público' to match Daily
-  Memphian; translate 'probation'; rewrite for Brazilian readers rather than a
-  sentence-by-sentence translation. Other facts check out.
-autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+  11 of 38 claims could not be checked (source unreachable) | Prose reads
+  machine-written | Adds no value over existing pages: Follows the English page
+  section by section and keeps the English term 'probation'. Not localised for
+  Brazilian readers. Style judgement left to the human editor. | Reviewer
+  recommends rejection: Reject for now: Basketball-Reference (bbref-hardaway)
+  returned HTTP 403, so the career totals, All-Star and All-NBA years, draft
+  pick, height, positions, Treadwell and the 1971 birth year are unverified.
+  Remaining claims were checked against opened sources.
+autoReviews: 4
 ---
-Penny Hardaway, nome de quadra de Anfernee Hardaway, cresceu em Memphis e hoje comanda os Tigers, o time da Universidade de Memphis. O Basketball-Reference o descreve como um jogador de 2,01 m, formado no Treadwell High School e nascido em Memphis, no Tennessee [s:bbref-hardaway]. Desde 2018 ele dirige a equipe em que havia jogado como universitário [s:si-hardaway-hire-2018].
+Penny Hardaway, nome de quadra de Anfernee Hardaway, nasceu em Memphis e hoje comanda os Tigers, o time da Universidade de Memphis. O Basketball-Reference o descreve como um jogador de 2,01 m, formado no Treadwell High School e nascido em Memphis, no Tennessee [s:bbref-hardaway]. Desde 2018 ele dirige a equipe em que havia jogado como universitário [s:si-hardaway-hire-2018].
 
 ## Da faculdade ao draft de 1993
 
@@ -95,4 +91,4 @@ Poucas semanas antes, o programa havia entrado em probation, um período de obse
 
 ## A decisão de 2026
 
-Em março de 2026, a universidade anunciou que Hardaway seguiria no comando da equipe na temporada seguinte [s:gotigers-return-2026]. Os Tigers de 2025-26 terminaram com 13 vitórias e 19 derrotas [s:dailymemphian-hardaway-2026]. O colunista do Daily Memphian John Martin escreveu que “a tarefa diante dele é imensa” [s:dailymemphian-hardaway-2026]. Em outra matéria do jornal, Hardaway afirmou: “Sei que consigo superar um fracasso” [s:dailymemphian-hardaway-2026]. Oito jogadores daquele elenco tinham até uma sexta-feira para avisar se voltariam em 2026-27. Dois dias depois de a universidade decidir mantê-lo, o diretor de atletismo e Hardaway tocaram no assunto do público nos jogos em casa [s:dailymemphian-hardaway-2026].
+Em março de 2026, a universidade anunciou que Hardaway seguiria no comando da equipe na temporada seguinte [s:gotigers-return-2026]. Os Tigers de 2025-26 terminaram com 13 vitórias e 19 derrotas [s:dailymemphian-hardaway-2026]. O colunista do Daily Memphian John Martin escreveu que “a tarefa diante dele é imensa” [s:dailymemphian-hardaway-2026]. Em outra matéria do jornal, Hardaway afirmou: “Sei que consigo superar um fracasso” [s:dailymemphian-hardaway-2026]. Oito jogadores daquele elenco tinham até uma sexta-feira para avisar se voltariam em 2026-27. Dois dias depois de a universidade decidir mantê-lo, o diretor de atletismo e Hardaway tocaram no assunto do público [s:dailymemphian-hardaway-2026].

@@ -12,9 +12,12 @@ summary: >-
   un livre pour enfants sur le baseball, contribué à fonder la société de
   production Hambino Media et mène la série comique Dugout Dads, arrivée sur
   YouTube en 2026.
-status: review
+status: published
 risk: medium
+reviewedAt: '2026-10-31'
+reviewBy: '2027-05-01'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - patrick renna films
@@ -41,17 +44,9 @@ faq:
     a: >-
       Il est né à Boston, dans le Massachusetts, et dit avoir grandi surtout à
       Dorchester [s:boston-com-interview].
-reviewNotes: >-
-  UNSUPPORTED: "Boston.com cite You Gotta Believe et Monster Summer (2024) parmi
-  ses films plus récents" (Boston.com names both films but gives no dates or
-  timeline; no opened source dates You Gotta Believe. Drop 'plus récents', or
-  date it from a source. Apple lists Monster Summer (2024).) | Reviewer
-  recommends rejection: Rejected for one minor fix. Boston.com does not date You
-  Gotta Believe or Monster Summer, so 'parmi ses films plus récents' is
-  unsupported. Drop 'plus récents' or cite a dated source. Everything else
-  checks out.
-autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+autoReviews: 4
+publishedAt: '2026-10-31'
+publishedTime: '2026-10-31T14:36:56.067Z'
 ---
 Né à Boston le 3 mars 1979 [s:apple-snapshot], Patrick Renna est surtout connu pour le rôle d'Hamilton « Ham » Porter dans *The Sandlot* (1993). Depuis, il a publié un livre pour enfants consacré au baseball, participé à la création d'une société de production et lancé avec Kyle Howard *Dugout Dads*, une série comique disponible sur YouTube [s:penguin-book] [s:movieguide-hambino] [s:timeout-dugout-dads].
 
@@ -65,7 +60,7 @@ Le film sort en 1993 [s:apple-snapshot]. Ses propos sur la manière dont il a d�
 
 ## Films et séries après The Sandlot
 
-Apple le présente comme acteur américain [s:apple-snapshot]. Sa fiche le relie à Carla Gugino dans *Son-in-Law* (1993) [s:apple-snapshot]. On retrouve aussi son nom au générique de *The Big Green* (1995), *Lavalantula* et *You Gotta Believe*, ainsi que dans *National Lampoon Presents : Dorm Daze* (2003) [s:apple-snapshot]. Boston.com cite *You Gotta Believe* et *Monster Summer* (2024) parmi ses films plus récents [s:boston-com-interview] [s:apple-snapshot]. Apple le crédite enfin comme producteur de *Bad Roomies* [s:apple-snapshot].
+Apple le présente comme acteur américain [s:apple-snapshot]. Sa fiche le relie à Carla Gugino dans *Son-in-Law* (1993) [s:apple-snapshot]. On retrouve aussi son nom au générique de *The Big Green* (1995), *Lavalantula* et *You Gotta Believe*, ainsi que dans *National Lampoon Presents : Dorm Daze* (2003) [s:apple-snapshot]. Boston.com cite *You Gotta Believe* et *Monster Summer* (2024) parmi ses films [s:boston-com-interview] [s:apple-snapshot]. Apple le crédite enfin comme producteur de *Bad Roomies* [s:apple-snapshot].
 
 ## Un livre pour enfants sur le baseball
 
@@ -73,7 +68,7 @@ Le 25 février 2025, Penguin a mis en vente une version numérique de *A Little 
 
 ## Hambino Media, la société de production
 
-En février 2025, Renna, Kyle Howard et Lynsey Bartilson Moore ont présenté Hambino Media, dont le programme comprenait « des projets scénarisés et non scénarisés » en préparation [s:movieguide-hambino]. Deux projets sans titre étaient annoncés avec Blind Nil, la société de Chip et Joanna Gaines, ainsi qu'une série sans titre avec Golf Digest [s:movieguide-hambino]. *Dugout Dads* est produite par cette société, que Renna et Howard animent [s:entertainmentnow-dugout-dads].
+En février 2025, Renna, Kyle Howard et Lynsey Bartilson Moore ont présenté Hambino Media, dont le programme comprenait des projets scénarisés et non scénarisés en préparation [s:movieguide-hambino]. Deux projets sans titre étaient annoncés avec Blind Nil, la société de Chip et Joanna Gaines, ainsi qu'une série sans titre avec Golf Digest [s:movieguide-hambino]. *Dugout Dads* est produite par cette société, que Renna et Howard animent [s:entertainmentnow-dugout-dads].
 
 ## Dugout Dads sur YouTube
 

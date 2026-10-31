@@ -52,19 +52,17 @@ faq:
     a: >-
       Er spielte 2012 Edward Grayson, den Vater von Conrad Grayson
       [s:fernsehserien-devane] [s:tvmaze-edward-grayson].
-flag: Rejected by the fact-check 4 times; needs a human editor.
+flag: Rejected by the fact-check 5 times; needs a human editor.
 reviewNotes: >-
-  UNSUPPORTED: "Die Produzenten gaben Heller eine beginnende
-  Alzheimer-Erkrankung" (Gulf News says 'Heller's in the early stages of
-  Alzheimer's' with no producers named. Delete 'Die Produzenten gaben'.) | Prose
-  reads machine-written | Reviewer recommends rejection: Most claims check out.
-  Reject for: (1) 'Die Produzenten gaben Heller eine beginnende
-  Alzheimer-Erkrankung' has an invented attribution (Gulf News does not name
-  producers). (2) The 1937 birth year cited to fernsehserien is not on the
-  opened page, and the main page returned 404; unconfirmed. (3) McCabe & Mrs.
-  Miller 1971 (Plex) conflicts with 1970 (fernsehserien) and the conflict is not
-  disclosed. Also the prose is list-like and needs localising.
-autoReviews: 4
+  11 of 37 claims could not be checked (source unreachable) | Prose reads
+  machine-written | Reviewer recommends rejection: Rejected: fernsehserien.de
+  returned HTTP 403 for every attempt, so its claims (birth year, filmography
+  roles, 50 zu 1, Psych and Stargate dates, German titles) could not be checked.
+  Everything that could be opened is confirmed. The Alzheimer attribution to
+  producers is confirmed by Gulf News. Off-Broadway was removed (not in the
+  sources). The prose mirrors the English page and is not localised; that is a
+  style reason.
+autoReviews: 5
 ---
 Wer William Devane kennt, denkt meist an James Heller aus der Serie 24 oder an den Präsidenten John F. Kennedy im Fernsehfilm The Missiles of October [s:plex-william-devane] [s:gulfnews-devane-24]. Präsidenten hat er laut Gulf News auch in Stargate SG-1 gespielt, dazu den Außenminister in The West Wing [s:gulfnews-devane-24].
 
@@ -72,7 +70,7 @@ Beim Geburtsjahr gehen die Angaben auseinander. Plex und Cinegraph nennen im Kop
 
 ## Vom Theater in New York vor die Kamera
 
-Am Theater begann Devane laut Plex beim New York Shakespeare Festival, wo er in 15 Stücken auftrat [s:plex-william-devane]. 1966 spielte er in der Off-Broadway-Parodie MacBird den Robert F. Kennedy [s:plex-william-devane]. Plex führt ihn als Schauspieler, Regisseur und Drehbuchautor [s:plex-william-devane].
+Am Theater begann Devane laut Plex beim New York Shakespeare Festival, wo er in 15 Stücken auftrat [s:plex-william-devane]. 1966 spielte er in der Bühnenparodie MacBird den Robert F. Kennedy [s:plex-william-devane]. Plex führt ihn als Schauspieler, Regisseur und Drehbuchautor [s:plex-william-devane].
 
 ## Filmrollen von den Siebzigern bis 2014
 
@@ -96,7 +94,7 @@ Im Dezember 2011 meldete Michael Fairman TV, dass Devane in ABCs Revenge Edward 
 
 Präsidenten spielte er laut Gulf News in Stargate SG-1 und in Christopher Nolans The Dark Knight Rises (2012) [s:gulfnews-devane-24]. Fernsehserien nennt einen Präsidenten Hayes in „Stargate“ von 2004 bis 2009, ohne zu sagen, ob es sich um SG-1 handelt [s:fernsehserien-devane]. 1994 spielte er in der Serie Superman – Die Abenteuer von Lois & Clark die Rolle des Al Capone [s:fernsehserien-devane]. Laut fernsehserien ist er außerdem in Akte X (2002) als General Mark Suveg und in Navy CIS (2010) als Nicolas Mason zu sehen [s:fernsehserien-devane]. Gulf News führt ihn außerdem als Außenminister in The West Wing [s:gulfnews-devane-24].
 
-Weitere Serienrollen laut fernsehserien sind Dr. Dix in Jesse Stone (2006 bis 2015), Dean Sr. in The Grinder (2015 und 2016) und Peters in Psych (2010) [s:fernsehserien-devane]. Plex führt Falling from the Sky: Flight 174 und Jesse Stone: Lost in Paradise unter den bekanntesten Titeln [s:plex-william-devane].
+Weitere Serienrollen laut fernsehserien sind Dr. Dix in Jesse Stone (2006 bis 2015), Dean Sr. in The Grinder (2015 und 2016) und Peters in Psych (2010) [s:fernsehserien-devane], Plex nennt dagegen 2006 [s:plex-william-devane]. Plex führt Falling from the Sky: Flight 174 und Jesse Stone: Lost in Paradise unter den bekanntesten Titeln [s:plex-william-devane].
 
 ## James Heller in 24
 

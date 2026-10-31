@@ -40,26 +40,18 @@ faq:
     a: >-
       Across 14 NBA seasons he scored 10,684 points, grabbed 3,146 rebounds and
       recorded 3,525 assists, according to Basketball-Reference.
+flag: Rejected by the fact-check 4 times; needs a human editor.
 reviewNotes: >-
-  UNSUPPORTED: "Anfernee Deon Hardaway (middle name Deon)" (No opened source
-  gives the middle name Deon. Remove or cite a source.) | UNSUPPORTED: "Grew up
-  in Memphis and came back to the city as a coach" (Birthplace is supported;
-  'grew up in Memphis' and 'came back' are not stated in any opened source.
-  Reword to birthplace only or cite.) | UNSUPPORTED: "AD and Hardaway addressed
-  attendance at home games two days after the decision" (Source says dwindling
-  basketball attendance, not home games. Change to 'attendance' or cite.) |
-  UNCITED: "'Grew up in Memphis' and 'came back to the city as a coach' (first
-  paragraph)" | UNCITED: "Middle name 'Deon'" | Reviewer recommends rejection:
-  Reject. Fix: remove middle name 'Deon'; remove 'grew up in Memphis' and 'came
-  back' unless cited (birthplace is supported); change 'attendance at home
-  games' to 'attendance' to match Daily Memphian. Other claims check out,
-  including the All-Star/All-NBA years, Dream Team wording, Air Flight One and
-  Veatch quotes, which earlier reviewer notes wrongly flagged. The 2026 return
-  article was only confirmed by headline and URL date.
-autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+  11 of 38 claims could not be checked (source unreachable) | Reviewer
+  recommends rejection: Reject for now: Basketball-Reference (bbref-hardaway)
+  returned HTTP 403 for every attempt, so the career totals, All-Star and
+  All-NBA years, draft pick, height/weight, positions, high school and the 1971
+  birth year are unverified. All other claims were checked against opened
+  sources. Fix: re-check once bbref is reachable, or cite a different source for
+  those facts.
+autoReviews: 4
 ---
-Anfernee Hardaway, known as Penny, grew up in Memphis and came back to the city as a coach. Basketball-Reference lists him as a 6-foot-7 guard from Treadwell High School who was born in Memphis, Tennessee [s:bbref-hardaway]. Since 2018 he has coached the University of Memphis Tigers, the team he played for as a student [s:si-hardaway-hire-2018].
+Anfernee Hardaway, known as Penny, was born in Memphis. Basketball-Reference lists him as a 6-foot-7 guard from Treadwell High School who was born in Memphis, Tennessee [s:bbref-hardaway]. Since 2018 he has coached the University of Memphis Tigers, the team he played for as a student [s:si-hardaway-hire-2018].
 
 ## Memphis, then the 1993 draft
 
@@ -77,7 +69,7 @@ He was part of the United States men’s basketball team that won gold at the 19
 
 ## The Air Penny shoe
 
-Nike’s debut signature shoe for Hardaway was the Air Max Penny 1, released in 1995 and designed by Eric Avar [s:stadiumgoods-air-max-penny-1]. The shoe was one of the first releases in Nike’s Uptempo collection [s:stadiumgoods-air-max-penny-1]. Chris Rock voiced the Lil’ Penny character in the commercials that promoted it [s:stadiumgoods-air-max-penny-1].
+Nike’s debut signature shoe for Hardaway was the Air Max Penny 1, released in 1995 and designed by Eric Avar [s:stadiumgoods-air-max-penny-1]. The shoe was one of the first releases in Nike’s Uptempo collection [s:stadiumgoods-air-max-penny-1]. Chris Rock voiced the Lil’ Penny character, which helped promote the shoe [s:stadiumgoods-air-max-penny-1].
 
 ## Back to Memphis as head coach
 
@@ -91,8 +83,8 @@ Memphis beat Mississippi State 77-64 in the 2021 NIT championship game on 28 Mar
 
 In October 2022 Memphis agreed to a six-year extension worth $16.5 million before incentives, running through the 2027-28 season [s:cbs-hardaway-extension-2022] [s:actionnews5-extension-2022]. CBS Sports reported a salary of $2.5 million for the first season of the deal, rising by $100,000 a year [s:cbs-hardaway-extension-2022]. The school said he had gone 84-43 over four seasons, with four straight 20-win seasons and an NCAA Tournament appearance in 2022 [s:actionnews5-extension-2022]. Athletic director Laird Veatch said the deal “has been in the works for quite some time” and that the school “could not have a better fit as our head men’s basketball coach” than Hardaway [s:actionnews5-extension-2022].
 
-The extension came a few weeks after the program was put on probation over violations involving ineligible players and recruiting, which stem from the 2019-20 season. The University of Memphis avoided stiffer punishments in the case, according to the same report [s:actionnews5-extension-2022].
+The extension came weeks after the program was put on probation over violations involving ineligible players and recruiting, which stem from the 2019-20 season. The University of Memphis avoided stiffer punishments in the case, according to the same report [s:actionnews5-extension-2022].
 
 ## The 2026 decision
 
-The 2025-26 Tigers finished 13-19 [s:dailymemphian-hardaway-2026]. Daily Memphian columnist John Martin wrote that “the task before him is immense” [s:dailymemphian-hardaway-2026]. In a related Daily Memphian story, Hardaway said, “I know I can come back from failure” [s:dailymemphian-hardaway-2026]. Eight players from that team had until that Friday to say whether they would return for 2026-27, and the athletic director and Hardaway addressed attendance at home games two days after the decision to keep him [s:dailymemphian-hardaway-2026]. In March 2026 the university announced that Hardaway would return to lead the team next season [s:gotigers-return-2026].
+The 2025-26 Tigers finished 13-19 [s:dailymemphian-hardaway-2026]. Daily Memphian columnist John Martin wrote that “the task before him is immense” [s:dailymemphian-hardaway-2026]. In a related Daily Memphian story, Hardaway said, “I know I can come back from failure” [s:dailymemphian-hardaway-2026]. Eight players from that team had until that Friday to say whether they would return for 2026-27, and the athletic director and Hardaway addressed attendance two days after the decision to keep him [s:dailymemphian-hardaway-2026]. In March 2026 the university announced that Hardaway would return to lead the team next season [s:gotigers-return-2026].

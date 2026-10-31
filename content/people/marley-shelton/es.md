@@ -12,9 +12,12 @@ summary: >-
   Wendy en The Sandlot (1993), Sin City, Planet Terror dentro de Grindhouse y
   las películas de Scream [s:tmdb-marley-shelton]. En 2022 volvió a la saga como
   la sheriff Judy Hicks [s:etonline-scream-judy-hicks].
-status: review
+status: published
 risk: medium
+reviewedAt: '2026-10-31'
+reviewBy: '2027-05-01'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - marley shelton películas
@@ -43,21 +46,9 @@ faq:
       En marzo de 2026 el Patchogue Theatre, en Long Island, anunció una
       proyección de The Sandlot para junio, con una sesión de preguntas en
       directo con ella y Chauncey Leopardi [s:broadwayworld-marley-shelton].
-flag: Rejected by the fact-check 4 times; needs a human editor.
-reviewNotes: >-
-  UNSUPPORTED: "Rodríguez había visto su potencial en Sin City y Planet Terror"
-  (Interview says he 'has identified this potential in me'; it does not name
-  these films in that context. Attribute only what is quoted.) | UNSUPPORTED:
-  "Rodríguez hace que los actores sientan que todo es posible" (Not in the
-  fetched interview text. Drop.) | UNSUPPORTED: "Planet Terror rodada antes que
-  Death Proof, con un equipo en gran parte idéntico, en Troublemaker Studios,
-  Austin" (Order and studio confirmed; 'equipo en gran parte idéntico' is not in
-  the fetched text. Drop that clause.) | Reviewer recommends rejection:
-  Rejected. Remove 'equipo en gran parte idéntico' (Planet Terror/Death Proof
-  crew) and 'hace que los actores sientan que todo es posible' (Rodríguez), and
-  tie the Sin City/Planet Terror claim only to the quoted interview wording. All
-  other claims check out.
-autoReviews: 4
+autoReviews: 5
+publishedAt: '2026-10-31'
+publishedTime: '2026-10-31T14:36:56.062Z'
 ---
 Nacida en Los Ángeles, California, el 12 de abril de 1974, Marley Shelton es actriz estadounidense [s:tmdb-marley-shelton] [s:wikidata-marley-shelton]. Su primer crédito en TMDb es un papel de un episodio en la serie *The Family Man* (1990) [s:tmdb-marley-shelton]. Su trabajo en cine temprano incluye *The Sandlot* (1993), donde interpretó a Wendy [s:tmdb-marley-shelton]. Wikidata registra la Universidad de California en Los Ángeles y la escuela Eagle Rock High School entre sus centros de estudio [s:wikidata-marley-shelton].
 
@@ -69,13 +60,13 @@ En los años 2000, TMDb la sitúa como Chloe en *Bubble Boy* (2001), como Ingrid
 
 ## Rodríguez, Sin City y Grindhouse
 
-Su filmografía incluye *Sin City* (2005), donde interpretó a The Customer [s:tmdb-marley-shelton]. En una entrevista de 2007 contó que Robert Rodríguez había visto su potencial en *Sin City* y en *Planet Terror*. Lo describió como un director que hace que los actores sientan que todo es posible, y como alguien que escribe, dirige, compone la música y monta sus películas [s:sliceofscifi-grindhouse-interview].
+Su filmografía incluye *Sin City* (2005), donde interpretó a The Customer [s:tmdb-marley-shelton]. En una entrevista de 2007 contó que Robert Rodríguez había visto su potencial en *Sin City* y en *Planet Terror*. Dijo que él escribe, dirige, compone la música y monta sus propias películas [s:sliceofscifi-grindhouse-interview].
 
-En *Grindhouse* interpretó a Dakota en *Planet Terror*, una de las dos películas del programa doble [s:tmdb-marley-shelton] [s:sliceofscifi-grindhouse-interview]. Dijo que se inspiró en las rubias gélidas de Hitchcock y que estudió el suspense para el papel [s:sliceofscifi-grindhouse-interview]. Su película favorita es *Psicosis*, y también le gusta *Crimen perfecto* [s:sliceofscifi-grindhouse-interview].
+En *Grindhouse* interpretó a Dakota en *Planet Terror*, una de las dos películas del programa doble [s:tmdb-marley-shelton] [s:sliceofscifi-grindhouse-interview]. Dijo que se inspiró en las rubias gélidas de Hitchcock y que estudió el suspense para el papel [s:sliceofscifi-grindhouse-interview]. Su Hitchcock favorito es *Psicosis*, y también le gusta *Crimen perfecto* [s:sliceofscifi-grindhouse-interview].
 
-Rodríguez le pidió que rodara una secuencia como si fuera una película muda [s:sliceofscifi-grindhouse-interview]. *Planet Terror* se filmó antes que *Death Proof*, con un equipo en gran parte idéntico en ambas, y todo se rodó en los Troublemaker Studios de Rodríguez, en Austin [s:sliceofscifi-grindhouse-interview]. Quentin Tarantino estuvo en el rodaje de *Planet Terror* y ayudó a codirigirla [s:sliceofscifi-grindhouse-interview]. Según ella, su mayor reto físico fue correr con tacones altos noche tras noche. Su doble de riesgo, Tracey Dashnaw, hizo la escena en la que Dakota salta por una ventana [s:sliceofscifi-grindhouse-interview].
+Rodríguez le pidió que rodara una secuencia como si fuera una película muda [s:sliceofscifi-grindhouse-interview]. *Planet Terror* se filmó antes que *Death Proof*, y todo se rodó en los Troublemaker Studios de Rodríguez, en Austin [s:sliceofscifi-grindhouse-interview]. Quentin Tarantino estuvo en el rodaje de *Planet Terror* y ayudó a codirigirla [s:sliceofscifi-grindhouse-interview]. Según ella, su mayor reto físico fue correr con tacones altos noche tras noche. Su doble de riesgo, Tracey Dashnaw, hizo la escena en la que Dakota salta por una ventana [s:sliceofscifi-grindhouse-interview].
 
-También comparó los métodos de los dos directores. Según su relato, Rodríguez trabaja de forma digital y rápida, mientras que Tarantino rueda en película y habla más con los actores [s:sliceofscifi-grindhouse-interview]. Rodríguez describió la película como una comedia "Gore-Ball" que mezcla la screwball con zombis [s:sliceofscifi-grindhouse-interview]. En la misma entrevista mencionó *The Fifth Patient* (2007), un thriller independiente que esperaba presentar en CineVegas [s:sliceofscifi-grindhouse-interview] [s:tmdb-marley-shelton].
+También comparó los métodos de los dos directores. Según su relato, Rodríguez trabaja de forma digital y rápida, mientras que Tarantino rueda en película y es, según ella, el director más verbal [s:sliceofscifi-grindhouse-interview]. Rodríguez describió la película como una comedia "Gore-Ball" que mezcla la screwball con zombis [s:sliceofscifi-grindhouse-interview]. En la misma entrevista mencionó *The Fifth Patient* (2007), un thriller independiente que esperaba presentar en CineVegas [s:sliceofscifi-grindhouse-interview] [s:tmdb-marley-shelton].
 
 ## Scream: de ayudante a sheriff
 
@@ -83,7 +74,7 @@ Judy Hicks apareció por primera vez en *Scream 4* (2011) [s:tmdb-marley-shelton
 
 Hicks ya era sheriff cuando volvió en *Scream* (2022) [s:etonline-scream-judy-hicks]. El artículo indica que es la madre de Wes, papel de Dylan Minnette [s:etonline-scream-judy-hicks]. Cuando supo que Hicks regresaría, Shelton dijo que no lo podía creer y que estaba en las nubes [s:etonline-scream-judy-hicks]. El artículo señala además que una parte del público sigue dividida sobre el personaje [s:etonline-scream-judy-hicks].
 
-Shelton también habló de los *lemon squares* (cuadraditos de limón) asociados a Hicks [s:etonline-scream-judy-hicks]. Dijo que no podía creer la popularidad que han alcanzado [s:etonline-scream-judy-hicks]. Según el artículo, la película muestra cómo han cambiado los personajes unos diez años después de *Scream 4* [s:etonline-scream-judy-hicks].
+Shelton también habló de los *lemon squares* (cuadraditos de limón) asociados a Hicks [s:etonline-scream-judy-hicks]. Dijo que no podía creer la popularidad que han alcanzado [s:etonline-scream-judy-hicks]. Según el artículo, la nueva película muestra dónde están los personajes ahora, sobre todo diez años después de *Scream 4* [s:etonline-scream-judy-hicks].
 
 ## Televisión y otros trabajos
 

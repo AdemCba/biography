@@ -44,40 +44,25 @@ faq:
       Die Künstlerseite der Recording Academy führt insgesamt drei Siege und 22
       Nominierungen auf. Als ersten Grammy nennt sie Love of My Life (2003), und
       Glory ist als Sieg (2016) markiert.
+flag: Rejected by the fact-check 5 times; needs a human editor.
 reviewNotes: >-
-  UNSUPPORTED: "He knew it sounded good but never knew what it would become"
-  (Not in the fetched text. Remove or cite the exact passage.) | UNSUPPORTED:
-  "Femi Kuti on the album; Common says getting him was unglaublich (incredible)"
-  (Source says he really wanted Femi Kuti on it. The word unglaublich is not in
-  the fetched text.) | UNSUPPORTED: "Geto Heaven created for D'Angelo, who
-  wanted Chicken Grease and offered Geto Heaven in exchange" (Creation for
-  D'Angelo is confirmed. The exchange is not in the fetched text.) |
-  UNSUPPORTED: "Common says he got D'Angelo onto Geto Heaven" (Not in the
-  source. Previously flagged and still present.) | UNSUPPORTED: "2017 Emmy for
-  Letter to the Free, linked to the Netflix production 13th" (Emmy and 13th
-  confirmed. Netflix is not in the fetched text. Drop it or cite a source.) |
-  UNSUPPORTED: "Artist page calls Love of My Life his first career Grammy" (Not
-  stated on the fetched page, which marks only Glory 2016 as a winner. Cite the
-  exact passage or drop.) | UNSUPPORTED: "FAQ: first named Grammy is Love of My
-  Life (2003); Glory (2016) marked as a win" (First-win naming not confirmed.
-  Glory 2016 win confirmed.) | Prose reads machine-written | Reviewer recommends
-  rejection: Reject. Unsupported: that Common got D'Angelo onto Geto Heaven and
-  the exchange detail, the unglaublich quote, the never knew what it would
-  become line, the Netflix detail, and the artist page calling Love of My Life
-  the first career Grammy (also in the FAQ). Fix or drop these and localise the
-  structure.
-autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+  Prose reads machine-written | Reviewer recommends rejection: Facts match the
+  cited sources after the corrections, including the attribution of the
+  sequencing and executive-production credit to Questlove. The remaining issue
+  is style: the German page mirrors the English structure sentence by sentence,
+  which the style guide treats as a translation. Not rewritten here because the
+  brief excludes style rewrites.
+autoReviews: 5
 ---
-Lonnie Rashid Lynn Jr. kam am 13. März 1972 in Chicago, Illinois, zur Welt [s:grammy-artist-common] [s:television-academy-common]. Als Common ist er heute einer der wenigen Künstler mit einem Grammy, einem Oscar und einem Emmy. Die Recording Academy nennt ihn in einer eigenen Meldung vom 14. September 2017 den ersten Rapper mit allen drei Auszeichnungen [s:grammy-first-rapper-emmy-oscar].
+Lonnie Rashid Lynn Jr. kam am 13. März 1972 in Chicago, Illinois, zur Welt [s:grammy-artist-common] [s:television-academy-common]. Als Common hat er als erster Rapper einen Grammy, einen Oscar und einen Emmy gewonnen, wie die Recording Academy in einer Meldung vom 14. September 2017 schreibt [s:grammy-first-rapper-emmy-oscar].
 
 ## Like Water for Chocolate und der Weg zur Schauspielerei
 
 Zum 20. Jahrestag des Albums führte die Recording Academy ein Gespräch mit Common. Der Text bezeichnet sein viertes Studioalbum als großen Höhepunkt seiner Karriere. Common selbst sagt, es sei «eine der großartigsten Zeiten meines Lebens» gewesen [s:grammy-qa-like-water-for-chocolate]. Der Titel verweist auf den Film Like Water for Chocolate, in dem Menschen Essen zubereiten und dabei ihre Liebe zeigen. Common wollte etwas Ähnliches mit Musik ausdrücken [s:grammy-qa-like-water-for-chocolate].
 
-Der erste Hit des Albums war laut dem Text «The Light». Es war sein erster Song im Mainstream-Radio. Common sagt, er habe gewusst, dass der Titel gut klingt, aber nie geahnt, wozu er einmal werden würde [s:grammy-qa-like-water-for-chocolate]. 2001 war der Titel für Best Rap Solo Performance nominiert [s:grammy-artist-common].
+Der erste Hit des Albums war laut dem Text «The Light». Es war sein erster Song im Mainstream-Radio. Common sagt, er habe gewusst, dass er gut klingt, aber nie, was aus ihm werden würde [s:grammy-qa-like-water-for-chocolate]. Die Künstlerseite führt «The Light» 2001 in der Kategorie Best Rap Solo Performance auf [s:grammy-artist-common].
 
-Femi Kuti ist auf der Platte zu hören, und Common sagt, es sei «unglaublich» gewesen, ihn dafür zu gewinnen. «Geto Heaven» entstand eigentlich für D'Angelo. D'Angelo wollte stattdessen «Chicken Grease» und bot Common dafür «Geto Heaven» an. Common sagt, er habe D'Angelo auf «Geto Heaven» gebracht [s:grammy-qa-like-water-for-chocolate]. «Chicken Grease» wäre laut Common eher etwas für ihn gewesen, ähnlich wie «Cold Blooded», bevor der Song auf D'Angelos Album Voodoo landete [s:grammy-qa-like-water-for-chocolate]. Questlove hat die Titelreihenfolge festgelegt. Common sagt außerdem, er habe das Album wirklich als Executive Producer betreut [s:grammy-qa-like-water-for-chocolate].
+Femi Kuti ist auf der Platte zu hören, und Common sagt, es sei «unglaublich» gewesen, ihn dafür zu gewinnen. «Geto Heaven» entstand eigentlich für D'Angelo. D'Angelo wollte unbedingt «Chicken Grease» haben und bot Common dafür etwas an. Common sagt, er habe D'Angelo auf «Geto Heaven» gebracht [s:grammy-qa-like-water-for-chocolate]. «Chicken Grease» wäre laut Common eher etwas für ihn gewesen, ähnlich wie «Cold Blooded», bevor der Song auf D'Angelos Album Voodoo landete [s:grammy-qa-like-water-for-chocolate]. Common sagt, Questlove habe die Titelreihenfolge festgelegt und das Album wirklich als Executive Producer betreut [s:grammy-qa-like-water-for-chocolate].
 
 In dieser Zeit stellte ihm seine A&R-Managerin Wendy Goldstein, wie Common erzählt, seinen Schauspiel-Coach vor [s:grammy-qa-like-water-for-chocolate].
 
@@ -89,13 +74,13 @@ Bei den Grammys 2016 war «Glory» in den Kategorien Best Rap Song und Best Rap/
 
 ## Ein Emmy für 13th
 
-2017 gewann Common den Primetime Emmy in der Kategorie Outstanding Original Music and Lyrics. Der prämierte Song war «Letter to the Free», den die Television Academy der Netflix-Produktion 13th zuordnet [s:television-academy-common]. Den Preis teilte er sich mit Robert Glasper und Karriem Riggins [s:grammy-first-rapper-emmy-oscar]. Die Television Academy verzeichnet für ihn genau eine Emmy-Nominierung, und diese war der Sieg [s:television-academy-common].
+2017 gewann Common den Primetime Emmy in der Kategorie Outstanding Original Music and Lyrics. Der prämierte Song war «Letter to the Free», den die Television Academy der Show 13th zuordnet, mit Netflix als Plattform [s:television-academy-common]. Den Preis teilte er sich mit Robert Glasper und Karriem Riggins [s:grammy-first-rapper-emmy-oscar]. Die Television Academy verzeichnet für ihn genau eine Emmy-Nominierung, und diese war der Sieg [s:television-academy-common].
 
 Die Recording Academy schrieb damals, der Emmy bringe ihn auf einen Tony-Gewinn Abstand vom EGOT, also vom Kreis der Künstler mit Emmy, Grammy, Oscar und Tony. Dieser Kreis habe laut dem Text damals erst 13 Mitglieder [s:grammy-first-rapper-emmy-oscar].
 
 ## Grammy-Nominierungen über zwei Jahrzehnte
 
-Die Künstlerseite der Recording Academy führt seine Nominierungen für das beste Rap-Album auf: 2006 für Be, 2008 für Finding Forever, 2010 für Universal Mind Control, 2015 für Nobody's Smiling und 2025 für The Auditorium, Vol. 1 [s:grammy-artist-common]. Dieselbe Seite nennt Southside als Nominierung für 2008 in der Kategorie Best Rap Performance by a Duo or Group [s:grammy-artist-common].
+Die Künstlerseite der Recording Academy führt seine Nominierungen für das beste Rap-Album auf: 2006 für Be, 2008 für Finding Forever, 2010 für Universal Mind Control, 2015 für Nobody's Smiling und 2025 für The Auditorium, Vol. 1 [s:grammy-artist-common]. Dieselbe Seite listet Southside für 2008 in der Kategorie Best Rap Performance by a Duo or Group auf [s:grammy-artist-common].
 
 Insgesamt nennt die Seite drei Siege und 22 Nominierungen [s:grammy-artist-common].
 

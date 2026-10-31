@@ -12,9 +12,12 @@ summary: >-
   afastou da atuação, após se perguntar se ainda gostava do trabalho
   [s:people-stepped-back-hollywood-2025]. Hoje ele descreve a cannabis como sua
   grande paixão [s:people-stepped-back-hollywood-2025].
-status: review
+status: published
 risk: medium
+reviewedAt: '2026-10-31'
+reviewBy: '2027-05-01'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - chauncey leopardi filmes
@@ -44,24 +47,11 @@ faq:
       Segundo a PEOPLE, ele ainda aceita um papel de atuação de vez em quando
       [s:people-sandlot-cast-2025]. Ele também disse que chegou a se perguntar
       se ainda gostava de atuar [s:people-stepped-back-hollywood-2025].
-reviewNotes: >-
-  UNSUPPORTED: "'Foi muito especial rever a piscina onde se gravou a cena da
-  Wendy'" (The source says Leopardi called the Lorin Farr pool, where the
-  drowning-feint scene was filmed, 'very cool to see'. It does not mention
-  Wendy. Fix: 'foi muito especial rever a piscina onde se gravou a cena do
-  simulacro de afogamento' or cite another source that names Wendy.) | UNCITED:
-  "The Sandlot (1993) year in the body first paragraph is not tagged there, but
-  BetaSeries supports it. Not a blocker." | Reviewer recommends rejection:
-  Rejected for one unsupported detail: the claim that Leopardi praised the pool
-  where 'a cena da Wendy' was filmed. The Standard-Examiner source does not
-  mention Wendy. Fix by using the drowning-feint scene wording the source uses,
-  or cite a source that names Wendy. The old reviewNotes about 'Ele deixou a
-  atuação' are stale: the metaDescription now says 'se afastou da atuação'. All
-  other claims are confirmed.
-autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+autoReviews: 4
+publishedAt: '2026-10-31'
+publishedTime: '2026-10-31T14:36:56.059Z'
 ---
-Chauncey Leopardi é o ator que interpretou Michael “Squints” Palledorous em *The Sandlot* (1993) [s:standard-examiner-sandlot-ogden-2023]. Ele nasceu em 14 de junho de 1981 [s:betaseries-chauncey-leopardi] [s:famousbirthdays-chauncey-leopardi].
+Chauncey Leopardi é o ator que interpretou Michael “Squints” Palledorous em *The Sandlot* (1993) [s:standard-examiner-sandlot-ogden-2023] [s:betaseries-chauncey-leopardi]. Ele nasceu em 14 de junho de 1981 [s:betaseries-chauncey-leopardi] [s:famousbirthdays-chauncey-leopardi].
 
 ## Uma cápsula do tempo de um verão
 

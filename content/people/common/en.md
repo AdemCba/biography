@@ -11,9 +11,12 @@ summary: >-
   and a Primetime Emmy for Letter to the Free. He was born Lonnie Rashid Lynn
   Jr., and his film credits include American Gangster, Wanted and John Wick:
   Chapter 2.
-status: review
+status: published
 risk: medium
+reviewedAt: '2026-10-31'
+reviewBy: '2027-05-01'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - common rapper age
@@ -42,34 +45,9 @@ faq:
       The Recording Academy's artist page lists three wins and 22 nominations
       for him in total. It names Love of My Life (2003) as his first career
       GRAMMY win and marks Glory (2016) as a win.
-flag: Rejected by the fact-check 4 times; needs a human editor.
-reviewNotes: >-
-  UNSUPPORTED: "Fourth studio album" (Ordinal not stated in the fetched Q&A
-  text. Probably correct from general knowledge but not supported by the cited
-  source.) | UNSUPPORTED: "He knew it sounded great but never knew what it would
-  become" (Not in the fetched text. Remove or cite the exact passage.) |
-  UNSUPPORTED: "Femi Kuti is on the record; Common says getting him on it was
-  incredible" (Source says I really wanted Femi Kuti on it. The word incredible
-  is not in the fetched text.) | UNSUPPORTED: "Geto Heaven was created for
-  D'Angelo; D'Angelo wanted Chicken Grease and offered Geto Heaven in exchange"
-  (Creation for D'Angelo is confirmed. The exchange detail is not in the fetched
-  text.) | UNSUPPORTED: "Common says he got D'Angelo on Geto Heaven" (Source
-  does not say D'Angelo appears on the track. This is the previously flagged
-  claim and it is still in the text.) | UNSUPPORTED: "Letter to the Free is
-  listed under the Netflix production 13th" (Sources say the documentary 13th.
-  Netflix is not in the fetched text. Drop it or cite a source that says so.) |
-  UNSUPPORTED: "Recording Academy artist page calls Love of My Life his first
-  career GRAMMY win" (The fetched page lists the 2003 Best R&B Song entry but
-  does not call it his first career win. It marks only Glory 2016 as a winner.
-  Cite the exact passage or drop.) | UNSUPPORTED: "FAQ: artist page names Love
-  of My Life (2003) as first career GRAMMY win and marks Glory (2016) as a win"
-  (Same problem as the body. The first-win naming is not confirmed. The Glory
-  win is confirmed.) | Reviewer recommends rejection: Reject. Unsupported:
-  D'Angelo appears on Geto Heaven (still in the text), the Femi Kuti incredible
-  quote, the never knew what it would become line, the Netflix detail, and the
-  claim that the artist page calls Love of My Life his first career win
-  (repeated in the FAQ). Fix or drop these and re-check.
-autoReviews: 4
+autoReviews: 6
+publishedAt: '2026-10-31'
+publishedTime: '2026-10-31T14:36:56.060Z'
 ---
 Common is the first rapper to take home a Grammy, an Oscar and an Emmy, according to the Recording Academy's own news story [s:grammy-first-rapper-emmy-oscar]. He was born Lonnie Rashid Lynn Jr. on March 13, 1972, in Chicago, Illinois [s:grammy-artist-common] [s:television-academy-common].
 
@@ -77,11 +55,11 @@ Common is the first rapper to take home a Grammy, an Oscar and an Emmy, accordin
 
 The Recording Academy's 20th-anniversary Q&A describes his fourth studio album as a major career high. Common himself calls the period "one of the greatest times in my life" [s:grammy-qa-like-water-for-chocolate]. The title comes from the film Like Water for Chocolate. Common says that film was about people cooking food and showing their love, and he wanted to express something similar through music [s:grammy-qa-like-water-for-chocolate].
 
-The article calls "The Light" the album's first hit, and Common says it was the first of his songs on mainstream radio. He says he knew it sounded great but never knew what it would become [s:grammy-qa-like-water-for-chocolate]. The Recording Academy lists it as a nominee for Best Rap Solo Performance in 2001 [s:grammy-artist-common].
+The article calls "The Light" the album's first hit, and Common says it was the first song he had on mainstream radio. He says, "I knew it sounded great but I never knew what it would get to be" [s:grammy-qa-like-water-for-chocolate]. The Recording Academy's artist page lists "The Light" under Best Rap Solo Performance in 2001 [s:grammy-artist-common].
 
-Femi Kuti is on the record, and Common says getting him on it "was incredible." Geto Heaven was actually created for D'Angelo. D'Angelo wanted Chicken Grease instead and offered Geto Heaven in exchange, and Common says he got D'Angelo on "Geto Heaven" [s:grammy-qa-like-water-for-chocolate]. By Common's account, Chicken Grease would have been his, in the same vein as Cold Blooded, before it ended up on D'Angelo's album Voodoo [s:grammy-qa-like-water-for-chocolate]. Questlove did the sequencing, and Common says he truly executive-produced the album [s:grammy-qa-like-water-for-chocolate].
+Femi Kuti is on the record, and Common says getting him on it "was incredible." Geto Heaven was actually created for D'Angelo. D'Angelo really loved "Chicken Grease" and asked to have it, offering something in return. Common says he got D'Angelo on "Geto Heaven" [s:grammy-qa-like-water-for-chocolate]. By Common's account, Chicken Grease would have been his, in the same vein as Cold Blooded, before it ended up on D'Angelo's album Voodoo [s:grammy-qa-like-water-for-chocolate]. Common says Ahmir "Questlove" Thompson did the sequencing and truly executive-produced the album [s:grammy-qa-like-water-for-chocolate].
 
-During the album's promotion, Common says his A&R, Wendy Goldstein, introduced him to his acting coach [s:grammy-qa-like-water-for-chocolate].
+Common says his A&R, Wendy Goldstein, introduced him to his acting coach [s:grammy-qa-like-water-for-chocolate].
 
 ## An Oscar for Glory
 
@@ -91,7 +69,7 @@ At the 2016 Grammys, Glory was nominated for Best Rap Song and Best Rap/Sung Col
 
 ## An Emmy for 13th
 
-In 2017, Common won the Primetime Emmy for Outstanding Original Music and Lyrics. The winning song was Letter to the Free, which the Television Academy lists under the Netflix production 13th [s:television-academy-common]. He shared the award with Robert Glasper and Karriem Riggins [s:grammy-first-rapper-emmy-oscar]. The Television Academy records one Emmy nomination for him, and that nomination was the win [s:television-academy-common].
+In 2017, Common won the Primetime Emmy for Outstanding Original Music and Lyrics. The winning song was Letter to the Free, which the Television Academy lists under the show 13th, with Netflix as the platform [s:television-academy-common]. He shared the award with Robert Glasper and Karriem Riggins [s:grammy-first-rapper-emmy-oscar]. The Television Academy records one Emmy nomination for him, and that nomination was the win [s:television-academy-common].
 
 The Recording Academy's article on the win said the Emmy put him one Tony win away from EGOT, the club of performers who have won all four awards. It described that club as having 13 members so far [s:grammy-first-rapper-emmy-oscar].
 

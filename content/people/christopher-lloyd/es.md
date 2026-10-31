@@ -46,36 +46,18 @@ faq:
       Está anunciado en convenciones: Supanova de Sídney y Perth en junio de
       2026, y el Comic Con de Rhode Island en noviembre de 2026
       [s:variety-supanova-2026][s:turnto10-ric-2026].
-flag: Rejected by the fact-check 4 times; needs a human editor.
+flag: Rejected by the fact-check 5 times; needs a human editor.
 reviewNotes: >-
-  UNSUPPORTED: "Trabajo escénico con la New York Shakespeare Festival y
-  compañías fuera de Broadway" (Not in the opened Biography.com text.) |
-  UNSUPPORTED: "Morning's at Seven, que ganó un premio Tony" (Broadway credit
-  listed; Tony not stated in opened text.) | UNSUPPORTED: "Cuckoo's Nest 1975,
-  Max Taber; la película ganó cinco premios Óscar incluido el de mejor película"
-  (Role and year confirmed. Oscar count and Best Picture not in the opened
-  text.) | UNSUPPORTED: "Infancia en la finca Waveny; criado por institutrices;
-  madre creativa y padre severo" (Waveny confirmed. Governesses and stern father
-  not in the opened listing.) | UNSUPPORTED: "Libro escrito con encanto, ironía
-  seca y honestidad; historias apenas contadas antes; inmersión en teatro de NY"
-  (Not found in the opened listing text.) | UNSUPPORTED: "Cabeza sin cuerpo en
-  Wednesday; El rey Lear" (Not found in the opened listing text.) | UNSUPPORTED:
-  "Comic Con de Rhode Island 6-8 noviembre 2026; último invitado; reencuentro de
-  Roger Rabbit" (Convention dates and guest status confirmed. The reunion is not
-  dated separately in the source; the article implies it is dated 6-8 November.)
-  | UNCITED: ""Pero su carrera empezó lejos del cine, sobre los escenarios de
-  Nueva York" (opening paragraph, tag is outside the sentence cluster; add a tag
-  to the sentence)" | Prose reads machine-written | Adds no value over existing
-  pages: Sentence-by-sentence translation of the English draft with the same
-  headings and sources. No Spanish-language sources or local queries. | Reviewer
-  recommends rejection: Reject. Same unsupported claims as the English draft
-  (Tony award, five Oscars, NYSF/off-Broadway, memoir description phrases,
-  governesses, Wednesday, King Lear, reunion dates). Localisation fails: it is a
-  structural translation of the English with no Spanish-language sources or
-  local context. Rebuild from Spanish sources and queries.
-autoReviews: 4
+  Prose reads machine-written | Adds no value over existing pages: All facts now
+  carry sources that confirm them, but the page is still a sentence-by-sentence
+  rendering of the English draft with the same headings and sources. It has no
+  Spanish-language sources or Spanish-specific queries. Left unchanged per
+  repair scope. | Reviewer recommends rejection: All factual claims now check
+  out against the opened sources. Remaining issues are style and localisation
+  only, which the repair scope does not rewrite.
+autoReviews: 5
 ---
-Para mucha gente, Christopher Lloyd es el doctor Brown de Volver al futuro [s:backtothefuture-cast]. Pero su carrera empezó lejos del cine, sobre los escenarios de Nueva York [s:biography-com], y la televisión llegó después con Taxi. Nacido el 22 de octubre de 1938 en Stamford, Connecticut, fue el menor de siete hermanos [s:biography-com]. Taxi le dio dos de sus tres Emmy [s:backtothefuture-cast][s:tv-academy-taxi-1982], y la editorial de su memoria lo describe como uno de los actores de carácter más singulares de su generación [s:hachette-author].
+Para mucha gente, Christopher Lloyd es el doctor Brown de Volver al futuro [s:backtothefuture-cast]. Pero su carrera empezó lejos del cine, sobre los escenarios de Nueva York [s:biography-com]. Nacido el 22 de octubre de 1938 en Stamford, Connecticut, fue el menor de siete hermanos [s:biography-com]. Taxi le dio dos de sus tres Emmy [s:backtothefuture-cast][s:tv-academy-taxi-1982], y la editorial de su memoria lo describe como uno de los actores de carácter más singulares de su generación [s:hachette-author].
 
 ## Primeros años en el teatro
 
@@ -117,7 +99,7 @@ In My Own Time: A Memoir es un libro de tapa dura de 256 páginas, de Grand Cent
 
 Según la editorial, el libro repasa su infancia en la finca Waveny, en Connecticut, criado sobre todo por institutrices, con una madre creativa y un padre severo [s:hachette-memoir]. Cuenta también su inmersión en el teatro de Nueva York y su paso a la televisión y al cine [s:hachette-memoir].
 
-La ficha dice que el libro reúne historias de su vida que apenas había contado antes, y que está escrito con encanto, ironía seca y honestidad [s:hachette-memoir]. Su descripción menciona además su aparición como una cabeza sin cuerpo en Wednesday y el papel principal en una puesta en escena de El rey Lear [s:hachette-memoir].
+La ficha dice que el libro está escrito con encanto, ironía seca y honestidad [s:hachette-memoir]. Su descripción menciona además su aparición como una cabeza sin cuerpo en Wednesday y el papel principal en una puesta en escena de El rey Lear [s:hachette-memoir].
 
 En 2026 tiene además citas en convenciones. Variety informó de que Supanova Comic Con & Gaming lo había contratado para sus eventos de Sídney, del 19 al 21 de junio, y de Perth, del 27 al 28 de junio de 2026 [s:variety-supanova-2026]. TurnTo10 lo presentó como el último invitado anunciado para el Comic Con de Rhode Island, donde participará en un reencuentro de ¿Quién engañó a Roger Rabbit? con Kathleen Turner y Charles Fleischer, del 6 al 8 de noviembre de 2026 [s:turnto10-ric-2026].
 

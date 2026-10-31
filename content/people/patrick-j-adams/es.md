@@ -44,29 +44,17 @@ faq:
       salud mental, que bebía demasiado hacia el final de esa temporada y que
       sentía que la historia de Mike Ross ya estaba contada
       [s:tvline-suits-exit] [s:justjared-suits-exit-2024].
+flag: Rejected by the fact-check 4 times; needs a human editor.
 reviewNotes: >-
-  UNSUPPORTED: "FAQ: 'según Just Jared, Adams dijo que, tras siete temporadas,
-  en realidad llevaba ocho años lejos de casa y de su mujer'" (The fetched
-  source does not mention eight years away from home or from his wife, and does
-  not link time away to leaving. The 'ocho años' figure appears in neither the
-  source nor the English article. Delete the sentence.) | UNSUPPORTED: "Scott
-  Ellis encouraged him despite stage panic attacks with the words 'es tu
-  oportunidad de arreglarlo, básicamente'" (The source has 'this is your chance
-  to fix that'. 'básicamente' is not in the source. Quote the source wording or
-  drop the quote marks.) | Prose reads machine-written | Adds no value over
-  existing pages: The Spanish text follows the English article sentence by
-  sentence, with the same headings, quotes and order. It adds no
-  Spanish-specific queries, Spanish-language sources or local context, which the
-  style guide says fails review. | Reviewer recommends rejection: Rejected. (1)
-  The FAQ wife answer invents 'ocho años lejos de casa y de su mujer', which is
-  not in the cited Just Jared text; delete it. (2) The Ellis quote 'es tu
-  oportunidad de arreglarlo, básicamente' is not in the source; use the source
-  wording or drop the quote marks. (3) The text is a sentence-by-sentence
-  translation of the English page and adds no Spanish-specific value; rewrite it
-  for Spanish readers. The venue and podcast issues from the brief are resolved
-  in the current text.
-autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+  Adds no value over existing pages: Follows the English page sentence by
+  sentence, with the same sections, quotes and English-only sources. It adds no
+  Spanish-language sources or Spanish-specific context, and the style guide
+  treats a sentence-by-sentence translation as failing review. | Reviewer
+  recommends rejection: All cited facts check out against the opened sources
+  after the fixes. Rejection is for the translation-only issue, not for a
+  factual error. The flagged FAQ eight-years claim is in the cited Just Jared
+  article.
+autoReviews: 4
 ---
 Mike Ross, el abogado de Suits, es el papel por el que más se conoce a Patrick J. Adams, la serie que USA emitió [s:usc-sda-patrick-j-adams] [s:tvseriesfinale-suits]. El actor canadiense nació el 27 de agosto de 1981 en Toronto, Ontario [s:wikidata-q644565] [s:wikidata-q172], y Wikidata lo registra con nacionalidad canadiense [s:wikidata-q16]. Su perfil en la Escuela de Artes Dramáticas de la USC recoge además películas como Old School, Pillow Talk, Room for Rent y Rosemary's Baby [s:usc-sda-patrick-j-adams].
 
@@ -84,13 +72,13 @@ Más franco fue en un episodio del pódcast Dinner's On Me, con Jesse Tyler Ferg
 
 Tras Suits, Adams fue elegido para el mayor John Glenn en The Right Stuff, la serie de Disney+ sobre los astronautas del Mercury Seven [s:d23-right-stuff-glenn] [s:tvline-right-stuff-preview]. Cuenta que fue el primero del reparto en ser elegido: «creo que fui el primero en ser elegido» [s:tvline-right-stuff-preview]. Admite que el papel le daba miedo, «tenía mucho miedo, la verdad», y de Glenn le llamó la atención que fuera «el bicho raro de los Mercury Seven, y no porque fuera el mejor» [s:tvline-right-stuff-preview].
 
-Se metió a fondo en el material. Pasó un par de días en los archivos de Glenn en la Universidad Estatal de Ohio, donde había «cientos y cientos de cajas de cosas», y dijo que tuvo «el lujo de disponer de una cantidad enorme de recursos» [s:d23-right-stuff-glenn]. Leyó cartas privadas, diarios y la correspondencia de Glenn con presidentes. Se quedó con lo que le hablaba a él, sus «puntos de apoyo», en vez de imitar al personaje [s:d23-right-stuff-glenn]. Cuando llegó la oferta, dijo: «Esto es lo que he estado esperando» [s:tvline-right-stuff-preview].
+Se metió a fondo en el material. Los archivos de Glenn en la Universidad Estatal de Ohio tienen «cientos y cientos de cajas de cosas», y Adams dijo que tuvo «el lujo de disponer de una cantidad enorme de recursos» [s:d23-right-stuff-glenn]. Leyó cartas privadas, diarios y la correspondencia de Glenn con presidentes. Se quedó con lo que le hablaba a él, sus «puntos de apoyo», en vez de imitar al personaje [s:d23-right-stuff-glenn]. Cuando llegó la oferta, dijo: «Esto es lo que he estado esperando» [s:tvline-right-stuff-preview].
 
 ## Take Me Out, su debut en Broadway
 
 La reposición de Take Me Out de 2022 le dio su debut en Broadway, con el papel de Kippy Sunderstrom [s:justjared-take-me-out-2024]. La obra cerró el 11 de junio en el Hayes Theatre. Un artículo de BroadwayWorld fechado el 12 de junio informaba de que la producción había ganado el Tony de 2022 a la mejor reposición de una obra de teatro [s:broadwayworld-take-me-out-tony]. El reparto que cita ese texto incluye a Adams [s:broadwayworld-take-me-out-tony].
 
-La obra obligaba a estar desnudo en el escenario cada noche, según Just Jared, y Adams dijo que para afrontarlo tuvo que apartar los nervios [s:justjared-take-me-out-2024]. «Fue tan intenso que creo que de verdad tuve que salir de mi cuerpo cada noche», añadió [s:justjared-take-me-out-2024]. El director Scott Ellis le animó a aceptar el papel pese a sus ataques de pánico en escena, con la frase «es tu oportunidad de arreglarlo, básicamente» [s:justjared-take-me-out-2024].
+Adams dijo que la obra era una en la que «teníamos que estar desnudos cada noche» [s:justjared-take-me-out-2024]. «Fue tan intenso que creo que de verdad tuve que salir de mi cuerpo cada noche», añadió [s:justjared-take-me-out-2024]. El director Scott Ellis le animó a aceptar el papel pese a sus ataques de pánico en escena, con la frase «es tu oportunidad de arreglarlo, básicamente» [s:justjared-take-me-out-2024].
 
 ## El bulo sobre su muerte y The Madison
 

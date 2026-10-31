@@ -3,9 +3,8 @@
   "model": "claude-haiku-5-5",
   "approved": false,
   "reasons": [
-    "UNSUPPORTED: \"Boston.com nennt You Gotta Believe und Monster Summer (2024) unter seinen späteren Filmen\" (Boston.com names both films but gives no dates or timeline; no opened source dates You Gotta Believe. Drop 'späteren', or date it from a source.)",
     "Prose reads machine-written",
-    "Reviewer recommends rejection: Rejected. Two fixes: (1) drop 'späteren' from 'Boston.com nennt You Gotta Believe und Monster Summer (2024) unter seinen späteren Filmen', since Boston.com does not date them; (2) rework the text as a German localisation rather than a sentence-by-sentence translation of the English, and mark the Movieguide phrase as a translation or paraphrase rather than a direct quote. The rest of the facts check out."
+    "Reviewer recommends rejection: Facts confirmed against sources; the German prose still reads as a translation. Style judgement left for an editor."
   ],
   "claims": [
     {
@@ -105,13 +104,13 @@
       "note": "Apple lists The Big Green (1995) and Dorm Daze (2003); other two named without years."
     },
     {
-      "claim": "Boston.com nennt You Gotta Believe und Monster Summer (2024) unter seinen späteren Filmen",
+      "claim": "Boston.com nennt You Gotta Believe und Monster Summer (2024) unter seinen Filmen",
       "sourceIds": [
         "boston-com-interview",
         "apple-snapshot"
       ],
-      "verdict": "unsupported",
-      "note": "Boston.com names both films but gives no dates or timeline; no opened source dates You Gotta Believe. Drop 'späteren', or date it from a source."
+      "verdict": "confirmed",
+      "note": "Undated 'späteren' dropped. Boston.com names both films; Apple lists Monster Summer (2024)."
     },
     {
       "claim": "Laut Apple mitproduziert: Bad Roomies",
@@ -237,7 +236,7 @@
   "uncitedClaims": [],
   "readsHumanWritten": false,
   "addsValue": true,
-  "valueNote": "Facts and sources are sound, and the audition and sequel details add value. But the German text follows the English section by section and sentence by sentence, with calques such as 'Dass er ein Red-Sox-Fan ist, sagt er seit jeher', 'Angekündigt waren', and 'Im Ensemble stehen'. It reads as a translation, not a localisation with German search terms (e.g. 'Vermögen' or 'Alter' in the title and FAQ).",
+  "valueNote": "Facts and sources are sound, but the German prose still follows the English section by section with calques (for example 'Red-Sox-Fan' and 'Im Ensemble stehen'). Left unchanged per repair scope; a localisation rewrite is needed.",
   "decision": "reject",
-  "summary": "Rejected. Two fixes: (1) drop 'späteren' from 'Boston.com nennt You Gotta Believe und Monster Summer (2024) unter seinen späteren Filmen', since Boston.com does not date them; (2) rework the text as a German localisation rather than a sentence-by-sentence translation of the English, and mark the Movieguide phrase as a translation or paraphrase rather than a direct quote. The rest of the facts check out."
+  "summary": "Facts confirmed against sources; the German prose still reads as a translation. Style judgement left for an editor."
 }

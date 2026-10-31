@@ -11,9 +11,12 @@ summary: >-
   Hamilton "Ham" Porter em The Sandlot (1993). Nascido em Boston, em 1979, ele
   escreveu um livro infantil sobre beisebol, ajudou a fundar a produtora Hambino
   Media e lidera a série de comédia Dugout Dads, que chegou ao YouTube em 2026.
-status: review
+status: published
 risk: medium
+reviewedAt: '2026-10-31'
+reviewBy: '2027-05-01'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - patrick renna filmes
@@ -40,21 +43,9 @@ faq:
     a: >-
       Ele nasceu em Boston, Massachusetts, e diz que cresceu principalmente em
       Dorchester [s:boston-com-interview].
-reviewNotes: >-
-  UNSUPPORTED: "Boston.com cita You Gotta Believe e Monster Summer (2024) entre
-  os trabalhos posteriores" (Boston.com names both films but gives no dates or
-  timeline; no opened source dates You Gotta Believe. Drop 'posteriores', or
-  date it from a source. Apple lists Monster Summer (2024).) | UNSUPPORTED: "'a
-  estreia foi anunciada para o fim do ano'" (Source says 'slated to be released
-  later this year', not 'end of the year'. Change to 'mais adiante neste ano' or
-  'ainda em 2026'.) | Reviewer recommends rejection: Rejected for two minor
-  fixes. (1) 'entre os trabalhos posteriores' for You Gotta Believe and Monster
-  Summer is unsupported, since Boston.com gives no dates. Drop 'posteriores' or
-  cite a dated source. (2) 'a estreia foi anunciada para o fim do ano'
-  overstates EntertainmentNow's 'later this year'. Change it to 'mais adiante
-  neste ano'. Everything else checks out.
-autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+autoReviews: 4
+publishedAt: '2026-10-31'
+publishedTime: '2026-10-31T14:36:56.067Z'
 ---
 Nascido em Boston, em 3 de março de 1979 [s:apple-snapshot], Patrick Renna ficou conhecido sobretudo pelo papel de Hamilton "Ham" Porter em *The Sandlot* (1993). Desde então, publicou um livro infantil de beisebol, ajudou a criar uma produtora e está à frente de *Dugout Dads*, uma comédia que já pode ser vista no YouTube [s:penguin-book] [s:movieguide-hambino] [s:timeout-dugout-dads].
 
@@ -68,7 +59,7 @@ O filme estreou em 1993 [s:apple-snapshot], mas o relato de como ele conseguiu o
 
 ## Carreira no cinema depois de The Sandlot
 
-A Apple o descreve como ator americano [s:apple-snapshot]. Na ficha, ele aparece ao lado de Carla Gugino em *Son-in-Law* (1993) [s:apple-snapshot]. Também constam *The Big Green* (1995), *Lavalantula* e *You Gotta Believe*, além de *National Lampoon Presents: Dorm Daze* (2003) [s:apple-snapshot]. O Boston.com cita *You Gotta Believe* e *Monster Summer* (2024) entre os trabalhos posteriores dele [s:boston-com-interview] [s:apple-snapshot]. A Apple ainda o lista como produtor de *Bad Roomies* [s:apple-snapshot].
+A Apple o descreve como ator americano [s:apple-snapshot]. Na ficha, ele aparece ao lado de Carla Gugino em *Son-in-Law* (1993) [s:apple-snapshot]. Também constam *The Big Green* (1995), *Lavalantula* e *You Gotta Believe*, além de *National Lampoon Presents: Dorm Daze* (2003) [s:apple-snapshot]. O Boston.com cita *You Gotta Believe* e *Monster Summer* (2024) entre os trabalhos dele [s:boston-com-interview] [s:apple-snapshot]. A Apple ainda o lista como produtor de *Bad Roomies* [s:apple-snapshot].
 
 ## O livro de beisebol para crianças
 
@@ -76,10 +67,10 @@ Em 25 de fevereiro de 2025, a Penguin lançou uma edição digital de *A Little 
 
 ## A produtora Hambino Media
 
-Em fevereiro de 2025, Renna, Kyle Howard e Lynsey Bartilson Moore anunciaram a Hambino Media. A empresa tinha em andamento “um conjunto de projetos roteirizados e não roteirizados” [s:movieguide-hambino]. Entre os anúncios, havia dois projetos sem título com a Blind Nil, empresa de Chip e Joanna Gaines, e uma série sem título com a Golf Digest [s:movieguide-hambino]. *Dugout Dads* sai dessa mesma produtora, liderada por Renna e Howard [s:entertainmentnow-dugout-dads].
+Em fevereiro de 2025, Renna, Kyle Howard e Lynsey Bartilson Moore anunciaram a Hambino Media. A empresa tinha em andamento um conjunto de projetos roteirizados e não roteirizados [s:movieguide-hambino]. Entre os anúncios, havia dois projetos sem título com a Blind Nil, empresa de Chip e Joanna Gaines, e uma série sem título com a Golf Digest [s:movieguide-hambino]. *Dugout Dads* sai dessa mesma produtora, liderada por Renna e Howard [s:entertainmentnow-dugout-dads].
 
 ## Dugout Dads no YouTube
 
-Em junho de 2026, veio a público que Renna e Howard liderariam *Dugout Dads*, comédia em que Renna vive um pai que assume o time de Little League do filho. Na época, a estreia foi anunciada para o fim do ano, com mais detalhes a serem revelados [s:entertainmentnow-dugout-dads]. Em 29 de agosto de 2026, a Time Out informou que todos os episódios já estavam no YouTube [s:timeout-dugout-dads].
+Em junho de 2026, veio a público que Renna e Howard liderariam *Dugout Dads*, comédia em que Renna vive um pai que assume o time de Little League do filho. Na época, a estreia foi anunciada para mais adiante neste ano, com mais detalhes a serem revelados [s:entertainmentnow-dugout-dads]. Em 29 de agosto de 2026, a Time Out informou que todos os episódios já estavam no YouTube [s:timeout-dugout-dads].
 
 A Time Out a chama de comédia emocionante sobre um técnico novato de Little League [s:timeout-dugout-dads]. O roteiro é de Sebastian Jones e Dan Kopelman, e a direção, de Victor Nelli Jr. [s:timeout-dugout-dads]. No elenco estão antigos integrantes de *The Sandlot*: Tom Guiry, Chauncey Leopardi, Marty York, Brandon Quintin Adams, Victor DiMattia, Shane Obedzinski, Grant Gelt e Will Horneff. Nenhum deles repete o personagem original. Michael Peña e Danielle Fishel são as novidades [s:timeout-dugout-dads].

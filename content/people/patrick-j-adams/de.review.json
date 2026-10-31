@@ -3,168 +3,110 @@
   "model": "claude-haiku-5-5",
   "approved": false,
   "reasons": [
-    "UNSUPPORTED: \"'bis zum Ende der siebten Staffel' zu viel getrunken\" (Source says he was drinking too much, with no timing to the end of season seven. Delete 'bis zum Ende der siebten Staffel'.)",
-    "Reviewer recommends rejection: Nearly all claims check out against the opened sources. Reject for one unsupported detail: 'bis zum Ende der siebten Staffel' is not in the TVLine source (delete it). Also, the German text is built on English sources with no German-language sourcing or local context, so it needs localising before approval."
+    "Adds no value over existing pages: Follows the English article section by section with the same quotes and English-language sources. The only German-specific additions are the translated quotes and the wording of the metaTitle and FAQ, so it adds little beyond the English page for German readers. Style guide asks for localisation with German-language sources or local context.",
+    "Reviewer recommends rejection: All cited facts check out against the opened sources after the fixes. The wrong-source unsupported details ('ein paar Tage', 'Ehre', 'zum ersten Mal', 'passte nicht hinein' quote) were removed or rephrased. Rejection is for localisation only: it is a sentence-by-sentence translation of the English page with English-only sources."
   ],
   "claims": [
     {
-      "claim": "Geburtsdatum 27. August 1981, Toronto (Summary, Body, FAQ)",
+      "claim": "Am bekanntesten als Mike Ross in Suits, die beim Sender USA lief",
+      "sourceIds": [
+        "usc-sda-patrick-j-adams",
+        "tvseriesfinale-suits"
+      ],
+      "verdict": "confirmed",
+      "note": "USC: best known for Mike Ross on Suits; TV Series Finale: network USA."
+    },
+    {
+      "claim": "Geboren am 27. August 1981 in Toronto",
       "sourceIds": [
         "wikidata-q644565",
         "wikidata-q172"
       ],
       "verdict": "confirmed",
-      "note": "Wikidata Q644565 shows 27 August 1981 and Toronto; Q172 is Toronto, Ontario. Precision not displayed on the page."
+      "note": "Wikidata: 27 August 1981, Toronto."
     },
     {
-      "claim": "Kanadischer Schauspieler; Staatsbürgerschaft Kanada",
+      "claim": "Wikidata führt Kanada als Staat der Staatsbürgerschaft",
       "sourceIds": [
-        "wikidata-q644565",
         "wikidata-q16"
       ],
       "verdict": "confirmed",
-      "note": "Wikidata lists country of citizenship Canada and occupation actor."
+      "note": "Wikidata country of citizenship: Canada."
     },
     {
-      "claim": "Mike Ross in Suits, Sender USA, 23. Juni 2011 bis 25. September 2019, neun Staffeln, 134 Folgen",
-      "sourceIds": [
-        "tvseriesfinale-suits",
-        "usc-sda-patrick-j-adams"
-      ],
-      "verdict": "confirmed",
-      "note": "TV Series Finale: network USA, June 23 2011 to September 25 2019, nine seasons, 134 episodes, Mike Ross played by Patrick J. Adams."
-    },
-    {
-      "claim": "USC-Profil nennt Pillow Talk, Room for Rent, Old School, Rosemary's Baby",
+      "claim": "USC-Profil nennt Pillow Talk, Room for Rent, Old School und Rosemary's Baby",
       "sourceIds": [
         "usc-sda-patrick-j-adams"
       ],
       "verdict": "confirmed",
-      "note": "USC page lists these credits."
+      "note": "All four titles are in the USC credits list."
     },
     {
-      "claim": "SAG-Award-Nominierung als herausragender Darsteller in einer Dramaserie; Jahr und Gewinn nicht genannt",
+      "claim": "Suits lief 23. Juni 2011 bis 25. September 2019 beim Sender USA, neun Staffeln, 134 Folgen",
+      "sourceIds": [
+        "tvseriesfinale-suits"
+      ],
+      "verdict": "confirmed",
+      "note": "Dates, nine seasons, 134 episodes, network USA."
+    },
+    {
+      "claim": "Nominierung für den Screen Actors Guild Award als herausragender Darsteller in einer Dramaserie",
       "sourceIds": [
         "usc-sda-patrick-j-adams"
       ],
       "verdict": "confirmed",
-      "note": "USC says nomination for outstanding actor in a drama series, no year, no win stated. The article's caveat is accurate."
+      "note": "USC: SAG Award nomination for outstanding actor in a drama series."
     },
     {
-      "claim": "The Madison: Adams spielt Russell McIntosh; Pfeiffer und Russell als Stacy und Preston Clyburn; Fox als Paul, Arnett als Phil Yorn",
+      "claim": "USC-Seite nennt weder das Jahr der Nominierung noch ob er gewonnen hat",
       "sourceIds": [
-        "paramount-madison-cast"
+        "usc-sda-patrick-j-adams"
       ],
       "verdict": "confirmed",
-      "note": "All roles match the Paramount+ cast page."
-    },
-    {
-      "claim": "Take Me Out: Ende am 11. Juni 2022 im Hayes Theatre; Tony als bestes Revival, BroadwayWorld-Bericht vom 12. Juni 2022, Adams unter den Darstellern ohne Rollenangabe",
-      "sourceIds": [
-        "broadwayworld-take-me-out-tony"
-      ],
-      "verdict": "confirmed",
-      "note": "Byline Jun. 12, 2022; closed June 11 at the Hayes Theatre; Best Revival of a Play; Adams named in cast list without role."
-    },
-    {
-      "claim": "Take Me Out: Darsteller nackt jeden Abend",
-      "sourceIds": [
-        "justjared-take-me-out-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "Adams: cast 'had to be naked every night'."
-    },
-    {
-      "claim": "Rolle so intensiv, dass er jeden Abend aus seinem Körper heraus musste",
-      "sourceIds": [
-        "justjared-take-me-out-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "Paraphrase of 'I actually truly had to leave my body every night'. Acceptable as translation, not in quote marks."
-    },
-    {
-      "claim": "Zweifel wegen Panikattacken auf der Bühne",
-      "sourceIds": [
-        "justjared-take-me-out-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "Article says he was referring to having panic attacks on stage."
-    },
-    {
-      "claim": "Anfrage als Ehre, nicht gewusst, ob er sie bewältigt",
-      "sourceIds": [
-        "justjared-take-me-out-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "Re-checked: 'it would be an honor' and 'I just don't know that I can do it'."
-    },
-    {
-      "claim": "Regisseur Scott Ellis: dies sei seine Chance, das in den Griff zu bekommen (paraphrase, no quote marks)",
-      "sourceIds": [
-        "justjared-take-me-out-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "Source: 'this is your chance to fix that, essentially'. Paraphrase is faithful."
-    },
-    {
-      "claim": "Adams gab zu, er sei natürlich verängstigt gewesen",
-      "sourceIds": [
-        "justjared-take-me-out-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "'I was terrified, obviously'."
+      "note": "No year or result given on the page."
     },
     {
       "claim": "Nach der siebten Staffel stieg Adams aus",
       "sourceIds": [
-        "tvline-suits-exit",
-        "justjared-suits-exit-2024"
+        "tvline-suits-exit"
       ],
       "verdict": "confirmed",
-      "note": "Just Jared: season 7 was his last."
+      "note": "Exited after seven seasons."
     },
     {
-      "claim": "Ende der ersten Hälfte der sechsten Staffel erstmals ans Gehen gedacht, nachdem Mike aus dem Gefängnis entlassen wurde",
-      "sourceIds": [
-        "justjared-suits-exit-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "Source says he started thinking about leaving at the end of the first half of season six, after Mike's release."
-    },
-    {
-      "claim": "Zitat: 'Wir haben seine Geschichte erzählt ... Mike ist einfach nur ein weiterer Anwalt im Fernsehen'",
+      "claim": "Ende der ersten Hälfte der sechsten Staffel ans Gehen gedacht, nachdem Mike aus dem Gefängnis entlassen worden war",
       "sourceIds": [
         "justjared-suits-exit-2024"
       ],
       "verdict": "confirmed",
-      "note": "Matches the source quote in substance (German rendering)."
+      "note": "Quote: started thinking about leaving at the end of the first half of season six, after Mike was released from prison. 'zum ersten Mal' was removed as unsupported."
     },
     {
-      "claim": "Podcast Dinner's On Me mit Jesse Tyler Ferguson; schlechte psychische Gesundheit, zu viel getrunken",
+      "claim": "'Wir haben seine Geschichte erzählt ... Mike ist einfach nur ein weiterer Anwalt im Fernsehen' (2018 THR interview)",
+      "sourceIds": [
+        "justjared-suits-exit-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Verbatim English quote confirmed; German is a translation of it."
+    },
+    {
+      "claim": "Podcast Dinner's On Me mit Jesse Tyler Ferguson: nicht gut auf psychische Gesundheit geachtet, bis zum Ende der siebten Staffel zu viel getrunken",
       "sourceIds": [
         "tvline-suits-exit"
       ],
       "verdict": "confirmed",
-      "note": "Podcast, Ferguson, mental health and drinking confirmed."
+      "note": "Source: 'I wasn't taking good care of my mental health, and I was drinking too much [by] the end of Season 7'. The timing is in the source, so the reviewer's flag does not hold; the bracket is the article's own insertion."
     },
     {
-      "claim": "'bis zum Ende der siebten Staffel' zu viel getrunken",
-      "sourceIds": [
-        "tvline-suits-exit"
-      ],
-      "verdict": "unsupported",
-      "note": "Source says he was drinking too much, with no timing to the end of season seven. Delete 'bis zum Ende der siebten Staffel'."
-    },
-    {
-      "claim": "Ziemlich unglücklich und deprimiert; fehlendes Rüstzeug gegen die Depression",
+      "claim": "Beschrieb sich als ziemlich unglücklich und deprimiert, ohne Rüstzeug gegen die Depression",
       "sourceIds": [
         "tvline-suits-exit"
       ],
       "verdict": "confirmed",
-      "note": "'pretty miserable', 'pretty depressed', 'didn't have the tools to deal with that depression'."
+      "note": "'pretty miserable', 'pretty depressed', 'I didn't have the tools to deal with that depression'."
     },
     {
-      "claim": "Trinken belastet die Beziehung, ganz sicher",
+      "claim": "Trinken belastet seine Beziehung",
       "sourceIds": [
         "tvline-suits-exit"
       ],
@@ -172,7 +114,7 @@
       "note": "'taking a toll on my relationship, for sure'."
     },
     {
-      "claim": "Einziger Grund zu bleiben war das Geld",
+      "claim": "Als einzigen Grund zu bleiben nannte er das Geld",
       "sourceIds": [
         "tvline-suits-exit"
       ],
@@ -180,30 +122,29 @@
       "note": "'the only reason to stay was... money'."
     },
     {
-      "claim": "Bereut keine Sekunde; 'Es war das Richtige für meine Ehe ... Es war Zeit'",
+      "claim": "'Es war das Richtige für meine Ehe ... Es war Zeit'; Bereut keine Sekunde",
       "sourceIds": [
         "tvline-suits-exit"
       ],
       "verdict": "confirmed",
-      "note": "Matches source quote."
+      "note": "Quotes confirmed; 'never regretted the decision for a second'."
     },
     {
-      "claim": "Verheiratet mit Schauspielerin Troian Bellisario",
+      "claim": "Verheiratet mit der Schauspielerin Troian Bellisario",
       "sourceIds": [
-        "justjared-suits-exit-2024",
-        "tvline-suits-exit"
+        "justjared-suits-exit-2024"
       ],
       "verdict": "confirmed",
-      "note": "Just Jared calls her his now-wife; TVLine says married to Troian Bellisario."
+      "note": "Article identifies the now-wife as Troian Bellisario."
     },
     {
-      "claim": "John Glenn in The Right Stuff, Disney+-Serie über die Mercury Seven",
+      "claim": "Nach Suits Rolle des John Glenn in The Right Stuff, Disney+-Serie über die Mercury Seven",
       "sourceIds": [
         "d23-right-stuff-glenn",
         "tvline-right-stuff-preview"
       ],
       "verdict": "confirmed",
-      "note": "TVLine: plays astronaut John Glenn in Disney+ series based on Tom Wolfe's book."
+      "note": "D23 names him as Major John Glenn and the Disney+ series; Mercury Seven referenced."
     },
     {
       "claim": "Erste Person, die für die Serie besetzt wurde",
@@ -211,7 +152,7 @@
         "tvline-right-stuff-preview"
       ],
       "verdict": "confirmed",
-      "note": "'I think I was the first person cast.' Stated as his belief in the article."
+      "note": "'I think I was the first person cast.'"
     },
     {
       "claim": "'Ich hatte, ehrlich gesagt, große Angst'",
@@ -219,15 +160,39 @@
         "tvline-right-stuff-preview"
       ],
       "verdict": "confirmed",
-      "note": "Source: 'I had a lot of fear, to be honest.' Faithful German rendering in quote marks; acceptable."
+      "note": "'I had a lot of fear, to be honest.'"
     },
     {
-      "claim": "Glenn Außenseiter der Mercury Seven, 'passte nicht hinein'",
+      "claim": "Glenn Außenseiter unter den Mercury Seven, nicht weil er der Beste war",
       "sourceIds": [
         "tvline-right-stuff-preview"
       ],
       "verdict": "confirmed",
-      "note": "'the odd man out', 'He didn't fit in'."
+      "note": "Source: 'the odd man out of the Mercury Seven, and not because he was the best'. The earlier German quotation marks were removed."
+    },
+    {
+      "claim": "Ohio-State-Archiv mit Glenns Unterlagen: Hunderte und Aberhunderte Kisten",
+      "sourceIds": [
+        "d23-right-stuff-glenn"
+      ],
+      "verdict": "confirmed",
+      "note": "'hundreds and hundreds of boxes of stuff'."
+    },
+    {
+      "claim": "Glenns Leben außergewöhnlich gut dokumentiert; vertiefte sich in alles",
+      "sourceIds": [
+        "d23-right-stuff-glenn"
+      ],
+      "verdict": "confirmed",
+      "note": "'John Glenn's life is incredibly well-documented'; 'I went through it all'."
+    },
+    {
+      "claim": "Stücke als 'Angelpunkte' genutzt; Imitation bewusst verworfen",
+      "sourceIds": [
+        "d23-right-stuff-glenn"
+      ],
+      "verdict": "confirmed",
+      "note": "'linchpins' and moved away from doing an impression."
     },
     {
       "claim": "'Das ist es, worauf ich gewartet habe'",
@@ -235,93 +200,158 @@
         "tvline-right-stuff-preview"
       ],
       "verdict": "confirmed",
-      "note": "'This is what I've been waiting for'."
+      "note": "'I just went, This is what I've been waiting for'. Translation of the quote."
     },
     {
-      "claim": "Ohio State Archiv mit Hunderten Kisten",
+      "claim": "Take Me Out Vorstellungen endeten am 11. Juni 2022 im Hayes Theatre",
       "sourceIds": [
-        "d23-right-stuff-glenn"
+        "broadwayworld-take-me-out-tony"
       ],
       "verdict": "confirmed",
-      "note": "'hundreds and hundreds of boxes'."
+      "note": "'closed yesterday, June 11, at the Hayes Theatre'."
     },
     {
-      "claim": "Ein paar Tage Suche nach den wichtigsten Stücken",
+      "claim": "BroadwayWorld-Bericht vom 12. Juni 2022 meldet den Tony als bestes Revival eines Theaterstücks",
       "sourceIds": [
-        "d23-right-stuff-glenn"
+        "broadwayworld-take-me-out-tony"
       ],
       "verdict": "confirmed",
-      "note": "'a couple of days trying to find some key pieces'."
+      "note": "Article dated Jun. 12, 2022."
     },
     {
-      "claim": "Glenns Leben außergewöhnlich gut dokumentiert",
+      "claim": "Bericht nennt Adams unter den Darstellern ohne Rolle",
       "sourceIds": [
-        "d23-right-stuff-glenn"
+        "broadwayworld-take-me-out-tony"
       ],
       "verdict": "confirmed",
-      "note": "'incredibly well-documented'."
+      "note": "Cast list includes Patrick J. Adams with no role given."
     },
     {
-      "claim": "Verwarf die Idee, Glenn imitieren zu müssen",
+      "claim": "Darsteller traten jeden Abend nackt auf",
       "sourceIds": [
-        "d23-right-stuff-glenn"
+        "justjared-take-me-out-2024"
       ],
       "verdict": "confirmed",
-      "note": "'moved away from the idea of having to do an impression'."
+      "note": "'in a play where we had to be naked every night' (Adams's words)."
     },
     {
-      "claim": "Facebook-Seite 'R.I.P. Patrick J. Adams', Tod am Donnerstag 29. Oktober 2026 gegen 11 Uhr Ostküstenzeit",
+      "claim": "'dass ich glaube, ich musste jeden Abend wirklich aus meinem Körper heraus'",
+      "sourceIds": [
+        "justjared-take-me-out-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact English quote, translated."
+    },
+    {
+      "claim": "Zweifel vor der Rolle auf Panikattacken auf der Bühne bezogen",
+      "sourceIds": [
+        "justjared-take-me-out-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Article: referring to having panic attacks on stage."
+    },
+    {
+      "claim": "Scott Ellis sagte, dies sei seine Chance, das in den Griff zu bekommen",
+      "sourceIds": [
+        "justjared-take-me-out-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "'this is your chance to fix that, essentially'."
+    },
+    {
+      "claim": "Adams gab zu, natürlich verängstigt gewesen zu sein",
+      "sourceIds": [
+        "justjared-take-me-out-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "'And so I was terrified, obviously'."
+    },
+    {
+      "claim": "In The Madison spielt Adams Russell McIntosh",
+      "sourceIds": [
+        "paramount-madison-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Cast list."
+    },
+    {
+      "claim": "Pfeiffer und Russell spielen Stacy und Preston Clyburn; Matthew Fox als Paul Clyburn, Will Arnett als Phil Yorn",
+      "sourceIds": [
+        "paramount-madison-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Starring cast list names all four."
+    },
+    {
+      "claim": "Facebook-Seite 'R.I.P. Patrick J. Adams' behauptete Tod am 29. Oktober 2026 gegen 11 Uhr ET",
       "sourceIds": [
         "mediamass-death-hoax"
       ],
       "verdict": "confirmed",
-      "note": "Page text matches."
+      "note": "'At about 11 a.m. ET on Thursday (October 29, 2026)'."
     },
     {
-      "claim": "Fast eine Million Likes",
+      "claim": "Fast eine Million Likes; kein großer kanadischer Sender hatte berichtet",
       "sourceIds": [
         "mediamass-death-hoax"
       ],
       "verdict": "confirmed",
-      "note": "'nearly one million of likes'."
+      "note": "'nearly one million' likes; skeptics noted no major Canadian network."
     },
     {
-      "claim": "Kein großer kanadischer Sender verbreitete die Nachricht",
+      "claim": "Am 30. Oktober Vertreter: 'Er lebt noch und ist wohlauf ...'",
       "sourceIds": [
         "mediamass-death-hoax"
       ],
       "verdict": "confirmed",
-      "note": "Skeptics noted this."
+      "note": "English quote translated."
     },
     {
-      "claim": "Vertreter am 30. Oktober: 'Er lebt noch und ist wohlauf...'",
+      "claim": "Aktualisierung vom 31. Oktober 2026: Geschichte scheine falsch zu sein",
       "sourceIds": [
         "mediamass-death-hoax"
       ],
       "verdict": "confirmed",
-      "note": "Matches the representatives' statement."
+      "note": "'This story seems to be false.'"
     },
     {
-      "claim": "Aktualisierung vom 31. Oktober 2026: Geschichte scheint falsch",
-      "sourceIds": [
-        "mediamass-death-hoax"
-      ],
-      "verdict": "confirmed",
-      "note": "'UPDATE 31/10/2026: This story seems to be false.'"
-    },
-    {
-      "claim": "FAQ: Alter 45 im August 2026",
+      "claim": "FAQ: 45 Jahre alt im August 2026",
       "sourceIds": [
         "wikidata-q644565"
       ],
       "verdict": "confirmed",
-      "note": "Born 27 August 1981, so 45 from 27 August 2026. Correct as of 31 October 2026."
+      "note": "Birthdate arithmetic correct."
+    },
+    {
+      "claim": "FAQ: Facebook-Seite behauptete am 29. Oktober 2026 Tod; Vertreter am 30. Oktober: lebt und wohlauf",
+      "sourceIds": [
+        "mediamass-death-hoax"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches source."
+    },
+    {
+      "claim": "FAQ: Ausstieg bei Suits im Podcast als das Richtige für seine Ehe",
+      "sourceIds": [
+        "tvline-suits-exit"
+      ],
+      "verdict": "confirmed",
+      "note": "'It was the right thing for my marriage'."
+    },
+    {
+      "claim": "FAQ: Nach der siebten Staffel; psychische Gesundheit, zu viel getrunken, Geschichte von Mike Ross erzählt",
+      "sourceIds": [
+        "tvline-suits-exit",
+        "justjared-suits-exit-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches both sources."
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": true,
-  "addsValue": true,
-  "valueNote": "Adds a sourced timeline of the Suits exit, the Right Stuff prep and the hoax correction, with the Take Me Out details. Sources are almost all English-language press and primary bodies; no German-language source is used, and the German text follows the English structure closely, which the style guide says needs localising.",
+  "addsValue": false,
+  "valueNote": "Follows the English article section by section with the same quotes and English-language sources. The only German-specific additions are the translated quotes and the wording of the metaTitle and FAQ, so it adds little beyond the English page for German readers. Style guide asks for localisation with German-language sources or local context.",
   "decision": "reject",
-  "summary": "Nearly all claims check out against the opened sources. Reject for one unsupported detail: 'bis zum Ende der siebten Staffel' is not in the TVLine source (delete it). Also, the German text is built on English sources with no German-language sourcing or local context, so it needs localising before approval."
+  "summary": "All cited facts check out against the opened sources after the fixes. The wrong-source unsupported details ('ein paar Tage', 'Ehre', 'zum ersten Mal', 'passte nicht hinein' quote) were removed or rephrased. Rejection is for localisation only: it is a sentence-by-sentence translation of the English page with English-only sources."
 }

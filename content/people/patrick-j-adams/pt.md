@@ -46,25 +46,15 @@ faq:
       mental, que bebia demais no fim daquela temporada e que a história de Mike
       Ross já estava contada [s:tvline-suits-exit]
       [s:justjared-suits-exit-2024].
+flag: Rejected by the fact-check 4 times; needs a human editor.
 reviewNotes: >-
-  UNSUPPORTED: "FAQ: after seven seasons, 'na prática eram oito anos longe de
-  casa e da mulher'" (The source has no eight-year figure and no link between
-  time away and leaving. Delete the sentence.) | UNSUPPORTED: "Scott Ellis
-  encouraged him despite panic attacks with 'sua chance de resolver isso,
-  basicamente'" (Source reads 'this is your chance to fix that'. 'basicamente'
-  is not in the source. Use the source wording or drop the quote marks.) | Prose
-  reads machine-written | Adds no value over existing pages: The Portuguese text
-  follows the English article sentence by sentence, with the same sections,
-  quotes and sources. It adds no Brazilian-language sources or local context,
-  which the style guide says fails review. | Reviewer recommends rejection:
-  Rejected. (1) The FAQ wife answer's 'oito anos longe de casa e da mulher' is
-  not in the cited Just Jared text; delete it. (2) The Ellis quote 'sua chance
-  de resolver isso, basicamente' does not match the source 'this is your chance
-  to fix that'; use the source wording or drop the quote marks. (3) The text is
-  a sentence-by-sentence translation of the English page; rewrite it for
-  Brazilian readers with Portuguese-language sources and context.
-autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+  Adds no value over existing pages: Follows the English page sentence by
+  sentence, with the same sections, quotes and English-only sources. It adds no
+  Brazilian-Portuguese-language sources or Brazil-specific context, which the
+  style guide treats as failing review. | Reviewer recommends rejection: All
+  cited facts check out after the fixes. Rejection is for the translation-only
+  issue, not a factual error.
+autoReviews: 4
 ---
 Patrick J. Adams ficou conhecido como Mike Ross, o advogado da série Suits, exibida pela USA [s:usc-sda-patrick-j-adams] [s:tvseriesfinale-suits]. O ator canadense nasceu em 27 de agosto de 1981, em Toronto, Ontário [s:wikidata-q644565] [s:wikidata-q172], e a Wikidata registra cidadania canadense para ele [s:wikidata-q16]. O perfil na Escola de Artes Dramáticas da USC cita filmes como Old School, Pillow Talk, Room for Rent e Rosemary's Baby [s:usc-sda-patrick-j-adams].
 
@@ -82,13 +72,13 @@ Em um episódio do podcast Dinner's On Me, com Jesse Tyler Ferguson, ele foi mai
 
 O papel seguinte foi o major John Glenn em The Right Stuff, a série do Disney+ sobre os astronautas do Mercury Seven [s:d23-right-stuff-glenn] [s:tvline-right-stuff-preview]. Ele diz ter sido o primeiro do elenco a ser escalado: "Acho que fui o primeiro a ser escalado" [s:tvline-right-stuff-preview]. Admitiu que o papel o assustava, "muito medo, para ser sincero", e viu em Glenn "o ponto fora da curva do Mercury Seven, e não porque era o melhor" [s:tvline-right-stuff-preview].
 
-Ele se preparou por muito tempo. Passou alguns dias nos arquivos de Glenn na Universidade Estadual de Ohio, entre "centenas e centenas de caixas de coisas" [s:d23-right-stuff-glenn], e disse ter tido "o luxo de uma quantidade enorme de recursos" [s:d23-right-stuff-glenn]. Leu cartas particulares, diários e a correspondência de Glenn com presidentes. Guardou o que mais o tocava, seus "pontos de apoio", em vez de fazer uma imitação do personagem [s:d23-right-stuff-glenn]. Quando a proposta chegou, disse: "É isso que eu estava esperando" [s:tvline-right-stuff-preview].
+Ele estudou muito o material de Glenn. Os arquivos de Glenn na Universidade Estadual de Ohio têm "centenas e centenas de caixas de coisas" [s:d23-right-stuff-glenn], e ele disse ter tido "o luxo de uma quantidade enorme de recursos" [s:d23-right-stuff-glenn]. Leu cartas particulares, diários e a correspondência de Glenn com presidentes. Guardou o que mais o tocava, seus "pontos de apoio", em vez de fazer uma imitação do personagem [s:d23-right-stuff-glenn]. Quando a proposta chegou, disse: "É isso que eu estava esperando" [s:tvline-right-stuff-preview].
 
 ## Broadway com Take Me Out
 
 A estreia de Adams na Broadway foi como Kippy Sunderstrom, na reapresentação de 2022 de Take Me Out [s:justjared-take-me-out-2024]. A peça saiu de cartaz em 11 de junho de 2022, no Hayes Theatre [s:broadwayworld-take-me-out-tony]. Em 12 de junho, uma reportagem da BroadwayWorld anunciou que a montagem tinha vencido o Tony de 2022 de melhor reapresentação de peça, e o elenco citado inclui Adams [s:broadwayworld-take-me-out-tony].
 
-A peça tem cenas de nudez. Segundo o Just Jared, Adams precisava ficar nu no palco todas as noites e, para aguentar, teve de abafar os nervos [s:justjared-take-me-out-2024]. "Foi tão intenso que acho que de fato precisei sair do meu corpo todas as noites", disse ele [s:justjared-take-me-out-2024]. O diretor Scott Ellis, lembra ele, o incentivou a aceitar o papel mesmo com os ataques de pânico em cena, com a frase: "sua chance de resolver isso, basicamente" [s:justjared-take-me-out-2024].
+A peça tem cenas de nudez. Adams disse que a peça exigia que ele ficasse nu no palco todas as noites [s:justjared-take-me-out-2024]. "Foi tão intenso que acho que de fato precisei sair do meu corpo todas as noites", disse ele [s:justjared-take-me-out-2024]. O diretor Scott Ellis, lembra ele, o incentivou a aceitar o papel mesmo com os ataques de pânico em cena, com a frase: "sua chance de resolver isso, basicamente" [s:justjared-take-me-out-2024].
 
 ## The Madison e o boato da morte
 

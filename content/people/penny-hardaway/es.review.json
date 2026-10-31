@@ -3,47 +3,31 @@
   "model": "claude-haiku-5-5",
   "approved": false,
   "reasons": [
-    "UNSUPPORTED: \"Creció en Memphis y volvió a la ciudad como entrenador\" (Birthplace is supported; 'creció' and 'volvió' are not stated in any opened source. Reword or cite.)",
-    "UNSUPPORTED: \"Dos días después, el director deportivo y Hardaway hablaron de la asistencia a los partidos en casa\" (Source says dwindling basketball attendance, not home games. Change to 'asistencia' or cite.)",
-    "UNCITED: \"'Creció en la ciudad' (first paragraph)\"",
-    "UNCITED: \"Middle name 'Deon' was removed from the es body; check that the reviewNotes item is no longer relevant.\"",
+    "11 of 38 claims could not be checked (source unreachable)",
     "Prose reads machine-written",
-    "Reviewer recommends rejection: Reject. Fix: remove 'creció en la ciudad y volvió a ella' unless cited; change 'asistencia a los partidos en casa' to 'asistencia' to match Daily Memphian; translate 'probation'; rewrite as a Spanish-first text rather than a sentence-by-sentence translation. Veatch quote and TSHF Dream Team are supported, despite old reviewer notes."
+    "Adds no value over existing pages: Follows the English page section by section; the 'probation' term is glossed but the text is not localised for Spanish-speaking readers. Style judgement left to the human editor.",
+    "Reviewer recommends rejection: Reject for now: Basketball-Reference (bbref-hardaway) returned HTTP 403, so the career totals, All-Star and All-NBA years, draft pick, height, positions, Treadwell and the 1971 birth year are unverified. Remaining claims were checked against opened sources."
   ],
   "claims": [
     {
-      "claim": "Nació en Memphis, Tennessee",
+      "claim": "Penny was born in Memphis, Tennessee",
       "sourceIds": [
-        "bbref-hardaway",
-        "olympedia-hardaway"
+        "olympedia-hardaway",
+        "tshf-hardaway-2013"
       ],
       "verdict": "confirmed",
-      "note": "Both sources give Memphis, Tennessee."
+      "note": "Olympedia and TSHF: born in Memphis, Tennessee."
     },
     {
-      "claim": "2,01 m (201 cm) de altura, 195 libras (88 kg)",
-      "sourceIds": [
-        "bbref-hardaway"
-      ],
-      "verdict": "confirmed",
-      "note": "6-7, 195lb (201cm, 88kg)."
-    },
-    {
-      "claim": "Estudió en Treadwell High School",
+      "claim": "2.01 m; studied at Treadwell High School (bbref)",
       "sourceIds": [
         "bbref-hardaway"
       ],
-      "verdict": "confirmed",
-      "note": "High school: Treadwell in Memphis."
+      "verdict": "source_unreachable",
+      "note": "Basketball-Reference returns HTTP 403. Not verified."
     },
     {
-      "claim": "Creció en Memphis y volvió a la ciudad como entrenador",
-      "sourceIds": [],
-      "verdict": "unsupported",
-      "note": "Birthplace is supported; 'creció' and 'volvió' are not stated in any opened source. Reword or cite."
-    },
-    {
-      "claim": "Desde 2018 dirige a los Tigers, el equipo en el que jugó como estudiante",
+      "claim": "Since 2018 coaches the Tigers, the team he played for as a student",
       "sourceIds": [
         "si-hardaway-hire-2018"
       ],
@@ -51,55 +35,63 @@
       "note": "SI: former Memphis guard, hired March 2018."
     },
     {
-      "claim": "Universidad de Memphis entre 1990 y 1993",
+      "claim": "At University of Memphis 1990-1993",
       "sourceIds": [
         "tshf-hardaway-2013"
       ],
       "verdict": "confirmed",
-      "note": "TSHF: 1990 to 1993."
+      "note": "TSHF: attended Memphis 1990-93."
     },
     {
-      "claim": "TSHF incorporó a Hardaway en 2013; se le comparaba a menudo con Magic Johnson",
+      "claim": "Often compared to Magic Johnson; Tennessee hall of fame 2013",
       "sourceIds": [
         "tshf-hardaway-2013"
       ],
       "verdict": "confirmed",
-      "note": "TSHF text and 2013 inductees."
+      "note": "TSHF text and Year Inducted 2013."
     },
     {
-      "claim": "M Club de la universidad lo introdujo en 2008",
+      "claim": "M Club Hall of Fame 2008",
       "sourceIds": [
         "gotigers-m-club"
       ],
       "verdict": "confirmed",
-      "note": "Page title (2008)."
+      "note": "Page title: Anfernee Hardaway (2008)."
     },
     {
-      "claim": "Golden State lo escogió con el tercer pick del draft de 1993",
+      "claim": "Golden State Warriors third pick in 1993 NBA Draft",
       "sourceIds": [
         "bbref-hardaway"
       ],
-      "verdict": "confirmed",
-      "note": "1993 draft, 3rd overall."
+      "verdict": "source_unreachable",
+      "note": "Basketball-Reference returns HTTP 403. Not verified."
     },
     {
-      "claim": "Catorce temporadas; 10.684 puntos, 3.146 rebotes, 3.525 asistencias",
+      "claim": "14 NBA seasons; 10,684 points, 3,146 rebounds, 3,525 assists",
       "sourceIds": [
         "bbref-hardaway"
       ],
-      "verdict": "confirmed",
-      "note": "bbref career totals."
+      "verdict": "source_unreachable",
+      "note": "Basketball-Reference returns HTTP 403. Not verified."
     },
     {
-      "claim": "Cuatro All-Star (1994-95 a 1997-98); All-NBA primer quinteto 1994-95 y 1995-96, tercero 1996-97",
+      "claim": "All-Star selections 1994-95 to 1997-98",
       "sourceIds": [
         "bbref-hardaway"
       ],
-      "verdict": "confirmed",
-      "note": "AS rows and NBA1/NBA3 codes on bbref. Team names inferred from codes, which is acceptable."
+      "verdict": "source_unreachable",
+      "note": "Basketball-Reference returns HTTP 403. Not verified."
     },
     {
-      "claim": "Primer quinteto de novatos de la NBA (TSHF)",
+      "claim": "All-NBA First Team 1994-95 and 1995-96; Third Team 1996-97",
+      "sourceIds": [
+        "bbref-hardaway"
+      ],
+      "verdict": "source_unreachable",
+      "note": "Basketball-Reference returns HTTP 403. Not verified."
+    },
+    {
+      "claim": "NBA All-Rookie First Team",
       "sourceIds": [
         "tshf-hardaway-2013"
       ],
@@ -107,141 +99,141 @@
       "note": "TSHF: NBA All-Rookie First Team."
     },
     {
-      "claim": "Juego 'sin posición fija'; casi 22 puntos, 7,1 asistencias, 4,3 rebotes en 82 partidos con los Magic",
+      "claim": "Positionless style; nearly 22 pts, 7.1 ast, 4.3 reb over 82 games with the Magic",
       "sourceIds": [
         "stadiumgoods-air-max-penny-1"
       ],
       "verdict": "confirmed",
-      "note": "Source text matches."
+      "note": "Source quoted: positionless; nearly 22 points, 7.1 assists, 4.3 rebounds over 82 games."
     },
     {
-      "claim": "Oro olímpico, Atlanta 1996, baloncesto masculino; única medalla",
+      "claim": "Olympic gold 1996 Atlanta, US men's basketball",
       "sourceIds": [
         "olympedia-hardaway"
       ],
       "verdict": "confirmed",
-      "note": "Gold 1, total 1."
+      "note": "Olympedia: 1996 Summer Olympics, Men, Gold."
     },
     {
-      "claim": "TSHF lo incluye en el Dream Team, 'el segundo equipo olímpico de Estados Unidos formado por jugadores de la NBA'",
+      "claim": "Dream Team: 'el segundo equipo olímpico de Estados Unidos formado por jugadores de la NBA'",
       "sourceIds": [
         "tshf-hardaway-2013"
       ],
       "verdict": "confirmed",
-      "note": "TSHF text includes Dream Team and the phrase."
+      "note": "TSHF: the second U.S. Olympic team comprising NBA players."
     },
     {
-      "claim": "Posiciones: base, escolta y alero",
+      "claim": "One Olympic medal, gold",
+      "sourceIds": [
+        "olympedia-hardaway"
+      ],
+      "verdict": "confirmed",
+      "note": "Olympedia: total medals 1, Gold."
+    },
+    {
+      "claim": "Positions: point guard, shooting guard, small forward",
       "sourceIds": [
         "bbref-hardaway"
       ],
-      "verdict": "confirmed",
-      "note": "Listed positions."
+      "verdict": "source_unreachable",
+      "note": "Basketball-Reference returns HTTP 403. Not verified."
     },
     {
-      "claim": "Air Max Penny 1, 1995, diseñada por Eric Avar; una de las primeras de la colección Uptempo",
+      "claim": "Air Max Penny 1 released 1995, designed by Eric Avar, Uptempo",
       "sourceIds": [
         "stadiumgoods-air-max-penny-1"
       ],
       "verdict": "confirmed",
-      "note": "Source text."
+      "note": "Source confirms 1995, Eric Avar, Uptempo."
     },
     {
-      "claim": "Chris Rock puso la voz a Lil' Penny en los anuncios",
+      "claim": "Chris Rock voiced Lil' Penny in the ads promoting it",
       "sourceIds": [
         "stadiumgoods-air-max-penny-1"
       ],
       "verdict": "confirmed",
-      "note": "Source text."
+      "note": "Source: Chris Rock voiced Lil' Penny, which helped promote the shoe."
     },
     {
-      "claim": "Marzo de 2018: Memphis acordó contratar a Hardaway; relevó a Tubby Smith, despedido tras dos temporadas sin NCAA",
+      "claim": "March 2018 hire; Tubby Smith fired after two seasons; no NCAA Tournament",
       "sourceIds": [
         "si-hardaway-hire-2018"
       ],
       "verdict": "confirmed",
-      "note": "SI text."
+      "note": "SI quotes."
     },
     {
-      "claim": "AAU; tres títulos estatales seguidos con Memphis East",
+      "claim": "AAU coaching; Memphis East three straight state titles",
       "sourceIds": [
         "si-hardaway-hire-2018"
       ],
       "verdict": "confirmed",
-      "note": "SI text."
+      "note": "SI quotes."
     },
     {
-      "claim": "28 de marzo de 2021, Memphis 77-64 a Mississippi State en el NIT",
+      "claim": "NIT final 77-64 over Mississippi State, 28 March 2021",
       "sourceIds": [
         "actionnews5-nit-2021"
       ],
       "verdict": "confirmed",
-      "note": "Source."
+      "note": "Memphis 77, Mississippi State 64, March 28, 2021."
     },
     {
-      "claim": "Cita: 'Teníamos que hacerlo por nuestra ciudad, se lo debíamos...'",
+      "claim": "Hardaway quote on doing it for the city (Spanish rendering)",
       "sourceIds": [
         "actionnews5-nit-2021"
       ],
       "verdict": "confirmed",
-      "note": "Faithful translation of the quote."
+      "note": "English quote present; Spanish rendering is faithful."
     },
     {
-      "claim": "Octubre de 2022: extensión de seis años por 16,5 millones antes de incentivos, hasta 2027-28",
+      "claim": "October 2022 six-year extension, $16.5M before incentives, through 2027-28",
       "sourceIds": [
         "cbs-hardaway-extension-2022",
         "actionnews5-extension-2022"
       ],
       "verdict": "confirmed",
-      "note": "Both sources."
+      "note": "CBS and ActionNews5 confirm."
     },
     {
-      "claim": "Salario de 2,5 millones en la primera temporada; subidas de 100.000 dólares al año",
+      "claim": "$2.5M first-season salary, +$100,000 a year",
       "sourceIds": [
         "cbs-hardaway-extension-2022"
       ],
       "verdict": "confirmed",
-      "note": "CBS."
+      "note": "CBS quotes."
     },
     {
-      "claim": "84-43 en cuatro temporadas; cuatro campañas de 20 victorias; Torneo de la NCAA en 2022",
+      "claim": "84-43 in four seasons; four straight 20-win seasons; 2022 NCAA Tournament",
       "sourceIds": [
         "actionnews5-extension-2022"
       ],
       "verdict": "confirmed",
-      "note": "Source."
+      "note": "ActionNews5 quotes."
     },
     {
-      "claim": "Veatch: contrato 'llevaba bastante tiempo en preparación'; 'no podrían haber encontrado mejor entrenador principal'",
+      "claim": "Veatch: 'llevaba bastante tiempo en preparación' and no better coach",
       "sourceIds": [
         "actionnews5-extension-2022"
       ],
       "verdict": "confirmed",
-      "note": "Faithful translation of 'has been in the works for quite some time' and 'could not have a better fit'. Earlier reviewer note was wrong."
+      "note": "Both Veatch quotes present in English source."
     },
     {
-      "claim": "Probation por jugadores inelegibles y reclutamiento, vinculada a 2019-20; la universidad evitó sanciones más duras",
+      "claim": "Probation over ineligible players and recruiting, 2019-20; avoided harsher penalties",
       "sourceIds": [
         "actionnews5-extension-2022"
       ],
       "verdict": "confirmed",
-      "note": "Source. The English term 'probation' is left untranslated in the text; this is a style fix."
+      "note": "Source: weeks after probation; stems from 2019-20; avoided stiffer punishments."
     },
     {
-      "claim": "Marzo de 2026: la universidad anunció que Hardaway volvería la temporada siguiente",
-      "sourceIds": [
-        "gotigers-return-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Headline and URL date only. Body not retrievable."
-    },
-    {
-      "claim": "Tigers 2025-26 terminaron 13-19",
+      "claim": "2025-26 Tigers finished 13-19",
       "sourceIds": [
         "dailymemphian-hardaway-2026"
       ],
       "verdict": "confirmed",
-      "note": "Source."
+      "note": "Daily Memphian related story: 13-19."
     },
     {
       "claim": "John Martin: 'la tarea que tiene por delante es inmensa'",
@@ -249,68 +241,89 @@
         "dailymemphian-hardaway-2026"
       ],
       "verdict": "confirmed",
-      "note": "Faithful translation."
+      "note": "Sentence present in column opening."
     },
     {
-      "claim": "Hardaway: 'Sé que puedo volver después de un fracaso'",
+      "claim": "Hardaway quote 'Sé que puedo volver después de un fracaso'",
       "sourceIds": [
         "dailymemphian-hardaway-2026"
       ],
       "verdict": "confirmed",
-      "note": "Faithful translation."
+      "note": "English quote present; Spanish rendering faithful."
     },
     {
-      "claim": "Ocho jugadores tenían hasta el viernes para decidir",
+      "claim": "Eight players had until Friday to decide",
       "sourceIds": [
         "dailymemphian-hardaway-2026"
       ],
       "verdict": "confirmed",
-      "note": "Source."
+      "note": "Teaser text only."
     },
     {
-      "claim": "Dos días después, el director deportivo y Hardaway hablaron de la asistencia a los partidos en casa",
+      "claim": "Two days later AD and Hardaway discussed attendance",
       "sourceIds": [
         "dailymemphian-hardaway-2026"
       ],
-      "verdict": "unsupported",
-      "note": "Source says dwindling basketball attendance, not home games. Change to 'asistencia' or cite."
+      "verdict": "confirmed",
+      "note": "Teaser text: dwindling basketball attendance, two days after the decision."
     },
     {
-      "claim": "Summary y knownFor: exjugador All-Star, oro olímpico, 13-19, seguirá en 2026-27",
+      "claim": "March 2026 university announced return for next season",
+      "sourceIds": [
+        "gotigers-return-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Headline 'Will Return Next Season'; URL dated 2026/3/16."
+    },
+    {
+      "claim": "Summary/knownFor/metaDescription: four-time All-Star, Memphis-born",
       "sourceIds": [
         "bbref-hardaway",
         "olympedia-hardaway",
         "dailymemphian-hardaway-2026",
         "gotigers-return-2026"
       ],
-      "verdict": "confirmed",
-      "note": "Backed by body sources."
+      "verdict": "source_unreachable",
+      "note": "Four-time All-Star relies on Basketball-Reference (HTTP 403). Other parts confirmed."
     },
     {
-      "claim": "FAQ: 18 de julio de 1971 (bbref) y 1972 (Olympedia)",
+      "claim": "FAQ: Treadwell High School",
+      "sourceIds": [
+        "bbref-hardaway"
+      ],
+      "verdict": "source_unreachable",
+      "note": "Basketball-Reference returns HTTP 403."
+    },
+    {
+      "claim": "FAQ: birth date 1971 (bbref) vs 1972 (Olympedia)",
       "sourceIds": [
         "bbref-hardaway",
         "olympedia-hardaway"
       ],
-      "verdict": "confirmed",
-      "note": "Both dates match sources."
+      "verdict": "source_unreachable",
+      "note": "Olympedia 1972 confirmed; 1971 on Basketball-Reference (HTTP 403)."
     },
     {
-      "claim": "FAQ: 10.684 puntos, 3.146 rebotes, 3.525 asistencias",
+      "claim": "FAQ: 6 ft 7 in (201 cm), 195 lb (88 kg)",
       "sourceIds": [
         "bbref-hardaway"
       ],
-      "verdict": "confirmed",
-      "note": "Matches bbref."
+      "verdict": "source_unreachable",
+      "note": "Basketball-Reference returns HTTP 403."
+    },
+    {
+      "claim": "FAQ: NBA totals 10,684 / 3,146 / 3,525",
+      "sourceIds": [
+        "bbref-hardaway"
+      ],
+      "verdict": "source_unreachable",
+      "note": "Basketball-Reference returns HTTP 403."
     }
   ],
-  "uncitedClaims": [
-    "'Creció en la ciudad' (first paragraph)",
-    "Middle name 'Deon' was removed from the es body; check that the reviewNotes item is no longer relevant."
-  ],
+  "uncitedClaims": [],
   "readsHumanWritten": false,
-  "addsValue": true,
-  "valueNote": "Facts match the English version and sources, so it adds the same timeline. Localisation is weak: the section order and wording follow the English closely, and 'probation' is left in English. Style rewrite needed.",
+  "addsValue": false,
+  "valueNote": "Follows the English page section by section; the 'probation' term is glossed but the text is not localised for Spanish-speaking readers. Style judgement left to the human editor.",
   "decision": "reject",
-  "summary": "Reject. Fix: remove 'creció en la ciudad y volvió a ella' unless cited; change 'asistencia a los partidos en casa' to 'asistencia' to match Daily Memphian; translate 'probation'; rewrite as a Spanish-first text rather than a sentence-by-sentence translation. Veatch quote and TSHF Dream Team are supported, despite old reviewer notes."
+  "summary": "Reject for now: Basketball-Reference (bbref-hardaway) returned HTTP 403, so the career totals, All-Star and All-NBA years, draft pick, height, positions, Treadwell and the 1971 birth year are unverified. Remaining claims were checked against opened sources."
 }

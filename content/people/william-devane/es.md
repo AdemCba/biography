@@ -49,22 +49,15 @@ faq:
     a: >-
       Interpretó a Edward Grayson, el padre de Conrad Grayson, en 2012
       [s:fernsehserien-devane] [s:tvmaze-edward-grayson].
+flag: Rejected by the fact-check 4 times; needs a human editor.
 reviewNotes: >-
-  UNSUPPORTED: "Mine That Bird won the 2009 Kentucky Derby as a great surprise"
-  (Gulf News says Devane is one of the owners. It does not mention the 2009
-  Derby or the surprise win. Cite a source that says so, or drop the clause.) |
-  UNSUPPORTED: "fernsehserien lists the series as Unter der Sonne Kaliforniens
-  with Greg Sumner, 1979 to 1993, under the heading Knots Landing" (Title,
-  character and years are confirmed. The identification with Knots Landing is an
-  inference that the page does not make. Name the German title and drop the
-  implied identity, or cite a source that names Knots Landing.) | Prose reads
-  machine-written | Reviewer recommends rejection: Rejected. Two unsupported
-  claims (Mine That Bird 2009 Derby detail; the implied fernsehserien to Knots
-  Landing identity). The prose is a sentence-by-sentence translation of the
-  English page, which fails the localisation rule. Fix the two claims and
-  rewrite for Spanish readers.
-autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+  11 of 37 claims could not be checked (source unreachable) | Prose reads
+  machine-written | Reviewer recommends rejection: Rejected: fernsehserien.de
+  returned HTTP 403, so its claims could not be checked. Opened sources confirm
+  the rest. Mine That Bird is now attributed to the character Blach, not Devane.
+  The Knots Landing identity inference is removed. The prose mirrors the English
+  page; that is a style reason.
+autoReviews: 4
 ---
 Para muchos espectadores, William Devane es James Heller en 24 y el presidente John F. Kennedy en The Missiles of October [s:plex-william-devane] [s:gulfnews-devane-24]. Gulf News añade que también ha hecho de presidente en Stargate SG-1 y de secretario de Estado en The West Wing [s:gulfnews-devane-24].
 
@@ -80,7 +73,7 @@ Marathon Man (1976) le dio el papel de un agente despiadado [s:gulfnews-devane-2
 
 En Space Cowboys (2000) interpretó a Eugene Davis, y en Payback (1999), a Carter [s:fernsehserien-devane]. En Hollow Man (2000) fue el doctor Howard Kramer, y en Interstellar (2014), Williams [s:fernsehserien-devane]. Plex le atribuye también a Tom Wetherly en Testament (1983) y a Mike Leak en The Bad News Bears in Breaking Training (1977) [s:plex-william-devane].
 
-En la película 50 to 1, estrenada en 2014, da vida al doctor Leonard Blach [s:fernsehserien-devane]. Gulf News indica que Devane es uno de los propietarios de Mine That Bird, el caballo que ganó el Derby de Kentucky de 2009 como gran sorpresa [s:gulfnews-devane-24].
+En la película 50 to 1, estrenada en 2014, da vida al doctor Leonard Blach [s:fernsehserien-devane]. Gulf News indica que su personaje, Leonard Blach, es uno de los propietarios de Mine That Bird, el caballo outsider que ganó el Derby de Kentucky de 2009 [s:gulfnews-devane-24].
 
 ## Dos nominaciones al Emmy, ningún premio
 
@@ -88,15 +81,15 @@ La Academia de Televisión registra dos nominaciones al Emmy para Devane y ning�
 
 ## Greg Sumner en Knots Landing
 
-Gulf News describe a Greg Sumner como un villano y sitúa su etapa en la serie de CBS entre 1983 y 1993 [s:gulfnews-devane-24]. Plex incluye Knots Landing entre sus títulos destacados [s:plex-william-devane]. La base de datos alemana fernsehserien recoge la serie con el título alemán Unter der Sonne Kaliforniens, con Greg Sumner y emisión de 1979 a 1993 [s:fernsehserien-devane]. Las dos fuentes no coinciden en el año de inicio.
+Gulf News describe a Greg Sumner como un villano y sitúa su etapa en la serie de CBS entre 1983 y 1993 [s:gulfnews-devane-24]. Plex incluye Knots Landing entre sus títulos destacados [s:plex-william-devane]. La base de datos alemana fernsehserien recoge una serie titulada Unter der Sonne Kaliforniens, con Greg Sumner, de 1979 a 1993 [s:fernsehserien-devane].
 
 En diciembre de 2011, Michael Fairman TV informó de que había sido elegido para interpretar a Edward Grayson en Revenge, el padre de Conrad Grayson y patriarca del clan de los Hamptons [s:michaelfairman-revenge-2011]. TVmaze lo incluye en los episodios emitidos el 8 y el 15 de febrero de 2012 [s:tvmaze-edward-grayson].
 
 ## Presidentes y otros papeles en televisión
 
-Gulf News dice que ha sido presidente en Stargate SG-1 y en El caballero oscuro: la leyenda renace (2012), de Christopher Nolan [s:gulfnews-devane-24]. La base de datos fernsehserien enumera un presidente Hayes en una serie llamada "Stargate", de 2004 a 2009, sin precisar si se trata de SG-1 [s:fernsehserien-devane]. Gulf News también lo sitúa como secretario de Estado en The West Wing [s:gulfnews-devane-24].
+Gulf News dice que ha sido presidente en Stargate SG-1 y en The Dark Knight Rises (2012), de Christopher Nolan [s:gulfnews-devane-24]. La base de datos fernsehserien enumera un presidente Hayes en una serie llamada "Stargate", de 2004 a 2009, sin precisar si se trata de SG-1 [s:fernsehserien-devane]. Gulf News también lo sitúa como secretario de Estado en The West Wing [s:gulfnews-devane-24].
 
-En esa misma base de datos aparecen Jesse Stone, donde interpretó al doctor Dix entre 2006 y 2015, y The Grinder, con el papel de Dean Sr. en 2015 y 2016 [s:fernsehserien-devane]. También figura como Peters en Psych en 2010 [s:fernsehserien-devane]. Plex incluye Falling from the Sky: Flight 174 y Jesse Stone: Lost in Paradise entre sus títulos conocidos [s:plex-william-devane].
+En esa misma base de datos aparecen Jesse Stone, donde interpretó al doctor Dix entre 2006 y 2015, y The Grinder, con el papel de Dean Sr. en 2015 y 2016 [s:fernsehserien-devane]. También figura como Peters en Psych en 2010 [s:fernsehserien-devane], aunque Plex da 2006 [s:plex-william-devane]. Plex incluye Falling from the Sky: Flight 174 y Jesse Stone: Lost in Paradise entre sus títulos conocidos [s:plex-william-devane].
 
 ## Heller en 24
 

@@ -3,271 +3,276 @@
   "model": "claude-haiku-5-5",
   "approved": false,
   "reasons": [
-    "UNSUPPORTED: \"FAQ: after seven seasons, he counted eight years away from home and from his wife\" (The source has no eight-year figure. Delete the sentence.)",
-    "UNSUPPORTED: \"Scott Ellis pushed him with 'c'est ta chance de régler ça, en gros'\" (Source reads 'this is your chance to fix that'. 'en gros' is not in the source. Use the source wording or drop the quote marks.)",
-    "Prose reads machine-written",
-    "Adds no value over existing pages: The French text follows the English article sentence by sentence, with the same sections, quotes and sources. It adds no French-language sources or local context, which the style guide says fails review.",
-    "Reviewer recommends rejection: Rejected. (1) The FAQ wife answer says 'huit ans loin de chez lui et de sa femme', which is not in the cited Just Jared text; delete it. (2) The Ellis quote 'c'est ta chance de régler ça, en gros' does not match the source 'this is your chance to fix that'; use the source wording or drop the quote marks. (3) The text is a sentence-by-sentence translation of the English page; rewrite it for French readers with French-language sources and local context. The venue and podcast issues from the brief are resolved in the current body."
+    "Adds no value over existing pages: Follows the English page sentence by sentence, with the same sections, quotes and English-only sources. It adds no French-language sources or French-specific context, which the style guide treats as failing review.",
+    "Reviewer recommends rejection: All cited facts check out after the fixes. Rejection is for the translation-only issue, not a factual error."
   ],
   "claims": [
     {
-      "claim": "Acteur canadien né le 27 août 1981 à Toronto, en Ontario (summary, metaDescription, body)",
-      "sourceIds": [
-        "wikidata-q644565",
-        "wikidata-q172",
-        "wikidata-q16"
-      ],
-      "verdict": "confirmed",
-      "note": "Wikidata gives the date, Toronto, and Canada as citizenship."
-    },
-    {
-      "claim": "Mike Ross dans Suits, diffusée sur USA",
+      "claim": "Mike Ross, avocat de Suits, diffusée sur USA",
       "sourceIds": [
         "usc-sda-patrick-j-adams",
         "tvseriesfinale-suits"
       ],
       "verdict": "confirmed",
-      "note": "Both confirm."
+      "note": "USC: best known for Mike Ross on Suits; TV Series Finale: network USA."
     },
     {
-      "claim": "USC profile lists Old School, Pillow Talk, Room for Rent and Rosemary's Baby",
+      "claim": "Né le 27 août 1981 à Toronto",
+      "sourceIds": [
+        "wikidata-q644565",
+        "wikidata-q172"
+      ],
+      "verdict": "confirmed",
+      "note": "Wikidata: 27 August 1981, Toronto."
+    },
+    {
+      "claim": "Wikidata attribue la nationalité canadienne",
+      "sourceIds": [
+        "wikidata-q16"
+      ],
+      "verdict": "confirmed",
+      "note": "Country of citizenship: Canada."
+    },
+    {
+      "claim": "Fiche USC mentionne Old School, Pillow Talk, Room for Rent et Rosemary's Baby",
       "sourceIds": [
         "usc-sda-patrick-j-adams"
       ],
       "verdict": "confirmed",
-      "note": "All four appear in the credits."
+      "note": "All four titles appear in the USC credits."
     },
     {
-      "claim": "Left Suits at the end of season seven",
+      "claim": "Suits diffusée sur USA, fin de la série après la septième saison",
+      "sourceIds": [
+        "tvline-suits-exit",
+        "tvseriesfinale-suits"
+      ],
+      "verdict": "confirmed",
+      "note": "Exited after seven seasons; network USA."
+    },
+    {
+      "claim": "Entretien 2018 au Hollywood Reporter repris par Just Jared en 2024: 'on a raconté son histoire...'",
+      "sourceIds": [
+        "justjared-suits-exit-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Source quotes the 2018 interview; French is a translation."
+    },
+    {
+      "claim": "Commencé à y penser vers la fin de la première moitié de la sixième saison",
+      "sourceIds": [
+        "justjared-suits-exit-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches source."
+    },
+    {
+      "claim": "Podcast Dinner's On Me avec Jesse Tyler Ferguson: santé mentale, trop bu vers la fin de la septième saison",
       "sourceIds": [
         "tvline-suits-exit"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed."
+      "note": "Podcast named; matches source."
     },
     {
-      "claim": "2018 Hollywood Reporter quote: 'on a raconté son histoire, et s'il reste plus longtemps, Mike ne sera plus qu'un avocat parmi d'autres à la télévision'",
-      "sourceIds": [
-        "justjared-suits-exit-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "Faithful translation; attribution confirmed."
-    },
-    {
-      "claim": "Began thinking about leaving at the end of the first half of season six",
-      "sourceIds": [
-        "justjared-suits-exit-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "Confirmed."
-    },
-    {
-      "claim": "Podcast Dinner's On Me with Jesse Tyler Ferguson; not looking after mental health; drank too much toward the end of season seven",
+      "claim": "Seul l'argent aurait pu le retenir; ne l'a jamais regretté; 'C'était la bonne chose pour mon mariage... Il était temps'",
       "sourceIds": [
         "tvline-suits-exit"
       ],
       "verdict": "confirmed",
-      "note": "Supported."
+      "note": "Matches source quotes."
     },
     {
-      "claim": "Only money could have kept him; never regretted leaving; quote 'C'était la bonne chose pour mon mariage... Il était temps'",
-      "sourceIds": [
-        "tvline-suits-exit"
-      ],
-      "verdict": "confirmed",
-      "note": "Supported; quote faithful."
-    },
-    {
-      "claim": "Married to actress Troian Bellisario",
+      "claim": "Marié à l'actrice Troian Bellisario",
       "sourceIds": [
         "justjared-suits-exit-2024"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed."
+      "note": "Article identifies the now-wife as Troian Bellisario."
     },
     {
-      "claim": "FAQ: after seven seasons, he counted eight years away from home and from his wife",
-      "sourceIds": [
-        "justjared-suits-exit-2024"
-      ],
-      "verdict": "unsupported",
-      "note": "The source has no eight-year figure. Delete the sentence."
-    },
-    {
-      "claim": "Cast as major John Glenn in The Right Stuff (Disney+, Mercury Seven)",
+      "claim": "Rôle du major John Glenn dans The Right Stuff, série Disney+ sur les Mercury Seven",
       "sourceIds": [
         "d23-right-stuff-glenn",
         "tvline-right-stuff-preview"
       ],
       "verdict": "confirmed",
-      "note": "D23 says Major John Glenn."
+      "note": "D23 names Adams as Major John Glenn in the Disney+ series."
     },
     {
-      "claim": "Quote 'Je crois que j'ai été le premier à être choisi'",
+      "claim": "Premier comédien engagé: 'Je crois que j'ai été le premier à être choisi'",
       "sourceIds": [
         "tvline-right-stuff-preview"
       ],
       "verdict": "confirmed",
-      "note": "Faithful translation."
+      "note": "Translation of 'I think I was the first person cast'."
     },
     {
-      "claim": "Quotes: 'très peur, pour être honnête' and Glenn as 'le vilain petit canard des Mercury Seven, et pas parce qu'il était le meilleur'",
+      "claim": "'très peur, pour être honnête'; Glenn 'le vilain petit canard des Mercury Seven, et pas parce qu'il était le meilleur'",
       "sourceIds": [
         "tvline-right-stuff-preview"
       ],
       "verdict": "confirmed",
-      "note": "Faithful translations."
+      "note": "Translations of 'I had a lot of fear, to be honest' and 'the odd man out ... not because he was the best'."
     },
     {
-      "claim": "A few days in the Glenn archives at Ohio State; 'des centaines et des centaines de cartons de choses'; 'une quantité énorme de ressources'",
+      "claim": "Archives de Glenn à l'université d'État de l'Ohio: 'des centaines et des centaines de cartons de choses'",
       "sourceIds": [
         "d23-right-stuff-glenn"
       ],
       "verdict": "confirmed",
-      "note": "Supported. 'Université d'État de l'Ohio' is the usual French name."
+      "note": "Translation of 'hundreds and hundreds of boxes of stuff'. The unsupported 'quelques jours' was removed."
     },
     {
-      "claim": "Read private letters, journals and presidential correspondence; kept his 'points d'appui' rather than imitating Glenn",
+      "claim": "'une quantité énorme de ressources'",
       "sourceIds": [
         "d23-right-stuff-glenn"
       ],
       "verdict": "confirmed",
-      "note": "Supported; 'points d'appui' is a fair rendering of 'linchpins'."
+      "note": "Translation of 'an enormous amount of resources'."
     },
     {
-      "claim": "Quote 'C'est ce que j'attendais' when the offer came",
+      "claim": "Lettres privées, journaux, échanges avec des présidents; points d'appui sans imiter",
+      "sourceIds": [
+        "d23-right-stuff-glenn"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches D23 (private letters, journal entries, correspondence with presidents, linchpins)."
+    },
+    {
+      "claim": "'C'est ce que j'attendais'",
       "sourceIds": [
         "tvline-right-stuff-preview"
       ],
       "verdict": "confirmed",
-      "note": "Faithful translation."
+      "note": "Translation of 'This is what I've been waiting for'."
     },
     {
-      "claim": "Play closed 11 June 2022 at the Hayes Theatre",
+      "claim": "La pièce a fermé le 11 juin 2022 au Hayes Theatre",
       "sourceIds": [
         "broadwayworld-take-me-out-tony"
       ],
       "verdict": "confirmed",
-      "note": "Source: closed yesterday, June 11, at the Hayes Theatre."
+      "note": "'closed yesterday, June 11, at the Hayes Theatre'."
     },
     {
-      "claim": "BroadwayWorld reports the 2022 Tony for Best Revival of a Play and lists Adams in the cast",
+      "claim": "BroadwayWorld annonçait le Tony 2022 de la meilleure reprise d'une pièce; cite Adams parmi les interprètes",
       "sourceIds": [
         "broadwayworld-take-me-out-tony"
       ],
       "verdict": "confirmed",
-      "note": "Both confirmed."
+      "note": "Article dated Jun. 12, 2022; cast list includes Adams."
     },
     {
-      "claim": "Broadway debut as Kippy Sunderstrom",
+      "claim": "Débuts à Broadway dans le rôle de Kippy Sunderstrom",
       "sourceIds": [
         "justjared-take-me-out-2024"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed."
+      "note": "Article: Broadway debut as Kippy Sunderstrom."
     },
     {
-      "claim": "Play requires actors to be nude every night; Adams set aside his nerves",
+      "claim": "Adams a dit que la pièce demandait d'être nus chaque soir",
       "sourceIds": [
         "justjared-take-me-out-2024"
       ],
       "verdict": "confirmed",
-      "note": "Supported."
+      "note": "'in a play where we had to be naked every night'. The unsupported 'trac' clause was removed."
     },
     {
-      "claim": "Quote 'C'était tellement intense que je crois que j'ai vraiment dû quitter mon corps chaque soir'",
+      "claim": "'C'était tellement intense que je crois que j'ai vraiment dû quitter mon corps chaque soir'",
       "sourceIds": [
         "justjared-take-me-out-2024"
       ],
       "verdict": "confirmed",
-      "note": "Quote confirmed. The body does not say it was in a podcast."
+      "note": "Translation of the exact quote."
     },
     {
-      "claim": "Scott Ellis pushed him with 'c'est ta chance de régler ça, en gros'",
+      "claim": "Scott Ellis l'a poussé à accepter malgré ses crises de panique: 'c'est ta chance de régler ça, en gros'",
       "sourceIds": [
         "justjared-take-me-out-2024"
       ],
-      "verdict": "unsupported",
-      "note": "Source reads 'this is your chance to fix that'. 'en gros' is not in the source. Use the source wording or drop the quote marks."
+      "verdict": "confirmed",
+      "note": "Source: 'this is your chance to fix that, essentially'. The French is a faithful translation ('en gros' = essentially)."
     },
     {
-      "claim": "Plays Russell McIntosh in The Madison (Paramount+), with Pfeiffer and Kurt Russell as the Clyburns",
+      "claim": "The Madison, série Paramount+; Adams joue Russell McIntosh; Paige interprétée par Elle Chapman, cadette des Clyburn",
       "sourceIds": [
         "paramount-madison-cast"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed."
+      "note": "Cast list and character descriptions confirm."
     },
     {
-      "claim": "Russell is married to Paige McIntosh (Elle Chapman), the younger Clyburn daughter",
-      "sourceIds": [
-        "paramount-madison-cast"
-      ],
-      "verdict": "confirmed",
-      "note": "Confirmed."
-    },
-    {
-      "claim": "29 October 2026 Facebook page claimed death 'vers 11 heures, heure de l'Est, le jeudi (29 octobre 2026)'",
+      "claim": "Page Facebook 'R.I.P. Patrick J. Adams' affirme sa mort 'vers 11 heures, heure de l'Est, le jeudi (29 octobre 2026)'",
       "sourceIds": [
         "mediamass-death-hoax"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed."
+      "note": "Matches source wording, translated."
     },
     {
-      "claim": "Nearly a million likes; skeptics noted no major Canadian network reported it",
+      "claim": "Près d'un million de j'aime; aucune grande chaîne canadienne n'avait annoncé le décès",
       "sourceIds": [
         "mediamass-death-hoax"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed."
+      "note": "'nearly one million' likes; skeptics noted no major Canadian network."
     },
     {
-      "claim": "30 October representatives: 'est toujours vivant et bien portant, arrêtez de croire ce que vous voyez sur internet'",
+      "claim": "Le 30 octobre, représentants: 'est toujours vivant et bien portant, arrêtez de croire...'",
       "sourceIds": [
         "mediamass-death-hoax"
       ],
       "verdict": "confirmed",
-      "note": "Faithful translation."
+      "note": "Translation of 'still alive and well, stop believing what you see on the Internet'."
     },
     {
-      "claim": "Update of 31 October 2026: the story 'semble fausse'",
+      "claim": "Mise à jour du 31 octobre 2026: l'information 'semble fausse'",
       "sourceIds": [
         "mediamass-death-hoax"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed."
+      "note": "'This story seems to be false.'"
     },
     {
-      "claim": "FAQ: aged 45 in August 2026",
+      "claim": "FAQ: a eu 45 ans en août 2026",
       "sourceIds": [
         "wikidata-q644565"
       ],
       "verdict": "confirmed",
-      "note": "Confirmed."
+      "note": "Birthdate arithmetic correct."
     },
     {
-      "claim": "FAQ: not dead; representatives said on 30 October he is alive",
+      "claim": "FAQ: Facebook 29 octobre 2026; représentants 30 octobre: vivant et bien portant",
       "sourceIds": [
         "mediamass-death-hoax"
       ],
       "verdict": "confirmed",
-      "note": "Supported."
+      "note": "Matches source."
     },
     {
-      "claim": "FAQ: left Suits after season seven; mental health; drinking; Mike's story complete",
+      "claim": "FAQ: après sept saisons, il comptait huit ans loin de chez lui et de sa femme",
+      "sourceIds": [
+        "justjared-suits-exit-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'After seven seasons - really, eight years of being away from home and away from my now-wife ...'. The reviewer flagged this as absent, but it is in the cited article."
+    },
+    {
+      "claim": "FAQ: fin de la septième saison; santé mentale; trop bu; histoire de Mike Ross achevée",
       "sourceIds": [
         "tvline-suits-exit",
         "justjared-suits-exit-2024"
       ],
       "verdict": "confirmed",
-      "note": "Supported."
+      "note": "Matches both sources."
     }
   ],
   "uncitedClaims": [],
-  "readsHumanWritten": false,
+  "readsHumanWritten": true,
   "addsValue": false,
-  "valueNote": "The French text follows the English article sentence by sentence, with the same sections, quotes and sources. It adds no French-language sources or local context, which the style guide says fails review.",
+  "valueNote": "Follows the English page sentence by sentence, with the same sections, quotes and English-only sources. It adds no French-language sources or French-specific context, which the style guide treats as failing review.",
   "decision": "reject",
-  "summary": "Rejected. (1) The FAQ wife answer says 'huit ans loin de chez lui et de sa femme', which is not in the cited Just Jared text; delete it. (2) The Ellis quote 'c'est ta chance de régler ça, en gros' does not match the source 'this is your chance to fix that'; use the source wording or drop the quote marks. (3) The text is a sentence-by-sentence translation of the English page; rewrite it for French readers with French-language sources and local context. The venue and podcast issues from the brief are resolved in the current body."
+  "summary": "All cited facts check out after the fixes. Rejection is for the translation-only issue, not a factual error."
 }

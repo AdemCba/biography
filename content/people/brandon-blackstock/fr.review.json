@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 16 December 1976 in Fort Worth, Texas",
+      "sourceIds": [
+        "obituary-axelson"
+      ],
+      "verdict": "confirmed",
+      "note": "Obituary: born in Ft. Worth, Texas, on December 16, 1976."
+    },
+    {
+      "claim": "Died 7 August 2025 at his home in Butte, Montana, under hospice care",
+      "sourceIds": [
+        "fox-coroner",
+        "obituary-axelson"
+      ],
+      "verdict": "confirmed",
+      "note": "Fox: passed away peacefully at his home in Butte, Montana on August 7th under hospice care."
+    },
+    {
+      "claim": "Aged 48 at death",
+      "sourceIds": [
+        "obituary-axelson",
+        "fox-coroner",
+        "cbs-death"
+      ],
+      "verdict": "confirmed",
+      "note": "CBS: 48 years old; obituary title: Age 48."
+    },
+    {
+      "claim": "Summary: died 7 August 2025 aged 48",
+      "sourceIds": [
+        "obituary-axelson",
+        "fox-coroner"
+      ],
+      "verdict": "confirmed",
+      "note": "Citation corrected: the CBS article does not state the death date, so the obituary and Fox coroner report are cited instead."
+    },
+    {
+      "claim": "Son of Narvel Blackstock, who owned Starstruck Entertainment",
+      "sourceIds": [
+        "livenow-fox",
+        "obituary-axelson",
+        "yahoo-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "LiveNOW: agency owned by his father Narvel Blackstock. Obituary: born to Narvel and Elisa Blackstock."
+    },
+    {
+      "claim": "Managed Kelly Clarkson from 2017 until the split in 2020",
+      "sourceIds": [
+        "livenow-fox"
+      ],
+      "verdict": "confirmed",
+      "note": "LiveNOW: manager from 2017 until their split in 2020."
+    },
+    {
+      "claim": "Moved to Nashville in early adult years and began music career there",
+      "sourceIds": [
+        "obituary-axelson"
+      ],
+      "verdict": "confirmed",
+      "note": "Obituary: moved to Nashville in his early adult years and began his career in the music business."
+    },
+    {
+      "claim": "Starstruck at 40 Music Square West, Nashville; studios described as the premiere state-of-the-art audio and video recording studios; management roster Blake Shelton, Emily Ann Roberts, Maggie Rose",
+      "sourceIds": [
+        "starstruck-site"
+      ],
+      "verdict": "confirmed",
+      "note": "Company site shows these details; the quoted phrase is translated in the page."
+    },
+    {
+      "claim": "Worked under his father at Starstruck and helped shape early career of Blake Shelton",
+      "sourceIds": [
+        "yahoo-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Yahoo: began career at Starstruck working under his father; helped shape careers of Blake Shelton and Clarkson."
+    },
+    {
+      "claim": "More than two decades in the music industry; 'played important roles in shaping the careers of many larger-than-life celebrities'",
+      "sourceIds": [
+        "fox-obituary"
+      ],
+      "verdict": "confirmed",
+      "note": "Obituary: more than two decades in the music business; quote verbatim (translated)."
+    },
+    {
+      "claim": "Named Headwaters Livestock Auction among companies he built",
+      "sourceIds": [
+        "fox-obituary",
+        "obituary-axelson"
+      ],
+      "verdict": "confirmed",
+      "note": "Obituary: working tirelessly to create Headwaters Livestock Auction."
+    },
+    {
+      "claim": "Valley View Rodeo in Bozeman, Montana, presented as part of his legacy",
+      "sourceIds": [
+        "fox-obituary",
+        "obituary-axelson"
+      ],
+      "verdict": "confirmed",
+      "note": "Corrected from 'created': the sources call it what will live on as his legacy."
+    },
+    {
+      "claim": "Owned V Bar B Cattle Co., a ranch in Montana",
+      "sourceIds": [
+        "fox-obituary"
+      ],
+      "verdict": "confirmed",
+      "note": "Fox obituary: V Bar B Cattle Co., a Montana ranch owned by Blackstock."
+    },
+    {
+      "claim": "Narvel Blackstock represented Clarkson from 2007",
+      "sourceIds": [
+        "livenow-fox"
+      ],
+      "verdict": "confirmed",
+      "note": "LiveNOW: represented Clarkson beginning in 2007."
+    },
+    {
+      "claim": "Married Clarkson in October 2013; she filed for divorce in Los Angeles in June 2020",
+      "sourceIds": [
+        "yahoo-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Yahoo: married in October 2013; filed in Los Angeles in June 2020."
+    },
+    {
+      "claim": "Executive producer on The Kelly Clarkson Show for nearly 70 episodes (IMDb credit cited by Yahoo)",
+      "sourceIds": [
+        "yahoo-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Yahoo cites IMDb: executive producer, nearly 70 episodes."
+    },
+    {
+      "claim": "Clarkson sued for unpaid commissions after the split",
+      "sourceIds": [
+        "music-times-settlement"
+      ],
+      "verdict": "confirmed",
+      "note": "Music Times: unpaid commissions lawsuit after the split."
+    },
+    {
+      "claim": "California Labor Commissioner found a Talent Agencies Act violation; ordered to pay Local French version checked..6 million in commissions",
+      "sourceIds": [
+        "music-times-settlement"
+      ],
+      "verdict": "confirmed",
+      "note": "Music Times: ruled he violated the Talent Agencies Act; previously ordered to pay Local French version checked..6 million."
+    },
+    {
+      "claim": "Settlement in May 2024; dismissed with prejudice; amount not disclosed",
+      "sourceIds": [
+        "music-times-settlement"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated 23 May 2024 reports settlement, dismissal with prejudice, amount not disclosed."
+    },
+    {
+      "claim": "Coroner Dan Hollis; manner natural causes; melanoma as cause",
+      "sourceIds": [
+        "fox-coroner"
+      ],
+      "verdict": "confirmed",
+      "note": "Fox: Silver Bow County Coroner Dan Hollis; melanoma; natural causes."
+    },
+    {
+      "claim": "Family said he had battled cancer for more than three years; family representative confirmed death to CBS",
+      "sourceIds": [
+        "cbs-death"
+      ],
+      "verdict": "confirmed",
+      "note": "CBS: bravely battled cancer for more than three years; family representative confirmed."
+    },
+    {
+      "claim": "FAQ: family obituary names Narvel and Elisa Blackstock as parents",
+      "sourceIds": [
+        "obituary-axelson"
+      ],
+      "verdict": "confirmed",
+      "note": "Obituary: to Narvel and Elisa Blackstock."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Page uses the obituary, coroner report and the Music Times settlement report to give the death, management years and commission dispute in one timeline; the localised version is close to the English structure but reads naturally.",
+  "decision": "approve",
+  "summary": "All cited claims were checked against opened sources. Two issues were corrected before this verdict: the summary death date was re-cited from CBS (which does not state the date) to the obituary and Fox coroner report, and 'created the Valley View Rodeo' was changed to 'part of his legacy' to match the source wording. Local French version checked."
+}

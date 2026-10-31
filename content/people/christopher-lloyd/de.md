@@ -45,41 +45,20 @@ faq:
       Für 2026 sind Auftritte auf Conventions angekündigt: bei den
       Supanova-Events in Sydney und Perth im Juni und bei der Rhode Island Comic
       Con im November [s:variety-supanova-2026][s:turnto10-ric-2026].
-flag: Rejected by the fact-check 4 times; needs a human editor.
+flag: Rejected by the fact-check 5 times; needs a human editor.
 reviewNotes: >-
-  UNSUPPORTED: "Vor allem New York Shakespeare Festival und Off-Broadway,
-  gelegentlich Broadway" (NYSF and off-Broadway not in the opened text;
-  'occasional Broadway roles' not found.) | UNSUPPORTED: "Preisgekrönte
-  Broadway-Inszenierung von Morning's at Seven" (Broadway credit listed; award
-  not stated in opened text.) | UNSUPPORTED: "Kinodebüt 1975 als Max Taber; Film
-  gewann fünf Oscars inkl. bester Film" (Role/year confirmed; Oscar count not in
-  opened text.) | UNSUPPORTED: "Mehr als neunzig Produktionen; Independent
-  Spirit für Twenty Bucks; Figur als kühle Darstellung eines seelenlosen
-  Mörders; Eight Men Out" (Production count, award and Eight Men Out confirmed.
-  The 'cold portrayal of a soulless killer' description is not in the opened
-  text.) | UNSUPPORTED: "Kindheit auf dem Waveny-Anwesen; bei Gouvernanten
-  aufgewachsen; kreative Mutter, strenger Vater" (Waveny confirmed. Governesses
-  and stern father not in the opened listing.) | UNSUPPORTED: "Geschichten
-  bisher kaum erzählt; Charme, trockener Witz, Ehrlichkeit; Theater New York;
-  Weg zu Fernsehen und Film" (Not found in the opened listing text.) |
-  UNSUPPORTED: "Körperloser Kopf in Wednesday; Titelrolle King Lear" (Not found
-  in the opened listing text.) | UNSUPPORTED: "Rhode Island Comic Con 6.-8.
-  November 2026; neuester Gast; Wiedersehen mit Turner und Fleischer" (Dates and
-  guest status confirmed. Reunion has no separate dates in the source; article
-  implies the 6-8 November dates apply.) | UNCITED: ""Begonnen hat er aber als
-  Bühnenschauspieler, lange bevor das Fernsehen ihn bekannt machte" (opening
-  paragraph, no tag on this sentence)" | Prose reads machine-written | Adds no
-  value over existing pages: Paragraph-by-paragraph translation of the English
-  draft with the same headings. Its targetQueries (Alter, Filme, aktuell) are
-  not used. No German-language sources. | Reviewer recommends rejection: Reject.
-  Unsupported: Tony-type award for Morning's at Seven, five Oscars,
-  NYSF/off-Broadway, Twenty Bucks 'soulless killer' description, memoir
-  description phrases (governesses, stern father, Wednesday, King Lear, charm
-  and wit), and the Roger Rabbit reunion dates. Fix those, tag the opening
-  sentence, and rebuild from German-language sources and queries.
-autoReviews: 4
+  Prose reads machine-written | Adds no value over existing pages: Every fact is
+  now sourced and confirmed, but the page is still a sentence-by-sentence
+  rendering of the English draft with the same headings and repeated 'laut
+  Verlag / Biography.com zufolge' attribution. It does not use the German
+  queries (Alter, Filme, aktuell) beyond the FAQ and has no German-language
+  sources. Left unchanged per repair scope. | Reviewer recommends rejection: All
+  factual claims now check out against the opened sources. The remaining issues
+  are style and value only (formulaic attribution, translation of the English
+  draft), which the repair scope does not rewrite.
+autoReviews: 5
 ---
-Wer heute Christopher Lloyd sucht, landet meist bei Doc Brown aus Zurück in die Zukunft [s:backtothefuture-cast]. Begonnen hat er aber als Bühnenschauspieler, lange bevor das Fernsehen ihn bekannt machte. Geboren am 22. Oktober 1938 als jüngstes von sieben Kindern in Stamford, Connecticut [s:biography-com], stand er zuerst auf dem Theater. Taxi machte ihn im Fernsehen bekannt, und für diese Serie erhielt er zwei seiner drei Emmys [s:backtothefuture-cast][s:tv-academy-taxi-1982]. Der Verlag seiner Memoiren nennt ihn einen der markantesten Charakterdarsteller seiner Generation [s:hachette-author].
+Wer heute Christopher Lloyd sucht, landet meist bei Doc Brown aus Zurück in die Zukunft [s:backtothefuture-cast]. Begonnen hat er aber als Bühnenschauspieler, schon mit 14 Jahren im Sommertheater [s:biography-com]. Geboren am 22. Oktober 1938 als jüngstes von sieben Kindern in Stamford, Connecticut [s:biography-com], stand er zuerst auf dem Theater. Taxi machte ihn im Fernsehen bekannt, und für diese Serie erhielt er zwei seiner drei Emmys [s:backtothefuture-cast][s:tv-academy-taxi-1982]. Der Verlag seiner Memoiren nennt ihn einen der markantesten Charakterdarsteller seiner Generation [s:hachette-author].
 
 ## Vom Sommertheater zum Broadway
 
@@ -121,7 +100,7 @@ In My Own Time: A Memoir ist ein gebundenes Buch mit 256 Seiten. Es erscheint be
 
 Laut Verlag erzählt er von seiner Kindheit auf dem Waveny-Anwesen in Connecticut. Dort wuchs er vor allem bei Gouvernanten auf und beobachtete seine kreative Mutter und seinen strengen Vater [s:hachette-memoir]. Außerdem geht es um seine Jahre am New Yorker Theater und seinen Weg zu Fernsehen und Film [s:hachette-memoir].
 
-Die Beschreibung des Verlags spricht von Geschichten aus seinem Leben, über die er bisher kaum gesprochen hat, erzählt mit Charme, trockenem Witz und Ehrlichkeit [s:hachette-memoir]. Sie nennt außerdem seinen Auftritt als körperloser Kopf in Wednesday und die Titelrolle in einer Bühneninszenierung von King Lear [s:hachette-memoir].
+Die Beschreibung des Verlags nennt als Erzählton Charme, trockenen Witz und Ehrlichkeit [s:hachette-memoir]. Sie nennt außerdem seinen Auftritt als körperloser Kopf in Wednesday und die Titelrolle in einer Bühneninszenierung von King Lear [s:hachette-memoir].
 
 Für 2026 sind Conventions angekündigt. Variety meldete, Supanova habe ihn für die Veranstaltungen in Sydney vom 19. bis 21. Juni und in Perth vom 27. bis 28. Juni 2026 gebucht [s:variety-supanova-2026]. TurnTo10 nannte ihn den neuesten angekündigten Gast der Rhode Island Comic Con, wo er mit Kathleen Turner und Charles Fleischer bei einem Wiedersehen zu Falsches Spiel mit Roger Rabbit dabei sein soll, vom 6. bis 8. November 2026 [s:turnto10-ric-2026].
 

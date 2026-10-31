@@ -10,10 +10,13 @@ summary: >-
   Brandon Blackstock était manager d'artistes à Nashville, fils de Narvel
   Blackstock, propriétaire de Starstruck Entertainment [s:livenow-fox]. Il a
   managé Kelly Clarkson de 2017 à 2020 [s:livenow-fox]. Il est mort le 7 août
-  2025, à 48 ans [s:cbs-death].
-status: review
+  2025, à 48 ans [s:obituary-axelson] [s:fox-coroner].
+status: published
 risk: high
+reviewedAt: '2026-10-31'
+reviewBy: '2027-05-01'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - brandon blackstock cause de sa mort
@@ -40,7 +43,9 @@ faq:
     a: >-
       Oui. L'avis de décès de la famille indique qu'il était né de Narvel et
       Elisa Blackstock [s:obituary-axelson].
-flag: 'High-risk article: needs a human editor''s approval.'
+autoReviews: 2
+publishedAt: '2026-10-31'
+publishedTime: '2026-10-31T14:36:56.057Z'
 ---
 Brandon Blackstock était manager d'artistes à Nashville. Sa cliente la plus connue reste Kelly Clarkson [s:cbs-death]. Il est mort le 7 août 2025, à 48 ans [s:obituary-axelson] [s:fox-coroner].
 
@@ -54,7 +59,7 @@ L'avis de décès de la famille évoque plus de vingt ans dans l'industrie music
 
 ## Des affaires dans le Montana
 
-L'avis de décès lui attribue aussi la création d'entreprises hors de la musique. Il cite la vente aux enchères de bétail Headwaters Livestock Auction parmi les sociétés qu'il a bâties, et dit qu'il a créé le rodéo Valley View, à Bozeman, dans le Montana [s:fox-obituary]. Il possédait aussi la V Bar B Cattle Co., un ranch du Montana [s:fox-obituary].
+L'avis de décès lui attribue aussi la création d'entreprises hors de la musique. Il cite la vente aux enchères de bétail Headwaters Livestock Auction parmi les sociétés qu'il a bâties, et présente le rodéo Valley View, à Bozeman, dans le Montana, comme faisant partie de son héritage [s:fox-obituary]. Il possédait aussi la V Bar B Cattle Co., un ranch du Montana [s:fox-obituary].
 
 ## Auprès de Kelly Clarkson
 

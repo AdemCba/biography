@@ -3,42 +3,26 @@
   "model": "claude-haiku-5-5",
   "approved": false,
   "reasons": [
-    "UNSUPPORTED: \"Anfernee Deon Hardaway (middle name Deon)\" (No opened source gives the middle name Deon. Remove or cite a source.)",
-    "UNSUPPORTED: \"Grew up in Memphis and came back to the city as a coach\" (Birthplace is supported; 'grew up in Memphis' and 'came back' are not stated in any opened source. Reword to birthplace only or cite.)",
-    "UNSUPPORTED: \"AD and Hardaway addressed attendance at home games two days after the decision\" (Source says dwindling basketball attendance, not home games. Change to 'attendance' or cite.)",
-    "UNCITED: \"'Grew up in Memphis' and 'came back to the city as a coach' (first paragraph)\"",
-    "UNCITED: \"Middle name 'Deon'\"",
-    "Reviewer recommends rejection: Reject. Fix: remove middle name 'Deon'; remove 'grew up in Memphis' and 'came back' unless cited (birthplace is supported); change 'attendance at home games' to 'attendance' to match Daily Memphian. Other claims check out, including the All-Star/All-NBA years, Dream Team wording, Air Flight One and Veatch quotes, which earlier reviewer notes wrongly flagged. The 2026 return article was only confirmed by headline and URL date."
+    "11 of 38 claims could not be checked (source unreachable)",
+    "Reviewer recommends rejection: Reject for now: Basketball-Reference (bbref-hardaway) returned HTTP 403 for every attempt, so the career totals, All-Star and All-NBA years, draft pick, height/weight, positions, high school and the 1971 birth year are unverified. All other claims were checked against opened sources. Fix: re-check once bbref is reachable, or cite a different source for those facts."
   ],
   "claims": [
     {
-      "claim": "Born in Memphis, Tennessee; listed 6-7 guard from Treadwell High School",
+      "claim": "Anfernee Hardaway, known as Penny, was born in Memphis",
+      "sourceIds": [
+        "olympedia-hardaway",
+        "tshf-hardaway-2013"
+      ],
+      "verdict": "confirmed",
+      "note": "Olympedia: birthplace Memphis, Tennessee. TSHF: born in Memphis, TN."
+    },
+    {
+      "claim": "6-foot-7 guard from Treadwell High School (bbref)",
       "sourceIds": [
         "bbref-hardaway"
       ],
-      "verdict": "confirmed",
-      "note": "bbref: Memphis, Tennessee; 6-7, 195lb; Treadwell in Memphis."
-    },
-    {
-      "claim": "Birth date 18 July 1971 (FAQ notes Olympedia gives 1972)",
-      "sourceIds": [
-        "bbref-hardaway",
-        "olympedia-hardaway"
-      ],
-      "verdict": "confirmed",
-      "note": "bbref July 18, 1971; Olympedia 18 July 1972. Disagreement correctly stated."
-    },
-    {
-      "claim": "Anfernee Deon Hardaway (middle name Deon)",
-      "sourceIds": [],
-      "verdict": "unsupported",
-      "note": "No opened source gives the middle name Deon. Remove or cite a source."
-    },
-    {
-      "claim": "Grew up in Memphis and came back to the city as a coach",
-      "sourceIds": [],
-      "verdict": "unsupported",
-      "note": "Birthplace is supported; 'grew up in Memphis' and 'came back' are not stated in any opened source. Reword to birthplace only or cite."
+      "verdict": "source_unreachable",
+      "note": "Basketball-Reference returns HTTP 403 to WebFetch and curl. Not verified."
     },
     {
       "claim": "Since 2018 he has coached the University of Memphis Tigers, the team he played for as a student",
@@ -46,7 +30,7 @@
         "si-hardaway-hire-2018"
       ],
       "verdict": "confirmed",
-      "note": "SI: former Memphis guard, hired March 2018; played 1991-93 per SI, 1990-93 per TSHF."
+      "note": "SI: former Memphis guard, agreed to become head coach, published Mar 19, 2018."
     },
     {
       "claim": "Attended the University of Memphis 1990-1993",
@@ -54,7 +38,7 @@
         "tshf-hardaway-2013"
       ],
       "verdict": "confirmed",
-      "note": "TSHF: attended Memphis 1990 to 1993."
+      "note": "TSHF: attended University of Memphis, 1990-93."
     },
     {
       "claim": "Often compared to Magic Johnson; inducted by TSHF in 2013",
@@ -62,7 +46,7 @@
         "tshf-hardaway-2013"
       ],
       "verdict": "confirmed",
-      "note": "TSHF text and 2013 inductees."
+      "note": "TSHF: often compared to Magic Johnson; Year Inducted 2013."
     },
     {
       "claim": "Inducted into M Club Hall of Fame in 2008",
@@ -70,48 +54,47 @@
         "gotigers-m-club"
       ],
       "verdict": "confirmed",
-      "note": "Page title: Anfernee Hardaway (2008)."
+      "note": "Page title: Anfernee Hardaway (2008) - M Club Hall of Fame."
     },
     {
       "claim": "Golden State Warriors took him third overall in the 1993 NBA Draft",
       "sourceIds": [
         "bbref-hardaway"
       ],
-      "verdict": "confirmed",
-      "note": "1993 draft, Golden State, 3rd overall."
+      "verdict": "source_unreachable",
+      "note": "Basketball-Reference returns HTTP 403. Not verified."
     },
     {
       "claim": "14 NBA seasons; 10,684 points, 3,146 rebounds, 3,525 assists",
       "sourceIds": [
         "bbref-hardaway"
       ],
-      "verdict": "confirmed",
-      "note": "bbref career totals and 14 years."
+      "verdict": "source_unreachable",
+      "note": "Basketball-Reference returns HTTP 403. Not verified."
     },
     {
       "claim": "Four-time All-Star, selections 1994-95 to 1997-98",
       "sourceIds": [
         "bbref-hardaway"
       ],
-      "verdict": "confirmed",
-      "note": "4x All Star; AS rows 1994-95, 1995-96, 1996-97, 1997-98."
+      "verdict": "source_unreachable",
+      "note": "Basketball-Reference returns HTTP 403. Not verified."
     },
     {
       "claim": "All-NBA First Team 1994-95 and 1995-96; Third Team 1996-97",
       "sourceIds": [
         "bbref-hardaway"
       ],
-      "verdict": "confirmed",
-      "note": "NBA1 rows for 1994-95 and 1995-96, NBA3 for 1996-97; 3x All-NBA total."
+      "verdict": "source_unreachable",
+      "note": "Basketball-Reference returns HTTP 403. Not verified."
     },
     {
       "claim": "NBA All-Rookie First Team",
       "sourceIds": [
-        "tshf-hardaway-2013",
-        "bbref-hardaway"
+        "tshf-hardaway-2013"
       ],
       "verdict": "confirmed",
-      "note": "TSHF names NBA All-Rookie First Team; bbref 1993-94 All-Rookie."
+      "note": "TSHF: named to the NBA All-Rookie First Team."
     },
     {
       "claim": "Game described as positionless; nearly 22 pts, 7.1 ast, 4.3 reb over 82 games with the Magic",
@@ -119,7 +102,7 @@
         "stadiumgoods-air-max-penny-1"
       ],
       "verdict": "confirmed",
-      "note": "Quoted in source."
+      "note": "Source: positionless style; averaging nearly 22 points, 7.1 assists, 4.3 rebounds over 82 regular season games with the Magic."
     },
     {
       "claim": "Olympic gold, 1996 Atlanta Games, US men's basketball",
@@ -127,7 +110,7 @@
         "olympedia-hardaway"
       ],
       "verdict": "confirmed",
-      "note": "Olympedia: 1996 Summer Olympics, men's basketball, gold."
+      "note": "Olympedia: 1996 Summer Olympics, Basketball, Men, Gold."
     },
     {
       "claim": "TSHF describes him as part of the Dream Team, 'the second U.S. Olympic team comprising NBA players'",
@@ -135,7 +118,7 @@
         "tshf-hardaway-2013"
       ],
       "verdict": "confirmed",
-      "note": "TSHF text says Dream Team with that quoted phrase. The earlier reviewer note was wrong on this point."
+      "note": "TSHF: member of the Dream Team, the second U.S. Olympic team comprising NBA players."
     },
     {
       "claim": "One Olympic medal, gold",
@@ -143,15 +126,15 @@
         "olympedia-hardaway"
       ],
       "verdict": "confirmed",
-      "note": "Gold 1, total 1."
+      "note": "Olympedia: total medals 1, Gold."
     },
     {
       "claim": "Positions: shooting guard, point guard, small forward",
       "sourceIds": [
         "bbref-hardaway"
       ],
-      "verdict": "confirmed",
-      "note": "Listed positions on bbref."
+      "verdict": "source_unreachable",
+      "note": "Basketball-Reference returns HTTP 403. Not verified."
     },
     {
       "claim": "Air Max Penny 1 released 1995, designed by Eric Avar, one of first in Uptempo collection",
@@ -159,23 +142,15 @@
         "stadiumgoods-air-max-penny-1"
       ],
       "verdict": "confirmed",
-      "note": "Quoted in source."
+      "note": "Source: launched in 1995; designed by Eric Avar; one of the first models in Nike's Uptempo collection."
     },
     {
-      "claim": "Air Flight One: he wore it earlier",
+      "claim": "Chris Rock voiced Lil' Penny, which helped promote the shoe",
       "sourceIds": [
         "stadiumgoods-air-max-penny-1"
       ],
       "verdict": "confirmed",
-      "note": "Source says he wore sneakers like the Air Flight One before the Penny 1. Earlier reviewer note was wrong."
-    },
-    {
-      "claim": "Chris Rock voiced Lil' Penny in promotion",
-      "sourceIds": [
-        "stadiumgoods-air-max-penny-1"
-      ],
-      "verdict": "confirmed",
-      "note": "Quoted in source."
+      "note": "Source: Voiced by Chris Rock, Lil' Penny helped promote Penny's debut signature shoe."
     },
     {
       "claim": "March 2018 Memphis agreed to hire Hardaway; succeeded Tubby Smith fired after two seasons, no NCAA Tournament",
@@ -183,7 +158,7 @@
         "si-hardaway-hire-2018"
       ],
       "verdict": "confirmed",
-      "note": "SI quotes."
+      "note": "SI: Tubby Smith fired last week after two seasons; team failed to make NCAA tournament during his tenure."
     },
     {
       "claim": "AAU coaching; Memphis East High School three straight state titles",
@@ -191,7 +166,7 @@
         "si-hardaway-hire-2018"
       ],
       "verdict": "confirmed",
-      "note": "SI quotes."
+      "note": "SI: coached in the AAU circuit; led Memphis East to three straight state titles."
     },
     {
       "claim": "NIT final 77-64 over Mississippi State on 28 March 2021",
@@ -199,7 +174,7 @@
         "actionnews5-nit-2021"
       ],
       "verdict": "confirmed",
-      "note": "Memphis 77, Mississippi State 64, March 28, 2021."
+      "note": "Memphis 77-64 over Mississippi State; March 28, 2021."
     },
     {
       "claim": "Hardaway postgame quote 'We had to do it for our city, we owed it to them after the way the season started off'",
@@ -207,7 +182,7 @@
         "actionnews5-nit-2021"
       ],
       "verdict": "confirmed",
-      "note": "Quoted in source."
+      "note": "Quote present verbatim."
     },
     {
       "claim": "October 2022 six-year extension, $16.5M before incentives, through 2027-28",
@@ -216,7 +191,7 @@
         "actionnews5-extension-2022"
       ],
       "verdict": "confirmed",
-      "note": "Both sources."
+      "note": "CBS: $16.5 million before incentives, through 2027-28, announced Oct 12, 2022. ActionNews5: 6-year, $16.5 million, through 2027-28."
     },
     {
       "claim": "$2.5M first-season salary, rising $100,000 a year",
@@ -224,7 +199,7 @@
         "cbs-hardaway-extension-2022"
       ],
       "verdict": "confirmed",
-      "note": "CBS quotes."
+      "note": "CBS: salary of $2.5 million for the upcoming season; increases by $100,000 annually."
     },
     {
       "claim": "84-43 over four seasons; four straight 20-win seasons; 2022 NCAA Tournament",
@@ -232,7 +207,7 @@
         "actionnews5-extension-2022"
       ],
       "verdict": "confirmed",
-      "note": "Quoted in source."
+      "note": "ActionNews5: 84-43 in four seasons; four straight 20-win seasons; 2022 NCAA Tournament appearance."
     },
     {
       "claim": "Veatch: 'has been in the works for quite some time' and 'could not have a better fit as our head men's basketball coach'",
@@ -240,15 +215,15 @@
         "actionnews5-extension-2022"
       ],
       "verdict": "confirmed",
-      "note": "Both quotes present. Earlier reviewer note was wrong."
+      "note": "Both quotes present (source adds 'at Memphis' after the second phrase)."
     },
     {
-      "claim": "Probation over ineligible players and recruiting, from 2019-20; avoided stiffer punishments",
+      "claim": "Probation over ineligible players and recruiting, from 2019-20; avoided stiffer punishments; extension came weeks after probation",
       "sourceIds": [
         "actionnews5-extension-2022"
       ],
       "verdict": "confirmed",
-      "note": "Quoted in source. Article says 'a few weeks after'; source says 'weeks earlier'. Acceptable."
+      "note": "Source: probation over ineligible players and recruiting violations, stemming from 2019-20; weeks after; avoided stiffer punishments."
     },
     {
       "claim": "2025-26 Tigers finished 13-19",
@@ -256,7 +231,7 @@
         "dailymemphian-hardaway-2026"
       ],
       "verdict": "confirmed",
-      "note": "Related Daily Memphian story: finishing 13-19."
+      "note": "Daily Memphian related story: 'after finishing 13-19 this past season'."
     },
     {
       "claim": "John Martin wrote 'the task before him is immense'",
@@ -264,7 +239,7 @@
         "dailymemphian-hardaway-2026"
       ],
       "verdict": "confirmed",
-      "note": "Author John Martin, quote present."
+      "note": "Author John Martin; sentence present in opening paragraph."
     },
     {
       "claim": "Hardaway: 'I know I can come back from failure'",
@@ -272,7 +247,7 @@
         "dailymemphian-hardaway-2026"
       ],
       "verdict": "confirmed",
-      "note": "Quote present in related story."
+      "note": "Quote present in related story teaser text."
     },
     {
       "claim": "Eight players had until that Friday to say whether they would return",
@@ -280,15 +255,15 @@
         "dailymemphian-hardaway-2026"
       ],
       "verdict": "confirmed",
-      "note": "Eight players, until Friday."
+      "note": "Related story: eight Memphis players have until Friday to let Hardaway know. Seen only in teaser text."
     },
     {
-      "claim": "AD and Hardaway addressed attendance at home games two days after the decision",
+      "claim": "AD and Hardaway addressed attendance two days after the decision",
       "sourceIds": [
         "dailymemphian-hardaway-2026"
       ],
-      "verdict": "unsupported",
-      "note": "Source says dwindling basketball attendance, not home games. Change to 'attendance' or cite."
+      "verdict": "confirmed",
+      "note": "Related story: two days after deciding to retain Hardaway, the athletic director and Hardaway address dwindling basketball attendance. Seen only in teaser text."
     },
     {
       "claim": "March 2026 university announced Hardaway would return next season",
@@ -296,7 +271,7 @@
         "gotigers-return-2026"
       ],
       "verdict": "confirmed",
-      "note": "Headline 'Will Return Next Season' and URL dated 2026/3/16. Body not retrievable, so date is from URL."
+      "note": "Headline 'Will Return Next Season'; URL dated 2026/3/16. Body not retrievable; date from URL."
     },
     {
       "claim": "Summary/knownFor/metaDescription: former four-time All-Star, Olympic gold, 13-19 season, return for 2026-27",
@@ -306,33 +281,48 @@
         "dailymemphian-hardaway-2026",
         "gotigers-return-2026"
       ],
-      "verdict": "confirmed",
-      "note": "Backed by body sources. 2026-27 is the 'next season' per headline; acceptable."
+      "verdict": "source_unreachable",
+      "note": "Four-time All-Star and Memphis-born rely on Basketball-Reference, which is unreachable. Olympic gold, 13-19 and return are confirmed."
+    },
+    {
+      "claim": "FAQ: birthplace Memphis and high school at Treadwell High School",
+      "sourceIds": [
+        "bbref-hardaway",
+        "olympedia-hardaway"
+      ],
+      "verdict": "source_unreachable",
+      "note": "Memphis confirmed by Olympedia; Treadwell High School only on Basketball-Reference, which is unreachable."
+    },
+    {
+      "claim": "FAQ: birth date 18 July 1971 (Basketball-Reference) vs 18 July 1972 (Olympedia)",
+      "sourceIds": [
+        "bbref-hardaway",
+        "olympedia-hardaway"
+      ],
+      "verdict": "source_unreachable",
+      "note": "Olympedia 18 July 1972 confirmed. The 1971 figure is on Basketball-Reference, which is unreachable."
     },
     {
       "claim": "FAQ: height 6-7 (201 cm), 195 lb (88 kg)",
       "sourceIds": [
         "bbref-hardaway"
       ],
-      "verdict": "confirmed",
-      "note": "6-7, 195lb (201cm, 88kg)."
+      "verdict": "source_unreachable",
+      "note": "Basketball-Reference returns HTTP 403. Not verified."
     },
     {
       "claim": "FAQ: NBA totals 10,684 pts, 3,146 reb, 3,525 ast",
       "sourceIds": [
         "bbref-hardaway"
       ],
-      "verdict": "confirmed",
-      "note": "Matches bbref."
+      "verdict": "source_unreachable",
+      "note": "Basketball-Reference returns HTTP 403. Not verified."
     }
   ],
-  "uncitedClaims": [
-    "'Grew up in Memphis' and 'came back to the city as a coach' (first paragraph)",
-    "Middle name 'Deon'"
-  ],
+  "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "Clear timeline, primary sources (Olympedia, bbref, TSHF, M Club) and corrections to the 2021-2022 coverage. Two wording problems: unsupported middle name and 'grew up' phrasing, plus 'home games' wording that the source does not say.",
+  "valueNote": "Clear timeline built on primary sources (Olympedia, TSHF, M Club, university) and the 2021-2022 coverage. Wording fixed for the middle name and 'grew up' claims. Remaining issue is that Basketball-Reference, the main source for the career and physical facts, could not be opened.",
   "decision": "reject",
-  "summary": "Reject. Fix: remove middle name 'Deon'; remove 'grew up in Memphis' and 'came back' unless cited (birthplace is supported); change 'attendance at home games' to 'attendance' to match Daily Memphian. Other claims check out, including the All-Star/All-NBA years, Dream Team wording, Air Flight One and Veatch quotes, which earlier reviewer notes wrongly flagged. The 2026 return article was only confirmed by headline and URL date."
+  "summary": "Reject for now: Basketball-Reference (bbref-hardaway) returned HTTP 403 for every attempt, so the career totals, All-Star and All-NBA years, draft pick, height/weight, positions, high school and the 1971 birth year are unverified. All other claims were checked against opened sources. Fix: re-check once bbref is reachable, or cite a different source for those facts."
 }

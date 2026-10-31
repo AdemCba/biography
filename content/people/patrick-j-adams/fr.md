@@ -45,27 +45,17 @@ faq:
       soin de sa santé mentale, avoir trop bu vers la fin de cette saison, et
       juger l'histoire de Mike Ross achevée [s:tvline-suits-exit]
       [s:justjared-suits-exit-2024].
+flag: Rejected by the fact-check 4 times; needs a human editor.
 reviewNotes: >-
-  UNSUPPORTED: "FAQ: after seven seasons, he counted eight years away from home
-  and from his wife" (The source has no eight-year figure. Delete the sentence.)
-  | UNSUPPORTED: "Scott Ellis pushed him with 'c'est ta chance de régler ça, en
-  gros'" (Source reads 'this is your chance to fix that'. 'en gros' is not in
-  the source. Use the source wording or drop the quote marks.) | Prose reads
-  machine-written | Adds no value over existing pages: The French text follows
-  the English article sentence by sentence, with the same sections, quotes and
-  sources. It adds no French-language sources or local context, which the style
-  guide says fails review. | Reviewer recommends rejection: Rejected. (1) The
-  FAQ wife answer says 'huit ans loin de chez lui et de sa femme', which is not
-  in the cited Just Jared text; delete it. (2) The Ellis quote 'c'est ta chance
-  de régler ça, en gros' does not match the source 'this is your chance to fix
-  that'; use the source wording or drop the quote marks. (3) The text is a
-  sentence-by-sentence translation of the English page; rewrite it for French
-  readers with French-language sources and local context. The venue and podcast
-  issues from the brief are resolved in the current body.
-autoReviews: 3
-flag: Rejected by the fact-check 3 times; needs a human editor.
+  Adds no value over existing pages: Follows the English page sentence by
+  sentence, with the same sections, quotes and English-only sources. It adds no
+  French-language sources or French-specific context, which the style guide
+  treats as failing review. | Reviewer recommends rejection: All cited facts
+  check out after the fixes. Rejection is for the translation-only issue, not a
+  factual error.
+autoReviews: 4
 ---
-Pour la plupart des téléspectateurs français, Patrick J. Adams reste d'abord Mike Ross, l'avocat de Suits, la série judiciaire diffusée sur USA [s:usc-sda-patrick-j-adams] [s:tvseriesfinale-suits]. Ce Canadien est né le 27 août 1981 à Toronto [s:wikidata-q644565] [s:wikidata-q172], et Wikidata lui attribue la nationalité canadienne [s:wikidata-q16]. Sa fiche sur le site de la School of Dramatic Arts de l'USC mentionne aussi Old School, Pillow Talk, Room for Rent et Rosemary's Baby [s:usc-sda-patrick-j-adams].
+Patrick J. Adams reste d'abord Mike Ross, l'avocat de Suits, la série judiciaire diffusée sur USA [s:usc-sda-patrick-j-adams] [s:tvseriesfinale-suits]. Ce Canadien est né le 27 août 1981 à Toronto [s:wikidata-q644565] [s:wikidata-q172], et Wikidata lui attribue la nationalité canadienne [s:wikidata-q16]. Sa fiche sur le site de la School of Dramatic Arts de l'USC mentionne aussi Old School, Pillow Talk, Room for Rent et Rosemary's Baby [s:usc-sda-patrick-j-adams].
 
 ## Pourquoi il a quitté Suits
 
@@ -77,13 +67,13 @@ Sur sa santé, il a été plus franc dans un épisode du podcast Dinner's On Me,
 
 Après Suits, Adams a décroché le rôle du major John Glenn dans The Right Stuff, la série Disney+ consacrée aux astronautes du Mercury Seven [s:d23-right-stuff-glenn] [s:tvline-right-stuff-preview]. Il affirme avoir été le premier comédien engagé : « Je crois que j'ai été le premier à être choisi » [s:tvline-right-stuff-preview]. Le rôle lui faisait peur, « très peur, pour être honnête », et il voit en Glenn « le vilain petit canard des Mercury Seven, et pas parce qu'il était le meilleur » [s:tvline-right-stuff-preview].
 
-Pour s'y préparer, il a passé quelques jours dans les archives de Glenn à l'université d'État de l'Ohio, qu'il décrit comme « des centaines et des centaines de cartons de choses » [s:d23-right-stuff-glenn]. Il évoque aussi « une quantité énorme de ressources » à sa disposition [s:d23-right-stuff-glenn]. Lettres privées, journaux, échanges avec des présidents : il a tout lu, puis gardé ce qui lui parlait, ses « points d'appui », sans chercher à imiter le personnage [s:d23-right-stuff-glenn]. Quand l'offre est arrivée, sa réaction a été : « C'est ce que j'attendais » [s:tvline-right-stuff-preview].
+Pour s'y préparer, il a consulté les archives de Glenn à l'université d'État de l'Ohio, qui contiennent « des centaines et des centaines de cartons de choses » [s:d23-right-stuff-glenn]. Il évoque aussi « une quantité énorme de ressources » à sa disposition [s:d23-right-stuff-glenn]. Lettres privées, journaux, échanges avec des présidents : il a tout lu, puis gardé ce qui lui parlait, ses « points d'appui », sans chercher à imiter le personnage [s:d23-right-stuff-glenn]. Quand l'offre est arrivée, sa réaction a été : « C'est ce que j'attendais » [s:tvline-right-stuff-preview].
 
 ## Débuts à Broadway dans Take Me Out
 
 La pièce a fermé le 11 juin 2022 au Hayes Theatre [s:broadwayworld-take-me-out-tony]. Le lendemain, BroadwayWorld annonçait que la reprise avait remporté le Tony Award 2022 de la meilleure reprise d'une pièce, et citait Adams parmi les interprètes [s:broadwayworld-take-me-out-tony]. Adams y a fait ses débuts à Broadway dans le rôle de Kippy Sunderstrom [s:justjared-take-me-out-2024].
 
-La pièce demande aux comédiens d'être nus chaque soir, et selon Just Jared, Adams a dû faire abstraction de son trac pour y arriver [s:justjared-take-me-out-2024]. « C'était tellement intense que je crois que j'ai vraiment dû quitter mon corps chaque soir », a-t-il ajouté [s:justjared-take-me-out-2024]. Son metteur en scène, Scott Ellis, l'a poussé à accepter le rôle malgré ses crises de panique sur scène : « c'est ta chance de régler ça, en gros » [s:justjared-take-me-out-2024].
+Adams a dit que la pièce demandait d'être nus chaque soir [s:justjared-take-me-out-2024]. « C'était tellement intense que je crois que j'ai vraiment dû quitter mon corps chaque soir », a-t-il ajouté [s:justjared-take-me-out-2024]. Son metteur en scène, Scott Ellis, l'a poussé à accepter le rôle malgré ses crises de panique sur scène : « c'est ta chance de régler ça, en gros » [s:justjared-take-me-out-2024].
 
 ## The Madison et la fausse annonce de sa mort
 

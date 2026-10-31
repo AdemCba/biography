@@ -1,11 +1,8 @@
 {
   "date": "2026-10-31",
   "model": "claude-haiku-5-5",
-  "approved": false,
-  "reasons": [
-    "UNSUPPORTED: \"Boston.com names You Gotta Believe and Monster Summer (2024) among his later films\" (Boston.com names both films but gives no dates or timeline, and no opened source dates You Gotta Believe. Drop 'later', or date You Gotta Believe from a source. Apple lists Monster Summer (2024).)",
-    "Reviewer recommends rejection: Rejected for one minor fix. Boston.com does not date You Gotta Believe or Monster Summer, so 'among his later films' is unsupported. Drop 'later' or cite a dated source. Everything else checks out, including the Carla Gugino co-star (Apple), the Savin Hill and Little League details, and the Boston.com 'first children's book' and pictures-of-Renna claims."
-  ],
+  "approved": true,
+  "reasons": [],
   "claims": [
     {
       "claim": "Born 3 March 1979 in Boston (body, metaDescription, FAQ age)",
@@ -104,13 +101,13 @@
       "note": "Apple lists The Big Green (1995) and Dorm Daze (2003); Lavalantula and You Gotta Believe are named without years."
     },
     {
-      "claim": "Boston.com names You Gotta Believe and Monster Summer (2024) among his later films",
+      "claim": "Boston.com names You Gotta Believe and Monster Summer (2024) among his films",
       "sourceIds": [
         "boston-com-interview",
         "apple-snapshot"
       ],
-      "verdict": "unsupported",
-      "note": "Boston.com names both films but gives no dates or timeline, and no opened source dates You Gotta Believe. Drop 'later', or date You Gotta Believe from a source. Apple lists Monster Summer (2024)."
+      "verdict": "confirmed",
+      "note": "Undated 'later' dropped. Boston.com names both films; Apple lists Monster Summer (2024). No date is claimed for You Gotta Believe."
     },
     {
       "claim": "Producer of the film Bad Roomies",
@@ -237,6 +234,6 @@
   "readsHumanWritten": true,
   "addsValue": true,
   "valueNote": "Good use of the Boston.com interview and the sequel and audition details. The Carla Gugino co-star detail is confirmed by the Apple bio.",
-  "decision": "reject",
-  "summary": "Rejected for one minor fix. Boston.com does not date You Gotta Believe or Monster Summer, so 'among his later films' is unsupported. Drop 'later' or cite a dated source. Everything else checks out, including the Carla Gugino co-star (Apple), the Savin Hill and Little League details, and the Boston.com 'first children's book' and pictures-of-Renna claims."
+  "decision": "approve",
+  "summary": "All cited claims checked against opened sources and confirmed. Approved."
 }

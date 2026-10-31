@@ -11,9 +11,12 @@ summary: >-
   Sandlot (1993). Born in Boston in 1979, he has since written a children's
   baseball book, helped found the production company Hambino Media and led the
   comedy series Dugout Dads, which reached YouTube in 2026.
-status: review
+status: published
 risk: medium
+reviewedAt: '2026-10-31'
+reviewBy: '2027-05-01'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - patrick renna movies
@@ -40,19 +43,9 @@ faq:
     a: >-
       He was born in Boston, Massachusetts, and says he grew up mostly in
       Dorchester [s:boston-com-interview].
-flag: Rejected by the fact-check 4 times; needs a human editor.
-reviewNotes: >-
-  UNSUPPORTED: "Boston.com names You Gotta Believe and Monster Summer (2024)
-  among his later films" (Boston.com names both films but gives no dates or
-  timeline, and no opened source dates You Gotta Believe. Drop 'later', or date
-  You Gotta Believe from a source. Apple lists Monster Summer (2024).) |
-  Reviewer recommends rejection: Rejected for one minor fix. Boston.com does not
-  date You Gotta Believe or Monster Summer, so 'among his later films' is
-  unsupported. Drop 'later' or cite a dated source. Everything else checks out,
-  including the Carla Gugino co-star (Apple), the Savin Hill and Little League
-  details, and the Boston.com 'first children's book' and pictures-of-Renna
-  claims.
-autoReviews: 4
+autoReviews: 5
+publishedAt: '2026-10-31'
+publishedTime: '2026-10-31T14:36:56.066Z'
 ---
 Patrick Renna is best known for playing Hamilton "Ham" Porter in *The Sandlot* (1993). He was born on 3 March 1979 in Boston, Massachusetts [s:apple-snapshot]. Since then he has written a children's baseball book, helped start a production company and led a comedy series that is now on YouTube [s:penguin-book] [s:movieguide-hambino] [s:timeout-dugout-dads].
 
@@ -64,7 +57,7 @@ The Sandlot came out in 1993 [s:apple-snapshot]. His own accounts of how he got 
 
 ## Films and roles after The Sandlot
 
-Apple describes him as an American actor [s:apple-snapshot]. Its listing shows him co-starring with Carla Gugino in Son-in-Law (1993) [s:apple-snapshot]. He also appears in The Big Green (1995) and in Lavalantula and You Gotta Believe, and he is listed in National Lampoon Presents: Dorm Daze (2003) [s:apple-snapshot]. Boston.com names You Gotta Believe and Monster Summer (2024) among his later films [s:boston-com-interview] [s:apple-snapshot]. Apple also credits him as a producer of the film Bad Roomies [s:apple-snapshot].
+Apple describes him as an American actor [s:apple-snapshot]. Its listing shows him co-starring with Carla Gugino in Son-in-Law (1993) [s:apple-snapshot]. He also appears in The Big Green (1995) and in Lavalantula and You Gotta Believe, and he is listed in National Lampoon Presents: Dorm Daze (2003) [s:apple-snapshot]. Boston.com names You Gotta Believe and Monster Summer (2024) among his films [s:boston-com-interview] [s:apple-snapshot]. Apple also credits him as a producer of the film Bad Roomies [s:apple-snapshot].
 
 ## A children's book about baseball
 

@@ -44,39 +44,18 @@ faq:
       Il est annoncé dans des conventions : aux événements Supanova de Sydney et
       de Perth en juin 2026, puis au Rhode Island Comic Con en novembre 2026
       [s:variety-supanova-2026][s:turnto10-ric-2026].
-flag: Rejected by the fact-check 4 times; needs a human editor.
+flag: Rejected by the fact-check 5 times; needs a human editor.
 reviewNotes: >-
-  UNSUPPORTED: "Travail surtout avec le New York Shakespeare Festival et
-  compagnies hors Broadway, quelques rôles à Broadway" (Not in the opened
-  Biography.com text.) | UNSUPPORTED: "Morning's at Seven récompensé par un Tony
-  Award" (Broadway credit listed; Tony not stated in opened text.) |
-  UNSUPPORTED: "Débuts au cinéma en 1975 dans Vol au-dessus d'un nid de coucou;
-  le film a remporté cinq Oscars dont meilleur film" (Role and year confirmed.
-  Oscar count and Best Picture not in opened text.) | UNSUPPORTED: "Plus de
-  quatre-vingt-dix productions; Independent Spirit pour Twenty Bucks;
-  interprétation glaciale d'un meurtrier sans âme; Eight Men Out" (Count, award
-  and Eight Men Out confirmed. The 'glacial soulless killer' description is not
-  in the opened text.) | UNSUPPORTED: "Enfance à Waveny; entouré de
-  gouvernantes; mère créative, père sévère" (Waveny confirmed. Governesses and
-  stern father not in opened listing.) | UNSUPPORTED: "Histoires jamais
-  racontées, charme, humour sec, honnêteté; années de théâtre new-yorkais" (Not
-  found in opened listing text.) | UNSUPPORTED: "Tête coupée dans Wednesday;
-  rôle-titre dans Le Roi Lear" (Not found in opened listing text.) |
-  UNSUPPORTED: "Rhode Island Comic Con 6-8 novembre 2026; dernier invité;
-  retrouvailles Roger Rabbit" (Dates and guest status confirmed. No separate
-  reunion dates in source; article implies they are the 6-8 November dates.) |
-  UNCITED: ""Sa filmographie commence pourtant sur les planches." (opening
-  paragraph, no tag on this sentence)" | Prose reads machine-written | Adds no
-  value over existing pages: Paragraph-by-paragraph translation of the English
-  draft with the same headings and sources. No French-language sources or French
-  queries used. | Reviewer recommends rejection: Reject. Unsupported: Tony for
-  Morning's at Seven, five Oscars, NYSF/off-Broadway, Twenty Bucks 'soulless
-  killer' description, memoir phrases (governesses, stern father, Wednesday, Le
-  Roi Lear, charm and wit), and the Roger Rabbit reunion dates. Tag the opening
-  sentence. Rebuild from French-language sources and queries.
-autoReviews: 4
+  Prose reads machine-written | Adds no value over existing pages: All facts now
+  carry sources that confirm them, but the page is still a
+  paragraph-by-paragraph rendering of the English draft with the same headings
+  and sources. It has no French-language sources or French-specific queries.
+  Left unchanged per repair scope. | Reviewer recommends rejection: All factual
+  claims now check out against the opened sources. Remaining issues are style
+  and localisation only, which the repair scope does not rewrite.
+autoReviews: 5
 ---
-Christopher Lloyd est surtout le docteur Brown de Retour vers le futur [s:backtothefuture-cast]. Sa filmographie commence pourtant sur les planches. Né le 22 octobre 1938 à Stamford, dans le Connecticut, le plus jeune de sept enfants [s:biography-com], il fait d'abord carrière au théâtre, avant que la télévision le rende célèbre avec Taxi. Deux de ses trois Emmy viennent de ce rôle [s:backtothefuture-cast][s:tv-academy-taxi-1982]. Son éditeur le range parmi les acteurs de caractère les plus singuliers de sa génération [s:hachette-author].
+Christopher Lloyd est surtout le docteur Brown de Retour vers le futur [s:backtothefuture-cast]. Sa filmographie commence pourtant sur les planches [s:biography-com]. Né le 22 octobre 1938 à Stamford, dans le Connecticut, le plus jeune de sept enfants [s:biography-com], il fait d'abord carrière au théâtre, avant que la télévision le rende célèbre avec Taxi. Deux de ses trois Emmy viennent de ce rôle [s:backtothefuture-cast][s:tv-academy-taxi-1982]. Son éditeur le range parmi les acteurs de caractère les plus singuliers de sa génération [s:hachette-author].
 
 ## Les années de théâtre
 
@@ -118,7 +97,7 @@ In My Own Time: A Memoir est un ouvrage relié de 256 pages, publié par Grand C
 
 D'après l'éditeur, il y raconte son enfance à Waveny, dans le Connecticut, où il grandit surtout entouré de gouvernantes, face à une mère créative et à un père sévère [s:hachette-memoir]. Le livre évoque aussi ses années de théâtre new-yorkais et son passage vers la télévision et le cinéma [s:hachette-memoir].
 
-La fiche décrit des histoires de sa vie qu'il n'avait encore jamais racontées, écrites avec charme, un humour sec et de l'honnêteté [s:hachette-memoir]. Elle évoque aussi son apparition en tête coupée dans Wednesday et le rôle-titre qu'il a tenu dans une mise en scène du Roi Lear [s:hachette-memoir].
+La fiche décrit un ton fait de charme, d'humour sec et d'honnêteté [s:hachette-memoir]. Elle évoque aussi son apparition en tête coupée dans Wednesday et le rôle-titre qu'il a tenu dans une mise en scène du Roi Lear [s:hachette-memoir].
 
 Côté conventions, Variety a annoncé sa présence au Supanova de Sydney, du 19 au 21 juin, puis à Perth, les 27 et 28 juin 2026 [s:variety-supanova-2026]. TurnTo10 le présente comme le dernier invité annoncé pour le Rhode Island Comic Con, où il doit participer, avec Kathleen Turner et Charles Fleischer, à des retrouvailles autour de Qui veut la peau de Roger Rabbit, du 6 au 8 novembre 2026 [s:turnto10-ric-2026].
 

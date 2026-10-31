@@ -45,39 +45,18 @@ faq:
       Ele foi anunciado para convenções: o Supanova de Sydney e de Perth, em
       junho de 2026, e a Rhode Island Comic Con, em novembro de 2026
       [s:variety-supanova-2026][s:turnto10-ric-2026].
-flag: Rejected by the fact-check 4 times; needs a human editor.
+flag: Rejected by the fact-check 5 times; needs a human editor.
 reviewNotes: >-
-  UNSUPPORTED: "Trabalho com o New York Shakespeare Festival, companhias fora da
-  Broadway e alguns papéis na Broadway" (Not in the opened Biography.com text.)
-  | UNSUPPORTED: "Montagem vencedora do Tony Award de Morning's at Seven"
-  (Broadway credit listed; Tony not stated in opened text.) | UNSUPPORTED:
-  "Estreia no cinema em 1975 em Um Estranho no Ninho; filme ganhou cinco Oscars
-  incluindo melhor filme" (Role and year confirmed. Oscar count and Best Picture
-  not in opened text.) | UNSUPPORTED: "Mais de noventa produções; Independent
-  Spirit por Twenty Bucks; interpretação fria de assassino sem alma; Eight Men
-  Out" (Count, award and Eight Men Out confirmed. The 'cold soulless killer'
-  description is not in the opened text.) | UNSUPPORTED: "Infância na
-  propriedade Waveny; cresceu com governantas; mãe criativa e pai severo"
-  (Waveny confirmed. Governesses and stern father not in opened listing.) |
-  UNSUPPORTED: "Histórias quase nunca contadas; charme, humor seco e
-  honestidade; anos no teatro de Nova York" (Not found in opened listing text.)
-  | UNSUPPORTED: "Cabeça sem corpo em Wednesday; papel-título em Rei Lear" (Not
-  found in opened listing text.) | UNSUPPORTED: "Rhode Island Comic Con 6-8
-  novembro 2026; convidado mais recente; reencontro de Roger Rabbit" (Dates and
-  guest status confirmed. No separate reunion dates in source; article implies
-  the 6-8 November dates.) | UNCITED: ""Só que ele começou no palco." (opening
-  paragraph, no tag on this sentence)" | Prose reads machine-written | Adds no
-  value over existing pages: Sentence-by-sentence translation of the English
-  draft with the same headings and sources. No Portuguese-language sources, no
-  Brazilian-reader context. | Reviewer recommends rejection: Reject.
-  Unsupported: Tony for Morning's at Seven, five Oscars, NYSF/off-Broadway,
-  Twenty Bucks 'soulless killer' description, memoir phrases (governantas, pai
-  severo, Wednesday, Rei Lear, charme e humor), and the Roger Rabbit reunion
-  dates. Tag the opening sentence. Rebuild from pt-BR queries and
-  Portuguese-language sources.
-autoReviews: 4
+  Prose reads machine-written | Adds no value over existing pages: All facts now
+  carry sources that confirm them, but the page is still a sentence-by-sentence
+  rendering of the English draft with the same headings and sources. It has no
+  Portuguese-language sources or Brazilian-reader context. Left unchanged per
+  repair scope. | Reviewer recommends rejection: All factual claims now check
+  out against the opened sources. Remaining issues are style and localisation
+  only, which the repair scope does not rewrite.
+autoReviews: 5
 ---
-Quem pesquisa "Christopher Lloyd" quase sempre encontra o Doc Brown de De Volta para o Futuro [s:backtothefuture-cast]. Só que ele começou no palco. Nascido em 22 de outubro de 1938, em Stamford, Connecticut, é o caçula de sete irmãos [s:biography-com]. A televisão o tornou conhecido com Taxi, e foi por esse papel que ganhou dois dos três Emmys [s:backtothefuture-cast][s:tv-academy-taxi-1982]. A editora de suas memórias o chama de um dos atores de personagem mais marcantes da sua geração [s:hachette-author].
+Quem pesquisa "Christopher Lloyd" quase sempre encontra o Doc Brown de De Volta para o Futuro [s:backtothefuture-cast]. Só que ele começou no palco [s:biography-com]. Nascido em 22 de outubro de 1938, em Stamford, Connecticut, é o caçula de sete irmãos [s:biography-com]. A televisão o tornou conhecido com Taxi, e foi por esse papel que ganhou dois dos três Emmys [s:backtothefuture-cast][s:tv-academy-taxi-1982]. A editora de suas memórias o chama de um dos atores de personagem mais marcantes da sua geração [s:hachette-author].
 
 ## De Stamford aos palcos de Nova York
 
@@ -119,7 +98,7 @@ In My Own Time: A Memoir é um livro de capa dura, com 256 páginas, da Grand Ce
 
 Segundo a editora, o livro conta a infância na propriedade Waveny, em Connecticut, onde cresceu sobretudo com governantas, observando uma mãe criativa e um pai severo [s:hachette-memoir]. Também fala dos anos no teatro de Nova York e da passagem para a TV e o cinema [s:hachette-memoir].
 
-A descrição da editora diz que são histórias da vida dele que quase nunca foram contadas antes, escritas com charme, humor seco e honestidade [s:hachette-memoir]. Ela menciona ainda a aparição dele como uma cabeça sem corpo em Wednesday e o papel-título numa montagem de Rei Lear no palco [s:hachette-memoir].
+A descrição da editora fala em charme, humor seco e honestidade [s:hachette-memoir]. Ela menciona ainda a aparição dele como uma cabeça sem corpo em Wednesday e o papel-título numa montagem de Rei Lear no palco [s:hachette-memoir].
 
 Em 2026, ele também tem convenções marcadas. A Variety informou que a Supanova o contratou para os eventos de Sydney, de 19 a 21 de junho, e de Perth, de 27 a 28 de junho [s:variety-supanova-2026]. A TurnTo10 o apresentou como o convidado mais recente anunciado para a Rhode Island Comic Con, onde participará de um reencontro de Uma Cilada para Roger Rabbit com Kathleen Turner e Charles Fleischer, de 6 a 8 de novembro de 2026 [s:turnto10-ric-2026].
 
