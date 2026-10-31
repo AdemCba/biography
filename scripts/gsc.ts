@@ -21,11 +21,11 @@ type Row = { keys: string[]; clicks: number; impressions: number; ctr: number; p
 
 const b64url = (s: string | Buffer) => Buffer.from(s).toString("base64url");
 
-async function accessToken(): Promise<string> {
+export async function accessToken(scope = "https://www.googleapis.com/auth/webmasters.readonly"): Promise<string> {
   const key = JSON.parse(process.env.GSC_SERVICE_ACCOUNT ?? "{}") as { client_email?: string; private_key?: string };
   if (!key.client_email || !key.private_key) throw new Error("GSC_SERVICE_ACCOUNT is missing or not a service account JSON key");
   const now = Math.floor(Date.now() / 1000);
-  const claims = { iss: key.client_email, scope: "https://www.googleapis.com/auth/webmasters.readonly", aud: "https://oauth2.googleapis.com/token", iat: now, exp: now + 3600 };
+  const claims = { iss: key.client_email, scope, aud: "https://oauth2.googleapis.com/token", iat: now, exp: now + 3600 };
   const unsigned = `${b64url(JSON.stringify({ alg: "RS256", typ: "JWT" }))}.${b64url(JSON.stringify(claims))}`;
   const signature = crypto.createSign("RSA-SHA256").update(unsigned).sign(key.private_key);
   const res = await fetch("https://oauth2.googleapis.com/token", {

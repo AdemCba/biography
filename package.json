@@ -22,7 +22,8 @@
     "write": "tsx scripts/write.ts",
     "images": "tsx scripts/images.ts",
     "suggest": "tsx scripts/suggest.ts",
-    "gsc": "tsx scripts/gsc.ts"
+    "gsc": "tsx scripts/gsc.ts",
+    "ga": "tsx scripts/ga.ts"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
