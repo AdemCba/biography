@@ -4,6 +4,7 @@ import matter from "gray-matter";
 import type { z } from "zod";
 import { ALL_LOCALES, type Locale } from "@/i18n/config";
 import { checkContent } from "./quality";
+import { wordCount } from "./markdown";
 import {
   articleSchema,
   categorySchema,
@@ -194,6 +195,33 @@ export function liveTopics(locale: Locale, store = getContent()): { topic: Topic
     })
     .filter((x): x is { topic: Topic; article: Article } => !!x.article)
     .sort((a, b) => (b.article.meta.publishedAt ?? "").localeCompare(a.article.meta.publishedAt ?? ""));
+}
+
+/** Old trending stories shorter than this are kept out of Google's index (still readable on the site). */
+export const SHORT_TOPIC_WORDS = 600;
+const STALE_TOPIC_DAYS = 7;
+
+let searchPages: Set<string> | undefined;
+/** Pages Search Console currently shows in results ("de/trending/slug"), from data/seo/focus.md. */
+function pagesWithImpressions(): Set<string> {
+  if (searchPages) return searchPages;
+  const file = path.join(process.cwd(), "data", "seo", "focus.md");
+  const text = fs.existsSync(file) ? fs.readFileSync(file, "utf8") : "";
+  searchPages = new Set([...text.matchAll(/^- \[[ x]\] (\S+)/gim)].map((m) => m[1]));
+  return searchPages;
+}
+
+/**
+ * noindex for a trending story: set by hand, or an old short story that Google is not showing anyway.
+ * Thin old news pages count against the whole site's quality; new stories are written at 700+ words.
+ */
+export function topicNoindex(locale: Locale, article: Article, now = today()): boolean {
+  if (article.meta.noindex) return true;
+  const published = article.meta.publishedAt;
+  if (!published) return false;
+  const cutoff = new Date(Date.parse(now) - STALE_TOPIC_DAYS * 86400e3).toISOString().slice(0, 10);
+  if (published >= cutoff || wordCount(article.body) >= SHORT_TOPIC_WORDS) return false;
+  return !pagesWithImpressions().has(`${locale}/trending/${article.meta.slug}`);
 }
 
 export function lastModified(meta: ArticleMeta): string {

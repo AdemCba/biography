@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 import { absoluteUrl, site } from "@/config/site";
 import { HREFLANG, type Locale } from "@/i18n/config";
-import { categoryPath, editorPath, getContent, lastModified, livePeople, liveTopics, personPath, topicPath } from "@/lib/content";
+import { categoryPath, editorPath, getContent, lastModified, livePeople, liveTopics, personPath, topicNoindex, topicPath } from "@/lib/content";
 import { categoryAlternates, MIN_CATEGORY_PEOPLE, personAlternates } from "@/lib/seo";
 
 export const dynamic = "force-static";
@@ -39,7 +39,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       entries.push({ url: absoluteUrl(`/${locale}/trending/`), lastModified: topics.map((x) => lastModified(x.article.meta)).sort().at(-1) });
     }
     for (const { topic, article } of topics) {
-      if (article.meta.noindex) continue;
+      if (topicNoindex(locale, article)) continue;
       entries.push({
         url: absoluteUrl(topicPath(locale, article.meta.slug)),
         lastModified: lastModified(article.meta),
