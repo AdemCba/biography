@@ -1,10 +1,14 @@
 {
   "id": "kane-ballon-dor-woche-2026",
   "people": [
-    "harry-kane"
+    "harry-kane",
+    "kylian-mbappe",
+    "lamine-yamal",
+    "alexia-putellas"
   ],
   "trendingIn": [
-    "DE"
+    "DE",
+    "FR"
   ],
   "wikidata": "Q969725",
   "sources": [
@@ -52,6 +56,15 @@
       "type": "press",
       "accessed": "2026-10-29",
       "lang": "en"
+    },
+    {
+      "id": "lequipe-ballon-dor-2026",
+      "url": "https://www.lequipe.fr/France-Football/Actualites/28-points-d-ecart-entre-kane-et-mbappe-lamine-yamal-distance-putellas-confortablement-elue-retrouvez-les-classements-masculins-et-feminins-du-ballon-d-or-2026/1739755",
+      "title": "28 points d'écart entre Kane et Mbappé, Lamine Yamal distancé, Putellas confortablement élue : retrouvez les classements masculins et féminins du Ballon d'Or 2026",
+      "publisher": "L'Équipe",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "fr"
     },
     {
       "id": "wikidata-q969725",

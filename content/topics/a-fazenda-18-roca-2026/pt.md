@@ -13,6 +13,7 @@ status: published
 risk: low
 publishedAt: '2026-10-29'
 reviewedAt: '2026-10-29'
+updatedAt: '2026-10-31'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -48,6 +49,13 @@ Duas saídas em tão pouco tempo chamam atenção, porque mudam o equilíbrio da
 ## Quem está na 6ª roça
 
 Até o fechamento deste texto, a lista de indicados da 6ª roça não foi confirmada, e a enquete do UOL reflete apenas a opinião de quem vota. A 6ª roça ainda estava em definição quando o UOL publicou a enquete. A pergunta é direta: quem o público quer que fique no programa [s:uol-enquete-roca6]. As enquetes de internet não decidem o resultado oficial, e o público só sabe quem sai quando a Record anuncia a eliminação ao vivo [s:dci-catherine].
+
+## Festa, briga e a atuação dos Ninjas
+
+Uma festa na casa virou assunto nos últimos dias por causa de uma sequência de atritos. Mayk caiu sobre uma mesa de vidro e se feriu no dedo, e acusou Mônica de tê-lo empurrado, algo que ela negou [s:itatiaia-mayk].
+
+Thaíde afirmou que Alfredo o associou à "bandidagem" durante uma discussão e classificou a fala como preconceituosa, acusando o fazendeiro de racismo [s:diariodamidia-thaide]. Segundo o relato da UOL, Alfredo, Thaíde e Renata chegaram a quase se agredir, e a equipe de segurança do programa, chamada de Os Ninjas, precisou entrar para separar os participantes. A produção encerrou a festa depois do episódio [s:uol-ninjas].
+
 
 ## O que acompanhar
 

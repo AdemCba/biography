@@ -13,6 +13,7 @@ status: published
 risk: low
 publishedAt: '2026-10-28'
 reviewedAt: '2026-10-28'
+updatedAt: '2026-10-31'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -58,3 +59,9 @@ Concrètement, avant de commander, demandez le montant de la baisse au litre et 
 Trois échéances fixent le calendrier : le 1er novembre pour le début de la répercussion, le 31 janvier 2027 pour la fin des ventes de stocks prévues à l'article 2, et le 31 mars 2027 pour le reversement complet [s:legifrance-decret-2026-981]. Le texte court jusqu'au 15 avril 2027 [s:legifrance-decret-2026-981].
 
 Pour suivre le prix, le repère reste le relevé hebdomadaire de la DGEC, que Selectra reprend [s:selectra-fioul-livreur-barils-2026-10]. Les relevés publiés après le 16 octobre ne sont pas repris ici : il faut les consulter directement.
+
+## Mise à jour du 31 octobre : date de départ et périmètre
+
+Les médias ne donnent pas tous la même date de départ de la remise. La plupart parlent du 1er novembre, mais un article annonce une remise de 200 euros pour 1 000 litres « dès lundi », soit le 2 novembre 2026 [s:headtopics-fioul-lundi]. Franceinfo titre sur une baisse de 200 euros annoncée pour novembre [s:franceinfo-fioul-novembre]. Pour un particulier, la date à retenir est celle indiquée sur son devis ou par son livreur.
+
+Le périmètre n'est pas non plus figé. Selon Patrimoine Magazine, la communication gouvernementale initiale visait surtout le gazole, et les ménages qui se chauffent au fioul doivent vérifier que leur produit est bien inclus dans le décret définitif [s:patrimoine-fioul-gazole]. Tant que le texte ou TotalEnergies ne le précisent pas, il faut demander par écrit si le fioul domestique est couvert.

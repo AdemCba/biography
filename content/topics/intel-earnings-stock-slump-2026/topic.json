@@ -3,7 +3,8 @@
   "people": [],
   "trendingIn": [
     "GB",
-    "ES"
+    "ES",
+    "FR"
   ],
   "wikidata": "Q248",
   "sources": [
@@ -24,6 +25,42 @@
       "type": "press",
       "accessed": "2026-10-29",
       "lang": "es"
+    },
+    {
+      "id": "yahoo-tech-selloff",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-sink-amazon-intel-114737736.html",
+      "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
+      "publisher": "Yahoo Finance",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "xinhua-tech-selloff",
+      "url": "https://english.news.cn/20261031/d223ef7bce5e4340a46de391d2fde24e/c.html",
+      "title": "U.S. stocks tumble amid Big Tech earnings misses, AI spending fears",
+      "publisher": "Xinhua",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "cbs-tech-selloff",
+      "url": "https://www.cbsnews.com/news/nasdaq-futures-tumble-tech-earnings-ai/",
+      "title": "Nasdaq sheds more than 700 points as jittery investors pull back from tech stocks",
+      "publisher": "CBS News",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "abc-wall-street",
+      "url": "https://www.abc.net.au/news/2026-10-31/wall-street-drops-to-its-worst-day-since-june/107331332",
+      "title": "Wall Street drops to its worst day since June after sell-off for tech stocks deepens",
+      "publisher": "ABC News",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
     }
   ],
   "image": {
