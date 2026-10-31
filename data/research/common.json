@@ -1,0 +1,97 @@
+{
+  "worthWriting": true,
+  "reason": "Living US rapper and actor with a long, documented career: Grammy, Academy Award and Primetime Emmy wins confirmed by award-body pages, and film roles listed on the Television Academy bio. Not a minor, no sensitive matters required.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "grammy-artist-common",
+      "url": "https://grammy.com/artists/common/1332",
+      "title": "Common - Artist page (Recording Academy)",
+      "publisher": "Recording Academy (Grammy.com)",
+      "type": "award-body",
+      "lang": "en"
+    },
+    {
+      "id": "oscars-2015-ceremony",
+      "url": "https://www.oscars.org/oscars/ceremonies/2015",
+      "title": "The 87th Academy Awards (2015) nominees and winners",
+      "publisher": "Academy of Motion Picture Arts and Sciences",
+      "type": "award-body",
+      "lang": "en"
+    },
+    {
+      "id": "grammy-first-rapper-emmy-oscar",
+      "url": "https://www.grammy.com/news/common-becomes-first-rapper-win-grammy-emmy-and-oscar",
+      "title": "Common Becomes First Rapper To Win Grammy, Emmy And Oscar",
+      "publisher": "Recording Academy (Grammy.com)",
+      "type": "award-body",
+      "lang": "en"
+    },
+    {
+      "id": "television-academy-common",
+      "url": "https://www.televisionacademy.com/bios/common",
+      "title": "Common - Bio (Television Academy)",
+      "publisher": "Television Academy",
+      "type": "award-body",
+      "lang": "en"
+    },
+    {
+      "id": "grammy-qa-like-water-for-chocolate",
+      "url": "https://www.grammy.com/news/qa-common-tells-stories-behind-water-chocolate-its-20th-anniversary",
+      "title": "Q&A: Common Tells The Stories Behind 'Like Water For Chocolate' For Its 20th Anniversary",
+      "publisher": "Recording Academy (Grammy.com)",
+      "type": "interview",
+      "lang": "en"
+    },
+    {
+      "id": "complex-the-auditorium-vol-1",
+      "url": "https://www.complex.com/music/a/brad-callas/common-pete-rock-the-auditorium-vol-1",
+      "title": "Common Drops Joint Album With Pete Rock, 'The Auditorium, Vol. 1'",
+      "publisher": "Complex",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1972-03-13",
+      "sources": [
+        "grammy-artist-common",
+        "television-academy-common"
+      ],
+      "note": "Both give March 13, 1972. Birth name Lonnie Rashid Lynn Jr. is given on the Grammy artist page."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Chicago, Illinois, United States",
+      "sources": [
+        "grammy-artist-common",
+        "television-academy-common"
+      ],
+      "note": "Both list Chicago, Illinois."
+    },
+    "nationality": {
+      "value": "US",
+      "sources": [
+        "television-academy-common"
+      ],
+      "note": "Described as an American rapper, actor, writer, philanthropist and activist."
+    }
+  },
+  "targetQueries": [
+    "who is Common rapper",
+    "Common rapper age",
+    "Common rapper real name",
+    "Common rapper movies",
+    "Common rapper Grammy wins",
+    "Common rapper Oscar Glory",
+    "Common rapper Emmy 13th",
+    "Common rapper albums",
+    "Common rapper Like Water for Chocolate",
+    "Common rapper Selma role",
+    "where is Common rapper from"
+  ],
+  "gapNote": "Search for late-October 2026 news about Common found no dated story; results were generic. Facts rely on Grammy, Academy and Television Academy pages. The Grammy artist page marks only 'Glory' (2016) as a win; the Television Academy bio lists 'Love of My Life' (2003 Best R&B Song) and 'Southside' (2008 Best Rap Performance by a Duo or Group) as wins, while the Grammy page lists them as nominations. The page should say so. Official website was not found."
+}

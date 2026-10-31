@@ -1,0 +1,94 @@
+{
+  "worthWriting": true,
+  "reason": "Living American actress with a long screen career (The Sandlot, Pleasantville, Grindhouse, Scream). Not a minor, no crime or tragedy. Recent online news is unconfirmed tabloid gossip (retirement, engagement, Bond casting), which is left out. Sourced facts are enough for a medium-length page.",
+  "wikidata": "Q235072",
+  "importance": 3,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "tmdb-marley-shelton",
+      "url": "https://www.themoviedb.org/person/6407-marley-shelton",
+      "title": "Marley Shelton - Personal Info and Biography",
+      "publisher": "The Movie Database (TMDb)",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "wikidata-marley-shelton",
+      "url": "https://www.wikidata.org/wiki/Q235072",
+      "title": "Marley Shelton (Q235072)",
+      "publisher": "Wikidata",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "brave-beginnings-psa",
+      "url": "https://bravebeginnings.org/marley-shelton-stars-in-latest-psa-from-brave-beginnings/",
+      "title": "Marley Shelton Stars in Latest PSA from Brave Beginnings",
+      "publisher": "Brave Beginnings",
+      "type": "other",
+      "lang": "en"
+    },
+    {
+      "id": "etonline-scream-judy-hicks",
+      "url": "https://www.etonline.com/scream-star-marley-shelton-on-judy-hicks-return-and-those-lemon-squares-exclusive-177747",
+      "title": "'Scream' Star Marley Shelton on Judy Hicks' Return and Those Lemon Squares (Exclusive)",
+      "publisher": "E! Online",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "sliceofscifi-grindhouse-interview",
+      "url": "https://www.sliceofscifi.com/2007/04/02/exclusive-marley-shelton-grindhouse-interview/",
+      "title": "EXCLUSIVE: Marley Shelton 'Grindhouse' Interview",
+      "publisher": "Slice of SciFi (Joe Russo)",
+      "type": "interview",
+      "lang": "en"
+    },
+    {
+      "id": "broadwayworld-marley-shelton",
+      "url": "https://www.broadwayworld.com/people/Marley-Shelton/",
+      "title": "Marley Shelton - Broadway & Theatre Credits, Current Shows, News, Bio",
+      "publisher": "BroadwayWorld",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1974-04-12",
+      "sources": [
+        "tmdb-marley-shelton",
+        "wikidata-marley-shelton"
+      ],
+      "note": "TMDb and Wikidata agree. Low-quality sites list other years; not used."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Los Angeles, California, USA",
+      "sources": [
+        "tmdb-marley-shelton",
+        "wikidata-marley-shelton"
+      ],
+      "note": "Wikidata gives Los Angeles; TMDb gives Los Angeles, California, USA."
+    },
+    "nationality": {
+      "value": "US",
+      "sources": [
+        "wikidata-marley-shelton"
+      ],
+      "note": "Wikidata country of citizenship: United States. TMDb describes her as an American actress."
+    }
+  },
+  "targetQueries": [
+    "marley shelton movies",
+    "marley shelton sandlot",
+    "marley shelton scream",
+    "marley shelton pleasantville",
+    "marley shelton age",
+    "marley shelton now",
+    "marley shelton planet terror",
+    "marley shelton sin city"
+  ],
+  "gapNote": "Search results are dominated by auto-generated fan and net-worth sites with unverifiable claims. The gap is a short, fully sourced career timeline (Pleasantville, The Sandlot, Grindhouse, Scream, Rampage) with the birth date from two databases, and a note that no verified October 2026 news was found. Net worth is not sourced and is left out."
+}

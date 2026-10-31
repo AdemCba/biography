@@ -1,0 +1,297 @@
+{
+  "date": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"FAQ: 'según Just Jared, Adams dijo que, tras siete temporadas, en realidad llevaba ocho años lejos de casa y de su mujer'\" (The fetched source does not mention eight years away from home or from his wife, and does not link time away to leaving. The 'ocho años' figure appears in neither the source nor the English article. Delete the sentence.)",
+    "UNSUPPORTED: \"Scott Ellis encouraged him despite stage panic attacks with the words 'es tu oportunidad de arreglarlo, básicamente'\" (The source has 'this is your chance to fix that'. 'básicamente' is not in the source. Quote the source wording or drop the quote marks.)",
+    "Prose reads machine-written",
+    "Adds no value over existing pages: The Spanish text follows the English article sentence by sentence, with the same headings, quotes and order. It adds no Spanish-specific queries, Spanish-language sources or local context, which the style guide says fails review.",
+    "Reviewer recommends rejection: Rejected. (1) The FAQ wife answer invents 'ocho años lejos de casa y de su mujer', which is not in the cited Just Jared text; delete it. (2) The Ellis quote 'es tu oportunidad de arreglarlo, básicamente' is not in the source; use the source wording or drop the quote marks. (3) The text is a sentence-by-sentence translation of the English page and adds no Spanish-specific value; rewrite it for Spanish readers. The venue and podcast issues from the brief are resolved in the current text."
+  ],
+  "claims": [
+    {
+      "claim": "Actor canadiense nacido el 27 de agosto de 1981 en Toronto, Ontario (summary, metaDescription, body)",
+      "sourceIds": [
+        "wikidata-q644565",
+        "wikidata-q172",
+        "wikidata-q16"
+      ],
+      "verdict": "confirmed",
+      "note": "Wikidata gives the date, Toronto, and Canada as citizenship. Toronto is in Ontario, Canada."
+    },
+    {
+      "claim": "Mike Ross in Suits (USA), the best-known role",
+      "sourceIds": [
+        "usc-sda-patrick-j-adams",
+        "tvseriesfinale-suits"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources list him as Mike Ross in Suits on USA."
+    },
+    {
+      "claim": "USC profile lists Old School, Pillow Talk, Room for Rent and Rosemary's Baby",
+      "sourceIds": [
+        "usc-sda-patrick-j-adams"
+      ],
+      "verdict": "confirmed",
+      "note": "All four titles appear in the USC credits."
+    },
+    {
+      "claim": "Suits aired on USA from 23 June 2011 to 25 September 2019, nine seasons, 134 episodes",
+      "sourceIds": [
+        "tvseriesfinale-suits"
+      ],
+      "verdict": "confirmed",
+      "note": "Dates, seasons, episodes and network match."
+    },
+    {
+      "claim": "Nomination for the Screen Actors Guild Award, outstanding actor in a drama series",
+      "sourceIds": [
+        "usc-sda-patrick-j-adams"
+      ],
+      "verdict": "confirmed",
+      "note": "USC bio states the SAG nomination for Suits."
+    },
+    {
+      "claim": "Left Suits after season seven",
+      "sourceIds": [
+        "tvline-suits-exit"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed by TVLine and Just Jared."
+    },
+    {
+      "claim": "Quote 2018 Hollywood Reporter: 'ya hemos contado su historia, y si se queda más tiempo, Mike será solo otro abogado en la televisión' (translation of the English quote)",
+      "sourceIds": [
+        "justjared-suits-exit-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Faithful translation of the English quote; attribution confirmed."
+    },
+    {
+      "claim": "Began thinking about leaving halfway through season six",
+      "sourceIds": [
+        "justjared-suits-exit-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: end of the first half of season six."
+    },
+    {
+      "claim": "Podcast Dinner's On Me with Jesse Tyler Ferguson; did not look after mental health; drank too much by end of season seven",
+      "sourceIds": [
+        "tvline-suits-exit"
+      ],
+      "verdict": "confirmed",
+      "note": "Source supports the podcast, host, depression and heavy drinking."
+    },
+    {
+      "claim": "Only money would have been a reason to stay; never regretted leaving; quote 'Fue lo correcto para mi matrimonio... Era el momento'",
+      "sourceIds": [
+        "tvline-suits-exit"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: main reason to stay was money; quote 'the right thing for my marriage... It was time' is faithfully rendered."
+    },
+    {
+      "claim": "Married to actress Troian Bellisario",
+      "sourceIds": [
+        "justjared-suits-exit-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Source names Troian Bellisario as his wife."
+    },
+    {
+      "claim": "FAQ: 'según Just Jared, Adams dijo que, tras siete temporadas, en realidad llevaba ocho años lejos de casa y de su mujer'",
+      "sourceIds": [
+        "justjared-suits-exit-2024"
+      ],
+      "verdict": "unsupported",
+      "note": "The fetched source does not mention eight years away from home or from his wife, and does not link time away to leaving. The 'ocho años' figure appears in neither the source nor the English article. Delete the sentence."
+    },
+    {
+      "claim": "Cast as John Glenn (mayor/Major) in The Right Stuff, Disney+",
+      "sourceIds": [
+        "d23-right-stuff-glenn",
+        "tvline-right-stuff-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "D23 says Major John Glenn; TVLine calls him astronaut John Glenn."
+    },
+    {
+      "claim": "Quote 'creo que fui el primero en ser elegido'",
+      "sourceIds": [
+        "tvline-right-stuff-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Faithful translation of 'I think I was the first person cast'."
+    },
+    {
+      "claim": "Quote 'tenía mucho miedo, la verdad' and Glenn as 'el bicho raro de los Mercury Seven, y no porque fuera el mejor'",
+      "sourceIds": [
+        "tvline-right-stuff-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Both are faithful translations of the English quotes."
+    },
+    {
+      "claim": "Spent a couple of days in the Glenn archives at Ohio State; 'cientos y cientos de cajas de cosas'; 'el lujo de disponer de una cantidad enorme de recursos'",
+      "sourceIds": [
+        "d23-right-stuff-glenn"
+      ],
+      "verdict": "confirmed",
+      "note": "Source supports the archive, the couple of days, and both quotes in translation. 'Universidad Estatal de Ohio' is the usual Spanish name for Ohio State."
+    },
+    {
+      "claim": "Read private letters, diaries and correspondence with presidents; kept what resonated as 'puntos de apoyo' rather than an impression",
+      "sourceIds": [
+        "d23-right-stuff-glenn"
+      ],
+      "verdict": "confirmed",
+      "note": "Source supports the content; 'puntos de apoyo' is a fair rendering of 'linchpins'."
+    },
+    {
+      "claim": "Quote 'Esto es lo que he estado esperando' when the offer came",
+      "sourceIds": [
+        "tvline-right-stuff-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Faithful translation of 'This is what I've been waiting for'."
+    },
+    {
+      "claim": "Broadway debut in 2022 revival of Take Me Out as Kippy Sunderstrom",
+      "sourceIds": [
+        "justjared-take-me-out-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Kippy Sunderstrom and the Broadway debut are confirmed."
+    },
+    {
+      "claim": "Play closed 11 June at the Hayes Theatre",
+      "sourceIds": [
+        "broadwayworld-take-me-out-tony"
+      ],
+      "verdict": "confirmed",
+      "note": "Source says it closed yesterday, June 11, at the Hayes Theatre. The earlier UNSUPPORTED note on the venue is resolved."
+    },
+    {
+      "claim": "BroadwayWorld article dated 12 June reports the 2022 Tony for Best Revival of a Play",
+      "sourceIds": [
+        "broadwayworld-take-me-out-tony"
+      ],
+      "verdict": "confirmed",
+      "note": "Award and date confirmed. The article is dated Jun. 12, 2022."
+    },
+    {
+      "claim": "Cast list in that report includes Adams",
+      "sourceIds": [
+        "broadwayworld-take-me-out-tony"
+      ],
+      "verdict": "confirmed",
+      "note": "Patrick J. Adams is named."
+    },
+    {
+      "claim": "Had to be naked on stage every night, and dealt with nerves",
+      "sourceIds": [
+        "justjared-take-me-out-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Source says naked every night and panic attacks on stage."
+    },
+    {
+      "claim": "Quote 'Fue tan intenso que creo que de verdad tuve que salir de mi cuerpo cada noche', added",
+      "sourceIds": [
+        "justjared-take-me-out-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote confirmed in translation. The body does not say it was on a podcast."
+    },
+    {
+      "claim": "Scott Ellis encouraged him despite stage panic attacks with the words 'es tu oportunidad de arreglarlo, básicamente'",
+      "sourceIds": [
+        "justjared-take-me-out-2024"
+      ],
+      "verdict": "unsupported",
+      "note": "The source has 'this is your chance to fix that'. 'básicamente' is not in the source. Quote the source wording or drop the quote marks."
+    },
+    {
+      "claim": "Plays Russell McIntosh in The Madison (Paramount+), with Pfeiffer as Stacy Clyburn and Kurt Russell as Preston Clyburn",
+      "sourceIds": [
+        "paramount-madison-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Cast page confirms the Clyburn casting and Adams as Paige's husband."
+    },
+    {
+      "claim": "Russell is married to Paige McIntosh, played by Elle Chapman, the younger Clyburn daughter",
+      "sourceIds": [
+        "paramount-madison-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Source confirms Elle Chapman plays Paige, the younger daughter."
+    },
+    {
+      "claim": "29 October 2026 Facebook page 'R.I.P. Patrick J. Adams' claimed death 'sobre las 11 de la mañana, hora del este, del jueves (29 de octubre de 2026)'",
+      "sourceIds": [
+        "mediamass-death-hoax"
+      ],
+      "verdict": "confirmed",
+      "note": "Source gives 11 a.m. ET on Thursday, October 29, 2026."
+    },
+    {
+      "claim": "Almost one million likes; skeptics noted no major Canadian network reported it",
+      "sourceIds": [
+        "mediamass-death-hoax"
+      ],
+      "verdict": "confirmed",
+      "note": "Both points found."
+    },
+    {
+      "claim": "30 October representatives: 'sigue vivo y bien, dejen de creer lo que ven en internet'",
+      "sourceIds": [
+        "mediamass-death-hoax"
+      ],
+      "verdict": "confirmed",
+      "note": "Faithful translation of the statement."
+    },
+    {
+      "claim": "Update of 31 October: the story 'parece falsa'",
+      "sourceIds": [
+        "mediamass-death-hoax"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'This story seems to be false.'"
+    },
+    {
+      "claim": "FAQ: aged 45 in August 2026",
+      "sourceIds": [
+        "wikidata-q644565"
+      ],
+      "verdict": "confirmed",
+      "note": "He turned 45 on 27 August 2026."
+    },
+    {
+      "claim": "FAQ: not dead; representatives denied it on 30 October",
+      "sourceIds": [
+        "mediamass-death-hoax"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported."
+    },
+    {
+      "claim": "FAQ: left Suits after season seven, mental health, drinking, Mike's story told",
+      "sourceIds": [
+        "tvline-suits-exit",
+        "justjared-suits-exit-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported by both sources."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": false,
+  "addsValue": false,
+  "valueNote": "The Spanish text follows the English article sentence by sentence, with the same headings, quotes and order. It adds no Spanish-specific queries, Spanish-language sources or local context, which the style guide says fails review.",
+  "decision": "reject",
+  "summary": "Rejected. (1) The FAQ wife answer invents 'ocho años lejos de casa y de su mujer', which is not in the cited Just Jared text; delete it. (2) The Ellis quote 'es tu oportunidad de arreglarlo, básicamente' is not in the source; use the source wording or drop the quote marks. (3) The text is a sentence-by-sentence translation of the English page and adds no Spanish-specific value; rewrite it for Spanish readers. The venue and podcast issues from the brief are resolved in the current text."
+}

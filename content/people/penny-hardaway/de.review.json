@@ -1,0 +1,291 @@
+{
+  "date": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"Wuchs in Memphis auf und ist als Cheftrainer in seine Heimatstadt zurückgekehrt\" (Birthplace is supported; 'wuchs auf' and 'Heimatstadt zurückgekehrt' are not stated in any opened source. Reword or cite.)",
+    "UNSUPPORTED: \"Zwei Tage später sprachen AD und Hardaway über Zuschauerzahlen bei Heimspielen\" (Source says dwindling basketball attendance, not Heimspiele specifically. Change to 'Zuschauerzahlen' or cite.)",
+    "UNCITED: \"'wuchs in Memphis auf' and 'Heimatstadt zurückgekehrt' (first paragraph)\"",
+    "Prose reads machine-written",
+    "Adds no value over existing pages: The German text tracks the English section by section, with English terms left in ('Probation'). It does not localise the queries, context or sources for German readers beyond the target query headings.",
+    "Reviewer recommends rejection: Reject. Fix: remove 'wuchs auf' and 'Heimatstadt zurückgekehrt' unless cited; change 'Zuschauerzahlen bei Heimspielen' to 'Zuschauerzahlen' to match Daily Memphian; translate or gloss 'Probation'; rewrite for German readers rather than sentence-by-sentence. Other facts check out."
+  ],
+  "claims": [
+    {
+      "claim": "In Memphis, Tennessee geboren; Treadwell High School",
+      "sourceIds": [
+        "bbref-hardaway",
+        "olympedia-hardaway"
+      ],
+      "verdict": "confirmed",
+      "note": "Birthplace on both; Treadwell on bbref."
+    },
+    {
+      "claim": "Wuchs in Memphis auf und ist als Cheftrainer in seine Heimatstadt zurückgekehrt",
+      "sourceIds": [],
+      "verdict": "unsupported",
+      "note": "Birthplace is supported; 'wuchs auf' and 'Heimatstadt zurückgekehrt' are not stated in any opened source. Reword or cite."
+    },
+    {
+      "claim": "Seit 2018 Trainer der Tigers; selbst Student dort gespielt",
+      "sourceIds": [
+        "si-hardaway-hire-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "SI: former Memphis guard, March 2018 hire."
+    },
+    {
+      "claim": "Studium 1990-1993 an der University of Memphis",
+      "sourceIds": [
+        "tshf-hardaway-2013"
+      ],
+      "verdict": "confirmed",
+      "note": "TSHF."
+    },
+    {
+      "claim": "Hall of Fame Tennessee 2013, Vergleich mit Magic Johnson",
+      "sourceIds": [
+        "tshf-hardaway-2013"
+      ],
+      "verdict": "confirmed",
+      "note": "TSHF."
+    },
+    {
+      "claim": "M-Club-Hall-of-Fame 2008",
+      "sourceIds": [
+        "gotigers-m-club"
+      ],
+      "verdict": "confirmed",
+      "note": "Page title (2008)."
+    },
+    {
+      "claim": "Draft 1993, Golden State Warriors, dritte Stelle",
+      "sourceIds": [
+        "bbref-hardaway"
+      ],
+      "verdict": "confirmed",
+      "note": "3rd overall 1993."
+    },
+    {
+      "claim": "14 Saisons; 10.684 Punkte, 3.146 Rebounds, 3.525 Assists",
+      "sourceIds": [
+        "bbref-hardaway"
+      ],
+      "verdict": "confirmed",
+      "note": "bbref totals."
+    },
+    {
+      "claim": "Viermal All-Star 1994/95-1997/98; All-NBA First Team 1994/95 und 1995/96, Third Team 1996/97",
+      "sourceIds": [
+        "bbref-hardaway"
+      ],
+      "verdict": "confirmed",
+      "note": "AS rows; NBA1 and NBA3 codes."
+    },
+    {
+      "claim": "NBA All-Rookie First Team (TSHF)",
+      "sourceIds": [
+        "tshf-hardaway-2013"
+      ],
+      "verdict": "confirmed",
+      "note": "TSHF."
+    },
+    {
+      "claim": "'positionslos'; knapp 22 Punkte, 7,1 Assists, 4,3 Rebounds in 82 Spielen bei den Magic",
+      "sourceIds": [
+        "stadiumgoods-air-max-penny-1"
+      ],
+      "verdict": "confirmed",
+      "note": "Source."
+    },
+    {
+      "claim": "Olympiagold 1996 in Atlanta, US-Herrenteam; eine Medaille",
+      "sourceIds": [
+        "olympedia-hardaway"
+      ],
+      "verdict": "confirmed",
+      "note": "Gold 1, total 1."
+    },
+    {
+      "claim": "Dream Team, 'das zweite US-Olympiateam aus NBA-Spielern' (TSHF)",
+      "sourceIds": [
+        "tshf-hardaway-2013"
+      ],
+      "verdict": "confirmed",
+      "note": "TSHF text. Earlier reviewer note was wrong."
+    },
+    {
+      "claim": "Positionen: Point Guard, Shooting Guard, Small Forward",
+      "sourceIds": [
+        "bbref-hardaway"
+      ],
+      "verdict": "confirmed",
+      "note": "Listed positions."
+    },
+    {
+      "claim": "Air Max Penny 1, 1995, Eric Avar, Uptempo, Chris Rock als Lil' Penny",
+      "sourceIds": [
+        "stadiumgoods-air-max-penny-1"
+      ],
+      "verdict": "confirmed",
+      "note": "Source."
+    },
+    {
+      "claim": "März 2018 Einigung; Nachfolger von Tubby Smith, nach zwei Saisons ohne NCAA-Turnier",
+      "sourceIds": [
+        "si-hardaway-hire-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "SI."
+    },
+    {
+      "claim": "AAU; drei Staatsmeisterschaften in Folge an der Memphis East High School",
+      "sourceIds": [
+        "si-hardaway-hire-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "SI."
+    },
+    {
+      "claim": "28. März 2021, Finale NIT, 77:64 gegen Mississippi State",
+      "sourceIds": [
+        "actionnews5-nit-2021"
+      ],
+      "verdict": "confirmed",
+      "note": "Source."
+    },
+    {
+      "claim": "Zitat Hardaway nach dem Spiel",
+      "sourceIds": [
+        "actionnews5-nit-2021"
+      ],
+      "verdict": "confirmed",
+      "note": "Faithful translation."
+    },
+    {
+      "claim": "Oktober 2022, sechs Jahre, 16,5 Mio. vor Prämien, bis 2027/28",
+      "sourceIds": [
+        "cbs-hardaway-extension-2022",
+        "actionnews5-extension-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources."
+    },
+    {
+      "claim": "Gehalt 2,5 Mio. erste Saison, plus 100.000 Dollar jährlich",
+      "sourceIds": [
+        "cbs-hardaway-extension-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "CBS."
+    },
+    {
+      "claim": "84-43 in vier Saisons; vier Spielzeiten in Folge mit 20 Siegen; NCAA-Turnier 2022",
+      "sourceIds": [
+        "actionnews5-extension-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Source."
+    },
+    {
+      "claim": "Veatch: 'schon seit längerer Zeit in Arbeit'; keinen besseren Kandidaten",
+      "sourceIds": [
+        "actionnews5-extension-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Faithful translation. Earlier reviewer note was wrong."
+    },
+    {
+      "claim": "Probation wegen Verstößen bei Spielberechtigung und Recruiting, 2019/20; härtere Strafen vermieden",
+      "sourceIds": [
+        "actionnews5-extension-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Source. The English term 'Probation' is kept in the German text; translate or gloss only."
+    },
+    {
+      "claim": "März 2026: Universität gab bekannt, dass Hardaway wieder führt",
+      "sourceIds": [
+        "gotigers-return-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Headline and URL date only."
+    },
+    {
+      "claim": "Tigers 2025/26: 13 Siege, 19 Niederlagen",
+      "sourceIds": [
+        "dailymemphian-hardaway-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source."
+    },
+    {
+      "claim": "John Martin: Aufgabe 'immens'",
+      "sourceIds": [
+        "dailymemphian-hardaway-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Faithful translation."
+    },
+    {
+      "claim": "Hardaway: 'Ich weiß, dass ich aus einem Rückschlag zurückkommen kann'",
+      "sourceIds": [
+        "dailymemphian-hardaway-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Faithful translation."
+    },
+    {
+      "claim": "Acht Spieler bis Freitag Zeit",
+      "sourceIds": [
+        "dailymemphian-hardaway-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source."
+    },
+    {
+      "claim": "Zwei Tage später sprachen AD und Hardaway über Zuschauerzahlen bei Heimspielen",
+      "sourceIds": [
+        "dailymemphian-hardaway-2026"
+      ],
+      "verdict": "unsupported",
+      "note": "Source says dwindling basketball attendance, not Heimspiele specifically. Change to 'Zuschauerzahlen' or cite."
+    },
+    {
+      "claim": "Summary/knownFor: Viermal All-Star, Olympiagold, 13-19, Verbleib",
+      "sourceIds": [
+        "bbref-hardaway",
+        "olympedia-hardaway",
+        "dailymemphian-hardaway-2026",
+        "gotigers-return-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Backed by body sources."
+    },
+    {
+      "claim": "FAQ: Geburtsdatum 1971 (bbref) und 1972 (Olympedia)",
+      "sourceIds": [
+        "bbref-hardaway",
+        "olympedia-hardaway"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches sources."
+    },
+    {
+      "claim": "FAQ: 6 Fuß 7 Zoll (201 cm), 195 Pfund (88 kg)",
+      "sourceIds": [
+        "bbref-hardaway"
+      ],
+      "verdict": "confirmed",
+      "note": "bbref."
+    }
+  ],
+  "uncitedClaims": [
+    "'wuchs in Memphis auf' and 'Heimatstadt zurückgekehrt' (first paragraph)"
+  ],
+  "readsHumanWritten": false,
+  "addsValue": false,
+  "valueNote": "The German text tracks the English section by section, with English terms left in ('Probation'). It does not localise the queries, context or sources for German readers beyond the target query headings.",
+  "decision": "reject",
+  "summary": "Reject. Fix: remove 'wuchs auf' and 'Heimatstadt zurückgekehrt' unless cited; change 'Zuschauerzahlen bei Heimspielen' to 'Zuschauerzahlen' to match Daily Memphian; translate or gloss 'Probation'; rewrite for German readers rather than sentence-by-sentence. Other facts check out."
+}

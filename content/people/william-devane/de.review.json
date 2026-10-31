@@ -1,0 +1,255 @@
+{
+  "date": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"Die Produzenten gaben Heller eine beginnende Alzheimer-Erkrankung\" (Gulf News says 'Heller's in the early stages of Alzheimer's' with no producers named. Delete 'Die Produzenten gaben'.)",
+    "Prose reads machine-written",
+    "Reviewer recommends rejection: Most claims check out. Reject for: (1) 'Die Produzenten gaben Heller eine beginnende Alzheimer-Erkrankung' has an invented attribution (Gulf News does not name producers). (2) The 1937 birth year cited to fernsehserien is not on the opened page, and the main page returned 404; unconfirmed. (3) McCabe & Mrs. Miller 1971 (Plex) conflicts with 1970 (fernsehserien) and the conflict is not disclosed. Also the prose is list-like and needs localising."
+  ],
+  "claims": [
+    {
+      "claim": "Stammt aus Albany im US-Bundesstaat New York",
+      "sourceIds": [
+        "cinegraph-william-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "Cinegraph: From Albany, New York, USA."
+    },
+    {
+      "claim": "James Heller in 24; Präsident John F. Kennedy in The Missiles of October",
+      "sourceIds": [
+        "plex-william-devane",
+        "gulfnews-devane-24"
+      ],
+      "verdict": "confirmed",
+      "note": "Plex filmography and Gulf News confirm both roles."
+    },
+    {
+      "claim": "Zwei Emmy-Nominierungen, kein Gewinn (1975 Special The Missiles of October; 1976 Limited Series Fear on Trial)",
+      "sourceIds": [
+        "tv-academy-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "TV Academy lists both as Nominee, no wins."
+    },
+    {
+      "claim": "Geburtsjahr: Plex und Cinegraph Kopf 1939, Biografie 1937 (Widerspruch offengelegt)",
+      "sourceIds": [
+        "plex-william-devane",
+        "cinegraph-william-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "Both pages show 1939 in the header and 1937 in the biography text. The conflict is correctly disclosed."
+    },
+    {
+      "claim": "Fernsehserien gibt 1937 an",
+      "sourceIds": [
+        "fernsehserien-devane"
+      ],
+      "verdict": "source_unreachable",
+      "note": "The cited filmography page does not show a birth year. The fernsehserien.de/william-devane main page returned 404. Unconfirmed; drop the attribution or cite a page that shows it."
+    },
+    {
+      "claim": "Plex: New York Shakespeare Festival, 15 Stücke; 1966 Robert F. Kennedy in MacBird; Schauspieler, Regisseur, Drehbuchautor",
+      "sourceIds": [
+        "plex-william-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "All confirmed on the Plex page."
+    },
+    {
+      "claim": "Der Marathon-Mann (1976), gnadenloser Agent",
+      "sourceIds": [
+        "gulfnews-devane-24"
+      ],
+      "verdict": "confirmed",
+      "note": "Gulf News: 'a ruthless agent in Marathon Man (1976)'."
+    },
+    {
+      "claim": "McCabe & Mrs. Miller (1971, als Rechtsanwalt)",
+      "sourceIds": [
+        "plex-william-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "Plex: 1971, Lawyer. Fernsehserien gives 1970 for the same film; the conflict is not disclosed. Cite both or use the Plex year with a note."
+    },
+    {
+      "claim": "Rolling Thunder (1977, Major Charles Rane)",
+      "sourceIds": [
+        "plex-william-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "Plex confirms."
+    },
+    {
+      "claim": "1979 Miniserie From Here to Eternity, Natalie Woods Liebesinteresse",
+      "sourceIds": [
+        "gulfnews-devane-24"
+      ],
+      "verdict": "confirmed",
+      "note": "Gulf News: 'Natalie Wood's love interest in the 1979 miniseries version of From Here to Eternity'. The German title is no longer in the text."
+    },
+    {
+      "claim": "Space Cowboys 2000 Eugene Davis; Payback 1999 Carter; Hollow Man 2000 Dr. Howard Kramer; Interstellar 2014 Williams",
+      "sourceIds": [
+        "fernsehserien-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "All listed on the fernsehserien filmography."
+    },
+    {
+      "claim": "Testament (1983) als Tom Wetherly; The Bad News Bears in Breaking Training (1977) als Mike Leak",
+      "sourceIds": [
+        "plex-william-devane",
+        "fernsehserien-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "Both listed on both pages."
+    },
+    {
+      "claim": "50 zu 1 (2014), Leonard 'Doc' Blach, Besitzer von Mine That Bird",
+      "sourceIds": [
+        "fernsehserien-devane",
+        "gulfnews-devane-24"
+      ],
+      "verdict": "confirmed",
+      "note": "Gulf News: 'Dr Leonard Blach, one of the owners of ... Mine That Bird'. The 2009 Derby detail is no longer in the text."
+    },
+    {
+      "claim": "Passionierter Reiter und früherer Polospieler",
+      "sourceIds": [
+        "gulfnews-devane-24"
+      ],
+      "verdict": "confirmed",
+      "note": "'a passionate horseman and former polo player'."
+    },
+    {
+      "claim": "Greg Sumner in Knots Landing als Bösewicht, 1983 bis 1993, CBS",
+      "sourceIds": [
+        "gulfnews-devane-24"
+      ],
+      "verdict": "confirmed",
+      "note": "Gulf News: villainous Greg Sumner, 1983 to '93, CBS."
+    },
+    {
+      "claim": "Plex nennt 1979 als Jahr der Knots-Landing-Rolle",
+      "sourceIds": [
+        "plex-william-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "Plex: Knots Landing (1979), Greg Sumner."
+    },
+    {
+      "claim": "Revenge: Edward Grayson, Vater von Conrad Grayson, Hamptons-Oberhaupt (Meldung Dezember 2011)",
+      "sourceIds": [
+        "michaelfairman-revenge-2011"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated December 13, 2011, citing EW."
+    },
+    {
+      "claim": "TVmaze: Folgen vom 8. und 15. Februar 2012",
+      "sourceIds": [
+        "tvmaze-edward-grayson"
+      ],
+      "verdict": "confirmed",
+      "note": "Episodes 1x14 (Feb 8, 2012) and 1x15 (Feb 15, 2012)."
+    },
+    {
+      "claim": "Presidents on Stargate SG-1 and The Dark Knight Rises (2012)",
+      "sourceIds": [
+        "gulfnews-devane-24"
+      ],
+      "verdict": "confirmed",
+      "note": "Gulf News confirms both."
+    },
+    {
+      "claim": "Fernsehserien: Präsident Hayes in Stargate 2004 bis 2009",
+      "sourceIds": [
+        "fernsehserien-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "President Hayes, 2004 to 2009, 4 episodes."
+    },
+    {
+      "claim": "Superman – Die Abenteuer von Lois & Clark 1994, Al Capone; Akte X 2002, General Mark Suveg; Navy CIS 2010, Nicolas Mason",
+      "sourceIds": [
+        "fernsehserien-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "All listed."
+    },
+    {
+      "claim": "Außenminister in The West Wing",
+      "sourceIds": [
+        "gulfnews-devane-24"
+      ],
+      "verdict": "confirmed",
+      "note": "Gulf News: secretary of State on The West Wing."
+    },
+    {
+      "claim": "Jesse Stone (2006 bis 2015) Dr. Dix; The Grinder (2015 und 2016) Dean Sr.; Psych (2010) Peters",
+      "sourceIds": [
+        "fernsehserien-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "All listed."
+    },
+    {
+      "claim": "Falling from the Sky: Flight 174 und Jesse Stone: Lost in Paradise unter den bekanntesten Titeln",
+      "sourceIds": [
+        "plex-william-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "Both are among the Plex roles."
+    },
+    {
+      "claim": "Heller 2005 in Day 4 als Außenminister eingeführt; kehrt in Live Another Day zurück; Original 2001 bis 2010",
+      "sourceIds": [
+        "gulfnews-devane-24"
+      ],
+      "verdict": "confirmed",
+      "note": "Gulf News: Secretary of State on Day 4 in 2005; Live Another Day; Emmy-winning 2001-2010 series."
+    },
+    {
+      "claim": "Gulf News nennt ihn an anderer Stelle Verteidigungsminister in 24",
+      "sourceIds": [
+        "gulfnews-devane-24"
+      ],
+      "verdict": "confirmed",
+      "note": "Gulf News: 'secretary of Defence on 24'. The article notes the conflict correctly."
+    },
+    {
+      "claim": "Die Produzenten gaben Heller eine beginnende Alzheimer-Erkrankung",
+      "sourceIds": [
+        "gulfnews-devane-24"
+      ],
+      "verdict": "unsupported",
+      "note": "Gulf News says 'Heller's in the early stages of Alzheimer's' with no producers named. Delete 'Die Produzenten gaben'."
+    },
+    {
+      "claim": "Artikel zuletzt aktualisiert am 15. September 2018",
+      "sourceIds": [
+        "gulfnews-devane-24"
+      ],
+      "verdict": "confirmed",
+      "note": "'Last updated: September 15, 2018'."
+    },
+    {
+      "claim": "Wofür bekannt: Heller in 24 und Greg Sumner in Knots Landing, Kennedy in The Missiles of October (FAQ)",
+      "sourceIds": [
+        "plex-william-devane",
+        "gulfnews-devane-24"
+      ],
+      "verdict": "confirmed",
+      "note": "All confirmed."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": false,
+  "addsValue": true,
+  "valueNote": "Adds the disclosed birth-year conflict and the Emmy correction from TV Academy, and a sourced filmography. Still much of it is a list of roles from English press and databases, and the prose is stilted and list-like, which the style guide does not accept as localised German.",
+  "decision": "reject",
+  "summary": "Most claims check out. Reject for: (1) 'Die Produzenten gaben Heller eine beginnende Alzheimer-Erkrankung' has an invented attribution (Gulf News does not name producers). (2) The 1937 birth year cited to fernsehserien is not on the opened page, and the main page returned 404; unconfirmed. (3) McCabe & Mrs. Miller 1971 (Plex) conflicts with 1970 (fernsehserien) and the conflict is not disclosed. Also the prose is list-like and needs localising."
+}

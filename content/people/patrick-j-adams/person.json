@@ -1,0 +1,157 @@
+{
+  "id": "patrick-j-adams",
+  "name": "Patrick J. Adams",
+  "categories": [
+    "artists"
+  ],
+  "importance": 4,
+  "wikidata": "Q644565",
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1981-08-27",
+      "sources": [
+        "wikidata-q644565"
+      ],
+      "note": "Wikidata gives 27 August 1981 with day precision. The hoax post on Mediamass repeats this date but is not used as a source."
+    },
+    "birthPlace": {
+      "value": "Toronto, Ontario, Canada",
+      "sources": [
+        "wikidata-q644565",
+        "wikidata-q172"
+      ],
+      "note": "Wikidata lists Toronto (Q172) as place of birth. IMDb also lists Toronto, but its page could not be opened."
+    },
+    "nationality": {
+      "value": [
+        "CA"
+      ],
+      "sources": [
+        "wikidata-q16",
+        "mediamass-death-hoax"
+      ],
+      "note": "Wikidata lists Canada as country of citizenship. Mediamass calls him a Canadian actor. Other sources add that he is a naturalized US citizen, which could not be cited from an opened page."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "usc-sda-patrick-j-adams",
+      "url": "https://dramaticarts.usc.edu/patrick-j-adams/",
+      "title": "Patrick J. Adams",
+      "publisher": "USC School of Dramatic Arts",
+      "type": "official",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "paramount-madison-cast",
+      "url": "https://www.paramountplus.com/sneak-peak/cast-of-the-madison/",
+      "title": "The Madison: Meet The Cast",
+      "publisher": "Paramount+",
+      "type": "company",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "broadwayworld-take-me-out-tony",
+      "url": "https://www.broadwayworld.com/article/TAKE-ME-OUT-Wins-2022-Tony-Award-for-Best-Revival-of-a-Play-20220612",
+      "title": "TAKE ME OUT Wins 2022 Tony Award for Best Revival of a Play",
+      "publisher": "BroadwayWorld",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "justjared-take-me-out-2024",
+      "url": "https://www.justjared.com/2024/11/29/patrick-j-adams-recalls-baring-all-in-take-me-out-broadway-play-it-was-so-intense/",
+      "title": "Patrick J Adams Recalls Baring All In 'Take Me Out' Broadway Play: 'It Was So Intense'",
+      "publisher": "Just Jared",
+      "type": "interview",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "tvline-suits-exit",
+      "url": "https://www.tvline.com/news/suits-why-did-patrick-j-adams-leave-mike-ross-interview-1235382050/",
+      "title": "Suits: Why Did Patrick J. Adams Leave Mike Ross Interview",
+      "publisher": "TVLine",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "justjared-suits-exit-2024",
+      "url": "https://www.justjared.com/2024/07/02/why-did-patrick-j-adams-leave-suits-he-explains-why-season-7-was-his-last/",
+      "title": "Why Did Patrick J. Adams Leave 'Suits'? He Explains Why Season 7 Was His Last",
+      "publisher": "Just Jared",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "tvline-right-stuff-preview",
+      "url": "https://www.tvline.com/previews/the-right-stuff-patrick-j-adams-preview-disney-plus-series-1234581927/",
+      "title": "The Right Stuff's Patrick J. Adams On Disney+'s Mercury Seven Series: 'This Is What I've Been Waiting For' Post-Suits",
+      "publisher": "TVLine",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "mediamass-death-hoax",
+      "url": "https://en.mediamass.net/people/patrick-j-adams/deathhoax.html",
+      "title": "Patrick J. Adams dead 2026: Actor killed by celebrity death hoax",
+      "publisher": "Mediamass",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "wikidata-q644565",
+      "url": "https://www.wikidata.org/wiki/Q644565",
+      "title": "Patrick J. Adams (Q644565)",
+      "publisher": "Wikidata",
+      "type": "database",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "wikidata-q172",
+      "url": "https://www.wikidata.org/wiki/Q172",
+      "title": "Toronto (Q172)",
+      "publisher": "Wikidata",
+      "type": "database",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "wikidata-q16",
+      "url": "https://www.wikidata.org/wiki/Q16",
+      "title": "Canada (Q16)",
+      "publisher": "Wikidata",
+      "type": "database",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "d23-right-stuff-glenn",
+      "url": "https://d23.com/finding-the-real-john-glenn-and-alan-shepard-in-disneys-the-right-stuff/",
+      "title": "Finding the Real John Glenn and Alan Shepard in Disney+'s The Right Stuff",
+      "publisher": "D23",
+      "type": "official",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "tvseriesfinale-suits",
+      "url": "https://tvseriesfinale.com/tv-show/suits/",
+      "title": "Suits",
+      "publisher": "TV Series Finale",
+      "type": "database",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "christopher-lloyd",
+  "name": "Christopher Lloyd",
+  "categories": [
+    "artists"
+  ],
+  "importance": 5,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1938-10-22",
+      "sources": [
+        "tmdb",
+        "biography-com",
+        "tv-academy-bio"
+      ],
+      "note": "Christopher Allen Lloyd. Sources agree on the date. One unreliable dataset gives another date, which is not used."
+    },
+    "birthPlace": {
+      "value": "Stamford, Connecticut, USA",
+      "sources": [
+        "tv-academy-bio",
+        "tmdb",
+        "biography-com"
+      ],
+      "note": "Youngest of seven children per Biography.com. The official franchise cast page misspells it as Stanford, Connecticut; not used."
+    },
+    "nationality": {
+      "value": [
+        "US"
+      ],
+      "sources": [
+        "tmdb"
+      ],
+      "note": "TMDB biography calls him an American actor. No other fetched source states nationality explicitly."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "tv-academy-bio",
+      "url": "https://www.televisionacademy.com/bios/christopher-lloyd",
+      "title": "Christopher Lloyd: Television Academy bio, nominations and winners",
+      "publisher": "Television Academy",
+      "type": "award-body",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "tv-academy-taxi-1982",
+      "url": "https://www.televisionacademy.com/awards/nominees-winners/1982/outstanding-supporting-actor-in-a-comedy-variety-or-music-series",
+      "title": "1982 Outstanding Supporting Actor in a Comedy, Variety or Music Series: nominees and winners",
+      "publisher": "Television Academy",
+      "type": "award-body",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "hachette-memoir",
+      "url": "https://www.hachettebookgroup.com/titles/christopher-lloyd/in-my-own-time/9781538776544/",
+      "title": "In My Own Time: A Memoir by Christopher Lloyd",
+      "publisher": "Grand Central Publishing (Hachette Book Group)",
+      "type": "company",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "hachette-author",
+      "url": "https://www.hachettebookgroup.com/contributor/christopher-lloyd-2/",
+      "title": "Christopher Lloyd, author page",
+      "publisher": "Hachette Book Group",
+      "type": "company",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "backtothefuture-cast",
+      "url": "https://www.backtothefuture.com/cast/christopher-lloyd",
+      "title": "Christopher Lloyd, cast",
+      "publisher": "Back to the Future (official franchise site)",
+      "type": "official",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "tmdb",
+      "url": "https://www.themoviedb.org/person/1062-christopher-lloyd",
+      "title": "Christopher Lloyd, The Movie Database",
+      "publisher": "The Movie Database (TMDB)",
+      "type": "database",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "biography-com",
+      "url": "https://www.biography.com/actor/christopher-lloyd",
+      "title": "Christopher Lloyd Biography",
+      "publisher": "Biography.com (A&E Networks)",
+      "type": "other",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "variety-supanova-2026",
+      "url": "https://au.variety.com/2026/film/news/christopher-lloyd-leads-supanova-sydney-perth-2026-lineup-33926",
+      "title": "Christopher Lloyd Leads Supanova Sydney & Perth 2026 Lineup",
+      "publisher": "Variety Australia",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "turnto10-ric-2026",
+      "url": "https://www.turnto10.com/news/local/christopher-lloyd-to-appear-at-rhode-island-comic-con-july-23-2026",
+      "title": "Christopher Lloyd to appear at Rhode Island Comic Con",
+      "publisher": "WJAR (TurnTo10)",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    }
+  ]
+}

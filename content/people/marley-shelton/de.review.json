@@ -1,0 +1,212 @@
+{
+  "date": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Geboren 12. April 1974 in Los Angeles, Kalifornien",
+      "sourceIds": [
+        "tmdb-marley-shelton",
+        "wikidata-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb biography and Wikidata both confirm."
+    },
+    {
+      "claim": "US-Staatsbürgerschaft; US-amerikanische Schauspielerin",
+      "sourceIds": [
+        "wikidata-marley-shelton",
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Wikidata citizenship: United States; TMDb: 'an American actress'."
+    },
+    {
+      "claim": "52 Jahre alt am 31. Oktober 2026",
+      "sourceIds": [
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic from confirmed birth date."
+    },
+    {
+      "claim": "Wendy in The Sandlot (1993)",
+      "sourceIds": [
+        "tmdb-marley-shelton",
+        "brave-beginnings-psa"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb 1993 Wendy; Brave Beginnings: Wendy Peffercorn."
+    },
+    {
+      "claim": "Sin City, Planet Terror in Grindhouse, Scream-Filme",
+      "sourceIds": [
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb credits."
+    },
+    {
+      "claim": "2022 als Sheriff Judy Hicks in Scream zurück",
+      "sourceIds": [
+        "etonline-scream-judy-hicks",
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "ET: promoted to sheriff; TMDb: Scream 2022, Sheriff Judy Hicks."
+    },
+    {
+      "claim": "Pleasantville (1998) Margaret Henderson; Never Been Kissed (1999) Kristin",
+      "sourceIds": [
+        "tmdb-marley-shelton",
+        "brave-beginnings-psa"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources."
+    },
+    {
+      "claim": "The Sandlot Forever (2019) als sie selbst",
+      "sourceIds": [
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb: 2019, Self."
+    },
+    {
+      "claim": "Rodriguez erkannte ihr Potenzial in Sin City und Planet Terror",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Interview quote confirmed."
+    },
+    {
+      "claim": "Rodriguez gibt Schauspielern das Gefühl, alles sei möglich",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "'makes you feel like anything and everything is possible'. Paraphrase is fair."
+    },
+    {
+      "claim": "Dakota nach Hitchcock-Eisblondinen; Spannung studiert",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Both confirmed."
+    },
+    {
+      "claim": "Szene wie aus einem Stummfilm",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Planet Terror vor Death Proof, weitgehend gleiche Crew, Troublemaker Studios",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed on second fetch."
+    },
+    {
+      "claim": "High Heels Nacht für Nacht; Stuntdouble Tracey Dashnaw und Fenstersprung",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Judy Hicks erstmals in Scream 4 (2011)",
+      "sourceIds": [
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb: Scream 4, 2011."
+    },
+    {
+      "claim": "Falsche Fährte, eingeführt als Hilfssheriff an der Seite von Dewey Riley",
+      "sourceIds": [
+        "etonline-scream-judy-hicks"
+      ],
+      "verdict": "confirmed",
+      "note": "Source text matches."
+    },
+    {
+      "claim": "Shelton konnte es kaum glauben und war begeistert",
+      "sourceIds": [
+        "etonline-scream-judy-hicks"
+      ],
+      "verdict": "confirmed",
+      "note": "'I couldn't believe it. I was over the moon.' No phone call claimed."
+    },
+    {
+      "claim": "Fans beurteilen die Figur unterschiedlich",
+      "sourceIds": [
+        "etonline-scream-judy-hicks"
+      ],
+      "verdict": "confirmed",
+      "note": "'many fans are still divided over Hicks'."
+    },
+    {
+      "claim": "Dr. Kerry Atkins in Rampage (2018)",
+      "sourceIds": [
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb credit."
+    },
+    {
+      "claim": "Emma Dutton in 1923; Hannah Gray in Manhunt",
+      "sourceIds": [
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb credits."
+    },
+    {
+      "claim": "Gail Mazzuchelli im Piloten von Rise, Fotounterschrift 9. Januar 2018",
+      "sourceIds": [
+        "broadwayworld-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Caption and date confirmed."
+    },
+    {
+      "claim": "Brave Beginnings gab am 12. Oktober 2018 den Spot bekannt; echte Frühgeborene, echte Meilensteine",
+      "sourceIds": [
+        "brave-beginnings-psa"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "März 2026 Patchogue Theatre, Vorführung The Sandlot mit Gespräch, Juni auf Long Island",
+      "sourceIds": [
+        "broadwayworld-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Published March 24, 2026; June on Long Island; Q&A with both."
+    },
+    {
+      "claim": "Verheiratet mit Beau Flynn; zwei Töchter; Ehe seit 2001",
+      "sourceIds": [
+        "brave-beginnings-psa",
+        "wikidata-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Brave Beginnings; Wikidata start 2001."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Dated timeline with primary sources (Brave Beginnings, Wikidata, TMDb) and a German text that is not a translation of the English one. No claim outside the sources.",
+  "decision": "approve",
+  "summary": "Approve. Every dated and named claim checks out against the fetched sources, and the quotes are paraphrased rather than presented as verbatim quotes. Minor style note only: 'zur Sheriff' would read better as 'zur Sheriffin'."
+}

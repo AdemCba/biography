@@ -1,0 +1,237 @@
+{
+  "date": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"Trabajo escénico con la New York Shakespeare Festival y compañías fuera de Broadway\" (Not in the opened Biography.com text.)",
+    "UNSUPPORTED: \"Morning's at Seven, que ganó un premio Tony\" (Broadway credit listed; Tony not stated in opened text.)",
+    "UNSUPPORTED: \"Cuckoo's Nest 1975, Max Taber; la película ganó cinco premios Óscar incluido el de mejor película\" (Role and year confirmed. Oscar count and Best Picture not in the opened text.)",
+    "UNSUPPORTED: \"Infancia en la finca Waveny; criado por institutrices; madre creativa y padre severo\" (Waveny confirmed. Governesses and stern father not in the opened listing.)",
+    "UNSUPPORTED: \"Libro escrito con encanto, ironía seca y honestidad; historias apenas contadas antes; inmersión en teatro de NY\" (Not found in the opened listing text.)",
+    "UNSUPPORTED: \"Cabeza sin cuerpo en Wednesday; El rey Lear\" (Not found in the opened listing text.)",
+    "UNSUPPORTED: \"Comic Con de Rhode Island 6-8 noviembre 2026; último invitado; reencuentro de Roger Rabbit\" (Convention dates and guest status confirmed. The reunion is not dated separately in the source; the article implies it is dated 6-8 November.)",
+    "UNCITED: \"\"Pero su carrera empezó lejos del cine, sobre los escenarios de Nueva York\" (opening paragraph, tag is outside the sentence cluster; add a tag to the sentence)\"",
+    "Prose reads machine-written",
+    "Adds no value over existing pages: Sentence-by-sentence translation of the English draft with the same headings and sources. No Spanish-language sources or local queries.",
+    "Reviewer recommends rejection: Reject. Same unsupported claims as the English draft (Tony award, five Oscars, NYSF/off-Broadway, memoir description phrases, governesses, Wednesday, King Lear, reunion dates). Localisation fails: it is a structural translation of the English with no Spanish-language sources or local context. Rebuild from Spanish sources and queries."
+  ],
+  "claims": [
+    {
+      "claim": "Nacido el 22 de octubre de 1938 en Stamford, Connecticut; menor de siete hermanos",
+      "sourceIds": [
+        "biography-com",
+        "tv-academy-bio",
+        "tmdb"
+      ],
+      "verdict": "confirmed",
+      "note": "Date and place confirmed in all three; youngest of seven confirmed in Biography.com."
+    },
+    {
+      "claim": "Doc Brown de Volver al futuro; reverendo Jim Ignatowski de Taxi",
+      "sourceIds": [
+        "backtothefuture-cast",
+        "hachette-author"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Padre Samuel abogado, madre Ruth cantante; abuelo Lewis Lapham cofundó Texaco; aprendiz a los 14; Neighborhood Playhouse a los 19 con Meisner",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Debut con And They Put Handcuffs on the Flowers y en Broadway con Red, White and Maddox",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Más de 200 obras; Obie y Drama Desk por Kaspar",
+      "sourceIds": [
+        "backtothefuture-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Trabajo escénico con la New York Shakespeare Festival y compañías fuera de Broadway",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "unsupported",
+      "note": "Not in the opened Biography.com text."
+    },
+    {
+      "claim": "Morning's at Seven, que ganó un premio Tony",
+      "sourceIds": [
+        "backtothefuture-cast"
+      ],
+      "verdict": "unsupported",
+      "note": "Broadway credit listed; Tony not stated in opened text."
+    },
+    {
+      "claim": "Trumbo, donde interpretó a Dalton Trumbo",
+      "sourceIds": [
+        "backtothefuture-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Cuckoo's Nest 1975, Max Taber; la película ganó cinco premios Óscar incluido el de mejor película",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "unsupported",
+      "note": "Role and year confirmed. Oscar count and Best Picture not in the opened text."
+    },
+    {
+      "claim": "Oberón en Yale con Meryl Streep como Helena (1975)",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Cinco años en Taxi; dos de tres Emmy por ese papel; ABC 1982 y NBC 1983",
+      "sourceIds": [
+        "backtothefuture-cast",
+        "tv-academy-bio",
+        "tv-academy-taxi-1982"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Nominados de 1982: Danny DeVito, Steve Landesberg, Ron Glass",
+      "sourceIds": [
+        "tv-academy-taxi-1982"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Doc en Volver al futuro (1985); Marty McFly; 1955",
+      "sourceIds": [
+        "biography-com",
+        "backtothefuture-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Secuelas 1989 y 1990; romance con Clara en el Viejo Oeste; Plum en Clue (1985); klingon en Star Trek III (1984); Beanes en Amazing Stories",
+      "sourceIds": [
+        "biography-com",
+        "backtothefuture-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Juez Doom (1988); tío Fester en La familia Addams (1991) y 1993",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Más de noventa producciones; Independent Spirit por Twenty Bucks; Eight Men Out",
+      "sourceIds": [
+        "backtothefuture-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Cuatro nominaciones y tres premios Emmy; Road to Avonlea 1992, Alistair Dimple; Professor Dimpie",
+      "sourceIds": [
+        "tv-academy-bio",
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Hacks 2024, mejor actor invitado en serie de comedia, Larry Arbuckle, episodio The Deborah Vance Christmas Spectacular",
+      "sourceIds": [
+        "tv-academy-bio",
+        "hachette-author"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed by TV Academy. Drop hachette-author tag, it does not mention Hacks."
+    },
+    {
+      "claim": "Memoria: tapa dura de 256 páginas, Grand Central, 27 oct 2026, preventa, fecha sujeta a cambios; ebook y audiolibro; precios",
+      "sourceIds": [
+        "hachette-memoir"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Infancia en la finca Waveny; criado por institutrices; madre creativa y padre severo",
+      "sourceIds": [
+        "hachette-memoir"
+      ],
+      "verdict": "unsupported",
+      "note": "Waveny confirmed. Governesses and stern father not in the opened listing."
+    },
+    {
+      "claim": "Libro escrito con encanto, ironía seca y honestidad; historias apenas contadas antes; inmersión en teatro de NY",
+      "sourceIds": [
+        "hachette-memoir"
+      ],
+      "verdict": "unsupported",
+      "note": "Not found in the opened listing text."
+    },
+    {
+      "claim": "Cabeza sin cuerpo en Wednesday; El rey Lear",
+      "sourceIds": [
+        "hachette-memoir"
+      ],
+      "verdict": "unsupported",
+      "note": "Not found in the opened listing text."
+    },
+    {
+      "claim": "Supanova Sídney 19-21 junio, Perth 27-28 junio 2026",
+      "sourceIds": [
+        "variety-supanova-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Comic Con de Rhode Island 6-8 noviembre 2026; último invitado; reencuentro de Roger Rabbit",
+      "sourceIds": [
+        "turnto10-ric-2026"
+      ],
+      "verdict": "unsupported",
+      "note": "Convention dates and guest status confirmed. The reunion is not dated separately in the source; the article implies it is dated 6-8 November."
+    },
+    {
+      "claim": "Foto con Michael J. Fox, New York Comic Con, 8 oct 2022",
+      "sourceIds": [
+        "turnto10-ric-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Caption confirmed."
+    }
+  ],
+  "uncitedClaims": [
+    "\"Pero su carrera empezó lejos del cine, sobre los escenarios de Nueva York\" (opening paragraph, tag is outside the sentence cluster; add a tag to the sentence)"
+  ],
+  "readsHumanWritten": false,
+  "addsValue": false,
+  "valueNote": "Sentence-by-sentence translation of the English draft with the same headings and sources. No Spanish-language sources or local queries.",
+  "decision": "reject",
+  "summary": "Reject. Same unsupported claims as the English draft (Tony award, five Oscars, NYSF/off-Broadway, memoir description phrases, governesses, Wednesday, King Lear, reunion dates). Localisation fails: it is a structural translation of the English with no Spanish-language sources or local context. Rebuild from Spanish sources and queries."
+}

@@ -1,0 +1,338 @@
+{
+  "date": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"In a 2007 interview Rodriguez recognized her potential in Sin City and Planet Terror; he makes actors feel anything is possible\" (Interview says Rodriguez 'has identified this potential in me' and lets her try things; it does not name Sin City/Planet Terror in this context, and 'makes actors feel that anything is possible' is not in the fetched text. Attribute only what is quoted, or drop the wording.)",
+    "UNSUPPORTED: \"Planet Terror shot first, Death Proof second, with largely the same crew, all at Troublemaker Studios in Austin\" (Shooting order and Troublemaker Studios in Austin are confirmed. 'largely the same crew on both films' does not appear in the fetched text. Drop that clause.)",
+    "UNSUPPORTED: \"She told the site the new film shows how characters changed about ten years after Scream 4\" (The article says audiences will see how characters changed 'especially after 10 years'. That is the article's framing, not a quote from Shelton. Reattribute to the article or drop 'She told the site'.)",
+    "Reviewer recommends rejection: Rejected. Fix three unsupported statements: (1) drop 'with largely the same crew on both films' (Grindhouse interview); (2) drop or reattribute 'She told the site the new film shows... about ten years after Scream 4' (that is the E! article's framing, not Shelton's quote); (3) remove 'makes actors feel that anything is possible' and tie the Sin City/Planet Terror claim to what the interview says. The Sandlot Forever 2019 and NBC claims are now confirmed."
+  ],
+  "claims": [
+    {
+      "claim": "Born 12 April 1974 in Los Angeles",
+      "sourceIds": [
+        "tmdb-marley-shelton",
+        "wikidata-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb birthday April 12, 1974, Los Angeles, California, USA; Wikidata 12 April 1974, Los Angeles."
+    },
+    {
+      "claim": "American actress; citizenship United States",
+      "sourceIds": [
+        "wikidata-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Wikidata country of citizenship: United States."
+    },
+    {
+      "claim": "Earliest TMDb credit: The Family Man (1990), one-episode part",
+      "sourceIds": [
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb lists The Family Man (TV, 1 ep., 1990), no role listed."
+    },
+    {
+      "claim": "The Sandlot (1993), Wendy",
+      "sourceIds": [
+        "tmdb-marley-shelton",
+        "brave-beginnings-psa"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb 1993 Wendy; Brave Beginnings: Wendy Peffercorn."
+    },
+    {
+      "claim": "Wikidata lists UCLA and Eagle Rock High School",
+      "sourceIds": [
+        "wikidata-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Educated at: University of California, Los Angeles; Eagle Rock High School."
+    },
+    {
+      "claim": "Pleasantville (1998) Margaret Henderson; Never Been Kissed (1999) Kristin",
+      "sourceIds": [
+        "tmdb-marley-shelton",
+        "brave-beginnings-psa"
+      ],
+      "verdict": "confirmed",
+      "note": "Both confirmed."
+    },
+    {
+      "claim": "Nixon (1995) Tricia Nixon Cox; Warriors of Virtue (1997) Elysia",
+      "sourceIds": [
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Both listed with those roles and years."
+    },
+    {
+      "claim": "Bubble Boy (2001) Chloe; Uptown Girls (2003) Ingrid; Dark Shadows (2005) Victoria Winters",
+      "sourceIds": [
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "All listed."
+    },
+    {
+      "claim": "The Sandlot Forever (2019) as herself",
+      "sourceIds": [
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb: The Sandlot Forever (Movie, Self), 2019. Previously unconfirmed year now confirmed."
+    },
+    {
+      "claim": "Sin City (2005) as The Customer",
+      "sourceIds": [
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "2005 Sin City, The Customer."
+    },
+    {
+      "claim": "In a 2007 interview Rodriguez recognized her potential in Sin City and Planet Terror; he makes actors feel anything is possible",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview"
+      ],
+      "verdict": "unsupported",
+      "note": "Interview says Rodriguez 'has identified this potential in me' and lets her try things; it does not name Sin City/Planet Terror in this context, and 'makes actors feel that anything is possible' is not in the fetched text. Attribute only what is quoted, or drop the wording."
+    },
+    {
+      "claim": "Rodriguez writes, directs, scores, edits",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "'writes, directs, DPs, scores, edits and mixes his own movies'."
+    },
+    {
+      "claim": "Dakota based on Hitchcock ice-queen blondes; she studied suspense",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted directly."
+    },
+    {
+      "claim": "Favorite film Psycho; likes Dial M for Murder",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Psycho named; Dial M for Murder rewatched and mentioned."
+    },
+    {
+      "claim": "Rodriguez asked for one sequence as if from a silent movie",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Planet Terror shot first, Death Proof second, with largely the same crew, all at Troublemaker Studios in Austin",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview"
+      ],
+      "verdict": "unsupported",
+      "note": "Shooting order and Troublemaker Studios in Austin are confirmed. 'largely the same crew on both films' does not appear in the fetched text. Drop that clause."
+    },
+    {
+      "claim": "Tarantino on set for Planet Terror and helped co-direct it",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "'really helped in co-directing the movie'."
+    },
+    {
+      "claim": "Running in high heels; stunt double Tracey Dashnaw did the window jump",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Rodriguez digital and quick; Tarantino shot on film and talked more with actors",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Digital vs. film confirmed. 'talked more with actors' is not in the fetched text; minor, but drop or flag if strict."
+    },
+    {
+      "claim": "Rodriguez called Planet Terror a Gore-Ball comedy blending screwball comedy with zombies",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "The Fifth Patient (2007), expected to screen at CineVegas",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview",
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed; TMDb 2007 Helen."
+    },
+    {
+      "claim": "Judy Hicks first appeared in Scream 4 (2011)",
+      "sourceIds": [
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Scream 4 (2011), Deputy Judy Hicks."
+    },
+    {
+      "claim": "Deputy sheriff working with Dewey Riley; former high school classmate of Sidney Prescott; red herring",
+      "sourceIds": [
+        "etonline-scream-judy-hicks"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted directly."
+    },
+    {
+      "claim": "Scream (2022): Hicks promoted to sheriff; Wes's mother; Dylan Minnette plays Wes",
+      "sourceIds": [
+        "etonline-scream-judy-hicks",
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed; TMDb Sheriff Judy Hicks 2022."
+    },
+    {
+      "claim": "Shelton said she 'couldn't believe it' and was 'over the moon'",
+      "sourceIds": [
+        "etonline-scream-judy-hicks"
+      ],
+      "verdict": "confirmed",
+      "note": "'I couldn't believe it. I was over the moon.'"
+    },
+    {
+      "claim": "Fans still divided over the character",
+      "sourceIds": [
+        "etonline-scream-judy-hicks"
+      ],
+      "verdict": "confirmed",
+      "note": "'many fans are still divided over Hicks'."
+    },
+    {
+      "claim": "Lemon squares quote",
+      "sourceIds": [
+        "etonline-scream-judy-hicks"
+      ],
+      "verdict": "confirmed",
+      "note": "'I can't believe the popularity of the lemon squares.'"
+    },
+    {
+      "claim": "She told the site the new film shows how characters changed about ten years after Scream 4",
+      "sourceIds": [
+        "etonline-scream-judy-hicks"
+      ],
+      "verdict": "unsupported",
+      "note": "The article says audiences will see how characters changed 'especially after 10 years'. That is the article's framing, not a quote from Shelton. Reattribute to the article or drop 'She told the site'."
+    },
+    {
+      "claim": "Rampage (2018) as Dr. Kerry Atkins",
+      "sourceIds": [
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "1923 Emma Dutton; Manhunt Hannah Gray",
+      "sourceIds": [
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "1923 (5 eps.), Manhunt (3 eps.)."
+    },
+    {
+      "claim": "Matlock (2025) Lydia Reed, two episodes; Tracker (2024) Erika Kennedy, one episode",
+      "sourceIds": [
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "No stage credits on TMDb or BroadwayWorld",
+      "sourceIds": [
+        "tmdb-marley-shelton",
+        "broadwayworld-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "None listed in either."
+    },
+    {
+      "claim": "BroadwayWorld photo caption dated 9 January 2018: Gail Mazzuchelli in Rise pilot",
+      "sourceIds": [
+        "broadwayworld-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Caption dated 01/09/2018, 'RISE Pilot Episode 101 ... Marley Shelton as Gail Mazzuchelli'. Previously flagged NBC claim is now confirmed (photo credit Peter Kramer/NBC; article 'NBC drama RISE')."
+    },
+    {
+      "claim": "Rise is an NBC series from 2018; TMDb gives ten episodes",
+      "sourceIds": [
+        "broadwayworld-marley-shelton",
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "NBC drama Rise dated 2018; TMDb Rise 10 eps, Gail Mazzuchelli."
+    },
+    {
+      "claim": "12 October 2018 Brave Beginnings announced Shelton starred in its latest PSA; real premature babies reaching milestones",
+      "sourceIds": [
+        "brave-beginnings-psa"
+      ],
+      "verdict": "confirmed",
+      "note": "Post dated October 12, 2018; 'REAL preemies experiencing REAL firsts'."
+    },
+    {
+      "claim": "Brave Beginnings is a program of the Will Rogers Motion Picture Pioneers Foundation",
+      "sourceIds": [
+        "brave-beginnings-psa"
+      ],
+      "verdict": "confirmed",
+      "note": "'A Program of the Will Rogers Motion Picture Pioneers Foundation'."
+    },
+    {
+      "claim": "March 2026 Patchogue Theatre screening of The Sandlot with live Q&A with Chauncey Leopardi and Shelton; set for June on Long Island",
+      "sourceIds": [
+        "broadwayworld-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated March 24, 2026; 'will take place in June on Long Island'."
+    },
+    {
+      "claim": "Married to producer Beau Flynn; mother of two daughters",
+      "sourceIds": [
+        "brave-beginnings-psa"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Wikidata marriage start 2001; two children",
+      "sourceIds": [
+        "wikidata-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Spouse Beau Flynn, start 2001; children 2."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Good use of primary-ish sources and Brave Beginnings detail. Needs trimming of the unsupported crew claim and the misattributed 'She told the site' sentence.",
+  "decision": "reject",
+  "summary": "Rejected. Fix three unsupported statements: (1) drop 'with largely the same crew on both films' (Grindhouse interview); (2) drop or reattribute 'She told the site the new film shows... about ten years after Scream 4' (that is the E! article's framing, not Shelton's quote); (3) remove 'makes actors feel that anything is possible' and tie the Sin City/Planet Terror claim to what the interview says. The Sandlot Forever 2019 and NBC claims are now confirmed."
+}

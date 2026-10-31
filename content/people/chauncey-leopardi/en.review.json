@@ -1,0 +1,211 @@
+{
+  "date": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Chauncey Leopardi is an actor from the United States",
+      "sourceIds": [
+        "betaseries-chauncey-leopardi"
+      ],
+      "verdict": "confirmed",
+      "note": "BetaSeries lists nationality/country as United States."
+    },
+    {
+      "claim": "Born on 14 June 1981 (body, FAQ, metaDescription)",
+      "sourceIds": [
+        "betaseries-chauncey-leopardi",
+        "famousbirthdays-chauncey-leopardi"
+      ],
+      "verdict": "confirmed",
+      "note": "BetaSeries: Birth date June 14, 1981. FamousBirthdays: Birthday June 14, 1981."
+    },
+    {
+      "claim": "Known as Michael 'Squints' Palledorous in The Sandlot (1993) (summary, knownFor, body)",
+      "sourceIds": [
+        "standard-examiner-sandlot-ogden-2023",
+        "betaseries-chauncey-leopardi"
+      ],
+      "verdict": "confirmed",
+      "note": "Standard-Examiner: 'who played Michael Squints Palledorous'. BetaSeries credits The Sandlot (1993) as Michael 'Squints' Palledorous."
+    },
+    {
+      "claim": "He stepped back from acting and asked himself whether he still liked the work",
+      "sourceIds": [
+        "people-stepped-back-hollywood-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "PEOPLE quote: 'Do I even like doing this? is it something I'm truly passionate about?'"
+    },
+    {
+      "claim": "He now describes cannabis as his passion and works in cannabis",
+      "sourceIds": [
+        "people-stepped-back-hollywood-2025",
+        "people-sandlot-cast-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "'It's definitely my passion. I fell in love with the plant' (PEOPLE, Oct 2025). Article narration: 'now works in the cannabis industry' (PEOPLE, Nov 2025)."
+    },
+    {
+      "claim": "At a 2023 Ogden, Utah event he called the film a little time capsule of one summer in 1962",
+      "sourceIds": [
+        "standard-examiner-sandlot-ogden-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'It's like a little time capsule to this one summer in 1962.' Article paraphrases without quote marks, which is acceptable."
+    },
+    {
+      "claim": "'It's one summer, set in 1962, that can live forever' (quote, later PEOPLE interview)",
+      "sourceIds": [
+        "people-sandlot-cast-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Verbatim match, PEOPLE published 11 Nov 2025."
+    },
+    {
+      "claim": "He contrasted the handmade sets and real props with effects-heavy productions",
+      "sourceIds": [
+        "standard-examiner-sandlot-ogden-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: sets 'built by hand by craftsmen with real props'; 'No green screen or CGI stuff'; contrast with modern films."
+    },
+    {
+      "claim": "The movie was mainly shot in Salt Lake City in 1992",
+      "sourceIds": [
+        "standard-examiner-sandlot-ogden-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'primarily filmed in Salt Lake City in 1992'. Verified by targeted re-fetch."
+    },
+    {
+      "claim": "A well-known scene was filmed at the Lorin Farr pool in Ogden",
+      "sourceIds": [
+        "standard-examiner-sandlot-ogden-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: Lorin Farr Community Pool, site of 'one iconic scene'. Verified by targeted re-fetch."
+    },
+    {
+      "claim": "BetaSeries lists Boy Meets World (1993), Casper (1995), Safe (1995), The Big Green (1995), 7th Heaven (1996), Freaks and Geeks (1999), Gilmore Girls (2000) and CSI (2000)",
+      "sourceIds": [
+        "betaseries-chauncey-leopardi"
+      ],
+      "verdict": "confirmed",
+      "note": "All eight titles and years are on the BetaSeries TV and movie lists."
+    },
+    {
+      "claim": "Titles run from family films in the early 1990s to network TV in the late 1990s and early 2000s",
+      "sourceIds": [
+        "betaseries-chauncey-leopardi"
+      ],
+      "verdict": "confirmed",
+      "note": "Years match the cited titles. 'Network' is general context, not a figure."
+    },
+    {
+      "claim": "In an October 2025 PEOPLE interview he loved acting but not the business side of Hollywood: 'I loved when I was acting but I didn't necessarily like the business side of Hollywood'",
+      "sourceIds": [
+        "people-stepped-back-hollywood-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Verbatim match. Published 8 Oct 2025."
+    },
+    {
+      "claim": "He said powerful people in high places had sway over who and what was popular",
+      "sourceIds": [
+        "people-stepped-back-hollywood-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Verbatim: 'a lot of powerful people in high places that had their sway on who and what was popular'."
+    },
+    {
+      "claim": "'I transitioned better than a lot of child actors'",
+      "sourceIds": [
+        "people-stepped-back-hollywood-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Verbatim match."
+    },
+    {
+      "claim": "He still takes an occasional acting role",
+      "sourceIds": [
+        "people-sandlot-cast-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Article narration: 'still takes on the occasional role'."
+    },
+    {
+      "claim": "'We have multiple group chats. They're funny, they'll hit you at random times' (keeps in touch with cast)",
+      "sourceIds": [
+        "people-sandlot-cast-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Verbatim match."
+    },
+    {
+      "claim": "'Pat is so recognizable, people scream at him from cars' (about Patrick Renna)",
+      "sourceIds": [
+        "people-sandlot-cast-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Verbatim match."
+    },
+    {
+      "claim": "Squintz cannabis brand",
+      "sourceIds": [
+        "people-stepped-back-hollywood-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Article narration: 'the basis of his Squintz cannabis brand'."
+    },
+    {
+      "claim": "In August 2023 he attended the inaugural Brookey Bakes and Barragan Family Inclusion Ballgame at Monroe Park in Ogden, benefiting the Utah Parent Center, marking the film's 30th anniversary",
+      "sourceIds": [
+        "standard-examiner-sandlot-ogden-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated 6 Aug 2023. Inaugural game, Monroe Park, Utah Parent Center benefit and 30th anniversary all confirmed by targeted re-fetch."
+    },
+    {
+      "claim": "Teams Squints and Yeah Yeah played; cast signed autographs and posed for photos with fans",
+      "sourceIds": [
+        "standard-examiner-sandlot-ogden-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'York and Leopardi also signed autographs and posed for pictures with fans'. Team names confirmed."
+    },
+    {
+      "claim": "He said it was very cool to see the pool where they had filmed the Wendy scene",
+      "sourceIds": [
+        "standard-examiner-sandlot-ogden-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Verbatim: 'It's very cool to see the pool and see where we filmed the Wendy scene.'"
+    },
+    {
+      "claim": "FAQ: turned 45 in June 2026",
+      "sourceIds": [
+        "betaseries-chauncey-leopardi",
+        "famousbirthdays-chauncey-leopardi"
+      ],
+      "verdict": "confirmed",
+      "note": "Born 14 June 1981, so 45 on 14 June 2026. Correct as of 2026-10-31."
+    },
+    {
+      "claim": "FAQ: He still takes an occasional acting role and questioned whether he still liked acting",
+      "sourceIds": [
+        "people-sandlot-cast-2025",
+        "people-stepped-back-hollywood-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Both points are in the cited PEOPLE articles."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Dated timeline (2023 Ogden event, Oct 2025 and Nov 2025 PEOPLE interviews) with verbatim quotes from primary-interview sources, and the 1992 filming and Lorin Farr pool details. Stale reviewNotes are resolved in the current text: Father of the Bride is removed, the 'led Team Yeah Yeah' error is gone, and the quotes check out. Minor issues: the 'Do I even like doing this?' quote is missing its closing period, and the targetQuery 'chauncey leopardi father of the bride' has no body support because BetaSeries does not list that film. These are not fact errors and do not block approval.",
+  "decision": "approve",
+  "summary": "All body, summary, knownFor, metaDescription and FAQ claims with citations were checked against the opened sources (BetaSeries, FamousBirthdays, PEOPLE Oct and Nov 2025, Standard-Examiner Aug 2023) and confirmed. The outdated reviewNotes are obsolete after the fixes. Approve."
+}

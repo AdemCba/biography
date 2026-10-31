@@ -1,0 +1,310 @@
+{
+  "date": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"Much of his stage work came with the New York Shakespeare Festival and off-Broadway companies\" (Not found in the opened Biography.com summary. Needs a quote or a different source.)",
+    "UNSUPPORTED: \"Tony Award winning Broadway production of Morning's at Seven\" (Cast page lists the Broadway credit but the opened text does not say Tony winning.)",
+    "UNSUPPORTED: \"Film debut 1975 as Max Taber in One Flew Over the Cuckoo's Nest; film won five Academy Awards including Best Picture\" (Role and year confirmed. The Academy Awards count and Best Picture claim do not appear in the opened Biography.com text.)",
+    "UNSUPPORTED: \"Raised mostly by governesses; watched creative mother and stern father\" (Not in the opened listing text.)",
+    "UNSUPPORTED: \"Covers immersion in NY theatre, move to TV and film, isolated childhood of privilege; stories rarely told before; told with charm, dry wit and honesty\" (Not found in the opened listing. The listing summary I could read describes an intimate portrait and names roles, not these phrases.)",
+    "UNSUPPORTED: \"Appearance as a disembodied head in Wednesday; title role in stage King Lear\" (Not found in the opened listing text.)",
+    "UNSUPPORTED: \"Who Framed Roger Rabbit reunion with Kathleen Turner and Charles Fleischer on 6-8 November 2026\" (Reunion is confirmed, but the article gives no separate reunion dates. The source gives only convention dates. Reword to say the reunion is at the convention.)",
+    "Reviewer recommends rejection: Reject. Several details are not in the opened sources: memoir listing claims (governesses, stern father, Wednesday, King Lear, rare stories, charm and wit), Biography.com claims (Tony award for Morning's at Seven, five Academy Awards and Best Picture for Cuckoo's Nest, NYSF and off-Broadway), and the Roger Rabbit reunion dates. Remove them or cite a source that says them. Drop the hachette-author tag on the Hacks sentence."
+  ],
+  "claims": [
+    {
+      "claim": "Born 22 October 1938 in Stamford, Connecticut",
+      "sourceIds": [
+        "biography-com",
+        "tmdb",
+        "tv-academy-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "All three opened sources give the date and birthplace."
+    },
+    {
+      "claim": "Doc Brown in Back to the Future; Reverend Jim Ignatowski in Taxi",
+      "sourceIds": [
+        "backtothefuture-cast",
+        "hachette-author"
+      ],
+      "verdict": "confirmed",
+      "note": "Both pages name the roles."
+    },
+    {
+      "claim": "Youngest of seven children; parents Samuel (attorney) and Ruth (singer); grandfather Lewis Lapham co-founded Texaco; summer stock at 14; Neighborhood Playhouse at 19 under Sanford Meisner",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com summary confirms each detail."
+    },
+    {
+      "claim": "Stage debut in And They Put Handcuffs on the Flowers; Broadway debut in Red, White and Maddox",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed in Biography.com summary."
+    },
+    {
+      "claim": "More than 200 plays on and off Broadway and in regional theatre",
+      "sourceIds": [
+        "backtothefuture-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Official cast page says over two hundred plays."
+    },
+    {
+      "claim": "Obie and Drama Desk Award for Kaspar",
+      "sourceIds": [
+        "backtothefuture-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Official cast page."
+    },
+    {
+      "claim": "Much of his stage work came with the New York Shakespeare Festival and off-Broadway companies",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "unsupported",
+      "note": "Not found in the opened Biography.com summary. Needs a quote or a different source."
+    },
+    {
+      "claim": "Tony Award winning Broadway production of Morning's at Seven",
+      "sourceIds": [
+        "backtothefuture-cast"
+      ],
+      "verdict": "unsupported",
+      "note": "Cast page lists the Broadway credit but the opened text does not say Tony winning."
+    },
+    {
+      "claim": "New York production of Trumbo, where he played Dalton Trumbo",
+      "sourceIds": [
+        "backtothefuture-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Official cast page."
+    },
+    {
+      "claim": "Film debut 1975 as Max Taber in One Flew Over the Cuckoo's Nest; film won five Academy Awards including Best Picture",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "unsupported",
+      "note": "Role and year confirmed. The Academy Awards count and Best Picture claim do not appear in the opened Biography.com text."
+    },
+    {
+      "claim": "Oberon in Yale production of A Midsummer Night's Dream with Meryl Streep as Helena, 1975",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Taxi role held for five years; two of three Emmys for it",
+      "sourceIds": [
+        "backtothefuture-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "1982 Emmy credited to ABC and 1983 to NBC for Taxi",
+      "sourceIds": [
+        "tv-academy-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Television Academy bio lists Taxi (ABC) 1982 and Taxi (NBC) 1983."
+    },
+    {
+      "claim": "1982 category nominees included Danny DeVito, Steve Landesberg and Ron Glass",
+      "sourceIds": [
+        "tv-academy-taxi-1982"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed; the category page lists Lloyd as winner."
+    },
+    {
+      "claim": "Professor B.O. Beanes in Amazing Stories",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Doc in Back to the Future (1985), befriends Marty McFly, sends him back to 1955",
+      "sourceIds": [
+        "biography-com",
+        "backtothefuture-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Doc returns in Part II (1989) and Part III (1990); romance with Clara in the Old West",
+      "sourceIds": [
+        "biography-com",
+        "backtothefuture-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Professor Plum in Clue (1985); Klingon in Star Trek III (1984)",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed in the Biography.com text opened."
+    },
+    {
+      "claim": "Judge Doom in Who Framed Roger Rabbit (1988); Uncle Fester in The Addams Family (1991) and Addams Family Values (1993)",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "More than ninety film and television productions; Independent Spirit Award for Twenty Bucks; Eight Men Out among credits",
+      "sourceIds": [
+        "backtothefuture-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Four Emmy nominations and three wins",
+      "sourceIds": [
+        "tv-academy-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "1992 win for Road to Avonlea, Outstanding Lead Actor in a Drama Series, as Alistair Dimple; Biography.com gives Professor Dimpie",
+      "sourceIds": [
+        "tv-academy-bio",
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources as stated."
+    },
+    {
+      "claim": "Hacks 2024 nomination, Outstanding Guest Actor in a Comedy Series, Larry Arbuckle, episode The Deborah Vance Christmas Spectacular",
+      "sourceIds": [
+        "tv-academy-bio",
+        "hachette-author"
+      ],
+      "verdict": "confirmed",
+      "note": "TV Academy page confirms. The hachette-author citation does not mention Hacks and should be dropped."
+    },
+    {
+      "claim": "Memoir In My Own Time: 256-page hardcover, Grand Central Publishing, on-sale 27 October 2026, preorder, date subject to change",
+      "sourceIds": [
+        "hachette-memoir"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Ebook and unabridged audiobook listed; prices US$32.50, US$15.99, US$24.99",
+      "sourceIds": [
+        "hachette-memoir"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Childhood on the Waveny estate in Connecticut",
+      "sourceIds": [
+        "hachette-memoir"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Raised mostly by governesses; watched creative mother and stern father",
+      "sourceIds": [
+        "hachette-memoir"
+      ],
+      "verdict": "unsupported",
+      "note": "Not in the opened listing text."
+    },
+    {
+      "claim": "Covers immersion in NY theatre, move to TV and film, isolated childhood of privilege; stories rarely told before; told with charm, dry wit and honesty",
+      "sourceIds": [
+        "hachette-memoir"
+      ],
+      "verdict": "unsupported",
+      "note": "Not found in the opened listing. The listing summary I could read describes an intimate portrait and names roles, not these phrases."
+    },
+    {
+      "claim": "Appearance as a disembodied head in Wednesday; title role in stage King Lear",
+      "sourceIds": [
+        "hachette-memoir"
+      ],
+      "verdict": "unsupported",
+      "note": "Not found in the opened listing text."
+    },
+    {
+      "claim": "Supanova Sydney 19-21 June and Perth 27-28 June 2026",
+      "sourceIds": [
+        "variety-supanova-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Rhode Island Comic Con 6-8 November 2026; latest guest announced",
+      "sourceIds": [
+        "turnto10-ric-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Who Framed Roger Rabbit reunion with Kathleen Turner and Charles Fleischer on 6-8 November 2026",
+      "sourceIds": [
+        "turnto10-ric-2026"
+      ],
+      "verdict": "unsupported",
+      "note": "Reunion is confirmed, but the article gives no separate reunion dates. The source gives only convention dates. Reword to say the reunion is at the convention."
+    },
+    {
+      "claim": "Photo with Michael J. Fox at New York Comic Con, 8 October 2022",
+      "sourceIds": [
+        "turnto10-ric-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Caption confirms the event and date."
+    },
+    {
+      "claim": "Born 1938 so turned 88 in October 2026",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic from confirmed birth date."
+    },
+    {
+      "claim": "Widely regarded as one of the most distinctive character actors of his generation",
+      "sourceIds": [
+        "hachette-author"
+      ],
+      "verdict": "confirmed",
+      "note": "Publisher author page wording confirmed."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Useful correction of the Taxi and Avonlea record and a clear memoir timeline. The unsupported memoir and Biography.com details must be removed or sourced first.",
+  "decision": "reject",
+  "summary": "Reject. Several details are not in the opened sources: memoir listing claims (governesses, stern father, Wednesday, King Lear, rare stories, charm and wit), Biography.com claims (Tony award for Morning's at Seven, five Academy Awards and Best Picture for Cuckoo's Nest, NYSF and off-Broadway), and the Roger Rabbit reunion dates. Remove them or cite a source that says them. Drop the hachette-author tag on the Hacks sentence."
+}

@@ -1,0 +1,86 @@
+{
+  "id": "william-devane",
+  "name": "William Devane",
+  "categories": [
+    "artists"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "nationality": {
+      "value": [
+        "US"
+      ],
+      "sources": [
+        "cinegraph-william-devane"
+      ],
+      "note": "Cinegraph lists the place as Albany, New York, USA. Nationality inferred from that field, not stated as citizenship."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "tv-academy-bio",
+      "url": "https://www.televisionacademy.com/bios/william-devane",
+      "title": "William Devane - Television Academy bio",
+      "publisher": "Television Academy",
+      "type": "award-body",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "plex-william-devane",
+      "url": "https://watch.plex.tv/person/william-devane",
+      "title": "William Devane - Plex person page",
+      "publisher": "Plex",
+      "type": "database",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "cinegraph-william-devane",
+      "url": "https://cinegraph.org/people/william-devane/legacy",
+      "title": "William Devane - Cinegraph",
+      "publisher": "Cinegraph",
+      "type": "database",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "gulfnews-devane-24",
+      "url": "https://gulfnews.com/entertainment/hollywood/william-devane-back-in-office-with-24-1.1341403",
+      "title": "William Devane back in office with '24'",
+      "publisher": "Gulf News",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "michaelfairman-revenge-2011",
+      "url": "https://michaelfairmantv.com/knots-landing-favorite-william-devane-cast-on-abcs-revenge/2011/12/13/",
+      "title": "Knots Landing favorite William Devane cast on ABC's Revenge",
+      "publisher": "Michael Fairman TV",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "tvmaze-edward-grayson",
+      "url": "https://www.tvmaze.com/characters/1103/revenge-edward-grayson",
+      "title": "Edward Grayson - Revenge - TVmaze",
+      "publisher": "TVmaze",
+      "type": "database",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "fernsehserien-devane",
+      "url": "https://www.fernsehserien.de/william-devane/filmografie",
+      "title": "William Devane - Filmografie",
+      "publisher": "fernsehserien.de",
+      "type": "database",
+      "accessed": "2026-10-31",
+      "lang": "de"
+    }
+  ]
+}

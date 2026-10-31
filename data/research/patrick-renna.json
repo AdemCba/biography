@@ -1,0 +1,92 @@
+{
+  "worthWriting": true,
+  "reason": "Adult American actor and producer with a 1993 film role in The Sandlot, a 2025 children's book, and a 2026 YouTube comedy series he leads. Public work only. Identity checked: the actor who played Hamilton 'Ham' Porter, not namesakes.",
+  "wikidata": "",
+  "importance": 3,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "apple-snapshot",
+      "url": "https://snapshot.apple.com/us/person/6621227076",
+      "title": "Patrick Renna - Movies and Podcasts",
+      "publisher": "Apple TV (Snapshot)",
+      "type": "other",
+      "lang": "en"
+    },
+    {
+      "id": "penguin-book",
+      "url": "https://www.penguin.com.au/books/a-little-sluggers-guide-to-the-unwritten-rules-of-baseball-and-life-9780593754887",
+      "title": "A Little Slugger's Guide to the Unwritten Rules of Baseball and Life",
+      "publisher": "Penguin Random House (PEN US eBook Childrens)",
+      "type": "company",
+      "lang": "en"
+    },
+    {
+      "id": "boston-com-interview",
+      "url": "https://www.boston.com/culture/books/2025/02/25/the-sandlot-star-patrick-renna-launches-the-unwritten-rules-of-baseball-and-life-in-boston/?amp=1",
+      "title": "The Sandlot star Patrick Renna launches The Unwritten Rules of Baseball and Life in Boston",
+      "publisher": "Boston.com",
+      "type": "interview",
+      "lang": "en"
+    },
+    {
+      "id": "movieguide-hambino",
+      "url": "https://www.movieguide.org/news-articles/patrick-renna-launches-hambino-media.html",
+      "title": "Actor Launches Production Banner Inspired by His SANDLOT Character",
+      "publisher": "Movieguide",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "entertainmentnow-dugout-dads",
+      "url": "https://entertainmentnow.com/90s-tv-shows/2026/06/sandlot-cast-reunites-patrick-renna-new-tv-comedy/",
+      "title": "'The Sandlot' Cast Reunites With Patrick Renna for New TV Comedy",
+      "publisher": "EntertainmentNow",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "timeout-dugout-dads",
+      "url": "https://www.timeout.com/usa/news/the-sandlot-cast-is-reuniting-for-a-new-baseball-comedy-series-on-youtube-082926",
+      "title": "The Sandlot cast is reuniting for a new baseball comedy series on YouTube",
+      "publisher": "Time Out New York",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1979-03-03",
+      "sources": [
+        "apple-snapshot"
+      ],
+      "note": "Apple TV person page. IMDb and other databases were not readable at fetch time, so only one source."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Boston, Massachusetts, United States",
+      "sources": [
+        "apple-snapshot",
+        "boston-com-interview"
+      ],
+      "note": "Apple lists Boston, MA as 'From'. Renna told Boston.com he was born in the North End of Boston, and was raised mostly in Dorchester and Watertown."
+    },
+    "nationality": {
+      "value": "US",
+      "sources": [
+        "apple-snapshot"
+      ],
+      "note": "Apple describes him as an American actor."
+    }
+  },
+  "targetQueries": [
+    "patrick renna movies",
+    "patrick renna sandlot",
+    "patrick renna age",
+    "patrick renna new show",
+    "patrick renna movies",
+    "patrick renna as a kid",
+    "patrick renna net worth"
+  ],
+  "gapNote": "Search results show few dated items after August 2026. Latest sourced news is the Dugout Dads YouTube release (Time Out, 29 Aug 2026). No net worth, height or partner figures are stated by any usable source, so those questions are left out. The Hershey's commercial and the Forbes piece were not readable (403), so they are omitted."
+}

@@ -1,0 +1,242 @@
+{
+  "date": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"Boston.com names You Gotta Believe and Monster Summer (2024) among his later films\" (Boston.com names both films but gives no dates or timeline, and no opened source dates You Gotta Believe. Drop 'later', or date You Gotta Believe from a source. Apple lists Monster Summer (2024).)",
+    "Reviewer recommends rejection: Rejected for one minor fix. Boston.com does not date You Gotta Believe or Monster Summer, so 'among his later films' is unsupported. Drop 'later' or cite a dated source. Everything else checks out, including the Carla Gugino co-star (Apple), the Savin Hill and Little League details, and the Boston.com 'first children's book' and pictures-of-Renna claims."
+  ],
+  "claims": [
+    {
+      "claim": "Born 3 March 1979 in Boston (body, metaDescription, FAQ age)",
+      "sourceIds": [
+        "apple-snapshot"
+      ],
+      "verdict": "confirmed",
+      "note": "Apple lists birth date 1979-03-03; 'From: Boston, MA'."
+    },
+    {
+      "claim": "Known for Hamilton 'Ham' Porter in The Sandlot (1993)",
+      "sourceIds": [
+        "apple-snapshot"
+      ],
+      "verdict": "confirmed",
+      "note": "Apple lists The Sandlot (1993) as Hamilton Porter."
+    },
+    {
+      "claim": "Age 47 as of 31 Oct 2026",
+      "sourceIds": [
+        "apple-snapshot"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic correct: birthday passed in March 2026."
+    },
+    {
+      "claim": "Born in the North End, 'basically, on the corner of Salem and Prince Streets'",
+      "sourceIds": [
+        "boston-com-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Direct quote in Boston.com."
+    },
+    {
+      "claim": "Moved to Watertown as a small child; lived in Dorchester (Savin Hill) about ages 7 to 13 and played Little League",
+      "sourceIds": [
+        "boston-com-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Boston.com: moved to Watertown around age 3; 'I lived in Savin Hill in Dorchester the longest'; 'I played Little League in Dorchester'; roughly ages 7-13."
+    },
+    {
+      "claim": "Lifelong Red Sox fan; 'an all-sports fan for Boston'",
+      "sourceIds": [
+        "boston-com-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Both phrases appear in the interview."
+    },
+    {
+      "claim": "The Sandlot came out in 1993",
+      "sourceIds": [
+        "apple-snapshot"
+      ],
+      "verdict": "confirmed",
+      "note": "Apple credit year 1993."
+    },
+    {
+      "claim": "'basically my first audition' and second audition was The Sandlot after Salute Your Shorts",
+      "sourceIds": [
+        "boston-com-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Interview states Sandlot was basically his first audition, and that before it he had done a Salute Your Shorts episode, making Sandlot his second audition. The article's framing of the apparent conflict is fair."
+    },
+    {
+      "claim": "Declined to appear in The Sandlot 2 and 3; 'I chose to let it be'",
+      "sourceIds": [
+        "boston-com-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes: 'I wasn't in 2 or 3. I didn't want to be.' and 'I chose to let it be'."
+    },
+    {
+      "claim": "Apple describes him as an American actor",
+      "sourceIds": [
+        "apple-snapshot"
+      ],
+      "verdict": "confirmed",
+      "note": "Apple labels him 'American actor'."
+    },
+    {
+      "claim": "Son-in-Law (1993) co-starring with Carla Gugino",
+      "sourceIds": [
+        "apple-snapshot"
+      ],
+      "verdict": "confirmed",
+      "note": "Re-fetch of Apple bio: 'starred alongside Carla Gugino in Son-in-Law'. The earlier fetch that missed it was incomplete. Boston.com does not mention her, but Apple suffices."
+    },
+    {
+      "claim": "The Big Green (1995), Lavalantula, You Gotta Believe, National Lampoon Presents: Dorm Daze (2003)",
+      "sourceIds": [
+        "apple-snapshot"
+      ],
+      "verdict": "confirmed",
+      "note": "Apple lists The Big Green (1995) and Dorm Daze (2003); Lavalantula and You Gotta Believe are named without years."
+    },
+    {
+      "claim": "Boston.com names You Gotta Believe and Monster Summer (2024) among his later films",
+      "sourceIds": [
+        "boston-com-interview",
+        "apple-snapshot"
+      ],
+      "verdict": "unsupported",
+      "note": "Boston.com names both films but gives no dates or timeline, and no opened source dates You Gotta Believe. Drop 'later', or date You Gotta Believe from a source. Apple lists Monster Summer (2024)."
+    },
+    {
+      "claim": "Producer of the film Bad Roomies",
+      "sourceIds": [
+        "apple-snapshot"
+      ],
+      "verdict": "confirmed",
+      "note": "Apple: 'has expanded his work behind the scenes, producing the film Bad Roomies'. No year given, none stated in article."
+    },
+    {
+      "claim": "Penguin published an eBook of A Little Slugger's Guide on 25 Feb 2025 under Renna's name",
+      "sourceIds": [
+        "penguin-book"
+      ],
+      "verdict": "confirmed",
+      "note": "Penguin lists eBook date 25 February 2025, author Patrick Renna."
+    },
+    {
+      "claim": "Boston.com called it his first children's book, illustrated by Tommy Parker, with pictures that include Renna himself",
+      "sourceIds": [
+        "boston-com-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Re-fetch with exact-phrase checks: 'to launch his first children's book' and 'including a few depicting Renna himself' are in the text. Earlier reviewer notes saying these were absent were out of date. Tommy Parker as illustrator is in Boston.com; Penguin does not list an illustrator."
+    },
+    {
+      "claim": "20 rules that apply on and off the field, with real-life stories including Jim Abbott and Michael Jordan",
+      "sourceIds": [
+        "boston-com-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Boston.com says 20 rules. Penguin says 'over a dozen', which is not contradictory."
+    },
+    {
+      "claim": "Suited to readers aged 6 to 10",
+      "sourceIds": [
+        "boston-com-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Boston.com author suggests ages 6 to 10."
+    },
+    {
+      "claim": "Ticketed signing at Trident Bookseller set for 26 February",
+      "sourceIds": [
+        "boston-com-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Boston.com: Trident event on Feb. 26, $19."
+    },
+    {
+      "claim": "In February 2025 Renna, Kyle Howard and Lynsey Bartilson Moore announced Hambino Media, 'a slate of scripted and unscripted projects in the works'",
+      "sourceIds": [
+        "movieguide-hambino"
+      ],
+      "verdict": "confirmed",
+      "note": "Movieguide dated 5 Feb 2025; quoted phrase and co-founders confirmed."
+    },
+    {
+      "claim": "Two untitled projects with Chip and Joanna Gaines' Blind Nil; an untitled series with Golf Digest",
+      "sourceIds": [
+        "movieguide-hambino"
+      ],
+      "verdict": "confirmed",
+      "note": "Movieguide: two untitled projects linked to Blind Nil; one untitled series developed with Golf Digest."
+    },
+    {
+      "claim": "Dugout Dads produced through Hambino Media, led by Renna and Howard",
+      "sourceIds": [
+        "entertainmentnow-dugout-dads"
+      ],
+      "verdict": "confirmed",
+      "note": "EntertainmentNow: 'led by Renna and Kyle Howard' and produced by Hambino Media."
+    },
+    {
+      "claim": "June 2026: Renna plays a dad who coaches his son's Little League team; release slated for later that year",
+      "sourceIds": [
+        "entertainmentnow-dugout-dads"
+      ],
+      "verdict": "confirmed",
+      "note": "Published 10 Jun 2026; premise and 'later this year' confirmed."
+    },
+    {
+      "claim": "By 29 August 2026 all episodes were on YouTube",
+      "sourceIds": [
+        "timeout-dugout-dads"
+      ],
+      "verdict": "confirmed",
+      "note": "Time Out dated Saturday 29 Aug 2026: 'you can watch all the episodes on YouTube now'."
+    },
+    {
+      "claim": "'a heartfelt comedy about a first-time Little League coach'; written by Sebastian Jones and Dan Kopelman; directed by Victor Nelli Jr.",
+      "sourceIds": [
+        "timeout-dugout-dads"
+      ],
+      "verdict": "confirmed",
+      "note": "All three confirmed."
+    },
+    {
+      "claim": "Sandlot alumni in cast: Tom Guiry, Chauncey Leopardi, Marty York, Brandon Quintin Adams, Victor DiMattia, Shane Obedzinski, Grant Gelt, Will Horneff; they play new characters; Michael Peña and Danielle Fishel newcomers",
+      "sourceIds": [
+        "timeout-dugout-dads"
+      ],
+      "verdict": "confirmed",
+      "note": "Names listed; Time Out says cast are not playing original Sandlot characters."
+    },
+    {
+      "claim": "Summary/FAQ: Dugout Dads is a comedy about a first-time Little League coach played by Renna, on YouTube by late August 2026",
+      "sourceIds": [
+        "timeout-dugout-dads"
+      ],
+      "verdict": "confirmed",
+      "note": "Consistent with Time Out and EntertainmentNow."
+    },
+    {
+      "claim": "Grew up mostly in Dorchester (FAQ)",
+      "sourceIds": [
+        "boston-com-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Boston.com: Dorchester is where he lived longest."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Good use of the Boston.com interview and the sequel and audition details. The Carla Gugino co-star detail is confirmed by the Apple bio.",
+  "decision": "reject",
+  "summary": "Rejected for one minor fix. Boston.com does not date You Gotta Believe or Monster Summer, so 'among his later films' is unsupported. Drop 'later' or cite a dated source. Everything else checks out, including the Carla Gugino co-star (Apple), the Savin Hill and Little League details, and the Boston.com 'first children's book' and pictures-of-Renna claims."
+}

@@ -1,11 +1,10 @@
 ---
 title: 'Being Sebastian Vettel: Geldsorgen, Ferrari und die neue ARD-Doku'
 slug: being-sebastian-vettel-geldsorgen-ferrari
-metaTitle: 'Being Sebastian Vettel: ARD-Doku, Geldsorgen, Ferrari'
+metaTitle: 'Vettel-Doku: Die Geldsorgen hinter dem Kartsport'
 metaDescription: >-
-  Die vierteilige ARD-Doku „Being Sebastian Vettel“ zeigt den früheren
-  Formel-1-Fahrer, die Geldsorgen seiner Familie und das geheime
-  Ferrari-Treffen.
+  Die ARD-Doku „Being Sebastian Vettel“ zeigt, wie seine Eltern den Kartsport
+  finanzierten und was Vettel über die nächste Mahnung sagt.
 knownFor: 'ARD-Doku über Sebastian Vettel, Oktober 2026'
 summary: >-
   Die vierteilige ARD-Doku „Being Sebastian Vettel“ ist seit dem 22. Oktober in
@@ -17,6 +16,7 @@ status: published
 risk: low
 publishedAt: '2026-10-29'
 reviewedAt: '2026-10-29'
+updatedAt: '2026-10-31'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -24,7 +24,14 @@ targetQueries:
   - being sebastian vettel
   - doku being sebastian vettel
   - being sebastian vettel ard
+  - sebastian vettel geldsorgen
+  - vettel geldsorgen
 faq:
+  - q: Hatte Sebastian Vettel Geldsorgen?
+    a: >-
+      In der ARD-Doku sagt Vettel, der Kartsport sei für seine Familie nicht
+      einfach gewesen, wenn die nächste Mahnung ins Haus kam. Seine Eltern
+      haben viel investiert [s:autobild-vettel] [s:volksstimme-vettel].
   - q: Wann lief die Vettel-Doku im Fernsehen?
     a: >-
       Die ersten zwei Folgen liefen am Mittwoch, 28. Oktober, um 23:45 Uhr im
@@ -44,9 +51,9 @@ Alle vier Folgen sind seit Donnerstag, dem 22. Oktober, in der ARD-Mediathek abr
 
 ## Geldsorgen und das Ferrari-Treffen
 
-Die Berichte stellen zwei Themen in den Vordergrund: die finanziellen Sorgen der Familie und das geheime Treffen mit Ferrari. Im Film ist die Mutter bei einer Formel-BMW-Ausfahrt aus Sorge fast die Notbremse gezogen, der Vater tat alles, um die Karriere zu finanzieren [s:volksstimme-vettel]. Vettel sagt: „Dass es nicht einfach war, wenn die nächste Mahnung ins Haus getrudelt ist“ [s:autobild-vettel]. Er habe verstanden, dass er mit seinem Einsatz alles riskierte [s:volksstimme-vettel]. Ihm sei es immer um den größten Pokal gegangen: „Ich wollte gewinnen“ [s:autobild-vettel].
+Die ARD-Doku zeigt die Geldsorgen der Familie: Vettel sagt, es sei nicht einfach gewesen, wenn die nächste Mahnung ins Haus kam [s:autobild-vettel] [s:volksstimme-vettel]. Neben den Geldsorgen stellen die Berichte das geheime Treffen mit Ferrari in den Vordergrund. Im Film ist die Mutter bei einer Formel-BMW-Ausfahrt aus Sorge fast die Notbremse gezogen, der Vater tat alles, um die Karriere zu finanzieren [s:volksstimme-vettel]. Er habe verstanden, dass er mit seinem Einsatz alles riskierte [s:volksstimme-vettel]. Ihm sei es immer um den größten Pokal gegangen: „Ich wollte gewinnen“ [s:autobild-vettel].
 
-Beim Ferrari-Thema berichtet Vettel, dass die Italiener ihn schon 2012 angesprochen haben, nach seinem zweiten Titel. Luca di Montezemolo, damals Ferrari-Präsident, schrieb ihm zunächst einen Glückwunschbrief, dann folgte ein Treffen, das Vettel als „so ein ganz geheimes Treffen“ beschreibt [s:volksstimme-vettel] [s:autobild-vettel]. Montezemolo fragte, ob er für Ferrari fahren wolle. Vettel lehnte ab, weil er bei Red Bull glücklich war, ließ die Tür aber „ein bisschen offen“ [s:volksstimme-vettel]. 2015 wechselte er doch zu Ferrari, gewann dort 14 Rennen und keinen WM-Titel [s:autobild-vettel] [s:volksstimme-vettel]. Der Wechsel sollte nach dem Bericht die Krönung seiner Karriere sein, doch der Titel blieb aus [s:tvmovie-vettel].
+Beim Ferrari-Thema berichtet Vettel, dass die Italiener ihn schon 2012 angesprochen haben, nach seinem zweiten Titel. Luca di Montezemolo, damals Ferrari-Präsident, schrieb ihm zunächst einen Brief, dann folgte ein Treffen, das Vettel als „so ein ganz geheimes Treffen“ beschreibt [s:volksstimme-vettel] [s:autobild-vettel]. Montezemolo fragte, ob er für Ferrari fahren wolle. Vettel lehnte ab, weil er bei Red Bull glücklich war, ließ die Tür aber „ein bisschen offen“ [s:volksstimme-vettel]. 2015 wechselte er doch zu Ferrari, gewann dort 14 Rennen und keinen WM-Titel [s:autobild-vettel] [s:volksstimme-vettel]. Der Wechsel sollte nach dem Bericht die Krönung seiner Karriere sein, doch der Titel blieb aus [s:tvmovie-vettel].
 
 ## Umwelt, Hamilton und die Doku als Ganzes
 

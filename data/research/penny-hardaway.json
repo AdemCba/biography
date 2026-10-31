@@ -1,0 +1,94 @@
+{
+  "worthWriting": true,
+  "reason": "Living, globally known former NBA All-Star (four-time) and US Olympic gold medallist, currently head men's basketball coach at the University of Memphis. Multiple primary and database sources.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "bbref-hardaway",
+      "url": "https://www.basketball-reference.com/players/h/hardaan01.html",
+      "title": "Anfernee Hardaway Stats",
+      "publisher": "Basketball-Reference.com",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "olympedia-hardaway",
+      "url": "https://www.olympedia.org/athletes/6252",
+      "title": "Penny Hardaway",
+      "publisher": "Olympedia",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "gotigers-return-2026",
+      "url": "https://gotigersgo.com/news/2026/3/16/mens-basketball-university-of-memphis-announces-coach-hardaway-will-return-next-season",
+      "title": "University of Memphis Announces Coach Hardaway Will Return Next Season",
+      "publisher": "University of Memphis Athletics",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "dailymemphian-hardaway-2026",
+      "url": "https://dailymemphian.com/article/61231",
+      "title": "Martin: Memphis and Penny Hardaway have a plan. Will it work?",
+      "publisher": "The Daily Memphian",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "cbs-hardaway-extension-2022",
+      "url": "https://www.cbssports.com/college-basketball/news/penny-hardaway-contract-extension-memphis-coach-receives-new-deal-through-2027-28-college-basketball-season",
+      "title": "Penny Hardaway contract extension: Memphis coach receives new deal through 2027-28 college basketball season",
+      "publisher": "CBS Sports",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "stadiumgoods-air-max-penny-1",
+      "url": "https://www.stadiumgoods.com/blogs/news/history-of-nike-air-max-penny-1",
+      "title": "The History of the Nike Air Max Penny 1",
+      "publisher": "Stadium Goods",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1971-07-18",
+      "sources": [
+        "bbref-hardaway",
+        "olympedia-hardaway"
+      ],
+      "note": "Basketball-Reference gives July 18, 1971. Olympedia gives 18 July 1972. The sources disagree on the year; the month and day match."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Memphis, Tennessee, United States",
+      "sources": [
+        "bbref-hardaway",
+        "olympedia-hardaway"
+      ],
+      "note": "Both sources give Memphis, Tennessee."
+    },
+    "nationality": {
+      "value": "US",
+      "sources": [
+        "bbref-hardaway",
+        "olympedia-hardaway"
+      ],
+      "note": "No source uses the word nationality. Inferred from birthplace (Memphis, Tennessee) and his selection for the USA Olympic basketball team."
+    }
+  },
+  "targetQueries": [
+    "penny hardaway shoes",
+    "penny hardaway stats",
+    "penny hardaway height",
+    "penny hardaway age",
+    "penny hardaway accolades",
+    "penny hardaway memphis coach contract",
+    "penny hardaway olympics"
+  ],
+  "gapNote": "No October 2026 news found; the latest confirmed item is the March 2026 decision to keep him as Memphis coach. Reports of an Orlando Magic coaching interest exist but are undated, so they are left out. Net worth, the Shaq partnership and family life are not covered by any source opened. Birth year conflicts between Basketball-Reference and Olympedia, so the page must say so. Top results are mostly stat pages and shoe blogs; the gap is a single clear timeline from Memphis native to Olympic gold to college coach, with the 2026 contract facts."
+}

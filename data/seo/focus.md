@@ -18,9 +18,9 @@ For each page, edit only that language's file:
 
 ## Pages
 
-- [ ] de/trending/being-sebastian-vettel-geldsorgen-ferrari (661 impressions, 0 clicks, position 7.0): sebastian vettel geldsorgen, vettel geldsorgen
-- [ ] es/nicki-minaj (271 impressions, 0 clicks, position 12.2): de donde es nicki minaj, nicki minaj de donde es, nicki minaj, cuántos años tiene nicki minaj, donde nacio nicki minaj, de donde es nicky minaj, de dónde es nicki minaj, nicky minaj de donde es
-- [ ] fr/carlos-alcaraz (183 impressions, 0 clicks, position 12.6): carlos alcaraz, alcaraz, c. alcaraz, alcaraz age, alcaraz taille âge, quel âge a carlos alcaraz
+- [x] de/trending/being-sebastian-vettel-geldsorgen-ferrari (661 impressions, 0 clicks, position 7.0): sebastian vettel geldsorgen, vettel geldsorgen (done 2026-10-31)
+- [ ] es/nicki-minaj (271 impressions, 0 clicks, position 12.2): de donde es nicki minaj, nicki minaj de donde es, nicki minaj, cuántos años tiene nicki minaj, donde nacio nicki minaj, de donde es nicky minaj, de dónde es nicki minaj, nicky minaj de donde es (2026-10-31: rewrite reverted, the fact-check rejected new claims; needs a human editor)
+- [ ] fr/carlos-alcaraz (183 impressions, 0 clicks, position 12.6): carlos alcaraz, alcaraz, c. alcaraz, alcaraz age, alcaraz taille âge, quel âge a carlos alcaraz (2026-10-31: rewrite reverted, the fact-check rejected new claims; needs a human editor)
 - [ ] es/yaxel-lendeborg (124 impressions, 0 clicks, position 7.2): yaxel lendeborg edad, edad yaxel lendeborg, edad de yaxel lendeborg, yaxel lendeborg donde nacio, cuantos años tiene yaxel lendeborg, donde nacio yaxel lendeborg, que edad tiene yaxel lendeborg, yaxel lendeborg
 - [ ] fr/roger-federer (99 impressions, 0 clicks, position 11.4): federer age, age federer, a quel age federer a pris sa retraite, age de federer, age retraite federer, federer retraite age, federer age retraite, roger champion de tennis suisse
 - [ ] es/yan-diomande (95 impressions, 0 clicks, position 12.8): diomande edad, diomande edad real, edad real diomande, diomande eda, diomandé edad real, edad de diomande, edad diomande, diamande edad

@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"Rodriguez havia percebido seu potencial em Sin City e Planet Terror\" (Interview says 'has identified this potential in me'; does not name these films. Attribute only the quoted wording.)",
+    "UNSUPPORTED: \"Rodriguez faz os atores sentirem que tudo é possível\" (Not in the fetched text. Drop.)",
+    "UNSUPPORTED: \"Planet Terror rodado antes de Death Proof com praticamente a mesma equipe, em Troublemaker Studios, Austin\" (Order and studio confirmed; 'praticamente a mesma equipe' not in the fetched text. Drop.)",
+    "Reviewer recommends rejection: Rejected. Remove 'praticamente a mesma equipe' (Planet Terror/Death Proof crew) and 'faz os atores sentirem que tudo é possível' (Rodriguez), and tie the Sin City/Planet Terror claim only to the quoted interview wording. Other claims check out."
+  ],
+  "claims": [
+    {
+      "claim": "Nascida em Los Angeles, Califórnia, em 12 de abril de 1974",
+      "sourceIds": [
+        "tmdb-marley-shelton",
+        "wikidata-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Atriz americana; ciudadania dos EUA",
+      "sourceIds": [
+        "wikidata-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Primeiro crédito TMDb: The Family Man (1990)",
+      "sourceIds": [
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "The Sandlot (1993) Wendy; Pleasantville (1998); Never Been Kissed (1999); Nixon (1995); Warriors of Virtue (1997); Bubble Boy (2001); Uptown Girls (2003); Dark Shadows (2005); Sin City (2005) The Customer",
+      "sourceIds": [
+        "tmdb-marley-shelton",
+        "brave-beginnings-psa"
+      ],
+      "verdict": "confirmed",
+      "note": "All confirmed."
+    },
+    {
+      "claim": "Wikidata: UCLA e Eagle Rock High School",
+      "sourceIds": [
+        "wikidata-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "The Sandlot Forever (2019) como ela mesma",
+      "sourceIds": [
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb: Self, 2019."
+    },
+    {
+      "claim": "Rodriguez havia percebido seu potencial em Sin City e Planet Terror",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview"
+      ],
+      "verdict": "unsupported",
+      "note": "Interview says 'has identified this potential in me'; does not name these films. Attribute only the quoted wording."
+    },
+    {
+      "claim": "Rodriguez faz os atores sentirem que tudo é possível",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview"
+      ],
+      "verdict": "unsupported",
+      "note": "Not in the fetched text. Drop."
+    },
+    {
+      "claim": "Planet Terror rodado antes de Death Proof com praticamente a mesma equipe, em Troublemaker Studios, Austin",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview"
+      ],
+      "verdict": "unsupported",
+      "note": "Order and studio confirmed; 'praticamente a mesma equipe' not in the fetched text. Drop."
+    },
+    {
+      "claim": "Dakota, Hitchcock, suspense, Psicose favorito, Disque M Para Matar",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed in substance."
+    },
+    {
+      "claim": "Tarantino no set e co-dirigiu; salto alto; dublê Tracey Dashnaw",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "The Fifth Patient (2007), CineVegas",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview",
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Judy Hicks em Scream 4 (2011), TMDb título Pânico 4; delegada; ex-colega de Sidney",
+      "sourceIds": [
+        "tmdb-marley-shelton",
+        "etonline-scream-judy-hicks"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb lists Pânico 4 (Deputy Judy Hicks)."
+    },
+    {
+      "claim": "Scream (2022) xerife; mãe de Wes (Dylan Minnette); fãs divididos; lemon squares; dez anos depois (segundo o artigo)",
+      "sourceIds": [
+        "etonline-scream-judy-hicks"
+      ],
+      "verdict": "confirmed",
+      "note": "Attribution correct."
+    },
+    {
+      "claim": "Rampage (2018), 1923, Manhunt, Matlock (2025), Tracker (2024)",
+      "sourceIds": [
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Sem créditos de teatro no TMDb nem no BroadwayWorld",
+      "sourceIds": [
+        "tmdb-marley-shelton",
+        "broadwayworld-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Legenda BroadwayWorld 9 jan 2018, Gail Mazzuchelli, piloto de Rise, NBC",
+      "sourceIds": [
+        "broadwayworld-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Caption and NBC credit confirmed."
+    },
+    {
+      "claim": "Anúncio Brave Beginnings em 12 out 2018; programa da Will Rogers Motion Picture Pioneers Foundation",
+      "sourceIds": [
+        "brave-beginnings-psa"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Março 2026 Patchogue Theatre; The Sandlot com Q&A com Chauncey Leopardi e Shelton; junho",
+      "sourceIds": [
+        "broadwayworld-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Casada com Beau Flynn; duas filhas; Wikidata 2001; dois filhos",
+      "sourceIds": [
+        "brave-beginnings-psa",
+        "wikidata-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Good timeline and primary sources. Two passages need trimming.",
+  "decision": "reject",
+  "summary": "Rejected. Remove 'praticamente a mesma equipe' (Planet Terror/Death Proof crew) and 'faz os atores sentirem que tudo é possível' (Rodriguez), and tie the Sin City/Planet Terror claim only to the quoted interview wording. Other claims check out."
+}

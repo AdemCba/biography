@@ -1,0 +1,242 @@
+{
+  "date": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"Boston.com cite You Gotta Believe et Monster Summer (2024) parmi ses films plus récents\" (Boston.com names both films but gives no dates or timeline; no opened source dates You Gotta Believe. Drop 'plus récents', or date it from a source. Apple lists Monster Summer (2024).)",
+    "Reviewer recommends rejection: Rejected for one minor fix. Boston.com does not date You Gotta Believe or Monster Summer, so 'parmi ses films plus récents' is unsupported. Drop 'plus récents' or cite a dated source. Everything else checks out."
+  ],
+  "claims": [
+    {
+      "claim": "Né le 3 mars 1979 à Boston (texte, metaDescription, FAQ d'âge)",
+      "sourceIds": [
+        "apple-snapshot"
+      ],
+      "verdict": "confirmed",
+      "note": "Apple: birth date 1979-03-03; 'From: Boston, MA'."
+    },
+    {
+      "claim": "Connu pour le rôle d'Hamilton 'Ham' Porter dans The Sandlot (1993)",
+      "sourceIds": [
+        "apple-snapshot"
+      ],
+      "verdict": "confirmed",
+      "note": "Apple lists The Sandlot (1993), Hamilton Porter."
+    },
+    {
+      "claim": "47 ans au 31 octobre 2026",
+      "sourceIds": [
+        "apple-snapshot"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic correct."
+    },
+    {
+      "claim": "Né 'pratiquement au coin de Salem Street et de Prince Street, dans le North End'",
+      "sourceIds": [
+        "boston-com-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Direct quote in Boston.com (translated)."
+    },
+    {
+      "claim": "Déménagement à Watertown; enfance surtout à Savin Hill (Dorchester), vers 7 à 13 ans; Little League",
+      "sourceIds": [
+        "boston-com-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Boston.com: moved to Watertown around age 3; 'I lived in Savin Hill in Dorchester the longest'; 'I played Little League in Dorchester'."
+    },
+    {
+      "claim": "Fan des Red Sox depuis toujours; 'amateur de tous les sports de Boston'",
+      "sourceIds": [
+        "boston-com-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Lifelong Red Sox fan; 'all-sports fan for Boston'."
+    },
+    {
+      "claim": "Le film sort en 1993",
+      "sourceIds": [
+        "apple-snapshot"
+      ],
+      "verdict": "confirmed",
+      "note": "Apple credit year 1993."
+    },
+    {
+      "claim": "Première audition puis deuxième audition pour The Sandlot après un épisode de Salute Your Shorts",
+      "sourceIds": [
+        "boston-com-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Boston.com: 'Sandlot was basically my first audition'; Salute Your Shorts, then Sandlot as second audition."
+    },
+    {
+      "claim": "N'a pas participé à The Sandlot 2 ni à The Sandlot 3; « J'ai choisi de laisser les choses telles qu'elles sont »",
+      "sourceIds": [
+        "boston-com-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes: 'I wasn't in 2 or 3. I didn't want to be.' and 'I chose to let it be' (translated)."
+    },
+    {
+      "claim": "Apple le présente comme acteur américain",
+      "sourceIds": [
+        "apple-snapshot"
+      ],
+      "verdict": "confirmed",
+      "note": "Apple: 'American actor'."
+    },
+    {
+      "claim": "Relié à Carla Gugino dans Son-in-Law (1993)",
+      "sourceIds": [
+        "apple-snapshot"
+      ],
+      "verdict": "confirmed",
+      "note": "Apple bio: 'starred alongside Carla Gugino in Son-in-Law'."
+    },
+    {
+      "claim": "The Big Green (1995), Lavalantula, You Gotta Believe, Dorm Daze (2003)",
+      "sourceIds": [
+        "apple-snapshot"
+      ],
+      "verdict": "confirmed",
+      "note": "Apple lists The Big Green (1995) and Dorm Daze (2003); other two named without years."
+    },
+    {
+      "claim": "Boston.com cite You Gotta Believe et Monster Summer (2024) parmi ses films plus récents",
+      "sourceIds": [
+        "boston-com-interview",
+        "apple-snapshot"
+      ],
+      "verdict": "unsupported",
+      "note": "Boston.com names both films but gives no dates or timeline; no opened source dates You Gotta Believe. Drop 'plus récents', or date it from a source. Apple lists Monster Summer (2024)."
+    },
+    {
+      "claim": "Producteur de Bad Roomies",
+      "sourceIds": [
+        "apple-snapshot"
+      ],
+      "verdict": "confirmed",
+      "note": "Apple: 'producing the film Bad Roomies'."
+    },
+    {
+      "claim": "Le 25 février 2025, Penguin met en vente une version numérique signée Patrick Renna",
+      "sourceIds": [
+        "penguin-book"
+      ],
+      "verdict": "confirmed",
+      "note": "Penguin: eBook 25 February 2025, author Patrick Renna."
+    },
+    {
+      "claim": "Premier livre pour enfants selon Boston.com; illustré par Tommy Parker; Renna figure sur certaines images",
+      "sourceIds": [
+        "boston-com-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Re-fetch: 'to launch his first children's book' and 'including a few depicting Renna himself'. Earlier reviewer notes were out of date. Tommy Parker named by Boston.com."
+    },
+    {
+      "claim": "20 règles, histoires vraies de Jim Abbott et Michael Jordan",
+      "sourceIds": [
+        "boston-com-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Boston.com: 20 rules; Jim Abbott and Michael Jordan stories."
+    },
+    {
+      "claim": "Conseillé aux lecteurs de 6 à 10 ans",
+      "sourceIds": [
+        "boston-com-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Boston.com: 'ages 6 to 10, I'd say'."
+    },
+    {
+      "claim": "Séance de dédicace sur billets le 26 février à Trident Bookseller",
+      "sourceIds": [
+        "boston-com-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Boston.com: Trident Bookseller on Feb. 26, ticketed."
+    },
+    {
+      "claim": "En février 2025, Renna, Kyle Howard et Lynsey Bartilson Moore présentent Hambino Media; 'des projets scénarisés et non scénarisés'",
+      "sourceIds": [
+        "movieguide-hambino"
+      ],
+      "verdict": "confirmed",
+      "note": "Movieguide dated 5 Feb 2025; co-founders and slate confirmed; quote is a translation."
+    },
+    {
+      "claim": "Deux projets sans titre avec Blind Nil (Chip et Joanna Gaines); série sans titre avec Golf Digest",
+      "sourceIds": [
+        "movieguide-hambino"
+      ],
+      "verdict": "confirmed",
+      "note": "Movieguide confirms both."
+    },
+    {
+      "claim": "Dugout Dads produit par Hambino Media, que Renna et Howard animent",
+      "sourceIds": [
+        "entertainmentnow-dugout-dads"
+      ],
+      "verdict": "confirmed",
+      "note": "EntertainmentNow: led by Renna and Kyle Howard; produced through Hambino Media."
+    },
+    {
+      "claim": "Juin 2026: Renna incarne un père qui prend en main l'équipe de Little League de son fils; sortie prévue plus tard dans l'année",
+      "sourceIds": [
+        "entertainmentnow-dugout-dads"
+      ],
+      "verdict": "confirmed",
+      "note": "Published 10 Jun 2026; premise and 'later this year' confirmed."
+    },
+    {
+      "claim": "Le 29 août 2026, Time Out indique que tous les épisodes sont sur YouTube",
+      "sourceIds": [
+        "timeout-dugout-dads"
+      ],
+      "verdict": "confirmed",
+      "note": "Time Out dated 29 Aug 2026."
+    },
+    {
+      "claim": "'comédie touchante' sur un entraîneur débutant de Little League; scénario Sebastian Jones et Dan Kopelman; réalisation Victor Nelli Jr.",
+      "sourceIds": [
+        "timeout-dugout-dads"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed; 'heartfelt' translated."
+    },
+    {
+      "claim": "Anciens de The Sandlot au casting, aucun dans son rôle d'origine; Michael Peña et Danielle Fishel comme nouveaux venus",
+      "sourceIds": [
+        "timeout-dugout-dads"
+      ],
+      "verdict": "confirmed",
+      "note": "Names listed; cast 'isn't playing their original Sandlot characters'."
+    },
+    {
+      "claim": "FAQ: Dugout Dads, comédie sur un jeune entraîneur de Little League, en ligne fin août 2026",
+      "sourceIds": [
+        "timeout-dugout-dads"
+      ],
+      "verdict": "confirmed",
+      "note": "Consistent with Time Out."
+    },
+    {
+      "claim": "FAQ: né à Boston, a grandi surtout à Dorchester",
+      "sourceIds": [
+        "boston-com-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Boston.com: Dorchester is where he lived longest."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Good French prose with natural phrasing and correct French conventions (spacing before colons, guillemets). It adds the Boston.com audition and sequel details and a clear 2025 to 2026 timeline. The only defect is the 'plus récents' timing phrase.",
+  "decision": "reject",
+  "summary": "Rejected for one minor fix. Boston.com does not date You Gotta Believe or Monster Summer, so 'parmi ses films plus récents' is unsupported. Drop 'plus récents' or cite a dated source. Everything else checks out."
+}

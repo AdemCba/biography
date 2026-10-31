@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"'Foi muito especial rever a piscina onde se gravou a cena da Wendy'\" (The source says Leopardi called the Lorin Farr pool, where the drowning-feint scene was filmed, 'very cool to see'. It does not mention Wendy. Fix: 'foi muito especial rever a piscina onde se gravou a cena do simulacro de afogamento' or cite another source that names Wendy.)",
+    "UNCITED: \"The Sandlot (1993) year in the body first paragraph is not tagged there, but BetaSeries supports it. Not a blocker.\"",
+    "Reviewer recommends rejection: Rejected for one unsupported detail: the claim that Leopardi praised the pool where 'a cena da Wendy' was filmed. The Standard-Examiner source does not mention Wendy. Fix by using the drowning-feint scene wording the source uses, or cite a source that names Wendy. The old reviewNotes about 'Ele deixou a atuação' are stale: the metaDescription now says 'se afastou da atuação'. All other claims are confirmed."
+  ],
+  "claims": [
+    {
+      "claim": "Michael 'Squints' Palledorous em The Sandlot (1993), ator (summary, body, knownFor)",
+      "sourceIds": [
+        "standard-examiner-sandlot-ogden-2023",
+        "betaseries-chauncey-leopardi"
+      ],
+      "verdict": "confirmed",
+      "note": "Standard-Examiner names Leopardi as Squints. BetaSeries lists The Sandlot (1993) as Michael 'Squints' Palledorous."
+    },
+    {
+      "claim": "Nasceu em 14 de junho de 1981",
+      "sourceIds": [
+        "betaseries-chauncey-leopardi",
+        "famousbirthdays-chauncey-leopardi"
+      ],
+      "verdict": "confirmed",
+      "note": "BetaSeries: 14/06/1981 and June 14, 1981. FamousBirthdays: June 14, 1981."
+    },
+    {
+      "claim": "Idade: completou 45 anos em junho de 2026 (FAQ)",
+      "sourceIds": [
+        "betaseries-chauncey-leopardi",
+        "famousbirthdays-chauncey-leopardi"
+      ],
+      "verdict": "confirmed",
+      "note": "Born 14 June 1981, so 45 from 14 June 2026. FamousBirthdays shows 45 years old."
+    },
+    {
+      "claim": "Afastou-se da atuação após se perguntar se ainda gostava do trabalho (summary, body, FAQ)",
+      "sourceIds": [
+        "people-stepped-back-hollywood-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'Do I even like doing this?' (he wondered whether he still enjoyed acting). The metaDescription now says 'se afastou da atuação', which matches."
+    },
+    {
+      "claim": "Hoje descreve a cannabis como sua grande paixão; 'É definitivamente a minha paixão. Eu me apaixonei pela planta'",
+      "sourceIds": [
+        "people-stepped-back-hollywood-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'It's definitely my passion. I fell in love with the plant'."
+    },
+    {
+      "claim": "Hoje trabalha na indústria da cannabis",
+      "sourceIds": [
+        "people-sandlot-cast-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'now works in the cannabis industry'."
+    },
+    {
+      "claim": "Marca de cannabis Squintz",
+      "sourceIds": [
+        "people-stepped-back-hollywood-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'Squintz cannabis brand'."
+    },
+    {
+      "claim": "Filme como cápsula do tempo de um único verão, o de 1962, dito em Ogden em 2023",
+      "sourceIds": [
+        "standard-examiner-sandlot-ogden-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'a little time capsule to this one summer in 1962'."
+    },
+    {
+      "claim": "'É um verão só, ambientado em 1962, que pode viver para sempre' (PEOPLE)",
+      "sourceIds": [
+        "people-sandlot-cast-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'It's one summer, set in 1962, that can live forever.' Faithful translation."
+    },
+    {
+      "claim": "Cenários feitos à mão e objetos reais comparados com produções de hoje cheias de efeitos",
+      "sourceIds": [
+        "standard-examiner-sandlot-ogden-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: sets built by hand, 'No green screen or CGI stuff'."
+    },
+    {
+      "claim": "Filmagem principalmente em Salt Lake City em 1992; cena famosa gravada na piscina Lorin Farr, em Ogden",
+      "sourceIds": [
+        "standard-examiner-sandlot-ogden-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: shot mostly in Salt Lake City in 1992; drowning-feint scene filmed at Ogden's Lorin Farr pool."
+    },
+    {
+      "claim": "'Eu amava quando estava atuando, mas não necessariamente gostava do lado comercial de Hollywood' (PEOPLE, outubro de 2025)",
+      "sourceIds": [
+        "people-stepped-back-hollywood-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'business side of Hollywood'. Article date October 8, 2025 is correct."
+    },
+    {
+      "claim": "'Fiz a transição melhor do que muitos atores mirins'",
+      "sourceIds": [
+        "people-stepped-back-hollywood-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'I transitioned better than a lot of child actors.'"
+    },
+    {
+      "claim": "Pessoas com poder em cargos altos influenciavam o que e quem fazia sucesso",
+      "sourceIds": [
+        "people-stepped-back-hollywood-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'powerful people in high places that had their sway on who and what was popular'."
+    },
+    {
+      "claim": "Ainda aceita um papel de atuação de vez em quando (body and FAQ)",
+      "sourceIds": [
+        "people-sandlot-cast-2025",
+        "people-stepped-back-hollywood-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'still takes on the occasional role' (people-sandlot-cast-2025); 'randomly act here and there' (people-stepped-back-hollywood-2025)."
+    },
+    {
+      "claim": "Créditos da BetaSeries: Boy Meets World (1993), Casper (1995), Safe (1995), The Big Green (1995), 7th Heaven (1996), Freaks and Geeks (1999), Gilmore Girls (2000), CSI (2000)",
+      "sourceIds": [
+        "betaseries-chauncey-leopardi"
+      ],
+      "verdict": "confirmed",
+      "note": "All eight credits and years appear on the BetaSeries page."
+    },
+    {
+      "claim": "Grupos de mensagens com o elenco: 'Eles são muito engraçados e mandam mensagem a qualquer hora'",
+      "sourceIds": [
+        "people-sandlot-cast-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'We have multiple group chats. They're funny, they'll hit you at random times.' Loose but faithful translation."
+    },
+    {
+      "claim": "Sobre Patrick Renna: 'O Pat é tão reconhecível que as pessoas gritam para ele de dentro dos carros'",
+      "sourceIds": [
+        "people-sandlot-cast-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'Pat is so recognizable, people scream at him from cars.'"
+    },
+    {
+      "claim": "Agosto de 2023, primeira edição do Brookey Bakes and Barragan Family Inclusion Ballgame, Monroe Park, Ogden; 30 anos do filme; arrecadação para o Utah Parent Center; equipes Squints e Yeah Yeah; autógrafos e fotos",
+      "sourceIds": [
+        "standard-examiner-sandlot-ogden-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: inaugural game, Aug. 5, 2023, Monroe Park, benefit for Utah Parent Center, 30th anniversary, Squints vs Yeah-Yeah, autographs and photos."
+    },
+    {
+      "claim": "'Foi muito especial rever a piscina onde se gravou a cena da Wendy'",
+      "sourceIds": [
+        "standard-examiner-sandlot-ogden-2023"
+      ],
+      "verdict": "unsupported",
+      "note": "The source says Leopardi called the Lorin Farr pool, where the drowning-feint scene was filmed, 'very cool to see'. It does not mention Wendy. Fix: 'foi muito especial rever a piscina onde se gravou a cena do simulacro de afogamento' or cite another source that names Wendy."
+    },
+    {
+      "claim": "BetaSeries also lists Freaks and Geeks, Gilmore Girls and Boy Meets World as TV credits (FAQ)",
+      "sourceIds": [
+        "betaseries-chauncey-leopardi"
+      ],
+      "verdict": "confirmed",
+      "note": "All three listed on BetaSeries."
+    }
+  ],
+  "uncitedClaims": [
+    "The Sandlot (1993) year in the body first paragraph is not tagged there, but BetaSeries supports it. Not a blocker."
+  ],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds the 2023 Ogden event, the cannabis brand detail and the quotes from PEOPLE, which the usual top results lack. The body reads as an adaptation rather than a translation.",
+  "decision": "reject",
+  "summary": "Rejected for one unsupported detail: the claim that Leopardi praised the pool where 'a cena da Wendy' was filmed. The Standard-Examiner source does not mention Wendy. Fix by using the drowning-feint scene wording the source uses, or cite a source that names Wendy. The old reviewNotes about 'Ele deixou a atuação' are stale: the metaDescription now says 'se afastou da atuação'. All other claims are confirmed."
+}

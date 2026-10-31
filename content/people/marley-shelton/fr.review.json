@@ -1,0 +1,223 @@
+{
+  "date": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"Shelton n'en revenait pas quand on lui a proposé le retour\" (ET says she learned her character would return and was over the moon. It does not say she was offered the role. Change to 'quand elle a appris le retour'.)",
+    "Reviewer recommends rejection: Reject. One fix: 'quand on lui a proposé le retour' implies an offer the ET article does not describe. Change to 'quand elle a appris le retour'. All other claims check out."
+  ],
+  "claims": [
+    {
+      "claim": "Née le 12 avril 1974 à Los Angeles, Californie",
+      "sourceIds": [
+        "tmdb-marley-shelton",
+        "wikidata-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb biography and Wikidata both confirm."
+    },
+    {
+      "claim": "Nationalité américaine; actrice américaine",
+      "sourceIds": [
+        "wikidata-marley-shelton",
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Wikidata citizenship: United States; TMDb: 'an American actress'."
+    },
+    {
+      "claim": "52 ans au 31 octobre 2026",
+      "sourceIds": [
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic from confirmed birth date."
+    },
+    {
+      "claim": "Wendy dans The Sandlot (1993)",
+      "sourceIds": [
+        "tmdb-marley-shelton",
+        "brave-beginnings-psa"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb 1993 Wendy; Brave Beginnings: Wendy Peffercorn."
+    },
+    {
+      "claim": "Sin City, Planet Terror dans Grindhouse, films Scream",
+      "sourceIds": [
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb credits."
+    },
+    {
+      "claim": "2022, shérif Judy Hicks dans Scream",
+      "sourceIds": [
+        "etonline-scream-judy-hicks",
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "ET: promoted to sheriff; TMDb: Scream 2022."
+    },
+    {
+      "claim": "Margaret Henderson (Pleasantville, 1998); Kristin (Never Been Kissed, 1999)",
+      "sourceIds": [
+        "tmdb-marley-shelton",
+        "brave-beginnings-psa"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources."
+    },
+    {
+      "claim": "The Sandlot Forever (2019), dans son propre rôle",
+      "sourceIds": [
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb: 2019, Self."
+    },
+    {
+      "claim": "Rodriguez a repéré son potentiel dans Sin City et Planet Terror",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Interview quote confirmed."
+    },
+    {
+      "claim": "Rodriguez donne aux acteurs le sentiment que tout est possible",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "'makes you feel like anything and everything is possible'."
+    },
+    {
+      "claim": "Personnage inspiré des blondes glaciales d'Hitchcock; étude du suspense",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Both confirmed."
+    },
+    {
+      "claim": "Séquence jouée comme dans un film muet",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Planet Terror avant Death Proof, équipe largement commune, Troublemaker Studios",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed on second fetch."
+    },
+    {
+      "claim": "Talons hauts nuit après nuit; doublure Tracey Dashnaw et saut par la fenêtre",
+      "sourceIds": [
+        "sliceofscifi-grindhouse-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Judy Hicks apparaît pour la première fois dans Scream 4 (2011)",
+      "sourceIds": [
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb: Scream 4, 2011."
+    },
+    {
+      "claim": "Fausse piste, introduite comme adjointe du shérif avec Dewey Riley",
+      "sourceIds": [
+        "etonline-scream-judy-hicks"
+      ],
+      "verdict": "confirmed",
+      "note": "Source text matches."
+    },
+    {
+      "claim": "Shelton n'en revenait pas et était aux anges",
+      "sourceIds": [
+        "etonline-scream-judy-hicks"
+      ],
+      "verdict": "confirmed",
+      "note": "'I couldn't believe it. I was over the moon.'"
+    },
+    {
+      "claim": "Les fans restent partagés",
+      "sourceIds": [
+        "etonline-scream-judy-hicks"
+      ],
+      "verdict": "confirmed",
+      "note": "'many fans are still divided over Hicks'."
+    },
+    {
+      "claim": "Dr Kerry Atkins dans Rampage (2018)",
+      "sourceIds": [
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb credit."
+    },
+    {
+      "claim": "Emma Dutton dans 1923; Hannah Gray dans Manhunt",
+      "sourceIds": [
+        "tmdb-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDb credits."
+    },
+    {
+      "claim": "Gail Mazzuchelli, pilote de Rise (NBC), légende datée du 9 janvier 2018",
+      "sourceIds": [
+        "broadwayworld-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Caption and date confirmed."
+    },
+    {
+      "claim": "12 octobre 2018, Brave Beginnings annonce son spot; de vrais bébés prématurés",
+      "sourceIds": [
+        "brave-beginnings-psa"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Mars 2026, Patchogue Theatre, projection de The Sandlot avec échange, en juin à Long Island",
+      "sourceIds": [
+        "broadwayworld-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Published March 24, 2026; June on Long Island."
+    },
+    {
+      "claim": "Mariée à Beau Flynn; deux filles; mariage depuis 2001",
+      "sourceIds": [
+        "brave-beginnings-psa",
+        "wikidata-marley-shelton"
+      ],
+      "verdict": "confirmed",
+      "note": "Brave Beginnings; Wikidata start 2001."
+    },
+    {
+      "claim": "Shelton n'en revenait pas quand on lui a proposé le retour",
+      "sourceIds": [
+        "etonline-scream-judy-hicks"
+      ],
+      "verdict": "unsupported",
+      "note": "ET says she learned her character would return and was over the moon. It does not say she was offered the role. Change to 'quand elle a appris le retour'."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Dated timeline with primary sources and a French text written for French readers rather than translated. One detail goes beyond the source.",
+  "decision": "reject",
+  "summary": "Reject. One fix: 'quand on lui a proposé le retour' implies an offer the ET article does not describe. Change to 'quand elle a appris le retour'. All other claims check out."
+}

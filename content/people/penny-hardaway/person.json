@@ -1,0 +1,139 @@
+{
+  "id": "penny-hardaway",
+  "name": "Penny Hardaway",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1971-07-18",
+      "sources": [
+        "bbref-hardaway",
+        "olympedia-hardaway"
+      ],
+      "note": "Basketball-Reference gives July 18, 1971. Olympedia gives 18 July 1972. The sources disagree on the year; the month and day match."
+    },
+    "birthPlace": {
+      "value": "Memphis, Tennessee, United States",
+      "sources": [
+        "bbref-hardaway",
+        "olympedia-hardaway"
+      ],
+      "note": "Both sources give Memphis, Tennessee."
+    },
+    "nationality": {
+      "value": [
+        "US"
+      ],
+      "sources": [
+        "bbref-hardaway",
+        "olympedia-hardaway"
+      ],
+      "note": "No source uses the word nationality. Inferred from birthplace (Memphis, Tennessee) and his selection for the USA Olympic basketball team."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "bbref-hardaway",
+      "url": "https://www.basketball-reference.com/players/h/hardaan01.html",
+      "title": "Anfernee Hardaway Stats",
+      "publisher": "Basketball-Reference.com",
+      "type": "database",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "olympedia-hardaway",
+      "url": "https://www.olympedia.org/athletes/6252",
+      "title": "Penny Hardaway",
+      "publisher": "Olympedia",
+      "type": "database",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "gotigers-return-2026",
+      "url": "https://gotigersgo.com/news/2026/3/16/mens-basketball-university-of-memphis-announces-coach-hardaway-will-return-next-season",
+      "title": "University of Memphis Announces Coach Hardaway Will Return Next Season",
+      "publisher": "University of Memphis Athletics",
+      "type": "official",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "dailymemphian-hardaway-2026",
+      "url": "https://dailymemphian.com/article/61231",
+      "title": "Martin: Memphis and Penny Hardaway have a plan. Will it work?",
+      "publisher": "The Daily Memphian",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "cbs-hardaway-extension-2022",
+      "url": "https://www.cbssports.com/college-basketball/news/penny-hardaway-contract-extension-memphis-coach-receives-new-deal-through-2027-28-college-basketball-season",
+      "title": "Penny Hardaway contract extension: Memphis coach receives new deal through 2027-28 college basketball season",
+      "publisher": "CBS Sports",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "stadiumgoods-air-max-penny-1",
+      "url": "https://www.stadiumgoods.com/blogs/news/history-of-nike-air-max-penny-1",
+      "title": "The History of the Nike Air Max Penny 1",
+      "publisher": "Stadium Goods",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "gotigers-m-club",
+      "url": "https://gotigersgo.com/honors/m-club-hall-of-fame/anfernee-hardaway/16",
+      "title": "Anfernee Hardaway (2008) - M Club Hall of Fame",
+      "publisher": "University of Memphis Athletics",
+      "type": "official",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "si-hardaway-hire-2018",
+      "url": "https://www.si.com/college/2018/03/19/memphis-penny-hardaway-coach",
+      "title": "Report: Penny Hardaway Agrees to Be Memphis Coach",
+      "publisher": "Sports Illustrated",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "tshf-hardaway-2013",
+      "url": "https://tshf.net/halloffame/hardaway-anfernee-penny-2/",
+      "title": "Hardaway, Anfernee “Penny”",
+      "publisher": "Tennessee Sports Hall of Fame",
+      "type": "award-body",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "actionnews5-extension-2022",
+      "url": "https://www.actionnews5.com/2022/10/12/memphis-signs-penny-hardaway-6-year-extension",
+      "title": "Memphis signs Penny Hardaway to 6-year extension",
+      "publisher": "Action News 5",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "actionnews5-nit-2021",
+      "url": "https://www.actionnews5.com/2021/03/28/memphis-tigers-win-nit-championship",
+      "title": "Memphis Tigers win 2021 NIT Championship",
+      "publisher": "Action News 5",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    }
+  ]
+}

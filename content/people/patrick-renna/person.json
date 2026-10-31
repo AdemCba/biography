@@ -1,0 +1,92 @@
+{
+  "id": "patrick-renna",
+  "name": "Patrick Renna",
+  "categories": [
+    "artists"
+  ],
+  "importance": 3,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1979-03-03",
+      "sources": [
+        "apple-snapshot"
+      ],
+      "note": "Apple TV person page. IMDb and other databases were not readable at fetch time, so only one source."
+    },
+    "birthPlace": {
+      "value": "Boston, Massachusetts, United States",
+      "sources": [
+        "apple-snapshot",
+        "boston-com-interview"
+      ],
+      "note": "Apple lists Boston, MA as 'From'. Renna told Boston.com he was born in the North End of Boston, and was raised mostly in Dorchester and Watertown."
+    },
+    "nationality": {
+      "value": [
+        "US"
+      ],
+      "sources": [
+        "apple-snapshot"
+      ],
+      "note": "Apple describes him as an American actor."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "apple-snapshot",
+      "url": "https://snapshot.apple.com/us/person/6621227076",
+      "title": "Patrick Renna - Movies and Podcasts",
+      "publisher": "Apple TV (Snapshot)",
+      "type": "other",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "penguin-book",
+      "url": "https://www.penguin.com.au/books/a-little-sluggers-guide-to-the-unwritten-rules-of-baseball-and-life-9780593754887",
+      "title": "A Little Slugger's Guide to the Unwritten Rules of Baseball and Life",
+      "publisher": "Penguin Random House (PEN US eBook Childrens)",
+      "type": "company",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "boston-com-interview",
+      "url": "https://www.boston.com/culture/books/2025/02/25/the-sandlot-star-patrick-renna-launches-the-unwritten-rules-of-baseball-and-life-in-boston/?amp=1",
+      "title": "The Sandlot star Patrick Renna launches The Unwritten Rules of Baseball and Life in Boston",
+      "publisher": "Boston.com",
+      "type": "interview",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "movieguide-hambino",
+      "url": "https://www.movieguide.org/news-articles/patrick-renna-launches-hambino-media.html",
+      "title": "Actor Launches Production Banner Inspired by His SANDLOT Character",
+      "publisher": "Movieguide",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "entertainmentnow-dugout-dads",
+      "url": "https://entertainmentnow.com/90s-tv-shows/2026/06/sandlot-cast-reunites-patrick-renna-new-tv-comedy/",
+      "title": "'The Sandlot' Cast Reunites With Patrick Renna for New TV Comedy",
+      "publisher": "EntertainmentNow",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "timeout-dugout-dads",
+      "url": "https://www.timeout.com/usa/news/the-sandlot-cast-is-reuniting-for-a-new-baseball-comedy-series-on-youtube-082926",
+      "title": "The Sandlot cast is reuniting for a new baseball comedy series on YouTube",
+      "publisher": "Time Out New York",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    }
+  ]
+}

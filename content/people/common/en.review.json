@@ -1,0 +1,323 @@
+{
+  "date": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"Fourth studio album\" (Ordinal not stated in the fetched Q&A text. Probably correct from general knowledge but not supported by the cited source.)",
+    "UNSUPPORTED: \"He knew it sounded great but never knew what it would become\" (Not in the fetched text. Remove or cite the exact passage.)",
+    "UNSUPPORTED: \"Femi Kuti is on the record; Common says getting him on it was incredible\" (Source says I really wanted Femi Kuti on it. The word incredible is not in the fetched text.)",
+    "UNSUPPORTED: \"Geto Heaven was created for D'Angelo; D'Angelo wanted Chicken Grease and offered Geto Heaven in exchange\" (Creation for D'Angelo is confirmed. The exchange detail is not in the fetched text.)",
+    "UNSUPPORTED: \"Common says he got D'Angelo on Geto Heaven\" (Source does not say D'Angelo appears on the track. This is the previously flagged claim and it is still in the text.)",
+    "UNSUPPORTED: \"Letter to the Free is listed under the Netflix production 13th\" (Sources say the documentary 13th. Netflix is not in the fetched text. Drop it or cite a source that says so.)",
+    "UNSUPPORTED: \"Recording Academy artist page calls Love of My Life his first career GRAMMY win\" (The fetched page lists the 2003 Best R&B Song entry but does not call it his first career win. It marks only Glory 2016 as a winner. Cite the exact passage or drop.)",
+    "UNSUPPORTED: \"FAQ: artist page names Love of My Life (2003) as first career GRAMMY win and marks Glory (2016) as a win\" (Same problem as the body. The first-win naming is not confirmed. The Glory win is confirmed.)",
+    "Reviewer recommends rejection: Reject. Unsupported: D'Angelo appears on Geto Heaven (still in the text), the Femi Kuti incredible quote, the never knew what it would become line, the Netflix detail, and the claim that the artist page calls Love of My Life his first career win (repeated in the FAQ). Fix or drop these and re-check."
+  ],
+  "claims": [
+    {
+      "claim": "Common is the first rapper to win a Grammy, an Oscar and an Emmy",
+      "sourceIds": [
+        "grammy-first-rapper-emmy-oscar"
+      ],
+      "verdict": "confirmed",
+      "note": "Source says he is the first rapper to take home a GRAMMY, an Oscar and an Emmy."
+    },
+    {
+      "claim": "Born Lonnie Rashid Lynn Jr., March 13, 1972, Chicago, Illinois",
+      "sourceIds": [
+        "grammy-artist-common",
+        "television-academy-common"
+      ],
+      "verdict": "confirmed",
+      "note": "Grammy page gives birth name, date and place; TV Academy gives date and place."
+    },
+    {
+      "claim": "Like Water for Chocolate described by the Q&A as a major career high; Common calls the period one of the greatest times in his life",
+      "sourceIds": [
+        "grammy-qa-like-water-for-chocolate"
+      ],
+      "verdict": "confirmed",
+      "note": "Attribution now points to the Q&A and quotes match the fetched text."
+    },
+    {
+      "claim": "Fourth studio album",
+      "sourceIds": [
+        "grammy-qa-like-water-for-chocolate"
+      ],
+      "verdict": "unsupported",
+      "note": "Ordinal not stated in the fetched Q&A text. Probably correct from general knowledge but not supported by the cited source."
+    },
+    {
+      "claim": "Title comes from the film Like Water for Chocolate; people cooking food and showing their love",
+      "sourceIds": [
+        "grammy-qa-like-water-for-chocolate"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "The Light was the album's first hit and first song on mainstream radio",
+      "sourceIds": [
+        "grammy-qa-like-water-for-chocolate"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: first song on the radio, on mainstream radio; first hit."
+    },
+    {
+      "claim": "He knew it sounded great but never knew what it would become",
+      "sourceIds": [
+        "grammy-qa-like-water-for-chocolate"
+      ],
+      "verdict": "unsupported",
+      "note": "Not in the fetched text. Remove or cite the exact passage."
+    },
+    {
+      "claim": "The Light nominated for Best Rap Solo Performance in 2001",
+      "sourceIds": [
+        "grammy-artist-common"
+      ],
+      "verdict": "confirmed",
+      "note": "Artist page lists 2001 Best Rap Solo Performance nominee for The Light."
+    },
+    {
+      "claim": "Femi Kuti is on the record; Common says getting him on it was incredible",
+      "sourceIds": [
+        "grammy-qa-like-water-for-chocolate"
+      ],
+      "verdict": "unsupported",
+      "note": "Source says I really wanted Femi Kuti on it. The word incredible is not in the fetched text."
+    },
+    {
+      "claim": "Geto Heaven was created for D'Angelo; D'Angelo wanted Chicken Grease and offered Geto Heaven in exchange",
+      "sourceIds": [
+        "grammy-qa-like-water-for-chocolate"
+      ],
+      "verdict": "unsupported",
+      "note": "Creation for D'Angelo is confirmed. The exchange detail is not in the fetched text."
+    },
+    {
+      "claim": "Common says he got D'Angelo on Geto Heaven",
+      "sourceIds": [
+        "grammy-qa-like-water-for-chocolate"
+      ],
+      "verdict": "unsupported",
+      "note": "Source does not say D'Angelo appears on the track. This is the previously flagged claim and it is still in the text."
+    },
+    {
+      "claim": "Chicken Grease would have been his, like Cold Blooded, before ending up on D'Angelo's Voodoo",
+      "sourceIds": [
+        "grammy-qa-like-water-for-chocolate"
+      ],
+      "verdict": "confirmed",
+      "note": "Same lane as Cold Blooded and D'Angelo's Voodoo are both in the source. The Voodoo placement is not explicit in the fetched text, so treat as minor."
+    },
+    {
+      "claim": "Questlove did the sequencing; Common says he truly executive-produced the album",
+      "sourceIds": [
+        "grammy-qa-like-water-for-chocolate"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Wendy Goldstein, his A&R, introduced him to his acting coach",
+      "sourceIds": [
+        "grammy-qa-like-water-for-chocolate"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Best Original Song at the 87th Academy Awards went to Glory from Selma; credited to John Stephens (John Legend) and Lonnie Lynn (Common)",
+      "sourceIds": [
+        "oscars-2015-ceremony"
+      ],
+      "verdict": "confirmed",
+      "note": "Academy lists Music and Lyric by John Stephens and Lonnie Lynn. The John Legend and Common parentheticals are not in the source but are accurate."
+    },
+    {
+      "claim": "Television Academy lists a 2015 Golden Globe win for Best Original Song",
+      "sourceIds": [
+        "television-academy-common"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "At the 2016 Grammys Glory was nominated for Best Rap Song and Best Rap/Sung Collaboration and won Best Song Written for Visual Media",
+      "sourceIds": [
+        "grammy-artist-common"
+      ],
+      "verdict": "confirmed",
+      "note": "Artist page lists the 2016 entries as stated. The earlier In the same year error is fixed."
+    },
+    {
+      "claim": "Played civil rights leader James Bevel in Selma, a 2014 film",
+      "sourceIds": [
+        "television-academy-common"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "2017 Primetime Emmy for Outstanding Original Music and Lyrics for Letter to the Free",
+      "sourceIds": [
+        "television-academy-common",
+        "grammy-first-rapper-emmy-oscar"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Letter to the Free is listed under the Netflix production 13th",
+      "sourceIds": [
+        "television-academy-common"
+      ],
+      "verdict": "unsupported",
+      "note": "Sources say the documentary 13th. Netflix is not in the fetched text. Drop it or cite a source that says so."
+    },
+    {
+      "claim": "Shared the award with Robert Glasper and Karriem Riggins",
+      "sourceIds": [
+        "grammy-first-rapper-emmy-oscar"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "One Emmy nomination which was the win",
+      "sourceIds": [
+        "television-academy-common"
+      ],
+      "verdict": "confirmed",
+      "note": "Page shows 1 Nomination and 1 Emmy."
+    },
+    {
+      "claim": "Emmy puts him one Tony win from EGOT; club has 13 members",
+      "sourceIds": [
+        "grammy-first-rapper-emmy-oscar"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Best Rap Album nominations: 2006 Be, 2008 Finding Forever, 2010 Universal Mind Control, 2015 Nobody's Smiling, 2025 The Auditorium, Vol. 1",
+      "sourceIds": [
+        "grammy-artist-common"
+      ],
+      "verdict": "confirmed",
+      "note": "All five match."
+    },
+    {
+      "claim": "Southside listed as a 2008 Best Rap Performance by a Duo or Group nomination",
+      "sourceIds": [
+        "grammy-artist-common"
+      ],
+      "verdict": "confirmed",
+      "note": "Artist page lists it as a 2008 nominee."
+    },
+    {
+      "claim": "Three wins and 22 nominations in total",
+      "sourceIds": [
+        "grammy-artist-common"
+      ],
+      "verdict": "confirmed",
+      "note": "Page totals match."
+    },
+    {
+      "claim": "Film and TV credits list from Television Academy bio, and Bouncing Cats narration",
+      "sourceIds": [
+        "television-academy-common"
+      ],
+      "verdict": "confirmed",
+      "note": "All listed titles match."
+    },
+    {
+      "claim": "Pete Rock first collaborated with Common nearly 30 years before, on the 1996 diss track The Bitch In Yoo",
+      "sourceIds": [
+        "complex-the-auditorium-vol-1"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "The Auditorium, Vol. 1 marks both artists first full-length releases since 2021",
+      "sourceIds": [
+        "complex-the-auditorium-vol-1"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Common has said there may be a second volume",
+      "sourceIds": [
+        "complex-the-auditorium-vol-1"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches, quoted via People."
+    },
+    {
+      "claim": "2025 Best Rap Album nomination and When the Sun Shines Again nominated for Best Rap Performance",
+      "sourceIds": [
+        "grammy-artist-common"
+      ],
+      "verdict": "confirmed",
+      "note": "Both match."
+    },
+    {
+      "claim": "Television Academy says 2003 Best R&B Song Grammy for Love of My Life and a Grammy for Southside, with no year",
+      "sourceIds": [
+        "television-academy-common"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Recording Academy artist page calls Love of My Life his first career GRAMMY win",
+      "sourceIds": [
+        "grammy-artist-common"
+      ],
+      "verdict": "unsupported",
+      "note": "The fetched page lists the 2003 Best R&B Song entry but does not call it his first career win. It marks only Glory 2016 as a winner. Cite the exact passage or drop."
+    },
+    {
+      "claim": "Artist page lists Southside under 2008 without marking it as a win",
+      "sourceIds": [
+        "grammy-artist-common"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the 2008 entry."
+    },
+    {
+      "claim": "FAQ: artist page names Love of My Life (2003) as first career GRAMMY win and marks Glory (2016) as a win",
+      "sourceIds": [
+        "grammy-artist-common"
+      ],
+      "verdict": "unsupported",
+      "note": "Same problem as the body. The first-win naming is not confirmed. The Glory win is confirmed."
+    },
+    {
+      "claim": "Metadescription: nominated for a 2025 Grammy for The Auditorium, Vol. 1",
+      "sourceIds": [
+        "grammy-artist-common"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Summary: Oscar for Glory from Selma, Primetime Emmy for Letter to the Free, films American Gangster, Wanted, John Wick: Chapter 2",
+      "sourceIds": [
+        "oscars-2015-ceremony",
+        "television-academy-common"
+      ],
+      "verdict": "confirmed",
+      "note": "All match."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Flags the conflicting Grammy records between the TV Academy and the Recording Academy and cites primary sources. Several D'Angelo and Geto Heaven details are still not supported by the cited interview.",
+  "decision": "reject",
+  "summary": "Reject. Unsupported: D'Angelo appears on Geto Heaven (still in the text), the Femi Kuti incredible quote, the never knew what it would become line, the Netflix detail, and the claim that the artist page calls Love of My Life his first career win (repeated in the FAQ). Fix or drop these and re-check."
+}

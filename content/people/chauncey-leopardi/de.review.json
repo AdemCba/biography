@@ -1,0 +1,211 @@
+{
+  "date": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Geboren am 14. Juni 1981; Schauspieler aus den Vereinigten Staaten (Text, FAQ, metaDescription)",
+      "sourceIds": [
+        "betaseries-chauncey-leopardi",
+        "famousbirthdays-chauncey-leopardi"
+      ],
+      "verdict": "confirmed",
+      "note": "BetaSeries: June 14, 1981, country United States. FamousBirthdays: Birthday June 14, 1981."
+    },
+    {
+      "claim": "Michael „Squints“ Palledorous in The Sandlot (1993) (Zusammenfassung, knownFor, Text, FAQ)",
+      "sourceIds": [
+        "standard-examiner-sandlot-ogden-2023",
+        "betaseries-chauncey-leopardi"
+      ],
+      "verdict": "confirmed",
+      "note": "Standard-Examiner: 'who played Michael Squints Palledorous'. BetaSeries: The Sandlot (1993) as Michael 'Squints' Palledorous."
+    },
+    {
+      "claim": "Zog sich vom Schauspiel zurück, nachdem er sich gefragt hatte, ob ihm die Arbeit noch gefällt (Zusammenfassung, metaDescription)",
+      "sourceIds": [
+        "people-stepped-back-hollywood-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "PEOPLE: 'Do I even like doing this? is it something I'm truly passionate about?' metaDescription wording 'zurückgezogen' matches 'stepped back'."
+    },
+    {
+      "claim": "Arbeitet heute in der Cannabisbranche; Cannabis ist seine Leidenschaft",
+      "sourceIds": [
+        "people-stepped-back-hollywood-2025",
+        "people-sandlot-cast-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "'It's definitely my passion. I fell in love with the plant' (PEOPLE Oct 2025). Article narration: 'now works in the cannabis industry' (PEOPLE Nov 2025)."
+    },
+    {
+      "claim": "2023 in Ogden, Utah, nannte er den Film eine kleine Zeitkapsel für diesen einen Sommer 1962",
+      "sourceIds": [
+        "standard-examiner-sandlot-ogden-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'It's like a little time capsule to this one summer in 1962.' Paraphrase is faithful."
+    },
+    {
+      "claim": "„Es ist ein einziger Sommer, angesiedelt 1962, der ewig leben kann“ (PEOPLE, späteres Interview)",
+      "sourceIds": [
+        "people-sandlot-cast-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'It's one summer, set in 1962, that can live forever.' Translation is faithful."
+    },
+    {
+      "claim": "Handgebaute Ausstattung mit echten Requisiten, abgesetzt von effektlastigen Produktionen",
+      "sourceIds": [
+        "standard-examiner-sandlot-ogden-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: sets 'built by hand by craftsmen with real props'; 'No green screen or CGI stuff'; contrast with modern films."
+    },
+    {
+      "claim": "Der Film wurde vor allem in Salt Lake City gedreht, 1992",
+      "sourceIds": [
+        "standard-examiner-sandlot-ogden-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'primarily filmed in Salt Lake City in 1992'."
+    },
+    {
+      "claim": "Eine bekannte Szene entstand im Lorin Farr Pool in Ogden",
+      "sourceIds": [
+        "standard-examiner-sandlot-ogden-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: Lorin Farr Community Pool, site of 'one iconic scene'."
+    },
+    {
+      "claim": "BetaSeries-Credits: Boy Meets World (1993), Casper (1995), Safe (1995), The Big Green (1995), 7th Heaven (1996), Freaks and Geeks (1999), Gilmore Girls (2000), CSI (2000)",
+      "sourceIds": [
+        "betaseries-chauncey-leopardi"
+      ],
+      "verdict": "confirmed",
+      "note": "All eight titles and years are on the BetaSeries lists."
+    },
+    {
+      "claim": "Titel reichen von Familienfilmen der frühen 1990er bis zu Fernsehserien der späten 1990er und frühen 2000er",
+      "sourceIds": [
+        "betaseries-chauncey-leopardi"
+      ],
+      "verdict": "confirmed",
+      "note": "Years match the cited titles."
+    },
+    {
+      "claim": "Oktober 2025 PEOPLE-Interview: „Ich habe es geliebt, wenn ich geschauspielert habe, aber die geschäftliche Seite von Hollywood mochte ich nicht unbedingt“",
+      "sourceIds": [
+        "people-stepped-back-hollywood-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Verbatim English source, published 8 Oct 2025. Translation is faithful."
+    },
+    {
+      "claim": "Viele einflussreiche Leute in hohen Positionen bestimmten mit, wer und was populär war",
+      "sourceIds": [
+        "people-stepped-back-hollywood-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Verbatim: 'a lot of powerful people in high places that had their sway on who and what was popular'."
+    },
+    {
+      "claim": "„Ich habe den Übergang besser geschafft als viele Kinderdarsteller“",
+      "sourceIds": [
+        "people-stepped-back-hollywood-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Verbatim: 'I transitioned better than a lot of child actors.'"
+    },
+    {
+      "claim": "Nimmt hin und wieder eine Schauspielrolle an",
+      "sourceIds": [
+        "people-sandlot-cast-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Article narration: 'still takes on the occasional role'."
+    },
+    {
+      "claim": "„Es ist definitiv meine Leidenschaft. Ich habe mich in die Pflanze verliebt“",
+      "sourceIds": [
+        "people-stepped-back-hollywood-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Verbatim match, translated."
+    },
+    {
+      "claim": "Cannabismarke Squintz",
+      "sourceIds": [
+        "people-stepped-back-hollywood-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Article narration: 'the basis of his Squintz cannabis brand'."
+    },
+    {
+      "claim": "Hält Kontakt zum Cast; „Wir haben mehrere Gruppenchats. Die sind lustig...“",
+      "sourceIds": [
+        "people-sandlot-cast-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Verbatim: 'We have multiple group chats. They're funny, they'll hit you at random times.'"
+    },
+    {
+      "claim": "„Pat wird so oft erkannt, dass die Leute ihm aus den Autos zurufen“ (über Patrick Renna)",
+      "sourceIds": [
+        "people-sandlot-cast-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Verbatim: 'Pat is so recognizable, people scream at him from cars.' Translation is faithful."
+    },
+    {
+      "claim": "Im August 2023 bei der ersten Brookey Bakes and Barragan Family Inclusion Ballgame im Monroe Park in Ogden; Benefiz für das Utah Parent Center; 30-jähriges Jubiläum",
+      "sourceIds": [
+        "standard-examiner-sandlot-ogden-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated 6 Aug 2023. Inaugural game, Monroe Park, Utah Parent Center and 30th anniversary are confirmed in the source."
+    },
+    {
+      "claim": "Teams Squints und Yeah Yeah; Autogramme und Fotos mit Fans",
+      "sourceIds": [
+        "standard-examiner-sandlot-ogden-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'York and Leopardi also signed autographs and posed for pictures with fans'. The article does not say Leopardi led a team."
+    },
+    {
+      "claim": "Er fand es sehr schön, das Schwimmbad wiederzusehen, in dem die Wendy-Szene gedreht wurde",
+      "sourceIds": [
+        "standard-examiner-sandlot-ogden-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Verbatim: 'It's very cool to see the pool and see where we filmed the Wendy scene.'"
+    },
+    {
+      "claim": "FAQ: im Juni 2026 45 Jahre alt geworden",
+      "sourceIds": [
+        "betaseries-chauncey-leopardi",
+        "famousbirthdays-chauncey-leopardi"
+      ],
+      "verdict": "confirmed",
+      "note": "Born 14 June 1981, so 45 on 14 June 2026."
+    },
+    {
+      "claim": "FAQ: nimmt gelegentlich eine Rolle an; fragte sich, ob ihm das Schauspielen noch gefällt",
+      "sourceIds": [
+        "people-sandlot-cast-2025",
+        "people-stepped-back-hollywood-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Both points are in the cited PEOPLE articles."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Same dated timeline and verbatim quotes as the English version, translated faithfully. Facts are accurate and the stale reviewNotes are resolved. The text stays close to the English structure, and the German localisation is light (for example, no German-specific context). This is a style concern, not a fact error. The 'Father of the Bride' targetQuery has no body support, as in the other languages.",
+  "decision": "approve",
+  "summary": "All cited claims in the body, summary, knownFor, metaDescription and FAQ were checked against the opened sources and confirmed. The wording is accurate, the German metaDescription 'zurückgezogen' matches 'stepped back', and the Leopardi-led-team error is gone. Approve."
+}

@@ -1,0 +1,78 @@
+{
+  "id": "chauncey-leopardi",
+  "name": "Chauncey Leopardi",
+  "categories": [
+    "artists"
+  ],
+  "importance": 2,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1981-06-14",
+      "sources": [
+        "betaseries-chauncey-leopardi",
+        "famousbirthdays-chauncey-leopardi"
+      ],
+      "note": "Both database pages give June 14, 1981. The interview calls him 44 in October 2025, which fits."
+    },
+    "nationality": {
+      "value": [
+        "US"
+      ],
+      "sources": [
+        "betaseries-chauncey-leopardi"
+      ],
+      "note": "BetaSeries lists the country as United States. FamousBirthdays gives California as birthplace only, which is a state-level aggregator value, so birthPlace is left empty."
+    }
+  },
+  "related": [
+    "marley-shelton"
+  ],
+  "sources": [
+    {
+      "id": "people-stepped-back-hollywood-2025",
+      "url": "https://www.aol.com/articles/sandlots-chauncey-leopardi-why-stepped-174140981.html",
+      "title": "'The Sandlot's' Chauncey Leopardi On Why He Stepped Back From Hollywood: 'Do I Even Like Doing This?' (Exclusive)",
+      "publisher": "PEOPLE (via AOL)",
+      "type": "interview",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "people-sandlot-cast-2025",
+      "url": "https://www.aol.com/articles/sandlot-child-star-reveals-1-210908705.html",
+      "title": "'Sandlot' Child Star Reveals the 1 Cast Member Who Always Gets Recognized",
+      "publisher": "PEOPLE (via AOL)",
+      "type": "interview",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "standard-examiner-sandlot-ogden-2023",
+      "url": "https://www.standard.net/news/local/2023/aug/06/sandlot-cast-members-return-to-ogden-for-charity-baseball-game-connect-with-fans/",
+      "title": "Sandlot cast members return to Ogden for charity baseball game, connect with fans",
+      "publisher": "Standard-Examiner",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "betaseries-chauncey-leopardi",
+      "url": "https://www.betaseries.com/en/person/95791-chauncey-leopardi",
+      "title": "Chauncey Leopardi, BetaSeries person page",
+      "publisher": "BetaSeries",
+      "type": "database",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "famousbirthdays-chauncey-leopardi",
+      "url": "https://www.famousbirthdays.com/people/chauncey-leopardi.html",
+      "title": "Chauncey Leopardi, FamousBirthdays",
+      "publisher": "FamousBirthdays",
+      "type": "database",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    }
+  ]
+}

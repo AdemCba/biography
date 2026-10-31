@@ -1,0 +1,240 @@
+{
+  "date": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"Mine That Bird won the 2009 Kentucky Derby as a great surprise\" (Gulf News says Devane is one of the owners. It does not mention the 2009 Derby or the surprise win. Cite a source that says so, or drop the clause.)",
+    "UNSUPPORTED: \"fernsehserien lists the series as Unter der Sonne Kaliforniens with Greg Sumner, 1979 to 1993, under the heading Knots Landing\" (Title, character and years are confirmed. The identification with Knots Landing is an inference that the page does not make. Name the German title and drop the implied identity, or cite a source that names Knots Landing.)",
+    "Prose reads machine-written",
+    "Reviewer recommends rejection: Rejected. Two unsupported claims (Mine That Bird 2009 Derby detail; the implied fernsehserien to Knots Landing identity). The prose is a sentence-by-sentence translation of the English page, which fails the localisation rule. Fix the two claims and rewrite for Spanish readers."
+  ],
+  "claims": [
+    {
+      "claim": "Birth year conflict: Plex and Cinegraph headers 1939, biography text 1937; fernsehserien 1937",
+      "sourceIds": [
+        "plex-william-devane",
+        "cinegraph-william-devane",
+        "fernsehserien-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "Plex header 1939 / bio 1937; Cinegraph header 1939 / bio 1937; fernsehserien 05.09.1937."
+    },
+    {
+      "claim": "Cinegraph lists Albany, Nueva York, Estados Unidos",
+      "sourceIds": [
+        "cinegraph-william-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "'From' field: Albany, New York, USA."
+    },
+    {
+      "claim": "Two Emmy nominations, no wins; 1975 Special Program (The Missiles of October); 1976 Limited Series (Fear on Trial)",
+      "sourceIds": [
+        "tv-academy-bio",
+        "plex-william-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "TV Academy lists exactly these two nominations and no wins."
+    },
+    {
+      "claim": "Gulf News links the Missiles of October Emmy nomination to his Kennedy role",
+      "sourceIds": [
+        "gulfnews-devane-24"
+      ],
+      "verdict": "confirmed",
+      "note": "Gulf News: 'Emmy nomination for his star-making turn as President Kennedy'. No year given."
+    },
+    {
+      "claim": "Began at New York Shakespeare Festival, 15 plays",
+      "sourceIds": [
+        "plex-william-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "Plex biography text. The earlier review note is out of date."
+    },
+    {
+      "claim": "Plex lists him as actor, director and guionista (writer)",
+      "sourceIds": [
+        "plex-william-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "Plex careers: Actor, Director, Writer."
+    },
+    {
+      "claim": "Marathon Man (1976), ruthless agent",
+      "sourceIds": [
+        "gulfnews-devane-24"
+      ],
+      "verdict": "confirmed",
+      "note": "Gulf News verbatim."
+    },
+    {
+      "claim": "McCabe & Mrs. Miller (1971, abogado); Rolling Thunder (1977, mayor Charles Rane)",
+      "sourceIds": [
+        "plex-william-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "Plex: 1971 Lawyer; 1977 Major Charles Rane. fernsehserien gives 1970 for McCabe; the article follows Plex."
+    },
+    {
+      "claim": "Natalie Wood love interest, 1979 miniseries De aquí a la eternidad",
+      "sourceIds": [
+        "gulfnews-devane-24"
+      ],
+      "verdict": "confirmed",
+      "note": "Gulf News verbatim."
+    },
+    {
+      "claim": "Space Cowboys (2000) Eugene Davis; Payback (1999) Carter; Hollow Man (2000) Howard Kramer; Interstellar (2014) Williams",
+      "sourceIds": [
+        "fernsehserien-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "All match the film table."
+    },
+    {
+      "claim": "Testament (1983) Tom Wetherly; The Bad News Bears in Breaking Training (1977) Mike Leak",
+      "sourceIds": [
+        "plex-william-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "Plex selected credits."
+    },
+    {
+      "claim": "50 to 1 (2014), doctor Leonard Blach",
+      "sourceIds": [
+        "fernsehserien-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "fernsehserien: 50 zu 1 (2014), Leonard 'Doc' Blach."
+    },
+    {
+      "claim": "Mine That Bird won the 2009 Kentucky Derby as a great surprise",
+      "sourceIds": [
+        "gulfnews-devane-24"
+      ],
+      "verdict": "unsupported",
+      "note": "Gulf News says Devane is one of the owners. It does not mention the 2009 Derby or the surprise win. Cite a source that says so, or drop the clause."
+    },
+    {
+      "claim": "Greg Sumner as a villain, CBS, 1983 to 1993",
+      "sourceIds": [
+        "gulfnews-devane-24"
+      ],
+      "verdict": "confirmed",
+      "note": "Gulf News verbatim."
+    },
+    {
+      "claim": "fernsehserien lists the series as Unter der Sonne Kaliforniens with Greg Sumner, 1979 to 1993, under the heading Knots Landing",
+      "sourceIds": [
+        "fernsehserien-devane"
+      ],
+      "verdict": "unsupported",
+      "note": "Title, character and years are confirmed. The identification with Knots Landing is an inference that the page does not make. Name the German title and drop the implied identity, or cite a source that names Knots Landing."
+    },
+    {
+      "claim": "Michael Fairman TV (Dec 2011): Edward Grayson, father of Conrad, Hamptons patriarch",
+      "sourceIds": [
+        "michaelfairman-revenge-2011"
+      ],
+      "verdict": "confirmed",
+      "note": "Verified."
+    },
+    {
+      "claim": "TVmaze: episodes 8 and 15 February 2012",
+      "sourceIds": [
+        "tvmaze-edward-grayson"
+      ],
+      "verdict": "confirmed",
+      "note": "1x14 Feb 8, 2012; 1x15 Feb 15, 2012."
+    },
+    {
+      "claim": "President in Stargate SG-1 and in El caballero oscuro: la leyenda renace (2012, Nolan)",
+      "sourceIds": [
+        "gulfnews-devane-24"
+      ],
+      "verdict": "confirmed",
+      "note": "Gulf News verbatim; localised title is a fair rendering of The Dark Knight Rises."
+    },
+    {
+      "claim": "fernsehserien: President Hayes, 'Stargate', 2004 to 2009",
+      "sourceIds": [
+        "fernsehserien-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "Table entry."
+    },
+    {
+      "claim": "Secretary of State on The West Wing",
+      "sourceIds": [
+        "gulfnews-devane-24"
+      ],
+      "verdict": "confirmed",
+      "note": "Gulf News verbatim."
+    },
+    {
+      "claim": "Jesse Stone (Dr Dix, 2006 to 2015); The Grinder (Dean Sr., 2015 and 2016); Psych (Peters, 2010)",
+      "sourceIds": [
+        "fernsehserien-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "All match the series table."
+    },
+    {
+      "claim": "Plex lists Falling from the Sky: Flight 174 and Jesse Stone: Lost in Paradise among known titles",
+      "sourceIds": [
+        "plex-william-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "Both are Plex credits. The fetch shows them as selected credits, not a labelled known-titles list."
+    },
+    {
+      "claim": "Heller enters 24 as Secretary of State on Day 4, 2005; returns in 24: Live Another Day (2001 to 2010 series)",
+      "sourceIds": [
+        "gulfnews-devane-24"
+      ],
+      "verdict": "confirmed",
+      "note": "Verified."
+    },
+    {
+      "claim": "Gulf News also calls him Secretary of Defence on 24, so titles disagree",
+      "sourceIds": [
+        "gulfnews-devane-24"
+      ],
+      "verdict": "confirmed",
+      "note": "Verified."
+    },
+    {
+      "claim": "Early-stage Alzheimer's for Heller",
+      "sourceIds": [
+        "gulfnews-devane-24"
+      ],
+      "verdict": "confirmed",
+      "note": "Verified."
+    },
+    {
+      "claim": "Article last updated 15 September 2018",
+      "sourceIds": [
+        "gulfnews-devane-24"
+      ],
+      "verdict": "confirmed",
+      "note": "Verified."
+    },
+    {
+      "claim": "No age stated because of conflicting birth years (FAQ)",
+      "sourceIds": [
+        "plex-william-devane",
+        "cinegraph-william-devane",
+        "fernsehserien-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "Editorial decision supported by the sources."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": false,
+  "addsValue": true,
+  "valueNote": "The birth-year conflict, the Emmy record and the Gulf News job-title inconsistency are useful. But the Spanish text follows the English article sentence by sentence, with the same section structure and the same paragraph order. It does not localise for Spanish readers, and the Spanish queries are not used to shape the headings or FAQ.",
+  "decision": "reject",
+  "summary": "Rejected. Two unsupported claims (Mine That Bird 2009 Derby detail; the implied fernsehserien to Knots Landing identity). The prose is a sentence-by-sentence translation of the English page, which fails the localisation rule. Fix the two claims and rewrite for Spanish readers."
+}

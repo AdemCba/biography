@@ -1,0 +1,289 @@
+{
+  "date": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"FAQ: after seven seasons, 'na prática eram oito anos longe de casa e da mulher'\" (The source has no eight-year figure and no link between time away and leaving. Delete the sentence.)",
+    "UNSUPPORTED: \"Scott Ellis encouraged him despite panic attacks with 'sua chance de resolver isso, basicamente'\" (Source reads 'this is your chance to fix that'. 'basicamente' is not in the source. Use the source wording or drop the quote marks.)",
+    "Prose reads machine-written",
+    "Adds no value over existing pages: The Portuguese text follows the English article sentence by sentence, with the same sections, quotes and sources. It adds no Brazilian-language sources or local context, which the style guide says fails review.",
+    "Reviewer recommends rejection: Rejected. (1) The FAQ wife answer's 'oito anos longe de casa e da mulher' is not in the cited Just Jared text; delete it. (2) The Ellis quote 'sua chance de resolver isso, basicamente' does not match the source 'this is your chance to fix that'; use the source wording or drop the quote marks. (3) The text is a sentence-by-sentence translation of the English page; rewrite it for Brazilian readers with Portuguese-language sources and context."
+  ],
+  "claims": [
+    {
+      "claim": "Ator canadense nascido em 27 de agosto de 1981, em Toronto, Ontário (summary, metaDescription, body)",
+      "sourceIds": [
+        "wikidata-q644565",
+        "wikidata-q172",
+        "wikidata-q16"
+      ],
+      "verdict": "confirmed",
+      "note": "Wikidata gives the date, Toronto, and Canada as citizenship."
+    },
+    {
+      "claim": "Mike Ross em Suits, exibida pela USA",
+      "sourceIds": [
+        "usc-sda-patrick-j-adams",
+        "tvseriesfinale-suits"
+      ],
+      "verdict": "confirmed",
+      "note": "Both confirm."
+    },
+    {
+      "claim": "USC profile cites Old School, Pillow Talk, Room for Rent and Rosemary's Baby",
+      "sourceIds": [
+        "usc-sda-patrick-j-adams"
+      ],
+      "verdict": "confirmed",
+      "note": "All four appear in the credits."
+    },
+    {
+      "claim": "Suits aired on USA from 23 June 2011 to 25 September 2019, nine seasons, 134 episodes",
+      "sourceIds": [
+        "tvseriesfinale-suits"
+      ],
+      "verdict": "confirmed",
+      "note": "All match."
+    },
+    {
+      "claim": "Nomination for the Screen Actors Guild Award, melhor ator em série dramática",
+      "sourceIds": [
+        "usc-sda-patrick-j-adams"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Left Suits when season seven ended",
+      "sourceIds": [
+        "tvline-suits-exit"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "2018 Hollywood Reporter quote: 'já contamos a história dele, e se ele ficar mais tempo, Mike vai ser só mais um advogado na televisão'",
+      "sourceIds": [
+        "justjared-suits-exit-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Faithful translation; attribution confirmed."
+    },
+    {
+      "claim": "Began thinking about leaving at the end of the first half of season six",
+      "sourceIds": [
+        "justjared-suits-exit-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Podcast Dinner's On Me with Jesse Tyler Ferguson; did not look after mental health; drank too much at end of season seven",
+      "sourceIds": [
+        "tvline-suits-exit"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported."
+    },
+    {
+      "claim": "Only money would have justified staying; never regretted leaving; quote 'Foi a coisa certa para o meu casamento... Chegou a hora'",
+      "sourceIds": [
+        "tvline-suits-exit"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported; quote faithful."
+    },
+    {
+      "claim": "Married to actress Troian Bellisario",
+      "sourceIds": [
+        "justjared-suits-exit-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "FAQ: after seven seasons, 'na prática eram oito anos longe de casa e da mulher'",
+      "sourceIds": [
+        "justjared-suits-exit-2024"
+      ],
+      "verdict": "unsupported",
+      "note": "The source has no eight-year figure and no link between time away and leaving. Delete the sentence."
+    },
+    {
+      "claim": "Cast as major John Glenn in The Right Stuff, Disney+",
+      "sourceIds": [
+        "d23-right-stuff-glenn",
+        "tvline-right-stuff-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "D23 says Major John Glenn."
+    },
+    {
+      "claim": "Quote 'Acho que fui o primeiro a ser escalado'",
+      "sourceIds": [
+        "tvline-right-stuff-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Faithful translation."
+    },
+    {
+      "claim": "Quotes: 'muito medo, para ser sincero' and Glenn as 'o ponto fora da curva do Mercury Seven, e não porque era o melhor'",
+      "sourceIds": [
+        "tvline-right-stuff-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Faithful translations."
+    },
+    {
+      "claim": "Days in the Glenn archives at Ohio State; 'centenas e centenas de caixas de coisas'; 'o luxo de uma quantidade enorme de recursos'",
+      "sourceIds": [
+        "d23-right-stuff-glenn"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported. 'Universidade Estadual de Ohio' is the usual Portuguese name."
+    },
+    {
+      "claim": "Read private letters, diaries and presidential correspondence; kept his 'pontos de apoio' rather than imitating Glenn",
+      "sourceIds": [
+        "d23-right-stuff-glenn"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported."
+    },
+    {
+      "claim": "Quote 'É isso que eu estava esperando' when the offer came",
+      "sourceIds": [
+        "tvline-right-stuff-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Faithful translation."
+    },
+    {
+      "claim": "Broadway debut as Kippy Sunderstrom in the 2022 revival of Take Me Out",
+      "sourceIds": [
+        "justjared-take-me-out-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Play closed 11 June 2022 at the Hayes Theatre",
+      "sourceIds": [
+        "broadwayworld-take-me-out-tony"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: closed yesterday, June 11, at the Hayes Theatre."
+    },
+    {
+      "claim": "BroadwayWorld report of 12 June: 2022 Tony for Best Revival of a Play; cast includes Adams",
+      "sourceIds": [
+        "broadwayworld-take-me-out-tony"
+      ],
+      "verdict": "confirmed",
+      "note": "Both confirmed."
+    },
+    {
+      "claim": "Play has nude scenes; Adams had to be nude every night and set aside his nerves",
+      "sourceIds": [
+        "justjared-take-me-out-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported."
+    },
+    {
+      "claim": "Quote 'Foi tão intenso que acho que de fato precisei sair do meu corpo todas as noites'",
+      "sourceIds": [
+        "justjared-take-me-out-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote confirmed. The body does not say it was on a podcast."
+    },
+    {
+      "claim": "Scott Ellis encouraged him despite panic attacks with 'sua chance de resolver isso, basicamente'",
+      "sourceIds": [
+        "justjared-take-me-out-2024"
+      ],
+      "verdict": "unsupported",
+      "note": "Source reads 'this is your chance to fix that'. 'basicamente' is not in the source. Use the source wording or drop the quote marks."
+    },
+    {
+      "claim": "Plays Russell McIntosh in The Madison (Paramount+), with Pfeiffer and Kurt Russell as the Clyburns",
+      "sourceIds": [
+        "paramount-madison-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Russell is married to Paige McIntosh (Elle Chapman), the younger Clyburn daughter",
+      "sourceIds": [
+        "paramount-madison-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "29 October 2026 Facebook page claimed death 'por volta das 11h, horário de Nova York, na quinta-feira (29 de outubro de 2026)'",
+      "sourceIds": [
+        "mediamass-death-hoax"
+      ],
+      "verdict": "confirmed",
+      "note": "Source gives 11 a.m. ET; 'horário de Nova York' is a reasonable rendering of ET."
+    },
+    {
+      "claim": "Nearly a million likes; skeptics noted no major Canadian network reported it",
+      "sourceIds": [
+        "mediamass-death-hoax"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "30 October representatives: 'está vivo e bem, parem de acreditar no que veem na internet'",
+      "sourceIds": [
+        "mediamass-death-hoax"
+      ],
+      "verdict": "confirmed",
+      "note": "Faithful translation."
+    },
+    {
+      "claim": "Update of 31 October 2026: the story 'parece ser falsa'",
+      "sourceIds": [
+        "mediamass-death-hoax"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "FAQ: aged 45 in August 2026",
+      "sourceIds": [
+        "wikidata-q644565"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "FAQ: not dead; representatives said on 30 October he is alive and well",
+      "sourceIds": [
+        "mediamass-death-hoax"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported."
+    },
+    {
+      "claim": "FAQ: left Suits after season seven; mental health; drinking; Mike's story told",
+      "sourceIds": [
+        "tvline-suits-exit",
+        "justjared-suits-exit-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": false,
+  "addsValue": false,
+  "valueNote": "The Portuguese text follows the English article sentence by sentence, with the same sections, quotes and sources. It adds no Brazilian-language sources or local context, which the style guide says fails review.",
+  "decision": "reject",
+  "summary": "Rejected. (1) The FAQ wife answer's 'oito anos longe de casa e da mulher' is not in the cited Just Jared text; delete it. (2) The Ellis quote 'sua chance de resolver isso, basicamente' does not match the source 'this is your chance to fix that'; use the source wording or drop the quote marks. (3) The text is a sentence-by-sentence translation of the English page; rewrite it for Brazilian readers with Portuguese-language sources and context."
+}

@@ -1,0 +1,93 @@
+{
+  "worthWriting": true,
+  "reason": "American actor with a long screen career (films and television), an official Television Academy record of two Emmy nominations, and a press profile of his 24 role. No death or scandal news found. Identity confirmed as the actor born in Albany, New York, not namesakes. Enough fact base after the Television Academy record and two database profiles.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "tv-academy-bio",
+      "url": "https://www.televisionacademy.com/bios/william-devane",
+      "title": "William Devane - Television Academy bio",
+      "publisher": "Television Academy",
+      "type": "award-body",
+      "lang": "en"
+    },
+    {
+      "id": "plex-william-devane",
+      "url": "https://watch.plex.tv/person/william-devane",
+      "title": "William Devane - Plex person page",
+      "publisher": "Plex",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "cinegraph-william-devane",
+      "url": "https://cinegraph.org/people/william-devane/legacy",
+      "title": "William Devane - Cinegraph",
+      "publisher": "Cinegraph",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "gulfnews-devane-24",
+      "url": "https://gulfnews.com/entertainment/hollywood/william-devane-back-in-office-with-24-1.1341403",
+      "title": "William Devane back in office with '24'",
+      "publisher": "Gulf News",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "michaelfairman-revenge-2011",
+      "url": "https://michaelfairmantv.com/knots-landing-favorite-william-devane-cast-on-abcs-revenge/2011/12/13/",
+      "title": "Knots Landing favorite William Devane cast on ABC's Revenge",
+      "publisher": "Michael Fairman TV",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "tvmaze-edward-grayson",
+      "url": "https://www.tvmaze.com/characters/1103/revenge-edward-grayson",
+      "title": "Edward Grayson - Revenge - TVmaze",
+      "publisher": "TVmaze",
+      "type": "database",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1939-09-05",
+      "sources": [
+        "plex-william-devane",
+        "cinegraph-william-devane"
+      ],
+      "note": "The profile headers of Plex and Cinegraph give 5 September 1939. The biography text on both pages gives 1937, and some low-quality sites repeat 1937 or February 1939. IMDb could not be opened to check."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Albany, New York, USA",
+      "sources": [
+        "cinegraph-william-devane"
+      ],
+      "note": "Cinegraph lists him as from Albany, New York, USA."
+    },
+    "nationality": {
+      "value": "US",
+      "sources": [
+        "cinegraph-william-devane"
+      ],
+      "note": "Cinegraph lists the place as Albany, New York, USA. Nationality inferred from that field, not stated as citizenship."
+    }
+  },
+  "targetQueries": [
+    "who is William Devane",
+    "William Devane age",
+    "William Devane 24 role",
+    "William Devane Knots Landing",
+    "William Devane Emmy nominations",
+    "William Devane Revenge role",
+    "William Devane movies",
+    "where is William Devane from"
+  ],
+  "gapNote": "Most top results are content-farm pages with conflicting birth years, invented awards and unverified spouse and net worth claims. This page uses the Television Academy record of his Emmy nominations, dated press on the 24 and Revenge roles, and states the birth year conflict openly. Net worth, spouse and family are left out because no reliable source was opened."
+}

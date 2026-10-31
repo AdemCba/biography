@@ -1,0 +1,275 @@
+{
+  "date": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"Cresceu em Memphis\" (Birthplace is supported; 'cresceu em Memphis' is not stated in any opened source. Reword or cite.)",
+    "UNSUPPORTED: \"Dois dias depois, diretor de atletismo e Hardaway trataram do público 'nos jogos em casa'\" (Source says dwindling basketball attendance, not home games. Change to 'público' or cite.)",
+    "UNCITED: \"'cresceu em Memphis' (first paragraph)\"",
+    "Prose reads machine-written",
+    "Adds no value over existing pages: The Portuguese text follows the English section by section, keeps the English word 'probation', and does not localise context or Brazilian sources.",
+    "Reviewer recommends rejection: Reject. Fix: remove 'cresceu em Memphis' unless cited; change 'público nos jogos em casa' to 'público' to match Daily Memphian; translate 'probation'; rewrite for Brazilian readers rather than a sentence-by-sentence translation. Other facts check out."
+  ],
+  "claims": [
+    {
+      "claim": "Nascido em Memphis, Tennessee; formado no Treadwell High School; 2,01 m",
+      "sourceIds": [
+        "bbref-hardaway",
+        "olympedia-hardaway"
+      ],
+      "verdict": "confirmed",
+      "note": "bbref: Memphis, Tennessee; Treadwell; 201cm. Olympedia birthplace Memphis."
+    },
+    {
+      "claim": "Cresceu em Memphis",
+      "sourceIds": [],
+      "verdict": "unsupported",
+      "note": "Birthplace is supported; 'cresceu em Memphis' is not stated in any opened source. Reword or cite."
+    },
+    {
+      "claim": "Desde 2018 dirige a equipe em que jogou como universitário",
+      "sourceIds": [
+        "si-hardaway-hire-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "SI: former Memphis guard, March 2018."
+    },
+    {
+      "claim": "Universidade de Memphis entre 1990 e 1993",
+      "sourceIds": [
+        "tshf-hardaway-2013"
+      ],
+      "verdict": "confirmed",
+      "note": "TSHF."
+    },
+    {
+      "claim": "Comparado a Magic Johnson; Hall da Fama do Tennessee em 2013",
+      "sourceIds": [
+        "tshf-hardaway-2013"
+      ],
+      "verdict": "confirmed",
+      "note": "TSHF."
+    },
+    {
+      "claim": "M Club Hall da Fama, 2008",
+      "sourceIds": [
+        "gotigers-m-club"
+      ],
+      "verdict": "confirmed",
+      "note": "Page title (2008)."
+    },
+    {
+      "claim": "Terceira escolha geral do draft de 1993, Golden State",
+      "sourceIds": [
+        "bbref-hardaway"
+      ],
+      "verdict": "confirmed",
+      "note": "3rd overall."
+    },
+    {
+      "claim": "14 temporadas; 10.684 pontos, 3.146 rebotes, 3.525 assistências",
+      "sourceIds": [
+        "bbref-hardaway"
+      ],
+      "verdict": "confirmed",
+      "note": "bbref totals."
+    },
+    {
+      "claim": "Quatro All-Star (1994-95 a 1997-98); All-NBA First Team 1994-95 e 1995-96; Third Team 1996-97",
+      "sourceIds": [
+        "bbref-hardaway"
+      ],
+      "verdict": "confirmed",
+      "note": "AS rows; NBA1 and NBA3 codes."
+    },
+    {
+      "claim": "Primeiro time de calouros da NBA (TSHF)",
+      "sourceIds": [
+        "tshf-hardaway-2013"
+      ],
+      "verdict": "confirmed",
+      "note": "TSHF."
+    },
+    {
+      "claim": "Jogo 'sem posição fixa'; quase 22 pontos, 7,1 assistências, 4,3 rebotes em 82 jogos pelo Magic",
+      "sourceIds": [
+        "stadiumgoods-air-max-penny-1"
+      ],
+      "verdict": "confirmed",
+      "note": "Source."
+    },
+    {
+      "claim": "Ouro olímpico em Atlanta 1996, basquete masculino; uma medalha",
+      "sourceIds": [
+        "olympedia-hardaway"
+      ],
+      "verdict": "confirmed",
+      "note": "Gold 1, total 1."
+    },
+    {
+      "claim": "Dream Team, 'o segundo time olímpico dos Estados Unidos formado por jogadores da NBA'",
+      "sourceIds": [
+        "tshf-hardaway-2013"
+      ],
+      "verdict": "confirmed",
+      "note": "TSHF. Earlier reviewer note was wrong."
+    },
+    {
+      "claim": "Posições: armador, ala-armador e ala",
+      "sourceIds": [
+        "bbref-hardaway"
+      ],
+      "verdict": "confirmed",
+      "note": "Listed positions."
+    },
+    {
+      "claim": "Air Max Penny 1, 1995, Eric Avar, Uptempo, Chris Rock dublou Lil' Penny",
+      "sourceIds": [
+        "stadiumgoods-air-max-penny-1"
+      ],
+      "verdict": "confirmed",
+      "note": "Source."
+    },
+    {
+      "claim": "Março 2018 contratação; substitui Tubby Smith; AAU; Memphis East três títulos estaduais",
+      "sourceIds": [
+        "si-hardaway-hire-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "SI."
+    },
+    {
+      "claim": "28 de março de 2021, 77-64 contra Mississippi State, final do NIT; citação",
+      "sourceIds": [
+        "actionnews5-nit-2021"
+      ],
+      "verdict": "confirmed",
+      "note": "Source and faithful translation."
+    },
+    {
+      "claim": "Outubro 2022, seis anos, 16,5 milhões antes de bônus, até 2027-28",
+      "sourceIds": [
+        "cbs-hardaway-extension-2022",
+        "actionnews5-extension-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources."
+    },
+    {
+      "claim": "Salário de 2,5 milhões na primeira temporada; aumento de 100 mil por ano",
+      "sourceIds": [
+        "cbs-hardaway-extension-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "CBS."
+    },
+    {
+      "claim": "84-43 em quatro temporadas; quatro campanhas de 20 vitórias; NCAA 2022",
+      "sourceIds": [
+        "actionnews5-extension-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Source."
+    },
+    {
+      "claim": "Veatch: 'vinha sendo costurado há bastante tempo'; sem técnico melhor",
+      "sourceIds": [
+        "actionnews5-extension-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Faithful translation. Earlier reviewer note was wrong."
+    },
+    {
+      "claim": "Probation por jogadores inelegíveis e recrutamento, 2019-20; punições mais severas evitadas",
+      "sourceIds": [
+        "actionnews5-extension-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Source. The English word 'probation' is left in the text; translate or gloss it."
+    },
+    {
+      "claim": "Março 2026: universidade anuncia que Hardaway segue no comando",
+      "sourceIds": [
+        "gotigers-return-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Headline and URL date only."
+    },
+    {
+      "claim": "Tigers 2025-26: 13 vitórias, 19 derrotas",
+      "sourceIds": [
+        "dailymemphian-hardaway-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source."
+    },
+    {
+      "claim": "John Martin: 'a tarefa diante dele é imensa'",
+      "sourceIds": [
+        "dailymemphian-hardaway-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Faithful translation."
+    },
+    {
+      "claim": "Hardaway: 'Sei que consigo superar um fracasso'",
+      "sourceIds": [
+        "dailymemphian-hardaway-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Faithful translation."
+    },
+    {
+      "claim": "Oito jogadores com prazo até sexta-feira",
+      "sourceIds": [
+        "dailymemphian-hardaway-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source."
+    },
+    {
+      "claim": "Dois dias depois, diretor de atletismo e Hardaway trataram do público 'nos jogos em casa'",
+      "sourceIds": [
+        "dailymemphian-hardaway-2026"
+      ],
+      "verdict": "unsupported",
+      "note": "Source says dwindling basketball attendance, not home games. Change to 'público' or cite."
+    },
+    {
+      "claim": "Summary/knownFor: ex-All-Star, ouro olímpico, 13-19, continua no cargo",
+      "sourceIds": [
+        "bbref-hardaway",
+        "olympedia-hardaway",
+        "dailymemphian-hardaway-2026",
+        "gotigers-return-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Backed by body sources."
+    },
+    {
+      "claim": "FAQ: datas 1971 e 1972",
+      "sourceIds": [
+        "bbref-hardaway",
+        "olympedia-hardaway"
+      ],
+      "verdict": "confirmed",
+      "note": "Match sources."
+    },
+    {
+      "claim": "FAQ: 6 pés e 7 polegadas (201 cm), 195 libras (88 kg)",
+      "sourceIds": [
+        "bbref-hardaway"
+      ],
+      "verdict": "confirmed",
+      "note": "bbref."
+    }
+  ],
+  "uncitedClaims": [
+    "'cresceu em Memphis' (first paragraph)"
+  ],
+  "readsHumanWritten": false,
+  "addsValue": false,
+  "valueNote": "The Portuguese text follows the English section by section, keeps the English word 'probation', and does not localise context or Brazilian sources.",
+  "decision": "reject",
+  "summary": "Reject. Fix: remove 'cresceu em Memphis' unless cited; change 'público nos jogos em casa' to 'público' to match Daily Memphian; translate 'probation'; rewrite for Brazilian readers rather than a sentence-by-sentence translation. Other facts check out."
+}

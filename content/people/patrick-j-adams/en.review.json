@@ -1,0 +1,345 @@
+{
+  "date": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"FAQ: in a 2018 interview he linked the years of long stretches away from home, and away from her, to his decision to leave Suits\" (The fetched Just Jared text does not link time away from home or from his wife to leaving. The 2018 attribution and the mention of his wife are confirmed, but this linkage is not. Drop it or cite a source that says it.)",
+    "UNSUPPORTED: \"Quote: when the project came along he 'just went, This is what I've been waiting for'\" ('This is what I've been waiting for' is confirmed, but the words 'just went' are not verified in the fetched text. Verify the exact wording or drop the 'just went' phrase.)",
+    "UNSUPPORTED: \"Director Scott Ellis encouraged him to take the part despite stage panic attacks, telling him it was 'your chance to fix that, essentially'\" (Stage panic attacks and the Ellis encouragement are confirmed, but the fetched text reads 'this is your chance to fix that' with no 'essentially'. Correct the quote to the source wording or drop the quote marks.)",
+    "Reviewer recommends rejection: Rejected. Three claims need fixing: (1) FAQ wife answer says he linked long stretches away from home and from his wife to leaving Suits, which the cited Just Jared text does not say; drop it or cite a source that does. (2) Scott Ellis quote 'your chance to fix that, essentially' is not verbatim in the source; the source reads 'this is your chance to fix that'. (3) Quote 'just went, This is what I've been waiting for': 'just went' is unverified; check the exact wording or drop it. Everything else checks out, including the Hayes Theatre venue and the podcast attribution."
+  ],
+  "claims": [
+    {
+      "claim": "Born 27 August 1981 in Toronto, Ontario",
+      "sourceIds": [
+        "wikidata-q644565",
+        "wikidata-q172"
+      ],
+      "verdict": "confirmed",
+      "note": "Wikidata shows 27 August 1981 and Toronto; Toronto (Q172) is in Ontario, Canada. The day precision could not be seen in the fetched text."
+    },
+    {
+      "claim": "Canadian actor (summary, knownFor, nationality)",
+      "sourceIds": [
+        "wikidata-q644565",
+        "wikidata-q16",
+        "mediamass-death-hoax"
+      ],
+      "verdict": "confirmed",
+      "note": "Wikidata lists Canada as citizenship; Mediamass calls him the Canadian actor."
+    },
+    {
+      "claim": "Best known for playing Mike Ross in Suits (USA legal drama)",
+      "sourceIds": [
+        "usc-sda-patrick-j-adams",
+        "tvseriesfinale-suits"
+      ],
+      "verdict": "confirmed",
+      "note": "TV Series Finale lists him as Mike Ross; USC bio lists the leading role."
+    },
+    {
+      "claim": "USC profile lists film work such as Old School and Pillow Talk",
+      "sourceIds": [
+        "usc-sda-patrick-j-adams"
+      ],
+      "verdict": "confirmed",
+      "note": "Both titles appear in the USC credits."
+    },
+    {
+      "claim": "Suits ran on USA 23 June 2011 to 25 September 2019, nine seasons, 134 episodes",
+      "sourceIds": [
+        "tvseriesfinale-suits"
+      ],
+      "verdict": "confirmed",
+      "note": "Premiere, final date, seasons, episodes and network all match."
+    },
+    {
+      "claim": "Screen Actors Guild Award nomination for outstanding actor in a drama series",
+      "sourceIds": [
+        "usc-sda-patrick-j-adams"
+      ],
+      "verdict": "confirmed",
+      "note": "USC bio states the SAG nomination for Suits."
+    },
+    {
+      "claim": "Left Suits after its seventh season",
+      "sourceIds": [
+        "tvline-suits-exit"
+      ],
+      "verdict": "confirmed",
+      "note": "TVLine and Just Jared both describe season seven as his last."
+    },
+    {
+      "claim": "2018 Hollywood Reporter interview quote: 'we've told his story and if he hangs out longer, Mike is just going to be another lawyer on television'",
+      "sourceIds": [
+        "justjared-suits-exit-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact quote and Hollywood Reporter 2018 attribution found in the fetched text."
+    },
+    {
+      "claim": "Began thinking about leaving at the end of the first half of season six",
+      "sourceIds": [
+        "justjared-suits-exit-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Source says end of first half of season six, after Mike was released from prison."
+    },
+    {
+      "claim": "Not taking good care of his mental health and drinking too much by end of season seven (paraphrase, no quote marks in body)",
+      "sourceIds": [
+        "tvline-suits-exit"
+      ],
+      "verdict": "confirmed",
+      "note": "Source describes heavy drinking and depression on Dinner's On Me; body is a paraphrase, which is acceptable."
+    },
+    {
+      "claim": "Main reason to stay was money; never regretted leaving",
+      "sourceIds": [
+        "tvline-suits-exit"
+      ],
+      "verdict": "confirmed",
+      "note": "Source says the main reason to stay was money and he never regretted it."
+    },
+    {
+      "claim": "Quote: 'It was the right thing for my marriage... It was time'",
+      "sourceIds": [
+        "tvline-suits-exit"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact wording found in the fetched text."
+    },
+    {
+      "claim": "Podcast conversation with Jesse Tyler Ferguson (Dinner's On Me)",
+      "sourceIds": [
+        "tvline-suits-exit"
+      ],
+      "verdict": "confirmed",
+      "note": "Source names the podcast and host."
+    },
+    {
+      "claim": "Wife is actress Troian Bellisario",
+      "sourceIds": [
+        "justjared-suits-exit-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Source names Troian Bellisario as his wife."
+    },
+    {
+      "claim": "FAQ: in a 2018 interview he linked the years of long stretches away from home, and away from her, to his decision to leave Suits",
+      "sourceIds": [
+        "justjared-suits-exit-2024"
+      ],
+      "verdict": "unsupported",
+      "note": "The fetched Just Jared text does not link time away from home or from his wife to leaving. The 2018 attribution and the mention of his wife are confirmed, but this linkage is not. Drop it or cite a source that says it."
+    },
+    {
+      "claim": "Cast as Major John Glenn in The Right Stuff (Disney+, Mercury Seven)",
+      "sourceIds": [
+        "d23-right-stuff-glenn",
+        "tvline-right-stuff-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "D23 says he portrays Major John Glenn. TVLine calls him astronaut John Glenn; the rank is confirmed by D23."
+    },
+    {
+      "claim": "Luxury of an enormous amount of resources",
+      "sourceIds": [
+        "d23-right-stuff-glenn"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact quote found."
+    },
+    {
+      "claim": "Spent a couple of days in the John Glenn archives at Ohio State University; 'hundreds and hundreds of boxes of stuff'",
+      "sourceIds": [
+        "d23-right-stuff-glenn"
+      ],
+      "verdict": "confirmed",
+      "note": "Both the archive, the couple of days and the quote appear."
+    },
+    {
+      "claim": "Read private letters, journal entries and correspondence with presidents; kept material as 'linchpins' instead of an impression",
+      "sourceIds": [
+        "d23-right-stuff-glenn"
+      ],
+      "verdict": "confirmed",
+      "note": "Source says U.S. Presidents; the paraphrase is acceptable."
+    },
+    {
+      "claim": "Quote: 'I think I was the first person cast'",
+      "sourceIds": [
+        "tvline-right-stuff-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact quote found."
+    },
+    {
+      "claim": "Quote: 'I had a lot of fear, to be honest'",
+      "sourceIds": [
+        "tvline-right-stuff-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact quote found."
+    },
+    {
+      "claim": "Quote: Glenn was 'the odd man out of the Mercury Seven, and not because he was the best'",
+      "sourceIds": [
+        "tvline-right-stuff-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact quote found."
+    },
+    {
+      "claim": "Quote: 'I was looking to go to sleep for about 365 days'",
+      "sourceIds": [
+        "tvline-right-stuff-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact quote found."
+    },
+    {
+      "claim": "Quote: when the project came along he 'just went, This is what I've been waiting for'",
+      "sourceIds": [
+        "tvline-right-stuff-preview"
+      ],
+      "verdict": "unsupported",
+      "note": "'This is what I've been waiting for' is confirmed, but the words 'just went' are not verified in the fetched text. Verify the exact wording or drop the 'just went' phrase."
+    },
+    {
+      "claim": "Made Broadway debut as Kippy Sunderstrom in 2022 revival of Take Me Out",
+      "sourceIds": [
+        "justjared-take-me-out-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Kippy Sunderstrom and Broadway debut confirmed."
+    },
+    {
+      "claim": "Take Me Out won the 2022 Tony for Best Revival of a Play, announced 12 June 2022",
+      "sourceIds": [
+        "broadwayworld-take-me-out-tony"
+      ],
+      "verdict": "confirmed",
+      "note": "Award confirmed. The article is dated 12 June 2022, which supports the date."
+    },
+    {
+      "claim": "Play closed the day before (11 June 2022) at the Hayes Theatre",
+      "sourceIds": [
+        "broadwayworld-take-me-out-tony"
+      ],
+      "verdict": "confirmed",
+      "note": "Source says it closed yesterday, June 11, at the Hayes Theatre. Earlier note on the venue is now resolved."
+    },
+    {
+      "claim": "Cast list in the same report includes Adams",
+      "sourceIds": [
+        "broadwayworld-take-me-out-tony"
+      ],
+      "verdict": "confirmed",
+      "note": "Patrick J. Adams is named in the cast."
+    },
+    {
+      "claim": "Had to be naked on stage every night (play has nude scenes)",
+      "sourceIds": [
+        "justjared-take-me-out-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Source says naked every night."
+    },
+    {
+      "claim": "Quote: 'It was so intense that I think I actually truly had to leave my body every night'",
+      "sourceIds": [
+        "justjared-take-me-out-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote found. The body no longer says it was on a podcast, which is correct; the source attributes it to Dinner's On Me, so the body is accurate either way."
+    },
+    {
+      "claim": "Director Scott Ellis encouraged him to take the part despite stage panic attacks, telling him it was 'your chance to fix that, essentially'",
+      "sourceIds": [
+        "justjared-take-me-out-2024"
+      ],
+      "verdict": "unsupported",
+      "note": "Stage panic attacks and the Ellis encouragement are confirmed, but the fetched text reads 'this is your chance to fix that' with no 'essentially'. Correct the quote to the source wording or drop the quote marks."
+    },
+    {
+      "claim": "Plays Russell McIntosh in The Madison (Paramount+) with Michelle Pfeiffer as Stacy Clyburn and Kurt Russell as Preston Clyburn",
+      "sourceIds": [
+        "paramount-madison-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Cast page confirms Pfeiffer, Russell, and Adams as the husband of Paige. Russell's first name is given as Russell in the page."
+    },
+    {
+      "claim": "Russell is the husband of Paige McIntosh, played by Elle Chapman, the younger daughter of the Clyburns",
+      "sourceIds": [
+        "paramount-madison-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Source confirms Elle Chapman plays Paige, the younger daughter of Stacy and Preston."
+    },
+    {
+      "claim": "29 October 2026 Facebook page 'R.I.P. Patrick J. Adams' claimed death 'At about 11 a.m. ET on Thursday (October 29, 2026)'",
+      "sourceIds": [
+        "mediamass-death-hoax"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact text found."
+    },
+    {
+      "claim": "Page gained nearly one million likes; no major Canadian network had reported it",
+      "sourceIds": [
+        "mediamass-death-hoax"
+      ],
+      "verdict": "confirmed",
+      "note": "Both points found in the source."
+    },
+    {
+      "claim": "On 30 October representatives said he is 'still alive and well, stop believing what you see on the Internet'",
+      "sourceIds": [
+        "mediamass-death-hoax"
+      ],
+      "verdict": "confirmed",
+      "note": "Source quotes the statement dated 30 October."
+    },
+    {
+      "claim": "Update dated 31 October 2026 says the story 'seems to be false'",
+      "sourceIds": [
+        "mediamass-death-hoax"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact text found."
+    },
+    {
+      "claim": "FAQ: he is 45 as of 31 October 2026",
+      "sourceIds": [
+        "wikidata-q644565"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic from 27 August 1981 gives 45 on 31 October 2026."
+    },
+    {
+      "claim": "FAQ: not dead; representatives said on 30 October he is alive and well",
+      "sourceIds": [
+        "mediamass-death-hoax"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported by the Mediamass text."
+    },
+    {
+      "claim": "FAQ: left after season seven; mental health; drinking; felt Mike's story had been told",
+      "sourceIds": [
+        "tvline-suits-exit",
+        "justjared-suits-exit-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Supported by both sources."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Uses primary-leaning sources (Ohio State archive detail from D23, the podcast account of leaving Suits, and the death-hoax timeline) that the usual top results do not give.",
+  "decision": "reject",
+  "summary": "Rejected. Three claims need fixing: (1) FAQ wife answer says he linked long stretches away from home and from his wife to leaving Suits, which the cited Just Jared text does not say; drop it or cite a source that does. (2) Scott Ellis quote 'your chance to fix that, essentially' is not verbatim in the source; the source reads 'this is your chance to fix that'. (3) Quote 'just went, This is what I've been waiting for': 'just went' is unverified; check the exact wording or drop it. Everything else checks out, including the Hayes Theatre venue and the podcast attribution."
+}

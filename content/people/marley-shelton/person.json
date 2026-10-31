@@ -1,0 +1,96 @@
+{
+  "id": "marley-shelton",
+  "name": "Marley Shelton",
+  "categories": [
+    "artists"
+  ],
+  "importance": 3,
+  "wikidata": "Q235072",
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1974-04-12",
+      "sources": [
+        "tmdb-marley-shelton",
+        "wikidata-marley-shelton"
+      ],
+      "note": "TMDb and Wikidata agree. Low-quality sites list other years; not used."
+    },
+    "birthPlace": {
+      "value": "Los Angeles, California, USA",
+      "sources": [
+        "tmdb-marley-shelton",
+        "wikidata-marley-shelton"
+      ],
+      "note": "Wikidata gives Los Angeles; TMDb gives Los Angeles, California, USA."
+    },
+    "nationality": {
+      "value": [
+        "US"
+      ],
+      "sources": [
+        "wikidata-marley-shelton"
+      ],
+      "note": "Wikidata country of citizenship: United States. TMDb describes her as an American actress."
+    }
+  },
+  "related": [
+    "chauncey-leopardi"
+  ],
+  "sources": [
+    {
+      "id": "tmdb-marley-shelton",
+      "url": "https://www.themoviedb.org/person/6407-marley-shelton",
+      "title": "Marley Shelton - Personal Info and Biography",
+      "publisher": "The Movie Database (TMDb)",
+      "type": "database",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "wikidata-marley-shelton",
+      "url": "https://www.wikidata.org/wiki/Q235072",
+      "title": "Marley Shelton (Q235072)",
+      "publisher": "Wikidata",
+      "type": "database",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "brave-beginnings-psa",
+      "url": "https://bravebeginnings.org/marley-shelton-stars-in-latest-psa-from-brave-beginnings/",
+      "title": "Marley Shelton Stars in Latest PSA from Brave Beginnings",
+      "publisher": "Brave Beginnings",
+      "type": "other",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "etonline-scream-judy-hicks",
+      "url": "https://www.etonline.com/scream-star-marley-shelton-on-judy-hicks-return-and-those-lemon-squares-exclusive-177747",
+      "title": "'Scream' Star Marley Shelton on Judy Hicks' Return and Those Lemon Squares (Exclusive)",
+      "publisher": "E! Online",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "sliceofscifi-grindhouse-interview",
+      "url": "https://www.sliceofscifi.com/2007/04/02/exclusive-marley-shelton-grindhouse-interview/",
+      "title": "EXCLUSIVE: Marley Shelton 'Grindhouse' Interview",
+      "publisher": "Slice of SciFi (Joe Russo)",
+      "type": "interview",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    },
+    {
+      "id": "broadwayworld-marley-shelton",
+      "url": "https://www.broadwayworld.com/people/Marley-Shelton/",
+      "title": "Marley Shelton - Broadway & Theatre Credits, Current Shows, News, Bio",
+      "publisher": "BroadwayWorld",
+      "type": "press",
+      "accessed": "2026-10-31",
+      "lang": "en"
+    }
+  ]
+}

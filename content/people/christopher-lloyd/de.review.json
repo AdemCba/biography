@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"Vor allem New York Shakespeare Festival und Off-Broadway, gelegentlich Broadway\" (NYSF and off-Broadway not in the opened text; 'occasional Broadway roles' not found.)",
+    "UNSUPPORTED: \"Preisgekrönte Broadway-Inszenierung von Morning's at Seven\" (Broadway credit listed; award not stated in opened text.)",
+    "UNSUPPORTED: \"Kinodebüt 1975 als Max Taber; Film gewann fünf Oscars inkl. bester Film\" (Role/year confirmed; Oscar count not in opened text.)",
+    "UNSUPPORTED: \"Mehr als neunzig Produktionen; Independent Spirit für Twenty Bucks; Figur als kühle Darstellung eines seelenlosen Mörders; Eight Men Out\" (Production count, award and Eight Men Out confirmed. The 'cold portrayal of a soulless killer' description is not in the opened text.)",
+    "UNSUPPORTED: \"Kindheit auf dem Waveny-Anwesen; bei Gouvernanten aufgewachsen; kreative Mutter, strenger Vater\" (Waveny confirmed. Governesses and stern father not in the opened listing.)",
+    "UNSUPPORTED: \"Geschichten bisher kaum erzählt; Charme, trockener Witz, Ehrlichkeit; Theater New York; Weg zu Fernsehen und Film\" (Not found in the opened listing text.)",
+    "UNSUPPORTED: \"Körperloser Kopf in Wednesday; Titelrolle King Lear\" (Not found in the opened listing text.)",
+    "UNSUPPORTED: \"Rhode Island Comic Con 6.-8. November 2026; neuester Gast; Wiedersehen mit Turner und Fleischer\" (Dates and guest status confirmed. Reunion has no separate dates in the source; article implies the 6-8 November dates apply.)",
+    "UNCITED: \"\"Begonnen hat er aber als Bühnenschauspieler, lange bevor das Fernsehen ihn bekannt machte\" (opening paragraph, no tag on this sentence)\"",
+    "Prose reads machine-written",
+    "Adds no value over existing pages: Paragraph-by-paragraph translation of the English draft with the same headings. Its targetQueries (Alter, Filme, aktuell) are not used. No German-language sources.",
+    "Reviewer recommends rejection: Reject. Unsupported: Tony-type award for Morning's at Seven, five Oscars, NYSF/off-Broadway, Twenty Bucks 'soulless killer' description, memoir description phrases (governesses, stern father, Wednesday, King Lear, charm and wit), and the Roger Rabbit reunion dates. Fix those, tag the opening sentence, and rebuild from German-language sources and queries."
+  ],
+  "claims": [
+    {
+      "claim": "Geboren 22. Oktober 1938 in Stamford, Connecticut; jüngstes von sieben Kindern",
+      "sourceIds": [
+        "biography-com",
+        "tv-academy-bio",
+        "tmdb"
+      ],
+      "verdict": "confirmed",
+      "note": "Date and place confirmed; youngest of seven in Biography.com."
+    },
+    {
+      "claim": "Doc Brown aus Zurück in die Zukunft; Reverend Jim Ignatowski aus Taxi",
+      "sourceIds": [
+        "backtothefuture-cast",
+        "hachette-author"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Vater Samuel Anwalt, Mutter Ruth Sängerin; Großvater Lewis Lapham Mitbegründer von Texaco; Sommertheater mit 14; Neighborhood Playhouse mit 19 bei Meisner",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Bühnendebüt And They Put Handcuffs on the Flowers; Broadway-Debüt Red, White and Maddox",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Mehr als 200 Stücke; Obie und Drama Desk für Kaspar",
+      "sourceIds": [
+        "backtothefuture-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Vor allem New York Shakespeare Festival und Off-Broadway, gelegentlich Broadway",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "unsupported",
+      "note": "NYSF and off-Broadway not in the opened text; 'occasional Broadway roles' not found."
+    },
+    {
+      "claim": "Preisgekrönte Broadway-Inszenierung von Morning's at Seven",
+      "sourceIds": [
+        "backtothefuture-cast"
+      ],
+      "verdict": "unsupported",
+      "note": "Broadway credit listed; award not stated in opened text."
+    },
+    {
+      "claim": "Trumbo, New Yorker Produktion, Dalton Trumbo",
+      "sourceIds": [
+        "backtothefuture-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Kinodebüt 1975 als Max Taber; Film gewann fünf Oscars inkl. bester Film",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "unsupported",
+      "note": "Role/year confirmed; Oscar count not in opened text."
+    },
+    {
+      "claim": "Oberon an der Yale University, Helena von Meryl Streep gespielt (1975)",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Fünf Jahre Taxi; zwei Emmys dafür; 1982 ABC, 1983 NBC; Nominierte 1982 DeVito, Landesberg, Glass",
+      "sourceIds": [
+        "backtothefuture-cast",
+        "tv-academy-bio",
+        "tv-academy-taxi-1982"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Doc 1985, Marty McFly, Zeitreise 1955, Atomantrieb-DeLorean",
+      "sourceIds": [
+        "biography-com",
+        "backtothefuture-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Time travel and 1955 confirmed. Nuclear drive is in the cast page text."
+    },
+    {
+      "claim": "Teil II und III 1989 und 1990; Clara im Wilden Westen; Plum in Clue (1985); Klingone in Star Trek III (1984); Beanes in Amazing Stories",
+      "sourceIds": [
+        "biography-com",
+        "backtothefuture-cast"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Richter Doom 1988; Onkel Fester 1991 und 1993",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Mehr als neunzig Produktionen; Independent Spirit für Twenty Bucks; Figur als kühle Darstellung eines seelenlosen Mörders; Eight Men Out",
+      "sourceIds": [
+        "backtothefuture-cast"
+      ],
+      "verdict": "unsupported",
+      "note": "Production count, award and Eight Men Out confirmed. The 'cold portrayal of a soulless killer' description is not in the opened text."
+    },
+    {
+      "claim": "Vier Nominierungen, drei Auszeichnungen; Road to Avonlea 1992 als Alistair Dimple; Professor Dimpie bei Biography.com",
+      "sourceIds": [
+        "tv-academy-bio",
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Hacks 2024, bester Gastdarsteller Comedyserie, Larry Arbuckle, Folge The Deborah Vance Christmas Spectacular",
+      "sourceIds": [
+        "tv-academy-bio",
+        "hachette-author"
+      ],
+      "verdict": "confirmed",
+      "note": "TV Academy confirms. Drop hachette-author tag, it does not mention Hacks."
+    },
+    {
+      "claim": "Memoiren: 256 Seiten gebunden, Grand Central, 27. Oktober 2026, Vorbestellung, Termin kann sich ändern; E-Book und Hörbuch; Preise",
+      "sourceIds": [
+        "hachette-memoir"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Kindheit auf dem Waveny-Anwesen; bei Gouvernanten aufgewachsen; kreative Mutter, strenger Vater",
+      "sourceIds": [
+        "hachette-memoir"
+      ],
+      "verdict": "unsupported",
+      "note": "Waveny confirmed. Governesses and stern father not in the opened listing."
+    },
+    {
+      "claim": "Geschichten bisher kaum erzählt; Charme, trockener Witz, Ehrlichkeit; Theater New York; Weg zu Fernsehen und Film",
+      "sourceIds": [
+        "hachette-memoir"
+      ],
+      "verdict": "unsupported",
+      "note": "Not found in the opened listing text."
+    },
+    {
+      "claim": "Körperloser Kopf in Wednesday; Titelrolle King Lear",
+      "sourceIds": [
+        "hachette-memoir"
+      ],
+      "verdict": "unsupported",
+      "note": "Not found in the opened listing text."
+    },
+    {
+      "claim": "Supanova Sydney 19.-21. Juni, Perth 27.-28. Juni 2026",
+      "sourceIds": [
+        "variety-supanova-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Rhode Island Comic Con 6.-8. November 2026; neuester Gast; Wiedersehen mit Turner und Fleischer",
+      "sourceIds": [
+        "turnto10-ric-2026"
+      ],
+      "verdict": "unsupported",
+      "note": "Dates and guest status confirmed. Reunion has no separate dates in the source; article implies the 6-8 November dates apply."
+    },
+    {
+      "claim": "Foto mit Michael J. Fox, New York Comic Con, 8. Oktober 2022",
+      "sourceIds": [
+        "turnto10-ric-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    }
+  ],
+  "uncitedClaims": [
+    "\"Begonnen hat er aber als Bühnenschauspieler, lange bevor das Fernsehen ihn bekannt machte\" (opening paragraph, no tag on this sentence)"
+  ],
+  "readsHumanWritten": false,
+  "addsValue": false,
+  "valueNote": "Paragraph-by-paragraph translation of the English draft with the same headings. Its targetQueries (Alter, Filme, aktuell) are not used. No German-language sources.",
+  "decision": "reject",
+  "summary": "Reject. Unsupported: Tony-type award for Morning's at Seven, five Oscars, NYSF/off-Broadway, Twenty Bucks 'soulless killer' description, memoir description phrases (governesses, stern father, Wednesday, King Lear, charm and wit), and the Roger Rabbit reunion dates. Fix those, tag the opening sentence, and rebuild from German-language sources and queries."
+}
