@@ -18,6 +18,7 @@ import {
   liveArticle,
   liveTopics,
   personPath,
+  topicNoindex,
   topicPath,
   type Topic,
 } from "@/lib/content";
@@ -61,7 +62,7 @@ export async function generateMetadata({ params }: PageProps<"/[locale]/trending
       alternates: alternatesOf(topic),
       image: topic.data.image?.src,
       type: "article",
-      noindex: article.meta.noindex,
+      noindex: topicNoindex(locale, article),
     }),
     other: { "article:modified_time": isoDateTime(lastModified(article.meta))! },
   };
