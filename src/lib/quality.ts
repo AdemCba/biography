@@ -163,6 +163,9 @@ function checkArticle(person: Person, article: Article, store: ContentStore): Ar
 
 /** Shortest trending-topic article that still explains the story and its background. */
 export const MIN_TOPIC_WORDS = 400;
+/** Stories published from this date on must reach the longer news-feature length below (older ones keep 400). */
+export const LONG_TOPIC_SINCE = "2026-11-01";
+export const MIN_LONG_TOPIC_WORDS = 700;
 
 /** Trending topics: same sourcing, approval and style rules as biographies, sized for a news explainer. */
 function checkTopicArticle(topic: Topic, article: Article, store: ContentStore): ArticleReport {
@@ -194,9 +197,12 @@ function checkTopicArticle(topic: Topic, article: Article, store: ContentStore):
   if (topic.data.sources.length < 2) push(gate, "few-sources", "At least two sources are required");
   const minCitations = Math.max(3, Math.floor(words / 300));
   if (cited.length < minCitations) push(gate, "few-citations", `${cited.length} citations; need at least ${minCitations} for ${words} words`);
-  if (words < MIN_TOPIC_WORDS) push(gate, "too-short", `Only ${words} words; a trending-topic page needs at least ${MIN_TOPIC_WORDS}`);
+  const long = !meta.publishedAt || meta.publishedAt >= LONG_TOPIC_SINCE;
+  const minWords = long ? MIN_LONG_TOPIC_WORDS : MIN_TOPIC_WORDS;
+  if (words < minWords) push(gate, "too-short", `Only ${words} words; a trending-topic page needs at least ${minWords} words of substance (people involved, background, numbers, what comes next)`);
   const sections = (body.match(/^##\s+/gm) ?? []).length;
-  if (sections < 2) push(gate, "thin-structure", `${sections} sections; explain what happened and the background in at least 2`);
+  const minSections = long ? 3 : 2;
+  if (sections < minSections) push(gate, "thin-structure", `${sections} sections; need at least ${minSections} (what happened, background, why it matters / what comes next)`);
   if (new Set(cited.filter((id) => sourceIds.has(id))).size < 2) push(gate, "single-source", "Body must cite at least 2 distinct sources");
   if (meta.summary.split(/\s+/).length < 25) push(gate, "thin-summary", "Summary is under 25 words");
   const editorIds = new Map(store.editors.map((e) => [e.id, e]));
