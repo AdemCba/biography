@@ -17,7 +17,8 @@ export const sourceSchema = z.object({
   url: z.url(),
   title: z.string().min(2),
   publisher: z.string().min(1),
-  type: z.enum(SOURCE_TYPES),
+  // The writer sometimes invents a type ("stats", "news"); an unknown label must not break the build.
+  type: z.preprocess((v) => ((SOURCE_TYPES as readonly unknown[]).includes(v) ? v : "other"), z.enum(SOURCE_TYPES)),
   /** Date the editor last opened the source. */
   accessed: isoDate,
   /** Optional language of the source, useful when citing local-language press. */
