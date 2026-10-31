@@ -40,11 +40,15 @@ export default async function EditorPage({ params }: PageProps<"/[locale]/editor
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "ProfilePage",
-    mainEntity: { "@type": "Person", name: editor.name, jobTitle: found.t.role, url: absoluteUrl(editorPath(locale, id)), sameAs: editor.sameAs, worksFor: { "@type": "Organization", name: site.name } },
+    mainEntity: { "@type": "Person", name: editor.name, jobTitle: found.t.role, url: absoluteUrl(editorPath(locale, id)), sameAs: editor.sameAs, image: editor.image ? absoluteUrl(editor.image) : undefined, worksFor: { "@type": "Organization", name: site.name } },
   };
   return (
     <div className="mx-auto max-w-3xl py-10">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c") }} />
+      {editor.image && (
+        // eslint-disable-next-line @next/next/no-img-element
+        <img src={editor.image} alt={editor.name} width={112} height={112} className="mb-4 size-28 rounded-full object-cover" />
+      )}
       <h1 className="text-4xl font-semibold">{editor.name}</h1>
       <p className="mt-1 text-muted">{found.t.role}</p>
       <p className="mt-6 text-lg leading-relaxed">{found.t.bio}</p>
