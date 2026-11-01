@@ -21,7 +21,7 @@
       "url": "https://www.chicagofirefc.com/news/chicago-fire-fc-forward-robert-lewandowski-voted-mls-player-of-the-matchday-for-matchday-19",
       "title": "Chicago Fire FC forward Robert Lewandowski voted MLS Player of the Matchday for Matchday 19",
       "publisher": "Chicago Fire FC",
-      "type": "primary",
+      "type": "other",
       "accessed": "2026-11-01",
       "lang": "en"
     },
@@ -30,7 +30,7 @@
       "url": "https://matchcenter.chicagofirefc.com/news/a-defining-moment-in-chicago-sports-chicago-fire-fc-acquires-global-football-icon-robert-lewandowski",
       "title": "A defining moment in Chicago sports: Chicago Fire FC acquires global football icon Robert Lewandowski",
       "publisher": "Chicago Fire FC",
-      "type": "primary",
+      "type": "other",
       "accessed": "2026-11-01",
       "lang": "en"
     },
@@ -52,5 +52,12 @@
       "accessed": "2026-11-01",
       "lang": "en"
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/topics/lewandowski-chicago-colorado-2026.jpg",
+    "alt": "Robert Lewandowski scores late winner as Chicago Fire beat Colorado 4-2",
+    "credit": "Светлана Бекетова",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Robert_Lewandowski_2018,_JAP-POL_(cropped).jpg"
+  }
 }
