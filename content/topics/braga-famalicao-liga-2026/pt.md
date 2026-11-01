@@ -10,9 +10,13 @@ summary: >-
   jornada da I Liga. O Braga chega depois de três derrotas seguidas no
   campeonato e de uma eliminação na Taça da Liga. O Famalicão ocupa o 11.º
   lugar, com 10 pontos.
-status: review
+status: published
 risk: medium
+publishedAt: '2026-11-01'
+publishedTime: '2026-11-01T21:31:34.901Z'
+reviewedAt: '2026-11-01'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - braga famalicão hora
@@ -20,8 +24,6 @@ targetQueries:
   - sporting braga famalicão classificação
   - famalicão sporting braga 2026
   - braga famalicão árbitro
-publishedAt: '2026-11-01'
-publishedTime: '2026-11-01T21:29:22.085Z'
 ---
 Sporting Braga e Famalicão jogam no domingo, 1 de novembro de 2026, na 10.ª jornada da I Liga [s:rtp-braga-famalicao-2026] [s:vavel-famalicao-fixtures-2026]. O jogo está a ser procurado porque é o encontro do dia entre duas equipas que estão colocadas muito perto uma da outra na tabela. Este texto reúne o que foi confirmado sobre hora, local, classificação e forma das duas equipas, e diz o que ainda não se sabe.
 

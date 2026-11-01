@@ -10,9 +10,13 @@ summary: >-
   ventaja sobre George Russell y 124 sobre Lewis Hamilton. Sky Sports dice que
   un noveno puesto le daría el título, aunque un diario alemán habla de un
   quinto. La carrera se corre el domingo 1 de noviembre de 2026.
-status: review
+status: published
 risk: medium
+publishedAt: '2026-11-01'
+publishedTime: '2026-11-01T21:31:34.903Z'
+reviewedAt: '2026-11-01'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - kimi antonelli campeón f1
@@ -20,8 +24,6 @@ targetQueries:
   - kimi antonelli cuántos puntos
   - gp de mexico 2026 pole
   - antonelli campeón más joven f1
-publishedAt: '2026-11-01'
-publishedTime: '2026-11-01T21:29:22.087Z'
 ---
 [Kimi Antonelli](person:kimi-antonelli) puede ser campeón del mundo de Fórmula 1 en el Gran Premio de la Ciudad de México [s:unotv-antonelli-mexico-2026]. Página12 lo resumió en un titular: Antonelli "va por la definición en México" [s:pagina12-antonelli-mexico-2026]. La carrera se corre este domingo, y en las coberturas que revisamos todavía no hay resultado final.
 

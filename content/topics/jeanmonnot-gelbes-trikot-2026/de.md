@@ -10,9 +10,13 @@ summary: >-
   Interview der IBU vom 30. Oktober 2026 beschreibt sie, wie es sich anfühlt,
   das Gelbe Trikot zu tragen. Die neue Saison beginnt Ende November in
   Kontiolahti.
-status: review
+status: published
 risk: medium
+publishedAt: '2026-11-01'
+publishedTime: '2026-11-01T21:31:34.902Z'
+reviewedAt: '2026-11-01'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - lou jeanmonnot gelbes trikot
@@ -20,8 +24,6 @@ targetQueries:
   - biathlon gelbes trikot 2026
   - jeanmonnot gejagte
   - biathlon weltcup 2026/27 termine
-publishedAt: '2026-11-01'
-publishedTime: '2026-11-01T21:29:22.087Z'
 ---
 Ein Interview, das die IBU am 30. Oktober veröffentlicht hat, trägt die Zeile, mit der viele Leser die Biathletin gerade verbinden: "Es ist etwas anderes, das Gelbe Trikot zu tragen" [s:ibu-jeanmonnot-gelbes-trikot-2026]. Die Überschrift nennt Lou Jeanmonnot die Gejagte. Das Gespräch dreht sich genau darum, wie es ist, nach dem Titelgewinn vorn zu liegen und verteidigen zu müssen.
 

@@ -9,9 +9,13 @@ summary: >-
   Grêmio y Atlético Mineiro se enfrentan hoy en la ida de la semifinal de la
   Copa do Brasil, en el Arena do Grêmio. La vuelta será en Belo Horizonte, y las
   informaciones difieren sobre si se juega el 7 o el 8 de noviembre.
-status: review
+status: published
 risk: medium
+publishedAt: '2026-11-01'
+publishedTime: '2026-11-01T21:31:34.902Z'
+reviewedAt: '2026-11-01'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - grêmio vs atlético mineiro
@@ -19,8 +23,6 @@ targetQueries:
   - grêmio atlético mineiro copa do brasil semifinal
   - dónde ver grêmio atlético mineiro
   - grêmio atlético mineiro horario
-publishedAt: '2026-11-01'
-publishedTime: '2026-11-01T21:29:22.085Z'
 ---
 Hoy, domingo 1 de noviembre de 2026, Grêmio y Atlético Mineiro se enfrentan en el partido de ida de la semifinal de la Copa do Brasil. El encuentro se juega en el Arena do Grêmio, en Porto Alegre [s:abcdoabc-copa-semifinal-cbf-2026]. La semifinal se disputa en ida y vuelta, así que el partido de hoy es solo la mitad de la llave [s:tribunadejundiai-semifinal-mandos-2026].
 

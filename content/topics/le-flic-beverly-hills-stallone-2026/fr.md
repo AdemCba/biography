@@ -11,9 +11,13 @@ summary: >-
   Cineserie, Paramount a jugé le projet trop coûteux; selon Far Out, le studio a
   rejeté ses idées. Eddie Murphy a pris le rôle à quelques semaines du tournage,
   et le film a rapporté environ 316 millions de dollars dans le monde.
-status: review
+status: published
 risk: medium
+publishedAt: '2026-11-01'
+publishedTime: '2026-11-01T21:31:34.903Z'
+reviewedAt: '2026-11-01'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - le flic de beverly hills stallone
@@ -21,8 +25,6 @@ targetQueries:
   - le flic de beverly hills 6ter
   - eddie murphy axel foley casting
   - le flic de beverly hills histoire tournage
-publishedAt: '2026-11-01'
-publishedTime: '2026-11-01T21:29:22.088Z'
 ---
 Le film est programmé sur 6ter le dimanche 1er novembre 2026 à 21 h 10, avec une rediffusion le 8 novembre à 22 h 50 [s:sortiraparis-6ter-beverly-hills-cop-2026]. La chaîne programme ensuite la suite, *Beverly Hills Cop III*, le 15 novembre à 21 h 10 [s:sortiraparis-6ter-beverly-hills-cop-iii-2026]. Ces diffusions sont la seule date récente que j'ai pu confirmer. Le départ de Stallone, lui, ressort avec elles. Je n'ai trouvé aucune annonce de production récente qui expliquerait la vague de recherches.
 

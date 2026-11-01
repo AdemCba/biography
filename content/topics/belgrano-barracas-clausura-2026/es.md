@@ -9,9 +9,13 @@ summary: >-
   Belgrano y Barracas Central se enfrentan hoy por la fecha 15 de la Zona B del
   Torneo Clausura, a las 18.30 en Córdoba. Ambos llegan con 22 puntos, en la
   quinta y la sexta posición de la zona.
-status: review
+status: published
 risk: medium
+publishedAt: '2026-11-01'
+publishedTime: '2026-11-01T21:31:34.901Z'
+reviewedAt: '2026-11-01'
 author: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - belgrano vs barracas central hoy
@@ -19,8 +23,6 @@ targetQueries:
   - belgrano barracas central tv
   - belgrano barracas formaciones
   - torneo clausura 2026 fecha 15
-publishedAt: '2026-11-01'
-publishedTime: '2026-11-01T21:29:22.084Z'
 ---
 Los hinchas buscan Belgrano contra Barracas Central porque el partido se juega hoy, domingo 1 de noviembre de 2026, a las 18.30, por la fecha 15 de la Zona B del Torneo Clausura [s:afa-belgrano-barracas-fecha-15-2026] [s:lanacion-belgrano-barracas-clausura-2026]. Los dos equipos tienen 22 puntos cada uno [s:showsport-belgrano-barracas-clausura-2026]. Olé lo resume así: con los mismos puntos, el Pirata y el Guapo se cruzan en el Gigante de Alberdi, y un empate dejaría a los dos clasificados a los playoffs [s:ole-belgrano-barracas-clausura-2026].
 
