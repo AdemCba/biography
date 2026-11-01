@@ -58,6 +58,10 @@ jobs:
       - name: Write and fact-check new people (Claude Code on the owner's subscription)
         if: ${{ env.HAS_TOKEN == 'true' }}
         uses: anthropics/claude-code-action@v1
+        env:
+          # Haiku sometimes starts subagents/watchers in the background and ends its turn, which ends the run
+          # with nothing written. Turn background tasks off so every subagent runs in the foreground.
+          CLAUDE_CODE_DISABLE_BACKGROUND_TASKS: "1"
         with:
           # Repo variable WRITER_ACCOUNT picks the account: unset/1 = main token, 2 = second token
           # (CLAUDE_CODE_OAUTH_TOKEN_2) for every run, split = second token for topics-only runs only.
@@ -68,6 +72,7 @@ jobs:
             --model ${{ vars.WRITER_MODEL || 'claude-haiku-5-5' }}
             --max-turns 600
             --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebSearch,WebFetch,Task,TodoWrite"
+            --disallowedTools "Monitor"
           prompt: |
             This is an unattended run: nobody will answer questions, so never stop to ask or to confirm. Keep working
             until every step is done.
