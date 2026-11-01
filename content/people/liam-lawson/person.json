@@ -28,14 +28,6 @@
         "f1-driver-profile"
       ],
       "note": "F1 profile lists New Zealand."
-    },
-    "f1Debut": {
-      "value": "2023 Dutch Grand Prix (AlphaTauri, replacing Daniel Ricciardo)",
-      "sources": [
-        "f1-driver-profile",
-        "f1-results-2023"
-      ],
-      "note": ""
     }
   },
   "related": [],
@@ -157,5 +149,13 @@
       "accessed": "2026-11-01",
       "lang": "en"
     }
-  ]
+  ],
+  "wikidata": "Q59180330",
+  "image": {
+    "src": "/images/people/liam-lawson.jpg",
+    "alt": "Liam Lawson",
+    "credit": "Yu Chu Chin",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Liam_Lawson_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk,_Melbourne_(028A7795).jpg"
+  }
 }
