@@ -1,0 +1,91 @@
+{
+  "id": "esteban-ocon",
+  "name": "Esteban Ocon",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1996-09-17",
+      "sources": [
+        "f1-ocon-profile"
+      ],
+      "note": "Formula 1 driver profile lists date of birth 17/09/1996."
+    },
+    "birthPlace": {
+      "value": "Évreux, Normandy",
+      "sources": [
+        "f1-ocon-profile"
+      ],
+      "note": "Formula 1 driver profile."
+    },
+    "nationality": {
+      "value": [
+        "FR"
+      ],
+      "sources": [
+        "f1-ocon-profile"
+      ],
+      "note": "Formula 1 driver profile lists nationality France."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "f1-ocon-profile",
+      "url": "https://www.formula1.com/en/drivers/esteban-ocon",
+      "title": "Esteban Ocon - F1 Driver for Haas",
+      "publisher": "Formula 1",
+      "type": "official",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "f1-hungary-2021-highlights",
+      "url": "https://www.formula1.com/en/latest/article/race-highlights-lap-1-crashes-a-red-flag-and-ocons-first-win-all-the-action.1JJnDUVrCdNPPzoyuBLKOF",
+      "title": "2021 Hungarian Grand Prix highlights: Lap 1 crashes, a red flag and Ocon's first win",
+      "publisher": "Formula 1",
+      "type": "official",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "ocon-official-hungary-2021",
+      "url": "https://www.esteban-ocon.com/news/esteban-claims-maiden-formula-one-grand-prix-victory-at-the-hungaroring",
+      "title": "Esteban Claims Maiden Formula One Grand Prix Victory at the Hungaroring",
+      "publisher": "Esteban Ocon (official site)",
+      "type": "official",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "sky-hirakawa-mexico-2026",
+      "url": "https://www.skysports.com/f1/news/13606155/esteban-ocon-haas-replace-french-driver-with-ryo-hirakawa-for-remainder-of-mexico-city-gp-weekend-without-providing-reason",
+      "title": "Esteban Ocon: Haas replace French driver with Ryo Hirakawa for remainder of Mexico City GP weekend without providing reason",
+      "publisher": "Sky Sports",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "the-race-ocon-haas-breakdown",
+      "url": "https://www.the-race.com/formula-1/all-the-reasons-the-ocon-haas-relationship-fell-apart/",
+      "title": "All the reasons the Ocon-Haas relationship fell apart",
+      "publisher": "The Race",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "the-race-ocon-haas-exit-2026",
+      "url": "https://www.the-race.com/formula-1/esteban-ocon-set-for-haas-f1-exit-what-we-know-replacement-favourite/",
+      "title": "Ocon set for Haas exit as team closes on replacement",
+      "publisher": "The Race",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    }
+  ]
+}

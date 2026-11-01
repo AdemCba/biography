@@ -1,0 +1,309 @@
+{
+  "date": "2026-11-01",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Né le 5 mars 1973 à Nampula, Mozambique",
+      "sourceIds": [
+        "acmilan-appointment",
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Both state it."
+    },
+    {
+      "claim": "Mozambique colonie portugaise, indépendance 1975",
+      "sourceIds": [
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Afrique jusqu'à 14 ans, puis Barreiro près de Lisbonne",
+      "sourceIds": [
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Défenseur, il a joué à ce poste",
+      "sourceIds": [
+        "lapresse-milan-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "La Presse: 'difensore'."
+    },
+    {
+      "claim": "Barreirense 1991, 91 matchs en quatre saisons",
+      "sourceIds": [
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Porto sans match en équipe première, prêté à plusieurs reprises",
+      "sourceIds": [
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Dernier club Estrela da Amadora, retraite 2005",
+      "sourceIds": [
+        "asroma-10-things",
+        "lapresse-milan-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed across both."
+    },
+    {
+      "claim": "Début entraîneur 2005 dans les jeunes de l'Estrela da Amadora",
+      "sourceIds": [
+        "acmilan-appointment",
+        "lapresse-milan-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "AC Milan confirms."
+    },
+    {
+      "claim": "Desportivo Aves: troisième division en quarts de Coupe deux saisons, montée",
+      "sourceIds": [
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "2012 Paços troisième, tour préliminaire de la Ligue des champions",
+      "sourceIds": [
+        "asroma-10-things",
+        "acmilan-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "AS Roma confirms."
+    },
+    {
+      "claim": "Porto 2013, Supercoupe du Portugal, son premier grand trophée d'entraîneur",
+      "sourceIds": [
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "AS Roma: Portuguese Super Cup, first major trophy as a coach."
+    },
+    {
+      "claim": "La Presse: Porto le limoge en mars; saison suivante Paços huitième",
+      "sourceIds": [
+        "lapresse-milan-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Braga Coupe du Portugal, tirs au but contre Porto",
+      "sourceIds": [
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed; no year asserted."
+    },
+    {
+      "claim": "Chakhtar début 1er juin 2016",
+      "sourceIds": [
+        "shakhtar-leaves"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Trois titres, trois coupes, une supercoupe, trois doublés",
+      "sourceIds": [
+        "shakhtar-leaves"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "139 matchs, 103 victoires",
+      "sourceIds": [
+        "shakhtar-leaves",
+        "acmilan-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Série de 29 matchs de championnat sans défaite",
+      "sourceIds": [
+        "shakhtar-leaves"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Quitte le club en juin 2019",
+      "sourceIds": [
+        "shakhtar-leaves"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "AS Rome le nomme le 11 juin 2019",
+      "sourceIds": [
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Rome cinquième de Serie A; demi-finales Ligue Europa l'année suivante",
+      "sourceIds": [
+        "ligue1-article",
+        "acmilan-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "League 1 article confirms."
+    },
+    {
+      "claim": "Rome le relève de ses fonctions en mai 2021",
+      "sourceIds": [
+        "lapresse-milan-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "LOSC le recrute pour deux saisons",
+      "sourceIds": [
+        "dn-lyon-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "DN: two seasons."
+    },
+    {
+      "claim": "LOSC 5e 2022/23, 4e 2023/24",
+      "sourceIds": [
+        "dn-lyon-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Lille quarts Ligue Europa Conférence 2024",
+      "sourceIds": [
+        "ligue1-article"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "AC Milan 13 juin 2024, contrat de trois ans",
+      "sourceIds": [
+        "acmilan-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Limogé fin 2024",
+      "sourceIds": [
+        "dn-lyon-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Communiqué Milan sans déclaration de Fonseca",
+      "sourceIds": [
+        "acmilan-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "OL 31 janvier 2025 pour succéder à Pierre Sage",
+      "sourceIds": [
+        "ligue1-article",
+        "lyon-appointment-release"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Contrat jusqu'au 30 juin 2027; décision unanime John Textor et direction sportive",
+      "sourceIds": [
+        "lyon-appointment-release"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Retrouver les ambitions de l'OL",
+      "sourceIds": [
+        "ligue1-article"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Lyon sixième avec 30 points; qualifié phase suivante Ligue Europa",
+      "sourceIds": [
+        "ligue1-article"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "A Bola: accord Sporting avec Fonseca et Lyon; Rui Borges fin de contrat; pas de communiqué",
+      "sourceIds": [
+        "abola-sporting-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Adieux par message; débuts face à Moreirense, 11e journée; Tiago Fernandes face au Chakhtar",
+      "sourceIds": [
+        "abola-sporting-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Accord avec Lyon sans conditions détaillées",
+      "sourceIds": [
+        "abola-sporting-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Sept titres au Chakhtar (résumé)",
+      "sourceIds": [
+        "shakhtar-leaves"
+      ],
+      "verdict": "confirmed",
+      "note": "3+3+1=7."
+    },
+    {
+      "claim": "FAQ clubs entraînés incluent Desportivo Aves",
+      "sourceIds": [
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "AS Roma lists Aves."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline from primary club sources and the Sporting report, with the unconfirmed status of the move stated.",
+  "decision": "approve",
+  "summary": "All claims checked against fetched sources; the unsupported items were corrected to the sources' wording."
+}

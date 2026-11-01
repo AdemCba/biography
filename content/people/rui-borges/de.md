@@ -1,21 +1,22 @@
 ---
 title: Rui Borges
 slug: rui-borges
-metaTitle: 'Rui Borges: Sporting-Trainer, Vereine und Karriere'
+metaTitle: 'Rui Borges: Abschied bei Sporting, Vereine und Karriere'
 metaDescription: >-
-  Rui Borges ist Cheftrainer von Sporting CP. Seine Stationen, der Meistertitel
-  2024/25 und die 1:2-Heimniederlage gegen Académico de Viseu.
-knownFor: Cheftrainer von Sporting CP seit Dezember 2024
+  Rui Borges ist nicht mehr Cheftrainer von Sporting CP. Seine Stationen, der
+  Meistertitel 2024/25 und die Presseberichte zu seinem Nachfolger.
+knownFor: Cheftrainer von Sporting CP von Dezember 2024 bis November 2026
 summary: >-
-  Rui Borges ist Cheftrainer von Sporting CP. Der Verein verpflichtete ihn am
-  26. Dezember 2024, nachdem er Vitória de Guimarães verlassen hatte. Mit
-  Sporting gewann er die Liga Portugal 2024/25, und er wurde in dieser Saison
-  zum besten Trainer der Liga gewählt [s:abola-sporting-appointment-2024]
-  [s:lpfp-best-coach-2025].
+  Rui Borges hat am 1. November 2026 das Traineramt bei Sporting CP verlassen,
+  als der Verein Gespräche über die Auflösung seines Vertrags aufnahm. Der
+  Verein hatte ihn am 26. Dezember 2024 verpflichtet, nachdem er Vitória de
+  Guimarães verlassen hatte. Mit Sporting gewann er die Liga Portugal 2024/25,
+  und für diese Saison wurde er zum besten Trainer der Liga gewählt.
 status: published
 risk: medium
-reviewedAt: '2026-10-29'
-reviewBy: '2027-04-29'
+publishedAt: '2026-11-01'
+reviewedAt: '2026-11-01'
+reviewBy: '2027-05-01'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -23,6 +24,7 @@ targetQueries:
   - Rui Borges Trainer Sporting
   - Rui Borges Cheftrainer Sporting CP
   - Ist Rui Borges noch Trainer von Sporting
+  - Rui Borges Abschied Sporting
   - Rui Borges Trainerkarriere
   - Rui Borges Moreirense
   - Rui Borges Vitória de Guimarães
@@ -32,10 +34,16 @@ targetQueries:
 faq:
   - q: Ist Rui Borges noch Trainer von Sporting?
     a: >-
-      Ja, am 29. Oktober 2026 war er Cheftrainer, als A Bola seine öffentlichen
-      Aussagen wiedergab [s:abola-public-statement-2026]. Am 27. Oktober 2026
-      berichtete A Bola, dass seine Position gefährdet sei
-      [s:abola-contract-status-2026].
+      Nein. Sporting teilte am 1. November 2026 mit, dass Rui Borges das
+      Traineramt verlassen hat [s:eco-exit-2026]. Tiago Fernandes, Trainer der
+      zweiten Mannschaft, übernahm interimistisch [s:maisfutebol-exit-2026]
+      [s:record-exit-2026].
+  - q: Wer folgt Rui Borges bei Sporting nach?
+    a: >-
+      Sporting hat noch keinen Nachfolger benannt und kündigte an, bald einen
+      neuen Cheftrainer der ersten Mannschaft vorzustellen [s:record-exit-2026].
+      Die Presse nennt Paulo Fonseca, doch das ist keine Mitteilung des Vereins
+      [s:dn-fonseca-2026] [s:record-exit-2026].
   - q: Was hat Rui Borges als Trainer gewonnen?
     a: >-
       Mit Sporting gewann er den Titel der Liga Portugal 2024/25, den 21.
@@ -51,20 +59,29 @@ faq:
       Mirandela, Académico de Viseu, Académica, Nacional, Vilafranquense, Mafra,
       Moreirense, Vitória de Guimarães und Sporting CP
       [s:rtp-coaching-profile-2024] [s:abola-sporting-appointment-2024].
-  - q: Wie lange läuft Rui Borges' Vertrag bei Sporting?
+  - q: Wie lange lief Rui Borges' Vertrag bei Sporting?
     a: >-
       Die Quellen widersprechen sich. Die erste Meldung nannte den 30. Juni 2026
       mit Option bis 2027 [s:abola-sporting-appointment-2024], A Bola vom 27.
       Oktober 2026 nennt Juni 2028 mit Option auf ein weiteres Jahr
-      [s:abola-contract-status-2026].
+      [s:abola-contract-status-2026]. ECO nennt ebenfalls Juni 2028
+      [s:eco-exit-2026].
   - q: Hat Sporting gegen Académico de Viseu verloren?
     a: >-
       Ja. Laut A Bola vom 27. Oktober 2026 verlor Sporting zu Hause mit 1:2
       gegen Académico de Viseu [s:abola-contract-status-2026].
-autoReviews: 1
-publishedAt: '2026-10-29'
+autoReviews: 3
+publishedTime: '2026-11-01T21:38:16.090Z'
 ---
-Rui Borges lernte sein Handwerk in der zweiten portugiesischen Liga, bevor ihm Moreirense 2023 einen Job in der ersten Liga gab [s:rtp-coaching-profile-2024]. Im Dezember 2024 verpflichtete ihn Sporting [s:abola-sporting-appointment-2024], und der Verein gewann die Meisterschaft 2024/25 unter seiner Leitung [s:lpfp-best-coach-2025].
+Rui Borges begann seine Trainerlaufbahn in Mirandela und arbeitete danach mehrere Jahre in der zweiten Liga, bevor Moreirense ihm im Juli 2023 einen Job in der ersten Liga gab [s:rtp-coaching-profile-2024]. Im Dezember 2024 verpflichtete ihn Sporting [s:abola-sporting-appointment-2024], und der Verein gewann die Meisterschaft 2024/25 unter seiner Leitung [s:lpfp-best-coach-2025].
+
+## November 2026
+
+Am 1. November 2026 teilte Sporting mit, dass Rui Borges das Traineramt verlässt. Der Verein hatte sich am Nachmittag mit ihm getroffen, und in der Mitteilung hieß es, die Gespräche zielten auf die Beendigung seines Arbeitsvertrags [s:maisfutebol-exit-2026]. Sporting kündigte an, bald einen neuen Cheftrainer für die erste Mannschaft vorzustellen [s:record-exit-2026]. Tiago Fernandes, Trainer der zweiten Mannschaft, übernahm sofort als Interimstrainer [s:maisfutebol-exit-2026] [s:record-exit-2026].
+
+ECO nennt als Vertragsende Juni 2028 [s:eco-exit-2026]. Der DN schreibt, der Vertrag sei im Mai verlängert worden, angeblich bis 2028, und nennt Kritik der Fans und einen zeitweiligen Rückstand von neun Punkten auf den FC Porto [s:dn-fonseca-2026].
+
+Als Nachfolger nennt die Presse Paulo Fonseca. Der DN schreibt, dass alles darauf hindeute, dass er Borges ablöst [s:dn-fonseca-2026]. Record meldet eine Einigung des Vereins mit ihm [s:record-exit-2026]. Das sind Presseberichte. In der Mitteilung des Vereins wird kein Nachfolger genannt [s:maisfutebol-exit-2026].
 
 ## Von Mirandela in die zweite Liga
 
@@ -74,17 +91,17 @@ Bei der Académica wurde er 2020/21 Vierter, und damit so gut wie die beste Sais
 
 ## Moreirense und Vitória de Guimarães
 
-Borges kam im Juli 2023 zu Moreirense, als der Klub in der ersten Liga spielte [s:rtp-coaching-profile-2024]. In der Saison 2023/24 holte das Team 55 Punkte aus 34 Spielen und wurde Sechster, was dem sechsten Platz von 2018/19 entsprach [s:rtp-coaching-profile-2024]. 16 Spieltage lang kassierte die Mannschaft kein Gegentor, die längste Serie der Liga, gleichauf mit dem Meister Sporting und dem Vizemeister Benfica [s:rtp-coaching-profile-2024]. Borges hatte schon 2007/08 und 2008/09 für Moreirense gespielt und verlängerte seinen Vertrag dort bis 2026 [s:rtp-coaching-profile-2024].
+Borges kam im Juli 2023 zu Moreirense, als der Klub in der ersten Liga spielte [s:rtp-coaching-profile-2024]. In der Saison 2023/24 holte das Team 55 Punkte aus 34 Spielen und wurde Sechster, was dem sechsten Platz von 2018/19 entsprach [s:rtp-coaching-profile-2024]. 16 Spieltage lang kassierte die Mannschaft kein Gegentor, die längste Serie der Liga in jener Saison [s:rtp-coaching-profile-2024]. Borges hatte schon 2007/08 und 2008/09 für Moreirense gespielt und verlängerte seinen Vertrag dort bis 2026 [s:rtp-coaching-profile-2024].
 
 Vitória de Guimarães stellte ihn am 28. Mai 2024 als Trainer vor [s:rtp-coaching-profile-2024]. In der Saison 2024/25 stand der Klub mit 23 Punkten nach 15 Spieltagen auf dem sechsten Platz [s:rtp-coaching-profile-2024]. Unter ihm stellte Vitória einen portugiesischen Rekord von neun Siegen in Folge im UEFA-Wettbewerb auf [s:rtp-coaching-profile-2024]. Im Dezember 2024 verließ er den Klub, als Sporting ihn verpflichtete [s:abola-sporting-appointment-2024]. Der Klub aus Guimarães bestätigte damals seinen Weggang [s:abola-sporting-appointment-2024].
 
 ## Bei Sporting und der Meisterschaft 2024/25
 
-Sporting verpflichtete Borges am 26. Dezember 2024 als Nachfolger von João Pereira [s:abola-sporting-appointment-2024]. Pereira hatte übernommen, nachdem Rúben Amorim zu Manchester United gewechselt war, und seine Zeit dauerte etwa einen Monat [s:rtp-coaching-profile-2024]. Der Klub zahlte dafür 4.100.000 Euro an Vitória SC [s:abola-sporting-appointment-2024]. Laut der ersten Meldung lief der Vertrag bis zum 30. Juni 2026, mit einer Option bis zum 30. Juni 2027 [s:abola-sporting-appointment-2024].
+Sporting verpflichtete Borges am 26. Dezember 2024 [s:abola-sporting-appointment-2024] als Nachfolger von João Pereira [s:lpfp-best-coach-2025]. Pereira hatte übernommen, nachdem Rúben Amorim zu Manchester United gewechselt war, und seine Zeit dauerte etwa einen Monat [s:rtp-coaching-profile-2024]. Der Klub zahlte dafür 4.100.000 Euro an Vitória SC [s:abola-sporting-appointment-2024]. Laut der ersten Meldung lief der Vertrag bis zum 30. Juni 2026, mit einer Option bis zum 30. Juni 2027 [s:abola-sporting-appointment-2024].
 
 Sporting gewann die Liga Portugal 2024/25, den 21. Meistertitel des Vereins [s:lpfp-best-coach-2025]. Die Trainer und Kapitäne der 18 Klubs der Liga wählten Borges zum besten Trainer der Saison, und er nahm die Auszeichnung bei der Gala der Liga Portugal entgegen, die im Hauptquartier der Liga in Porto stattfand [s:lpfp-best-coach-2025].
 
-Die Quellen widersprechen sich bei der aktuellen Vertragslaufzeit. Laut A Bola vom 27. Oktober 2026 läuft der Vertrag bis Juni 2028, mit der Option auf ein weiteres Jahr [s:abola-contract-status-2026]. Die frühere Meldung nannte 2026 und 2027 [s:abola-sporting-appointment-2024], deshalb ist das Datum hier nicht abschließend geklärt.
+Die Quellen widersprechen sich bei der Vertragslaufzeit. Laut A Bola vom 27. Oktober 2026 läuft der Vertrag bis Juni 2028, mit der Option auf ein weiteres Jahr [s:abola-contract-status-2026], und ECO nennt dasselbe Datum [s:eco-exit-2026]. Die frühere Meldung nannte 2026 und 2027 [s:abola-sporting-appointment-2024].
 
 ## Die Lage im Oktober 2026
 

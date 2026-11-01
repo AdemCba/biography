@@ -1,11 +1,10 @@
 ---
 title: Vicky López
 slug: vicky-lopez
-metaTitle: 'Vicky López is {age}: back-to-back Kopa Trophy winner'
+metaTitle: 'Vicky López is {age}: how she won two Kopa Trophies'
 metaDescription: >-
-  Vicky López is {age}, born 26 July 2006. The Barcelona midfielder won the
-  women's Kopa Trophy again on 26 October 2026, after the award's first edition
-  in 2025.
+  Vicky López is {age}, born 26 July 2006. She signed for Barcelona on her 16th
+  birthday and won the women's Kopa Trophy again in London on 26 October 2026.
 knownFor: 'Midfielder for FC Barcelona and Spain, two-time women''s Kopa Trophy winner'
 summary: >-
   Vicky López is the FC Barcelona midfielder who won the women's Kopa Trophy for
@@ -13,10 +12,9 @@ summary: >-
   Madrid on 26 July 2006 and made her Spain debut at 17.
 status: published
 risk: medium
-publishedAt: '2026-10-28'
-updatedAt: '2026-11-01'
-reviewedAt: '2026-10-28'
-reviewBy: '2027-04-28'
+publishedAt: '2026-11-01'
+reviewedAt: '2026-11-01'
+reviewBy: '2027-05-01'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -30,10 +28,10 @@ targetQueries:
   - Vicky López debut Spain
   - Vicky López birthday
   - How old is Vicky López
-  - Vickey López age
-  - How old is Vickey López
   - Age Vicky López
-  - How old is Vicky Looez
+  - Vicky Lopez age
+  - Vicky Lopez birthday
+  - How old is Vicky Lopez
 faq:
   - q: How old is Vicky López?
     a: >-
@@ -47,22 +45,6 @@ faq:
     a: >-
       Her birthday is 26 July. The FC Barcelona profile gives her birth date as
       26 July 2006 [s:fcb-profile-es].
-  - q: How old is Vickey López?
-    a: >-
-      She is 20. She was born on 26 July 2006 [s:fcb-profile-es]
-      [s:fcb-joins-2022].
-  - q: Vickey López age
-    a: >-
-      She is 20 years old. She was born on 26 July 2006 [s:fcb-profile-es]
-      [s:fcb-joins-2022].
-  - q: Age Vicky López
-    a: >-
-      She is 20 years old. She was born on 26 July 2006 [s:fcb-profile-es]
-      [s:fcb-joins-2022].
-  - q: How old is Vicky Looez?
-    a: >-
-      She is 20. She was born on 26 July 2006 [s:fcb-profile-es]
-      [s:fcb-joins-2022].
   - q: Did Vicky López win the Kopa Trophy in 2026?
     a: >-
       Yes. She received the women's Kopa Trophy in London on 26 October 2026,
@@ -76,90 +58,47 @@ faq:
       Liga F's league table lists 10 goals and nine assists in 28 matches
       [s:ligaf-player-2026]. Just Women's Sports reports 12 goals and 13 assists
       in 45 matches over the season [s:justwomenssports-kopa-2026].
-flag: Rejected by the fact-check 4 times; needs a human editor.
-reviewNotes: >-
-  UNSUPPORTED: "Nationality ES (facts.nationality)" (The FCB profile, as
-  fetched, does not state nationality; it only shows her playing for Spain's
-  national teams. The JWS article fetched does not describe her nationality.
-  Fix: either cite a source that states citizenship, or drop the nationality
-  field and state only that she is a Spain international, citing the
-  national-team sources.) | UNSUPPORTED: "EFE reports she is the only player to
-  have won the award in both editions held so far" (EFE says she is 'la
-  dominadora de este premio, al haberlo ganado en las dos ediciones', which
-  implies but does not state that she is the only winner. Fix: 'EFE reports that
-  she has won the award in both editions held so far.') | UNSUPPORTED: "'She
-  said she was nervous' (body)" (The article describes her nerves; the fetched
-  text has no quote where she says she was nervous. Fix: 'The article says she
-  was nervous' or drop the sentence.) | UNSUPPORTED: "2026/27 entry shows four
-  matches and two goals 'as of 28 October 2026'" (Figures match (4 matches, 2
-  goals), but the table shows no as-of date. Fix: drop 'as of 28 October 2026'
-  or say the figure is the page's figure when it was accessed.) | WRONG: "FCB
-  profile lists 45 matches and 12 goals for a second first-team season it does
-  not name" (The profile text as fetched puts 45 matches and 12 goals under
-  2025/26. The claim that the season is unnamed is therefore wrong. Fix: state
-  that the club profile gives 45 matches and 12 goals for 2025/26, against 28
-  matches and 10 goals in Liga F's table and 45 and 12 in JWS. The profile's
-  season labels are inconsistent in the fetched text, so a human should check
-  the live page.) | UNCITED: "The FAQ misspelled queries ('Vickey López', 'Vicky
-  Looez') are included as target queries, but the brief gives no Search Console
-  or query data to show that people search them. Fix: back them with query data
-  or drop them." | Prose reads machine-written | Reviewer recommends rejection:
-  Reject. The core facts hold up: birth date and place, age 20, the
-  16th-birthday signing, the 26 Oct 2026 London Kopa Trophy with Lucy Bronze
-  presenting, the second win, the 2024 Spain debut (3-0, 17 years old) and the
-  Liga F season table are all confirmed. Fixes needed: (1) the nationality 'ES'
-  is unsupported by the cited sources; (2) 'EFE reports she is the only player
-  to have won both editions' overstates EFE, which only implies it; (3) 'She
-  said she was nervous' is not a quote from her; (4) the '2026/27 as of 28
-  October 2026' date is not in the Liga F table; (5) the claim that the FCB
-  profile lists 45 matches and 12 goals for an unnamed season is wrong, because
-  the profile puts that figure under 2025/26; (6) the Champions League sentence
-  contradicts itself ('lists two' then 'gives no figure'); (7) the 'began in
-  2025' claim conflicts with JWS saying the women's category launched two years
-  ago, and the sources should both be cited; (8) the FAQ misspelled queries have
-  no query-data basis in the brief.
-autoReviews: 4
+autoReviews: 7
+publishedTime: '2026-11-01T21:38:16.092Z'
 ---
-On 26 October 2026 Vicky López received the women's Kopa Trophy in London from Lucy Bronze, a former Barcelona player, and it was her second win in a row [s:efe-kopa-2026] [s:vanguard-kopa-2026]. EFE reports that she is the only player to have won the award in both editions held so far [s:efe-kopa-2026].
+On 26 October 2026 Vicky López received the women's Kopa Trophy in London from Lucy Bronze, a former Barcelona player. It was her second win in a row [s:efe-kopa-2026] [s:vanguard-kopa-2026]. The two editions held so far are both hers, as EFE records [s:efe-kopa-2026].
 
 ## How old is Vicky López?
 
-Vicky López is 20 years old, born on 26 July 2006 in Madrid [s:fcb-profile-es] [s:fcb-joins-2022]. Her club's signing announcement, dated 26 July 2022, says she joined Barcelona on her 16th birthday, which fits that date [s:fcb-joins-2022]. Just Women's Sports says she won the award "days after turning 20" [s:justwomenssports-kopa-2026]. That does not match the award date, since she turned 20 in July 2026 and the award came in October, so this page uses the club's date and no other birth date appears in its sources [s:justwomenssports-kopa-2026] [s:fcb-profile-es].
+Vicky López turned 20 in July 2026. She was born in Madrid on 26 July 2006 [s:fcb-profile-es] [s:fcb-joins-2022], and the club's signing announcement, dated 26 July 2022, fits that date by describing the move as coming on her 16th birthday [s:fcb-joins-2022]. Just Women's Sports describes her as "days after turning 20" when she won the award [s:justwomenssports-kopa-2026]. That wording cannot refer to October, when the award was given, so this page relies on the club's date. No other birth date appears in its sources [s:justwomenssports-kopa-2026] [s:fcb-profile-es].
 
 ## Signing for Barcelona on her 16th birthday
 
-Barcelona signed her on 26 July 2022, her 16th birthday, on a five-season contract [s:fcb-joins-2022]. Before that she had made her Primera Iberdrola debut for Madrid CFF at 15 years and two months, the youngest player ever to debut in the league [s:fcb-joins-2022]. The club's announcement also called her one of the standout players at the recent U17 European Championship, where Spain finished runners-up [s:fcb-joins-2022].
+On her 16th birthday, 26 July 2022, Barcelona signed her to a five-season contract [s:fcb-joins-2022]. She had already debuted for Madrid CFF in the Primera Iberdrola at 15 years and two months, the youngest player ever to debut in the league [s:fcb-joins-2022]. The club's announcement singled her out as one of the standout players at the recent U17 European Championship, where Spain finished runners-up [s:fcb-joins-2022].
 
-At Barcelona she was registered with the reserve team but trained with the senior squad under Jonatan Giráldez at Sant Joan Despí [s:fcb-joins-2022]. She also lived and studied at La Masia, the club's academy [s:fcb-joins-2022].
+She was registered with the reserve team but trained with the senior squad under Jonatan Giráldez at Sant Joan Despí. She lived and studied at La Masia, the club's academy [s:fcb-joins-2022].
 
 ## Her first-team minutes and Liga F numbers
 
-The club profile says she debuted with the first team in 2022/23, when she played 13 matches [s:fcb-profile-es]. Liga F's league table lists 10 league matches and two goals for that season [s:ligaf-player-2026]. The same table gives eight league matches for Madrid CFF in 2021/22, with no goals [s:ligaf-player-2026].
+The club profile credits her with 13 matches in 2022/23 [s:fcb-profile-es], while Liga F's league table counts 10 league matches and two goals for that season [s:ligaf-player-2026]. That same table lists eight league matches for Madrid CFF in 2021/22, without a goal [s:ligaf-player-2026].
 
-The table then shows 23 matches and nine goals in 2023/24, 25 matches and 10 goals in 2024/25, and 28 matches, 10 goals and nine assists in 2025/26 [s:ligaf-player-2026]. Its 2026/27 entry, as of 28 October 2026, shows four matches and two goals so far [s:ligaf-player-2026].
+Later seasons follow in the table: 23 matches and nine goals in 2023/24, 25 matches and 10 goals in 2024/25, and 28 matches with 10 goals and nine assists in 2025/26 [s:ligaf-player-2026]. The 2026/27 row shows four matches and two goals [s:ligaf-player-2026].
 
-Just Women's Sports gives a larger 2025/26 figure of 45 matches, 12 goals and 13 assists [s:justwomenssports-kopa-2026]. The club profile lists 45 matches and 12 goals for a second first-team season it does not name [s:fcb-profile-es]. It is not stated which competitions that figure covers, so this page uses the league table for season totals.
+The 2025/26 figure is higher elsewhere. Just Women's Sports has 45 matches, 12 goals and 13 assists [s:justwomenssports-kopa-2026], and the club profile matches the 45 matches and 12 goals [s:fcb-profile-es]. Neither says which competitions that covers, so for season totals this page sticks with the league table.
 
 ## Titles with Barcelona and Spain
 
-The club profile lists four Liga F titles, one for each season from 2022/23 to 2025/26, three Copa de la Reina and four Supercopa de España [s:fcb-profile-es]. The same profile lists two Champions League titles but names three seasons for them, 2022/23, 2023/24 and 2025/26, so this page gives no figure for them [s:fcb-profile-es].
-
-Her national-team honours in that profile are the 2022 FIFA U-17 World Cup, where she also won the Golden Ball, and the 2024 UEFA Women's Nations League [s:fcb-profile-es]. The profile also places her in Spain's squad at the 2024 Paris Olympics, where Spain finished fourth [s:fcb-profile-es], and lists a Golden Girl award for 2024 [s:fcb-profile-es].
+The club profile records four Liga F titles, one for each season from 2022/23 to 2025/26, plus three Copa de la Reina and four Supercopa de España [s:fcb-profile-es]. For Spain it lists the 2022 FIFA U-17 World Cup, where she also took the Golden Ball, and the 2024 UEFA Women's Nations League [s:fcb-profile-es]. A 2024 Golden Girl award also appears there [s:fcb-profile-es].
 
 ## A call-up while studying
 
-She learned she had been called up while she was studying for an exam [s:soccerway-callup-2024]. It was her first call-up to the senior team, for the UEFA Women's Nations League final four, after playing until then in the youth categories [s:soccerway-callup-2024]. She said she was nervous. “Era mi primera vez con algunas de ellas, pero el entrenamiento ha ido bien y estoy muy feliz de estar aquí”, which means it was her first time with some of them, but training had gone well and she was very happy to be there [s:soccerway-callup-2024].
+The news reached her while she was studying for an exam [s:soccerway-callup-2024]. It was her first senior call-up, for the UEFA Women's Nations League final four, after playing until then in youth categories [s:soccerway-callup-2024]. She was open about the nerves: “Estaba un poquito nerviosa. Era mi primera vez con algunas de ellas, pero el entrenamiento ha ido bien.” In English, roughly: she was a little nervous, it was her first time with some of them, but training had gone well [s:soccerway-callup-2024].
 
 ## A Spain debut at 17
 
-Vicky López made her senior debut for Spain on 23 February 2024, in the Nations League semi-final against the Netherlands [s:eldesmarque-debut-2024]. Spain won 3-0. Jenni Hermoso and Aitana Bonmatí scored in the first half and Ona Batlle in the second [s:soccerway-debut-2024].
+Her senior debut came on 23 February 2024, in the Nations League semi-final against the Netherlands [s:eldesmarque-debut-2024]. Spain won 3-0, with goals from Jenni Hermoso and Aitana Bonmatí before the break and Ona Batlle after it [s:soccerway-debut-2024].
 
-She came on for Jenni Hermoso with a little over a quarter of an hour left, and the third goal came four minutes after she entered [s:soccerway-debut-2024]. Coach Montse Tomé had asked her for more of the ball and a calmer tempo [s:soccerway-debut-2024]. At 17 she was, according to El Desmarque, the youngest player to make a senior debut for Spain [s:eldesmarque-debut-2024]. She said: “Soy vergonzosa. No me gustan estas cosas, pero agradezco el apoyo”, meaning she is shy, does not like such attention, but appreciated the support [s:soccerway-debut-2024].
+She replaced Jenni Hermoso with a little over a quarter of an hour to play, and the third goal arrived four minutes after she came on [s:soccerway-debut-2024]. Asked what Coach Montse Tomé wanted from her, she said it was more of the ball and a calmer game [s:soccerway-debut-2024]. At 17, El Desmarque reported, she was the youngest player to make a senior debut for Spain [s:eldesmarque-debut-2024]. Attention made her uneasy: “Soy vergonzosa. No me gustan estas cosas, pero agradezco el apoyo” (she is shy, does not like this kind of thing, but appreciates the support) [s:soccerway-debut-2024].
 
 ## A midfielder who can play wide
 
-The club lists her as a midfielder who can also play as an attacking midfielder or on the wing [s:fcb-profile-es]. She wears the number 19 [s:fcb-profile-es].
+The club lists her as a midfielder who can also operate as an attacking midfielder or on the wing, and she wears the number 19 [s:fcb-profile-es].
 
 ## Two Kopa Trophies
 
-The women's Young Talent award began in 2025, and Vicky López won its first edition [s:vanguard-kopa-2026] [s:fcb-profile-es]. Just Women's Sports says she has won every edition since the women's category was created [s:justwomenssports-kopa-2026]. EFE describes the trophy as the award for the best under-21 player in the world [s:efe-kopa-2026]. The second came in London on 26 October 2026 [s:efe-kopa-2026].
+The women's Young Talent award began in 2025, and Vanguard notes that she won that inaugural edition [s:vanguard-kopa-2026]. Her club's profile lists the 2025 Kopa Trophy among her honours [s:fcb-profile-es]. Just Women's Sports goes further, saying she has won every edition since the women's category launched two years ago [s:justwomenssports-kopa-2026]. The trophy itself rewards the best under-21 player in the world, EFE explains [s:efe-kopa-2026]. The second one was handed over in London on 26 October 2026 [s:efe-kopa-2026].

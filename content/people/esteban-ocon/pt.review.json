@@ -1,0 +1,177 @@
+{
+  "date": "2026-11-01",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Nascido em 17 de setembro de 1996 em Évreux, Normandia; nacionalidade francesa",
+      "sourceIds": [
+        "f1-ocon-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 profile: 17/09/1996, Évreux, Normandy, France."
+    },
+    {
+      "claim": "Vitória no GP da Hungria de 2021 pela Alpine em 1º de agosto de 2021; primeira vitória; 'shock maiden winner'; primeira vitória da marca Alpine",
+      "sourceIds": [
+        "ocon-official-hungary-2021",
+        "f1-hungary-2021-highlights"
+      ],
+      "verdict": "confirmed",
+      "note": "Official site dates the win August 1, 2021; F1 says 'a shock maiden winner'."
+    },
+    {
+      "claim": "Segurou Sebastian Vettel (Aston Martin); batidas na primeira volta e bandeira vermelha; parada de Alonso ajudou o companheiro",
+      "sourceIds": [
+        "f1-hungary-2021-highlights"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 article supports all three."
+    },
+    {
+      "claim": "Uma vitória, quatro pódios e 490 pontos em 198 Grandes Prêmios",
+      "sourceIds": [
+        "f1-ocon-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 profile."
+    },
+    {
+      "claim": "Trajetória: Manor (Bélgica 2016), Force India, reserva da Mercedes, Renault, Alpine, Haas",
+      "sourceIds": [
+        "f1-ocon-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 biography lists the teams in this order."
+    },
+    {
+      "claim": "Cinco temporadas na Renault e na Alpine antes da Haas; entrou na Haas em 2025 com Ollie Bearman",
+      "sourceIds": [
+        "the-race-ocon-haas-exit-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "The Race exit article."
+    },
+    {
+      "claim": "A Haas tinha uma opção para 2027 e não a ativou; Komatsu disse que era pouco provável que ele ficasse; 'não um você está fora definitivo'",
+      "sourceIds": [
+        "the-race-ocon-haas-breakdown"
+      ],
+      "verdict": "confirmed",
+      "note": "The Race breakdown."
+    },
+    {
+      "claim": "Bearman superou Ocon em pontos nas duas temporadas; a equipe viu defensividade e combatividade excessiva; ajustes em 'beco sem saída'",
+      "sourceIds": [
+        "the-race-ocon-haas-breakdown"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the fetched text."
+    },
+    {
+      "claim": "Ocon disse 'definitivamente livre para o ano que vem'",
+      "sourceIds": [
+        "the-race-ocon-haas-exit-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote matches."
+    },
+    {
+      "claim": "Ocon disse 'vamos ver', 'estamos todos na mesma página', 'sabemos que isso vem sendo um problema constante', 'é tranquilizador...'",
+      "sourceIds": [
+        "the-race-ocon-haas-exit-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes match."
+    },
+    {
+      "claim": "Haas confirmou que Ocon sai ao fim da temporada; Camara contratado como substituto",
+      "sourceIds": [
+        "sky-hirakawa-mexico-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky Sports."
+    },
+    {
+      "claim": "Camara respaldado pela Ferrari, era o favorito; Haas impressionada com seu ritmo em Portimão; Komatsu: 'as afiliações ou os pacotes'",
+      "sourceIds": [
+        "the-race-ocon-haas-breakdown",
+        "the-race-ocon-haas-exit-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "The Race describes Camara as Ferrari-backed and the favourite; the rest matches."
+    },
+    {
+      "claim": "Bearman: 'realmente desafiador'; Ocon criticou o carro, sobretudo os freios, em 2025",
+      "sourceIds": [
+        "the-race-ocon-haas-breakdown"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Rádio 'não faça isso comigo' a Laura Mueller; pneus macios, troca para médios após marcas de Bearman",
+      "sourceIds": [
+        "sky-hirakawa-mexico-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky Sports."
+    },
+    {
+      "claim": "Hirakawa 15º na primeira sessão de sexta; estreia na classificação e na corrida de 71 voltas",
+      "sourceIds": [
+        "sky-hirakawa-mexico-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky Sports."
+    },
+    {
+      "claim": "Komatsu: não podia falar muito, Ocon não estava doente; citações de Croft e Chadwick",
+      "sourceIds": [
+        "sky-hirakawa-mexico-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes match."
+    },
+    {
+      "claim": "Ryo Hirakawa assumiu o carro de Ocon no resto do fim de semana (body and summary)",
+      "sourceIds": [
+        "sky-hirakawa-mexico-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky: Haas replaced Ocon with Hirakawa for the rest of the weekend."
+    },
+    {
+      "claim": "Resumo: a Haas o substituiu no restante do fim de semana no México; ele deixará a equipe ao fim da temporada",
+      "sourceIds": [
+        "sky-hirakawa-mexico-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky Sports."
+    },
+    {
+      "claim": "FAQ: Haas confirmou que Ocon deixa a equipe ao fim desta temporada e contratou Rafael Camara como substituto",
+      "sourceIds": [
+        "sky-hirakawa-mexico-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky Sports."
+    },
+    {
+      "claim": "Os motivos publicados vêm da The Race e da Sky Sports",
+      "sourceIds": [
+        "the-race-ocon-haas-breakdown",
+        "sky-hirakawa-mexico-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources are cited for the reasons reported."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Timeline of the Haas years and the Mexico City weekend adds context the top results lack. Claims corrected to the sources; a stray Spanish phrase was fixed.",
+  "decision": "approve",
+  "summary": "All claims now match the fetched sources after removing the unnamed-sources attribution, the Camara F2 title and protege status, the Ferrari-decisive sentence, 'conversava com outras equipes' and the September date, the reserve-driver description, the October 2026 date and 'para 2027'."
+}

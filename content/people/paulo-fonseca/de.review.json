@@ -1,0 +1,334 @@
+{
+  "date": "2026-11-01",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "A Bola reported 1 Nov 2026 that Sporting reached agreement with Fonseca and Lyon; Rui Borges agreed with the board to end his contract",
+      "sourceIds": [
+        "abola-sporting-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Lead paragraph: agreement with Lyon and Fonseca; Borges agreed termination with SAD administration."
+    },
+    {
+      "claim": "Not an official club announcement; A Bola relies on its own information",
+      "sourceIds": [
+        "abola-sporting-report"
+      ],
+      "verdict": "confirmed",
+      "note": "No club statement in article; A BOLA's own sourcing."
+    },
+    {
+      "claim": "Fonseca already said goodbye to Lyon squad by message",
+      "sourceIds": [
+        "abola-sporting-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Goodbye by message to the group."
+    },
+    {
+      "claim": "First match at home vs Moreirense next Saturday, matchday 11",
+      "sourceIds": [
+        "abola-sporting-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Debut expected at home to Moreirense."
+    },
+    {
+      "claim": "Tiago Fernandes, who coaches Sporting's B team, expected to lead side vs Shakhtar Donetsk",
+      "sourceIds": [
+        "abola-sporting-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Until now on the B team; will lead the side in London vs the Ukrainians (Shakhtar)."
+    },
+    {
+      "claim": "Lyon agreement described as reached, no terms",
+      "sourceIds": [
+        "abola-sporting-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Born 5 March 1973 in Nampula, Mozambique",
+      "sourceIds": [
+        "acmilan-appointment",
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Both pages."
+    },
+    {
+      "claim": "Mozambique a Portuguese colony, independence 1975",
+      "sourceIds": [
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Independence 1975."
+    },
+    {
+      "claim": "Lived in Africa until 14, then Barreiro near Lisbon",
+      "sourceIds": [
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Moved at 14."
+    },
+    {
+      "claim": "Played as defender",
+      "sourceIds": [
+        "lapresse-milan-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Ruolo: difensore."
+    },
+    {
+      "claim": "Barreirense 1991, 91 matches in four seasons",
+      "sourceIds": [
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Porto move, no first-team appearance, several loans",
+      "sourceIds": [
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Never a first-team appearance; loaned out multiple times."
+    },
+    {
+      "claim": "Last player club Estrela da Amadora, career ended 2005",
+      "sourceIds": [
+        "asroma-10-things",
+        "lapresse-milan-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Coaching began 2005 in Estrela da Amadora youth",
+      "sourceIds": [
+        "acmilan-appointment",
+        "lapresse-milan-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Youth team."
+    },
+    {
+      "claim": "Desportivo Aves: Cup quarter-finals in two successive seasons and promotion to second division",
+      "sourceIds": [
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Successive seasons; promotion. No exact dates."
+    },
+    {
+      "claim": "2012 Paços de Ferreira third place, Champions League play-off",
+      "sourceIds": [
+        "asroma-10-things",
+        "acmilan-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "2013 Porto, Supercup, first major trophy as coach",
+      "sourceIds": [
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "2013 Supertaca."
+    },
+    {
+      "claim": "Porto dismissed him in March; back at Paços, eighth place",
+      "sourceIds": [
+        "lapresse-milan-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Braga Portuguese Cup, penalties vs Porto in the final",
+      "sourceIds": [
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Shakhtar start 1 June 2016 per club",
+      "sourceIds": [
+        "shakhtar-leaves"
+      ],
+      "verdict": "confirmed",
+      "note": "June 1st, 2016."
+    },
+    {
+      "claim": "Three Ukrainian titles, three Ukrainian Cups, one Super Cup, three doubles",
+      "sourceIds": [
+        "shakhtar-leaves"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "139 matches, 103 wins at Shakhtar",
+      "sourceIds": [
+        "shakhtar-leaves",
+        "acmilan-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources."
+    },
+    {
+      "claim": "Unbeaten run of 29 league games",
+      "sourceIds": [
+        "shakhtar-leaves"
+      ],
+      "verdict": "confirmed",
+      "note": "29 league games."
+    },
+    {
+      "claim": "Club page calls him one of the most successful coaches in club history; club won every cup meeting under him (new sentence)",
+      "sourceIds": [
+        "shakhtar-leaves"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed in fetched page."
+    },
+    {
+      "claim": "Left Shakhtar June 2019",
+      "sourceIds": [
+        "shakhtar-leaves"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated 11 June 2019, 'Paulo Fonseca leaves Shakhtar'."
+    },
+    {
+      "claim": "AC Milan 2024 gives seven trophies and 103 wins in 139 matches",
+      "sourceIds": [
+        "acmilan-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "AS Roma appointed him 11 June 2019",
+      "sourceIds": [
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Dated 11 June 2019."
+    },
+    {
+      "claim": "Roma fifth in Serie A in first season, Europa League semi-final next season",
+      "sourceIds": [
+        "ligue1-article",
+        "acmilan-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Roma tenure June 2019 to May 2021; dismissed May 2021",
+      "sourceIds": [
+        "asroma-10-things",
+        "lapresse-milan-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Sacked May 2021."
+    },
+    {
+      "claim": "Lille hired him for two seasons",
+      "sourceIds": [
+        "dn-lyon-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "Two seasons per DN; ligue1 article is internally inconsistent (three years vs two) and is not relied on for this."
+    },
+    {
+      "claim": "Lille fifth in Ligue 1 in 2022/23, fourth in 2023/24",
+      "sourceIds": [
+        "dn-lyon-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "2024 Lille quarter-final Conference League",
+      "sourceIds": [
+        "ligue1-article"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "AC Milan announced 13 June 2024, three-year contract",
+      "sourceIds": [
+        "acmilan-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Dismissed end of 2024",
+      "sourceIds": [
+        "dn-lyon-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "Late 2024."
+    },
+    {
+      "claim": "Milan announcement contains no words from Fonseca, only club welcome to him and staff",
+      "sourceIds": [
+        "acmilan-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "Re-checked: no direct quote from Fonseca."
+    },
+    {
+      "claim": "Lyon appointed him 31 January 2025 as successor to Pierre Sage",
+      "sourceIds": [
+        "ligue1-article",
+        "lyon-appointment-release"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Contract to 30 June 2027; decision unanimous by John Textor and sporting management",
+      "sourceIds": [
+        "lyon-appointment-release"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Lyon presented hiring as part of restoring ambition",
+      "sourceIds": [
+        "ligue1-article"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Lyon sixth with 30 points, already qualified for next Europa League phase",
+      "sourceIds": [
+        "ligue1-article"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Separates the unconfirmed A Bola report from official club statements, gives a dated timeline across clubs, and cites primary club and filing sources.",
+  "decision": "approve",
+  "summary": "All checked claims confirmed against fetched sources, including the new Shakhtar sentence. Frontmatter is backed by the body."
+}

@@ -1,25 +1,28 @@
 ---
 title: Kimi Antonelli
 slug: kimi-antonelli
-metaTitle: 'Kimi Antonelli: age, wins and the 2026 F1 title race'
+metaTitle: 'Kimi Antonelli: age, wins and the Mexico City title chance'
 metaDescription: >-
   Kimi Antonelli's age, Bologna roots, karting start and Mercedes career, and
-  the Austin win that put him close to the 2026 Formula 1 title.
+  the Mexico City Grand Prix, which could give him the 2026 Formula 1 title.
 knownFor: 'Italian Formula 1 driver for Mercedes, 2026 championship leader'
 summary: >-
   Kimi Antonelli is the Italian Formula 1 driver who races for Mercedes. He won
   the 2026 United States Grand Prix at Austin on 25 October 2026 and leads the
-  drivers' championship, 123 points clear of George Russell
-  [s:f1-austin-race-report] [s:skysports-austin-report].
+  drivers' championship, 123 points clear of George Russell. The Mexico City
+  Grand Prix, seven days after Austin, could give him the title.
 status: published
 risk: low
-reviewedAt: '2026-10-27'
+publishedAt: '2026-11-01'
+reviewedAt: '2026-11-01'
+reviewBy: '2027-05-01'
 author: editor-in-chief
-reviewer: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Kimi Antonelli
   - Kimi Antonelli world championship
+  - Kimi Antonelli Mexico City Grand Prix
   - Kimi Antonelli United States Grand Prix
   - Kimi Antonelli age
   - Kimi Antonelli birthday
@@ -30,6 +33,12 @@ targetQueries:
   - Kimi Antonelli Formula 2
   - Kimi Antonelli Italian F4
 faq:
+  - q: Can Kimi Antonelli clinch the title in Mexico City?
+    a: >-
+      Yes. Formula 1 says a top-nine finish in Mexico City confirms him as world
+      champion [s:f1-mexico-race-week]. If Russell wins the race he needs ninth
+      or better, and if Hamilton wins he needs tenth or better; if neither wins,
+      he takes the title whatever his finish [s:crash-mexico-title].
   - q: How old is Kimi Antonelli?
     a: >-
       He was born on 25 August 2006, so he turned 20 in August 2026 and is 20 as
@@ -48,18 +57,22 @@ faq:
     a: >-
       Marco Antonelli is a former racing driver who runs his own motorsport
       team, Antonelli Motorsport, for whose team he raced as a boy.
-autoReviews: 3
-publishedAt: '2026-10-27'
+autoReviews: 4
+publishedTime: '2026-11-01T21:38:16.079Z'
 ---
 Kimi Antonelli won the 2026 United States Grand Prix at the Circuit of the Americas in Austin on 25 October 2026, starting from pole [s:f1-austin-race-report]. Autosport counted it as his ninth Grand Prix win of 2026 [s:autosport-austin-report]. The result put him at the top of the drivers' championship. The title was still open [s:f1-austin-race-report].
+
+## November 2026
+
+The drivers' title could be decided at the Mexico City Grand Prix, round 19 of the season and seven days after Austin [s:f1-mexico-race-week]. Antonelli leads George Russell by 123 points, and 125 points remain across five rounds [s:crash-mexico-title]. Formula 1 says a top-nine finish in Mexico City would confirm him as world champion [s:f1-mexico-race-week]. Crash.net sets out the other cases: if Russell wins, Antonelli needs ninth or better, and if Lewis Hamilton wins, tenth or better. If neither wins, he takes the title whatever his finish [s:crash-mexico-title]. Hamilton started from pole, with Russell second and Antonelli fourth on the grid [s:crash-mexico-title].
 
 ## Pole, the win and the gap to the title
 
 Antonelli sealed pole position with what Toto Wolff called "a miracle lap" [s:f1-austin-race-report]. In the race he finished in 1:35:16.650, with Charles Leclerc 13.078 seconds behind and Max Verstappen third [s:f1-austin-race-report]. Autosport put him 13 seconds clear of Leclerc at the finish [s:autosport-austin-report]. The gap was not close.
 
-The race strategy mattered. Mercedes ran one stop, while Leclerc and Hamilton ran two-stop strategies for Ferrari [s:f1-austin-race-report]. Antonelli's engineer told him to "go as long as we can", and he made his only stop at the end of lap 24 [s:f1-austin-race-report]. Hamilton finished fourth, 18.515 seconds behind the winner. He missed the podium [s:f1-austin-race-report].
+Antonelli's engineer told him to "go as long as we can", and he pitted for fresh tyres at the end of lap 24 [s:f1-austin-race-report]. Hamilton finished fourth, 18.515 seconds behind the winner. He missed the podium [s:f1-austin-race-report].
 
-A title win in Austin would have needed three things: victory, George Russell finishing ninth or lower, and Lewis Hamilton finishing outside the top four [s:f1-austin-race-report]. Russell served a five-second time penalty during his pit stop and finished eighth [s:f1-austin-race-report]. Hamilton's fourth place kept the fight open, so the championship was not decided that afternoon [s:f1-austin-race-report].
+The report says the title would depend on George Russell finishing ninth or below and Lewis Hamilton finishing outside the top four [s:f1-austin-race-report]. Russell served a five-second time penalty during his pit stop and finished eighth [s:f1-austin-race-report]. Hamilton's fourth place kept the fight open, so the championship was not decided that afternoon [s:f1-austin-race-report].
 
 Sky Sports reported the gap after the race. Antonelli was 123 points clear of Russell and 124 clear of Hamilton, with a maximum of 125 points still available [s:skysports-austin-report]. Autosport noted that he needed just two points to become the youngest ever title winner, at 20 [s:autosport-austin-report]. Sky Sports also said he would clinch the title at the Mexico Grand Prix, with four rounds to spare, if he finished in the top nine [s:skysports-austin-report]. Points tables change after every round, so these figures reflect race-day coverage and should be checked against the official standings.
 
@@ -81,9 +94,9 @@ In 2024 he raced in Formula 2 with PREMA. He won the sprint race at Silverstone,
 
 ## Debut season in 2025
 
-Antonelli made his debut at the 2025 Australian Grand Prix in Melbourne, as the third-youngest driver to start an F1 race and the 13th Mercedes driver to race a Grand Prix [s:mercedes-everything]. He finished fourth there, which brought his first points [s:mercedes-everything]. He became the youngest driver in F1 history to lead a lap at the Japanese Grand Prix [s:mercedes-everything].
+Antonelli made his debut at the 2025 Australian Grand Prix in Melbourne, as the third-youngest driver to start an F1 race and the 13th Mercedes driver to race a Grand Prix [s:mercedes-everything]. He finished fourth there [s:mercedes-everything]. He became the youngest driver in F1 history to lead a lap at the Japanese Grand Prix [s:mercedes-everything].
 
-He finished third in Canada, which made him the third-youngest driver to stand on an F1 podium [s:mercedes-everything]. By the Brazilian Grand Prix, where he finished second, he had become the highest-scoring rookie in F1 history [s:mercedes-everything]. He chose number 12 as his race number for 2025 and beyond [s:mercedes-everything]. He finished the season seventh in the drivers' standings with 150 points and three podiums [s:mercedes-driver-profile].
+He finished third in Canada, which made him the third-youngest driver to stand on an F1 podium [s:mercedes-everything]. By the Brazilian Grand Prix he had become the highest-scoring rookie in F1 history [s:mercedes-everything]. He chose number 12 as his race number for 2025 and beyond [s:mercedes-everything]. He finished the season seventh in the drivers' standings with 150 points and three podiums [s:mercedes-driver-profile].
 
 ## The 2026 season and the first win
 

@@ -1,0 +1,83 @@
+{
+  "worthWriting": true,
+  "reason": "Current F1 driver with official F1 profile and multiple press sources; 2027 seat is open and reported in news as of 1 November 2026.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "f1-driver-profile",
+      "url": "https://www.formula1.com/en/drivers/liam-lawson",
+      "title": "Liam Lawson - Driver profile",
+      "publisher": "Formula 1",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "f1-more-relief-2025",
+      "url": "https://www.formula1.com/en/latest/article/more-relief-than-anything-lawson-reveals-emotions-on-keeping-racing-bulls.3hZ1XExBJXzaf2nu6uMLOh",
+      "title": "'More relief than anything' - Lawson reveals emotions on keeping Racing Bulls seat",
+      "publisher": "Formula 1",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "1news-early-days-2026",
+      "url": "https://www.1news.co.nz/2026/06/26/early-days-liam-lawson-on-f1-future/",
+      "title": "'Early days': Liam Lawson on F1 future",
+      "publisher": "1News (TVNZ)",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "planetf1-tsolov-2027",
+      "url": "https://www.planetf1.com/news/liam-lawson-racing-bulls-seat-nikola-tsolov-f1-2027",
+      "title": "Lawson backed to keep Racing Bulls seat despite Tsolov rumours",
+      "publisher": "PlanetF1",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "racingnews365-unjust-sacking-2026",
+      "url": "https://www.racingnews365.com/liam-lawson-handed-fiery-unjust-sacking-defence-amid-f1-uncertainty",
+      "title": "Liam Lawson handed fiery 'unjust sacking' defence amid F1 uncertainty",
+      "publisher": "RacingNews365",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "2002-02-11",
+      "sources": [
+        "f1-driver-profile"
+      ],
+      "note": "The F1 profile shows 11/02/2002. Read as day/month, this is 11 February 2002, which matches the 23-year-old age in the December 2025 coverage."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Hastings, New Zealand",
+      "sources": [
+        "f1-driver-profile"
+      ],
+      "note": ""
+    },
+    "nationality": {
+      "value": "NZ",
+      "sources": [
+        "f1-driver-profile"
+      ],
+      "note": "F1 profile lists New Zealand."
+    }
+  },
+  "targetQueries": [
+    "Liam Lawson age",
+    "Liam Lawson nationality",
+    "Liam Lawson where is he from",
+    "Liam Lawson Racing Bulls 2027",
+    "Liam Lawson Red Bull",
+    "Liam Lawson contract",
+    "Liam Lawson Nikola Tsolov"
+  ],
+  "gapNote": "Press headlines call the 2025 move a 'sacking' from Red Bull. The official F1 profile says he was moved back to Racing Bulls after two Grands Prix. The 1 November 2026 RacingNews365 piece reports that he has not been offered a 2027 contract and quotes Karun Chandhok's defence, but gives no Lawson quote and no team statement. Sources give no date for the 2025 move in the pages opened. Several outlets report rumours about Nikola Tsolov and Helmut Marko that no team has confirmed; leave these out."
+}

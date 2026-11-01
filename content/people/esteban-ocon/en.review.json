@@ -1,0 +1,184 @@
+{
+  "date": "2026-11-01",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 17 September 1996 in Évreux, Normandy; nationality France",
+      "sourceIds": [
+        "f1-ocon-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 profile: 17/09/1996, Évreux, Normandy, France."
+    },
+    {
+      "claim": "Won 2021 Hungarian Grand Prix for Alpine on 1 August 2021; first F1 win; first victory for the Alpine brand; 'shock maiden winner'",
+      "sourceIds": [
+        "ocon-official-hungary-2021",
+        "f1-hungary-2021-highlights"
+      ],
+      "verdict": "confirmed",
+      "note": "Official site dates the win August 1, 2021 and says first victory for the Alpine brand. F1 says 'a shock maiden winner'."
+    },
+    {
+      "claim": "Held off Sebastian Vettel in the Aston Martin; first-lap crashes and red flag; Alonso stall may have helped team mate",
+      "sourceIds": [
+        "f1-hungary-2021-highlights"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 article supports all three."
+    },
+    {
+      "claim": "One race win, four podiums, 490 points from 198 Grands Prix",
+      "sourceIds": [
+        "f1-ocon-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 profile: podiums 4, points 490, entered 198; highest finish 1 (x1)."
+    },
+    {
+      "claim": "Route: Manor from 2016 Belgian GP, Force India, Mercedes reserve, Renault, Alpine, Haas",
+      "sourceIds": [
+        "f1-ocon-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 biography lists the teams in this order."
+    },
+    {
+      "claim": "Five seasons with Renault and Alpine before Haas; joined Haas for 2025 partnering Ollie Bearman",
+      "sourceIds": [
+        "the-race-ocon-haas-exit-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "The Race exit article."
+    },
+    {
+      "claim": "Haas held a 2027 option and did not activate it; Komatsu said after summer break he was unlikely to be kept; 'not a definitive you're out'",
+      "sourceIds": [
+        "the-race-ocon-haas-breakdown"
+      ],
+      "verdict": "confirmed",
+      "note": "The Race breakdown."
+    },
+    {
+      "claim": "Bearman outscored Ocon over the two seasons; Haas criticism of defensiveness, combativeness and 'blind-alley set-up work'",
+      "sourceIds": [
+        "the-race-ocon-haas-breakdown"
+      ],
+      "verdict": "confirmed",
+      "note": "Wording matches the fetched text, with the 'backs against the wall' quote kept verbatim."
+    },
+    {
+      "claim": "Ocon was 'definitely a free agent for next year'; asked about staying he said 'Let's see'",
+      "sourceIds": [
+        "the-race-ocon-haas-exit-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes match."
+    },
+    {
+      "claim": "Haas confirmed Ocon leaves at season end; Rafael Camara signed as replacement",
+      "sourceIds": [
+        "sky-hirakawa-mexico-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky: Haas confirmed Ocon will leave at the end of the season; Camara signed to replace him."
+    },
+    {
+      "claim": "'We're all on the same page', 'We know it's been an ongoing issue', 'It's reassuring that I'm doing a good job'",
+      "sourceIds": [
+        "the-race-ocon-haas-exit-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes match."
+    },
+    {
+      "claim": "Rafael Camara is Ferrari-backed; favourite to replace Ocon; impressed by 'immense one-lap pace' at Portimao",
+      "sourceIds": [
+        "the-race-ocon-haas-breakdown",
+        "the-race-ocon-haas-exit-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "The Race describes him as Ferrari-backed and the replacement favourite."
+    },
+    {
+      "claim": "Komatsu: 'affiliations or the packages they've got matters'",
+      "sourceIds": [
+        "the-race-ocon-haas-breakdown"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote matches."
+    },
+    {
+      "claim": "Bearman: drivers find the car 'really challenging'",
+      "sourceIds": [
+        "the-race-ocon-haas-breakdown"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote matches."
+    },
+    {
+      "claim": "Ocon repeatedly criticised the car, especially the brakes, during 2025",
+      "sourceIds": [
+        "the-race-ocon-haas-breakdown"
+      ],
+      "verdict": "confirmed",
+      "note": "Publicly repeated complaints, particularly brakes."
+    },
+    {
+      "claim": "Radio 'don't do this to me' to Laura Mueller; soft tyres flat-spotted by Bearman, switched to mediums",
+      "sourceIds": [
+        "sky-hirakawa-mexico-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky Sports."
+    },
+    {
+      "claim": "Hirakawa 15th in Friday FP1; debut in qualifying and race partnering Bearman; 71-lap race",
+      "sourceIds": [
+        "sky-hirakawa-mexico-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky Sports."
+    },
+    {
+      "claim": "Komatsu: could not say much, but Ocon was not ill",
+      "sourceIds": [
+        "sky-hirakawa-mexico-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote matches."
+    },
+    {
+      "claim": "Croft: 'the relationship between Esteban and the team hasn't been magnificent in recent races'; Chadwick: 'fighting for a drive'",
+      "sourceIds": [
+        "sky-hirakawa-mexico-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes match."
+    },
+    {
+      "claim": "Ryo Hirakawa took Ocon's seat for the rest of the Mexico City weekend (summary and body)",
+      "sourceIds": [
+        "sky-hirakawa-mexico-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky: Haas replaced Ocon with Hirakawa for the rest of the weekend."
+    },
+    {
+      "claim": "FAQ: Haas confirmed Ocon leaves at season end and signed Camara as replacement",
+      "sourceIds": [
+        "sky-hirakawa-mexico-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky Sports."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Timeline of the Haas years and the Mexico City weekend adds context the top results lack. Claims were corrected to the sources' wording.",
+  "decision": "approve",
+  "summary": "All claims now match the fetched sources. Corrections made: removed the unnamed-sources attribution, the Camara F2 title and protege status, the reserve-driver description, the unsupported Ferrari-decisive sentence, the 'talking to other teams' clause, and the dates not in the sources."
+}

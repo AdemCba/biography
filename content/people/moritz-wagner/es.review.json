@@ -1,0 +1,252 @@
+{
+  "date": "2026-11-01",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Nació el 26 de abril de 1997 en Berlín; nacionalidad Alemania",
+      "sourceIds": [
+        "nba-wagner-profile",
+        "olympedia-wagner"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA: April 26, 1997, Country Germany; Olympedia: 26 April 1997 in Berlin, NOC GER."
+    },
+    {
+      "claim": "Nombre completo Victor Moritz Wagner",
+      "sourceIds": [
+        "olympedia-wagner"
+      ],
+      "verdict": "confirmed",
+      "note": "Olympedia: Victor Moritz Wagner."
+    },
+    {
+      "claim": "2,11 m (6 pies 11 pulgadas), ala-pívot",
+      "sourceIds": [
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA: 6'11\" (2.11m), Forward-Center."
+    },
+    {
+      "claim": "18 partidos con ALBA Berlín II, sin temporada",
+      "sourceIds": [
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA: 18 games with ALBA Berlin II."
+    },
+    {
+      "claim": "Empezó en ALBA Berlín; en 2015 se fue a la Universidad de Míchigan",
+      "sourceIds": [
+        "web-de-wagner-neuland"
+      ],
+      "verdict": "confirmed",
+      "note": "web.de: Karriere begann bei Alba Berlin; 2015 University of Michigan."
+    },
+    {
+      "claim": "Elegido en la primera ronda de 2018, número 25; Lakers 2018-19: 43 partidos, 5 titularidades",
+      "sourceIds": [
+        "nba-wagner-profile",
+        "eurohoops-magic-extension-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA: 2018 R1 Pick 25, Lakers 43 games 5 starts; Eurohoops: 25th pick by Lakers."
+    },
+    {
+      "claim": "South Bay 2018-19: seis titularidades",
+      "sourceIds": [
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA: South Bay 6 games, 6 starts."
+    },
+    {
+      "claim": "Wizards 2019-20: 45 partidos, 5 titularidades; 2020-21: 25 partidos, 13",
+      "sourceIds": [
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA bio counts match."
+    },
+    {
+      "claim": "Celtics 2020-21: nueve partidos",
+      "sourceIds": [
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA: Boston 9 games."
+    },
+    {
+      "claim": "Magic a mitad de 2020-21, 11 partidos",
+      "sourceIds": [
+        "nba-wagner-profile",
+        "eurohoops-magic-extension-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA: Orlando 11 games in 2020-21; Eurohoops: midway through 2020-21."
+    },
+    {
+      "claim": "2021-22: 63 partidos, 3 titularidades; 2022-23: 57, 18; 2023-24: 80 partidos, 1 titularidad",
+      "sourceIds": [
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA bio matches."
+    },
+    {
+      "claim": "Franz estuvo en los Magic al mismo tiempo",
+      "sourceIds": [
+        "web-de-wagner-neuland"
+      ],
+      "verdict": "confirmed",
+      "note": "web.de: zeitweise gemeinsam mit seinem Bruder Franz Wagner."
+    },
+    {
+      "claim": "Ligamento cruzado anterior de la rodilla izquierda; 30 partidos con una titularidad en 2024-25",
+      "sourceIds": [
+        "eurohoops-magic-extension-2025",
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Eurohoops: torn ACL left knee, 30 appearances; NBA: 30 games, 1 start."
+    },
+    {
+      "claim": "No disputó el EuroBasket 2025",
+      "sourceIds": [
+        "eurohoops-magic-extension-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Eurohoops: he will skip EuroBasket 2025. The rehabilitation reason was removed."
+    },
+    {
+      "claim": "Extensión de un año por cinco millones de dólares para 2025-26",
+      "sourceIds": [
+        "eurohoops-magic-extension-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Eurohoops: one-year extension worth five million dollars for 2025-26."
+    },
+    {
+      "claim": "Según Eurohoops, Shams Charania dio a conocer el acuerdo un viernes, página fechada el 4 de julio de 2025",
+      "sourceIds": [
+        "eurohoops-magic-extension-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Eurohoops: revealed on Friday; page dated 4 July 2025. 'Primero' was removed."
+    },
+    {
+      "claim": "Alemania ganó el Mundial FIBA el 10 de septiembre de 2023, 83-77 a Serbia, Mall of Asia Arena",
+      "sourceIds": [
+        "fiba-final-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "FIBA game report confirms date, score and venue."
+    },
+    {
+      "claim": "Lista FIBA: Moritz Wagner por Alemania con los Orlando Magic",
+      "sourceIds": [
+        "fiba-nba-players-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "FIBA table: Germany, Moritz Wagner, Orlando Magic."
+    },
+    {
+      "claim": "Prensa alemana: primer título del equipo con los hermanos Wagner; mayor logro de su carrera",
+      "sourceIds": [
+        "web-de-wagner-neuland"
+      ],
+      "verdict": "confirmed",
+      "note": "web.de: erstmals den Titel; größten sportlichen Erfolg."
+    },
+    {
+      "claim": "Olimpiadas: octavo puesto en 2020, cuarto en 2024; hermano de Franz",
+      "sourceIds": [
+        "olympedia-wagner"
+      ],
+      "verdict": "confirmed",
+      "note": "Olympedia: Pos 8 (2020), Pos 4 (2024); Brother of Franz Wagner."
+    },
+    {
+      "claim": "Moritz también jugó en el equipo de los Juegos de París, que terminó cuarto",
+      "sourceIds": [
+        "web-de-wagner-neuland"
+      ],
+      "verdict": "confirmed",
+      "note": "web.de: Moritz played for Germany at Paris; team finished fourth. Franz roster claim removed."
+    },
+    {
+      "claim": "Nets: contrato desde el verano de 2026; perfil NBA lo muestra con los Nets",
+      "sourceIds": [
+        "nba-wagner-profile",
+        "web-de-wagner-neuland"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA header Nets; web.de: seit Sommer 2026 bei den Nets."
+    },
+    {
+      "claim": "Temporada 12 se estrena el 1 de noviembre de 2026, domingos 20:15, ProSieben, livestream gratuito en Joyn",
+      "sourceIds": [
+        "joyn-wsmds-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Joyn: 1. November 2026, Sonntag 20:15, kostenloser Livestream."
+    },
+    {
+      "claim": "Aspirantes Kebekus y Knossi; Joko Winterscheidt es el presentador actual",
+      "sourceIds": [
+        "prosieben-presse-wsmds-2026",
+        "joyn-wsmds-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Press release names Kebekus, Knossi and Original-Moderator Joko Winterscheidt."
+    },
+    {
+      "claim": "Comunicado: lo describe como jugador de baloncesto",
+      "sourceIds": [
+        "prosieben-presse-wsmds-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Press release: Basketballspieler und Orlando-Magic-Star."
+    },
+    {
+      "claim": "Seis nuevos episodios grabados en Berlín desde el 1 de junio de 2026",
+      "sourceIds": [
+        "prosieben-presse-wsmds-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Press release dated 01.06.2026."
+    },
+    {
+      "claim": "Cada episodio tiene un candidato comodín",
+      "sourceIds": [
+        "joyn-wsmds-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Joyn: jeweils eine Wildcard-Kandidatin oder ein Wildcard-Kandidat."
+    },
+    {
+      "claim": "El ganador de cada episodio diseña y presenta el siguiente",
+      "sourceIds": [
+        "web-de-wagner-neuland"
+      ],
+      "verdict": "confirmed",
+      "note": "web.de: nach eigenen Vorstellungen."
+    },
+    {
+      "claim": "Cita: aprendió que puede hacer el ridículo por completo",
+      "sourceIds": [
+        "web-de-wagner-neuland"
+      ],
+      "verdict": "confirmed",
+      "note": "web.de: Ich habe gelernt, dass ich mich komplett zum Affen machen kann."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Season-by-season timeline from the NBA bio, primary-source check of the 2023 title and broadcast details. Three sentences go beyond the sources.",
+  "decision": "approve",
+  "summary": "Re-checked after fixes: the rehabilitation reason, the 'primero' claim and the Franz Paris roster claim were removed or reworded to what the sources say. All remaining claims match the fetched sources."
+}

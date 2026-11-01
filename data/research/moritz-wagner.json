@@ -1,0 +1,112 @@
+{
+  "worthWriting": true,
+  "reason": "Current TV news (season 12 of Wer stiehlt mir die Show, premiere 1 Nov 2026) plus an established NBA and German national team career with official profiles and FIBA records.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "nba-wagner-profile",
+      "url": "https://www.nba.com/player/1629021/moritz-wagner/bio",
+      "title": "Moritz Wagner | NBA.com player bio",
+      "publisher": "NBA",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "olympedia-wagner",
+      "url": "https://www.olympedia.org/athletes/143383",
+      "title": "Moritz Wagner - Olympedia",
+      "publisher": "Olympedia",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "fiba-nba-players-2023",
+      "url": "https://www.fiba.basketball/en/news/basketballworldcup-2023-news-record-55-nba-players-on-rosters-for-fiba-basketball-world-cup-2023",
+      "title": "Record 55 NBA players on rosters for FIBA Basketball World Cup 2023",
+      "publisher": "FIBA",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "fiba-final-2023",
+      "url": "https://www.fiba.basketball/en/news/basketballworldcup-2023-news-game-report-germany-v-serbia",
+      "title": "Schroder delivers, Germany win the World Cup (game report)",
+      "publisher": "FIBA",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "joyn-wsmds-2026",
+      "url": "https://www.joyn.de/bts/serien/wer-stiehlt-mir-die-show/wsmds2026-heute-livestream-prosieben-start-staffel12-carolin-kebekus-moritz-wagner-knossi-188154",
+      "title": "Wer stiehlt mir die Show? Staffel 12 Start, Livestream",
+      "publisher": "Joyn",
+      "type": "official",
+      "lang": "de"
+    },
+    {
+      "id": "prosieben-presse-wsmds-2026",
+      "url": "https://www.presseportal.de/pm/25171/6286232",
+      "title": "Wer stiehlt mir die Show? Staffel 12 mit Carolin Kebekus, Moritz Wagner und Knossi",
+      "publisher": "Presseportal (ProSieben press release)",
+      "type": "company",
+      "lang": "de"
+    },
+    {
+      "id": "web-de-wagner-neuland",
+      "url": "https://web.de/magazine/unterhaltung/tv-shows/nba-star-moritz-wagner-betritt-neuland-42898882",
+      "title": "NBA-Star Moritz Wagner betritt Neuland",
+      "publisher": "web.de",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "eurohoops-magic-extension-2025",
+      "url": "https://www.eurohoops.net/en/nba-news/1844809/moritz-wagner-re-signs-with-the-orlando-magic-nba",
+      "title": "Moritz Wagner re-signs with the Orlando Magic",
+      "publisher": "Eurohoops",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1997-04-26",
+      "sources": [
+        "nba-wagner-profile",
+        "olympedia-wagner"
+      ],
+      "note": "NBA.com and Olympedia both give 26 April 1997."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Berlin, Germany",
+      "sources": [
+        "olympedia-wagner",
+        "web-de-wagner-neuland"
+      ],
+      "note": "Olympedia lists Berlin, Berlin; web.de says born in Berlin."
+    },
+    "nationality": {
+      "value": "DE",
+      "sources": [
+        "nba-wagner-profile",
+        "olympedia-wagner"
+      ],
+      "note": "NBA.com lists country Germany; Olympedia lists NOC GER."
+    }
+  },
+  "targetQueries": [
+    "how old is Moritz Wagner",
+    "where is Moritz Wagner from",
+    "Moritz Wagner Wer stiehlt mir die Show",
+    "Moritz Wagner Brooklyn Nets",
+    "Moritz Wagner Orlando Magic",
+    "Moritz Wagner Weltmeister",
+    "Moritz Wagner Bruder Franz Wagner",
+    "Moritz Wagner Größe",
+    "Moritz Wagner Lakers draft"
+  ],
+  "gapNote": "Top results are mostly stat pages and transfer news. Few pages connect the NBA career, the 2023 world title and the 2026 TV project with dated sources in one place."
+}

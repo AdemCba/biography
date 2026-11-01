@@ -1,0 +1,169 @@
+{
+  "date": "2026-11-01",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Né le 17 septembre 1996 à Évreux, Normandie; nationalité française",
+      "sourceIds": [
+        "f1-ocon-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 profile: 17/09/1996, Évreux, Normandy, France."
+    },
+    {
+      "claim": "Victoire au GP de Hongrie 2021 avec Alpine le 1er août 2021; première victoire; 'shock maiden winner'; première victoire de la marque Alpine",
+      "sourceIds": [
+        "ocon-official-hungary-2021",
+        "f1-hungary-2021-highlights"
+      ],
+      "verdict": "confirmed",
+      "note": "Official site dates the win August 1, 2021; F1 says 'a shock maiden winner'."
+    },
+    {
+      "claim": "A résisté à Sebastian Vettel (Aston Martin); accrochages au premier tour et drapeau rouge; blocage d'Alonso a pu aider son coéquipier",
+      "sourceIds": [
+        "f1-hungary-2021-highlights"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 article supports all three."
+    },
+    {
+      "claim": "Une victoire, quatre podiums et 490 points en 198 Grands Prix",
+      "sourceIds": [
+        "f1-ocon-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 profile."
+    },
+    {
+      "claim": "Écuries: Manor (GP de Belgique 2016), Force India, pilote de réserve Mercedes, Renault, Alpine, Haas",
+      "sourceIds": [
+        "f1-ocon-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 biography lists the teams in this order."
+    },
+    {
+      "claim": "Cinq saisons chez Renault et Alpine avant Haas; a rejoint Haas pour 2025 aux côtés d'Ollie Bearman",
+      "sourceIds": [
+        "the-race-ocon-haas-exit-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "The Race exit article."
+    },
+    {
+      "claim": "Haas disposait d'une option pour 2027 non activée; Komatsu: peu probable qu'il soit conservé; 'pas un tu es viré définitif'",
+      "sourceIds": [
+        "the-race-ocon-haas-breakdown"
+      ],
+      "verdict": "confirmed",
+      "note": "The Race breakdown."
+    },
+    {
+      "claim": "Bearman a devancé Ocon sur les deux saisons; l'équipe estimait qu'il était trop combatif en interne quand le dos est au mur; réglages 'dans une impasse'",
+      "sourceIds": [
+        "the-race-ocon-haas-breakdown"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the fetched text."
+    },
+    {
+      "claim": "Ocon a déclaré être 'définitivement un agent libre pour l'année prochaine'",
+      "sourceIds": [
+        "the-race-ocon-haas-exit-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote matches."
+    },
+    {
+      "claim": "Ocon: 'on verra'; 'nous sommes tous sur la même longueur d'onde'; 'nous savons que c'est un problème récurrent'; 'c'est rassurant...'",
+      "sourceIds": [
+        "the-race-ocon-haas-exit-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes match."
+    },
+    {
+      "claim": "Rafael Camara, soutenu par Ferrari, était le favori; Haas impressionné par son rythme sur un tour à Portimão; Komatsu: 'les affiliations ou les packages'",
+      "sourceIds": [
+        "the-race-ocon-haas-breakdown",
+        "the-race-ocon-haas-exit-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "The Race describes Camara as Ferrari-backed and the favourite; the rest matches."
+    },
+    {
+      "claim": "Haas a confirmé le départ d'Ocon en fin de saison; Camara recruté pour le remplacer",
+      "sourceIds": [
+        "sky-hirakawa-mexico-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky Sports."
+    },
+    {
+      "claim": "Bearman: 'vraiment difficile'; Ocon a critiqué la voiture, notamment les freins, en 2025",
+      "sourceIds": [
+        "the-race-ocon-haas-breakdown"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Radio 'ne me fais pas ça' à Laura Mueller; pneus tendres abîmés par Bearman, passage en medium",
+      "sourceIds": [
+        "sky-hirakawa-mexico-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky Sports."
+    },
+    {
+      "claim": "Hirakawa 15e en première séance libre; première qualification et course de 71 tours",
+      "sourceIds": [
+        "sky-hirakawa-mexico-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky Sports."
+    },
+    {
+      "claim": "Komatsu: ne pouvait pas en dire beaucoup, Ocon pas malade; citations de Croft et Chadwick",
+      "sourceIds": [
+        "sky-hirakawa-mexico-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes match."
+    },
+    {
+      "claim": "Ryo Hirakawa a pris la place d'Ocon pour le reste du week-end (body and summary)",
+      "sourceIds": [
+        "sky-hirakawa-mexico-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky: Haas replaced Ocon with Hirakawa for the rest of the weekend."
+    },
+    {
+      "claim": "FAQ: Haas a confirmé qu'Ocon quitte l'équipe en fin de saison et a recruté Rafael Camara pour le remplacer",
+      "sourceIds": [
+        "sky-hirakawa-mexico-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky Sports."
+    },
+    {
+      "claim": "Les raisons publiées jusqu'ici viennent de The Race et de Sky Sports",
+      "sourceIds": [
+        "the-race-ocon-haas-breakdown",
+        "sky-hirakawa-mexico-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources are cited for the reasons reported."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Timeline and Mexico weekend detail add value. Claims were corrected to the sources.",
+  "decision": "approve",
+  "summary": "All claims now match the fetched sources after removing the unnamed-sources attribution, the Camara F2 title and protege status, the Ferrari-decisive sentence, 'discuter avec d'autres équipes' and the September date, the reserve-driver description, the October 2026 date and 'pour 2027'."
+}

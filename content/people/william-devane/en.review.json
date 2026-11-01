@@ -1,20 +1,34 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "model": "claude-haiku-5-5",
-  "approved": false,
-  "reasons": [
-    "Prose reads machine-written",
-    "Reviewer recommends rejection: Every checked claim matches its source. Rejected on style only: most paragraphs are a source name plus a credit list ('Plex lists', 'Gulf News says'), so the prose reads like a database extract."
-  ],
+  "approved": true,
+  "reasons": [],
   "claims": [
     {
-      "claim": "Birth year: Plex and Cinegraph headers give 1939, biography texts give 1937; page states no age",
+      "claim": "Best known as James Heller in 24 and President Kennedy in The Missiles of October",
+      "sourceIds": [
+        "gulfnews-devane-24",
+        "plex-william-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "Gulf News has Heller in 24; Plex lists Kennedy in The Missiles of October."
+    },
+    {
+      "claim": "Played presidents on Stargate SG-1 and Secretary of State on The West Wing",
+      "sourceIds": [
+        "gulfnews-devane-24"
+      ],
+      "verdict": "confirmed",
+      "note": "Gulf News says he has played presidents on Stargate SG-1 and was Secretary of State on The West Wing."
+    },
+    {
+      "claim": "Plex and Cinegraph headers give 1939, biography text gives 1937",
       "sourceIds": [
         "plex-william-devane",
         "cinegraph-william-devane"
       ],
       "verdict": "confirmed",
-      "note": "Headers 1939 and bio text 1937 on both pages, confirmed by fetch."
+      "note": "Both pages show 5 September 1939 in the header and 1937 in the biography."
     },
     {
       "claim": "Cinegraph lists him as from Albany, New York, USA",
@@ -22,193 +36,201 @@
         "cinegraph-william-devane"
       ],
       "verdict": "confirmed",
-      "note": "From: Albany, New York, USA."
+      "note": "Cinegraph place field."
     },
     {
-      "claim": "Two Emmy nominations, no wins",
+      "claim": "Started in theatre with the New York Shakespeare Festival, performing in 15 plays",
+      "sourceIds": [
+        "plex-william-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "Plex biography."
+    },
+    {
+      "claim": "Plex lists him as an actor, director and writer",
+      "sourceIds": [
+        "plex-william-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "Plex header roles."
+    },
+    {
+      "claim": "Played a ruthless agent in Marathon Man, released in 1976",
+      "sourceIds": [
+        "gulfnews-devane-24"
+      ],
+      "verdict": "confirmed",
+      "note": "Gulf News quote."
+    },
+    {
+      "claim": "McCabe & Mrs. Miller (1971, lawyer), Family Plot (1976, Arthur Adamson), Rolling Thunder (1977, Major Charles Rane)",
+      "sourceIds": [
+        "plex-william-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "Plex filmography."
+    },
+    {
+      "claim": "Natalie Wood's love interest in the 1979 miniseries From Here to Eternity",
+      "sourceIds": [
+        "gulfnews-devane-24"
+      ],
+      "verdict": "confirmed",
+      "note": "Gulf News quote."
+    },
+    {
+      "claim": "Space Cowboys (2000) as Eugene Davis; Payback (1999) as Carter",
+      "sourceIds": [
+        "cinegraph-william-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "Cinegraph credits."
+    },
+    {
+      "claim": "Hollow Man (2000) as Dr Kramer",
+      "sourceIds": [
+        "cinegraph-william-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "Cinegraph credits Dr. Kramer."
+    },
+    {
+      "claim": "Interstellar (2014) as Williams",
+      "sourceIds": [
+        "cinegraph-william-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "Cinegraph credit."
+    },
+    {
+      "claim": "Testament (1983) as Tom Wetherly; The Bad News Bears in Breaking Training (1977) as Mike Leak",
+      "sourceIds": [
+        "plex-william-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "Plex filmography."
+    },
+    {
+      "claim": "Cinegraph credits him as Leonard Doc Blach in 50 to 1, released in 2014",
+      "sourceIds": [
+        "cinegraph-william-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "Cinegraph credit for 50 to 1 (2014)."
+    },
+    {
+      "claim": "Dr Leonard Blach is one of the owners of the thoroughbred Mine That Bird",
+      "sourceIds": [
+        "gulfnews-devane-24"
+      ],
+      "verdict": "confirmed",
+      "note": "Gulf News quote."
+    },
+    {
+      "claim": "Television Academy records two Emmy nominations and no wins",
       "sourceIds": [
         "tv-academy-bio"
       ],
       "verdict": "confirmed",
-      "note": "TV Academy lists two nominations (1975, 1976), no wins."
+      "note": "TV Academy shows 2 nominations, both as nominee."
     },
     {
-      "claim": "1975 nomination, Outstanding Lead Actor in a Special Program, The Missiles of October",
+      "claim": "1975 nomination: Outstanding Lead Actor in a Special Program for The Missiles of October (ABC)",
       "sourceIds": [
         "tv-academy-bio",
         "plex-william-devane"
       ],
       "verdict": "confirmed",
-      "note": "TV Academy: 1975, Special Program, The Missiles of October ABC Theatre."
+      "note": "TV Academy lists the 1975 entry for The Missiles of October (ABC)."
     },
     {
-      "claim": "1976 nomination, Outstanding Lead Actor in a Limited Series, Fear on Trial",
+      "claim": "Gulf News links the nomination to his Kennedy role and quotes Devane: the role certainly typecast me",
+      "sourceIds": [
+        "gulfnews-devane-24"
+      ],
+      "verdict": "confirmed",
+      "note": "Gulf News quote: Missiles of October certainly typecast me, there's no question."
+    },
+    {
+      "claim": "1976 nomination: Outstanding Lead Actor in a Limited Series for Fear on Trial, as John Henry Faulk",
       "sourceIds": [
         "tv-academy-bio",
         "plex-william-devane"
       ],
       "verdict": "confirmed",
-      "note": "TV Academy: 1976, Limited Series, Fear On Trial (CBS)."
+      "note": "TV Academy 1976 Limited Series entry; Plex gives the Faulk role."
     },
     {
-      "claim": "Gulf News ties the Emmy nomination to the Kennedy role",
+      "claim": "Greg Sumner on Knots Landing was villainous; run on CBS 1983 to 1993",
       "sourceIds": [
         "gulfnews-devane-24"
       ],
       "verdict": "confirmed",
-      "note": "Gulf News: Emmy nomination for his star-making turn as President Kennedy."
+      "note": "Gulf News quote."
     },
     {
-      "claim": "New York Shakespeare Festival, 15 plays; Plex lists actor, director, writer",
+      "claim": "Plex lists Knots Landing among his known titles",
       "sourceIds": [
         "plex-william-devane"
       ],
       "verdict": "confirmed",
-      "note": "Plex credits and careers confirmed."
+      "note": "Plex known-for list."
     },
     {
-      "claim": "Marathon Man (1976), ruthless agent",
-      "sourceIds": [
-        "gulfnews-devane-24"
-      ],
-      "verdict": "confirmed",
-      "note": "Gulf News: ruthless agent in Marathon Man (1976)."
-    },
-    {
-      "claim": "McCabe & Mrs. Miller (1971, lawyer); Rolling Thunder (1977, Major Charles Rane); Family Plot (1976)",
-      "sourceIds": [
-        "plex-william-devane"
-      ],
-      "verdict": "confirmed",
-      "note": "Plex credits confirmed."
-    },
-    {
-      "claim": "Natalie Wood's love interest in the 1979 From Here to Eternity miniseries",
-      "sourceIds": [
-        "gulfnews-devane-24"
-      ],
-      "verdict": "confirmed",
-      "note": "Gulf News quote confirmed."
-    },
-    {
-      "claim": "Space Cowboys (2000) Eugene Davis; Payback (1999) Carter; Hollow Man (2000) Dr Howard Kramer; Interstellar (2014) Williams",
-      "sourceIds": [
-        "cinegraph-william-devane"
-      ],
-      "verdict": "confirmed",
-      "note": "Cinegraph credits list all four with these characters and years."
-    },
-    {
-      "claim": "Testament (1983) Tom Wetherly; The Bad News Bears in Breaking Training (1977) Mike Leak",
-      "sourceIds": [
-        "plex-william-devane"
-      ],
-      "verdict": "confirmed",
-      "note": "Plex credits confirmed."
-    },
-    {
-      "claim": "50 to 1 (2014): Leonard 'Doc' Blach",
-      "sourceIds": [
-        "cinegraph-william-devane"
-      ],
-      "verdict": "confirmed",
-      "note": "Cinegraph: 50 to 1 (2014), Leonard Doc Blach."
-    },
-    {
-      "claim": "Blach is one of the owners of Mine That Bird, 2009 Kentucky Derby winner",
-      "sourceIds": [
-        "gulfnews-devane-24"
-      ],
-      "verdict": "confirmed",
-      "note": "Gulf News: Dr Leonard Blach, one of the owners of Mine That Bird, underdog winner of the 2009 Kentucky Derby."
-    },
-    {
-      "claim": "Greg Sumner on Knots Landing, villainous, 1983 to 1993",
-      "sourceIds": [
-        "gulfnews-devane-24"
-      ],
-      "verdict": "confirmed",
-      "note": "Gulf News: villainous Greg Sumner from 1983 to 93."
-    },
-    {
-      "claim": "Knots Landing among known titles; Plex credits Greg Sumner, 1979",
-      "sourceIds": [
-        "plex-william-devane"
-      ],
-      "verdict": "confirmed",
-      "note": "Plex: 1979 Knots Landing as Greg Sumner."
-    },
-    {
-      "claim": "Cast as Edward Grayson in Revenge, reported December 2011",
+      "claim": "December 2011: cast as Edward Grayson, father of Conrad Grayson and patriarch of the Hamptons clan in ABC's Revenge",
       "sourceIds": [
         "michaelfairman-revenge-2011"
       ],
       "verdict": "confirmed",
-      "note": "Article dated 13 December 2011 says he has been cast as Edward Grayson."
+      "note": "Michael Fairman quotes EW on the father and patriarch role."
     },
     {
-      "claim": "TVmaze lists Edward Grayson episodes on 8 and 15 February 2012",
+      "claim": "TVmaze lists him in the episodes broadcast on 8 February 2012 and 15 February 2012",
       "sourceIds": [
         "tvmaze-edward-grayson"
       ],
       "verdict": "confirmed",
-      "note": "TVmaze: Feb 8, 2012 and Feb 15, 2012."
+      "note": "TVmaze: episodes 1x14 (Feb 8, 2012) and 1x15 (Feb 15, 2012)."
     },
     {
-      "claim": "Presidents in Stargate SG-1 and The Dark Knight Rises (2012)",
+      "claim": "Played a president in Christopher Nolan's 2012 film The Dark Knight Rises",
       "sourceIds": [
         "gulfnews-devane-24"
       ],
       "verdict": "confirmed",
-      "note": "Gulf News: played presidents on Stargate SG-1 and in The Dark Knight Rises (2012)."
+      "note": "Gulf News quote."
     },
     {
-      "claim": "Secretary of State on The West Wing",
+      "claim": "Dr Dix in the Jesse Stone films 2006 to 2015; Dean Sanderson Sr. in The Grinder 2015; Peters in Psych 2006",
+      "sourceIds": [
+        "plex-william-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "Plex filmography."
+    },
+    {
+      "claim": "Plex known-for list includes Falling from the Sky: Flight 174 and Jesse Stone: Lost in Paradise",
+      "sourceIds": [
+        "plex-william-devane"
+      ],
+      "verdict": "confirmed",
+      "note": "Plex known-for list."
+    },
+    {
+      "claim": "Heller was introduced as a tough, no-nonsense Secretary of State",
       "sourceIds": [
         "gulfnews-devane-24"
       ],
       "verdict": "confirmed",
-      "note": "Gulf News: secretary of State on The West Wing."
+      "note": "Gulf News quote."
     },
     {
-      "claim": "Dr Dix in Jesse Stone films, 2006 to 2015",
-      "sourceIds": [
-        "plex-william-devane"
-      ],
-      "verdict": "confirmed",
-      "note": "Plex lists Jesse Stone films as Dr Dix from 2006 to 2015."
-    },
-    {
-      "claim": "Dean Sanderson Sr. in The Grinder, 2015",
-      "sourceIds": [
-        "plex-william-devane"
-      ],
-      "verdict": "confirmed",
-      "note": "Plex: 2015 The Grinder as Dean Sanderson Sr."
-    },
-    {
-      "claim": "Peters in Psych, 2006",
-      "sourceIds": [
-        "plex-william-devane"
-      ],
-      "verdict": "confirmed",
-      "note": "Plex: 2006 Psych as Peters."
-    },
-    {
-      "claim": "Plex known-for: Falling from the Sky: Flight 174; Jesse Stone: Lost in Paradise",
-      "sourceIds": [
-        "plex-william-devane"
-      ],
-      "verdict": "confirmed",
-      "note": "Plex known-for list confirmed."
-    },
-    {
-      "claim": "Heller introduced as Secretary of State on Day 4 of 24, 2005; returns in 24: Live Another Day; 24 ran 2001 to 2010",
+      "claim": "Devane reprises the role in 24: Live Another Day, Fox's reboot of its Emmy Award-winning 2001-2010 series",
       "sourceIds": [
         "gulfnews-devane-24"
       ],
       "verdict": "confirmed",
-      "note": "Gulf News confirmed; 2001 to 2010 run is the article's own statement."
+      "note": "Gulf News wording."
     },
     {
       "claim": "Gulf News calls Heller Secretary of Defence on 24",
@@ -216,7 +238,7 @@
         "gulfnews-devane-24"
       ],
       "verdict": "confirmed",
-      "note": "Gulf News: secretary of Defence on 24."
+      "note": "Gulf News says secretary of Defence on 24."
     },
     {
       "claim": "Producers gave Heller early-stage Alzheimer's",
@@ -224,21 +246,39 @@
         "gulfnews-devane-24"
       ],
       "verdict": "confirmed",
-      "note": "Gulf News confirmed in the earlier review."
+      "note": "Gulf News quote."
     },
     {
-      "claim": "Gulf News last updated 15 September 2018",
+      "claim": "Gulf News article last updated 15 September 2018",
       "sourceIds": [
         "gulfnews-devane-24"
       ],
       "verdict": "confirmed",
-      "note": "Date confirmed in the earlier review."
+      "note": "Gulf News last-updated line."
+    },
+    {
+      "claim": "FAQ: known for James Heller in 24 and Greg Sumner in Knots Landing, and President Kennedy in The Missiles of October",
+      "sourceIds": [
+        "plex-william-devane",
+        "gulfnews-devane-24"
+      ],
+      "verdict": "confirmed",
+      "note": "Gulf News and Plex."
+    },
+    {
+      "claim": "FAQ: Edward Grayson, father of Conrad Grayson, in 2012",
+      "sourceIds": [
+        "michaelfairman-revenge-2011",
+        "tvmaze-edward-grayson"
+      ],
+      "verdict": "confirmed",
+      "note": "Father relation from Michael Fairman (EW quote); episodes in 2012 from TVmaze. TVmaze page has no bio text, so the father relation is not on that page."
     }
   ],
   "uncitedClaims": [],
-  "readsHumanWritten": false,
+  "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "Adds the birth-year conflict with both sources cited and the Mine That Bird attribution to Blach, which the top results do not give.",
-  "decision": "reject",
-  "summary": "Every checked claim matches its source. Rejected on style only: most paragraphs are a source name plus a credit list ('Plex lists', 'Gulf News says'), so the prose reads like a database extract."
+  "valueNote": "Sets out the birth-year conflict between sources and the Emmy categories with years, which the usual top results do not give.",
+  "decision": "approve",
+  "summary": "All claims match the fetched sources. The film, presidents and Jesse Stone paragraphs were rewritten as prose, and the Hollow Man, Heller and Revenge fixes are in; a few Plex and Gulf News attributions remain, which is acceptable for a page that cites a birth-year conflict."
 }

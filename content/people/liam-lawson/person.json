@@ -1,0 +1,161 @@
+{
+  "id": "liam-lawson",
+  "name": "Liam Lawson",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "2002-02-11",
+      "sources": [
+        "f1-driver-profile"
+      ],
+      "note": "The F1 profile shows 11/02/2002. Read as day/month, this is 11 February 2002, which matches the 23-year-old age in the December 2025 coverage."
+    },
+    "birthPlace": {
+      "value": "Hastings, New Zealand",
+      "sources": [
+        "f1-driver-profile"
+      ]
+    },
+    "nationality": {
+      "value": [
+        "NZ"
+      ],
+      "sources": [
+        "f1-driver-profile"
+      ],
+      "note": "F1 profile lists New Zealand."
+    },
+    "f1Debut": {
+      "value": "2023 Dutch Grand Prix (AlphaTauri, replacing Daniel Ricciardo)",
+      "sources": [
+        "f1-driver-profile",
+        "f1-results-2023"
+      ],
+      "note": ""
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "f1-driver-profile",
+      "url": "https://www.formula1.com/en/drivers/liam-lawson",
+      "title": "Liam Lawson - Driver profile",
+      "publisher": "Formula 1",
+      "type": "official",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "f1-more-relief-2025",
+      "url": "https://www.formula1.com/en/latest/article/more-relief-than-anything-lawson-reveals-emotions-on-keeping-racing-bulls.3hZ1XExBJXzaf2nu6uMLOh",
+      "title": "'More relief than anything' - Lawson reveals emotions on keeping Racing Bulls seat",
+      "publisher": "Formula 1",
+      "type": "official",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "1news-early-days-2026",
+      "url": "https://www.1news.co.nz/2026/06/26/early-days-liam-lawson-on-f1-future/",
+      "title": "'Early days': Liam Lawson on F1 future",
+      "publisher": "1News (TVNZ)",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "planetf1-tsolov-2027",
+      "url": "https://www.planetf1.com/news/liam-lawson-racing-bulls-seat-nikola-tsolov-f1-2027",
+      "title": "Lawson backed to keep Racing Bulls seat despite Tsolov rumours",
+      "publisher": "PlanetF1",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "racingnews365-unjust-sacking-2026",
+      "url": "https://www.racingnews365.com/liam-lawson-handed-fiery-unjust-sacking-defence-amid-f1-uncertainty",
+      "title": "Liam Lawson handed fiery 'unjust sacking' defence amid F1 uncertainty",
+      "publisher": "RacingNews365",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "f1-results-2026",
+      "url": "https://www.formula1.com/en/results/2026/drivers/LIALAW01/liam-lawson",
+      "title": "2026 Liam Lawson driver standings and results",
+      "publisher": "Formula 1",
+      "type": "official",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "f1-results-2023",
+      "url": "https://www.formula1.com/en/results/2023/drivers/LIALAW01/liam-lawson",
+      "title": "2023 Liam Lawson driver results",
+      "publisher": "Formula 1",
+      "type": "official",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "racingnews365-driver-profile",
+      "url": "https://racingnews365.com/drivers/liam-lawson",
+      "title": "Liam Lawson - F1 news, results, standings and career statistics",
+      "publisher": "RacingNews365",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "fia-f2-hall-of-fame",
+      "url": "https://www.fiaformula2.com/About/350Yw0rvdv3JWk6ycFLWeM/liam-lawson-f2-hall-of-fame",
+      "title": "Liam Lawson - F2 Hall of Fame",
+      "publisher": "FIA Formula 2 Championship",
+      "type": "official",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "honda-driver-profile",
+      "url": "https://global.honda/en/F1/driver/LiamLawson/",
+      "title": "Liam Lawson - Honda F1 driver profile",
+      "publisher": "Honda",
+      "type": "official",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "visacashapprb-lawson-profile",
+      "url": "https://www.visacashapprb.com/int-en/team/vcarb-liam-lawson",
+      "title": "Liam Lawson - Team profile",
+      "publisher": "Visa Cash App RB (Racing Bulls)",
+      "type": "official",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "motorsportweek-focus-2026",
+      "url": "https://www.motorsportweek.com/2026/10/19/liam-lawson-outlines-crucial-focus-as-racing-bulls-decision-looms/",
+      "title": "Liam Lawson outlines crucial 'focus' as Racing Bulls decision looms",
+      "publisher": "Motorsport Week",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "planetf1-permane-2027",
+      "url": "https://www.planetf1.com/news/liam-lawson-future-racing-bulls-nikola-tsolov",
+      "title": "Liam Lawson future update as Racing Bulls makes new admission",
+      "publisher": "PlanetF1",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    }
+  ]
+}

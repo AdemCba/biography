@@ -18,9 +18,9 @@ For each page, edit only that language's file:
 
 ## Pages
 
-- [ ] en/vicky-lopez (380 impressions, 0 clicks, position 9.8): vicky lopez age, how old is vicky lopez, vicky lópez age, vicky lopez birthday, vickey lopez age, how old is vickey lopez, age vicky lopez, how old is vicky looez
-- [ ] de/jiri-lehecka (320 impressions, 1 clicks, position 10.3): lehecka weltrangliste, jiří lehecka weltrangliste, jiri lehecka weltrangliste, lehecka, lehecka atp, lehecka jiri, lehecka wiki
-- [ ] fr/carlos-alcaraz (248 impressions, 0 clicks, position 13.5): carlos alcaraz, alcaraz, c. alcaraz, alcaraz age, age alcaraz, taille alcaraz tennis, alcaraz grand chelem, quel âge a carlos alcaraz
+- [x] en/vicky-lopez (done 2026-11-01) (380 impressions, 0 clicks, position 9.8): vicky lopez age, how old is vicky lopez, vicky lópez age, vicky lopez birthday, vickey lopez age, how old is vickey lopez, age vicky lopez, how old is vicky looez
+- [x] de/jiri-lehecka (done 2026-11-01) (320 impressions, 1 clicks, position 10.3): lehecka weltrangliste, jiří lehecka weltrangliste, jiri lehecka weltrangliste, lehecka, lehecka atp, lehecka jiri, lehecka wiki
+- [x] fr/carlos-alcaraz (done 2026-11-01) (248 impressions, 0 clicks, position 13.5): carlos alcaraz, alcaraz, c. alcaraz, alcaraz age, age alcaraz, taille alcaraz tennis, alcaraz grand chelem, quel âge a carlos alcaraz
 - [ ] pt/yaxel-lendeborg (219 impressions, 3 clicks, position 7.6): yaxel lendeborg idade, yaxel lendeborg altura, yaxel lendeborg, yaxel lendeborg estatísticas, idade yaxel lendeborg, yaxel lendeborg posição, lendeborg altura, yaxel
 - [ ] es/jiri-lehecka (201 impressions, 0 clicks, position 11.6): jiří lehečka, jiri lehecka, jiří lehečka ranking, lehecka, jiří lehečka edad, lehecka tenista, tenista lehecka, jiří lehečka nacionalidad
 - [ ] pt/jiri-lehecka (176 impressions, 0 clicks, position 11.0): jiri lehecka, lehecka, lehecka tenista, jiri tenista, j. lehecka, tenista lehecka, lehecka atp, tenista jiri lehecka

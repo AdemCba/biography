@@ -1,0 +1,256 @@
+{
+  "date": "2026-11-01",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Geboren 26. April 1997 in Berlin; Nationalität Deutschland (GER)",
+      "sourceIds": [
+        "nba-wagner-profile",
+        "olympedia-wagner"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA: April 26, 1997, Country Germany. Olympedia: 26 April 1997 in Berlin, Berlin; NOC GER."
+    },
+    {
+      "claim": "Vollständiger Name Victor Moritz Wagner",
+      "sourceIds": [
+        "olympedia-wagner",
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Both list Victor Moritz Wagner as full name."
+    },
+    {
+      "claim": "2,11 m (6 Fuß 11 Zoll), Forward-Center",
+      "sourceIds": [
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA: 6'11\" (2.11m), position Forward-Center."
+    },
+    {
+      "claim": "Zu den Weltmeistern 2023 gehörend; Team gewann WM 2023 (83:77 gegen Serbien, Mall of Asia Arena, Manila, 10. September 2023)",
+      "sourceIds": [
+        "fiba-final-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "FIBA game report: Germany 83, Serbia 77, Mall of Asia Arena Manila, first world title ever; embedded posts dated September 10, 2023."
+    },
+    {
+      "claim": "FIBA-Liste führt Moritz Wagner für Deutschland mit den Orlando Magic als NBA-Team",
+      "sourceIds": [
+        "fiba-nba-players-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "FIBA roster table: Germany | Moritz Wagner | Orlando Magic."
+    },
+    {
+      "claim": "Begann bei ALBA Berlin; 2015 Wechsel in die USA, University of Michigan",
+      "sourceIds": [
+        "web-de-wagner-neuland"
+      ],
+      "verdict": "confirmed",
+      "note": "web.de: Karriere begann bei Alba Berlin, 2015 in die USA, für die University of Michigan."
+    },
+    {
+      "claim": "18 Spiele für ALBA Berlin II ohne Saisonangabe",
+      "sourceIds": [
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA stats table: ALBA Berlin II, 18 games, season undated, no starts listed."
+    },
+    {
+      "claim": "2018 in der ersten Runde an 25. Stelle gedraftet",
+      "sourceIds": [
+        "nba-wagner-profile",
+        "eurohoops-magic-extension-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA: 2018 R1 Pick 25. Eurohoops: 25th pick by the Lakers."
+    },
+    {
+      "claim": "Lakers 2018/19: 43 Spiele, fünf Starts; South Bay: sechs Spiele in der Startaufstellung",
+      "sourceIds": [
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA stats: LAL 43 GP / 5 GS; South Bay 6 GP / 6 GS. Eurohoops does not state these numbers, so the NBA profile is the source for them."
+    },
+    {
+      "claim": "Washington 2019/20: 45 Spiele mit fünf Starts; 2020/21: 25 Spiele mit 13 Starts",
+      "sourceIds": [
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA stats: WAS 2019-20 45 GP / 5 GS; WAS 2020-21 25 GP / 13 GS."
+    },
+    {
+      "claim": "Boston 2020/21: neun Spiele; Orlando 2020/21: 11 Spiele",
+      "sourceIds": [
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA stats: BOS 9 GP; ORL 11 GP in 2020-21. Eurohoops does not state these numbers."
+    },
+    {
+      "claim": "Im April 2021 wechselte Wagner zu den Magic (Verlauf 2020/21 neu formuliert)",
+      "sourceIds": [
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA bio: signed as a free agent on April 27, 2021. The earlier wording 'mitten in der Saison' was not supported and was corrected."
+    },
+    {
+      "claim": "Orlando hielt ihn bis zur Saison 2024/25; 2021/22: 63 Spiele, drei Starts; 2022/23: 57 Spiele, 18 Starts",
+      "sourceIds": [
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA stats: ORL 2021-22 63 GP / 3 GS; 2022-23 57 GP / 18 GS; 2024-25 Orlando season."
+    },
+    {
+      "claim": "2023/24: 80 Spiele mit einem Start; höchste Spielzahl im NBA-Profil",
+      "sourceIds": [
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA stats: 2023-24 ORL 80 GP / 1 GS, the highest game total in the table."
+    },
+    {
+      "claim": "Bruder Franz spielte zur gleichen Zeit bei den Magic",
+      "sourceIds": [
+        "web-de-wagner-neuland",
+        "olympedia-wagner"
+      ],
+      "verdict": "confirmed",
+      "note": "web.de: Orlando 2021-2026, at times alongside younger brother Franz. Olympedia lists him as brother of Franz Wagner."
+    },
+    {
+      "claim": "Saison 2024/25: vorderes Kreuzband im linken Knie gerissen; 30 Spiele der regulären Saison, davon einen Start",
+      "sourceIds": [
+        "eurohoops-magic-extension-2025",
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Eurohoops: torn ACL in left knee, 30 regular-season appearances. NBA stats: 2024-25 30 GP / 1 GS."
+    },
+    {
+      "claim": "Verzicht auf die EuroBasket 2025",
+      "sourceIds": [
+        "eurohoops-magic-extension-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Eurohoops: will skip the EuroBasket 2025."
+    },
+    {
+      "claim": "Juli 2025: einjährige Vertragsverlängerung über fünf Millionen US-Dollar für 2025/26; Shams Charania (ESPN) meldete die Einigung am 4. Juli 2025",
+      "sourceIds": [
+        "eurohoops-magic-extension-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Eurohoops: one-year extension worth five million dollars for 2025-26, revealed by ESPN's Shams Charania; article timestamp 4 July 2025."
+    },
+    {
+      "claim": "Olympia: Deutschland 8. Platz 2020, 4. Platz 2024 im Männer-Basketball",
+      "sourceIds": [
+        "olympedia-wagner"
+      ],
+      "verdict": "confirmed",
+      "note": "Olympedia: 2020 Summer Olympics 8th place; 2024 Summer Olympics 4th place."
+    },
+    {
+      "claim": "Im Spielfilm „Hustle“ hatte er die Rolle des Haas",
+      "sourceIds": [
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA bio: appeared as Haas in the film Hustle."
+    },
+    {
+      "claim": "Im Januar 2022 Aufnahme in das Harvard-Business-Crossover-Programm",
+      "sourceIds": [
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA bio: accepted into the Harvard Business Crossover program in January 2022."
+    },
+    {
+      "claim": "Staffel 12 startet am 1. November 2026, 20:15 Uhr, bei ProSieben mit kostenlosem Livestream auf Joyn; sonntags im gewohnten Sendeplatz",
+      "sourceIds": [
+        "joyn-wsmds-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Joyn: start 1 November 2026 on ProSieben, free livestream on Joyn, usual Sunday 20:15 slot."
+    },
+    {
+      "claim": "Herausforderer: Moritz Wagner, Carolin Kebekus, Knossi; wollen Joko Winterscheidt die Show abnehmen; Wagner als Basketballspieler beschrieben",
+      "sourceIds": [
+        "prosieben-presse-wsmds-2026",
+        "joyn-wsmds-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "ProSieben press release names the three challengers and calls Wagner a basketball player (Orlando Magic star); Joyn: 'Sie alle wollen Joko Winterscheidt die Show stehlen.'"
+    },
+    {
+      "claim": "Sechs neue Folgen ab 1. Juni 2026 in Berlin aufgezeichnet; Produktion durch Florida Entertainment GmbH",
+      "sourceIds": [
+        "prosieben-presse-wsmds-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Press release: six new episodes produced in Berlin from 1 June 2026; produced for ProSieben by Florida Entertainment GmbH."
+    },
+    {
+      "claim": "Jede Folge hat einen Wildcard-Kandidaten, der die Moderation übernehmen will; Gewinner einer Folge gestaltet und moderiert die nächste",
+      "sourceIds": [
+        "joyn-wsmds-2026",
+        "web-de-wagner-neuland"
+      ],
+      "verdict": "confirmed",
+      "note": "Joyn: one wildcard candidate per episode. web.de: winner designs and hosts the next episode."
+    },
+    {
+      "claim": "Zitat: „Ich habe gelernt, dass ich mich komplett zum Affen machen kann.“",
+      "sourceIds": [
+        "web-de-wagner-neuland"
+      ],
+      "verdict": "confirmed",
+      "note": "web.de quotes this sentence verbatim."
+    },
+    {
+      "claim": "Derzeit bei den Brooklyn Nets unter Vertrag, seit Sommer 2026",
+      "sourceIds": [
+        "web-de-wagner-neuland",
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "web.de: under contract with Brooklyn since summer 2026. NBA profile lists Brooklyn Nets."
+    },
+    {
+      "claim": "Deutschland belegte bei den Spielen in Paris den vierten Platz; Moritz spielte dort mit",
+      "sourceIds": [
+        "web-de-wagner-neuland",
+        "olympedia-wagner",
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "web.de: fourth place; Olympedia: 4th place 2024; NBA bio: played at the 2024 Olympics in Paris."
+    },
+    {
+      "claim": "Der WM-Titel 2023 ist der bisher größte sportliche Erfolg seiner Karriere",
+      "sourceIds": [
+        "web-de-wagner-neuland"
+      ],
+      "verdict": "confirmed",
+      "note": "web.de: 'seinen bislang größten sportlichen Erfolg feierte er 2023' with the national team."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Ties the 2023 World Cup, NBA stats and the ProSieben challenger role into one timeline with primary sources (NBA, Olympedia, FIBA, ProSieben) and German press context.",
+  "decision": "approve",
+  "summary": "All checked claims match their sources after one correction: the 2020/21 move to Orlando is now dated to April 2021, as the NBA profile shows a 27 April 2021 signing, not a midseason move. No uncited factual claims. Approve."
+}

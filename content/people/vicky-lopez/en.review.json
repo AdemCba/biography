@@ -1,446 +1,145 @@
 {
   "date": "2026-11-01",
   "model": "claude-haiku-5-5",
-  "approved": false,
-  "reasons": [
-    "UNSUPPORTED: \"Nationality ES (facts.nationality)\" (The FCB profile, as fetched, does not state nationality; it only shows her playing for Spain's national teams. The JWS article fetched does not describe her nationality. Fix: either cite a source that states citizenship, or drop the nationality field and state only that she is a Spain international, citing the national-team sources.)",
-    "UNSUPPORTED: \"EFE reports she is the only player to have won the award in both editions held so far\" (EFE says she is 'la dominadora de este premio, al haberlo ganado en las dos ediciones', which implies but does not state that she is the only winner. Fix: 'EFE reports that she has won the award in both editions held so far.')",
-    "UNSUPPORTED: \"'She said she was nervous' (body)\" (The article describes her nerves; the fetched text has no quote where she says she was nervous. Fix: 'The article says she was nervous' or drop the sentence.)",
-    "UNSUPPORTED: \"2026/27 entry shows four matches and two goals 'as of 28 October 2026'\" (Figures match (4 matches, 2 goals), but the table shows no as-of date. Fix: drop 'as of 28 October 2026' or say the figure is the page's figure when it was accessed.)",
-    "WRONG: \"FCB profile lists 45 matches and 12 goals for a second first-team season it does not name\" (The profile text as fetched puts 45 matches and 12 goals under 2025/26. The claim that the season is unnamed is therefore wrong. Fix: state that the club profile gives 45 matches and 12 goals for 2025/26, against 28 matches and 10 goals in Liga F's table and 45 and 12 in JWS. The profile's season labels are inconsistent in the fetched text, so a human should check the live page.)",
-    "UNCITED: \"The FAQ misspelled queries ('Vickey López', 'Vicky Looez') are included as target queries, but the brief gives no Search Console or query data to show that people search them. Fix: back them with query data or drop them.\"",
-    "Prose reads machine-written",
-    "Reviewer recommends rejection: Reject. The core facts hold up: birth date and place, age 20, the 16th-birthday signing, the 26 Oct 2026 London Kopa Trophy with Lucy Bronze presenting, the second win, the 2024 Spain debut (3-0, 17 years old) and the Liga F season table are all confirmed. Fixes needed: (1) the nationality 'ES' is unsupported by the cited sources; (2) 'EFE reports she is the only player to have won both editions' overstates EFE, which only implies it; (3) 'She said she was nervous' is not a quote from her; (4) the '2026/27 as of 28 October 2026' date is not in the Liga F table; (5) the claim that the FCB profile lists 45 matches and 12 goals for an unnamed season is wrong, because the profile puts that figure under 2025/26; (6) the Champions League sentence contradicts itself ('lists two' then 'gives no figure'); (7) the 'began in 2025' claim conflicts with JWS saying the women's category launched two years ago, and the sources should both be cited; (8) the FAQ misspelled queries have no query-data basis in the brief."
-  ],
+  "approved": true,
+  "reasons": [],
   "claims": [
     {
-      "claim": "Birth date 26 July 2006 (birthDate fact; body; metaDescription)",
+      "claim": "Born 26 July 2006 in Madrid; age 20",
       "sourceIds": [
         "fcb-profile-es"
       ],
       "verdict": "confirmed",
-      "note": "FCB profile reads 'Vicky López (Madrid, 26 de julio de 2006)'."
+      "note": "FCB profile: 26/07/2006, Madrid."
     },
     {
-      "claim": "Born in Madrid, Spain (birthPlace fact; body)",
-      "sourceIds": [
-        "fcb-profile-es"
-      ],
-      "verdict": "confirmed",
-      "note": "FCB profile gives Madrid. Vanguard's 'Vallecas' is a district of Madrid and is correctly not used."
-    },
-    {
-      "claim": "She is 20 years old as of 2026-11-01 (body, FAQ answers, metaTitle {age})",
-      "sourceIds": [
-        "fcb-profile-es",
-        "fcb-joins-2022",
-        "vanguard-kopa-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Computed from 26 July 2006 and the present date. Vanguard also says 'The 20-year-old attacking midfielder'. Present-tense, true today, valid until 26 July 2027."
-    },
-    {
-      "claim": "Nationality ES (facts.nationality)",
-      "sourceIds": [
-        "fcb-profile-es",
-        "justwomenssports-kopa-2026"
-      ],
-      "verdict": "unsupported",
-      "note": "The FCB profile, as fetched, does not state nationality; it only shows her playing for Spain's national teams. The JWS article fetched does not describe her nationality. Fix: either cite a source that states citizenship, or drop the nationality field and state only that she is a Spain international, citing the national-team sources."
-    },
-    {
-      "claim": "Signed for Barcelona on 26 July 2022, her 16th birthday (body; facts.birthDate note)",
+      "claim": "Signed 26 July 2022 on her 16th birthday, five-season contract",
       "sourceIds": [
         "fcb-joins-2022"
       ],
       "verdict": "confirmed",
-      "note": "Club article dated 26 Jul 2022 says 'On her 16th birthday'."
+      "note": "Published 26 Jul 2022; five seasons; 16th birthday."
     },
     {
-      "claim": "Five-season contract",
+      "claim": "Madrid CFF Primera Iberdrola debut at 15 years 2 months, youngest ever",
       "sourceIds": [
         "fcb-joins-2022"
       ],
       "verdict": "confirmed",
-      "note": "'has signed for five seasons'."
+      "note": "Source wording matches."
     },
     {
-      "claim": "Primera Iberdrola debut for Madrid CFF at 15 years and 2 months, the youngest ever in the league",
+      "claim": "U17 Euro runners-up; standout player; reserve team; trained with seniors under Giraldez at Sant Joan Despi; La Masia",
       "sourceIds": [
         "fcb-joins-2022"
       ],
       "verdict": "confirmed",
-      "note": "Club's own claim, stated as fact in the source. Attribution to the club is acceptable."
+      "note": "All present in source."
     },
     {
-      "claim": "Spain finished runners-up at the U17 European Championship, where she was a standout",
-      "sourceIds": [
-        "fcb-joins-2022"
-      ],
-      "verdict": "confirmed",
-      "note": "Source wording: 'one of the standout players at the recent U17 European Championship, where Spain finished runners-up'."
-    },
-    {
-      "claim": "Registered with the reserve team but trained with the seniors under Jonatan Giráldez at Sant Joan Despí",
-      "sourceIds": [
-        "fcb-joins-2022"
-      ],
-      "verdict": "confirmed",
-      "note": "Source says she 'will officially be part of the reserve team but will be working with the seniors' under Giráldez in Sant Joan Despí."
-    },
-    {
-      "claim": "Lived and studied at La Masia",
-      "sourceIds": [
-        "fcb-joins-2022"
-      ],
-      "verdict": "confirmed",
-      "note": "'residing and studying at La Masia'."
-    },
-    {
-      "claim": "Just Women's Sports says she won the award 'days after turning 20'",
-      "sourceIds": [
-        "justwomenssports-kopa-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Phrase is in the JWS article as fetched. Body correctly notes it conflicts with an October award and a July 2006 birth date. Quote should be checked against the live page, since it came via a summary."
-    },
-    {
-      "claim": "Award received on 26 October 2026",
-      "sourceIds": [
-        "efe-kopa-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "EFE dateline 'Londres, 26 oct (EFE)', article dated 26 Oct 2026. Conflict: JWS says the ceremony was 'Monday, October 27, 2026'. 26 Oct 2026 is a Monday, so the JWS date is wrong. Body should not cite JWS for the date. Vanguard is dated 27 Oct."
-    },
-    {
-      "claim": "Award presented in London",
-      "sourceIds": [
-        "efe-kopa-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "EFE dateline London. JWS also places the 2026 Ballon d'Or in London."
-    },
-    {
-      "claim": "Presented by Lucy Bronze, a former Barcelona player",
+      "claim": "Won women's Kopa Trophy in London on 26 Oct 2026 from Lucy Bronze; second in a row",
       "sourceIds": [
         "efe-kopa-2026",
         "vanguard-kopa-2026"
       ],
       "verdict": "confirmed",
-      "note": "EFE: 'de la exjugadora del Barcelona y ahora en el Chelsea Lucy Bronze'. Vanguard does not mention Bronze or London, so cite EFE only for this sentence."
+      "note": "EFE: Londres 26 oct, Lucy Bronze, segundo ano consecutivo. Vanguard: second consecutive honour."
     },
     {
-      "claim": "Second win in a row / back-to-back Kopa Trophy (body; summary; FAQ; metaDescription)",
-      "sourceIds": [
-        "efe-kopa-2026",
-        "vanguard-kopa-2026",
-        "justwomenssports-kopa-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "EFE: 'por segundo año consecutivo'. Vanguard: 'second consecutive Women's Young Player of the Year honour'. JWS: 'a second straight year'."
-    },
-    {
-      "claim": "EFE reports she is the only player to have won the award in both editions held so far",
-      "sourceIds": [
-        "efe-kopa-2026"
-      ],
-      "verdict": "unsupported",
-      "note": "EFE says she is 'la dominadora de este premio, al haberlo ganado en las dos ediciones', which implies but does not state that she is the only winner. Fix: 'EFE reports that she has won the award in both editions held so far.'"
-    },
-    {
-      "claim": "The women's Young Talent award began in 2025, and she won its first edition",
-      "sourceIds": [
-        "vanguard-kopa-2026",
-        "fcb-profile-es"
-      ],
-      "verdict": "confirmed",
-      "note": "Vanguard: 'the inaugural edition in 2025'. FCB profile: Trofeo Kopa 2025. Source conflict: JWS says the women's category 'launched two years ago', which contradicts a 2025 start. The page should say so and cite both."
-    },
-    {
-      "claim": "Has won every edition since the women's category was created",
-      "sourceIds": [
-        "justwomenssports-kopa-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "JWS: 'owns every edition of the award since the women's category launched two years ago'. The conflict over the launch date is noted above."
-    },
-    {
-      "claim": "EFE describes the trophy as the award for the best under-21 player in the world",
+      "claim": "Both editions held so far won by her",
       "sourceIds": [
         "efe-kopa-2026"
       ],
       "verdict": "confirmed",
-      "note": "EFE: 'premia a la mejor jugadora sub-21 del mundo'."
+      "note": "EFE: won in both editions held so far."
     },
     {
-      "claim": "Summary and knownFor: Kopa Trophy at the 2026 Ballon d'Or, second year running; two-time winner; Midfielder for FC Barcelona and Spain",
+      "claim": "'days after turning 20' quote (JWS)",
       "sourceIds": [
-        "efe-kopa-2026",
-        "vanguard-kopa-2026",
-        "justwomenssports-kopa-2026",
+        "justwomenssports-kopa-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote matches."
+    },
+    {
+      "claim": "Club profile 13 matches 2022/23; Liga F table rows 2021/22 to 2026/27",
+      "sourceIds": [
+        "fcb-profile-es",
+        "ligaf-player-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile 13 matches; table rows match (2021/22 8/0; 2022/23 10/2; 2023/24 23/9; 2024/25 25/10; 2025/26 28/10/9; 2026/27 4/2)."
+    },
+    {
+      "claim": "Club profile 45 matches and 12 goals 2025/26; JWS 45/12/13",
+      "sourceIds": [
+        "fcb-profile-es",
+        "justwomenssports-kopa-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Both match."
+    },
+    {
+      "claim": "Four Liga F titles, three Copa, four Supercopa; U-17 WC Golden Ball; 2024 Nations League; Golden Girl 2024; 2025 Kopa; number 19; midfielder who can play wide",
+      "sourceIds": [
         "fcb-profile-es"
       ],
       "verdict": "confirmed",
-      "note": "Award, years and roles agree across sources. Frontmatter carries no tags, which is correct."
+      "note": "All match the profile."
     },
     {
-      "claim": "Senior Spain debut on 23 February 2024 against the Netherlands, UEFA Women's Nations League semi-final",
+      "claim": "Call-up learned while studying for an exam; first senior call-up for Nations League final four; nerves quote",
       "sourceIds": [
-        "eldesmarque-debut-2024",
-        "soccerway-debut-2024"
+        "soccerway-callup-2024"
       ],
       "verdict": "confirmed",
-      "note": "El Desmarque article is dated 23 Feb 2024 (URL 20240223) and says the match was the Nations League semi-final against Países Bajos. Soccerway says 'este viernes', and 23 Feb 2024 was a Friday."
+      "note": "Matches; quote matches."
     },
     {
-      "claim": "Debut at 17",
+      "claim": "Senior debut 23 Feb 2024 vs Netherlands, Nations League semi-final, aged 17, youngest",
       "sourceIds": [
         "eldesmarque-debut-2024"
       ],
       "verdict": "confirmed",
-      "note": "'La joven de 17 años'."
+      "note": "Dated 23 Feb 2024; la mas joven at 17."
     },
     {
-      "claim": "Youngest player to make a senior debut for Spain (El Desmarque)",
-      "sourceIds": [
-        "eldesmarque-debut-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "'se ha convertido en la más joven en hacerlo con la absoluta'. Attributed in the body, as it should be."
-    },
-    {
-      "claim": "Spain won 3-0",
+      "claim": "Spain 3-0; Hermoso and Bonmati first half, Batlle second; came on for Hermoso; third goal four minutes later; Tome answer; shy quote",
       "sourceIds": [
         "soccerway-debut-2024"
       ],
       "verdict": "confirmed",
-      "note": "Score 3-0 to Spain."
+      "note": "All match the fetched text."
     },
     {
-      "claim": "Goals by Jenni Hermoso and Aitana Bonmatí in the first half and Ona Batlle in the second",
+      "claim": "Vanguard: 2025 inaugural women's Young Talent edition, also won",
       "sourceIds": [
-        "soccerway-debut-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "Hermoso and Bonmatí near the end of the first half, Batlle in the second half."
-    },
-    {
-      "claim": "Came on for Jenni Hermoso with a little over a quarter of an hour left; third goal four minutes after she entered",
-      "sourceIds": [
-        "soccerway-debut-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "'algo más de un cuarto de hora por delante'; third goal came four minutes after she entered."
-    },
-    {
-      "claim": "Coach Montse Tomé asked for more of the ball and a calmer tempo",
-      "sourceIds": [
-        "soccerway-debut-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "Quoted by López: 'Tener un poco más de balón y calmar el juego'."
-    },
-    {
-      "claim": "Quote 'Soy vergonzosa. No me gustan estas cosas, pero agradezco el apoyo' and its gloss",
-      "sourceIds": [
-        "soccerway-debut-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "Quote matches the source. The English gloss is fair."
-    },
-    {
-      "claim": "She learned of the call-up while studying for an exam",
-      "sourceIds": [
-        "soccerway-callup-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "'estaba estudiando' for an exam."
-    },
-    {
-      "claim": "First senior call-up, for the Nations League final four, after playing only in youth categories",
-      "sourceIds": [
-        "soccerway-callup-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "'final a cuatro de la Liga de Naciones'; she had not been in the senior team before; youth categories ('categorías inferiores')."
-    },
-    {
-      "claim": "'She said she was nervous' (body)",
-      "sourceIds": [
-        "soccerway-callup-2024"
-      ],
-      "verdict": "unsupported",
-      "note": "The article describes her nerves; the fetched text has no quote where she says she was nervous. Fix: 'The article says she was nervous' or drop the sentence."
-    },
-    {
-      "claim": "Quote 'Era mi primera vez con algunas de ellas, pero el entrenamiento ha ido bien y estoy muy feliz de estar aquí'",
-      "sourceIds": [
-        "soccerway-callup-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "Quote matches the source. Gloss is fair."
-    },
-    {
-      "claim": "Debuted with the first team in 2022/23, 13 matches (body)",
-      "sourceIds": [
-        "fcb-profile-es"
-      ],
-      "verdict": "confirmed",
-      "note": "Profile: joined at 16 and played 13 matches in 2022/23. No goals figure is given, and the body does not claim one."
-    },
-    {
-      "claim": "Liga F table: 2022/23 10 league matches, 2 goals",
-      "sourceIds": [
-        "ligaf-player-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Table: 10 matches, 2 goals, 0 assists."
-    },
-    {
-      "claim": "Madrid CFF 2021/22: eight league matches, no goals",
-      "sourceIds": [
-        "ligaf-player-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Table: 8 matches, 0 goals, 1 assist."
-    },
-    {
-      "claim": "2023/24: 23 matches and nine goals; 2024/25: 25 matches and 10 goals; 2025/26: 28 matches, 10 goals and nine assists",
-      "sourceIds": [
-        "ligaf-player-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Table rows match exactly."
-    },
-    {
-      "claim": "2026/27 entry shows four matches and two goals 'as of 28 October 2026'",
-      "sourceIds": [
-        "ligaf-player-2026"
-      ],
-      "verdict": "unsupported",
-      "note": "Figures match (4 matches, 2 goals), but the table shows no as-of date. Fix: drop 'as of 28 October 2026' or say the figure is the page's figure when it was accessed."
-    },
-    {
-      "claim": "Just Women's Sports: 45 matches, 12 goals and 13 assists in 2025/26",
-      "sourceIds": [
-        "justwomenssports-kopa-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "'tallied a 12-goal, 13-assist season over 45 matches'."
-    },
-    {
-      "claim": "FCB profile lists 45 matches and 12 goals for a second first-team season it does not name",
-      "sourceIds": [
-        "fcb-profile-es"
-      ],
-      "verdict": "wrong",
-      "note": "The profile text as fetched puts 45 matches and 12 goals under 2025/26. The claim that the season is unnamed is therefore wrong. Fix: state that the club profile gives 45 matches and 12 goals for 2025/26, against 28 matches and 10 goals in Liga F's table and 45 and 12 in JWS. The profile's season labels are inconsistent in the fetched text, so a human should check the live page."
-    },
-    {
-      "claim": "Liga F 2025/26 FAQ: 10 goals and nine assists in 28 matches (Liga F); 12 goals and 13 assists in 45 matches (JWS)",
-      "sourceIds": [
-        "ligaf-player-2026",
-        "justwomenssports-kopa-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Both figures match their sources. The FAQ states the discrepancy correctly."
-    },
-    {
-      "claim": "Four Liga F titles, one for each season 2022/23 to 2025/26",
-      "sourceIds": [
-        "fcb-profile-es"
-      ],
-      "verdict": "confirmed",
-      "note": "Profile lists Liga F 4, 2022/23 to 2025/26."
-    },
-    {
-      "claim": "Three Copa de la Reina titles",
-      "sourceIds": [
-        "fcb-profile-es"
-      ],
-      "verdict": "confirmed",
-      "note": "Profile lists Copa de la Reina 3 (2023/24, 2024/25, 2025/26)."
-    },
-    {
-      "claim": "Four Supercopa de España titles",
-      "sourceIds": [
-        "fcb-profile-es"
-      ],
-      "verdict": "confirmed",
-      "note": "Profile lists Supercopa 4, 2022/23 to 2025/26."
-    },
-    {
-      "claim": "Champions League: profile lists two titles but three seasons (2022/23, 2023/24, 2025/26), so no figure given",
-      "sourceIds": [
-        "fcb-profile-es"
-      ],
-      "verdict": "confirmed",
-      "note": "Source matches. The body's wording 'lists two Champions League titles' followed by 'gives no figure' contradicts itself. Fix: say the profile's count and seasons conflict, and give no number."
-    },
-    {
-      "claim": "2022 FIFA U-17 World Cup won with Spain, with the Golden Ball",
-      "sourceIds": [
-        "fcb-profile-es"
-      ],
-      "verdict": "confirmed",
-      "note": "Profile lists the 2022 U-17 World Cup and Golden Ball."
-    },
-    {
-      "claim": "2024 UEFA Women's Nations League won with Spain",
-      "sourceIds": [
-        "fcb-profile-es"
-      ],
-      "verdict": "confirmed",
-      "note": "Profile lists the 2024 Nations League."
-    },
-    {
-      "claim": "In Spain's squad at the 2024 Paris Olympics, where Spain finished fourth",
-      "sourceIds": [
-        "fcb-profile-es"
-      ],
-      "verdict": "confirmed",
-      "note": "Profile lists the squad and fourth place."
-    },
-    {
-      "claim": "Golden Girl award for 2024",
-      "sourceIds": [
-        "fcb-profile-es"
-      ],
-      "verdict": "confirmed",
-      "note": "Profile lists Golden Girl 2024."
-    },
-    {
-      "claim": "Midfielder who can also play as an attacking midfielder or on the wing",
-      "sourceIds": [
-        "fcb-profile-es"
-      ],
-      "verdict": "confirmed",
-      "note": "Profile: centre-midfielder who can play as attacking midfielder or winger."
-    },
-    {
-      "claim": "Wears the number 19",
-      "sourceIds": [
-        "fcb-profile-es"
-      ],
-      "verdict": "confirmed",
-      "note": "Profile shirt number 19. Present-tense claim, still current as of the fetch."
-    },
-    {
-      "claim": "Birth place and nationality fact entries: 'Some third-party profiles add a district; not used' and 'Other profiles list a second nationality; not used' (facts notes)",
-      "sourceIds": [
-        "fcb-profile-es",
         "vanguard-kopa-2026"
       ],
       "verdict": "confirmed",
-      "note": "Vanguard gives 'Vallecas' as a district of Madrid. The second-nationality claim is not in the fetched sources, so it cannot be verified and should not appear anywhere in the page."
+      "note": "'also won the inaugural edition in 2025'."
+    },
+    {
+      "claim": "JWS: owns every edition since women's category launched two years ago",
+      "sourceIds": [
+        "justwomenssports-kopa-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Attributed to JWS; matches."
+    },
+    {
+      "claim": "EFE: trophy rewards best under-21 player in the world",
+      "sourceIds": [
+        "efe-kopa-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "'premia a la mejor jugadora sub-21 del mundo'."
     }
   ],
-  "uncitedClaims": [
-    "The FAQ misspelled queries ('Vickey López', 'Vicky Looez') are included as target queries, but the brief gives no Search Console or query data to show that people search them. Fix: back them with query data or drop them."
-  ],
-  "readsHumanWritten": false,
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "The page explains a real birth-date conflict (JWS 'days after turning 20' against an October award), the Liga F versus JWS season-total discrepancy and the Kopa date conflict in JWS, all of which top results are likely to miss. But the body is stiff and reads like a source-audit memo rather than a biography: sentences such as 'this page uses the club's date', 'this page gives no figure' and 'It is not stated which competitions that figure covers' narrate the page's own method, and several sections are formulaic.",
-  "decision": "reject",
-  "summary": "Reject. The core facts hold up: birth date and place, age 20, the 16th-birthday signing, the 26 Oct 2026 London Kopa Trophy with Lucy Bronze presenting, the second win, the 2024 Spain debut (3-0, 17 years old) and the Liga F season table are all confirmed. Fixes needed: (1) the nationality 'ES' is unsupported by the cited sources; (2) 'EFE reports she is the only player to have won both editions' overstates EFE, which only implies it; (3) 'She said she was nervous' is not a quote from her; (4) the '2026/27 as of 28 October 2026' date is not in the Liga F table; (5) the claim that the FCB profile lists 45 matches and 12 goals for an unnamed season is wrong, because the profile puts that figure under 2025/26; (6) the Champions League sentence contradicts itself ('lists two' then 'gives no figure'); (7) the 'began in 2025' claim conflicts with JWS saying the women's category launched two years ago, and the sources should both be cited; (8) the FAQ misspelled queries have no query-data basis in the brief."
+  "valueNote": "Prose now uses varied openings and combined sentences; attributions appear only where the source is the point (JWS disagreement, EFE definition). Club-versus-league stats discrepancy and the 2026 timeline remain.",
+  "decision": "approve",
+  "summary": "All facts re-checked against the fetched sources and match. Prose rewritten into varied, flowing sentences with citations kept."
 }

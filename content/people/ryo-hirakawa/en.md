@@ -11,9 +11,13 @@ summary: >-
   the rest of the 2026 Mexico City Grand Prix weekend. He is 32, a two-time FIA
   World Endurance Championship winner with Toyota, and has been Haas's official
   reserve driver since April 2025.
-status: review
+status: published
 risk: low
+reviewedAt: '2026-11-01'
+reviewBy: '2027-05-01'
 author: editor-in-chief
+reviewer: fact-check-desk
+aiAssisted: true
 targetQueries:
   - who is Ryo Hirakawa
   - Ryo Hirakawa age
@@ -36,14 +40,17 @@ faq:
     a: >-
       He is Haas's official reserve driver and normally races for Toyota in the
       WEC.
+autoReviews: 1
+publishedAt: '2026-11-01'
+publishedTime: '2026-11-01T21:38:16.092Z'
 ---
 Haas dropped Esteban Ocon for the rest of the 2026 Mexico City Grand Prix weekend and gave no reason for the change. The team confirmed that Ocon was not ill [s:racefans-ocon-replacement-2026]. Ryo Hirakawa, 32, was called up on Saturday morning, before qualifying [s:f1-dream-come-true-2026] [s:f1-ocon-replacement-2026].
 
-He was due to partner Ollie Bearman through final practice, qualifying and Sunday's 71-lap race [s:f1-ocon-replacement-2026]. Formula 1 described the race as his first Grand Prix start [s:f1-ocon-replacement-2026].
+He was due to partner Ollie Bearman through final practice and qualifying [s:f1-ocon-replacement-2026]. Formula 1 described Sunday's 71-lap race as his first Grand Prix start [s:f1-ocon-replacement-2026].
 
 ## Friday practice and qualifying
 
-Hirakawa took part in the opening practice session on Friday as Haas's reserve driver [s:racefans-ocon-replacement-2026]. Formula 1 reported that he finished 15th overall [s:f1-ocon-replacement-2026]. Ocon returned to the car during the second practice session [s:f1-ocon-replacement-2026], where he was 13th, ahead of Bearman [s:racefans-ocon-replacement-2026].
+Hirakawa took part in the opening practice session on Friday as Haas's reserve driver [s:racefans-ocon-replacement-2026]. Formula 1 reported that he finished 15th overall [s:f1-ocon-replacement-2026]. Ocon returned to the car during the second practice session [s:f1-ocon-replacement-2026]. He was 13th, ahead of Bearman [s:racefans-ocon-replacement-2026].
 
 He qualified 19th and was eliminated in Q1 [s:f1-dream-come-true-2026]. He said he had traffic on his last push lap [s:f1-dream-come-true-2026]. He called the call-up a dream come true [s:f1-dream-come-true-2026].
 
@@ -69,7 +76,7 @@ In the GT500 class of Super GT, driving for TOM'S, he won the 2017 title and fin
 
 ## Toyota and the WEC titles
 
-He races for Toyota in the FIA World Endurance Championship [s:f1-reserve-driver-2025] [s:haas-profile]. He won the 24 Hours of Le Mans in 2022 with the team, and Formula 1 describes him as a two-time WEC winner, in 2022 and 2023 [s:f1-dream-come-true-2026] [s:haas-profile].
+He races for Toyota in the FIA World Endurance Championship [s:f1-reserve-driver-2025] [s:haas-profile]. He won the 24 Hours of Le Mans in 2022 with the team. Formula 1 calls him a two-time WEC champion [s:f1-dream-come-true-2026], and the Haas profile gives his titles as 2022 and 2023 [s:haas-profile].
 
 The Haas profile gives his championship record in detail. He was champion in 2022 with 149 points, including the Le Mans win, and champion again in 2023 with 172 points. He was fourth in 2024 with 109 points and seventh in 2025 with 66 points [s:haas-profile]. RaceFans reports that he normally races for Toyota in the WEC and is due to return there [s:racefans-ocon-replacement-2026].
 

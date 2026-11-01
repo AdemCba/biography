@@ -1,0 +1,220 @@
+{
+  "date": "2026-11-01",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Nascido em Sydney, Austrália; joga com a mão direita; país Austrália",
+      "sourceIds": [
+        "rg-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "RG profile: Sydney, Right, AUS."
+    },
+    {
+      "claim": "Melhor ranking No. 5 em julho de 2026; 2024 No. 9; 2025 No. 7",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio states these."
+    },
+    {
+      "claim": "Alcançou o No. 6 em julho de 2024",
+      "sourceIds": [
+        "rg-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "RG profile: World No. 6 July 2024."
+    },
+    {
+      "claim": "Perdeu a final de Viena para Alcaraz 6-1, 6-4 em 1 de novembro de 2026; Alcaraz segundo cabeça de chave e convidado; De Minaur quinto cabeça de chave",
+      "sourceIds": [
+        "atp-vienna-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP results: [2] [WC] Alcaraz d [5] de Minaur 61 64, Sunday 1 November."
+    },
+    {
+      "claim": "Venceu Zverev em Viena; ABC o descreveu como futuro número um do mundo",
+      "sourceIds": [
+        "abc-tennis"
+      ],
+      "verdict": "confirmed",
+      "note": "ABC body: soon-to-be world number one. Headline quoted as a translation."
+    },
+    {
+      "claim": "Estreia de Zverev em Viena em 27 de outubro, 7-5, 3-6, 7-6(11), três horas e cinco minutos; relato de 28 de outubro: a uma vitória do No. 1",
+      "sourceIds": [
+        "tennistourtalk-zverev"
+      ],
+      "verdict": "confirmed",
+      "note": "Tennis Tour Talk confirms."
+    },
+    {
+      "claim": "Pai uruguaio, mãe espanhola, treina em Alicante; orientado por Lleyton Hewitt; apoio da Tennis Australia",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio confirms each point."
+    },
+    {
+      "claim": "Começou a jogar aos quatro anos após a mãe inscrevê-lo em aulas; mudou-se para Alicante aos cinco; infância entre Espanha e Austrália",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio: began at age 4; moved to Alicante as a 5-year-old."
+    },
+    {
+      "claim": "Treinadores Adolfo Gutierrez e Matt Reid",
+      "sourceIds": [
+        "rg-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "RG profile coaches."
+    },
+    {
+      "claim": "11 títulos do circuito ATP; sete quartas de final de Grand Slam",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Bio credits 11 titles and seven Grand Slam quarter-finals; now attributed to the bio."
+    },
+    {
+      "claim": "Primeiro australiano classificado para o ATP Finals em simples desde Hewitt em 2004 (2024-25)",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Bio states this."
+    },
+    {
+      "claim": "Acapulco 2023 e 2024; Washington 2025; Roterdã 2026",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Bio states these titles."
+    },
+    {
+      "claim": "56 partidas vencidas em 2025, melhor marca pessoal",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Bio: personal-best 56 victories in 2025."
+    },
+    {
+      "claim": "Primeiro título de duplas em Cincinnati 2020 com Carreño Busta",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Bio states this."
+    },
+    {
+      "claim": "United Cup: venceu No. 2 Nadal em 2023 e No. 1 Djokovic em 2024",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Bio states these."
+    },
+    {
+      "claim": "Laver Cup: venceu Andy Murray (Team World) em 2022 e No. 3 Zverev em 2025",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Bio states these."
+    },
+    {
+      "claim": "Primeiras quartas de Grand Slam no US Open 2020; quatro quartas seguidas de RG 2024 ao AO 2025; quartas, semifinal e final de Masters 1000 em Toronto 2023",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Bio states these; four consecutive events RG 2024 to AO 2025 present in bio text."
+    },
+    {
+      "claim": "Copa Davis 2022: 6-1; Austrália à primeira final desde 2003",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Bio states this."
+    },
+    {
+      "claim": "Eliminatória 2026 contra a Polônia em Brisbane, Pat Rafter Arena, Austrália venceu por 3-1",
+      "sourceIds": [
+        "aap-davis-poland-2026",
+        "hurbra-davis-poland-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "AAP 3-1 in Brisbane; HurBra venue Pat Rafter Arena."
+    },
+    {
+      "claim": "Venceu Kasnikowski 6-3, 6-0 no sábado",
+      "sourceIds": [
+        "hurbra-davis-poland-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "HurBra: 6-3, 6-0."
+    },
+    {
+      "claim": "Venceu Majchrzak 6-3, 6-3 no domingo na partida decisiva; Purcell e Hijikata venceram duplas; vencedor avança aos Qualificatórios 2027",
+      "sourceIds": [
+        "aap-davis-poland-2026",
+        "hurbra-davis-poland-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "AAP and HurBra confirm."
+    },
+    {
+      "claim": "Alcaraz venceu 7-5, 6-2, 6-1 nas quartas do AO em 27 de janeiro de 2026; Head2Head 6-0; dois sets desde 2022; primeira semifinal em Melbourne Park",
+      "sourceIds": [
+        "atp-ao-2026-qf"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP report matches all points."
+    },
+    {
+      "claim": "Sinner venceu De Minaur 6-3, 6-4 na semifinal de Viena, outubro de 2025",
+      "sourceIds": [
+        "tennismajors-vienna"
+      ],
+      "verdict": "confirmed",
+      "note": "Saturday October 25, 2025 semi-final."
+    },
+    {
+      "claim": "10º na PIF ATP Live Race, primeiro fora do corte, 2.880 pontos; vitória a 2.930; a menos de 254 de Jodar (9º, 3.184); Tien 8-9 contra top 10",
+      "sourceIds": [
+        "tennismajors-race-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated 28 Oct 2026 matches all figures."
+    },
+    {
+      "claim": "Frontmatter e FAQ",
+      "sourceIds": [
+        "atp-bio",
+        "rg-profile",
+        "atp-vienna-2026",
+        "abc-tennis",
+        "atp-ao-2026-qf"
+      ],
+      "verdict": "confirmed",
+      "note": "ABC's 'futuro número um' used in summary, body and FAQ; other frontmatter backed by body and sources."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Brazilian Portuguese wording and local query targets; timeline of Vienna final, Davis Cup tie and race position goes beyond generic results.",
+  "decision": "approve",
+  "summary": "All facts checked against opened sources. ABC's description of Zverev corrected to futuro numero um in summary, body and FAQ, and the 11-title count attributed to the ATP bio. No unsupported claims remain."
+}

@@ -1,0 +1,291 @@
+{
+  "date": "2026-11-01",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Nacido el 11 de febrero de 2002, 24 años a 1 de noviembre de 2026",
+      "sourceIds": [
+        "f1-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 profile shows 11/02/2002."
+    },
+    {
+      "claim": "Nacido en Hastings, Nueva Zelanda; nacionalidad neozelandesa",
+      "sourceIds": [
+        "f1-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "RacingNews365 (1 nov): futuro en F1 lejos de ser seguro; todavia no le han ofrecido contrato para el proximo ano",
+      "sourceIds": [
+        "racingnews365-unjust-sacking-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Two quoted phrases split; both verified."
+    },
+    {
+      "claim": "Karun Chandhok en Sky Sports F1, entrenamientos libres en Mexico: una de las destituciones mas injustas de la F1",
+      "sourceIds": [
+        "racingnews365-unjust-sacking-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "FP1 Mexico City GP."
+    },
+    {
+      "claim": "Dos titulos nacionales de karting en 2014",
+      "sourceIds": [
+        "racingnews365-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "2016 New Zealand F1600, campeon mas joven, 14 victorias",
+      "sourceIds": [
+        "racingnews365-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "2017 Australian F4 con Team BRM, subcampeon con cinco victorias",
+      "sourceIds": [
+        "racingnews365-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "2018 ADAC F4 con Van Amersfoort, subcampeon con tres victorias",
+      "sourceIds": [
+        "racingnews365-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Se unio al Red Bull Junior Team",
+      "sourceIds": [
+        "visacashapprb-lawson-profile"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "2019 Toyota Racing Series, segundo en Euroformula Open, FIA F3 con MP Motorsport undecimo con 41 puntos y dos podios",
+      "sourceIds": [
+        "racingnews365-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "2020 Hitech GP en F3, tres carreras ganadas, quinto con 143 puntos",
+      "sourceIds": [
+        "racingnews365-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "2021 F2 con Hitech: FIA undecimo con una victoria en la primera Sprint de Sakhir; RacingNews365 novena",
+      "sourceIds": [
+        "fia-f2-hall-of-fame",
+        "racingnews365-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Sources disagree; the article says so."
+    },
+    {
+      "claim": "2022 Carlin: tres carreras sprint ganadas, tercero con 149 puntos",
+      "sourceIds": [
+        "fia-f2-hall-of-fame"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "2023 Super Formula con Team Mugen, subcampeon, tres victorias",
+      "sourceIds": [
+        "honda-driver-profile",
+        "racingnews365-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Team and three wins from RacingNews365."
+    },
+    {
+      "claim": "Debut en el GP de Paises Bajos 2023 en lugar de Ricciardo, que se habia roto una mano",
+      "sourceIds": [
+        "f1-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Partio 19.o y termino 13.o",
+      "sourceIds": [
+        "visacashapprb-lawson-profile"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Singapur 2023 noveno con sus primeros dos puntos; Monza 11.o, Suzuka 11.o, Lusail 17.o; cinco carreras con AlphaTauri",
+      "sourceIds": [
+        "f1-results-2023",
+        "visacashapprb-lawson-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Results page confirms positions and total 2 points."
+    },
+    {
+      "claim": "Desde el GP de EE. UU. 2024 y puntos en Austin y Sao Paulo",
+      "sourceIds": [
+        "visacashapprb-lawson-profile",
+        "racingnews365-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Points finishes confirmed; positions not given."
+    },
+    {
+      "claim": "Anuncio como sustituto de Sergio Perez en Red Bull Racing junto a Verstappen; tras dos Grandes Premios volvio a Racing Bulls",
+      "sourceIds": [
+        "f1-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Honda: empezo 2025 en Red Bull, cambio con Yuki Tsunoda antes del GP de Japon",
+      "sourceIds": [
+        "honda-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "RacingNews365 sitúa el cambio tras Australia y China; lo describe como despido; tres carreras con Red Bull cuando Hadjar se lesiono",
+      "sourceIds": [
+        "racingnews365-driver-profile",
+        "racingnews365-unjust-sacking-2026"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Mejor resultado de 2025: quinto en Azerbaiyan",
+      "sourceIds": [
+        "racingnews365-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Diciembre 2025: frases sobre los pensamientos al inicio del ano y mas fuerte",
+      "sourceIds": [
+        "f1-more-relief-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated 4 December 2025."
+    },
+    {
+      "claim": "Permane le comunico tras el GP de Catar; alivio; plan",
+      "sourceIds": [
+        "f1-more-relief-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Told just after the Qatar race."
+    },
+    {
+      "claim": "Compañero Arvid Lindblad, novato",
+      "sourceIds": [
+        "racingnews365-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "18 salidas en 2026: 15 con Racing Bulls, 3 con Red Bull en Países Bajos, Italia, España",
+      "sourceIds": [
+        "f1-results-2026"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Quinto en Monaco, igualar su mejor resultado",
+      "sourceIds": [
+        "motorsportweek-focus-2026"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "77 puntos, noveno, 70 en GP y 7 en sprints",
+      "sourceIds": [
+        "f1-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Primera mitad de temporada muy buena (cita)",
+      "sourceIds": [
+        "motorsportweek-focus-2026"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Junio 2026: es muy pronto para ese tipo de conversaciones; en un buen momento; aprendido mucho en los ultimos doce meses",
+      "sourceIds": [
+        "1news-early-days-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'we're in a good place' with the team; the article uses the 'in a good place' phrase for Lawson himself. Acceptable paraphrase."
+    },
+    {
+      "claim": "Mekies: creo que ha hecho un muy buen trabajo",
+      "sourceIds": [
+        "planetf1-tsolov-2027"
+      ],
+      "verdict": "confirmed",
+      "note": "Published 30 Sep 2026."
+    },
+    {
+      "claim": "Permane: decision dificil entre tres pilotos fuertes para dos plazas (parafrasis)",
+      "sourceIds": [
+        "racingnews365-unjust-sacking-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Paraphrase, not quoted."
+    },
+    {
+      "claim": "Septiembre 2026: Permane sobre plazos y dos pilotos fantasticos; Tsolov en sus pensamientos",
+      "sourceIds": [
+        "planetf1-permane-2027"
+      ],
+      "verdict": "confirmed",
+      "note": "Published 11 Sep 2026."
+    },
+    {
+      "claim": "19 oct 2026: no es lo que estoy pensando ahora; bien metido en la pelea por el P5",
+      "sourceIds": [
+        "motorsportweek-focus-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Published 19 Oct 2026."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Same timeline as the English page, localised for Spanish readers, with the conflicting 2025 accounts shown side by side.",
+  "decision": "approve",
+  "summary": "All claims checked against the fetched sources. Fixed: split the RacingNews365 quote, removed the unsupported Ricciardo replacement details in 2023 and 2024, quoted Permane on Tsolov directly, and removed the 'asked whether he had discussed renewing' framing."
+}

@@ -1,0 +1,309 @@
+{
+  "date": "2026-11-01",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Nació el 5 de marzo de 1973 en Nampula, Mozambique",
+      "sourceIds": [
+        "acmilan-appointment",
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Both state it."
+    },
+    {
+      "claim": "Mozambique colonia portuguesa, independencia en 1975",
+      "sourceIds": [
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Vivió en África hasta los 14 años, después Barreiro cerca de Lisboa",
+      "sourceIds": [
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Jugaba de defensa",
+      "sourceIds": [
+        "lapresse-milan-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "La Presse: 'difensore'."
+    },
+    {
+      "claim": "Barreirense 1991, 91 partidos en cuatro temporadas",
+      "sourceIds": [
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Oporto sin jugar con el primer equipo, cedido varias veces",
+      "sourceIds": [
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Último club Estrela da Amadora, retiro en 2005",
+      "sourceIds": [
+        "asroma-10-things",
+        "lapresse-milan-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed across both."
+    },
+    {
+      "claim": "Empezó a entrenar en 2005 en la cantera del Estrela da Amadora",
+      "sourceIds": [
+        "acmilan-appointment",
+        "lapresse-milan-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "AC Milan confirms."
+    },
+    {
+      "claim": "Desportivo Aves: tercera división a cuartos de la Copa, dos temporadas seguidas, ascenso a segunda",
+      "sourceIds": [
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "2012 Paços de Ferreira tercer puesto, plaza en la previa de Champions",
+      "sourceIds": [
+        "asroma-10-things",
+        "acmilan-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "AS Roma confirms."
+    },
+    {
+      "claim": "Oporto 2013, ganó la Supercopa de Portugal, su primer gran título como entrenador",
+      "sourceIds": [
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "AS Roma: Portuguese Super Cup, his first major trophy as a coach."
+    },
+    {
+      "claim": "La Presse: Oporto le destituyó en marzo; temporada siguiente Paços, octavo",
+      "sourceIds": [
+        "lapresse-milan-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Braga ganó la Copa de Portugal, vencer al Oporto en penaltis",
+      "sourceIds": [
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed; no year asserted."
+    },
+    {
+      "claim": "Shakhtar llegada 1 de junio de 2016",
+      "sourceIds": [
+        "shakhtar-leaves"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Tres Ligas, tres Copas, una Supercopa de Ucrania, tres dobletes",
+      "sourceIds": [
+        "shakhtar-leaves"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "139 partidos, 103 victorias",
+      "sourceIds": [
+        "shakhtar-leaves",
+        "acmilan-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Racha de 29 partidos de liga sin perder",
+      "sourceIds": [
+        "shakhtar-leaves"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Se marchó en junio de 2019",
+      "sourceIds": [
+        "shakhtar-leaves"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "AS Roma lo nombró el 11 de junio de 2019",
+      "sourceIds": [
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Roma quinto en Serie A; al año siguiente semifinales de Liga Europa",
+      "sourceIds": [
+        "ligue1-article",
+        "acmilan-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "League 1 article confirms."
+    },
+    {
+      "claim": "Roma lo destituyó en mayo de 2021",
+      "sourceIds": [
+        "lapresse-milan-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Lille lo contrató para dos temporadas",
+      "sourceIds": [
+        "dn-lyon-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "DN: two seasons as Lille head coach."
+    },
+    {
+      "claim": "Lille quinto en Ligue 1 2022/23 y cuarto en 2023/24",
+      "sourceIds": [
+        "dn-lyon-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Lille cuartos de la Liga Europa Conferencia 2024",
+      "sourceIds": [
+        "ligue1-article"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Milan 13 de junio de 2024, contrato de tres temporadas",
+      "sourceIds": [
+        "acmilan-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Destituido a finales de 2024",
+      "sourceIds": [
+        "dn-lyon-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Comunicado del Milan sin declaraciones de Fonseca",
+      "sourceIds": [
+        "acmilan-appointment"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Lyon 31 enero 2025 para sustituir a Pierre Sage",
+      "sourceIds": [
+        "ligue1-article",
+        "lyon-appointment-release"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Contrato hasta 30 de junio de 2027; decisión unánime Textor y dirección deportiva",
+      "sourceIds": [
+        "lyon-appointment-release"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Impulso para devolver al Lyon sus aspiraciones",
+      "sourceIds": [
+        "ligue1-article"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Lyon sexto en Ligue 1 con 30 puntos",
+      "sourceIds": [
+        "ligue1-article"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "A Bola: acuerdo Sporting con Fonseca y Lyon; Rui Borges rescisión; sin comunicado del club",
+      "sourceIds": [
+        "abola-sporting-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Despedida del Lyon por mensaje; debut ante Moreirense jornada 11; Tiago Fernandes ante Shakhtar",
+      "sourceIds": [
+        "abola-sporting-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Acuerdo con el Lyon sin condiciones",
+      "sourceIds": [
+        "abola-sporting-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Siete títulos en Shakhtar 2016-2019 (resumen)",
+      "sourceIds": [
+        "shakhtar-leaves"
+      ],
+      "verdict": "confirmed",
+      "note": "3+3+1=7."
+    },
+    {
+      "claim": "FAQ clubes incluye Desportivo Aves",
+      "sourceIds": [
+        "asroma-10-things"
+      ],
+      "verdict": "confirmed",
+      "note": "AS Roma lists Aves."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline from primary club sources and the Sporting report, with the unconfirmed status of the move stated.",
+  "decision": "approve",
+  "summary": "All claims checked against fetched sources; the unsupported items were corrected to the sources' wording."
+}

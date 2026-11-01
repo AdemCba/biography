@@ -1,0 +1,112 @@
+{
+  "id": "moritz-wagner",
+  "name": "Moritz Wagner",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1997-04-26",
+      "sources": [
+        "nba-wagner-profile",
+        "olympedia-wagner"
+      ],
+      "note": "NBA.com and Olympedia both give 26 April 1997."
+    },
+    "birthPlace": {
+      "value": "Berlin, Germany",
+      "sources": [
+        "olympedia-wagner",
+        "web-de-wagner-neuland"
+      ],
+      "note": "Olympedia lists Berlin, Berlin; web.de says born in Berlin."
+    },
+    "nationality": {
+      "value": [
+        "DE"
+      ],
+      "sources": [
+        "nba-wagner-profile",
+        "olympedia-wagner"
+      ],
+      "note": "NBA.com lists country Germany; Olympedia lists NOC GER."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "nba-wagner-profile",
+      "url": "https://www.nba.com/player/1629021/moritz-wagner/bio",
+      "title": "Moritz Wagner | NBA.com player bio",
+      "publisher": "NBA",
+      "type": "official",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "olympedia-wagner",
+      "url": "https://www.olympedia.org/athletes/143383",
+      "title": "Moritz Wagner - Olympedia",
+      "publisher": "Olympedia",
+      "type": "database",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "fiba-nba-players-2023",
+      "url": "https://www.fiba.basketball/en/news/basketballworldcup-2023-news-record-55-nba-players-on-rosters-for-fiba-basketball-world-cup-2023",
+      "title": "Record 55 NBA players on rosters for FIBA Basketball World Cup 2023",
+      "publisher": "FIBA",
+      "type": "league-or-federation",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "fiba-final-2023",
+      "url": "https://www.fiba.basketball/en/news/basketballworldcup-2023-news-game-report-germany-v-serbia",
+      "title": "Schroder delivers, Germany win the World Cup (game report)",
+      "publisher": "FIBA",
+      "type": "league-or-federation",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "joyn-wsmds-2026",
+      "url": "https://www.joyn.de/bts/serien/wer-stiehlt-mir-die-show/wsmds2026-heute-livestream-prosieben-start-staffel12-carolin-kebekus-moritz-wagner-knossi-188154",
+      "title": "Wer stiehlt mir die Show? Staffel 12 Start, Livestream",
+      "publisher": "Joyn",
+      "type": "official",
+      "accessed": "2026-11-01",
+      "lang": "de"
+    },
+    {
+      "id": "prosieben-presse-wsmds-2026",
+      "url": "https://www.presseportal.de/pm/25171/6286232",
+      "title": "Wer stiehlt mir die Show? Staffel 12 mit Carolin Kebekus, Moritz Wagner und Knossi",
+      "publisher": "Presseportal (ProSieben press release)",
+      "type": "company",
+      "accessed": "2026-11-01",
+      "lang": "de"
+    },
+    {
+      "id": "web-de-wagner-neuland",
+      "url": "https://web.de/magazine/unterhaltung/tv-shows/nba-star-moritz-wagner-betritt-neuland-42898882",
+      "title": "NBA-Star Moritz Wagner betritt Neuland",
+      "publisher": "web.de",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "de"
+    },
+    {
+      "id": "eurohoops-magic-extension-2025",
+      "url": "https://www.eurohoops.net/en/nba-news/1844809/moritz-wagner-re-signs-with-the-orlando-magic-nba",
+      "title": "Moritz Wagner re-signs with the Orlando Magic",
+      "publisher": "Eurohoops",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    }
+  ]
+}

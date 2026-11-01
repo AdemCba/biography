@@ -1,0 +1,119 @@
+{
+  "worthWriting": true,
+  "reason": "Living football coach in the news on 1 Nov 2026: A Bola reports Sporting CP is set to appoint him in place of Rui Borges, with Lyon agreement reported but no official Sporting statement found. Career is documented by official club releases (AS Roma, AC Milan, Shakhtar, Olympique Lyonnais filing) and the league.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "abola-sporting-report",
+      "url": "https://www.abola.pt/noticias/sporting-paulo-fonseca-vai-ser-o-novo-treinador-2026110119171283519",
+      "title": "Sporting: Paulo Fonseca vai ser o novo treinador (A Bola report, 1 Nov 2026)",
+      "publisher": "A Bola",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "asroma-10-things",
+      "url": "https://www.asroma.com/en/news/54765/10-things-to-know-about-paulo-fonseca",
+      "title": "10 things to know about Paulo Fonseca",
+      "publisher": "AS Roma",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "acmilan-appointment",
+      "url": "https://acmilan.com/en/news/articles/media/2024-06-13/paulo-fonseca-is-the-new-head-coach-of-ac-milan",
+      "title": "Paulo Fonseca is the new head coach of AC Milan",
+      "publisher": "AC Milan",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "shakhtar-leaves",
+      "url": "https://shakhtar.com/en/news/2019/june/11_news/11_paulo-fonseca-leaves-shakhtar/",
+      "title": "Paulo Fonseca leaves Shakhtar",
+      "publisher": "FC Shakhtar Donetsk",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "lyon-appointment-release",
+      "url": "https://www.webdisclosure.com/press-release/olympique-lyonnais-groupe-epa-olg-paulo-fonseca-appointed-coach-of-olympique-lyonnais-gnM8VCCXK1O",
+      "title": "Paulo Fonseca appointed coach of Olympique Lyonnais (press release)",
+      "publisher": "Olympique Lyonnais Groupe (Euronext Paris: OLG)",
+      "type": "filing",
+      "lang": "fr"
+    },
+    {
+      "id": "ligue1-article",
+      "url": "https://ligue1.com/en/articles/l1_article_1796-",
+      "title": "l1 article 1796",
+      "publisher": "Ligue 1 (LFP)",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "dn-lyon-appointment",
+      "url": "https://www.dn.pt/desporto/paulo-fonseca-oficializado-como-treinador-do-lyon",
+      "title": "Paulo Fonseca oficializado como treinador do Lyon",
+      "publisher": "Diario de Noticias",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "record-lyon-appointment",
+      "url": "https://www.record.pt/internacional/paises/franca/lyon/detalhe/paulo-fonseca-oficializado-no-lyon-treinador-assina-ate-2027",
+      "title": "Paulo Fonseca oficializado no Lyon: treinador assina ate 2027",
+      "publisher": "Record",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "lapresse-milan-profile",
+      "url": "https://www.lapresse.it/calcio/2024/05/29/paulo-fonseca-chi-e-il-probabile-nuovo-allenatore-del-milan/",
+      "title": "Paulo Fonseca, chi e il probabile nuovo allenatore del Milan",
+      "publisher": "La Presse",
+      "type": "press",
+      "lang": "it"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1973-03-05",
+      "sources": [
+        "acmilan-appointment",
+        "asroma-10-things"
+      ],
+      "note": "Both club pages state 5 March 1973."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Nampula, Mozambique",
+      "sources": [
+        "acmilan-appointment",
+        "asroma-10-things"
+      ],
+      "note": "AS Roma and AC Milan both say Nampula. A search snippet of an AC Milan team page listed Maputo, but that page did not load with a profile when opened, so the conflict is unresolved and Maputo is not used."
+    },
+    "nationality": {
+      "value": "PT",
+      "sources": [
+        "shakhtar-leaves"
+      ],
+      "note": "Shakhtar's official page calls him the Portuguese coach. Born in Mozambique, a former Portuguese colony."
+    }
+  },
+  "targetQueries": [
+    "how old is Paulo Fonseca",
+    "where is Paulo Fonseca from",
+    "Paulo Fonseca Sporting coach",
+    "Paulo Fonseca Lyon coach",
+    "Paulo Fonseca Shakhtar Donetsk",
+    "Paulo Fonseca Roma",
+    "Paulo Fonseca AC Milan sacked",
+    "Paulo Fonseca career clubs",
+    "Paulo Fonseca Lille"
+  ],
+  "gapNote": "Sporting's official announcement and Lyon's consent were not confirmed in any source opened on 1 Nov 2026; the page must describe the move as a report. O JOGO and TSF pages returned HTTP 403 and were not used. Top results rely on Wikipedia for birth data, which we cannot cite; the official club pages (Roma, Milan, Shakhtar, Lyon filing) fill that gap."
+}

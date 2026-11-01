@@ -1,25 +1,30 @@
 ---
 title: Kimi Antonelli
 slug: kimi-antonelli
-metaTitle: 'Kimi Antonelli: edad, victorias y título de F1 2026'
+metaTitle: 'Kimi Antonelli: edad, victorias y el título en México'
 metaDescription: >-
   Edad de Kimi Antonelli, sus raíces en Bolonia, su paso por el karting y
-  Mercedes, y la victoria en Austin que lo acerca al título de F1 de 2026.
+  Mercedes, y el Gran Premio de la Ciudad de México, que podría darle el título
+  de F1 de 2026.
 knownFor: Piloto italiano de Fórmula 1 de Mercedes y líder del campeonato de 2026
 summary: >-
   Kimi Antonelli es el piloto italiano de Fórmula 1 que corre para Mercedes.
   Ganó el Gran Premio de Estados Unidos de 2026 en Austin el 25 de octubre de
   2026 y lidera el campeonato de pilotos, con 123 puntos de ventaja sobre George
-  Russell [s:f1-austin-race-report] [s:skysports-austin-report].
+  Russell. El Gran Premio de la Ciudad de México, siete días después de Austin,
+  podría darle el título.
 status: published
 risk: low
-reviewedAt: '2026-10-27'
+publishedAt: '2026-11-01'
+reviewedAt: '2026-11-01'
+reviewBy: '2027-05-01'
 author: editor-in-chief
-reviewer: editor-in-chief
+reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Kimi Antonelli
   - Kimi Antonelli campeonato del mundo
+  - Kimi Antonelli Gran Premio de México
   - Kimi Antonelli Gran Premio de Estados Unidos
   - Kimi Antonelli edad
   - Kimi Antonelli cumpleaños
@@ -30,6 +35,12 @@ targetQueries:
   - Kimi Antonelli Fórmula 2
   - Kimi Antonelli Fórmula 4 italiana
 faq:
+  - q: ¿Puede Kimi Antonelli conseguir el título en México?
+    a: >-
+      Sí. Según la Fórmula 1, terminar entre los nueve primeros lo confirma como
+      campeón del mundo [s:f1-mexico-race-week]. Si gana Russell, debe terminar
+      noveno o mejor, y si gana Hamilton, décimo o mejor; si no gana ninguno de
+      los dos, es campeón termine donde termine [s:crash-mexico-title].
   - q: ¿Cuántos años tiene Kimi Antonelli?
     a: >-
       Nació el 25 de agosto de 2006, así que cumplió 20 años en agosto de 2026 y
@@ -49,10 +60,14 @@ faq:
     a: >-
       Marco Antonelli es un ex piloto de carreras que dirige su propio equipo de
       motorsport, Antonelli Motorsport. Kimi corrió para ese equipo de niño.
-autoReviews: 3
-publishedAt: '2026-10-27'
+autoReviews: 4
+publishedTime: '2026-11-01T21:38:16.079Z'
 ---
 Kimi Antonelli ganó el Gran Premio de Estados Unidos de 2026 en el Circuit of the Americas, en Austin, el 25 de octubre de 2026, partiendo desde la pole [s:f1-austin-race-report]. Autosport lo contabilizó como su novena victoria en Gran Premio de la temporada [s:autosport-austin-report]. Con ese resultado lidera el campeonato de pilotos, con 123 puntos de ventaja sobre Russell [s:skysports-austin-report], aunque el título seguía sin decidirse [s:f1-austin-race-report].
+
+## noviembre 2026
+
+El título de pilotos podría decidirse en el Gran Premio de la Ciudad de México, la ronda 19 de la temporada y siete días después de Austin [s:f1-mexico-race-week]. Antonelli saca 123 puntos a George Russell, y quedan 125 puntos en juego en cinco rondas [s:crash-mexico-title]. La Fórmula 1 indica que terminar entre los nueve primeros lo confirmaría como campeón del mundo [s:f1-mexico-race-week]. Crash.net detalla los demás casos: si gana Russell, Antonelli necesita el noveno puesto o mejor, y si gana Lewis Hamilton, el décimo o mejor. Si no gana ninguno de los dos, es campeón termine donde termine [s:crash-mexico-title]. Hamilton sale desde la pole, con Russell segundo y Antonelli cuarto en la parrilla [s:crash-mexico-title].
 
 ## De Bolonia al karting
 
@@ -69,9 +84,9 @@ Corrió en Fórmula 2 con PREMA durante 2024. Ganó en Silverstone y en Hungría
 
 ## La temporada 2025 en Mercedes
 
-Antonelli debutó en el Gran Premio de Australia de 2025, en Melbourne, como el tercer piloto más joven en tomar la salida de una carrera de F1 y el decimotercer piloto de Mercedes en disputar un Gran Premio [s:mercedes-everything]. Terminó cuarto, y con ese resultado llegaron sus primeros puntos [s:mercedes-everything]. Después, en Japón, se convirtió en el piloto más joven de la historia de la F1 en liderar una vuelta [s:mercedes-everything].
+Antonelli debutó en el Gran Premio de Australia de 2025, en Melbourne, como el tercer piloto más joven en tomar la salida de una carrera de F1 y el decimotercer piloto de Mercedes en disputar un Gran Premio [s:mercedes-everything]. Terminó cuarto [s:mercedes-everything]. Después, en Japón, se convirtió en el piloto más joven de la historia de la F1 en liderar una vuelta [s:mercedes-everything].
 
-Terminó tercero en Canadá, y así pasó a ser el tercer piloto más joven en subir a un podio de F1 [s:mercedes-everything]. Cuando llegó al Gran Premio de Brasil, donde acabó segundo, ya era el novato con más puntos de la historia de la F1 [s:mercedes-everything]. Eligió el número 12 para 2025 y los años siguientes [s:mercedes-everything]. Cerró la temporada séptimo en el campeonato de pilotos, con 150 puntos y tres podios [s:mercedes-driver-profile].
+Terminó tercero en Canadá, y así pasó a ser el tercer piloto más joven en subir a un podio de F1 [s:mercedes-everything]. Cuando llegó al Gran Premio de Brasil ya era el novato con más puntos de la historia de la F1 [s:mercedes-everything]. Eligió el número 12 para 2025 y los años siguientes [s:mercedes-everything]. Cerró la temporada séptimo en el campeonato de pilotos, con 150 puntos y tres podios [s:mercedes-driver-profile].
 
 ## Pole y primera victoria en China
 
@@ -81,9 +96,9 @@ El perfil de piloto de la Fórmula 1 lo sitúa primero en el campeonato, con 365
 
 ## Austin y las cuentas del título
 
-Partiendo de nuevo desde la pole, con lo que Toto Wolff llamó «una vuelta milagrosa» [s:f1-austin-race-report]. Ganó con un tiempo de 1:35:16,650, con Charles Leclerc a 13,078 segundos y Max Verstappen tercero [s:f1-austin-race-report]. Autosport situó la ventaja sobre Leclerc en unos 13 segundos al cruzar la meta [s:autosport-austin-report]. No fue una diferencia pequeña.
+Consiguió la pole con lo que Toto Wolff llamó «una vuelta milagrosa» [s:f1-austin-race-report]. Ganó con un tiempo de 1:35:16,650, con Charles Leclerc a 13,078 segundos y Max Verstappen tercero [s:f1-austin-race-report]. Autosport situó la ventaja sobre Leclerc en unos 13 segundos al cruzar la meta [s:autosport-austin-report]. No fue una diferencia pequeña.
 
-La estrategia pesó. Mercedes hizo una sola parada, mientras que Leclerc y Hamilton hicieron dos paradas con Ferrari [s:f1-austin-race-report]. El ingeniero de Antonelli le dijo que «siguiera todo lo que pudiera», y él paró una sola vez, al final de la vuelta 24 [s:f1-austin-race-report]. Hamilton acabó cuarto, a 18,515 segundos del ganador, y se quedó sin podio [s:f1-austin-race-report].
+El ingeniero de Antonelli le dijo que «siguiera todo lo que pudiera», y él paró para cambiar neumáticos al final de la vuelta 24 [s:f1-austin-race-report]. Hamilton acabó cuarto, a 18,515 segundos del ganador, y se quedó sin podio [s:f1-austin-race-report].
 
 Russell cumplió una penalización de cinco segundos durante su parada y terminó octavo [s:f1-austin-race-report]. El cuarto puesto de Hamilton mantuvo la lucha abierta, así que el campeonato no se decidió ese día [s:f1-austin-race-report].
 

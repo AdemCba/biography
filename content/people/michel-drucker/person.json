@@ -1,0 +1,118 @@
+{
+  "id": "michel-drucker",
+  "name": "Michel Drucker",
+  "categories": [
+    "artists"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1942-09-12",
+      "sources": [
+        "connexion-france-2024"
+      ],
+      "note": "Connexion France (article dated 4 October 2024) states he was born in Vire on September 12, 1942. Paris Match (26 July 2026) quotes him saying he will turn 84, which matches."
+    },
+    "birthPlace": {
+      "value": "Vire, Calvados, France",
+      "sources": [
+        "connexion-france-2024"
+      ],
+      "note": "Connexion France: born in Vire, 60 kilometres south of Caen (Calvados)."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "titrespresse-drucker-1-nov",
+      "url": "https://titrespresse.com/27354312603/michel-drucker-dimanche",
+      "title": "Michel Drucker dimanche",
+      "publisher": "Titres Presse",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "fr"
+    },
+    {
+      "id": "stars-actu-2026-10-18",
+      "url": "https://www.stars-actu.fr/2026/10/vivement-dimanche-du-18-octobre-2026-pourquoi-lemission-de-michel-drucker-est-deprogrammee/",
+      "title": "Vivement dimanche du 18 octobre 2026: pourquoi l'émission de Michel Drucker est déprogrammée",
+      "publisher": "Stars-Actu",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "fr"
+    },
+    {
+      "id": "tendanceouest-2026-05-03",
+      "url": "https://www.tendanceouest.com/actualite-438603-television-vivement-dimanche-deprogramme-michel-drucker-absent-pourquoi-certains-s-en-rejouissent",
+      "title": "Télévision: Vivement dimanche déprogrammé, Michel Drucker absent, pourquoi certains s'en réjouissent",
+      "publisher": "Tendance Ouest",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "fr"
+    },
+    {
+      "id": "connexion-france-2024",
+      "url": "https://connexionfrance.com/magazine/michel-drucker-veteran-tv-host-who-has-dominated-french-screens-for-decades/670730",
+      "title": "Michel Drucker: Veteran TV host who has dominated French screens for decades",
+      "publisher": "Connexion France",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "ozap-2011-champs-elysees",
+      "url": "https://www.ozap.com/actu/michel-drucker-le-roi-de-la-television-francaise/437136",
+      "title": "Michel Drucker, le roi de la télévision française",
+      "publisher": "Ozap",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "fr"
+    },
+    {
+      "id": "ina-mediaclip-michel-drucker",
+      "url": "https://mediaclip.ina.fr/en/i20274249-michel-drucker-and-his-apprenticeship-in-life-and-work.html",
+      "title": "Michel Drucker and his apprenticeship in life and work",
+      "publisher": "INA",
+      "type": "database",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "parismatch-2026-07-26",
+      "url": "https://www.parismatch.be/i-like-belgium/2026/07/26/michel-drucker-jai-du-mal-a-croire-que-je-vais-attaquer-en-septembre-ma-soixante-quatrieme-saison-de-television-WWDOIKP2OJCU5AL2U3ZOYM36MI/",
+      "title": "Michel Drucker: \"J'ai du mal à croire que je vais attaquer en septembre ma soixante-quatrième saison de télévision\"",
+      "publisher": "Paris Match Belgique",
+      "type": "interview",
+      "accessed": "2026-11-01",
+      "lang": "fr"
+    },
+    {
+      "id": "dhnet-2022-france3",
+      "url": "https://www.dhnet.be/medias/television/michel-drucker-fait-ses-adieux-aux-telespectateurs-de-france-2-je-vais-passer-sur-une-chaine-qui-me-ressemble-62b9590f7b50a6292b4abc12",
+      "title": "Michel Drucker fait ses adieux aux téléspectateurs de France 2: \"Je vais passer sur une chaîne qui me ressemble\"",
+      "publisher": "DH Net",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "fr"
+    },
+    {
+      "id": "purepeople-2026-07-famille",
+      "url": "https://www.purepeople.com/diapo/michel-drucker-annonce-la-fin-dune-de-ses-emissions-sur-france-3_a551940/1",
+      "title": "Michel Drucker annonce la fin d'une de ses émissions sur France 3",
+      "publisher": "Pure People",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "fr"
+    },
+    {
+      "id": "parismatch-2026-10-19",
+      "url": "https://www.parismatch.be/actualites/people/2026/10/19/quest-ce-que-je-vais-avoir-comme-emmerdements-le-jour-ou-tu-vas-claquer-quand-michel-drucker-evoque-sa-fin-de-vie-avec-sa-femme-ECOWZ2YV6JC2DJM27TXU7LCHF4/",
+      "title": "Michel Drucker évoque sa fin de vie avec sa femme",
+      "publisher": "Paris Match",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "fr"
+    }
+  ]
+}

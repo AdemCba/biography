@@ -7,6 +7,13 @@
   "importance": 3,
   "wikidata": "Q121147850",
   "sameAs": [],
+  "image": {
+    "src": "/images/people/rui-borges.png",
+    "alt": "Rui Borges",
+    "credit": "Agência Lusa",
+    "license": "CC BY 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:RuiBorges1.png"
+  },
   "facts": {
     "birthPlace": {
       "value": "Mirandela",
@@ -25,7 +32,9 @@
       "note": "The Liga Portugal coach profile lists nationality as Portugal."
     }
   },
-  "related": [],
+  "related": [
+    "paulo-fonseca"
+  ],
   "sources": [
     {
       "id": "abola-sporting-appointment-2024",
@@ -80,13 +89,42 @@
       "type": "league-or-federation",
       "accessed": "2026-10-29",
       "lang": "pt"
+    },
+    {
+      "id": "eco-exit-2026",
+      "url": "https://eco.sapo.pt/2026/11/01/sporting-anuncia-saida-do-treinador-rui-borges/",
+      "title": "Sporting anuncia saída do treinador Rui Borges",
+      "publisher": "ECO",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "pt"
+    },
+    {
+      "id": "maisfutebol-exit-2026",
+      "url": "https://maisfutebol.iol.pt/transferencias/01-11-2026/oficial-sporting-confirma-negociacoes-para-rescisao-de-contrato-com-rui-borges",
+      "title": "OFICIAL: Sporting confirma negociações para rescisão de contrato com Rui Borges",
+      "publisher": "Mais Futebol",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "pt"
+    },
+    {
+      "id": "dn-fonseca-2026",
+      "url": "https://www.dn.pt/desporto/cecilia-carmo-dndesai-rui-borges-entra-paulo-fonseca",
+      "title": "Sporting confirma saída de Rui Borges e anuncia Paulo Fonseca como novo treinador (headline; body reports Fonseca only as press-reported successor)",
+      "publisher": "Diário de Notícias",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "pt"
+    },
+    {
+      "id": "record-exit-2026",
+      "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/oficial-rui-borges-ja-nao-e-treinador-do-sporting",
+      "title": "Oficial: Rui Borges já não é treinador do Sporting",
+      "publisher": "Record",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "pt"
     }
-  ],
-  "image": {
-    "src": "/images/people/rui-borges.png",
-    "alt": "Rui Borges",
-    "credit": "Agência Lusa",
-    "license": "CC BY 3.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:RuiBorges1.png"
-  }
+  ]
 }

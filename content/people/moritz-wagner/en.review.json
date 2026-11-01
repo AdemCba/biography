@@ -1,0 +1,294 @@
+{
+  "date": "2026-11-01",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 26 April 1997 in Berlin",
+      "sourceIds": [
+        "nba-wagner-profile",
+        "olympedia-wagner"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA: April 26, 1997; Olympedia: 26 April 1997 in Berlin, Berlin. NBA page does not list a birthplace."
+    },
+    {
+      "claim": "Nationality Germany / NOC GER",
+      "sourceIds": [
+        "nba-wagner-profile",
+        "olympedia-wagner"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA Country: Germany; Olympedia NOC: Germany (GER)."
+    },
+    {
+      "claim": "Full name Victor Moritz Wagner",
+      "sourceIds": [
+        "olympedia-wagner"
+      ],
+      "verdict": "confirmed",
+      "note": "Olympedia: Victor Moritz Wagner."
+    },
+    {
+      "claim": "6 ft 11 in (2.11 m), forward-center",
+      "sourceIds": [
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA: 6'11\" (2.11m), Forward-Center."
+    },
+    {
+      "claim": "Drafted 2018, first round, 25th pick (Lakers)",
+      "sourceIds": [
+        "nba-wagner-profile",
+        "eurohoops-magic-extension-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA: 2018 R1 Pick 25; Eurohoops: 25th overall pick by the Lakers."
+    },
+    {
+      "claim": "18 games for ALBA Berlin II, no season",
+      "sourceIds": [
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA: played 18 games with ALBA Berlin II."
+    },
+    {
+      "claim": "Started career at ALBA Berlin, moved to US in 2015 for University of Michigan",
+      "sourceIds": [
+        "web-de-wagner-neuland"
+      ],
+      "verdict": "confirmed",
+      "note": "web.de: Karriere begann bei Alba Berlin; 2015 in die USA, University of Michigan."
+    },
+    {
+      "claim": "2018-19: 43 games, 5 starts with Lakers; 6 starts for South Bay",
+      "sourceIds": [
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA: Lakers 43 games (5 starts); South Bay 6 games, 6 starts."
+    },
+    {
+      "claim": "Washington 2019-20: 45 games, 5 starts; 2020-21: 25 games, 13 starts",
+      "sourceIds": [
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA bio game and start counts match."
+    },
+    {
+      "claim": "Boston 2020-21: nine games",
+      "sourceIds": [
+        "nba-wagner-profile",
+        "eurohoops-magic-extension-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA: Boston 9 games. Eurohoops confirms the Boston move in general terms only."
+    },
+    {
+      "claim": "Joined Magic midway through 2020-21, 11 games there",
+      "sourceIds": [
+        "nba-wagner-profile",
+        "eurohoops-magic-extension-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA: Orlando 11 games in 2020-21; Eurohoops: joined Magic midway through 2020-21."
+    },
+    {
+      "claim": "2021-22: 63 games, 3 starts; 2022-23: 57 games, 18 starts; 2023-24: 80 games, 1 start",
+      "sourceIds": [
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA bio matches on all three seasons."
+    },
+    {
+      "claim": "Franz Wagner was on the Magic at the same time",
+      "sourceIds": [
+        "web-de-wagner-neuland"
+      ],
+      "verdict": "confirmed",
+      "note": "web.de: zeitweise gemeinsam mit seinem Bruder Franz Wagner."
+    },
+    {
+      "claim": "Tore ACL in left knee, 30 regular-season games with one start in 2024-25",
+      "sourceIds": [
+        "eurohoops-magic-extension-2025",
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Eurohoops: torn ACL in left knee, limited to 30 appearances; NBA: 2024-25 30 games, 1 start."
+    },
+    {
+      "claim": "Skipped EuroBasket 2025",
+      "sourceIds": [
+        "eurohoops-magic-extension-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Eurohoops: he will skip the EuroBasket 2025. The rehabilitation reason was removed from the article."
+    },
+    {
+      "claim": "July 2025 one-year extension worth five million dollars for 2025-26",
+      "sourceIds": [
+        "eurohoops-magic-extension-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Eurohoops: one-year contract extension worth five million dollars, retained for 2025-26."
+    },
+    {
+      "claim": "Eurohoops reports ESPN's Shams Charania revealed the deal on a Friday, page dated 4 July 2025",
+      "sourceIds": [
+        "eurohoops-magic-extension-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Eurohoops: revealed by ESPN senior NBA insider Shams Charania on Friday; page dated 4 July 2025. The word 'first' was removed."
+    },
+    {
+      "claim": "Germany won 2023 FIBA World Cup on 10 September, 83-77 vs Serbia, Mall of Asia Arena, Manila",
+      "sourceIds": [
+        "fiba-final-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "FIBA game report: Germany 83, Serbia 77, Mall of Asia Arena, Manila; September 10, 2023."
+    },
+    {
+      "claim": "FIBA lists Moritz Wagner for Germany, with Orlando Magic",
+      "sourceIds": [
+        "fiba-nba-players-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "FIBA table: Germany, Moritz Wagner, Orlando Magic."
+    },
+    {
+      "claim": "German press: first title won by team around the Wagner brothers; biggest sporting achievement",
+      "sourceIds": [
+        "web-de-wagner-neuland"
+      ],
+      "verdict": "confirmed",
+      "note": "web.de: erstmals den Titel; größten sportlichen Erfolg."
+    },
+    {
+      "claim": "Olympics: Germany 8th at 2020 Games, 4th at 2024 Games",
+      "sourceIds": [
+        "olympedia-wagner"
+      ],
+      "verdict": "confirmed",
+      "note": "Olympedia: Basketball Men, Germany, Pos 8 (2020) and Pos 4 (2024)."
+    },
+    {
+      "claim": "Olympedia lists Moritz as brother of Franz Wagner",
+      "sourceIds": [
+        "olympedia-wagner"
+      ],
+      "verdict": "confirmed",
+      "note": "Olympedia: Brother of Franz Wagner."
+    },
+    {
+      "claim": "German press says Moritz also played for the Paris Games team, which finished fourth",
+      "sourceIds": [
+        "web-de-wagner-neuland"
+      ],
+      "verdict": "confirmed",
+      "note": "web.de: Moritz played for Germany at the Paris Games; the team finished fourth. The Franz roster claim was removed."
+    },
+    {
+      "claim": "NBA profile lists Wagner with Brooklyn Nets",
+      "sourceIds": [
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "NBA page header shows Nets, jersey #13. The bio has no Nets stats."
+    },
+    {
+      "claim": "Nets contract dates from summer 2026",
+      "sourceIds": [
+        "web-de-wagner-neuland"
+      ],
+      "verdict": "confirmed",
+      "note": "web.de: Seit Sommer 2026 bei den Brooklyn Nets unter Vertrag."
+    },
+    {
+      "claim": "ProSieben season 12 premieres 1 November 2026, Sunday 20:15, on ProSieben with free Joyn livestream",
+      "sourceIds": [
+        "joyn-wsmds-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Joyn: Staffel 12 startet am 1. November 2026; Sonntag 20:15 Uhr; kostenloser Joyn-Livestream."
+    },
+    {
+      "claim": "Contestants Carolin Kebekus and Knossi; Joko Winterscheidt is the host being challenged",
+      "sourceIds": [
+        "prosieben-presse-wsmds-2026",
+        "joyn-wsmds-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Press release names Kebekus and Jens 'Knossi' Knossalla and Original-Moderator Joko Winterscheidt; Joyn names Wagner, Kebekus, Knossi."
+    },
+    {
+      "claim": "Press release describes Wagner as basketball player (Orlando Magic star)",
+      "sourceIds": [
+        "prosieben-presse-wsmds-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Press release: Basketballspieler und Orlando-Magic-Star Moritz Wagner."
+    },
+    {
+      "claim": "Six new episodes recorded in Berlin from 1 June 2026",
+      "sourceIds": [
+        "prosieben-presse-wsmds-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Press release dated 01.06.2026: sechs neue Folgen in Berlin produziert."
+    },
+    {
+      "claim": "Each episode has a wildcard candidate",
+      "sourceIds": [
+        "joyn-wsmds-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Joyn: jeweils eine Wildcard-Kandidatin oder ein Wildcard-Kandidat."
+    },
+    {
+      "claim": "Winner of each episode designs and hosts the next",
+      "sourceIds": [
+        "web-de-wagner-neuland"
+      ],
+      "verdict": "confirmed",
+      "note": "web.de: winner gets to design and host the next episode nach eigenen Vorstellungen."
+    },
+    {
+      "claim": "Quote: learned he can make a complete fool of himself",
+      "sourceIds": [
+        "web-de-wagner-neuland"
+      ],
+      "verdict": "confirmed",
+      "note": "web.de: Ich habe gelernt, dass ich mich komplett zum Affen machen kann."
+    },
+    {
+      "claim": "Summary/knownFor: NBA since 2018; 2023 FIBA World Cup champion with Germany",
+      "sourceIds": [
+        "nba-wagner-profile",
+        "fiba-final-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Drafted 2018; Germany won 2023 World Cup."
+    },
+    {
+      "claim": "Five seasons with Orlando Magic",
+      "sourceIds": [
+        "nba-wagner-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Orlando 2020-21 through 2024-25 in the NBA bio."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear season-by-season timeline from the NBA bio and a primary-source check of the 2023 title and the broadcast details. Two claims go beyond the sources (rehabilitation reason, Paris roster).",
+  "decision": "approve",
+  "summary": "Re-checked after fixes: the rehabilitation reason for skipping EuroBasket 2025, the word 'first' for the Shams Charania report, and the Franz Wagner Paris roster claim were removed or reworded to what the sources say. All remaining claims match the fetched sources."
+}

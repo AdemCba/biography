@@ -1,10 +1,10 @@
 ---
 title: Carlos Alcaraz
 slug: carlos-alcaraz
-metaTitle: 'Carlos Alcaraz : âge, titres et Grand Chelem'
+metaTitle: 'Carlos Alcaraz : Grand Chelem complet à 22 ans'
 metaDescription: >-
-  Âge, lieu de naissance, changement d'entraîneur, titres 2026 à l’Open
-  d’Australie et à Tokyo et son match contre Khachanov à Vienne.
+  Né à El Palmar en 2003, Carlos Alcaraz a complété sa carrière de Grand Chelem
+  à l’Open d’Australie 2026, à 22 ans. Taille, titres et Tokyo 2026.
 knownFor: >-
   Joueur de tennis espagnol, numéro 1 mondial en 2022 et septuple champion du
   Grand Chelem
@@ -14,8 +14,9 @@ summary: >-
   Grand Chelem en simple et est devenu numéro 1 mondial en 2022.
 status: published
 risk: low
-reviewedAt: '2026-10-27'
-reviewBy: '2027-04-27'
+publishedAt: '2026-11-01'
+reviewedAt: '2026-11-01'
+reviewBy: '2027-05-01'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -28,11 +29,25 @@ targetQueries:
   - Carlos Alcaraz classement
   - Carlos Alcaraz Tokyo 2026
   - Carlos Alcaraz Nitto ATP Finals 2026
+  - Carlos Alcaraz
+  - Alcaraz
+  - C. Alcaraz
+  - Taille Alcaraz tennis
+  - Alcaraz Grand Chelem
+  - Quel âge a Carlos Alcaraz
 faq:
   - q: Quel âge a Carlos Alcaraz ?
+    a: 'Il est né le 5 mai 2003 et a 23 ans [s:nitto-atp-finals-profile].'
+  - q: Qui est Carlos Alcaraz ?
     a: >-
-      Il est né le 5 mai 2003 et a 23 ans au 27 octobre 2026
-      [s:nitto-atp-finals-profile].
+      Un joueur de tennis espagnol, numéro 1 mondial depuis le 12 septembre 2022
+      et sept fois champion du Grand Chelem en simple [s:rfet-player-profile]
+      [s:atp-australian-open-2026-final].
+  - q: Quelle est la taille de Carlos Alcaraz ?
+    a: >-
+      Les sources ne s'accordent pas. La fiche de la RFET indique 1,85 m
+      [s:rfet-player-profile], et le profil des Nitto ATP Finals 183 cm, soit 6
+      pieds 0 pouce [s:nitto-atp-finals-profile].
   - q: Qui est l'entraîneur de Carlos Alcaraz ?
     a: >-
       Samuel López, selon la fiche de la RFET et El Español. La fin de la
@@ -42,10 +57,10 @@ faq:
     a: >-
       Sept titres en simple, dont l'Open d'Australie 2026, qui a complété son
       Grand Chelem en carrière [s:atp-australian-open-2026-final].
-autoReviews: 1
-publishedAt: '2026-10-27'
+autoReviews: 3
+publishedTime: '2026-11-01T21:38:16.072Z'
 ---
-Carlos Alcaraz est inscrit cette semaine à l'Erste Bank Open de Vienne, un tournoi ATP 500. Il a accepté une invitation (wild card) pour cette édition. Il avait déjà joué à Vienne en 2021, quand il avait atteint les demi-finales à 18 ans [s:atp-vienna-entry-2026]. Le tableau principal se joue à la Wiener Stadthalle du 26 octobre au 1er novembre [s:atp-vienna-entry-2026]. Il affronte Karen Khachanov, ancien membre du top 10 qui a récemment atteint les demi-finales de l'US Open. Alcaraz mène leur face-à-face 6-0 [s:atp-vienna-draw-2026].
+Carlos Alcaraz est inscrit cette semaine au tournoi ATP 500 de Vienne, en salle. Il a accepté une invitation (wild card) pour cette édition. Il avait déjà joué à Vienne en 2021, quand il avait atteint les demi-finales à 18 ans [s:atp-vienna-entry-2026]. Le tableau principal se joue à la Wiener Stadthalle du 26 octobre au 1er novembre [s:atp-vienna-entry-2026]. Il affronte Karen Khachanov, ancien membre du top 10 qui a récemment atteint les demi-finales de l'US Open. Alcaraz mène leur face-à-face 6-0 [s:atp-vienna-draw-2026].
 
 ## Un Grand Chelem complet à 22 ans
 
@@ -53,9 +68,9 @@ Tête de série n° 1 du tournoi, Alcaraz a remporté l'Open d'Australie 2026 le
 
 La Fédération royale espagnole de tennis (RFET) donne un autre repère. Alcaraz avait 22 ans et 272 jours. Il a ainsi dépassé le record de Don Budge, qui avait réalisé le Grand Chelem en 1938 à 22 ans et 363 jours [s:rfet-australian-open-2026].
 
-## Origines : El Palmar, en Murcie
+## Âge, taille et origines : El Palmar, en Murcie
 
-Carlos Alcaraz est né le 5 mai 2003 à El Palmar, dans la région de Murcie, en Espagne [s:rfet-player-profile] [s:nitto-atp-finals-profile]. La fiche de la RFET indique aussi qu'il réside à El Palmar et qu'il est rattaché à la Fédération de tennis de la région de Murcie. Elle mentionne ses débuts professionnels en 2018 [s:rfet-player-profile]. Sa taille est indiquée à 1,85 m dans la fiche fédérale, et à 6 pieds 0 pouce (183 cm) sur le profil des Nitto ATP Finals [s:rfet-player-profile] [s:nitto-atp-finals-profile]. Les deux mesures diffèrent légèrement, donc cette page n'en retient aucune.
+Carlos Alcaraz a 23 ans. Il est né le 5 mai 2003 à El Palmar, dans la région de Murcie, en Espagne [s:rfet-player-profile] [s:nitto-atp-finals-profile]. La fiche de la RFET indique aussi qu'il réside à El Palmar et qu'il est rattaché à la Fédération de tennis de la région de Murcie. Elle mentionne ses débuts professionnels en 2018 [s:rfet-player-profile]. Sa taille est indiquée à 1,85 m dans la fiche fédérale, et à 6 pieds 0 pouce (183 cm) sur le profil des Nitto ATP Finals [s:rfet-player-profile] [s:nitto-atp-finals-profile]. Les sources ne s'accordent donc pas sur sa taille, et cette page cite les deux mesures.
 
 À 16 ans, il atteignit les quarts de finale d'un Challenger à Séville, son premier à ce niveau. Au même âge, il remporta son premier match sur le circuit ATP, contre Albert Ramos à Rio de Janeiro, sans que le récit donne la date exacte [s:puntodebreak-timeline-2025]. Son premier titre ATP vint à Umag, à 18 ans, en 2021 [s:puntodebreak-timeline-2025]. En 2022, à Miami, il battit Casper Ruud en finale et devint le plus jeune vainqueur de ce tournoi [s:puntodebreak-timeline-2025].
 
@@ -63,7 +78,7 @@ Il est devenu numéro 1 mondial le 12 septembre 2022, et cette place reste son m
 
 ## Qui l'entraîne ? Le passage de Ferrero à López
 
-Pendant plusieurs années, Juan Carlos Ferrero a été son entraîneur [s:atp-player-bio]. D'après la chronologie de Punto de Break, Ferrero a pris le relais après la fin de sa collaboration avec Alexander Zverev, et les deux hommes voyagent ensemble à partir de 2019 [s:puntodebreak-timeline-2025]. Les sources ne s'accordent pas sur le début de cette collaboration. Punto de Break situe son arrivée à l'Equelite Academy en 2018 [s:puntodebreak-timeline-2025]. El Español affirme qu'Alcaraz s'entraînait régulièrement dans l'académie de Ferrero à partir de 2020, et qu'il y a même vécu pendant la pandémie [s:elespanol-ferrero-split-2025].
+Pendant plusieurs années, Juan Carlos Ferrero a été son entraîneur [s:atp-player-bio]. D'après la chronologie de Punto de Break, Ferrero a pris le relais après la fin de sa collaboration avec Alexander Zverev, et les deux hommes voyagent ensemble à partir de 2019 [s:puntodebreak-timeline-2025]. Les sources ne s'accordent pas sur le début de cette collaboration. Punto de Break relie le début de la collaboration à la saison où il rejoint l'Equelite Academy [s:puntodebreak-timeline-2025]. El Español affirme qu'Alcaraz s'entraînait régulièrement dans l'académie de Ferrero à partir de 2020, et qu'il y a même vécu pendant la pandémie [s:elespanol-ferrero-split-2025].
 
 L’académie se trouve à Villena. Son directeur, Iñaki Etxegia, a déclaré à El Español qu'Alcaraz s’éloignait physiquement de l’académie depuis un an et demi et y venait de moins en moins [s:elespanol-ferrero-split-2025].
 
@@ -75,7 +90,7 @@ En janvier 2026, López a estimé qu'Alcaraz arrivait au bon moment pour affront
 
 ## Tokyo 2026 et la blessure au poignet
 
-Le 6 octobre 2026, Alcaraz a conservé son titre au tournoi ATP 500 de Tokyo. En finale, il a battu Jiri Lehecka 7-6(4), 6-4 [s:rfet-tokyo-2026]. La fédération souligne qu'il est le premier champion à défendre le titre de Tokyo depuis Pete Sampras, en 1993 et 1994 [s:rfet-tokyo-2026].
+Début octobre 2026, Alcaraz a conservé son titre au tournoi ATP 500 de Tokyo. En finale, il a battu Jiri Lehecka 7-6(4), 6-4 [s:rfet-tokyo-2026]. La fédération souligne qu'il est le premier champion à défendre le titre de Tokyo depuis Pete Sampras, en 1993 et 1994 [s:rfet-tokyo-2026].
 
 Il avait été éloigné du circuit plusieurs mois par une blessure au poignet. Son retour s'était fait à l'US Open, où il avait atteint les quarts de finale en septembre [s:rfet-tokyo-2026]. Il a qualifié ce succès de vraiment spécial, compte tenu de sa blessure [s:rfet-tokyo-2026]. Plus tôt, il avait déjà remporté l'ATP 500 de Doha et atteint la finale de Monte-Carlo [s:rfet-tokyo-2026].
 
@@ -85,7 +100,7 @@ En finale de Roland-Garros 2025, Alcaraz a battu Jannik Sinner 4-6, 6-7(4), 6-4,
 
 ## Wimbledon 2023 et 2024
 
-En 2023, Alcaraz a remporté Wimbledon en battant Novak Djokovic [s:puntodebreak-timeline-2025]. En 2024, il a conservé son titre. En finale, il a battu Djokovic 6-2, 6-2, 7-6(4) [s:thelocal-wimbledon-2024]. Le site The Local a écrit que ce résultat annonçait que "la nouvelle ère du tennis masculin est arrivée", et rappelait que Djokovic visait un 25e titre du Grand Chelem, ce qui aurait constitué un record masculin et féminin [s:thelocal-wimbledon-2024].
+En 2023, Alcaraz a remporté Wimbledon en battant Novak Djokovic [s:puntodebreak-timeline-2025]. En 2024, il a conservé son titre. En finale, il a battu Djokovic 6-2, 6-2, 7-6(4) [s:thelocal-wimbledon-2024]. Le site The Local y voyait une démonstration nette, l'annonce que la nouvelle ère du tennis masculin était arrivée, et rappelait que Djokovic visait un 25e titre du Grand Chelem, ce qui aurait constitué un record masculin et féminin [s:thelocal-wimbledon-2024].
 
 ## Jeux olympiques de Paris 2024 : l'argent
 

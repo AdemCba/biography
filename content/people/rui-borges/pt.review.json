@@ -1,158 +1,212 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-11-01",
   "model": "claude-haiku-5-5",
   "approved": true,
   "reasons": [],
   "claims": [
     {
-      "claim": "Appointed Sporting head coach on 26 December 2024, succeeding João Pereira, from Vitória de Guimarães",
+      "claim": "Deixou o cargo em 1 de novembro de 2026; clube iniciou conversacoes para encerrar o contrato",
+      "sourceIds": [
+        "eco-exit-2026",
+        "maisfutebol-exit-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Mais Futebol and ECO."
+    },
+    {
+      "claim": "O Sporting reuniu-se com Borges ao inicio da tarde de 1 de novembro de 2026",
+      "sourceIds": [
+        "maisfutebol-exit-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Club statement."
+    },
+    {
+      "claim": "Contratado em 26 de dezembro de 2024 depois de deixar o Vitoria de Guimaraes",
       "sourceIds": [
         "abola-sporting-appointment-2024"
       ],
       "verdict": "confirmed",
-      "note": "A BOLA article dated 26 Dec 2024 reports the official appointment and that V. Guimarães confirmed his departure."
+      "note": "Appointment 26 Dec 2024."
     },
     {
-      "claim": "Sporting paid Vitória SC a fee of 4,100,000 euros",
-      "sourceIds": [
-        "abola-sporting-appointment-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "Stated in the same article."
-    },
-    {
-      "claim": "Contract valid to 30 June 2026 with option to 30 June 2027 (first report)",
-      "sourceIds": [
-        "abola-sporting-appointment-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "Stated in the same article."
-    },
-    {
-      "claim": "Four staff moved from Guimarães under the deal, including two assistant coaches",
-      "sourceIds": [
-        "abola-sporting-appointment-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "Two assistant coaches plus Fernando Alves and José Pedro Lage."
-    },
-    {
-      "claim": "Born or coaching start in Mirandela; Mirandela called his home town; began coaching there after ending his playing career",
-      "sourceIds": [
-        "rtp-coaching-profile-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "RTP calls Mirandela his 'cidade natal' and says he began coaching there after ending playing career. Country not stated; not repeated in the body."
-    },
-    {
-      "claim": "Académico de Viseu: kept out of relegation in 2018/19; Taça semi-final 2019/20 lost to FC Porto",
-      "sourceIds": [
-        "rtp-coaching-profile-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "Stated in RTP profile."
-    },
-    {
-      "claim": "Académica fourth in 2020/21, matching best season since leaving top flight in 2015/16",
-      "sourceIds": [
-        "rtp-coaching-profile-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "Stated in RTP profile."
-    },
-    {
-      "claim": "Nacional sixth in 2021/22, frustration at missing promotion",
-      "sourceIds": [
-        "rtp-coaching-profile-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "RTP refers to 'sentimento de frustração'."
-    },
-    {
-      "claim": "Vilafranquense fifth at 19th matchday; Mafra 14th to sixth in last 14 rounds",
-      "sourceIds": [
-        "rtp-coaching-profile-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "Stated in RTP profile."
-    },
-    {
-      "claim": "Joined Moreirense July 2023; 55 points in 34 matchdays, sixth; 16 matchdays without conceding; played there 2007/08 and 2008/09; extended contract to 2026",
-      "sourceIds": [
-        "rtp-coaching-profile-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "All stated in RTP profile."
-    },
-    {
-      "claim": "Presented by Vitória de Guimarães on 28 May 2024; sixth with 23 points after 15 matchdays in 2024/25; Portuguese record of nine consecutive UEFA wins",
-      "sourceIds": [
-        "rtp-coaching-profile-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "Stated in RTP profile; the record is placed in the article's Vitória section, which is written before his Sporting move."
-    },
-    {
-      "claim": "Sporting appointment followed Rúben Amorim's departure and João Pereira's spell of about a month",
-      "sourceIds": [
-        "rtp-coaching-profile-2024"
-      ],
-      "verdict": "confirmed",
-      "note": "RTP says the appointment was to succeed Amorim (left for Manchester United) and Pereira, whose spell lasted about a month."
-    },
-    {
-      "claim": "Sporting won the 2024/25 Liga Portugal, the club's 21st league title",
+      "claim": "Titulo Liga Portugal 2024/25 e melhor treinador da liga na epoca",
       "sourceIds": [
         "lpfp-best-coach-2025"
       ],
       "verdict": "confirmed",
-      "note": "Soccerway report of the award states the 21st title."
+      "note": "Soccerway."
     },
     {
-      "claim": "Voted best coach 2024/25 by the league's coaches and captains; gala at LPFP headquarters in Porto",
+      "claim": "Tiago Fernandes, treinador da equipa B, interino",
+      "sourceIds": [
+        "maisfutebol-exit-2026",
+        "record-exit-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Club statement."
+    },
+    {
+      "claim": "Imprensa aponta Paulo Fonseca como sucessor; nao e anuncio do clube",
+      "sourceIds": [
+        "dn-fonseca-2026",
+        "record-exit-2026",
+        "maisfutebol-exit-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Press report only."
+    },
+    {
+      "claim": "DN: 'tudo indica' que sucedera a Borges",
+      "sourceIds": [
+        "dn-fonseca-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "DN: Tudo indica que Paulo Fonseca sera mesmo o sucessor."
+    },
+    {
+      "claim": "Record: Sporting tem acordo para contratar Fonseca (reported)",
+      "sourceIds": [
+        "record-exit-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Record reporting, stated as report."
+    },
+    {
+      "claim": "DN: renovacao em maio, aparentemente ate 2028; DN refere criticas dos adeptos e desvantagem de nove pontos para o FC Porto",
+      "sourceIds": [
+        "dn-fonseca-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "DN narrative."
+    },
+    {
+      "claim": "ECO: contrato ate junho de 2028",
+      "sourceIds": [
+        "eco-exit-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "ECO."
+    },
+    {
+      "claim": "Comecou a treinar em Mirandela; depois segunda liga; Moreirense primeira liga em julho de 2023",
+      "sourceIds": [
+        "rtp-coaching-profile-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "RTP: Mirandela, II Liga at Viseu, Moreirense from July 2023."
+    },
+    {
+      "claim": "Sporting contratou Borges a 26 de dezembro de 2024 (A Bola); para suceder a Joao Pereira (Soccerway)",
+      "sourceIds": [
+        "abola-sporting-appointment-2024",
+        "lpfp-best-coach-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Replacement of Pereira is in Soccerway."
+    },
+    {
+      "claim": "Pereira assumiu depois de Amorim sair para o Manchester United; cerca de um mes",
+      "sourceIds": [
+        "rtp-coaching-profile-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "RTP."
+    },
+    {
+      "claim": "Verba de 4.100.000 euros paga ao Vitoria SC",
+      "sourceIds": [
+        "abola-sporting-appointment-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "EUR 4.100.000,00."
+    },
+    {
+      "claim": "Contrato ate 30 de junho de 2026 com opcao ate 2027 (primeiro anuncio)",
+      "sourceIds": [
+        "abola-sporting-appointment-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "2024 report."
+    },
+    {
+      "claim": "A Bola 27 out 2026: contrato ate junho de 2028 com opcao de mais um ano; ECO mesma data",
+      "sourceIds": [
+        "abola-contract-status-2026",
+        "eco-exit-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources."
+    },
+    {
+      "claim": "Moreirense 2023/24: 55 pontos em 34 jornadas, sexto lugar, igualando 2018/19; 16 jornadas sem golos sofridos, a sequencia mais longa da liga nessa epoca",
+      "sourceIds": [
+        "rtp-coaching-profile-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "RTP."
+    },
+    {
+      "claim": "Jogou no Moreirense em 2007/08 e 2008/09; prolongou contrato ate 2026",
+      "sourceIds": [
+        "rtp-coaching-profile-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "RTP."
+    },
+    {
+      "claim": "Vitoria apresentou-o a 28 de maio de 2024; 2024/25 sexto com 23 pontos em 15 jornadas; recorde portugues de nove vitorias UEFA",
+      "sourceIds": [
+        "rtp-coaching-profile-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "RTP."
+    },
+    {
+      "claim": "Treinadores e capitaes das 18 equipas votaram; gala na sede da liga no Porto",
       "sourceIds": [
         "lpfp-best-coach-2025"
       ],
       "verdict": "confirmed",
-      "note": "Stated in the same article."
+      "note": "Soccerway."
     },
     {
-      "claim": "Nationality Portuguese (Liga Portugal profile)",
+      "claim": "Nacionalidade portuguesa",
       "sourceIds": [
         "ligaportugal-coach-profile"
       ],
       "verdict": "confirmed",
-      "note": "Profile field NACIONALIDADE reads Portugal. Liga Portugal is a league source."
+      "note": "Liga Portugal."
     },
     {
-      "claim": "Contract runs to June 2028 with option for one more year (27 Oct 2026 report)",
+      "claim": "Mirandela, a sua terra natal; comecou a treinar la apos terminar a carreira de jogador",
       "sourceIds": [
-        "abola-contract-status-2026"
+        "rtp-coaching-profile-2024"
       ],
       "verdict": "confirmed",
-      "note": "Stated in A Bola report; conflict with the 2024 report is disclosed in the body."
+      "note": "RTP."
     },
     {
-      "claim": "27 Oct 2026: position at risk; Sporting lost 1-2 at home to Académico de Viseu; Marítimo match could be last; wins would only postpone an exit",
-      "sourceIds": [
-        "abola-contract-status-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "All stated in the A Bola article. The date is the article date."
-    },
-    {
-      "claim": "29 Oct 2026: Sporting's coach spoke publicly; A Bola reported his remarks",
+      "claim": "Declaracoes publicas do treinador do Sporting a 29 de outubro de 2026",
       "sourceIds": [
         "abola-public-statement-2026"
       ],
       "verdict": "confirmed",
-      "note": "The article reports his remarks. The page does not name the setting or the match, so the body says nothing about either."
+      "note": "A Bola."
+    },
+    {
+      "claim": "Derrota 1-2 com o Academico de Viseu; jogo com o Maritimo pode ser o ultimo; vitorias so adiariam saida",
+      "sourceIds": [
+        "abola-contract-status-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "A Bola 27 Oct 2026."
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "Adds a sourced club-by-club career record, the contract-term conflict between two A Bola reports, and the 2024/25 league award with the league's own nationality field, written natively.",
+  "valueNote": "Timeline and contract discrepancy between A Bola and ECO/DN add value. All claims now match the fetched sources.",
   "decision": "approve",
-  "summary": "The pt text states the same facts as the English page. Each sourced fact matches the cited source, the contract conflict is disclosed and the page does not mention family."
+  "summary": "All claims checked against fetched sources; unsupported and wrong statements were removed or corrected."
 }

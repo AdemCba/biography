@@ -1,0 +1,251 @@
+{
+  "date": "2026-11-01",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born in Sydney, Australia; plays right-handed; country Australia",
+      "sourceIds": [
+        "rg-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "RG profile lists Sydney, Right hand, country AUS."
+    },
+    {
+      "claim": "Career-high No. 5 reached July 2026; 2024 year-end No. 9; 2025 year-end No. 7",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio states highest ranking No. 5 July 2026, No. 9 in 2024, No. 7 in 2025."
+    },
+    {
+      "claim": "Reached No. 6 in July 2024",
+      "sourceIds": [
+        "rg-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "RG profile: World No. 6 reached July 2024."
+    },
+    {
+      "claim": "Lost Vienna final to Alcaraz 6-1, 6-4 on Sunday 1 November 2026; Alcaraz 2nd seed and wild card; De Minaur 5th seed",
+      "sourceIds": [
+        "atp-vienna-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP results: [2] [WC] Carlos Alcaraz d [5] Alex de Minaur 61 64, Sunday 1 November."
+    },
+    {
+      "claim": "Beat Alexander Zverev in Vienna on the way to the final; ABC called him soon-to-be world No. 1",
+      "sourceIds": [
+        "abc-tennis"
+      ],
+      "verdict": "confirmed",
+      "note": "ABC first paragraph: beating soon-to-be world number one Alexander Zverev. Headline says new number one; body now uses soon-to-be."
+    },
+    {
+      "claim": "ABC headline 'De Minaur stuns new number one Zverev in Vienna'",
+      "sourceIds": [
+        "abc-tennis"
+      ],
+      "verdict": "confirmed",
+      "note": "Headline matches the fetched page, dated 1 Nov 2026."
+    },
+    {
+      "claim": "Zverev first-round win 7-5, 3-6, 7-6(11), three hours five minutes, on 27 October; report dated 28 October says one win from world No. 1",
+      "sourceIds": [
+        "tennistourtalk-zverev"
+      ],
+      "verdict": "confirmed",
+      "note": "Opponent Landaluce; Tuesday 27 Oct; 3h05; one win away from ATP No. 1."
+    },
+    {
+      "claim": "Father Uruguayan, mother Spanish; trains in Alicante; mentored by Lleyton Hewitt; Tennis Australia support",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio paraphrase confirms each point."
+    },
+    {
+      "claim": "Began tennis at age four after mother signed him up for lessons; moved to Alicante at five; split childhood between Spain and Australia",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP bio: began playing at age 4 after mother signed him up; moved to Alicante as a 5-year-old."
+    },
+    {
+      "claim": "Adolfo Gutierrez and Matt Reid as coaches",
+      "sourceIds": [
+        "rg-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "RG profile coaches list."
+    },
+    {
+      "claim": "11 ATP Tour titles (now stated as the bio's count)",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Bio says captured 11 ATP Tour titles; sentence phrased as the bio's count."
+    },
+    {
+      "claim": "Seven Grand Slam quarter-finals",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Bio: seven Grand Slam quarter-finals."
+    },
+    {
+      "claim": "First Australian to qualify for Nitto ATP Finals singles since Hewitt in 2004 (2024-25)",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Bio states this."
+    },
+    {
+      "claim": "Acapulco ATP 500 2023 and 2024; Washington 2025; Rotterdam 2026",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Bio: Acapulco ATP 500 2023 and 2024, Washington 2025, Rotterdam 2026."
+    },
+    {
+      "claim": "Personal-best 56 match wins in 2025",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Bio: personal-best 56 victories in 2025."
+    },
+    {
+      "claim": "First ATP doubles title at Cincinnati 2020 with Carreno Busta",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Bio states this."
+    },
+    {
+      "claim": "United Cup beat No. 2 Nadal 2023 and No. 1 Djokovic 2024",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Bio: defeated No. 2 Nadal in 2023 and No. 1 Djokovic in 2024 at United Cup."
+    },
+    {
+      "claim": "Laver Cup: beat Andy Murray for Team World 2022; No. 3 Zverev 2025",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Bio: No. 3 Zverev to help capture 2025 Laver Cup; Murray 2022 confirmed in bio summary."
+    },
+    {
+      "claim": "First Grand Slam quarter-final at 2020 US Open; four consecutive quarter-finals Roland-Garros 2024 to AO 2025",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Bio: first GS QF 2020 US Open; four consecutive events RG 2024, Wimbledon, US Open, AO 2025 present in bio text."
+    },
+    {
+      "claim": "First Masters 1000 QF, SF and final all at Toronto 2023",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Bio states this."
+    },
+    {
+      "claim": "2022 Davis Cup 6-1; Australia first final since 2003",
+      "sourceIds": [
+        "atp-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Bio states this."
+    },
+    {
+      "claim": "2026 Davis Cup tie vs Poland in Brisbane at Pat Rafter Arena, Australia won 3-1",
+      "sourceIds": [
+        "aap-davis-poland-2026",
+        "hurbra-davis-poland-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "AAP: Australia 3-1, Brisbane; HurBra: venue Pat Rafter Arena, 1-1 after Saturday."
+    },
+    {
+      "claim": "Beat Maks Kasnikowski 6-3, 6-0 on Saturday",
+      "sourceIds": [
+        "hurbra-davis-poland-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "HurBra: De Minaur won 6-3, 6-0."
+    },
+    {
+      "claim": "Beat Kamil Majchrzak 6-3, 6-3 on Sunday to clinch the tie; Purcell and Hijikata won doubles",
+      "sourceIds": [
+        "aap-davis-poland-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "AAP: Majchrzak 6-3 6-3; Purcell and Hijikata doubles."
+    },
+    {
+      "claim": "Winner advances to 2027 Davis Cup Qualifiers",
+      "sourceIds": [
+        "hurbra-davis-poland-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "HurBra: winner advances to next year's Qualifiers."
+    },
+    {
+      "claim": "Alcaraz beat de Minaur 7-5, 6-2, 6-1 in AO 2026 QF on 27 January; Head2Head lead 6-0; two sets won since 2022; first semi-final at Melbourne Park",
+      "sourceIds": [
+        "atp-ao-2026-qf"
+      ],
+      "verdict": "confirmed",
+      "note": "ATP report matches all points."
+    },
+    {
+      "claim": "Sinner beat de Minaur 6-3, 6-4 in the Vienna semi-final, October 2025",
+      "sourceIds": [
+        "tennismajors-vienna"
+      ],
+      "verdict": "confirmed",
+      "note": "Saturday October 25, 2025 semi-final, 6-3 6-4. Supported, not a removed claim."
+    },
+    {
+      "claim": "Race: 10th in PIF ATP Live Race, first outside cut, 2,880 points; win would give 2,930; 254 behind Jodar (9th, 3,184); Tien 8-9 vs top 10",
+      "sourceIds": [
+        "tennismajors-race-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated 28 Oct 2026 matches all figures."
+    },
+    {
+      "claim": "Summary, knownFor, metaDescription and FAQ wording",
+      "sourceIds": [
+        "atp-bio",
+        "rg-profile",
+        "atp-vienna-2026",
+        "abc-tennis",
+        "atp-ao-2026-qf"
+      ],
+      "verdict": "confirmed",
+      "note": "Frontmatter now uses soon-to-be world No. 1 per ABC; other statements backed by body and sources."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Timeline of the Vienna final, Davis Cup tie details and race position are not in the top generic results; sources cited per paragraph.",
+  "decision": "approve",
+  "summary": "All facts checked against opened sources. Corrected ABC's Zverev description to soon-to-be world No. 1 and attributed the 11-title count to the ATP bio. No unsupported claims remain."
+}
