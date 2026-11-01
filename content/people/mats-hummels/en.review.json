@@ -1,0 +1,229 @@
+{
+  "date": "2026-11-01",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"Motor16 says the job is helping to define and strengthen the brand's perception in the DACH region\" (Fetched Motor16 text confirms the region and the ambassador role but not this wording. Quote it or drop the phrase.)",
+    "UNCITED: \"Those quotes were made at the end of his career (interpretive, no source).\"",
+    "Prose reads machine-written",
+    "Reviewer recommends rejection: Every date, age, cap and club stint checks out against the DFB and Reuters sources. Reject for: (1) the Motor16 'define and strengthen the brand's perception' wording, which the fetched source does not show; (2) the uncited sentence 'Those quotes were made at the end of his career'; (3) the prose is a sentence-level skeleton shared with the other four languages and repeats source narration. No claim is outdated."
+  ],
+  "claims": [
+    {
+      "claim": "Born 16 December 1988; age 37 as of 1 November 2026",
+      "sourceIds": [
+        "dfb-datencenter-hummels"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB datencenter lists Geburtstag 16.12.1988. Age arithmetic is correct for 1 Nov 2026."
+    },
+    {
+      "claim": "Nationality Germany (DE)",
+      "sourceIds": [
+        "dfb-datencenter-hummels"
+      ],
+      "verdict": "confirmed",
+      "note": "Nation: Deutschland."
+    },
+    {
+      "claim": "Second goal in Germany's 4-0 opening win over Portugal at the 2014 World Cup; 1-0 winner in the quarter-final vs France",
+      "sourceIds": [
+        "dfb-hummels-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB article states both goals."
+    },
+    {
+      "claim": "Germany won the 2014 World Cup in Brazil",
+      "sourceIds": [
+        "dfb-hummels-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB lists Weltmeister 2014 in Brasilien."
+    },
+    {
+      "claim": "First senior spell at Bayern Munich, 1 July 2006 to 2 January 2008",
+      "sourceIds": [
+        "dfb-datencenter-hummels"
+      ],
+      "verdict": "confirmed",
+      "note": "Datencenter: 01.07.2006 to 02.01.2008."
+    },
+    {
+      "claim": "Youth: Bayern U17 from 2003, U19 from 2005, Bayern II from May 2006",
+      "sourceIds": [
+        "dfb-datencenter-hummels"
+      ],
+      "verdict": "confirmed",
+      "note": "Datencenter: U17 from 01.07.2003, U19 from 01.07.2005, Bayern II from 27.05.2006."
+    },
+    {
+      "claim": "Joined Borussia Dortmund January 2008; Dortmund spell 3 January 2008 to 30 June 2016",
+      "sourceIds": [
+        "dfb-datencenter-hummels"
+      ],
+      "verdict": "confirmed",
+      "note": "Datencenter: 03.01.2008 to 30.06.2016."
+    },
+    {
+      "claim": "Bayern second spell 1 July 2016 to 30 June 2019; Dortmund second spell 1 July 2019 to 30 June 2024",
+      "sourceIds": [
+        "dfb-datencenter-hummels"
+      ],
+      "verdict": "confirmed",
+      "note": "Both ranges match the datencenter table exactly."
+    },
+    {
+      "claim": "Five seasons in the second Dortmund spell",
+      "sourceIds": [
+        "dfb-datencenter-hummels"
+      ],
+      "verdict": "confirmed",
+      "note": "Derived from the 2019 to 2024 dates; 2019/20 to 2023/24 is five seasons."
+    },
+    {
+      "claim": "DFB calls Bayern Munich his home club",
+      "sourceIds": [
+        "dfb-hummels-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "Page says FC Bayern Munich is his Heimatverein."
+    },
+    {
+      "claim": "Five German championships and three DFB-Pokal wins across his club career",
+      "sourceIds": [
+        "dfb-hummels-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB says five Meisterschaften and three DFB-Pokal titles with Bayern and Dortmund. Datencenter lists the same counts."
+    },
+    {
+      "claim": "Retirement announced 4 April 2025, aged 36, to end the career in the summer",
+      "sourceIds": [
+        "dfb-hummels-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB article dated 04.04.2025 says he was 36 and would end his career in the summer."
+    },
+    {
+      "claim": "Dortmund said one of the greatest players in its history was stepping away; Watzke said he is one of the biggest players Dortmund has ever developed",
+      "sourceIds": [
+        "bundesliga-hummels-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "Both quotes are on the Bundesliga.com page, dated 05.04.2025."
+    },
+    {
+      "claim": "AS Roma announced the signing on 4 September 2024",
+      "sourceIds": [
+        "lanacion-roma-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Reuters item dated 4 sep 2024; club announced it on Wednesday."
+    },
+    {
+      "claim": "Transfer fee not disclosed by the club",
+      "sourceIds": [
+        "lanacion-roma-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Article says the transfer details were not disclosed."
+    },
+    {
+      "claim": "One-season contract, from Italian media reports relayed by Reuters",
+      "sourceIds": [
+        "lanacion-roma-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Article cites Italian media for a one-season contract."
+    },
+    {
+      "claim": "AS Roma was his last club",
+      "sourceIds": [
+        "bundesliga-hummels-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "Bundesliga.com: zuletzt der AS Rom."
+    },
+    {
+      "claim": "Senior debut 13 May 2010, 3-0 win over Malta in Aachen under Joachim Löw",
+      "sourceIds": [
+        "dfb-hummels-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB article states this."
+    },
+    {
+      "claim": "Won the U21 European Championship with Germany in Sweden in 2009",
+      "sourceIds": [
+        "dfb-hummels-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB article and datencenter."
+    },
+    {
+      "claim": "Germany reached Euro 2012 and Euro 2016 semi-finals; out in 2018 World Cup group stage and Euro 2020 round of 16",
+      "sourceIds": [
+        "dfb-hummels-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "All four results are stated in the DFB article."
+    },
+    {
+      "claim": "78 caps and five goals for Germany",
+      "sourceIds": [
+        "dfb-hummels-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB article; datencenter shows 78 A-Laenderspiele."
+    },
+    {
+      "claim": "Final cap 21 November 2023 in Vienna under Julian Nagelsmann",
+      "sourceIds": [
+        "dfb-hummels-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB article states this."
+    },
+    {
+      "claim": "Bentley named him a two-year brand ambassador for German-speaking markets, October 2026",
+      "sourceIds": [
+        "dupont-bentley-hummels"
+      ],
+      "verdict": "confirmed",
+      "note": "DuPont byline 8 October 2026: two-year collaboration focusing on German-speaking markets."
+    },
+    {
+      "claim": "Motor16 (9 October 2026) says the DACH region means Germany, Austria and Switzerland, for a two-year collaboration",
+      "sourceIds": [
+        "motor16-bentley-hummels"
+      ],
+      "verdict": "confirmed",
+      "note": "Motor16 dated 9 octubre 2026; lists Alemania, Austria y Suiza and two years."
+    },
+    {
+      "claim": "Motor16 says the job is helping to define and strengthen the brand's perception in the DACH region",
+      "sourceIds": [
+        "motor16-bentley-hummels"
+      ],
+      "verdict": "unsupported",
+      "note": "Fetched Motor16 text confirms the region and the ambassador role but not this wording. Quote it or drop the phrase."
+    },
+    {
+      "claim": "Motor16: remains linked to football as an investor, works as TV analyst for the Champions League, UNICEF ambassador for over ten years",
+      "sourceIds": [
+        "motor16-bentley-hummels"
+      ],
+      "verdict": "confirmed",
+      "note": "All three are in Motor16."
+    }
+  ],
+  "uncitedClaims": [
+    "Those quotes were made at the end of his career (interpretive, no source)."
+  ],
+  "readsHumanWritten": false,
+  "addsValue": true,
+  "valueNote": "Exact club and youth dates from the DFB datencenter give a clearer timeline than most results, and the note on the DuPont and Motor16 dates helps. The prose repeatedly narrates sources and reads like a fact sheet.",
+  "decision": "reject",
+  "summary": "Every date, age, cap and club stint checks out against the DFB and Reuters sources. Reject for: (1) the Motor16 'define and strengthen the brand's perception' wording, which the fetched source does not show; (2) the uncited sentence 'Those quotes were made at the end of his career'; (3) the prose is a sentence-level skeleton shared with the other four languages and repeats source narration. No claim is outdated."
+}

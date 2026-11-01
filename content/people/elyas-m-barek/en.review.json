@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-01",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"FAQ: Earlygame names Zeki Müller as the role in Fack ju Göhte (2013)\" (Earlygame does not name Zeki Müller in the fetched text. Round 6 reviewer asked for serienjunkies to be cited.)",
+    "UNSUPPORTED: \"Hollywood answer: would rather make 'Türkisch für Anfänger 2' or 'Fack ju Göhte 2' with Bora\" (Preference confirmed. The quoted sequel titles were not verified verbatim on the page.)",
+    "UNSUPPORTED: \"Der perfekte Urlaub is the newest entry in a filmography starting with Mädchen, Mädchen (2001)\" (serienjunkies does not call it the newest entry. filmportal lists it first.)",
+    "Reviewer recommends rejection: Round 6 rejection, three attribution and wording points: the FAQ Zeki Müller attribution, the unverified sequel titles and the newest-entry citation. All three were changed after this check (serienjunkies added, titles paraphrased, filmportal cited). The changed text was not re-verified by the reviewer."
+  ],
+  "claims": [
+    {
+      "claim": "FAQ: Earlygame names Zeki Müller as the role in Fack ju Göhte (2013)",
+      "sourceIds": [
+        "earlygame-mbarek-44",
+        "filmportal-mbarek"
+      ],
+      "verdict": "unsupported",
+      "note": "Earlygame does not name Zeki Müller in the fetched text. Round 6 reviewer asked for serienjunkies to be cited."
+    },
+    {
+      "claim": "Hollywood answer: would rather make 'Türkisch für Anfänger 2' or 'Fack ju Göhte 2' with Bora",
+      "sourceIds": [
+        "tvmovie-interview-2013"
+      ],
+      "verdict": "unsupported",
+      "note": "Preference confirmed. The quoted sequel titles were not verified verbatim on the page."
+    },
+    {
+      "claim": "Der perfekte Urlaub is the newest entry in a filmography starting with Mädchen, Mädchen (2001)",
+      "sourceIds": [
+        "serienjunkies-mbarek-person"
+      ],
+      "verdict": "unsupported",
+      "note": "serienjunkies does not call it the newest entry. filmportal lists it first."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds the UK and cinema release-date conflict, the single-source opening figure with its missing Austrian figure, and filmography context from sources that were opened.",
+  "decision": "reject",
+  "summary": "Round 6 rejection, three attribution and wording points: the FAQ Zeki Müller attribution, the unverified sequel titles and the newest-entry citation. All three were changed after this check (serienjunkies added, titles paraphrased, filmportal cited). The changed text was not re-verified by the reviewer."
+}

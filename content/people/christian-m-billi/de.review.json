@@ -1,0 +1,258 @@
+{
+  "date": "2026-11-01",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Geboren am 26. April 1995 in Yaoundé, Kamerun",
+      "sourceIds": [
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN: born in Yaoundé, Cameroon, on April 26, 1995."
+    },
+    {
+      "claim": "31 Jahre alt (metaDescription, summary, FAQ, body)",
+      "sourceIds": [
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN: 'At 31'."
+    },
+    {
+      "claim": "Trainiert in Montreal (summary, present tense)",
+      "sourceIds": [
+        "wbc-profile",
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "WBC: based in Montreal. beIN dates the move to Montreal to 2017 under Marc Ramsay; present tense is a fair reading of 'based'."
+    },
+    {
+      "claim": "Verlor am 31. Oktober 2026 in Riad den WBC-Titel im Supermittelgewicht gegen Canelo Álvarez nach einstimmiger Entscheidung über zwölf Runden",
+      "sourceIds": [
+        "depor-result",
+        "sundayguardian-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Depor and Sunday Guardian: unanimous decision after 12 rounds, WBC super middleweight title, Riyadh."
+    },
+    {
+      "claim": "Wertungen 115:112, 116:111 und 117:110, jeweils für Álvarez",
+      "sourceIds": [
+        "depor-result",
+        "sundayguardian-result",
+        "bleacherreport-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Same cards in all three; Bleacher Report: all for Alvarez."
+    },
+    {
+      "claim": "Vor dem Kampf 29 Siege und ein Unentschieden, keine Profiniederlage",
+      "sourceIds": [
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN: 29 wins, no losses, one draw."
+    },
+    {
+      "claim": "beIN stellte ihn als ungeschlagenen Champion vor",
+      "sourceIds": [
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN headline: 'the Undefeated Champion'."
+    },
+    {
+      "claim": "Auf der WBC-Website heißt er Christian Mbilli; Al Jazeera schreibt M'billi",
+      "sourceIds": [
+        "wbc-profile",
+        "aljazeera-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "WBC uses Christian Mbilli; Al Jazeera uses M'billi."
+    },
+    {
+      "claim": "Álvarez, zweifacher ehemaliger undisputed-Weltmeister im Supermittelgewicht, mit Titeln in mehreren Gewichtsklassen",
+      "sourceIds": [
+        "aljazeera-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera: former two-time undisputed super-middleweight champion; multiple weight classes."
+    },
+    {
+      "claim": "Im September 2025 gegen Crawford verloren, seitdem nicht mehr geboxt",
+      "sourceIds": [
+        "aljazeera-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera: beaten by Crawford in September 2025; 'has not fought since'."
+    },
+    {
+      "claim": "Veranstalter hielten am Kampf fest trotz Angriffen auf Flughäfen in Saudi-Arabien Anfang Oktober",
+      "sourceIds": [
+        "aljazeera-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera: 'go ahead this month ... despite attacks on the country's airports'; article dated 12 Oct 2026. 'Anfang Oktober' is a fair reading."
+    },
+    {
+      "claim": "Turki Al-Sheikh: 'egal, was passiert' und Álvarez 'fürchte nichts'",
+      "sourceIds": [
+        "aljazeera-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera quotes 'no matter what happens' and 'fears nothing'."
+    },
+    {
+      "claim": "Kampf über die volle Distanz von zwölf Runden ohne K.o.; es ging um den WBC-Titel",
+      "sourceIds": [
+        "sundayguardian-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Sunday Guardian: after 12 rounds; WBC title."
+    },
+    {
+      "claim": "Depor verortet den Kampf in der ANB Arena in Riad",
+      "sourceIds": [
+        "depor-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Depor: ANB Arena, Riyadh."
+    },
+    {
+      "claim": "Bleacher Report nennt Mbilli den bis dahin ungeschlagenen Champion",
+      "sourceIds": [
+        "bleacherreport-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Bleacher Report: 'previously unbeaten champ'."
+    },
+    {
+      "claim": "Mit dem Sieg holt Álvarez den Titel zurück",
+      "sourceIds": [
+        "sundayguardian-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Sunday Guardian: 'reclaiming the WBC super middleweight title'."
+    },
+    {
+      "claim": "Der WBC-Titel, den Mbilli seit Januar 2026 hielt",
+      "sourceIds": [
+        "beinsports-profile",
+        "sundayguardian-result"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN: elevated to full champion in January 2026."
+    },
+    {
+      "claim": "Erster Weltmeistertitel: WBC-Interimstitel im Supermittelgewicht (168 lb), 27. Juni 2025 in Quebec, K.o. in der ersten Runde gegen Maciej Sulecki",
+      "sourceIds": [
+        "wbc-profile",
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "WBC: 27 June 2025, Quebec City, Sulecki stopped at 2:28 of round one, interim super middleweight (168 lbs)."
+    },
+    {
+      "claim": "Im September 2025 Unentschieden gegen Lester Martínez nach geteilten Punktrichterstimmen; laut beIN landete Martínez mehr Treffer",
+      "sourceIds": [
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN: split-decision draw; Martínez landed more punches."
+    },
+    {
+      "claim": "WBC-Profil nennt den 13. September 2025 mit Mbilli als Co-Hauptkampf, Hauptkampf Canelo gegen Crawford",
+      "sourceIds": [
+        "wbc-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "WBC: September 13, 2025, Mbilli co-main event."
+    },
+    {
+      "claim": "Im Dezember 2025 entzog das WBC Crawford den Titel wegen einer Sanktionsgebühr; im Januar 2026 wurde Mbilli zum vollwertigen Weltmeister erhoben",
+      "sourceIds": [
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN: December 2025 strip over sanctioning fee; January 2026 elevation."
+    },
+    {
+      "claim": "Der Kampf gegen Canelo sollte seine erste Titelverteidigung sein",
+      "sourceIds": [
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN: 'will mark his first title defense'."
+    },
+    {
+      "claim": "Geburt in Yaoundé, Mutter nach Frankreich, mit 15 Jahren Boxbeginn",
+      "sourceIds": [
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN: birth, mother to France, reunited in Europe, boxing from age 15."
+    },
+    {
+      "claim": "Olympia 2016 in Rio für Frankreich, Viertelfinale gegen Arlen López, der später Gold gewann; Umzug nach Montreal zu Marc Ramsay; 2017 Profi; 'The Panther'",
+      "sourceIds": [
+        "beinsports-profile",
+        "wbc-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN: represented France at Rio 2016, quarter-finals, López won gold, Montreal under Ramsay, pro 2017, The Panther."
+    },
+    {
+      "claim": "29 Siege (24 durch K.o.), keine Niederlage, ein Unentschieden; Siege über Carlos Góngora und Sergiy Derevyanchenko",
+      "sourceIds": [
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN gives the record and both names."
+    },
+    {
+      "claim": "WBC-Kontinentaltitel Amerika im Supermittelgewicht im September 2021 gegen Ronny Landaeta gewonnen und mehrmals verteidigt",
+      "sourceIds": [
+        "wbc-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "WBC: September 2021 over Landaeta; several defences."
+    },
+    {
+      "claim": "Direkt nach dem Kampf kein bestätigter Gegner für Álvarez; Depor nennt Hamzah Sheeraz und Lester Martínez als mögliche Herausforderer",
+      "sourceIds": [
+        "sundayguardian-result",
+        "depor-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Sunday Guardian: no opponent committed; Depor names both as potential challengers, none confirmed."
+    },
+    {
+      "claim": "In den Berichten zum Ergebnis wird Mbillis nächster Kampf nicht genannt",
+      "sourceIds": [
+        "depor-result"
+      ],
+      "verdict": "confirmed",
+      "note": "A statement about what the cited report does not name."
+    },
+    {
+      "claim": "FAQ answers and knownFor ('ehemaliger WBC-Weltmeister im Supermittelgewicht')",
+      "sourceIds": [
+        "beinsports-profile",
+        "depor-result",
+        "sundayguardian-result",
+        "wbc-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "All match the body and sources; knownFor correctly says former."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Natural German with local forms (Punktrichter, Unentschieden, Interimstitel, Weltmeistergürtel) and German score notation 115:112. Same belt timeline and spelling note as the English, plus the Hamzah Sheeraz and Lester Martínez challenger names. Section order differs from the English, but the content tracks it closely.",
+  "decision": "approve",
+  "summary": "Every factual claim in the body, summary, knownFor and FAQ is confirmed by the cited sources, with no uncited claims. Approve for the review agent or editor to act on; no edit required."
+}

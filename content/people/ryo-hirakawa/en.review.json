@@ -1,0 +1,390 @@
+{
+  "date": "2026-11-01",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"Hirakawa's best-known results came with Toyota in the FIA World Endurance Championship\" (F1 says he races for Toyota in the WEC. Nothing in the source ranks his results as best-known. Fix: state the WEC titles and Le Mans win directly, with the years, and drop best-known.)",
+    "Reviewer recommends rejection: Nearly every claim is confirmed by the cited sources, and the quotes match the F1 article. One body claim, that his best-known results came with Toyota, is unsupported by the cited F1 article and must be removed or rewritten with the specific WEC titles and years. The Racer source returned HTTP 429 twice; it is listed in person_json but not cited in the article, so it does not affect any claim. Fix the best-known sentence and resubmit."
+  ],
+  "claims": [
+    {
+      "claim": "Haas dropped Esteban Ocon for the rest of the 2026 Mexico City GP weekend and gave no reason",
+      "sourceIds": [
+        "racefans-ocon-replacement-2026",
+        "f1-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "RaceFans: Ocon out for the rest of the weekend, no reason given. F1 article also describes the replacement without a stated reason."
+    },
+    {
+      "claim": "The team confirmed that Ocon was not ill",
+      "sourceIds": [
+        "racefans-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "RaceFans: team confirmed he isn't ill."
+    },
+    {
+      "claim": "Ryo Hirakawa, 32, was called up on Saturday morning, before qualifying",
+      "sourceIds": [
+        "f1-dream-come-true-2026",
+        "f1-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "RaceFans: Saturday morning, hours before qualifying. Age 32 matches DOB 1994-03-07 on 2026-11-01."
+    },
+    {
+      "claim": "Hirakawa was due to partner Ollie Bearman through final practice, qualifying and the 71-lap race",
+      "sourceIds": [
+        "f1-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 confirms teammate Bearman for remaining sessions and the 71-lap race."
+    },
+    {
+      "claim": "Formula 1 described the race as his first Grand Prix start",
+      "sourceIds": [
+        "f1-ocon-replacement-2026",
+        "f1-dream-come-true-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Both F1 articles describe Sunday's race as his GP debut."
+    },
+    {
+      "claim": "Hirakawa took part in the opening practice session on Friday as Haas's reserve driver",
+      "sourceIds": [
+        "racefans-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "RaceFans confirms FP1 participation."
+    },
+    {
+      "claim": "Formula 1 reported that he finished 15th overall in Friday practice",
+      "sourceIds": [
+        "f1-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 reports 15th in FP1."
+    },
+    {
+      "claim": "Ocon returned to the car in the second practice session, where he was 13th, ahead of Bearman",
+      "sourceIds": [
+        "f1-ocon-replacement-2026",
+        "racefans-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Return is in F1; 13th ahead of Bearman is in RaceFans. The F1 citation alone does not give the position, so the RaceFans tag should stay."
+    },
+    {
+      "claim": "Hirakawa qualified 19th and was eliminated in Q1",
+      "sourceIds": [
+        "f1-dream-come-true-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "F1: P19, did not get through Q1."
+    },
+    {
+      "claim": "He said he had traffic on his last push lap",
+      "sourceIds": [
+        "f1-dream-come-true-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 quote: I had traffic in the last push lap."
+    },
+    {
+      "claim": "He called the call-up a dream come true",
+      "sourceIds": [
+        "f1-dream-come-true-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 quote: Today, dream come true."
+    },
+    {
+      "claim": "Hirakawa became Haas's official reserve driver in April 2025",
+      "sourceIds": [
+        "haas-profile",
+        "f1-reserve-driver-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Announcement dated 7 April 2025."
+    },
+    {
+      "claim": "He moved from Alpine to the role, and F1 reported he would help with car development as well as reserve duties",
+      "sourceIds": [
+        "f1-reserve-driver-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "F1: will help develop the VF-25 and test parts in the simulator."
+    },
+    {
+      "claim": "Haas's profile lists four practice sessions with the team: Bahrain, Spain, Mexico City, Abu Dhabi",
+      "sourceIds": [
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile lists 2025 Haas FP1 sessions at these four circuits."
+    },
+    {
+      "claim": "Earlier practice running came with McLaren",
+      "sourceIds": [
+        "f1-dream-come-true-2026",
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Haas profile lists McLaren 2024 reserve role with an FP1 session."
+    },
+    {
+      "claim": "At Alpine he was official test and reserve driver before joining Haas, and ran one practice session at the Japanese Grand Prix in Suzuka",
+      "sourceIds": [
+        "haas-profile",
+        "f1-reserve-driver-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Haas profile: Alpine official test and reserve driver until April 2025. F1: Suzuka FP1 for Alpine."
+    },
+    {
+      "claim": "He drove for Haas in the post-season test in Abu Dhabi in December 2024",
+      "sourceIds": [
+        "f1-reserve-driver-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 confirms the December 2024 Abu Dhabi test."
+    },
+    {
+      "claim": "Ocon was already due to leave Haas at the end of the 2026 season, and Rafael Camara will replace him next year",
+      "sourceIds": [
+        "racefans-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "RaceFans: Ocon scheduled to leave end of 2026, Ferrari junior Rafael Camara replaces him in 2027."
+    },
+    {
+      "claim": "Hirakawa was born on 7 March 1994 in Hiroshima, Japan",
+      "sourceIds": [
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Haas profile confirms DOB and birthplace."
+    },
+    {
+      "claim": "He won the All-Japan Junior Kart Championship in 2008",
+      "sourceIds": [
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Haas profile: All-Japan Junior Kart champion 2008."
+    },
+    {
+      "claim": "He was runner-up in Formula Challenge Japan in 2011 and 2012",
+      "sourceIds": [
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: 2nd in 2011 and 2012."
+    },
+    {
+      "claim": "In 2012 he won the Japanese Formula 3 championship and the Porsche Carrera Cup Japan title",
+      "sourceIds": [
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: Japanese F3 champion 2012 and Porsche Carrera Cup Japan champion 2012."
+    },
+    {
+      "claim": "That year he qualified 24th for the Macau Grand Prix and did not finish",
+      "sourceIds": [
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: Macau 2012, qualified 24th, DNF."
+    },
+    {
+      "claim": "He raced in Super Formula from 2013 to 2015, and again from 2018 to 2023",
+      "sourceIds": [
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile lists Super Formula seasons 2013-2015 and 2018-2023."
+    },
+    {
+      "claim": "In GT500 Super GT with TOM'S he won the 2017 title and was runner-up in 2018, 2019 and 2020",
+      "sourceIds": [
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: 2017 champion, 2nd in 2018, 2019, 2020."
+    },
+    {
+      "claim": "In the European Le Mans Series he was fifth in 2016 with Thiriet by TDS and fourth in 2017 with G-Drive Racing",
+      "sourceIds": [
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: 5th 2016 Thiriet by TDS, 4th 2017 G-Drive. The profile itself has an inconsistent note on the 2017 result, which the article does not repeat."
+    },
+    {
+      "claim": "He won the 24 Hours of Le Mans in 2022 with Toyota",
+      "sourceIds": [
+        "f1-dream-come-true-2026",
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile: 2022 Le Mans win with Toyota Gazoo Racing."
+    },
+    {
+      "claim": "Formula 1 describes him as a two-time WEC winner, in 2022 and 2023",
+      "sourceIds": [
+        "f1-dream-come-true-2026",
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 calls him a two-time WEC champion. Years 2022 and 2023 come from the Haas profile."
+    },
+    {
+      "claim": "WEC: champion in 2022 with 149 points, champion in 2023 with 172 points, fourth in 2024 with 109 points, seventh in 2025 with 66 points",
+      "sourceIds": [
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Profile WEC table matches."
+    },
+    {
+      "claim": "RaceFans reports he normally races for Toyota in the WEC and is due to return there",
+      "sourceIds": [
+        "racefans-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "RaceFans: due to return to his regular WEC seat with Toyota."
+    },
+    {
+      "claim": "Haas has not said whether Hirakawa will keep the seat for the rest of the season",
+      "sourceIds": [
+        "racefans-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "RaceFans confirms."
+    },
+    {
+      "claim": "Team statement ended: No further statements will be made at this time.",
+      "sourceIds": [
+        "f1-ocon-replacement-2026",
+        "racefans-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "RaceFans quotes the same wording."
+    },
+    {
+      "claim": "Hirakawa called the call-up a very big surprise this morning",
+      "sourceIds": [
+        "f1-dream-come-true-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact phrase in F1 article: Obviously was a very big surprise this morning."
+    },
+    {
+      "claim": "He added: I was ready but always dreaming about it.",
+      "sourceIds": [
+        "f1-dream-come-true-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact substring in F1 article: This is a role for myself, I was ready but always dreaming about it."
+    },
+    {
+      "claim": "On the short notice he said: Just these 12 hours passed so fast",
+      "sourceIds": [
+        "f1-dream-come-true-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact phrase present in F1 article."
+    },
+    {
+      "claim": "Before the race he said: Very excited for that.",
+      "sourceIds": [
+        "f1-dream-come-true-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact phrase present in F1 article."
+    },
+    {
+      "claim": "Hirakawa's best-known results came with Toyota in the FIA World Endurance Championship",
+      "sourceIds": [
+        "f1-reserve-driver-2025"
+      ],
+      "verdict": "unsupported",
+      "note": "F1 says he races for Toyota in the WEC. Nothing in the source ranks his results as best-known. Fix: state the WEC titles and Le Mans win directly, with the years, and drop best-known."
+    },
+    {
+      "claim": "Frontmatter: age 32 (metaTitle, metaDescription, summary, body)",
+      "sourceIds": [
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "DOB 1994-03-07 gives age 32 on 2026-11-01. Still true; he turns 33 in March 2027."
+    },
+    {
+      "claim": "metaDescription: two-time WEC champion; qualified 19th after replacing Esteban Ocon",
+      "sourceIds": [
+        "f1-dream-come-true-2026",
+        "f1-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Both backed."
+    },
+    {
+      "claim": "summary: official reserve driver at Haas since April 2025; two-time FIA WEC winner with Toyota",
+      "sourceIds": [
+        "haas-profile",
+        "f1-reserve-driver-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Both backed. Present-tense reserve role still matches the 31 Oct 2026 RaceFans and F1 reports."
+    },
+    {
+      "claim": "FAQ: born 7 March 1994, so 32 as of 1 November 2026",
+      "sourceIds": [
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic and DOB confirmed."
+    },
+    {
+      "claim": "FAQ: Haas profile gives birthplace as Hiroshima, Japan and birth date 7 March 1994",
+      "sourceIds": [
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "FAQ: Haas gave no reason and confirmed Ocon was not ill",
+      "sourceIds": [
+        "racefans-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "FAQ: Formula 1 describes Sunday's 71-lap race as his first Grand Prix start",
+      "sourceIds": [
+        "f1-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "FAQ: Haas official reserve driver; normally races for Toyota in the WEC",
+      "sourceIds": [
+        "haas-profile",
+        "racefans-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "The article gives a dated timeline of the replacement, the practice and qualifying results, and a sourced career list that a typical news result does not. Its strongest added value is the Haas profile's career tables and the quotes checked against F1. It is a news recap with a career section, so the added value is moderate.",
+  "decision": "reject",
+  "summary": "Nearly every claim is confirmed by the cited sources, and the quotes match the F1 article. One body claim, that his best-known results came with Toyota, is unsupported by the cited F1 article and must be removed or rewritten with the specific WEC titles and years. The Racer source returned HTTP 429 twice; it is listed in person_json but not cited in the article, so it does not affect any claim. Fix the best-known sentence and resubmit."
+}

@@ -1,234 +1,89 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-11-01",
   "model": "claude-haiku-5-5",
   "approved": true,
   "reasons": [],
   "claims": [
     {
-      "claim": "Austin X Takeover event on 10 Oct 2026; one-word answer 'Nothing' then 'Next question'",
+      "claim": "Nicki Minaj es de Trinidad y Tobago: nació como Onika Tanya Maraj el 8 de diciembre de 1982 en Saint James, en ese país",
       "sourceIds": [
-        "ibtimes-nothing-austin",
-        "complex-nothing-next-question"
+        "biography-com-nicki-minaj"
       ],
       "verdict": "confirmed",
-      "note": "IBTimes: Austin, Texas, Saturday 10 October; Complex quotes 'Nothing…next question'."
+      "note": "Biography.com: born Onika Tanya Maraj, December 8, 1982, Saint James, Trinidad and Tobago."
     },
     {
-      "claim": "Event held at Tesla's Giga Texas site; X Takeover listed her as keynote speaker of an independent event on EVs and technology",
+      "claim": "Wikidata da Saint James como lugar de nacimiento y registra Trinidad y Tobago como su nacionalidad",
       "sourceIds": [
-        "ibtimes-nothing-austin"
+        "wikidata-q162202"
       ],
       "verdict": "confirmed",
-      "note": "Stated in IBTimes."
+      "note": "Wikidata: place of birth Saint James; country of citizenship Trinidad and Tobago."
     },
     {
-      "claim": "Born Onika Tanya Maraj on 8 Dec 1982 in Saint James, Trinidad and Tobago",
+      "claim": "Wikidata la describe como rapera y cantante trinitense",
+      "sourceIds": [
+        "wikidata-q162202"
+      ],
+      "verdict": "confirmed",
+      "note": "Wikidata description: Trinidadian rapper and singer (born 1982)."
+    },
+    {
+      "claim": "Eso la hace tener 43 años a 27 de octubre de 2026",
+      "sourceIds": [
+        "biography-com-nicki-minaj"
+      ],
+      "verdict": "confirmed",
+      "note": "Born 8 December 1982; 43 on 27 October 2026."
+    },
+    {
+      "claim": "FAQ: Es de Trinidad y Tobago; nació en Saint James",
       "sourceIds": [
         "biography-com-nicki-minaj",
         "wikidata-q162202"
       ],
       "verdict": "confirmed",
-      "note": "Biography.com and Wikidata both give date and Saint James, Trinidad and Tobago."
+      "note": "Each part matches the sources."
     },
     {
-      "claim": "Aged 43 as of 27 Oct 2026",
+      "claim": "FAQ: Nació en Saint James, Trinidad y Tobago, el 8 de diciembre de 1982, según Biography.com",
       "sourceIds": [
-        "biography-com-nicki-minaj"
-      ],
-      "verdict": "confirmed",
-      "note": "Follows from the birth date."
-    },
-    {
-      "claim": "Wikidata description: Trinidadian rapper and singer",
-      "sourceIds": [
+        "biography-com-nicki-minaj",
         "wikidata-q162202"
       ],
       "verdict": "confirmed",
-      "note": "Wikidata English description: 'Trinidadian rapper and singer (born 1982)'."
+      "note": "Biography.com gives the date and place; Wikidata gives Saint James."
     },
     {
-      "claim": "Moved to Queens, New York, at age five",
+      "claim": "FAQ: Es una rapera y cantante trinitense, según Wikidata; firmó con Young Money en agosto de 2009",
+      "sourceIds": [
+        "wikidata-q162202",
+        "biography-com-nicki-minaj"
+      ],
+      "verdict": "confirmed",
+      "note": "Wikidata description; Biography.com: signed to Young Money in August 2009."
+    },
+    {
+      "claim": "Meta description: Nicki Minaj nació en Saint James, Trinidad y Tobago",
       "sourceIds": [
         "biography-com-nicki-minaj"
       ],
       "verdict": "confirmed",
-      "note": "Stated in Biography.com."
+      "note": "Biography.com."
     },
     {
-      "claim": "Playtime Is Over (Apr 2007), Sucka Free (2008), Beam Me Up Scotty (2009)",
+      "claim": "Meta description: Tras sus mixtapes de 2007 firmó con Young Money de Lil Wayne en 2009",
       "sourceIds": [
         "biography-com-nicki-minaj"
       ],
       "verdict": "confirmed",
-      "note": "Stated in Biography.com."
-    },
-    {
-      "claim": "Signed to Young Money Aug 2009 as first female artist; appeared on We Are Young Money (2009)",
-      "sourceIds": [
-        "biography-com-nicki-minaj"
-      ],
-      "verdict": "confirmed",
-      "note": "Stated in Biography.com."
-    },
-    {
-      "claim": "Massive Attack released April 2010, followed by Your Love; BET Best Hip Hop Female two months later",
-      "sourceIds": [
-        "biography-com-nicki-minaj"
-      ],
-      "verdict": "confirmed",
-      "note": "Page: 'In April of that year, she released... Massive Attack'; BET win 'two months later'."
-    },
-    {
-      "claim": "Pink Friday released Nov 2010 with eight singles, triple platinum",
-      "sourceIds": [
-        "biography-com-nicki-minaj"
-      ],
-      "verdict": "confirmed",
-      "note": "Page: 'dropped that November, with eight singles'; triple platinum stated. Year 2010 follows from page chronology."
-    },
-    {
-      "claim": "Roman Reloaded reached top of pop, R&B and rap charts; Starships first breakout single; 2012 Super Bowl appearance",
-      "sourceIds": [
-        "biography-com-nicki-minaj"
-      ],
-      "verdict": "confirmed",
-      "note": "Stated in Biography.com."
-    },
-    {
-      "claim": "The Pinkprint released 12 Dec 2014 with eight singles, double platinum; BET Best Female Hip Hop Artist for seventh consecutive time in 2016",
-      "sourceIds": [
-        "biography-com-nicki-minaj"
-      ],
-      "verdict": "confirmed",
-      "note": "Stated in Biography.com (eight singles for The Pinkprint confirmed)."
-    },
-    {
-      "claim": "2017 record for most Billboard Hot 100 entries by a female artist, previously held by Aretha Franklin",
-      "sourceIds": [
-        "biography-com-nicki-minaj"
-      ],
-      "verdict": "confirmed",
-      "note": "Stated in Biography.com."
-    },
-    {
-      "claim": "Chun-Li and Barbie Tingz April 2018; Queen Radio launched 8 Aug 2018; Queen debuted at No. 2 two days later",
-      "sourceIds": [
-        "biography-com-nicki-minaj"
-      ],
-      "verdict": "confirmed",
-      "note": "Biography.com gives month and day; the 2018 year follows from the page sequence (2017 record, then 'the following April')."
-    },
-    {
-      "claim": "Nicki Wrld Tour began early 2019 in Frankfurt with Juice WRLD",
-      "sourceIds": [
-        "biography-com-nicki-minaj"
-      ],
-      "verdict": "confirmed",
-      "note": "Stated in Biography.com."
-    },
-    {
-      "claim": "Say So remix with Doja Cat became her first song to top the Billboard Hot 100",
-      "sourceIds": [
-        "biography-com-nicki-minaj"
-      ],
-      "verdict": "confirmed",
-      "note": "Page: 'Minaj's first song to reach the top spot of the Billboard Hot 100'."
-    },
-    {
-      "claim": "American Idol guest appearance March 2012; announced as judge later in 2012; season 12 began early 2013",
-      "sourceIds": [
-        "biography-com-nicki-minaj"
-      ],
-      "verdict": "confirmed",
-      "note": "Stated in Biography.com."
-    },
-    {
-      "claim": "Steffie voice in Ice Age: Continental Drift (2012); The Other Woman (2014) opposite Cameron Diaz; voice role in The Angry Birds Movie 2; guest judge on RuPaul's Drag Race season 12 premiere; MAC Cosmetics endorsement",
-      "sourceIds": [
-        "biography-com-nicki-minaj"
-      ],
-      "verdict": "confirmed",
-      "note": "Stated in Biography.com."
-    },
-    {
-      "claim": "Pink Friday 2 released 8 Dec 2023 as fifth studio album",
-      "sourceIds": [
-        "ibtimes-nothing-austin"
-      ],
-      "verdict": "confirmed",
-      "note": "Stated in IBTimes."
-    },
-    {
-      "claim": "'Big Foot' released Jan 2024; joined Juice WRLD on 'AGATS2 (Insecure)' in Nov 2024",
-      "sourceIds": [
-        "ibtimes-nothing-austin"
-      ],
-      "verdict": "confirmed",
-      "note": "Stated in IBTimes."
-    },
-    {
-      "claim": "Opened 2020 with Meghan Trainor collaboration 'Nice to Meet Ya'",
-      "sourceIds": [
-        "biography-com-nicki-minaj"
-      ],
-      "verdict": "confirmed",
-      "note": "Stated in Biography.com."
-    },
-    {
-      "claim": "Wikidata occupations, record labels (Republic, Young Money, Cash Money), BET Best New Artist and Billboard Rising Star awards, and works Super Bass, Anaconda, Starships",
-      "sourceIds": [
-        "wikidata-q162202"
-      ],
-      "verdict": "confirmed",
-      "note": "Wikidata lists these values. Its occupation list also includes musician, which the body omits; the body's list is accurate as far as it goes."
-    },
-    {
-      "claim": "24 Sep 2025 X post '3.27.26' with CD emoji, read by fans as release date; date passed 27 Mar 2026 without release",
-      "sourceIds": [
-        "ibtimes-nothing-austin"
-      ],
-      "verdict": "confirmed",
-      "note": "Stated in IBTimes."
-    },
-    {
-      "claim": "15 Oct 2025 X post: 'Ok I'm not going to put out the album anymore... No more music.' with 'Hope you're happy now' aimed at Jay-Z",
-      "sourceIds": [
-        "ibtimes-nothing-austin",
-        "digitalmusicnews-album-cancel"
-      ],
-      "verdict": "confirmed",
-      "note": "Post text and Jay-Z target confirmed by IBTimes and Digital Music News. The 15 Oct date is from IBTimes; DMN does not date the post."
-    },
-    {
-      "claim": "Digital Music News dated 16 Oct 2025; headline says she blames Jay-Z; album was due in March",
-      "sourceIds": [
-        "digitalmusicnews-album-cancel"
-      ],
-      "verdict": "confirmed",
-      "note": "Stated in Digital Music News."
-    },
-    {
-      "claim": "Official site lists Pink Friday 2 and The Pinkprint (10 Year Anniversary) as available; Vogue Italia link; no shows with RSVP; video, music and merch listings as described",
-      "sourceIds": [
-        "nicki-minaj-official"
-      ],
-      "verdict": "confirmed",
-      "note": "Each listing confirmed on nickiminajofficial.com. Social links and Republic/Young Money footer links also present."
-    },
-    {
-      "claim": "No release date for a new album is given in the reporting",
-      "sourceIds": [
-        "ibtimes-nothing-austin",
-        "complex-nothing-next-question"
-      ],
-      "verdict": "confirmed",
-      "note": "Complex: 'None is given for a new album'; IBTimes reports no date."
+      "note": "Biography.com: Playtime Is Over, April 2007; Young Money August 2009."
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "Adds a dated timeline of the album cancellation, the 24 Sep 2025 tease, the 15 Oct 2025 post and the Austin answer, with the official site status. The body is dense but reads as written, not as a press release.",
+  "valueNote": "Scoped to the eight revised claims only; the rest of the article was not checked in this pass.",
   "decision": "approve",
-  "summary": "[es] All cited claims match their sources in this locale's body. The removed Wikidata Michael Jackson Video Vanguard line is absent. No uncited factual sentences found. Approve."
+  "summary": "Scoped approval of the revised claims. Rest of article not checked in this pass."
 }

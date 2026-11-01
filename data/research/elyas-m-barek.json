@@ -1,0 +1,98 @@
+{
+  "worthWriting": true,
+  "reason": "Living German-language actor with a long screen career (Fack ju Göhte, Türkisch für Anfänger, Das perfekte Geheimnis) and a new cinema release in Germany on 22 Oct 2026 (Der perfekte Urlaub). Enough solid sources for a medium-risk page.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "filmportal-mbarek",
+      "url": "https://www.filmportal.de/en/node/467073",
+      "title": "Elyas M'Barek (filmportal.de)",
+      "publisher": "filmportal.de",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "earlygame-mbarek-44",
+      "url": "https://earlygame.com/de/news/entertainment/elyas-mbarek-wird-44-vom-muenchner-serienstar-zum-produzenten-mit-haltung",
+      "title": "Elyas M'Barek wird 44: Vom Münchner Serienstar zum Produzenten mit Haltung",
+      "publisher": "earlygame.com",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "serienjunkies-mbarek-person",
+      "url": "https://www.serienjunkies.de/person/elyas-mbarek/41769/",
+      "title": "Elyas M'Barek (serienjunkies.de person page)",
+      "publisher": "serienjunkies.de",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "kino-de-der-perfekte-urlaub",
+      "url": "https://www.kino.de/film/der-perfekte-urlaub--01K1G6NRQ9FZ82A3PKD4442Q2Y",
+      "title": "Der perfekte Urlaub (2026) - kino.de",
+      "publisher": "kino.de",
+      "type": "database",
+      "lang": "de"
+    },
+    {
+      "id": "tips-perfekte-urlaub-opening",
+      "url": "https://www.tips.at/nachrichten/oesterreich/oesterreich-welt/739729-der-perfekte-urlaub-stuermt-auf-platz-1-der-kinocharts",
+      "title": "Der perfekte Urlaub stürmt auf Platz 1 der Kinocharts",
+      "publisher": "tips.at",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "theaterkunst-virginia-woolf",
+      "url": "https://theaterkunst.de/en/virginia-woolfs-night-and-day-2/",
+      "title": "Virginia Woolf's Night and Day (theaterkunst.de)",
+      "publisher": "theaterkunst.de",
+      "type": "database",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1982-05-29",
+      "sources": [
+        "filmportal-mbarek",
+        "earlygame-mbarek-44"
+      ],
+      "note": "filmportal gives 29.05.1982 and Munich; earlygame gives 29 May 1982 in Munich."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Munich, Germany",
+      "sources": [
+        "filmportal-mbarek",
+        "serienjunkies-mbarek-person"
+      ],
+      "note": "Both sources name Munich as birthplace."
+    },
+    "nationality": {
+      "value": "AT",
+      "sources": [
+        "serienjunkies-mbarek-person"
+      ],
+      "note": "serienjunkies says he still holds Austrian citizenship (noch immer die Staatsbürgerschaft von Österreich). Earlygame does not state citizenship. Germany is his place of residence and work, not stated as citizenship in the sources read."
+    }
+  },
+  "targetQueries": [
+    "elyas m'barek alter",
+    "elyas m'barek age",
+    "elyas m'barek herkunft",
+    "where is elyas m'barek from",
+    "elyas m'barek filme",
+    "elyas m'barek movies and tv shows",
+    "elyas m'barek aktuell",
+    "elyas m'barek neuer film",
+    "elyas m'barek auszeichnungen",
+    "elyas m'barek alter türkisch für anfänger",
+    "der perfekte urlaub elyas m'barek",
+    "elyas m'barek größe"
+  ],
+  "gapNote": "Several search results give conflicting parentage (one biography portal names two mothers; Madame Tussauds Berlin names a Tunisian mother and Algerian father). Those were not fetched or used. The fetched press pieces (earlygame, serienjunkies) and the German Wikipedia lead agree on a Tunisian father and Austrian mother, so the page states that with citations. Net worth is not sourced by any named estimate, so it is left out. Private-life search queries (wife, partner, children, separation, religion) are not answered. The Virginia Woolf's Night & Day release date differs by country (German cinema listing 9 July 2026; BBFC lists UK release 19/06/2026 but was not used). The page is useful because it pulls the 2026 films into one timeline with dates from sources that were actually opened."
+}

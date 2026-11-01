@@ -1,0 +1,180 @@
+{
+  "date": "2026-11-01",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "UNCITED: \"Essas declarações foram feitas no fim da carreira dele (framing, no source).\"",
+    "Prose reads machine-written",
+    "Reviewer recommends rejection: All dates, figures and roles check out. Reject because: (1) it is a sentence-by-sentence translation of the English article; (2) the uncited sentence should be cited or removed. No claim is outdated."
+  ],
+  "claims": [
+    {
+      "claim": "Born 16 December 1988; 37 years old as of 1 November 2026",
+      "sourceIds": [
+        "dfb-datencenter-hummels"
+      ],
+      "verdict": "confirmed",
+      "note": "Datencenter."
+    },
+    {
+      "claim": "Nationality Germany",
+      "sourceIds": [
+        "dfb-datencenter-hummels"
+      ],
+      "verdict": "confirmed",
+      "note": "Datencenter."
+    },
+    {
+      "claim": "Second goal vs Portugal (4-0); 1-0 winner vs France in quarter-final; Germany won 2014 World Cup",
+      "sourceIds": [
+        "dfb-hummels-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB article."
+    },
+    {
+      "claim": "Bayern first spell 1 July 2006 to 2 January 2008; youth U17 from 2003, U19 from 2005, Bayern II from May 2006",
+      "sourceIds": [
+        "dfb-datencenter-hummels"
+      ],
+      "verdict": "confirmed",
+      "note": "Datencenter."
+    },
+    {
+      "claim": "Dortmund 3 January 2008 to 30 June 2016",
+      "sourceIds": [
+        "dfb-datencenter-hummels"
+      ],
+      "verdict": "confirmed",
+      "note": "Datencenter."
+    },
+    {
+      "claim": "Bayern 1 July 2016 to 30 June 2019; Dortmund 1 July 2019 to 30 June 2024",
+      "sourceIds": [
+        "dfb-datencenter-hummels"
+      ],
+      "verdict": "confirmed",
+      "note": "Datencenter."
+    },
+    {
+      "claim": "Five German championships and three DFB-Pokal wins",
+      "sourceIds": [
+        "dfb-hummels-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB article."
+    },
+    {
+      "claim": "DFB calls Bayern his home club",
+      "sourceIds": [
+        "dfb-hummels-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "Heimatverein."
+    },
+    {
+      "claim": "Dortmund reaction in April 2025 and Watzke quote",
+      "sourceIds": [
+        "bundesliga-hummels-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "Bundesliga.com."
+    },
+    {
+      "claim": "AS Roma signing announced 4 September 2024; fee undisclosed; one-season deal from Italian media via Reuters",
+      "sourceIds": [
+        "lanacion-roma-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "La Nacion (Reuters)."
+    },
+    {
+      "claim": "AS Roma was his last club",
+      "sourceIds": [
+        "bundesliga-hummels-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "Zuletzt der AS Rom."
+    },
+    {
+      "claim": "Senior debut 13 May 2010, 3-0 vs Malta in Aachen under Löw",
+      "sourceIds": [
+        "dfb-hummels-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB article."
+    },
+    {
+      "claim": "U21 European champion 2009 in Sweden",
+      "sourceIds": [
+        "dfb-hummels-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB article."
+    },
+    {
+      "claim": "Euro 2012 and 2016 semi-finals; 2018 World Cup group stage; Euro 2020 round of 16",
+      "sourceIds": [
+        "dfb-hummels-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB article."
+    },
+    {
+      "claim": "78 caps and 5 goals",
+      "sourceIds": [
+        "dfb-hummels-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB article."
+    },
+    {
+      "claim": "Final cap 21 November 2023 in Vienna under Nagelsmann",
+      "sourceIds": [
+        "dfb-hummels-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB article."
+    },
+    {
+      "claim": "Retirement announced 4 April 2025, aged 36, to end in summer",
+      "sourceIds": [
+        "dfb-hummels-retirement"
+      ],
+      "verdict": "confirmed",
+      "note": "DFB article dated 04.04.2025."
+    },
+    {
+      "claim": "Bentley two-year ambassador for German-speaking markets, October 2026; DuPont dated 8 October 2026",
+      "sourceIds": [
+        "dupont-bentley-hummels"
+      ],
+      "verdict": "confirmed",
+      "note": "DuPont."
+    },
+    {
+      "claim": "Motor16 dated 9 October 2026; DACH = Germany, Austria, Switzerland; two years",
+      "sourceIds": [
+        "motor16-bentley-hummels"
+      ],
+      "verdict": "confirmed",
+      "note": "Motor16."
+    },
+    {
+      "claim": "Motor16: investor, TV analyst for the Champions League, UNICEF ambassador for more than ten years",
+      "sourceIds": [
+        "motor16-bentley-hummels"
+      ],
+      "verdict": "confirmed",
+      "note": "Motor16."
+    }
+  ],
+  "uncitedClaims": [
+    "Essas declarações foram feitas no fim da carreira dele (framing, no source)."
+  ],
+  "readsHumanWritten": false,
+  "addsValue": true,
+  "valueNote": "The exact-date timeline adds value. The text mirrors the English article sentence by sentence, which the style guide says fails review.",
+  "decision": "reject",
+  "summary": "All dates, figures and roles check out. Reject because: (1) it is a sentence-by-sentence translation of the English article; (2) the uncited sentence should be cited or removed. No claim is outdated."
+}

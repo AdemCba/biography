@@ -1,10 +1,11 @@
 ---
 title: Vicky López
 slug: vicky-lopez
-metaTitle: 'Vicky López is {age}: Barcelona, Spain and Kopa Trophy'
+metaTitle: 'Vicky López is {age}: back-to-back Kopa Trophy winner'
 metaDescription: >-
-  Vicky López is {age} years old (born 26 July 2006). The FC Barcelona
-  midfielder won the women's Kopa Trophy again on 26 October 2026.
+  Vicky López is {age}, born 26 July 2006. The Barcelona midfielder won the
+  women's Kopa Trophy again on 26 October 2026, after the award's first edition
+  in 2025.
 knownFor: 'Midfielder for FC Barcelona and Spain, two-time women''s Kopa Trophy winner'
 summary: >-
   Vicky López is the FC Barcelona midfielder who won the women's Kopa Trophy for
@@ -12,6 +13,8 @@ summary: >-
   Madrid on 26 July 2006 and made her Spain debut at 17.
 status: published
 risk: medium
+publishedAt: '2026-10-28'
+updatedAt: '2026-11-01'
 reviewedAt: '2026-10-28'
 reviewBy: '2027-04-28'
 author: editor-in-chief
@@ -26,8 +29,37 @@ targetQueries:
   - Vicky López Spain national team
   - Vicky López debut Spain
   - Vicky López birthday
+  - How old is Vicky López
+  - Vickey López age
+  - How old is Vickey López
+  - Age Vicky López
+  - How old is Vicky Looez
 faq:
   - q: How old is Vicky López?
+    a: >-
+      She is 20. She was born on 26 July 2006 [s:fcb-profile-es]
+      [s:fcb-joins-2022].
+  - q: Vicky López age
+    a: >-
+      She is 20 years old. She was born on 26 July 2006 [s:fcb-profile-es]
+      [s:fcb-joins-2022].
+  - q: Vicky López birthday
+    a: >-
+      Her birthday is 26 July. The FC Barcelona profile gives her birth date as
+      26 July 2006 [s:fcb-profile-es].
+  - q: How old is Vickey López?
+    a: >-
+      She is 20. She was born on 26 July 2006 [s:fcb-profile-es]
+      [s:fcb-joins-2022].
+  - q: Vickey López age
+    a: >-
+      She is 20 years old. She was born on 26 July 2006 [s:fcb-profile-es]
+      [s:fcb-joins-2022].
+  - q: Age Vicky López
+    a: >-
+      She is 20 years old. She was born on 26 July 2006 [s:fcb-profile-es]
+      [s:fcb-joins-2022].
+  - q: How old is Vicky Looez?
     a: >-
       She is 20. She was born on 26 July 2006 [s:fcb-profile-es]
       [s:fcb-joins-2022].
@@ -44,10 +76,55 @@ faq:
       Liga F's league table lists 10 goals and nine assists in 28 matches
       [s:ligaf-player-2026]. Just Women's Sports reports 12 goals and 13 assists
       in 45 matches over the season [s:justwomenssports-kopa-2026].
-autoReviews: 2
-publishedAt: '2026-10-28'
+flag: Rejected by the fact-check 4 times; needs a human editor.
+reviewNotes: >-
+  UNSUPPORTED: "Nationality ES (facts.nationality)" (The FCB profile, as
+  fetched, does not state nationality; it only shows her playing for Spain's
+  national teams. The JWS article fetched does not describe her nationality.
+  Fix: either cite a source that states citizenship, or drop the nationality
+  field and state only that she is a Spain international, citing the
+  national-team sources.) | UNSUPPORTED: "EFE reports she is the only player to
+  have won the award in both editions held so far" (EFE says she is 'la
+  dominadora de este premio, al haberlo ganado en las dos ediciones', which
+  implies but does not state that she is the only winner. Fix: 'EFE reports that
+  she has won the award in both editions held so far.') | UNSUPPORTED: "'She
+  said she was nervous' (body)" (The article describes her nerves; the fetched
+  text has no quote where she says she was nervous. Fix: 'The article says she
+  was nervous' or drop the sentence.) | UNSUPPORTED: "2026/27 entry shows four
+  matches and two goals 'as of 28 October 2026'" (Figures match (4 matches, 2
+  goals), but the table shows no as-of date. Fix: drop 'as of 28 October 2026'
+  or say the figure is the page's figure when it was accessed.) | WRONG: "FCB
+  profile lists 45 matches and 12 goals for a second first-team season it does
+  not name" (The profile text as fetched puts 45 matches and 12 goals under
+  2025/26. The claim that the season is unnamed is therefore wrong. Fix: state
+  that the club profile gives 45 matches and 12 goals for 2025/26, against 28
+  matches and 10 goals in Liga F's table and 45 and 12 in JWS. The profile's
+  season labels are inconsistent in the fetched text, so a human should check
+  the live page.) | UNCITED: "The FAQ misspelled queries ('Vickey López', 'Vicky
+  Looez') are included as target queries, but the brief gives no Search Console
+  or query data to show that people search them. Fix: back them with query data
+  or drop them." | Prose reads machine-written | Reviewer recommends rejection:
+  Reject. The core facts hold up: birth date and place, age 20, the
+  16th-birthday signing, the 26 Oct 2026 London Kopa Trophy with Lucy Bronze
+  presenting, the second win, the 2024 Spain debut (3-0, 17 years old) and the
+  Liga F season table are all confirmed. Fixes needed: (1) the nationality 'ES'
+  is unsupported by the cited sources; (2) 'EFE reports she is the only player
+  to have won both editions' overstates EFE, which only implies it; (3) 'She
+  said she was nervous' is not a quote from her; (4) the '2026/27 as of 28
+  October 2026' date is not in the Liga F table; (5) the claim that the FCB
+  profile lists 45 matches and 12 goals for an unnamed season is wrong, because
+  the profile puts that figure under 2025/26; (6) the Champions League sentence
+  contradicts itself ('lists two' then 'gives no figure'); (7) the 'began in
+  2025' claim conflicts with JWS saying the women's category launched two years
+  ago, and the sources should both be cited; (8) the FAQ misspelled queries have
+  no query-data basis in the brief.
+autoReviews: 4
 ---
-Vicky López is 20 years old. She was born in Madrid on 26 July 2006 [s:fcb-profile-es] [s:fcb-joins-2022]. On 26 October 2026 she received the women's Kopa Trophy in London from Lucy Bronze, a former Barcelona player, and it was her second win in a row [s:efe-kopa-2026] [s:vanguard-kopa-2026]. EFE reports that she is the only player to have won the award in both editions held so far [s:efe-kopa-2026].
+On 26 October 2026 Vicky López received the women's Kopa Trophy in London from Lucy Bronze, a former Barcelona player, and it was her second win in a row [s:efe-kopa-2026] [s:vanguard-kopa-2026]. EFE reports that she is the only player to have won the award in both editions held so far [s:efe-kopa-2026].
+
+## How old is Vicky López?
+
+Vicky López is 20 years old, born on 26 July 2006 in Madrid [s:fcb-profile-es] [s:fcb-joins-2022]. Her club's signing announcement, dated 26 July 2022, says she joined Barcelona on her 16th birthday, which fits that date [s:fcb-joins-2022]. Just Women's Sports says she won the award "days after turning 20" [s:justwomenssports-kopa-2026]. That does not match the award date, since she turned 20 in July 2026 and the award came in October, so this page uses the club's date and no other birth date appears in its sources [s:justwomenssports-kopa-2026] [s:fcb-profile-es].
 
 ## Signing for Barcelona on her 16th birthday
 

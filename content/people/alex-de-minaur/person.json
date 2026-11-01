@@ -1,0 +1,102 @@
+{
+  "id": "alex-de-minaur",
+  "name": "Alex de Minaur",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 3,
+  "sameAs": [],
+  "facts": {
+    "birthPlace": {
+      "value": "Sydney, Australia",
+      "sources": [
+        "rg-profile"
+      ],
+      "note": "Roland-Garros profile. The ATP bio opened for this run does not state a birthplace. Birth date not stated by any opened source."
+    },
+    "nationality": {
+      "value": [
+        "AU"
+      ],
+      "sources": [
+        "rg-profile"
+      ],
+      "note": "Roland-Garros profile lists country as Australia."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "atp-bio",
+      "url": "https://www.atptour.com/en/players/alex-de-mi%c3%b1aur/dh58/bio",
+      "title": "Alex de Minaur - ATP Tour player bio",
+      "publisher": "ATP Tour",
+      "type": "league-or-federation",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "rg-profile",
+      "url": "https://www.rolandgarros.com/en-us/players/36276-a.de-minaur",
+      "title": "Alex De Minaur - player profile",
+      "publisher": "Roland-Garros",
+      "type": "official",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "atp-vienna-2026",
+      "url": "https://www.atptour.com/en/news/vienna-2026-results",
+      "title": "Vienna 2026 results (Erste Bank Open)",
+      "publisher": "ATP Tour",
+      "type": "league-or-federation",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "tennismajors-vienna",
+      "url": "https://www.tennismajors.com/?p=838579",
+      "title": "Tennis Majors: Sinner beats De Minaur in Vienna (2025 article; sidebar teaser dated 31 Oct 2026 reports de Minaur beat Zverev)",
+      "publisher": "Tennis Majors",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "abc-tennis",
+      "url": "https://www.abc.net.au/news/sport/tennis",
+      "title": "ABC Sport tennis: De Minaur stuns new number one Zverev in Vienna (1 Nov 2026)",
+      "publisher": "ABC",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "atp-ao-2026-qf",
+      "url": "https://www.atptour.com/en/news/alcaraz-de-minaur-australian-open-2026-tuesday",
+      "title": "Alcaraz beats de Minaur in Australian Open 2026 quarter-final",
+      "publisher": "ATP Tour",
+      "type": "league-or-federation",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "tennismajors-race-2026",
+      "url": "https://www.tennismajors.com/?p=864281",
+      "title": "Race to Turin: de Minaur and Djokovic chase the cut (28 Oct 2026)",
+      "publisher": "Tennis Majors",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "tennistourtalk-zverev",
+      "url": "https://tennistourtalk.com/?p=138621",
+      "title": "Tennis Tour Talk: Zverev first-round win in Vienna (28 Oct 2026)",
+      "publisher": "Tennis Tour Talk",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    }
+  ]
+}

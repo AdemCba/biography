@@ -1,0 +1,92 @@
+{
+  "id": "ryo-hirakawa",
+  "name": "Ryo Hirakawa",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 3,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1994-03-07",
+      "sources": [
+        "haas-profile"
+      ],
+      "note": "Haas profile lists birth date March 7, 1994. A database entry (racingnews365) gives a wrong 2026 date and was not used."
+    },
+    "birthPlace": {
+      "value": "Hiroshima, Japan",
+      "sources": [
+        "haas-profile"
+      ],
+      "note": "Haas profile lists birthplace as Hiroshima, Japan. Unverified third-party pages name Kure, Hiroshima prefecture; not used."
+    },
+    "nationality": {
+      "value": [
+        "JP"
+      ],
+      "sources": [
+        "haas-profile",
+        "f1-reserve-driver-2025"
+      ],
+      "note": "Haas profile lists Japanese; the 2025 F1 article calls him the Japanese star."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "haas-profile",
+      "url": "https://www.haasf1team.com/season/team/ryo-hirakawa",
+      "title": "Ryō Hirakawa",
+      "publisher": "Haas F1 Team",
+      "type": "official",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "f1-ocon-replacement-2026",
+      "url": "https://www.formula1.com/en/latest/article/hirakawa-to-replace-ocon-at-haas-for-remainder-of-mexico-city-grand-prix-weekend.2cl5jN0g3rZ2pIYQvc00xM",
+      "title": "Ryo Hirakawa to replace Ocon at Haas for remainder of Mexico City Grand Prix weekend",
+      "publisher": "Formula 1",
+      "type": "official",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "f1-dream-come-true-2026",
+      "url": "https://www.formula1.com/en/latest/article/dream-come-true-hirakawa-details-late-haas-call-up-for-mexico-city-gp-ahead-of-f1-debut.62Xxmfh0IWBr7dFTDM5ciw",
+      "title": "'Dream come true': Hirakawa details late Haas call-up for Mexico City GP ahead of F1 debut",
+      "publisher": "Formula 1",
+      "type": "official",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "f1-reserve-driver-2025",
+      "url": "https://www.formula1.com/en/latest/article/hirakawa-joins-haas-as-reserve-driver-for-2025-in-switch-from-alpine.7FQb2DRlpTrbF5VFpkWOSQ",
+      "title": "Hirakawa joins Haas as reserve driver for 2025 in switch from Alpine",
+      "publisher": "Formula 1",
+      "type": "official",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "racer-ocon-replacement-2026",
+      "url": "https://racer.com/2026/10/31/hirakawa-replaces-ocon-for-mexico-in-shock-late-move-for-haas",
+      "title": "Hirakawa replaces Ocon for Mexico in shock late move for Haas",
+      "publisher": "Racer",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "racefans-ocon-replacement-2026",
+      "url": "https://www.racefans.net/2026/10/31/ocon-out-hirakawa-in-as-haas-make-shock-mexican-grand-prix-driver-change/",
+      "title": "Ocon out, Hirakawa in as Haas make shock Mexican Grand Prix driver change",
+      "publisher": "RaceFans",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    }
+  ]
+}

@@ -1,232 +1,217 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-11-01",
   "model": "claude-haiku-5-5",
   "approved": true,
   "reasons": [],
   "claims": [
     {
-      "claim": "Maza tem 20 anos, nascido em 24 de novembro de 2005 (resumo, FAQ, corpo)",
+      "claim": "Ibrahim Maza é um meia de 20 anos, nascido em Berlim em 24 de novembro de 2005",
       "sourceIds": [
         "bundesliga-player",
-        "fotmob-player"
+        "fotmob-player",
+        "bayer04-transfer"
       ],
       "verdict": "confirmed",
-      "note": "Perfil da Bundesliga: 24.11.2005, idade 20; FotMob: November 24, 2005, idade 20."
+      "note": "Bundesliga e FotMob dão 24 de novembro de 2005. O clube diz que nasceu em Berlim."
     },
     {
-      "claim": "Nascido em Berlim",
+      "claim": "O Leverkusen o contratou do Hertha BSC em 2025, com contrato até 30 de junho de 2030",
       "sourceIds": [
         "bayer04-transfer"
       ],
       "verdict": "confirmed",
-      "note": "Comunicado do clube: 'the German-Algerian born in Berlin'."
+      "note": "Anúncio do clube datado de 1.05.2025, com contrato até 30 de junho de 2030."
     },
     {
-      "claim": "Joga pela seleção da Argélia; teuto-argelino",
-      "sourceIds": [
-        "bayer04-transfer",
-        "bundesliga-player"
-      ],
-      "verdict": "confirmed",
-      "note": "Clube: German-Algerian, 'Algeria international'; Bundesliga lista Argélia (DZA) e Alemanha (DEU)."
-    },
-    {
-      "claim": "Passou pela base do Hertha BSC; foi ao Leverkusen no verão de 2025",
+      "claim": "Ele fez 44 jogos pela equipe em todas as competições na temporada passada",
       "sourceIds": [
         "bayer04-young-talent"
       ],
       "verdict": "confirmed",
-      "note": "'moved from the youth section at Hertha Berlin to Leverkusen in the summer of 2025'."
+      "note": "O clube indica 44 jogos, 5 gols e 7 assistências."
     },
     {
-      "claim": "Contratado do Hertha BSC, contrato até 30 de junho de 2030; anúncio em 1º de maio de 2025",
+      "claim": "Maza fez 13 jogos pelas seleções sub-18, sub-19 e sub-20 da Alemanha antes de optar pela Argélia em 2024",
       "sourceIds": [
         "bayer04-transfer"
       ],
       "verdict": "confirmed",
-      "note": "'signed a contract to 30 June 2030'; artigo datado 1.05.2025."
+      "note": "Dado literal do anúncio do clube."
     },
     {
-      "claim": "44 jogos pelo Leverkusen em todas as competições na temporada passada",
+      "claim": "Foi um dos nomeados na cerimônia da Bola de Ouro, em Londres, em 26 de outubro de 2026",
       "sourceIds": [
-        "bayer04-young-talent"
+        "bayer04-young-talent",
+        "africasoccer-kopa"
       ],
       "verdict": "confirmed",
-      "note": "'made 44 appearances ... across all competitions'."
+      "note": "O clube confirma 26 de outubro em Londres."
     },
     {
-      "claim": "27 de maio de 2023, entrou aos 46 minutos contra o Wolfsburg, gol de empate aos 55, vitória do Hertha por 2 a 1",
+      "claim": "O prêmio ficou com Lamine Yamal, que o Africa Soccer chama de Kopa Trophy",
       "sourceIds": [
-        "hertha-wolfsburg-2023"
+        "africasoccer-kopa"
       ],
       "verdict": "confirmed",
-      "note": "Relato: 27.05.2023, Wolfsburg 1-2 Hertha, substituição aos 46', gol aos 55'."
+      "note": "A fonte confirma que Yamal ganhou o Kopa Trophy. A frase logo após a menção à Bola de Ouro é ambígua; conviria nomear o Kopa Trophy diretamente."
     },
     {
-      "claim": "Citação sobre 'as melhores oportunidades' na segunda divisão; Hertha na segunda divisão",
+      "claim": "Segundo o Bulinews, Maza ficou em nono lugar na votação",
       "sourceIds": [
-        "bayer04-transfer"
+        "bulinews-kopa-ninth"
       ],
       "verdict": "confirmed",
-      "note": "Citação presente; o clube chama o Hertha de 'Bundesliga 2 side'."
+      "note": "Fonte única (Bulinews). A atribuição está correta e deve ser mantida."
     },
     {
-      "claim": "Simon Rolfes: 'atualmente um dos jovens atacantes mais interessantes'; diretor esportivo",
+      "claim": "“Estar aqui e ser um dos nomeados é uma grande honra”",
       "sourceIds": [
-        "bayer04-transfer"
+        "africasoccer-kopa"
       ],
       "verdict": "confirmed",
-      "note": "Citação presente; o artigo o chama de 'sporting managing director'."
+      "note": "Citação verificada na fonte."
     },
     {
-      "claim": "O Leverkusen anunciou a contratação em 1º de maio de 2025",
+      "claim": "O técnico Carles Martínez espera que “Ibo” vença a Bola de Ouro algum dia",
       "sourceIds": [
-        "bayer04-transfer"
+        "bulinews-kopa-ninth"
       ],
       "verdict": "confirmed",
-      "note": "Artigo datado 1.05.2025."
+      "note": "Citação verificada: “I hope Ibo wins the Ballon d'Or one day”."
     },
     {
-      "claim": "Melhor jogador da partida na vitória por 1 a 0, fora, sobre o Benfica na Liga dos Campeões",
+      "claim": "“Estamos muito felizes com ele, e queremos que ele fique aqui por muitos anos”",
       "sourceIds": [
-        "bayer04-young-talent"
+        "bulinews-kopa-ninth"
       ],
       "verdict": "confirmed",
-      "note": "1-0 fora contra o Benfica; 'Maza was also voted Player of the Match'."
+      "note": "Citação verificada literalmente em nova consulta."
     },
     {
-      "claim": "Africa Soccer: cinco gols em 45 jogos pelo Leverkusen até setembro de 2026",
+      "claim": "Sobre as especulações de transferência, disse que não está pensando nisso; as declarações foram dadas ao Bild",
       "sourceIds": [
-        "africasoccer-mazadona"
+        "bulinews-kopa-ninth"
       ],
       "verdict": "confirmed",
-      "note": "Indicado no artigo; data 11 de setembro de 2026."
+      "note": "A fonte indica que falou ao Bild e que não pensa no assunto."
     },
     {
-      "claim": "Conhecido na Argélia como 'Mazadona', referência a Maradona",
+      "claim": "Ousmane Dembélé previu, em respostas às fotos de Maza no Instagram, que ele venceria a Bola de Ouro um dia",
       "sourceIds": [
-        "africasoccer-mazadona"
+        "africasoccer-dembele"
       ],
       "verdict": "confirmed",
-      "note": "Indicado no artigo."
+      "note": "A fonte descreve um intercâmbio nas redes sociais em resposta às publicações de Maza e parafraseia a previsão; o texto não o cita diretamente, corretamente."
     },
     {
-      "claim": "13 jogos pelas seleções sub-18, sub-19 e sub-20 da Alemanha; optou pela Argélia em 2024",
+      "claim": "O interesse do PSG é descrito como “concreto”, e os representantes de Maza foram informados, segundo Florian Plettenberg",
       "sourceIds": [
-        "bayer04-transfer"
+        "africasoccer-psg"
       ],
       "verdict": "confirmed",
-      "note": "'13 appearances for the Germany U18, U19 and U20 teams'; 'opting to play for Algeria in 2024'."
+      "note": "A fonte cita Plettenberg; nenhuma abordagem formal foi decidida."
     },
     {
-      "claim": "FotMob registra 24 jogos e 3 gols pela Argélia desde outubro de 2024",
-      "sourceIds": [
-        "fotmob-player"
-      ],
-      "verdict": "confirmed",
-      "note": "FotMob: Matches 24, Goals 3, período Oct 2024 - now."
-    },
-    {
-      "claim": "Africa Soccer: 21 jogos e dois gols no perfil de setembro de 2026",
-      "sourceIds": [
-        "africasoccer-mazadona"
-      ],
-      "verdict": "confirmed",
-      "note": "21 appearances, two goals."
-    },
-    {
-      "claim": "Argélia na Copa de 2026; Maza começou os quatro jogos",
-      "sourceIds": [
-        "bayer04-young-talent"
-      ],
-      "verdict": "confirmed",
-      "note": "'starting all four matches'."
-    },
-    {
-      "claim": "Citações antes da estreia contra a Argentina: 'o primeiro jogo é muito importante'; 'a calma será a chave'; 'vamos vencer o Messi, se Deus quiser'",
-      "sourceIds": [
-        "africasoccer-argentina"
-      ],
-      "verdict": "confirmed",
-      "note": "As três frases estão no original (artigo de 8 de junho de 2026); tradução própria."
-    },
-    {
-      "claim": "Entre os dez nomeados para Men's Young Talent of the Year",
-      "sourceIds": [
-        "bayer04-young-talent"
-      ],
-      "verdict": "confirmed",
-      "note": "'ten-player shortlist'."
-    },
-    {
-      "claim": "Lamine Yamal e Yan Diomande na mesma lista",
-      "sourceIds": [
-        "bayer04-young-talent"
-      ],
-      "verdict": "confirmed",
-      "note": "Ambos citados."
-    },
-    {
-      "claim": "Cerimônia da Bola de Ouro 2026 no London Palladium",
-      "sourceIds": [
-        "bayer04-young-talent"
-      ],
-      "verdict": "confirmed",
-      "note": "'at the London Palladium ... 2026 Ballon d'Or awards ceremony'."
-    },
-    {
-      "claim": "Africa Soccer: primeira nomeação à Bola de Ouro",
-      "sourceIds": [
-        "africasoccer-mazadona"
-      ],
-      "verdict": "confirmed",
-      "note": "'first Ballon d'Or nomination'."
-    },
-    {
-      "claim": "10 de outubro de 2026, GetFootballNewsGermany citando a Sky Alemanha: extensão além de 2030; Arsenal, Tottenham, Chelsea, Aston Villa, Manchester City; sem PSG",
-      "sourceIds": [
-        "leverkusen-talks-report"
-      ],
-      "verdict": "confirmed",
-      "note": "Data, fonte, clubes e ausência do PSG confirmados."
-    },
-    {
-      "claim": "Bulinews citando a Sky Alemanha: PSG acompanha de perto, manifestou interesse aos representantes, considera transferência em janeiro",
+      "claim": "A Sky Alemanha, citada pelo Bulinews, diz que o PSG considera uma transferência em janeiro, sem mencionar proposta",
       "sourceIds": [
         "psg-interest-report"
       ],
       "verdict": "confirmed",
-      "note": "Confirmado. A página não mostra data visível; o artigo não deve datá-la."
+      "note": "A fonte confirma a consideração de janeiro e a ausência de proposta."
     },
     {
-      "claim": "Perfil da Bundesliga: 1,80 m, camisa número 30",
+      "claim": "Um texto da TSA Algérie, citando a RMC Sport, diz que o PSG não planeja uma proposta neste inverno",
       "sourceIds": [
-        "bundesliga-player"
+        "tsa-rmc-denial"
       ],
       "verdict": "confirmed",
-      "note": "180 cm, número 30."
+      "note": "Datado de 28 de outubro de 2026."
     },
     {
-      "claim": "Perfil da Bundesliga: 7 jogos, 2 gols e 2 assistências em 2026/27",
+      "claim": "O 90min indica que o Leverkusen quer vinculá-lo ao clube a longo prazo e trabalha em uma renovação antecipada",
       "sourceIds": [
-        "bundesliga-player"
+        "90min-extension"
       ],
       "verdict": "confirmed",
-      "note": "Temporada 2026/2027: 7, 2, 2."
+      "note": "A fonte confirma."
     },
     {
-      "claim": "FAQ: Bayer 04 o descreve como teuto-argelino; optou pela Argélia em 2024 após 13 jogos de base",
+      "claim": "Em 27 de maio de 2023 entrou aos 46 minutos contra o Wolfsburg e marcou o gol de empate aos 55, na vitória do Hertha por 2 a 1",
+      "sourceIds": [
+        "hertha-wolfsburg-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Súmula: entrada aos 46' e gol aos 55', Wolfsburg 1-2 Hertha. Redação diz 'entrou no intervalo'; a fonte diz que entrou no início do segundo tempo, então a expressão pode ser ajustada."
+    },
+    {
+      "claim": "Simon Rolfes o chamou de “atualmente um dos jovens atacantes mais interessantes”",
       "sourceIds": [
         "bayer04-transfer"
       ],
       "verdict": "confirmed",
-      "note": "Coincide com o comunicado do clube."
+      "note": "Citação literal do clube."
+    },
+    {
+      "claim": "Eleito o melhor jogador da partida no jogo da Liga dos Campeões fora de casa contra o Benfica",
+      "sourceIds": [
+        "bayer04-young-talent"
+      ],
+      "verdict": "confirmed",
+      "note": "Vitória fora de casa por 1-0 segundo o clube."
+    },
+    {
+      "claim": "O Africa Soccer contabilizou cinco gols em 45 jogos pelo Leverkusen até setembro de 2026",
+      "sourceIds": [
+        "africasoccer-mazadona"
+      ],
+      "verdict": "confirmed",
+      "note": "Contagem de imprensa, marcada como tal no texto."
+    },
+    {
+      "claim": "O FotMob registra 24 jogos e 3 gols pela Argélia desde outubro de 2024",
+      "sourceIds": [
+        "fotmob-player"
+      ],
+      "verdict": "confirmed",
+      "note": "FotMob: 24 jogos e 3 gols desde outubro de 2024."
+    },
+    {
+      "claim": "A Argélia disputou a Copa do Mundo de 2026 na América do Norte, e Maza começou os quatro jogos da equipe",
+      "sourceIds": [
+        "bayer04-young-talent"
+      ],
+      "verdict": "confirmed",
+      "note": "O clube informa que ele começou os quatro jogos."
+    },
+    {
+      "claim": "Ele tem 1,80 m e a camisa número 30, segundo o perfil da Bundesliga",
+      "sourceIds": [
+        "bundesliga-player"
+      ],
+      "verdict": "confirmed",
+      "note": "O perfil mostra 180 cm e camisa 30."
+    },
+    {
+      "claim": "Lista curta de dez nomeados ao Men’s Young Talent of the Year, com Lamine Yamal e Yan Diomande",
+      "sourceIds": [
+        "bayer04-young-talent"
+      ],
+      "verdict": "confirmed",
+      "note": "O clube cita ambos."
+    },
+    {
+      "claim": "Na temporada 2026/27 ele tem 8 jogos, 3 gols e 2 assistências no perfil da Bundesliga",
+      "sourceIds": [
+        "bundesliga-player"
+      ],
+      "verdict": "confirmed",
+      "note": "A página mostra as estatísticas de 2026/2027."
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "Oferece uma cronologia datada, citações de fontes do clube e da imprensa, atribui cada número contraditório à sua fonte e separa os relatos sobre o PSG das transferências confirmadas.",
+  "valueNote": "Traz uma linha do tempo datada, as versões conflitantes sobre o PSG e a renovação com as duas partes citadas, e a diferença entre números do clube e da imprensa. Os números e citações conferem com as fontes.",
   "decision": "approve",
-  "summary": "Todas as afirmações conferem com as fontes citadas. Texto pronto para aprovação."
+  "summary": "Todas as afirmações verificadas estão confirmadas pelas fontes citadas. O nono lugar no Kopa Trophy vem de uma única fonte (Bulinews) e está corretamente atribuído. Não há afirmações sem respaldo nem desatualizadas. A idade de 20 anos ficará desatualizada em 24 de novembro de 2026."
 }

@@ -1,20 +1,21 @@
 ---
 title: 'Yaxel Lendeborg : âge, draft et stats avec les Warriors'
 slug: yaxel-lendeborg
-metaTitle: 'Yaxel Lendeborg âge : {age} ans, stats et blessure'
+metaTitle: 'Âge de Yaxel Lendeborg : {age} ans, Michigan puis Warriors'
 metaDescription: >-
-  Yaxel Lendeborg a {age} ans (né le 30 septembre 2002). Le 28 octobre 2026, il
-  figurait sur la liste des incertains pour une inflammation au pied.
+  Yaxel Lendeborg a {age} ans, né le 30 septembre 2002. Passé par l'UAB puis
+  Michigan, où il a mené l'équipe au titre NCAA 2026, il a été choisi 11e par
+  les Warriors.
 knownFor: 'Ailier recrue des Golden State Warriors, 11e choix de la draft 2026'
 summary: >-
   Yaxel Lendeborg est un ailier recrue des Golden State Warriors, sélectionné au
-  11e rang de la draft 2026 [s:fantasypros-draft]. Il est né le 30 septembre
-  2002 [s:nba-profile] et figurait, le 28 octobre 2026, sur la liste des
-  incertains pour une inflammation au pied [s:fantasypros-shootaround].
+  11e rang de la draft 2026. Il est né le 30 septembre 2002 et figurait, le 28
+  octobre 2026, sur la liste des incertains pour une inflammation au pied.
 status: published
 risk: medium
-reviewedAt: '2026-10-28'
-reviewBy: '2027-04-28'
+publishedAt: '2026-11-01'
+reviewedAt: '2026-11-01'
+reviewBy: '2027-05-01'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -27,11 +28,29 @@ targetQueries:
   - Yaxel Lendeborg Warriors
   - Yaxel Lendeborg draft
   - Yaxel Lendeborg nationalité
+  - Yaxel Lendeborg age
+  - Yaxel age
+  - Age Yaxel Lendeborg
+  - Lendeborg
+  - Yaxel Ledenborg
 faq:
   - q: Quel âge a Yaxel Lendeborg ?
     a: >-
       Il est né le 30 septembre 2002 et avait 24 ans le 28 octobre 2026
       [s:nba-profile].
+  - q: Qui est Lendeborg ?
+    a: >-
+      Yaxel Lendeborg est un ailier recrue des Golden State Warriors, choisi au
+      11e rang de la draft 2026 [s:fantasypros-draft].
+  - q: Quelles sont les statistiques de Yaxel Lendeborg ?
+    a: >-
+      Sa fiche NBA.com affiche 19,8 points, 7,8 rebonds et 3,3 passes décisives
+      par match [s:nba-profile], sans préciser la saison ni le nombre de matchs.
+  - q: 'Yaxel Ledenborg, est-ce Yaxel Lendeborg ?'
+    a: >-
+      Oui. Son nom s'écrit Lendeborg sur la fiche NBA.com [s:nba-profile]. Il
+      joue pour les Golden State Warriors, choisi au 11e rang de la draft 2026
+      [s:fantasypros-draft].
   - q: Yaxel Lendeborg est-il blessé ?
     a: >-
       Le 28 octobre 2026, FantasyPros indiquait qu'il restait sur la liste des
@@ -47,10 +66,14 @@ faq:
       Acento écrit qu'il est né aux États-Unis de parents dominicains
       [s:acento-dominicano]. Claro Sports le décrit comme portoricain
       [s:clarosports-puertorriqueno].
-autoReviews: 1
-publishedAt: '2026-10-28'
+autoReviews: 2
+publishedTime: '2026-11-01T09:55:16.524Z'
 ---
 Lendeborg avait 23 ans lorsque les Warriors l'ont sélectionné, à sa sortie de dernière année universitaire [s:fantasypros-draft]. La NBA le classe au premier tour, au 11e choix [s:nba-profile].
+
+## Quel âge a Yaxel Lendeborg ?
+
+Yaxel Lendeborg a 24 ans au 1er novembre 2026, étant né le 30 septembre 2002 [s:nba-profile]. Son parcours jusqu'aux Warriors passe par deux saisons à l'UAB, puis une à Michigan [s:nbc-bay-area-draft-analysis]. Il y a mené l'équipe au titre NCAA 2026 [s:nbc-bay-area-draft-analysis], avant que Golden State le choisisse au 11e rang de la draft 2026 [s:fantasypros-draft].
 
 ## Curry, Kerr et un poste d'ailier clairsemé
 
@@ -64,7 +87,7 @@ Steve Kerr l'a fait entrer dans le cinq de départ. Il l'a décrit comme très r
 
 En Summer League, les Warriors ont battu les Lakers 92-88 et atteint la finale. Lendeborg a marqué 15 points à 5 sur 8 au tir et réussi ses trois lancers francs [s:newsweek-summer-league]. Newsweek a écrit qu'il "continue de donner aux Golden State Warriors beaucoup de raisons de se réjouir de leur nouvelle recrue" [s:newsweek-summer-league].
 
-NBC Sports Bay Area a écrit que les chances de Golden State de bien démarrer "dépendent largement de Lendeborg" [s:nbc-bay-area-rookie-profile]. Sa fiche NBA.com affiche des moyennes de 21,8 points, 9,3 rebonds et 4,8 passes décisives par match [s:nba-profile]. Elle n'indique pas son nombre de matchs joués : il s'agit donc de moyennes publiées, rien de plus.
+NBC Sports Bay Area a écrit que les chances de Golden State de bien démarrer "dépendent largement de Lendeborg" [s:nbc-bay-area-rookie-profile]. Sa fiche NBA.com affiche des moyennes de 19,8 points, 7,8 rebonds et 3,3 passes décisives par match [s:nba-profile]. Elle ne précise ni la saison ni le nombre de matchs joués, il s'agit donc de moyennes publiées, rien de plus.
 
 ## Une cheville tordue en présaison
 
@@ -76,9 +99,9 @@ Le 28 octobre 2026, FantasyPros a indiqué que Lendeborg restait sur la liste de
 
 ## De l'UAB à Michigan
 
-NBC Sports Bay Area indique qu'il a joué "trois niveaux de basket-ball universitaire" [s:nbc-bay-area-rookie-profile]. Il a passé deux saisons à l'UAB, puis une à Michigan [s:nbc-bay-area-draft-analysis]. À l'UAB, il a pris en moyenne 11 rebonds par match avant de changer d'université [s:nbc-bay-area-rookie-profile].
+NBC Sports Bay Area indique qu'il a joué "trois niveaux de basket-ball universitaire" [s:nbc-bay-area-rookie-profile]. Il a passé deux saisons à l'UAB, puis une à Michigan [s:nbc-bay-area-draft-analysis].
 
-À Michigan, il a réussi 37,2 % de ses tirs à trois points [s:nbc-bay-area-rookie-profile]. Il a mené l'équipe au titre NCAA 2026 et a été élu meilleur joueur de la saison de la Big Ten [s:nbc-bay-area-draft-analysis]. Au total, NBC recense 112 matchs universitaires de haut niveau, dont les six derniers lors du tournoi NCAA [s:nbc-bay-area-draft-analysis].
+Il a mené l'équipe au titre NCAA 2026 et a été élu meilleur joueur de la saison de la Big Ten [s:nbc-bay-area-draft-analysis]. Au total, NBC recense 112 matchs universitaires de haut niveau, dont les six derniers lors du tournoi NCAA [s:nbc-bay-area-draft-analysis].
 
 ## Taille et lieu de naissance
 

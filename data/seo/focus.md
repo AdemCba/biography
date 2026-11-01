@@ -18,8 +18,8 @@ For each page, edit only that language's file:
 
 ## Pages
 
-- [ ] fr/yaxel-lendeborg (453 impressions, 0 clicks, position 9.3): yaxel lendeborg, yaxel lendeborg age, yaxel age, yaxel lendeborg âge, age yaxel lendeborg, lendeborg, yaxel lendeborg statistiques, yaxel ledenborg
-- [ ] es/nicki-minaj (370 impressions, 0 clicks, position 12.2): de donde es nicki minaj, nicki minaj de donde es, nicki minaj, cuántos años tiene nicki minaj, donde nacio nicki minaj, de donde es nicky minaj, de donde es niki minaj, nicky minaj de donde es
+- [x] fr/yaxel-lendeborg (done 2026-11-01) (453 impressions, 0 clicks, position 9.3): yaxel lendeborg, yaxel lendeborg age, yaxel age, yaxel lendeborg âge, age yaxel lendeborg, lendeborg, yaxel lendeborg statistiques, yaxel ledenborg
+- [x] es/nicki-minaj (done 2026-11-01) (370 impressions, 0 clicks, position 12.2): de donde es nicki minaj, nicki minaj de donde es, nicki minaj, cuántos años tiene nicki minaj, donde nacio nicki minaj, de donde es nicky minaj, de donde es niki minaj, nicky minaj de donde es
 - [ ] en/vicky-lopez (340 impressions, 0 clicks, position 9.8): vicky lopez age, how old is vicky lopez, vicky lópez age, vickey lopez age, vicky lopez birthday, how old is vickey lopez, age vicky lopez, how old is vicky looez
 - [ ] de/jiri-lehecka (287 impressions, 1 clicks, position 10.3): lehecka weltrangliste, jiří lehecka weltrangliste, jiri lehecka weltrangliste, lehecka, lehecka atp, lehecka jiri, lehecka wiki
 - [ ] fr/carlos-alcaraz (248 impressions, 0 clicks, position 13.5): carlos alcaraz, alcaraz, c. alcaraz, alcaraz age, age alcaraz, taille alcaraz tennis, alcaraz grand chelem, quel âge a carlos alcaraz

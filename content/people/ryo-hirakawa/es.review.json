@@ -1,0 +1,374 @@
+{
+  "date": "2026-11-01",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "metaTitle/body/FAQ: Ryo Hirakawa tiene 32 años (nacido 7 mar 1994, a 1 nov 2026)",
+      "sourceIds": [
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Haas profile gives birth date 7 March 1994. Age 32 at 1 Nov 2026 is correct. Body paragraph 1 tags only the F1 articles, which do not state age; add [s:haas-profile] there."
+    },
+    {
+      "claim": "Doble campeón del WEC con Toyota (2022, 2023)",
+      "sourceIds": [
+        "haas-profile",
+        "f1-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Haas profile: WEC champion 2022 (149 pts) and 2023 (172 pts). F1 article: two-time WEC winner 2022 and 2023."
+    },
+    {
+      "claim": "Piloto de reserva oficial de Haas desde abril de 2025",
+      "sourceIds": [
+        "haas-profile",
+        "f1-reserve-driver-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 announcement dated 7 April 2025 names him Haas official reserve. Haas profile accolades say April 2025, though its prose says later in the year; the article's date is correct."
+    },
+    {
+      "claim": "Haas retiró a Esteban Ocon del resto del GP de México 2026 sin explicar el motivo",
+      "sourceIds": [
+        "racefans-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "RaceFans: Haas gave no reason for the change."
+    },
+    {
+      "claim": "El equipo confirmó que Ocon no estaba enfermo",
+      "sourceIds": [
+        "racefans-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "RaceFans: team confirmed Ocon is not ill."
+    },
+    {
+      "claim": "Hirakawa fue llamado la mañana del sábado, antes de la clasificación",
+      "sourceIds": [
+        "f1-dream-come-true-2026",
+        "f1-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 articles: call-up Saturday morning, hours before qualifying."
+    },
+    {
+      "claim": "Hirakawa debía compartir box con Ollie Bearman en los entrenamientos libres finales y en la clasificación",
+      "sourceIds": [
+        "f1-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 says he partnered Bearman through final practice and qualifying. Wording shares garage is a slight stretch but acceptable."
+    },
+    {
+      "claim": "Formula 1 presentó la carrera como su primera salida en un Gran Premio",
+      "sourceIds": [
+        "f1-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "F1: the 71-lap race is his F1 race debut."
+    },
+    {
+      "claim": "Hirakawa participó en los primeros libres del viernes como piloto de reserva de Haas",
+      "sourceIds": [
+        "racefans-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "RaceFans: he took part in the opening practice session."
+    },
+    {
+      "claim": "Terminó 15.º en la general de los libres 1",
+      "sourceIds": [
+        "f1-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 team statement: 15th overall in FP1. RaceFans gives no result, so the F1 source is the one to cite."
+    },
+    {
+      "claim": "Ocon volvió al coche en la segunda sesión de libres",
+      "sourceIds": [
+        "f1-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "F1: Ocon returned during the second practice session."
+    },
+    {
+      "claim": "Ocon fue 13.º en FP2, por delante de Bearman",
+      "sourceIds": [
+        "racefans-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "RaceFans: Ocon 13th in FP2, ahead of Bearman."
+    },
+    {
+      "claim": "Hirakawa se clasificó 19.º y quedó eliminado en la Q1",
+      "sourceIds": [
+        "f1-dream-come-true-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "F1: qualified 19th, eliminated in Q1."
+    },
+    {
+      "claim": "Explicó que se encontró con tráfico en su última vuelta lanzada",
+      "sourceIds": [
+        "f1-dream-come-true-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote: he had traffic in the last push lap."
+    },
+    {
+      "claim": "Dijo que la convocatoria era un sueño hecho realidad",
+      "sourceIds": [
+        "f1-dream-come-true-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote: 'Today, dream come true.'"
+    },
+    {
+      "claim": "Llegó a Haas desde Alpine; F1 señaló que ayudaría en el desarrollo del coche además de en sus tareas de reserva",
+      "sourceIds": [
+        "f1-reserve-driver-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 article: switch from Alpine; he helps with car development alongside reserve duties."
+    },
+    {
+      "claim": "Perfil de Haas: cuatro sesiones de libres con el equipo en Baréin, España, México y Abu Dabi",
+      "sourceIds": [
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Haas profile lists four FP1 sessions in 2025. The article gives no year, so add 'en 2025' to avoid confusion with 2026 Mexico."
+    },
+    {
+      "claim": "Tuvo práctica con McLaren",
+      "sourceIds": [
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Haas profile: McLaren 2024 official reserve, FP1 at Abu Dhabi GP Dec 2024. The F1 dream article is not a source for this; the citation is correct only because haas-profile is also listed."
+    },
+    {
+      "claim": "En Alpine fue piloto de pruebas y reserva oficial hasta abril de 2025",
+      "sourceIds": [
+        "haas-profile",
+        "f1-reserve-driver-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Haas profile: Alpine test and reserve until April 2025."
+    },
+    {
+      "claim": "Corrió una sesión de libres con Alpine en el GP de Japón, en Suzuka",
+      "sourceIds": [
+        "haas-profile",
+        "f1-reserve-driver-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "F1: FP1 for Alpine at the Japanese GP weekend at Suzuka."
+    },
+    {
+      "claim": "Condujo para Haas en la prueba posterior a la temporada en Abu Dabi, en diciembre de 2024",
+      "sourceIds": [
+        "f1-reserve-driver-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "F1: post-season Abu Dhabi test the previous December (2024)."
+    },
+    {
+      "claim": "Ocon iba a abandonar Haas al final de 2026; su sustituto en 2027 será Rafael Camara",
+      "sourceIds": [
+        "racefans-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "RaceFans: Ocon was due to leave at season end; Ferrari junior Rafael Camara takes his place next year."
+    },
+    {
+      "claim": "Nació el 7 de marzo de 1994 en Hiroshima, Japón",
+      "sourceIds": [
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Haas profile: born 7 March 1994, Hiroshima, Japan."
+    },
+    {
+      "claim": "Ganó el Campeonato Japonés Júnior de Karts en 2008",
+      "sourceIds": [
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Haas profile: All-Japan Junior Kart Championship 2008."
+    },
+    {
+      "claim": "Subcampeón de Formula Challenge Japan en 2011 y 2012",
+      "sourceIds": [
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Haas profile: 2nd in 2011 and 2012."
+    },
+    {
+      "claim": "Campeón de la Fórmula 3 japonesa en 2012",
+      "sourceIds": [
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Haas profile: Japanese F3 champion 2012 with RSS."
+    },
+    {
+      "claim": "Campeón de Porsche Carrera Cup Japan en 2012, el más joven de la serie",
+      "sourceIds": [
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Haas profile: 2012 champion, described as youngest champion in the series."
+    },
+    {
+      "claim": "24.º en la clasificación del GP de Macao de 2012 y no terminó la carrera",
+      "sourceIds": [
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Haas profile: Macau 2012 qualified 24th, did not finish."
+    },
+    {
+      "claim": "Super Fórmula de 2013 a 2015 y de 2018 a 2023",
+      "sourceIds": [
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Haas profile lists these seasons."
+    },
+    {
+      "claim": "Campeón de Super GT GT500 con TOM'S en 2017; subcampeón en 2018, 2019 y 2020",
+      "sourceIds": [
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Haas profile: 2017 champion, 2nd 2018 to 2020."
+    },
+    {
+      "claim": "Quinto en ELMS 2016 con Thiriet by TDS y cuarto en 2017 con G-Drive Racing",
+      "sourceIds": [
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Haas profile: 5th 2016 Thiriet by TDS; 4th 2017 G-Drive Racing."
+    },
+    {
+      "claim": "Ganó las 24 Horas de Le Mans en 2022 con Toyota",
+      "sourceIds": [
+        "f1-dream-come-true-2026",
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Haas profile: won 2022 from pole with Toyota. F1 also cites 2022 Le Mans win."
+    },
+    {
+      "claim": "Campeón WEC 2022 con 149 puntos y 2023 con 172; cuarto en 2024 con 109 y séptimo en 2025 con 66",
+      "sourceIds": [
+        "haas-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Haas profile WEC results match. Note the profile's WEC 4th-place year is inconsistent with its own 2014 wording; the 2024 date is consistent with the accolades section."
+    },
+    {
+      "claim": "RaceFans: normalmente corre con Toyota en el WEC y tiene previsto regresar allí",
+      "sourceIds": [
+        "racefans-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "RaceFans: normally races for Toyota in WEC and is due to return after this weekend."
+    },
+    {
+      "claim": "Haas no ha dicho si Hirakawa conservará el asiento durante el resto de la temporada",
+      "sourceIds": [
+        "racefans-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "RaceFans: Haas did not indicate whether he keeps the seat."
+    },
+    {
+      "claim": "El comunicado del equipo señaló que no habría más declaraciones por el momento",
+      "sourceIds": [
+        "f1-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "F1: 'No further statements will be made at this time.'"
+    },
+    {
+      "claim": "Hirakawa habló de la convocatoria como una gran sorpresa esa mañana",
+      "sourceIds": [
+        "f1-dream-come-true-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote: 'Obviously was a very big surprise this morning'."
+    },
+    {
+      "claim": "Dijo que el papel era para él, que estaba preparado y que siempre lo había soñado",
+      "sourceIds": [
+        "f1-dream-come-true-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes: 'This is a role for myself, I was ready but always dreaming about it.' Paraphrase is accurate."
+    },
+    {
+      "claim": "«esas doce horas pasaron muy deprisa»",
+      "sourceIds": [
+        "f1-dream-come-true-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote: 'Just these 12 hours passed so fast'. Translation matches the source."
+    },
+    {
+      "claim": "Antes de la carrera dijo estar muy ilusionado",
+      "sourceIds": [
+        "f1-dream-come-true-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote: 'Very excited for that.'"
+    },
+    {
+      "claim": "Frontmatter FAQ: no ofrecen razón; Haas confirmó que Ocon no estaba enfermo",
+      "sourceIds": [
+        "racefans-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches RaceFans. Same as the body claim."
+    },
+    {
+      "claim": "FAQ: la carrera de 71 vueltas del domingo será su primera salida en un GP (según Formula 1)",
+      "sourceIds": [
+        "f1-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 article: 71-lap race, debut."
+    },
+    {
+      "claim": "FAQ: piloto de reserva oficial de Haas y normalmente corre con Toyota en el WEC",
+      "sourceIds": [
+        "haas-profile",
+        "racefans-ocon-replacement-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources support it."
+    },
+    {
+      "claim": "Person JSON facts: birthDate 1994-03-07, birthPlace Hiroshima, Japan, nationality JP",
+      "sourceIds": [
+        "haas-profile",
+        "f1-reserve-driver-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Haas profile supports birth date and birthplace. Nationality: Haas profile says Japanese, F1 says Japanese star."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "The career timeline (karting, Japanese F3, Porsche Carrera Cup, Super Formula, Super GT, ELMS, WEC results) comes from the Haas profile and is not in the top F1 news pieces. The story is mostly the call-up news repeated. The page also gives the Ocon/Camara context and the Haas reserve history. Minor local-language points: one paragraph lacks a closing full stop, and the 'cuatro sesiones' line needs its year. The Racer article (cited in person_json but not in the article) returned HTTP 429 and was not checked; the article does not cite it.",
+  "decision": "approve",
+  "summary": "No wrong facts found. Every cited claim checked against Haas profile, F1 and RaceFans sources, with quotes matching. Fix before publish: add [s:haas-profile] to the body age sentence, add 'en 2025' to the four-practice sentence, and close the paragraph ending 'Al hablar de la convocatoria dijo que era un sueño hecho realidad' with a full stop. Racer was unreachable (429) but is not cited by the article."
+}

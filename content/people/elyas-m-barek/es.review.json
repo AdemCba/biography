@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-01",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "UNSUPPORTED: \"FAQ: Earlygame names Zeki Müller as the role in Fack ju Göhte (2013)\" (Earlygame does not name Zeki Müller in the fetched text. Round 6 reviewer asked for serienjunkies to be cited.)",
+    "UNSUPPORTED: \"Der Fall Collini (2018/2019) years\" (Years come from filmportal, which was not cited in that sentence.)",
+    "Prose reads machine-written",
+    "Reviewer recommends rejection: Round 6 rejection: FAQ Zeki Müller attribution and the Collini years needing a filmportal citation, plus a request to read as its own Spanish text rather than a translation of the English structure. The first two were changed after this check; the localisation point is open."
+  ],
+  "claims": [
+    {
+      "claim": "FAQ: Earlygame names Zeki Müller as the role in Fack ju Göhte (2013)",
+      "sourceIds": [
+        "earlygame-mbarek-44",
+        "filmportal-mbarek"
+      ],
+      "verdict": "unsupported",
+      "note": "Earlygame does not name Zeki Müller in the fetched text. Round 6 reviewer asked for serienjunkies to be cited."
+    },
+    {
+      "claim": "Der Fall Collini (2018/2019) years",
+      "sourceIds": [
+        "earlygame-mbarek-44"
+      ],
+      "verdict": "unsupported",
+      "note": "Years come from filmportal, which was not cited in that sentence."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": false,
+  "addsValue": true,
+  "valueNote": "Adds the UK and cinema release-date conflict, the single-source opening figure with its missing Austrian figure, and filmography context from sources that were opened.",
+  "decision": "reject",
+  "summary": "Round 6 rejection: FAQ Zeki Müller attribution and the Collini years needing a filmportal citation, plus a request to read as its own Spanish text rather than a translation of the English structure. The first two were changed after this check; the localisation point is open."
+}

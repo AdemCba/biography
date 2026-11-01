@@ -1,0 +1,120 @@
+{
+  "id": "elyas-m-barek",
+  "name": "Elyas M'Barek",
+  "categories": [
+    "artists"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1982-05-29",
+      "sources": [
+        "filmportal-mbarek",
+        "earlygame-mbarek-44"
+      ],
+      "note": "filmportal gives 29.05.1982 and Munich; earlygame gives 29 May 1982 in Munich."
+    },
+    "birthPlace": {
+      "value": "Munich, Germany",
+      "sources": [
+        "filmportal-mbarek",
+        "serienjunkies-mbarek-person"
+      ],
+      "note": "Both sources name Munich as birthplace."
+    },
+    "nationality": {
+      "value": [
+        "AT"
+      ],
+      "sources": [
+        "serienjunkies-mbarek-person"
+      ],
+      "note": "serienjunkies says he still holds Austrian citizenship (noch immer die Staatsbürgerschaft von Österreich). Earlygame does not state citizenship. Germany is his place of residence and work, not stated as citizenship in the sources read."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "filmportal-mbarek",
+      "url": "https://www.filmportal.de/en/node/467073",
+      "title": "Elyas M'Barek (filmportal.de)",
+      "publisher": "filmportal.de",
+      "type": "database",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "earlygame-mbarek-44",
+      "url": "https://earlygame.com/de/news/entertainment/elyas-mbarek-wird-44-vom-muenchner-serienstar-zum-produzenten-mit-haltung",
+      "title": "Elyas M'Barek wird 44: Vom Münchner Serienstar zum Produzenten mit Haltung",
+      "publisher": "earlygame.com",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "de"
+    },
+    {
+      "id": "serienjunkies-mbarek-person",
+      "url": "https://www.serienjunkies.de/person/elyas-mbarek/41769/",
+      "title": "Elyas M'Barek (serienjunkies.de person page)",
+      "publisher": "serienjunkies.de",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "de"
+    },
+    {
+      "id": "kino-de-der-perfekte-urlaub",
+      "url": "https://www.kino.de/film/der-perfekte-urlaub--01K1G6NRQ9FZ82A3PKD4442Q2Y",
+      "title": "Der perfekte Urlaub (2026) - kino.de",
+      "publisher": "kino.de",
+      "type": "database",
+      "accessed": "2026-11-01",
+      "lang": "de"
+    },
+    {
+      "id": "tips-perfekte-urlaub-opening",
+      "url": "https://www.tips.at/nachrichten/oesterreich/oesterreich-welt/739729-der-perfekte-urlaub-stuermt-auf-platz-1-der-kinocharts",
+      "title": "Der perfekte Urlaub stürmt auf Platz 1 der Kinocharts",
+      "publisher": "tips.at",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "de"
+    },
+    {
+      "id": "theaterkunst-virginia-woolf",
+      "url": "https://theaterkunst.de/en/virginia-woolfs-night-and-day-2/",
+      "title": "Virginia Woolf's Night and Day (theaterkunst.de)",
+      "publisher": "theaterkunst.de",
+      "type": "database",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "filmstarts-perfekte-urlaub",
+      "url": "https://www.filmstarts.de/nachrichten/1000227396.html",
+      "title": "Der perfekte Urlaub: Kinostart, Handlung und Besetzung (filmstarts.de)",
+      "publisher": "filmstarts.de",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "de"
+    },
+    {
+      "id": "tvmovie-interview-2013",
+      "url": "https://www.tvmovie.de/news/tv-movie-interview-mit-elyas-mbarek-zu-fack-ju-goehte-56359",
+      "title": "TV Movie interview with Elyas M'Barek on Fack ju Göhte (07.11.2013)",
+      "publisher": "tvmovie.de",
+      "type": "interview",
+      "accessed": "2026-11-01",
+      "lang": "de"
+    },
+    {
+      "id": "bbfc-virginia-woolf",
+      "url": "https://www.bbfc.co.uk/release/virginia-woolfs-night-day-q29sbgvjdglvbjpwwc0xmte2njix",
+      "title": "Virginia Woolf's Night & Day (British Board of Film Classification)",
+      "publisher": "BBFC",
+      "type": "database",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    }
+  ]
+}

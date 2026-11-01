@@ -1,0 +1,100 @@
+{
+  "worthWriting": true,
+  "reason": "Top-10 ATP player and Australia's leading men's singles player with many sourced results. Vienna semi-final on 31 Oct 2026 is reported by the ATP results page and Tennis Majors. Not a minor, not a crime or health story.",
+  "wikidata": "",
+  "importance": 3,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "atp-bio",
+      "url": "https://www.atptour.com/en/players/alex-de-mi%c3%b1aur/dh58/bio",
+      "title": "Alex de Minaur - ATP Tour player bio",
+      "publisher": "ATP Tour",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "rg-profile",
+      "url": "https://www.rolandgarros.com/en-us/players/36276-a.de-minaur",
+      "title": "Alex De Minaur - player profile",
+      "publisher": "Roland-Garros",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "atp-vienna-2026",
+      "url": "https://www.atptour.com/en/news/vienna-2026-results",
+      "title": "Vienna 2026 results (Erste Bank Open)",
+      "publisher": "ATP Tour",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "tennismajors-vienna",
+      "url": "https://www.tennismajors.com/?p=838579",
+      "title": "Tennis Majors: Sinner beats De Minaur in Vienna (2025 article; sidebar teaser dated 31 Oct 2026 reports de Minaur beat Zverev)",
+      "publisher": "Tennis Majors",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "abc-tennis",
+      "url": "https://www.abc.net.au/news/sport/tennis",
+      "title": "ABC Sport tennis: De Minaur stuns new number one Zverev in Vienna (1 Nov 2026)",
+      "publisher": "ABC",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "atp-ao-2026-qf",
+      "url": "https://www.atptour.com/en/news/alcaraz-de-minaur-australian-open-2026-tuesday",
+      "title": "Alcaraz beats de Minaur in Australian Open 2026 quarter-final",
+      "publisher": "ATP Tour",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "tennismajors-race-2026",
+      "url": "https://www.tennismajors.com/?p=864281",
+      "title": "Race to Turin: de Minaur and Djokovic chase the cut (28 Oct 2026)",
+      "publisher": "Tennis Majors",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "tennistourtalk-zverev",
+      "url": "https://tennistourtalk.com/?p=138621",
+      "title": "Tennis Tour Talk: Zverev first-round win in Vienna (28 Oct 2026)",
+      "publisher": "Tennis Tour Talk",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": null,
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Sydney, Australia",
+      "sources": [
+        "rg-profile"
+      ],
+      "note": "Roland-Garros profile. The ATP bio opened for this run does not state a birthplace. Birth date not stated by any opened source."
+    },
+    "nationality": {
+      "value": "AU",
+      "sources": [
+        "rg-profile"
+      ],
+      "note": "Roland-Garros profile lists country as Australia."
+    }
+  },
+  "targetQueries": [
+    "who is alex de minaur",
+    "alex de minaur ranking",
+    "alex de minaur zverev",
+    "alex de minaur alcaraz",
+    "alex de minaur vienna",
+    "alex de minaur age"
+  ],
+  "gapNote": "Brief said Zverev was world No. 1; sources say he was top seed and one win from becoming No. 1 (tennistourtalk, ABC). Brief said de Minaur is ninth in the PIF ATP Live Race; Tennis Majors on 28 Oct 2026 has him 10th, first outside the cut, with 2,880 points before the Vienna match. The live race page returned 404, so the post-Vienna position is not verified. Birth date is not stated by any opened source. The ATP bio gives career-high No. 5 in July 2026 while Roland-Garros gives No. 6 in July 2024; both are consistent. Yahoo and France24 articles could not be found."
+}

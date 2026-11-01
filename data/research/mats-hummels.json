@@ -1,0 +1,86 @@
+{
+  "worthWriting": true,
+  "reason": "Former German international (2014 World Cup winner, retired 2025) with a documented career at Bayern Munich, Borussia Dortmund and AS Roma. Recent news: a two-year Bentley ambassador role focused on German-speaking markets. The 31 Oct 2026 TV appearance could not be verified from any source and is excluded.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "dfb-hummels-retirement",
+      "url": "https://www.dfb.de/news/weltmeister-hummels-beendet-karriere-im-sommer",
+      "title": "Weltmeister Hummels beendet Karriere im Sommer",
+      "publisher": "Deutscher Fussball-Bund (DFB)",
+      "type": "league-or-federation",
+      "lang": "de"
+    },
+    {
+      "id": "dfb-datencenter-hummels",
+      "url": "https://datencenter.dfb.de/profil/3214",
+      "title": "Mats Hummels - DFB-Datencenter player profile",
+      "publisher": "Deutscher Fussball-Bund (DFB)",
+      "type": "league-or-federation",
+      "lang": "de"
+    },
+    {
+      "id": "bundesliga-hummels-retirement",
+      "url": "https://www.bundesliga.com/de/bundesliga/news/mats-hummels-karriereende-abschied-borussia-dortmund-fc-bayern-dfb-as-roma-31598",
+      "title": "Mats Hummels Karriereende: Abschied von Borussia Dortmund, FC Bayern, DFB und AS Rom",
+      "publisher": "Bundesliga.com (DFL)",
+      "type": "league-or-federation",
+      "lang": "de"
+    },
+    {
+      "id": "lanacion-roma-2024",
+      "url": "https://www.lanacion.com.ar/agencias/hummels-exdefensor-del-borussia-dortmund-ficha-por-la-roma-nid04092024/",
+      "title": "Hummels, exdefensor del Borussia Dortmund, ficha por la Roma",
+      "publisher": "La Nacion (Reuters)",
+      "type": "press",
+      "lang": "es"
+    },
+    {
+      "id": "dupont-bentley-hummels",
+      "url": "https://news.dupontregistry.com/blogs/bentley-news/mats-hummels-becomes-a-new-brand-ambassador-for-bentley-motors",
+      "title": "Mats Hummels becomes a new brand ambassador for Bentley Motors",
+      "publisher": "DuPont Registry",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "motor16-bentley-hummels",
+      "url": "https://www.motor16.com/las-ultimas-noticias/mats-hummels-bentley/",
+      "title": "Mats Hummels ficha por Bentley: el campeon del mundo sera embajador de la marca de lujo britanica",
+      "publisher": "Motor16",
+      "type": "press",
+      "lang": "es"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1988-12-16",
+      "sources": [
+        "dfb-datencenter-hummels"
+      ],
+      "note": "DFB datencenter lists date of birth 16.12.1988."
+    },
+    "deathDate": null,
+    "birthPlace": null,
+    "nationality": {
+      "value": "DE",
+      "sources": [
+        "dfb-datencenter-hummels"
+      ],
+      "note": "DFB datencenter lists nationality as Deutschland."
+    }
+  },
+  "targetQueries": [
+    "who is Mats Hummels",
+    "Mats Hummels age",
+    "Mats Hummels club now",
+    "Mats Hummels Bentley",
+    "Mats Hummels retirement",
+    "Mats Hummels World Cup 2014",
+    "Mats Hummels Alter",
+    "Mats Hummels Verein"
+  ],
+  "gapNote": "Existing pages mix up his current status: some club profiles still show Borussia Dortmund, while the 2024-25 AS Roma spell and the 2025 retirement are the latest. Sources here cover the career, retirement and the Bentley role. The 31 Oct 2026 TV appearance is not verified and is left out."
+}

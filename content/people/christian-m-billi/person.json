@@ -1,0 +1,83 @@
+{
+  "id": "christian-m-billi",
+  "name": "Christian M'billi",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 3,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1995-04-26",
+      "sources": [
+        "beinsports-profile"
+      ],
+      "note": "beIN SPORTS states he was born in Yaoundé, Cameroon, on April 26, 1995. No other source opened gives a date."
+    },
+    "birthPlace": {
+      "value": "Yaoundé, Cameroon",
+      "sources": [
+        "wbc-profile",
+        "beinsports-profile"
+      ],
+      "note": "Both pages state he was born in Yaoundé, Cameroon."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "wbc-profile",
+      "url": "https://wbcboxing.com/en/?p=163170",
+      "title": "Christian Mbilli (WBC profile article)",
+      "publisher": "World Boxing Council (WBC)",
+      "type": "league-or-federation",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "beinsports-profile",
+      "url": "https://www.beinsports.com/en-us/boxing/articles/who-is-christian-mbilli-the-undefeated-champion-set-to-be-canelo-%C3%A1lvarez-s-next-opponent-2026-10-28",
+      "title": "Who Is Christian Mbilli, the Undefeated Champion Set to Be Canelo Álvarez's Next Opponent?",
+      "publisher": "beIN SPORTS",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "aljazeera-preview",
+      "url": "https://www.aljazeera.com/sports/2026/10/12/alvarez-vs-mbilli-boxing-bout-to-go-ahead-in-saudi-arabia-despite-attacks",
+      "title": "Alvarez vs M'billi boxing bout to go ahead despite Saudi airport attacks",
+      "publisher": "Al Jazeera",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "depor-result",
+      "url": "https://depor.com/en/us-live/who-won-canelo-vs-christian-mbilli-results-and-official-scorecards-winners-boxing-nnda-nnrt-noticia/",
+      "title": "Who Won Canelo vs. Christian Mbilli? Results and Official Scorecards",
+      "publisher": "Depor",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "bleacherreport-result",
+      "url": "https://bleacherreport.com/liveblogs/25526888-canelo-alvarez-vs-christian-mbilli-live-updates-highlights-and-results",
+      "title": "Canelo Alvarez vs. Christian Mbilli Live Updates, Highlights and Results",
+      "publisher": "Bleacher Report",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    },
+    {
+      "id": "sundayguardian-result",
+      "url": "https://sundayguardianlive.com/sports/boxing-watch-highlights-canelo-alvarez-beats-christian-mbilli-by-unanimous-decision-to-win-wbc-super-middleweight-title-in-riyadh-315179/",
+      "title": "WATCH Highlights: Canelo Alvarez Beats Christian Mbilli By Unanimous Decision To Win WBC Super Middleweight Title In Riyadh",
+      "publisher": "Sunday Guardian Live",
+      "type": "press",
+      "accessed": "2026-11-01",
+      "lang": "en"
+    }
+  ]
+}

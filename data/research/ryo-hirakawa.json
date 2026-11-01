@@ -1,0 +1,91 @@
+{
+  "worthWriting": true,
+  "reason": "Ryo Hirakawa is a Japanese racing driver (WEC champion, 2022 Le Mans winner, Haas F1 reserve driver) who was named to replace Esteban Ocon for the rest of the 2026 Mexico City GP weekend. Official Haas and Formula 1 pages and two press reports back the core facts.",
+  "wikidata": "",
+  "importance": 3,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "haas-profile",
+      "url": "https://www.haasf1team.com/season/team/ryo-hirakawa",
+      "title": "Ryō Hirakawa",
+      "publisher": "Haas F1 Team",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "f1-ocon-replacement-2026",
+      "url": "https://www.formula1.com/en/latest/article/hirakawa-to-replace-ocon-at-haas-for-remainder-of-mexico-city-grand-prix-weekend.2cl5jN0g3rZ2pIYQvc00xM",
+      "title": "Ryo Hirakawa to replace Ocon at Haas for remainder of Mexico City Grand Prix weekend",
+      "publisher": "Formula 1",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "f1-dream-come-true-2026",
+      "url": "https://www.formula1.com/en/latest/article/dream-come-true-hirakawa-details-late-haas-call-up-for-mexico-city-gp-ahead-of-f1-debut.62Xxmfh0IWBr7dFTDM5ciw",
+      "title": "'Dream come true': Hirakawa details late Haas call-up for Mexico City GP ahead of F1 debut",
+      "publisher": "Formula 1",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "f1-reserve-driver-2025",
+      "url": "https://www.formula1.com/en/latest/article/hirakawa-joins-haas-as-reserve-driver-for-2025-in-switch-from-alpine.7FQb2DRlpTrbF5VFpkWOSQ",
+      "title": "Hirakawa joins Haas as reserve driver for 2025 in switch from Alpine",
+      "publisher": "Formula 1",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "racer-ocon-replacement-2026",
+      "url": "https://racer.com/2026/10/31/hirakawa-replaces-ocon-for-mexico-in-shock-late-move-for-haas",
+      "title": "Hirakawa replaces Ocon for Mexico in shock late move for Haas",
+      "publisher": "Racer",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "racefans-ocon-replacement-2026",
+      "url": "https://www.racefans.net/2026/10/31/ocon-out-hirakawa-in-as-haas-make-shock-mexican-grand-prix-driver-change/",
+      "title": "Ocon out, Hirakawa in as Haas make shock Mexican Grand Prix driver change",
+      "publisher": "RaceFans",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1994-03-07",
+      "sources": [
+        "haas-profile"
+      ],
+      "note": "Haas profile lists birth date March 7, 1994. A database entry (racingnews365) gives a wrong 2026 date and was not used."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Hiroshima, Japan",
+      "sources": [
+        "haas-profile"
+      ],
+      "note": "Haas profile lists birthplace as Hiroshima, Japan. Unverified third-party pages name Kure, Hiroshima prefecture; not used."
+    },
+    "nationality": {
+      "value": "JP",
+      "sources": [
+        "haas-profile",
+        "f1-reserve-driver-2025"
+      ],
+      "note": "Haas profile lists Japanese; the 2025 F1 article calls him the Japanese star."
+    }
+  },
+  "targetQueries": [
+    "who is Ryo Hirakawa",
+    "Ryo Hirakawa age",
+    "Ryo Hirakawa F1 debut",
+    "Ryo Hirakawa team",
+    "Ryo Hirakawa Haas",
+    "Ryo Hirakawa Mexico City GP"
+  ],
+  "gapNote": "Coverage of the Mexico City swap is consistent across outlets, but most pieces stop at the call-up. Missing from many: his career record (Le Mans 2022, WEC titles 2022 and 2023, Super Formula, Super GT), his earlier FP1 roles with McLaren, Alpine and Haas, and the 2025 reserve-driver background that explains how the call-up happened. FP1 15th is stated in the Formula 1 replacement article. Qualifying 19th and elimination in Q1 are stated in the Formula 1 'dream come true' article. Only one source says he also drove FP3, so the page should state FP3 cautiously or not at all."
+}

@@ -1,0 +1,344 @@
+{
+  "date": "2026-11-01",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 26 April 1995 in Yaoundé, Cameroon; age 31",
+      "sourceIds": [
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN: born in Yaoundé, Cameroon, on April 26, 1995, and 'At 31'. Age 31 is correct as of 2026-11-01."
+    },
+    {
+      "claim": "Birthplace Yaoundé, Cameroon",
+      "sourceIds": [
+        "wbc-profile",
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "WBC and beIN both state birthplace Yaoundé, Cameroon."
+    },
+    {
+      "claim": "Before the Canelo fight: 29 wins, 24 by knockout, no losses, one draw",
+      "sourceIds": [
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN: '29 wins, 24 by knockout, no losses and one draw'."
+    },
+    {
+      "claim": "Lost on 31 October 2026, unanimous decision in Riyadh over 12 rounds for the WBC title",
+      "sourceIds": [
+        "depor-result",
+        "sundayguardian-result",
+        "bleacherreport-result",
+        "aljazeera-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Depor: 'Saturday, October 31, 2026, in the main event at ANB Arena in Riyadh'. Al Jazeera: scheduled for October 31 in Riyadh. Sunday Guardian: unanimous decision 'after 12 rounds' for the WBC title. Bleacher Report: unanimous decision for Alvarez."
+    },
+    {
+      "claim": "Judges scored 115-112, 116-111, 117-110, all for Alvarez",
+      "sourceIds": [
+        "depor-result",
+        "sundayguardian-result",
+        "bleacherreport-result"
+      ],
+      "verdict": "confirmed",
+      "note": "All three report the same cards; Bleacher Report says 'all for Alvarez'."
+    },
+    {
+      "claim": "No stoppage",
+      "sourceIds": [
+        "sundayguardian-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Unanimous decision after 12 rounds; no stoppage. Stated by implication of the decision."
+    },
+    {
+      "claim": "Fight at the ANB Arena in Riyadh",
+      "sourceIds": [
+        "depor-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Depor: 'in the main event at ANB Arena in Riyadh, Saudi Arabia'."
+    },
+    {
+      "claim": "Spelling: Christian Mbilli on WBC site; Al Jazeera writes M'billi",
+      "sourceIds": [
+        "wbc-profile",
+        "aljazeera-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "WBC uses 'Christian Mbilli'; Al Jazeera headline uses M'billi."
+    },
+    {
+      "claim": "Mother emigrated to France when he was young; he later joined her in Europe",
+      "sourceIds": [
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN: mother 'emigrated to France when he was young'; he reunited with her in Europe."
+    },
+    {
+      "claim": "Started boxing at 15",
+      "sourceIds": [
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN: 'began boxing at age 15'."
+    },
+    {
+      "claim": "Represented France at the 2016 Rio de Janeiro Olympics; reached quarter-finals; lost to Arlen López, who went on to win gold",
+      "sourceIds": [
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN: 'represented France at the 2016 Rio de Janeiro Olympic Games', quarterfinals, loss to Arlen López who later won gold."
+    },
+    {
+      "claim": "Moved to Montreal to train under Marc Ramsay",
+      "sourceIds": [
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN: moved to Montreal to begin professional career under trainer Marc Ramsay."
+    },
+    {
+      "claim": "Based in Montreal (summary says trains in Montreal)",
+      "sourceIds": [
+        "wbc-profile",
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "WBC: based in Montreal, Canada. Present tense is supported; no source says he has left."
+    },
+    {
+      "claim": "Turned professional in 2017",
+      "sourceIds": [
+        "beinsports-profile",
+        "wbc-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "WBC: professional debut February 9, 2017; beIN: debut in 2017."
+    },
+    {
+      "claim": "Fights as 'The Panther'",
+      "sourceIds": [
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN: nicknamed 'The Panther'."
+    },
+    {
+      "claim": "Notable wins over Carlos Góngora and Sergiy Derevyanchenko",
+      "sourceIds": [
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN lists both among notable victories."
+    },
+    {
+      "claim": "Won WBC Continental Americas super middleweight title in September 2021 by beating Ronny Landaeta; defended it several times",
+      "sourceIds": [
+        "wbc-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "WBC: won in September 2021 by defeating Ronny Landaeta; defended multiple times."
+    },
+    {
+      "claim": "Earlier held WBC Youth middleweight and WBC Francophone middleweight titles",
+      "sourceIds": [
+        "wbc-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "WBC: claimed the WBC Youth middleweight title and the WBC Francophone middleweight title."
+    },
+    {
+      "claim": "Won WBC interim super middleweight title (168 lb) on 27 June 2025 in Quebec City by first-round stoppage of Maciej Sulecki",
+      "sourceIds": [
+        "wbc-profile",
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "WBC: June 27, 2025, interim title (168 lbs), Quebec City, Maciej Sulecki. beIN: knocked out Sulecki in the first round."
+    },
+    {
+      "claim": "Split-decision draw with Lester Martínez in September 2025; Martínez landed more punches",
+      "sourceIds": [
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN: split-decision draw; Martínez 'landed more punches throughout the bout'."
+    },
+    {
+      "claim": "Bout set for 13 September 2025; co-main event on card headlined by Canelo Álvarez vs Terence Crawford",
+      "sourceIds": [
+        "wbc-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "WBC: 'This Saturday, September 13, 2025, Mbilli will serve as the co-main event' on the Canelo vs Crawford card."
+    },
+    {
+      "claim": "WBC stripped Crawford in December 2025 over a sanctioning-fee dispute",
+      "sourceIds": [
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN: stripped in December 2025 over a dispute involving sanctioning fees."
+    },
+    {
+      "claim": "In January 2026 the WBC elevated Mbilli to full super middleweight champion",
+      "sourceIds": [
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN: elevated to WBC super middleweight world champion in January 2026."
+    },
+    {
+      "claim": "Canelo fight was set as his first defence of that title",
+      "sourceIds": [
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN: the bout 'will mark his first title defense'."
+    },
+    {
+      "claim": "Alvarez is a former two-time undisputed super middleweight champion who has held world titles in several weight classes",
+      "sourceIds": [
+        "aljazeera-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera: former two-time undisputed super-middleweight champion; world titles in several weight classes."
+    },
+    {
+      "claim": "Alvarez lost to Crawford in September 2025 and had not fought since",
+      "sourceIds": [
+        "aljazeera-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera: beaten by Crawford in September 2025; 'has not fought since'."
+    },
+    {
+      "claim": "Bout set for Riyadh; organisers said it would go ahead despite attacks on Saudi airports earlier that month",
+      "sourceIds": [
+        "aljazeera-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera: will go ahead 'this month in Saudi Arabia despite attacks on the country's airports', confirmed by Turki Al-Sheikh. The article names no organisers; attribution to Al-Sheikh is the closest match."
+    },
+    {
+      "claim": "Turki Al-Sheikh said Alvarez would fight in Riyadh 'no matter what happens'; Alvarez 'fears nothing'",
+      "sourceIds": [
+        "aljazeera-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Al Jazeera quotes both phrases from Al-Sheikh's social media post."
+    },
+    {
+      "claim": "Bout went the full 12 rounds and was for the WBC title",
+      "sourceIds": [
+        "sundayguardian-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Sunday Guardian: decision 'after 12 rounds'; WBC super middleweight championship."
+    },
+    {
+      "claim": "Bleacher Report calls Mbilli the previously unbeaten champion; Mbilli lost",
+      "sourceIds": [
+        "bleacherreport-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Bleacher Report: 'previously unbeaten champ Christian Mbilli'; Alvarez won by unanimous decision."
+    },
+    {
+      "claim": "Alvarez took the WBC super middleweight title back from Mbilli on the night",
+      "sourceIds": [
+        "sundayguardian-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Sunday Guardian headline: Alvarez 'Beats Christian Mbilli ... To Win WBC Super Middleweight Title'; body: 'reclaiming the WBC super middleweight title'."
+    },
+    {
+      "claim": "The loss was his first as a professional, because he had been unbeaten before it",
+      "sourceIds": [
+        "bleacherreport-result",
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Bleacher: previously unbeaten. beIN: no losses before the bout. Neither states 'first professional loss' outright; the inference follows from the two."
+    },
+    {
+      "claim": "No next opponent for Alvarez confirmed straight after the fight",
+      "sourceIds": [
+        "sundayguardian-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Sunday Guardian: Alvarez 'did not commit to a date or opponent for his next fight'."
+    },
+    {
+      "claim": "Depor says the win leaves questions about Alvarez's next opponent without confirming a challenger",
+      "sourceIds": [
+        "depor-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Depor: result 'leaves questions about his next opponent'; names only potential challengers."
+    },
+    {
+      "claim": "The reports on the result do not name a next bout for Mbilli",
+      "sourceIds": [
+        "depor-result",
+        "bleacherreport-result",
+        "sundayguardian-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Statement about what the reports do not name; none names a next bout for Mbilli."
+    },
+    {
+      "claim": "Riyadh bout was meant to be the first defence of the full WBC title he had held since January",
+      "sourceIds": [
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN: first title defence; full champion since January 2026."
+    },
+    {
+      "claim": "Belt moved to Alvarez, who had held it before, on the night of the fight",
+      "sourceIds": [
+        "sundayguardian-result"
+      ],
+      "verdict": "confirmed",
+      "note": "Sunday Guardian: 'reclaiming' the title, implying prior holding; win on the night."
+    },
+    {
+      "claim": "knownFor: 'Boxer, former WBC super middleweight champion, beaten by Canelo Álvarez in Riyadh in 2026'",
+      "sourceIds": [
+        "sundayguardian-result",
+        "bleacherreport-result",
+        "beinsports-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Accurate. 'Former' is correct after the 31 Oct 2026 loss; the earlier present-tense wording is no longer in the file."
+    },
+    {
+      "claim": "FAQ answers: age, record, winner and scorecards, origin (Yaoundé, mother to France, later Montreal), next fight",
+      "sourceIds": [
+        "beinsports-profile",
+        "depor-result",
+        "sundayguardian-result",
+        "wbc-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Each FAQ answer matches the body and sources. The next-fight answer correctly says the reports name no bout and Depor lists only possible challengers."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Gives a dated belt timeline (interim title, Crawford stripping, January 2026 full title, first defence) that the fight reports do not give, plus the M'billi/Mbilli spelling note and the Martínez draw. Prose is plain and free of hype words and em dashes.",
+  "decision": "approve",
+  "summary": "Every factual claim in the body, summary, knownFor and FAQ is confirmed against the fetched sources; the fight date of 31 Oct 2026 is confirmed by Depor and Al Jazeera. Nothing is WRONG, UNSUPPORTED or outdated, and no claim is uncited. Approve."
+}

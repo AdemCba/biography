@@ -1,10 +1,10 @@
 ---
 title: Nicki Minaj
 slug: nicki-minaj
-metaTitle: 'Nicki Minaj: edad, origen y su próximo álbum'
+metaTitle: 'Nicki Minaj, de Trinidad a Young Money: {age} años'
 metaDescription: >-
-  Edad y lugar de nacimiento de Nicki Minaj, sus álbumes Pink Friday y The
-  Pinkprint, y lo que dijo sobre su próximo disco en Austin en octubre de 2026.
+  Nicki Minaj nació en Saint James, Trinidad y Tobago, y tiene {age} años. Tras
+  sus mixtapes de 2007 firmó con Young Money de Lil Wayne en 2009.
 knownFor: Rapera y cantante nacida en Trinidad y Tobago
 summary: >-
   Nicki Minaj nació como Onika Tanya Maraj el 8 de diciembre de 1982 en Saint
@@ -14,8 +14,9 @@ summary: >-
   antes, en X, había dicho que no iba a sacarlo.
 status: published
 risk: medium
-reviewedAt: '2026-10-27'
-reviewBy: '2027-04-27'
+publishedAt: '2026-11-01'
+reviewedAt: '2026-11-01'
+reviewBy: '2027-05-01'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -27,6 +28,14 @@ targetQueries:
   - Nicki Minaj Jay-Z
   - Nicki Minaj Pink Friday 2
   - Nicki Minaj X Takeover Austin
+  - cuántos años tiene nicki minaj
+  - de donde es nicki minaj
+  - nicki minaj de donde es
+  - nicki minaj
+  - donde nacio nicki minaj
+  - de donde es nicky minaj
+  - de donde es niki minaj
+  - nicky minaj de donde es
 faq:
   - q: ¿Cuántos años tiene Nicki Minaj?
     a: >-
@@ -34,8 +43,19 @@ faq:
       2026.
   - q: ¿De dónde es Nicki Minaj?
     a: >-
-      Nació en Saint James, Trinidad y Tobago, según Biography.com. Wikidata
-      indica Saint James. Su nombre de nacimiento es Onika Tanya Maraj.
+      Es de Trinidad y Tobago. Biography.com dice que nació en Saint James,
+      Trinidad y Tobago. Wikidata da Saint James como lugar de nacimiento y
+      Trinidad y Tobago como nacionalidad. Su nombre de nacimiento es Onika
+      Tanya Maraj.
+  - q: ¿Dónde nació Nicki Minaj?
+    a: >-
+      Nació en Saint James, Trinidad y Tobago, el 8 de diciembre de 1982, según
+      Biography.com. Wikidata da Saint James como lugar de nacimiento.
+  - q: ¿Quién es Nicki Minaj?
+    a: >-
+      Es una rapera y cantante trinitense, según Wikidata. Según Biography.com,
+      firmó con el sello Young Money de Lil Wayne en agosto de 2009 y se
+      convirtió en su primera artista femenina.
   - q: ¿Qué dijo Nicki Minaj sobre su próximo álbum?
     a: >-
       En un evento X Takeover en Austin, Texas, el 10 de octubre de 2026,
@@ -45,14 +65,14 @@ faq:
     a: >-
       El 15 de octubre de 2025 escribió en X que no iba a sacar el álbum y que
       “No more music” (ya no habría más música).
-autoReviews: 3
-publishedAt: '2026-10-27'
+autoReviews: 4
+publishedTime: '2026-11-01T09:55:16.521Z'
 ---
 El 10 de octubre de 2026, en un evento X Takeover en Austin, Texas, le preguntaron a Nicki Minaj qué podían esperar los fans de su próximo álbum. Su respuesta fue una palabra, “Nothing”, seguida de “Next question” [s:ibtimes-nothing-austin] [s:complex-nothing-next-question]. El evento se celebró en el complejo Giga Texas de Tesla [s:ibtimes-nothing-austin]. La respuesta llegó casi un año después de que escribiera en X que no iba a sacar el álbum [s:ibtimes-nothing-austin] [s:digitalmusicnews-album-cancel].
 
-## Nacida como Onika Tanya Maraj en Saint James
+## ¿De dónde es Nicki Minaj? Saint James, Trinidad y Tobago
 
-Nicki Minaj nació como Onika Tanya Maraj el 8 de diciembre de 1982 en Saint James, Trinidad y Tobago [s:biography-com-nicki-minaj] [s:wikidata-q162202]. Eso la hace tener 43 años a 27 de octubre de 2026 [s:biography-com-nicki-minaj]. Wikidata la describe como rapera y cantante trinitense [s:wikidata-q162202].
+Nicki Minaj es de Trinidad y Tobago: nació como Onika Tanya Maraj el 8 de diciembre de 1982 en Saint James, en ese país [s:biography-com-nicki-minaj]. Wikidata da Saint James como lugar de nacimiento y registra Trinidad y Tobago como su nacionalidad [s:wikidata-q162202]. Wikidata la describe como rapera y cantante trinitense [s:wikidata-q162202]. Eso la hace tener 43 años a 27 de octubre de 2026 [s:biography-com-nicki-minaj].
 
 ## De las mixtapes a Young Money
 
