@@ -1,7 +1,9 @@
 {
   "id": "glasner-nottingham-forest-2026",
   "people": [],
-  "trendingIn": ["AT"],
+  "trendingIn": [
+    "AT"
+  ],
   "wikidata": "Q874777",
   "sources": [
     {
@@ -31,5 +33,12 @@
       "accessed": "2026-11-02",
       "lang": "en"
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/topics/glasner-nottingham-forest-2026.jpg",
+    "alt": "Glasner unter Druck: Was bei Nottingham Forest passiert",
+    "credit": "Sven Mandel",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2022128173931_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_2395_-_B70I8506_(cropped).jpg"
+  }
 }
