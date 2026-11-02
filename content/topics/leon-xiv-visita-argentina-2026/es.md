@@ -10,7 +10,7 @@ summary: >-
   hasta el miércoles 11, con paradas en Buenos Aires, Córdoba y Luján. El
   Gobierno declaró feriado el lunes 9 de noviembre, y el martes 10 y el
   miércoles 11 solo en algunas jurisdicciones.
-status: published
+status: review
 risk: low
 reviewedAt: '2026-11-02'
 author: editor-in-chief

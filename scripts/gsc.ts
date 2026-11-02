@@ -66,6 +66,25 @@ export function recentlyDone(focus: string, today: string): Set<string> {
   return done;
 }
 
+/** Table of the pages that got clicks, one column per day, busiest pages first. */
+function clicksByPage(rows: Row[], days: string[]): string[] {
+  const pages = new Map<string, Map<string, number>>();
+  for (const r of rows) {
+    if (!r.clicks) continue;
+    const key = articleKey(r.keys[1]) ?? r.keys[1].replace(/^https?:\/\/[^/]+/, "");
+    const m = pages.get(key) ?? new Map<string, number>();
+    m.set(r.keys[0], (m.get(r.keys[0]) ?? 0) + r.clicks);
+    pages.set(key, m);
+  }
+  const total = (m: Map<string, number>) => [...m.values()].reduce((a, b) => a + b, 0);
+  const sorted = [...pages].sort((a, b) => total(b[1]) - total(a[1])).slice(0, 40);
+  return [
+    `| Page | ${days.map((d) => d.slice(5)).join(" | ")} | Total |`,
+    `| --- | ${days.map(() => "---").join(" | ")} | --- |`,
+    ...sorted.map(([key, m]) => `| ${key} | ${days.map((d) => m.get(d) ?? "").join(" | ")} | ${total(m)} |`),
+  ];
+}
+
 const day = (offset: number) => new Date(Date.now() - offset * 86400e3).toISOString().slice(0, 10);
 
 async function main() {
@@ -74,6 +93,7 @@ async function main() {
   const [startDate, endDate] = [day(DAYS), day(0)];
   const rows = await query(token, site, { startDate, endDate, dimensions: ["page", "query"] });
   const daily = await query(token, site, { startDate, endDate, dimensions: ["date"] });
+  const byDayPage = await query(token, site, { startDate, endDate, dimensions: ["date", "page"] });
 
   const pages = new Map<string, { clicks: number; impressions: number; posSum: number; queries: Row[] }>();
   for (const r of rows) {
@@ -119,6 +139,12 @@ async function main() {
       "| Day | Clicks | Impressions | CTR | Position |",
       "| --- | --- | --- | --- | --- |",
       ...daily.map((r) => `| ${r.keys[0]} | ${r.clicks} | ${r.impressions} | ${(r.ctr * 100).toFixed(1)}% | ${r.position.toFixed(1)} |`),
+      "",
+      "## Clicks by page and day",
+      "",
+      "Pages with at least one click in the window; shows which pages win or lose clicks day to day.",
+      "",
+      ...clicksByPage(byDayPage, daily.map((r) => r.keys[0])),
       "",
     ].join("\n"),
   );

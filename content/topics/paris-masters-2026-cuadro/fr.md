@@ -9,7 +9,7 @@ summary: >-
   Le Masters 1000 de Paris se joue du 2 au 8 novembre 2026 à La Défense Arena, à
   Nanterre. Carlos Alcaraz est deuxième tête de série, et Zverev, premier tête
   de série, peut devenir numéro 1 mondial dès le lundi.
-status: published
+status: review
 risk: low
 reviewedAt: '2026-11-02'
 author: editor-in-chief
