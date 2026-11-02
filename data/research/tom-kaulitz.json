@@ -1,0 +1,84 @@
+{
+  "worthWriting": true,
+  "reason": "Tokio Hotel arena tour 2026 (London 28 Oct, Hamburg 1 Nov) and Netflix series Kaulitz & Kaulitz season 3 (premiere 23 July 2026) are verified on official pages; band background and Tom's guitar role are sourced to the official site and press. Birth date, birthplace and nationality added from t-online profile.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "tokio-hotel-official",
+      "url": "https://www.tokiohotel.com/",
+      "title": "Tokio Hotel official website (tour dates, band)",
+      "publisher": "Tokio Hotel",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "netflix-kaulitz-s3",
+      "url": "https://about.netflix.com/news/kaulitz-and-kaulitz-season-3",
+      "title": "Kaulitz & Kaulitz season 3 (Netflix Media Center)",
+      "publisher": "Netflix",
+      "type": "company",
+      "lang": "en"
+    },
+    {
+      "id": "kino-de-kaulitz-s3",
+      "url": "https://www.kino.de/serie/kaulitz-kaulitz-staffel-3-startdatum-steht-fest-die-party-auf-netflix-geht-bald-weiter--01K2C4W904AYX5C28CGB8HPNPQ",
+      "title": "Kaulitz & Kaulitz Staffel 3 Startdatum steht fest",
+      "publisher": "kino.de",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "rollingstone-de-berlin-2025",
+      "url": "https://www.rollingstone.de/tokio-hotel-17-000-fans-im-regen-und-ein-himmel-voller-drohnen-3049383/",
+      "title": "Tokio Hotel: 17.000 Fans im Regen und ein Himmel voller Drohnen",
+      "publisher": "Rolling Stone Deutschland",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "t-online-tom-kaulitz",
+      "url": "https://www.t-online.de/themen/tom-kaulitz/",
+      "title": "Tom Kaulitz: Aktuelle News & Biografie (profile infobox)",
+      "publisher": "t-online",
+      "type": "press",
+      "lang": "de"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1989-09-01",
+      "sources": [
+        "t-online-tom-kaulitz"
+      ],
+      "note": "t-online profile infobox: 'Geburtsdatum und Ort' 1 September 1989, Leipzig; 'Staatsbürgerschaft' Deutsch. Page shows no article date. Only source opened for birth and nationality."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Leipzig, Germany",
+      "sources": [
+        "t-online-tom-kaulitz"
+      ],
+      "note": "t-online profile infobox: 'Geburtsdatum und Ort' 1 September 1989, Leipzig; 'Staatsbürgerschaft' Deutsch. Page shows no article date. Only source opened for birth and nationality."
+    },
+    "nationality": {
+      "value": "DE",
+      "sources": [
+        "t-online-tom-kaulitz"
+      ],
+      "note": "t-online profile infobox: 'Geburtsdatum und Ort' 1 September 1989, Leipzig; 'Staatsbürgerschaft' Deutsch. Page shows no article date. Only source opened for birth and nationality."
+    }
+  },
+  "targetQueries": [
+    "Tom Kaulitz",
+    "Tokio Hotel tour 2026",
+    "Tokio Hotel London 2026",
+    "Tokio Hotel Hamburg 2026",
+    "Kaulitz & Kaulitz season 3",
+    "Tokio Hotel Schrei 2005",
+    "Tom Kaulitz guitarist",
+    "Tokio Hotel Gründung 2001"
+  ],
+  "gapNote": "The official tour list gives dates and cities but no venues for London and Hamburg, and the official site does not state Tom's instrument; the page can be built on those primary pages plus Rolling Stone Deutschland for his riffs."
+}

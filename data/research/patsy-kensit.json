@@ -1,0 +1,78 @@
+{
+  "worthWriting": true,
+  "reason": "Working English actress and singer with a long TV career (Emmerdale, Holby City, EastEnders) and a 2026 return to Emmerdale as Sadie King. Sources opened and quoted: two press reports of the May 2026 announcement, an August 2026 interview, an entertainment database profile, and a 2023 EastEnders report.",
+  "wikidata": "",
+  "importance": 3,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "tvchoice-emmerdale-return",
+      "url": "https://www.tvchoicemagazine.co.uk/tv/terrestrial/patsy-kensit-emmerdale-return/",
+      "title": "Patsy Kensit returning to Emmerdale as Sadie King",
+      "publisher": "TV Choice",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "rte-emmerdale-return",
+      "url": "https://www.rte.ie/entertainment/2026/0514/1573318-patsy-kensit-to-return-to-emmerdale-after-two-decades/",
+      "title": "Patsy Kensit to return to Emmerdale after two decades",
+      "publisher": "RTE",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "yahoo-emmerdale-interview",
+      "url": "https://uk.news.yahoo.com/patsy-kensit-return-emmerdale-character-065021845.html",
+      "title": "Patsy Kensit on return of Emmerdale character 20 years on",
+      "publisher": "Yahoo News UK",
+      "type": "interview",
+      "lang": "en"
+    },
+    {
+      "id": "entertainment-ie-profile",
+      "url": "https://entertainment.ie/person/patsy-kensit/",
+      "title": "Patsy Kensit - About",
+      "publisher": "Entertainment.ie",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "hackney-gazette-eastenders",
+      "url": "https://www.hackneygazette.co.uk/news/national/uk-today/23275783.itv-emmerdale-star-patsy-kensit-begins-role-bbc-eastenders/",
+      "title": "ITV Emmerdale star Patsy Kensit begins role on BBC EastEnders",
+      "publisher": "Hackney Gazette",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1968-03-04",
+      "sources": [
+        "entertainment-ie-profile"
+      ],
+      "note": "Entertainment.ie gives 4 March 1968. Wikipedia and IMDb-style databases agree in search snippets, not opened here."
+    },
+    "deathDate": null,
+    "birthPlace": null,
+    "nationality": {
+      "value": "GB",
+      "sources": [
+        "entertainment-ie-profile"
+      ],
+      "note": "Entertainment.ie describes her as an English actress and singer."
+    }
+  },
+  "targetQueries": [
+    "who is patsy kensit",
+    "patsy kensit age",
+    "patsy kensit emmerdale return",
+    "patsy kensit sadie king",
+    "patsy kensit eastenders",
+    "patsy kensit holby city",
+    "patsy kensit eighth wonder",
+    "patsy kensit absolute beginners"
+  ],
+  "gapNote": "Coverage of the 2026 Emmerdale return is mostly news items. The page can add a clear timeline of her three soap roles (Emmerdale 2004 to 2006, Holby City 2007 to 2010 and 2019, EastEnders 2023) and her own words on returning, using only opened sources."
+}

@@ -10,50 +10,69 @@ knownFor: >-
   Moderatorin von Germany’s Next Topmodel und Project Runway, Model aus
   Deutschland
 summary: >-
-  Heidi Klum wurde am 1. Juni 1973 in Bergisch Gladbach geboren. Zu ihrer
-  Halloween-Party in New York am 31. Oktober 2026 kam sie als riesige,
-  abgetrennte Hand, nachgebaut nach ihrer eigenen linken Hand.
+  Heidi Klum wurde am 1. Juni 1973 in Bergisch Gladbach geboren. 2026 wechselte
+  ihre Party in München, das HeidiFest, von ProSieben zu RTL, und sie wurde
+  Gesicht der Marke s.Oliver. Zu ihrer Halloween-Party in New York am 31.
+  Oktober 2026 kam sie als riesige, abgetrennte Hand, nachgebaut nach ihrer
+  eigenen linken Hand.
 status: published
 risk: medium
+publishedAt: '2026-11-02'
+publishedTime: '2026-11-02T22:23:49.554Z'
 reviewedAt: '2026-11-02'
 reviewBy: '2027-05-02'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
-  - Heidi Klum Alter
-  - Heidi Klum Halloween Kostüm 2026
-  - Heidi Klum Herkunft
-  - Heidi Klum Germany’s Next Topmodel
-  - Heidi Klum Project Runway
-  - Heidi Klum Emmy
+  - Heidi Klum halloween
+  - Heidi Klum halloween 2026
+  - Heidi Klum halloween 2025
+  - Heidi Klum halloween kostüm 2026
+  - Heidi Klum halloween kostüme
+  - Heidi Klum kostüm
+  - Heidi Klum hand
+  - Heidi Klum als hand
+  - Heidi Klum abgetrennte hand
+  - Heidi Klum alter
 faq:
   - q: Wie alt ist Heidi Klum?
     a: >-
-      Sie wurde am 1. Juni 1973 geboren und wurde im Juni 2026 53 Jahre alt
-      [s:biography-klum].
-  - q: Woher kommt Heidi Klum?
-    a: >-
-      Sie wurde in Bergisch Gladbach in Nordrhein-Westfalen geboren
-      [s:biography-klum]. Wikidata führt die deutsche und die US-amerikanische
-      Staatsbürgerschaft [s:wikidata-klum].
+      Sie wurde am 1. Juni 1973 geboren und ist damit im Juni 2026 53 Jahre alt
+      geworden [s:biography-klum].
   - q: Was war Heidi Klums Halloween-Kostüm 2026?
     a: >-
       Eine riesige, abgetrennte Hand, nachgebaut nach ihrer eigenen linken Hand,
-      die sie am 31. Oktober 2026 auf ihrer New Yorker Party trug
+      die sie am 31. Oktober 2026 auf ihrer Party in New York trug
       [s:cbs-hand-costume].
-  - q: Wie viele Emmys hat Heidi Klum gewonnen?
+  - q: Was trug Heidi Klum zu Halloween 2025?
     a: >-
-      Einen, 2013, in der Kategorie Outstanding Host for a Reality or
-      Reality-Competition Program, nach sechs Nominierungen zwischen 2013 und
-      2018 [s:tv-academy-klum-gunn].
-autoReviews: 1
-publishedAt: '2026-11-02'
-publishedTime: '2026-11-02T09:33:14.623Z'
+      Eine Medusa mit langem Schwanz und Klapperschlangen auf dem Kopf. Klum
+      sagte, alles sei von Hand bemalt worden und rund 15 Personen hätten daran
+      gearbeitet [s:eonline-hand-costume].
+  - q: Welche Halloween-Kostüme hat Heidi Klum in früheren Jahren getragen?
+    a: >-
+      CBS nennt unter anderem Medusa, einen Pfau, einen 2,4 Meter hohen
+      Transformer, einen Werwolf aus dem Michael-Jackson-Video „Thriller“ und
+      Kali. 2022 erschien sie an einer Angelschnur hängend, in einem Wurm-Kostüm
+      [s:cbs-hand-costume].
+autoReviews: 2
 ---
 Wer Heidi Klum am 31. Oktober 2026 auf ihrer Halloween-Party in New York sah, sah eine riesige, blutige und abgetrennte Hand [s:cbs-hand-costume]. Das Kostüm war ein Nachbau ihrer eigenen linken Hand, und Klum war darin kaum zu erkennen, nur Augen und Mund waren zu sehen [s:cbs-hand-costume] [s:eonline-hand-costume]. Angekündigt hatte sie den Look schon im September [s:hollywoodlife-costume-hints]. Gegenüber People sagte sie, er werde „sehr, sehr blutig“ und passe gut zu Rotwein [s:hollywoodlife-costume-hints].
 
 Klum wurde im Juni 2026 53 Jahre alt [s:biography-klum]. Die Party war ihre 25. jährliche Halloween-Party, gefeiert im Cathédrale in New York [s:cbs-hand-costume] [s:eonline-hand-costume]. Präsentiert wurde sie von Apothic und Butterfinger [s:eonline-hand-costume].
+
+## November 2026
+
+Die jüngsten geschäftlichen Meldungen über Klum betreffen zwei Marken und ein Partyformat. Im April 2026 wurde sie vom deutschen Modelabel s.Oliver, Sitz Rottendorf, gegründet 1969, als neues Gesicht vorgestellt. Der Zweijahresvertrag konzentriert sich auf die Casual-Linie der Marke [s:t-online-soliver-deal]. Finanzielle Konditionen wurden nicht veröffentlicht [s:t-online-soliver-deal].
+
+Am 10. September startete das Label die Kampagne „Casual Since Forever“. Sie zeigt Klum im Zusammentreffen mit ihrem jüngeren Ich vom Beginn ihrer Karriere, stammt von der Agentur Jung von Matt und wird von einer limitierten Vintage-Capsule-Kollektion begleitet [s:fashionunited-soliver-campaign]. Co-CEO Johannes Rellecke erklärte, die Kampagne schärfe die Positionierung der Marke als hundertprozentige Casual-Brand weiter [s:fashionunited-soliver-campaign].
+
+Ihre Münchner Party HeidiFest wechselte für 2026 von ProSieben zu RTL [s:horizont-heidifest-rtl]. Die zweite Ausgabe fand am 17. September im Münchner Hofbräuhaus statt und wurde live bei RTL und RTL+ gezeigt [s:echo24-wiesn-brand]. Laut RTL-Angaben produziert der Sender die Show selbst [s:horizont-heidifest-rtl]. Ihre Hauptsendung, Germany’s Next Topmodel, bleibt bei ProSieben [s:echo24-wiesn-brand].
+
+Die Premiere 2025 bei ProSieben erreichte im Schnitt 760.000 Zuschauer, bei den 14- bis 49-Jährigen einen Marktanteil von 5,9 Prozent [s:echo24-wiesn-brand]. Die RTL-Übertragung kam auf 780.000 Zuschauer und 4,0 Prozent Gesamtmarktanteil. Bei den 14- bis 49-Jährigen waren es 280.000 Zuschauer und 9,0 Prozent Marktanteil, was der Bericht als bestes Ergebnis eines Privatsenders zu dieser Sendezeit wertet [s:echo24-heidifest-ratings]. RTL sprach von einem erfolgreichen Einstand, der Bericht selbst bewertet die Quoten insgesamt aber weiterhin als ernüchternd [s:echo24-heidifest-ratings]. Die Zahlen stammen von dwdl.de [s:echo24-heidifest-ratings].
+
+Weder für den Wechsel zu RTL noch für den s.Oliver-Vertrag wurden finanzielle Details bekannt [s:echo24-wiesn-brand] [s:t-online-soliver-deal].
 
 ## Wie die Hand entstand
 
@@ -63,11 +82,11 @@ Vor der Party erzählte sie Bild bei einer Aufwärmveranstaltung in New York, da
 
 Ein großes Team arbeitete monatelang an dem Kostüm, mit „vielen Menschen und vielen Händen“ [s:eonline-hand-costume]. Das Anlegen dauerte etwa fünf bis sechs Stunden, und das Schwierigste war das Tragen: „Es ist ziemlich schwer“ [s:cbs-hand-costume]. Der Look hatte lange rote Nägel und einen Daumenring [s:cbs-hand-costume]. Blut lief aus ihrem Mund, und Helfer in blutverschmierten Schutzanzügen begleiteten sie [s:cbs-hand-costume]. Das obere Ende der Hand endete in herabhängenden Bändern und Sehnen [s:cbs-hand-costume].
 
-Auf der Party waren auch andere Gäste verkleidet [s:eonline-hand-costume]. E! berichtet, dass Neil Patrick Harris und David Burtka als die Zwillinge aus „Shining“ kamen und dass Taylor Momsen als AC/DC-Gitarrist Angus Young erschien [s:eonline-hand-costume]. Ice-T und Coco Austin kamen als Einbrecher und Katzen-Einbrecherin [s:eonline-hand-costume]. Kyle MacLachlan trat als Schurke Cliff Vandercave aus dem Flintstones-Film von 1994 auf, und Valentina Sampaio als Poison Ivy [s:eonline-hand-costume]. Questlove trug ein Trikot der 49ers [s:eonline-hand-costume].
+Auf der Party waren auch andere Gäste verkleidet [s:eonline-hand-costume]. E! berichtet, dass Neil Patrick Harris und David Burtka als die Zwillinge aus „Shining“ kamen und dass Taylor Momsen als AC/DC-Gitarrist Angus Young erschien [s:eonline-hand-costume]. Ice-T und Coco Austin kamen als Einbrecher und Katzen-Einbrecherin [s:eonline-hand-costume]. Kyle MacLachlan trat als Schurke Cliff Vandercave aus dem Flintstones-Film von 1994 auf, und Valentina Sampaio als Poison Ivy [s:eonline-hand-costume].
 
 ## Halloween-Looks vor der Hand
 
-Klum nutzt Halloween seit Jahren für große Verwandlungen [s:cbs-hand-costume]. CBS erinnert an frühere Looks wie Medusa, einen Pfau, einen 2,4 Meter hohen Transformer, einen Werwolf aus dem Michael-Jackson-Video „Thriller“ und Kali, die hinduistische Göttin des Todes und der Zerstörung [s:cbs-hand-costume]. Schon 2022 erschien sie, an einer Angelschnur hängend und in ein Wurm-Kostüm gehüllt [s:cbs-hand-costume].
+Klum nutzt Halloween seit Jahren für große Verwandlungen [s:cbs-hand-costume]. CBS erinnert an frühere Looks wie Medusa, einen Pfau, einen 2,4 Meter hohen Transformer, einen Werwolf aus dem Michael-Jackson-Video „Thriller“ und Kali, die hinduistische Göttin mit mehreren Armen [s:cbs-hand-costume]. Schon 2022 erschien sie, an einer Angelschnur hängend und in ein Wurm-Kostüm gehüllt [s:cbs-hand-costume].
 
 Ihre Medusa von 2025 hatte einen langen Schwanz und Klapperschlangen auf dem Kopf [s:eonline-hand-costume]. Klum sagte, alles sei von Hand bemalt worden und etwa 15 Personen hätten daran gearbeitet [s:eonline-hand-costume]. Die Party 2025 fand im Hard Rock Hotel New York statt [s:cbs-hand-costume].
 

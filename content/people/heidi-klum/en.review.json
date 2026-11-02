@@ -5,240 +5,232 @@
   "reasons": [],
   "claims": [
     {
-      "claim": "Heidi Klum wore a giant severed hand costume at her New York Halloween party on 31 October 2026",
+      "claim": "Born 1 June 1973 in Bergisch Gladbach",
+      "sourceIds": [
+        "biography-klum",
+        "wikidata-klum"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com and Wikidata agree"
+    },
+    {
+      "claim": "Turned 53 in June 2026",
+      "sourceIds": [
+        "biography-klum"
+      ],
+      "verdict": "confirmed",
+      "note": "Follows from the birth date"
+    },
+    {
+      "claim": "2026 Halloween costume: giant severed hand modelled on her left hand, New York party 31 Oct 2026",
       "sourceIds": [
         "cbs-hand-costume",
         "eonline-hand-costume"
       ],
       "verdict": "confirmed",
-      "note": "Both pages describe a giant severed hand worn at the annual party in New York, dated October 31."
+      "note": "CBS and E! describe the costume and date"
     },
     {
-      "claim": "The costume re-created her own left hand, with only her eyes and mouth showing",
+      "claim": "25th annual party at Cathedrale, presented by Apothic and Butterfinger",
       "sourceIds": [
         "cbs-hand-costume",
         "eonline-hand-costume"
       ],
       "verdict": "confirmed",
-      "note": "CBS says she was unrecognizable with only eyes and mouth visible; E! describes a re-creation of her left hand."
+      "note": "E! names venue and sponsors; CBS gives the 25th party"
     },
     {
-      "claim": "In a September People interview she said the look would be very, very bloody and go well with red wine",
+      "claim": "Earlier costumes: Medusa, peacock, 8-foot Transformer, Thriller werewolf, Kali; 2022 worm on a fishing line",
+      "sourceIds": [
+        "cbs-hand-costume"
+      ],
+      "verdict": "confirmed",
+      "note": "CBS list"
+    },
+    {
+      "claim": "2025 Medusa: head-to-tail, rattlesnakes, hand-painted, about 15 people",
+      "sourceIds": [
+        "eonline-hand-costume"
+      ],
+      "verdict": "confirmed",
+      "note": "E! quotes Klum"
+    },
+    {
+      "claim": "2025 party held at Hard Rock Hotel New York",
+      "sourceIds": [
+        "cbs-hand-costume"
+      ],
+      "verdict": "confirmed",
+      "note": "CBS states the venue"
+    },
+    {
+      "claim": "Guests: Harris and Burtka, Momsen as Angus Young, Ice-T and Coco Austin, Sampaio, MacLachlan",
+      "sourceIds": [
+        "eonline-hand-costume"
+      ],
+      "verdict": "confirmed",
+      "note": "E! lists the guests"
+    },
+    {
+      "claim": "Told Bild before the party that viewers had never seen anything like it and that she tries to fit a shape no human body fits",
+      "sourceIds": [
+        "suedostschweiz-costume-hints"
+      ],
+      "verdict": "confirmed",
+      "note": "Suedostschweiz quotes Bild, published 30 Oct 2026"
+    },
+    {
+      "claim": "Told People in September the look would be very, very bloody and go well with red wine",
       "sourceIds": [
         "hollywoodlife-costume-hints"
       ],
       "verdict": "confirmed",
-      "note": "HollywoodLife quotes the September People interview for both phrases."
+      "note": "HollywoodLife quotes the People interview"
     },
     {
-      "claim": "Born 1 June 1973 in Bergisch Gladbach, North Rhine-Westphalia",
+      "claim": "s.Oliver named Klum its face in April 2026 on a two-year deal centred on the Casual line; no financial terms disclosed",
       "sourceIds": [
-        "biography-klum",
-        "wikidata-klum"
+        "t-online-soliver-deal"
       ],
       "verdict": "confirmed",
-      "note": "Biography.com and Wikidata both give 1 June 1973 and Bergisch Gladbach."
+      "note": "t-online dated 29 Apr 2026, citing Bild and the brand release"
     },
     {
-      "claim": "Wikidata lists citizenship of Germany and the United States",
+      "claim": "s.Oliver campaign Casual Since Forever launched 10 Sep 2026, by Jung von Matt, with vintage capsule and co-CEO quote",
       "sourceIds": [
-        "wikidata-klum"
+        "fashionunited-soliver-campaign"
       ],
       "verdict": "confirmed",
-      "note": "Wikidata lists Germany and United States as countries of citizenship."
+      "note": "FashionUnited press item"
     },
     {
-      "claim": "She began modelling at 18 after winning a contest in Germany",
+      "claim": "HeidiFest moved from ProSieben to RTL for 2026; RTL produces it per its own statement",
       "sourceIds": [
-        "biography-klum"
+        "horizont-heidifest-rtl"
       ],
       "verdict": "confirmed",
-      "note": "Biography.com: she started her modeling career at 18 after winning a contest in Germany."
+      "note": "HORIZONT dated 9 Aug 2026 citing dpa"
     },
     {
-      "claim": "In 1992 she won Model '92, a German TV contest on Thomas Gottschalk's talk show",
+      "claim": "Second edition on 17 Sep 2026 at the Hofbraeuhaus Munich, live on RTL and RTL+",
       "sourceIds": [
-        "abendzeitung-gntm"
+        "echo24-wiesn-brand"
       ],
       "verdict": "confirmed",
-      "note": "Abendzeitung lists Model '92 (1992) as a show where she was a contestant on Gottschalk's talk show."
+      "note": "echo24 dated 18 Sep 2026"
     },
     {
-      "claim": "1998 Sports Illustrated swimsuit issue cover; Blow Dry (2001); Ella Enchanted (2004)",
+      "claim": "Germany's Next Topmodel stays with ProSieben",
       "sourceIds": [
-        "biography-klum"
+        "echo24-wiesn-brand"
       ],
       "verdict": "confirmed",
-      "note": "Biography.com gives all three."
+      "note": "Same article"
     },
     {
-      "claim": "Project Runway premiered in December 2004; she hosted 16 seasons and announced her exit in September 2018",
+      "claim": "2025 premiere averaged 760,000 viewers and 5.9% among 14-49s",
       "sourceIds": [
-        "biography-klum"
+        "echo24-wiesn-brand"
       ],
       "verdict": "confirmed",
-      "note": "Biography.com gives the December 2004 premiere, 16 seasons and September 2018 announcement."
+      "note": "Article cites DWDL and AGF"
     },
     {
-      "claim": "Klum was one of eleven producers and worked as host and head judge of Project Runway",
+      "claim": "2026 RTL broadcast: 780,000 viewers, 4.0% share; 14-49: 280,000 and 9.0%, best private result in the slot; RTL called it successful; article calls ratings disappointing",
       "sourceIds": [
-        "abendzeitung-gntm"
+        "echo24-heidifest-ratings"
       ],
       "verdict": "confirmed",
-      "note": "Abendzeitung: one of eleven producers, Moderatorin and Jury-Vorsitzende."
+      "note": "Article cites dwdl.de"
     },
     {
-      "claim": "She hosted Germany's Next Topmodel, launched on ProSieben in 2006",
+      "claim": "Neither the RTL move nor the s.Oliver deal has disclosed financial terms",
       "sourceIds": [
-        "abendzeitung-gntm",
-        "biography-klum"
+        "echo24-wiesn-brand",
+        "t-online-soliver-deal"
       ],
       "verdict": "confirmed",
-      "note": "Abendzeitung gives the start on ProSieben from 2006 and her hosting role; Biography.com says she began hosting after Project Runway launched."
+      "note": "Both articles say no figures were disclosed"
     },
     {
-      "claim": "Queen of Drags launched in Germany in 2019, a search for the most talented drag queen",
-      "sourceIds": [
-        "abendzeitung-gntm"
-      ],
-      "verdict": "confirmed",
-      "note": "Abendzeitung: a new show in Germany started in 2019, searching for a drag queen."
-    },
-    {
-      "claim": "She was announced as an America's Got Talent judge in March 2013 and left after six seasons",
-      "sourceIds": [
-        "biography-klum"
-      ],
-      "verdict": "confirmed",
-      "note": "Biography.com gives the March 2013 announcement and six seasons."
-    },
-    {
-      "claim": "She returned to the jury of America's Got Talent: The Champions",
-      "sourceIds": [
-        "abendzeitung-gntm"
-      ],
-      "verdict": "confirmed",
-      "note": "Abendzeitung says she returned to the judges' chair of the spin-off."
-    },
-    {
-      "claim": "In March 2020 she teamed with Tim Gunn for the debut of Amazon's Making the Cut",
-      "sourceIds": [
-        "biography-klum",
-        "abendzeitung-gntm"
-      ],
-      "verdict": "confirmed",
-      "note": "Biography.com gives the March 2020 debut with Gunn; Abendzeitung says the pair search for a global fashion label."
-    },
-    {
-      "claim": "Six Emmy nominations in Outstanding Host for a Reality or Reality-Competition Program, 2013 to 2018, and one win in 2013",
-      "sourceIds": [
-        "tv-academy-klum-gunn"
-      ],
-      "verdict": "confirmed",
-      "note": "Television Academy lists six nominations 2013-2018 and one win in 2013 in this category."
-    },
-    {
-      "claim": "In October 2014 Bendon named her face and creative director of its flagship intimates collection, to be renamed Heidi Klum Intimates from 1 January 2015",
-      "sourceIds": [
-        "bendon-heidi-klum-intimates"
-      ],
-      "verdict": "confirmed",
-      "note": "Bendon's release dated October 17, 2014 gives both points."
-    },
-    {
-      "claim": "A costume jewelry line, Wildlife by Heidi Klum, was set to debut on QVC on 8 September, priced from $30 to $200",
+      "claim": "Wildlife by Heidi Klum costume jewellery on QVC, 8 Sep 2011, priced $30 to $200",
       "sourceIds": [
         "tvguide-wildlife-qvc"
       ],
       "verdict": "confirmed",
-      "note": "TV Guide article dated June 29, 2011 gives the QVC date and the price range."
+      "note": "TV Guide dated 29 Jun 2011"
     },
     {
-      "claim": "On & Off the Catwalk aired on ProSieben and Joyn on Sundays at 20:15 on 22 February and 1 March 2026",
+      "claim": "Bendon: Klum face and creative director, collection renamed Heidi Klum Intimates, launch 1 Jan 2015",
       "sourceIds": [
-        "joyn-on-off-catwalk"
+        "bendon-heidi-klum-intimates"
       ],
       "verdict": "confirmed",
-      "note": "Joyn page: airs 22 February and 1 March on Sundays at 20:15 on ProSieben and Joyn."
+      "note": "Bendon release dated 17 Oct 2014"
     },
     {
-      "claim": "The series follows Klum and her children Leni and Henry through their modelling jobs",
+      "claim": "On & Off the Catwalk aired 22 Feb and 1 Mar 2026 on ProSieben and Joyn; episode 1 runs 92 minutes",
       "sourceIds": [
-        "joyn-on-off-catwalk"
-      ],
-      "verdict": "confirmed",
-      "note": "Joyn page says the series follows Klum and her children in modelling jobs around the world."
-    },
-    {
-      "claim": "The first episode runs 92 minutes",
-      "sourceIds": [
+        "joyn-on-off-catwalk",
         "joyn-episode-1"
       ],
       "verdict": "confirmed",
-      "note": "Joyn episode page lists 92 Min."
+      "note": "Joyn pages"
     },
     {
-      "claim": "The documentary had been planned as a two-part primetime show for spring 2026",
+      "claim": "Series had been planned as a two-part primetime documentary for spring 2026",
       "sourceIds": [
         "bluewin-doku-planned"
       ],
       "verdict": "confirmed",
-      "note": "blue News: two-part primetime documentary set for spring 2026."
+      "note": "blue News dated 29 Nov 2025"
     },
     {
-      "claim": "The 2026 party was her 25th annual Halloween party, held at Cathédrale in New York, and was presented by Apothic and Butterfinger",
+      "claim": "Six Emmy nominations 2013-2018 and one win in 2013, Outstanding Host for a Reality or Reality-Competition Program",
       "sourceIds": [
-        "cbs-hand-costume",
-        "eonline-hand-costume"
+        "tv-academy-klum-gunn"
       ],
       "verdict": "confirmed",
-      "note": "Photo captions give the 25th annual party at Cathédrale on October 31, 2026; E! names Apothic and Butterfinger as presenters."
+      "note": "Television Academy lists the entries"
     },
     {
-      "claim": "Getting into the costume took five to six hours and she said it was quite heavy",
+      "claim": "Project Runway premiered Dec 2004; Klum hosted 16 seasons and announced leaving in Sep 2018",
       "sourceIds": [
-        "cbs-hand-costume"
+        "biography-klum"
       ],
       "verdict": "confirmed",
-      "note": "CBS: five to six hours to get into the costume and It's quite heavy."
+      "note": "Biography.com"
     },
     {
-      "claim": "Her 2025 Medusa costume was hand-painted with about 15 people working on it",
+      "claim": "Model '92 won in 1992 on Gottschalk's show; eleven producers on Project Runway",
       "sourceIds": [
-        "eonline-hand-costume"
+        "abendzeitung-gntm"
       ],
       "verdict": "confirmed",
-      "note": "E! says everything was hand-painted and about 15 people worked on it."
+      "note": "Abendzeitung Muenchen"
     },
     {
-      "claim": "Earlier costumes included Medusa, a peacock, an 8-foot Transformer, a Thriller werewolf and Kali, and the 2022 worm costume on a fishing line",
+      "claim": "Announced as AGT judge March 2013, left after six seasons; returned for AGT: The Champions; Making the Cut with Tim Gunn in March 2020; Queen of Drags 2019",
       "sourceIds": [
-        "cbs-hand-costume"
+        "biography-klum",
+        "abendzeitung-gntm"
       ],
       "verdict": "confirmed",
-      "note": "CBS lists those past costumes and the 2022 fishing-line entrance."
+      "note": "Biography.com and Abendzeitung"
     },
     {
-      "claim": "The 2025 party was held at the Hard Rock Hotel New York",
+      "claim": "Sports Illustrated swimsuit cover 1998; Blow Dry 2001; Ella Enchanted 2004; modelling from age 18",
       "sourceIds": [
-        "cbs-hand-costume"
+        "biography-klum"
       ],
       "verdict": "confirmed",
-      "note": "CBS photo caption: 24th annual party at the Hard Rock Hotel New York on October 31, 2025."
-    },
-    {
-      "claim": "Other guests included Kyle MacLachlan as Cliff Vandercave from the 1994 Flintstones film, and Neil Patrick Harris and David Burtka as the Shining twins",
-      "sourceIds": [
-        "eonline-hand-costume"
-      ],
-      "verdict": "confirmed",
-      "note": "E! lists these guest costumes."
+      "note": "Biography.com"
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "Adds the 2026 costume reveal with direct quotes from the party coverage, the Television Academy record and the 2026 ProSieben and Joyn dates.",
+  "valueNote": "Adds the 2026 s.Oliver campaign, the move of HeidiFest to RTL and the broadcast ratings, which the top results do not give with sources.",
   "decision": "approve",
-  "summary": "All 28 main claims were checked against the opened sources (the English text states the same facts); none is wrong or unsupported."
+  "summary": "Written in English; the new section is 'November 2026'. All checked claims match the opened sources."
 }

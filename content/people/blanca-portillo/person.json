@@ -1,0 +1,110 @@
+{
+  "id": "blanca-portillo",
+  "name": "Blanca Portillo",
+  "categories": [
+    "artists"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1963-06-15",
+      "sources": [
+        "ecartelera-portillo",
+        "sensacine-portillo-biografia"
+      ],
+      "note": "Both database pages give 15 June 1963. No primary source checked."
+    },
+    "birthPlace": {
+      "value": "Madrid",
+      "sources": [
+        "ecartelera-portillo"
+      ],
+      "note": "eCartelera only. SensaCine's biography does not state a birthplace."
+    },
+    "nationality": {
+      "value": [
+        "ES"
+      ],
+      "sources": [
+        "ecartelera-portillo"
+      ],
+      "note": "eCartelera describes her as a Spanish actress."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "seminci-homenaje-portillo",
+      "url": "https://www.seminci.com/en/homenajes/blanca-portillo/",
+      "title": "Blanca Portillo - Seminci homage",
+      "publisher": "Seminci (Semana Internacional de Cine de Valladolid)",
+      "type": "official",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "seminci-espiga-2023",
+      "url": "https://www.seminci.com/en/2023/press-releases/blanca-portillo-on-receiving-the-espiga-de-honor-for-four-decades-of-love-for-the-profession-i-have-put-my-life-and-my-heart-into-this/",
+      "title": "Blanca Portillo on receiving the Espiga de Honor",
+      "publisher": "Seminci",
+      "type": "official",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "ecartelera-portillo",
+      "url": "https://www.ecartelera.com/personas/blanca-portillo/",
+      "title": "Blanca Portillo - eCartelera",
+      "publisher": "eCartelera",
+      "type": "database",
+      "accessed": "2026-11-02",
+      "lang": "es"
+    },
+    {
+      "id": "sensacine-portillo",
+      "url": "https://www.sensacine.com/actores/actor-139981/",
+      "title": "Blanca Portillo - SensaCine",
+      "publisher": "SensaCine",
+      "type": "database",
+      "accessed": "2026-11-02",
+      "lang": "es"
+    },
+    {
+      "id": "sensacine-portillo-biografia",
+      "url": "https://www.sensacine.com/actores/actor-139981/biografia/",
+      "title": "Blanca Portillo - biografia - SensaCine",
+      "publisher": "SensaCine",
+      "type": "database",
+      "accessed": "2026-11-02",
+      "lang": "es"
+    },
+    {
+      "id": "espinof-goya-2022",
+      "url": "https://www.espinof.com/premios-goya/goya-2022-javier-bardem-blanca-portillo-mejores-actores-protagonistas-buen-patron-maixabel",
+      "title": "Goya 2022: Javier Bardem y Blanca Portillo son los mejores actores protagonistas",
+      "publisher": "Espinof",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "es"
+    },
+    {
+      "id": "officialpress-alicante-2018",
+      "url": "https://officialpress.es/blanca-portillo-premio-de-honor-del-xv-festival-de-cine-de-alicante-por-su-trayectoria/",
+      "title": "Blanca Portillo, Premio de Honor del XV Festival de Cine de Alicante por su trayectoria",
+      "publisher": "Official Press",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "es"
+    },
+    {
+      "id": "ecartelera-filmografia",
+      "url": "https://www.ecartelera.com/noticias/blanca-portillo-cumple-52-anos-filmografia-14-personajes-23573/",
+      "title": "Blanca Portillo cumple 52 años: filmografía y 14 personajes",
+      "publisher": "eCartelera",
+      "type": "database",
+      "accessed": "2026-11-02",
+      "lang": "es"
+    }
+  ]
+}

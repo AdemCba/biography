@@ -1,0 +1,75 @@
+{
+  "id": "patsy-kensit",
+  "name": "Patsy Kensit",
+  "categories": [
+    "artists"
+  ],
+  "importance": 3,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1968-03-04",
+      "sources": [
+        "entertainment-ie-profile"
+      ],
+      "note": "Entertainment.ie gives 4 March 1968. Wikipedia and IMDb-style databases agree in search snippets, not opened here."
+    },
+    "nationality": {
+      "value": [
+        "GB"
+      ],
+      "sources": [
+        "entertainment-ie-profile"
+      ],
+      "note": "Entertainment.ie describes her as an English actress and singer."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "tvchoice-emmerdale-return",
+      "url": "https://www.tvchoicemagazine.co.uk/tv/terrestrial/patsy-kensit-emmerdale-return/",
+      "title": "Patsy Kensit returning to Emmerdale as Sadie King",
+      "publisher": "TV Choice",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "rte-emmerdale-return",
+      "url": "https://www.rte.ie/entertainment/2026/0514/1573318-patsy-kensit-to-return-to-emmerdale-after-two-decades/",
+      "title": "Patsy Kensit to return to Emmerdale after two decades",
+      "publisher": "RTE",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "yahoo-emmerdale-interview",
+      "url": "https://uk.news.yahoo.com/patsy-kensit-return-emmerdale-character-065021845.html",
+      "title": "Patsy Kensit on return of Emmerdale character 20 years on",
+      "publisher": "Yahoo News UK",
+      "type": "interview",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "entertainment-ie-profile",
+      "url": "https://entertainment.ie/person/patsy-kensit/",
+      "title": "Patsy Kensit - About",
+      "publisher": "Entertainment.ie",
+      "type": "database",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "hackney-gazette-eastenders",
+      "url": "https://www.hackneygazette.co.uk/news/national/uk-today/23275783.itv-emmerdale-star-patsy-kensit-begins-role-bbc-eastenders/",
+      "title": "ITV Emmerdale star Patsy Kensit begins role on BBC EastEnders",
+      "publisher": "Hackney Gazette",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    }
+  ]
+}

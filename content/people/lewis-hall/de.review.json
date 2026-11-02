@@ -1,0 +1,195 @@
+{
+  "date": "2026-11-02",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Lewis Hall ist Linksverteidiger bei Newcastle United",
+      "sourceIds": [
+        "the-week-squad",
+        "fa-squad"
+      ],
+      "verdict": "confirmed",
+      "note": "The Week names him as left-back; FA profile lists Newcastle United FC as current club."
+    },
+    {
+      "claim": "Sieben A-Länderspiele für England, kein Tor",
+      "sourceIds": [
+        "fa-squad"
+      ],
+      "verdict": "confirmed",
+      "note": "FA profile: 7 senior caps, 0 goals."
+    },
+    {
+      "claim": "Geboren am 8. September 2004 in Slough, England",
+      "sourceIds": [
+        "fa-squad",
+        "nufc-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "FA profile gives 08 Sep 2004 and Slough, England; Newcastle gives 08.09.2004 and country only."
+    },
+    {
+      "claim": "Alter 22 am 2. November 2026",
+      "sourceIds": [
+        "fa-squad"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic from the confirmed birth date: 22 years on 2 Nov 2026."
+    },
+    {
+      "claim": "Newcastle verpflichtete Hall im Juli 2024 fest vom FC Chelsea (nach Leihe)",
+      "sourceIds": [
+        "pl-permanent-move",
+        "nufc-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "PL article dated 01 Jul 2024: permanent long-term contract from Chelsea. Newcastle profile: permanent move July 2024."
+    },
+    {
+      "claim": "Im August 2023 Leihe für eine Saison vom FC Chelsea mit Kaufverpflichtung an leistungsbezogene Kriterien",
+      "sourceIds": [
+        "beinsports-loan"
+      ],
+      "verdict": "confirmed",
+      "note": "Season-long loan with obligation to buy depending on performance criteria. The article's wording on the buy clause is slightly ambiguous (reads partly like an option), but the body's wording matches what it says."
+    },
+    {
+      "claim": "Angebot zunächst 28 Millionen Pfund",
+      "sourceIds": [
+        "beinsports-loan"
+      ],
+      "verdict": "confirmed",
+      "note": "Described as Newcastle's initial offer of GBP 28m during negotiations."
+    },
+    {
+      "claim": "7 Millionen Pfund mögliche Zusatzzahlungen (Add-ons)",
+      "sourceIds": [
+        "beinsports-loan"
+      ],
+      "verdict": "confirmed",
+      "note": "Additional GBP 7m in possible add-ons."
+    },
+    {
+      "claim": "Weiterverkaufsbeteiligung für Chelsea",
+      "sourceIds": [
+        "beinsports-loan"
+      ],
+      "verdict": "confirmed",
+      "note": "Sell-on fee owed to Chelsea if he later departs; no percentage given, and the body does not give one."
+    },
+    {
+      "claim": "In der Leihsaison 22 Pflichtspiele",
+      "sourceIds": [
+        "nufc-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Newcastle profile: 22 appearances on loan in 2023/24."
+    },
+    {
+      "claim": "Endgültige Ablösesumme für den festen Wechsel nicht bestätigt",
+      "sourceIds": [
+        "pl-permanent-move"
+      ],
+      "verdict": "confirmed",
+      "note": "PL article states no fee."
+    },
+    {
+      "claim": "Die 28 Millionen Pfund sind das Angebot aus der Leihzeit, kein bestätigter Preis",
+      "sourceIds": [
+        "beinsports-loan"
+      ],
+      "verdict": "confirmed",
+      "note": "Article calls it an initial offer that may not be the final figure."
+    },
+    {
+      "claim": "Ab September 2024 in jedem Premier-League-Spiel in der Startelf bis Fußverletzung für den Rest der Saison",
+      "sourceIds": [
+        "pa-injury"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated 5 Mar 2025 says he started every PL game since September and is out for the season with a foot injury."
+    },
+    {
+      "claim": "Verletzung betraf einen Knochen im Fuß",
+      "sourceIds": [
+        "pa-injury"
+      ],
+      "verdict": "confirmed",
+      "note": "Club said injury to a bone in his foot."
+    },
+    {
+      "claim": "PA-Meldung: einer der verlässlichsten Spieler Newcastles in dieser Saison",
+      "sourceIds": [
+        "pa-injury"
+      ],
+      "verdict": "confirmed",
+      "note": "Writer describes him as one of Newcastle's most dependable players this season. It is a writer's description, not a quote from a named person, and the body presents it that way."
+    },
+    {
+      "claim": "Neuer langfristiger Vertrag, Berichten zufolge fünf Jahre",
+      "sourceIds": [
+        "beinsports-contract"
+      ],
+      "verdict": "confirmed",
+      "note": "Reportedly five years. The page gives no end year and no fee."
+    },
+    {
+      "claim": "107 Pflichtspiele, 8 Vorlagen, 3 Tore für den Klub",
+      "sourceIds": [
+        "beinsports-contract"
+      ],
+      "verdict": "confirmed",
+      "note": "Article gives 107 appearances, 8 assists, 3 goals."
+    },
+    {
+      "claim": "England-Kader für die WM 2026 im Mai 2026 bekannt gegeben, Hall nicht im Kader",
+      "sourceIds": [
+        "the-week-squad"
+      ],
+      "verdict": "confirmed",
+      "note": "Announced 22 May 2026; Hall omitted."
+    },
+    {
+      "claim": "Kommentar: Fehlen von Lewis Hall könnte größerer Fehler sein als das eines prominenteren Spielers",
+      "sourceIds": [
+        "the-week-squad"
+      ],
+      "verdict": "confirmed",
+      "note": "Lead of the article says not taking him could be a bigger mistake than omitting any higher-profile player."
+    },
+    {
+      "claim": "Frontmatter: knownFor, summary, metaDescription (Vertrag über fünf Jahre laut Berichten), FAQ answers",
+      "sourceIds": [
+        "fa-squad",
+        "pl-permanent-move",
+        "beinsports-contract",
+        "beinsports-loan",
+        "nufc-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Each frontmatter fact is backed by the body and the cited sources. Reported figures are marked as reports."
+    },
+    {
+      "claim": "Reviewer note: Debüt 8:0 bei Sheffield United im September 2023",
+      "sourceIds": [
+        "pl-permanent-move"
+      ],
+      "verdict": "confirmed",
+      "note": "Not in the current body, so it is not a live claim. The PL article does state an 8-0 win at Sheffield United in September 2023 as the debut, so the earlier UNSUPPORTED reviewNote was itself wrong."
+    },
+    {
+      "claim": "Reviewer note: uncited process sentence about fees in the Leihe section",
+      "sourceIds": [],
+      "verdict": "confirmed",
+      "note": "Not present in the current body. The fee sentence in the body is reader-facing and cited."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds the loan fee structure (28m offer, 7m add-ons, sell-on for Chelsea), the injury detail and the squad omission in one place. Much of it overlaps the top results, and the prose is plain and somewhat formulaic in places, but it is accurate.",
+  "decision": "approve",
+  "summary": "All body, summary, knownFor, FAQ and person_json facts check out against the opened sources. No wrong or unsupported claims and no uncited factual claims remain. The reviewNote's debut and process-sentence issues are no longer in the body. Note that the PL article does support the Sheffield United debut, so the earlier rejection reason is stale. Outdated check was not run with web_search; the claims are dated or current as of the source access date of 2026-11-02."
+}

@@ -1,0 +1,109 @@
+{
+  "id": "vianney",
+  "name": "Vianney",
+  "categories": [
+    "artists"
+  ],
+  "importance": 3,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1991-02-13",
+      "sources": [
+        "offi-vianney"
+      ],
+      "note": "offi.fr gives '13 février 1991'. Only this page was opened; a search snippet from another site gave the same date."
+    },
+    "birthPlace": {
+      "value": "Pau, Pyrénées-Atlantiques",
+      "sources": [
+        "offi-vianney"
+      ],
+      "note": "offi.fr gives 'Pau, Pyrénées-Atlantiques'. A search snippet from migu.cn (not opened) gives Paris; not used."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "offi-vianney",
+      "url": "https://www.offi.fr/artiste/vianney-111800.html",
+      "title": "Vianney : son actualité culturelle",
+      "publisher": "offi.fr",
+      "type": "database",
+      "accessed": "2026-11-02",
+      "lang": "fr"
+    },
+    {
+      "id": "purepeople-cabane-liberte",
+      "url": "https://www.purepeople.com/article/jai-couru-apres-une-liberte-quil-me-fallait-retrouver-vianney-devoile-ce-qui-est-ne-de-ses-neuf-mois-loin-des-projecteurs_a553640/1",
+      "title": "J'ai couru après une liberté qu'il me fallait retrouver : Vianney dévoile ce qui est né de ses neuf mois loin des projecteurs",
+      "publisher": "Pure People (quotes Vianney's Instagram posts)",
+      "type": "interview",
+      "accessed": "2026-11-02",
+      "lang": "fr"
+    },
+    {
+      "id": "parismatch-be-single-2026",
+      "url": "https://www.parismatch.be/actualites/people/2026/08/24/vianney-devoile-une-bonne-nouvelle-a-ses-fans-je-suis-pret-ZWZV5UTN3RESRNLQ5HOXXTQHAQ/",
+      "title": "Vianney dévoile une bonne nouvelle à ses fans : \"Je suis prêt\"",
+      "publisher": "Paris Match Belgique",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "fr"
+    },
+    {
+      "id": "parismatch-be-tournee-2026",
+      "url": "https://www.parismatch.be/culture/musique/2026/05/25/sa-cabane-terminee-vianney-annonce-une-nouvelle-tournee-en-2027-et-elle-passera-par-la-belgique-KYMA4FCEJNBD5GEFZC3NLULYDI/",
+      "title": "Sa cabane terminée, Vianney annonce une nouvelle tournée en 2027 et elle passera par la Belgique",
+      "publisher": "Paris Match Belgique",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "fr"
+    },
+    {
+      "id": "rtbf-tournee-2026",
+      "url": "https://www.rtbf.be/article/apres-plusieurs-mois-consacres-a-la-construction-de-sa-cabane-vianney-annonce-sa-prochaine-tournee-11730064",
+      "title": "Après plusieurs mois consacrés à la construction de sa cabane, Vianney annonce sa prochaine tournée",
+      "publisher": "RTBF",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "fr"
+    },
+    {
+      "id": "sortiraparis-zenith-paris-2027",
+      "url": "https://www.sortiraparis.com/en/what-to-see-in-paris/concerts-music-festival/articles/345990-vianney-in-concert-at-paris-zenith-in-april-2027",
+      "title": "Vianney to perform at the Zénith de Paris in April 2027",
+      "publisher": "Sortiraparis",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "purepeople-construire-2026",
+      "url": "https://www.purepeople.com/article/moi-je-voulais-construire-et-ca-ma-reconstruit-vianney-sest-isole-dans-sa-cabane-en-foret-il-sapprete-a-partager-le-resultat-de-cette-retraite_a553502/1",
+      "title": "« Moi, je voulais construire, et ça m'a reconstruit » : Vianney s'est isolé dans sa cabane en forêt",
+      "publisher": "Pure People (quotes Vianney's Instagram posts)",
+      "type": "interview",
+      "accessed": "2026-11-02",
+      "lang": "fr"
+    },
+    {
+      "id": "purepeople-tournee-2026",
+      "url": "https://www.purepeople.com/article/vianney-pret-a-seloigner-un-bon-moment-de-sa-cabane-le-chanteur-annonce-une-nouvelle-tournee_a550534/1",
+      "title": "Vianney prêt à s'éloigner un bon moment de sa cabane, il annonce une nouvelle tournée",
+      "publisher": "Pure People",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "fr"
+    },
+    {
+      "id": "stephanelarue-tournee-2026",
+      "url": "https://stephanelarue.com/vianney-tournee-2027-2028-dates-billetterie/",
+      "title": "Vianney remonte sur scène après 5 ans : sa grande tournée 2027-2028 annoncée, billetterie dès le 29 mai",
+      "publisher": "Stéphane Larue",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "fr"
+    }
+  ]
+}

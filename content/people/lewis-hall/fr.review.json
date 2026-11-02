@@ -1,0 +1,257 @@
+{
+  "date": "2026-11-02",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "Adds no value over existing pages: Every factual claim checks out against the opened sources. The body is short and plain, with no hype words or em dashes. Value is limited: the page restates the FA, NUFC, PL, beIN, PA and The Week pages in French and adds no new primary source. The one real addition is the caveat that the GBP 28m is an initial offer, not a confirmed fee. The injury section never names the season (the PA source is 2024/25), so 'depuis septembre' and 'cette saison-là' are ambiguous for a 2026 reader. The 'bonus' vs 'add-ons' issue in reviewNotes is already fixed in the body (it now says add-ons).",
+    "Reviewer recommends rejection: All cited facts are confirmed by the opened sources, including birth date, birthplace, caps, the GBP 28m initial-offer caveat, the 2024 permanent move, the injury, the five-year reported contract and the World Cup omission. No uncited claims. Rejected on value, per the strict rule: the page restates top-result facts in French with no new primary source, and the injury section should name the 2024/25 season. Fix: name the season in the injury section, add a clear dated timeline, and find one primary source or context the top results lack before resubmitting. Human editor should decide given prior rejections."
+  ],
+  "claims": [
+    {
+      "claim": "Né le 8 septembre 2004",
+      "sourceIds": [
+        "fa-squad",
+        "nufc-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "FA gives 08 September 2004 (22YRS); Newcastle gives 08.09.2004."
+    },
+    {
+      "claim": "Né à Slough, en Angleterre",
+      "sourceIds": [
+        "fa-squad"
+      ],
+      "verdict": "confirmed",
+      "note": "FA page: Place of birth 'Slough, England'. Newcastle gives only England as country of birth."
+    },
+    {
+      "claim": "22 ans au 2 novembre 2026",
+      "sourceIds": [
+        "fa-squad"
+      ],
+      "verdict": "confirmed",
+      "note": "Born 8 Sep 2004, so 22 on 2 Nov 2026. FA page shows 22YRS."
+    },
+    {
+      "claim": "Sept sélections en équipe d'Angleterre A, sans but",
+      "sourceIds": [
+        "fa-squad"
+      ],
+      "verdict": "confirmed",
+      "note": "FA page: 7 senior caps, 0 senior goals."
+    },
+    {
+      "claim": "Latéral gauche (left-back) de Newcastle United",
+      "sourceIds": [
+        "the-week-squad",
+        "nufc-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "The Week calls him 'left-back Lewis Hall'. NUFC profile confirms he is a Newcastle first-team player."
+    },
+    {
+      "claim": "Profil de Newcastle: l'un des jeunes les plus cotés de l'académie de Chelsea",
+      "sourceIds": [
+        "nufc-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "NUFC: 'one of Chelsea's most highly rated Academy graduates'."
+    },
+    {
+      "claim": "Prêt d'une saison en août 2023 avec obligation d'achat liée à des critères de performance",
+      "sourceIds": [
+        "beinsports-loan"
+      ],
+      "verdict": "confirmed",
+      "note": "Season-long loan; obligation to buy depends on performance-related criteria. Article dated 2023-08-22."
+    },
+    {
+      "claim": "Offre initiale de 28 millions de livres",
+      "sourceIds": [
+        "beinsports-loan"
+      ],
+      "verdict": "confirmed",
+      "note": "Source calls £28m Newcastle's initial offer during negotiations, not a confirmed final fee."
+    },
+    {
+      "claim": "Jusqu'à 7 millions de livres d'add-ons possibles",
+      "sourceIds": [
+        "beinsports-loan"
+      ],
+      "verdict": "confirmed",
+      "note": "Source says £7m possible add-ons (uses 'add-ons', not 'bonus'). The body now uses add-ons, so the reviewNotes concern is resolved."
+    },
+    {
+      "claim": "Commission de revente pour Chelsea",
+      "sourceIds": [
+        "beinsports-loan"
+      ],
+      "verdict": "confirmed",
+      "note": "Sell-on fee owed to Chelsea. No percentage given, and the article does not state one."
+    },
+    {
+      "claim": "Débuts lors d'une victoire 8-0 à Sheffield United",
+      "sourceIds": [
+        "pl-permanent-move"
+      ],
+      "verdict": "confirmed",
+      "note": "PL: Newcastle debut in an 8-0 win at Sheffield United, September 2023."
+    },
+    {
+      "claim": "22 matchs pendant le prêt, dont 18 en Premier League",
+      "sourceIds": [
+        "nufc-profile",
+        "pl-permanent-move"
+      ],
+      "verdict": "confirmed",
+      "note": "NUFC: 22 appearances in 2023/24 on loan. PL: 18 Premier League appearances during the loan."
+    },
+    {
+      "claim": "Premier League goal of the season vs Manchester United, in May",
+      "sourceIds": [
+        "pl-permanent-move"
+      ],
+      "verdict": "confirmed",
+      "note": "PL: one Premier League goal, against Manchester United, in May. NUFC confirms both 2023/24 goals were vs Man Utd."
+    },
+    {
+      "claim": "Annonce du transfert définitif en juillet 2024",
+      "sourceIds": [
+        "pl-permanent-move",
+        "nufc-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "PL announcement dated 1 July 2024; permanent long-term contract. NUFC confirms permanent move July 2024."
+    },
+    {
+      "claim": "27 matchs de Premier League au moment du transfert",
+      "sourceIds": [
+        "pl-permanent-move"
+      ],
+      "verdict": "confirmed",
+      "note": "PL: 27 Premier League appearances before the move (9 for Chelsea, 18 for Newcastle on loan)."
+    },
+    {
+      "claim": "Les 28 millions de livres restent une offre initiale, pas un prix confirmé",
+      "sourceIds": [
+        "beinsports-loan"
+      ],
+      "verdict": "confirmed",
+      "note": "Source describes £28m as initial offer. PL source states no fee. Caveat is accurate."
+    },
+    {
+      "claim": "Titulaire à chaque match de Premier League depuis septembre, jusqu'à une blessure au pied",
+      "sourceIds": [
+        "pa-injury"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'starting every Premier League game since September'. Injury to foot. Season not named in the body (source is 2024/25); clarity issue only."
+    },
+    {
+      "claim": "Blessure écartant Hall pour le reste de la saison",
+      "sourceIds": [
+        "pa-injury"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'ruled out for the rest of the season', 'will miss the rest of the 2024/25 season'."
+    },
+    {
+      "claim": "La blessure touchait un os du pied",
+      "sourceIds": [
+        "pa-injury"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'sustained an injury to a bone in his foot'."
+    },
+    {
+      "claim": "Décrit comme l'un des joueurs les plus fiables de Newcastle cette saison-là",
+      "sourceIds": [
+        "pa-injury"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'one of Newcastle's most dependable players this season'."
+    },
+    {
+      "claim": "Nouveau contrat long, durée rapportée de cinq ans",
+      "sourceIds": [
+        "beinsports-contract"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'reportedly five years in length'. Presented as reported, which is correct."
+    },
+    {
+      "claim": "107 matchs sous le maillot de Newcastle, 8 passes décisives, 3 buts",
+      "sourceIds": [
+        "beinsports-contract"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 107 appearances, 8 assists, 3 goals for Newcastle."
+    },
+    {
+      "claim": "Lien familial avec le club",
+      "sourceIds": [
+        "beinsports-contract"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote: 'I obviously have a family connection with the club'. Stated on the record by Hall."
+    },
+    {
+      "claim": "Liste de l'Angleterre pour la Coupe du monde 2026, annoncée en mai 2026, sans Hall",
+      "sourceIds": [
+        "the-week-squad"
+      ],
+      "verdict": "confirmed",
+      "note": "Announced 22 May 2026; Hall is not in the squad."
+    },
+    {
+      "claim": "The Week: écarter Hall pourrait être une erreur plus grave que de laisser un joueur plus en vue",
+      "sourceIds": [
+        "the-week-squad"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'Not taking left-back Lewis Hall could prove to be a bigger mistake than the omission of any higher-profile player'. Attributed to the publication as commentary."
+    },
+    {
+      "claim": "Newcastle recruited Hall permanently in July 2024 after a one-season Chelsea loan (summary)",
+      "sourceIds": [
+        "pl-permanent-move",
+        "beinsports-loan"
+      ],
+      "verdict": "confirmed",
+      "note": "Frontmatter has no tags; supported by the body and sources."
+    },
+    {
+      "claim": "Sept sélections et aucun but, selon The FA (FAQ)",
+      "sourceIds": [
+        "fa-squad"
+      ],
+      "verdict": "confirmed",
+      "note": "FA page: 7 caps, 0 goals."
+    },
+    {
+      "claim": "Oui, Hall joue toujours à Newcastle (FAQ, présent)",
+      "sourceIds": [
+        "beinsports-contract",
+        "fa-squad"
+      ],
+      "verdict": "confirmed",
+      "note": "Sept 2026 contract report and FA page (accessed 2026-11-02) list him at Newcastle. No outdated signal found in the opened sources."
+    },
+    {
+      "claim": "Metadescription and knownFor: 'international anglais' and 'latéral gauche de Newcastle United'",
+      "sourceIds": [
+        "fa-squad",
+        "the-week-squad",
+        "nufc-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Backed by the body and sources."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": false,
+  "valueNote": "Every factual claim checks out against the opened sources. The body is short and plain, with no hype words or em dashes. Value is limited: the page restates the FA, NUFC, PL, beIN, PA and The Week pages in French and adds no new primary source. The one real addition is the caveat that the GBP 28m is an initial offer, not a confirmed fee. The injury section never names the season (the PA source is 2024/25), so 'depuis septembre' and 'cette saison-là' are ambiguous for a 2026 reader. The 'bonus' vs 'add-ons' issue in reviewNotes is already fixed in the body (it now says add-ons).",
+  "decision": "reject",
+  "summary": "All cited facts are confirmed by the opened sources, including birth date, birthplace, caps, the GBP 28m initial-offer caveat, the 2024 permanent move, the injury, the five-year reported contract and the World Cup omission. No uncited claims. Rejected on value, per the strict rule: the page restates top-result facts in French with no new primary source, and the injury section should name the 2024/25 season. Fix: name the season in the injury section, add a clear dated timeline, and find one primary source or context the top results lack before resubmitting. Human editor should decide given prior rejections."
+}

@@ -7,61 +7,44 @@ metaDescription: >-
   champion le plus jeune de l'histoire. Âge, origines et carrière chez Mercedes.
 knownFor: 'Pilote italien de Formule 1 chez Mercedes, champion du monde 2026'
 summary: >-
-  Kimi Antonelli est le pilote italien de Formule 1 qui court pour Mercedes. Il a
-  remporté le championnat du monde 2026 au Grand Prix du Mexique, le 1er novembre
-  2026, en terminant troisième derrière Max Verstappen et Lewis Hamilton. À 20 ans
-  et 68 jours, il est le plus jeune champion du monde de l'histoire de la
-  Formule 1.
+  Kimi Antonelli est le pilote italien de Formule 1 qui court pour Mercedes. Il
+  a remporté le championnat du monde 2026 au Grand Prix du Mexique, le 1er
+  novembre 2026, en terminant troisième derrière Max Verstappen et Lewis
+  Hamilton. À 20 ans et 68 jours, il est le plus jeune champion du monde de
+  l'histoire de la Formule 1. Depuis le titre, Toto Wolff a répondu à ceux qui
+  doutaient de sa promotion chez Mercedes.
 status: published
 risk: low
-publishedAt: '2026-11-01'
-updatedAt: '2026-11-02'
-reviewedAt: '2026-11-01'
-reviewBy: '2027-05-01'
+publishedAt: '2026-11-02'
+publishedTime: '2026-11-02T22:23:49.557Z'
+reviewedAt: '2026-11-02'
+reviewBy: '2027-05-02'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Kimi Antonelli
   - Kimi Antonelli champion du monde
-  - Kimi Antonelli championnat
   - Kimi Antonelli âge
   - Kimi Antonelli âge 2026
-  - Kimi Antonelli Grand Prix du Mexique
-  - Kimi Antonelli Grand Prix des États-Unis
+  - Kimi Antonelli f1
+  - Kimi Antonelli anniversaire
   - Kimi Antonelli Mercedes
-  - Kimi Antonelli père Marco
+  - Kimi Antonelli Grand Prix du Mexique
 faq:
   - q: Kimi Antonelli a-t-il remporté le championnat du monde 2026 ?
     a: >-
-      Oui. Il a terminé troisième du Grand Prix du Mexique, le 1er novembre 2026,
-      et cela a suffi : il lui fallait seulement une neuvième place, quoi qu'aient
-      fait Russell et Hamilton [s:f1-mexico-race-report] [s:fia-mexico-report].
-      Il a décroché le titre avec quatre manches d'avance
+      Oui. Il a terminé troisième du Grand Prix du Mexique, le 1er novembre
+      2026, et cela a suffi : il lui fallait seulement une neuvième place, quoi
+      qu'aient fait Russell et Hamilton [s:f1-mexico-race-report]
+      [s:fia-mexico-report]. Il a décroché le titre avec quatre manches d'avance
       [s:skysports-mexico-title].
   - q: Quel âge a Kimi Antonelli ?
     a: >-
-      Il est né le 25 août 2006 [s:f1-driver-profile]. Il avait 20 ans et 68 jours
-      quand il a remporté le titre, ce qui en fait le plus jeune champion du monde
-      de l'histoire de la Formule 1 [s:skysports-mexico-title].
-  - q: Kimi Antonelli a-t-il remporté le Grand Prix des États-Unis 2026 ?
-    a: >-
-      Oui. Parti en pole position, il a gagné à Austin le 25 octobre 2026, sa
-      neuvième victoire en Grand Prix de la saison. Le titre n'a pas été acquis
-      là-bas, car Russell et Hamilton ne sont pas arrivés là où ils auraient dû
-      pour l'empêcher.
-  - q: D'où vient Kimi Antonelli ?
-    a: >-
-      Il est né à Bologne, en Italie, et y a grandi. Il a commencé le karting à
-      sept ans, dans l'équipe de son père, avant de rejoindre le programme
-      junior de Mercedes en 2019.
-  - q: Qui est le père de Kimi Antonelli ?
-    a: >-
-      Marco Antonelli est un ancien pilote de course qui dirige sa propre
-      écurie, Antonelli Motorsport. Kimi a couru pour cette équipe quand il
-      était enfant.
-autoReviews: 4
-publishedTime: '2026-11-01T21:38:16.080Z'
+      Il est né le 25 août 2006 [s:f1-driver-profile]. Il avait 20 ans et 68
+      jours quand il a remporté le titre, ce qui en fait le plus jeune champion
+      du monde de l'histoire de la Formule 1 [s:skysports-mexico-title].
+autoReviews: 5
 ---
 Kimi Antonelli a remporté le Grand Prix des États-Unis 2026 sur le Circuit of the Americas, à Austin, le 25 octobre 2026, après être parti en pole position [s:f1-austin-race-report]. Autosport a retenu cette victoire comme sa neuvième en Grand Prix en 2026 [s:autosport-austin-report]. Avec 123 points d'avance sur Russell, il prend la tête du championnat des pilotes [s:skysports-austin-report], mais le titre n'était pas encore acquis [s:f1-austin-race-report].
 
@@ -72,6 +55,8 @@ Kimi Antonelli est devenu champion du monde de Formule 1 au Grand Prix du Mexiqu
 À 20 ans et 68 jours, il est le plus jeune champion du monde de l'histoire de la Formule 1 [s:skysports-mexico-title] [s:fia-mexico-report]. C'est son premier titre mondial [s:f1-mexico-race-report]. La victoire de Verstappen est la troisième de sa saison 2026 [s:f1-mexico-race-report].
 
 « We did it. And, you know, without them, I wouldn't be here. Without Mercedes, without my family », a déclaré Antonelli après la course (traduction libre de la citation originale en anglais) [s:f1-mexico-race-report]. Il a aussi dit qu'il essayait « de réaliser ce qui vient de se passer » [s:f1-mexico-race-report].
+
+La réaction s'est poursuivie les jours suivants. Toto Wolff a déclaré que cette promotion avait été « toujours un risque calculé, pas un risque réel », et qu'« il y avait des sceptiques » (traduction libre) [s:f1-mexico-wolff-reaction]. Il a ajouté que l'équipe « a continué de lui faire confiance, et il a répondu présent » [s:f1-mexico-wolff-reaction]. Sur le podium, Antonelli a qualifié de « vraiment incroyable » le fait de le partager avec Max Verstappen et Lewis Hamilton [s:planetf1-mexico-reaction]. À Sky Sports, il a expliqué qu'il ne voyait plus rien à travers ses larmes dans le dernier tour [s:skysports-mexico-tears]. Il a remercié son ingénieur de course, Peter Bonnington [s:skysports-mexico-tears]. La prochaine manche est le Grand Prix de São Paulo [s:skysports-mexico-tears].
 
 ## Austin et le compte à rebours vers le titre
 
@@ -93,7 +78,7 @@ Il a commencé le karting à sept ans, en courant pour l'équipe de son père [s
 
 Antonelli a rejoint le Mercedes Junior Programme en avril 2019, à 12 ans [s:mercedes-driver-profile].
 
-Ses débuts en monoplace remontent à 2021, en Formule 4 italienne et lors d'une manche du Formula 4 UAE Championship Trophy [s:mercedes-everything]. Il a remporté le titre de Formule 4 italienne en 2022, puis celui de l'ADAC Formula 4 [s:mercedes-everything].
+Ses débuts en monoplace remontent à 2021, en Formule 4 italienne et lors d'une manche du Formula 4 UAE Championship Trophy [s:mercedes-everything]. Il a ensuite remporté le titre de Formule 4 italienne, puis celui de l'ADAC Formula 4 [s:mercedes-everything].
 
 En 2024, il a couru en Formule 2 avec PREMA. Il a gagné à Silverstone, puis en Hongrie. Il est ainsi devenu « le plus jeune vainqueur multiple de l'histoire de la série » [s:mercedes-everything]. Le profil Mercedes mentionne lui aussi ces victoires de 2024 à Silverstone et à Budapest [s:mercedes-driver-profile].
 
@@ -107,4 +92,4 @@ Au Canada, il finit troisième et devient le troisième pilote le plus jeune à 
 
 Au Grand Prix de Chine, à Shanghai, il décroche la pole à 19 ans, six mois et 17 jours, ce qui en fait le plus jeune pole-sitter de l'histoire des Grands Prix [s:mercedes-everything]. Le lendemain, il gagne la course. Il devient le deuxième plus jeune vainqueur de Grand Prix de tous les temps, derrière Max Verstappen [s:mercedes-everything]. Il est aussi le premier Italien à remporter un Grand Prix depuis Giancarlo Fisichella, au Grand Prix de Malaisie 2006 [s:mercedes-everything].
 
-Le profil de pilote de Formule 1 le place en tête du championnat, avec 365 points et neuf victoires en Grand Prix pour 2026 [s:f1-driver-profile]. Il arrive à Austin en tête, et il remporte le titre une semaine plus tard, à Mexico [s:f1-mexico-race-report].
+Le profil de pilote de Formule 1 le place en tête du championnat, avec neuf victoires en Grand Prix pour 2026 [s:f1-driver-profile]. Il arrive à Austin en tête, et il remporte le titre une semaine plus tard, à Mexico [s:f1-mexico-race-report].

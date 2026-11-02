@@ -1,11 +1,11 @@
 ---
 title: Ibrahim Maza
 slug: ibrahim-maza
-metaTitle: 'Ibrahim Maza: Alter {age}, Leverkusen und Algerien'
+metaTitle: 'Ibrahim Maza: Alter {age}, Nationalität Algerien'
 metaDescription: >-
-  Ibrahim Maza ist Mittelfeldspieler bei Bayer 04 Leverkusen und Nationalspieler
-  Algeriens, geboren am 24. November 2005. Auf der Shortlist des Young Talent
-  2026.
+  Ibrahim Maza hat die deutsche und algerische Nationalität und spielt für
+  Algerien. 2024 wählte er Algerien nach 13 Jugendspielen für Deutschland. Er
+  ist {age}.
 knownFor: Mittelfeldspieler bei Bayer 04 Leverkusen und Nationalspieler Algeriens
 summary: >-
   Ibrahim Maza ist ein 20 Jahre alter Mittelfeldspieler von Bayer 04 Leverkusen
@@ -16,15 +16,22 @@ summary: >-
   auf Platz neun landete.
 status: published
 risk: medium
-publishedAt: '2026-11-01'
-reviewedAt: '2026-11-01'
-reviewBy: '2027-05-01'
+publishedAt: '2026-11-02'
+publishedTime: '2026-11-02T22:23:49.555Z'
+reviewedAt: '2026-11-02'
+reviewBy: '2027-05-02'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - ibrahim maza alter
   - ibrahim maza nationalität
+  - maza nationalität
+  - ibrahim maza herkunft
+  - maza leverkusen nationalität
+  - maza trikotnummer
+  - trikotnummer maza
+  - maza alter
   - ibrahim maza algerien
   - ibrahim maza größe
   - ibrahim maza trikotnummer
@@ -35,11 +42,20 @@ targetQueries:
   - ibrahim maza verein
   - ibrahim maza trikot
 faq:
-  - q: Hat Ibrahim Maza den Kopa Trophy gewonnen?
+  - q: Welche Nationalität hat Ibrahim Maza?
     a: >-
-      Nein. Den Preis gewann Lamine Yamal, und Bulinews berichtet, dass Maza bei
-      der Abstimmung Neunter wurde [s:africasoccer-kopa]
-      [s:bulinews-kopa-ninth].
+      Er hat die deutsche und die algerische Nationalität und spielt für
+      Algerien. Das Bundesliga-Profil führt Algerien und Deutschland
+      [s:bundesliga-player], und der Verein nennt ihn einen Deutsch-Algerier
+      [s:bayer04-transfer].
+  - q: Woher stammt Ibrahim Maza?
+    a: >-
+      Er wurde am 24. November 2005 in Berlin geboren. Der Verein beschreibt ihn
+      als in Berlin geborenen Deutsch-Algerier [s:bayer04-transfer].
+  - q: Welche Trikotnummer hat Ibrahim Maza?
+    a: >-
+      Laut Bundesliga-Profil trägt er bei Bayer 04 Leverkusen die Nummer 30
+      [s:bundesliga-player].
   - q: Will Leverkusen Ibrahim Maza halten?
     a: >-
       Laut 90min will Leverkusen ihn langfristig binden und arbeitet an einer
@@ -50,12 +66,6 @@ faq:
     a: >-
       Er wurde am 24. November 2005 geboren und war am 29. Oktober 2026 20 Jahre
       alt [s:bundesliga-player].
-  - q: Ist Ibrahim Maza Algerier?
-    a: >-
-      Er spielt für Algerien. Bayer 04 beschreibt ihn als Deutsch-Algerier, und
-      er entschied sich 2024 für Algerien, nachdem er 13 Spiele für die
-      deutschen U18-, U19- und U20-Nationalteams absolviert hatte
-      [s:bayer04-transfer].
   - q: Wie groß ist Ibrahim Maza?
     a: >-
       Laut seinem Bundesliga-Profil ist er 180 Zentimeter groß. Dort wird ihm
@@ -66,10 +76,13 @@ faq:
       Deutschland, dass PSG Interesse hat [s:psg-interest-report]. Die
       Vereinsmitteilung nennt weiterhin den 30. Juni 2030 als Vertragsende
       [s:bayer04-transfer].
-autoReviews: 3
-publishedTime: '2026-11-01T09:55:16.519Z'
+autoReviews: 4
 ---
 Ibrahim Maza ist 20 Jahre alt und kommt aus der Nachwuchsabteilung von Hertha BSC. Heute spielt er im Mittelfeld von Bayer 04 Leverkusen. Der Verein gibt an, dass er in der vergangenen Saison in allen Wettbewerben 44 Pflichtspiele für die Mannschaft bestritten hat [s:bayer04-young-talent]. Er wurde am 24. November 2005 in Berlin geboren [s:bayer04-transfer] [s:bundesliga-player] und spielt für die algerische Nationalmannschaft [s:bayer04-transfer].
+
+## Welche Nationalität hat Ibrahim Maza?
+
+Ibrahim Maza hat die deutsche und die algerische Staatsangehörigkeit und spielt für Algerien. Das Bundesliga-Profil führt beide Länder [s:bundesliga-player]. Der Verein nennt ihn den in Berlin geborenen Deutsch-Algerier. Er bestritt 13 Spiele für die deutschen U18-, U19- und U20-Nationalteams, bevor er sich 2024 für Algerien entschied [s:bayer04-transfer]. Bei der WM 2026 stand er in allen vier Partien Algeriens in der Startelf [s:bayer04-young-talent].
 
 ## Oktober 2026
 
@@ -77,9 +90,9 @@ Maza war am 26. Oktober 2026 bei der Ballon-d’Or-Gala in London einer der Nomi
 
 Leverkusens Trainer Carles Martínez hofft, dass „Ibo“ eines Tages den Ballon d’Or gewinnt, und sagt: „Wir sind sehr glücklich mit ihm, und wir wollen, dass er noch viele Jahre hier bleibt“ [s:bulinews-kopa-ninth]. Zu den Transferspekulationen sagte er, er denke nicht darüber nach. Seine Aussagen wurden Bild gegeben [s:bulinews-kopa-ninth].
 
-Ousmane Dembélé sagte unter Mazas Instagram-Fotos voraus, dass dieser eines Tages den Ballon d’Or gewinnen werde. Africa Soccer gibt seine Worte nur sinngemäß wieder [s:africasoccer-dembele].
+Ousmane Dembélé sagte voraus, dass Maza eines Tages den Ballon d’Or gewinnen werde. Africa Soccer gibt seine Worte nur sinngemäß wieder [s:africasoccer-dembele].
 
-Bei den Transfers ist das Interesse des PSG laut Florian Plettenberg, zitiert von Africa Soccer, „konkret“, und Mazas Berater sind bereits informiert [s:africasoccer-psg]. Eine formelle Anfrage im Wintertransferfenster ist nicht entschieden, und das PSG ist über die erste Einschätzung noch nicht hinaus [s:africasoccer-psg]. Sky Deutschland, zitiert von Bulinews, meldet, dass PSG einen Wechsel im Januar erwägt, ohne ein Angebot zu nennen [s:psg-interest-report]. Ein Bericht von TSA Algérie, der sich auf RMC Sport beruft, widerspricht dem: PSG plane laut diesem Bericht kein Angebot in diesem Winter [s:tsa-rmc-denial]. Parallel dazu berichtet 90min, dass Leverkusen ihn langfristig binden will und an einer vorzeitigen Verlängerung arbeitet [s:90min-extension]. Sein Vertrag läuft weiterhin bis zum 30. Juni 2030 [s:bayer04-transfer].
+Laut Florian Plettenberg, zitiert von Africa Soccer, sind Mazas Berater über das Interesse des PSG bereits informiert [s:africasoccer-psg]. Eine formelle Anfrage im Wintertransferfenster ist nicht entschieden, und das PSG ist über die erste Einschätzung noch nicht hinaus [s:africasoccer-psg]. Sky Deutschland, zitiert von Bulinews, meldet, dass PSG einen Wechsel im Januar erwägt, ohne ein Angebot zu nennen [s:psg-interest-report]. Ein Bericht von TSA Algérie, der sich auf RMC Sport beruft, widerspricht dem: PSG plane laut diesem Bericht kein Angebot in diesem Winter [s:tsa-rmc-denial]. Parallel dazu berichtet 90min, dass Leverkusen ihn langfristig binden will und an einer vorzeitigen Verlängerung arbeitet [s:90min-extension]. Sein Vertrag läuft weiterhin bis zum 30. Juni 2030 [s:bayer04-transfer].
 
 ## Von Hertha nach Leverkusen
 
@@ -111,7 +124,7 @@ Africa Soccer berichtet, dass er als Nominierter bei der Gala 2026 im London Pal
 
 Die Berichte aus dem Oktober widersprechen sich. Am 10. Oktober 2026 berichtete GetFootballNewsGermany unter Berufung auf Sky Deutschland, dass Leverkusen Gespräche über eine Verlängerung über 2030 hinaus begonnen habe [s:leverkusen-talks-report]. Der Bericht nennt Arsenal, Tottenham, Chelsea, Aston Villa und Manchester City als Klubs, die ihn beobachten. Paris Saint-Germain erwähnt er nicht [s:leverkusen-talks-report].
 
-Bulinews, das sich ebenfalls auf Sky Deutschland beruft, schreibt, PSG beobachte Maza genau, habe sein Interesse gegenüber seinen Beratern erkennen lassen und ziehe einen Wechsel im Januar in Betracht [s:psg-interest-report]. Das sind Presseberichte, keine bestätigten Wechsel. Die Quellen, die für diese Seite geprüft wurden, zeigen weder ein Angebot noch eine unterschriebene Verlängerung oder eine Einigung über einen Wechsel [s:leverkusen-talks-report] [s:psg-interest-report].
+Bulinews, das sich ebenfalls auf Sky Deutschland beruft, schreibt, PSG habe sein Interesse gegenüber seinen Beratern erkennen lassen und ziehe einen Wechsel im Januar in Betracht [s:psg-interest-report]. Das sind Presseberichte, keine bestätigten Wechsel. Die Quellen, die für diese Seite geprüft wurden, zeigen weder ein Angebot noch eine unterschriebene Verlängerung oder eine Einigung über einen Wechsel [s:leverkusen-talks-report] [s:psg-interest-report].
 
 ## Die Zahlen im Bundesliga-Profil
 

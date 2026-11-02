@@ -8,11 +8,15 @@ metaDescription: >-
 knownFor: Extremo belga del AC Milan
 summary: >-
   Diego Moreira es un extremo belga que fichó por el AC Milan desde el RC
-  Estrasburgo en agosto de 2026, con contrato hasta 2031. Nacido en Lieja el 6
-  de agosto de 2004, se formó en las canteras del Standard de Lieja y del
-  Benfica, y juega con Bélgica desde que se decidió por esa selección en 2025.
+  Estrasburgo en agosto de 2026, con contrato hasta 2031. El 31 de octubre de
+  2026 dio dos asistencias y marcó de falta en la victoria del Milan por 3-1
+  sobre el Inter. Nacido en Lieja el 6 de agosto de 2004, se formó en las
+  canteras del Standard de Lieja y del Benfica, y juega con Bélgica desde que se
+  decidió por esa selección en 2025.
 status: published
 risk: medium
+publishedAt: '2026-11-02'
+publishedTime: '2026-11-02T22:23:49.540Z'
 reviewedAt: '2026-11-02'
 reviewBy: '2027-05-02'
 author: editor-in-chief
@@ -22,6 +26,7 @@ targetQueries:
   - diego moreira edad
   - diego moreira milan
   - diego moreira ac milan
+  - diego moreira al milan
   - diego moreira dorsal
   - diego moreira portugues
   - diego moreira chelsea
@@ -42,11 +47,18 @@ faq:
     a: >-
       beIN Sports informó de 50 millones de euros, más 16 millones en
       complementos. El comunicado del club no indica la cifra.
-autoReviews: 1
-publishedAt: '2026-11-02'
-publishedTime: '2026-11-02T09:33:14.610Z'
+  - q: ¿Es Diego Moreira portugués?
+    a: >-
+      No, es belga. Se formó en las categorías inferiores de Portugal, y la FIFA
+      aprobó en mayo de 2025 su cambio de selección a Bélgica
+      [s:acmilan-moreira-statement] [s:dhnet-moreira-switch].
+autoReviews: 2
 ---
 Diego Moreira es un extremo belga que fichó por el AC Milan en agosto de 2026 [s:acmilan-moreira-statement]. El club anunció su llegada desde el RC Estrasburgo el 19 de agosto, y su contrato llega hasta el 30 de junio de 2031. Lleva el dorsal 22 [s:acmilan-moreira-statement]. beIN Sports informó de una cifra de 50 millones de euros, más 16 millones en complementos, por un contrato de cinco años [s:bein-moreira-transfer]. El comunicado del club no indica el importe [s:acmilan-moreira-statement]. El reportaje del club dice que juega sobre todo por la banda izquierda, aunque también puede jugar por la derecha [s:acmilan-moreira-focus].
+
+## Octubre de 2026: el derbi
+
+El derbi de Milán lo puso en primera plana. El 31 de octubre de 2026, un día después de publicarse su entrevista con Goal, el Milan ganó 3-1 al Inter en San Siro [s:football-italia-milan-inter-2026] [s:theanalyst-milan-inter-2026]. Christian Pulisic cabeceó a gol un centro de Moreira en el minuto 4, y Moreira asistió a Adrien Rabiot en el 10 [s:football-italia-milan-inter-2026] [s:theanalyst-milan-inter-2026]. Alessandro Bastoni acortó para el Inter, y en el 43 Moreira curvó una falta con la izquierda desde unos 25 metros, por encima de la barrera, para devolver a su equipo a dos goles de ventaja [s:theanalyst-milan-inter-2026] [s:football-italia-milan-inter-2026]. Según Opta, es la tercera falta directa marcada por un jugador del Milan en el derbi desde que existen datos, a partir de la temporada 2004-05 [s:theanalyst-milan-inter-2026].
 
 ## Nacido en Lieja, formado en dos canteras
 
@@ -68,6 +80,6 @@ En septiembre de 2025 ya disputaba sus primeros partidos oficiales con la absolu
 
 ## Lo que dice de su nombre y del Milan
 
-En una entrevista publicada por Goal el 30 de octubre de 2026, concedida antes a DAZN, Moreira explicó su nombre: era el favorito de su madre, "también por Diego Maradona" [s:goal-moreira-interview]. Dice que Cristiano Ronaldo es su ídolo [s:goal-moreira-interview]. Preguntado por el derbi contra el Inter, afirmó que es "uno de los partidos más importantes de Europa" [s:goal-moreira-interview].
+En una entrevista publicada por Goal el 30 de octubre de 2026, Moreira explicó su nombre: era el favorito de su madre, "también por Diego Maradona" [s:goal-moreira-interview]. Dice que Cristiano Ronaldo es su ídolo [s:goal-moreira-interview]. Preguntado por el derbi contra el Inter, afirmó que es "uno de los partidos más importantes de Europa" [s:goal-moreira-interview].
 
 Lleva el 22 porque "me gusta el 22", y dijo que es un honor seguir a Kaká, que dejó huella en el club con ese dorsal [s:goal-moreira-interview]. Cuando le preguntaron si bailaría breakdance tras marcar al Inter, respondió que no: "No quiero lesionarme" [s:goal-moreira-interview].

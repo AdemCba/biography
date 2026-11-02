@@ -11,54 +11,59 @@ knownFor: >-
   Germany's Next Topmodel
 summary: >-
   Heidi Klum es una supermodelo y presentadora de televisión nacida en Bergisch
-  Gladbach, Alemania, el 1 de junio de 1973. Para su fiesta anual de Nueva York
-  del 31 de octubre de 2026 apareció como una mano gigante y cercenada, modelada
-  sobre su propia mano izquierda.
+  Gladbach, Alemania, el 1 de junio de 1973. En 2026 su fiesta de Múnich,
+  HeidiFest, pasó de ProSieben a RTL, y se convirtió en la cara de la firma
+  alemana s.Oliver. Para su fiesta anual de Nueva York del 31 de octubre de 2026
+  apareció como una mano gigante y cercenada, modelada sobre su propia mano
+  izquierda.
 status: published
 risk: medium
+publishedAt: '2026-11-02'
+publishedTime: '2026-11-02T22:23:49.553Z'
 reviewedAt: '2026-11-02'
 reviewBy: '2027-05-02'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
-  - Heidi Klum edad
+  - Heidi Klum halloween
+  - Heidi Klum disfraces
   - Heidi Klum disfraz 2026
-  - Heidi Klum de dónde es
-  - Heidi Klum Project Runway
-  - Heidi Klum Emmy
-  - Heidi Klum On & Off the Catwalk
+  - Heidi Klum disfraces halloween
+  - Heidi Klum mano
 faq:
-  - q: ¿Cuántos años tiene Heidi Klum?
-    a: >-
-      Nació el 1 de junio de 1973, así que cumplió 53 años en junio de 2026
-      [s:biography-klum].
-  - q: ¿De dónde es Heidi Klum?
-    a: >-
-      Nació en Bergisch Gladbach, en el estado de Renania del Norte-Westfalia,
-      Alemania [s:biography-klum]. Wikidata registra la ciudadanía alemana y la
-      estadounidense [s:wikidata-klum].
   - q: ¿Qué disfraz llevó Heidi Klum en Halloween 2026?
     a: >-
       Una mano gigante y cercenada, modelada sobre su propia mano izquierda, que
       llevó a su fiesta de Nueva York el 31 de octubre de 2026
       [s:cbs-hand-costume].
-  - q: ¿Cuántos premios Emmy ha ganado Heidi Klum?
+  - q: ¿Qué disfraces de Halloween ha llevado Heidi Klum en otros años?
     a: >-
-      Uno, en 2013, en la categoría de presentador destacado de programas de
-      telerrealidad o competición, tras seis nominaciones entre 2013 y 2018
-      [s:tv-academy-klum-gunn].
-autoReviews: 1
-publishedAt: '2026-11-02'
-publishedTime: '2026-11-02T09:33:14.623Z'
+      CBS recuerda looks como Medusa, un pavo real, un Transformer de 2,4
+      metros, un hombre lobo del videoclip "Thriller" de Michael Jackson y Kali,
+      la diosa hindú de muchos brazos. En 2022 llegó colgada de un sedal y
+      envuelta en un disfraz de gusano [s:cbs-hand-costume].
+autoReviews: 2
 ---
 Heidi Klum apareció en su fiesta anual de Halloween en Nueva York el 31 de octubre de 2026 convertida en una mano gigante, ensangrentada y cercenada [s:cbs-hand-costume]. El disfraz reproducía su propia mano izquierda, y la dejó irreconocible, con solo los ojos y la boca visibles [s:cbs-hand-costume] [s:eonline-hand-costume]. Antes hubo una serie de adelantos [s:hollywoodlife-costume-hints]. En septiembre, en una entrevista con People, dijo que el look sería “muy, muy sangriento” y que combina muy bien con el vino tinto [s:hollywoodlife-costume-hints].
 
 Klum cumplió 53 años en junio de 2026 [s:biography-klum]. Aquella fue su 25.ª fiesta anual de Halloween, celebrada en Cathédrale, en Nueva York [s:cbs-hand-costume] [s:eonline-hand-costume]. La organizaron Apothic y Butterfinger [s:eonline-hand-costume].
 
+## Noviembre de 2026
+
+Buena parte de las noticias profesionales recientes de Klum giran en torno a dos marcas y un formato de fiesta. En abril de 2026 la firma alemana de moda s.Oliver, con sede en Rottendorf y fundada en 1969, la presentó como su nueva cara. El contrato, de dos años, se centra en la línea Casual de la marca [s:t-online-soliver-deal]. No se han hecho públicas las condiciones económicas [s:t-online-soliver-deal].
+
+El 10 de septiembre la marca lanzó la campaña “Casual Since Forever”. Muestra a Klum junto a su yo más joven, del inicio de su carrera, la creó la agencia Jung von Matt y viene acompañada de una colección cápsula vintage en edición limitada [s:fashionunited-soliver-campaign]. El consejero delegado conjunto, Johannes Rellecke, dijo que la campaña afianza la posición de la marca como una firma de ropa casual al cien por cien [s:fashionunited-soliver-campaign].
+
+Su fiesta de Múnich, HeidiFest, pasó de ProSieben a RTL para 2026 [s:horizont-heidifest-rtl]. La segunda edición se celebró el 17 de septiembre en el Hofbräuhaus de Múnich y se emitió en directo por RTL y RTL+ [s:echo24-wiesn-brand]. Según la propia RTL, el programa lo produce la cadena [s:horizont-heidifest-rtl]. Germany's Next Topmodel, su formato principal, sigue en ProSieben [s:echo24-wiesn-brand].
+
+El estreno de 2025 en ProSieben tuvo una media de 760.000 espectadores y una cuota del 5,9 % entre los de 14 a 49 años [s:echo24-wiesn-brand]. La emisión en RTL reunió 780.000 espectadores y una cuota total del 4,0 %. Entre los de 14 a 49 años logró 280.000 espectadores y una cuota del 9,0 %, que el informe describe como el mejor resultado de una cadena privada en ese horario [s:echo24-heidifest-ratings]. RTL habló de un debut exitoso, pero el propio artículo considera que las audiencias siguen siendo decepcionantes en conjunto [s:echo24-heidifest-ratings]. Las cifras proceden de dwdl.de [s:echo24-heidifest-ratings].
+
+Ni el traslado a RTL ni el contrato con s.Oliver han publicado cifras económicas [s:echo24-wiesn-brand] [s:t-online-soliver-deal].
+
 ## Disfraces anteriores y la Medusa de 2025
 
-Klum lleva años convirtiendo Halloween en una cita de grandes transformaciones [s:cbs-hand-costume]. CBS recuerda looks anteriores como Medusa, un pavo real, un Transformer de 2,4 metros, un hombre lobo del videoclip “Thriller” de Michael Jackson y Kali, la diosa hindú de la muerte y la destrucción [s:cbs-hand-costume]. En 2022 llegó colgada de un sedal y envuelta en un disfraz de gusano [s:cbs-hand-costume].
+Klum lleva años convirtiendo Halloween en una cita de grandes transformaciones [s:cbs-hand-costume]. CBS recuerda looks anteriores como Medusa, un pavo real, un Transformer de 2,4 metros, un hombre lobo del videoclip “Thriller” de Michael Jackson y Kali, la diosa hindú de muchos brazos [s:cbs-hand-costume]. En 2022 llegó colgada de un sedal y envuelta en un disfraz de gusano [s:cbs-hand-costume].
 
 Su Medusa de 2025 recorría el cuerpo de cabeza a cola, con una cola larga y serpientes de cascabel sobre la cabeza [s:eonline-hand-costume]. Klum dijo que todo estaba pintado a mano y que unas 15 personas trabajaron en él [s:eonline-hand-costume]. Esa fiesta se celebró en el Hard Rock Hotel de Nueva York [s:cbs-hand-costume].
 

@@ -8,11 +8,15 @@ metaDescription: >-
 knownFor: Ponta belga do AC Milan
 summary: >-
   Diego Moreira é um ponta belga que chegou ao AC Milan vindo do RC Estrasburgo
-  em agosto de 2026, com contrato até 2031. Nascido em Liège em 6 de agosto de
-  2004, passou pelas categorias de base do Standard de Liège e do Benfica e joga
-  pela seleção belga desde que optou por ela em 2025.
+  em agosto de 2026, com contrato até 2031. Em 31 de outubro de 2026 deu duas
+  assistências e marcou de falta na vitória do Milan por 3 a 1 sobre a Inter.
+  Nascido em Liège em 6 de agosto de 2004, passou pelas categorias de base do
+  Standard de Liège e do Benfica e joga pela seleção belga desde que optou por
+  ela em 2025.
 status: published
 risk: medium
+publishedAt: '2026-11-02'
+publishedTime: '2026-11-02T22:23:49.543Z'
 reviewedAt: '2026-11-02'
 reviewBy: '2027-05-02'
 author: editor-in-chief
@@ -23,6 +27,7 @@ targetQueries:
   - diego moreira milan
   - diego moreira ac milan
   - diego moreira ac milan número
+  - diego moreira belgica
   - diego moreira chelsea
   - diego moreira é português
 faq:
@@ -42,11 +47,18 @@ faq:
     a: >-
       A beIN Sports informou 50 milhões de euros, mais 16 milhões em bônus. O
       comunicado do clube não informa o valor.
-autoReviews: 1
-publishedAt: '2026-11-02'
-publishedTime: '2026-11-02T09:33:14.613Z'
+  - q: Diego Moreira é português?
+    a: >-
+      Não, ele é belga. Passou pelas categorias de base de Portugal, e a FIFA
+      aprovou em maio de 2025 a troca de seleção para a Bélgica
+      [s:acmilan-moreira-statement] [s:dhnet-moreira-switch].
+autoReviews: 2
 ---
 Diego Moreira é um ponta belga contratado pelo AC Milan em agosto de 2026 [s:acmilan-moreira-statement]. O clube anunciou a chegada vinda do Estrasburgo no dia 19 de agosto, e o contrato vai até 30 de junho de 2031. Ele usa a camisa 22 [s:acmilan-moreira-statement]. A beIN Sports informou uma transferência de 50 milhões de euros, mais 16 milhões em bônus, por um contrato de cinco anos [s:bein-moreira-transfer]. O comunicado do clube não informa o valor [s:acmilan-moreira-statement].
+
+## Outubro de 2026: o derby
+
+O derby de Milão colocou o nome dele em evidência. Em 31 de outubro de 2026, um dia depois de sair a entrevista à Goal, o Milan venceu a Inter por 3 a 1 em San Siro [s:football-italia-milan-inter-2026] [s:theanalyst-milan-inter-2026]. Christian Pulisic cabeceou um cruzamento de Moreira aos 4 minutos, e Moreira deu o passe para o gol de Adrien Rabiot aos 10 [s:football-italia-milan-inter-2026] [s:theanalyst-milan-inter-2026]. Alessandro Bastoni diminuiu para a Inter, e aos 43 Moreira bateu uma falta de esquerda, de cerca de 25 metros, por cima da barreira, devolvendo ao Milan a vantagem de dois gols [s:theanalyst-milan-inter-2026] [s:football-italia-milan-inter-2026]. Segundo a Opta, foi apenas a terceira falta direta marcada por um jogador do Milan no derby desde que há dados, a partir da temporada 2004-05 [s:theanalyst-milan-inter-2026].
 
 ## Nascido em Liège, formado em duas academias
 
@@ -68,6 +80,6 @@ Em setembro de 2025 ele já disputava as primeiras partidas oficiais pela seleç
 
 ## O que ele diz sobre o nome e o Milan
 
-Em entrevista publicada pela Goal em 30 de outubro de 2026, concedida antes à DAZN, Moreira explicou o próprio nome: era o favorito da mãe, "também por causa de Diego Maradona" [s:goal-moreira-interview]. Ele diz que Cristiano Ronaldo é seu ídolo [s:goal-moreira-interview]. Ao falar do derby contra a Inter, disse que é "um dos jogos mais importantes da Europa" [s:goal-moreira-interview].
+Em entrevista publicada pela Goal em 30 de outubro de 2026, Moreira explicou o próprio nome: era o favorito da mãe, "também por causa de Diego Maradona" [s:goal-moreira-interview]. Ele diz que Cristiano Ronaldo é seu ídolo [s:goal-moreira-interview]. Ao falar do derby contra a Inter, disse que é "um dos jogos mais importantes da Europa" [s:goal-moreira-interview].
 
 Ele usa o 22 porque "gosto do 22" e afirmou que é uma honra seguir Kaká, que deixou sua marca no clube com esse número [s:goal-moreira-interview]. Perguntado se faria breakdance depois de marcar contra a Inter, respondeu que não: "Não quero me machucar" [s:goal-moreira-interview].

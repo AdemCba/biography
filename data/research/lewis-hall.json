@@ -1,0 +1,94 @@
+{
+  "worthWriting": true,
+  "reason": "Current England and Newcastle left-back with a Chelsea-to-Newcastle move, a 2026 contract and an England squad record that can be sourced from The FA and Newcastle United.",
+  "wikidata": "",
+  "importance": 3,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "fa-squad",
+      "url": "https://www.englandfootball.com/england/mens-senior-team/squad/Lewis-hall",
+      "title": "Lewis Hall, England men's senior squad profile",
+      "publisher": "The FA (England Football)",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "nufc-profile",
+      "url": "https://www.newcastleunited.com/en/teams/mens-team/lewis-hall",
+      "title": "Lewis Hall, first team profile",
+      "publisher": "Newcastle United",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "pl-permanent-move",
+      "url": "https://www.premierleague.com/news/4047929",
+      "title": "Newcastle sign Chelsea left-back Hall on permanent deal",
+      "publisher": "Premier League",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "beinsports-loan",
+      "url": "https://www.beinsports.com/en-au/football/premier-league/articles-video/promising-defender-lewis-hall-joins-newcastle-on-season-long-loan-from-chelsea-2023-08-22",
+      "title": "Promising defender Lewis Hall joins Newcastle on season-long loan from Chelsea",
+      "publisher": "beIN SPORTS",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "pa-injury",
+      "url": "https://www.waterford-news.ie/sport/national-sport/major-injury-blow-for-newcastle-and-england-with-lewis-hall-out-for-season_arid-50211.html",
+      "title": "Major injury blow for Newcastle and England with Lewis Hall out for season",
+      "publisher": "Waterford News (PA)",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "the-week-squad",
+      "url": "https://www.theweek.in/news/sports/2026/05/22/england-world-cup-squad-announcement-making-sense-of-tuchels-selections.amp.html",
+      "title": "England World Cup squad announcement: Making sense of Tuchel's selections",
+      "publisher": "The Week",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "beinsports-contract",
+      "url": "https://www.beinsports.com/en-us/soccer/premier-league/articles/hall-pens-long-term-newcastle-contract-2026-09-11",
+      "title": "Hall pens long-term Newcastle contract",
+      "publisher": "beIN SPORTS",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "2004-09-08",
+      "sources": [
+        "fa-squad",
+        "nufc-profile"
+      ],
+      "note": "The FA gives 08 September 2004; Newcastle gives 08.09.2004."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Slough, England",
+      "sources": [
+        "fa-squad"
+      ],
+      "note": "The FA squad profile gives Slough, England. Newcastle gives only the country of birth."
+    },
+    "nationality": null
+  },
+  "targetQueries": [
+    "lewis hall age",
+    "lewis hall newcastle",
+    "lewis hall chelsea",
+    "lewis hall contract",
+    "lewis hall stats",
+    "lewis hall academy",
+    "lewis hall england"
+  ],
+  "gapNote": "Search results are mostly transfer rumour and fan pages. The gap is a plain, sourced career summary: academy route, loan and permanent move, the 2026 contract, and England caps from The FA. Rumours about Manchester United and claims he wants back in the England squad are left out because they are not confirmed by an opened source."
+}

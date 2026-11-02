@@ -1,0 +1,222 @@
+{
+  "date": "2026-11-02",
+  "model": "claude-haiku-5-5",
+  "approved": false,
+  "reasons": [
+    "Prose reads machine-written",
+    "Adds no value over existing pages: Every dated fact checks out against primary or near-primary sources, but the body is a stats and timeline list with a citation tag on nearly every sentence, and the sentence rhythm is formulaic. The injury and World Cup sections add context only. Nothing here goes beyond the top search results (no correction, no primary source the others missed, no clearer timeline). The contract is press-only and undated in the body, and the FAQ and metaDescription state it without a hedge.",
+    "Reviewer recommends rejection: Facts check out against the opened sources (birth date, birthplace, caps, loan, permanent move, debut, injury, World Cup omission). Reject on style and value grounds, and because the unhedged press-only contract claim appears in the FAQ and metaDescription. Fixes: (1) hedge the contract as reported in the FAQ answer and metaDescription, and state it as undated, matching the body; (2) rewrite the prose so it reads as a person wrote it, with fewer per-sentence citation tags; (3) add something the top results lack (a clearer timeline, a primary-source detail, or a correction) or do not publish."
+  ],
+  "claims": [
+    {
+      "claim": "Lewis Hall is a left-back (body, summary, knownFor)",
+      "sourceIds": [
+        "the-week-squad"
+      ],
+      "verdict": "confirmed",
+      "note": "The Week (22 May 2026) calls him 'left-back Lewis Hall'."
+    },
+    {
+      "claim": "Lewis Hall plays for Newcastle United",
+      "sourceIds": [
+        "nufc-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Newcastle profile covers his permanent move to Tyneside and his club career at Newcastle; the FA page also lists Newcastle United FC as current club."
+    },
+    {
+      "claim": "Seven senior England caps, no goals",
+      "sourceIds": [
+        "fa-squad"
+      ],
+      "verdict": "confirmed",
+      "note": "FA profile: 'Senior caps: 7', 'Senior Goals: 0'."
+    },
+    {
+      "claim": "Born 8 September 2004",
+      "sourceIds": [
+        "fa-squad",
+        "nufc-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "FA: 08 September 2004 (22YRS). Newcastle: 08.09.2004."
+    },
+    {
+      "claim": "Born in Slough, England",
+      "sourceIds": [
+        "fa-squad"
+      ],
+      "verdict": "confirmed",
+      "note": "FA: 'Slough, England' as place of birth. Newcastle gives only country (England)."
+    },
+    {
+      "claim": "Age 22 as of 2 November 2026",
+      "sourceIds": [
+        "fa-squad"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic from 8 Sept 2004 gives 22 on 2 Nov 2026; FA page lists 22YRS."
+    },
+    {
+      "claim": "August 2023 season-long loan from Chelsea to Newcastle",
+      "sourceIds": [
+        "nufc-profile",
+        "beinsports-loan"
+      ],
+      "verdict": "confirmed",
+      "note": "Newcastle: 'initially joined the club on a season-long loan from Chelsea in August 2023'. beIN article (URL dated 2023-08-22) confirms season-long loan."
+    },
+    {
+      "claim": "Newcastle debut in an 8-0 win at Sheffield United in September 2023",
+      "sourceIds": [
+        "pl-permanent-move"
+      ],
+      "verdict": "confirmed",
+      "note": "Premier League article: 'Hall made his Newcastle debut in an 8-0 win at Sheffield United in September 2023'. Newcastle profile gives debut date 24.09.2023."
+    },
+    {
+      "claim": "22 appearances on loan",
+      "sourceIds": [
+        "nufc-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Newcastle profile: 'making 22 appearances' in 2023/24 loan spell. Premier League article also says 22 appearances."
+    },
+    {
+      "claim": "Newcastle signed him permanently from Chelsea, announced July 2024",
+      "sourceIds": [
+        "pl-permanent-move",
+        "nufc-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Premier League article dated 1 Jul 2024 announces permanent signing; Newcastle profile says permanent move in July 2024."
+    },
+    {
+      "claim": "Started every Premier League game from September 2024 until a foot injury ruled him out for the rest of the season",
+      "sourceIds": [
+        "pa-injury"
+      ],
+      "verdict": "confirmed",
+      "note": "PA (5 March 2025): 'starting every Premier League game since September'; out for 'the rest of the 2024/25 season'. Year inferred from season context, which is reasonable."
+    },
+    {
+      "claim": "The injury was to a bone in his foot",
+      "sourceIds": [
+        "pa-injury"
+      ],
+      "verdict": "confirmed",
+      "note": "PA: 'an injury to a bone in his foot'."
+    },
+    {
+      "claim": "PA called him one of Newcastle's most dependable players that season",
+      "sourceIds": [
+        "pa-injury"
+      ],
+      "verdict": "confirmed",
+      "note": "PA: 'one of Newcastle's most dependable players this season'."
+    },
+    {
+      "claim": "Hall has reportedly agreed a new long-term contract to stay at Newcastle (body)",
+      "sourceIds": [
+        "beinsports-contract"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN: 'has signed a long-term deal with the club'; length 'reportedly five years', unconfirmed. Body hedges correctly with 'reportedly'."
+    },
+    {
+      "claim": "107 appearances, eight assists and three goals for Newcastle (body)",
+      "sourceIds": [
+        "beinsports-contract"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN: 'He has played 107 times for Newcastle, providing eight assists and scoring three goals'. Source gives no date or competition breakdown; body does not claim one."
+    },
+    {
+      "claim": "Newcastle record of 107 appearances, eight assists, three goals stated in frontmatter or FAQ",
+      "sourceIds": [],
+      "verdict": "confirmed",
+      "note": "Not stated in frontmatter or FAQ; only in body. Listed for completeness."
+    },
+    {
+      "claim": "England named 2026 World Cup squad in May 2026 and Hall was not in it",
+      "sourceIds": [
+        "the-week-squad"
+      ],
+      "verdict": "confirmed",
+      "note": "The Week (22 May 2026) refers to 'the absence of Lewis Hall' from the squad list."
+    },
+    {
+      "claim": "Commentary: leaving out left-back Lewis Hall could prove a bigger mistake than omitting any higher-profile player",
+      "sourceIds": [
+        "the-week-squad"
+      ],
+      "verdict": "confirmed",
+      "note": "Standfirst: 'Not taking left-back Lewis Hall could prove to be a bigger mistake than the omission of any higher-profile player'."
+    },
+    {
+      "claim": "FAQ: 22 as of 2 November 2026, born 8 Sept 2004 [s:fa-squad]",
+      "sourceIds": [
+        "fa-squad"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches FA profile and arithmetic."
+    },
+    {
+      "claim": "FAQ: born in Slough, England [s:fa-squad]",
+      "sourceIds": [
+        "fa-squad"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches FA profile."
+    },
+    {
+      "claim": "FAQ: seven senior caps, no goals, per The FA [s:fa-squad]",
+      "sourceIds": [
+        "fa-squad"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches FA profile."
+    },
+    {
+      "claim": "FAQ: still at Newcastle; signed permanently from Chelsea July 2024; agreed new long-term contract [s:beinsports-contract]",
+      "sourceIds": [
+        "pl-permanent-move",
+        "beinsports-contract"
+      ],
+      "verdict": "confirmed",
+      "note": "Permanent signing confirmed. Contract is press-reported only; the FAQ states it without 'reportedly', while the body hedges it. Wording should match the body."
+    },
+    {
+      "claim": "metaDescription: 'has agreed a new long-term contract' (unhedged)",
+      "sourceIds": [
+        "beinsports-contract"
+      ],
+      "verdict": "confirmed",
+      "note": "beIN supports the agreement as reported; the unhedged wording in frontmatter overstates the press-only source slightly."
+    },
+    {
+      "claim": "summary: permanent signing from Chelsea July 2024 after a season-long loan; 7 caps, no goals",
+      "sourceIds": [
+        "pl-permanent-move",
+        "fa-squad"
+      ],
+      "verdict": "confirmed",
+      "note": "All supported by cited sources."
+    },
+    {
+      "claim": "person.json facts: birthDate 2004-09-08 and birthPlace Slough, England",
+      "sourceIds": [
+        "fa-squad",
+        "nufc-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Both match the opened sources."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": false,
+  "addsValue": false,
+  "valueNote": "Every dated fact checks out against primary or near-primary sources, but the body is a stats and timeline list with a citation tag on nearly every sentence, and the sentence rhythm is formulaic. The injury and World Cup sections add context only. Nothing here goes beyond the top search results (no correction, no primary source the others missed, no clearer timeline). The contract is press-only and undated in the body, and the FAQ and metaDescription state it without a hedge.",
+  "decision": "reject",
+  "summary": "Facts check out against the opened sources (birth date, birthplace, caps, loan, permanent move, debut, injury, World Cup omission). Reject on style and value grounds, and because the unhedged press-only contract claim appears in the FAQ and metaDescription. Fixes: (1) hedge the contract as reported in the FAQ answer and metaDescription, and state it as undated, matching the body; (2) rewrite the prose so it reads as a person wrote it, with fewer per-sentence citation tags; (3) add something the top results lack (a clearer timeline, a primary-source detail, or a correction) or do not publish."
+}

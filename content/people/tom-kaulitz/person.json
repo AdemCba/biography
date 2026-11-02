@@ -1,0 +1,91 @@
+{
+  "id": "tom-kaulitz",
+  "name": "Tom Kaulitz",
+  "categories": [
+    "artists"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1989-09-01",
+      "sources": [
+        "t-online-tom-kaulitz"
+      ],
+      "note": "t-online profile infobox: 'Geburtsdatum und Ort' 1 September 1989, Leipzig; 'Staatsbürgerschaft' Deutsch. Page shows no article date. Only source opened for birth and nationality."
+    },
+    "birthPlace": {
+      "value": "Leipzig, Germany",
+      "sources": [
+        "t-online-tom-kaulitz"
+      ],
+      "note": "t-online profile infobox: 'Geburtsdatum und Ort' 1 September 1989, Leipzig; 'Staatsbürgerschaft' Deutsch. Page shows no article date. Only source opened for birth and nationality."
+    },
+    "nationality": {
+      "value": [
+        "DE"
+      ],
+      "sources": [
+        "t-online-tom-kaulitz"
+      ],
+      "note": "t-online profile infobox: 'Geburtsdatum und Ort' 1 September 1989, Leipzig; 'Staatsbürgerschaft' Deutsch. Page shows no article date. Only source opened for birth and nationality."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "tokio-hotel-official",
+      "url": "https://www.tokiohotel.com/",
+      "title": "Tokio Hotel official website (tour dates, band)",
+      "publisher": "Tokio Hotel",
+      "type": "official",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "netflix-kaulitz-s3",
+      "url": "https://about.netflix.com/news/kaulitz-and-kaulitz-season-3",
+      "title": "Kaulitz & Kaulitz season 3 (Netflix Media Center)",
+      "publisher": "Netflix",
+      "type": "company",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "kino-de-kaulitz-s3",
+      "url": "https://www.kino.de/serie/kaulitz-kaulitz-staffel-3-startdatum-steht-fest-die-party-auf-netflix-geht-bald-weiter--01K2C4W904AYX5C28CGB8HPNPQ",
+      "title": "Kaulitz & Kaulitz Staffel 3 Startdatum steht fest",
+      "publisher": "kino.de",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "de"
+    },
+    {
+      "id": "rollingstone-de-berlin-2025",
+      "url": "https://www.rollingstone.de/tokio-hotel-17-000-fans-im-regen-und-ein-himmel-voller-drohnen-3049383/",
+      "title": "Tokio Hotel: 17.000 Fans im Regen und ein Himmel voller Drohnen",
+      "publisher": "Rolling Stone Deutschland",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "de"
+    },
+    {
+      "id": "t-online-tom-kaulitz",
+      "url": "https://www.t-online.de/themen/tom-kaulitz/",
+      "title": "Tom Kaulitz: Aktuelle News & Biografie (profile infobox)",
+      "publisher": "t-online",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "de"
+    },
+    {
+      "id": "rs-interview-2026",
+      "url": "https://www.rollingstone.de/tokio-hotel-das-grosse-rolling-stone-interview-3195569/",
+      "title": "Tokio Hotel: Das große ROLLING-STONE-Interview",
+      "publisher": "Rolling Stone Deutschland",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "de"
+    }
+  ]
+}

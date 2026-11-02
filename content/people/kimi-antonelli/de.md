@@ -8,28 +8,29 @@ metaDescription: >-
 knownFor: Italienischer Formel-1-Pilot bei Mercedes und Weltmeister 2026
 summary: >-
   Kimi Antonelli ist der italienische Formel-1-Pilot, der für Mercedes fährt. Er
-  holte sich die Weltmeisterschaft 2026 beim Großen Preis von Mexiko am
-  1. November 2026, als Dritter hinter Max Verstappen und Lewis Hamilton. Mit 20
+  holte sich die Weltmeisterschaft 2026 beim Großen Preis von Mexiko am 1.
+  November 2026, als Dritter hinter Max Verstappen und Lewis Hamilton. Mit 20
   Jahren und 68 Tagen ist er der jüngste Weltmeister der Formel-1-Geschichte.
+  Seit dem Titel hat Toto Wolff jene zurückgewiesen, die seine Beförderung zu
+  Mercedes bezweifelten.
 status: published
 risk: low
-publishedAt: '2026-11-01'
-updatedAt: '2026-11-02'
-reviewedAt: '2026-11-01'
-reviewBy: '2027-05-01'
+publishedAt: '2026-11-02'
+publishedTime: '2026-11-02T22:23:49.556Z'
+reviewedAt: '2026-11-02'
+reviewBy: '2027-05-02'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Kimi Antonelli
   - Kimi Antonelli Weltmeister
-  - Kimi Antonelli Meisterschaft
   - Kimi Antonelli Alter
-  - Kimi Antonelli Alter 2026
+  - Kimi Antonelli aktuell
+  - Kimi Antonelli age
+  - Kimi Antonelli Mercedes
   - Kimi Antonelli Großer Preis von Mexiko
   - Kimi Antonelli Großer Preis der USA
-  - Kimi Antonelli Mercedes
-  - Kimi Antonelli Vater Marco
 faq:
   - q: Hat Kimi Antonelli die Formel-1-Weltmeisterschaft 2026 gewonnen?
     a: >-
@@ -39,27 +40,10 @@ faq:
       er sich mit vier Rennen Vorsprung [s:skysports-mexico-title].
   - q: Wie alt ist Kimi Antonelli?
     a: >-
-      Er wurde am 25. August 2006 geboren [s:f1-driver-profile]. Als er den Titel
-      holte, war er 20 Jahre und 68 Tage alt, und damit der jüngste Weltmeister
-      der Formel-1-Geschichte [s:skysports-mexico-title].
-  - q: Hat Kimi Antonelli den Großen Preis der USA 2026 gewonnen?
-    a: >-
-      Ja. Er startete von der Pole Position und gewann am 25. Oktober 2026 in
-      Austin, sein neunter Grand-Prix-Sieg der Saison. Der Titel war damit noch
-      nicht entschieden, weil Russell und Hamilton nicht dort ins Ziel kamen, wo
-      sie hätten landen müssen.
-  - q: Woher stammt Kimi Antonelli?
-    a: >-
-      Er wurde in Bologna in Italien geboren und wuchs dort auf. Mit sieben
-      Jahren begann er im Kartsport, im Team seines Vaters, und 2019 wechselte
-      er in das Nachwuchsprogramm von Mercedes.
-  - q: Wer ist Kimi Antonellis Vater?
-    a: >-
-      Marco Antonelli ist ein früherer Rennfahrer, der sein eigenes
-      Motorsportteam Antonelli Motorsport leitet. Kimi fuhr als Kind für dieses
-      Team.
-autoReviews: 4
-publishedTime: '2026-11-01T21:38:16.080Z'
+      Er wurde am 25. August 2006 geboren [s:f1-driver-profile]. Als er den
+      Titel holte, war er 20 Jahre und 68 Tage alt, und damit der jüngste
+      Weltmeister der Formel-1-Geschichte [s:skysports-mexico-title].
+autoReviews: 5
 ---
 Kimi Antonelli gewann den Großen Preis der USA 2026 auf dem Circuit of the Americas in Austin am 25. Oktober 2026, nachdem er von der Pole Position gestartet war [s:f1-austin-race-report]. Autosport zählte den Sieg als seinen neunten Grand-Prix-Erfolg im Jahr 2026 [s:autosport-austin-report]. Mit 123 Punkten Vorsprung auf Russell führte er nun die Fahrerwertung an [s:skysports-austin-report]. Der Titel war nach dem Rennen aber noch nicht entschieden [s:f1-austin-race-report].
 
@@ -70,6 +54,8 @@ Kimi Antonelli wurde am 1. November 2026 beim Großen Preis von Mexiko Formel-1-
 Mit 20 Jahren und 68 Tagen ist er der jüngste Formel-1-Weltmeister der Geschichte [s:skysports-mexico-title] [s:fia-mexico-report]. Es ist sein erster Weltmeistertitel [s:f1-mexico-race-report]. Verstappens Sieg war sein dritter der Saison 2026 [s:f1-mexico-race-report].
 
 "We did it. And, you know, without them, I wouldn't be here. Without Mercedes, without my family", sagte Antonelli danach (Übersetzung des englischen Originalzitats) [s:f1-mexico-race-report]. Er sagte außerdem, er versuche noch zu verarbeiten, was gerade passiert sei [s:f1-mexico-race-report].
+
+Die Reaktionen gingen in den folgenden Tagen weiter. Toto Wolff sagte, die Beförderung sei "immer ein kalkuliertes Risiko, kein echtes Risiko" gewesen, und "es gab Zweifler" (Übersetzung) [s:f1-mexico-wolff-reaction]. Das Team habe ihm "weiterhin vertraut, und er hat geliefert" [s:f1-mexico-wolff-reaction]. Auf dem Podium nannte Antonelli es "wirklich unglaublich", es mit Max Verstappen und Lewis Hamilton zu teilen [s:planetf1-mexico-reaction]. Gegenüber Sky Sports sagte er, er habe in der letzten Runde durch die Tränen nichts sehen können [s:skysports-mexico-tears]. Er dankte seinem Renningenieur Peter Bonnington [s:skysports-mexico-tears]. Das nächste Rennen ist der Große Preis von São Paulo [s:skysports-mexico-tears].
 
 ## Austin und der Stand um den Titel
 
@@ -91,7 +77,7 @@ Mit sieben Jahren begann er im Kartsport, und zwar im Team seines Vaters [s:merc
 
 Im April 2019, mit 12 Jahren, trat Antonelli dem Mercedes Junior Programme bei [s:mercedes-driver-profile].
 
-Sein Einsitzer-Debüt gab er 2021 in der Formel 4 Italien und bei einem Lauf der Formel 4 UAE Championship Trophy [s:mercedes-everything]. 2022 gewann er die italienische Formel 4 und holte danach auch den Titel in der ADAC Formel 4 [s:mercedes-everything].
+Sein Einsitzer-Debüt gab er 2021 in der Formel 4 Italien und bei einem Lauf der Formel 4 UAE Championship Trophy [s:mercedes-everything]. Danach gewann er die italienische Formel 4 und auch den Titel in der ADAC Formel 4 [s:mercedes-everything].
 
 Im Jahr 2024 fuhr er für PREMA in der Formel 2. Er gewann in Silverstone und in Ungarn. Damit wurde er "der jüngste Mehrfachsieger in der Geschichte der Serie" [s:mercedes-everything]. Das Mercedes-Profil führt die Siege 2024 in Silverstone und Budapest ebenfalls auf [s:mercedes-driver-profile].
 
@@ -105,4 +91,4 @@ In Kanada wurde er Dritter und damit der drittjüngste Fahrer auf einem F1-Podiu
 
 Beim Großen Preis von China in Shanghai holte Antonelli die Pole Position, mit 19 Jahren, sechs Monaten und 17 Tagen. Damit war er der jüngste Pole-Setter in der Geschichte der Formel 1 [s:mercedes-everything]. Einen Tag später gewann er das Rennen. Das machte ihn zum zweitjüngsten Grand-Prix-Sieger aller Zeiten, hinter Max Verstappen. Außerdem war er der erste Italiener seit Giancarlo Fisichella beim Großen Preis von Malaysia 2006, der einen Grand Prix gewann [s:mercedes-everything].
 
-Das Profil der Formel 1 führt ihn mit 365 Punkten und neun Grand-Prix-Siegen 2026 an der Spitze der Wertung [s:f1-driver-profile]. Er ging als Tabellenführer nach Austin, und die Entscheidung fiel eine Woche später in Mexiko [s:f1-mexico-race-report].
+Das Profil der Formel 1 führt ihn mit neun Grand-Prix-Siegen 2026 an der Spitze der Wertung [s:f1-driver-profile]. Er ging als Tabellenführer nach Austin, und die Entscheidung fiel eine Woche später in Mexiko [s:f1-mexico-race-report].

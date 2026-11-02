@@ -8,11 +8,15 @@ metaDescription: >-
 knownFor: Ailier belge de l'AC Milan
 summary: >-
   Diego Moreira est un ailier belge arrivé à l'AC Milan depuis le RC Strasbourg
-  en août 2026, avec un contrat jusqu'en 2031. Né à Liège le 6 août 2004, il a
-  été formé au Standard de Liège et au Benfica, et joue pour la Belgique depuis
-  2025, après avoir choisi de jouer pour elle.
+  en août 2026, avec un contrat jusqu'en 2031. Le 31 octobre 2026, il a délivré
+  deux passes décisives et marqué sur coup franc lors de la victoire 3-1 du
+  Milan contre l'Inter. Né à Liège le 6 août 2004, il a été formé au Standard de
+  Liège et au Benfica, et joue pour la Belgique depuis 2025, après avoir choisi
+  de jouer pour elle.
 status: published
 risk: medium
+publishedAt: '2026-11-02'
+publishedTime: '2026-11-02T22:23:49.542Z'
 reviewedAt: '2026-11-02'
 reviewBy: '2027-05-02'
 author: editor-in-chief
@@ -24,6 +28,7 @@ targetQueries:
   - diego moreira ac milan
   - diego moreira ac milan numéro
   - diego moreira lyon
+  - diego moreira club
   - diego moreira transfert
   - diego moreira origine
   - diego moreira ancien club
@@ -44,11 +49,18 @@ faq:
     a: >-
       beIN Sports a rapporté 50 millions d'euros, plus 16 millions de bonus. Le
       communiqué du club ne précise pas le montant.
-autoReviews: 1
-publishedAt: '2026-11-02'
-publishedTime: '2026-11-02T09:33:14.612Z'
+  - q: Diego Moreira est-il portugais ?
+    a: >-
+      Non, il est belge. Il a évolué dans les équipes de jeunes du Portugal,
+      mais la FIFA a approuvé en mai 2025 son changement de fédération vers la
+      Belgique [s:acmilan-moreira-statement] [s:dhnet-moreira-switch].
+autoReviews: 2
 ---
 Diego Moreira est un ailier belge qui a rejoint l'AC Milan en août 2026 [s:acmilan-moreira-statement]. Le club a annoncé son arrivée depuis le RC Strasbourg le 19 août, et son contrat court jusqu'au 30 juin 2031. Il porte le numéro 22 [s:acmilan-moreira-statement]. beIN Sports a fait état d'un montant de 50 millions d'euros, plus 16 millions de bonus, pour un contrat de cinq ans [s:bein-moreira-transfer]. Le communiqué du club ne précise pas le montant [s:acmilan-moreira-statement]. Le reportage du club indique qu'il joue surtout sur le flanc gauche, mais peut aussi évoluer à droite, et qu'il a déjà joué latéral ou milieu offensif [s:acmilan-moreira-focus].
+
+## Octobre 2026 : le derby
+
+Le derby de Milan l'a placé sous les projecteurs. Le 31 octobre 2026, le lendemain de la publication de son entretien avec Goal, le Milan a battu l'Inter 3-1 à San Siro [s:football-italia-milan-inter-2026] [s:theanalyst-milan-inter-2026]. Christian Pulisic a repris de la tête un centre de Moreira à la 4e minute, et Moreira a délivré la passe décisive du but d'Adrien Rabiot à la 10e [s:football-italia-milan-inter-2026] [s:theanalyst-milan-inter-2026]. Alessandro Bastoni a réduit le score pour l'Inter, puis Moreira a frappé du gauche un coup franc d'environ 25 mètres, par-dessus le mur, à la 43e minute, rétablissant l'avance de deux buts [s:theanalyst-milan-inter-2026] [s:football-italia-milan-inter-2026]. Selon Opta, c'est la troisième fois seulement qu'un joueur du Milan marque sur coup franc direct dans le derby depuis le début des données, en 2004-2005 [s:theanalyst-milan-inter-2026].
 
 ## Né à Liège, formé entre Standard et Benfica
 
@@ -70,6 +82,6 @@ Dès septembre 2025, il fait ses premières apparitions officielles avec l'équi
 
 ## Ce qu'il dit de son prénom et de Milan
 
-Dans un entretien publié par Goal le 30 octobre 2026, initialement donné à DAZN, Moreira explique son prénom : c'était le préféré de sa mère, « aussi à cause de Diego Maradona » [s:goal-moreira-interview]. Il cite Cristiano Ronaldo comme son idole [s:goal-moreira-interview]. Interrogé sur le derby contre l'Inter, il le décrit comme « l'un des matchs les plus importants d'Europe » [s:goal-moreira-interview].
+Dans un entretien publié par Goal le 30 octobre 2026, Moreira explique son prénom : c'était le préféré de sa mère, « aussi à cause de Diego Maradona » [s:goal-moreira-interview]. Il cite Cristiano Ronaldo comme son idole [s:goal-moreira-interview]. Interrogé sur le derby contre l'Inter, il le décrit comme « l'un des matchs les plus importants d'Europe » [s:goal-moreira-interview].
 
 Il dit aimer le 22 et juge un honneur de succéder à Kaká, qui a laissé sa marque au club avec ce numéro [s:goal-moreira-interview]. Interrogé sur une éventuelle danse breakdance après un but contre l'Inter, il répond que non : « Je ne veux pas me blesser » [s:goal-moreira-interview].

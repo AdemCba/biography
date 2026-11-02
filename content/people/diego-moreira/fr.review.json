@@ -5,287 +5,218 @@
   "reasons": [],
   "claims": [
     {
-      "claim": "Belgian winger who joined AC Milan in August 2026",
+      "claim": "Ailier belge arrive a l'AC Milan depuis le RC Strasbourg en aout 2026, contrat jusqu'au 30 juin 2031, numero 22",
       "sourceIds": [
         "acmilan-moreira-statement"
       ],
       "verdict": "confirmed",
-      "note": "Statement dated 19 Aug 2026 announces the signing and calls him the Belgian winger."
+      "note": "Statement dated 19 Aug 2026."
     },
     {
-      "claim": "AC Milan announced the signing from RC Strasbourg on 19 August; contract until 30 June 2031",
+      "claim": "Le 31 octobre 2026, deux passes decisives et un but sur coup franc lors de la victoire 3-1 du Milan contre l'Inter",
       "sourceIds": [
-        "acmilan-moreira-statement"
+        "football-italia-milan-inter-2026",
+        "theanalyst-milan-inter-2026"
       ],
       "verdict": "confirmed",
-      "note": "Statement says signed from RC Strasbourg, contract to 30 June 2031."
+      "note": "Both report the result, two assists and the 43' free kick."
     },
     {
-      "claim": "Wears number 22",
-      "sourceIds": [
-        "acmilan-moreira-statement",
-        "goal-moreira-interview"
-      ],
-      "verdict": "confirmed",
-      "note": "Statement lists squad number 22; Goal interview confirms."
-    },
-    {
-      "claim": "beIN reported EUR 50m plus EUR 16m add-ons on a five-year contract",
+      "claim": "beIN a fait etat de 50 millions d'euros, plus 16 millions de bonus, pour un contrat de cinq ans",
       "sourceIds": [
         "bein-moreira-transfer"
       ],
       "verdict": "confirmed",
-      "note": "beIN: reported 50m deal, 16m add-ons, five-year contract."
+      "note": "beIN figures confirmed."
     },
     {
-      "claim": "The club statement gives no fee",
+      "claim": "Le communique du club ne precise pas le montant",
       "sourceIds": [
         "acmilan-moreira-statement"
       ],
       "verdict": "confirmed",
-      "note": "Statement gives no transfer fee."
+      "note": "No fee."
     },
     {
-      "claim": "Plays mainly on the left flank, can play right, has played wing-back, full-back and attacking midfielder",
+      "claim": "Joue surtout sur le flanc gauche, peut evoluer a droite, a deja joue lateral ou milieu offensif",
       "sourceIds": [
         "acmilan-moreira-focus"
       ],
       "verdict": "confirmed",
-      "note": "Milan feature says these things verbatim in substance."
+      "note": "Stated."
     },
     {
-      "claim": "Born in Liege on 6 August 2004",
+      "claim": "Ne a Liege le 6 aout 2004",
       "sourceIds": [
         "acmilan-moreira-statement",
         "wikidata-moreira"
       ],
       "verdict": "confirmed",
-      "note": "Both give 6 Aug 2004 and Liege."
+      "note": "Both."
     },
     {
-      "claim": "Full name Diego Manuel Jadon da Silva Moreira",
+      "claim": "Nom complet; pere Almami international de Guinee-Bissau et milieu du Standard; grand-pere Helmut Graf de 1976 a 1982 au Standard",
       "sourceIds": [
         "acmilan-moreira-focus"
       ],
       "verdict": "confirmed",
-      "note": "Milan feature gives the full name."
+      "note": "Stated."
     },
     {
-      "claim": "Father Almami was a Guinea-Bissau international and Standard Liege midfielder at his birth; grandfather Helmut Graf at Standard 1976-1982",
+      "claim": "Formation au Standard et au Benfica; arrivee a Benfica ete 2020 avec premier contrat pro",
       "sourceIds": [
+        "acmilan-moreira-statement",
         "acmilan-moreira-focus"
       ],
       "verdict": "confirmed",
-      "note": "Milan feature states these facts."
+      "note": "Stated."
     },
     {
-      "claim": "Left home at 15 to pursue football",
-      "sourceIds": [
-        "goal-moreira-interview"
-      ],
-      "verdict": "confirmed",
-      "note": "Goal: 'When I was 15, I left home and my mum for football.'"
-    },
-    {
-      "claim": "Came through the academies of Standard Liege and Benfica",
+      "claim": "Victoire en UEFA Youth League 2021-2022 avec les U19 du Benfica; Coupe intercontinentale des U20 quelques mois plus tard",
       "sourceIds": [
         "acmilan-moreira-statement"
       ],
       "verdict": "confirmed",
-      "note": "Statement says so."
+      "note": "Stated."
     },
     {
-      "claim": "Joined Benfica in summer 2020 and signed a first professional contract",
+      "claim": "Premiere apparition en Ligue des champions contre Midtjylland en aout 2022",
       "sourceIds": [
         "acmilan-moreira-focus"
       ],
       "verdict": "confirmed",
-      "note": "Milan feature says so."
+      "note": "Stated."
     },
     {
-      "claim": "Helped Benfica U19 win the UEFA Youth League in 2021/22",
-      "sourceIds": [
-        "acmilan-moreira-statement"
-      ],
-      "verdict": "confirmed",
-      "note": "Statement says 2021/22."
-    },
-    {
-      "claim": "Lifted the Under-20 Intercontinental Cup a few months later",
-      "sourceIds": [
-        "acmilan-moreira-statement"
-      ],
-      "verdict": "confirmed",
-      "note": "Statement: a few months afterwards."
-    },
-    {
-      "claim": "Champions League debut in a qualifier against Midtjylland in August 2022",
+      "claim": "Chelsea le recrute a l'ete 2023; debuts en Carabao Cup face a AFC Wimbledon en aout",
       "sourceIds": [
         "acmilan-moreira-focus"
       ],
       "verdict": "confirmed",
-      "note": "Milan feature says so."
+      "note": "Stated."
     },
     {
-      "claim": "Chelsea signed him in summer 2023; first-team debut in August, Carabao Cup vs AFC Wimbledon",
+      "claim": "Pret a l'Olympique lyonnais en 2023-2024, neuf matchs, retour en janvier 2024",
+      "sourceIds": [
+        "acmilan-moreira-focus"
+      ],
+      "verdict": "confirmed",
+      "note": "Loan season implied."
+    },
+    {
+      "claim": "Rejoint definitivement le RC Strasbourg a l'ete 2024",
+      "sourceIds": [
+        "acmilan-moreira-statement"
+      ],
+      "verdict": "confirmed",
+      "note": "'permanent move'."
+    },
+    {
+      "claim": "76 matchs et sept buts en deux saisons; passes decisives 15 (beIN) et 16 (Milan)",
+      "sourceIds": [
+        "bein-moreira-transfer",
+        "acmilan-moreira-focus"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Deux matchs avec les U15 belges avant de choisir le Portugal",
+      "sourceIds": [
+        "dhnet-moreira-switch"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Equipes de jeunes portugaises et Euro espoirs 2023",
+      "sourceIds": [
+        "acmilan-moreira-statement"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "En mai 2025, l'instance approuve le changement de federation du Portugal vers la Belgique",
+      "sourceIds": [
+        "dhnet-moreira-switch"
+      ],
+      "verdict": "confirmed",
+      "note": "DH reports the change as validated, 20 May 2025."
+    },
+    {
+      "claim": "Des septembre 2025, premieres apparitions officielles avec l'equipe A; seule apparition en Coupe du monde en entree contre le Senegal",
       "sourceIds": [
         "acmilan-moreira-focus",
-        "acmilan-moreira-statement"
-      ],
-      "verdict": "confirmed",
-      "note": "Both confirm the summer 2023 signing and Carabao Cup debut."
-    },
-    {
-      "claim": "Loan at Olympique Lyonnais in 2023/24: nine appearances in Ligue 1 and Coupe de France, returned January 2024",
-      "sourceIds": [
-        "acmilan-moreira-focus"
-      ],
-      "verdict": "confirmed",
-      "note": "Milan feature says so."
-    },
-    {
-      "claim": "Moved permanently to RC Strasbourg in summer 2024",
-      "sourceIds": [
-        "acmilan-moreira-statement"
-      ],
-      "verdict": "confirmed",
-      "note": "Statement says so."
-    },
-    {
-      "claim": "76 appearances and seven goals at Strasbourg",
-      "sourceIds": [
-        "bein-moreira-transfer",
-        "acmilan-moreira-focus"
-      ],
-      "verdict": "confirmed",
-      "note": "Both give 76 appearances and seven goals."
-    },
-    {
-      "claim": "Assist totals differ: 15 (beIN) and 16 (AC Milan feature)",
-      "sourceIds": [
-        "bein-moreira-transfer",
-        "acmilan-moreira-focus"
-      ],
-      "verdict": "confirmed",
-      "note": "Sources disagree; both cited, which matches the page."
-    },
-    {
-      "claim": "Led Strasbourg in chances created (66)",
-      "sourceIds": [
         "bein-moreira-transfer"
       ],
       "verdict": "confirmed",
-      "note": "beIN: led Strasbourg in chances created (66)."
+      "note": "Stated."
     },
     {
-      "claim": "Helped side come close to the Conference League final; dedicated player with a strong work ethic",
+      "claim": "Partage le vestiaire avec Saelemaekers et De Winter",
       "sourceIds": [
         "acmilan-moreira-focus"
       ],
       "verdict": "confirmed",
-      "note": "Milan feature says both things."
+      "note": "Stated."
     },
     {
-      "claim": "Played two Under-15 matches for Belgium before choosing Portugal",
+      "claim": "Entretien publie par Goal le 30 octobre 2026; prenom choisi aussi a cause de Diego Maradona; Cristiano Ronaldo idole; derby 'l'un des matchs les plus importants d'Europe'",
       "sourceIds": [
+        "goal-moreira-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted. DAZN detail removed."
+    },
+    {
+      "claim": "Aime le 22; honneur de succeder a Kaka; reponse breakdance 'Je ne veux pas me blesser'",
+      "sourceIds": [
+        "goal-moreira-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted."
+    },
+    {
+      "claim": "Derby du 31 octobre: Pulisic de la tete a la 4e minute sur centre de Moreira; passe decisive pour Rabiot a la 10e",
+      "sourceIds": [
+        "football-italia-milan-inter-2026",
+        "theanalyst-milan-inter-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed by both."
+    },
+    {
+      "claim": "Bastoni reduit le score; coup franc de Moreira d'environ 25 metres a la 43e; selon Opta, troisieme coup franc direct d'un joueur milanais dans le derby depuis 2004-2005",
+      "sourceIds": [
+        "theanalyst-milan-inter-2026",
+        "football-italia-milan-inter-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "FAQ: non, il est belge; FIFA approuve en mai 2025 le changement vers la Belgique",
+      "sourceIds": [
+        "acmilan-moreira-statement",
         "dhnet-moreira-switch"
       ],
       "verdict": "confirmed",
-      "note": "DH article: two U15 youth matches."
+      "note": "Belgian per club statement; change per DH."
     },
     {
-      "claim": "Played for Portugal youth teams and at the 2023 U21 European Championship",
+      "claim": "FAQ: 22 ans au 2 novembre 2026",
       "sourceIds": [
         "acmilan-moreira-statement"
       ],
       "verdict": "confirmed",
-      "note": "Statement says so."
-    },
-    {
-      "claim": "In May 2025 the governing body approved the change of association from Portugal to Belgium",
-      "sourceIds": [
-        "dhnet-moreira-switch"
-      ],
-      "verdict": "confirmed",
-      "note": "DH article dated 20 May 2025 reports the approval; it attributes it to UEFA while the headline says FIFA, so the page says governing body."
-    },
-    {
-      "claim": "First competitive senior appearances by September 2025, in World Cup 2026 qualifiers and friendlies",
-      "sourceIds": [
-        "acmilan-moreira-focus"
-      ],
-      "verdict": "confirmed",
-      "note": "Milan feature says so."
-    },
-    {
-      "claim": "Only World Cup 2026 appearance: substitute in the round-of-32 win over Senegal",
-      "sourceIds": [
-        "bein-moreira-transfer"
-      ],
-      "verdict": "confirmed",
-      "note": "beIN: one World Cup appearance, off the bench, round of 32 vs Senegal."
-    },
-    {
-      "claim": "Shared a dressing room with Alexis Saelemaekers and Koni De Winter at the World Cup",
-      "sourceIds": [
-        "acmilan-moreira-focus"
-      ],
-      "verdict": "confirmed",
-      "note": "Milan feature says so."
-    },
-    {
-      "claim": "Goal interview published 30 October 2026, first given to DAZN",
-      "sourceIds": [
-        "goal-moreira-interview"
-      ],
-      "verdict": "confirmed",
-      "note": "Goal: published Oct 30, 2026; originally given to DAZN."
-    },
-    {
-      "claim": "Name chosen as his mother's favourite, 'also because of Diego Maradona'",
-      "sourceIds": [
-        "goal-moreira-interview"
-      ],
-      "verdict": "confirmed",
-      "note": "Goal: 'It was her favourite name, also because of Diego Maradona.'"
-    },
-    {
-      "claim": "Cristiano Ronaldo is his idol",
-      "sourceIds": [
-        "goal-moreira-interview"
-      ],
-      "verdict": "confirmed",
-      "note": "Goal: 'Cristiano Ronaldo is my idol.'"
-    },
-    {
-      "claim": "The derby is one of the most important matches in Europe",
-      "sourceIds": [
-        "goal-moreira-interview"
-      ],
-      "verdict": "confirmed",
-      "note": "Goal: 'The derby is one of the most important matches in Europe.'"
-    },
-    {
-      "claim": "Likes number 22; an honour to follow Kaka",
-      "sourceIds": [
-        "goal-moreira-interview"
-      ],
-      "verdict": "confirmed",
-      "note": "Goal: 'But I like 22.' and the honour sentence about Kaka."
-    },
-    {
-      "claim": "Breakdance answer: 'I don't want to get injured'",
-      "sourceIds": [
-        "goal-moreira-interview"
-      ],
-      "verdict": "confirmed",
-      "note": "Goal: 'No, I don't want to get injured'."
+      "note": "From DOB."
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "Puts the Milan transfer, the 2025 switch from Portugal to Belgium and the interview quotes in one dated, cited page, and flags the two conflicting assist totals.",
+  "valueNote": "Adds the October 2026 derby, sourced to two match reports including Opta data, which the older pages lack.",
   "decision": "approve",
-  "summary": "All checked claims match the opened sources; the assist totals are cited from both sources and the Maradona quote is worded as in the interview."
+  "summary": "All body and FAQ claims checked against sources; the DAZN detail was removed and the free kick now cites both match reports."
 }

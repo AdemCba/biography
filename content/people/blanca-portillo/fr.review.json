@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-02",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 15 June 1963",
+      "sourceIds": [
+        "ecartelera-portillo",
+        "sensacine-portillo-biografia"
+      ],
+      "verdict": "confirmed",
+      "note": "eCartelera gives 15 June 1963 and Madrid; SensaCine biography gives 15 June 1963 (no birthplace there)."
+    },
+    {
+      "claim": "Born in Madrid",
+      "sourceIds": [
+        "ecartelera-portillo"
+      ],
+      "verdict": "confirmed",
+      "note": "eCartelera personas page states born in Madrid."
+    },
+    {
+      "claim": "17 films and 11 series across 29 years (active 1996 to 2025)",
+      "sourceIds": [
+        "ecartelera-portillo"
+      ],
+      "verdict": "confirmed",
+      "note": "eCartelera: 28 titles, 17 films and 11 series; active 1996 to 2025."
+    },
+    {
+      "claim": "Stage debut at 17 with an amateur group",
+      "sourceIds": [
+        "seminci-espiga-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Seminci press release: debuted with an amateur group at 17."
+    },
+    {
+      "claim": "Trained at RESAD; first review in Diario 16 mid-1980s",
+      "sourceIds": [
+        "seminci-homenaje-portillo"
+      ],
+      "verdict": "confirmed",
+      "note": "Seminci tribute: RESAD, then professional work; first review in Diario 16, mid-eighties."
+    },
+    {
+      "claim": "1998 Premio Unión de Actores, Best Supporting Actress (theatre), Eslavos",
+      "sourceIds": [
+        "sensacine-portillo-biografia"
+      ],
+      "verdict": "confirmed",
+      "note": "SensaCine biography states the 1998 award for Eslavos."
+    },
+    {
+      "claim": "Juan Mayorga, Tomaž Pandur, Life Is a Dream (Helena Pimenta), Saint Teresa (Paula Ortiz)",
+      "sourceIds": [
+        "seminci-homenaje-portillo"
+      ],
+      "verdict": "confirmed",
+      "note": "All four stated in Seminci tribute."
+    },
+    {
+      "claim": "Film debut Rojas (Azucena Rodríguez), 1995",
+      "sourceIds": [
+        "sensacine-portillo"
+      ],
+      "verdict": "confirmed",
+      "note": "SensaCine: film debut Rojas, Azucena Rodríguez, 1995."
+    },
+    {
+      "claim": "1998 Goya nomination, Best New Actress, El color de las nubes",
+      "sourceIds": [
+        "sensacine-portillo-biografia"
+      ],
+      "verdict": "confirmed",
+      "note": "SensaCine biography: nominated 1998, Mejor Actriz Revelación, El color de las nubes."
+    },
+    {
+      "claim": "Roles: Mercedes San Román (La chispa de la vida), Cuca (Elsa & Fred), María Luisa de Parma (Los fantasmas de Goya), Carlota Pérez (7 Vidas), Rosa Ballester (Acusados)",
+      "sourceIds": [
+        "ecartelera-filmografia"
+      ],
+      "verdict": "confirmed",
+      "note": "eCartelera filmography lists each role."
+    },
+    {
+      "claim": "Series 7 Vidas 1999-2006, Hospital Central 2000-2012, Cuéntame 2001-2023",
+      "sourceIds": [
+        "ecartelera-portillo"
+      ],
+      "verdict": "confirmed",
+      "note": "eCartelera lists these year ranges."
+    },
+    {
+      "claim": "Concepción Arenal TV film; no broadcast year given; role centres on protecting women prisoners",
+      "sourceIds": [
+        "ecartelera-filmografia"
+      ],
+      "verdict": "confirmed",
+      "note": "Source gives no year; describes the role as focused on protecting female inmates. Century/'writer' descriptor removed."
+    },
+    {
+      "claim": "Volver (2006) as breakthrough; Broken Embraces co-star; Cannes prize to female cast of Volver",
+      "sourceIds": [
+        "seminci-homenaje-portillo"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: after she nailed her first supporting role in Volver, Almodóvar cast her in Broken Embraces; Cannes award to entire female cast of Volver."
+    },
+    {
+      "claim": "Premio Unión de Actores 2001 Best TV Actress for 7 Vidas",
+      "sourceIds": [
+        "sensacine-portillo"
+      ],
+      "verdict": "confirmed",
+      "note": "SensaCine: 2001 Best TV Actress for 7 Vidas."
+    },
+    {
+      "claim": "Max Awards 2002 (Madre, el drama padre) and 2004 (Como en las mejores familias)",
+      "sourceIds": [
+        "sensacine-portillo"
+      ],
+      "verdict": "confirmed",
+      "note": "SensaCine lists both."
+    },
+    {
+      "claim": "2007 San Sebastián best actress for Siete mesas de billar francés; Corral de Comedias Award at Almagro",
+      "sourceIds": [
+        "seminci-homenaje-portillo"
+      ],
+      "verdict": "confirmed",
+      "note": "Seminci tribute lists both."
+    },
+    {
+      "claim": "Maixabel (2021), dir. Icíar Bollaín, brought her the Goya",
+      "sourceIds": [
+        "seminci-espiga-2023",
+        "ecartelera-portillo"
+      ],
+      "verdict": "confirmed",
+      "note": "Seminci press release: Maixabel by Iciar Bollain, for which she won the Goya."
+    },
+    {
+      "claim": "Won Goya for Best Lead Actress for Maixabel at the 2022 ceremony",
+      "sourceIds": [
+        "espinof-goya-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Espinof: 'se ha llevado su primer Goya por Maixabel', Goya 2022. Article also later mentions another film; the Maixabel sentence is what is cited."
+    },
+    {
+      "claim": "Alicante Premio de Honor, 15th edition, announced February 2018",
+      "sourceIds": [
+        "officialpress-alicante-2018"
+      ],
+      "verdict": "confirmed",
+      "note": "Official Press dated 19 Feb 2018; Premio de Honor of XV edition for Blanca Portillo."
+    },
+    {
+      "claim": "Espiga de Honor 2023, Seminci 68th edition; press release 23 October 2023",
+      "sourceIds": [
+        "seminci-espiga-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Press release dated Monday 23 October 2023; 68th Seminci; career on stage and behind the screen."
+    },
+    {
+      "claim": "Teresa (2023) and Escape (2024) release dates; Parot (2021) and La Fortuna (2021)",
+      "sourceIds": [
+        "sensacine-portillo",
+        "ecartelera-portillo"
+      ],
+      "verdict": "confirmed",
+      "note": "SensaCine: Teresa 24 Nov 2023, Escape 31 Oct 2024; eCartelera lists Parot and La Fortuna 2021."
+    },
+    {
+      "claim": "Age 63 as of 2 November 2026",
+      "sourceIds": [
+        "ecartelera-portillo"
+      ],
+      "verdict": "confirmed",
+      "note": "Derived from confirmed birth date 15 June 1963."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Dated timeline of honours and roles from primary festival sources (Seminci, Alicante) that the usual top results lack.",
+  "decision": "approve",
+  "summary": "All checked claims confirmed by opened sources; Concepción Arenal descriptor and 'know her best' claim were corrected."
+}

@@ -10,26 +10,26 @@ summary: >-
   Kimi Antonelli is the Italian Formula 1 driver who races for Mercedes. He won
   the 2026 world championship at the Mexico City Grand Prix on 1 November 2026,
   finishing third behind Max Verstappen and Lewis Hamilton. At 20 years and 68
-  days, he is the youngest world champion in Formula 1 history.
+  days, he is the youngest world champion in Formula 1 history. Since the title,
+  Toto Wolff has hit back at those who doubted his promotion to Mercedes.
 status: published
 risk: low
-publishedAt: '2026-11-01'
-updatedAt: '2026-11-02'
-reviewedAt: '2026-11-01'
-reviewBy: '2027-05-01'
+publishedAt: '2026-11-02'
+publishedTime: '2026-11-02T22:23:49.556Z'
+reviewedAt: '2026-11-02'
+reviewBy: '2027-05-02'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Kimi Antonelli
   - Kimi Antonelli world champion
+  - Kimi Antonelli world championship
   - Kimi Antonelli championship
   - Kimi Antonelli age
   - Kimi Antonelli age 2026
-  - Kimi Antonelli Mexico City Grand Prix
-  - Kimi Antonelli United States Grand Prix
   - Kimi Antonelli Mercedes
-  - Kimi Antonelli father Marco
+  - Kimi Antonelli Mexico City Grand Prix
 faq:
   - q: Did Kimi Antonelli win the 2026 world championship?
     a: >-
@@ -39,25 +39,10 @@ faq:
       it with four rounds to spare [s:skysports-mexico-title].
   - q: How old is Kimi Antonelli?
     a: >-
-      He was born on 25 August 2006 [s:f1-driver-profile]. He was 20 years and 68
-      days old when he won the title, the youngest world champion in Formula 1
-      history [s:skysports-mexico-title].
-  - q: Did Kimi Antonelli win the 2026 United States Grand Prix?
-    a: >-
-      Yes. He started from pole and won at Austin on 25 October 2026, his ninth
-      Grand Prix win of the season, but the drivers' title was not clinched
-      there because Russell and Hamilton did not finish where they needed to.
-  - q: Where is Kimi Antonelli from?
-    a: >-
-      He was born in Bologna, Italy, and grew up there, starting karting at
-      seven in his father's team before moving to Mercedes' junior programme in
-      2019.
-  - q: Who is Kimi Antonelli's father?
-    a: >-
-      Marco Antonelli is a former racing driver who runs his own motorsport
-      team, Antonelli Motorsport, for whose team he raced as a boy.
-autoReviews: 4
-publishedTime: '2026-11-01T21:38:16.079Z'
+      He was born on 25 August 2006 [s:f1-driver-profile]. He was 20 years and
+      68 days old when he won the title, the youngest world champion in Formula
+      1 history [s:skysports-mexico-title].
+autoReviews: 5
 ---
 Kimi Antonelli won the 2026 United States Grand Prix at the Circuit of the Americas in Austin on 25 October 2026, starting from pole [s:f1-austin-race-report]. Autosport counted it as his ninth Grand Prix win of 2026 [s:autosport-austin-report]. The result put him at the top of the drivers' championship. The title was still open [s:f1-austin-race-report].
 
@@ -68,6 +53,8 @@ Kimi Antonelli won the 2026 Formula 1 world championship at the Mexico City Gran
 He is 20 years and 68 days old, the youngest Formula 1 world champion in the sport's history [s:skysports-mexico-title] [s:fia-mexico-report]. It is his first world title [s:f1-mexico-race-report]. Verstappen's win was his third of the 2026 season [s:f1-mexico-race-report].
 
 "We did it. And, you know, without them, I wouldn't be here. Without Mercedes, without my family," Antonelli said afterwards [s:f1-mexico-race-report]. He also said he was "trying to process what has just happened" [s:f1-mexico-race-report].
+
+The reaction continued over the following days. Toto Wolff said the promotion had been "always a calculated risk, not a real risk", and that "people were doubters" [s:f1-mexico-wolff-reaction]. He said the team "continued to trust him and he delivered" [s:f1-mexico-wolff-reaction]. On the podium, Antonelli called sharing it with Max Verstappen and Lewis Hamilton "truly incredible" [s:planetf1-mexico-reaction]. He told Sky Sports that he could not see through his tears on the final lap [s:skysports-mexico-tears]. He thanked his race engineer, Peter Bonnington [s:skysports-mexico-tears]. The next round is the São Paulo Grand Prix [s:skysports-mexico-tears].
 
 ## Pole, the win and the gap to the title
 
@@ -91,9 +78,9 @@ Antonelli joined the Mercedes Junior Programme in April 2019, aged 12 [s:mercede
 
 ## Single-seaters and Formula 2
 
-His single-seater debut came in 2021, in the Italian F4 and Formula 4 UAE Championship Trophy round [s:mercedes-everything]. He won the Italian F4 title in 2022. He went on to claim the ADAC Formula 4 title too [s:mercedes-everything].
+His single-seater debut came in 2021, in the Italian F4 and Formula 4 UAE Championship Trophy round [s:mercedes-everything]. He went on to win the Italian F4 title and the ADAC Formula 4 title [s:mercedes-everything].
 
-In 2024 he raced in Formula 2 with PREMA. He won the sprint race at Silverstone, then the race in Hungary two weeks later, "becoming the youngest multiple winner in series history" [s:mercedes-everything]. Mercedes' own profile lists those 2024 wins at Silverstone and Budapest [s:mercedes-driver-profile].
+In 2024 he raced in Formula 2 with PREMA. He won the sprint race at Silverstone, then the race in Hungary, "becoming the youngest multiple winner in series history" [s:mercedes-everything]. Mercedes' own profile lists those 2024 wins at Silverstone and Budapest [s:mercedes-driver-profile].
 
 ## Debut season in 2025
 
@@ -105,4 +92,4 @@ He finished third in Canada, which made him the third-youngest driver to stand o
 
 Antonelli took pole for the Chinese Grand Prix in Shanghai at 19 years, six months and 17 days old, the youngest Grand Prix polesitter in the sport's history [s:mercedes-everything]. A day later he won the race, becoming the second-youngest Grand Prix winner of all time, behind Max Verstappen [s:mercedes-everything]. He was the first Italian to win a Grand Prix since Giancarlo Fisichella at the 2006 Malaysian Grand Prix [s:mercedes-everything].
 
-The Formula 1 driver profile lists him first in the championship with 365 points and nine Grand Prix wins for 2026 [s:f1-driver-profile]. The Austin win was the ninth of those wins [s:autosport-austin-report]. Going into the race he was already the championship leader. He settled the title a week later, at the Mexico City Grand Prix [s:f1-mexico-race-report].
+The Formula 1 driver profile lists him first in the championship with nine Grand Prix wins for 2026 [s:f1-driver-profile]. The Austin win was the ninth of those wins [s:autosport-austin-report]. Going into the race he was already the championship leader. He settled the title a week later, at the Mexico City Grand Prix [s:f1-mexico-race-report].

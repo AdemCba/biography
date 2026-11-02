@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-02",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 13 February 1991 in Pau, Pyrénées-Atlantiques",
+      "sourceIds": [
+        "offi-vianney"
+      ],
+      "verdict": "confirmed",
+      "note": "Source gives \"Date de naissance : 13 février 1991\" and \"Lieu de naissance : Pau, Pyrénées-Atlantiques\"."
+    },
+    {
+      "claim": "Age 35 as of November 2026",
+      "sourceIds": [
+        "offi-vianney"
+      ],
+      "verdict": "confirmed",
+      "note": "Computed from the confirmed birth date; 35 on 2 November 2026."
+    },
+    {
+      "claim": "First album \"Idées blanches\" released in 2014",
+      "sourceIds": [
+        "offi-vianney"
+      ],
+      "verdict": "confirmed",
+      "note": "Source lists the album, released October 2014."
+    },
+    {
+      "claim": "Stepped back from the media in June 2025",
+      "sourceIds": [
+        "purepeople-cabane-liberte"
+      ],
+      "verdict": "confirmed",
+      "note": "Source says the retreat was announced in June 2025."
+    },
+    {
+      "claim": "During the break he built a wooden cabin in the forest over about nine months",
+      "sourceIds": [
+        "purepeople-cabane-liberte",
+        "parismatch-be-tournee-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source says he built a wooden cabin alone in nature; Paris Match says nine months."
+    },
+    {
+      "claim": "He became a carpenter / needed to become a bit of a carpenter to relearn singing",
+      "sourceIds": [
+        "purepeople-cabane-liberte",
+        "parismatch-be-tournee-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted \"Peut-être qu'il faut que je sois un peu charpentier\"; Paris Match says he \"s'est mué en charpentier\"."
+    },
+    {
+      "claim": "Cabin finished in April 2026",
+      "sourceIds": [
+        "rtbf-tournee-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "RTBF: project completed after nine months, \"en avril dernier\"."
+    },
+    {
+      "claim": "Cabin now used as recording studio",
+      "sourceIds": [
+        "parismatch-be-tournee-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Paris Match: it \"lui sert désormais de studio d'enregistrement\"."
+    },
+    {
+      "claim": "Stayed in the cabin a full month to write and record",
+      "sourceIds": [
+        "purepeople-construire-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted: \"posé ses valises dans ce refuge pendant un mois entier\"."
+    },
+    {
+      "claim": "Recorded with no computer, only instruments and an old tape recorder",
+      "sourceIds": [
+        "purepeople-construire-2026",
+        "parismatch-be-single-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted: \"Pas d'ordinateur. Juste mes instruments et un vieux magnétophone à bandes magnétiques.\""
+    },
+    {
+      "claim": "Single \"D'or et d'étain\" written and recorded in the cabin",
+      "sourceIds": [
+        "parismatch-be-single-2026",
+        "purepeople-construire-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted: \"À lire, écrire et enregistrer. Cette nouvelle chanson notamment.\""
+    },
+    {
+      "claim": "Warned fans the result would not be perfect but human",
+      "sourceIds": [
+        "purepeople-construire-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted: \"ce ne sera pas parfait, mais ce sera parfaitement humain\"."
+    },
+    {
+      "claim": "Single released Friday 28 August 2026 at 00:01",
+      "sourceIds": [
+        "parismatch-be-single-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated Monday 24 August 2026 says release \"ce vendredi à minuit et une minute\"."
+    },
+    {
+      "claim": "Song described as a love song mixing melancholy and hope",
+      "sourceIds": [
+        "purepeople-cabane-liberte"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: \"Une déclaration d'amour teintée de mélancolie\", positive note at chorus end."
+    },
+    {
+      "claim": "Vianney said he had been chasing a freedom he needed to find again",
+      "sourceIds": [
+        "purepeople-cabane-liberte"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted: \"J'ai couru après une liberté qu'il me fallait retrouver\"."
+    },
+    {
+      "claim": "Tour announced Monday 25 May 2026 in an Instagram video with a cardboard map of France",
+      "sourceIds": [
+        "rtbf-tournee-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "RTBF describes the Instagram video and map; dated Monday 25 May."
+    },
+    {
+      "claim": "Presale opened 27 May 2026; general sale Friday 29 May 2026 at 10:00",
+      "sourceIds": [
+        "purepeople-tournee-2026",
+        "stephanelarue-tournee-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources give 27 May presale and Friday 29 May 10h general sale."
+    },
+    {
+      "claim": "Tour opens in Reims on 24 March 2027",
+      "sourceIds": [
+        "sortiraparis-zenith-paris-2027"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: \"On March 24, 2027, in Reims\"."
+    },
+    {
+      "claim": "Three Paris Zénith La Villette dates on 8, 9 and 10 April 2027",
+      "sourceIds": [
+        "sortiraparis-zenith-paris-2027",
+        "purepeople-tournee-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources list 8, 9, 10 April 2027 at the Zénith de La Villette."
+    },
+    {
+      "claim": "Geneva on 18 November 2027",
+      "sourceIds": [
+        "stephanelarue-tournee-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source list: \"18 Genève\" in November 2027."
+    },
+    {
+      "claim": "Brussels on 1 December 2027 at the ING Arena",
+      "sourceIds": [
+        "rtbf-tournee-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: \"le 1er décembre 2027 à l'ING Arena\"."
+    },
+    {
+      "claim": "About 40 dates announced",
+      "sourceIds": [
+        "parismatch-be-tournee-2026",
+        "rtbf-tournee-2026",
+        "purepeople-tournee-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Paris Match and RTBF say 40; Pure People says \"près de 40 villes\". Presented as a disagreement with Stéphane Larue."
+    },
+    {
+      "claim": "Stéphane Larue reports more than 50 dates in France, Belgium and Switzerland",
+      "sourceIds": [
+        "stephanelarue-tournee-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: \"Plus de 50 dates en France, Belgique et Suisse\"."
+    },
+    {
+      "claim": "Final date 24 March 2028 in Narbonne",
+      "sourceIds": [
+        "parismatch-be-tournee-2026",
+        "sortiraparis-zenith-paris-2027",
+        "purepeople-tournee-2026",
+        "stephanelarue-tournee-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Paris Match, Sortiraparis, Pure People and Stéphane Larue give 24 March 2028 in Narbonne (Sortiraparis gives Narbonne)."
+    },
+    {
+      "claim": "RTBF gives 18 March 2028 as the final date",
+      "sourceIds": [
+        "rtbf-tournee-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: tour runs to \"le 18 mars de l'année suivante, en 2028\"."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Gives a dated timeline from the break to the tour and states where sources disagree on the tour count and end date, with both citations.",
+  "decision": "approve",
+  "summary": "All checked claims are confirmed by opened sources. Removed an unconfirmed 41-entries count, an unsupported causal link, an unsourced geography detail and an unsupported clip-release detail in the pt FAQ."
+}

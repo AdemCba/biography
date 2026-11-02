@@ -1,211 +1,396 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "model": "claude-haiku-5-5",
   "approved": true,
   "reasons": [],
   "claims": [
     {
-      "claim": "Ganó el GP de EE.UU. 2026 en Austin el 25 oct 2026 desde la pole; 1:35:16,650; Leclerc a 13,078 s; Verstappen tercero",
+      "claim": "Won the 2026 United States GP at Austin on 25 Oct 2026 from pole",
+      "sourceIds": [
+        "f1-austin-race-report"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 report: pole, win in 1:35:16.650."
+    },
+    {
+      "claim": "Austin was his ninth Grand Prix win of 2026",
+      "sourceIds": [
+        "autosport-austin-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Autosport: ninth win of the season."
+    },
+    {
+      "claim": "Title still open after Austin; 123-point lead over Russell",
       "sourceIds": [
         "f1-austin-race-report",
-        "autosport-austin-report"
-      ],
-      "verdict": "confirmed",
-      "note": "F1 report dated and race dated 25 Oct 2026; times and pole match."
-    },
-    {
-      "claim": "Novena victoria en GP de la temporada",
-      "sourceIds": [
-        "autosport-austin-report"
-      ],
-      "verdict": "confirmed",
-      "note": "Autosport: ninth grand prix win of 2026."
-    },
-    {
-      "claim": "Toto Wolff «una vuelta milagrosa»",
-      "sourceIds": [
-        "f1-austin-race-report"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches English source quote."
-    },
-    {
-      "claim": "Ingeniero «siguiera todo lo que pudiera»; parada al final de la vuelta 24 para neumáticos",
-      "sourceIds": [
-        "f1-austin-race-report"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches."
-    },
-    {
-      "claim": "Hamilton cuarto, 18,515 s, sin podio",
-      "sourceIds": [
-        "f1-austin-race-report"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches."
-    },
-    {
-      "claim": "Russell penalización 5 s en parada y octavo; título no decidido",
-      "sourceIds": [
-        "f1-austin-race-report"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches."
-    },
-    {
-      "claim": "123 puntos sobre Russell, 124 sobre Hamilton, máximo 125",
-      "sourceIds": [
-        "skysports-austin-report",
-        "crash-mexico-title"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches Sky and Crash."
-    },
-    {
-      "claim": "Dos puntos para ser campeón más joven con 20 años",
-      "sourceIds": [
-        "autosport-austin-report"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches."
-    },
-    {
-      "claim": "Top nine en México confirma el título; cuatro rondas por disputar",
-      "sourceIds": [
-        "f1-mexico-race-week",
         "skysports-austin-report"
       ],
       "verdict": "confirmed",
-      "note": "Matches."
+      "note": "Sky: 123 over Russell, 124 over Hamilton, 125 available."
     },
     {
-      "claim": "Ronda 19, siete días después de Austin",
+      "claim": "Mexico City GP 1 Nov 2026: Verstappen won, Hamilton second",
       "sourceIds": [
-        "f1-mexico-race-week"
+        "f1-mexico-race-report",
+        "fia-mexico-report"
       ],
       "verdict": "confirmed",
-      "note": "Matches."
+      "note": "F1 and FIA reports."
     },
     {
-      "claim": "Escenarios Russell gana (9.º), Hamilton gana (10.º), ninguno gana (campeón)",
+      "claim": "Verstappen 0.799 s ahead of Hamilton",
       "sourceIds": [
-        "crash-mexico-title"
+        "f1-mexico-race-report"
       ],
       "verdict": "confirmed",
-      "note": "Matches."
+      "note": "Results table gives 0.799 s; the report body says 0.7 s. The table figure is used."
     },
     {
-      "claim": "Hamilton pole, Russell segundo, Antonelli cuarto",
+      "claim": "Antonelli third, 4.006 s behind the winner, after starting fourth",
       "sourceIds": [
-        "crash-mexico-title"
+        "f1-mexico-race-report"
       ],
       "verdict": "confirmed",
-      "note": "Matches."
+      "note": "F1 report."
     },
     {
-      "claim": "Nacido 25 ago 2006 en Bolonia; conocido por segundo nombre Kimi",
+      "claim": "Needed only ninth place whatever Russell and Hamilton did",
+      "sourceIds": [
+        "f1-mexico-race-report",
+        "fia-mexico-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Both reports say so."
+    },
+    {
+      "claim": "Title secured with four rounds to spare",
+      "sourceIds": [
+        "skysports-mexico-title"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky: four rounds to spare."
+    },
+    {
+      "claim": "Aged 20 years and 68 days; youngest F1 world champion",
+      "sourceIds": [
+        "skysports-mexico-title",
+        "fia-mexico-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky gives 20 years 68 days; FIA says youngest."
+    },
+    {
+      "claim": "Beat Vettel's youngest-champion record by over three years",
+      "sourceIds": [
+        "skysports-mexico-title"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky."
+    },
+    {
+      "claim": "First world title",
+      "sourceIds": [
+        "f1-mexico-race-report"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 calls it his maiden title."
+    },
+    {
+      "claim": "Verstappen win was his third of 2026",
+      "sourceIds": [
+        "f1-mexico-race-report"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 report."
+    },
+    {
+      "claim": "We did it quote after the race",
+      "sourceIds": [
+        "f1-mexico-race-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote matches the F1 report."
+    },
+    {
+      "claim": "Trying to process what has just happened",
+      "sourceIds": [
+        "f1-mexico-race-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote matches."
+    },
+    {
+      "claim": "Wolff: promotion was always a calculated risk, not a real risk; people were doubters",
+      "sourceIds": [
+        "f1-mexico-wolff-reaction"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 article quotes Wolff."
+    },
+    {
+      "claim": "Team continued to trust him and he delivered",
+      "sourceIds": [
+        "f1-mexico-wolff-reaction"
+      ],
+      "verdict": "confirmed",
+      "note": "Wolff quote in F1 article."
+    },
+    {
+      "claim": "Sharing the podium with Verstappen and Hamilton truly incredible",
+      "sourceIds": [
+        "planetf1-mexico-reaction"
+      ],
+      "verdict": "confirmed",
+      "note": "PlanetF1 quote."
+    },
+    {
+      "claim": "Could not see through his tears on the final lap",
+      "sourceIds": [
+        "skysports-mexico-tears"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky headline and article."
+    },
+    {
+      "claim": "Thanked race engineer Peter Bonnington",
+      "sourceIds": [
+        "skysports-mexico-tears"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky article."
+    },
+    {
+      "claim": "Next round is the Sao Paulo GP",
+      "sourceIds": [
+        "skysports-mexico-tears"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky article."
+    },
+    {
+      "claim": "Pole at Austin; Wolff called it a miracle lap",
+      "sourceIds": [
+        "f1-austin-race-report"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 report."
+    },
+    {
+      "claim": "Leclerc 13.078 s behind; Verstappen third",
+      "sourceIds": [
+        "f1-austin-race-report"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 report."
+    },
+    {
+      "claim": "Autosport: about 13 seconds clear of Leclerc",
+      "sourceIds": [
+        "autosport-austin-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Autosport."
+    },
+    {
+      "claim": "Engineer said go as long as we can; pit at end of lap 24",
+      "sourceIds": [
+        "f1-austin-race-report"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 report."
+    },
+    {
+      "claim": "Hamilton fourth, 18.515 s behind, no podium",
+      "sourceIds": [
+        "f1-austin-race-report"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 report."
+    },
+    {
+      "claim": "Title scenario: Russell ninth or below, Hamilton outside top four",
+      "sourceIds": [
+        "f1-austin-race-report"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 report."
+    },
+    {
+      "claim": "Russell five-second penalty, finished eighth",
+      "sourceIds": [
+        "f1-austin-race-report"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 report."
+    },
+    {
+      "claim": "Sky: 123 ahead of Russell, 124 ahead of Hamilton, 125 available",
+      "sourceIds": [
+        "skysports-austin-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Sky."
+    },
+    {
+      "claim": "Needed two points to become youngest ever champion at 20",
+      "sourceIds": [
+        "autosport-austin-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Autosport."
+    },
+    {
+      "claim": "Born 25 August 2006 in Bologna",
       "sourceIds": [
         "f1-driver-profile",
         "mercedes-driver-profile"
       ],
       "verdict": "confirmed",
-      "note": "Matches."
+      "note": "F1 profile gives 25/08/2006, Bologna."
     },
     {
-      "claim": "Karting a los siete años en equipo de su padre; título 2015 EasyKart 60; padre Marco y Antonelli Motorsport",
-      "sourceIds": [
-        "mercedes-everything"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches."
-    },
-    {
-      "claim": "Mercedes Junior Programme abril 2019 con 12 años",
+      "claim": "Known by his middle name Kimi",
       "sourceIds": [
         "mercedes-driver-profile"
       ],
       "verdict": "confirmed",
-      "note": "Matches."
+      "note": "Mercedes profile."
     },
     {
-      "claim": "Debut 2021 Italian F4 y UAE; títulos Italian F4 y ADAC F4",
+      "claim": "Karting from seven, racing for his father's team",
       "sourceIds": [
         "mercedes-everything"
       ],
       "verdict": "confirmed",
-      "note": "Matches."
+      "note": "Mercedes feature."
     },
     {
-      "claim": "F2 con PREMA 2024: Silverstone y Hungría; ganador múltiple más joven",
+      "claim": "First kart title in 2015, EasyKart 60 category",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": "Mercedes feature."
+    },
+    {
+      "claim": "Father Marco, former racer, runs Antonelli Motorsport",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": "Mercedes feature."
+    },
+    {
+      "claim": "Joined Mercedes Junior Programme April 2019, aged 12",
+      "sourceIds": [
+        "mercedes-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Mercedes profile."
+    },
+    {
+      "claim": "Single-seater debut 2021 in Italian F4 and F4 UAE round",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": "Mercedes feature."
+    },
+    {
+      "claim": "Italian F4 and ADAC F4 titles (year not stated in the article)",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": "Titles confirmed; year removed from the page."
+    },
+    {
+      "claim": "2024 F2 with PREMA; won Silverstone sprint and Hungary; youngest multiple winner",
       "sourceIds": [
         "mercedes-everything",
         "mercedes-driver-profile"
       ],
       "verdict": "confirmed",
-      "note": "Quote is a translation of the English source wording."
+      "note": "Mercedes feature quotes PREMA and Silverstone; profile lists Silverstone and Budapest."
     },
     {
-      "claim": "Debut Melbourne 2025, tercer más joven en salir, 13.º piloto de Mercedes, cuarto",
+      "claim": "2025 Melbourne debut, fourth; third-youngest starter; 13th Mercedes driver",
       "sourceIds": [
         "mercedes-everything"
       ],
       "verdict": "confirmed",
-      "note": "Matches."
+      "note": "Mercedes feature."
     },
     {
-      "claim": "Piloto más joven en liderar una vuelta en Japón",
+      "claim": "Youngest to lead a lap at Japan",
       "sourceIds": [
         "mercedes-everything"
       ],
       "verdict": "confirmed",
-      "note": "Matches."
+      "note": "Mercedes feature."
     },
     {
-      "claim": "Tercero en Canadá; tercer podio más joven; novato con más puntos; dorsal 12",
+      "claim": "Third in Canada, third-youngest F1 podium",
       "sourceIds": [
         "mercedes-everything"
       ],
       "verdict": "confirmed",
-      "note": "Matches (Brazil second place removed)."
+      "note": "Mercedes feature."
     },
     {
-      "claim": "Séptimo en 2025 con 150 puntos y tres podios",
+      "claim": "Highest-scoring rookie by Brazil",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": "Mercedes feature."
+    },
+    {
+      "claim": "Race number 12 from 2025",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": "Mercedes feature."
+    },
+    {
+      "claim": "2025 seventh with 150 points and three podiums",
       "sourceIds": [
         "mercedes-driver-profile"
       ],
       "verdict": "confirmed",
-      "note": "Matches."
+      "note": "Mercedes profile."
     },
     {
-      "claim": "Pole China a 19 años 6 meses 17 días; victoria al día siguiente; segundo ganador más joven; primer italiano desde Fisichella 2006",
+      "claim": "China pole aged 19y 6m 17d; youngest GP polesitter",
       "sourceIds": [
         "mercedes-everything"
       ],
       "verdict": "confirmed",
-      "note": "Matches."
+      "note": "Mercedes feature."
     },
     {
-      "claim": "Primero en campeonato con 365 puntos y nueve victorias en 2026",
+      "claim": "China win; second-youngest GP winner behind Verstappen; first Italian winner since Fisichella 2006",
+      "sourceIds": [
+        "mercedes-everything"
+      ],
+      "verdict": "confirmed",
+      "note": "Mercedes feature."
+    },
+    {
+      "claim": "F1 profile: first in championship with nine Grand Prix wins in 2026",
       "sourceIds": [
         "f1-driver-profile"
       ],
       "verdict": "confirmed",
-      "note": "Matches."
-    },
-    {
-      "claim": "Edad 20 años; nacido 25 ago 2006",
-      "sourceIds": [
-        "f1-driver-profile"
-      ],
-      "verdict": "confirmed",
-      "note": "Arithmetic correct."
+      "note": "F1 profile shows 1st and 9 wins. Points figure removed from the page because the live profile now shows a later total."
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "Race-day gap arithmetic, title scenarios and a sourced timeline; the Spanish text is localised rather than a line-by-line translation.",
+  "valueNote": "Adds the post-title reaction (Wolff, the podium, the next round) from 2 November, with primary F1 and team sources.",
   "decision": "approve",
-  "summary": "All checked claims match fetched sources. Removed unsupported strategy claims, the unsourced first-points and Brazil second-place claims, and fixed a broken pole sentence."
+  "summary": "All checked claims match their sources. The 0.799 s margin is in the results table; the report body says 0.7 s, which the page does not repeat."
 }

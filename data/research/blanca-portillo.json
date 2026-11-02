@@ -1,0 +1,101 @@
+{
+  "worthWriting": true,
+  "reason": "Spanish actress with a verified career in theatre, film and television, two Premios Unión de Actores, a Goya for Maixabel, and a 2023 Seminci Espiga de Honor. The 2026 news hooks in the brief could not be verified, so the page is a career profile.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "seminci-homenaje-portillo",
+      "url": "https://www.seminci.com/en/homenajes/blanca-portillo/",
+      "title": "Blanca Portillo - Seminci homage",
+      "publisher": "Seminci (Semana Internacional de Cine de Valladolid)",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "seminci-espiga-2023",
+      "url": "https://www.seminci.com/en/2023/press-releases/blanca-portillo-on-receiving-the-espiga-de-honor-for-four-decades-of-love-for-the-profession-i-have-put-my-life-and-my-heart-into-this/",
+      "title": "Blanca Portillo on receiving the Espiga de Honor",
+      "publisher": "Seminci",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "ecartelera-portillo",
+      "url": "https://www.ecartelera.com/personas/blanca-portillo/",
+      "title": "Blanca Portillo - eCartelera",
+      "publisher": "eCartelera",
+      "type": "database",
+      "lang": "es"
+    },
+    {
+      "id": "sensacine-portillo",
+      "url": "https://www.sensacine.com/actores/actor-139981/",
+      "title": "Blanca Portillo - SensaCine",
+      "publisher": "SensaCine",
+      "type": "database",
+      "lang": "es"
+    },
+    {
+      "id": "sensacine-portillo-biografia",
+      "url": "https://www.sensacine.com/actores/actor-139981/biografia/",
+      "title": "Blanca Portillo - biografia - SensaCine",
+      "publisher": "SensaCine",
+      "type": "database",
+      "lang": "es"
+    },
+    {
+      "id": "espinof-goya-2022",
+      "url": "https://www.espinof.com/premios-goya/goya-2022-javier-bardem-blanca-portillo-mejores-actores-protagonistas-buen-patron-maixabel",
+      "title": "Goya 2022: Javier Bardem y Blanca Portillo son los mejores actores protagonistas",
+      "publisher": "Espinof",
+      "type": "press",
+      "lang": "es"
+    },
+    {
+      "id": "officialpress-alicante-2018",
+      "url": "https://officialpress.es/blanca-portillo-premio-de-honor-del-xv-festival-de-cine-de-alicante-por-su-trayectoria/",
+      "title": "Blanca Portillo, Premio de Honor del XV Festival de Cine de Alicante por su trayectoria",
+      "publisher": "Official Press",
+      "type": "press",
+      "lang": "es"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1963-06-15",
+      "sources": [
+        "ecartelera-portillo",
+        "sensacine-portillo-biografia"
+      ],
+      "note": "Both database pages give 15 June 1963. No primary source checked."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Madrid",
+      "sources": [
+        "ecartelera-portillo"
+      ],
+      "note": "eCartelera only. SensaCine's biography does not state a birthplace."
+    },
+    "nationality": {
+      "value": "ES",
+      "sources": [
+        "ecartelera-portillo"
+      ],
+      "note": "eCartelera describes her as a Spanish actress."
+    }
+  },
+  "targetQueries": [
+    "who is Blanca Portillo",
+    "Blanca Portillo age",
+    "Blanca Portillo movies",
+    "Blanca Portillo Maixabel",
+    "Blanca Portillo Espiga de Honor",
+    "Blanca Portillo Hospital Central",
+    "Blanca Portillo Volver",
+    "Blanca Portillo theatre"
+  ],
+  "gapNote": "The brief's three news hooks did not hold. The Seminci homage page and the Espiga de Honor press release are from 2023, not the 71st edition (2026). The Hospital Central cameo and the Concepción Arenal TV movie are reported only in FormulaTV pieces from 2012, with no 2026 confirmation. The page therefore covers her career without a current news hook."
+}

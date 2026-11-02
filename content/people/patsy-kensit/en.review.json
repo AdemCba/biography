@@ -1,0 +1,195 @@
+{
+  "date": "2026-11-02",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 4 March 1968",
+      "sourceIds": [
+        "entertainment-ie-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Entertainment.ie: date of birth 4 March 1968."
+    },
+    {
+      "claim": "English actress and singer",
+      "sourceIds": [
+        "entertainment-ie-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Entertainment.ie: 'English actress and singer'."
+    },
+    {
+      "claim": "Played Sadie King in Emmerdale 2004 to 2006",
+      "sourceIds": [
+        "tvchoice-emmerdale-return",
+        "rte-emmerdale-return",
+        "hackney-gazette-eastenders"
+      ],
+      "verdict": "confirmed",
+      "note": "TV Choice: 'back in 2004' and 'leaving in 2006'; Hackney Gazette: 'as Sadie King on Emmerdale (2004-2006)'."
+    },
+    {
+      "claim": "Sadie arrived as the wife of Jimmy King, played by Nick Miles",
+      "sourceIds": [
+        "rte-emmerdale-return",
+        "tvchoice-emmerdale-return"
+      ],
+      "verdict": "confirmed",
+      "note": "RTE and TV Choice both name Jimmy King (Nick Miles) and Sadie as his wife."
+    },
+    {
+      "claim": "Storylines included a house explosion",
+      "sourceIds": [
+        "rte-emmerdale-return"
+      ],
+      "verdict": "confirmed",
+      "note": "RTE lists 'a house explosion' among her storylines."
+    },
+    {
+      "claim": "Cain Dingle (Jeff Hordley) double-crossed Sadie, stole the ransom money and left her behind",
+      "sourceIds": [
+        "rte-emmerdale-return"
+      ],
+      "verdict": "confirmed",
+      "note": "RTE: Cain 'double-crossed her, stole the ransom money, and dramatically left her behind'. Cain's actor name appears on TV Choice."
+    },
+    {
+      "claim": "Left Emmerdale in 2006",
+      "sourceIds": [
+        "tvchoice-emmerdale-return"
+      ],
+      "verdict": "confirmed",
+      "note": "TV Choice: 'leaving in 2006'."
+    },
+    {
+      "claim": "Faye Morton in Holby City 2007 to 2010 and again in 2019",
+      "sourceIds": [
+        "tvchoice-emmerdale-return"
+      ],
+      "verdict": "confirmed",
+      "note": "TV Choice: 'Holby City (2007-2010, 2019) as Faye Morton'."
+    },
+    {
+      "claim": "Betty Dean in Tina and Bobby in 2017",
+      "sourceIds": [
+        "tvchoice-emmerdale-return"
+      ],
+      "verdict": "confirmed",
+      "note": "TV Choice: 'Tina and Bobby (2017) as Betty Dean'."
+    },
+    {
+      "claim": "Credits in Agatha Raisin (2020), McDonald & Dodds (2021), Death in Paradise (2023) and Never Mind the Buzzcocks",
+      "sourceIds": [
+        "tvchoice-emmerdale-return"
+      ],
+      "verdict": "confirmed",
+      "note": "TV Choice lists each title with the year; the page does not state role type, so no cameo claim is made."
+    },
+    {
+      "claim": "Emma Harding in EastEnders, estranged mother of Lola Pearce who left when Lola was three, first appearance on the soap, brief stint",
+      "sourceIds": [
+        "hackney-gazette-eastenders"
+      ],
+      "verdict": "confirmed",
+      "note": "Hackney Gazette: Emma Harding 'left Lola ... when Lola was three', 'for a brief stint', 'has never been seen on the soap before'; 'estranged parents' used for Lola's parents."
+    },
+    {
+      "claim": "Kensit: 'I'm so excited to be visiting Walford for this storyline.'",
+      "sourceIds": [
+        "hackney-gazette-eastenders"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact quote on Hackney Gazette."
+    },
+    {
+      "claim": "Reports on 14 May 2026 said she would return as Sadie King later that year",
+      "sourceIds": [
+        "rte-emmerdale-return",
+        "tvchoice-emmerdale-return"
+      ],
+      "verdict": "confirmed",
+      "note": "RTE: 'will return to the soap later this year', updated 14 May 2026; TV Choice publication date 14 May 2026. Wording says reports, not an ITV announcement."
+    },
+    {
+      "claim": "RTE describes Sadie as a villainous, scheming character",
+      "sourceIds": [
+        "rte-emmerdale-return"
+      ],
+      "verdict": "confirmed",
+      "note": "RTE: 'the villainous character' and 'glamorous, scheming wife of Jimmy King'."
+    },
+    {
+      "claim": "Laura Shaw said the return 'will be explosive and guaranteed to shock'",
+      "sourceIds": [
+        "tvchoice-emmerdale-return"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact phrase on TV Choice."
+    },
+    {
+      "claim": "Kensit quotes: 'I am really excited to return to Emmerdale. I treasure the years I was here before.' / 'Sadie King is a character that I really loved playing.' / 'I am so grateful for the chance to return to the show, it's absolutely amazing.'",
+      "sourceIds": [
+        "rte-emmerdale-return"
+      ],
+      "verdict": "confirmed",
+      "note": "All three quotes appear verbatim on RTE."
+    },
+    {
+      "claim": "Interview published 3 August 2026: 'just a hard yes for me'; 'one of the favourite roles I've ever had'",
+      "sourceIds": [
+        "yahoo-emmerdale-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Publication date Mon, 3 August 2026; both quotes present."
+    },
+    {
+      "claim": "Sadie may have acquired new depths; praise of what Laura Shaw and the writers have done",
+      "sourceIds": [
+        "yahoo-emmerdale-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: 'may have acquired new depths'; 'really smart what Laura Shaw and the writers have done'."
+    },
+    {
+      "claim": "The interview names Kim Tate, played by Claire King, and 'old school' filming",
+      "sourceIds": [
+        "yahoo-emmerdale-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Kim Tate, played by Claire King, present; 'we took it old school' present. The article no longer describes a confrontation."
+    },
+    {
+      "claim": "Sadie gets a more hostile reception from other characters",
+      "sourceIds": [
+        "yahoo-emmerdale-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Source: Sadie 'gets a more hostile reception'."
+    },
+    {
+      "claim": "May reports gave no exact return date beyond 'later this year'",
+      "sourceIds": [
+        "rte-emmerdale-return"
+      ],
+      "verdict": "confirmed",
+      "note": "RTE gives only 'later this year'."
+    },
+    {
+      "claim": "The sources do not state the length of her contract",
+      "sourceIds": [
+        "tvchoice-emmerdale-return",
+        "rte-emmerdale-return"
+      ],
+      "verdict": "confirmed",
+      "note": "Neither page states a contract length; the article reports this absence and does not guess."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear 2004 to 2006 timeline with the Holby City, Tina and Bobby and EastEnders credits, plus the interview quotes; states that the contract length is unknown rather than guessing.",
+  "decision": "approve",
+  "summary": "All claims checked against opened sources; the remaining statements match the pages as cited. Contract length and ITV announcement are not claimed."
+}

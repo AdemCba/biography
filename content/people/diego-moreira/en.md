@@ -8,11 +8,14 @@ metaDescription: >-
 knownFor: Belgian winger who joined AC Milan in 2026
 summary: >-
   Diego Moreira is a Belgian winger who joined AC Milan from RC Strasbourg in
-  August 2026, on a contract until 2031. Born in Liège on 6 August 2004, he came
-  through the academies of Standard Liège and Benfica, and he has played for
-  Belgium since switching from Portugal in 2025.
+  August 2026, on a contract until 2031. He set up two goals and scored a free
+  kick in Milan's 3-1 derby win over Inter on 31 October 2026. Born in Liège on
+  6 August 2004, he came through the academies of Standard Liège and Benfica,
+  and he has played for Belgium since switching from Portugal in 2025.
 status: published
 risk: medium
+publishedAt: '2026-11-02'
+publishedTime: '2026-11-02T22:23:49.539Z'
 reviewedAt: '2026-11-02'
 reviewBy: '2027-05-02'
 author: editor-in-chief
@@ -24,9 +27,11 @@ targetQueries:
   - diego moreira milan
   - diego moreira ac milan transfer
   - diego moreira ac milan number
+  - diego moreira ac milan jersey
+  - diego moreira transfer
   - diego moreira chelsea
   - diego moreira stats
-  - diego moreira jersey
+  - diego moreira portugal
 faq:
   - q: How old is Diego Moreira?
     a: 'He was born on 6 August 2004, so he is 22 as of 2 November 2026.'
@@ -46,11 +51,18 @@ faq:
     a: >-
       beIN Sports reported a fee of €50m, plus €16m in add-ons. AC Milan's
       statement does not give a fee.
-autoReviews: 1
-publishedAt: '2026-11-02'
-publishedTime: '2026-11-02T09:33:14.606Z'
+  - q: Did Diego Moreira play for Portugal?
+    a: >-
+      He came up through Portugal's youth teams [s:acmilan-moreira-statement].
+      FIFA approved his change of sporting nationality to Belgium in May 2025
+      [s:dhnet-moreira-switch].
+autoReviews: 2
 ---
 Diego Moreira is a Belgian winger who joined AC Milan in August 2026 [s:acmilan-moreira-statement]. AC Milan announced his signing from RC Strasbourg on 19 August, and his contract runs until 30 June 2031. He wears the number 22 [s:acmilan-moreira-statement]. beIN Sports reported a fee of €50m, plus €16m in add-ons, on a five-year contract [s:bein-moreira-transfer]. The club's own statement does not give a fee [s:acmilan-moreira-statement]. The club's feature says he plays mainly on the left flank but can operate on the right, and that he has also played as a wing-back, full-back and attacking midfielder [s:acmilan-moreira-focus].
+
+## October 2026: the derby
+
+The Milan derby put him in the headlines. On 31 October 2026, the day after his Goal interview was published, Milan beat Inter 3-1 at San Siro [s:football-italia-milan-inter-2026] [s:theanalyst-milan-inter-2026]. Christian Pulisic headed in Moreira's cross in the fourth minute, and Moreira set up Adrien Rabiot's goal in the tenth [s:football-italia-milan-inter-2026] [s:theanalyst-milan-inter-2026]. Alessandro Bastoni pulled one back for Inter before Moreira curled a left-footed free kick from about 25 yards over the wall, in the 43rd minute, to restore Milan's two-goal lead [s:theanalyst-milan-inter-2026] [s:football-italia-milan-inter-2026]. Opta counts it as only the third direct free kick a Milan player has scored in the derby since its data began in 2004-05 [s:theanalyst-milan-inter-2026].
 
 ## Born in Liège, raised in two academies
 
@@ -72,6 +84,6 @@ By September 2025 he was making his first competitive senior appearances, in qua
 
 ## In his own words
 
-In an interview published by Goal on 30 October 2026, which was first given to DAZN, Moreira explained his name: his mother's "favourite name, also because of Diego Maradona" [s:goal-moreira-interview]. He calls Cristiano Ronaldo his idol [s:goal-moreira-interview]. Asked about the Inter derby, he said it is "one of the most important matches in Europe" [s:goal-moreira-interview].
+In an interview published by Goal on 30 October 2026, Moreira explained his name: his mother's "favourite name, also because of Diego Maradona" [s:goal-moreira-interview]. He calls Cristiano Ronaldo his idol [s:goal-moreira-interview]. Asked about the Inter derby, he said it is "one of the most important matches in Europe" [s:goal-moreira-interview].
 
 He wears 22 because "I like 22", and he called it an honour to follow Kakà, who left his mark on the club with that number [s:goal-moreira-interview]. Asked whether he would breakdance after scoring against Inter, he said no: "I don't want to get injured" [s:goal-moreira-interview].

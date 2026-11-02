@@ -10,49 +10,66 @@ knownFor: >-
   Top-modèle allemande, présentatrice de Germany's Next Topmodel et de Project
   Runway
 summary: >-
-  Heidi Klum est née à Bergisch Gladbach, en Allemagne, le 1er juin 1973. Pour
-  sa fête d'Halloween à New York, le 31 octobre 2026, elle est apparue en énorme
-  main sectionnée, copiée sur sa propre main gauche.
+  Heidi Klum est née à Bergisch Gladbach, en Allemagne, le 1er juin 1973. En
+  2026, sa fête munichoise, HeidiFest, est passée de ProSieben à RTL, et elle
+  est devenue le visage de la marque allemande s.Oliver. Pour sa fête
+  d'Halloween à New York, le 31 octobre 2026, elle est apparue en énorme main
+  sectionnée, copiée sur sa propre main gauche.
 status: published
 risk: medium
+publishedAt: '2026-11-02'
+publishedTime: '2026-11-02T22:23:49.554Z'
 reviewedAt: '2026-11-02'
 reviewBy: '2027-05-02'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
-  - Heidi Klum âge
-  - Heidi Klum Halloween 2026
-  - Heidi Klum costume Halloween 2026
-  - Heidi Klum d'où vient
-  - Heidi Klum Project Runway
-  - Heidi Klum Emmy
+  - Heidi Klum halloween
+  - Heidi Klum halloween 2026
+  - Heidi Klum halloween costumes
+  - Heidi Klum déguisement
+  - Heidi Klum déguisement halloween
+  - Heidi Klum film
+  - Heidi Klum age
 faq:
   - q: Quel âge a Heidi Klum ?
     a: >-
       Elle est née le 1er juin 1973 et a eu 53 ans en juin 2026
       [s:biography-klum].
-  - q: De quelle nationalité est Heidi Klum ?
+  - q: Quel était le déguisement d'Halloween 2026 d'Heidi Klum ?
     a: >-
-      Wikidata lui attribue la nationalité allemande et la nationalité
-      américaine [s:wikidata-klum]. Elle est née à Bergisch Gladbach, en
-      Rhénanie-du-Nord-Westphalie [s:biography-klum].
-  - q: Quel était le costume d'Halloween 2026 d'Heidi Klum ?
+      Une énorme main sectionnée, copiée sur sa main gauche, qu'elle portait à
+      sa fête new-yorkaise du 31 octobre 2026 [s:cbs-hand-costume].
+  - q: >-
+      Quels déguisements d'Halloween Heidi Klum a-t-elle portés les années
+      précédentes ?
     a: >-
-      Une énorme main sectionnée, copiée sur sa main gauche, portée à sa fête
-      new-yorkaise du 31 octobre 2026 [s:cbs-hand-costume].
-  - q: Combien d'Emmy Heidi Klum a-t-elle remportés ?
+      CBS cite notamment Medusa, un paon, un Transformer de 2,4 mètres, un
+      loup-garou du clip « Thriller » de Michael Jackson et Kali. En 2022, elle
+      est arrivée suspendue à une ligne de pêche, enveloppée dans un costume de
+      ver [s:cbs-hand-costume].
+  - q: Quels films Heidi Klum a-t-elle tournés ?
     a: >-
-      Un seul, en 2013, dans la catégorie de présentateur d'émission de
-      télé-réalité ou de compétition, après six nominations entre 2013 et 2018
-      [s:tv-academy-klum-gunn].
-autoReviews: 1
-publishedAt: '2026-11-02'
-publishedTime: '2026-11-02T09:33:14.624Z'
+      En 2001, elle a joué dans la comédie « Blow Dry », puis elle a eu des
+      rôles dans « Ella Enchanted » (2004) [s:biography-klum].
+autoReviews: 2
 ---
 Heidi Klum est née le 1er juin 1973 à Bergisch Gladbach, en Rhénanie-du-Nord-Westphalie [s:biography-klum] [s:wikidata-klum]. Wikidata la présente comme une mannequin, personnalité de la télévision et femme d'affaires germano-américaine, et lui attribue la nationalité allemande et la nationalité américaine [s:wikidata-klum]. Elle a eu 53 ans en juin 2026 [s:biography-klum].
 
 Elle a commencé comme mannequin à 18 ans, après avoir remporté un concours en Allemagne [s:biography-klum]. En 1992, elle a gagné « Model ’92 », un concours de télévision allemand diffusé dans l'émission de Thomas Gottschalk, selon l'Abendzeitung München [s:abendzeitung-gntm].
+
+## Novembre 2026
+
+Les dernières nouvelles professionnelles de Klum concernent deux marques et un format de fête. En avril 2026, la marque allemande de mode s.Oliver, basée à Rottendorf et fondée en 1969, l'a présentée comme son nouveau visage. Le contrat de deux ans porte sur la ligne Casual de la marque [s:t-online-soliver-deal]. Aucun montant financier n'a été communiqué [s:t-online-soliver-deal].
+
+Le 10 septembre, la marque a lancé la campagne « Casual Since Forever ». On y voit Klum face à sa version plus jeune, du début de sa carrière. Elle a été conçue par l'agence Jung von Matt et s'accompagne d'une collection capsule vintage en édition limitée [s:fashionunited-soliver-campaign]. Le co-PDG, Johannes Rellecke, a déclaré que la campagne renforce le positionnement de la marque comme une marque casual à 100 % [s:fashionunited-soliver-campaign].
+
+Sa fête munichoise, HeidiFest, est passée de ProSieben à RTL pour 2026 [s:horizont-heidifest-rtl]. La deuxième édition a eu lieu le 17 septembre à la Hofbräuhaus de Munich et a été diffusée en direct sur RTL et RTL+ [s:echo24-wiesn-brand]. Selon RTL, la chaîne produit elle-même l'émission [s:horizont-heidifest-rtl]. Son format phare, Germany's Next Topmodel, reste sur ProSieben [s:echo24-wiesn-brand].
+
+La première de 2025 sur ProSieben a réuni en moyenne 760 000 téléspectateurs, avec 5,9 % de part d'audience chez les 14-49 ans [s:echo24-wiesn-brand]. La diffusion sur RTL a atteint 780 000 téléspectateurs et une part de 4,0 % sur l'ensemble du public. Chez les 14-49 ans, elle a réuni 280 000 téléspectateurs, soit 9,0 % de part, ce que l'article présente comme le meilleur résultat d'une chaîne privée à cette heure [s:echo24-heidifest-ratings]. RTL a parlé d'un démarrage réussi, mais l'article juge aussi que les audiences restent décevantes dans l'ensemble [s:echo24-heidifest-ratings]. Les chiffres proviennent de dwdl.de [s:echo24-heidifest-ratings].
+
+Ni le passage sur RTL ni le contrat avec s.Oliver n'ont fait l'objet de chiffres publiés [s:echo24-wiesn-brand] [s:t-online-soliver-deal].
 
 ## Du concours allemand à la couverture de Sports Illustrated
 
@@ -92,7 +109,7 @@ D'autres invités se sont déguisés [s:eonline-hand-costume]. E! rapporte que N
 
 ## Les Halloween d'avant
 
-Klum utilise Halloween pour des transformations spectaculaires depuis des années [s:cbs-hand-costume]. CBS cite des looks passés comme Méduse, un paon, un Transformer de 2,4 mètres, un loup-garou du clip « Thriller » de Michael Jackson et Kali, la déesse hindoue de la mort et de la destruction [s:cbs-hand-costume]. En 2022, elle était suspendue à un fil de pêche, enveloppée dans un costume de ver [s:cbs-hand-costume].
+Klum utilise Halloween pour des transformations spectaculaires depuis des années [s:cbs-hand-costume]. CBS cite des looks passés comme Méduse, un paon, un Transformer de 2,4 mètres, un loup-garou du clip « Thriller » de Michael Jackson et Kali, la déesse hindoue aux nombreux bras [s:cbs-hand-costume]. En 2022, elle était suspendue à un fil de pêche, enveloppée dans un costume de ver [s:cbs-hand-costume].
 
 Sa Méduse de 2025 descendait de la tête aux pieds, avec une longue queue et des serpents à sonnettes sur la tête [s:eonline-hand-costume]. Klum a dit que tout était peint à la main et qu'une quinzaine de personnes y avaient travaillé [s:eonline-hand-costume]. La fête de 2025 avait eu lieu à l'Hard Rock Hotel de New York [s:cbs-hand-costume].
 

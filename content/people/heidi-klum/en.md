@@ -11,48 +11,67 @@ knownFor: >-
   Topmodel
 summary: >-
   Heidi Klum is a German-born supermodel and television host, born on 1 June
-  1973 in Bergisch Gladbach. For her annual party in New York on 31 October 2026
-  she came as a giant severed hand, modelled on her own left hand.
+  1973 in Bergisch Gladbach. In 2026 her Munich party HeidiFest moved from
+  ProSieben to RTL, and she became the face of the German label s.Oliver. For
+  her annual party in New York on 31 October 2026 she came as a giant severed
+  hand, modelled on her own left hand.
 status: published
 risk: medium
+publishedAt: '2026-11-02'
+publishedTime: '2026-11-02T22:23:49.553Z'
 reviewedAt: '2026-11-02'
 reviewBy: '2027-05-02'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
+  - Heidi Klum halloween
+  - Heidi Klum halloween 2026
+  - Heidi Klum halloween costumes
+  - Heidi Klum halloween costume 2026
+  - Heidi Klum costumes over the years
+  - Heidi Klum hand costume
+  - Heidi Klum hand
+  - Heidi Klum worm
   - Heidi Klum age
-  - Heidi Klum Halloween 2026 costume
-  - where is Heidi Klum from
-  - Heidi Klum Project Runway
-  - Heidi Klum Emmy
-  - Heidi Klum On & Off the Catwalk
+  - Heidi Klum agt
 faq:
   - q: How old is Heidi Klum?
     a: >-
       She was born on 1 June 1973, so she turned 53 in June 2026
       [s:biography-klum].
-  - q: Where is Heidi Klum from?
-    a: >-
-      She was born in Bergisch Gladbach, North Rhine-Westphalia, Germany
-      [s:biography-klum]. Wikidata lists citizenship of both Germany and the
-      United States [s:wikidata-klum].
   - q: What was Heidi Klum's Halloween 2026 costume?
     a: >-
       A giant severed hand modelled on her own left hand, worn at her party in
       New York on 31 October 2026 [s:cbs-hand-costume].
-  - q: How many Emmys has Heidi Klum won?
+  - q: What Halloween costumes has Heidi Klum worn in the past?
     a: >-
-      One, in 2013, in the category Outstanding Host for a Reality or
-      Reality-Competition Program, from six nominations between 2013 and 2018
-      [s:tv-academy-klum-gunn].
-autoReviews: 1
-publishedAt: '2026-11-02'
-publishedTime: '2026-11-02T09:33:14.622Z'
+      CBS lists Medusa, a peacock, an 8-foot-tall Transformer, a werewolf from
+      Michael Jackson's "Thriller" video and Kali, the multi-armed Hindu
+      goddess. In 2022 she arrived hanging from a fishing line, wrapped in a
+      worm costume [s:cbs-hand-costume].
+  - q: Was Heidi Klum a judge on America's Got Talent?
+    a: >-
+      Yes. She was announced as a judge in March 2013 and left after six seasons
+      [s:biography-klum]. She later returned to the judges' table for the
+      spin-off America's Got Talent: The Champions [s:abendzeitung-gntm].
+autoReviews: 2
 ---
 Heidi Klum walked into her annual Halloween party in New York on 31 October 2026 as a giant, gruesome severed hand [s:cbs-hand-costume]. The costume was a re-creation of her own left hand, and it left her unrecognizable, with only her eyes and mouth showing [s:cbs-hand-costume] [s:eonline-hand-costume]. In a September interview with People she said the look would be “very, very bloody” and that it goes very well with red wine [s:hollywoodlife-costume-hints].
 
 Klum turned 53 in June 2026 [s:biography-klum]. The party was her 25th annual Halloween party, held at Cathédrale in New York City [s:cbs-hand-costume] [s:eonline-hand-costume]. The party was presented by Apothic and Butterfinger [s:eonline-hand-costume].
+
+## November 2026
+
+Most of Klum's recent business news concerns two brands and one party format. In April 2026 the German fashion label s.Oliver, based in Rottendorf and founded in 1969, named her its new face. The two-year deal centres on the brand's Casual line [s:t-online-soliver-deal]. No financial terms were disclosed [s:t-online-soliver-deal].
+
+On 10 September the label launched its "Casual Since Forever" campaign. It shows Klum meeting her younger self from the start of her career, was made by the agency Jung von Matt, and comes with a limited vintage capsule collection [s:fashionunited-soliver-campaign]. The co-CEO, Johannes Rellecke, said the campaign sharpens the brand's position as a 100 per cent casual brand [s:fashionunited-soliver-campaign].
+
+Her Munich party, HeidiFest, moved from ProSieben to RTL for 2026 [s:horizont-heidifest-rtl]. The second edition was held on 17 September at the Hofbräuhaus in Munich and broadcast live on RTL and RTL+ [s:echo24-wiesn-brand]. RTL produces the show, according to its own statement [s:horizont-heidifest-rtl]. Germany's Next Topmodel, her flagship format, stays with ProSieben [s:echo24-wiesn-brand].
+
+The 2025 premiere on ProSieben averaged 760,000 viewers, with a 5.9 percent share among viewers aged 14 to 49 [s:echo24-wiesn-brand]. The RTL broadcast reached 780,000 viewers and a 4.0 percent overall share. Among viewers aged 14 to 49 it drew 280,000 viewers, a 9.0 percent share, which the report calls the best result of any private broadcaster at that time slot [s:echo24-heidifest-ratings]. RTL called the debut successful, while the report's own verdict is that the ratings remain disappointing overall [s:echo24-heidifest-ratings]. The figures are from dwdl.de [s:echo24-heidifest-ratings].
+
+Neither the RTL move nor the s.Oliver deal has a disclosed fee [s:echo24-wiesn-brand] [s:t-online-soliver-deal].
 
 ## An idea that started with her own hand
 

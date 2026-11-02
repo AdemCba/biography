@@ -8,11 +8,15 @@ metaDescription: >-
 knownFor: Belgischer Flügelspieler beim AC Mailand
 summary: >-
   Diego Moreira ist ein belgischer Flügelspieler, der im August 2026 vom RC
-  Straßburg zum AC Mailand wechselte, mit Vertrag bis 2031. Geboren am 6. August
-  2004 in Lüttich, durchlief er die Jugendabteilungen von Standard Lüttich und
-  Benfica und spielt seit 2025 für die belgische Nationalmannschaft.
+  Straßburg zum AC Mailand wechselte, mit Vertrag bis 2031. Am 31. Oktober 2026
+  bereitete er beim 3:1-Derbysieg gegen Inter zwei Tore vor und erzielte ein
+  Freistoßtor. Geboren am 6. August 2004 in Lüttich, durchlief er die
+  Jugendabteilungen von Standard Lüttich und Benfica und spielt seit 2025 für
+  die belgische Nationalmannschaft.
 status: published
 risk: medium
+publishedAt: '2026-11-02'
+publishedTime: '2026-11-02T22:23:49.541Z'
 reviewedAt: '2026-11-02'
 reviewBy: '2027-05-02'
 author: editor-in-chief
@@ -23,8 +27,7 @@ targetQueries:
   - diego moreira ac mailand
   - diego moreira trikotnummer
   - diego moreira herkunft
-  - diego moreira eltern
-  - diego moreira leipzig
+  - diego moreira deutsch
 faq:
   - q: Wie alt ist Diego Moreira?
     a: >-
@@ -44,11 +47,18 @@ faq:
     a: >-
       beIN Sports berichtete von 50 Millionen Euro, dazu 16 Millionen Euro an
       Zusatzzahlungen. Die Mitteilung des Klubs nennt keine Summe.
-autoReviews: 1
-publishedAt: '2026-11-02'
-publishedTime: '2026-11-02T09:33:14.611Z'
+  - q: Ist Diego Moreira Deutscher?
+    a: >-
+      Nein, er ist Belgier. Er durchlief portugiesische Nachwuchsteams, doch die
+      FIFA genehmigte im Mai 2025 seinen Wechsel zur belgischen
+      Nationalmannschaft [s:acmilan-moreira-statement] [s:dhnet-moreira-switch].
+autoReviews: 2
 ---
 Diego Moreira ist ein belgischer Flügelspieler, der im August 2026 zum AC Mailand wechselte [s:acmilan-moreira-statement]. Der Klub gab die Verpflichtung vom RC Straßburg am 19. August bekannt, der Vertrag läuft bis zum 30. Juni 2031. Er trägt die Nummer 22 [s:acmilan-moreira-statement]. beIN Sports berichtete von einer Ablösesumme von 50 Millionen Euro, dazu 16 Millionen Euro an Zusatzzahlungen, bei einem Fünfjahresvertrag [s:bein-moreira-transfer]. Die Mitteilung des Klubs nennt keine Summe [s:acmilan-moreira-statement]. Die Vereinsseite beschreibt ihn als Spieler, der vor allem auf der linken Seite agiert, aber auch rechts spielen kann [s:acmilan-moreira-focus].
+
+## Oktober 2026: das Derby
+
+Das Derby gegen Inter rückte ihn ins Rampenlicht. Am 31. Oktober 2026, einen Tag nach der Veröffentlichung des Goal-Interviews, gewann der AC Mailand im San Siro 3:1 gegen Inter [s:football-italia-milan-inter-2026] [s:theanalyst-milan-inter-2026]. Christian Pulisic köpfte in der vierten Minute nach einer Flanke von Moreira ein, und in der zehnten Minute bereitete Moreira das Tor von Adrien Rabiot vor [s:football-italia-milan-inter-2026] [s:theanalyst-milan-inter-2026]. Alessandro Bastoni verkürzte für Inter. In der 43. Minute schoss Moreira einen linken Freistoß aus rund 25 Metern über die Mauer und stellte den Zwei-Tore-Vorsprung wieder her [s:theanalyst-milan-inter-2026] [s:football-italia-milan-inter-2026]. Laut Opta ist es der dritte direkt verwandelte Freistoß eines Mailänder Spielers im Derby, seit die Daten zur Saison 2004/05 erfasst werden [s:theanalyst-milan-inter-2026].
 
 ## Geboren in Lüttich, ausgebildet an zwei Akademien
 
@@ -70,6 +80,6 @@ Im September 2025 hatte er seine ersten Pflichtspieleinsätze für die A-Nationa
 
 ## Was er über seinen Namen und Mailand sagt
 
-In einem Interview, das Goal am 30. Oktober 2026 veröffentlichte und das zuvor DAZN gegeben worden war, erklärte Moreira seinen Namen: Es sei der Lieblingsname seiner Mutter gewesen, "auch wegen Diego Maradona" [s:goal-moreira-interview]. Cristiano Ronaldo nennt er sein Idol [s:goal-moreira-interview]. Auf das Derby gegen Inter angesprochen, sagte er, es sei "eines der wichtigsten Spiele in Europa" [s:goal-moreira-interview].
+In einem Interview, das Goal am 30. Oktober 2026 veröffentlichte, erklärte Moreira seinen Namen: Es sei der Lieblingsname seiner Mutter gewesen, "auch wegen Diego Maradona" [s:goal-moreira-interview]. Cristiano Ronaldo nennt er sein Idol [s:goal-moreira-interview]. Auf das Derby gegen Inter angesprochen, sagte er, es sei "eines der wichtigsten Spiele in Europa" [s:goal-moreira-interview].
 
 Er trägt die 22, weil "ich die 22 mag", und er nannte es eine Ehre, auf Kaká zu folgen, der mit dieser Nummer Spuren beim Klub hinterlassen hat [s:goal-moreira-interview]. Auf die Frage, ob er nach einem Tor gegen Inter Breakdance tanzen würde, antwortete er mit Nein: "Ich will mich nicht verletzen" [s:goal-moreira-interview].

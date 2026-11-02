@@ -1,0 +1,86 @@
+{
+  "worthWriting": true,
+  "reason": "Singer with a national career in France and Belgium; new single 'D'or et d'etain' released 28 August 2026 and a 40-date tour announced 25 May 2026 for March 2027 to March 2028. Sources are press plus one on-record statement set; no crime or private-life angle needed.",
+  "wikidata": "",
+  "importance": 3,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "offi-vianney",
+      "url": "https://www.offi.fr/artiste/vianney-111800.html",
+      "title": "Vianney : son actualité culturelle",
+      "publisher": "offi.fr",
+      "type": "database",
+      "lang": "fr"
+    },
+    {
+      "id": "purepeople-cabane-liberte",
+      "url": "https://www.purepeople.com/article/jai-couru-apres-une-liberte-quil-me-fallait-retrouver-vianney-devoile-ce-qui-est-ne-de-ses-neuf-mois-loin-des-projecteurs_a553640/1",
+      "title": "J'ai couru après une liberté qu'il me fallait retrouver : Vianney dévoile ce qui est né de ses neuf mois loin des projecteurs",
+      "publisher": "Pure People (quotes Vianney's Instagram posts)",
+      "type": "interview",
+      "lang": "fr"
+    },
+    {
+      "id": "parismatch-be-single-2026",
+      "url": "https://www.parismatch.be/actualites/people/2026/08/24/vianney-devoile-une-bonne-nouvelle-a-ses-fans-je-suis-pret-ZWZV5UTN3RESRNLQ5HOXXTQHAQ/",
+      "title": "Vianney dévoile une bonne nouvelle à ses fans : \"Je suis prêt\"",
+      "publisher": "Paris Match Belgique",
+      "type": "press",
+      "lang": "fr"
+    },
+    {
+      "id": "parismatch-be-tournee-2026",
+      "url": "https://www.parismatch.be/culture/musique/2026/05/25/sa-cabane-terminee-vianney-annonce-une-nouvelle-tournee-en-2027-et-elle-passera-par-la-belgique-KYMA4FCEJNBD5GEFZC3NLULYDI/",
+      "title": "Sa cabane terminée, Vianney annonce une nouvelle tournée en 2027 et elle passera par la Belgique",
+      "publisher": "Paris Match Belgique",
+      "type": "press",
+      "lang": "fr"
+    },
+    {
+      "id": "rtbf-tournee-2026",
+      "url": "https://www.rtbf.be/article/apres-plusieurs-mois-consacres-a-la-construction-de-sa-cabane-vianney-annonce-sa-prochaine-tournee-11730064",
+      "title": "Après plusieurs mois consacrés à la construction de sa cabane, Vianney annonce sa prochaine tournée",
+      "publisher": "RTBF",
+      "type": "press",
+      "lang": "fr"
+    },
+    {
+      "id": "sortiraparis-zenith-paris-2027",
+      "url": "https://www.sortiraparis.com/en/what-to-see-in-paris/concerts-music-festival/articles/345990-vianney-in-concert-at-paris-zenith-in-april-2027",
+      "title": "Vianney to perform at the Zénith de Paris in April 2027",
+      "publisher": "Sortiraparis",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1991-02-13",
+      "sources": [
+        "offi-vianney"
+      ],
+      "note": "offi.fr gives '13 février 1991'. Only this page was opened; a search snippet from another site gave the same date."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Pau, Pyrénées-Atlantiques",
+      "sources": [
+        "offi-vianney"
+      ],
+      "note": "offi.fr gives 'Pau, Pyrénées-Atlantiques'. A search snippet from migu.cn (not opened) gives Paris; not used."
+    },
+    "nationality": null
+  },
+  "targetQueries": [
+    "who is Vianney",
+    "Vianney age",
+    "Vianney D'or et d'étain",
+    "Vianney tournée 2027",
+    "Vianney concert 2027",
+    "Vianney Zénith Paris 2027",
+    "Vianney cabane en bois forêt",
+    "Vianney Idées blanches album"
+  ],
+  "gapNote": "Recent coverage covers the single, the cabin and the tour in separate pieces. The page can put the cabin break, the single and the 2027-2028 tour into one dated timeline, and flag where sources disagree: tour end date (24 March 2028 Narbonne in Paris Match Belgique, 18 March 2028 in RTBF), and the number of dates (40 in Paris Match Belgique and RTBF, more than 50 in one other outlet). The cabin break is dated June 2025 in Pure People and RTBF, not June 2026. Nantes 2027 dates (28-30 April) appear only in search snippets and an unopened Infoconcert page, so they are left out."
+}

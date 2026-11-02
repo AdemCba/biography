@@ -1,0 +1,166 @@
+{
+  "date": "2026-11-02",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Tokio Hotel formed in 2001 by twins Tom and Bill Kaulitz with Georg Listing and Gustav Schäfer",
+      "sourceIds": [
+        "tokio-hotel-official"
+      ],
+      "verdict": "confirmed",
+      "note": "Official bio states formation in 2001 by Bill and Tom Kaulitz with Listing and Schäfer."
+    },
+    {
+      "claim": "Tom's instrument is not named",
+      "sourceIds": [
+        "tokio-hotel-official"
+      ],
+      "verdict": "confirmed",
+      "note": "Bio names members but not Tom's instrument."
+    },
+    {
+      "claim": "Schrei dated 2005, credited with mainstream breakthrough driven by Durch den Monsun",
+      "sourceIds": [
+        "tokio-hotel-official"
+      ],
+      "verdict": "confirmed",
+      "note": "Bio: Schrei propelled them to stardom, driven by hits like Durch den Monsun."
+    },
+    {
+      "claim": "Rolling Stone places the hit in 2005 and counts six albums since",
+      "sourceIds": [
+        "rs-interview-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Interview: Durch den Monsun 2005 hit; seitdem sechs Alben."
+    },
+    {
+      "claim": "Band together for more than 20 years; producers coax things out of musicians; organic songwriting",
+      "sourceIds": [
+        "rs-interview-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "sind seit über 20 Jahren zusammen; Die können Sachen aus dir rauskitzeln, das entsteht ganz organisch."
+    },
+    {
+      "claim": "Encore made with Antonina Armato and Tim James (Rock Mafia)",
+      "sourceIds": [
+        "rs-interview-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed in interview."
+    },
+    {
+      "claim": "Producers have worked with Miley Cyrus and Snoop Dogg",
+      "sourceIds": [
+        "rs-interview-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source spells Snoop Dog; same person."
+    },
+    {
+      "claim": "Encore entered German album charts at number three",
+      "sourceIds": [
+        "rs-interview-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in a related-story headline on the same page (Einstieg mit Encore auf Platz 3 der deutschen Albumcharts), not in the interview body."
+    },
+    {
+      "claim": "Rolling Stone covered a Berlin concert in August 2025, praised Tom's heavy riffs, headline about 17,000 fans in rain and drones",
+      "sourceIds": [
+        "rollingstone-de-berlin-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated 16.08.2025; gut 17.000 Zuschauer; Tom Kaulitz heavy riffs; headline matches."
+    },
+    {
+      "claim": "Arena Tour 2026: Berlin 25 Oct (Encore release show), London 28 Oct, Paris 30 Oct, Hamburg 1 Nov, Brussels, Amsterdam, Frankfurt, Berlin, Nuremberg, Zurich, Milan, Leipzig, Vienna, Munich, Luxembourg, Dusseldorf, Madrid 23 Nov; 18 dates; no venues named",
+      "sourceIds": [
+        "tokio-hotel-official"
+      ],
+      "verdict": "confirmed",
+      "note": "Tour list matches all dates; 18 entries; no venues listed."
+    },
+    {
+      "claim": "Summer Encore 2027 run with a stop in Magdeburg",
+      "sourceIds": [
+        "tokio-hotel-official"
+      ],
+      "verdict": "confirmed",
+      "note": "Magdeburg 15 Aug 2027 listed."
+    },
+    {
+      "claim": "Netflix announcement 2 June 2026, headline Our favorite twins are back, season 3 launches 23 July, quote about rare insights",
+      "sourceIds": [
+        "netflix-kaulitz-s3"
+      ],
+      "verdict": "confirmed",
+      "note": "Dated 02 June 2026; subheading Our favorite twins are back; launches July 23; quote matches."
+    },
+    {
+      "claim": "Season 3 start 23 July 2026 (kino.de)",
+      "sourceIds": [
+        "kino-de-kaulitz-s3"
+      ],
+      "verdict": "confirmed",
+      "note": "Staffel 3 startet am 23. Juli 2026."
+    },
+    {
+      "claim": "Tom Kaulitz born 1 September 1989 in Leipzig",
+      "sourceIds": [
+        "t-online-tom-kaulitz"
+      ],
+      "verdict": "confirmed",
+      "note": "Infobox Geburtsdatum und Ort: 1. September 1989, Leipzig. Page shows no article date."
+    },
+    {
+      "claim": "German citizenship",
+      "sourceIds": [
+        "t-online-tom-kaulitz"
+      ],
+      "verdict": "confirmed",
+      "note": "Staatsbürgerschaft: Deutsch."
+    },
+    {
+      "claim": "Official band site gives neither birth nor citizenship",
+      "sourceIds": [
+        "tokio-hotel-official"
+      ],
+      "verdict": "confirmed",
+      "note": "No such details on the official bio."
+    },
+    {
+      "claim": "Tokio Hotel is a German rock band",
+      "sourceIds": [
+        "tokio-hotel-official"
+      ],
+      "verdict": "confirmed",
+      "note": "Bio says the band rose from local heroes in Germany and describes atmospheric rock; it does not use the label German band verbatim."
+    },
+    {
+      "claim": "FAQ and frontmatter dates (London 28 Oct, Paris 30 Oct, Hamburg 1 Nov, Brussels 2 Nov, Madrid 23 Nov, Berlin 25 Oct)",
+      "sourceIds": [
+        "tokio-hotel-official"
+      ],
+      "verdict": "confirmed",
+      "note": "All match tour list."
+    },
+    {
+      "claim": "FAQ: Netflix made season 3 available from 23 July 2026 per June 2026 announcement",
+      "sourceIds": [
+        "netflix-kaulitz-s3"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Gives a dated tour timeline from the official site, a press-verified birth profile and the Netflix announcement date, with the chart and producer context from the interview.",
+  "decision": "approve",
+  "summary": "All claims confirmed by opened sources. The unsupported word debut for Schrei was removed in en.md before this check."
+}
