@@ -11,7 +11,7 @@ summary: >-
   The Legend of Zelda: Ocarina of Time remake is due on 5 November 2026, and it
   is exclusive to Nintendo Switch 2. Shortly before launch, producer Eiji Aonuma
   told AFP he was nervous about how it would turn out.
-status: published
+status: review
 risk: low
 reviewedAt: '2026-11-02'
 author: editor-in-chief

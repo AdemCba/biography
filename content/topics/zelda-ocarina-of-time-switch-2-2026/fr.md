@@ -10,7 +10,7 @@ summary: >-
   exclusivement sur Nintendo Switch 2. Peu avant la sortie, le producteur Eiji
   Aonuma a confié à l’AFP être nerveux sur la manière dont le jeu sera
   accueilli.
-status: published
+status: review
 risk: low
 reviewedAt: '2026-11-02'
 author: editor-in-chief
