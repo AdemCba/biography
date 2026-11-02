@@ -1,6 +1,6 @@
 # Google Analytics, last 7 days
 
-Updated 2026-11-02. 248 page views.
+Updated 2026-11-02. 253 page views.
 
 | Day | Users | Sessions | Page views | Engaged time per user |
 | --- | --- | --- | --- | --- |
@@ -9,31 +9,32 @@ Updated 2026-11-02. 248 page views.
 | 2026-10-30 | 15 | 20 | 114 | 18s |
 | 2026-10-31 | 11 | 13 | 43 | 84s |
 | 2026-11-01 | 5 | 6 | 6 | 2s |
+| 2026-11-02 | 5 | 6 | 5 | 8s |
 
 ## Where visitors come from
 
 | Channel | Sessions |
 | --- | --- |
-| Direct | 34 |
-| Organic Search | 26 |
-| Unassigned | 2 |
+| Direct | 38 |
+| Organic Search | 28 |
+| Unassigned | 4 |
 
 ## Countries
 
 | Country | Users | Page views |
 | --- | --- | --- |
 | Türkiye | 2 | 206 |
-| United States | 17 | 17 |
+| United States | 18 | 18 |
 | Singapore | 4 | 4 |
+| Hong Kong | 3 | 3 |
+| India | 3 | 3 |
 | Brazil | 2 | 3 |
 | China | 4 | 2 |
-| Hong Kong | 2 | 2 |
 | France | 2 | 1 |
 | Angola | 1 | 1 |
 | Argentina | 1 | 1 |
 | Cameroon | 1 | 1 |
 | Canada | 1 | 1 |
-| Chile | 1 | 1 |
 
 ## Most-read pages
 
@@ -47,11 +48,11 @@ Updated 2026-11-02. 248 page views.
 | /pt/ | 8 | 2 | 12s |
 | /en/mrbeast/ | 7 | 7 | 0s |
 | /en/trending/anthony-edwards-knee-recovery-2026/ | 4 | 2 | 9s |
+| /en/trending/gifi-redressement-judiciaire/ | 4 | 4 | 6s |
 | /es/ | 4 | 1 | 12s |
 | /pt/yaxel-lendeborg/ | 4 | 3 | 12s |
 | /de/trending/ | 3 | 2 | 3s |
 | /en/disclaimer/ | 3 | 1 | 10s |
-| /en/trending/gifi-redressement-judiciaire/ | 3 | 3 | 0s |
 | /fr/trending/ | 3 | 1 | 6s |
 | /pt/trending/a-fazenda-18-6-roca-2026/ | 3 | 1 | 13s |
 | /de/ | 2 | 2 | 5s |
@@ -59,6 +60,7 @@ Updated 2026-11-02. 248 page views.
 | /en/contact/ | 2 | 1 | 8s |
 | /en/copyright/ | 2 | 1 | 6s |
 | /en/jayson-tatum/ | 2 | 1 | 30s |
+| /en/luis-tralhao/ | 2 | 2 | 10s |
 | /en/mario-roman/ | 2 | 2 | 50s |
 | /en/trending/afghanistan-zimbabwe-first-t20i-2026/ | 2 | 1 | 7s |
 | /en/trending/amazon-earnings-preview-2026/ | 2 | 2 | 2s |
@@ -68,4 +70,3 @@ Updated 2026-11-02. 248 page views.
 | /fr/ | 2 | 1 | 8s |
 | /pt/trending/avengers-doomsday-premium-posters-2026/ | 2 | 1 | 5s |
 | /pt/trending/mpox-rio-vacina-2026/ | 2 | 1 | 19s |
-| /de/ibai-llanos/ | 1 | 1 | 86s |
