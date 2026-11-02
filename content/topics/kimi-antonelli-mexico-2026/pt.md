@@ -1,66 +1,73 @@
 ---
-title: 'Kimi Antonelli pode ser campeão da F1 no México: o que ele precisa'
+title: Kimi Antonelli é campeão mundial de F1 após o GP do México
 slug: kimi-antonelli-mexico-2026
-metaTitle: 'Kimi Antonelli: título da F1 no México'
+metaTitle: Kimi Antonelli campeão da F1 no México
 metaDescription: >-
-  Kimi Antonelli pode ser campeão da F1 neste domingo, no GP da Cidade do
-  México. Com 365 pontos, um 9º lugar basta, segundo a Sky Sports.
+  Kimi Antonelli foi campeão mundial de F1 no GP do México de 1 de novembro,
+  terminando em 3º atrás de Verstappen e Hamilton.
 summary: >-
-  Kimi Antonelli chega ao GP da Cidade do México com 123 pontos de vantagem
-  sobre George Russell e 124 sobre Lewis Hamilton. A Sky Sports diz que um 9º
-  lugar lhe dá o título, mas um jornal alemão fala em 5º. A corrida acontece no
-  domingo, 1 de novembro de 2026.
+  Kimi Antonelli se tornou campeão mundial de Fórmula 1 no GP da Cidade do
+  México, em 1 de novembro de 2026. Verstappen venceu a corrida e Antonelli
+  terminou em 3º, o suficiente para garantir o título.
 status: published
-risk: medium
-publishedAt: '2026-11-01'
-publishedTime: '2026-11-01T21:31:34.903Z'
-reviewedAt: '2026-11-01'
+risk: low
+publishedAt: '2026-11-02'
+publishedTime: '2026-11-02T00:18:37.002Z'
+reviewedAt: '2026-11-02'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - kimi antonelli campeão f1
   - kimi antonelli título méxico
-  - kimi antonelli pontos campeonato
-  - gp do méxico 2026 pole
   - antonelli campeão mais jovem f1
+  - gp do méxico 2026 resultado
+faq:
+  - q: Kimi Antonelli foi campeão da F1 no México?
+    a: >-
+      Sim. Ele terminou em 3º lugar no GP da Cidade do México, atrás de Max
+      Verstappen e Lewis Hamilton. Um 9º lugar já bastava para o título
+      [s:f1-mexico-race-report] [s:pagina12-antonelli-mexico-2026].
+  - q: Quantos anos tem Kimi Antonelli?
+    a: >-
+      A Fórmula 1 descreve Antonelli como tendo 20 anos e o chama de campeão
+      mais jovem da história da categoria [s:f1-mexico-race-report].
 ---
-[Kimi Antonelli](person:kimi-antonelli) pode ser campeão mundial de Fórmula 1 já no GP da Cidade do México, neste domingo, 1 de novembro [s:unotv-antonelli-mexico-2026]. O piloto da Mercedes chega à corrida com uma vantagem grande. Até a publicação deste texto, não havia resultado final da corrida nas coberturas consultadas.
+## O que decidiu o título
 
-## O que aconteceu em Austin
+[Kimi Antonelli](person:kimi-antonelli) chegou ao GP da Cidade do México com uma vantagem que tornava a conta simples: bastava terminar em 9º lugar para ser campeão, não importando o resultado de George Russell ou de Lewis Hamilton [s:f1-mexico-race-report]. Ele acabou em 3º, a 4,006 segundos de Verstappen, que venceu a corrida, e a 0,799 segundo de Hamilton, que foi o segundo [s:f1-mexico-race-report]. O título veio com a bandeirada, sem necessidade de cálculo de pontos no fim.
 
-Antonelli venceu o GP dos Estados Unidos em 25 de outubro, largando da pole position. Ele completou 56 voltas com uma parada só, com pneus médios no início e duros até a bandeirada, e cruzou a linha em 1:35:16.650 [s:f1-austin-race-report]. Foi a nona vitória dele na temporada [s:skysports-austin-report]. Charles Leclerc terminou a 13,078 segundos, Hamilton foi quarto e Russell, oitavo [s:f1-austin-race-report].
+A corrida foi disputada em 71 voltas no Autódromo Hermanos Rodríguez. Verstappen fez a sua terceira vitória da temporada, partindo do 5º lugar do grid [s:f1-mexico-race-report]. Charles Leclerc terminou em 4º, a 10,707 segundos, e Lando Norris em 5º, a 11,778 segundos [s:f1-mexico-race-report].
 
-Depois da corrida, ele disse estar "muito perto" do título [s:skysports-austin-report]. A conta oficial da Fórmula 1 no X descreveu a vitória como uma condução dominante do líder do campeonato [s:unotv-antonelli-mexico-2026]. A Sky Sports lembrou que ainda havia até 125 pontos em jogo naquele momento, o que deixou a conta aberta [s:skysports-austin-report].
+## O que aconteceu antes da bandeirada
 
-## Cronologia da semana
+Na largada, Leclerc e Hamilton correram lado a lado e saíram da pista. Verstappen assumiu a liderança depois da punição de Leclerc, que recebeu 5 segundos por causa do incidente na primeira volta [s:f1-mexico-race-report]. A Fórmula 1 não registrou uma segunda punição de 10 segundos para o mesmo lance [s:f1-mexico-race-report].
 
-Em 25 de outubro, Antonelli ganhou em Austin. A Sky Sports publicou a reportagem sobre a vitória em 26 de outubro [s:skysports-austin-report], e a Plano Informativo repetiu as contas de pontos no dia 27 [s:planoinformativo-antonelli-mexico-2026]. O treino de classificação foi em 31 de outubro [s:sportschau-mexiko-quali-2026], e a corrida está marcada para o domingo, 1 de novembro [s:unotv-antonelli-mexico-2026].
+Na primeira volta, Russell tocou em Isack Hadjar e o mandou rodar na curva 6. Russell recebeu uma punição de 10 segundos [s:f1-mexico-race-report]. Na volta 46, Valtteri Bottas bateu forte na curva 1 depois de uma falha na suspensão dianteira esquerda, e uma bandeira vermelha se seguiu. Mais tarde, Lindblad bateu na curva 2 após um contato com Piastri, e um Safety Car entrou na pista [s:f1-mexico-race-report].
 
-## Quantos pontos ele tem e o que precisa
+## Como ele chegou até aqui
 
-Antonelli tem 365 pontos [s:unotv-antonelli-mexico-2026] [s:planoinformativo-antonelli-mexico-2026]. Russell está 123 pontos atrás e Hamilton, 124 [s:skysports-austin-report] [s:unotv-antonelli-mexico-2026]. Se essas distâncias forem subtraídas dos 365, Russell ficaria com 242 pontos e Hamilton com 241. São contas feitas a partir das cifras da Sky Sports e da UNO TV, e nenhuma das duas publica esses totais. O Página12 descreve Hamilton, sete vezes campeão mundial, como o piloto que conquistou a pole [s:pagina12-antonelli-mexico-2026]. Com essa diferença, a briga pelo título depende mais da matemática do que de uma virada espetacular.
+Antonelli já tinha vencido o GP dos Estados Unidos, em Austin, no dia 25 de outubro, e disse então estar "muito perto" do título [s:skysports-austin-report]. Naquele momento, ainda havia até 125 pontos em disputa, o que deixava a conta aberta [s:skysports-austin-report]. A vitória em Austin foi a nona dele na temporada [s:skysports-austin-report]. Antes de Mexico City, a UNO TV informou que ele tinha 365 pontos, com 123 de vantagem sobre Russell e 124 sobre Hamilton [s:unotv-antonelli-mexico-2026].
 
-A regra prática aparece de forma parecida nas coberturas. A Sky Sports escreve que um 9º lugar no México garante o título com quatro etapas ainda por disputar [s:skysports-austin-report]. A UNO TV confirma a mesma posição e lista as etapas restantes: Brasil, Las Vegas, Catar e Abu Dhabi, com 100 pontos em disputa [s:unotv-antonelli-mexico-2026]. O Página12 resume de forma direta: Antonelli precisa de dois pontos, ou seja, de um 9º lugar, para se tornar o campeão mais jovem da história da Fórmula 1 [s:pagina12-antonelli-mexico-2026].
+Antes da corrida, a conta mostrava uma vantagem de 123 pontos sobre Russell e de 124 sobre Hamilton, segundo as cifras publicadas [s:skysports-austin-report] [s:unotv-antonelli-mexico-2026]. O terceiro lugar em Mexico City foi suficiente para fechar a disputa antes do fim da temporada [s:f1-mexico-race-report].
 
-Há uma exceção que vale citar. O Sportschau escreveu que um 5º lugar no domingo seria suficiente para o primeiro título mundial dele [s:sportschau-mexiko-quali-2026]. Esse número não aparece nas outras coberturas, por isso o leitor deve tratá-lo como ponto fora da curva e não como regra.
+Em Austin, Antonelli largou da pole, uma volta que o chefe da Mercedes, Toto Wolff, chamou de "miracle lap" [s:f1-austin-race-report]. Ele completou as 56 voltas com uma parada só, em 1:35:16.650. Leclerc ficou a 13,078 segundos, Verstappen a 17,485 segundos e Hamilton a 18,515 segundos, em quarto [s:f1-austin-race-report]. Russell terminou em 8º, depois de uma punição de cinco segundos por bater as rodas com Piastri [s:f1-austin-race-report]. Antonelli disse: "It was the result we needed", e acrescentou que "the whole team deserve it so much" [s:skysports-austin-report].
 
-## Como ler as cifras de cada veículo
+## O que ele disse
 
-As cifras batem no essencial, mas cada veículo traz um pedaço diferente. A Sky Sports dá as distâncias para Russell e Hamilton e o máximo de 125 pontos em disputa, sem o total de Antonelli [s:skysports-austin-report]. A UNO TV informa o total, 365 pontos, e as nove vitórias na temporada [s:unotv-antonelli-mexico-2026]. A Plano Informativo traz os mesmos 365, 123 e 124 [s:planoinformativo-antonelli-mexico-2026]. O Sportschau é o único que fala em 5º lugar [s:sportschau-mexiko-quali-2026], e o Página12 trabalha com a conta de dois pontos, ou seja, o 9º lugar [s:pagina12-antonelli-mexico-2026].
-
-## A classificação no México
-
-Hamilton, da Ferrari, fez a pole com 1:16.514, a primeira pole da Ferrari na temporada [s:sportschau-mexiko-quali-2026]. Atrás dele vieram Russell, a 0,009 segundo, Leclerc, a 0,119, e Verstappen, da Red Bull, em quarto [s:sportschau-mexiko-quali-2026].
-
-Antonelli largará em 5º, segundo o Sportschau [s:sportschau-mexiko-quali-2026]. Lando Norris ficou em 6º, e Nico Hülkenberg, da Audi, em 11º, perdeu a vaga no Q3 por 0,028 segundo [s:sportschau-mexiko-quali-2026].
+Logo depois da corrida, o novo campeão mundial falou sobre a família e a equipe: "We did it. And, you know, without them, I wouldn't be here. Without Mercedes, without my family" [s:f1-mexico-race-report]. A frase deixa claro que a conquista é de uma equipe inteira, e não só de um piloto de 20 anos que ainda está no início da carreira.
 
 ## Por que isso importa
 
-Se for campeão no domingo, Antonelli se torna o campeão mais jovem da história da F1, segundo o Página12 [s:pagina12-antonelli-mexico-2026]. Para ele, seria também o primeiro título mundial, como lembra o Sportschau [s:sportschau-mexiko-quali-2026].
+Antonelli é o campeão mais jovem da história da Fórmula 1, segundo a própria F1 [s:f1-mexico-race-report]. O título é também o primeiro dele no campeonato de pilotos, o que a própria F1 descreve como seu "maiden title" [s:f1-mexico-race-report].
+## A classificação em Mexico City
 
-A legenda de foto do Página12 descreve o momento de forma simples: depois da vitória em Austin, ele persegue o maior sonho da carreira no México [s:pagina12-antonelli-mexico-2026].
+O treino de classificação deu a pole a Lewis Hamilton, com 1:16.514, a primeira pole da Ferrari na temporada [s:sportschau-mexiko-quali-2026]. Russell ficou a 0,009 segundo, Leclerc a 0,119 segundo e Verstappen veio em quarto [s:sportschau-mexiko-quali-2026]. Na corrida, Verstappen saiu da quinta posição do grid e venceu [s:f1-mexico-race-report].
 
-## O que vem depois
+## O que a Sky Sports disse antes de Mexico City
 
-O resultado do domingo vai dizer se a disputa pelo título termina no México ou segue para o Brasil. O que acompanhar é a posição final de Antonelli e onde terminam Russell e Hamilton. Se o título ficar para depois, a primeira etapa dessa lista é o Brasil, e é nela que se verá se os 123 ou 124 pontos de vantagem ainda são suficientes [s:unotv-antonelli-mexico-2026].
+Depois de Austin, Antonelli disse "We are very close" e queria fechar a conta logo [s:skysports-austin-report]. A Sky Sports escreveu que um 9º lugar no México bastava para o título com quatro etapas de sobra [s:skysports-austin-report]. O terceiro lugar que ele conquistou ficou bem acima dessa exigência [s:f1-mexico-race-report].
+
+## O que observar agora
+
+O campeonato de pilotos já tem um vencedor, mas a temporada não acabou. Na época em que a vantagem foi divulgada, faltavam cinco etapas, incluindo o México; depois dele vinham o GP do Brasil, Las Vegas, Catar e Abu Dhabi [s:unotv-antonelli-mexico-2026]. Quem acompanhar essas corridas vai ver se o campeão mantém o ritmo que o levou a vencer em Austin e a fechar o título no México [s:skysports-austin-report] [s:f1-mexico-race-report].
