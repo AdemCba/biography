@@ -17,8 +17,11 @@ import {
   lastModified,
   liveArticle,
   livePeople,
+  liveTopics,
   personPath,
+  topicPath,
 } from "@/lib/content";
+import { TRENDING } from "@/i18n/trending";
 import { ageOn, countryName, fillAge, formatDate, headings, resolveShortcuts, splitBeforeHeading } from "@/lib/markdown";
 import { pageMetadata, personAlternates, personJsonLd } from "@/lib/seo";
 import { responsiveImage } from "@/lib/images";
@@ -107,6 +110,8 @@ export default async function BiographyPage({ params }: PageProps<"/[locale]/[sl
   const { facts } = data;
   const now = new Date().toISOString().slice(0, 10);
   const relatedPeople = related(data.id, locale);
+  // Latest trending stories about this person: links the evergreen bio to the news and back.
+  const news = liveTopics(locale, store).filter(({ topic }) => topic.data.people.includes(data.id)).slice(0, 5);
 
   return (
     <article className="mx-auto max-w-3xl">
@@ -244,6 +249,20 @@ export default async function BiographyPage({ params }: PageProps<"/[locale]/[sl
             </a>
           </p>
         </section>
+
+        {news.length > 0 && (
+          <section aria-labelledby="in-news">
+            <h2 id="in-news" className="mb-4 text-2xl font-semibold">{TRENDING[locale].inNews}</h2>
+            <ul className="space-y-2">
+              {news.map(({ topic: tp, article: a }) => (
+                <li key={tp.data.id}>
+                  <Link href={topicPath(locale, a.meta.slug)} className="text-accent underline">{a.meta.title}</Link>
+                  {a.meta.publishedAt && <span className="text-sm text-muted"> · {formatDate(a.meta.publishedAt, locale)}</span>}
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
 
         {relatedPeople.length > 0 && (
           <section aria-labelledby="related">
