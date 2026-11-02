@@ -1,6 +1,6 @@
 # Google Analytics, last 7 days
 
-Updated 2026-11-01. 242 page views.
+Updated 2026-11-02. 248 page views.
 
 | Day | Users | Sessions | Page views | Engaged time per user |
 | --- | --- | --- | --- | --- |
@@ -8,22 +8,23 @@ Updated 2026-11-01. 242 page views.
 | 2026-10-29 | 12 | 15 | 63 | 27s |
 | 2026-10-30 | 15 | 20 | 114 | 18s |
 | 2026-10-31 | 11 | 13 | 43 | 84s |
+| 2026-11-01 | 5 | 6 | 6 | 2s |
 
 ## Where visitors come from
 
 | Channel | Sessions |
 | --- | --- |
-| Direct | 31 |
-| Organic Search | 23 |
+| Direct | 34 |
+| Organic Search | 26 |
 | Unassigned | 2 |
 
 ## Countries
 
 | Country | Users | Page views |
 | --- | --- | --- |
-| Türkiye | 2 | 204 |
-| United States | 15 | 15 |
-| Singapore | 3 | 3 |
+| Türkiye | 2 | 206 |
+| United States | 17 | 17 |
+| Singapore | 4 | 4 |
 | Brazil | 2 | 3 |
 | China | 4 | 2 |
 | Hong Kong | 2 | 2 |
@@ -41,10 +42,10 @@ Updated 2026-11-01. 242 page views.
 | /pt/trending/ | 50 | 2 | 54s |
 | /en/trending/ | 33 | 2 | 48s |
 | /en/ | 26 | 2 | 425s |
-| / | 22 | 17 | 2s |
+| / | 23 | 18 | 2s |
 | /en/editors/editor-in-chief/ | 9 | 1 | 27s |
 | /pt/ | 8 | 2 | 12s |
-| /en/mrbeast/ | 6 | 6 | 0s |
+| /en/mrbeast/ | 7 | 7 | 0s |
 | /en/trending/anthony-edwards-knee-recovery-2026/ | 4 | 2 | 9s |
 | /es/ | 4 | 1 | 12s |
 | /pt/yaxel-lendeborg/ | 4 | 3 | 12s |
