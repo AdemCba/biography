@@ -1,6 +1,6 @@
 # Search Console, last 7 days
 
-Updated 2026-11-02. 90 clicks, 36054 impressions.
+Updated 2026-11-02. 90 clicks, 36111 impressions.
 
 | Day | Clicks | Impressions | CTR | Position |
 | --- | --- | --- | --- | --- |
@@ -11,7 +11,7 @@ Updated 2026-11-02. 90 clicks, 36054 impressions.
 | 2026-10-30 | 29 | 8390 | 0.3% | 10.8 |
 | 2026-10-31 | 16 | 7314 | 0.2% | 11.3 |
 | 2026-11-01 | 8 | 7817 | 0.1% | 11.0 |
-| 2026-11-02 | 0 | 1 | 0.0% | 11.0 |
+| 2026-11-02 | 0 | 58 | 0.0% | 12.3 |
 
 ## Clicks by page and day
 

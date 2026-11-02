@@ -18,15 +18,15 @@ For each page, edit only that language's file:
 
 ## Pages
 
-- [ ] pt/yaxel-lendeborg (472 impressions, 3 clicks, position 8.4): yaxel lendeborg idade, yaxel lendeborg altura, yaxel lendeborg, yaxel lendeborg estatísticas, idade yaxel lendeborg, lendeborg altura, yaxel lendeborg posição, estatísticas de yaxel lendeborg
+- [ ] pt/yaxel-lendeborg (473 impressions, 3 clicks, position 8.4): yaxel lendeborg idade, yaxel lendeborg altura, yaxel lendeborg, yaxel lendeborg estatísticas, idade yaxel lendeborg, lendeborg altura, yaxel lendeborg posição, estatísticas de yaxel lendeborg
 - [ ] de/trending/the-rookie-staffel-9-2026 (242 impressions, 0 clicks, position 8.9): the rookie staffel 9, the rookie staffel 9 wow, wann kommt the rookie staffel 9, the rookie season 9, the rookie staffel 9 österreich, rookie staffel 9 wow, the rookie disney plus staffel 9, the rookie staffel 9 sky
 - [ ] de/ibrahim-maza (229 impressions, 0 clicks, position 10.0): ibrahim maza alter, ibrahim maza nationalität, maza nationalität, ibrahim maza herkunft, maza leverkusen nationalität, maza trikotnummer, maza alter, trikotnummer maza
 - [ ] de/usain-bolt (211 impressions, 0 clicks, position 17.3): usain bolt, usain bolt alter, usain bolt goldmedaillen, bolt usain, usain bolt weltrekord, usain bolt rekord, bold sprinter, wie alt war usain bolt bei seinem weltrekord
 - [ ] en/quenton-nelson (211 impressions, 0 clicks, position 11.9): quentin nelson age, quenton nelson age, quinton nelson age, quenton nelson, quenton nelson contract, where did quenton nelson go to high school, where is quinton nelson from, wuentin nelson age
 - [ ] es/kai-cenat (174 impressions, 1 clicks, position 11.3): kai cenat, kai cenat edad, edad de kai cenat, edad kai cenat, kai cenar, kai centa, cual es el streamer mas famoso del mundo, cuantos años tiene kai cenat
 - [ ] de/vicky-lopez (168 impressions, 0 clicks, position 11.4): viki lopez, vicky lopez alter, wie alt ist vicky lopez, vicky lopez, vicki lopez, vicky lópez alter, vicky lópez, vicky lopez rückennummer
+- [ ] es/luke-littler (168 impressions, 0 clicks, position 9.0): luke littler, luke littler edad, beat luke littler, luke litter, luke littler netflix, beat littler, best luke littler netflix, luke litler
 - [ ] de/sandro-wagner (167 impressions, 0 clicks, position 11.0): sandro wagner trainer stationen, sandro wagner, wo hat sandro wagner gespielt, sandro wagner trainerkarriere, seit wann ist sandro wagner trainer bei hannover 96, trainerstation sandro wagner, sandro wagner trainer karriere, sandro wagner spielerkarriere
-- [ ] es/luke-littler (166 impressions, 0 clicks, position 9.0): luke littler, luke littler edad, beat luke littler, luke litter, luke littler netflix, beat littler, best luke littler netflix, luke litler
 - [ ] en/jiri-lehecka (153 impressions, 0 clicks, position 12.6): lehecka titles, jiri lehecka titles, jiri lehecka, lehecka atp titles, jiri lehecka ranking, jiří lehečka, lehecka tennis player, no 1 czech tennis player
 - [ ] de/mrbeast (152 impressions, 0 clicks, position 8.3): mr beast alter, wie alt ist mrbeast, wie alt ist mr beast, mrbeast alter, mr beast vermögen 2026, mr beast herkunft, wie reich ist mr beast, wie viele abonnenten hat mrbeast
 - [ ] de/bhad-bhabie (149 impressions, 0 clicks, position 12.0): bhad bhabie, bhad bhabie alter, ist bhad bhabie, bhad babie, bha bhabie, bhad baddie, bhad barbie, bhad bhabie rapper
