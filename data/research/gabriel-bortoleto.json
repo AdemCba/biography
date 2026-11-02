@@ -1,0 +1,82 @@
+{
+  "worthWriting": true,
+  "reason": "Current F1 driver for Audi Revolut F1 Team in the 2026 season. Official F1 and Audi pages confirm identity, team, birth date and birthplace, and his 2026 points. The UOL news hook (2026-11-01) could not be opened and is not used as a fact.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "f1-driver-profile",
+      "url": "https://www.formula1.com/en/drivers/gabriel-bortoleto",
+      "title": "Gabriel Bortoleto - Driver profile",
+      "publisher": "Formula 1",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "audi-f1-australia-debut",
+      "url": "https://contenthub.audif1.com/en/releases/2026-australian-grand-prix-sunday-154",
+      "title": "2026 Australian Grand Prix - Sunday",
+      "publisher": "Audi Revolut F1 Team",
+      "type": "company",
+      "lang": "en"
+    },
+    {
+      "id": "audi-f1-team-site",
+      "url": "https://www.audif1.com/",
+      "title": "Audi Revolut F1 Team",
+      "publisher": "Audi Revolut F1 Team",
+      "type": "company",
+      "lang": "en"
+    },
+    {
+      "id": "f1-half-term-report",
+      "url": "https://www.formula1.com/en/latest/article/half-term-report-audis-best-and-worst-moments-from-2026-so-far-and-driver-head-to-heads.5J8OmjFiC4HLu84ZvZrh2Y",
+      "title": "HALF TERM REPORT: Audi's best and worst moments from 2026 so far and driver head-to-heads",
+      "publisher": "Formula 1",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "pitdebrief-british-gp",
+      "url": "https://www.pitdebrief.com/?p=131273",
+      "title": "Bortoleto feels points finish at 2026 British GP a sign of Audi F1 progress",
+      "publisher": "Pit Debrief",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "2004-10-14",
+      "sources": [
+        "f1-driver-profile"
+      ],
+      "note": "F1 profile gives 14/10/2004."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "São Paulo, Brazil",
+      "sources": [
+        "f1-driver-profile"
+      ],
+      "note": "F1 profile."
+    },
+    "nationality": {
+      "value": "BR",
+      "sources": [
+        "f1-driver-profile"
+      ],
+      "note": "F1 profile lists Brazil."
+    }
+  },
+  "targetQueries": [
+    "Gabriel Bortoleto idade",
+    "Gabriel Bortoleto Audi",
+    "onde Gabriel Bortoleto nasceu",
+    "Gabriel Bortoleto pontos 2026",
+    "Gabriel Bortoleto Audi F1 2026",
+    "Gabriel Bortoleto Fórmula 1"
+  ],
+  "gapNote": "Official pages show 14 points and 14th on the F1 driver profile (snapshot, date not shown), while the F1 half-term report (2026-08-11) says he scored 10 of Audi's 12 points at that point. The F1 profile and the Audi debut release are the reliable sources. The UOL 'nine races' claim is not verified and conflicts with the consecutive points finishes at Silverstone and Spa, so the page avoids it. Audi's current team total was not found in the official pages."
+}

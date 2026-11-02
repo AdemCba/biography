@@ -10,7 +10,7 @@ summary: >-
   Ryo Hirakawa é o piloto japonês que a Haas chamou para substituir Esteban Ocon
   pelo resto do fim de semana do GP da Cidade do México de 2026. Tem 32 anos,
   venceu duas vezes o Campeonato Mundial de Endurance (WEC) pela Toyota e é
-  piloto reserva oficial da Haas desde abril de 2025.
+  piloto reserva oficial da Haas desde abril de 2025. Em 2026 segue correndo pela Toyota no WEC.
 status: published
 risk: low
 reviewedAt: '2026-11-01'
@@ -25,6 +25,8 @@ targetQueries:
   - equipe de Ryo Hirakawa
   - Ryo Hirakawa Haas
   - Ryo Hirakawa GP do México
+  - Ryo Hirakawa Le Mans
+  - Ryo Hirakawa WEC
 faq:
   - q: Quantos anos tem Ryo Hirakawa?
     a: >-
@@ -44,6 +46,14 @@ faq:
     a: >-
       Ele é piloto reserva oficial da Haas e normalmente corre pela Toyota no
       WEC.
+  - q: Ryo Hirakawa já venceu as 24 Horas de Le Mans?
+    a: Sim. Ele venceu as 24 Horas de Le Mans de 2022 pela Toyota [s:haas-profile].
+  - q: Por qual equipe Ryo Hirakawa corria antes da Haas?
+    a: >-
+      Ele era piloto de testes e reserva oficial da Alpine antes de se tornar
+      piloto reserva da Haas, em abril de 2025 [s:haas-profile]
+      [s:f1-reserve-driver-2025].
+updatedAt: '2026-11-02'
 autoReviews: 1
 publishedAt: '2026-11-01'
 publishedTime: '2026-11-01T09:55:16.524Z'
@@ -51,6 +61,10 @@ publishedTime: '2026-11-01T09:55:16.524Z'
 A Haas tirou Esteban Ocon do restante do GP da Cidade do México de 2026 e não explicou o motivo. A equipe confirmou que Ocon não estava doente [s:racefans-ocon-replacement-2026]. Ryo Hirakawa, de 32 anos, foi escalado na manhã de sábado, antes do treino classificatório [s:f1-dream-come-true-2026] [s:f1-ocon-replacement-2026].
 
 Hirakawa ficaria ao lado de Ollie Bearman no último treino livre, no classificatório e na corrida de 71 voltas de domingo [s:f1-ocon-replacement-2026]. A Fórmula 1 apresentou a prova como sua primeira largada em um Grande Prêmio [s:f1-ocon-replacement-2026].
+
+## Novembro de 2026
+
+A Haas anunciou em 31 de outubro de 2026, um sábado, que Hirakawa assumiria o carro de Ocon [s:f1-ocon-replacement-2026]. O perfil oficial da Haas ainda o lista como piloto reserva oficial e diz que ele continua na Toyota no WEC em 2026 [s:haas-profile]. A equipe não disse se ele ficará com a vaga além do México, e Ocon deixa a Haas ao fim da temporada [s:racefans-ocon-replacement-2026].
 
 ## Treinos livres e classificação no México
 

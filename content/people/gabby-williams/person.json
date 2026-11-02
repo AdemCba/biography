@@ -1,0 +1,140 @@
+{
+  "id": "gabby-williams",
+  "name": "Gabby Williams",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1996-09-09",
+      "sources": [
+        "wnba-player-bio",
+        "fiba-player-profile"
+      ],
+      "note": "Both pages give Sep 9, 1996."
+    },
+    "birthPlace": {
+      "value": "Nevada, United States",
+      "sources": [
+        "nevada-sports-net-reed-high"
+      ],
+      "note": "Nevada Sports Net says Reno. Other reports give Sparks, Nevada, which is also in Nevada. The city is not settled in the sources opened, so only the state is stated."
+    },
+    "nationality": {
+      "value": [
+        "FR",
+        "US"
+      ],
+      "sources": [
+        "fiba-player-profile",
+        "fiba-french-poy-2026",
+        "nevada-sports-net-reed-high"
+      ],
+      "note": "FIBA lists FRA/USA; the French award and the NSN piece describe dual citizenship."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "wnba-player-bio",
+      "url": "https://www.wnba.com/player/1628931/gabby-williams/bio",
+      "title": "Gabby Williams - WNBA.com player bio",
+      "publisher": "WNBA",
+      "type": "league-or-federation",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "valkyries-signing-2026",
+      "url": "https://valkyries.wnba.com/news/valkyries-make-splash-signing-first-ever-all-star-free-agent-gabby-williams-20260412",
+      "title": "Valkyries Make Splash Signing First-Ever All-Star Free Agent Gabby Williams",
+      "publisher": "Golden State Valkyries",
+      "type": "official",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "valkyries-allstar-starter",
+      "url": "https://valkyries.wnba.com/news/leader-closer-all-star-starter-gabby-williams-is-the-full-package-20260702",
+      "title": "Leader, Closer, All-Star Starter: Gabby Williams is the Full Package",
+      "publisher": "Golden State Valkyries",
+      "type": "official",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "fiba-french-poy-2026",
+      "url": "https://www.fiba.basketball/en/news/gabby-beats-wemby-to-french-player-of-the-year-award",
+      "title": "Gabby beats Wemby to French Player of the Year award",
+      "publisher": "FIBA",
+      "type": "league-or-federation",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "fiba-player-profile",
+      "url": "https://www.fiba.basketball/en/players/216915",
+      "title": "Gabby Williams - FIBA player profile",
+      "publisher": "FIBA",
+      "type": "league-or-federation",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "fiba-paris-2024-mvp-preview",
+      "url": "https://www.fiba.basketball/en/events/womens-olympic-basketball-tournament-paris-2024/news/is-gabby-williams-the-mvp-in-waiting",
+      "title": "Is Gabby Williams the MVP in waiting?",
+      "publisher": "FIBA",
+      "type": "league-or-federation",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "lanacion-wc-final-2026",
+      "url": "https://www.lanacion.com.ar/usa/france-star-gabby-williams-again-denied-by-us-in-womens-fiba-world-cup-final-nid13092026/",
+      "title": "France star Gabby Williams again denied by US in women's FIBA World Cup final",
+      "publisher": "La Nacion (AP wire)",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "nevada-sports-net-reed-high",
+      "url": "https://nevadasportsnet.com/news/reporters/reed-high-alum-gabby-williams-will-play-in-olympics-with-team-france",
+      "title": "Reed High alum Gabby Williams will play in Olympics with Team France",
+      "publisher": "Nevada Sports Net",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "uconn-magazine-2018",
+      "url": "https://magazine.uconn.edu/2018/05/22/thanks-four-years-awesome",
+      "title": "Thanks four years, awesome",
+      "publisher": "UConn Magazine",
+      "type": "official",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "fox-news-tokyo-bronze",
+      "url": "https://www.foxnews.com/sports/france-beats-serbia-91-76-for-bronze-medal-in-womens-hoops",
+      "title": "France beats Serbia 91-76 for bronze medal in women's hoops",
+      "publisher": "Fox News (AP)",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "lex18-tokyo-bronze",
+      "url": "https://www.lex18.com/news/france-women-blast-serbia-basketball-bronze",
+      "title": "France women blast Serbia for basketball bronze",
+      "publisher": "LEX 18 (AP)",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    }
+  ]
+}

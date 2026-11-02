@@ -1,19 +1,20 @@
 ---
 title: Kimi Antonelli
 slug: kimi-antonelli
-metaTitle: 'Kimi Antonelli: age, wins and the Mexico City title chance'
+metaTitle: 'Kimi Antonelli: {age}, 2026 F1 world champion'
 metaDescription: >-
-  Kimi Antonelli's age, Bologna roots, karting start and Mercedes career, and
-  the Mexico City Grand Prix, which could give him the 2026 Formula 1 title.
-knownFor: 'Italian Formula 1 driver for Mercedes, 2026 championship leader'
+  Kimi Antonelli, {age}, won the 2026 F1 world title in Mexico City on 1
+  November, the youngest champion in the sport's history.
+knownFor: 'Italian Formula 1 driver for Mercedes, 2026 world champion'
 summary: >-
   Kimi Antonelli is the Italian Formula 1 driver who races for Mercedes. He won
-  the 2026 United States Grand Prix at Austin on 25 October 2026 and leads the
-  drivers' championship, 123 points clear of George Russell. The Mexico City
-  Grand Prix, seven days after Austin, could give him the title.
+  the 2026 world championship at the Mexico City Grand Prix on 1 November 2026,
+  finishing third behind Max Verstappen and Lewis Hamilton. At 20 years and 68
+  days, he is the youngest world champion in Formula 1 history.
 status: published
 risk: low
 publishedAt: '2026-11-01'
+updatedAt: '2026-11-02'
 reviewedAt: '2026-11-01'
 reviewBy: '2027-05-01'
 author: editor-in-chief
@@ -21,28 +22,26 @@ reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Kimi Antonelli
-  - Kimi Antonelli world championship
+  - Kimi Antonelli world champion
+  - Kimi Antonelli championship
+  - Kimi Antonelli age
+  - Kimi Antonelli age 2026
   - Kimi Antonelli Mexico City Grand Prix
   - Kimi Antonelli United States Grand Prix
-  - Kimi Antonelli age
-  - Kimi Antonelli birthday
-  - Kimi Antonelli points
-  - Kimi Antonelli wins 2026
   - Kimi Antonelli Mercedes
   - Kimi Antonelli father Marco
-  - Kimi Antonelli Formula 2
-  - Kimi Antonelli Italian F4
 faq:
-  - q: Can Kimi Antonelli clinch the title in Mexico City?
+  - q: Did Kimi Antonelli win the 2026 world championship?
     a: >-
-      Yes. Formula 1 says a top-nine finish in Mexico City confirms him as world
-      champion [s:f1-mexico-race-week]. If Russell wins the race he needs ninth
-      or better, and if Hamilton wins he needs tenth or better; if neither wins,
-      he takes the title whatever his finish [s:crash-mexico-title].
+      Yes. He finished third at the Mexico City Grand Prix on 1 November 2026,
+      and that was enough: he needed only ninth place, whatever Russell and
+      Hamilton did [s:f1-mexico-race-report] [s:fia-mexico-report]. He clinched
+      it with four rounds to spare [s:skysports-mexico-title].
   - q: How old is Kimi Antonelli?
     a: >-
-      He was born on 25 August 2006, so he turned 20 in August 2026 and is 20 as
-      of 26 October 2026, the date of the reports this page uses.
+      He was born on 25 August 2006 [s:f1-driver-profile]. He was 20 years and 68
+      days old when he won the title, the youngest world champion in Formula 1
+      history [s:skysports-mexico-title].
   - q: Did Kimi Antonelli win the 2026 United States Grand Prix?
     a: >-
       Yes. He started from pole and won at Austin on 25 October 2026, his ninth
@@ -64,7 +63,11 @@ Kimi Antonelli won the 2026 United States Grand Prix at the Circuit of the Ameri
 
 ## November 2026
 
-The drivers' title could be decided at the Mexico City Grand Prix, round 19 of the season and seven days after Austin [s:f1-mexico-race-week]. Antonelli leads George Russell by 123 points, and 125 points remain across five rounds [s:crash-mexico-title]. Formula 1 says a top-nine finish in Mexico City would confirm him as world champion [s:f1-mexico-race-week]. Crash.net sets out the other cases: if Russell wins, Antonelli needs ninth or better, and if Lewis Hamilton wins, tenth or better. If neither wins, he takes the title whatever his finish [s:crash-mexico-title]. Hamilton started from pole, with Russell second and Antonelli fourth on the grid [s:crash-mexico-title].
+Kimi Antonelli won the 2026 Formula 1 world championship at the Mexico City Grand Prix on 1 November 2026. Max Verstappen won the race for Red Bull, 0.799 seconds ahead of Lewis Hamilton. Antonelli finished third, 4.006 seconds behind the winner, after starting fourth [s:f1-mexico-race-report]. He needed only a ninth-place finish, whatever Russell and Hamilton did [s:f1-mexico-race-report] [s:fia-mexico-report]. Sky Sports reported that the title was secured with four rounds to spare [s:skysports-mexico-title]. Going into the race he led George Russell by 123 points [s:skysports-austin-report].
+
+He is 20 years and 68 days old, the youngest Formula 1 world champion in the sport's history [s:skysports-mexico-title] [s:fia-mexico-report]. It is his first world title [s:f1-mexico-race-report]. Verstappen's win was his third of the 2026 season [s:f1-mexico-race-report].
+
+"We did it. And, you know, without them, I wouldn't be here. Without Mercedes, without my family," Antonelli said afterwards [s:f1-mexico-race-report]. He also said he was "trying to process what has just happened" [s:f1-mexico-race-report].
 
 ## Pole, the win and the gap to the title
 
@@ -74,7 +77,7 @@ Antonelli's engineer told him to "go as long as we can", and he pitted for fresh
 
 The report says the title would depend on George Russell finishing ninth or below and Lewis Hamilton finishing outside the top four [s:f1-austin-race-report]. Russell served a five-second time penalty during his pit stop and finished eighth [s:f1-austin-race-report]. Hamilton's fourth place kept the fight open, so the championship was not decided that afternoon [s:f1-austin-race-report].
 
-Sky Sports reported the gap after the race. Antonelli was 123 points clear of Russell and 124 clear of Hamilton, with a maximum of 125 points still available [s:skysports-austin-report]. Autosport noted that he needed just two points to become the youngest ever title winner, at 20 [s:autosport-austin-report]. Sky Sports also said he would clinch the title at the Mexico Grand Prix, with four rounds to spare, if he finished in the top nine [s:skysports-austin-report]. Points tables change after every round, so these figures reflect race-day coverage and should be checked against the official standings.
+Sky Sports reported the gap after the race. Antonelli was 123 points clear of Russell and 124 clear of Hamilton, with a maximum of 125 points still available [s:skysports-austin-report]. Autosport noted that he needed just two points to become the youngest ever title winner, at 20 [s:autosport-austin-report]. Points tables change after every round, so these figures reflect race-day coverage and should be checked against the official standings.
 
 ## Born in Bologna, raised on karts
 
@@ -102,4 +105,4 @@ He finished third in Canada, which made him the third-youngest driver to stand o
 
 Antonelli took pole for the Chinese Grand Prix in Shanghai at 19 years, six months and 17 days old, the youngest Grand Prix polesitter in the sport's history [s:mercedes-everything]. A day later he won the race, becoming the second-youngest Grand Prix winner of all time, behind Max Verstappen [s:mercedes-everything]. He was the first Italian to win a Grand Prix since Giancarlo Fisichella at the 2006 Malaysian Grand Prix [s:mercedes-everything].
 
-The Formula 1 driver profile lists him first in the championship with 365 points and nine Grand Prix wins for 2026 [s:f1-driver-profile]. The Austin win was the ninth of those wins [s:autosport-austin-report]. Going into the race he was already the championship leader. The title could be settled as early as the Mexico Grand Prix [s:f1-austin-race-report] [s:skysports-austin-report].
+The Formula 1 driver profile lists him first in the championship with 365 points and nine Grand Prix wins for 2026 [s:f1-driver-profile]. The Austin win was the ninth of those wins [s:autosport-austin-report]. Going into the race he was already the championship leader. He settled the title a week later, at the Mexico City Grand Prix [s:f1-mexico-race-report].

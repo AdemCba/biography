@@ -1,0 +1,190 @@
+{
+  "id": "gabriel-bortoleto",
+  "name": "Gabriel Bortoleto",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "2004-10-14",
+      "sources": [
+        "f1-driver-profile"
+      ],
+      "note": "F1 profile gives 14/10/2004."
+    },
+    "birthPlace": {
+      "value": "São Paulo, Brazil",
+      "sources": [
+        "f1-driver-profile"
+      ],
+      "note": "F1 profile."
+    },
+    "nationality": {
+      "value": [
+        "BR"
+      ],
+      "sources": [
+        "f1-driver-profile"
+      ],
+      "note": "F1 profile lists Brazil."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "f1-driver-profile",
+      "url": "https://www.formula1.com/en/drivers/gabriel-bortoleto",
+      "title": "Gabriel Bortoleto - Driver profile",
+      "publisher": "Formula 1",
+      "type": "league-or-federation",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "audi-f1-australia-debut",
+      "url": "https://contenthub.audif1.com/en/releases/2026-australian-grand-prix-sunday-154",
+      "title": "2026 Australian Grand Prix - Sunday",
+      "publisher": "Audi Revolut F1 Team",
+      "type": "company",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "audi-f1-team-site",
+      "url": "https://www.audif1.com/",
+      "title": "Audi Revolut F1 Team",
+      "publisher": "Audi Revolut F1 Team",
+      "type": "company",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "f1-half-term-report",
+      "url": "https://www.formula1.com/en/latest/article/half-term-report-audis-best-and-worst-moments-from-2026-so-far-and-driver-head-to-heads.5J8OmjFiC4HLu84ZvZrh2Y",
+      "title": "HALF TERM REPORT: Audi's best and worst moments from 2026 so far and driver head-to-heads",
+      "publisher": "Formula 1",
+      "type": "league-or-federation",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "pitdebrief-british-gp",
+      "url": "https://www.pitdebrief.com/?p=131273",
+      "title": "Bortoleto feels points finish at 2026 British GP a sign of Audi F1 progress",
+      "publisher": "Pit Debrief",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "f1-sauber-arrival",
+      "url": "https://www.formula1.com/en/latest/article/the-plan-was-always-to-be-together-bortoleto-on-his-sauber-arrival-learning.56D2UzJczOpm1d2qxlSNrl",
+      "title": "The plan was always to be together - Bortoleto on his Sauber arrival",
+      "publisher": "Formula 1",
+      "type": "league-or-federation",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "f1-f2-title",
+      "url": "https://www.formula1.com/en/latest/article/f2-bortoleto-wins-2024-drivers-title-after-hadjar-heartbreak.mce5zkGmIMTLTxYK5IpwF",
+      "title": "F2: Bortoleto wins 2024 Drivers' title after Hadjar heartbreak",
+      "publisher": "Formula 1",
+      "type": "league-or-federation",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "f1-spa-article",
+      "url": "https://formula1.com/en/latest/article/cool-and-clean-bortoletos-p8-in-spa-proved-audi-can-challenge-the-midfield.7qJ89cS0AIaOKOK3ldmH9F",
+      "title": "'Cool and clean' Bortoleto's P8 in Spa proved Audi can challenge the midfield",
+      "publisher": "Formula 1",
+      "type": "league-or-federation",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "f1-audi-debut-points",
+      "url": "https://www.formula1.com/en/latest/article/the-team-deserves-it-bortoleto-extremely-happy-with-points-on-audis-debut.20YMjqVLlU2ucjBjhuaDWC",
+      "title": "'The team deserves it' - Bortoleto 'extremely happy' with points on Audi's debut",
+      "publisher": "Formula 1",
+      "type": "league-or-federation",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "f1-austria-first-points",
+      "url": "https://www.formula1.com/en/latest/article/i-always-knew-i-was-capable-of-it-bortoleto-delighted-with-p8-in-austria.MMTvMLw9SH9hJnv7SwdDP",
+      "title": "'I always knew I was capable of it' - Bortoleto delighted with first F1 points in Austria",
+      "publisher": "Formula 1",
+      "type": "league-or-federation",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "f1-f3-title",
+      "url": "https://www.formula1.com/en/latest/article/f3-bortoleto-crowned-champion-as-team-mate-goethe-snatches-maiden-pole.5XUbDQiXfU2KOTJaCtLlTW",
+      "title": "F3: Bortoleto crowned champion at Monza as team mate Goethe snatches maiden pole",
+      "publisher": "Formula 1",
+      "type": "league-or-federation",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "pitdebrief-rookie-feature",
+      "url": "https://www.pitdebrief.com/?p=37517",
+      "title": "2025 F1 rookie feature: Gabriel Bortoleto",
+      "publisher": "Pit Debrief",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "pitdebrief-italian-gp",
+      "url": "https://www.pitdebrief.com/?p=75857",
+      "title": "Bortoleto's strong drive secures Sauber points at the F1 Italian GP",
+      "publisher": "Pit Debrief",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "pitdebrief-rookie-season",
+      "url": "https://www.pitdebrief.com/?p=88448",
+      "title": "Bortoleto picks highlight of 'impressive' F1 2025 rookie season",
+      "publisher": "Pit Debrief",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "pitdebrief-sauber-progress",
+      "url": "https://www.pitdebrief.com/?p=72089",
+      "title": "Bortoleto praises Sauber for strong progress in first half of 2025 F1 season",
+      "publisher": "Pit Debrief",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "f1-learnings",
+      "url": "https://www.formula1.com/en/latest/article/bortoleto-on-his-key-learnings-in-f1-taking-inspiration-from-schumacher-and.6N8mzbWvuXNAniLuSoUmGe",
+      "title": "Bortoleto on his key learnings in F1, taking inspiration from Schumacher and looking ahead to an 'insane' home race",
+      "publisher": "Formula 1",
+      "type": "league-or-federation",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "f1-silverstone",
+      "url": "https://www.formula1.com/en/latest/article/bortoleto-believes-silverstone-points-underlined-audis-f1-potential.69racmFDwWzn2ZQjhoVaJx.69racmFDwWzn2ZQjhoVaJx",
+      "title": "Bortoleto believes Silverstone points underlined Audi's F1 potential",
+      "publisher": "Formula 1",
+      "type": "league-or-federation",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    }
+  ]
+}

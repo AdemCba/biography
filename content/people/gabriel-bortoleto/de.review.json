@@ -1,0 +1,161 @@
+{
+  "date": "2026-11-02",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 14 October 2004 in São Paulo; nationality Brazil",
+      "sourceIds": [
+        "f1-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 profile: 14/10/2004, São Paulo, Brazil."
+    },
+    {
+      "claim": "2026: 14 points, 14th place, 19 Grands Prix, four top-ten finishes, no podiums, one retirement",
+      "sourceIds": [
+        "f1-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 profile 2026 stats; no date shown."
+    },
+    {
+      "claim": "Career: 42 Grands Prix, 33 points, best finish sixth, no podiums, eight retirements, best grid seventh (three times)",
+      "sourceIds": [
+        "f1-driver-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 profile career stats."
+    },
+    {
+      "claim": "Half-term report (11 Aug 2026): 10 of Audi's 12 points; Audi eighth with 12 points",
+      "sourceIds": [
+        "f1-half-term-report"
+      ],
+      "verdict": "confirmed",
+      "note": "Half-term report text, dated Aug 11, 2026."
+    },
+    {
+      "claim": "2023 F3 title with Trident, first attempt; 15 of 18 races scored, two wins",
+      "sourceIds": [
+        "pitdebrief-rookie-feature"
+      ],
+      "verdict": "confirmed",
+      "note": "Pit Debrief feature quotes: first try, 15 of 18, two wins."
+    },
+    {
+      "claim": "F3 title settled in qualifying at Monza, 1 Sep 2023; rivals could not take pole points; rookie champion after Shwartzman and Piastri",
+      "sourceIds": [
+        "f1-f3-title"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 article dated Sep 01, 2023."
+    },
+    {
+      "claim": "2024 F2 drivers' title in the final race; two wins; points in 22 of 28 rounds; ten retirements in five seasons",
+      "sourceIds": [
+        "f1-f2-title",
+        "pitdebrief-rookie-feature"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 F2 article; Pit Debrief feature."
+    },
+    {
+      "claim": "Hadjar third on the grid beside him and 4.5 points behind before the final race",
+      "sourceIds": [
+        "f1-f2-title"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 F2 article."
+    },
+    {
+      "claim": "Sauber announced signing Nov 2024; Audi to make Sauber factory works team; 2025 debut; 'the plan was always to be together'",
+      "sourceIds": [
+        "f1-sauber-arrival"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 article dated Nov 07, 2024."
+    },
+    {
+      "claim": "Sauber no points until Spanish GP; Hulkenberg scored there; major upgrade turned season",
+      "sourceIds": [
+        "pitdebrief-sauber-progress"
+      ],
+      "verdict": "confirmed",
+      "note": "Pit Debrief interview on Sauber progress."
+    },
+    {
+      "claim": "First points Austria, 29 June 2025, eighth, ahead of Hulkenberg",
+      "sourceIds": [
+        "f1-austria-first-points"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 article dated Jun 29, 2025."
+    },
+    {
+      "claim": "Monza 2025: qualified 7th, finished 8th; Hulkenberg retired on formation lap",
+      "sourceIds": [
+        "pitdebrief-italian-gp"
+      ],
+      "verdict": "confirmed",
+      "note": "Pit Debrief Italian GP article."
+    },
+    {
+      "claim": "Hungary 2025: started 7th, sixth place, best result of rookie year; Budapest 'so far my best race of the season'; 19 points in 2025",
+      "sourceIds": [
+        "pitdebrief-rookie-season"
+      ],
+      "verdict": "confirmed",
+      "note": "Pit Debrief rookie season article (paraphrase of result and points)."
+    },
+    {
+      "claim": "Learning quotes: 'much more comfortable now going into the weekends'; pressure in F2 and F3 'prepared me for my season'; learned from Fernando and Max",
+      "sourceIds": [
+        "f1-learnings"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 article dated Nov 05, 2025."
+    },
+    {
+      "claim": "2026 Australian GP: started 10th, ninth place, two points; 'extremely happy' and 'the team deserves it'",
+      "sourceIds": [
+        "audi-f1-australia-debut",
+        "f1-audi-debut-points"
+      ],
+      "verdict": "confirmed",
+      "note": "Audi release and F1 article dated Mar 08, 2026."
+    },
+    {
+      "claim": "British GP 2026: started 11th, tenth by lap 5, eighth; highest Audi points finish",
+      "sourceIds": [
+        "pitdebrief-british-gp",
+        "f1-silverstone"
+      ],
+      "verdict": "confirmed",
+      "note": "Pit Debrief; F1 article dated July 8, 2026."
+    },
+    {
+      "claim": "Silverstone: 'the pace is there, the potential is there'",
+      "sourceIds": [
+        "f1-silverstone"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 article quote."
+    },
+    {
+      "claim": "Spa 2026: top ten on grid, eighth place, matching Silverstone",
+      "sourceIds": [
+        "f1-spa-article"
+      ],
+      "verdict": "confirmed",
+      "note": "F1 article dated Jul 21, 2026."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds the 2025 Sauber season (first points, Monza, Hungary), the junior titles and the 2026 Audi points against the official F1 profile. Claims checked against the English sources; the localized text uses the same claims.",
+  "decision": "approve",
+  "summary": "Each listed claim matches its cited F1, Audi or Pit Debrief page. Karting and Formula Regional details are not in the body because no checked source gives them."
+}

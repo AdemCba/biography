@@ -1,9 +1,9 @@
 ---
 title: Paulo Fonseca
 slug: paulo-fonseca
-metaTitle: 'Paulo Fonseca : 53 ans, carrière et piste Sporting'
+metaTitle: 'Paulo Fonseca : {age} ans, carrière et piste Sporting'
 metaDescription: >-
-  Paulo Fonseca a 53 ans, né le 5 mars 1973 à Nampula, au Mozambique. Selon A
+  Paulo Fonseca a {age} ans, né le 5 mars 1973 à Nampula, au Mozambique. Selon A
   Bola, le Sporting CP a trouvé un accord pour le recruter.
 knownFor: >-
   Entraîneur portugais, champion avec le Chakhtar Donetsk et ancien coach de
@@ -12,7 +12,7 @@ summary: >-
   Paulo Fonseca est un entraîneur portugais passé par le Chakhtar Donetsk, l'AS
   Rome, le LOSC, l'AC Milan et l'Olympique lyonnais. Le 1er novembre 2026, le
   quotidien A Bola a annoncé que le Sporting CP avait trouvé un accord pour le
-  recruter, sans annonce officielle du club à ce stade. Né à Nampula, au
+  recruter, sans annonce officielle du club, de l'OL ni de Fonseca à la date du 2 novembre. Né à Nampula, au
   Mozambique, il a remporté sept titres avec le Chakhtar entre 2016 et 2019.
 status: published
 risk: medium
@@ -48,12 +48,13 @@ faq:
 autoReviews: 2
 publishedAt: '2026-11-01'
 publishedTime: '2026-11-01T21:38:16.089Z'
+updatedAt: '2026-11-02'
 ---
 Paulo Fonseca pourrait devenir le prochain entraîneur du Sporting CP. Selon A Bola, le club de Lisbonne a trouvé un accord avec Fonseca et avec l'Olympique lyonnais, et [Rui Borges](person:rui-borges) a convenu avec la direction de mettre fin à son contrat [s:abola-sporting-report]. Il s'agit d'une information de presse, pas d'un communiqué du club, et le quotidien précise qu'elle repose sur des éléments qu'il a recueillis lui-même [s:abola-sporting-report].
 
-## Ce que dit le rapport sur le Sporting
+## Novembre 2026 : ce que dit le rapport sur le Sporting
 
-Toujours selon A Bola, Fonseca a déjà fait ses adieux à l'effectif lyonnais par message. Ses débuts avec le Sporting seraient à domicile, face à Moreirense samedi prochain, lors de la 11e journée de championnat [s:abola-sporting-report]. Tiago Fernandes, qui entraîne l'équipe B, devrait diriger l'équipe face au Chakhtar Donetsk [s:abola-sporting-report]. Le rapport présente l'accord avec Lyon comme conclu, sans en détailler les conditions [s:abola-sporting-report]. Tant que le Sporting ou Lyon ne l'ont pas confirmé, la date, le contrat et le staff restent non confirmés.
+Toujours selon A Bola, Fonseca a déjà fait ses adieux à l'effectif lyonnais par message. Ses débuts avec le Sporting seraient à domicile, face à Moreirense samedi prochain, lors de la 11e journée de championnat [s:abola-sporting-report]. Tiago Fernandes, qui entraîne l'équipe B, devrait diriger l'équipe face au Chakhtar Donetsk [s:abola-sporting-report]. Le rapport présente l'accord avec Lyon comme conclu, sans en détailler les conditions [s:abola-sporting-report]. Tant que le Sporting ou Lyon ne l'ont pas confirmé, la date, le contrat et le staff restent non confirmés. L'article lui-même ne cite aucune déclaration du Sporting, de Lyon ou de Fonseca [s:abola-sporting-report].
 
 ## De Nampula à Barreirense
 

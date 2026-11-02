@@ -1,9 +1,9 @@
 ---
 title: Paulo Fonseca
 slug: paulo-fonseca
-metaTitle: 'Paulo Fonseca: age 53, career and Sporting talks'
+metaTitle: 'Paulo Fonseca: age {age}, career and Sporting talks'
 metaDescription: >-
-  Paulo Fonseca is 53, born 5 March 1973 in Nampula, Mozambique. A Bola reports
+  Paulo Fonseca is {age}, born 5 March 1973 in Nampula, Mozambique. A Bola reports
   Sporting CP has agreed to hire him to replace Rui Borges.
 knownFor: >-
   Portuguese football coach, Shakhtar Donetsk champion and former manager of
@@ -11,8 +11,8 @@ knownFor: >-
 summary: >-
   Paulo Fonseca is a Portuguese football coach who has managed Shakhtar Donetsk,
   Roma, Lille, AC Milan and Olympique Lyonnais. A Bola reported on 1 November
-  2026 that Sporting CP has agreed to appoint him, but the move was not yet
-  confirmed by an official club statement. He was born in Nampula, Mozambique,
+  2026 that Sporting CP has agreed to appoint him, but as of 2 November no official
+  statement from the club, Lyon or Fonseca had been found. He was born in Nampula, Mozambique,
   and won seven trophies at Shakhtar between 2016 and 2019.
 status: published
 risk: medium
@@ -51,12 +51,13 @@ faq:
 autoReviews: 3
 publishedAt: '2026-11-01'
 publishedTime: '2026-11-01T21:38:16.087Z'
+updatedAt: '2026-11-02'
 ---
 Paulo Fonseca may be the next head coach of Sporting CP. A Bola reported on 1 November 2026 that the Lisbon club had reached an agreement with Fonseca and with Olympique Lyonnais, and that [Rui Borges](person:rui-borges) had agreed with the board to end his contract [s:abola-sporting-report]. That is a report, not an official announcement, and the paper says its information did not come from a club statement [s:abola-sporting-report].
 
-## What the Sporting report says
+## November 2026: the Sporting report
 
-According to A Bola, Fonseca has already said goodbye to his Lyon squad by message, and his first match with Sporting is expected at home against Moreirense next Saturday, in matchday 11 of the league [s:abola-sporting-report]. Tiago Fernandes, who coaches Sporting's B team, is expected to lead the side in the match against Shakhtar Donetsk before that [s:abola-sporting-report]. The report describes Lyon's agreement as reached but gives no terms [s:abola-sporting-report]. Until Sporting or Lyon confirm the move, the date, the contract and the staff remain unconfirmed.
+According to A Bola, Fonseca has already said goodbye to his Lyon squad by message, and his first match with Sporting is expected at home against Moreirense next Saturday, in matchday 11 of the league [s:abola-sporting-report]. Tiago Fernandes, who coaches Sporting's B team, is expected to lead the side in the match against Shakhtar Donetsk before that [s:abola-sporting-report]. The report describes Lyon's agreement as reached but gives no terms [s:abola-sporting-report]. Until Sporting or Lyon confirm the move, the date, the contract and the staff remain unconfirmed. The article itself cites no statement from Sporting, Lyon or Fonseca [s:abola-sporting-report], and our checks of club and press coverage on 2 November found none.
 
 ## From Nampula to Barreirense
 

@@ -1,9 +1,9 @@
 ---
 title: Paulo Fonseca
 slug: paulo-fonseca
-metaTitle: 'Paulo Fonseca: 53 Jahre, Vereine und Sporting-Gerüchte'
+metaTitle: 'Paulo Fonseca: {age} Jahre, Vereine und Sporting-Gerüchte'
 metaDescription: >-
-  Paulo Fonseca ist 53 Jahre alt, geboren am 5. März 1973 in Nampula in
+  Paulo Fonseca ist {age} Jahre alt, geboren am 5. März 1973 in Nampula in
   Mosambik. Laut A Bola hat Sporting Lissabon eine Einigung über ihn erzielt.
 knownFor: >-
   Portugiesischer Trainer, Meister mit Schachtar Donezk und früher Coach von AS
@@ -12,8 +12,7 @@ summary: >-
   Paulo Fonseca ist ein portugiesischer Fußballtrainer, der Schachtar Donezk, AS
   Rom, LOSC Lille, AC Mailand und Olympique Lyon betreut hat. Die Zeitung A Bola
   berichtete am 1. November 2026, Sporting Lissabon habe sich mit ihm auf eine
-  Verpflichtung geeinigt, eine offizielle Mitteilung des Vereins lag dazu noch
-  nicht vor. Er wurde in Nampula in Mosambik geboren und gewann zwischen 2016
+  Verpflichtung geeinigt, bis zum 2. November 2026 gab es laut unserer Recherche keine offizielle Mitteilung von Verein, Lyon oder Fonseca. Er wurde in Nampula in Mosambik geboren und gewann zwischen 2016
   und 2019 mit Schachtar sieben Titel.
 status: published
 risk: medium
@@ -49,12 +48,13 @@ faq:
 autoReviews: 3
 publishedAt: '2026-11-01'
 publishedTime: '2026-11-01T21:38:16.088Z'
+updatedAt: '2026-11-02'
 ---
 Paulo Fonseca könnte der nächste Trainer von Sporting Lissabon werden. Laut A Bola hat der Klub am 1. November 2026 eine Einigung mit Fonseca und mit Olympique Lyon erzielt, und [Rui Borges](person:rui-borges) hat sich mit der Vereinsführung auf die Auflösung seines Vertrags verständigt [s:abola-sporting-report]. Das ist eine Pressemeldung und keine offizielle Mitteilung des Vereins. Die Zeitung stützt sich dabei auf eigene Informationen [s:abola-sporting-report].
 
-## Was der Bericht zu Sporting sagt
+## November 2026: Was der Bericht zu Sporting sagt
 
-Nach demselben Bericht hat sich Fonseca bereits per Nachricht von der Mannschaft in Lyon verabschiedet. Sein erstes Spiel für Sporting soll zu Hause gegen Moreirense am kommenden Samstag stattfinden, im elften Spieltag der Liga [s:abola-sporting-report]. Tiago Fernandes, der die B-Mannschaft trainiert, soll die Mannschaft im Spiel gegen Schachtar Donezk übernehmen [s:abola-sporting-report]. Die Einigung mit Lyon wird als erzielt beschrieben, Bedingungen nennt der Bericht nicht [s:abola-sporting-report]. Bis Sporting oder Lyon den Wechsel bestätigen, sind Termin, Vertrag und Trainerteam nicht bestätigt.
+Nach demselben Bericht hat sich Fonseca bereits per Nachricht von der Mannschaft in Lyon verabschiedet. Sein erstes Spiel für Sporting soll zu Hause gegen Moreirense am kommenden Samstag stattfinden, im elften Spieltag der Liga [s:abola-sporting-report]. Tiago Fernandes, der die B-Mannschaft trainiert, soll die Mannschaft im Spiel gegen Schachtar Donezk übernehmen [s:abola-sporting-report]. Die Einigung mit Lyon wird als erzielt beschrieben, Bedingungen nennt der Bericht nicht [s:abola-sporting-report]. Bis Sporting oder Lyon den Wechsel bestätigen, sind Termin, Vertrag und Trainerteam nicht bestätigt. Der Artikel selbst nennt keine Erklärung von Sporting, Lyon oder Fonseca [s:abola-sporting-report].
 
 ## Von Nampula zu Barreirense
 

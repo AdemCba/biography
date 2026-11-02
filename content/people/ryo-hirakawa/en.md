@@ -10,7 +10,7 @@ summary: >-
   Ryo Hirakawa is the Japanese driver Haas called up to replace Esteban Ocon for
   the rest of the 2026 Mexico City Grand Prix weekend. He is 32, a two-time FIA
   World Endurance Championship winner with Toyota, and has been Haas's official
-  reserve driver since April 2025.
+  reserve driver since April 2025. In 2026 he also remains a Toyota WEC driver.
 status: published
 risk: low
 reviewedAt: '2026-11-01'
@@ -25,6 +25,8 @@ targetQueries:
   - Ryo Hirakawa team
   - Ryo Hirakawa Haas
   - Ryo Hirakawa Mexico City GP
+  - Ryo Hirakawa Le Mans
+  - Ryo Hirakawa WEC
 faq:
   - q: How old is Ryo Hirakawa?
     a: 'He was born on 7 March 1994, so he is 32 as of 1 November 2026.'
@@ -40,6 +42,13 @@ faq:
     a: >-
       He is Haas's official reserve driver and normally races for Toyota in the
       WEC.
+  - q: Did Ryo Hirakawa win Le Mans?
+    a: Yes. He won the 2022 24 Hours of Le Mans with Toyota [s:haas-profile].
+  - q: Which team did Ryo Hirakawa drive for before Haas?
+    a: >-
+      He was Alpine's official test and reserve driver before he joined Haas as
+      reserve driver in April 2025 [s:haas-profile] [s:f1-reserve-driver-2025].
+updatedAt: '2026-11-02'
 autoReviews: 1
 publishedAt: '2026-11-01'
 publishedTime: '2026-11-01T21:38:16.092Z'
@@ -47,6 +56,10 @@ publishedTime: '2026-11-01T21:38:16.092Z'
 Haas dropped Esteban Ocon for the rest of the 2026 Mexico City Grand Prix weekend and gave no reason for the change. The team confirmed that Ocon was not ill [s:racefans-ocon-replacement-2026]. Ryo Hirakawa, 32, was called up on Saturday morning, before qualifying [s:f1-dream-come-true-2026] [s:f1-ocon-replacement-2026].
 
 He was due to partner Ollie Bearman through final practice and qualifying [s:f1-ocon-replacement-2026]. Formula 1 described Sunday's 71-lap race as his first Grand Prix start [s:f1-ocon-replacement-2026].
+
+## November 2026
+
+Haas named Hirakawa as Ocon's replacement on Saturday 31 October 2026 [s:f1-ocon-replacement-2026]. Haas's own profile still lists him as its Official Reserve Driver and says he will remain with Toyota in the WEC in 2026 [s:haas-profile]. Haas has not said whether he keeps the seat beyond Mexico, and Ocon is due to leave the team at the end of the season [s:racefans-ocon-replacement-2026].
 
 ## Friday practice and qualifying
 

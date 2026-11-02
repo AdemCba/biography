@@ -1,0 +1,136 @@
+{
+  "worthWriting": true,
+  "reason": "Current French sprinter at Soudal Quick-Step with 2026 Giro d'Italia stage wins, the Muur Classic and the ADAC Cyclassics Hamburg, confirmed by the race organiser, the team and press.",
+  "wikidata": "",
+  "importance": 3,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "soudal-extension",
+      "url": "https://soudal-quickstepteam.com/en/news/magnier-extends-soudal-quick-step-deal",
+      "title": "Magnier extends Soudal Quick-Step deal",
+      "publisher": "Soudal Quick-Step",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "soudal-rider-page",
+      "url": "https://old.soudal-quickstepteam.com/en/team/riders/paul-magnier",
+      "title": "Paul Magnier - rider profile",
+      "publisher": "Soudal Quick-Step",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "giro-stage3",
+      "url": "https://www.giroditalia.it/en/news/paul-magnier-wins-stage-3-of-giro-ditalia-2026/",
+      "title": "Paul Magnier wins stage 3 of Giro d'Italia 2026",
+      "publisher": "RCS Sport / Giro d'Italia",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "hamburg-official",
+      "url": "https://www.cyclassics-hamburg.de/en/news/2026/paul-magnier-gets-his-revenge-3/33",
+      "title": "Paul Magnier gets his revenge",
+      "publisher": "ADAC Cyclassics Hamburg",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "tuttobici-extension",
+      "url": "https://www.tuttobiciweb.it/article/2026/01/09/1767953630/magnier-soudal-quick-step-extension?lang=en",
+      "title": "Soudal Quick-Step, Magnier locked in until 2029",
+      "publisher": "TuttoBiciWeb",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "velora-rider",
+      "url": "https://veloracycling.com/riders/paul-magnier",
+      "title": "Paul Magnier rider profile",
+      "publisher": "Velora Cycling",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "giro-stage1-flo",
+      "url": "https://www.flobikes.com/articles/15884481-giro-ditalia-2026-stage-1-results-paul-magnier-wins-stage-takes-pink",
+      "title": "Giro d'Italia 2026 stage 1 results: Paul Magnier wins stage, takes pink",
+      "publisher": "Flo Bikes",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "giro-stage1-bta",
+      "url": "https://www.bta.bg/en/news/sport/1122271-paul-magnier-celebrates-opening-giro-win-s",
+      "title": "Paul Magnier celebrates opening Giro win, sets sights on more victories",
+      "publisher": "Bulgarian Telegraph Agency (BTA)",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "hamburg-flo",
+      "url": "https://www.flobikes.com/articles/16132150-paul-magnier-wins-hamburg-cyclassics-2026",
+      "title": "2026 ADAC Cyclassics Hamburg",
+      "publisher": "Flo Bikes",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "muur-lalibre",
+      "url": "https://www.lalibre.be/dernieres-depeches/2026/06/14/muur-classic-paul-magnier-domine-le-sprint-devant-floris-van-tricht-et-jenno-berckmoes-LUVXHSYOMFASTPUZB7X2VZNBDA/",
+      "title": "Muur Classic: Paul Magnier domine le sprint devant Floris Van Tricht et Jenno Berckmoes",
+      "publisher": "La Libre Belgique (Belga)",
+      "type": "press",
+      "lang": "fr"
+    },
+    {
+      "id": "muur-orange",
+      "url": "https://sports.orange.fr/cyclisme/article/mur-de-grammont-magnier-s-impose-sixieme-succes-de-la-saison-exclu-CNT000002pXjhA.html",
+      "title": "Mur de Grammont : Magnier s'impose, sixième succès de la saison",
+      "publisher": "Orange Sport",
+      "type": "press",
+      "lang": "fr"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "2004-04-14",
+      "sources": [
+        "soudal-rider-page",
+        "velora-rider"
+      ],
+      "note": "Both rider profiles give 14 April 2004."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Laredo, United States",
+      "sources": [
+        "soudal-rider-page"
+      ],
+      "note": "Team profile lists 'Laredo, USA'. Velora does not give a birthplace. The tuttobici article says 'the 2004 Laredo-born rider' without naming the state."
+    },
+    "nationality": {
+      "value": "FR",
+      "sources": [
+        "soudal-rider-page",
+        "velora-rider",
+        "muur-lalibre"
+      ],
+      "note": "Team profile lists nationality France, Velora lists FRA, and Belga describes him as French."
+    }
+  },
+  "targetQueries": [
+    "Paul Magnier âge",
+    "Paul Magnier équipe",
+    "Paul Magnier Giro 2026",
+    "Paul Magnier taille",
+    "Paul Magnier Soudal Quick-Step contrat 2029",
+    "Paul Magnier Hamburg Cyclassics 2026",
+    "Paul Magnier Mur de Grammont 2026",
+    "Paul Magnier nationalité",
+    "Paul Magnier Red Bull offre"
+  ],
+  "gapNote": "Search results have a 2029 contract, two Giro stage wins in May 2026 and the June and August 2026 one-day wins. The team profile and Velora give the birth date, and the team profile gives Laredo, USA. Few pages put these facts together with dated 2026 results. Height and weight were not found on a source we opened, so they are omitted."
+}

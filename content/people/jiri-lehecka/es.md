@@ -1,10 +1,10 @@
 ---
 title: Jiri Lehecka
 slug: jiri-lehecka
-metaTitle: 'Jiri Lehecka: ranking, títulos y final de Miami'
+metaTitle: 'Jiri Lehecka: de Prostějov a la final de Miami'
 metaDescription: >-
-  Máximo ranking de Jiri Lehecka, títulos de Adelaida y Brisbane, final de
-  Masters 1000 de Miami en 2026 y origen checo, según la ATP y ČTK.
+  A los 15 años dejó su casa para entrenar en Prostějov y llegó al puesto 12 de
+  la ATP tras la final de Miami. Títulos y origen checo, según la ATP y ČTK.
 knownFor: 'Tenista checo, campeón ATP en Adelaida y Brisbane'
 summary: >-
   Jiri Lehecka es un tenista checo con dos títulos ATP, ganados en Adelaida en
@@ -25,11 +25,20 @@ targetQueries:
   - nacionalidad de Jiri Lehecka
   - títulos de Jiri Lehecka
   - Jiri Lehecka Wimbledon
+  - jiří lehečka ranking
+  - edad
+  - de dónde es
+  - lehecka tenista
 faq:
   - q: ¿Cuál es el mejor ranking de Jiri Lehecka?
     a: >-
       Su máximo de carrera en el ranking individual ATP es el número 12,
       alcanzado en mayo de 2026 [s:atp-bio].
+  - q: ¿Cuál es el ranking de Jiří Lehečka?
+    a: >-
+      Su mejor ranking individual de carrera es el número 12 de la ATP,
+      alcanzado en mayo de 2026 [s:atp-bio]. El ranking cambia cada semana, así
+      que la posición actual está en su perfil de la ATP.
   - q: ¿Cuántos títulos ATP tiene Jiri Lehecka?
     a: >-
       Dos: Adelaida en enero de 2024 [s:atp-adelaide-2024-final] y Brisbane en
@@ -43,14 +52,27 @@ faq:
       Es natural de Mladá Boleslav, una localidad checa, según la agencia ČTK
       [s:cns-profile]. Sus crónicas lo presentan como tenista checo, y la ATP
       también lo describe como checo [s:cns-profile] [s:atp-wikidata-bio].
+  - q: ¿Cuál es la edad de Jiri Lehecka?
+    a: >-
+      Tiene 24 años a 2 de noviembre de 2026. Nació el 8 de noviembre de 2001 y
+      cumplirá 25 ese día [s:atp-milan-2022].
+  - q: ¿Es Lehecka tenista?
+    a: >-
+      Sí. Es un tenista profesional checo, con dos títulos del circuito ATP
+      [s:atp-bio] [s:atp-adelaide-2024-final] [s:atp-brisbane-2025-final].
 autoReviews: 2
 publishedAt: '2026-10-27'
+updatedAt: '2026-11-02'
 ---
 Jiri Lehecka es un tenista checo con dos títulos del circuito ATP, conseguidos en Adelaida en enero de 2024 y en Brisbane en enero de 2025 [s:atp-adelaide-2024-final] [s:atp-brisbane-2025-final]. Su mejor posición en el ranking individual es el número 12, alcanzada en mayo de 2026 [s:atp-bio]. Ese techo llegó poco después de su primera final de Masters 1000, disputada en Miami en marzo [s:atp-bio] [s:atp-miami-2026-sf].
 
-## Primeros años entre Mladá Boleslav y Prostějov
+## Edad y fecha de nacimiento
 
-Según su biografía en la ATP, Lehecka empezó a jugar al tenis con su madre y su abuelo [s:atp-bio]. Es natural de Mladá Boleslav, una localidad de la República Checa, como informó la agencia checa ČTK en una crónica de uno de sus partidos [s:cns-profile]. A los 15 años dejó su casa para entrenar en Prostějov [s:atp-bio]. La página de jugador de la ATP lo describe además como antiguo número 10 del mundo juvenil [s:atp-wikidata-bio]. Su biografía también recoge un título juvenil: el de dobles chicos de Wimbledon de 2019, ganado junto a su compatriota Forejtek [s:atp-bio].
+Jiri Lehecka tiene 24 años a 2 de noviembre de 2026. Nació el 8 de noviembre de 2001 y cumplirá 25 el 8 de noviembre de 2026 [s:atp-milan-2022]. La ATP informó de que celebró su 21.º cumpleaños el martes 8 de noviembre de 2022, con una victoria en el Next Gen ATP Finals de Milán [s:atp-milan-2022]. Su biografía de la ATP también recoge ese cumpleaños durante el Next Gen de 2022 [s:atp-bio].
+
+## De dónde es: Mladá Boleslav y Prostějov
+
+Jiri Lehecka es de Mladá Boleslav, una localidad de la República Checa, según informó la agencia checa ČTK en una crónica de uno de sus partidos [s:cns-profile]. Según su biografía en la ATP, empezó a jugar al tenis con su madre y su abuelo [s:atp-bio]. A los 15 años dejó su casa para entrenar en Prostějov [s:atp-bio]. La página de jugador de la ATP lo describe además como antiguo número 10 del mundo juvenil [s:atp-wikidata-bio]. Su biografía también recoge un título juvenil: el de dobles chicos de Wimbledon de 2019, ganado junto a su compatriota Forejtek [s:atp-bio].
 
 ## Adelaida 2024: el primer título
 
@@ -68,7 +90,7 @@ En el Abierto de Australia de 2023 derrotó en octavos de final al sexto cabeza 
 
 ## Del puesto 23 al 12
 
-La evolución del ranking se sigue bien en las fuentes. Tras Adelaida, su posición debía subir al número 23 [s:atp-adelaide-2024-final], y un año después de Brisbane ocupaba el 24 [s:atp-brisbane-2025-final]. Entró en el top 20 en septiembre de 2025 [s:atp-bio]. En Miami, en marzo de 2026, era el número 14 del ranking PIF ATP en directo [s:atp-miami-2026-sf], y su máximo de carrera en la biografía es el número 12, fijado en mayo de 2026 [s:atp-bio].
+Su mejor ranking individual de carrera es el número 12, alcanzado en mayo de 2026 [s:atp-bio]. La evolución se sigue bien en las fuentes. Tras Adelaida, su posición debía subir al número 23 [s:atp-adelaide-2024-final], y un año después de Brisbane ocupaba el 24 [s:atp-brisbane-2025-final]. Entró en el top 20 en septiembre de 2025 [s:atp-bio]. En Miami, en marzo de 2026, era el número 14 del ranking PIF ATP en directo [s:atp-miami-2026-sf].
 
 ## Miami 2026 y la primera final de Masters 1000
 
@@ -76,4 +98,4 @@ Lehecka fue el 21.º cabeza de serie en el Abierto de Miami [s:atp-miami-2026-sf
 
 ## Lo que esta página no cubre
 
-La biografía de la ATP no indica su fecha de nacimiento, así que esta página tampoco la recoge [s:atp-bio]. Las clasificaciones cambian cada semana, por lo que las cifras reflejan las fechas de las fuentes citadas. Las páginas revisadas no muestran una clasificación en vivo, así que conviene consultar la posición actual en su perfil de la ATP.
+La biografía de la ATP no indica el día exacto de su nacimiento; esa fecha sale del informe de la ATP sobre su 21.º cumpleaños [s:atp-milan-2022]. Las clasificaciones cambian cada semana, por lo que las cifras reflejan las fechas de las fuentes citadas. Las páginas revisadas no muestran una clasificación en vivo, así que conviene consultar la posición actual en su perfil de la ATP.

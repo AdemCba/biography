@@ -1,10 +1,10 @@
 ---
 title: Carlos Alcaraz
 slug: carlos-alcaraz
-metaTitle: 'Carlos Alcaraz: edad, títulos y Grand Slam'
+metaTitle: 'Carlos Alcaraz: 23 años y el Grand Slam completo'
 metaDescription: >-
-  Edad, lugar de nacimiento, cambio de entrenador, títulos de 2026 en Melbourne
-  y Tokio y su partido en Viena contra Khachanov.
+  Del Grand Slam completo en Melbourne 2026, el más joven de la era Open, al
+  título de Tokio y la ruptura con Ferrero. Edad y fuentes.
 knownFor: 'Tenista español, ex número 1 del mundo y campeón de siete Grand Slam'
 summary: >-
   Carlos Alcaraz es el tenista español que juega esta semana el ATP 500 de
@@ -27,11 +27,34 @@ targetQueries:
   - Carlos Alcaraz ranking ATP
   - Carlos Alcaraz Tokio 2026
   - Carlos Alcaraz Nitto ATP Finals 2026
+  - cuántos años tiene carlos alcaraz
+  - cuántos años tiene alcaraz
+  - carlos alcaraz
+  - alcaraz
+  - edad de alcaraz tenista
+  - edad de alcaraz
+  - edad alcaraz tenista
+  - alcaraz edad
 faq:
   - q: ¿Cuántos años tiene Carlos Alcaraz?
     a: >-
       Nació el 5 de mayo de 2003, así que tiene 23 años a 27 de octubre de 2026
       [s:nitto-atp-finals-profile].
+  - q: ¿Cuántos años tiene Alcaraz?
+    a: >-
+      23 años a 2 de noviembre de 2026. Nació el 5 de mayo de 2003, según la
+      RFET y las Nitto ATP Finals [s:rfet-player-profile]
+      [s:nitto-atp-finals-profile].
+  - q: ¿Quién es Carlos Alcaraz?
+    a: >-
+      Tenista español, número 3 del ranking ATP, con siete títulos de Grand Slam
+      [s:atp-vienna-entry-2026] [s:atp-australian-open-2026-final]. Llegó al
+      número 1 del mundo el 12 de septiembre de 2022 [s:rfet-player-profile].
+  - q: ¿Cuál es la edad del tenista Alcaraz?
+    a: >-
+      Tiene 23 años. Su fecha de nacimiento, 5 de mayo de 2003, figura en la
+      ficha de la RFET y en la de las Nitto ATP Finals
+      [s:rfet-player-profile] [s:nitto-atp-finals-profile].
   - q: ¿Quién es el entrenador de Carlos Alcaraz?
     a: >-
       Samuel López, según la ficha de la RFET y El Español, tras la ruptura de
@@ -48,10 +71,15 @@ faq:
       [s:atp-vienna-draw-2026].
 autoReviews: 1
 publishedAt: '2026-10-27'
+updatedAt: '2026-11-02'
 ---
 Carlos Alcaraz vuelve esta semana al Erste Bank Open de Viena, un ATP 500. Ha aceptado una wild card para jugar el torneo. Ya había jugado en Viena en 2021, cuando llegó a semifinales con 18 años [s:atp-vienna-entry-2026]. El cuadro principal se juega en el Wiener Stadthalle entre el 26 de octubre y el 1 de noviembre [s:atp-vienna-entry-2026]. Su primer rival es Karen Khachanov, antiguo top 10 que hace poco llegó a semifinales del US Open, y el historial entre ambos es de 6-0 a favor del español [s:atp-vienna-draw-2026].
 
 La ATP lo cita como campeón este año en el Abierto de Australia, Doha y Tokio [s:atp-vienna-entry-2026].
+
+## Cuántos años tiene Carlos Alcaraz
+
+Carlos Alcaraz tiene 23 años. Nació el 5 de mayo de 2003 y cumplirá 24 el 5 de mayo de 2027 [s:rfet-player-profile] [s:nitto-atp-finals-profile]. La ficha de la RFET da la fecha como 05/05/2003, y la de las Nitto ATP Finals la muestra junto a la edad de 23 años. Ambas fuentes coinciden, así que lo documentado es el día, el mes y el año de nacimiento, y la edad sale de esa fecha.
 
 ## Dónde está ahora
 

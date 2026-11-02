@@ -1,10 +1,10 @@
 ---
 title: Jiri Lehecka
 slug: jiri-lehecka
-metaTitle: 'Jiri Lehecka: ranking, títulos e final de Miami'
+metaTitle: 'Jiri Lehecka: de Prostějov aos 15 anos até Miami'
 metaDescription: >-
-  Melhor ranking de Jiri Lehecka, títulos em Adelaide e Brisbane, final de
-  Masters 1000 em Miami em 2026 e origem tcheca, segundo a ATP e a ČTK.
+  Saiu de casa aos 15 anos para treinar em Prostějov e chegou ao 12.º ranking
+  da ATP, após a final de Miami. Títulos e origem tcheca, segundo a ATP e a ČTK.
 knownFor: 'Tenista tcheco, campeão da ATP em Adelaide e Brisbane'
 summary: >-
   Jiri Lehecka é um tenista tcheco com dois títulos da ATP, conquistados em
@@ -25,6 +25,10 @@ targetQueries:
   - nacionalidade de Jiri Lehecka
   - títulos de Jiri Lehecka
   - Jiri Lehecka Wimbledon
+  - idade
+  - tenista
+  - idade jiri lehecka
+  - lehecka tenista
 faq:
   - q: Qual é o melhor ranking de Jiri Lehecka?
     a: >-
@@ -42,14 +46,27 @@ faq:
     a: >-
       Ele é natural de Mladá Boleslav, uma cidade tcheca, segundo a agência ČTK
       [s:cns-profile]. A ATP também o descreve como tcheco [s:atp-wikidata-bio].
+  - q: Qual é a idade de Jiri Lehecka?
+    a: >-
+      Ele tem 24 anos em 2 de novembro de 2026. Nasceu em 8 de novembro de 2001
+      e completa 25 anos nessa data [s:atp-milan-2022].
+  - q: Jiri Lehecka é tenista?
+    a: >-
+      Sim. É um tenista profissional tcheco, com dois títulos do circuito ATP
+      [s:atp-bio] [s:atp-adelaide-2024-final] [s:atp-brisbane-2025-final].
 autoReviews: 2
 publishedAt: '2026-10-27'
+updatedAt: '2026-11-02'
 ---
 Jiri Lehecka é um tenista tcheco com dois títulos do circuito ATP, conquistados em Adelaide em janeiro de 2024 e em Brisbane em janeiro de 2025 [s:atp-adelaide-2024-final] [s:atp-brisbane-2025-final]. Seu melhor ranking no simples é o 12.º lugar, alcançado em maio de 2026 [s:atp-bio]. Esse pico veio logo depois da primeira final de Masters 1000 dele, em Miami, em março [s:atp-bio] [s:atp-miami-2026-sf].
 
-## Início de carreira entre Mladá Boleslav e Prostějov
+## Idade e data de nascimento
 
-Segundo a biografia dele na ATP, Lehecka começou a jogar tênis com a mãe e o avô [s:atp-bio]. Ele é natural de Mladá Boleslav, cidade da República Tcheca, como informou a agência ČTK em uma reportagem sobre uma de suas partidas [s:cns-profile]. Aos 15 anos deixou sua casa para treinar em Prostějov [s:atp-bio]. A página de jogador da ATP também o descreve como ex-número 10 do mundo juvenil [s:atp-wikidata-bio]. Sua biografia ainda registra um título juvenil: o de duplas masculinas juvenis de Wimbledon em 2019, conquistado com o compatriota Forejtek [s:atp-bio].
+Jiri Lehecka tem 24 anos em 2 de novembro de 2026. Ele nasceu em 8 de novembro de 2001 e completa 25 anos nessa data [s:atp-milan-2022]. A ATP registrou que ele comemorou 21 anos na terça-feira, 8 de novembro de 2022, em uma vitória no Next Gen ATP Finals, em Milão [s:atp-milan-2022]. A biografia da ATP também cita esse aniversário durante o Next Gen de 2022 [s:atp-bio].
+
+## De onde é: Mladá Boleslav e Prostějov
+
+Lehecka é natural de Mladá Boleslav, cidade da República Tcheca, como informou a agência ČTK em uma reportagem sobre uma de suas partidas [s:cns-profile]. Segundo a biografia dele na ATP, ele começou a jogar tênis com a mãe e o avô [s:atp-bio]. Aos 15 anos deixou sua casa para treinar em Prostějov [s:atp-bio]. A página de jogador da ATP também o descreve como ex-número 10 do mundo juvenil [s:atp-wikidata-bio]. Sua biografia ainda registra um título juvenil: o de duplas masculinas juvenis de Wimbledon em 2019, conquistado com o compatriota Forejtek [s:atp-bio].
 
 ## Adelaide 2024: o primeiro título
 
@@ -75,4 +92,4 @@ Lehecka foi o 21.º cabeça de chave no Aberto de Miami [s:atp-miami-2026-sf]. N
 
 ## O que esta página não cobre
 
-A biografia da ATP não informa a data de nascimento dele, então esta página também não a traz [s:atp-bio]. Os rankings mudam toda semana, por isso os números aqui refletem as datas das fontes citadas. As páginas revisadas não mostram um ranking ao vivo, então vale conferir a posição atual no perfil dele na ATP.
+A biografia da ATP não traz a data exata de nascimento; ela aparece no relatório da ATP sobre o 21.º aniversário dele [s:atp-milan-2022]. Os rankings mudam toda semana, por isso os números aqui refletem as datas das fontes citadas. As páginas revisadas não mostram um ranking ao vivo, então vale conferir a posição atual no perfil dele na ATP.

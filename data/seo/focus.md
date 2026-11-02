@@ -18,9 +18,9 @@ For each page, edit only that language's file:
 
 ## Pages
 
-- [ ] pt/jiri-lehecka (423 impressions, 0 clicks, position 11.3): jiri lehecka, lehecka, tenista lehecka, lehecka tenista, jiri tenista, j. lehecka, jiri lehecka idade, tenista jiri lehecka
-- [ ] es/jiri-lehecka (340 impressions, 0 clicks, position 12.1): jiří lehečka, jiří lehečka ranking, jiri lehecka, jiří lehečka edad, lehecka, lehecka tenista, tenista lehecka, de donde es lehecka
-- [ ] es/carlos-alcaraz (315 impressions, 0 clicks, position 19.8): cuántos años tiene carlos alcaraz, cuántos años tiene alcaraz, carlos alcaraz, alcaraz, edad de alcaraz tenista, edad de alcaraz, edad alcaraz tenista, alcaraz edad
+- [x] pt/jiri-lehecka (done 2026-11-02) (423 impressions, 0 clicks, position 11.3): jiri lehecka, lehecka, tenista lehecka, lehecka tenista, jiri tenista, j. lehecka, jiri lehecka idade, tenista jiri lehecka
+- [x] es/jiri-lehecka (done 2026-11-02) (340 impressions, 0 clicks, position 12.1): jiří lehečka, jiří lehečka ranking, jiri lehecka, jiří lehečka edad, lehecka, lehecka tenista, tenista lehecka, de donde es lehecka
+- [x] es/carlos-alcaraz (done 2026-11-02) (315 impressions, 0 clicks, position 19.8): cuántos años tiene carlos alcaraz, cuántos años tiene alcaraz, carlos alcaraz, alcaraz, edad de alcaraz tenista, edad de alcaraz, edad alcaraz tenista, alcaraz edad
 - [ ] pt/yaxel-lendeborg (314 impressions, 3 clicks, position 8.1): yaxel lendeborg idade, yaxel lendeborg altura, yaxel lendeborg, yaxel lendeborg estatísticas, idade yaxel lendeborg, yaxel lendeborg posição, estatísticas de yaxel lendeborg, lendeborg altura
 - [ ] de/trending/the-rookie-staffel-9-2026 (242 impressions, 0 clicks, position 8.9): the rookie staffel 9, the rookie staffel 9 wow, wann kommt the rookie staffel 9, the rookie season 9, the rookie staffel 9 österreich, rookie staffel 9 wow, the rookie disney plus staffel 9, the rookie staffel 9 sky
 - [ ] de/ibrahim-maza (229 impressions, 0 clicks, position 10.0): ibrahim maza alter, ibrahim maza nationalität, maza nationalität, ibrahim maza herkunft, maza leverkusen nationalität, maza trikotnummer, maza alter, trikotnummer maza

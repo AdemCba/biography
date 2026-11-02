@@ -1,0 +1,219 @@
+{
+  "date": "2026-11-02",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "France reached its first FIBA Women's World Cup final, lost 97-79 to the United States",
+      "sourceIds": [
+        "fiba-french-poy-2026",
+        "lanacion-wc-final-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "FIBA says Williams was central to France reaching its first World Cup final; the scoreboard and AP report show USA 97, France 79."
+    },
+    {
+      "claim": "She plays forward for the Golden State Valkyries and the France national team",
+      "sourceIds": [
+        "wnba-player-bio",
+        "fiba-french-poy-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "WNBA.com lists forward and Valkyries; FIBA lists forward and France captaincy."
+    },
+    {
+      "claim": "Born 9 September 1996 (age 30 in November 2026)",
+      "sourceIds": [
+        "wnba-player-bio",
+        "fiba-player-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Both pages give Sep 9, 1996; age is derived."
+    },
+    {
+      "claim": "Dual French and US citizenship; FIBA nationality FRA/USA",
+      "sourceIds": [
+        "fiba-player-profile",
+        "nevada-sports-net-reed-high"
+      ],
+      "verdict": "confirmed",
+      "note": "FIBA lists FRA/USA; NSN says dual citizen."
+    },
+    {
+      "claim": "Born in Reno, Nevada; graduated from Reed High in Sparks",
+      "sourceIds": [
+        "nevada-sports-net-reed-high"
+      ],
+      "verdict": "confirmed",
+      "note": "NSN describes her as born in Reno; the page attributes this to NSN, and other reports differ on the city."
+    },
+    {
+      "claim": "College at UConn",
+      "sourceIds": [
+        "wnba-player-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "WNBA.com lists Connecticut as college."
+    },
+    {
+      "claim": "Drafted fourth overall by Chicago in 2018",
+      "sourceIds": [
+        "wnba-player-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "WNBA.com: Drafted 4th overall by Chicago in the 2018 WNBA Draft."
+    },
+    {
+      "claim": "Height 5-11 / 180 cm",
+      "sourceIds": [
+        "wnba-player-bio",
+        "fiba-player-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Both pages agree (5-11 and 180 cm)."
+    },
+    {
+      "claim": "Seattle Storm was her former team",
+      "sourceIds": [
+        "valkyries-signing-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Valkyries signing article names the Seattle Storm as former team."
+    },
+    {
+      "claim": "Named to France Tokyo Olympic roster (one of 12 players)",
+      "sourceIds": [
+        "nevada-sports-net-reed-high"
+      ],
+      "verdict": "confirmed",
+      "note": "NSN says one of 12 players named to the French Olympic team."
+    },
+    {
+      "claim": "2025 WNBA All-Star; 2025 All-Defensive First Team; 2022 All-Defensive Second Team; career averages 9.3/3.9/2.8",
+      "sourceIds": [
+        "wnba-player-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "All listed on WNBA.com bio."
+    },
+    {
+      "claim": "Coach Natalie Nakase quote: Gabby can guard one through five",
+      "sourceIds": [
+        "valkyries-allstar-starter"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted in the Valkyries article."
+    },
+    {
+      "claim": "Signed a multi-year contract, announced 12 April 2026",
+      "sourceIds": [
+        "valkyries-signing-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Valkyries announcement dated April 12, 2026, multi-year."
+    },
+    {
+      "claim": "Team-leading scorer, career-high 15.8 ppg, 20+ points five times (as of July 2, 2026)",
+      "sourceIds": [
+        "valkyries-allstar-starter"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the article dated 2026-07-02."
+    },
+    {
+      "claim": "27-point career high vs Las Vegas Aces on 6 June; 13 points in final 3:31 vs Atlanta Dream on 26 June",
+      "sourceIds": [
+        "valkyries-allstar-starter"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the article."
+    },
+    {
+      "claim": "35.2% three-point shooting, 5.3 attempts; seventh in usage rate among 300+ minute players",
+      "sourceIds": [
+        "valkyries-allstar-starter"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the article."
+    },
+    {
+      "claim": "First Valkyries player named a WNBA All-Star starter; All-Star Game in Chicago on 25 July",
+      "sourceIds": [
+        "valkyries-allstar-starter"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the article."
+    },
+    {
+      "claim": "Won the 2026 Alain-Gilles Trophy (French Player of the Year), nine points ahead of Victor Wembanyama",
+      "sourceIds": [
+        "fiba-french-poy-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "FIBA article: beat Wembanyama by nine points."
+    },
+    {
+      "claim": "Vote electorate: FFBB members, former senior team players, French sports media, public",
+      "sourceIds": [
+        "fiba-french-poy-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the FIBA article."
+    },
+    {
+      "claim": "Second win after 2024; captain; EuroLeague Women champion with Fenerbahce",
+      "sourceIds": [
+        "fiba-french-poy-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "FIBA: two-time winner (2024, 2026), captain, EuroLeague champion."
+    },
+    {
+      "claim": "Paris 2024 final lost 66-67 to the United States",
+      "sourceIds": [
+        "fiba-paris-2024-mvp-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "FIBA page game listing shows the final 66-67 to USA."
+    },
+    {
+      "claim": "Nigeria game 14 pts, 7 ast, 6 stl, 5 reb in 23 min; third player since 2000 with more than 10 pts, 5 reb, 5 ast, more than 5 stl",
+      "sourceIds": [
+        "fiba-paris-2024-mvp-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the FIBA preview."
+    },
+    {
+      "claim": "Quote: I know my team definitely feeds off my defense and my energy",
+      "sourceIds": [
+        "fiba-paris-2024-mvp-preview"
+      ],
+      "verdict": "confirmed",
+      "note": "Quoted in the FIBA preview."
+    },
+    {
+      "claim": "2026 World Cup in Berlin: All-Star Five and Best Defensive Player",
+      "sourceIds": [
+        "fiba-french-poy-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the FIBA article."
+    },
+    {
+      "claim": "Led France in semifinal win over host Germany; final 20 pts, 3 reb, 7 ast, 3 stl",
+      "sourceIds": [
+        "lanacion-wc-final-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "AP report states these."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds the 2026 World Cup final and the Alain-Gilles award from FIBA and the team, and records that sources disagree on birthplace and 2026 scoring averages.",
+  "decision": "approve",
+  "summary": "All checked claims match the opened sources; birthplace is stated only at state level and the disagreement is noted in the research record."
+}

@@ -1,0 +1,111 @@
+{
+  "worthWriting": true,
+  "reason": "France women's international and WNBA All-Star with a 2026 Alain-Gilles award and a World Cup 2026 final; several primary sources (WNBA, Valkyries, FIBA).",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "low",
+  "sources": [
+    {
+      "id": "wnba-player-bio",
+      "url": "https://www.wnba.com/player/1628931/gabby-williams/bio",
+      "title": "Gabby Williams - WNBA.com player bio",
+      "publisher": "WNBA",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "valkyries-signing-2026",
+      "url": "https://valkyries.wnba.com/news/valkyries-make-splash-signing-first-ever-all-star-free-agent-gabby-williams-20260412",
+      "title": "Valkyries Make Splash Signing First-Ever All-Star Free Agent Gabby Williams",
+      "publisher": "Golden State Valkyries",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "valkyries-allstar-starter",
+      "url": "https://valkyries.wnba.com/news/leader-closer-all-star-starter-gabby-williams-is-the-full-package-20260702",
+      "title": "Leader, Closer, All-Star Starter: Gabby Williams is the Full Package",
+      "publisher": "Golden State Valkyries",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "fiba-french-poy-2026",
+      "url": "https://www.fiba.basketball/en/news/gabby-beats-wemby-to-french-player-of-the-year-award",
+      "title": "Gabby beats Wemby to French Player of the Year award",
+      "publisher": "FIBA",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "fiba-player-profile",
+      "url": "https://www.fiba.basketball/en/players/216915",
+      "title": "Gabby Williams - FIBA player profile",
+      "publisher": "FIBA",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "fiba-paris-2024-mvp-preview",
+      "url": "https://www.fiba.basketball/en/events/womens-olympic-basketball-tournament-paris-2024/news/is-gabby-williams-the-mvp-in-waiting",
+      "title": "Is Gabby Williams the MVP in waiting?",
+      "publisher": "FIBA",
+      "type": "league-or-federation",
+      "lang": "en"
+    },
+    {
+      "id": "lanacion-wc-final-2026",
+      "url": "https://www.lanacion.com.ar/usa/france-star-gabby-williams-again-denied-by-us-in-womens-fiba-world-cup-final-nid13092026/",
+      "title": "France star Gabby Williams again denied by US in women's FIBA World Cup final",
+      "publisher": "La Nacion (AP wire)",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "nevada-sports-net-reed-high",
+      "url": "https://nevadasportsnet.com/news/reporters/reed-high-alum-gabby-williams-will-play-in-olympics-with-team-france",
+      "title": "Reed High alum Gabby Williams will play in Olympics with Team France",
+      "publisher": "Nevada Sports Net",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1996-09-09",
+      "sources": [
+        "wnba-player-bio",
+        "fiba-player-profile"
+      ],
+      "note": "Both pages give Sep 9, 1996."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Nevada, United States",
+      "sources": [
+        "nevada-sports-net-reed-high"
+      ],
+      "note": "Nevada Sports Net says Reno. Other reports give Sparks, Nevada, which is also in Nevada. The city is not settled in the sources opened, so only the state is stated."
+    },
+    "nationality": {
+      "value": "FR,US",
+      "sources": [
+        "fiba-player-profile",
+        "fiba-french-poy-2026",
+        "nevada-sports-net-reed-high"
+      ],
+      "note": "FIBA lists FRA/USA; the French award and the NSN piece describe dual citizenship."
+    }
+  },
+  "targetQueries": [
+    "Gabby Williams age",
+    "Gabby Williams team",
+    "Gabby Williams height",
+    "Gabby Williams nationalité",
+    "Gabby Williams Valkyries",
+    "Gabby Williams équipe de France",
+    "Gabby Williams WNBA stats",
+    "Gabby Williams college"
+  ],
+  "gapNote": "Search results disagree on birthplace (Reno vs Sparks), on the World Cup 2026 result (one French piece implies a medal, the scoreboard shows a 97-79 loss to the USA in the final), and on 2026 scoring averages (WNBA.com 14.4 ppg vs Valkyries 15.8 ppg as of July). The 2026 All-Star starter claim comes from the Valkyries only; WNBA.com 2026 selection not yet checked. Tokyo bronze and Paris 2024 defensive award were found only in secondary pages and are left out."
+}

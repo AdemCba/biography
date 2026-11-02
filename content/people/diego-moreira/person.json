@@ -1,0 +1,95 @@
+{
+  "id": "diego-moreira",
+  "name": "Diego Moreira",
+  "categories": [
+    "athletes"
+  ],
+  "importance": 3,
+  "wikidata": "Q110616805",
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "2004-08-06",
+      "sources": [
+        "acmilan-moreira-statement",
+        "wikidata-moreira"
+      ],
+      "note": "Both sources give 6 August 2004."
+    },
+    "birthPlace": {
+      "value": "Liège, Belgium",
+      "sources": [
+        "acmilan-moreira-statement",
+        "wikidata-moreira"
+      ]
+    },
+    "nationality": {
+      "value": [
+        "BE"
+      ],
+      "sources": [
+        "acmilan-moreira-statement",
+        "bein-moreira-transfer",
+        "dhnet-moreira-switch"
+      ],
+      "note": "Belgian. Wikidata also lists Portuguese citizenship, ending 19 May 2025, when he switched international allegiance."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "acmilan-moreira-statement",
+      "url": "https://www.acmilan.com/en/news/articles/media/2026-08-19/official-statement-diego-moreira",
+      "title": "Official statement: Diego Moreira",
+      "publisher": "AC Milan",
+      "type": "official",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "acmilan-moreira-focus",
+      "url": "https://www.acmilan.com/en/news/articles/focus/2026-08-20/diego-moreira-focus-and-fun-facts",
+      "title": "Diego Moreira: focus and fun facts",
+      "publisher": "AC Milan",
+      "type": "official",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "bein-moreira-transfer",
+      "url": "https://www.beinsports.com/en-us/soccer/serie-a/articles/belgium-talent-moreira-completes-50m-move-to-milan-2026-08-20",
+      "title": "Belgium talent Moreira completes €50m move to Milan",
+      "publisher": "beIN Sports",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "goal-moreira-interview",
+      "url": "https://www.goal.com/en/lists/ac-milan-diego-moreira-breakdance-if-i-score-against-inter-no-i-don-t-want-to-get-injured-i-m-named-after-maradona-but-for-me-cristiano-ronaldo-is-football/bltc012a42e8af6b94e",
+      "title": "AC Milan, Diego Moreira: 'Breakdance if I score against Inter? No, I don't want to get injured'",
+      "publisher": "Goal",
+      "type": "interview",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "wikidata-moreira",
+      "url": "https://www.wikidata.org/wiki/Q110616805",
+      "title": "Diego Moreira (Q110616805)",
+      "publisher": "Wikidata",
+      "type": "database",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "dhnet-moreira-switch",
+      "url": "https://www.dhnet.be/sports/football/diablesrouges/2025/05/20/la-fifa-approuve-le-changement-un-indice-de-plus-pour-la-selection-de-diego-moreira-avec-les-diables-rouges-RBGBFG75ZFBGRLJEFRYQRICQI4/",
+      "title": "La FIFA approuve le changement : un indice de plus pour la sélection de Diego Moreira avec les Diables rouges ?",
+      "publisher": "DH Les Sports+",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "fr"
+    }
+  ]
+}

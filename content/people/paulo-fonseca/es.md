@@ -1,9 +1,9 @@
 ---
 title: Paulo Fonseca
 slug: paulo-fonseca
-metaTitle: 'Paulo Fonseca: 53 años, equipos y posible Sporting'
+metaTitle: 'Paulo Fonseca: {age} años, equipos y posible Sporting'
 metaDescription: >-
-  Paulo Fonseca tiene 53 años y nació en Nampula el 5 de marzo de 1973. A Bola
+  Paulo Fonseca tiene {age} años y nació en Nampula el 5 de marzo de 1973. A Bola
   informa de que el Sporting CP ha alcanzado un acuerdo para contratarlo.
 knownFor: >-
   Entrenador portugués, campeón con el Shakhtar Donetsk y exentrenador de la
@@ -12,8 +12,8 @@ summary: >-
   Paulo Fonseca es un entrenador portugués que ha dirigido al Shakhtar Donetsk,
   la Roma, el Lille, el AC Milan y el Olympique de Lyon. A Bola informó el 1 de
   noviembre de 2026 de que el Sporting CP ha alcanzado un acuerdo para
-  contratarlo, pero esa información todavía no tenía un anuncio oficial del
-  club. Nació en Nampula, Mozambique, y ganó siete títulos con el Shakhtar entre
+  contratarlo, pero, hasta el 2 de noviembre, no se encontró ningún anuncio oficial del
+  club, del Lyon ni de Fonseca. Nació en Nampula, Mozambique, y ganó siete títulos con el Shakhtar entre
   2016 y 2019.
 status: published
 risk: medium
@@ -52,12 +52,13 @@ faq:
 autoReviews: 2
 publishedAt: '2026-11-01'
 publishedTime: '2026-11-01T21:38:16.088Z'
+updatedAt: '2026-11-02'
 ---
 El nombre de Paulo Fonseca suena para el banquillo del Sporting CP. Según A Bola, el club de Lisboa ha alcanzado un acuerdo con Fonseca y con el Olympique de Lyon, y [Rui Borges](person:rui-borges) ha pactado con la directiva la rescisión de su contrato [s:abola-sporting-report]. Se trata de información periodística, no de un comunicado del club, y el diario indica que la basa en datos propios [s:abola-sporting-report].
 
-## Lo que cuenta la información sobre el Sporting
+## Noviembre de 2026: lo que cuenta la información sobre el Sporting
 
-Según el mismo diario, Fonseca ya se ha despedido de la plantilla del Lyon por mensaje. Su primer partido con el Sporting sería en casa, ante el Moreirense el próximo sábado, en la jornada 11 de la liga [s:abola-sporting-report]. Tiago Fernandes, que dirige al equipo B, sería quien tome las riendas del primer equipo ante el Shakhtar Donetsk [s:abola-sporting-report]. La información da por cerrado el acuerdo con el Lyon, pero no detalla sus condiciones [s:abola-sporting-report]. Hasta que el Sporting o el Lyon lo confirmen, la fecha, el contrato y el cuerpo técnico no son hechos confirmados.
+Según el mismo diario, Fonseca ya se ha despedido de la plantilla del Lyon por mensaje. Su primer partido con el Sporting sería en casa, ante el Moreirense el próximo sábado, en la jornada 11 de la liga [s:abola-sporting-report]. Tiago Fernandes, que dirige al equipo B, sería quien tome las riendas del primer equipo ante el Shakhtar Donetsk [s:abola-sporting-report]. La información da por cerrado el acuerdo con el Lyon, pero no detalla sus condiciones [s:abola-sporting-report]. Hasta que el Sporting o el Lyon lo confirmen, la fecha, el contrato y el cuerpo técnico no son hechos confirmados. El propio artículo no cita ningún comunicado del Sporting, del Lyon ni de Fonseca [s:abola-sporting-report].
 
 ## De Nampula a Barreirense
 

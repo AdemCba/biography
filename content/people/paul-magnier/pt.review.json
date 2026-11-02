@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-02",
+  "model": "claude-haiku-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 14 April 2004 in Laredo, USA",
+      "sourceIds": [
+        "soudal-rider-page",
+        "velora-rider"
+      ],
+      "verdict": "confirmed",
+      "note": "Team profile: birthdate 14/04/2004, birth place Laredo, USA; Velora: 14 April 2004."
+    },
+    {
+      "claim": "Nationality French",
+      "sourceIds": [
+        "soudal-rider-page",
+        "muur-lalibre"
+      ],
+      "verdict": "confirmed",
+      "note": "Team profile says France; Belga/La Libre calls him French."
+    },
+    {
+      "claim": "Contract extended to end of 2029, announced January 2026",
+      "sourceIds": [
+        "soudal-extension",
+        "tuttobici-extension"
+      ],
+      "verdict": "confirmed",
+      "note": "Team news: until end of 2029; TuttoBici dated 9 Jan 2026."
+    },
+    {
+      "claim": "Tour of Oman stage 3 in Feb 2024, shortened by weather; second pro win; aged 19; seven pro races",
+      "sourceIds": [
+        "oman-orange"
+      ],
+      "verdict": "confirmed",
+      "note": "Orange Sport, byline 12 Feb 2024; 19 years old; seven races and two wins as pro."
+    },
+    {
+      "claim": "Red Bull explored signing him in Aug 2026; he sees future at Soudal Quick-Step; quote about trusting Quick-Step 100%",
+      "sourceIds": [
+        "red-bull-domestique"
+      ],
+      "verdict": "confirmed",
+      "note": "Domestique, 30 Aug 2026; quote confirmed."
+    },
+    {
+      "claim": "Giro stage 1 on 8 May 2026, Nessebar to Burgas, 147 km, pink jersey, first Frenchman since Bruno Armirail",
+      "sourceIds": [
+        "giro-stage1-flo",
+        "giro-stage1-bta"
+      ],
+      "verdict": "confirmed",
+      "note": "Flo Bikes gives date, route, distance and pink jersey claim; BTA confirms winner and route."
+    },
+    {
+      "claim": "Giro stage 3 on 10 May 2026, Plovdiv to Sofia, 175 km, 4h09'42\"",
+      "sourceIds": [
+        "giro-stage3"
+      ],
+      "verdict": "confirmed",
+      "note": "Giro official site."
+    },
+    {
+      "claim": "Milan (Lidl-Trek) and Groenewegen (Unibet Rose Rockets) same time",
+      "sourceIds": [
+        "giro-stage3"
+      ],
+      "verdict": "confirmed",
+      "note": "Giro official site finishing order."
+    },
+    {
+      "claim": "First French rider to win two stages in opening three days; youngest to two stage wins so early",
+      "sourceIds": [
+        "giro-stage3"
+      ],
+      "verdict": "confirmed",
+      "note": "Giro official site wording."
+    },
+    {
+      "claim": "Tim Merlier said Magnier made mistakes in lead-up to Giro sprints and team must talk",
+      "sourceIds": [
+        "merlier-domestique"
+      ],
+      "verdict": "confirmed",
+      "note": "Domestique quoting Nieuwsblad, published 24 May 2026."
+    },
+    {
+      "claim": "Muur Classic 4th edition, 14 June 2026, 179 km around Grammont, won in sprint",
+      "sourceIds": [
+        "muur-lalibre"
+      ],
+      "verdict": "confirmed",
+      "note": "La Libre (Belga), 14 June 2026; 179 km; 4th edition."
+    },
+    {
+      "claim": "Sprint ahead of Floris Van Tricht and Jenno Berckmoes",
+      "sourceIds": [
+        "muur-lalibre"
+      ],
+      "verdict": "confirmed",
+      "note": "La Libre headline and body."
+    },
+    {
+      "claim": "Sixth win of the season and 30th career win",
+      "sourceIds": [
+        "muur-orange"
+      ],
+      "verdict": "confirmed",
+      "note": "Orange Sport quote: sixième victoire, 30e succès de sa carrière."
+    },
+    {
+      "claim": "On 12 June 2026 team had not yet chosen between Magnier and Merlier for the Tour",
+      "sourceIds": [
+        "tour-choice-orange"
+      ],
+      "verdict": "confirmed",
+      "note": "Orange Sport, dated Friday 12 June 2026."
+    },
+    {
+      "claim": "He later skipped the Tour de France and took a break",
+      "sourceIds": [
+        "hamburg-flo"
+      ],
+      "verdict": "confirmed",
+      "note": "Flo Bikes: 'notably skipping the Tour de France'."
+    },
+    {
+      "claim": "Hamburg 16 Aug 2026, bunch sprint on Mönckebergstraße, won",
+      "sourceIds": [
+        "hamburg-official"
+      ],
+      "verdict": "confirmed",
+      "note": "Official race site: Sunday, 16 Aug 2026; sprint on Mönckebergstraße."
+    },
+    {
+      "claim": "Second Mike Teunissen (XDS Astana), third Laurence Pithie (Red Bull-Bora-Hansgrohe)",
+      "sourceIds": [
+        "hamburg-official"
+      ],
+      "verdict": "confirmed",
+      "note": "Official race site."
+    },
+    {
+      "claim": "First French winner since Arnaud Démare in 2012; win was revenge for 3rd place in 2025",
+      "sourceIds": [
+        "hamburg-official"
+      ],
+      "verdict": "confirmed",
+      "note": "Official race site wording."
+    },
+    {
+      "claim": "Five ascents of the Waseberg",
+      "sourceIds": [
+        "hamburg-official"
+      ],
+      "verdict": "confirmed",
+      "note": "Official race site: five ascents of the Waseberg."
+    },
+    {
+      "claim": "Jasper Stuyven led the front group into final kilometre with Magnier on his wheel",
+      "sourceIds": [
+        "hamburg-domestique"
+      ],
+      "verdict": "confirmed",
+      "note": "Domestique Cycling race report."
+    },
+    {
+      "claim": "Seventh win of the 2026 season",
+      "sourceIds": [
+        "hamburg-flo"
+      ],
+      "verdict": "confirmed",
+      "note": "Flo Bikes: 'seventh cycling victory of the season'."
+    },
+    {
+      "claim": "Contract with Soudal Quick-Step runs until end of 2029",
+      "sourceIds": [
+        "soudal-extension"
+      ],
+      "verdict": "confirmed",
+      "note": "Team news."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Adds dated 2026 results (Giro stages, Muur Classic, Hamburg) and the 2029 contract, which the top pages lack in one place.",
+  "decision": "approve",
+  "summary": "All checked claims match the cited sources."
+}

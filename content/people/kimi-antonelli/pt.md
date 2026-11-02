@@ -1,21 +1,21 @@
 ---
 title: Kimi Antonelli
 slug: kimi-antonelli
-metaTitle: 'Kimi Antonelli: idade, vitórias e o título no México'
+metaTitle: 'Kimi Antonelli: {age}, campeão mundial de F1 2026'
 metaDescription: >-
-  Idade de Kimi Antonelli, suas raízes em Bolonha, a passagem pelo kart e pela
-  Mercedes, e o Grande Prêmio da Cidade do México, que pode lhe dar o título da
-  F1 de 2026.
-knownFor: Piloto italiano de Fórmula 1 da Mercedes e líder do campeonato de 2026
+  Kimi Antonelli, com {age}, conquistou o título mundial de F1 de 2026 na Cidade
+  do México, o campeão mais jovem da história.
+knownFor: Piloto italiano de Fórmula 1 da Mercedes e campeão mundial de 2026
 summary: >-
   Kimi Antonelli é o piloto italiano de Fórmula 1 que corre pela Mercedes. Ele
-  venceu o Grande Prêmio dos Estados Unidos de 2026, em Austin, em 25 de outubro
-  de 2026, e lidera o campeonato de pilotos com 123 pontos de vantagem sobre
-  George Russell. O Grande Prêmio da Cidade do México, sete dias depois de
-  Austin, pode lhe dar o título.
+  conquistou o campeonato mundial de 2026 no Grande Prêmio da Cidade do México,
+  em 1 de novembro de 2026, ao terminar em terceiro atrás de Max Verstappen e
+  Lewis Hamilton. Aos 20 anos e 68 dias, é o campeão mundial mais jovem da
+  história da Fórmula 1.
 status: published
 risk: low
 publishedAt: '2026-11-01'
+updatedAt: '2026-11-02'
 reviewedAt: '2026-11-01'
 reviewBy: '2027-05-01'
 author: editor-in-chief
@@ -23,29 +23,27 @@ reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Kimi Antonelli
-  - Kimi Antonelli campeonato mundial
+  - Kimi Antonelli campeão mundial
+  - Kimi Antonelli campeonato
+  - Kimi Antonelli idade
+  - Kimi Antonelli anos
   - Kimi Antonelli Grande Prêmio da Cidade do México
   - Kimi Antonelli Grande Prêmio dos Estados Unidos
-  - Kimi Antonelli idade
-  - Kimi Antonelli aniversário
-  - Kimi Antonelli pontos
-  - Kimi Antonelli vitórias 2026
   - Kimi Antonelli Mercedes
   - Kimi Antonelli pai Marco
-  - Kimi Antonelli Fórmula 2
-  - Kimi Antonelli Fórmula 4 italiana
 faq:
-  - q: Kimi Antonelli pode conquistar o título na Cidade do México?
+  - q: Kimi Antonelli foi campeão mundial de F1?
     a: >-
-      Pode. Segundo a Fórmula 1, um nono lugar ou melhor o confirma campeão do
-      mundo [s:f1-mexico-race-week]. Se Russell vencer a corrida, Antonelli
-      precisa terminar em nono ou melhor; se Hamilton vencer, em décimo ou
-      melhor [s:crash-mexico-title].
+      Sim. Ele terminou em terceiro no Grande Prêmio da Cidade do México, em 1 de
+      novembro de 2026, e isso bastou: precisava apenas de um nono lugar, o que
+      quer que acontecesse com Russell e Hamilton [s:f1-mexico-race-report]
+      [s:fia-mexico-report]. Garantiu o título com quatro etapas de sobra
+      [s:skysports-mexico-title].
   - q: Quantos anos tem Kimi Antonelli?
     a: >-
-      Ele nasceu em 25 de agosto de 2006, fez 20 anos em agosto de 2026 e
-      continua com 20 anos em 26 de outubro de 2026, data das reportagens usadas
-      nesta página.
+      Ele nasceu em 25 de agosto de 2006 [s:f1-driver-profile]. Tinha 20 anos e 68
+      dias quando conquistou o título, e é o campeão mundial mais jovem da
+      história da Fórmula 1 [s:skysports-mexico-title].
   - q: Kimi Antonelli venceu o Grande Prêmio dos Estados Unidos de 2026?
     a: >-
       Sim. Ele largou na pole e venceu em Austin, em 25 de outubro de 2026, sua
@@ -63,11 +61,25 @@ faq:
 autoReviews: 4
 publishedTime: '2026-11-01T21:38:16.080Z'
 ---
-Kimi Antonelli venceu o Grande Prêmio dos Estados Unidos de 2026 no Circuit of the Americas, em Austin, em 25 de outubro de 2026, depois de largar na pole [s:f1-austin-race-report]. A Autosport contou essa como sua nona vitória em GPs em 2026 [s:autosport-austin-report]. Com 123 pontos de vantagem sobre Russell, ele assume a liderança do campeonato de pilotos [s:skysports-austin-report], mas o título ainda não estava garantido [s:f1-austin-race-report].
+Kimi Antonelli venceu o Grande Prêmio dos Estados Unidos de 2026 no Circuit of the Americas, em Austin, em 25 de outubro de 2026, depois de largar na pole [s:f1-austin-race-report]. A Autosport contou essa como sua nona vitória em GPs em 2026 [s:autosport-austin-report]. Com 123 pontos de vantagem sobre Russell, ele assumiu a liderança do campeonato de pilotos [s:skysports-austin-report], mas o título ainda não estava garantido [s:f1-austin-race-report].
 
 ## novembro 2026
 
-O título de pilotos pode ser decidido no Grande Prêmio da Cidade do México, a 19.ª etapa da temporada, sete dias depois de Austin [s:f1-mexico-race-week]. Antonelli tem 123 pontos de vantagem sobre George Russell, e restam 125 pontos em cinco etapas [s:crash-mexico-title]. A Fórmula 1 diz que terminar entre os nove primeiros o confirma campeão do mundo [s:f1-mexico-race-week]. O Crash.net detalha os outros casos: se Russell vencer, Antonelli precisa terminar em nono ou melhor, e se Hamilton vencer, em décimo ou melhor. Se nenhum dos dois vencer, ele será campeão qualquer que seja a sua posição [s:crash-mexico-title]. Hamilton larga na pole, com Russell em segundo e Antonelli em quarto no grid [s:crash-mexico-title].
+Kimi Antonelli conquistou o título mundial de Fórmula 1 no Grande Prêmio da Cidade do México, em 1 de novembro de 2026. Max Verstappen venceu a corrida pela Red Bull, com 0,799 segundo de vantagem sobre Lewis Hamilton. Antonelli terminou em terceiro, a 4,006 segundos do vencedor, depois de largar em quarto [s:f1-mexico-race-report]. Ele precisava apenas de um nono lugar, o que quer que Russell e Hamilton fizessem [s:f1-mexico-race-report] [s:fia-mexico-report]. A Sky Sports informou que o título foi garantido com quatro etapas de sobra [s:skysports-mexico-title]. Antes da corrida, ele tinha 123 pontos de vantagem sobre George Russell [s:skysports-austin-report].
+
+Aos 20 anos e 68 dias, ele é o campeão mundial de Fórmula 1 mais jovem da história [s:skysports-mexico-title] [s:fia-mexico-report]. É o primeiro título mundial de sua carreira [s:f1-mexico-race-report]. A vitória de Verstappen foi a terceira da temporada dele em 2026 [s:f1-mexico-race-report].
+
+"We did it. And, you know, without them, I wouldn't be here. Without Mercedes, without my family", disse Antonelli depois da corrida (tradução livre da frase original em inglês) [s:f1-mexico-race-report]. Ele também afirmou que estava "tentando processar o que acabou de acontecer" [s:f1-mexico-race-report].
+
+## Austin e a conta do título
+
+Em Austin, ele garantiu a pole com o que Toto Wolff chamou de "uma volta milagrosa" [s:f1-austin-race-report]. Na corrida, terminou em 1:35:16,650, com Charles Leclerc a 13,078 segundos e Max Verstappen em terceiro [s:f1-austin-race-report]. A Autosport registrou cerca de 13 segundos de vantagem sobre Leclerc na chegada [s:autosport-austin-report]. Não foi uma diferença pequena.
+
+O engenheiro de Antonelli pediu que ele "fosse o mais longe possível", e ele parou para trocar os pneus no fim da volta 24 [s:f1-austin-race-report]. Hamilton terminou em quarto, a 18,515 segundos do vencedor, e ficou fora do pódio [s:f1-austin-race-report].
+
+Russell cumpriu uma penalização de cinco segundos durante a parada e terminou em oitavo [s:f1-austin-race-report]. O quarto lugar de Hamilton manteve a disputa aberta, então o campeonato não foi decidido naquele dia [s:f1-austin-race-report].
+
+A Sky Sports fez as contas depois da corrida. Antonelli tinha 123 pontos de vantagem sobre Russell e 124 sobre Hamilton, com no máximo 125 pontos ainda em jogo [s:skysports-austin-report]. A Autosport observou que ele precisava de apenas dois pontos para se tornar, aos 20 anos, o campeão mais jovem da história [s:autosport-austin-report]. A classificação muda a cada etapa, então esses números refletem o dia da corrida e devem ser conferidos na tabela oficial.
 
 ## De Bolonha aos karts
 
@@ -78,6 +90,7 @@ Começou no kart aos sete anos, correndo pela equipe do pai [s:mercedes-everythi
 ## Mercedes, Fórmula 4 e Fórmula 2
 
 Antonelli entrou no Mercedes Junior Programme em abril de 2019, aos 12 anos [s:mercedes-driver-profile].
+
 Sua estreia em monopostos foi em 2021, na Fórmula 4 italiana e em uma etapa da Fórmula 4 UAE Championship Trophy [s:mercedes-everything]. Em 2022 ele ganhou o título da Fórmula 4 italiana e depois conquistou também o da ADAC Fórmula 4 [s:mercedes-everything].
 
 Em 2024 correu na Fórmula 2 pela PREMA. Venceu em Silverstone e na Hungria. Com isso tornou-se "o vencedor múltiplo mais jovem da história da categoria" [s:mercedes-everything]. O perfil da Mercedes também registra essas vitórias de 2024 em Silverstone e Budapeste [s:mercedes-driver-profile].
@@ -92,14 +105,4 @@ No Canadá terminou em terceiro, o que o tornou o terceiro piloto mais jovem a s
 
 Antonelli conquistou a pole do Grande Prêmio da China, em Xangai, com 19 anos, seis meses e 17 dias, a pole mais jovem da história dos GPs [s:mercedes-everything]. No dia seguinte venceu a corrida. Tornou-se o segundo vencedor de GP mais jovem da história, atrás apenas de Max Verstappen [s:mercedes-everything]. Foi também o primeiro italiano a vencer um Grande Prêmio desde Giancarlo Fisichella, no GP da Malásia de 2006 [s:mercedes-everything].
 
-O perfil de piloto da Fórmula 1 o coloca em primeiro no campeonato, com 365 pontos e nove vitórias em GPs em 2026 [s:f1-driver-profile].
-
-## Austin e a conta do título
-
-Em Austin, ele garantiu a pole com o que Toto Wolff chamou de "uma volta milagrosa" [s:f1-austin-race-report]. Na corrida, terminou em 1:35:16,650, com Charles Leclerc a 13,078 segundos e Max Verstappen em terceiro [s:f1-austin-race-report]. A Autosport registrou cerca de 13 segundos de vantagem sobre Leclerc na chegada [s:autosport-austin-report]. Não foi uma diferença pequena.
-
-O engenheiro de Antonelli pediu que ele "fosse o mais longe possível", e ele parou para trocar os pneus no fim da volta 24 [s:f1-austin-race-report]. Hamilton terminou em quarto, a 18,515 segundos do vencedor, e ficou fora do pódio [s:f1-austin-race-report].
-
-Russell cumpriu uma penalização de cinco segundos durante a parada e terminou em oitavo [s:f1-austin-race-report]. O quarto lugar de Hamilton manteve a disputa aberta, então o campeonato não foi decidido naquele dia [s:f1-austin-race-report].
-
-A Sky Sports fez as contas depois da corrida. Antonelli tinha 123 pontos de vantagem sobre Russell e 124 sobre Hamilton, com no máximo 125 pontos ainda em jogo [s:skysports-austin-report]. A Autosport observou que ele precisava de apenas dois pontos para se tornar, aos 20 anos, o campeão mais jovem da história [s:autosport-austin-report]. A Sky Sports também disse que ele poderia garantir o título no Grande Prêmio do México, com quatro etapas de sobra, se terminasse entre os nove primeiros [s:skysports-austin-report]. A classificação muda a cada etapa, então esses números refletem o dia da corrida e devem ser conferidos na tabela oficial.
+O perfil de piloto da Fórmula 1 o coloca em primeiro no campeonato, com 365 pontos e nove vitórias em GPs em 2026 [s:f1-driver-profile]. Ele chegou a Austin na liderança, e o título foi decidido uma semana depois, no México [s:f1-mexico-race-report].

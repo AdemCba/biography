@@ -1,0 +1,159 @@
+{
+  "id": "heidi-klum",
+  "name": "Heidi Klum",
+  "categories": [
+    "business"
+  ],
+  "importance": 5,
+  "wikidata": "Q60036",
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1973-06-01",
+      "sources": [
+        "biography-klum",
+        "wikidata-klum"
+      ],
+      "note": "Biography.com: born June 1, 1973, in Bergisch-Gladbach; Wikidata gives the same date."
+    },
+    "birthPlace": {
+      "value": "Bergisch Gladbach, North Rhine-Westphalia, Germany",
+      "sources": [
+        "biography-klum",
+        "wikidata-klum"
+      ],
+      "note": "Wikidata gives the place of birth as Bergisch Gladbach."
+    },
+    "nationality": {
+      "value": [
+        "DE",
+        "US"
+      ],
+      "sources": [
+        "wikidata-klum",
+        "biography-klum"
+      ],
+      "note": "Wikidata lists Germany and United States as countries of citizenship; Biography.com calls her German-born. The date she became a US citizen was not confirmed from an opened source."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "cbs-hand-costume",
+      "url": "https://www.cbsnews.com/news/heidi-klum-halloween-2026-costume-hand/",
+      "title": "Heidi Klum reveals a giant severed hand as 2026 Halloween costume",
+      "publisher": "CBS News",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "eonline-hand-costume",
+      "url": "https://www.eonline.com/news/1437416/heidi-klum-dresses-as-severed-hand-for-halloween-2026",
+      "title": "Heidi Klum's Halloween 2026 Costume Is Simply Out of Hand",
+      "publisher": "E! News",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "hollywoodlife-costume-hints",
+      "url": "https://hollywoodlife.com/feature/heidi-klum-halloween-2026-costume-5568366/",
+      "title": "What Is Heidi Klum's Halloween 2026 Costume? See Updates",
+      "publisher": "HollywoodLife",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "suedostschweiz-costume-hints",
+      "url": "https://www.suedostschweiz.ch/unterhaltung/heidi-klum-halloween-2026-so-extrem-wird-ihr-neues-kostuem-2215713",
+      "title": "Heidi Klum Halloween 2026: So extrem wird ihr neues Kostüm",
+      "publisher": "Südostschweiz",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "de"
+    },
+    {
+      "id": "tv-academy-klum-gunn",
+      "url": "https://www.televisionacademy.com/bios/heidi-klum-tim-gunn",
+      "title": "Heidi Klum & Tim Gunn",
+      "publisher": "Television Academy",
+      "type": "award-body",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "biography-klum",
+      "url": "https://www.biography.com/personality/heidi-klum",
+      "title": "Heidi Klum",
+      "publisher": "Biography.com",
+      "type": "other",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "wikidata-klum",
+      "url": "https://www.wikidata.org/wiki/Q60036",
+      "title": "Heidi Klum (Q60036)",
+      "publisher": "Wikidata",
+      "type": "database",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "bendon-heidi-klum-intimates",
+      "url": "https://www.prnewswire.co.uk/news-releases/bendon-announces-heidi-klum-as-the-face-and-creative-director-of-its-flagship-intimates-collection-279526962.html",
+      "title": "Bendon Announces Heidi Klum As The Face And Creative Director Of Its Flagship Intimates Collection",
+      "publisher": "PR Newswire (Bendon)",
+      "type": "company",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "tvguide-wildlife-qvc",
+      "url": "https://www.tvguide.com/news/heidi-klum-qvc-1034702/",
+      "title": "Heidi Klum will debut a collection of costume jewelry on QVC",
+      "publisher": "TV Guide",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "joyn-on-off-catwalk",
+      "url": "https://www.joyn.de/bts/serien/on-and-off-the-catwalk/on-off-the-catwalk-heidi-klum-doku-mit-leni-und-henry-kommt-im-februar-53376",
+      "title": "On & Off the Catwalk: Heidi Klum documentary with Leni and Henry comes in February",
+      "publisher": "Joyn (ProSieben)",
+      "type": "official",
+      "accessed": "2026-11-02",
+      "lang": "de"
+    },
+    {
+      "id": "joyn-episode-1",
+      "url": "https://www.joyn.de/serien/on-und-off-the-catwalk-by-heidi-klum/1-1-rund-um-den-globus-mit-heidi-klum-leni-und-henry",
+      "title": "Folge 1: Rund um den Globus mit Heidi Klum, Leni und Henry",
+      "publisher": "Joyn (ProSieben)",
+      "type": "official",
+      "accessed": "2026-11-02",
+      "lang": "de"
+    },
+    {
+      "id": "bluewin-doku-planned",
+      "url": "https://www.bluewin.ch/en/entertainment/documentary-about-heidi-klum-and-her-children-planned-2985500.html",
+      "title": "Television Documentary about Heidi Klum and her children planned",
+      "publisher": "blue News",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "en"
+    },
+    {
+      "id": "abendzeitung-gntm",
+      "url": "https://www.abendzeitung-muenchen.de/tv/diese-tv-shows-machten-heidi-klum-beruehmt-art-488272",
+      "title": "Diese TV-Shows machten Heidi Klum berühmt",
+      "publisher": "Abendzeitung München",
+      "type": "press",
+      "accessed": "2026-11-02",
+      "lang": "de"
+    }
+  ]
+}
