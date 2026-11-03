@@ -1,6 +1,6 @@
 # Google Analytics, last 7 days
 
-Updated 2026-11-02. 253 page views.
+Updated 2026-11-03. 257 page views.
 
 | Day | Users | Sessions | Page views | Engaged time per user |
 | --- | --- | --- | --- | --- |
@@ -9,22 +9,23 @@ Updated 2026-11-02. 253 page views.
 | 2026-10-30 | 15 | 20 | 114 | 18s |
 | 2026-10-31 | 11 | 13 | 43 | 84s |
 | 2026-11-01 | 5 | 6 | 6 | 2s |
-| 2026-11-02 | 5 | 6 | 5 | 8s |
+| 2026-11-02 | 9 | 10 | 9 | 13s |
 
 ## Where visitors come from
 
 | Channel | Sessions |
 | --- | --- |
-| Direct | 38 |
-| Organic Search | 28 |
+| Direct | 40 |
+| Organic Search | 29 |
 | Unassigned | 4 |
+| AI Assistant | 1 |
 
 ## Countries
 
 | Country | Users | Page views |
 | --- | --- | --- |
 | Türkiye | 2 | 206 |
-| United States | 18 | 18 |
+| United States | 20 | 20 |
 | Singapore | 4 | 4 |
 | Hong Kong | 3 | 3 |
 | India | 3 | 3 |
@@ -33,8 +34,8 @@ Updated 2026-11-02. 253 page views.
 | France | 2 | 1 |
 | Angola | 1 | 1 |
 | Argentina | 1 | 1 |
+| Bangladesh | 1 | 1 |
 | Cameroon | 1 | 1 |
-| Canada | 1 | 1 |
 
 ## Most-read pages
 
@@ -43,7 +44,7 @@ Updated 2026-11-02. 253 page views.
 | /pt/trending/ | 50 | 2 | 54s |
 | /en/trending/ | 33 | 2 | 48s |
 | /en/ | 26 | 2 | 425s |
-| / | 23 | 18 | 2s |
+| / | 24 | 19 | 2s |
 | /en/editors/editor-in-chief/ | 9 | 1 | 27s |
 | /pt/ | 8 | 2 | 12s |
 | /en/mrbeast/ | 7 | 7 | 0s |
@@ -53,6 +54,7 @@ Updated 2026-11-02. 253 page views.
 | /pt/yaxel-lendeborg/ | 4 | 3 | 12s |
 | /de/trending/ | 3 | 2 | 3s |
 | /en/disclaimer/ | 3 | 1 | 10s |
+| /en/trending/avengers-doomsday-premium-posters-2026/ | 3 | 2 | 3s |
 | /fr/trending/ | 3 | 1 | 6s |
 | /pt/trending/a-fazenda-18-6-roca-2026/ | 3 | 1 | 13s |
 | /de/ | 2 | 2 | 5s |
@@ -65,7 +67,6 @@ Updated 2026-11-02. 253 page views.
 | /en/trending/afghanistan-zimbabwe-first-t20i-2026/ | 2 | 1 | 7s |
 | /en/trending/amazon-earnings-preview-2026/ | 2 | 2 | 2s |
 | /en/trending/amazon-q3-earnings-2026/ | 2 | 1 | 4s |
-| /en/trending/avengers-doomsday-premium-posters-2026/ | 2 | 1 | 3s |
 | /en/trending/beat-luke-littler-netflix/ | 2 | 1 | 7s |
 | /fr/ | 2 | 1 | 8s |
 | /pt/trending/avengers-doomsday-premium-posters-2026/ | 2 | 1 | 5s |

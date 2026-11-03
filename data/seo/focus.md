@@ -1,6 +1,6 @@
 # Search Console focus list
 
-From Search Console, 2026-10-26 to 2026-11-02, updated automatically every day.
+From Search Console, 2026-10-27 to 2026-11-03, updated automatically every day.
 
 Each page below shows on Google's first or second page (average position 3-20) but gets almost no clicks. The queries are what people typed. The writer works
 through this list from the top, up to 3 pages per people run, then ticks the box with the date.
@@ -18,30 +18,34 @@ For each page, edit only that language's file:
 
 ## Pages
 
-- [x] pt/yaxel-lendeborg (done 2026-11-02) (473 impressions, 3 clicks, position 8.4): yaxel lendeborg idade, yaxel lendeborg altura, yaxel lendeborg, yaxel lendeborg estatísticas, idade yaxel lendeborg, lendeborg altura, yaxel lendeborg posição, estatísticas de yaxel lendeborg
-- [x] de/trending/the-rookie-staffel-9-2026 (done 2026-11-02) (242 impressions, 0 clicks, position 8.9): the rookie staffel 9, the rookie staffel 9 wow, wann kommt the rookie staffel 9, the rookie season 9, the rookie staffel 9 österreich, rookie staffel 9 wow, the rookie disney plus staffel 9, the rookie staffel 9 sky
-- [x] de/ibrahim-maza (done 2026-11-02) (229 impressions, 0 clicks, position 10.0): ibrahim maza alter, ibrahim maza nationalität, maza nationalität, ibrahim maza herkunft, maza leverkusen nationalität, maza trikotnummer, maza alter, trikotnummer maza
-- [ ] de/usain-bolt (211 impressions, 0 clicks, position 17.3): usain bolt, usain bolt alter, usain bolt goldmedaillen, bolt usain, usain bolt weltrekord, usain bolt rekord, bold sprinter, wie alt war usain bolt bei seinem weltrekord
-- [ ] en/quenton-nelson (211 impressions, 0 clicks, position 11.9): quentin nelson age, quenton nelson age, quinton nelson age, quenton nelson, quenton nelson contract, where did quenton nelson go to high school, where is quinton nelson from, wuentin nelson age
-- [ ] es/kai-cenat (174 impressions, 1 clicks, position 11.3): kai cenat, kai cenat edad, edad de kai cenat, edad kai cenat, kai cenar, kai centa, cual es el streamer mas famoso del mundo, cuantos años tiene kai cenat
+- [ ] de/usain-bolt (223 impressions, 0 clicks, position 17.0): usain bolt, usain bolt alter, usain bolt goldmedaillen, usain bolt weltrekord, bolt usain, usain bolt rekord, bold sprinter, wie alt war usain bolt bei seinem weltrekord
+- [ ] en/quenton-nelson (218 impressions, 0 clicks, position 11.8): quentin nelson age, quenton nelson age, quinton nelson age, quenton nelson, quenton nelson contract, where did quenton nelson go to high school, where is quinton nelson from, wuentin nelson age
+- [ ] es/kai-cenat (187 impressions, 1 clicks, position 11.3): kai cenat, kai cenat edad, edad de kai cenat, edad kai cenat, kai cenar, kai centa, cual es el streamer mas famoso del mundo, cuantos años tiene kai cenat
+- [ ] es/luke-littler (187 impressions, 0 clicks, position 9.0): luke littler, luke littler edad, beat luke littler, luke litter, luke littler netflix, beat littler, luke littlet, best luke littler netflix
 - [ ] de/vicky-lopez (168 impressions, 0 clicks, position 11.4): viki lopez, vicky lopez alter, wie alt ist vicky lopez, vicky lopez, vicki lopez, vicky lópez alter, vicky lópez, vicky lopez rückennummer
 - [ ] de/sandro-wagner (167 impressions, 0 clicks, position 11.0): sandro wagner trainer stationen, sandro wagner, wo hat sandro wagner gespielt, sandro wagner trainerkarriere, seit wann ist sandro wagner trainer bei hannover 96, trainerstation sandro wagner, sandro wagner trainer karriere, sandro wagner spielerkarriere
-- [ ] en/jiri-lehecka (164 impressions, 0 clicks, position 12.8): lehecka titles, jiri lehecka titles, jiri lehecka, lehecka atp titles, jiri lehecka ranking, lehecka tennis player, jiří lehečka, no 1 czech tennis player
+- [ ] en/jiri-lehecka (167 impressions, 0 clicks, position 12.9): lehecka titles, jiri lehecka titles, jiri lehecka, lehecka atp titles, jiri lehecka ranking, lehecka tennis player, jiří lehečka, no 1 czech tennis player
 - [ ] de/mrbeast (152 impressions, 0 clicks, position 8.3): mr beast alter, wie alt ist mrbeast, wie alt ist mr beast, mrbeast alter, mr beast vermögen 2026, mr beast herkunft, wie reich ist mr beast, wie viele abonnenten hat mrbeast
 - [ ] de/bhad-bhabie (149 impressions, 0 clicks, position 12.0): bhad bhabie, bhad bhabie alter, ist bhad bhabie, bhad babie, bha bhabie, bhad baddie, bhad barbie, bhad bhabie rapper
 - [ ] fr/kai-cenat (144 impressions, 0 clicks, position 13.0): kai cenat, kai streamer, age kai cenat, kai cenat wikipedia, kai cenat’s, kai cennat, kai cinat, kai cneat
-- [ ] de/steffen-baumgart (135 impressions, 0 clicks, position 12.8): steffen baumgart, baumgart, steffen baumgart aktueller verein, wo ist steffen baumgart jetzt trainer, steffen baumgart entlassen, was macht steffen baumgart, was macht steffen baumgart aktuell, steffen baumgart bisherige trainerstationen
-- [ ] fr/ibrahim-maza (135 impressions, 0 clicks, position 11.8): ibrahim maza âge, maza age, age maza, ibrahim maza, ibrahim maza taille, maza birthday, maza ibrahim age, maza taille
-- [ ] es/yandy-diaz (131 impressions, 1 clicks, position 11.4): yandy díaz, yandy diaz, de donde es yandy diaz, edad de yandy diaz, yandy díaz estatura, yandi diaz, yandy díaz edad, yandy díaz estadísticas
-- [ ] es/roger-federer (130 impressions, 0 clicks, position 19.2): roger federer, federer, federer edad, cuántos años tiene federer, edad federer, a que edad ganó federer su primer grand slam, edad de federer, roger federer edad
-- [ ] de/cam-skattebo (128 impressions, 0 clicks, position 13.5): cam skattebo, skattebo, cameron skattebo, cam skattebo statistik, cam scattebo, cam scattevo, cam skateboo, cam skattabo
-- [ ] es/jensen-huang (125 impressions, 0 clicks, position 11.9): jensen huang, jensen huang edad, jensen huang que estudio, jensen huang estudios, jensen huang hijos, nvidia fundador, creador de nvidia, founder nvidia
-- [ ] es/sergio-perez (124 impressions, 0 clicks, position 9.0): cuántos años tiene el checo pérez, cuántos años tiene checo pérez, sergio pérez edad, cuántos años tiene sergio pérez, ¿cuántos años tiene checo pérez?, cuantos años tiene sergio perez, edad de checo perez, checo pérez edad
-- [ ] fr/lamine-yamal (118 impressions, 1 clicks, position 14.1): l'âge de yamal, age yamal 2026, l'age de yamal, age de yamal en 2026, age de yamal, quel âge a yamal, yamal age 2026, age yamal
+- [ ] en/ryo-hirakawa (143 impressions, 0 clicks, position 9.4): ryo hirakawa age, ryō hirakawa age, hirakawa age, ryo hirakawa, how old is ryo hirakawa, hirakawa f1 age, ryō hirakawa, hirakawa
+- [ ] de/steffen-baumgart (142 impressions, 0 clicks, position 13.1): steffen baumgart, baumgart, steffen baumgart aktueller verein, wo ist steffen baumgart jetzt trainer, steffen baumgart entlassen, was macht steffen baumgart, was macht steffen baumgart aktuell, steffen baumgart bisherige trainerstationen
+- [ ] fr/ibrahim-maza (139 impressions, 0 clicks, position 11.8): ibrahim maza âge, maza age, age maza, ibrahim maza, ibrahim maza taille, maza birthday, maza ibrahim age, maza taille
+- [ ] es/yandy-diaz (133 impressions, 1 clicks, position 11.4): yandy díaz, yandy diaz, de donde es yandy diaz, edad de yandy diaz, yandy díaz estatura, yandi diaz, yandy díaz edad, yandy díaz estadísticas
+- [ ] es/roger-federer (133 impressions, 0 clicks, position 19.5): roger federer, federer, federer edad, cuántos años tiene federer, edad federer, a que edad ganó federer su primer grand slam, edad de federer, roger federer edad
+- [ ] es/jensen-huang (132 impressions, 0 clicks, position 11.9): jensen huang, jensen huang edad, jensen huang que estudio, jensen huang estudios, jensen huang hijos, nvidia fundador, creador de nvidia, founder nvidia
+- [ ] de/cam-skattebo (131 impressions, 0 clicks, position 13.4): cam skattebo, skattebo, cameron skattebo, cam skattebo statistik, cam scattebo, cam scattevo, cam skateboo, cam skattabo
+- [ ] es/sergio-perez (126 impressions, 0 clicks, position 9.0): cuántos años tiene el checo pérez, cuántos años tiene checo pérez, sergio pérez edad, cuántos años tiene sergio pérez, ¿cuántos años tiene checo pérez?, cuantos años tiene sergio perez, edad de checo perez, sergio perez edad
+- [ ] fr/lamine-yamal (121 impressions, 1 clicks, position 14.7): l'âge de yamal, age yamal 2026, l'age de yamal, age de yamal en 2026, age de yamal, quel âge a yamal, yamal age 2026, age yamal
 - [ ] fr/aitana-bonmati (118 impressions, 0 clicks, position 11.0): aitana bonmatí, bonmati ballon d or 2026, aitana bonmatí ballon d or 2026, bonmati bo 2026, aitana bonmati, aitana bonmatí âge, bonmati age, aitana bonmatí 2026
+- [ ] de/ibai-llanos (117 impressions, 0 clicks, position 11.0): ibai, ibai llanos, streamer llanos, ibai lianos, ibai streamer
 - [ ] fr/ibai-llanos (117 impressions, 0 clicks, position 11.8): ibai llanos, ibai, ibai streamer, ibai age, streamer espagnol connu, @ibai, inai llanos
-- [ ] de/ibai-llanos (116 impressions, 0 clicks, position 11.0): ibai, ibai llanos, streamer llanos, ibai lianos, ibai streamer
-- [ ] de/yaxel-lendeborg (109 impressions, 0 clicks, position 10.7): yaxel lendeborg, lendeborg, yaxel lendeborg alter, yaxel lendeborg age, lendenborg, lendeborg age, landeborg, yax lendeborg
+- [ ] de/yaxel-lendeborg (114 impressions, 0 clicks, position 10.5): yaxel lendeborg, yaxel lendeborg alter, lendeborg, yaxel lendeborg age, lendenborg, lendeborg age, landeborg, yax lendeborg
+- [ ] de/ishowspeed (113 impressions, 0 clicks, position 8.7): wie alt ist speed, speed alter, aus welchem land kommt speed, ishowspeed echter name, was ist speed sein echter name, ishowspeed alter, ishowspeed real name, von wo kommt ishowspeed
+- [ ] de/lionel-messi (109 impressions, 0 clicks, position 13.8): wie alt war messi bei seinem ersten ballon d'or, messi alter, messi ballon d'or alter, messi alter erster ballon d or, messi erster ballon d'or alter, wie alt war messi beim ersten ballon d'or, in welchem alter hat messi seinen ersten ballon d'or gewonnen, messis erster ballon d'or alter
+- [x] pt/yaxel-lendeborg (done 2026-11-02) (473 impressions, 3 clicks, position 8.4): yaxel lendeborg idade, yaxel lendeborg altura, yaxel lendeborg, yaxel lendeborg estatísticas, idade yaxel lendeborg, lendeborg altura, yaxel lendeborg posição, estatísticas de yaxel lendeborg
+- [x] de/trending/the-rookie-staffel-9-2026 (done 2026-11-02) (242 impressions, 0 clicks, position 8.9): the rookie staffel 9, the rookie staffel 9 wow, wann kommt the rookie staffel 9, the rookie season 9, the rookie staffel 9 österreich, rookie staffel 9 wow, the rookie disney plus staffel 9, the rookie staffel 9 sky
+- [x] de/ibrahim-maza (done 2026-11-02) (229 impressions, 0 clicks, position 10.0): ibrahim maza alter, ibrahim maza nationalität, maza nationalität, ibrahim maza herkunft, maza leverkusen nationalität, maza trikotnummer, maza alter, trikotnummer maza
 - [x] pt/jiri-lehecka (done 2026-11-02) (423 impressions, 0 clicks, position 11.3): jiri lehecka, lehecka, tenista lehecka, lehecka tenista, jiri tenista, j. lehecka, jiri lehecka idade, tenista jiri lehecka
 - [x] es/jiri-lehecka (done 2026-11-02) (340 impressions, 0 clicks, position 12.1): jiří lehečka, jiří lehečka ranking, jiri lehecka, jiří lehečka edad, lehecka, lehecka tenista, tenista lehecka, de donde es lehecka
 - [x] es/carlos-alcaraz (done 2026-11-02) (315 impressions, 0 clicks, position 19.8): cuántos años tiene carlos alcaraz, cuántos años tiene alcaraz, carlos alcaraz, alcaraz, edad de alcaraz tenista, edad de alcaraz, edad alcaraz tenista, alcaraz edad
