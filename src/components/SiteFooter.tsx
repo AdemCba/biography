@@ -15,6 +15,7 @@ export function SiteFooter({ locale }: { locale: Locale }) {
     ["cookies", LEGAL_PAGES[locale].cookies.footer],
     ["copyright", LEGAL_PAGES[locale].copyright.footer],
     ["disclaimer", LEGAL_PAGES[locale].disclaimer.footer],
+    ["imprint", LEGAL_PAGES[locale].imprint.footer],
   ] as const;
   return (
     <footer className="mt-16 border-t border-line">

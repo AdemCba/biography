@@ -26,7 +26,8 @@ export function trendingMetadata(locale: Locale, page: number): Metadata {
   return {
     ...pageMetadata({ locale, title, description: t.intro, path: trendingPagePath(locale, page), alternates }),
     // An empty list is a thin page; keep it out of the index until the first story is live.
-    ...(liveTopics(locale).length === 0 ? { robots: { index: false, follow: true } } : {}),
+    // Older list pages are only a path to the stories: crawl them (follow) but spend no index on them.
+    ...(liveTopics(locale).length === 0 || page > 1 ? { robots: { index: false, follow: true } } : {}),
   };
 }
 

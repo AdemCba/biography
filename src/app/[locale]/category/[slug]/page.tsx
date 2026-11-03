@@ -1,11 +1,12 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { site } from "@/config/site";
+import { absoluteUrl, site } from "@/config/site";
+import { HREFLANG } from "@/i18n/config";
 import type { Locale } from "@/i18n/config";
 import { getDictionary } from "@/i18n/dictionaries";
 import { PersonCard } from "@/components/PersonCard";
-import { categoryPath, getContent, livePeople, PLACEHOLDER_PARAM, withPlaceholder } from "@/lib/content";
+import { categoryPath, getContent, livePeople, personPath, PLACEHOLDER_PARAM, withPlaceholder } from "@/lib/content";
 import { categoryAlternates, MIN_CATEGORY_PEOPLE, pageMetadata } from "@/lib/seo";
 
 export const dynamicParams = false;
@@ -24,8 +25,16 @@ function find(locale: Locale, slug: string) {
   const store = getContent();
   const category = store.categories.find((c) => c.i18n[locale]?.slug === slug);
   if (!category) return undefined;
-  const people = livePeople(locale, store).filter((x) => x.person.data.categories.includes(category.id));
-  return { category, t: category.i18n[locale]!, people };
+  const live = livePeople(locale, store);
+  const people = live.filter((x) => x.person.data.categories.includes(category.id));
+  const parent = category.parent ? store.categories.find((c) => c.id === category.parent && c.i18n[locale]) : undefined;
+  // Subcategory links shown on a parent page: only ones with enough people to be indexable.
+  const subcategories = store.categories
+    .filter((c) => c.parent === category.id && c.i18n[locale])
+    .map((c) => ({ c, count: live.filter((x) => x.person.data.categories.includes(c.id)).length }))
+    .filter((x) => x.count >= MIN_CATEGORY_PEOPLE)
+    .sort((a, b) => b.count - a.count);
+  return { category, t: category.i18n[locale]!, people, parent, subcategories };
 }
 
 export async function generateMetadata({ params }: PageProps<"/[locale]/category/[slug]">): Promise<Metadata> {
@@ -48,14 +57,60 @@ export default async function CategoryPage({ params }: PageProps<"/[locale]/cate
   const found = find(locale, slug);
   if (!found) notFound();
   const t = getDictionary(locale);
+  const url = absoluteUrl(categoryPath(locale, slug));
+  const crumbs = [
+    { name: t.nav.home, path: `/${locale}/` },
+    ...(found.parent ? [{ name: found.parent.i18n[locale]!.name, path: categoryPath(locale, found.parent.i18n[locale]!.slug) }] : []),
+    { name: found.t.name, path: categoryPath(locale, slug) },
+  ];
+  const jsonLd = [
+    {
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      "@id": url,
+      url,
+      name: found.t.name,
+      description: found.t.description,
+      inLanguage: HREFLANG[locale],
+      isPartOf: { "@id": `${site.url}/#website` },
+      mainEntity: {
+        "@type": "ItemList",
+        numberOfItems: found.people.length,
+        itemListElement: found.people.slice(0, 50).map(({ person, article }, i) => ({ "@type": "ListItem", position: i + 1, name: person.data.name, url: absoluteUrl(personPath(locale, article.meta.slug)) })),
+      },
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      itemListElement: crumbs.map((c, i) => ({ "@type": "ListItem", position: i + 1, name: c.name, item: absoluteUrl(c.path) })),
+    },
+  ];
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c") }} />
       <nav aria-label="Breadcrumb" className="pt-6 text-sm text-muted">
-        <Link href={`/${locale}/`} className="hover:text-ink">{t.nav.home}</Link> / <span>{found.t.name}</span>
+        <Link href={`/${locale}/`} className="hover:text-ink">{t.nav.home}</Link> /{" "}
+        {found.parent && (
+          <>
+            <Link href={categoryPath(locale, found.parent.i18n[locale]!.slug)} className="hover:text-ink">{found.parent.i18n[locale]!.name}</Link> /{" "}
+          </>
+        )}
+        <span aria-current="page">{found.t.name}</span>
       </nav>
       <header className="py-8">
         <h1 className="text-4xl font-semibold">{found.t.name}</h1>
         <p className="mt-3 max-w-2xl text-lg text-muted">{found.t.description}</p>
+        {found.subcategories.length > 0 && (
+          <ul className="mt-5 flex flex-wrap gap-2 text-sm">
+            {found.subcategories.map(({ c, count }) => (
+              <li key={c.id}>
+                <Link href={categoryPath(locale, c.i18n[locale]!.slug)} className="rounded-full border border-line px-3 py-1 hover:text-ink">
+                  {c.i18n[locale]!.name} ({count})
+                </Link>
+              </li>
+            ))}
+          </ul>
+        )}
       </header>
       <h2 className="sr-only">{t.category.people}</h2>
       {found.people.length ? (

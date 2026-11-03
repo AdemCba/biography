@@ -87,3 +87,44 @@ export function countryName(code: string, locale: Locale): string {
     return code;
   }
 }
+
+const MD_LINK_RE = /(\[[^\]]*\]\([^)]*\))/;
+
+/** A name safe to auto-link: two or more words, or one long distinctive word ("Raphinha", "IShowSpeed"). */
+function linkableName(name: string): boolean {
+  return /\s/.test(name.trim()) ? name.trim().length >= 6 : name.length >= 8;
+}
+
+/**
+ * Semantic internal linking: the first plain-text mention of another live biography's name becomes a
+ * link to it. Headings and existing links are left alone; at most `max` links per page.
+ */
+export function autoLinkPeople(body: string, people: { name: string; url: string }[], max = 8): string {
+  const targets = people
+    .filter((p) => linkableName(p.name))
+    .sort((a, b) => b.name.length - a.name.length) // "Bill Kaulitz" before "Bill"
+    .map((p) => ({ ...p, re: new RegExp(`(?<![\\p{L}\\p{N}])${p.name.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}(?![\\p{L}\\p{N}])`, "u") }));
+  const done = new Set<string>([...body.matchAll(/\]\(([^)]+)\)/g)].map((m) => m[1]));
+  const lines = body.split("\n");
+  let added = 0;
+  for (let i = 0; i < lines.length && added < max; i++) {
+    if (/^\s*(#|>|\|)/.test(lines[i])) continue;
+    const parts = lines[i].split(MD_LINK_RE);
+    for (let j = 0; j < parts.length; j += 2) {
+      for (const t of targets) {
+        if (added >= max || done.has(t.url)) continue;
+        const m = parts[j].match(t.re);
+        if (!m || m.index === undefined) continue;
+        parts[j] = `${parts[j].slice(0, m.index)}[${m[0]}](${t.url})${parts[j].slice(m.index + m[0].length)}`;
+        done.add(t.url);
+        added++;
+        // Re-split so later names never land inside the link just added.
+        const again = parts[j].split(MD_LINK_RE);
+        parts.splice(j, 1, ...again);
+        break;
+      }
+    }
+    lines[i] = parts.join("");
+  }
+  return lines.join("\n");
+}

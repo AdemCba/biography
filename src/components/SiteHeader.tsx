@@ -9,7 +9,7 @@ export function SiteHeader({ locale }: { locale: Locale }) {
   const t = getDictionary(locale);
   const store = getContent();
   const live = livePeople(locale, store);
-  const categories = store.categories.filter((c) => c.i18n[locale] && live.some((x) => x.person.data.categories.includes(c.id)));
+  const categories = store.categories.filter((c) => !c.parent && c.i18n[locale] && live.some((x) => x.person.data.categories.includes(c.id)));
   return (
     <header className="border-b border-line bg-paper/95">
       <div className="mx-auto flex max-w-5xl items-center justify-between gap-4 px-4 py-4">

@@ -4,7 +4,7 @@ import type { Locale } from "./config";
 export type PageSection = { heading: string; text: string };
 type SectionKey = "about" | "privacy";
 
-const UPDATED = "2026-10-27";
+const UPDATED = "2026-11-03";
 
 export const PAGE_SECTIONS: Record<Locale, Partial<Record<SectionKey, PageSection[]>>> = {
   en: {

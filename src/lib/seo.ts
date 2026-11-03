@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 import { absoluteUrl, site } from "@/config/site";
 import { HREFLANG, OG_LOCALE, type Locale } from "@/i18n/config";
-import { categoryPath, getContent, isoDateTime, lastModified, liveArticle, livePeople, personPath, type Article, type Person } from "./content";
+import { categoryPath, editorPath, getContent, isoDateTime, lastModified, liveArticle, livePeople, personPath, type Article, type Person } from "./content";
 import { fillAge } from "./markdown";
-import type { Category } from "./schema";
+import type { Category, Editor } from "./schema";
 
 /** hreflang map for a set of locale -> path pairs, with x-default pointing at English when present. */
 export function languageAlternates(paths: Partial<Record<Locale, string>>): Record<string, string> {
@@ -77,9 +77,40 @@ export function pageMetadata(opts: {
 export const DEFAULT_SHARE_IMAGE = "/og-default.png";
 export const LOGO = "/logo-512.png";
 
+const FOUNDER_ID = "editor-in-chief";
+const ORG_DESCRIPTION = "Source-checked biographies of online creators, actors and other public figures in five languages.";
+
+/** A writer or reviewer as a schema.org Person with a stable @id, so every page points at the same entity. */
+export function editorJsonLd(editor: Editor, locale: Locale) {
+  const t = editor.i18n[locale] ?? editor.i18n.en;
+  const automated = editor.id !== FOUNDER_ID && editor.sameAs.length === 0 && !editor.image;
+  return {
+    "@type": automated ? "Organization" : "Person",
+    "@id": `${site.url}/#editor-${editor.id}`,
+    name: editor.name,
+    url: absoluteUrl(editorPath(locale, editor.id)),
+    ...(automated
+      ? {}
+      : { jobTitle: t?.role, image: editor.image ? absoluteUrl(editor.image) : undefined, sameAs: editor.sameAs.length ? editor.sameAs : undefined, worksFor: { "@id": `${site.url}/#organization` }, knowsAbout: ["Biographies", "Online creators", "Film and television actors", "Fact-checking"] }),
+  };
+}
+
 /** Site-wide identity for Google: the brand, its logo and the site search. */
 export function siteJsonLd(locale: Locale) {
-  const org = { "@type": "Organization", "@id": `${site.url}/#organization`, name: site.name, url: site.url, logo: { "@type": "ImageObject", url: absoluteUrl(LOGO), width: 512, height: 512 } };
+  const founder = getContent().editors.find((e) => e.id === FOUNDER_ID);
+  const org = {
+    "@type": "Organization",
+    "@id": `${site.url}/#organization`,
+    name: site.name,
+    url: site.url,
+    logo: { "@type": "ImageObject", url: absoluteUrl(LOGO), width: 512, height: 512 },
+    description: ORG_DESCRIPTION,
+    founder: founder ? editorJsonLd(founder, locale) : undefined,
+    publishingPrinciples: absoluteUrl(`/${locale}/editorial-policy/`),
+    correctionsPolicy: absoluteUrl(`/${locale}/editorial-policy/`),
+    ethicsPolicy: absoluteUrl(`/${locale}/editorial-policy/`),
+    contactPoint: { "@type": "ContactPoint", contactType: "editorial", email: site.contactEmail, url: absoluteUrl(`/${locale}/contact/`), availableLanguage: site.locales.map((l) => HREFLANG[l]) },
+  };
   return [
     { "@context": "https://schema.org", ...org },
     {
@@ -96,6 +127,9 @@ export function siteJsonLd(locale: Locale) {
 
 export function personJsonLd(person: Person, article: Article, crumbs: { name: string; path: string }[]) {
   const { data } = person;
+  const editors = getContent().editors;
+  const author = editors.find((e) => e.id === article.meta.author);
+  const reviewer = editors.find((e) => e.id === article.meta.reviewer);
   const url = absoluteUrl(personPath(article.locale, article.meta.slug));
   const sameAs = [...data.sameAs, ...(data.wikidata ? [`https://www.wikidata.org/wiki/${data.wikidata}`] : [])];
   return [
@@ -109,6 +143,11 @@ export function personJsonLd(person: Person, article: Article, crumbs: { name: s
       datePublished: isoDateTime(article.meta.publishedAt),
       dateModified: isoDateTime(lastModified(article.meta)),
       publisher: { "@type": "Organization", "@id": `${site.url}/#organization`, name: site.name, url: site.url, logo: { "@type": "ImageObject", url: absoluteUrl(LOGO) } },
+      author: author ? editorJsonLd(author, article.locale) : undefined,
+      reviewedBy: reviewer ? editorJsonLd(reviewer, article.locale) : undefined,
+      lastReviewed: article.meta.reviewedAt ?? undefined,
+      isPartOf: { "@id": `${site.url}/#website` },
+      citation: data.sources.length ? data.sources.slice(0, 10).map((src) => src.url) : undefined,
       mainEntity: {
         "@type": "Person",
         name: data.name,

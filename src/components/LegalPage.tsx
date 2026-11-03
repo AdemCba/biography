@@ -3,6 +3,7 @@ import { site } from "@/config/site";
 import type { Locale } from "@/i18n/config";
 import { LEGAL_PAGES, LEGAL_PATHS, type LegalKey } from "@/i18n/legalPages";
 import { pageMetadata } from "@/lib/seo";
+import { fillTrust } from "@/i18n/trustPages";
 import { linkify } from "./StaticPage";
 
 export function legalMetadata(key: LegalKey) {
@@ -26,7 +27,7 @@ export function legalPage(key: LegalKey) {
         {page.sections.map((section) => (
           <section key={section.heading}>
             <h2>{section.heading}</h2>
-            <p>{linkify(section.text)}</p>
+            <p>{linkify(fillTrust(section.text, { email: site.contactEmail }))}</p>
           </section>
         ))}
       </div>

@@ -1,15 +1,16 @@
 import type { Locale } from "./config";
 import type { PageSection } from "./pageSections";
+import { TRUST } from "./trustPages";
 
 /** Copyright, cookie and disclaimer pages: trust signals reviewers (AdSense, readers) look for in the footer. */
-export type LegalKey = "copyright" | "cookies" | "disclaimer";
+export type LegalKey = "copyright" | "cookies" | "disclaimer" | "imprint";
 type LegalPage = { title: string; footer: string; body: string; sections: PageSection[] };
 
 const UPDATED = "2026-10-29";
 
-export const LEGAL_PATHS: Record<LegalKey, string> = { copyright: "copyright", cookies: "cookies", disclaimer: "disclaimer" };
+export const LEGAL_PATHS: Record<LegalKey, string> = { copyright: "copyright", cookies: "cookies", disclaimer: "disclaimer", imprint: "imprint" };
 
-export const LEGAL_PAGES: Record<Locale, Record<LegalKey, LegalPage>> = {
+const BASE: Record<Locale, Record<Exclude<LegalKey, "imprint">, LegalPage>> = {
   en: {
     copyright: {
       title: "Copyright policy",
@@ -206,3 +207,19 @@ export const LEGAL_PAGES: Record<Locale, Record<LegalKey, LegalPage>> = {
     },
   },
 };
+
+/** Base pages plus the imprint and the cookie list from trustPages (cookie list goes before "Last updated"). */
+export const LEGAL_PAGES = Object.fromEntries(
+  (Object.keys(BASE) as Locale[]).map((l) => {
+    const cookies = BASE[l].cookies;
+    const last = cookies.sections.length - 1;
+    return [
+      l,
+      {
+        ...BASE[l],
+        cookies: { ...cookies, sections: [...cookies.sections.slice(0, last), ...TRUST[l].cookiesExtra, cookies.sections[last]] },
+        imprint: TRUST[l].imprint,
+      },
+    ];
+  }),
+) as Record<Locale, Record<LegalKey, LegalPage>>;

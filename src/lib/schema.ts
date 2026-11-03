@@ -125,6 +125,8 @@ export const articleSchema = z.object({
 
 export const categorySchema = z.object({
   id: slug,
+  /** Set on a subcategory (e.g. "football" under "athletes"); people carry both ids. */
+  parent: slug.optional(),
   order: z.number().int(),
   i18n: z.partialRecord(
     localeEnum,
