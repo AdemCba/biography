@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-03",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 21 July 1986, 40 in Nov 2026",
+      "sourceIds": [
+        "sensacine-biografia",
+        "periodico-cubano-bio",
+        "buscabiografias"
+      ],
+      "verdict": "confirmed",
+      "note": "Three sources give 1986-07-21."
+    },
+    {
+      "claim": "Born in Havana (Busca Biografias says Ciego de Avila)",
+      "sourceIds": [
+        "sensacine-biografia",
+        "periodico-cubano-bio",
+        "buscabiografias"
+      ],
+      "verdict": "confirmed",
+      "note": "Disagreement reported accurately."
+    },
+    {
+      "claim": "Cuban-Mexican actress, model, entrepreneur, influencer; podcast Esencia Livia; media kit; 30M+ followers self-stated",
+      "sourceIds": [
+        "livia-brito-official"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed on official site."
+    },
+    {
+      "claim": "Parents Rolando Brito and Gertrudis Pestana; moved to Mexico at 13; restaurant; waitress; modelling for business studies; 2009 World Banana Queen; CEA 2010",
+      "sourceIds": [
+        "sensacine-biografia",
+        "periodico-cubano-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "First finalist and Miss Photogenic",
+      "sourceIds": [
+        "buscabiografias"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Telenovela roles, years, co-stars of El cartero, Los bonobos, five films, Spain/Italy shoots, Alba Palacios Salvatierra, Minas de pasion two characters, 10 telenovelas, podcast on YouTube as 2026 addition",
+      "sourceIds": [
+        "livia-brito-filmography"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed; podcast stated only as a 2026 addition, article worded accordingly."
+    },
+    {
+      "claim": "Amanecer: Juan Osorio, 7 July 2025 21:30 Las Estrellas, ViX, Colunga/Brito roles, plot",
+      "sourceIds": [
+        "televisaunivision-amanecer"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Mujer de nadie: Televisa, remake of Amarte es mi pecado, Lucia Arizmendi, Marcus Ornellas, Giselle Gonzalez, premieres 13 and 28 June 2022",
+      "sourceIds": [
+        "publimetro-mujer-de-nadie"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Salvadoran paper May 2022: recording in Mexico, age 35",
+      "sourceIds": [
+        "el-salvador-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed, dated 4 May 2022."
+    },
+    {
+      "claim": "Triunfo del amor debut as Fernanda Sandoval; De que te quiero lead; Muchacha italiana with Jose Ron; Por siempre Joan Sebastian 2016",
+      "sourceIds": [
+        "periodico-cubano-bio",
+        "livia-brito-filmography"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "ACE best actress 2016 and ACPT best theatre revelation 2012 (attributed to Periodico Cubano)",
+      "sourceIds": [
+        "periodico-cubano-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Source states both; official site silent, article attributes to the single source explicitly."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline, primary sources, source disagreement on birthplace flagged, awards attributed to single source.",
+  "decision": "approve",
+  "summary": "All claims checked against opened sources; unsupported wording fixed before this verdict (podcast launch, TelevisaUnivision vs Televisa, pt waitress embellishment and finalist wording, es nacionalizada)."
+}

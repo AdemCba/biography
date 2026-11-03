@@ -1,0 +1,135 @@
+{
+  "id": "george-mackay",
+  "name": "George MacKay",
+  "categories": [
+    "artists"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1992-03-13",
+      "sources": [
+        "ecartelera-profile"
+      ],
+      "note": "NME says born in London in 1992"
+    },
+    "birthPlace": {
+      "value": "London, England",
+      "sources": [
+        "ecartelera-profile",
+        "nme-interview"
+      ]
+    },
+    "nationality": {
+      "value": [
+        "GB"
+      ],
+      "sources": [
+        "ecartelera-profile"
+      ]
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "nme-interview",
+      "url": "https://www.nme.com/film-interviews/george-mackay-interview-1917-kelly-gang-2615302",
+      "title": "1917 star George MacKay: War is one of the few things we all understand",
+      "publisher": "NME",
+      "type": "interview",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "w-magazine",
+      "url": "https://wmagazine.com/culture/george-mackay-femme-the-beast-interview",
+      "title": "George MacKay Steps Into His Villain Era With a Pair of Dark Films",
+      "publisher": "W Magazine",
+      "type": "interview",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "spotlight-essentials",
+      "url": "https://www.spotlight.com/news-and-advice/the-essentials/acting-advice-from-1917s-george-mackay/",
+      "title": "The Essentials: acting advice from 1917's George MacKay",
+      "publisher": "Spotlight",
+      "type": "interview",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "bfi-bifa-2023",
+      "url": "https://bfi.org.uk/news/british-independent-film-awards-2023-winners-full",
+      "title": "British Independent Film Awards 2023: the winners in full",
+      "publisher": "BFI",
+      "type": "award-body",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "thewrap-captain-fantastic",
+      "url": "https://www.thewrap.com/viggo-mortensen-owns-family-wilderness-drama-captain-fantastic/",
+      "title": "Viggo Mortensen Owns Family Wilderness Drama Captain Fantastic",
+      "publisher": "TheWrap",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "ecartelera-profile",
+      "url": "https://www.ecartelera.com/personas/george-mackay/",
+      "title": "George MacKay",
+      "publisher": "ecartelera",
+      "type": "database",
+      "accessed": "2026-11-03",
+      "lang": "es"
+    },
+    {
+      "id": "screendaily-sense",
+      "url": "https://www.screendaily.com/reviews/sense-and-sensibility-review-daisy-edgar-jones-and-esme-creed-miles-impress-in-intimate-unfussy-jane-austen-adaptation/5220760.article",
+      "title": "Sense and Sensibility review",
+      "publisher": "Screen Daily",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "bfi-rose-of-nevada",
+      "url": "https://www.bfi.org.uk/bfi-funded-productions/rose-nevada",
+      "title": "Rose of Nevada",
+      "publisher": "BFI",
+      "type": "official",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "flickering-mission",
+      "url": "https://www.flickeringmyth.com/teaser-trailer-for-mission-starring-george-mackay/",
+      "title": "Teaser trailer for Mission starring George MacKay",
+      "publisher": "Flickering Myth",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "irish-news-1917",
+      "url": "https://irishnews.com/magazine/entertainment/2020/01/07/news/1917-star-george-mackay-reveals-he-auditioned-for-game-of-thrones-1808407",
+      "title": "1917 star George MacKay reveals he auditioned for Game of Thrones",
+      "publisher": "The Irish News",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "country-town-house",
+      "url": "https://www.countryandtownhouse.com/culture/sense-and-sensibility-film/",
+      "title": "Daisy Edgar-Jones & George MacKay's Sense & Sensibility: The Trailer Is Here",
+      "publisher": "Country & Town House",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    }
+  ]
+}

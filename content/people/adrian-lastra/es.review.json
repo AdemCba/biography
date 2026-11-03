@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-03",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Birth 26 Feb 1984 Madrid, Palomeras Bajas, nationality ES",
+      "sourceIds": [
+        "formulatv-profile",
+        "ecartelera-profile",
+        "diezminutos-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Family, teachers, OT, 2003 contest, La Década Prodigiosa, 47 of ~50 castings rejected",
+      "sourceIds": [
+        "diezminutos-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches; unsupported 'working family' and 'told not cut out' removed."
+    },
+    {
+      "claim": "Musicals, theatres, years, roles; Premio Gran Vía 2017; Unión de Actores 2016",
+      "sourceIds": [
+        "formulatv-profile",
+        "valenciaplaza-cinemajove"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "TV and film credits with years and roles; Velvet 2013/2014-2016 ambiguity",
+      "sourceIds": [
+        "formulatv-profile",
+        "ecartelera-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Goya best new actor nomination for Primos, announced 10 Jan 2012, ceremony 19 Feb",
+      "sourceIds": [
+        "sensacine-goya-2012",
+        "ecartelera-curiosidades"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches; diezminutos 'won' discrepancy disclosed."
+    },
+    {
+      "claim": "Premio Ercilla 2016 and 2,000+ stage performances in total",
+      "sourceIds": [
+        "valenciaplaza-cinemajove",
+        "ecartelera-curiosidades"
+      ],
+      "verdict": "confirmed",
+      "note": "Corrected from 'of the play' to total."
+    },
+    {
+      "claim": "Cinema Jove 2017 Un futuro de cine; quotes and interview statements",
+      "sourceIds": [
+        "cinemajove-interview",
+        "valenciaplaza-cinemajove"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Mira Quién Baila All Stars 2020 third; La revancha 2023; height 1.74 m",
+      "sourceIds": [
+        "univision-mqb",
+        "formulatv-mqb",
+        "formulatv-profile",
+        "ecartelera-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline, source discrepancies disclosed.",
+  "decision": "approve",
+  "summary": "Facts verified against sources after fixing unsupported claims."
+}

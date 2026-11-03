@@ -1,0 +1,113 @@
+{
+  "id": "livia-brito",
+  "name": "Livia Brito",
+  "categories": [
+    "artists"
+  ],
+  "importance": 3,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1986-07-21",
+      "sources": [
+        "sensacine-biografia",
+        "periodico-cubano-bio",
+        "buscabiografias"
+      ],
+      "note": "Three sources agree."
+    },
+    "birthPlace": {
+      "value": "Havana, Cuba",
+      "sources": [
+        "sensacine-biografia",
+        "periodico-cubano-bio"
+      ],
+      "note": "Busca Biografias gives Ciego de Avila; two sources give Havana."
+    },
+    "nationality": {
+      "value": [
+        "CU",
+        "MX"
+      ],
+      "sources": [
+        "livia-brito-official"
+      ],
+      "note": "Official site calls her a Cuban-Mexican actress."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "livia-brito-official",
+      "url": "https://www.liviabrito.com/",
+      "title": "Livia Brito - Sitio Oficial",
+      "publisher": "Livia Brito",
+      "type": "official",
+      "accessed": "2026-11-03",
+      "lang": "es"
+    },
+    {
+      "id": "livia-brito-filmography",
+      "url": "https://liviabrito.com/post.php?id=14",
+      "title": "Filmografia completa de Livia Brito: telenovelas, cine y teatro (2010-2025)",
+      "publisher": "Livia Brito (official site)",
+      "type": "official",
+      "accessed": "2026-11-03",
+      "lang": "es"
+    },
+    {
+      "id": "televisaunivision-amanecer",
+      "url": "https://corporate.televisaunivision.com/press/2025/07/02/amanecer/",
+      "title": "Amanecer",
+      "publisher": "TelevisaUnivision",
+      "type": "company",
+      "accessed": "2026-11-03",
+      "lang": "es"
+    },
+    {
+      "id": "publimetro-mujer-de-nadie",
+      "url": "https://www.publimetro.com.mx/entretenimiento/2022/06/14/mujer-de-nadie-todo-sobre-la-nueva-telenovela-de-televisa/",
+      "title": "Mujer de nadie: todo sobre la nueva telenovela de Televisa",
+      "publisher": "Publimetro Mexico",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "es"
+    },
+    {
+      "id": "sensacine-biografia",
+      "url": "https://www.sensacine.com.mx/actores/actor-637700/biografia/",
+      "title": "Livia Brito: Su biografia",
+      "publisher": "SensaCine Mexico",
+      "type": "database",
+      "accessed": "2026-11-03",
+      "lang": "es"
+    },
+    {
+      "id": "periodico-cubano-bio",
+      "url": "https://www.periodicocubano.com/livia-brito-biografia-de-la-actriz-cubana-fernanda-sandoval-triunfo-del-amor/?amp=1",
+      "title": "Livia Brito: biografia de la actriz cubana que da vida a Fernanda Sandoval en el Triunfo del amor",
+      "publisher": "Periodico Cubano",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "es"
+    },
+    {
+      "id": "el-salvador-2022",
+      "url": "https://historico.elsalvador.com/historico/952538/actriz-livia-brito-telenovelas-televisa-hospital-enfema-univision.html",
+      "title": "Actriz Livia Brito, telenovelas Televisa, Univision",
+      "publisher": "elsalvador.com",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "es"
+    },
+    {
+      "id": "buscabiografias",
+      "url": "https://www.buscabiografias.com/biografia/verDetalle/11284/Livia%20Brito",
+      "title": "Biografia de Livia Brito",
+      "publisher": "Busca Biografias",
+      "type": "other",
+      "accessed": "2026-11-03",
+      "lang": "es"
+    }
+  ]
+}

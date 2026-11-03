@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-03",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 2 Jan 1976 in Seville; birth name María Paz Campos Trigo; surname Vega from grandmother",
+      "sourceIds": [
+        "buscabiografias",
+        "hola-bio",
+        "rotten-tomatoes"
+      ],
+      "verdict": "confirmed",
+      "note": "All match."
+    },
+    {
+      "claim": "Information Sciences dropped; Centro Andaluz de Teatro at 16; Madrid bars; TV series; Zapping, Sobreviviré; Laura in 7 vidas; left for Sex and Lucia",
+      "sourceIds": [
+        "buscabiografias",
+        "hola-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Match."
+    },
+    {
+      "claim": "Goya Best Newcomer for Sex and Lucia; year 2001 vs 2002 disagreement stated; only Goya",
+      "sourceIds": [
+        "buscabiografias",
+        "hola-bio",
+        "vozpopuli-goya"
+      ],
+      "verdict": "confirmed",
+      "note": "Article states the disagreement."
+    },
+    {
+      "claim": "Hable con ella and El otro lado de la cama 2002; chicas Almodóvar",
+      "sourceIds": [
+        "buscabiografias",
+        "hola-bio",
+        "rotten-tomatoes"
+      ],
+      "verdict": "confirmed",
+      "note": "Match."
+    },
+    {
+      "claim": "Spanglish 2004 directed by James L. Brooks; Flor, Mexican who does not speak English; Sandler, Leoni; Inquirer quotes",
+      "sourceIds": [
+        "buscabiografias",
+        "inquirer-spanglish"
+      ],
+      "verdict": "confirmed",
+      "note": "Unsupported 'written' and RT tag removed."
+    },
+    {
+      "claim": "10 Items or Less 2006, The Spirit 2008, Triage 2009 Colin Farrell, Grace of Monaco 2013, The OA, Cuna de lobos 2019 Catalina Creel, La casa de las flores 2020, Caleidoscopio 2023",
+      "sourceIds": [
+        "buscabiografias"
+      ],
+      "verdict": "confirmed",
+      "note": "RT tag removed where it gives different years."
+    },
+    {
+      "claim": "Lived long in US, settled in Spain; El lodo 10 Dec; Jigsaw in New York",
+      "sourceIds": [
+        "vozpopuli-goya"
+      ],
+      "verdict": "confirmed",
+      "note": "Year 2021 inferred from Friday 10 December; acceptable."
+    },
+    {
+      "claim": "Rambo: Last Blood, Grunberg, Stallone, reporter, half-sister, 2019",
+      "sourceIds": [
+        "slashfilm-rambo"
+      ],
+      "verdict": "confirmed",
+      "note": "Wording now 'appears in (2019)'."
+    },
+    {
+      "claim": "Rita: directed, wrote, plays mother, Seville 1984, backlash against divorce law, Locarno premiere, Seminci out of competition, Mar del Plata international competition",
+      "sourceIds": [
+        "seminci-rita",
+        "mardelplata-rita"
+      ],
+      "verdict": "confirmed",
+      "note": "Unsupported European Championship clause replaced with divorce-law backlash."
+    },
+    {
+      "claim": "Trinidad: directors, budget over 14M, mother role, Gascón Widow Bronson, Gran Canaria, release 4 Dec 2026",
+      "sourceIds": [
+        "rtvc-trinidad",
+        "senal-trinidad",
+        "sensacine-vega"
+      ],
+      "verdict": "confirmed",
+      "note": "Match."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline, primary sources for Rita, source disagreement on Goya year flagged.",
+  "decision": "approve",
+  "summary": "All claims confirmed after fixing unsupported details."
+}

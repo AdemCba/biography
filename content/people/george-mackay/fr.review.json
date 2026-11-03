@@ -1,0 +1,178 @@
+{
+  "date": "2026-11-03",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born in London in 1992; father Australian stage manager/lighting, mother costume designer; Harrodian School; talent scout",
+      "sourceIds": [
+        "nme-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "NME"
+    },
+    {
+      "claim": "Born 13 March 1992 in London, British",
+      "sourceIds": [
+        "ecartelera-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "ecartelera confirms date, place and nationality. No stronger reachable source found; other databases agree, Wikipedia says 14 March. Body text states only the year apart from summary/FAQ/meta which cite the database."
+    },
+    {
+      "claim": "Peter Pan 2003, Curly, six-month shoot in Australia; age 11 (NME) vs 10 (Spotlight)",
+      "sourceIds": [
+        "nme-interview",
+        "spotlight-essentials"
+      ],
+      "verdict": "confirmed",
+      "note": "Disagreement is stated"
+    },
+    {
+      "claim": "Eddie Marsan job after leaving school; mentor from Best of Men",
+      "sourceIds": [
+        "spotlight-essentials",
+        "nme-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "ok"
+    },
+    {
+      "claim": "Rejected by RADA and LAMDA; GoT and Macbeth auditions failed; GQ Hype quote",
+      "sourceIds": [
+        "nme-interview",
+        "irish-news-1917"
+      ],
+      "verdict": "confirmed",
+      "note": "ok"
+    },
+    {
+      "claim": "Private Peaceful, How I Live Now, For Those in Peril; BAFTA Scotland best actor 2012",
+      "sourceIds": [
+        "spotlight-essentials"
+      ],
+      "verdict": "confirmed",
+      "note": "ok"
+    },
+    {
+      "claim": "Pride with Andrew Scott and Bill Nighy; How I Live Now with Saoirse Ronan",
+      "sourceIds": [
+        "nme-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "ok"
+    },
+    {
+      "claim": "Captain Fantastic: eldest son of Mortensen's character, Sundance Park City January 2016, 'steals it', role notes, end-credits cheer",
+      "sourceIds": [
+        "thewrap-captain-fantastic"
+      ],
+      "verdict": "confirmed",
+      "note": "Character name Bodevan Cash was removed because TheWrap does not give it"
+    },
+    {
+      "claim": "1917: Lance Corporal William Schofield, 10 Oscar nominations, three wins, breakthrough and first studio press tour",
+      "sourceIds": [
+        "w-magazine"
+      ],
+      "verdict": "confirmed",
+      "note": "ok"
+    },
+    {
+      "claim": "1917: nine BAFTA nominations, one continuous take, one mistake ruins scene, 'terrible, terrible feeling', everyone supportive",
+      "sourceIds": [
+        "irish-news-1917"
+      ],
+      "verdict": "confirmed",
+      "note": "ok"
+    },
+    {
+      "claim": "First Oscars invitation; war quote",
+      "sourceIds": [
+        "nme-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "ok"
+    },
+    {
+      "claim": "Longest time not working during promotion, pandemic",
+      "sourceIds": [
+        "w-magazine"
+      ],
+      "verdict": "confirmed",
+      "note": "ok"
+    },
+    {
+      "claim": "True History of the Kelly Gang: Carey 2000 novel, Jagger 1970, Ledger 2003, three months prep, Crowe, punk band, UK release 28 Feb 2020, Kurzel spirit, 'broke me open'",
+      "sourceIds": [
+        "nme-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "ok"
+    },
+    {
+      "claim": "Femme/The Beast: summer 2022, Preston, Jules, bulked up, Bonello, James 1903, Seydoux, three timelines, incel, ramifications, empathise quote, fatherhood, two children",
+      "sourceIds": [
+        "w-magazine"
+      ],
+      "verdict": "confirmed",
+      "note": "ok"
+    },
+    {
+      "claim": "BIFA 2023 Best Joint Lead Performance shared with Stewart-Jarrett for Femme",
+      "sourceIds": [
+        "bfi-bifa-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "ok"
+    },
+    {
+      "claim": "Rose of Nevada: Mark Jenkin, Nick, Callum Turner, Venice and Toronto",
+      "sourceIds": [
+        "bfi-rose-of-nevada"
+      ],
+      "verdict": "confirmed",
+      "note": "ok"
+    },
+    {
+      "claim": "Sense and Sensibility: Georgia Oakley, Edward Ferrars, Daisy Edgar-Jones Elinor, 131 min, review 24 Sep 2026; first adaptation since Ang Lee 1995",
+      "sourceIds": [
+        "screendaily-sense",
+        "country-town-house"
+      ],
+      "verdict": "confirmed",
+      "note": "ok"
+    },
+    {
+      "claim": "Mission: Paul Wright, Dylan, one week, premiere Edinburgh 15 Aug 2026",
+      "sourceIds": [
+        "flickering-mission"
+      ],
+      "verdict": "confirmed",
+      "note": "ok"
+    },
+    {
+      "claim": "The End named as next project in 2024 (Oppenheimer, Swinton, Shannon, bunker)",
+      "sourceIds": [
+        "w-magazine"
+      ],
+      "verdict": "confirmed",
+      "note": "ok"
+    },
+    {
+      "claim": "Gut instinct, 'fan of cinema'",
+      "sourceIds": [
+        "w-magazine"
+      ],
+      "verdict": "confirmed",
+      "note": "ok"
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Sourced timeline with disagreements between sources stated; adds Captain Fantastic, Kelly Gang and Femme detail from interviews.",
+  "decision": "approve",
+  "summary": "All claims checked against opened sources. Unsupported character name Bodevan Cash was removed before this verdict; birth date rests on a database but is confirmed there."
+}

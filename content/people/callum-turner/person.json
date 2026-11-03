@@ -1,0 +1,127 @@
+{
+  "id": "callum-turner",
+  "name": "Callum Turner",
+  "categories": [
+    "artists"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1990-02-15",
+      "sources": [
+        "tvovermind-bio"
+      ],
+      "note": "Numero gives the year 1990 only."
+    },
+    "birthPlace": {
+      "value": "Hammersmith, London, England",
+      "sources": [
+        "tvovermind-bio",
+        "numero-projects"
+      ]
+    },
+    "nationality": {
+      "value": [
+        "GB"
+      ],
+      "sources": [
+        "tvovermind-bio"
+      ],
+      "note": "Described as British actor."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "universal-one-night-only",
+      "url": "https://www.universalpicturesathome.com/press-release/one-night-only-press-release",
+      "title": "One Night Only press release",
+      "publisher": "Universal Pictures Home Entertainment",
+      "type": "company",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "thewrap-masters-interview",
+      "url": "https://www.thewrap.com/callum-turner-masters-of-the-air-interview-apple/",
+      "title": "Callum Turner Masters of the Air interview",
+      "publisher": "TheWrap",
+      "type": "interview",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "glass-profile",
+      "url": "https://theglassmagazine.com/callum-turner-talks-to-glass-about-his-ascent-to-become-hollywoods-next-leading-man/",
+      "title": "Callum Turner talks to Glass about his ascent to become Hollywood's next leading man",
+      "publisher": "The Glass Magazine",
+      "type": "interview",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "etonline-fantastic-beasts",
+      "url": "https://www.etonline.com/callum-turner-on-fantastic-beasts-and-slowly-going-mad-for-his-new-indie-movie-exclusive-114023",
+      "title": "Callum Turner on Fantastic Beasts and slowly going mad for his new indie movie",
+      "publisher": "ET Online",
+      "type": "interview",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "tvovermind-bio",
+      "url": "https://tvovermind.com/callum-turner-bio-and-career-highlights/",
+      "title": "Callum Turner: Bio and Career Highlights",
+      "publisher": "TV Overmind",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "newsweek-bond",
+      "url": "https://newsweek.com/entertainment/new-james-bond-callum-turner-everything-we-know-dua-lipa-11320097",
+      "title": "New James Bond Callum Turner: everything we know",
+      "publisher": "Newsweek",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "numero-projects",
+      "url": "https://numero.com/culture/cinema/callum-turner-james-bond-projets/",
+      "title": "Callum Turner, James Bond et projets",
+      "publisher": "Numero",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "fr"
+    },
+    {
+      "id": "kqed-one-night-only",
+      "url": "https://www.kqed.org/arts/13992438/one-night-only-movie-review-callum-turner-monica-barbaro",
+      "title": "One Night Only review",
+      "publisher": "KQED",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "brit-rosebush",
+      "url": "https://www.brit.co/rosebush-pruning-elle-fanning-riley-keough-callum-turner/",
+      "title": "Rosebush Pruning",
+      "publisher": "Brit + Co",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "out-lipa",
+      "url": "https://www.out.com/celebs/callum-turner-dua-lipa",
+      "title": "Callum Turner and Dua Lipa",
+      "publisher": "Out",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    }
+  ]
+}

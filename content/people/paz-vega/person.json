@@ -1,0 +1,141 @@
+{
+  "id": "paz-vega",
+  "name": "Paz Vega",
+  "categories": [
+    "artists",
+    "actors"
+  ],
+  "importance": 3,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1976-01-02",
+      "sources": [
+        "buscabiografias",
+        "hola-bio",
+        "rotten-tomatoes"
+      ],
+      "note": "Some low-quality sites give 7 January; major sources give 2 January."
+    },
+    "birthPlace": {
+      "value": "Seville, Spain",
+      "sources": [
+        "buscabiografias",
+        "hola-bio",
+        "rotten-tomatoes"
+      ]
+    },
+    "nationality": {
+      "value": [
+        "ES"
+      ],
+      "sources": [
+        "buscabiografias",
+        "rotten-tomatoes"
+      ],
+      "note": "Born in Seville, Spain."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "seminci-rita",
+      "url": "https://www.seminci.com/en/peliculas/rita/",
+      "title": "Rita (Seminci 2024, Official Section)",
+      "publisher": "Seminci, Valladolid International Film Festival",
+      "type": "official",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "mardelplata-rita",
+      "url": "https://www.mardelplatafilmfest.com/39/en/pelicula/rita",
+      "title": "Rita",
+      "publisher": "Mar del Plata International Film Festival",
+      "type": "official",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "buscabiografias",
+      "url": "https://www.buscabiografias.com/biografia/verDetalle/8379/Paz%20Vega",
+      "title": "Biografia de Paz Vega",
+      "publisher": "Busca Biografias",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "es"
+    },
+    {
+      "id": "hola-bio",
+      "url": "https://www.hola.com/biografias/paz-vega/",
+      "title": "Paz Vega biografia",
+      "publisher": "Hola",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "es"
+    },
+    {
+      "id": "rotten-tomatoes",
+      "url": "https://www.rottentomatoes.com/celebrity/paz_vega",
+      "title": "Paz Vega",
+      "publisher": "Rotten Tomatoes",
+      "type": "database",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "vozpopuli-goya",
+      "url": "https://www.vozpopuli.com/altavoz/cultura/paz-vega-estrenos-cine.html",
+      "title": "Paz Vega estrenos cine",
+      "publisher": "Vozpopuli",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "es"
+    },
+    {
+      "id": "inquirer-spanglish",
+      "url": "https://inquirer.com/philly/entertainment/movies/MovieReviewID_20041217_inq_weekend_CRKSPA.html",
+      "title": "Spanglish review",
+      "publisher": "The Philadelphia Inquirer",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "slashfilm-rambo",
+      "url": "https://www.slashfilm.com/561539/rambo-5-cast/",
+      "title": "Rambo 5, officially titled Rambo 5: Last Blood, adds Paz Vega to cast",
+      "publisher": "/Film",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "rtvc-trinidad",
+      "url": "https://rtvc.es/karla-sofia-gascon-rueda-western-gran-canaria/",
+      "title": "Karla Sofia Gascon rueda el western Trinidad junto a Paz Vega en Gran Canaria",
+      "publisher": "RTVC",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "es"
+    },
+    {
+      "id": "senal-trinidad",
+      "url": "https://senalnews.com/es/eventos/deep-com-roots-lanza-primer-poster-oficial-de-la-cinta-trinidad",
+      "title": "Deep Com Roots lanza primer poster oficial de la cinta Trinidad",
+      "publisher": "Senal News",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "es"
+    },
+    {
+      "id": "sensacine-vega",
+      "url": "https://www.sensacine.com/actores/actor-34414/",
+      "title": "Paz Vega",
+      "publisher": "SensaCine",
+      "type": "database",
+      "accessed": "2026-11-03",
+      "lang": "es"
+    }
+  ]
+}
