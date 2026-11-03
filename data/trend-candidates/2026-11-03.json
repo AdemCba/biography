@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T00:01:05.739Z",
+  "generatedAt": "2026-11-03T00:56:10.445Z",
   "signals": 850,
   "scaffolded": [],
   "candidates": [
@@ -388,6 +388,341 @@
       "decision": "accept",
       "reasons": [],
       "onSite": true
+    },
+    {
+      "wikidataId": "Q22686",
+      "name": "Q22686",
+      "description": "President of the United States (2017–2021; since 2025)",
+      "category": "business",
+      "occupations": [
+        "business magnate",
+        "investor",
+        "politician",
+        "game show host",
+        "real estate entrepreneur",
+        "television producer",
+        "film producer",
+        "writer",
+        "actor",
+        "chief executive officer",
+        "merchant",
+        "businessperson",
+        "entrepreneur"
+      ],
+      "birthYear": 1946,
+      "deathYear": null,
+      "sitelinks": 267,
+      "wikipedia": {
+        "abstract": "Q22686",
+        "ab": "Трамп, Дональд Џьон",
+        "ace": "Donald Trump",
+        "af": "Donald Trump",
+        "als": "Donald Trump",
+        "ami": "Donald John Trump",
+        "am": "ዶናልድ ጆን ትራምፕ",
+        "ang": "Dufenal Trump",
+        "an": "Donald Trump",
+        "ar": "دونالد ترمب",
+        "ary": "دونالد طرامپ",
+        "arz": "دونالد ترامپ",
+        "ast": "Donald Trump",
+        "as": "ড'নাল্ড ট্ৰাম্প",
+        "atj": "Donald Trump",
+        "av": "Доналд Трамп",
+        "awa": "डॉनल्ड ट्रम्प",
+        "azb": "دونالد ترامپ",
+        "az": "Donald Tramp",
+        "ban": "Donald Trump",
+        "bar": "Donald Trump",
+        "bat_smg": "Duonalds Tramps",
+        "ba": "Дональд Трамп",
+        "bbc": "Donald Trump",
+        "bcl": "Donald Trump",
+        "be_x_old": "Дональд Трамп",
+        "be": "Дональд Трамп",
+        "bew": "Donald Trump",
+        "bg": "Доналд Тръмп",
+        "bh": "डोनाल्ड ट्रंप",
+        "bi": "Donald Trump",
+        "bjn": "Donald Trump",
+        "bn": "ডোনাল্ড ট্রাম্প",
+        "bol": "Donald Trump",
+        "bo": "ཐེ་རོན་ཕུ།",
+        "br": "Donald Trump",
+        "bs": "Donald Trump",
+        "bug": "ᨉᨚᨊᨈᨘᨑᨇᨛ",
+        "bxr": "Дональд Трамп",
+        "ca": "Donald Trump",
+        "cdo": "Donald Trump",
+        "ceb": "Donald Trump",
+        "ce": "Дональд Трамп",
+        "ckb": "دۆناڵد ترامپ",
+        "co": "Donald Trump",
+        "crh": "Donald Tramp",
+        "cs": "Donald Trump",
+        "cu": "Доналдъ Трампъ",
+        "cv": "Трамп Дональд",
+        "cy": "Donald Trump",
+        "dag": "Donald Trump",
+        "da": "Donald Trump",
+        "de": "Donald Trump",
+        "dga": "Donald Trump",
+        "din": "Donald Trump",
+        "diq": "Donald Trump",
+        "dsb": "Donald Trump",
+        "dty": "डोनाल्ड ट्रम्प",
+        "dv": "ޑޮނަލްޑް ޓްރަމްޕް",
+        "el": "Ντόναλντ Τραμπ",
+        "eml": "Donald Trump",
+        "en": "Donald Trump",
+        "eo": "Donald Trump",
+        "es": "Donald Trump",
+        "et": "Donald Trump",
+        "eu": "Donald Trump",
+        "ext": "Donald Trump",
+        "fa": "دونالد ترامپ",
+        "ff": "Donald Trump",
+        "fiu_vro": "Trumbi Donald",
+        "fi": "Donald Trump",
+        "fon": "Donald Trump",
+        "fo": "Donald Trump",
+        "frp": "Donald Trump",
+        "frr": "Donald Trump",
+        "fr": "Donald Trump",
+        "fur": "Donald Trump",
+        "fy": "Donald Trump",
+        "gag": "Donald Tramp",
+        "ga": "Donald Trump",
+        "gd": "Donald Trump",
+        "gl": "Donald Trump",
+        "gn": "Donald Trump",
+        "gom": "Donald Trump",
+        "gor": "Donald Trump",
+        "got": "𐌳𐍉𐌽𐌰𐌻𐌳𐍃 𐍄𐍂𐌿𐌼𐍀𐍃",
+        "gu": "ડોનાલ્ડ ટ્રંપ",
+        "gv": "Donald Trump",
+        "hak": "Donald Trump",
+        "ha": "Donald Trump",
+        "haw": "Donald Trump",
+        "he": "דונלד טראמפ",
+        "hif": "Donald Trump",
+        "hi": "डॉनल्ड ट्रम्प",
+        "hr": "Donald Trump",
+        "hsb": "Donald Trump",
+        "ht": "Donald Trump",
+        "hu": "Donald Trump",
+        "hy": "Դոնալդ Թրամփ",
+        "hyw": "Տանըլտ Թրամփ",
+        "ia": "Donald Trump",
+        "iba": "Donald Trump",
+        "id": "Donald Trump",
+        "ie": "Donald Trump",
+        "ig": "Donald Trump",
+        "ik": "Donald Trump",
+        "ilo": "Donald Trump",
+        "io": "Donald Trump",
+        "is": "Donald Trump",
+        "it": "Donald Trump",
+        "ja": "ドナルド・トランプ",
+        "jbo": "danyld.trymp",
+        "jv": "Donald Trump",
+        "kaa": "Donald Tramp",
+        "kab": "Donald Trump",
+        "kaj": "Donald Trump",
+        "ka": "დონალდ ტრამპი",
+        "kbd": "Данылд Трамп",
+        "kbp": "Donald Trump",
+        "kcg": "Donald Trump",
+        "kge": "Donald Trump",
+        "ki": "Donald Trump",
+        "kk": "Дональд Трамп",
+        "km": "ដូណាល់ ត្រាំ",
+        "knc": "Donald Trump",
+        "kn": "ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್",
+        "ko": "도널드 트럼프",
+        "krc": "Дональд Трамп",
+        "ksh": "Donald Trump",
+        "ks": "ڈونلڈ جان ٹرمپ",
+        "kus": "Donald John Trump",
+        "ku": "Donald Trump",
+        "kv": "Трамп, Дональд",
+        "kw": "Donald Trump",
+        "ky": "Дональд Трамп",
+        "lad": "Donald Trump",
+        "la": "Donaldus Trumpius",
+        "lb": "Donald Trump",
+        "lfn": "Donald Trump",
+        "lg": "Donald Trump",
+        "lij": "Donald Trump",
+        "li": "Donald Trump",
+        "lld": "Donald Trump",
+        "lmo": "Donald Trump",
+        "lo": "ໂດນັລ ທຣຳ",
+        "lt": "Donald Trump",
+        "lv": "Donalds Tramps",
+        "mad": "Ḍonald Trump",
+        "mag": "डोनाल्ड ट्रम्प",
+        "mai": "डोनाल्ड ट्रम्प",
+        "mg": "Donald Trump",
+        "min": "Donald Trump",
+        "mk": "Доналд Трамп",
+        "ml": "ഡോണൾഡ് ട്രംപ്",
+        "mn": "Доналд Трамп",
+        "mnw": "ဒဝ်နလ်ဒ် တြုမ်ပ်",
+        "mr": "डॉनल्ड ट्रम्प",
+        "ms": "Donald Trump",
+        "mt": "Donald Trump",
+        "mwl": "Donald Trump",
+        "myv": "Трамп, Дональд",
+        "my": "ဒေါ်နယ်လ် ထရမ့်",
+        "mzn": "دونالد ترامپ",
+        "nap": "Donald Trump",
+        "nds_nl": "Donald Trump",
+        "nds": "Donald Trump",
+        "ne": "डोनाल्ड ट्रम्प",
+        "nia": "Donald Trump",
+        "nl": "Donald Trump",
+        "nn": "Donald Trump",
+        "no": "Donald Trump",
+        "nso": "Donald Trump",
+        "nv": "Hastiin alą́ąjįʼ dahsidáhígíí Donald Trump",
+        "ny": "Donald Trump",
+        "oc": "Donald Trump",
+        "om": "Doonaaldi Tiraampi",
+        "or": "ଡୋନାଲ୍ଡ ଟ୍ରମ୍ପ",
+        "os": "Трамп, Дональд",
+        "pag": "Donald Trump",
+        "pap": "Donald Trump",
+        "pa": "ਡੌਨਲਡ ਟਰੰਪ",
+        "pdc": "Donald Trump",
+        "pfl": "Donald Trump",
+        "pl": "Donald Trump",
+        "pms": "Donald Trump",
+        "pnb": "ڈونلڈ ٹرمپ",
+        "ps": "ډونالډ ټرامپ",
+        "pt": "Donald Trump",
+        "qu": "Donald Trump",
+        "rm": "Donald Trump",
+        "rmy": "Donald Trump",
+        "roa_tara": "Donald Trump",
+        "ro": "Donald Trump",
+        "rue": "Доналд Трамп",
+        "ru": "Трамп, Дональд",
+        "rw": "Donald Trump",
+        "sah": "Дональд Джон Трамп",
+        "sat": "ᱰᱚᱱᱟᱞᱰ ᱴᱨᱟᱹᱢᱯ",
+        "sa": "डोनाल्ड् ट्रम्प्",
+        "scn": "Donald Trump",
+        "sco": "Donald Trump",
+        "sc": "Donald Trump",
+        "sd": "ڊونلڊ ٽرمپ",
+        "se": "Donald Trump",
+        "shi": "Ḍunalḍ Tṛamb",
+        "shn": "တေႃႇၼႄႇ ထရမ်ႉ",
+        "sh": "Donald Trump",
+        "simple": "Donald Trump",
+        "si": "ඩොනල්ඩ් ට්‍රම්ප්",
+        "skr": "ڈونلڈ ٹرمپ",
+        "sk": "Donald Trump",
+        "sl": "Donald Trump",
+        "smn": "Donald Trump",
+        "sm": "Donald Trump",
+        "sn": "Donald Trump",
+        "so": "Donald Trump",
+        "sq": "Donald Trump",
+        "srn": "Donald Trump",
+        "sr": "Доналд Трамп",
+        "ss": "Donald Trump",
+        "st": "Donald Trump",
+        "su": "Donald Trump",
+        "sv": "Donald Trump",
+        "sw": "Donald Trump",
+        "syl": "ꠒꠘꠣꠟ꠆ꠒ ꠐ꠆ꠞꠣꠝ꠆ꠙ",
+        "szl": "Donald Trump",
+        "szy": "Donald John Trump",
+        "ta": "டோனால்ட் டிரம்ப்",
+        "tay": "Donald John Trump",
+        "tet": "Donald Trump",
+        "te": "డోనాల్డ్ ట్రంప్",
+        "tg": "Доналд Трамп",
+        "th": "ดอนัลด์ ทรัมป์",
+        "tk": "Donald Trump",
+        "tl": "Donald Trump",
+        "tly": "Donald Tramp",
+        "tok": "jan Tana Tan",
+        "tpi": "Donald Trump",
+        "trv": "Donald John Trump",
+        "tr": "Donald Trump",
+        "tt": "Donald Tramp",
+        "tum": "Donald Trump",
+        "tyv": "Трамп, Дональд",
+        "ty": "Donald Trump",
+        "udm": "Трамп, Дональд",
+        "ug": "دونالد ترامپ",
+        "uk": "Дональд Трамп",
+        "ur": "ڈونلڈ ٹرمپ",
+        "uz": "Donald Trump",
+        "vec": "Donald Trump",
+        "vi": "Donald Trump",
+        "vls": "Donald Trump",
+        "vo": "Donald Trump",
+        "war": "Donald Trump",
+        "wa": "Donald Trump",
+        "wuu": "唐納德·川普",
+        "xh": "Donald Trump",
+        "xmf": "დონალდ ტრამპი",
+        "yi": "דאנאלד טראמפ",
+        "yo": "Donald Trump",
+        "za": "Donald Trump",
+        "zea": "Donald Trump",
+        "zgh": "ⴷⵓⵏⴰⵍⴷ ⵜⵕⴰⵎⴱ",
+        "zh_min_nan": "Donald Trump",
+        "zh_yue": "當勞侵",
+        "zh": "唐納·川普",
+        "zu": "Donald Trump"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "en",
+          "term": "Donald Trump",
+          "volume": 36340
+        },
+        {
+          "source": "google-trends",
+          "where": "MX",
+          "term": "donald trump",
+          "volume": 100
+        },
+        {
+          "source": "wikipedia-top",
+          "where": "es",
+          "term": "Donald Trump",
+          "volume": 5780
+        },
+        {
+          "source": "wikipedia-top",
+          "where": "pt",
+          "term": "Donald Trump",
+          "volume": 3499
+        },
+        {
+          "source": "wikipedia-top",
+          "where": "fr",
+          "term": "Donald Trump",
+          "volume": 5066
+        }
+      ],
+      "newsUrls": [
+        "https://www.cnn.com/2026/11/02/politics/live-news/midterm-election-congress",
+        "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
+        "https://www.nytimes.com/2026/11/02/us/politics/trump-reflecting-pool-midterms.html"
+      ],
+      "spike": 0.9,
+      "score": 177,
+      "decision": "accept",
+      "reasons": [],
+      "onSite": false
     },
     {
       "wikidataId": "Q1622098",
@@ -921,86 +1256,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q2117769",
-      "name": "Canelo Álvarez",
-      "description": "Mexican boxer",
-      "category": "athletes",
-      "occupations": [
-        "boxer"
-      ],
-      "birthYear": 1990,
-      "deathYear": null,
-      "sitelinks": 30,
-      "wikipedia": {
-        "ar": "ساول ألفاريز",
-        "ast": "Saúl Álvarez",
-        "bg": "Канело Алварес",
-        "ca": "Saúl Álvarez",
-        "da": "Canelo Álvarez",
-        "de": "Saúl Álvarez",
-        "en": "Canelo Álvarez",
-        "es": "Canelo Álvarez",
-        "eu": "Saúl Álvarez",
-        "fa": "سائول آلوارس",
-        "fi": "Saúl Álvarez",
-        "fr": "Canelo Álvarez",
-        "id": "Canelo Álvarez",
-        "it": "Saúl Álvarez",
-        "ja": "サウル・アルバレス",
-        "ka": "კანელო ალვარესი",
-        "kk": "Сауль Альварес",
-        "ko": "카넬로 알바레스",
-        "nl": "Saúl Álvarez",
-        "pl": "Saúl Álvarez",
-        "pt": "Canelo Álvarez",
-        "ro": "Canelo Álvarez",
-        "ru": "Альварес, Сауль",
-        "simple": "Canelo Álvarez",
-        "sr": "Канело Алварез",
-        "th": "ซาอุล อัลบาเรซ",
-        "tr": "Canelo Álvarez",
-        "uk": "Сауль Альварес",
-        "vi": "Saúl Álvarez",
-        "zh": "卡内洛·阿尔瓦雷斯"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "en",
-          "term": "Canelo Álvarez",
-          "volume": 69177
-        },
-        {
-          "source": "google-trends",
-          "where": "MX",
-          "term": "canelo álvarez",
-          "volume": 1000
-        },
-        {
-          "source": "wikipedia-top",
-          "where": "es",
-          "term": "Canelo Álvarez",
-          "volume": 12859
-        },
-        {
-          "source": "wikipedia-top",
-          "where": "fr",
-          "term": "Canelo Álvarez",
-          "volume": 5208
-        }
-      ],
-      "newsUrls": [
-        "https://www.telemundo.com/noticias/noticias-telemundo/internacional/canelo-alvarez-christian-mbilli-boxeo-titulo-rcna606688",
-        "https://www.marca.com/mx/boxeo/2026/11/02/canelo-alvarez-boxeador-mexicano-exitoso-historia-le-duela-le-duela.html",
-        "https://www.record.com.mx/historia/canelo-alvarez-apunta-a-enfrentarse-a-lester-martinez-2026110221434073049"
-      ],
-      "spike": 6.5,
-      "score": 159,
-      "decision": "accept",
-      "reasons": [],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q95076",
       "name": "Joan Fontaine",
       "description": "British actress (1917–2013)",
@@ -1291,333 +1546,6 @@
       "decision": "accept",
       "reasons": [],
       "onSite": true
-    },
-    {
-      "wikidataId": "Q22686",
-      "name": "Q22686",
-      "description": "President of the United States (2017–2021; since 2025)",
-      "category": "business",
-      "occupations": [
-        "business magnate",
-        "investor",
-        "politician",
-        "game show host",
-        "real estate entrepreneur",
-        "television producer",
-        "film producer",
-        "writer",
-        "actor",
-        "chief executive officer",
-        "merchant",
-        "businessperson",
-        "entrepreneur"
-      ],
-      "birthYear": 1946,
-      "deathYear": null,
-      "sitelinks": 267,
-      "wikipedia": {
-        "abstract": "Q22686",
-        "ab": "Трамп, Дональд Џьон",
-        "ace": "Donald Trump",
-        "af": "Donald Trump",
-        "als": "Donald Trump",
-        "ami": "Donald John Trump",
-        "am": "ዶናልድ ጆን ትራምፕ",
-        "ang": "Dufenal Trump",
-        "an": "Donald Trump",
-        "ar": "دونالد ترمب",
-        "ary": "دونالد طرامپ",
-        "arz": "دونالد ترامپ",
-        "ast": "Donald Trump",
-        "as": "ড'নাল্ড ট্ৰাম্প",
-        "atj": "Donald Trump",
-        "av": "Доналд Трамп",
-        "awa": "डॉनल्ड ट्रम्प",
-        "azb": "دونالد ترامپ",
-        "az": "Donald Tramp",
-        "ban": "Donald Trump",
-        "bar": "Donald Trump",
-        "bat_smg": "Duonalds Tramps",
-        "ba": "Дональд Трамп",
-        "bbc": "Donald Trump",
-        "bcl": "Donald Trump",
-        "be_x_old": "Дональд Трамп",
-        "be": "Дональд Трамп",
-        "bew": "Donald Trump",
-        "bg": "Доналд Тръмп",
-        "bh": "डोनाल्ड ट्रंप",
-        "bi": "Donald Trump",
-        "bjn": "Donald Trump",
-        "bn": "ডোনাল্ড ট্রাম্প",
-        "bol": "Donald Trump",
-        "bo": "ཐེ་རོན་ཕུ།",
-        "br": "Donald Trump",
-        "bs": "Donald Trump",
-        "bug": "ᨉᨚᨊᨈᨘᨑᨇᨛ",
-        "bxr": "Дональд Трамп",
-        "ca": "Donald Trump",
-        "cdo": "Donald Trump",
-        "ceb": "Donald Trump",
-        "ce": "Дональд Трамп",
-        "ckb": "دۆناڵد ترامپ",
-        "co": "Donald Trump",
-        "crh": "Donald Tramp",
-        "cs": "Donald Trump",
-        "cu": "Доналдъ Трампъ",
-        "cv": "Трамп Дональд",
-        "cy": "Donald Trump",
-        "dag": "Donald Trump",
-        "da": "Donald Trump",
-        "de": "Donald Trump",
-        "dga": "Donald Trump",
-        "din": "Donald Trump",
-        "diq": "Donald Trump",
-        "dsb": "Donald Trump",
-        "dty": "डोनाल्ड ट्रम्प",
-        "dv": "ޑޮނަލްޑް ޓްރަމްޕް",
-        "el": "Ντόναλντ Τραμπ",
-        "eml": "Donald Trump",
-        "en": "Donald Trump",
-        "eo": "Donald Trump",
-        "es": "Donald Trump",
-        "et": "Donald Trump",
-        "eu": "Donald Trump",
-        "ext": "Donald Trump",
-        "fa": "دونالد ترامپ",
-        "ff": "Donald Trump",
-        "fiu_vro": "Trumbi Donald",
-        "fi": "Donald Trump",
-        "fon": "Donald Trump",
-        "fo": "Donald Trump",
-        "frp": "Donald Trump",
-        "frr": "Donald Trump",
-        "fr": "Donald Trump",
-        "fur": "Donald Trump",
-        "fy": "Donald Trump",
-        "gag": "Donald Tramp",
-        "ga": "Donald Trump",
-        "gd": "Donald Trump",
-        "gl": "Donald Trump",
-        "gn": "Donald Trump",
-        "gom": "Donald Trump",
-        "gor": "Donald Trump",
-        "got": "𐌳𐍉𐌽𐌰𐌻𐌳𐍃 𐍄𐍂𐌿𐌼𐍀𐍃",
-        "gu": "ડોનાલ્ડ ટ્રંપ",
-        "gv": "Donald Trump",
-        "hak": "Donald Trump",
-        "ha": "Donald Trump",
-        "haw": "Donald Trump",
-        "he": "דונלד טראמפ",
-        "hif": "Donald Trump",
-        "hi": "डॉनल्ड ट्रम्प",
-        "hr": "Donald Trump",
-        "hsb": "Donald Trump",
-        "ht": "Donald Trump",
-        "hu": "Donald Trump",
-        "hy": "Դոնալդ Թրամփ",
-        "hyw": "Տանըլտ Թրամփ",
-        "ia": "Donald Trump",
-        "iba": "Donald Trump",
-        "id": "Donald Trump",
-        "ie": "Donald Trump",
-        "ig": "Donald Trump",
-        "ik": "Donald Trump",
-        "ilo": "Donald Trump",
-        "io": "Donald Trump",
-        "is": "Donald Trump",
-        "it": "Donald Trump",
-        "ja": "ドナルド・トランプ",
-        "jbo": "danyld.trymp",
-        "jv": "Donald Trump",
-        "kaa": "Donald Tramp",
-        "kab": "Donald Trump",
-        "kaj": "Donald Trump",
-        "ka": "დონალდ ტრამპი",
-        "kbd": "Данылд Трамп",
-        "kbp": "Donald Trump",
-        "kcg": "Donald Trump",
-        "kge": "Donald Trump",
-        "ki": "Donald Trump",
-        "kk": "Дональд Трамп",
-        "km": "ដូណាល់ ត្រាំ",
-        "knc": "Donald Trump",
-        "kn": "ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್",
-        "ko": "도널드 트럼프",
-        "krc": "Дональд Трамп",
-        "ksh": "Donald Trump",
-        "ks": "ڈونلڈ جان ٹرمپ",
-        "kus": "Donald John Trump",
-        "ku": "Donald Trump",
-        "kv": "Трамп, Дональд",
-        "kw": "Donald Trump",
-        "ky": "Дональд Трамп",
-        "lad": "Donald Trump",
-        "la": "Donaldus Trumpius",
-        "lb": "Donald Trump",
-        "lfn": "Donald Trump",
-        "lg": "Donald Trump",
-        "lij": "Donald Trump",
-        "li": "Donald Trump",
-        "lld": "Donald Trump",
-        "lmo": "Donald Trump",
-        "lo": "ໂດນັລ ທຣຳ",
-        "lt": "Donald Trump",
-        "lv": "Donalds Tramps",
-        "mad": "Ḍonald Trump",
-        "mag": "डोनाल्ड ट्रम्प",
-        "mai": "डोनाल्ड ट्रम्प",
-        "mg": "Donald Trump",
-        "min": "Donald Trump",
-        "mk": "Доналд Трамп",
-        "ml": "ഡോണൾഡ് ട്രംപ്",
-        "mn": "Доналд Трамп",
-        "mnw": "ဒဝ်နလ်ဒ် တြုမ်ပ်",
-        "mr": "डॉनल्ड ट्रम्प",
-        "ms": "Donald Trump",
-        "mt": "Donald Trump",
-        "mwl": "Donald Trump",
-        "myv": "Трамп, Дональд",
-        "my": "ဒေါ်နယ်လ် ထရမ့်",
-        "mzn": "دونالد ترامپ",
-        "nap": "Donald Trump",
-        "nds_nl": "Donald Trump",
-        "nds": "Donald Trump",
-        "ne": "डोनाल्ड ट्रम्प",
-        "nia": "Donald Trump",
-        "nl": "Donald Trump",
-        "nn": "Donald Trump",
-        "no": "Donald Trump",
-        "nso": "Donald Trump",
-        "nv": "Hastiin alą́ąjįʼ dahsidáhígíí Donald Trump",
-        "ny": "Donald Trump",
-        "oc": "Donald Trump",
-        "om": "Doonaaldi Tiraampi",
-        "or": "ଡୋନାଲ୍ଡ ଟ୍ରମ୍ପ",
-        "os": "Трамп, Дональд",
-        "pag": "Donald Trump",
-        "pap": "Donald Trump",
-        "pa": "ਡੌਨਲਡ ਟਰੰਪ",
-        "pdc": "Donald Trump",
-        "pfl": "Donald Trump",
-        "pl": "Donald Trump",
-        "pms": "Donald Trump",
-        "pnb": "ڈونلڈ ٹرمپ",
-        "ps": "ډونالډ ټرامپ",
-        "pt": "Donald Trump",
-        "qu": "Donald Trump",
-        "rm": "Donald Trump",
-        "rmy": "Donald Trump",
-        "roa_tara": "Donald Trump",
-        "ro": "Donald Trump",
-        "rue": "Доналд Трамп",
-        "ru": "Трамп, Дональд",
-        "rw": "Donald Trump",
-        "sah": "Дональд Джон Трамп",
-        "sat": "ᱰᱚᱱᱟᱞᱰ ᱴᱨᱟᱹᱢᱯ",
-        "sa": "डोनाल्ड् ट्रम्प्",
-        "scn": "Donald Trump",
-        "sco": "Donald Trump",
-        "sc": "Donald Trump",
-        "sd": "ڊونلڊ ٽرمپ",
-        "se": "Donald Trump",
-        "shi": "Ḍunalḍ Tṛamb",
-        "shn": "တေႃႇၼႄႇ ထရမ်ႉ",
-        "sh": "Donald Trump",
-        "simple": "Donald Trump",
-        "si": "ඩොනල්ඩ් ට්‍රම්ප්",
-        "skr": "ڈونلڈ ٹرمپ",
-        "sk": "Donald Trump",
-        "sl": "Donald Trump",
-        "smn": "Donald Trump",
-        "sm": "Donald Trump",
-        "sn": "Donald Trump",
-        "so": "Donald Trump",
-        "sq": "Donald Trump",
-        "srn": "Donald Trump",
-        "sr": "Доналд Трамп",
-        "ss": "Donald Trump",
-        "st": "Donald Trump",
-        "su": "Donald Trump",
-        "sv": "Donald Trump",
-        "sw": "Donald Trump",
-        "syl": "ꠒꠘꠣꠟ꠆ꠒ ꠐ꠆ꠞꠣꠝ꠆ꠙ",
-        "szl": "Donald Trump",
-        "szy": "Donald John Trump",
-        "ta": "டோனால்ட் டிரம்ப்",
-        "tay": "Donald John Trump",
-        "tet": "Donald Trump",
-        "te": "డోనాల్డ్ ట్రంప్",
-        "tg": "Доналд Трамп",
-        "th": "ดอนัลด์ ทรัมป์",
-        "tk": "Donald Trump",
-        "tl": "Donald Trump",
-        "tly": "Donald Tramp",
-        "tok": "jan Tana Tan",
-        "tpi": "Donald Trump",
-        "trv": "Donald John Trump",
-        "tr": "Donald Trump",
-        "tt": "Donald Tramp",
-        "tum": "Donald Trump",
-        "tyv": "Трамп, Дональд",
-        "ty": "Donald Trump",
-        "udm": "Трамп, Дональд",
-        "ug": "دونالد ترامپ",
-        "uk": "Дональд Трамп",
-        "ur": "ڈونلڈ ٹرمپ",
-        "uz": "Donald Trump",
-        "vec": "Donald Trump",
-        "vi": "Donald Trump",
-        "vls": "Donald Trump",
-        "vo": "Donald Trump",
-        "war": "Donald Trump",
-        "wa": "Donald Trump",
-        "wuu": "唐納德·川普",
-        "xh": "Donald Trump",
-        "xmf": "დონალდ ტრამპი",
-        "yi": "דאנאלד טראמפ",
-        "yo": "Donald Trump",
-        "za": "Donald Trump",
-        "zea": "Donald Trump",
-        "zgh": "ⴷⵓⵏⴰⵍⴷ ⵜⵕⴰⵎⴱ",
-        "zh_min_nan": "Donald Trump",
-        "zh_yue": "當勞侵",
-        "zh": "唐納·川普",
-        "zu": "Donald Trump"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "en",
-          "term": "Donald Trump",
-          "volume": 36340
-        },
-        {
-          "source": "wikipedia-top",
-          "where": "es",
-          "term": "Donald Trump",
-          "volume": 5780
-        },
-        {
-          "source": "wikipedia-top",
-          "where": "pt",
-          "term": "Donald Trump",
-          "volume": 3499
-        },
-        {
-          "source": "wikipedia-top",
-          "where": "fr",
-          "term": "Donald Trump",
-          "volume": 5066
-        }
-      ],
-      "newsUrls": [],
-      "spike": 0.9,
-      "score": 147,
-      "decision": "reject",
-      "reasons": [
-        "pageview spike 0.9x is below 2x"
-      ],
-      "onSite": false
     },
     {
       "wikidataId": "Q22958938",
@@ -2624,6 +2552,76 @@
       "reasons": [
         "no matching site category"
       ],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q2117769",
+      "name": "Canelo Álvarez",
+      "description": "Mexican boxer",
+      "category": "athletes",
+      "occupations": [
+        "boxer"
+      ],
+      "birthYear": 1990,
+      "deathYear": null,
+      "sitelinks": 30,
+      "wikipedia": {
+        "ar": "ساول ألفاريز",
+        "ast": "Saúl Álvarez",
+        "bg": "Канело Алварес",
+        "ca": "Saúl Álvarez",
+        "da": "Canelo Álvarez",
+        "de": "Saúl Álvarez",
+        "en": "Canelo Álvarez",
+        "es": "Canelo Álvarez",
+        "eu": "Saúl Álvarez",
+        "fa": "سائول آلوارس",
+        "fi": "Saúl Álvarez",
+        "fr": "Canelo Álvarez",
+        "id": "Canelo Álvarez",
+        "it": "Saúl Álvarez",
+        "ja": "サウル・アルバレス",
+        "ka": "კანელო ალვარესი",
+        "kk": "Сауль Альварес",
+        "ko": "카넬로 알바레스",
+        "nl": "Saúl Álvarez",
+        "pl": "Saúl Álvarez",
+        "pt": "Canelo Álvarez",
+        "ro": "Canelo Álvarez",
+        "ru": "Альварес, Сауль",
+        "simple": "Canelo Álvarez",
+        "sr": "Канело Алварез",
+        "th": "ซาอุล อัลบาเรซ",
+        "tr": "Canelo Álvarez",
+        "uk": "Сауль Альварес",
+        "vi": "Saúl Álvarez",
+        "zh": "卡内洛·阿尔瓦雷斯"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "en",
+          "term": "Canelo Álvarez",
+          "volume": 69177
+        },
+        {
+          "source": "wikipedia-top",
+          "where": "es",
+          "term": "Canelo Álvarez",
+          "volume": 12859
+        },
+        {
+          "source": "wikipedia-top",
+          "where": "fr",
+          "term": "Canelo Álvarez",
+          "volume": 5208
+        }
+      ],
+      "newsUrls": [],
+      "spike": 6.5,
+      "score": 129,
+      "decision": "accept",
+      "reasons": [],
       "onSite": false
     },
     {
@@ -4708,6 +4706,70 @@
       "decision": "accept",
       "reasons": [],
       "onSite": true
+    },
+    {
+      "wikidataId": "Q465927",
+      "name": "Daniela Mercury",
+      "description": "Brazilian singer-songwriter",
+      "category": "artists",
+      "occupations": [
+        "singer",
+        "composer",
+        "songwriter",
+        "record producer",
+        "actor",
+        "pop singer",
+        "musician"
+      ],
+      "birthYear": 1965,
+      "deathYear": null,
+      "sitelinks": 30,
+      "wikipedia": {
+        "arz": "دانيلا ميركورى",
+        "ast": "Daniela Mercury",
+        "azb": "دانیلا مرکوری",
+        "br": "Daniela Mercury",
+        "ca": "Daniela Mercury",
+        "crh": "Daniela Merkuri",
+        "de": "Daniela Mercury",
+        "en": "Daniela Mercury",
+        "eo": "Daniela Mercury",
+        "es": "Daniela Mercury",
+        "et": "Daniela Mercury",
+        "fa": "دانیلا مرکوری",
+        "fi": "Daniela Mercury",
+        "fr": "Daniela Mercury",
+        "he": "דניאלה מרקורי",
+        "io": "Daniela Mercury",
+        "it": "Daniela Mercury",
+        "kaa": "Daniela Mercury",
+        "mzn": "دانیلا مرکوری",
+        "nl": "Daniela Mercury",
+        "pl": "Daniela Mercury",
+        "pt": "Daniela Mercury",
+        "ru": "Меркури, Даниэла",
+        "sco": "Daniela Mercury",
+        "simple": "Daniela Mercury",
+        "su": "Daniela Mercury",
+        "uk": "Даніела Меркурі",
+        "vo": "Daniela Mercury",
+        "zh_min_nan": "Daniela Mercury",
+        "zh": "达妮埃拉·玛克丽"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "pt",
+          "term": "Daniela Mercury",
+          "volume": 2408
+        }
+      ],
+      "newsUrls": [],
+      "spike": 23.4,
+      "score": 122,
+      "decision": "accept",
+      "reasons": [],
+      "onSite": false
     },
     {
       "wikidataId": "Q77435",
@@ -7288,6 +7350,135 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q30121972",
+      "name": "Charlie Kirk",
+      "description": "American political activist (1993–2025)",
+      "category": "business",
+      "occupations": [
+        "conspiracy theorist",
+        "political activist",
+        "writer",
+        "political pundit",
+        "podcaster",
+        "apologist",
+        "presenter",
+        "activist",
+        "chief executive officer"
+      ],
+      "birthYear": 1993,
+      "deathYear": 2025,
+      "sitelinks": 80,
+      "wikipedia": {
+        "af": "Charlie Kirk",
+        "als": "Charlie Kirk",
+        "an": "Charlie Kirk",
+        "ar": "تشارلي كيرك",
+        "ary": "تشارلي كيرك",
+        "arz": "تشارلى كيرك",
+        "ast": "Charlie Kirk",
+        "az": "Çarli Kirk",
+        "bcl": "Charlie Kirk",
+        "be_x_old": "Чарлі Кэрк",
+        "be": "Чарлі Кірк",
+        "bg": "Чарли Кърк",
+        "bn": "চার্লি কার্ক",
+        "br": "Charlie Kirk",
+        "ca": "Charlie Kirk",
+        "cs": "Charlie Kirk",
+        "da": "Charlie Kirk",
+        "de": "Charlie Kirk",
+        "el": "Τσάρλι Κερκ",
+        "en": "Charlie Kirk",
+        "eo": "Charlie Kirk",
+        "es": "Charlie Kirk",
+        "eu": "Charlie Kirk",
+        "fa": "چارلی کرک",
+        "fi": "Charlie Kirk",
+        "fr": "Charlie Kirk",
+        "fy": "Charlie Kirk",
+        "ga": "Charlie Kirk",
+        "he": "צ'ארלי קירק",
+        "hi": "चार्ली किर्क",
+        "hr": "Charlie Kirk",
+        "ht": "Charlie Kirk",
+        "hu": "Charlie Kirk",
+        "hy": "Չարլի Քըրք",
+        "iba": "Charlie Kirk",
+        "id": "Charlie Kirk",
+        "is": "Charlie Kirk",
+        "it": "Charlie Kirk",
+        "ja": "チャーリー・カーク",
+        "kcg": "Charlie Kirk",
+        "kk": "Чарли Кирк",
+        "ko": "찰리 커크",
+        "ks": "چارلی کِرک",
+        "la": "Carolus Kirk",
+        "lmo": "Charlie Kirk",
+        "lt": "Charlie Kirk",
+        "lv": "Čārlijs Kērks",
+        "mai": "चार्ल्स किर्क",
+        "mk": "Чарли Кирк",
+        "ms": "Charlie Kirk",
+        "nl": "Charlie Kirk",
+        "no": "Charlie Kirk",
+        "nup": "Charlie Kirk",
+        "oc": "Charlie Kirk",
+        "pag": "Charlie Kirk",
+        "pa": "ਚਾਰਲੀ ਕਿਰਕ",
+        "pl": "Charlie Kirk",
+        "pt": "Charlie Kirk",
+        "qu": "Charlie Kirk",
+        "ro": "Charlie Kirk",
+        "ru": "Кирк, Чарли",
+        "simple": "Charlie Kirk",
+        "si": "චාලි කර්ක්",
+        "sk": "Charlie Kirk",
+        "sl": "Charlie Kirk",
+        "sr": "Чарли Кирк",
+        "sv": "Charlie Kirk",
+        "sw": "Charlie Kirk",
+        "th": "ชาร์ลี เคิร์ก",
+        "tok": "jan Sali Ka",
+        "tr": "Charlie Kirk",
+        "ug": "چارلىز جامىس كىرك",
+        "uk": "Чарлі Кірк",
+        "ur": "چارلی کرک",
+        "uz": "Charlie Kirk",
+        "vec": "Charlie Kirk",
+        "vi": "Charlie Kirk",
+        "vo": "Charlie Kirk",
+        "wuu": "查理·柯克",
+        "zh": "查理·柯克"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "pt",
+          "term": "Charlie Kirk",
+          "volume": 2465
+        },
+        {
+          "source": "google-trends",
+          "where": "DE",
+          "term": "charlie kirk",
+          "volume": 100
+        }
+      ],
+      "newsUrls": [
+        "https://www.christianpost.com/news/colton-dixon-offers-christian-response-to-halloween-with-bones.html",
+        "https://www.movieguide.org/news-articles/colton-dixon-charlie-kirks-killing-strengthened-his-convictions.html",
+        "https://www.jubileecast.com/articles/40564/20261026/colton-dixon-puts-his-own-name-on-a-gravestone-in-bones-%E2%80%94and-explains-the-biblical-message.htm"
+      ],
+      "spike": 4.4,
+      "score": 112,
+      "decision": "reject",
+      "reasons": [
+        "sensitive manner of death",
+        "recent death, write with care"
+      ],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q18479939",
       "name": "Anderson Daronco",
       "description": "Brazilian association football referee",
@@ -9513,6 +9704,87 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q346595",
+      "name": "Jonathan Frakes",
+      "description": "American actor and director (born 1952)",
+      "category": "artists",
+      "occupations": [
+        "television actor",
+        "film actor",
+        "film director",
+        "actor",
+        "television presenter",
+        "voice actor",
+        "director"
+      ],
+      "birthYear": 1952,
+      "deathYear": null,
+      "sitelinks": 37,
+      "wikipedia": {
+        "af": "Jonathan Frakes",
+        "ar": "جوناثان فراكس",
+        "arz": "جوناثان فراكس",
+        "ast": "Jonathan Frakes",
+        "azb": "جاناتان فریکس",
+        "bg": "Джонатан Фрейкс",
+        "ca": "Jonathan Frakes",
+        "ckb": "جۆناتان فرێکس",
+        "cs": "Jonathan Frakes",
+        "de": "Jonathan Frakes",
+        "en": "Jonathan Frakes",
+        "es": "Jonathan Frakes",
+        "fa": "جاناتان فریکس",
+        "fi": "Jonathan Frakes",
+        "fr": "Jonathan Frakes",
+        "he": "ג'ונתן פרייקס",
+        "hr": "Jonathan Frakes",
+        "hu": "Jonathan Frakes",
+        "id": "Jonathan Frakes",
+        "ie": "Jonathan Frakes",
+        "it": "Jonathan Frakes",
+        "ja": "ジョナサン・フレイクス",
+        "jv": "Jonathan Frakes",
+        "ko": "조너선 프레이크스",
+        "mg": "Jonathan Frakes",
+        "nl": "Jonathan Frakes",
+        "no": "Jonathan Frakes",
+        "pl": "Jonathan Frakes",
+        "pt": "Jonathan Frakes",
+        "ro": "Jonathan Frakes",
+        "ru": "Фрейкс, Джонатан",
+        "sh": "Jonathan Frakes",
+        "simple": "Jonathan Frakes",
+        "sv": "Jonathan Frakes",
+        "tr": "Jonathan Frakes",
+        "uk": "Джонатан Фрейкс",
+        "ur": "جوناتھن فریکس"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "DE",
+          "term": "jonathan frakes",
+          "volume": 100
+        },
+        {
+          "source": "wikipedia-top",
+          "where": "de",
+          "term": "Jonathan Frakes",
+          "volume": 6289
+        }
+      ],
+      "newsUrls": [
+        "https://variety.com/2026/tv/obituaries-people-news/patrick-stewart-star-trek-gates-mcfadden-tribute-1236937177/",
+        "https://www.theguardian.com/culture/2026/nov/01/dafne-keen-and-harriet-walter-on-working-with-patrick-stewart-ive-never-seen-anyone-so-ecstatic",
+        "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism"
+      ],
+      "spike": 3.2,
+      "score": 105,
+      "decision": "accept",
+      "reasons": [],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q24435957",
       "name": "Tanja Ziegler",
       "description": "German film producer",
@@ -10664,6 +10936,37 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q18707790",
+      "name": "Tavinho Fialho",
+      "description": "Brazilian musician (1960-1993)",
+      "category": "artists",
+      "occupations": [
+        "musician"
+      ],
+      "birthYear": 1960,
+      "deathYear": 1993,
+      "sitelinks": 1,
+      "wikipedia": {
+        "pt": "Tavinho Fialho"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "pt",
+          "term": "Tavinho Fialho",
+          "volume": 2324
+        }
+      ],
+      "newsUrls": [],
+      "spike": 43,
+      "score": 102,
+      "decision": "reject",
+      "reasons": [
+        "only 1 Wikipedia editions (needs 5)"
+      ],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q43247",
       "name": "Ingrid Bergman",
       "description": "Swedish actress (1915–1982)",
@@ -11060,135 +11363,6 @@
       "decision": "reject",
       "reasons": [
         "pageview spike 0.3x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q30121972",
-      "name": "Charlie Kirk",
-      "description": "American political activist (1993–2025)",
-      "category": "business",
-      "occupations": [
-        "conspiracy theorist",
-        "political activist",
-        "writer",
-        "political pundit",
-        "podcaster",
-        "apologist",
-        "presenter",
-        "activist",
-        "chief executive officer"
-      ],
-      "birthYear": 1993,
-      "deathYear": 2025,
-      "sitelinks": 80,
-      "wikipedia": {
-        "af": "Charlie Kirk",
-        "als": "Charlie Kirk",
-        "an": "Charlie Kirk",
-        "ar": "تشارلي كيرك",
-        "ary": "تشارلي كيرك",
-        "arz": "تشارلى كيرك",
-        "ast": "Charlie Kirk",
-        "az": "Çarli Kirk",
-        "bcl": "Charlie Kirk",
-        "be_x_old": "Чарлі Кэрк",
-        "be": "Чарлі Кірк",
-        "bg": "Чарли Кърк",
-        "bn": "চার্লি কার্ক",
-        "br": "Charlie Kirk",
-        "ca": "Charlie Kirk",
-        "cs": "Charlie Kirk",
-        "da": "Charlie Kirk",
-        "de": "Charlie Kirk",
-        "el": "Τσάρλι Κερκ",
-        "en": "Charlie Kirk",
-        "eo": "Charlie Kirk",
-        "es": "Charlie Kirk",
-        "eu": "Charlie Kirk",
-        "fa": "چارلی کرک",
-        "fi": "Charlie Kirk",
-        "fr": "Charlie Kirk",
-        "fy": "Charlie Kirk",
-        "ga": "Charlie Kirk",
-        "he": "צ'ארלי קירק",
-        "hi": "चार्ली किर्क",
-        "hr": "Charlie Kirk",
-        "ht": "Charlie Kirk",
-        "hu": "Charlie Kirk",
-        "hy": "Չարլի Քըրք",
-        "iba": "Charlie Kirk",
-        "id": "Charlie Kirk",
-        "is": "Charlie Kirk",
-        "it": "Charlie Kirk",
-        "ja": "チャーリー・カーク",
-        "kcg": "Charlie Kirk",
-        "kk": "Чарли Кирк",
-        "ko": "찰리 커크",
-        "ks": "چارلی کِرک",
-        "la": "Carolus Kirk",
-        "lmo": "Charlie Kirk",
-        "lt": "Charlie Kirk",
-        "lv": "Čārlijs Kērks",
-        "mai": "चार्ल्स किर्क",
-        "mk": "Чарли Кирк",
-        "ms": "Charlie Kirk",
-        "nl": "Charlie Kirk",
-        "no": "Charlie Kirk",
-        "nup": "Charlie Kirk",
-        "oc": "Charlie Kirk",
-        "pag": "Charlie Kirk",
-        "pa": "ਚਾਰਲੀ ਕਿਰਕ",
-        "pl": "Charlie Kirk",
-        "pt": "Charlie Kirk",
-        "qu": "Charlie Kirk",
-        "ro": "Charlie Kirk",
-        "ru": "Кирк, Чарли",
-        "simple": "Charlie Kirk",
-        "si": "චාලි කර්ක්",
-        "sk": "Charlie Kirk",
-        "sl": "Charlie Kirk",
-        "sr": "Чарли Кирк",
-        "sv": "Charlie Kirk",
-        "sw": "Charlie Kirk",
-        "th": "ชาร์ลี เคิร์ก",
-        "tok": "jan Sali Ka",
-        "tr": "Charlie Kirk",
-        "ug": "چارلىز جامىس كىرك",
-        "uk": "Чарлі Кірк",
-        "ur": "چارلی کرک",
-        "uz": "Charlie Kirk",
-        "vec": "Charlie Kirk",
-        "vi": "Charlie Kirk",
-        "vo": "Charlie Kirk",
-        "wuu": "查理·柯克",
-        "zh": "查理·柯克"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "pt",
-          "term": "Charlie Kirk",
-          "volume": 2465
-        },
-        {
-          "source": "google-trends",
-          "where": "DE",
-          "term": "charlie kirk",
-          "volume": 100
-        }
-      ],
-      "newsUrls": [
-        "https://www.christianpost.com/news/colton-dixon-offers-christian-response-to-halloween-with-bones.html",
-        "https://www.movieguide.org/news-articles/colton-dixon-charlie-kirks-killing-strengthened-his-convictions.html",
-        "https://www.jubileecast.com/articles/40564/20261026/colton-dixon-puts-his-own-name-on-a-gravestone-in-bones-%E2%80%94and-explains-the-biblical-message.htm"
-      ],
-      "spike": 0,
-      "score": 99,
-      "decision": "reject",
-      "reasons": [
-        "sensitive manner of death",
-        "recent death, write with care"
       ],
       "onSite": false
     },
@@ -13385,6 +13559,58 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q53871110",
+      "name": "Kenrich Williams",
+      "description": "American basketball player (1994-)",
+      "category": "athletes",
+      "occupations": [
+        "basketball player"
+      ],
+      "birthYear": 1994,
+      "deathYear": null,
+      "sitelinks": 14,
+      "wikipedia": {
+        "arz": "كينريتش ويليامس",
+        "en": "Kenrich Williams",
+        "es": "Kenrich Williams",
+        "fa": "کنریچ ویلیامز",
+        "fr": "Kenrich Williams",
+        "he": "קנריץ' ויליאמס",
+        "it": "Kenrich Williams",
+        "ja": "ケンリッチ・ウィリアムズ",
+        "lt": "Kenrich Williams",
+        "nl": "Kenrich Williams",
+        "pl": "Kenrich Williams",
+        "pt": "Kenrich Williams",
+        "ru": "Уильямс, Кенрик",
+        "sv": "Kenrich Williams"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "MX",
+          "term": "kenrich williams",
+          "volume": 200
+        },
+        {
+          "source": "google-trends",
+          "where": "BR",
+          "term": "kenrich williams",
+          "volume": 200
+        }
+      ],
+      "newsUrls": [
+        "https://www.cbssports.com/fantasy/basketball/news/thunders-kenrich-williams-hits-three-triples-in-start/",
+        "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-31/kenrich-williams-hits-three-triples-vs-houston",
+        "https://www.rotowire.com/basketball/headlines/kenrich-williams-news-hits-three-triples-in-start-537051"
+      ],
+      "spike": 1.5,
+      "score": 87,
+      "decision": "accept",
+      "reasons": [],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q17477991",
       "name": "Diego Mendoza",
       "description": "Argentinian association football player",
@@ -13723,6 +13949,45 @@
       "score": 86,
       "decision": "reject",
       "reasons": [
+        "no matching site category"
+      ],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q331530",
+      "name": "Pierre Chanal",
+      "description": "French murderer (1946-2003)",
+      "category": null,
+      "occupations": [
+        "serial killer",
+        "military personnel"
+      ],
+      "birthYear": 1946,
+      "deathYear": 2003,
+      "sitelinks": 7,
+      "wikipedia": {
+        "arz": "پير تشانال",
+        "de": "Pierre Chanal",
+        "en": "Pierre Chanal",
+        "fr": "Pierre Chanal",
+        "it": "Pierre Chanal",
+        "pl": "Pierre Chanal",
+        "vo": "Pierre Chanal"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "fr",
+          "term": "Pierre Chanal",
+          "volume": 4997
+        }
+      ],
+      "newsUrls": [],
+      "spike": 10.9,
+      "score": 86,
+      "decision": "reject",
+      "reasons": [
+        "sensitive manner of death",
         "no matching site category"
       ],
       "onSite": false
@@ -14109,60 +14374,6 @@
       "score": 84,
       "decision": "accept",
       "reasons": [],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q254823",
-      "name": "Manú",
-      "description": "Portuguese footballer",
-      "category": "athletes",
-      "occupations": [
-        "association football player"
-      ],
-      "birthYear": 1982,
-      "deathYear": 2026,
-      "sitelinks": 14,
-      "wikipedia": {
-        "arz": "مانو (لاعب كورة قدم)",
-        "de": "Manú",
-        "en": "Manú (footballer)",
-        "es": "Emanuel de Jesus Bonfim Evaristo",
-        "fr": "Manú",
-        "it": "Manú",
-        "mg": "Manú",
-        "nl": "Manú (voetballer)",
-        "pl": "Manú",
-        "pt": "Manú",
-        "ru": "Ману (футболист)",
-        "uk": "Ману (футболіст)",
-        "vo": "Manú",
-        "zh": "马努 (1982年)"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "ES",
-          "term": "posiciones de benfica contra fc alverca",
-          "volume": 200
-        },
-        {
-          "source": "google-trends",
-          "where": "AR",
-          "term": "posiciones de benfica contra fc alverca",
-          "volume": 200
-        }
-      ],
-      "newsUrls": [
-        "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-benfica-v-alverca/blt5180c88128fadc8f",
-        "https://www.beinsports.com/en-us/soccer/primeira-liga/articles/live-benfica-vs-alverca-liga-portugal-2026-11-02",
-        "https://twaslnews1.twaslnews.com/7042360/"
-      ],
-      "spike": 0.5,
-      "score": 84,
-      "decision": "accept",
-      "reasons": [
-        "recent death, write with care"
-      ],
       "onSite": false
     },
     {
@@ -15243,6 +15454,169 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q269841",
+      "name": "Cássia Eller",
+      "description": "Brazilian singer (1962-2001)",
+      "category": "artists",
+      "occupations": [
+        "guitarist",
+        "singer",
+        "musician"
+      ],
+      "birthYear": 1962,
+      "deathYear": 2001,
+      "sitelinks": 18,
+      "wikipedia": {
+        "arz": "كاسيا الير",
+        "ast": "Cássia Eller",
+        "ca": "Cássia Eller",
+        "de": "Cássia Eller",
+        "en": "Cássia Eller",
+        "es": "Cássia Eller",
+        "eu": "Cássia Eller",
+        "fr": "Cássia Eller",
+        "he": "קסיה אלר",
+        "it": "Cássia Eller",
+        "mzn": "کاسیا الر",
+        "pl": "Cássia Eller",
+        "pt": "Cássia Eller",
+        "ro": "Cássia Eller",
+        "ru": "Эллер, Кассия",
+        "sv": "Cássia Eller",
+        "uk": "Кассія Еллер",
+        "vi": "Cássia Eller"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "pt",
+          "term": "Cássia Eller",
+          "volume": 2327
+        }
+      ],
+      "newsUrls": [],
+      "spike": 8.1,
+      "score": 82,
+      "decision": "accept",
+      "reasons": [],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q43715",
+      "name": "Vlad the Impaler",
+      "description": "15th-century ruler of Wallachia",
+      "category": null,
+      "occupations": [
+        "ruler"
+      ],
+      "birthYear": 1431,
+      "deathYear": 1476,
+      "sitelinks": 84,
+      "wikipedia": {
+        "af": "Vlad Dracula",
+        "ar": "فلاد الثالث المخوزق",
+        "arz": "ڤلاد التالت",
+        "ast": "Vlad Țepeș",
+        "azb": "اۆچونجو ولاد",
+        "az": "III Vlad Tsepeş",
+        "bar": "Vlad Tsepesch",
+        "be_x_old": "Улад III Цэпэш",
+        "be": "Улад III Цэпеш",
+        "bg": "Влад Цепеш",
+        "br": "Vlad III",
+        "bs": "Vlad III Tepeš",
+        "ca": "Vlad Țepeș",
+        "ckb": "ڤلادی سکھەڵدڕ",
+        "cs": "Vlad III. Dracula",
+        "da": "Vlad Dracula",
+        "de": "Vlad III.",
+        "diq": "Vlad III",
+        "el": "Βλαντ Γ΄ Τσέπες",
+        "en": "Vlad the Impaler",
+        "eo": "Vlad la 3-a Drakulo",
+        "es": "Vlad el Empalador",
+        "et": "Vlad Dracula",
+        "eu": "Vlad Drakula",
+        "fa": "ولاد سوم",
+        "fi": "Vlad III",
+        "fr": "Vlad III l'Empaleur",
+        "fy": "Vlad de Speetser",
+        "gd": "Vlad Țepeș",
+        "gl": "Vlad Țepeș",
+        "he": "ולאד המשפד",
+        "hi": "विलाद तृतीय ड्रैकुला",
+        "hr": "Vlad III. Drakula",
+        "hu": "III. Vlad havasalföldi fejedelem",
+        "hy": "Վլադ Դրակուլա",
+        "ia": "Vlad III de Walachia",
+        "id": "Vlad Ţepeş",
+        "is": "Vlad Drakúla",
+        "it": "Vlad III di Valacchia",
+        "ja": "ヴラド・ツェペシュ",
+        "jv": "Vlad Ţepeş",
+        "ka": "ვლად III ცეპეში",
+        "ko": "블라드 3세 체페슈",
+        "la": "Vladislaus III Dracula",
+        "lmo": "Vlad III de Valacchia",
+        "lt": "Vladas Drakula",
+        "lv": "Vlads III Drakuls",
+        "mg": "Vlad the Impaler",
+        "mk": "Влад Цепеш",
+        "ml": "വ്ലാദ് മൂന്നാമൻ",
+        "ms": "Vlad Si Penyula",
+        "nl": "Vlad Dracula",
+        "nn": "Vlad III Dracula",
+        "no": "Vlad Țepeș",
+        "oc": "Vlad III Tepes",
+        "pl": "Wład Palownik",
+        "pnb": "ولاد سوم",
+        "ps": "دریم ولاډ (ډراکول)",
+        "pt": "Vlad, o Empalador",
+        "ro": "Vlad Țepeș",
+        "ru": "Влад III Цепеш",
+        "sco": "Vlad the Impaler",
+        "sh": "Vlad Țepeș",
+        "simple": "Vlad the Impaler",
+        "sk": "Vlad III.",
+        "sl": "Vlad III. Drakula",
+        "so": "Daraakoola",
+        "sq": "Vlad Sunduesi",
+        "sr": "Влад III Цепеш",
+        "su": "Vlad Drakula",
+        "sv": "Vlad III Dracula",
+        "szl": "Vlad Ţepeş",
+        "th": "วลาดที่ 3 นักเสียบ",
+        "tr": "III. Vlad",
+        "tt": "Влад III Дракула",
+        "uk": "Влад III Дракула",
+        "uz": "Vlad III Impaler",
+        "vi": "Vlad III Ţepeş",
+        "war": "Vlad III Ţepeş",
+        "wuu": "弗拉德三世",
+        "xmf": "ვლად III ცეპეში",
+        "yi": "וולאד דער דורכשטעכער",
+        "zh_yue": "弗拉德三世",
+        "zh": "弗拉德三世"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "de",
+          "term": "Vlad III.",
+          "volume": 5189
+        }
+      ],
+      "newsUrls": [],
+      "spike": 3.7,
+      "score": 82,
+      "decision": "reject",
+      "reasons": [
+        "sensitive manner of death",
+        "no matching site category"
+      ],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q108165",
       "name": "Christine Westermann",
       "description": "German TV and radio moderator",
@@ -15332,175 +15706,6 @@
       "newsUrls": [],
       "spike": 6.6,
       "score": 81,
-      "decision": "accept",
-      "reasons": [],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q2685",
-      "name": "Arnold Schwarzenegger",
-      "description": "Austrian and American actor, bodybuilder, and politician (born 1947)",
-      "category": "business",
-      "occupations": [
-        "actor",
-        "politician",
-        "film producer",
-        "film actor",
-        "entrepreneur",
-        "bodybuilder",
-        "autobiographer",
-        "businessperson",
-        "powerlifter",
-        "television actor",
-        "film director",
-        "television director",
-        "governor"
-      ],
-      "birthYear": 1947,
-      "deathYear": null,
-      "sitelinks": 125,
-      "wikipedia": {
-        "abstract": "Q2685",
-        "af": "Arnold Schwarzenegger",
-        "am": "አርኖልድ ሽዋርጸኔገር",
-        "ang": "Earnweald Blæceċġere",
-        "an": "Arnold Schwarzenegger",
-        "ar": "أرنولد شوارزنيجر",
-        "arz": "آرنولد شوارزنيجر",
-        "ast": "Arnold Schwarzenegger",
-        "azb": "آرنولد شوارتزنقر",
-        "az": "Arnold Şvartsenegger",
-        "bar": "Arnold Schwarzenegger",
-        "ba": "Арнольд Шварценеггер",
-        "bcl": "Arnold Schwarzenegger",
-        "be_x_old": "Арнольд Шварцэнэгер",
-        "be": "Арнольд Шварцэнэгер",
-        "bg": "Арнолд Шварценегер",
-        "bn": "আর্নল্ড শোয়ার্জনেগার",
-        "br": "Arnold Schwarzenegger",
-        "bs": "Arnold Schwarzenegger",
-        "ca": "Arnold Schwarzenegger",
-        "ce": "Шварценеггер, Арнольд",
-        "ckb": "ئارنۆڵد شوارزنێگەر",
-        "co": "Arnold Schwarzenegger",
-        "cs": "Arnold Schwarzenegger",
-        "cv": "Арнольд Шварценеггер",
-        "cy": "Arnold Schwarzenegger",
-        "da": "Arnold Schwarzenegger",
-        "de": "Arnold Schwarzenegger",
-        "diq": "Arnold Schwarzenegger",
-        "dty": "अर्नोल्ड स्वार्जनेगर",
-        "el": "Άρνολντ Σβαρτσενέγκερ",
-        "en": "Arnold Schwarzenegger",
-        "eo": "Arnold Schwarzenegger",
-        "es": "Arnold Schwarzenegger",
-        "et": "Arnold Schwarzenegger",
-        "eu": "Arnold Schwarzenegger",
-        "fa": "آرنولد شوارتزنگر",
-        "fi": "Arnold Schwarzenegger",
-        "fo": "Arnold Schwarzenegger",
-        "fr": "Arnold Schwarzenegger",
-        "ga": "Arnold Schwarzenegger",
-        "gd": "Arnold Schwarzenegger",
-        "gl": "Arnold Schwarzenegger",
-        "gu": "આર્નોલ્ડ શ્વાર્ઝેનેગર",
-        "hak": "Arnold Schwarzenegger",
-        "ha": "Arnold Schwarzenegger",
-        "he": "ארנולד שוורצנגר",
-        "hi": "अर्नोल्ड श्वार्ज़नेगर",
-        "hr": "Arnold Schwarzenegger",
-        "hu": "Arnold Schwarzenegger",
-        "hy": "Առնոլդ Շվարցենեգեր",
-        "hyw": "Առնոլտ Շուարցնէյկըր",
-        "id": "Arnold Schwarzenegger",
-        "io": "Arnold Schwarzenegger",
-        "is": "Arnold Schwarzenegger",
-        "it": "Arnold Schwarzenegger",
-        "ja": "アーノルド・シュワルツェネッガー",
-        "jbo": "arnold. cyvartseneger",
-        "jv": "Arnold Schwarzenegger",
-        "kaa": "Arnold Shvarcenegger",
-        "ka": "არნოლდ შვარცენეგერი",
-        "kk": "Арнольд Шварценеггер",
-        "kn": "ಅರ್ನಾಲ್ಡ್ ಶ್ವಾರ್ಜಿನೆಗ್ಗರ್",
-        "ko": "아널드 슈워제네거",
-        "ks": "آرنٛلڈ شٕوارزیٚنیگر",
-        "ku": "Arnold Schwarzenegger",
-        "ky": "Арнольд Шварценеггер",
-        "la": "Arnoldus Schwarzenegger",
-        "lo": "ອາໂນນ ຊວາເຊເນກເກີ",
-        "lt": "Arnold Schwarzenegger",
-        "lv": "Arnolds Švarcenegers",
-        "mad": "Arnold Schwarzenegger",
-        "mai": "अर्नोल्ड स्वार्जनेगर",
-        "mg": "Arnold Schwarzenegger",
-        "mk": "Арнолд Шварценегер",
-        "ml": "അർണോൾഡ് സ്വാറ്റ്സെനെഗർ",
-        "mn": "Арнольд Шварценеггер",
-        "mr": "आर्नोल्ड श्वार्झनेगर",
-        "ms": "Arnold Schwarzenegger",
-        "myv": "Шварцнеггер, Арнольд",
-        "mzn": "آرنولد",
-        "ne": "अर्नोल्ड स्वार्जनेगर",
-        "nl": "Arnold Schwarzenegger",
-        "nn": "Arnold Schwarzenegger",
-        "no": "Arnold Schwarzenegger",
-        "oc": "Arnold Schwarzenegger",
-        "pap": "Arnold Schwarzenegger",
-        "pa": "ਆਰਨੋਲਡ ਸ਼ਵਾਜ਼ਨੈਗਰ",
-        "pl": "Arnold Schwarzenegger",
-        "ps": "آرنولد شوارزنېگر",
-        "pt": "Arnold Schwarzenegger",
-        "ro": "Arnold Schwarzenegger",
-        "ru": "Шварценеггер, Арнольд",
-        "sco": "Arnold Schwarzenegger",
-        "sh": "Arnold Schwarzenegger",
-        "simple": "Arnold Schwarzenegger",
-        "sk": "Arnold Schwarzenegger",
-        "sl": "Arnold Schwarzenegger",
-        "sq": "Arnold Schwarzenegger",
-        "srn": "Arnold Schwarzenegger",
-        "sr": "Арнолд Шварценегер",
-        "ss": "Arnold Schwarzenegger",
-        "sv": "Arnold Schwarzenegger",
-        "sw": "Arnold Schwarzenegger",
-        "szl": "Arnold Schwarzenegger",
-        "ta": "ஆர்னோல்டு சுவார்செனேகர்",
-        "te": "ఆర్నాల్డ్ స్క్వార్జ్నెగెర్",
-        "tg": "Арнолд Швартсенеггер",
-        "th": "อาร์โนลด์ ชวาร์เซเน็กเกอร์",
-        "tl": "Arnold Schwarzenegger",
-        "tly": "Arnold Švartsenegger",
-        "tr": "Arnold Schwarzenegger",
-        "tt": "Арнольд Шварценеггер",
-        "uk": "Арнольд Шварценеггер",
-        "ur": "آرنلڈ شوارتزنگر",
-        "uz": "Arnold Schwarzenegger",
-        "vec": "Arnold Schwarzenegger",
-        "vi": "Arnold Schwarzenegger",
-        "war": "Arnold Schwarzenegger",
-        "wuu": "阿诺德·施瓦辛格",
-        "xmf": "არნოლდ შვარცენეგერი",
-        "yi": "ארנאלד שווארצענעגער",
-        "zh_min_nan": "Arnold Schwarzenegger",
-        "zh_yue": "阿諾舒華辛力加",
-        "zh": "阿诺·施瓦辛格"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "GB",
-          "term": "arnold schwarzenegger",
-          "volume": 200
-        }
-      ],
-      "newsUrls": [
-        "https://deadline.com/2026/11/the-man-bag-trailer-arnold-schwarzenegger-santa-amazon-1237211272/",
-        "https://www.avclub.com/alan-ritchson-arnold-schwarzenegger-the-man-with-the-bag-trailer",
-        "https://www.cinemablend.com/movies/alan-ritchson-arnold-schwarzenegger-buddy-flick-christmas-movie-didnt-know-needed"
-      ],
-      "spike": 1.4,
-      "score": 80,
       "decision": "accept",
       "reasons": [],
       "onSite": false
@@ -16707,79 +16912,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q12066523",
-      "name": "Jen Psaki",
-      "description": "American political advisor and White House Press Secretary from 2021 to 2022 (born 1978)",
-      "category": "artists",
-      "occupations": [
-        "politician",
-        "television presenter"
-      ],
-      "birthYear": 1978,
-      "deathYear": null,
-      "sitelinks": 40,
-      "wikipedia": {
-        "ar": "جين ساكي",
-        "arz": "چين ساكى",
-        "az": "Cen Psaki",
-        "be": "Джэн Псакі",
-        "ca": "Jen Psaki",
-        "ckb": "جین ساکی",
-        "cs": "Jen Psakiová",
-        "cv": "Дженнифер Псаки",
-        "de": "Jen Psaki",
-        "el": "Τζεν Σάκι",
-        "en": "Jen Psaki",
-        "es": "Jen Psaki",
-        "fa": "جن ساکی",
-        "fi": "Jen Psaki",
-        "fr": "Jen Psaki",
-        "he": "ג'ן סאקי",
-        "hu": "Jen Psaki",
-        "hy": "Ջեն Փսակի",
-        "hyw": "Ճեն Փսաքի",
-        "id": "Jen Psaki",
-        "ig": "Jen Psaki",
-        "it": "Jen Psaki",
-        "ja": "ジェン・サキ",
-        "ka": "ჯენიფერ ფსაკი",
-        "ko": "젠 사키",
-        "ms": "Jen Psaki",
-        "nl": "Jen Psaki",
-        "no": "Jen Psaki",
-        "pl": "Jen Psaki",
-        "pt": "Jen Psaki",
-        "ro": "Jen Psaki",
-        "ru": "Псаки, Джен",
-        "simple": "Jen Psaki",
-        "sr": "Џен Псаки",
-        "sv": "Jen Psaki",
-        "tr": "Jen Psaki",
-        "uk": "Джен Псакі",
-        "ur": "جین پساکی",
-        "vi": "Jen Psaki",
-        "zh": "珍·莎琪"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "US",
-          "term": "jen psaki",
-          "volume": 10000
-        }
-      ],
-      "newsUrls": [
-        "https://www.washingtonpost.com/politics/2026/11/02/trump-last-midterm-rally-marks-end-political-era/",
-        "https://www.kcci.com/article/president-trumps-focus-on-iowa-comes-as-house-and-senate-races-get-tighter/74313857",
-        "https://www.kcur.org/politics-elections-and-government/2026-11-01/trump-visits-kansas-again-for-final-pitch-in-senate-race-that-could-decide-control-of-the-chamber-roger-marshall-adam-hamilton"
-      ],
-      "spike": 0.4,
-      "score": 78,
-      "decision": "accept",
-      "reasons": [],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q130799",
       "name": "James Blunt",
       "description": "English singer-songwriter (born 1974)",
@@ -17953,109 +18085,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q311872",
-      "name": "Philippe Coutinho",
-      "description": "Brazilian association football player",
-      "category": "athletes",
-      "occupations": [
-        "association football player"
-      ],
-      "birthYear": 1992,
-      "deathYear": null,
-      "sitelinks": 71,
-      "wikipedia": {
-        "af": "Philippe Coutinho",
-        "ar": "فيليبي كوتينيو",
-        "arz": "فيليبى كوتينيو",
-        "ast": "Philippe Coutinho",
-        "azb": "فیلیپه کوتینیو",
-        "az": "Filipe Koutinyo",
-        "be_x_old": "Філіпэ Каўтыньню",
-        "be": "Філіпі Каўтынью",
-        "bg": "Филипе Коутиньо",
-        "bn": "ফিলিপে কুতিনিয়ো",
-        "bs": "Philippe Coutinho",
-        "ca": "Philippe Coutinho Correia",
-        "cs": "Philippe Coutinho",
-        "da": "Philippe Coutinho",
-        "de": "Philippe Coutinho",
-        "el": "Φιλίπε Κουτίνιο",
-        "en": "Philippe Coutinho",
-        "eo": "Philippe Coutinho",
-        "es": "Philippe Coutinho",
-        "et": "Philippe Coutinho",
-        "eu": "Philippe Coutinho",
-        "fa": "فیلیپه کوتینیو",
-        "fi": "Philippe Coutinho",
-        "fr": "Philippe Coutinho",
-        "ha": "Philippe Coutinho",
-        "he": "פיליפה קוטיניו",
-        "hr": "Philippe Coutinho",
-        "hu": "Philippe Coutinho",
-        "hy": "Ֆիլիպե Կոուտինյո",
-        "id": "Philippe Coutinho",
-        "is": "Philippe Coutinho",
-        "it": "Philippe Coutinho",
-        "ja": "フィリペ・コウチーニョ・コレイア",
-        "jv": "Philippe Coutinho",
-        "ka": "ფელიპე კოუტინიო",
-        "kk": "Филиппе Коутиньо",
-        "ko": "필리피 코치뉴",
-        "ku": "Philippe Coutinho",
-        "lez": "Филипе Коутиньо",
-        "lt": "Philippe Coutinho",
-        "lv": "Filipi Koutinju",
-        "mai": "फिलिप काउटिन्हो",
-        "mg": "Philippe Coutinho",
-        "mk": "Филипе Коутињо",
-        "mn": "Филиппе Коутиньо",
-        "ms": "Philippe Coutinho",
-        "ne": "फिलिप काउटिन्हो",
-        "nl": "Philippe Coutinho",
-        "no": "Philippe Coutinho",
-        "pl": "Philippe Coutinho",
-        "pt": "Philippe Coutinho",
-        "qu": "Philippe Coutinho",
-        "ro": "Philippe Coutinho",
-        "ru": "Коутиньо, Филипе",
-        "sco": "Philippe Coutinho",
-        "sh": "Philippe Coutinho",
-        "simple": "Philippe Coutinho",
-        "sk": "Philippe Coutinho",
-        "sq": "Philippe Coutinho",
-        "sr": "Филипе Кутињо",
-        "sv": "Philippe Coutinho",
-        "sw": "Philippe Coutinho",
-        "ta": "பிலிப்பி கோட்டின்யோ",
-        "th": "ฟีลีปี โกชิญญู",
-        "tr": "Philippe Coutinho",
-        "uk": "Філіппе Коутінью",
-        "uz": "Philippe Coutinho",
-        "vi": "Philippe Coutinho",
-        "wuu": "菲利普·库蒂尼奥",
-        "zh_yue": "古天奴",
-        "zh": "菲利佩·库蒂尼奥"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "BR",
-          "term": "philippe coutinho",
-          "volume": 500
-        }
-      ],
-      "newsUrls": [
-        "https://www.anfieldwatch.co.uk/liverpool-fc/news/its-done-sensational-playmaker-who-plays-like-philippe-coutinho-is-coming-to-liverpool/",
-        "https://www.anfieldwatch.co.uk/liverpool-fc/news/liverpool-ready-to-sign-wonderkid-to-replace-florian-wirtz/",
-        "https://sports.yahoo.com/articles/pressure-expectation-former-chelsea-star-212000706.html"
-      ],
-      "spike": 0.8,
-      "score": 77,
-      "decision": "accept",
-      "reasons": [],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q43723",
       "name": "Benjamin Netanyahu",
       "description": "Prime Minister of Israel (born 1949), (1996–1999; 2009–2021; 2022–present)",
@@ -18382,80 +18411,6 @@
       "reasons": [
         "pageview spike 1.0x is below 2x"
       ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q356142",
-      "name": "Jackson Martínez",
-      "description": "Colombian footballer (born 1986)",
-      "category": "athletes",
-      "occupations": [
-        "association football player"
-      ],
-      "birthYear": 1986,
-      "deathYear": null,
-      "sitelinks": 42,
-      "wikipedia": {
-        "ar": "جاكسون مارتينيز",
-        "arz": "جاكسون مارتينيز",
-        "azb": "جکسون مارتینز",
-        "be_x_old": "Джэксан Мартынэс",
-        "bg": "Джаксън Мартинес",
-        "ca": "Jackson Martínez",
-        "cs": "Jackson Martínez",
-        "da": "Jackson Martínez",
-        "de": "Jackson Martínez",
-        "en": "Jackson Martínez",
-        "es": "Jackson Martínez",
-        "et": "Jackson Martínez",
-        "fa": "جکسون مارتینز",
-        "fi": "Jackson Martínez",
-        "fr": "Jackson Martínez",
-        "he": "ג'קסון מרטינס",
-        "hu": "Jackson Martínez",
-        "hy": "Ջեքսոն Մարտինես",
-        "id": "Jackson Martínez",
-        "it": "Jackson Martínez",
-        "ja": "ジャクソン・マルティネス",
-        "ka": "ჯექსონ მარტინესი",
-        "kk": "Джексон Мартинес",
-        "ko": "작손 마르티네스",
-        "lv": "Džeksons Martiness",
-        "mg": "Jackson Martínez",
-        "mn": "Жексон Мартинес",
-        "ms": "Jackson Martínez",
-        "nl": "Jackson Martínez",
-        "no": "Jackson Martínez",
-        "pl": "Jackson Martínez",
-        "pt": "Jackson Martínez",
-        "ro": "Jackson Martínez",
-        "ru": "Мартинес, Джексон",
-        "sh": "Jackson Martínez",
-        "sv": "Jackson Martínez",
-        "tg": "Ҷексон Мартинес",
-        "tr": "Jackson Martínez",
-        "uk": "Джексон Мартінес",
-        "vi": "Jackson Martínez",
-        "zh_yue": "積臣·馬天尼斯",
-        "zh": "杰克逊·马丁内斯"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "MX",
-          "term": "jackson martinez",
-          "volume": 200
-        }
-      ],
-      "newsUrls": [
-        "https://www.espn.com.mx/futbol/colombia/nota/_/id/17467549/sueno-cumplido-para-jackson-martinez-en-su-regreso-con-victoria-en-el-medellin",
-        "https://www.record.com.mx/historia/jackson-martinez-vuelve-del-retiro-y-marca-gol-del-triunfo-2026110204371215640",
-        "https://www.espn.com.mx/futbol/colombia/nota/_/id/17466075/despues-de-16-anos-jackson-martinez-volvio-a-celebrar-un-gol-con-medellin"
-      ],
-      "spike": 2.4,
-      "score": 76,
-      "decision": "accept",
-      "reasons": [],
       "onSite": false
     },
     {
@@ -18819,7 +18774,7 @@
       ],
       "newsUrls": [
         "https://www.theguardian.com/politics/2026/nov/02/andy-burnham-flight-caribbean-commonwealth-manchester",
-        "https://www.facebook.com/ManchesterEveningNews/posts/-downing-street-has-defended-the-decision-for-andy-burnham-to-be-collected-in-a-/1641034641392228/",
+        "https://www.thesun.co.uk/news/40889870/burnham-hypocrite-travel/",
         "https://www.dailystar.co.uk/news/latest-news/burnham-blasted-20k-vip-jet-37835164"
       ],
       "spike": 0.8,
@@ -19264,71 +19219,69 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q346595",
-      "name": "Jonathan Frakes",
-      "description": "American actor and director (born 1952)",
+      "wikidataId": "Q160430",
+      "name": "David Garrett",
+      "description": "German violinist",
       "category": "artists",
       "occupations": [
-        "television actor",
-        "film actor",
-        "film director",
+        "violinist",
+        "model",
+        "recording artist",
         "actor",
-        "television presenter",
-        "voice actor",
-        "director"
+        "music arranger"
       ],
-      "birthYear": 1952,
+      "birthYear": 1980,
       "deathYear": null,
       "sitelinks": 37,
       "wikipedia": {
-        "af": "Jonathan Frakes",
-        "ar": "جوناثان فراكس",
-        "arz": "جوناثان فراكس",
-        "ast": "Jonathan Frakes",
-        "azb": "جاناتان فریکس",
-        "bg": "Джонатан Фрейкс",
-        "ca": "Jonathan Frakes",
-        "ckb": "جۆناتان فرێکس",
-        "cs": "Jonathan Frakes",
-        "de": "Jonathan Frakes",
-        "en": "Jonathan Frakes",
-        "es": "Jonathan Frakes",
-        "fa": "جاناتان فریکس",
-        "fi": "Jonathan Frakes",
-        "fr": "Jonathan Frakes",
-        "he": "ג'ונתן פרייקס",
-        "hr": "Jonathan Frakes",
-        "hu": "Jonathan Frakes",
-        "id": "Jonathan Frakes",
-        "ie": "Jonathan Frakes",
-        "it": "Jonathan Frakes",
-        "ja": "ジョナサン・フレイクス",
-        "jv": "Jonathan Frakes",
-        "ko": "조너선 프레이크스",
-        "mg": "Jonathan Frakes",
-        "nl": "Jonathan Frakes",
-        "no": "Jonathan Frakes",
-        "pl": "Jonathan Frakes",
-        "pt": "Jonathan Frakes",
-        "ro": "Jonathan Frakes",
-        "ru": "Фрейкс, Джонатан",
-        "sh": "Jonathan Frakes",
-        "simple": "Jonathan Frakes",
-        "sv": "Jonathan Frakes",
-        "tr": "Jonathan Frakes",
-        "uk": "Джонатан Фрейкс",
-        "ur": "جوناتھن فریکس"
+        "ar": "دافيد غاريت",
+        "arz": "دافيد جاريت",
+        "azb": "دیوید قرت",
+        "az": "Devid Qarrett",
+        "bg": "Дейвид Гарет",
+        "bs": "David Garrett (violinist)",
+        "ca": "David Garrett",
+        "cs": "David Garrett",
+        "da": "David Garrett",
+        "de": "David Garrett",
+        "el": "Ντέιβιντ Γκάρετ",
+        "eml": "David Garrett",
+        "en": "David Garrett",
+        "es": "David Garrett",
+        "et": "David Garrett",
+        "eu": "David Garrett",
+        "fa": "دیوید گرت",
+        "fr": "David Garrett",
+        "he": "דייוויד גארט",
+        "hu": "David Garrett",
+        "hy": "Դևիդ Գարեթ",
+        "it": "David Garrett",
+        "ja": "デイヴィッド・ギャレット",
+        "ko": "데이비드 가렛",
+        "nl": "David Garrett",
+        "no": "David Garrett",
+        "pl": "David Garrett",
+        "pt": "David Garrett",
+        "ro": "David Garrett",
+        "ru": "Гарретт, Дэвид",
+        "simple": "David Garrett",
+        "sr": "Дејвид Гарет",
+        "sv": "David Garrett",
+        "tr": "David Garrett",
+        "uk": "Девід Ґарретт",
+        "vi": "David Garrett",
+        "zh": "大衛·加勒特"
       },
       "signals": [
         {
           "source": "wikipedia-top",
           "where": "de",
-          "term": "Jonathan Frakes",
-          "volume": 6289
+          "term": "David Garrett",
+          "volume": 5149
         }
       ],
       "newsUrls": [],
-      "spike": 3.2,
+      "spike": 3.4,
       "score": 75,
       "decision": "accept",
       "reasons": [],
@@ -19420,109 +19373,6 @@
       ],
       "newsUrls": [],
       "spike": 2.9,
-      "score": 74,
-      "decision": "accept",
-      "reasons": [],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q5162259",
-      "name": "Conor McGregor",
-      "description": "Irish boxer and mixed martial arts fighter",
-      "category": "athletes",
-      "occupations": [
-        "mixed martial arts fighter",
-        "boxer",
-        "taekwondo athlete",
-        "kickboxer",
-        "actor",
-        "martial artist"
-      ],
-      "birthYear": 1988,
-      "deathYear": null,
-      "sitelinks": 66,
-      "wikipedia": {
-        "ar": "كونر ماكغريغور",
-        "arz": "كونر ماكجريجور",
-        "ast": "Conor McGregor",
-        "az": "Konor Makqreqor",
-        "be": "Конар Мак-Грэгар",
-        "bg": "Конър Макгрегър",
-        "bn": "কনর ম্যাকগ্রেগর",
-        "ca": "Conor McGregor",
-        "ceb": "Conor McGregor",
-        "ce": "Макгрегор Конор",
-        "ckb": "کۆنەر مکگرێگەر",
-        "cs": "Conor McGregor",
-        "da": "Conor McGregor",
-        "de": "Conor McGregor",
-        "el": "Κόνορ ΜακΓκρέγκορ",
-        "en": "Conor McGregor",
-        "eo": "Conor McGregor",
-        "es": "Conor McGregor",
-        "eu": "Conor McGregor",
-        "fa": "کانر مک‌گرگور",
-        "fi": "Conor McGregor",
-        "fr": "Conor McGregor",
-        "ga": "Conor McGregor",
-        "gl": "Conor McGregor",
-        "ha": "Conor McGregor",
-        "he": "קונור מקגרגור",
-        "hr": "Conor McGregor",
-        "hu": "Conor McGregor",
-        "hy": "Քոնոր ՄաքԳրեգոր",
-        "id": "Conor McGregor",
-        "it": "Conor McGregor",
-        "ja": "コナー・マクレガー",
-        "ka": "კონორ მაკგრეგორი",
-        "kk": "Конор Макгрегор",
-        "ko": "코너 맥그레거",
-        "lt": "Conor McGregor",
-        "lv": "Konors Makgregors",
-        "ms": "Conor McGregor",
-        "ne": "कनर म्याकग्रेगर",
-        "nl": "Conor McGregor",
-        "no": "Conor McGregor",
-        "os": "Макгрегор, Конор",
-        "pl": "Conor McGregor",
-        "pt": "Conor McGregor",
-        "qu": "Conor McGregor",
-        "ro": "Conor McGregor",
-        "rue": "Конор Макґреґор",
-        "ru": "Макгрегор, Конор",
-        "sah": "Конор Макгрегор",
-        "sh": "Conor McGregor",
-        "simple": "Conor McGregor",
-        "sk": "Conor McGregor",
-        "sl": "Conor McGregor",
-        "sr": "Конор Макгрегор",
-        "sv": "Conor McGregor",
-        "syl": "ꠇꠘꠞ ꠝꠦꠇꠉꠦꠉꠞ",
-        "tg": "Конор Макгрегор",
-        "th": "คอนเนอร์ แม็คเกรเกอร์",
-        "tr": "Conor McGregor",
-        "tyv": "Макгрегор, Конор",
-        "uk": "Конор Мак-Грегор",
-        "vi": "Conor McGregor",
-        "vo": "Conor McGregor",
-        "wuu": "康纳·麦格雷戈",
-        "xmf": "კონორ მაკგრეგორი",
-        "zh": "康纳·麦格雷戈"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "MX",
-          "term": "conor mcgregor",
-          "volume": 100
-        }
-      ],
-      "newsUrls": [
-        "https://bloodyelbow.com/2026/11/02/conor-mcgregors-former-teammate-claims-he-is-continuing-to-fight-to-support-his-habits/",
-        "https://www.si.com/fannation/mma/news/ufc-legend-conor-mcgregor-announces-last-dance-mma-return-with-canelo-alvarez-dig",
-        "https://sports.yahoo.com/articles/conor-mcgregor-preparing-monumental-retirement-174211774.html"
-      ],
-      "spike": 1.1,
       "score": 74,
       "decision": "accept",
       "reasons": [],
@@ -19646,6 +19496,98 @@
         "no matching site category"
       ],
       "onSite": true
+    },
+    {
+      "wikidataId": "Q96072055",
+      "name": "Jamal Musiala",
+      "description": "German footballer (born 2003)",
+      "category": "athletes",
+      "occupations": [
+        "association football player"
+      ],
+      "birthYear": 2003,
+      "deathYear": null,
+      "sitelinks": 60,
+      "wikipedia": {
+        "af": "Jamal Musiala",
+        "ar": "جمال موسيالا",
+        "arz": "جمال موسيالا",
+        "ast": "Jamal Musiala",
+        "azb": "جمال موسیالا",
+        "bn": "জামাল মুসিয়ালা",
+        "ca": "Jamal Musiala",
+        "ckb": "جەمال موسێلا",
+        "cs": "Jamal Musiala",
+        "dag": "Jamal Musiala",
+        "da": "Jamal Musiala",
+        "de": "Jamal Musiala",
+        "el": "Τζαμάλ Μουσιάλα",
+        "en": "Jamal Musiala",
+        "eo": "Jamal Musiala",
+        "es": "Jamal Musiala",
+        "et": "Jamal Musiala",
+        "eu": "Jamal Musiala",
+        "fa": "جمال موسیالا",
+        "fi": "Jamal Musiala",
+        "fr": "Jamal Musiala",
+        "ha": "Jamal Musiala",
+        "he": "ג'מאל מוסיאלה",
+        "hr": "Jamal Musiala",
+        "hu": "Jamal Musiala",
+        "hy": "Ջամալ Մուսիալա",
+        "id": "Jamal Musiala",
+        "it": "Jamal Musiala",
+        "ja": "ジャマル・ムシアラ",
+        "ka": "ჯამალ მუსიალა",
+        "kk": "Жамал Мусиала",
+        "km": "ចាម៉ាល់ មួស៊ីឡា",
+        "ko": "자말 무시알라",
+        "lt": "Jamal Musiala",
+        "lv": "Džamals Musiala",
+        "mg": "Jamal Musiala",
+        "mk": "Џамал Мусиала",
+        "ms": "Jamal Musiala",
+        "nl": "Jamal Musiala",
+        "no": "Jamal Musiala",
+        "pl": "Jamal Musiala",
+        "pt": "Jamal Musiala",
+        "ro": "Jamal Musiala",
+        "ru": "Мусиала, Джамал",
+        "sh": "Jamal Musiala",
+        "simple": "Jamal Musiala",
+        "sk": "Jamal Musiala",
+        "sr": "Џамал Мусијала",
+        "sv": "Jamal Musiala",
+        "szl": "Jamal Musiala",
+        "th": "จามัล มูซีอาลา",
+        "tr": "Jamal Musiala",
+        "uk": "Джамал Мусіала",
+        "ur": "جمال موسیالا",
+        "uz": "Jamol Musiala",
+        "vi": "Jamal Musiala",
+        "vo": "Jamal Musiala",
+        "xmf": "ჯამალ მუსიალა",
+        "zh_yue": "查馬爾·穆斯亞拿",
+        "zh": "贾马尔·穆西亚拉"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "DE",
+          "term": "jamal musiala",
+          "volume": 200
+        }
+      ],
+      "newsUrls": [
+        "https://www.sport1.de/news/fussball/bundesliga/2026/11/fc-bayern-verkuendet-update-zu-jamal-musiala",
+        "https://www.fussballdaten.de/news/datum-musialas-comeback-steht-eberl-macht-es-oeffentlich/",
+        "https://www.fussballeuropa.com/news/fc-bayern-ruckkehr-prognosen-bei-kompany-musiala-und-kimmich-2026-10"
+      ],
+      "spike": 0.9,
+      "score": 74,
+      "decision": "accept",
+      "reasons": [],
+      "onSite": false
     },
     {
       "wikidataId": "Q18735049",
@@ -19868,70 +19810,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q235845",
-      "name": "Marcheline Bertrand",
-      "description": "American actress and producer (1950-2007)",
-      "category": "artists",
-      "occupations": [
-        "actor",
-        "film producer",
-        "television actor",
-        "film actor"
-      ],
-      "birthYear": 1950,
-      "deathYear": 2007,
-      "sitelinks": 29,
-      "wikipedia": {
-        "af": "Marcheline Bertren",
-        "ar": "مارشلين برتراند",
-        "arz": "مارشلين برتراند",
-        "azb": "مارچلین برتراند",
-        "bg": "Марчелин Бертран",
-        "bn": "মার্শেলিন বার্ট্রান্ড",
-        "ckb": "مارچێلین بێرتراند",
-        "de": "Marcheline Bertrand",
-        "en": "Marcheline Bertrand",
-        "es": "Marcheline Bertrand",
-        "fa": "مارچلین برتراند",
-        "fr": "Marcheline Bertrand",
-        "hi": "मार्शलीन बर्ट्रेंड",
-        "hu": "Marcheline Bertrand",
-        "id": "Marcheline Bertrand",
-        "ja": "ミシェリーヌ・ベルトラン",
-        "ko": "마셸린 버트런드",
-        "la": "Marcellina Bertrand",
-        "ms": "Marcheline Bertrand",
-        "no": "Marcheline Bertrand",
-        "pl": "Marcheline Bertrand",
-        "pt": "Marcheline Bertrand",
-        "ru": "Бертран, Маршелин",
-        "simple": "Marcheline Bertrand",
-        "sv": "Marcheline Bertrand",
-        "tr": "Marcheline Bertrand",
-        "uk": "Маршелін Бертран",
-        "ur": "مارچلین برٹرینڈ",
-        "vo": "Marcheline Bertrand"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "BR",
-          "term": "vivienne marcheline jolie-pitt",
-          "volume": 200
-        }
-      ],
-      "newsUrls": [
-        "https://pagesix.com/2026/11/02/celebrity-news/angelina-jolie-and-brad-pitts-daughter-vivienne-delivers-final-blow-to-estranged-dad/",
-        "https://www.istitutoimpariamo.it/brad-pitt-and-angelina-jolies-daughter-vivienne-legally-drops-pitt-from-surname-inside-the-california-court-ruling/",
-        "https://www.aol.com/articles/brad-pitt-family-drama-takes-192104000.html"
-      ],
-      "spike": 2.3,
-      "score": 73,
-      "decision": "accept",
-      "reasons": [],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q40722",
       "name": "Dilma Rousseff",
       "description": "36th President of Brazil (2011-2016), 3rd President of the New Development Bank (BRICS)",
@@ -20078,86 +19956,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q55955918",
-      "name": "Deniz Undav",
-      "description": "German association football player",
-      "category": "athletes",
-      "occupations": [
-        "association football player"
-      ],
-      "birthYear": 1996,
-      "deathYear": null,
-      "sitelinks": 48,
-      "wikipedia": {
-        "af": "Deniz Undav",
-        "ar": "دنيز أونداف",
-        "arz": "دينيز ونداڤ",
-        "be_x_old": "Дэніз Ундаў",
-        "bn": "দেনিজ উন্দাভ",
-        "ca": "Deniz Undav",
-        "ckb": "دەنیز ئونداڤ",
-        "cs": "Deniz Undav",
-        "da": "Deniz Undav",
-        "de": "Deniz Undav",
-        "el": "Ντενίζ Ουντάβ",
-        "en": "Deniz Undav",
-        "eo": "Deniz Undav",
-        "es": "Deniz Undav",
-        "et": "Deniz Undav",
-        "fa": "دنیز اونداف",
-        "fi": "Deniz Undav",
-        "fr": "Deniz Undav",
-        "ha": "Deniz Undav",
-        "he": "דניז אונדף",
-        "hu": "Deniz Undav",
-        "hy": "Դենիզ Ունդավ",
-        "id": "Deniz Undav",
-        "ie": "Deniz Undav",
-        "it": "Deniz Undav",
-        "ja": "デニズ・ウンダフ",
-        "kk": "Дениз Ундав",
-        "ko": "데니스 운다브",
-        "ku": "Deniz Undav",
-        "lv": "Denizs Undavs",
-        "ms": "Deniz Undav",
-        "nl": "Deniz Undav",
-        "no": "Deniz Undav",
-        "pl": "Deniz Undav",
-        "pt": "Deniz Undav",
-        "ro": "Deniz Undav",
-        "ru": "Ундав, Дениз",
-        "sh": "Deniz Undav",
-        "sr": "Дениз Ундав",
-        "sv": "Deniz Undav",
-        "sw": "Deniz Undav",
-        "th": "เด็นนิส อุนดาฟ",
-        "tr": "Deniz Undav",
-        "uk": "Деніз Ундав",
-        "ur": "دینیز اونداف",
-        "uz": "Deniz Undav",
-        "vi": "Deniz Undav",
-        "zh": "德尼茲·溫達夫"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "DE",
-          "term": "vfb-news",
-          "volume": 200
-        }
-      ],
-      "newsUrls": [
-        "https://www.sportschau.de/regional/swr/swr-gegnercheck-der-vfb-stuttgart-im-hexenkessel-von-galatasaray-istanbul-100.html",
-        "https://www.kicker.de/viele-pfiffe-gegen-uns-mittelstaedt-freut-sich-auf-und-warnt-vor-der-galatasaray-kulisse-1267930/artikel",
-        "https://www.bild.de/sport/fussball/vfb-stuttgart-gegen-guendogan-und-sane-matchball-spiel-fuer-den-vfb-gegen-galatasaray-6ae87a05fa18ad14b908ea66"
-      ],
-      "spike": 1.1,
-      "score": 73,
-      "decision": "accept",
-      "reasons": [],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q116856375",
       "name": "Q116856375",
       "description": "Kenyan long-distance runner",
@@ -20223,6 +20021,128 @@
       "score": 73,
       "decision": "accept",
       "reasons": [],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q42311",
+      "name": "Sebastian Vettel",
+      "description": "German racing driver",
+      "category": null,
+      "occupations": [
+        "Formula One driver",
+        "racing automobile driver",
+        "motorsports competitor"
+      ],
+      "birthYear": 1987,
+      "deathYear": null,
+      "sitelinks": 89,
+      "wikipedia": {
+        "ace": "Sebastian Vettel",
+        "af": "Sebastian Vettel",
+        "an": "Sebastian Vettel",
+        "ar": "سباستيان فيتل",
+        "arz": "سباستيان فيتل",
+        "ast": "Sebastian Vettel",
+        "az": "Sebastyan Fettel",
+        "bar": "Sebastian Vettel",
+        "be_x_old": "Сэбастыян Фэтэль",
+        "be": "Себасцьян Фетэль",
+        "bg": "Себастиан Фетел",
+        "bn": "সেবাস্তিয়ান ভেটেল",
+        "br": "Sebastian Vettel",
+        "bs": "Sebastian Vettel",
+        "ca": "Sebastian Vettel",
+        "cs": "Sebastian Vettel",
+        "cy": "Sebastian Vettel",
+        "da": "Sebastian Vettel",
+        "de": "Sebastian Vettel",
+        "el": "Σεμπάστιαν Φέτελ",
+        "eml": "Sebastian Vettel",
+        "en": "Sebastian Vettel",
+        "eo": "Sebastian Vettel",
+        "es": "Sebastian Vettel",
+        "et": "Sebastian Vettel",
+        "eu": "Sebastian Vettel",
+        "fa": "سباستین فتل",
+        "fi": "Sebastian Vettel",
+        "fr": "Sebastian Vettel",
+        "fy": "Sebastian Vettel",
+        "ga": "Sebastian Vettel",
+        "gl": "Sebastian Vettel",
+        "he": "סבסטיאן פטל",
+        "hi": "सेबस्तियन वेट्टल",
+        "hr": "Sebastian Vettel",
+        "ht": "Sebastian Vettel",
+        "hu": "Sebastian Vettel",
+        "id": "Sebastian Vettel",
+        "ie": "Sebastian Vettel",
+        "io": "Sebastian Vettel",
+        "is": "Sebastian Vettel",
+        "it": "Sebastian Vettel",
+        "ja": "セバスチャン・ベッテル",
+        "jv": "Sebastian Vettel",
+        "ka": "სებასტიან ფეტელი",
+        "kn": "ಸೆಬಾಸ್ಟಿಯನ್ ವೆಟ್ಟೆಲ್",
+        "ko": "제바스티안 페텔",
+        "ksh": "Sebastian Vettel",
+        "la": "Sebastianus Vettel",
+        "lb": "Sebastian Vettel",
+        "lmo": "Sebastian Vettel",
+        "lt": "Sebastian Vettel",
+        "lv": "Sebastiāns Fetels",
+        "map_bms": "Sebastian Vettel",
+        "mk": "Себастијан Фетел",
+        "ml": "സെബാസ്റ്റ്യൻ വെറ്റൽ",
+        "mn": "Себастиан Феттел",
+        "mr": "सेबास्टियान फेटेल",
+        "ms": "Sebastian Vettel",
+        "mzn": "سباستین فتل",
+        "nl": "Sebastian Vettel",
+        "no": "Sebastian Vettel",
+        "oc": "Sebastian Vettel",
+        "pl": "Sebastian Vettel",
+        "pt": "Sebastian Vettel",
+        "ro": "Sebastian Vettel",
+        "ru": "Феттель, Себастьян",
+        "scn": "Sebastian Vettel",
+        "sco": "Sebastian Vettel",
+        "sh": "Sebastian Vettel",
+        "simple": "Sebastian Vettel",
+        "sk": "Sebastian Vettel",
+        "sl": "Sebastian Vettel",
+        "sq": "Sebastian Vettel",
+        "sr": "Себастијан Фетел",
+        "su": "Sebastian Vettel",
+        "sv": "Sebastian Vettel",
+        "ta": "செபாஸ்டியன் வெட்டல்",
+        "th": "เซบัสทีอัน เฟ็ทเทิล",
+        "tl": "Sebastian Vettel",
+        "tr": "Sebastian Vettel",
+        "uk": "Себастьян Феттель",
+        "ur": "سبیسٹین ویٹل",
+        "vec": "Sebastian Vettel",
+        "vi": "Sebastian Vettel",
+        "wuu": "塞巴斯蒂安·维特尔",
+        "yi": "סעבאסטיאן פעטל",
+        "zh_yue": "施巴斯坦維度爾",
+        "zh": "塞巴斯蒂安·維泰爾"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "de",
+          "term": "Sebastian Vettel",
+          "volume": 5334
+        }
+      ],
+      "newsUrls": [],
+      "spike": 0.7,
+      "score": 73,
+      "decision": "reject",
+      "reasons": [
+        "no matching site category",
+        "pageview spike 0.7x is below 2x"
+      ],
       "onSite": false
     },
     {
@@ -20541,6 +20461,91 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q44340",
+      "name": "Uli Hoeneß",
+      "description": "German football executive (born 1952)",
+      "category": "athletes",
+      "occupations": [
+        "association football player",
+        "manager",
+        "entrepreneur",
+        "functionary",
+        "chairman of the supervisory board",
+        "chairperson of the executive board"
+      ],
+      "birthYear": 1952,
+      "deathYear": null,
+      "sitelinks": 48,
+      "wikipedia": {
+        "als": "Uli Hoeneß",
+        "ar": "أولي هونيس",
+        "arz": "اولى هونيس",
+        "azb": "اولی هوینس",
+        "bar": "Uli Hoeneß",
+        "be": "Улі Хёнес",
+        "bg": "Ули Хьонес",
+        "ca": "Uli Hoeneß",
+        "cs": "Uli Hoeneß",
+        "da": "Uli Hoeneß",
+        "de": "Uli Hoeneß",
+        "el": "Ούλι Χένες",
+        "en": "Uli Hoeneß",
+        "es": "Uli Hoeneß",
+        "fa": "اولی هونس",
+        "fi": "Uli Hoeneß",
+        "fr": "Uli Hoeness",
+        "he": "אולי הנס",
+        "hr": "Uli Hoeneß",
+        "hu": "Uli Hoeneß",
+        "hy": "Ուլի Հյոնես",
+        "id": "Uli Hoeneß",
+        "is": "Uli Hoeneß",
+        "it": "Uli Hoeneß",
+        "ja": "ウリ・ヘーネス",
+        "kk": "Ули Хенесс",
+        "ko": "울리 회네스",
+        "lv": "Uli Hēness",
+        "mg": "Uli Hoeneß",
+        "mk": "Ули Хенес",
+        "nl": "Uli Hoeneß",
+        "nn": "Uli Hoeneß",
+        "no": "Uli Hoeneß",
+        "pl": "Uli Hoeneß",
+        "pt": "Uli Hoeneß",
+        "qu": "Uli Hoeneß",
+        "ro": "Uli Hoeneß",
+        "ru": "Хёнесс, Ули",
+        "sco": "Uli Hoeneß",
+        "simple": "Uli Hoeneß",
+        "sq": "Uli Hoeneß",
+        "sr": "Ули Хенес",
+        "sv": "Uli Hoeness",
+        "sw": "Uli Hoeneß",
+        "tr": "Uli Hoeneß",
+        "uk": "Улі Генесс",
+        "vi": "Uli Hoeneß",
+        "zh": "乌利·赫内斯"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "DE",
+          "term": "uli hoeneß",
+          "volume": 200
+        }
+      ],
+      "newsUrls": [
+        "https://www.merkur.de/lokales/region-tegernsee/bad-wiessee-ort95312/nachbarin-klagt-weiter-uli-hoeness-ist-fassungslos-ueber-neue-klage-94570740.html",
+        "https://www.ovb-heimatzeitungen.de/bayern/2026/11/02/der-baumstreit-geht-weiter.ovb",
+        "https://www.bild.de/sport/fussball/nachgehakt-von-alfred-draxler-was-hat-karl-denn-gemacht-6ae864477c6a13952d3adf95"
+      ],
+      "spike": 0.7,
+      "score": 72,
+      "decision": "accept",
+      "reasons": [],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q5829",
       "name": "Q5829",
       "description": "French left-wing populist politician (born 1951)",
@@ -20789,6 +20794,115 @@
       "reasons": [
         "sensitive manner of death",
         "no matching site category"
+      ],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q162753",
+      "name": "Sophie Marceau",
+      "description": "French actress",
+      "category": "artists",
+      "occupations": [
+        "actor",
+        "singer",
+        "screenwriter",
+        "writer",
+        "stage actor",
+        "film actor",
+        "film director",
+        "author"
+      ],
+      "birthYear": 1966,
+      "deathYear": null,
+      "sitelinks": 72,
+      "wikipedia": {
+        "af": "Sophie Marceau",
+        "ar": "صوفي مارسو",
+        "arz": "صوفى مارسو",
+        "az": "Sofi Marso",
+        "be_x_old": "Сафі Марсо",
+        "be": "Сафі Марсо",
+        "bg": "Софи Марсо",
+        "br": "Sophie Marceau",
+        "ca": "Sophie Marceau",
+        "cs": "Sophie Marceau",
+        "cv": "Софи Марсо",
+        "da": "Sophie Marceau",
+        "de": "Sophie Marceau",
+        "el": "Σοφί Μαρσό",
+        "en": "Sophie Marceau",
+        "eo": "Sophie Marceau",
+        "es": "Sophie Marceau",
+        "et": "Sophie Marceau",
+        "eu": "Sophie Marceau",
+        "fa": "سوفی مارسو",
+        "fi": "Sophie Marceau",
+        "fr": "Sophie Marceau",
+        "gl": "Sophie Marceau",
+        "he": "סופי מרסו",
+        "hr": "Sophie Marceau",
+        "ht": "Sophie Marceau",
+        "hu": "Sophie Marceau",
+        "hy": "Սոֆի Մարսո",
+        "id": "Sophie Marceau",
+        "ie": "Sophie Marceau",
+        "it": "Sophie Marceau",
+        "ja": "ソフィー・マルソー",
+        "ka": "სოფი მარსო",
+        "kg": "Sophie Marceau",
+        "ko": "소피 마르소",
+        "kw": "Sophie Marceau",
+        "la": "Sophia Marceau",
+        "lb": "Sophie Marceau",
+        "lt": "Sophie Marceau",
+        "lv": "Sofija Marso",
+        "mg": "Sophie Marceau",
+        "mk": "Софи Марсо",
+        "mr": "सोफी मार्सू",
+        "ms": "Sophie Marceau",
+        "nl": "Sophie Marceau",
+        "no": "Sophie Marceau",
+        "pl": "Sophie Marceau",
+        "pnb": "سوفی مارسو",
+        "pt": "Sophie Marceau",
+        "ro": "Sophie Marceau",
+        "ru": "Марсо, Софи",
+        "sco": "Sophie Marceau",
+        "sh": "Sophie Marceau",
+        "simple": "Sophie Marceau",
+        "sk": "Sophie Marceau",
+        "sr": "Софи Марсо",
+        "sv": "Sophie Marceau",
+        "sw": "Sophie Marceau",
+        "tg": "Софӣ Марсо",
+        "th": "โซฟี มาร์โซ",
+        "tr": "Sophie Marceau",
+        "tt": "Софи Марсо",
+        "uk": "Софі Марсо",
+        "ur": "سوفی مارسو",
+        "vec": "Sophie Marceau",
+        "vi": "Sophie Marceau",
+        "vo": "Sophie Marceau",
+        "wuu": "苏菲·玛索",
+        "xmf": "სოფი მარსო",
+        "zh_min_nan": "Sophie Marceau",
+        "zh_yue": "蘇菲瑪素",
+        "zh": "苏菲·玛索"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "fr",
+          "term": "Sophie Marceau",
+          "volume": 4965
+        }
+      ],
+      "newsUrls": [],
+      "spike": 0.9,
+      "score": 72,
+      "decision": "reject",
+      "reasons": [
+        "pageview spike 0.9x is below 2x"
       ],
       "onSite": false
     },
@@ -21191,244 +21305,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q42311",
-      "name": "Sebastian Vettel",
-      "description": "German racing driver",
-      "category": null,
-      "occupations": [
-        "Formula One driver",
-        "racing automobile driver",
-        "motorsports competitor"
-      ],
-      "birthYear": 1987,
-      "deathYear": null,
-      "sitelinks": 89,
-      "wikipedia": {
-        "ace": "Sebastian Vettel",
-        "af": "Sebastian Vettel",
-        "an": "Sebastian Vettel",
-        "ar": "سباستيان فيتل",
-        "arz": "سباستيان فيتل",
-        "ast": "Sebastian Vettel",
-        "az": "Sebastyan Fettel",
-        "bar": "Sebastian Vettel",
-        "be_x_old": "Сэбастыян Фэтэль",
-        "be": "Себасцьян Фетэль",
-        "bg": "Себастиан Фетел",
-        "bn": "সেবাস্তিয়ান ভেটেল",
-        "br": "Sebastian Vettel",
-        "bs": "Sebastian Vettel",
-        "ca": "Sebastian Vettel",
-        "cs": "Sebastian Vettel",
-        "cy": "Sebastian Vettel",
-        "da": "Sebastian Vettel",
-        "de": "Sebastian Vettel",
-        "el": "Σεμπάστιαν Φέτελ",
-        "eml": "Sebastian Vettel",
-        "en": "Sebastian Vettel",
-        "eo": "Sebastian Vettel",
-        "es": "Sebastian Vettel",
-        "et": "Sebastian Vettel",
-        "eu": "Sebastian Vettel",
-        "fa": "سباستین فتل",
-        "fi": "Sebastian Vettel",
-        "fr": "Sebastian Vettel",
-        "fy": "Sebastian Vettel",
-        "ga": "Sebastian Vettel",
-        "gl": "Sebastian Vettel",
-        "he": "סבסטיאן פטל",
-        "hi": "सेबस्तियन वेट्टल",
-        "hr": "Sebastian Vettel",
-        "ht": "Sebastian Vettel",
-        "hu": "Sebastian Vettel",
-        "id": "Sebastian Vettel",
-        "ie": "Sebastian Vettel",
-        "io": "Sebastian Vettel",
-        "is": "Sebastian Vettel",
-        "it": "Sebastian Vettel",
-        "ja": "セバスチャン・ベッテル",
-        "jv": "Sebastian Vettel",
-        "ka": "სებასტიან ფეტელი",
-        "kn": "ಸೆಬಾಸ್ಟಿಯನ್ ವೆಟ್ಟೆಲ್",
-        "ko": "제바스티안 페텔",
-        "ksh": "Sebastian Vettel",
-        "la": "Sebastianus Vettel",
-        "lb": "Sebastian Vettel",
-        "lmo": "Sebastian Vettel",
-        "lt": "Sebastian Vettel",
-        "lv": "Sebastiāns Fetels",
-        "map_bms": "Sebastian Vettel",
-        "mk": "Себастијан Фетел",
-        "ml": "സെബാസ്റ്റ്യൻ വെറ്റൽ",
-        "mn": "Себастиан Феттел",
-        "mr": "सेबास्टियान फेटेल",
-        "ms": "Sebastian Vettel",
-        "mzn": "سباستین فتل",
-        "nl": "Sebastian Vettel",
-        "no": "Sebastian Vettel",
-        "oc": "Sebastian Vettel",
-        "pl": "Sebastian Vettel",
-        "pt": "Sebastian Vettel",
-        "ro": "Sebastian Vettel",
-        "ru": "Феттель, Себастьян",
-        "scn": "Sebastian Vettel",
-        "sco": "Sebastian Vettel",
-        "sh": "Sebastian Vettel",
-        "simple": "Sebastian Vettel",
-        "sk": "Sebastian Vettel",
-        "sl": "Sebastian Vettel",
-        "sq": "Sebastian Vettel",
-        "sr": "Себастијан Фетел",
-        "su": "Sebastian Vettel",
-        "sv": "Sebastian Vettel",
-        "ta": "செபாஸ்டியன் வெட்டல்",
-        "th": "เซบัสทีอัน เฟ็ทเทิล",
-        "tl": "Sebastian Vettel",
-        "tr": "Sebastian Vettel",
-        "uk": "Себастьян Феттель",
-        "ur": "سبیسٹین ویٹل",
-        "vec": "Sebastian Vettel",
-        "vi": "Sebastian Vettel",
-        "wuu": "塞巴斯蒂安·维特尔",
-        "yi": "סעבאסטיאן פעטל",
-        "zh_yue": "施巴斯坦維度爾",
-        "zh": "塞巴斯蒂安·維泰爾"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "de",
-          "term": "Sebastian Vettel",
-          "volume": 5334
-        }
-      ],
-      "newsUrls": [],
-      "spike": 0,
-      "score": 71,
-      "decision": "reject",
-      "reasons": [
-        "no matching site category",
-        "pageview spike 0.0x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q43715",
-      "name": "Vlad the Impaler",
-      "description": "15th-century ruler of Wallachia",
-      "category": null,
-      "occupations": [
-        "ruler"
-      ],
-      "birthYear": 1431,
-      "deathYear": 1476,
-      "sitelinks": 84,
-      "wikipedia": {
-        "af": "Vlad Dracula",
-        "ar": "فلاد الثالث المخوزق",
-        "arz": "ڤلاد التالت",
-        "ast": "Vlad Țepeș",
-        "azb": "اۆچونجو ولاد",
-        "az": "III Vlad Tsepeş",
-        "bar": "Vlad Tsepesch",
-        "be_x_old": "Улад III Цэпэш",
-        "be": "Улад III Цэпеш",
-        "bg": "Влад Цепеш",
-        "br": "Vlad III",
-        "bs": "Vlad III Tepeš",
-        "ca": "Vlad Țepeș",
-        "ckb": "ڤلادی سکھەڵدڕ",
-        "cs": "Vlad III. Dracula",
-        "da": "Vlad Dracula",
-        "de": "Vlad III.",
-        "diq": "Vlad III",
-        "el": "Βλαντ Γ΄ Τσέπες",
-        "en": "Vlad the Impaler",
-        "eo": "Vlad la 3-a Drakulo",
-        "es": "Vlad el Empalador",
-        "et": "Vlad Dracula",
-        "eu": "Vlad Drakula",
-        "fa": "ولاد سوم",
-        "fi": "Vlad III",
-        "fr": "Vlad III l'Empaleur",
-        "fy": "Vlad de Speetser",
-        "gd": "Vlad Țepeș",
-        "gl": "Vlad Țepeș",
-        "he": "ולאד המשפד",
-        "hi": "विलाद तृतीय ड्रैकुला",
-        "hr": "Vlad III. Drakula",
-        "hu": "III. Vlad havasalföldi fejedelem",
-        "hy": "Վլադ Դրակուլա",
-        "ia": "Vlad III de Walachia",
-        "id": "Vlad Ţepeş",
-        "is": "Vlad Drakúla",
-        "it": "Vlad III di Valacchia",
-        "ja": "ヴラド・ツェペシュ",
-        "jv": "Vlad Ţepeş",
-        "ka": "ვლად III ცეპეში",
-        "ko": "블라드 3세 체페슈",
-        "la": "Vladislaus III Dracula",
-        "lmo": "Vlad III de Valacchia",
-        "lt": "Vladas Drakula",
-        "lv": "Vlads III Drakuls",
-        "mg": "Vlad the Impaler",
-        "mk": "Влад Цепеш",
-        "ml": "വ്ലാദ് മൂന്നാമൻ",
-        "ms": "Vlad Si Penyula",
-        "nl": "Vlad Dracula",
-        "nn": "Vlad III Dracula",
-        "no": "Vlad Țepeș",
-        "oc": "Vlad III Tepes",
-        "pl": "Wład Palownik",
-        "pnb": "ولاد سوم",
-        "ps": "دریم ولاډ (ډراکول)",
-        "pt": "Vlad, o Empalador",
-        "ro": "Vlad Țepeș",
-        "ru": "Влад III Цепеш",
-        "sco": "Vlad the Impaler",
-        "sh": "Vlad Țepeș",
-        "simple": "Vlad the Impaler",
-        "sk": "Vlad III.",
-        "sl": "Vlad III. Drakula",
-        "so": "Daraakoola",
-        "sq": "Vlad Sunduesi",
-        "sr": "Влад III Цепеш",
-        "su": "Vlad Drakula",
-        "sv": "Vlad III Dracula",
-        "szl": "Vlad Ţepeş",
-        "th": "วลาดที่ 3 นักเสียบ",
-        "tr": "III. Vlad",
-        "tt": "Влад III Дракула",
-        "uk": "Влад III Дракула",
-        "uz": "Vlad III Impaler",
-        "vi": "Vlad III Ţepeş",
-        "war": "Vlad III Ţepeş",
-        "wuu": "弗拉德三世",
-        "xmf": "ვლად III ცეპეში",
-        "yi": "וולאד דער דורכשטעכער",
-        "zh_yue": "弗拉德三世",
-        "zh": "弗拉德三世"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "de",
-          "term": "Vlad III.",
-          "volume": 5189
-        }
-      ],
-      "newsUrls": [],
-      "spike": 0,
-      "score": 71,
-      "decision": "reject",
-      "reasons": [
-        "sensitive manner of death",
-        "no matching site category",
-        "pageview spike 0.0x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q236167",
       "name": "Kelly Reilly",
       "description": "British actress",
@@ -21655,64 +21531,6 @@
         "recent death, write with care",
         "pageview spike 0.5x is below 2x"
       ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q1149781",
-      "name": "Russell Wilson",
-      "description": "American football player (born 1988)",
-      "category": "athletes",
-      "occupations": [
-        "American football player",
-        "baseball player"
-      ],
-      "birthYear": 1988,
-      "deathYear": null,
-      "sitelinks": 25,
-      "wikipedia": {
-        "ar": "راسيل ويلسون",
-        "arz": "راسيل ويلسون",
-        "da": "Russell Wilson",
-        "de": "Russell Wilson",
-        "en": "Russell Wilson",
-        "es": "Russell Wilson",
-        "fi": "Russell Wilson",
-        "fr": "Russell Wilson",
-        "gl": "Russell Wilson",
-        "he": "ראסל וילסון",
-        "hu": "Russell Wilson",
-        "it": "Russell Wilson",
-        "ja": "ラッセル・ウィルソン",
-        "ko": "러셀 윌슨",
-        "nl": "Russell Wilson",
-        "no": "Russell Wilson",
-        "pt": "Russell Wilson",
-        "ru": "Уилсон, Расселл",
-        "simple": "Russell Wilson",
-        "sr": "Расел Вилсон",
-        "sv": "Russell Wilson",
-        "tr": "Russell Wilson",
-        "uk": "Рассел Вілсон",
-        "ur": "رسل ولسن",
-        "zh": "罗素·威尔逊"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "MX",
-          "term": "bears vs seahawks",
-          "volume": 100
-        }
-      ],
-      "newsUrls": [
-        "https://bolavip.com/en/nfl/starting-and-backup-qbs-on-seahawks-vs-bears-depth-charts-today-for-2026-nfl-week-8-mnf",
-        "https://www.si.com/betting-promo/fanatics-sportsbook-promo-code-sibonus350-claim-350-in-fancash-for-chicago-vs-seattle-monday-night-football-01m6ecgz5y0h",
-        "https://www.vavel.com/en-us/nfl/2026/11/02/1277706-chicago-bears-vs-seattle-seahawks-live-score-nfl.html"
-      ],
-      "spike": 2.3,
-      "score": 70,
-      "decision": "accept",
-      "reasons": [],
       "onSite": false
     },
     {
@@ -21967,6 +21785,72 @@
       "onSite": true
     },
     {
+      "wikidataId": "Q18162913",
+      "name": "Callum Turner",
+      "description": "English actor",
+      "category": "artists",
+      "occupations": [
+        "actor",
+        "film director",
+        "television actor",
+        "model"
+      ],
+      "birthYear": 1990,
+      "deathYear": null,
+      "sitelinks": 31,
+      "wikipedia": {
+        "af": "Callum Turner",
+        "ar": "كالوم تورنر",
+        "arz": "كالوم تورنر",
+        "ca": "Callum Turner",
+        "cs": "Callum Turner",
+        "de": "Callum Turner",
+        "en": "Callum Turner",
+        "es": "Callum Turner",
+        "fa": "کلوم ترنر",
+        "fr": "Callum Turner",
+        "he": "קאלום טרנר",
+        "hu": "Callum Turner",
+        "id": "Callum Turner",
+        "it": "Callum Turner",
+        "ja": "カラム・ターナー",
+        "ka": "კალუმ ტერნერი",
+        "ko": "캘럼 터너",
+        "nl": "Callum Turner",
+        "no": "Callum Turner",
+        "pl": "Callum Turner",
+        "pt": "Callum Turner",
+        "ru": "Тёрнер, Каллум",
+        "simple": "Callum Turner",
+        "sr": "Калум Тарнер",
+        "sv": "Callum Turner",
+        "th": "แคลลัม เทอร์เนอร์",
+        "tr": "Callum Turner",
+        "uk": "Каллум Тернер",
+        "ur": "کالم ٹرنر",
+        "uz": "Callum Turner",
+        "zh": "卡倫·透納"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "PT",
+          "term": "callum turner",
+          "volume": 100
+        }
+      ],
+      "newsUrls": [
+        "https://www.gq-magazine.co.uk/article/going-incognito-with-jack-lowden",
+        "https://www.showbiz411.com/2026/11/02/exclusive-callum-turner-as-james-bond-rumor-mill-churns-our-take-combined-with-dua-lipa-singing-theme-song-its-a-deal",
+        "https://www.thesun.co.uk/tv/40871232/james-bond-front-runner-quits-film-company/"
+      ],
+      "spike": 1.6,
+      "score": 70,
+      "decision": "accept",
+      "reasons": [],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q156844",
       "name": "Getúlio Vargas",
       "description": "President of Brazil (1930–1945; 1951–1954)",
@@ -22134,76 +22018,6 @@
       "decision": "accept",
       "reasons": [],
       "onSite": true
-    },
-    {
-      "wikidataId": "Q5944264",
-      "name": "Hunter Biden",
-      "description": "American businessman and lobbyist (born 1970)",
-      "category": "business",
-      "occupations": [
-        "lawyer",
-        "businessperson"
-      ],
-      "birthYear": 1970,
-      "deathYear": null,
-      "sitelinks": 37,
-      "wikipedia": {
-        "ar": "هنتر بايدن",
-        "arz": "هنتر بايدن",
-        "azb": "هانتر بایدن",
-        "ca": "Hunter Biden",
-        "ckb": "ھانتەر بایدن",
-        "cs": "Hunter Biden",
-        "de": "Hunter Biden",
-        "en": "Hunter Biden",
-        "es": "Hunter Biden",
-        "et": "Hunter Biden",
-        "fa": "هانتر بایدن",
-        "fi": "Hunter Biden",
-        "fr": "Hunter Biden",
-        "ga": "Hunter Biden",
-        "he": "האנטר ביידן",
-        "hy": "Հանթեր Բայդեն",
-        "ia": "Hunter Biden",
-        "id": "Hunter Biden",
-        "it": "Hunter Biden",
-        "ja": "ハンター・バイデン",
-        "ko": "헌터 바이든",
-        "lv": "Hanters Baidens",
-        "ms": "Hunter Biden",
-        "nl": "Hunter Biden",
-        "no": "Hunter Biden",
-        "pt": "Hunter Biden",
-        "ru": "Байден, Хантер",
-        "simple": "Hunter Biden",
-        "sr": "Хантер Бајден",
-        "sv": "Hunter Biden",
-        "sw": "Hunter Biden",
-        "tr": "Hunter Biden",
-        "uk": "Гантер Байден",
-        "vi": "Hunter Biden",
-        "zh_min_nan": "Hunter Biden",
-        "zh_yue": "亨特·拜登",
-        "zh": "亨特·拜登"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "GB",
-          "term": "hunter biden",
-          "volume": 200
-        }
-      ],
-      "newsUrls": [
-        "https://www.theguardian.com/us-news/2026/nov/02/judge-tosses-case-fbi-hunter-biden",
-        "https://www.nytimes.com/2026/11/02/us/politics/judge-fbi-agents-charges-midterms.html",
-        "https://www.reuters.com/world/us-judge-tosses-case-against-ex-fbi-officials-accused-lying-about-hunter-biden-2026-11-02/"
-      ],
-      "spike": 0.6,
-      "score": 69,
-      "decision": "accept",
-      "reasons": [],
-      "onSite": false
     },
     {
       "wikidataId": "Q324546",
@@ -22695,115 +22509,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q162753",
-      "name": "Sophie Marceau",
-      "description": "French actress",
-      "category": "artists",
-      "occupations": [
-        "actor",
-        "singer",
-        "screenwriter",
-        "writer",
-        "stage actor",
-        "film actor",
-        "film director",
-        "author"
-      ],
-      "birthYear": 1966,
-      "deathYear": null,
-      "sitelinks": 72,
-      "wikipedia": {
-        "af": "Sophie Marceau",
-        "ar": "صوفي مارسو",
-        "arz": "صوفى مارسو",
-        "az": "Sofi Marso",
-        "be_x_old": "Сафі Марсо",
-        "be": "Сафі Марсо",
-        "bg": "Софи Марсо",
-        "br": "Sophie Marceau",
-        "ca": "Sophie Marceau",
-        "cs": "Sophie Marceau",
-        "cv": "Софи Марсо",
-        "da": "Sophie Marceau",
-        "de": "Sophie Marceau",
-        "el": "Σοφί Μαρσό",
-        "en": "Sophie Marceau",
-        "eo": "Sophie Marceau",
-        "es": "Sophie Marceau",
-        "et": "Sophie Marceau",
-        "eu": "Sophie Marceau",
-        "fa": "سوفی مارسو",
-        "fi": "Sophie Marceau",
-        "fr": "Sophie Marceau",
-        "gl": "Sophie Marceau",
-        "he": "סופי מרסו",
-        "hr": "Sophie Marceau",
-        "ht": "Sophie Marceau",
-        "hu": "Sophie Marceau",
-        "hy": "Սոֆի Մարսո",
-        "id": "Sophie Marceau",
-        "ie": "Sophie Marceau",
-        "it": "Sophie Marceau",
-        "ja": "ソフィー・マルソー",
-        "ka": "სოფი მარსო",
-        "kg": "Sophie Marceau",
-        "ko": "소피 마르소",
-        "kw": "Sophie Marceau",
-        "la": "Sophia Marceau",
-        "lb": "Sophie Marceau",
-        "lt": "Sophie Marceau",
-        "lv": "Sofija Marso",
-        "mg": "Sophie Marceau",
-        "mk": "Софи Марсо",
-        "mr": "सोफी मार्सू",
-        "ms": "Sophie Marceau",
-        "nl": "Sophie Marceau",
-        "no": "Sophie Marceau",
-        "pl": "Sophie Marceau",
-        "pnb": "سوفی مارسو",
-        "pt": "Sophie Marceau",
-        "ro": "Sophie Marceau",
-        "ru": "Марсо, Софи",
-        "sco": "Sophie Marceau",
-        "sh": "Sophie Marceau",
-        "simple": "Sophie Marceau",
-        "sk": "Sophie Marceau",
-        "sr": "Софи Марсо",
-        "sv": "Sophie Marceau",
-        "sw": "Sophie Marceau",
-        "tg": "Софӣ Марсо",
-        "th": "โซฟี มาร์โซ",
-        "tr": "Sophie Marceau",
-        "tt": "Софи Марсо",
-        "uk": "Софі Марсо",
-        "ur": "سوفی مارسو",
-        "vec": "Sophie Marceau",
-        "vi": "Sophie Marceau",
-        "vo": "Sophie Marceau",
-        "wuu": "苏菲·玛索",
-        "xmf": "სოფი მარსო",
-        "zh_min_nan": "Sophie Marceau",
-        "zh_yue": "蘇菲瑪素",
-        "zh": "苏菲·玛索"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "fr",
-          "term": "Sophie Marceau",
-          "volume": 4965
-        }
-      ],
-      "newsUrls": [],
-      "spike": 0,
-      "score": 69,
-      "decision": "reject",
-      "reasons": [
-        "pageview spike 0.0x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q16207915",
       "name": "Nathan Fielder",
       "description": "Canadian writer and comedian",
@@ -22856,6 +22561,67 @@
       "decision": "reject",
       "reasons": [
         "pageview spike 0.9x is below 2x"
+      ],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q561205",
+      "name": "Raphael",
+      "description": "Spanish recording artist; singer and actor",
+      "category": "artists",
+      "occupations": [
+        "actor",
+        "singer",
+        "musician"
+      ],
+      "birthYear": 1943,
+      "deathYear": null,
+      "sitelinks": 29,
+      "wikipedia": {
+        "ar": "رافائيل (ممثل)",
+        "arz": "رافائيل (مغنى)",
+        "azb": "رافائل (شارکیچی)",
+        "az": "Rafael Martos Sançes",
+        "br": "Raphael (kaner)",
+        "ca": "Raphael",
+        "de": "Raphael (Sänger)",
+        "el": "Ραφαέλ (τραγουδιστής)",
+        "en": "Raphael (singer)",
+        "eo": "Raphael",
+        "es": "Raphael (cantante)",
+        "et": "Raphael (laulja)",
+        "eu": "Raphael",
+        "ext": "Raphael",
+        "fa": "رافائل (خواننده)",
+        "fi": "Raphael (laulaja)",
+        "fr": "Raphael (chanteur espagnol)",
+        "gl": "Raphael",
+        "hu": "Raphael",
+        "it": "Raphael (cantante spagnolo)",
+        "lt": "Raphael (dainininkas)",
+        "mzn": "رافائل (خونش‌کر)",
+        "nl": "Raphael Martos Sánchez",
+        "pt": "Raphael (cantor)",
+        "qu": "Raphael",
+        "ru": "Рафаэль (испанский певец)",
+        "simple": "Raphael (singer)",
+        "tr": "Raphael (şarkıcı)",
+        "uk": "Рафаель (співак)"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "es",
+          "term": "Raphael (cantante)",
+          "volume": 7315
+        }
+      ],
+      "newsUrls": [],
+      "spike": 1.3,
+      "score": 68,
+      "decision": "reject",
+      "reasons": [
+        "pageview spike 1.3x is below 2x"
       ],
       "onSite": false
     },
@@ -23010,6 +22776,58 @@
         "pageview spike 0.5x is below 2x"
       ],
       "onSite": false
+    },
+    {
+      "wikidataId": "Q35694605",
+      "name": "Carlos Vinícius",
+      "description": "Brazilian association football player",
+      "category": "athletes",
+      "occupations": [
+        "association football player"
+      ],
+      "birthYear": 1995,
+      "deathYear": null,
+      "sitelinks": 24,
+      "wikipedia": {
+        "ar": "كارلوس فينيسيوس",
+        "arz": "كارلوس ڤينيسيوس",
+        "cs": "Carlos Vinícius",
+        "de": "Carlos Vinícius",
+        "en": "Carlos Vinícius",
+        "es": "Carlos Vinícius",
+        "et": "Carlos Vinícius",
+        "fa": "کارلوس وینیسیوس",
+        "fr": "Carlos Vinícius",
+        "it": "Carlos Vinícius",
+        "ja": "カルロス・ヴィニシウス",
+        "ko": "카를루스 비니시우스",
+        "nl": "Carlos Vinícius",
+        "no": "Carlos Vinícius",
+        "pl": "Carlos Vinícius",
+        "pt": "Carlos Vinícius",
+        "ru": "Карлос Винисиус",
+        "sv": "Carlos Vinícius",
+        "th": "การ์ลุส วีนีซียุส",
+        "tr": "Carlos Vinícius",
+        "uk": "Карлос Вінісіус",
+        "uz": "Carlos Vinícius",
+        "vi": "Carlos Vinícius",
+        "zh": "卡路士·雲尼斯奧斯"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "pt",
+          "term": "Carlos Vinícius",
+          "volume": 2253
+        }
+      ],
+      "newsUrls": [],
+      "spike": 2.6,
+      "score": 68,
+      "decision": "accept",
+      "reasons": [],
+      "onSite": true
     },
     {
       "wikidataId": "Q123693068",
@@ -23253,6 +23071,54 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q112687854",
+      "name": "Jaylin Williams",
+      "description": "American basketball player (born 2002)",
+      "category": "athletes",
+      "occupations": [
+        "basketball player"
+      ],
+      "birthYear": 2002,
+      "deathYear": null,
+      "sitelinks": 16,
+      "wikipedia": {
+        "en": "Jaylin Williams (basketball, born 2002)",
+        "es": "Jaylin Williams",
+        "fr": "Jaylin Williams",
+        "he": "ג'יילין ויליאמס",
+        "hu": "Jaylin Williams",
+        "id": "Jaylin Williams (pemain bola basket)",
+        "it": "Jaylin Williams",
+        "ja": "ジェイリン・ウィリアムズ",
+        "lt": "Jaylin Williams",
+        "nl": "Jaylin Williams",
+        "pl": "Jaylin Williams",
+        "pt": "Jaylin Williams",
+        "ru": "Уильямс, Джейлин (баскетболист, 2002)",
+        "sv": "Jaylin Williams",
+        "vo": "Jaylin Williams (bäsetaglöpädan, 2002)",
+        "zh": "傑林·威廉斯"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "BR",
+          "term": "jaylin williams",
+          "volume": 200
+        }
+      ],
+      "newsUrls": [
+        "https://www.cbssports.com/fantasy/basketball/news/thunders-jared-mccain-shifting-to-bench-monday/",
+        "https://www.rotowire.com/basketball/headlines/jaylin-williams-news-starting-monday-537249",
+        "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-02/okc-starts-sga-ajay-kenrich-jaylin-hartenstein"
+      ],
+      "spike": 1.7,
+      "score": 67,
+      "decision": "accept",
+      "reasons": [],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q236503",
       "name": "Fernando Collor",
       "description": "President of Brazil from 1990 to 1992",
@@ -23333,6 +23199,89 @@
       "decision": "reject",
       "reasons": [
         "pageview spike 0.5x is below 2x"
+      ],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q244997",
+      "name": "José Sarney",
+      "description": "President of Brazil from 1985 to 1990",
+      "category": "artists",
+      "occupations": [
+        "lawyer",
+        "journalist",
+        "politician",
+        "writer",
+        "poet",
+        "novelist"
+      ],
+      "birthYear": 1930,
+      "deathYear": null,
+      "sitelinks": 48,
+      "wikipedia": {
+        "af": "José Sarney",
+        "ar": "جوسيه سارني",
+        "arz": "جوسيه سارنى",
+        "ast": "José Sarney",
+        "be": "Жазэ Сарней",
+        "bg": "Жузе Сарней",
+        "ca": "José Sarney",
+        "cs": "José Sarney",
+        "da": "José Sarney",
+        "de": "José Sarney",
+        "diq": "José Sarney",
+        "en": "José Sarney",
+        "eo": "José Sarney",
+        "es": "José Sarney",
+        "eu": "José Sarney",
+        "fa": "ژوزه سارنی",
+        "fi": "José Sarney",
+        "fr": "José Sarney",
+        "gl": "José Sarney",
+        "he": "ז'וזה סרניי",
+        "id": "José Sarney",
+        "io": "José Sarney",
+        "is": "José Sarney",
+        "it": "José Sarney",
+        "ja": "ジョゼ・サルネイ",
+        "ka": "ჟოზე სარნეი",
+        "ki": "José Sarney",
+        "ko": "조제 사르네이",
+        "la": "Iosephus Sarney",
+        "mg": "José Sarney",
+        "mzn": "خوزه سارنی",
+        "nl": "José Sarney",
+        "no": "José Sarney",
+        "oc": "José Sarney",
+        "pl": "José Sarney",
+        "pt": "José Sarney",
+        "ru": "Сарней, Жозе",
+        "simple": "José Sarney",
+        "sv": "José Sarney",
+        "tg": "Жузе Сорнӣ",
+        "th": "ฌูแซ ซาร์เนย์",
+        "tr": "José Sarney",
+        "uk": "Жозе Сарней",
+        "vi": "José Sarney",
+        "wuu": "若泽·萨尔内",
+        "yo": "José Sarney",
+        "zh_yue": "薩爾內",
+        "zh": "若泽·萨尔内"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "pt",
+          "term": "José Sarney",
+          "volume": 2291
+        }
+      ],
+      "newsUrls": [],
+      "spike": 0.8,
+      "score": 67,
+      "decision": "reject",
+      "reasons": [
+        "pageview spike 0.8x is below 2x"
       ],
       "onSite": false
     },
@@ -23592,8 +23541,8 @@
       ],
       "newsUrls": [
         "https://www.nytimes.com/2026/11/02/us/nathalia-filgueiras-florida-plane-crash-pilot.html",
-        "https://www.tmz.com/2026/11/02/florida-private-plane-crash-victims-identified/",
-        "https://nypost.com/2026/11/02/us-news/nathalia-gadelha-identified-as-learjet-co-pilot-in-florida-crash/"
+        "https://www.bbc.com/news/articles/cm369yy7lw73o",
+        "https://www.flightradar24.com/blog/flight-tracking-news/major-incident/learjet-60-crashes-near-west-palm-beach-florida/"
       ],
       "spike": 0.9,
       "score": 67,
@@ -23811,6 +23760,49 @@
       "score": 66,
       "decision": "accept",
       "reasons": [],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q905452",
+      "name": "Javier Castrilli",
+      "description": "Argentine football referee",
+      "category": null,
+      "occupations": [
+        "association football referee"
+      ],
+      "birthYear": 1957,
+      "deathYear": null,
+      "sitelinks": 9,
+      "wikipedia": {
+        "ca": "Javier Castrilli",
+        "en": "Javier Castrilli",
+        "es": "Javier Castrilli",
+        "fr": "Javier Castrilli",
+        "hu": "Javier Castrilli",
+        "it": "Javier Castrilli",
+        "pt": "Javier Castrilli",
+        "ru": "Кастрильи, Хавьер",
+        "uk": "Хав'єр Кастрільї"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "AR",
+          "term": "javier castrilli",
+          "volume": 200
+        }
+      ],
+      "newsUrls": [
+        "https://www.ole.com.ar/river-plate/river-castrilli-opinion-polemicas-paredes-boca-superclasico_0_pwKwCd7O4p.html",
+        "https://www.continental.com.ar/2026-11-02/javier-castrilli-el-sabor-amargo-de-ver-como-han-destruido-la-credibilidad-del-arbitraje-argentino-152796/",
+        "https://www.mdzol.com/deportes/2026/11/2/la-lapidaria-sentencia-de-javier-castrilli-sobre-el-arbitraje-de-boca-river-y-por-que-apunto-a-paredes-1992609.html"
+      ],
+      "spike": 2.8,
+      "score": 66,
+      "decision": "reject",
+      "reasons": [
+        "no matching site category"
+      ],
       "onSite": false
     },
     {
@@ -24146,89 +24138,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q244997",
-      "name": "José Sarney",
-      "description": "President of Brazil from 1985 to 1990",
-      "category": "artists",
-      "occupations": [
-        "lawyer",
-        "journalist",
-        "politician",
-        "writer",
-        "poet",
-        "novelist"
-      ],
-      "birthYear": 1930,
-      "deathYear": null,
-      "sitelinks": 48,
-      "wikipedia": {
-        "af": "José Sarney",
-        "ar": "جوسيه سارني",
-        "arz": "جوسيه سارنى",
-        "ast": "José Sarney",
-        "be": "Жазэ Сарней",
-        "bg": "Жузе Сарней",
-        "ca": "José Sarney",
-        "cs": "José Sarney",
-        "da": "José Sarney",
-        "de": "José Sarney",
-        "diq": "José Sarney",
-        "en": "José Sarney",
-        "eo": "José Sarney",
-        "es": "José Sarney",
-        "eu": "José Sarney",
-        "fa": "ژوزه سارنی",
-        "fi": "José Sarney",
-        "fr": "José Sarney",
-        "gl": "José Sarney",
-        "he": "ז'וזה סרניי",
-        "id": "José Sarney",
-        "io": "José Sarney",
-        "is": "José Sarney",
-        "it": "José Sarney",
-        "ja": "ジョゼ・サルネイ",
-        "ka": "ჟოზე სარნეი",
-        "ki": "José Sarney",
-        "ko": "조제 사르네이",
-        "la": "Iosephus Sarney",
-        "mg": "José Sarney",
-        "mzn": "خوزه سارنی",
-        "nl": "José Sarney",
-        "no": "José Sarney",
-        "oc": "José Sarney",
-        "pl": "José Sarney",
-        "pt": "José Sarney",
-        "ru": "Сарней, Жозе",
-        "simple": "José Sarney",
-        "sv": "José Sarney",
-        "tg": "Жузе Сорнӣ",
-        "th": "ฌูแซ ซาร์เนย์",
-        "tr": "José Sarney",
-        "uk": "Жозе Сарней",
-        "vi": "José Sarney",
-        "wuu": "若泽·萨尔内",
-        "yo": "José Sarney",
-        "zh_yue": "薩爾內",
-        "zh": "若泽·萨尔内"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "pt",
-          "term": "José Sarney",
-          "volume": 2291
-        }
-      ],
-      "newsUrls": [],
-      "spike": 0,
-      "score": 65,
-      "decision": "reject",
-      "reasons": [
-        "pageview spike 0.0x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q108802005",
       "name": "Elif Eralp",
       "description": "German politician",
@@ -24279,77 +24188,6 @@
       "reasons": [
         "no matching site category",
         "pageview spike 0.5x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q160430",
-      "name": "David Garrett",
-      "description": "German violinist",
-      "category": "artists",
-      "occupations": [
-        "violinist",
-        "model",
-        "recording artist",
-        "actor",
-        "music arranger"
-      ],
-      "birthYear": 1980,
-      "deathYear": null,
-      "sitelinks": 37,
-      "wikipedia": {
-        "ar": "دافيد غاريت",
-        "arz": "دافيد جاريت",
-        "azb": "دیوید قرت",
-        "az": "Devid Qarrett",
-        "bg": "Дейвид Гарет",
-        "bs": "David Garrett (violinist)",
-        "ca": "David Garrett",
-        "cs": "David Garrett",
-        "da": "David Garrett",
-        "de": "David Garrett",
-        "el": "Ντέιβιντ Γκάρετ",
-        "eml": "David Garrett",
-        "en": "David Garrett",
-        "es": "David Garrett",
-        "et": "David Garrett",
-        "eu": "David Garrett",
-        "fa": "دیوید گرت",
-        "fr": "David Garrett",
-        "he": "דייוויד גארט",
-        "hu": "David Garrett",
-        "hy": "Դևիդ Գարեթ",
-        "it": "David Garrett",
-        "ja": "デイヴィッド・ギャレット",
-        "ko": "데이비드 가렛",
-        "nl": "David Garrett",
-        "no": "David Garrett",
-        "pl": "David Garrett",
-        "pt": "David Garrett",
-        "ro": "David Garrett",
-        "ru": "Гарретт, Дэвид",
-        "simple": "David Garrett",
-        "sr": "Дејвид Гарет",
-        "sv": "David Garrett",
-        "tr": "David Garrett",
-        "uk": "Девід Ґарретт",
-        "vi": "David Garrett",
-        "zh": "大衛·加勒特"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "de",
-          "term": "David Garrett",
-          "volume": 5149
-        }
-      ],
-      "newsUrls": [],
-      "spike": 0,
-      "score": 65,
-      "decision": "reject",
-      "reasons": [
-        "pageview spike 0.0x is below 2x"
       ],
       "onSite": false
     },
@@ -24502,44 +24340,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q3732477",
-      "name": "Eron Santos Lourenço",
-      "description": "footballer",
-      "category": "athletes",
-      "occupations": [
-        "association football player"
-      ],
-      "birthYear": 1992,
-      "deathYear": null,
-      "sitelinks": 6,
-      "wikipedia": {
-        "arz": "ارون سانتوس لورينكو",
-        "en": "Eron (footballer, born 1992)",
-        "fa": "ارون (بازیکن فوتبال، زاده ۱۹۹۲)",
-        "fr": "Eron",
-        "it": "Eron Santos Lourenço",
-        "tg": "Эрон Сантос Лоренcо"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "GB",
-          "term": "bragantino vs santos",
-          "volume": 500
-        }
-      ],
-      "newsUrls": [
-        "https://www.bbc.co.uk/sport/football/live/c3y0e1kx4pd7t",
-        "https://onefootball.com/en/news/arthur-fit-again-with-five-matches-before-santos-contract-ends-43702472",
-        "https://www.vavel.com/en-us/soccer/2026/11/02/1277754-rb-bragantino-vs-santos-live-score-updates-brasileirao-serie-a.html"
-      ],
-      "spike": 2,
-      "score": 64,
-      "decision": "accept",
-      "reasons": [],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q40548765",
       "name": "Maya Jama",
       "description": "British television and radio presenter",
@@ -24572,108 +24372,6 @@
       "decision": "reject",
       "reasons": [
         "pageview spike 1.9x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q24567408",
-      "name": "Claudio Tapia",
-      "description": "President of the Argentinian Football Association",
-      "category": "athletes",
-      "occupations": [
-        "sports executive",
-        "association football player"
-      ],
-      "birthYear": 1967,
-      "deathYear": null,
-      "sitelinks": 8,
-      "wikipedia": {
-        "ar": "كلاوديو تابيا",
-        "arz": "كلوديو تابيا",
-        "ast": "Claudio Fabián Tapia",
-        "en": "Claudio Tapia",
-        "es": "Claudio Tapia",
-        "it": "Claudio Tapia",
-        "pt": "Claudio Tapia",
-        "tr": "Claudio Tapia"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "AR",
-          "term": "claudio tapia",
-          "volume": 200
-        }
-      ],
-      "newsUrls": [
-        "https://www.infobae.com/politica/2026/11/02/tras-las-polemicas-en-el-superclasico-guillermo-francos-apunto-contra-chiqui-tapia-maneja-el-futbol-cual-dictador/",
-        "https://www.diariopinion.com.ar/11801-del-gobierno-a-la-oposicion-los-politicos-se-metieron-en-la-polemica-por-el-arbitraje-del-boca-river",
-        "https://www.mdzol.com/politica/2026/11/2/guillermo-francos-apunto-contra-la-afa-tras-el-superclasico-milei-quiere-terminar-con-esta-mafia-1992456.html"
-      ],
-      "spike": 2.3,
-      "score": 64,
-      "decision": "accept",
-      "reasons": [],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q561205",
-      "name": "Raphael",
-      "description": "Spanish recording artist; singer and actor",
-      "category": "artists",
-      "occupations": [
-        "actor",
-        "singer",
-        "musician"
-      ],
-      "birthYear": 1943,
-      "deathYear": null,
-      "sitelinks": 29,
-      "wikipedia": {
-        "ar": "رافائيل (ممثل)",
-        "arz": "رافائيل (مغنى)",
-        "azb": "رافائل (شارکیچی)",
-        "az": "Rafael Martos Sançes",
-        "br": "Raphael (kaner)",
-        "ca": "Raphael",
-        "de": "Raphael (Sänger)",
-        "el": "Ραφαέλ (τραγουδιστής)",
-        "en": "Raphael (singer)",
-        "eo": "Raphael",
-        "es": "Raphael (cantante)",
-        "et": "Raphael (laulja)",
-        "eu": "Raphael",
-        "ext": "Raphael",
-        "fa": "رافائل (خواننده)",
-        "fi": "Raphael (laulaja)",
-        "fr": "Raphael (chanteur espagnol)",
-        "gl": "Raphael",
-        "hu": "Raphael",
-        "it": "Raphael (cantante spagnolo)",
-        "lt": "Raphael (dainininkas)",
-        "mzn": "رافائل (خونش‌کر)",
-        "nl": "Raphael Martos Sánchez",
-        "pt": "Raphael (cantor)",
-        "qu": "Raphael",
-        "ru": "Рафаэль (испанский певец)",
-        "simple": "Raphael (singer)",
-        "tr": "Raphael (şarkıcı)",
-        "uk": "Рафаель (співак)"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "es",
-          "term": "Raphael (cantante)",
-          "volume": 7315
-        }
-      ],
-      "newsUrls": [],
-      "spike": 0,
-      "score": 64,
-      "decision": "reject",
-      "reasons": [
-        "pageview spike 0.0x is below 2x"
       ],
       "onSite": false
     },
@@ -24810,6 +24508,153 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q61660709",
+      "name": "Ty Jerome",
+      "description": "American basketball player (born 1997)",
+      "category": "athletes",
+      "occupations": [
+        "basketball player"
+      ],
+      "birthYear": 1997,
+      "deathYear": null,
+      "sitelinks": 13,
+      "wikipedia": {
+        "arz": "تى چيروم",
+        "en": "Ty Jerome",
+        "es": "Ty Jerome",
+        "fr": "Ty Jerome",
+        "he": "טיי ג'רום",
+        "it": "Ty Jerome",
+        "ja": "タイ・ジェローム",
+        "lt": "Ty Jerome",
+        "pl": "Ty Jerome",
+        "pt": "Ty Jerome",
+        "ru": "Джером, Тай",
+        "sv": "Ty Jerome",
+        "zh": "泰·傑洛姆"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "FR",
+          "term": "cavaliers – thunder",
+          "volume": 500
+        }
+      ],
+      "newsUrls": [
+        "https://www.thebiglead.com/nba-games-on-today-full-tv-schedule-for-monday-november-2/",
+        "https://sports.yahoo.com/articles/injury-report-okc-thunder-list-130007287.html",
+        "https://bvmsports.com/2026/11/02/cavs-still-looking-for-consistency-as-thunder-come-to-town/"
+      ],
+      "spike": 0.4,
+      "score": 64,
+      "decision": "accept",
+      "reasons": [],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q254823",
+      "name": "Manú",
+      "description": "Portuguese footballer",
+      "category": "athletes",
+      "occupations": [
+        "association football player"
+      ],
+      "birthYear": 1982,
+      "deathYear": 2026,
+      "sitelinks": 14,
+      "wikipedia": {
+        "arz": "مانو (لاعب كورة قدم)",
+        "de": "Manú",
+        "en": "Manú (footballer)",
+        "es": "Emanuel de Jesus Bonfim Evaristo",
+        "fr": "Manú",
+        "it": "Manú",
+        "mg": "Manú",
+        "nl": "Manú (voetballer)",
+        "pl": "Manú",
+        "pt": "Manú",
+        "ru": "Ману (футболист)",
+        "uk": "Ману (футболіст)",
+        "vo": "Manú",
+        "zh": "马努 (1982年)"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "ES",
+          "term": "posiciones de benfica contra fc alverca",
+          "volume": 200
+        }
+      ],
+      "newsUrls": [
+        "https://www.piercemfg.com/hubfs/StaticContentPages/Other/Webouts/Velocity.Impel/Tour.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3RhcmVxaml5YTYtc3ZnLmdpdGh1Yi5pby9zdHJlYW0yMDI2L3hkLnhtbCIvPjwva3JwYW5vPg==&id=gil-vicente-vs-vit%C3%B3ria-de-guimaraes-zsdfdg",
+        "https://www.beinsports.com/en-us/soccer/primeira-liga/articles/live-benfica-vs-alverca-liga-portugal-2026-11-02",
+        "https://worldsoccertalk.com/watch-on-us-tv/how-to-watch-benfica-vs-alverca-match-in-the-usa-live-stream-and-tv-for-2026-27-primeira-liga/"
+      ],
+      "spike": 0.5,
+      "score": 63,
+      "decision": "accept",
+      "reasons": [
+        "recent death, write with care"
+      ],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q922837",
+      "name": "Cuauhtémoc Cárdenas Solórzano",
+      "description": "Mexican politician (1934–2026)",
+      "category": null,
+      "occupations": [
+        "engineer",
+        "politician"
+      ],
+      "birthYear": 1934,
+      "deathYear": 2026,
+      "sitelinks": 21,
+      "wikipedia": {
+        "ca": "Cuauhtémoc Cárdenas Solórzano",
+        "de": "Cuauhtémoc Cárdenas Solórzano",
+        "en": "Cuauhtémoc Cárdenas",
+        "eo": "Cuauhtémoc Cárdenas",
+        "es": "Cuauhtémoc Cárdenas",
+        "eu": "Cuauhtémoc Cárdenas",
+        "fa": "کواتموک کاردناس",
+        "fr": "Cuauhtémoc Cárdenas",
+        "it": "Cuauhtémoc Cárdenas",
+        "ja": "クアウテモク・カルデナス",
+        "ko": "쿠아우테목 카르데나스",
+        "mg": "Cuauhtémoc Cárdenas",
+        "nl": "Cuauhtémoc Cárdenas",
+        "pl": "Cuauhtémoc Cárdenas Solórzano",
+        "pt": "Cuauhtémoc Cárdenas",
+        "ru": "Карденас, Куаутемок",
+        "simple": "Cuauhtémoc Cárdenas",
+        "sr": "Куаутемок Карденас",
+        "sv": "Cuauhtémoc Cárdenas",
+        "tr": "Cuauhtémoc Cárdenas",
+        "zh": "夸特莫克·卡德纳斯"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "es",
+          "term": "Cuauhtémoc Cárdenas",
+          "volume": 7720
+        }
+      ],
+      "newsUrls": [],
+      "spike": 0.4,
+      "score": 63,
+      "decision": "reject",
+      "reasons": [
+        "recent death, write with care",
+        "no matching site category",
+        "pageview spike 0.4x is below 2x"
+      ],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q453730",
       "name": "Fátima Báñez",
       "description": "Spanish politician (1967–2026)",
@@ -24858,12 +24703,12 @@
         }
       ],
       "newsUrls": [],
-      "spike": 0,
+      "spike": 0.1,
       "score": 63,
       "decision": "reject",
       "reasons": [
         "recent death, write with care",
-        "pageview spike 0.0x is below 2x"
+        "pageview spike 0.1x is below 2x"
       ],
       "onSite": false
     },
@@ -24929,6 +24774,114 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q5038740",
+      "name": "Marieta Severo",
+      "description": "Brazilian actress",
+      "category": "artists",
+      "occupations": [
+        "actor",
+        "television actor",
+        "screenwriter",
+        "theatrical producer"
+      ],
+      "birthYear": 1946,
+      "deathYear": null,
+      "sitelinks": 11,
+      "wikipedia": {
+        "ar": "مارييتا سيفيرو",
+        "arz": "مارييتا سيفيرو",
+        "en": "Marieta Severo",
+        "es": "Marieta Severo",
+        "fa": "ماریتا سورو",
+        "frp": "Marieta Severo",
+        "ko": "마리에타 세베루",
+        "pt": "Marieta Severo",
+        "sw": "Marieta Severo",
+        "tk": "Marieta Severo",
+        "ur": "مارییتا سیویرو"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "pt",
+          "term": "Marieta Severo",
+          "volume": 2218
+        }
+      ],
+      "newsUrls": [],
+      "spike": 2.8,
+      "score": 63,
+      "decision": "accept",
+      "reasons": [],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q729048",
+      "name": "Olavo de Carvalho",
+      "description": "Brazilian journalist, writer, astrologer, essayist, polemicist, digital influencer and ideologue (1947-2022)",
+      "category": null,
+      "occupations": [
+        "essayist",
+        "journalist",
+        "lecturer",
+        "literary critic",
+        "astrologer",
+        "debater",
+        "conspiracy theorist",
+        "editor",
+        "philosopher"
+      ],
+      "birthYear": 1947,
+      "deathYear": 2022,
+      "sitelinks": 27,
+      "wikipedia": {
+        "ar": "أولافو دي كارفالو",
+        "arz": "اولاڤو د كارڤالهو",
+        "bg": "Олаво де Карвальо",
+        "ca": "Olavo de Carvalho",
+        "de": "Olavo de Carvalho",
+        "en": "Olavo de Carvalho",
+        "eo": "Olavo de Carvalho",
+        "es": "Olavo de Carvalho",
+        "et": "Olavo de Carvalho",
+        "eu": "Olavo de Carvalho",
+        "fi": "Olavo de Carvalho",
+        "fr": "Olavo de Carvalho",
+        "gl": "Olavo de Carvalho",
+        "hu": "Olavo de Carvalho",
+        "ja": "オラーヴォ・デ・カルヴァリョ",
+        "ko": "올라부 지 카르발류",
+        "la": "Olavus de Carvalho",
+        "nl": "Olavo de Carvalho",
+        "no": "Olavo de Carvalho",
+        "pt": "Olavo de Carvalho",
+        "ro": "Olavo de Carvalho",
+        "ru": "Карвалью, Олаву ди",
+        "simple": "Olavo de Carvalho",
+        "sl": "Olavo de Carvalho",
+        "sv": "Olavo de Carvalho",
+        "tr": "Olavo de Carvalho",
+        "uk": "Олаву ді Карвалью"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "pt",
+          "term": "Olavo de Carvalho",
+          "volume": 2153
+        }
+      ],
+      "newsUrls": [],
+      "spike": 0.9,
+      "score": 63,
+      "decision": "reject",
+      "reasons": [
+        "no matching site category",
+        "pageview spike 0.9x is below 2x"
+      ],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q224834",
       "name": "Flávio Migliaccio",
       "description": "Brazilian actor, film director and screenwriter",
@@ -24968,6 +24921,44 @@
       "reasons": [
         "sensitive manner of death"
       ],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q19321783",
+      "name": "Slaven Skeledzic",
+      "description": "German-Bosnian football manager",
+      "category": "athletes",
+      "occupations": [
+        "association football player",
+        "association football coach"
+      ],
+      "birthYear": 1971,
+      "deathYear": null,
+      "sitelinks": 5,
+      "wikipedia": {
+        "arz": "سلاڤين سكيليدزيك",
+        "de": "Slaven Skeledžić",
+        "en": "Slaven Skeledžić",
+        "it": "Slaven Skeledzic",
+        "pl": "Slaven Skeledzic"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "DE",
+          "term": "slaven skeledzic",
+          "volume": 200
+        }
+      ],
+      "newsUrls": [
+        "https://www.livescore.com/en/news/football/bundesliga/21-players-go-on-strike-against-former-bayern-munich-coach-former-third-division-club-trkgc-mnchen-sinks-into-chaos-goal/",
+        "https://www.kicker.de/ehemaliger-klose-assistent-im-fokus-neuer-wirbel-bei-tuerkguecue-muenchen-nach-spielerboykott-1267721/artikel",
+        "https://www.bild.de/sport/fussball/unglaubliches-chaos-in-der-6-liga-spielerdemo-gegen-ex-bayern-trainer-6ae7ab1db51759a06e3f4ba6"
+      ],
+      "spike": 2.9,
+      "score": 63,
+      "decision": "accept",
+      "reasons": [],
       "onSite": false
     },
     {
@@ -25067,164 +25058,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q922837",
-      "name": "Cuauhtémoc Cárdenas Solórzano",
-      "description": "Mexican politician (1934–2026)",
-      "category": null,
-      "occupations": [
-        "engineer",
-        "politician"
-      ],
-      "birthYear": 1934,
-      "deathYear": 2026,
-      "sitelinks": 21,
-      "wikipedia": {
-        "ca": "Cuauhtémoc Cárdenas Solórzano",
-        "de": "Cuauhtémoc Cárdenas Solórzano",
-        "en": "Cuauhtémoc Cárdenas",
-        "eo": "Cuauhtémoc Cárdenas",
-        "es": "Cuauhtémoc Cárdenas",
-        "eu": "Cuauhtémoc Cárdenas",
-        "fa": "کواتموک کاردناس",
-        "fr": "Cuauhtémoc Cárdenas",
-        "it": "Cuauhtémoc Cárdenas",
-        "ja": "クアウテモク・カルデナス",
-        "ko": "쿠아우테목 카르데나스",
-        "mg": "Cuauhtémoc Cárdenas",
-        "nl": "Cuauhtémoc Cárdenas",
-        "pl": "Cuauhtémoc Cárdenas Solórzano",
-        "pt": "Cuauhtémoc Cárdenas",
-        "ru": "Карденас, Куаутемок",
-        "simple": "Cuauhtémoc Cárdenas",
-        "sr": "Куаутемок Карденас",
-        "sv": "Cuauhtémoc Cárdenas",
-        "tr": "Cuauhtémoc Cárdenas",
-        "zh": "夸特莫克·卡德纳斯"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "es",
-          "term": "Cuauhtémoc Cárdenas",
-          "volume": 7720
-        }
-      ],
-      "newsUrls": [],
-      "spike": 0,
-      "score": 62,
-      "decision": "reject",
-      "reasons": [
-        "recent death, write with care",
-        "no matching site category",
-        "pageview spike 0.0x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q465927",
-      "name": "Daniela Mercury",
-      "description": "Brazilian singer-songwriter",
-      "category": "artists",
-      "occupations": [
-        "singer",
-        "composer",
-        "songwriter",
-        "record producer",
-        "actor",
-        "pop singer",
-        "musician"
-      ],
-      "birthYear": 1965,
-      "deathYear": null,
-      "sitelinks": 30,
-      "wikipedia": {
-        "arz": "دانيلا ميركورى",
-        "ast": "Daniela Mercury",
-        "azb": "دانیلا مرکوری",
-        "br": "Daniela Mercury",
-        "ca": "Daniela Mercury",
-        "crh": "Daniela Merkuri",
-        "de": "Daniela Mercury",
-        "en": "Daniela Mercury",
-        "eo": "Daniela Mercury",
-        "es": "Daniela Mercury",
-        "et": "Daniela Mercury",
-        "fa": "دانیلا مرکوری",
-        "fi": "Daniela Mercury",
-        "fr": "Daniela Mercury",
-        "he": "דניאלה מרקורי",
-        "io": "Daniela Mercury",
-        "it": "Daniela Mercury",
-        "kaa": "Daniela Mercury",
-        "mzn": "دانیلا مرکوری",
-        "nl": "Daniela Mercury",
-        "pl": "Daniela Mercury",
-        "pt": "Daniela Mercury",
-        "ru": "Меркури, Даниэла",
-        "sco": "Daniela Mercury",
-        "simple": "Daniela Mercury",
-        "su": "Daniela Mercury",
-        "uk": "Даніела Меркурі",
-        "vo": "Daniela Mercury",
-        "zh_min_nan": "Daniela Mercury",
-        "zh": "达妮埃拉·玛克丽"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "pt",
-          "term": "Daniela Mercury",
-          "volume": 2408
-        }
-      ],
-      "newsUrls": [],
-      "spike": 0,
-      "score": 62,
-      "decision": "reject",
-      "reasons": [
-        "pageview spike 0.0x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q19321783",
-      "name": "Slaven Skeledzic",
-      "description": "German-Bosnian football manager",
-      "category": "athletes",
-      "occupations": [
-        "association football player",
-        "association football coach"
-      ],
-      "birthYear": 1971,
-      "deathYear": null,
-      "sitelinks": 5,
-      "wikipedia": {
-        "arz": "سلاڤين سكيليدزيك",
-        "de": "Slaven Skeledžić",
-        "en": "Slaven Skeledžić",
-        "it": "Slaven Skeledzic",
-        "pl": "Slaven Skeledzic"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "DE",
-          "term": "slaven skeledzic",
-          "volume": 100
-        }
-      ],
-      "newsUrls": [
-        "https://www.livescore.com/en/news/football/bundesliga/21-players-go-on-strike-against-former-bayern-munich-coach-former-third-division-club-trkgc-mnchen-sinks-into-chaos-goal/",
-        "https://www.kicker.de/ehemaliger-klose-assistent-im-fokus-neuer-wirbel-bei-tuerkguecue-muenchen-nach-spielerboykott-1267721/artikel",
-        "https://www.bild.de/sport/fussball/unglaubliches-chaos-in-der-6-liga-spielerdemo-gegen-ex-bayern-trainer-6ae7ab1db51759a06e3f4ba6"
-      ],
-      "spike": 2.9,
-      "score": 62,
-      "decision": "accept",
-      "reasons": [],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q153460",
       "name": "Ilse Aigner",
       "description": "German politician",
@@ -25274,51 +25107,6 @@
         "no matching site category",
         "pageview spike 0.4x is below 2x"
       ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q61660709",
-      "name": "Ty Jerome",
-      "description": "American basketball player (born 1997)",
-      "category": "athletes",
-      "occupations": [
-        "basketball player"
-      ],
-      "birthYear": 1997,
-      "deathYear": null,
-      "sitelinks": 13,
-      "wikipedia": {
-        "arz": "تى چيروم",
-        "en": "Ty Jerome",
-        "es": "Ty Jerome",
-        "fr": "Ty Jerome",
-        "he": "טיי ג'רום",
-        "it": "Ty Jerome",
-        "ja": "タイ・ジェローム",
-        "lt": "Ty Jerome",
-        "pl": "Ty Jerome",
-        "pt": "Ty Jerome",
-        "ru": "Джером, Тай",
-        "sv": "Ty Jerome",
-        "zh": "泰·傑洛姆"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "FR",
-          "term": "cavaliers – thunder",
-          "volume": 200
-        }
-      ],
-      "newsUrls": [
-        "https://cavaliersnation.com/2026/11/02/cavs-release-full-injury-report-ahead-of-mondays-matchup-vs-thunder/",
-        "https://www.betseeker.com.au/nba/nba-tips/nba-tips-tuesday-november-3-nba-picks-multi/",
-        "https://www.wfmynews2.com/video/sports/locked-on/lo-cleveland/cavaliers-show/preview-can-the-cleveland-cavaliers-handle-business-against-okc/535-c63fde44-5032-4f4b-b9a9-0330a6c50c83"
-      ],
-      "spike": 0.4,
-      "score": 62,
-      "decision": "accept",
-      "reasons": [],
       "onSite": false
     },
     {
@@ -25406,42 +25194,40 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q26263573",
-      "name": "Gabriel Rojas",
-      "description": "Argentinian association footballer",
+      "wikidataId": "Q24258623",
+      "name": "Juan Pablo Ramírez",
+      "description": "Colombian association football player",
       "category": "athletes",
       "occupations": [
         "association football player"
       ],
       "birthYear": 1997,
       "deathYear": null,
-      "sitelinks": 10,
+      "sitelinks": 8,
       "wikipedia": {
-        "ar": "جبريل روجاس",
-        "arz": "جبريل روجاس",
-        "de": "Gabriel Rojas (Fußballspieler, 1997)",
-        "en": "Gabriel Rojas (footballer, born 1997)",
-        "es": "Gabriel Hernán Rojas",
-        "fr": "Gabriel Rojas",
-        "it": "Gabriel Rojas",
-        "pl": "Gabriel Rojas",
-        "pt": "Gabriel Rojas",
-        "ru": "Рохас, Габриэль"
+        "ar": "خوان بابلو راميريز",
+        "arz": "خوان بابلو راميريز",
+        "en": "Juan Pablo Ramírez",
+        "es": "Juan Pablo Ramírez Velasquez",
+        "it": "Juan Pablo Ramírez",
+        "pt": "Índio Ramírez",
+        "ru": "Рамирес, Хуан Пабло",
+        "tg": "Хуан Пабло Рамирес"
       },
       "signals": [
         {
           "source": "google-trends",
           "where": "BR",
-          "term": "gabriel rojas",
-          "volume": 200
+          "term": "bucaramanga x atlético nacional",
+          "volume": 500
         }
       ],
       "newsUrls": [
-        "https://noataque.com.br/brasileirao-serie-a/time/cruzeiro/noticia/2026/11/02/jogador-diz-que-nao-se-adaptou-ao-cruzeiro-e-ve-futuro-incerto-vamos-analisar/",
-        "https://www.diarioceleste.com.br/noticias-do-cruzeiro/gabriel-rojas-falta-espaco-cruzeiro-futuro-dezembro/",
-        "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/cruzeiro/lateral-do-cruzeiro-fala-sobre-momento-e-deixa-futuro-em-aberto-em-dezembro-vemos/"
+        "https://onefootball.com/es/noticias/el-lider-de-visita-frente-al-bucaramanga-43714250",
+        "https://www.minuto30.com/norte-baja-para-los-hinchas-de-nacional-asi-sera-el-ingreso-al-montanini-en-el-duelo-con-bucaramanga/1726773/",
+        "https://www.winsports.co/futbol-colombiano/noticias/atletico-nacional-mira-su-calendario-en-noviembre-475224"
       ],
-      "spike": 0.8,
+      "spike": 0.5,
       "score": 61,
       "decision": "accept",
       "reasons": [],
@@ -25496,72 +25282,6 @@
       "reasons": [
         "no matching site category",
         "pageview spike 0.3x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q729048",
-      "name": "Olavo de Carvalho",
-      "description": "Brazilian journalist, writer, astrologer, essayist, polemicist, digital influencer and ideologue (1947-2022)",
-      "category": null,
-      "occupations": [
-        "essayist",
-        "journalist",
-        "lecturer",
-        "literary critic",
-        "astrologer",
-        "debater",
-        "conspiracy theorist",
-        "editor",
-        "philosopher"
-      ],
-      "birthYear": 1947,
-      "deathYear": 2022,
-      "sitelinks": 27,
-      "wikipedia": {
-        "ar": "أولافو دي كارفالو",
-        "arz": "اولاڤو د كارڤالهو",
-        "bg": "Олаво де Карвальо",
-        "ca": "Olavo de Carvalho",
-        "de": "Olavo de Carvalho",
-        "en": "Olavo de Carvalho",
-        "eo": "Olavo de Carvalho",
-        "es": "Olavo de Carvalho",
-        "et": "Olavo de Carvalho",
-        "eu": "Olavo de Carvalho",
-        "fi": "Olavo de Carvalho",
-        "fr": "Olavo de Carvalho",
-        "gl": "Olavo de Carvalho",
-        "hu": "Olavo de Carvalho",
-        "ja": "オラーヴォ・デ・カルヴァリョ",
-        "ko": "올라부 지 카르발류",
-        "la": "Olavus de Carvalho",
-        "nl": "Olavo de Carvalho",
-        "no": "Olavo de Carvalho",
-        "pt": "Olavo de Carvalho",
-        "ro": "Olavo de Carvalho",
-        "ru": "Карвалью, Олаву ди",
-        "simple": "Olavo de Carvalho",
-        "sl": "Olavo de Carvalho",
-        "sv": "Olavo de Carvalho",
-        "tr": "Olavo de Carvalho",
-        "uk": "Олаву ді Карвалью"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "pt",
-          "term": "Olavo de Carvalho",
-          "volume": 2153
-        }
-      ],
-      "newsUrls": [],
-      "spike": 0,
-      "score": 61,
-      "decision": "reject",
-      "reasons": [
-        "no matching site category",
-        "pageview spike 0.0x is below 2x"
       ],
       "onSite": false
     },
@@ -25836,60 +25556,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q35694605",
-      "name": "Carlos Vinícius",
-      "description": "Brazilian association football player",
-      "category": "athletes",
-      "occupations": [
-        "association football player"
-      ],
-      "birthYear": 1995,
-      "deathYear": null,
-      "sitelinks": 24,
-      "wikipedia": {
-        "ar": "كارلوس فينيسيوس",
-        "arz": "كارلوس ڤينيسيوس",
-        "cs": "Carlos Vinícius",
-        "de": "Carlos Vinícius",
-        "en": "Carlos Vinícius",
-        "es": "Carlos Vinícius",
-        "et": "Carlos Vinícius",
-        "fa": "کارلوس وینیسیوس",
-        "fr": "Carlos Vinícius",
-        "it": "Carlos Vinícius",
-        "ja": "カルロス・ヴィニシウス",
-        "ko": "카를루스 비니시우스",
-        "nl": "Carlos Vinícius",
-        "no": "Carlos Vinícius",
-        "pl": "Carlos Vinícius",
-        "pt": "Carlos Vinícius",
-        "ru": "Карлос Винисиус",
-        "sv": "Carlos Vinícius",
-        "th": "การ์ลุส วีนีซียุส",
-        "tr": "Carlos Vinícius",
-        "uk": "Карлос Вінісіус",
-        "uz": "Carlos Vinícius",
-        "vi": "Carlos Vinícius",
-        "zh": "卡路士·雲尼斯奧斯"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "pt",
-          "term": "Carlos Vinícius",
-          "volume": 2253
-        }
-      ],
-      "newsUrls": [],
-      "spike": 0,
-      "score": 60,
-      "decision": "reject",
-      "reasons": [
-        "pageview spike 0.0x is below 2x"
-      ],
-      "onSite": true
-    },
-    {
       "wikidataId": "Q2294413",
       "name": "Corinne Luchaire",
       "description": "actress (1921-1950)",
@@ -25973,48 +25639,6 @@
       "decision": "reject",
       "reasons": [
         "pageview spike 1.2x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q3292302",
-      "name": "Adam Clarke",
-      "description": "British theologian",
-      "category": null,
-      "occupations": [
-        "theologian",
-        "Christian minister",
-        "abolitionist"
-      ],
-      "birthYear": 1762,
-      "deathYear": 1832,
-      "sitelinks": 6,
-      "wikipedia": {
-        "ar": "آدم كلارك",
-        "arz": "ادم كلارك",
-        "en": "Adam Clarke",
-        "es": "Adam Clarke",
-        "fr": "Adam Clarke",
-        "pt": "Adam Clarke"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "PT",
-          "term": "adam robinson",
-          "volume": 1000
-        }
-      ],
-      "newsUrls": [
-        "https://www.nytimes.com/2026/11/02/us/nathalia-filgueiras-florida-plane-crash-pilot.html",
-        "https://www.palmbeachpost.com/story/news/local/lakeworth/2026/11/02/learjet-plane-crash-cause-investigation-live-updates-what-happened-monday--live/92560334007/",
-        "https://www.tmz.com/2026/11/02/florida-private-plane-crash-victims-identified/"
-      ],
-      "spike": 0.1,
-      "score": 59,
-      "decision": "reject",
-      "reasons": [
-        "no matching site category"
       ],
       "onSite": false
     },
@@ -26145,45 +25769,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q4762130",
-      "name": "Angel Emanuel Luna",
-      "description": "Argentine footballer",
-      "category": "athletes",
-      "occupations": [
-        "association football player"
-      ],
-      "birthYear": 1989,
-      "deathYear": null,
-      "sitelinks": 7,
-      "wikipedia": {
-        "ar": "أنجل ايمانويل لونا",
-        "arz": "انجل ايمانويل لونا",
-        "de": "Ángel Luna",
-        "en": "Angel Luna",
-        "es": "Ángel Emanuel Luna",
-        "fa": "آنخل امانوئل لونا",
-        "tg": "Ангел Эмануэл Луна"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "AR",
-          "term": "atlético tucumán - argentinos jrs.",
-          "volume": 500
-        }
-      ],
-      "newsUrls": [
-        "https://www.tycsports.com/boca-juniors/que-resultado-necesita-boca-en-atletico-tucuman-argentinos-para-la-tabla-anual-id769873.html",
-        "https://www.ole.com.ar/futbol-primera/atletico-tucuman-argentinos-torneo-clausura-tabla-anual-playoffs_0_5vvS5hxsgd.html",
-        "https://www.lagaceta.com.ar/nota/1160725/deportes/atletico-tucuman-tendra-ojo-mendoza-necesita-independiente-rivadavia-para-meterse-playoffs.html"
-      ],
-      "spike": 0,
-      "score": 58,
-      "decision": "accept",
-      "reasons": [],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q6174903",
       "name": "Óscar Puente",
       "description": "Spanish politician and lawyer",
@@ -26227,36 +25812,43 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q106545953",
-      "name": "Ivo Lucas",
-      "description": "",
+      "wikidataId": "Q3292302",
+      "name": "Adam Clarke",
+      "description": "British theologian",
       "category": null,
-      "occupations": [],
-      "birthYear": null,
-      "deathYear": null,
-      "sitelinks": 1,
+      "occupations": [
+        "theologian",
+        "Christian minister",
+        "abolitionist"
+      ],
+      "birthYear": 1762,
+      "deathYear": 1832,
+      "sitelinks": 6,
       "wikipedia": {
-        "pt": "Ivo Lucas"
+        "ar": "آدم كلارك",
+        "arz": "ادم كلارك",
+        "en": "Adam Clarke",
+        "es": "Adam Clarke",
+        "fr": "Adam Clarke",
+        "pt": "Adam Clarke"
       },
       "signals": [
         {
           "source": "google-trends",
           "where": "PT",
-          "term": "carolina deslandes internada",
-          "volume": 10000
+          "term": "adam robinson",
+          "volume": 500
         }
       ],
       "newsUrls": [
-        "https://caras.pt/famosos/2026-11-02-carolina-deslandes-revela-que-esta-internada-e-faz-apelo-aos-portugueses-estou-numa-frustracao/",
-        "https://www.flash.pt/celebridades/nacional/detalhe/mesmo-deitada-numa-cama-de-hospital-e-a-enfrentar-os-proprios-problemas-carolina-deslandes-preocupar-se-com-o-que-se-passa-nas-ruas",
-        "https://sic.pt/sic-caras/famosos/2026-11-02-video-depois-de-cantar-nas-manifestacoes-carolina-deslandes-mostra-se-em-cama-de-hospital-estou-internada-e-181ff399"
+        "https://www.nytimes.com/2026/11/02/us/nathalia-filgueiras-florida-plane-crash-pilot.html",
+        "https://www.bbc.com/news/articles/cm369yy7lw73o",
+        "https://www.bbc.co.uk/news/videos/cqdjv0wr1klwo"
       ],
-      "spike": 1,
+      "spike": 0.1,
       "score": 58,
       "decision": "reject",
       "reasons": [
-        "birth date unknown, cannot confirm adult",
-        "only 1 Wikipedia editions (needs 5)",
         "no matching site category"
       ],
       "onSite": false
@@ -26304,56 +25896,6 @@
       "reasons": [
         "no matching site category",
         "pageview spike 0.3x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q269841",
-      "name": "Cássia Eller",
-      "description": "Brazilian singer (1962-2001)",
-      "category": "artists",
-      "occupations": [
-        "guitarist",
-        "singer",
-        "musician"
-      ],
-      "birthYear": 1962,
-      "deathYear": 2001,
-      "sitelinks": 18,
-      "wikipedia": {
-        "arz": "كاسيا الير",
-        "ast": "Cássia Eller",
-        "ca": "Cássia Eller",
-        "de": "Cássia Eller",
-        "en": "Cássia Eller",
-        "es": "Cássia Eller",
-        "eu": "Cássia Eller",
-        "fr": "Cássia Eller",
-        "he": "קסיה אלר",
-        "it": "Cássia Eller",
-        "mzn": "کاسیا الر",
-        "pl": "Cássia Eller",
-        "pt": "Cássia Eller",
-        "ro": "Cássia Eller",
-        "ru": "Эллер, Кассия",
-        "sv": "Cássia Eller",
-        "uk": "Кассія Еллер",
-        "vi": "Cássia Eller"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "pt",
-          "term": "Cássia Eller",
-          "volume": 2327
-        }
-      ],
-      "newsUrls": [],
-      "spike": 0,
-      "score": 58,
-      "decision": "reject",
-      "reasons": [
-        "pageview spike 0.0x is below 2x"
       ],
       "onSite": false
     },
@@ -26437,6 +25979,42 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q117467906",
+      "name": "Carter Mazur",
+      "description": "American ice hockey player",
+      "category": "athletes",
+      "occupations": [
+        "ice hockey player"
+      ],
+      "birthYear": 2002,
+      "deathYear": null,
+      "sitelinks": 4,
+      "wikipedia": {
+        "en": "Carter Mazur",
+        "fr": "Carter Mazur",
+        "sv": "Carter Mazur",
+        "vo": "Carter Mazur"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "US",
+          "term": "carter mazur",
+          "volume": 500
+        }
+      ],
+      "newsUrls": [
+        "https://www.espn.com/video/clip/_/id/50362290/carter-mazur-lights-lamp-red-wings"
+      ],
+      "spike": 0.6,
+      "score": 57,
+      "decision": "reject",
+      "reasons": [
+        "only 4 Wikipedia editions (needs 5)"
+      ],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q111387680",
       "name": "Rafael Rodríguez Rapún",
       "description": "Spanish football player, actor and soldier (lieutenant)",
@@ -26472,46 +26050,6 @@
       "reasons": [
         "pageview spike 1.9x is below 2x"
       ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q29258636",
-      "name": "Theo Pinson",
-      "description": "American basketball player (born 1995)",
-      "category": "athletes",
-      "occupations": [
-        "basketball player"
-      ],
-      "birthYear": 1995,
-      "deathYear": null,
-      "sitelinks": 8,
-      "wikipedia": {
-        "arz": "ثيو پينسون",
-        "en": "Theo Pinson",
-        "es": "Theo Pinson",
-        "fr": "Theo Pinson",
-        "it": "Theo Pinson",
-        "pl": "Theo Pinson",
-        "pt": "Theo Pinson",
-        "vo": "Theo Pinson"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "BR",
-          "term": "knicks x nets",
-          "volume": 200
-        }
-      ],
-      "newsUrls": [
-        "https://nypost.com/2026/11/02/sports/nets-visit-knicks-with-fresh-memories-of-terrible-2025-26-blowouts/",
-        "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/02/and-when-things-are-easier-off-the-court-when/92565013007/",
-        "https://sports.yahoo.com/articles/monday-brings-another-visit-madison-165758013.html"
-      ],
-      "spike": 0,
-      "score": 57,
-      "decision": "accept",
-      "reasons": [],
       "onSite": false
     },
     {
@@ -26600,7 +26138,7 @@
         }
       ],
       "newsUrls": [
-        "https://www.programme-tv.net/news/tv/410232-les-duos-impossibles-de-jeremy-ferrari-pourquoi-il-ne-faut-pas-manquer-les-deux-soirees-animees-par-paul-mirabel-sur-canal/",
+        "https://www.cesoirtv.com/programme/1105405745/les-duos-impossibles-de-jeremy-ferrari-8eme-edition.php",
         "https://www.baz-art.org/2026/10/les-duos-impossibles-de-ferrari-11e-edition-un-spectacle-inedit-en-deux-parties/les-28-et-29-octobre-a-21h10-sur-canal.html",
         "https://www.sortiraparis.com/scenes/spectacle/articles/355995-les-duos-impossibles-de-jeremy-ferrari-deux-soirees-sur-canal"
       ],
@@ -26608,6 +26146,43 @@
       "score": 57,
       "decision": "accept",
       "reasons": [],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q115522167",
+      "name": "Braden Smith",
+      "description": "American basketball player (born 2003)",
+      "category": "athletes",
+      "occupations": [
+        "basketball player"
+      ],
+      "birthYear": 2003,
+      "deathYear": null,
+      "sitelinks": 3,
+      "wikipedia": {
+        "en": "Braden Smith (basketball)",
+        "es": "Braden Smith (baloncestista)",
+        "sv": "Braden Smith"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "US",
+          "term": "braden smith",
+          "volume": 500
+        }
+      ],
+      "newsUrls": [
+        "https://www.hoopsrumors.com/2026/11/injury-notes-pacers-strus-clippers-kyrie-sarr-beekman.html",
+        "https://www.indystar.com/story/sports/nba/pacers/2026/11/02/pacers-injury-update-pascal-siakam-aaron-nesmith-and-andrew-nembhard-out-whos-left/92566827007/",
+        "https://sports.yahoo.com/articles/braden-smith-starting-severely-short-232402248.html"
+      ],
+      "spike": 0.9,
+      "score": 56,
+      "decision": "reject",
+      "reasons": [
+        "only 3 Wikipedia editions (needs 5)"
+      ],
       "onSite": false
     },
     {
@@ -26724,6 +26299,46 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q111367946",
+      "name": "Amine Kessaci",
+      "description": "French activist (born 2003)",
+      "category": null,
+      "occupations": [
+        "student"
+      ],
+      "birthYear": 2003,
+      "deathYear": null,
+      "sitelinks": 5,
+      "wikipedia": {
+        "de": "Amine Kessaci",
+        "en": "Amine Kessaci",
+        "eu": "Amine Kessaci",
+        "fr": "Amine Kessaci",
+        "vo": "Amine Kessaci"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "FR",
+          "term": "amine kessaci",
+          "volume": 200
+        }
+      ],
+      "newsUrls": [
+        "https://www.lefigaro.fr/marseille/le-tireur-c-est-oualane-le-commanditaire-c-est-harrat-au-proces-de-l-assassinat-du-frere-d-amine-kessaci-les-aveux-explosifs-d-un-accuse-20261102",
+        "https://www.lemonde.fr/societe/article/2026/11/02/aux-proces-du-triple-narchomicide-de-2020-face-a-la-douleur-des-meres-un-accuse-pointe-les-roles-cles-d-amine-oualane-et-karim-harrat_6805321_3224.html",
+        "https://www.leparisien.fr/faits-divers/la-personne-qui-a-tire-cest-amine-oualane-face-aux-temoignages-de-meres-brisees-un-accuse-balance-au-proces-du-triple-meurtre-de-marseille-02-11-2026-WT4GWFHPP5DTLIDM3LK3XG5L6E.php"
+      ],
+      "spike": 0.5,
+      "score": 56,
+      "decision": "reject",
+      "reasons": [
+        "news mentions \"meurtre\", likely crime or tragedy context",
+        "no matching site category"
+      ],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q3018298",
       "name": "David Lisnard",
       "description": "French politician",
@@ -26763,43 +26378,46 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q118333955",
-      "name": "Gabriel Galípolo",
-      "description": "Brazilian economist",
-      "category": "business",
+      "wikidataId": "Q5789239",
+      "name": "Marisa Manchado",
+      "description": "Spanish composer (1956-2026)",
+      "category": "artists",
       "occupations": [
-        "economist",
-        "university teacher",
-        "writer",
-        "banker"
+        "composer",
+        "pianist",
+        "teacher",
+        "librettist",
+        "classical pianist",
+        "university teacher"
       ],
-      "birthYear": 1982,
-      "deathYear": null,
-      "sitelinks": 5,
+      "birthYear": 1956,
+      "deathYear": 2026,
+      "sitelinks": 7,
       "wikipedia": {
-        "bg": "Габриел Галиполо",
-        "de": "Gabriel Galípolo",
-        "en": "Gabriel Galípolo",
-        "es": "Gabriel Galípolo",
-        "pt": "Gabriel Galípolo"
+        "ast": "Marisa Manchado",
+        "ca": "Marisa Manchado",
+        "en": "Marisa Manchado",
+        "es": "Marisa Manchado",
+        "eu": "Marisa Manchado Torres",
+        "fr": "Marisa Manchado",
+        "ja": "マリサ・マンチャド"
       },
       "signals": [
         {
-          "source": "google-trends",
-          "where": "BR",
-          "term": "gabriel galípolo",
-          "volume": 200
+          "source": "wikipedia-top",
+          "where": "es",
+          "term": "Marisa Manchado",
+          "volume": 3021
         }
       ],
-      "newsUrls": [
-        "https://economia.uol.com.br/noticias/redacao/2026/11/02/bc-deve-avaliar-efeito-negativo-dos-juros-na-divida-disse-galipolo-em-2017.htm",
-        "https://www1.folha.uol.com.br/mercado/2026/11/aliados-de-lula-fazem-ofensiva-contra-pressao-do-mercado-financeiro-as-vesperas-do-copom.shtml",
-        "https://www.cnnbrasil.com.br/politica/mercado-financeiro-tem-o-dna-do-autoritarismo-diz-gleisi-hoffmann/"
-      ],
-      "spike": 0.3,
+      "newsUrls": [],
+      "spike": 0.9,
       "score": 55,
-      "decision": "accept",
-      "reasons": [],
+      "decision": "reject",
+      "reasons": [
+        "recent death, write with care",
+        "pageview spike 0.9x is below 2x"
+      ],
       "onSite": false
     },
     {
@@ -26930,50 +26548,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q5038740",
-      "name": "Marieta Severo",
-      "description": "Brazilian actress",
-      "category": "artists",
-      "occupations": [
-        "actor",
-        "television actor",
-        "screenwriter",
-        "theatrical producer"
-      ],
-      "birthYear": 1946,
-      "deathYear": null,
-      "sitelinks": 11,
-      "wikipedia": {
-        "ar": "مارييتا سيفيرو",
-        "arz": "مارييتا سيفيرو",
-        "en": "Marieta Severo",
-        "es": "Marieta Severo",
-        "fa": "ماریتا سورو",
-        "frp": "Marieta Severo",
-        "ko": "마리에타 세베루",
-        "pt": "Marieta Severo",
-        "sw": "Marieta Severo",
-        "tk": "Marieta Severo",
-        "ur": "مارییتا سیویرو"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "pt",
-          "term": "Marieta Severo",
-          "volume": 2218
-        }
-      ],
-      "newsUrls": [],
-      "spike": 0,
-      "score": 55,
-      "decision": "reject",
-      "reasons": [
-        "pageview spike 0.0x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q10264359",
       "name": "Davi Alcolumbre",
       "description": "Brazilian politician, Senator of the Republic since 2015, 66th and 68th President of the Federal Senate of Brazil (2019–2021; 2025–present)",
@@ -27095,48 +26669,6 @@
       "reasons": [
         "recent death, write with care",
         "pageview spike 0.6x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q5789239",
-      "name": "Marisa Manchado",
-      "description": "Spanish composer (1956-2026)",
-      "category": "artists",
-      "occupations": [
-        "composer",
-        "pianist",
-        "teacher",
-        "librettist",
-        "classical pianist",
-        "university teacher"
-      ],
-      "birthYear": 1956,
-      "deathYear": 2026,
-      "sitelinks": 6,
-      "wikipedia": {
-        "ast": "Marisa Manchado",
-        "ca": "Marisa Manchado",
-        "en": "Marisa Manchado",
-        "es": "Marisa Manchado",
-        "eu": "Marisa Manchado Torres",
-        "fr": "Marisa Manchado"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "es",
-          "term": "Marisa Manchado",
-          "volume": 3021
-        }
-      ],
-      "newsUrls": [],
-      "spike": 0.9,
-      "score": 54,
-      "decision": "reject",
-      "reasons": [
-        "recent death, write with care",
-        "pageview spike 0.9x is below 2x"
       ],
       "onSite": false
     },
@@ -27281,52 +26813,12 @@
         }
       ],
       "newsUrls": [],
-      "spike": 0,
+      "spike": 0.2,
       "score": 53,
       "decision": "reject",
       "reasons": [
         "no matching site category",
-        "pageview spike 0.0x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q331530",
-      "name": "Pierre Chanal",
-      "description": "French murderer (1946-2003)",
-      "category": null,
-      "occupations": [
-        "serial killer",
-        "military personnel"
-      ],
-      "birthYear": 1946,
-      "deathYear": 2003,
-      "sitelinks": 7,
-      "wikipedia": {
-        "arz": "پير تشانال",
-        "de": "Pierre Chanal",
-        "en": "Pierre Chanal",
-        "fr": "Pierre Chanal",
-        "it": "Pierre Chanal",
-        "pl": "Pierre Chanal",
-        "vo": "Pierre Chanal"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "fr",
-          "term": "Pierre Chanal",
-          "volume": 4997
-        }
-      ],
-      "newsUrls": [],
-      "spike": 0,
-      "score": 53,
-      "decision": "reject",
-      "reasons": [
-        "sensitive manner of death",
-        "no matching site category",
-        "pageview spike 0.0x is below 2x"
+        "pageview spike 0.2x is below 2x"
       ],
       "onSite": false
     },
@@ -27359,6 +26851,43 @@
       "reasons": [
         "only 1 Wikipedia editions (needs 5)",
         "pageview spike 0.9x is below 2x"
+      ],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q112250889",
+      "name": "Renan Bolsonaro",
+      "description": "Councilor of the Municipality of Balneário Camboriú in the state of Santa Catarina, Brazil and son of former president Jair Bolsonaro",
+      "category": null,
+      "occupations": [
+        "politician"
+      ],
+      "birthYear": 1998,
+      "deathYear": null,
+      "sitelinks": 6,
+      "wikipedia": {
+        "ceb": "Renan Bolsonaro",
+        "en": "Jair Renan Bolsonaro",
+        "fr": "Renan Bolsonaro",
+        "mg": "Jair Renan Bolsonaro",
+        "pt": "Jair Renan Bolsonaro",
+        "ru": "Болсонару, Жаир Ренан"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "pt",
+          "term": "Jair Renan Bolsonaro",
+          "volume": 2286
+        }
+      ],
+      "newsUrls": [],
+      "spike": 0.2,
+      "score": 52,
+      "decision": "reject",
+      "reasons": [
+        "no matching site category",
+        "pageview spike 0.2x is below 2x"
       ],
       "onSite": false
     },
@@ -27401,78 +26930,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q112250889",
-      "name": "Renan Bolsonaro",
-      "description": "Councilor of the Municipality of Balneário Camboriú in the state of Santa Catarina, Brazil and son of former president Jair Bolsonaro",
-      "category": null,
-      "occupations": [
-        "politician"
-      ],
-      "birthYear": 1998,
-      "deathYear": null,
-      "sitelinks": 6,
-      "wikipedia": {
-        "ceb": "Renan Bolsonaro",
-        "en": "Jair Renan Bolsonaro",
-        "fr": "Renan Bolsonaro",
-        "mg": "Jair Renan Bolsonaro",
-        "pt": "Jair Renan Bolsonaro",
-        "ru": "Болсонару, Жаир Ренан"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "pt",
-          "term": "Jair Renan Bolsonaro",
-          "volume": 2286
-        }
-      ],
-      "newsUrls": [],
-      "spike": 0,
-      "score": 51,
-      "decision": "reject",
-      "reasons": [
-        "no matching site category",
-        "pageview spike 0.0x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q60197133",
-      "name": "Federico Bal",
-      "description": "Argentine actor",
-      "category": "artists",
-      "occupations": [
-        "actor"
-      ],
-      "birthYear": 1901,
-      "deathYear": null,
-      "sitelinks": 1,
-      "wikipedia": {
-        "es": "Fede Bal"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "AR",
-          "term": "fede bal",
-          "volume": 200
-        }
-      ],
-      "newsUrls": [
-        "https://www.losandes.com.ar/espectaculos/carmen-barbieri-mostro-la-casa-su-hijo-fede-bal-un-bano-estilo-mexicano-y-una-habitacion-llena-coleccionables-n6012705",
-        "https://www.lasrosas.com.ar/portal/montecarlo-restaurante-inauguro-su-propuesta-mediterranea-en-puerto-madero/",
-        "https://www.parati.com.ar/news/vidriera-de-araceli-gonzalez-a-teresa-calandra-los-famosos-en-un-evento-gourmet-convocados-por-gaby-alvarez/"
-      ],
-      "spike": 1.2,
-      "score": 50,
-      "decision": "reject",
-      "reasons": [
-        "only 1 Wikipedia editions (needs 5)"
-      ],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q51882553",
       "name": "Renan Santos",
       "description": "founder of Movimento Brasil Livre (MBL), Brazilian political activist, and 1st president of Mission Party",
@@ -27499,11 +26956,47 @@
         }
       ],
       "newsUrls": [],
-      "spike": 0,
+      "spike": 0.2,
+      "score": 51,
+      "decision": "reject",
+      "reasons": [
+        "pageview spike 0.2x is below 2x"
+      ],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q130476840",
+      "name": "Lucas Pavanato",
+      "description": "Brazilian politician, right-wing activist and Member of the City Council of São Paulo in the state of São Paulo, Brazil since 2025",
+      "category": "creators",
+      "occupations": [
+        "influencer",
+        "politician"
+      ],
+      "birthYear": 1998,
+      "deathYear": null,
+      "sitelinks": 4,
+      "wikipedia": {
+        "en": "Lucas Pavanato",
+        "es": "Lucas Pavanato",
+        "mg": "Lucas Pavanato",
+        "pt": "Lucas Pavanato"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "pt",
+          "term": "Lucas Pavanato",
+          "volume": 2158
+        }
+      ],
+      "newsUrls": [],
+      "spike": 0.5,
       "score": 50,
       "decision": "reject",
       "reasons": [
-        "pageview spike 0.0x is below 2x"
+        "only 4 Wikipedia editions (needs 5)",
+        "pageview spike 0.5x is below 2x"
       ],
       "onSite": false
     },
@@ -27538,6 +27031,41 @@
         "only 2 Wikipedia editions (needs 5)",
         "no matching site category",
         "pageview spike 0.9x is below 2x"
+      ],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q106543097",
+      "name": "Carolina Carvalho",
+      "description": "Portuguese actress",
+      "category": "artists",
+      "occupations": [
+        "actor"
+      ],
+      "birthYear": 1994,
+      "deathYear": null,
+      "sitelinks": 1,
+      "wikipedia": {
+        "pt": "Carolina Carvalho"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "PT",
+          "term": "carolina carvalho e david carreira",
+          "volume": 100
+        }
+      ],
+      "newsUrls": [
+        "https://www.cmjornal.pt/vidas/ultimas/detalhe/o-gesto-de-david-carreira-e-carolina-carvalho-que-da-novo-indicio-sobre-possivel-separacao",
+        "https://sic.pt/sic-caras/passadeira-vermelha/2026-11-02-apos-rumores-de-crise-na-relacao-com-carolina-carvalho-david-carreira-pronuncia-se-gosto-de-viver-a-minha-vida-assim-fc4284fa",
+        "https://tvi.iol.pt/vmais/david-carreira/carolina-carvalho/sinal-definitivo-de-crise-na-relacao-famoso-casal-portugues-toma-decisao-que-parece-confirmar-separacao"
+      ],
+      "spike": 1.2,
+      "score": 49,
+      "decision": "reject",
+      "reasons": [
+        "only 1 Wikipedia editions (needs 5)"
       ],
       "onSite": false
     },
@@ -27606,42 +27134,6 @@
         "only 2 Wikipedia editions (needs 5)",
         "no matching site category",
         "pageview spike 0.3x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q130476840",
-      "name": "Lucas Pavanato",
-      "description": "Brazilian politician, right-wing activist and Member of the City Council of São Paulo in the state of São Paulo, Brazil since 2025",
-      "category": "creators",
-      "occupations": [
-        "influencer",
-        "politician"
-      ],
-      "birthYear": 1998,
-      "deathYear": null,
-      "sitelinks": 4,
-      "wikipedia": {
-        "en": "Lucas Pavanato",
-        "es": "Lucas Pavanato",
-        "mg": "Lucas Pavanato",
-        "pt": "Lucas Pavanato"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "pt",
-          "term": "Lucas Pavanato",
-          "volume": 2158
-        }
-      ],
-      "newsUrls": [],
-      "spike": 0,
-      "score": 48,
-      "decision": "reject",
-      "reasons": [
-        "only 4 Wikipedia editions (needs 5)",
-        "pageview spike 0.0x is below 2x"
       ],
       "onSite": false
     },
@@ -27786,6 +27278,42 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q15120093",
+      "name": "José María Muscari",
+      "description": "Argentinian actor",
+      "category": "artists",
+      "occupations": [
+        "actor",
+        "film director"
+      ],
+      "birthYear": 1976,
+      "deathYear": null,
+      "sitelinks": 1,
+      "wikipedia": {
+        "es": "José María Muscari"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "AR",
+          "term": "josé maría muscari",
+          "volume": 100
+        }
+      ],
+      "newsUrls": [
+        "https://www.infobae.com/teleshow/2026/11/02/asi-fue-la-emotiva-fiesta-de-80-anos-de-cuky-la-madre-de-jose-maria-muscari-no-lo-voy-a-olvidar-nunca-mas/",
+        "https://www.parati.com.ar/news/jose-maria-muscari-mostro-el-intimo-festejo-por-los-80-anos-de-su-mama-la-sorpresa-de-lucio-que-emociono-a-todos/",
+        "https://www.canalnet.tv/programas/entrometidos-en-la-tele/fondo-de-olla-la-obra-a-la-gorra-de-jose-maria-muscari-de-adriana-aguirre-a-raul-rizzo-y-silvia-peyrou-en-el-elenco_20261102/"
+      ],
+      "spike": 0.7,
+      "score": 47,
+      "decision": "reject",
+      "reasons": [
+        "only 1 Wikipedia editions (needs 5)"
+      ],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q130321125",
       "name": "Luis Pedro Marco",
       "description": "",
@@ -27848,6 +27376,42 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q96668522",
+      "name": "Ali Rabeh",
+      "description": "French politician",
+      "category": null,
+      "occupations": [
+        "politician",
+        "corporate administrative and commercial executive",
+        "corporate administrative and commercial executive",
+        "miscellaneous persons without work under 60 excluding retirees"
+      ],
+      "birthYear": 1984,
+      "deathYear": null,
+      "sitelinks": 1,
+      "wikipedia": {
+        "fr": "Ali Rabeh"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "fr",
+          "term": "Ali Rabeh",
+          "volume": 4961
+        }
+      ],
+      "newsUrls": [],
+      "spike": 0.3,
+      "score": 44,
+      "decision": "reject",
+      "reasons": [
+        "only 1 Wikipedia editions (needs 5)",
+        "no matching site category",
+        "pageview spike 0.3x is below 2x"
+      ],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q10289881",
       "name": "Giovanna Gold",
       "description": "Brazilian actress",
@@ -27876,74 +27440,6 @@
       "reasons": [
         "only 1 Wikipedia editions (needs 5)",
         "pageview spike 0.8x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q96668522",
-      "name": "Ali Rabeh",
-      "description": "French politician",
-      "category": null,
-      "occupations": [
-        "politician",
-        "corporate administrative and commercial executive",
-        "corporate administrative and commercial executive",
-        "miscellaneous persons without work under 60 excluding retirees"
-      ],
-      "birthYear": 1984,
-      "deathYear": null,
-      "sitelinks": 1,
-      "wikipedia": {
-        "fr": "Ali Rabeh"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "fr",
-          "term": "Ali Rabeh",
-          "volume": 4961
-        }
-      ],
-      "newsUrls": [],
-      "spike": 0,
-      "score": 43,
-      "decision": "reject",
-      "reasons": [
-        "only 1 Wikipedia editions (needs 5)",
-        "no matching site category",
-        "pageview spike 0.0x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q18707790",
-      "name": "Tavinho Fialho",
-      "description": "Brazilian musician (1960-1993)",
-      "category": "artists",
-      "occupations": [
-        "musician"
-      ],
-      "birthYear": 1960,
-      "deathYear": 1993,
-      "sitelinks": 1,
-      "wikipedia": {
-        "pt": "Tavinho Fialho"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "pt",
-          "term": "Tavinho Fialho",
-          "volume": 2324
-        }
-      ],
-      "newsUrls": [],
-      "spike": 0,
-      "score": 42,
-      "decision": "reject",
-      "reasons": [
-        "only 1 Wikipedia editions (needs 5)",
-        "pageview spike 0.0x is below 2x"
       ],
       "onSite": false
     }
