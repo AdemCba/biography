@@ -76,8 +76,8 @@ const BASE: Record<Locale, Record<Exclude<LegalKey, "imprint">, LegalPage>> = {
       ],
     },
     disclaimer: {
-      title: "Aviso legal",
-      footer: "Aviso legal",
+      title: "Descargo de responsabilidad",
+      footer: "Descargo de responsabilidad",
       body: "Orbivida publica biografías y artículos de actualidad con fines informativos. Léelo antes de basarte en algo que encuentres aquí.",
       sections: [
         { heading: "Exactitud", text: "Cada dato se comprueba con las fuentes que citamos, pero la vida de las personas cambia rápido y las fuentes pueden equivocarse. Cifras como patrimonio, salarios o traspasos son estimaciones publicadas por terceros. Si ves un error, avísanos desde la página de contacto y lo corregiremos." },
@@ -115,8 +115,8 @@ const BASE: Record<Locale, Record<Exclude<LegalKey, "imprint">, LegalPage>> = {
       ],
     },
     disclaimer: {
-      title: "Aviso legal",
-      footer: "Aviso legal",
+      title: "Isenção de responsabilidade",
+      footer: "Isenção de responsabilidade",
       body: "A Orbivida publica biografias e matérias explicativas para fins informativos. Leia isto antes de confiar em algo que encontrar aqui.",
       sections: [
         { heading: "Precisão", text: "Cada fato é conferido com as fontes que citamos, mas a vida das pessoas muda rápido e as fontes podem errar. Números como patrimônio, salários ou valores de transferência são estimativas publicadas por terceiros. Se encontrar um erro, avise pela página de contato e vamos corrigir." },

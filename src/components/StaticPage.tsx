@@ -10,6 +10,20 @@ import { pageMetadata } from "@/lib/seo";
 
 type Key = keyof Dictionary["pages"];
 
+/**
+ * An email address Cloudflare leaves alone: its "email obfuscation" otherwise turns every address into a
+ * /cdn-cgi/l/email-protection link that crawlers (Semrush, Google) report as a broken internal link.
+ */
+export function EmailOff({ email, link = false }: { email: string; link?: boolean }) {
+  const html = link ? `<a href="mailto:${email}">${email}</a>` : email;
+  return <span dangerouslySetInnerHTML={{ __html: `<!--email_off-->${html}<!--/email_off-->` }} />;
+}
+
+/** Text with the contact address and bare https:// URLs made safe and clickable. */
+export function richText(text: string) {
+  return text.split(site.contactEmail).flatMap((part, i) => (i ? [<EmailOff key={`e${i}`} email={site.contactEmail} />, ...linkify(part)] : linkify(part)));
+}
+
 /** Plain text with bare https:// URLs turned into links. */
 export function linkify(text: string) {
   return text.split(/(https:\/\/[^\s]+?)(?=[.,;]?(?:\s|$))/).map((part, i) =>
@@ -64,14 +78,14 @@ export function staticPage(key: Key) {
         <p>{page.body}</p>
         {key === "contact" && (
           <p>
-            <a href={`mailto:${site.contactEmail}`}>{site.contactEmail}</a>
+            <EmailOff email={site.contactEmail} link />
           </p>
         )}
         {key === "about" && <p>{aboutStats(locale)}</p>}
         {sections(locale, key).map((section) => (
           <section key={section.heading}>
             <h2>{section.heading}</h2>
-            <p>{linkify(fillTrust(section.text, { email: site.contactEmail }))}</p>
+            <p>{richText(fillTrust(section.text, { email: site.contactEmail }))}</p>
           </section>
         ))}
         {editors.length > 0 && (
