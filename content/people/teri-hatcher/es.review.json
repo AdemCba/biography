@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-03",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 8 December 1964; birthplace Sunnyvale per Encyclopedia.com, Palo Alto per TV Guide (disagreement stated)",
+      "sourceIds": [
+        "encyclopedia",
+        "tvguide"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened both; birth date from encyclopedia.com."
+    },
+    {
+      "claim": "Parents, Fremont High cheer captain, De Anza math, ACT classes, 1984 Gold Rush",
+      "sourceIds": [
+        "encyclopedia",
+        "tvguide",
+        "supanova"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches pages."
+    },
+    {
+      "claim": "1985 Love Boat Amy; MacGyver Penny Parker; Seinfeld 1993; Big Picture 1989, Soapdish 1991",
+      "sourceIds": [
+        "tvguide",
+        "supanova",
+        "encyclopedia"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Lois & Clark 1993-1997 opposite Dean Cain; VQT nomination 1994; Golden Apple 1996",
+      "sourceIds": [
+        "encyclopedia",
+        "pinknews-prada",
+        "tvguide"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Tomorrow Never Dies 1997 Paris Carver; Two Days in the Valley 1996; Cabaret tour 1999 Sally Bowles; Addams Family Morticia",
+      "sourceIds": [
+        "encyclopedia",
+        "westendbestfriend",
+        "timeout-prada",
+        "supanova",
+        "hachette-burnt-toast"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Desperate Housewives 2004-2012; Golden Globe win 2005 and nomination 2006; Emmy nomination 2005; SAG win",
+      "sourceIds": [
+        "pinknews-prada",
+        "golden-globes",
+        "emmys",
+        "hachette-burnt-toast"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Burnt Toast 2006, audiobook on sale 2 May 2006, CBS speech quote",
+      "sourceIds": [
+        "hachette-burnt-toast",
+        "cbs-burnt-toast"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Supergirl Rhea episode aired 20 March 2017; Smallville Ella Lane; Teen Choice 2017 nomination",
+      "sourceIds": [
+        "comicbookmovie-supergirl",
+        "supanova",
+        "tvguide"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Prada West End: announced 7 Sep 2026, Williams last show 19 Sep, Kurup until 17 Oct, start 20 Oct, ends 6 Feb 2027, booking to 25 Sep 2027, quotes",
+      "sourceIds": [
+        "whatsonstage-announce",
+        "pinknews-prada",
+        "timeout-prada",
+        "whatsonstage-first-look"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Marriages 1988-89 and 1994-2003; daughter Emerson Rose; 2024 Hinge interview",
+      "sourceIds": [
+        "encyclopedia",
+        "hachette-burnt-toast",
+        "ctpublic"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline with dates for the October 2026 West End run, which aggregator results lack.",
+  "decision": "approve",
+  "summary": "All checked claims match the opened sources."
+}

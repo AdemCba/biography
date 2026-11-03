@@ -1,8 +1,11 @@
 ---
 title: MrBeast
 slug: mrbeast
-metaTitle: 'MrBeast: Alter ({age}), Vermögen, Abonnenten, Herkunft'
-metaDescription: "MrBeast ist {age} Jahre alt (geboren am 7. Mai 1998). Herkunft, 500 Millionen YouTube-Abonnenten, Beast Games, Feastables und sein geschätztes Vermögen."
+metaTitle: 'MrBeast: Alter ({age}), Vermögen und 500 Mio. Abonnenten'
+metaDescription: >-
+  Wie aus Jimmy Donaldson aus Wichita und Greenville der erste Creator mit 500
+  Millionen Abonnenten wurde, wie alt er ist und was zu seinem Vermögen bekannt
+  ist.
 knownFor: >-
   US-amerikanischer YouTuber, Gründer von Beast Industries und Moderator von
   Beast Games
@@ -15,8 +18,9 @@ summary: >-
   Industries.
 status: published
 risk: low
-reviewedAt: '2026-10-26'
-reviewBy: '2027-04-26'
+publishedAt: '2026-11-03'
+reviewedAt: '2026-11-03'
+reviewBy: '2027-05-03'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -31,6 +35,10 @@ targetQueries:
   - was ist Feastables
   - was ist Beast Industries
   - wann hat MrBeast mit YouTube angefangen
+  - Mr Beast Alter
+  - MrBeast Vermögen 2026
+  - Mr Beast Herkunft
+  - wie reich ist Mr Beast
 faq:
   - q: Wie alt ist MrBeast?
     a: >-
@@ -50,12 +58,24 @@ faq:
   - q: Ist MrBeast verheiratet?
     a: >-
       Ja. Er heiratete 2026 Thea Booysen auf der Necker Island in den Britischen
-      Jungferninseln, mit rund 70 Gästen
-      [s:malaymail-wedding].
-autoReviews: 2
-publishedAt: '2026-10-26'
+      Jungferninseln, mit rund 70 Gästen [s:malaymail-wedding].
+  - q: Woher kommt MrBeast?
+    a: >-
+      Er wurde in Wichita, Kansas, geboren und wuchs überwiegend in Greenville,
+      North Carolina, auf [s:britannica-mrbeast] [s:biography-mrbeast].
+  - q: Wie reich ist MrBeast?
+    a: >-
+      Fortune berichtete im Januar 2026 von mindestens 2,6 Milliarden Dollar
+      Vermögen, ohne Schätzer und Stichdatum zu nennen
+      [s:fortune-net-worth-2026].
+autoReviews: 3
+publishedTime: '2026-11-03T21:20:56.147Z'
 ---
 Jimmy Donaldson, online bekannt als MrBeast, wurde am 7. Mai 1998 in Wichita, Kansas, geboren [s:britannica-mrbeast]. Im Juni 2026 überschritt sein Kanal die Marke von 500 Millionen Abonnenten, und YouTube bezeichnete ihn als ersten einzelnen Creator, der diese Zahl erreicht hat [s:youtube-blog-500m]. Diese Seite zeigt, wie ein Junge aus North Carolina dieses Publikum aufgebaut hat, was er darum herum geschaffen hat und wo die öffentlichen Zahlen weniger eindeutig sind, als sie scheinen.
+
+## Wie alt ist MrBeast, woher kommt er und wie reich ist er?
+
+MrBeast ist im November 2026 28 Jahre alt, geboren am 7. Mai 1998 in Wichita, Kansas, und aufgewachsen in Greenville, North Carolina [s:britannica-mrbeast] [s:biography-mrbeast]. Sein Kanal hat seit Juni 2026 mehr als 500 Millionen Abonnenten [s:youtube-blog-500m]. Zum Vermögen nennt Fortune im Januar 2026 mindestens 2,6 Milliarden Dollar, ohne Schätzer und Stichdatum, und Donaldson selbst sagt, er habe wenig Bargeld, weil er in seine Firmen reinvestiert [s:fortune-net-worth-2026].
 
 ## Kindheit in Greenville
 

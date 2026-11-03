@@ -1,10 +1,11 @@
 ---
 title: Sandro Wagner
 slug: sandro-wagner
-metaTitle: 'Sandro Wagner: Trainer bei Hannover 96 und Karriere'
+metaTitle: 'Sandro Wagner: Vom Stürmer zum Trainer in Hannover'
 metaDescription: >-
-  Geburtsdatum von Sandro Wagner, seine DFB-Länderspiele, die Stationen bei
-  Hertha und Hoffenheim und seine Verpflichtung als Hannover-96-Trainer 2026.
+  Warum Sandro Wagner nach Unterhaching, DFB und Augsburg Trainer von Hannover
+  96 wurde: alle Trainerstationen und seine Spielerkarriere von Bayern bis
+  China.
 knownFor: Ehemaliger Nationalspieler und Cheftrainer von Hannover 96
 summary: >-
   Sandro Wagner ist Cheftrainer von Hannover 96, dem Zweitligisten, der ihn im
@@ -14,8 +15,9 @@ summary: >-
   des FC Augsburg.
 status: published
 risk: low
-reviewedAt: '2026-10-27'
-reviewBy: '2027-04-27'
+publishedAt: '2026-11-03'
+reviewedAt: '2026-11-03'
+reviewBy: '2027-05-03'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -29,6 +31,11 @@ targetQueries:
   - Sandro Wagner Hoffenheim
   - Sandro Wagner Tianjin Teda
   - Sandro Wagner Karriere
+  - Sandro Wagner Trainer Stationen
+  - Wo hat Sandro Wagner gespielt
+  - Sandro Wagner Trainerkarriere
+  - Seit wann ist Sandro Wagner Trainer bei Hannover 96
+  - Sandro Wagner Spielerkarriere
 faq:
   - q: Wie alt ist Sandro Wagner?
     a: >-
@@ -48,10 +55,28 @@ faq:
       Sein DFB-Profil nennt den FC Bayern München, MSV Duisburg, Werder Bremen,
       1. FC Kaiserslautern, Hertha BSC, SV Darmstadt 98 und die TSG Hoffenheim.
       Seine Karriere beendete er beim Tianjin Teda in China.
-autoReviews: 1
-publishedAt: '2026-10-27'
+  - q: Seit wann ist Sandro Wagner Trainer bei Hannover 96?
+    a: >-
+      Hannover 96 bestätigte die Verpflichtung am Abend des 19. September 2026,
+      vorgestellt wurde er am 21. September 2026 [s:zdf-hannover-trainer]
+      [s:bundesliga-hannover-presser].
+  - q: Wo hat Sandro Wagner gespielt?
+    a: >-
+      Laut DFB-Profil beim FC Bayern München, MSV Duisburg, Werder Bremen, 1. FC
+      Kaiserslautern, Hertha BSC, SV Darmstadt 98 und der TSG Hoffenheim,
+      zuletzt bei Tianjin Teda [s:dfb-datencenter] [s:t-online-karriereende].
+  - q: Welche Trainerstationen hatte Sandro Wagner?
+    a: >-
+      SpVgg Unterhaching, Co-Trainer der U20 und der Nationalmannschaft, FC
+      Augsburg und seit September 2026 Hannover 96 [s:zdf-hannover-trainer].
+autoReviews: 2
+publishedTime: '2026-11-03T21:20:56.148Z'
 ---
 Sandro Wagner ist Cheftrainer des Zweitligisten Hannover 96, sein Vertrag läuft bis zum 30. Juni 2028 [s:zdf-hannover-trainer]. Bevor er ins Trainergeschäft wechselte, war er Nationalspieler: Er bestritt acht Länderspiele und erzielte in den Jahren 2017 und 2018 fünf Tore [s:berliner-kurier-hertha]. Sein Weg nach Hannover führte über die SpVgg Unterhaching, einen Regionalligisten, und eine Station als Cheftrainer beim FC Augsburg [s:bundesliga-augsburg-trainer].
+
+## Sandro Wagner: Trainerstationen und Spielerkarriere im Überblick
+
+Sandro Wagner ist seit September 2026 Trainer von Hannover 96, nachdem er zuvor Trainer bei der SpVgg Unterhaching, Co-Trainer beim DFB und Cheftrainer des FC Augsburg war [s:zdf-hannover-trainer]. Hannover bestätigte die Verpflichtung am Abend des 19. September 2026, vorgestellt wurde er am 21. September [s:zdf-hannover-trainer] [s:bundesliga-hannover-presser]. Die Trainerstationen in der Reihenfolge: Unterhaching ab 2021, U20 des DFB 2023, Co-Trainer der Nationalmannschaft, Augsburg 2025 und Hannover [s:sport1-unterhaching-2021] [s:sport1-u20-2023] [s:bundesliga-augsburg-trainer]. Als Spieler stand er laut DFB-Profil bei Bayern, Duisburg, Bremen, Kaiserslautern, Hertha, Darmstadt und Hoffenheim unter Vertrag und beendete die Karriere 2020 in China bei Tianjin Teda [s:dfb-datencenter] [s:t-online-karriereende].
 
 ## Jugend beim FC Bayern und erste Stationen
 

@@ -1,0 +1,155 @@
+{
+  "date": "2026-11-03",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 19 June 1983 in Clondalkin, Dublin",
+      "sourceIds": [
+        "irishcentral-bio",
+        "londontheatre-career"
+      ],
+      "verdict": "confirmed",
+      "note": "IrishCentral gives 19 June 1983 and Dublin; London Theatre gives Clondalkin and 1983."
+    },
+    {
+      "claim": "Ballroom dancer, apprentice electrician; Gaiety School graduate 2004",
+      "sourceIds": [
+        "londontheatre-career",
+        "gaiety-empire",
+        "irishtimes-2016"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened; matches."
+    },
+    {
+      "claim": "St Mac Dara's, Firhouse College, older brother, first Abbey job two months after graduating",
+      "sourceIds": [
+        "irishtimes-2016"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Empire Award Best Male Newcomer 2014 for Desolation of Smaug; Gaiety post 31 March 2014",
+      "sourceIds": [
+        "rte-empire",
+        "gaiety-empire"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Hobbit trilogy 2012-2014 as Kili; Jackson first considered him for an elf",
+      "sourceIds": [
+        "irishcentral-bio",
+        "londontheatre-career",
+        "irishtimes-2016"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "NTA 2016 Impact Award and Best Drama Performance nomination with Tennant, Smith, Jones; quotes",
+      "sourceIds": [
+        "londontheatre-career",
+        "irishexaminer-nta",
+        "rte-nta-nomination"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches; Examiner dated 21 Jan 2016."
+    },
+    {
+      "claim": "Rivals series 2 premiered 15 May 2026, 12 episodes in two batches of six, rest in November 2026, Declan O'Hara description, cast",
+      "sourceIds": [
+        "disney-rivals-s2",
+        "thejournal-rivals"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches Disney+ page."
+    },
+    {
+      "claim": "Les Liaisons Dangereuses, Lyttelton 21 March to 6 June 2026, NT Live 25 June, co-stars; four stars; Marianne Elliott",
+      "sourceIds": [
+        "rte-nt-live",
+        "broadwayworld-liaisons",
+        "londontheatre-career"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "National Theatre Next Chapter Gala, 5 March 2026",
+      "sourceIds": [
+        "rte-nt-gala"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Leonardo: Screen Daily 18 Oct 2019, Lux Vide, Big Light, Daniel Percival; 2021 per IrishCentral",
+      "sourceIds": [
+        "screendaily-leonardo",
+        "irishcentral-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "The Suspect: Dr Joe O'Loughlin, five parts, Peter Berry from Robotham's debut novel, early-onset Parkinson's",
+      "sourceIds": [
+        "rte-suspect"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches after wording fix."
+    },
+    {
+      "claim": "Fifteen-Love: Prime Video, 21 July 2023, six parts, Glenn Lapthorn, one of his darkest",
+      "sourceIds": [
+        "rte-fifteen-love"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "The Diplomat series 3 Callum Ellis, MI6 spy, bird watcher; article dated 16 Oct 2025",
+      "sourceIds": [
+        "cinemaholic-diplomat"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches; year in table taken from article date."
+    },
+    {
+      "claim": "Married Caitlin FitzGerald August 2020 in Italy; six guests; one child unconfirmed",
+      "sourceIds": [
+        "hello-wedding"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches, Hello! 7 Sept 2022."
+    },
+    {
+      "claim": "Family juggling quote July 2023; Nova Scotia; Married life is great 2024",
+      "sourceIds": [
+        "hello-family",
+        "hello-nova-scotia"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "West End debut 2018 Lieutenant of Inishmore, Grandage; Lemons 2023 Jenna Coleman, Josie Rourke",
+      "sourceIds": [
+        "londontheatre-career"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Sourced timeline plus 2026 Rivals and National Theatre news, written natively in this language.",
+  "decision": "approve",
+  "summary": "All checked claims match the opened sources; net worth and height are deliberately omitted."
+}

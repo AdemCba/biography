@@ -1,10 +1,10 @@
 ---
 title: Jensen Huang
 slug: jensen-huang
-metaTitle: 'Jensen Huang: edad, estudios y cómo fundó NVIDIA'
+metaTitle: 'Jensen Huang: edad, estudios, hijos y el origen de NVIDIA'
 metaDescription: >-
-  Jensen Huang tiene 63 años. Nació en Taiwán, estudió en Oregón y Stanford,
-  trabajó en AMD y LSI Logic y fundó NVIDIA en 1993, hoy valorada en billones.
+  Edad de Jensen Huang (63), qué estudió y quiénes son sus hijos. De un
+  internado de Kentucky a fundar NVIDIA en un Denny's con 40.000 dólares.
 knownFor: 'Cofundador, presidente y consejero delegado de NVIDIA'
 summary: >-
   Jensen Huang (Tainan, Taiwán, 17 de febrero de 1963) es el ingeniero que
@@ -13,8 +13,9 @@ summary: >-
   GPU, y tras 2012 se centró en la computación para inteligencia artificial.
 status: published
 risk: medium
-reviewedAt: '2026-10-26'
-reviewBy: '2027-04-26'
+publishedAt: '2026-11-03'
+reviewedAt: '2026-11-03'
+reviewBy: '2027-05-03'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -24,10 +25,27 @@ targetQueries:
   - quién fundó nvidia
   - jensen huang estudios
   - dónde nació jensen huang
+  - jensen huang qué estudió
+  - jensen huang hijos
+  - nvidia fundador
+  - ceo de nvidia jensen huang
+  - creador de nvidia
 faq:
+  - q: ¿Qué estudió Jensen Huang?
+    a: >-
+      Ingeniería eléctrica: se graduó en la Universidad Estatal de Oregón en
+      1984 y tiene también un máster en ingeniería eléctrica de Stanford.
+  - q: ¿Cuántos hijos tiene Jensen Huang?
+    a: >-
+      Dos, Madison y Spencer, que trabajan en NVIDIA: ella desde 2020, en el
+      área de Omniverse, y él desde 2022, en robótica.
+  - q: ¿Quién es el creador de NVIDIA y quién es su CEO?
+    a: >-
+      Jensen Huang, Chris Malachowsky y Curtis Priem la fundaron en 1993; Huang
+      es el consejero delegado (CEO) desde el principio.
   - q: ¿Cuántos años tiene Jensen Huang?
     a: >-
-      Tiene 63 años a 26 de octubre de 2026: nació el 17 de febrero de 1963 en
+      Tiene 63 años a 3 de noviembre de 2026: nació el 17 de febrero de 1963 en
       Tainan, Taiwán.
   - q: ¿Quién fundó NVIDIA?
     a: >-
@@ -44,8 +62,8 @@ faq:
       En Tainan, Taiwán, el 17 de febrero de 1963. Su familia se mudó a
       Tailandia cuando tenía cinco años y él llegó a Estados Unidos con nueve.
 autoRevisions: 1
-autoReviews: 3
-publishedAt: '2026-10-26'
+autoReviews: 4
+publishedTime: '2026-11-03T21:20:56.142Z'
 ---
 Jensen Huang tiene 63 años (a 26 de octubre de 2026): nació el 17 de febrero de 1963 en Tainan, Taiwán [s:britannica]. A los nueve estaba en Kentucky, lejos de sus padres, en un internado religioso para niños "difíciles" donde le tocaba limpiar los baños cada día [s:britannica]. Hoy preside la empresa que cofundó con otros dos ingenieros y que, el 29 de octubre de 2025, se convirtió en la primera compañía cotizada valorada en 5 billones de dólares (5 *trillion* en la escala estadounidense) [s:foxbusiness-5t].
 
@@ -82,6 +100,10 @@ NVIDIA presentó en 2018 RTX, que describe como la primera GPU capaz de trazar r
 El 29 de octubre de 2025 NVIDIA cerró con un valor de mercado de 5,03 billones de dólares, unos tres meses después de superar los 4 billones. Antes solo Apple y Microsoft habían pasado de los 4 billones [s:foxbusiness-5t]. Según la agencia Reuters, citada por Fox Business, la acción se había multiplicado por doce desde el lanzamiento de ChatGPT en 2022. El día anterior, la compañía había anunciado pedidos de chips de IA por 500.000 millones de dólares, siete superordenadores para el Gobierno de Estados Unidos y una inversión de 1.000 millones en Nokia [s:foxbusiness-5t].
 
 Huang resumió su visión en Fox News con una frase que en español sería: NVIDIA es "el motor de la mayor revolución industrial de la historia de la humanidad" (traducción nuestra) [s:foxbusiness-5t]. A fecha de este artículo sigue como presidente y consejero delegado [s:nvidia-bio].
+
+## Qué estudió Jensen Huang y cuántos hijos tiene
+
+Jensen Huang estudió ingeniería eléctrica (grado en la Universidad Estatal de Oregón y máster en Stanford) y tiene dos hijos, Madison y Spencer, que trabajan en NVIDIA [s:nvidia-bio] [s:vnexpress-children]. Conoció a su mujer, Lori, cuando ambos eran estudiantes de ingeniería en Oregón; ella mantiene un perfil bajo y cofundó con él la fundación familiar [s:vnexpress-children]. Madison entró en la compañía en 2020 como becaria de marketing y pasó a ser responsable de marketing de producto de Omniverse; antes había sido cocinera en Nueva York y San Francisco tras estudiar en Le Cordon Bleu [s:vnexpress-children]. Spencer llegó en 2022 como product manager del equipo Isaac Sim Cloud y hoy es responsable de línea de producto de robótica; antes dirigió un laboratorio de cócteles en Taipéi [s:vnexpress-children].
 
 ## Reconocimientos y fundación
 

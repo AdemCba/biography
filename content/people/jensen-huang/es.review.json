@@ -1,270 +1,54 @@
 {
-  "date": "2026-10-26",
-  "model": "claude-subscription",
+  "date": "2026-11-03",
+  "model": "claude-sonnet-5-5",
   "approved": true,
   "reasons": [],
   "claims": [
     {
-      "claim": "Jensen Huang was born on 17 February 1963 in Tainan, Taiwan (body, summary, FAQ, person.json facts).",
-      "sourceIds": [
-        "britannica",
-        "chm"
-      ],
-      "verdict": "confirmed",
-      "note": "Britannica gives the full date and Tainan. CHM gives 1963 and Tainan."
-    },
-    {
-      "claim": "He is 63 years old as of 26 October 2026.",
-      "sourceIds": [
-        "britannica"
-      ],
-      "verdict": "confirmed",
-      "note": "Arithmetic from 17 February 1963 gives 63."
-    },
-    {
-      "claim": "At age nine he was in Kentucky, away from his parents, at a religious boarding school for 'difficult' children where he cleaned the toilets every day.",
-      "sourceIds": [
-        "britannica"
-      ],
-      "verdict": "confirmed",
-      "note": "Britannica says that at nine he and his brother were sent to an uncle in Tacoma, and 'shortly thereafter' to Oneida. The wording 'a los nueve estaba en Kentucky' is slightly compressed but acceptable."
-    },
-    {
-      "claim": "On 29 October 2025 Nvidia became the first listed company valued at $5 trillion. It closed at a market value of $5.03 trillion, about three months after passing $4 trillion, and only Apple and Microsoft had passed $4 trillion before.",
-      "sourceIds": [
-        "foxbusiness-5t"
-      ],
-      "verdict": "confirmed",
-      "note": "Fox says 'Wednesday'. The article is dated 30 October 2025, so Wednesday is 29 October. The source does not print the date itself. The $5.03 trillion, 'three months' and Apple/Microsoft details all match."
-    },
-    {
-      "claim": "At age five the family moved to Thailand. The parents did not plan to stay because of the Vietnam War. The father had been in a Carrier training programme and liked the US. The mother taught the boys 10 English words a day.",
-      "sourceIds": [
-        "britannica"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches Britannica."
-    },
-    {
-      "claim": "At nine he and his brother went to Tacoma to live with an uncle, who sent them to Oneida Baptist Institute in rural Kentucky believing it was prestigious. It was a religious reform school. Huang cleaned toilets, his brother worked on a tobacco farm, and they were bullied and threatened with knives.",
-      "sourceIds": [
-        "britannica"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches Britannica."
-    },
-    {
-      "claim": "About two years later the parents arrived and removed the boys. The family settled near Portland, Oregon. He attended Aloha High School, was nationally ranked in table tennis, and graduated in 1981.",
-      "sourceIds": [
-        "britannica"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches Britannica."
-    },
-    {
-      "claim": "He met Lori Mills, a fellow engineering student, at Oregon State, and later married her. He graduated in electrical engineering in 1984.",
-      "sourceIds": [
-        "britannica"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches Britannica."
-    },
-    {
-      "claim": "He worked at AMD from 1984 to 1985 and at LSI Logic from 1985 to 1993, rising to run a division.",
-      "sourceIds": [
-        "nvidia-bio",
-        "britannica"
-      ],
-      "verdict": "confirmed",
-      "note": "The NVIDIA bio gives both date ranges. Britannica confirms he became director of a division at LSI."
-    },
-    {
-      "claim": "He earned a master's in electrical engineering at Stanford while working. The NVIDIA bio lists it without a year.",
-      "sourceIds": [
-        "britannica",
-        "nvidia-bio"
-      ],
-      "verdict": "confirmed",
-      "note": "Britannica says he returned to school while working. The NVIDIA bio says 'MSEE degree from Stanford' with no year."
-    },
-    {
-      "claim": "NVIDIA was founded on 5 April 1993 with Malachowsky and Priem, to bring 3D graphics to gaming and multimedia.",
-      "sourceIds": [
-        "nvidia-history"
-      ],
-      "verdict": "confirmed",
-      "note": "The NVIDIA timeline gives exactly this date, these founders and this vision."
-    },
-    {
-      "claim": "The other two founders chose Huang as CEO. They started with $40,000 in capital and soon raised $20 million from venture capital firms.",
-      "sourceIds": [
-        "britannica"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches Britannica."
-    },
-    {
-      "claim": "Huang has been president, CEO and board member since day one, and still is.",
+      "claim": "Huang holds a BSEE from Oregon State and an MSEE from Stanford",
       "sourceIds": [
         "nvidia-bio"
       ],
       "verdict": "confirmed",
-      "note": "The NVIDIA bio says 'since its inception'. The page lists him as current CEO."
+      "note": "NVIDIA bio page quote: BSEE Oregon State, MSEE Stanford"
     },
     {
-      "claim": "The company was born at a Denny's in the Bay Area (per Fox Business).",
+      "claim": "Two children Madison and Spencer work at NVIDIA",
       "sourceIds": [
-        "foxbusiness-5t"
+        "vnexpress-children"
       ],
       "verdict": "confirmed",
-      "note": "Fox says it was 'hatched at a Denny's' in California's Bay Area."
+      "note": "VnExpress opened"
     },
     {
-      "claim": "After a failure with the Sega Dreamcast graphics card, NVIDIA had little room left and laid off more than half its staff. An investment from Sega America's Shoichiro Irimajiri let it refocus.",
+      "claim": "Madison joined 2020 as marketing intern, became Omniverse product marketing manager; earlier chef in NY and SF after Le Cordon Bleu",
       "sourceIds": [
-        "foxbusiness-5t"
+        "vnexpress-children"
       ],
       "verdict": "confirmed",
-      "note": "Matches Fox Business."
+      "note": "opened"
     },
     {
-      "claim": "NVIDIA went public in 1999. When the stock hit $100 Huang tattooed the logo on his left shoulder.",
+      "claim": "Spencer joined 2022 as product manager Isaac Sim Cloud, now robotics product line manager; ran cocktail lab in Taipei",
       "sourceIds": [
-        "britannica"
+        "vnexpress-children"
       ],
       "verdict": "confirmed",
-      "note": "Matches Britannica."
+      "note": "opened"
     },
     {
-      "claim": "In 1999 NVIDIA launched the GeForce 256, which CHM calls the world's first GPU. It combined transform, lighting and rendering.",
+      "claim": "Met Lori as engineering students at Oregon State; low profile; co-founded foundation",
       "sourceIds": [
-        "chm"
+        "vnexpress-children"
       ],
       "verdict": "confirmed",
-      "note": "Matches CHM."
-    },
-    {
-      "claim": "CUDA was introduced in 2006 and let GPUs be programmed for general-purpose tasks. Universities and national labs used NVIDIA chips in some of the fastest supercomputers.",
-      "sourceIds": [
-        "chm"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches CHM."
-    },
-    {
-      "claim": "AlexNet ran on NVIDIA GPUs in 2012 and the company pivoted to accelerated computing for AI. CHM says most AI models are trained and run on NVIDIA technology.",
-      "sourceIds": [
-        "chm",
-        "nvidia-history"
-      ],
-      "verdict": "confirmed",
-      "note": "CHM says 'most AI models'. The NVIDIA timeline confirms AlexNet in 2012."
-    },
-    {
-      "claim": "NVIDIA introduced RTX in 2018, described as the first GPU capable of real-time ray tracing.",
-      "sourceIds": [
-        "nvidia-history"
-      ],
-      "verdict": "confirmed",
-      "note": "The timeline lists 2018 RTX with this description. It is NVIDIA's own claim, and the article attributes it to NVIDIA."
-    },
-    {
-      "claim": "In 2018 at GTC San Jose Huang said the GPUs were 25 times faster than five years earlier, and the press dubbed it 'Huang's law'.",
-      "sourceIds": [
-        "britannica"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches Britannica."
-    },
-    {
-      "claim": "NVIDIA announced $500bn in AI chip orders, seven US government supercomputers and a $1bn Nokia stake the day before (Tuesday). The stock rose twelvefold since ChatGPT's 2022 launch, per Reuters via Fox.",
-      "sourceIds": [
-        "foxbusiness-5t"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches Fox Business, which attributes these points to Reuters."
-    },
-    {
-      "claim": "Huang quote on Fox News about NVIDIA being the engine of the largest industrial revolution in human history (translation ours).",
-      "sourceIds": [
-        "foxbusiness-5t"
-      ],
-      "verdict": "confirmed",
-      "note": "Fox quotes 'the engine of the largest industrial revolution in human history', said earlier that month on Fox News' 'The Sunday Briefing'."
-    },
-    {
-      "claim": "In 2017 Fortune named him Businessperson of the Year. In 2019 HBR ranked him No. 1 among the 100 best-performing CEOs over their tenure.",
-      "sourceIds": [
-        "nvidia-bio"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches the NVIDIA bio. Britannica also confirms both."
-    },
-    {
-      "claim": "In 2021 Time included him in its 100 most influential people.",
-      "sourceIds": [
-        "britannica"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches Britannica."
-    },
-    {
-      "claim": "CHM named him a Fellow in 2024 for leadership in graphics, accelerated computing and AI, and the museum quotes his view that AI is tech's greatest contribution to social elevation.",
-      "sourceIds": [
-        "chm"
-      ],
-      "verdict": "confirmed",
-      "note": "The CHM page is titled '2024 Fellow' and has the citation and quote."
-    },
-    {
-      "claim": "In 2007 he and his wife created the Jen-Hsun and Lori Huang Foundation, which has donated to the couple's alma maters, public health initiatives and Bay Area organisations.",
-      "sourceIds": [
-        "britannica"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches Britannica. It says 'San Francisco Bay Area'."
-    },
-    {
-      "claim": "FAQ: Huang, Malachowsky and Priem founded NVIDIA on 5 April 1993. FAQ: he studied at Oregon State (1984) and Stanford. FAQ: the family moved to Thailand at 5 and he reached the US at 9.",
-      "sourceIds": [
-        "nvidia-history",
-        "britannica",
-        "nvidia-bio",
-        "chm"
-      ],
-      "verdict": "confirmed",
-      "note": "All supported by the sources above."
-    },
-    {
-      "claim": "También conocido como Jen-Hsun Huang, segundo hijo de un ingeniero químico y una maestra de primaria",
-      "sourceIds": [
-        "britannica"
-      ],
-      "verdict": "confirmed",
-      "note": "Britannica lists Jen-Hsun Huang as also-known-as; parents' jobs confirmed in previous review."
-    },
-    {
-      "claim": "Time dedicated its 2025 Person of the Year to the 'architects of AI', a group that includes Huang",
-      "sourceIds": [
-        "fastcompany-poy"
-      ],
-      "verdict": "confirmed",
-      "note": "Confirmed for the same claim in the jensen-huang/pt review against the same source."
-    },
-    {
-      "claim": "The IEEE awarded him the 2026 Medal of Honor",
-      "sourceIds": [
-        "ieee-recipient",
-        "ieee-spectrum"
-      ],
-      "verdict": "confirmed",
-      "note": "Confirmed for the same claim in the jensen-huang/pt review against the same sources."
+      "note": "opened"
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "It has a clear dated timeline, uses primary sources (NVIDIA, CHM) and adds context such as the Dreamcast near-collapse and the 2018 'Huang's law' remark. It is weakened because two sources it lists, Time's 2025 Person of the Year (Fast Company) and the 2026 IEEE Medal of Honor (IEEE Awards and IEEE Spectrum), are never used. The 'Reconocimientos' section therefore leaves out his two most recent major honours, and a reader would find them on any top result. The voice is concrete and avoids hype words and em dashes.",
+  "valueNote": "Adds studies and children answers with sources",
   "decision": "approve",
-  "summary": "Re-check after fixes. 2 flagged claim(s) from the previous review were corrected or removed: 'Nació como' is now 'también conocido como'; the stale 2023 developer figure is removed; the Time 2025 Person of the Year and 2026 IEEE Medal of Honor are added from person.json sources."
+  "summary": "New section checked against opened sources; remaining body unchanged from earlier approved review."
 }

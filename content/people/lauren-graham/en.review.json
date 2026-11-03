@@ -1,0 +1,142 @@
+{
+  "date": "2026-11-03",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 16 March 1967 in Honolulu",
+      "sourceIds": [
+        "tv-academy",
+        "prh-author"
+      ],
+      "verdict": "confirmed",
+      "note": "TV Academy states date and place."
+    },
+    {
+      "claim": "Parents, move to Alexandria at five, Langley 1984, Barnard BA 1988, SMU MFA, Equity card 1988",
+      "sourceIds": [
+        "tv-academy",
+        "prh-author"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches TV Academy bio; PRH confirms degrees."
+    },
+    {
+      "claim": "Gilmore Girls 2000-2007, 7 seasons, 154 episodes, The WB",
+      "sourceIds": [
+        "tv-academy",
+        "rotten-tomatoes"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources."
+    },
+    {
+      "claim": "2002 Golden Globe nomination, no other nominations",
+      "sourceIds": [
+        "golden-globes"
+      ],
+      "verdict": "confirmed",
+      "note": "Page lists one nomination."
+    },
+    {
+      "claim": "Broadway debut 2009 Miss Adelaide, Nederlander, March to June",
+      "sourceIds": [
+        "tv-academy"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Parenthood Sarah Braverman, 2010-2015 vs 2009 start",
+      "sourceIds": [
+        "rotten-tomatoes",
+        "tv-academy"
+      ],
+      "verdict": "confirmed",
+      "note": "Discrepancy of start year disclosed in article."
+    },
+    {
+      "claim": "Novel 2013; memoir 2016; three-time NYT bestselling; Have I Told You This Already? listed",
+      "sourceIds": [
+        "tv-academy",
+        "nme-memoir",
+        "prh-author"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "2016 co-presented Emmy nominations; no Emmy nominations",
+      "sourceIds": [
+        "tv-academy"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Filmography table roles",
+      "sourceIds": [
+        "rotten-tomatoes",
+        "peacock-reminders"
+      ],
+      "verdict": "confirmed",
+      "note": "Roles match."
+    },
+    {
+      "claim": "Krause: met on Parenthood, largely private until 2021, quotes, son Roman",
+      "sourceIds": [
+        "gma-krause"
+      ],
+      "verdict": "confirmed",
+      "note": "GMA text dated 3 Nov 2022; private-until-2021 wording is slightly ambiguous in source but reflected closely."
+    },
+    {
+      "claim": "Reminders of Him cast, 13 March 2026 US release, Peacock, Colleen Hoover",
+      "sourceIds": [
+        "peacock-reminders",
+        "extra-book"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Book announced 3 Dec 2025 on Today, fall 2027, Instagram quote, logline",
+      "sourceIds": [
+        "tvline-book"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Extra interview March 2026, story of friendship, no date",
+      "sourceIds": [
+        "extra-book"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "23 Sept 2026 Power of Women, documentary filmed part",
+      "sourceIds": [
+        "power-of-women-2026"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Lives in New York and Los Angeles; Mighty Ducks executive producer",
+      "sourceIds": [
+        "prh-author"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Sourced timeline, role table and 2026 news in one place.",
+  "decision": "approve",
+  "summary": "All checked claims match the opened sources."
+}

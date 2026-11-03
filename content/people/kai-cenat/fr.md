@@ -1,10 +1,10 @@
 ---
 title: Kai Cenat
 slug: kai-cenat
-metaTitle: 'Kai Cenat : âge, records Twitch et Streamer University'
+metaTitle: 'Kai Cenat : âge et parcours du streamer de Twitch'
 metaDescription: >-
-  Âge, lieu de naissance, records d'abonnés avec les Mafiathon, l'affaire de
-  Union Square en 2023, la marque Vivet et la Streamer University 2026.
+  Kai Cenat a 24 ans: de ses débuts sur Twitch en 2021 aux records d'abonnés de
+  ses Mafiathon, découvrez l'histoire du streamer new-yorkais.
 knownFor: >-
   Streamer américain connu pour les records d'abonnés de ses marathons Mafiathon
   sur Twitch
@@ -15,8 +15,9 @@ summary: >-
   University dans l'Arkansas, après une année plus discrète sur Twitch.
 status: published
 risk: medium
-reviewedAt: '2026-10-26'
-reviewBy: '2027-04-26'
+publishedAt: '2026-11-03'
+reviewedAt: '2026-11-03'
+reviewBy: '2027-05-03'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -32,6 +33,9 @@ targetQueries:
   - Kai Cenat TIME100 Creators
   - fortune de Kai Cenat
   - Kai Cenat arrestation Union Square
+  - Kai streamer
+  - âge Kai Cenat
+  - Kai Cenat Wikipédia
 faq:
   - q: Quel âge a Kai Cenat ?
     a: >-
@@ -49,10 +53,23 @@ faq:
       Tubefilter a rapporté en janvier 2026 qu'il n'arrête pas le streaming, et
       que sa vidéo « I Quit » portait sur la poursuite d'autres objectifs
       personnels [s:tubefilter-vivet-2026].
-autoReviews: 2
-publishedAt: '2026-10-26'
+  - q: 'Qui est Kai, le streamer ?'
+    a: >-
+      Kai Cenat est un streamer new-yorkais qui a commencé sur Twitch en 2021
+      [s:legit-ng-bio].
+  - q: Où trouver une page Wikipédia sur Kai Cenat ?
+    a: >-
+      Cette page est une biographie indépendante, construite à partir de la
+      presse et de sources officielles citées dans le texte, sans reprendre
+      Wikipédia.
+autoReviews: 3
+publishedTime: '2026-11-03T21:20:56.144Z'
 ---
 Kai Cenat est un streamer américain qui a bâti son audience sur Twitch avec Mafiathon, un marathon d'abonnements d'un mois pendant lequel il diffuse en continu, 24 heures sur 24 [s:techtimes-mafiathon-2]. Le nombre d'abonnés sert de mesure à ces marathons [s:dexerto-mafiathon-3]. Il est né le 16 décembre 2001 et vit désormais à Atlanta, en Géorgie [s:legit-ng-bio]. Sa troisième Mafiathon, en 2025, est la troisième fois qu'il bat le record d'abonnés de Twitch [s:tribune-mafiathon-3]. Depuis, il a annoncé une marque de vêtements et est revenu pour organiser une deuxième édition de la Streamer University.
+
+## Âge et débuts : qui est Kai Cenat, le streamer ?
+
+Kai Cenat a 24 ans : il est né le 16 décembre 2001 à New York et vit aujourd'hui à Atlanta, en Géorgie [s:legit-ng-bio]. Il a commencé à streamer sur Twitch en 2021 [s:legit-ng-bio]. Il a fréquenté le Morrisville State College, qu'il a quitté en 2020 [s:legit-ng-bio].
 
 ## Mafiathon 2 et le record doublé
 

@@ -1,0 +1,163 @@
+{
+  "id": "teri-hatcher",
+  "name": "Teri Hatcher",
+  "categories": [
+    "artists",
+    "actors"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1964-12-08",
+      "sources": [
+        "encyclopedia"
+      ]
+    },
+    "birthPlace": {
+      "value": "Sunnyvale, California, United States",
+      "sources": [
+        "encyclopedia",
+        "tvguide"
+      ],
+      "note": "Encyclopedia.com says Sunnyvale; TV Guide says Palo Alto."
+    },
+    "nationality": {
+      "value": [
+        "US"
+      ],
+      "sources": [
+        "encyclopedia"
+      ]
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "golden-globes",
+      "url": "https://www.goldenglobes.com/person/teri-hatcher",
+      "title": "Teri Hatcher, Golden Globes",
+      "publisher": "Golden Globe Awards",
+      "type": "award-body",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "emmys",
+      "url": "https://www.televisionacademy.com/bios/teri-hatcher",
+      "title": "Teri Hatcher, Television Academy",
+      "publisher": "Television Academy",
+      "type": "award-body",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "encyclopedia",
+      "url": "https://www.encyclopedia.com/books/culture-magazines/hatcher-teri",
+      "title": "Hatcher, Teri",
+      "publisher": "Encyclopedia.com",
+      "type": "other",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "hachette-burnt-toast",
+      "url": "https://www.hachettebookgroup.com/titles/teri-hatcher/burnt-toast/9781401385095",
+      "title": "Burnt Toast by Teri Hatcher",
+      "publisher": "Hachette Book Group",
+      "type": "company",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "tvguide",
+      "url": "https://www.tvguide.com/celebrities/teri-hatcher/bio/3000169739",
+      "title": "Teri Hatcher Biography",
+      "publisher": "TV Guide",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "supanova",
+      "url": "https://www.supanova.com.au/guests/teri-hatcher/",
+      "title": "Teri Hatcher, Supanova guest",
+      "publisher": "Supanova",
+      "type": "other",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "whatsonstage-announce",
+      "url": "https://www.whatsonstage.com/news/teri-hatcher-to-play-miranda-priestly-in-the-devil-wears-prada_1731074/",
+      "title": "Teri Hatcher to play Miranda Priestly in The Devil Wears Prada",
+      "publisher": "WhatsOnStage",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "whatsonstage-first-look",
+      "url": "https://www.whatsonstage.com/news/teri-hatcher-joins-the-devil-wears-prada-first-look_1736226/",
+      "title": "Teri Hatcher joins The Devil Wears Prada, first look",
+      "publisher": "WhatsOnStage",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "timeout-prada",
+      "url": "https://www.timeout.com/london/news/teri-hatcher-will-star-as-miranda-priestley-in-the-west-ends-the-devil-wears-prada-musical-090726",
+      "title": "Teri Hatcher will star as Miranda Priestley in the West End's The Devil Wears Prada",
+      "publisher": "Time Out London",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "pinknews-prada",
+      "url": "https://www.thepinknews.com/2026/09/07/teri-hatcher-devil-wears-prada-vanessa-williams/",
+      "title": "Teri Hatcher to take over Devil Wears Prada role",
+      "publisher": "PinkNews",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "comicbookmovie-supergirl",
+      "url": "https://www.comicbookmovie.com/tv/dc/supergirl/supergirl-teri-hatcher-kevin-sorbo-debut-as-rhea-lar-gand-in-new-stills-from-episode-16-star-crossed-a149686",
+      "title": "Supergirl: Teri Hatcher and Kevin Sorbo debut as Rhea and Lar Gand",
+      "publisher": "ComicBookMovie",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "ctpublic",
+      "url": "https://www.ctpublic.org/2024-02-01/actress-teri-hatcher-a-desperate-housewives-star-was-ready-to-find-love-again",
+      "title": "Actress Teri Hatcher was ready to find love again",
+      "publisher": "Connecticut Public",
+      "type": "interview",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "westendbestfriend",
+      "url": "https://www.westendbestfriend.co.uk/news/golden-globe-winning-actress-teri-hatcher-miranda-priestly-the-devil-wears-prada",
+      "title": "Golden Globe-winning actress Teri Hatcher to play Miranda Priestly in THE DEVIL WEARS PRADA",
+      "publisher": "West End Best Friend",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "cbs-burnt-toast",
+      "url": "https://www.cbsnews.com/news/teri-hatcher-to-write-advice-book",
+      "title": "Teri Hatcher to write advice book",
+      "publisher": "CBS News",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    }
+  ]
+}

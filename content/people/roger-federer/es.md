@@ -1,10 +1,10 @@
 ---
 title: Roger Federer
 slug: roger-federer
-metaTitle: 'Roger Federer: edad, Grand Slams y retirada'
+metaTitle: 'Federer: edad y su primer Grand Slam a los 21 años'
 metaDescription: >-
-  Edad (45 años), Grand Slams y retirada de Roger Federer: 20 títulos, 237
-  semanas seguidas como número uno y su último partido junto a Nadal en 2022.
+  Roger Federer tiene 45 años. Ganó su primer Grand Slam en Wimbledon 2003, con
+  21, y acabó con 20 títulos y una retirada llorando junto a Nadal.
 knownFor: 'Tenista suizo, ganador de 20 títulos de Grand Slam'
 summary: >-
   Roger Federer (Basilea, 8 de agosto de 1981) es un tenista suizo que ganó 20
@@ -14,8 +14,9 @@ summary: >-
   Tenis en agosto de 2026.
 status: published
 risk: medium
-reviewedAt: '2026-10-26'
-reviewBy: '2027-04-26'
+publishedAt: '2026-11-03'
+reviewedAt: '2026-11-03'
+reviewBy: '2027-05-03'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -25,7 +26,20 @@ targetQueries:
   - cuántos grand slam tiene federer
   - cuándo se retiró federer
   - esposa de roger federer
+  - federer edad
+  - cuántos años tiene federer
+  - edad federer
+  - a qué edad ganó federer su primer grand slam
+  - edad de federer
 faq:
+  - q: ¿A qué edad ganó Federer su primer Grand Slam?
+    a: >-
+      A los 21 años: ganó Wimbledon 2003 y fue el primer suizo en ganar un Grand
+      Slam masculino.
+  - q: ¿Cuál es la edad de Federer y cuántos años tenía al retirarse?
+    a: >-
+      Tiene 45 años (nació el 8 de agosto de 1981). Tenía 41 cuando anunció su
+      retirada en septiembre de 2022.
   - q: ¿Cuántos años tiene Roger Federer?
     a: >-
       Tiene 45 años: nació el 8 de agosto de 1981 en Basilea (Suiza) y los
@@ -43,8 +57,8 @@ faq:
       Mirka Vavrinec, extenista que llegó al puesto 76 del ranking WTA. Tienen
       dos parejas de gemelos: Myla y Charlene, y Leo y Lenny.
 autoRevisions: 1
-autoReviews: 3
-publishedAt: '2026-10-26'
+autoReviews: 4
+publishedTime: '2026-11-03T21:20:56.147Z'
 ---
 Antes de levantar trofeos, Roger Federer recogía pelotas. En 1993 y 1994 fue recogepelotas en el torneo de Basilea, su ciudad [s:atp-bio]. En 2022 se retiró con 20 títulos de Grand Slam [s:britannica], y el 29 de agosto de 2026, ya con 45 años, entró en el Salón de la Fama del Tenis [s:aljazeera-hof].
 
@@ -59,6 +73,10 @@ En la carta de su retirada recordó aquellos años de recogepelotas: veía a los
 El reparto de sus 20 títulos de Grand Slam es este: seis Open de Australia, un Roland Garros, ocho Wimbledon y cinco US Open [s:britannica]. Fue el primer hombre en llegar a 20 grandes [s:ithf-class-2026].
 
 También tiene el récord de constancia en los grandes: 10 finales seguidas, 23 semifinales seguidas y 36 cuartos de final seguidos [s:atp-bio].
+
+## ¿A qué edad ganó Federer su primer Grand Slam?
+
+Federer ganó su primer Grand Slam a los 21 años, en Wimbledon 2003, donde se convirtió en el primer suizo en conquistar un grande [s:voa-2003] [s:biography-com]. Como cuarto cabeza de serie, derrotó en la final al australiano Mark Philippoussis, de 26 años, por 7-6, 6-2 y 7-6 [s:voa-2003]. Con la edad actual de Federer (45 años, nacido el 8 de agosto de 1981) [s:biography-com], aquel título llegó 23 años antes de su entrada en el Salón de la Fama, y fue el primero de los 20 que sumaría [s:britannica] [s:aljazeera-hof]. Para llegar a París, el que más se le resistió, tuvo que esperar a 2009, con 27 años (véase abajo) [s:cnn-2009]. Se retiró a los 41 [s:retirement-statement].
 
 ## París, 2009
 

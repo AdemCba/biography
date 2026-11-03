@@ -1,35 +1,38 @@
 ---
 title: Cam Skattebo
 slug: cam-skattebo
-metaTitle: 'Cam Skattebo: Giants-Running-Back, Statistik und Strafe'
+metaTitle: 'Cam Skattebo Statistik: vom College-Star zum Giants-Back'
 metaDescription: >-
-  Cam Skattebo spielt Running Back bei den New York Giants. Hier stehen Draft,
-  Statistiken 2025 und 2026, die NFL-Helmstrafe gegen die Titans und seine Zeit
-  auf der Bank.
+  Wie Cam Skattebo von Sacramento State über Arizona State zum Running Back der
+  Giants wurde: Draft-Position, Statistik 2025 und 2026 und der Weg dorthin.
 knownFor: Running Back der New York Giants aus Arizona State
 summary: >-
   Cam Skattebo ist Running Back bei den New York Giants, im Draft 2025 in der
-  vierten Runde als Nummer 105 gewählt [s:giants-draft-2025]. Die NFL bestrafte
-  ihn mit einer Geldstrafe wegen Helmkontakts bei einem Laufspielzug im Sieg der
-  Giants in Woche 3 gegen die Tennessee Titans, nachdem die Schiedsrichter auf
-  dem Feld keine Flagge geworfen hatten [s:newsweek-helmet-fine]
-  [s:atoz-helmet-fine].
+  vierten Runde als Nummer 105 gewählt. Die NFL bestrafte ihn mit einer
+  Geldstrafe wegen Helmkontakts bei einem Laufspielzug im Sieg der Giants in
+  Woche 3 gegen die Tennessee Titans, nachdem die Schiedsrichter auf dem Feld
+  keine Flagge geworfen hatten.
 status: published
 risk: medium
-reviewedAt: '2026-10-27'
-reviewBy: '2027-04-27'
+publishedAt: '2026-11-03'
+reviewedAt: '2026-11-03'
+reviewBy: '2027-05-03'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Cam Skattebo
-  - Cam Skattebo Statistik
   - Cam Skattebo Helmstrafe
   - Cam Skattebo Giants
   - Cam Skattebo Draft
   - Cam Skattebo Arizona State
   - Cam Skattebo John Harbaugh
   - Cam Skattebo Titans Woche 3
+  - Skattebo
+  - Cameron Skattebo
+  - Cam Skattebo Statistik
+  - Cam Scattebo
+  - Cam Skattabo
 faq:
   - q: Für welches Team spielt Cam Skattebo?
     a: >-
@@ -44,12 +47,20 @@ faq:
     a: >-
       Die Kaderseite der Giants nennt 418 Yards bei 98 Läufen und zwei
       Lauf-Touchdowns in sieben Spielen [s:giants-roster-career].
-autoReviews: 1
-publishedAt: '2026-10-27'
+  - q: Wie ist die Statistik von Cam Skattebo?
+    a: >-
+      In der NFL kommt er auf 199 Läufe für 828 Yards und sieben Lauf-Touchdowns
+      in 15 Spielen für die Giants [s:giants-roster-career].
+autoReviews: 2
+publishedTime: '2026-11-03T21:20:56.136Z'
 ---
 ## Von Sacramento State zu den Giants
 
 Skattebo wurde in Rio Linda in Kalifornien geboren und wuchs dort auf, direkt nördlich von Sacramento [s:giants-player-profile]. Skattebo begann sein Studium an der Sacramento State, bevor er an die Arizona State wechselte [s:arizonasports-skattebo-background]. Er sagte Giants.com, er sei "jemand, der viele Touchdowns erzielen wird" [s:arizonasports-skattebo-background]. Die Giants wählten ihn im Draft 2025 in der vierten Runde, als Nummer 105 [s:giants-draft-2025].
+
+## Cam Skattebo Statistik: College und NFL
+
+Cam Skattebo hat in 15 NFL-Spielen für die Giants 199 Läufe für 828 Yards und sieben Lauf-Touchdowns, dazu 35 Passfänge für 283 Yards und zwei Touchdowns [s:giants-roster-career]. Die Kaderseite führt auch seine College-Zeit: 2021 und 2022 an der Sacramento State, 2023 und 2024 an der Arizona State [s:giants-roster-career]. Seine beste College-Saison war 2024 mit 293 Läufen für 1.711 Yards und 21 Touchdowns [s:giants-roster-career]. Insgesamt kommt er im College auf 709 Läufe für 4.386 Yards und 43 Touchdowns [s:giants-roster-career]. 2022 wurde er Big Sky Offensive Player of the Year, 2024 wählte man ihn ins erste All-Big-12-Team und er wurde Fünfter bei der Heisman-Wahl [s:giants-roster-career].
 
 ## Zwei Saisons in New York
 

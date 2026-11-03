@@ -1,0 +1,130 @@
+{
+  "date": "2026-11-03",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 14 Nov 1972 in Minot, North Dakota",
+      "sourceIds": [
+        "biography-com",
+        "tvguide-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Biography.com states date and place; TV Guide the place."
+    },
+    {
+      "claim": "Parents divorced in fourth grade; three sisters; quarterback at Minot State; biology; degree ten years later",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on page."
+    },
+    {
+      "claim": "Minot State Hall of Fame 2016; co-owned 10 North Main; IMTA male model; Genie in a Bottle 1999",
+      "sourceIds": [
+        "tvguide-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on page."
+    },
+    {
+      "claim": "Moved to California 1995; model of the year 1997; All My Children 1999 as Leo du Pres; Las Vegas 2003 five seasons; Tad Hamilton 2004; Transformers 2007 with sequels 2009, 2011; later credits list",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Timeline matches."
+    },
+    {
+      "claim": "Emmy year disagreement 2003 vs 2002",
+      "sourceIds": [
+        "biography-com",
+        "tvguide-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Both pages say so; Fox gives no year."
+    },
+    {
+      "claim": "Danny McCoy head of security; Capt. William Lennox; When in Rome, New Year's Eve; The Rescue (Paramount, Deadline March 2026); Preschool art imitating life; Bensinger quotes; Minnesota home; Rocca and Shepherd; Axl 12",
+      "sourceIds": [
+        "fox-western"
+      ],
+      "verdict": "confirmed",
+      "note": "All stated in Fox article of 21 May 2026."
+    },
+    {
+      "claim": "Ransom Canyon premise, cast, creators, renewal 24 June 2025, Albuquerque",
+      "sourceIds": [
+        "thewrap-renewal"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Season 1 17 April 2025; 183.6M hours; 77 countries; podcast quote",
+      "sourceIds": [
+        "wion-update"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Season 2 on 23 July 2026, eight episodes, six months later, Double K, executive producers, Clarkson",
+      "sourceIds": [
+        "wion-s2-date"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Deleted scene: Staten, father Sam (Brett Cullen), Sam never took an interest in ranch",
+      "sourceIds": [
+        "netflix-tudum"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Preschool premiere 18 March 2026 Fargo Theatre; Ted M. Larson Award; plot with Michael Socha",
+      "sourceIds": [
+        "fargo-film-festival",
+        "valley-news-preschool"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches both."
+    },
+    {
+      "claim": "Wedding to Audra Mari September 2022 in Fargo; former Miss World America; Rocca de Leon Duhamel; third child",
+      "sourceIds": [
+        "hello-baby",
+        "et-wedding"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches; ET date inferred, article says so."
+    },
+    {
+      "claim": "Divorce filed 31 May 2019, finalized late Nov 2019, joint custody, separation Sept 2017",
+      "sourceIds": [
+        "et-divorce"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Married Fergie 2009; son Axl Jack 2013",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Sourced timeline plus 2026 news; no net worth because no reliable outlet.",
+  "decision": "approve",
+  "summary": "All claims match the opened sources; disagreements are disclosed."
+}

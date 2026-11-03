@@ -1,11 +1,10 @@
 ---
 title: Ibrahim Maza
 slug: ibrahim-maza
-metaTitle: 'Ibrahim Maza : âge {age} ans, Leverkusen et Algérie'
+metaTitle: 'Ibrahim Maza : {age} ans, né à Berlin, il a choisi l’Algérie'
 metaDescription: >-
-  Ibrahim Maza est milieu de terrain du Bayer 04 Leverkusen et international
-  algérien, né le 24 novembre 2005. Retenu dans la liste des dix du Young Talent
-  2026.
+  Né à Berlin le 24 novembre 2005, 180 cm: le parcours d’Ibrahim Maza, des
+  équipes de jeunes allemandes à l’Algérie en 2024. Âge, taille, club.
 knownFor: Milieu de terrain du Bayer 04 Leverkusen et international algérien
 summary: >-
   Ibrahim Maza est un milieu de terrain de 20 ans du Bayer 04 Leverkusen et
@@ -16,14 +15,21 @@ summary: >-
   Trophy.
 status: published
 risk: medium
-publishedAt: '2026-11-01'
-reviewedAt: '2026-11-01'
-reviewBy: '2027-05-01'
+publishedAt: '2026-11-03'
+publishedTime: '2026-11-03T21:20:56.141Z'
+reviewedAt: '2026-11-03'
+reviewBy: '2027-05-03'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - ibrahim maza âge
+  - maza age
+  - age maza
+  - ibrahim maza
+  - maza birthday
+  - age ibrahim maza
+  - ibrahim maza age
   - ibrahim maza algérie
   - ibrahim maza nationalité
   - ibrahim maza taille
@@ -47,7 +53,15 @@ faq:
       [s:bulinews-kopa-ninth].
   - q: Quel âge a Ibrahim Maza ?
     a: >-
-      Il est né le 24 novembre 2005 et avait 20 ans le 29 octobre 2026
+      Il est né le 24 novembre 2005 et a 20 ans ; il aura 21 ans le 24 novembre
+      2026 [s:bundesliga-player].
+  - q: Quelle est la date de naissance (birthday) de Maza ?
+    a: >-
+      Le 24 novembre 2005, selon la Bundesliga [s:bundesliga-player]. Le Bayer
+      04 le dit né à Berlin [s:bayer04-transfer].
+  - q: 'Quel est l''âge de Maza (maza age, age maza) ?'
+    a: >-
+      20 ans en novembre 2026, 21 ans à partir du 24 novembre
       [s:bundesliga-player].
   - q: Ibrahim Maza est-il algérien ?
     a: >-
@@ -64,10 +78,13 @@ faq:
       que le PSG s'intéresse au joueur [s:psg-interest-report]. L'annonce du
       club indique toujours une fin de contrat au 30 juin 2030
       [s:bayer04-transfer].
-autoReviews: 3
-publishedTime: '2026-11-01T09:55:16.520Z'
+autoReviews: 4
 ---
 Ibrahim Maza a 20 ans. Passé par la section jeunes du Hertha BSC, il évolue aujourd'hui au milieu de terrain du Bayer 04 Leverkusen. Le club indique qu'il a disputé 44 matchs toutes compétitions confondues la saison dernière [s:bayer04-young-talent]. Il est né à Berlin le 24 novembre 2005 [s:bayer04-transfer] [s:bundesliga-player] et joue pour l'équipe d'Algérie [s:bayer04-transfer].
+
+## Quel âge a Ibrahim Maza ? Âge, anniversaire et taille
+
+Ibrahim Maza est né le 24 novembre 2005, il a donc 20 ans et fêtera ses 21 ans le 24 novembre 2026, et il mesure 180 cm [s:bundesliga-player]. Le Bayer 04 le présente comme un germano-algérien né à Berlin [s:bayer04-transfer]. Cette double origine explique son parcours : après 13 matchs avec les équipes de jeunes de l'Allemagne (U18, U19 et U20), il a choisi l'Algérie en 2024 [s:bayer04-transfer]. Son profil Bundesliga lui attribue le numéro 30 [s:bundesliga-player].
 
 ## octobre 2026
 

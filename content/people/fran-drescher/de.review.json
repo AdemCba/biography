@@ -1,0 +1,177 @@
+{
+  "date": "2026-11-03",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 30 Sep 1957 in Flushing, Queens; age 69; turned 69 on 30 Sep 2026",
+      "sourceIds": [
+        "vol-opernball",
+        "qns-profile",
+        "entertainmentnow-69"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated by all three."
+    },
+    {
+      "claim": "Younger of two, Kew Gardens Hills, Hillcrest High with Ray Romano, Miss New York Teenager first runner-up 1973, discount hairdressers with Jacobson",
+      "sourceIds": [
+        "qns-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the QNS profile."
+    },
+    {
+      "claim": "Married Jacobson 1978, moved to LA, divorced 1999, stayed friends and partners",
+      "sourceIds": [
+        "fandango-bio",
+        "today-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Fandango states 1978/1999 and friendship; TODAY states 1999 divorce and that he came out as gay."
+    },
+    {
+      "claim": "Saturday Night Fever small speaking role 1977 (Fandango says 1978 cameo)",
+      "sourceIds": [
+        "qns-profile",
+        "fandango-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Discrepancy is disclosed in the article."
+    },
+    {
+      "claim": "Gorp, This Is Spinal Tap 1984 (Bobbi Flekman), guest spots on Silver Spoons, Who's the Boss?, Night Court",
+      "sourceIds": [
+        "qns-profile",
+        "fandango-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "The Nanny co-created with Jacobson, CBS 1993-99, six seasons, Fran Fine, Shaughnessy as Maxwell Sheffield",
+      "sourceIds": [
+        "today-profile",
+        "hello-reunion",
+        "hello-seth"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Two Emmy nominations 1996 and 1997, no wins listed",
+      "sourceIds": [
+        "tv-academy"
+      ],
+      "verdict": "confirmed",
+      "note": "Page lists only the two nominations."
+    },
+    {
+      "claim": "Two Golden Globe nominations 1996 and 1997, no wins listed",
+      "sourceIds": [
+        "golden-globes"
+      ],
+      "verdict": "confirmed",
+      "note": "Page lists only the two nominations."
+    },
+    {
+      "claim": "Enter Whining 1995; Cancer Schmancer book 2002; nonprofit 2007; 2008 envoy; picket line quote; 2021 SAG-AFTRA president; six months quote",
+      "sourceIds": [
+        "today-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "All stated."
+    },
+    {
+      "claim": "Jack 1996, Picking Up the Pieces 2000, Living with Fran, Hotel Transylvania voice of Eunice, Happily Divorced 2011-13",
+      "sourceIds": [
+        "fandango-bio",
+        "qns-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Diagnosed June 2000 after two years of misdiagnoses by eight doctors; surgery; quote",
+      "sourceIds": [
+        "cancer-schmancer"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on the organisation page."
+    },
+    {
+      "claim": "Tenure covered 2023 and 2024-25 strikes; declined re-election; Astin successor elected 2025",
+      "sourceIds": [
+        "thewrap-astin",
+        "nbc-astin"
+      ],
+      "verdict": "confirmed",
+      "note": "TheWrap states strikes and declining; NBC News dated 13 Sep 2025 states Astin succeeds Drescher."
+    },
+    {
+      "claim": "Marty Supreme casting reported 4 Oct 2024, mother of Chalamet's character, first role since strike, Spinal Tap sequel",
+      "sourceIds": [
+        "avclub-marty"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Marty Supreme won a Golden Globe, nine Oscar nominations; Vienna Opera Ball 12 Feb 2026 as guest of Jacqueline Lugner; Life Ball 2009, Hofburg 2010",
+      "sourceIds": [
+        "vol-opernball"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Walk of Fame star 2,822nd on 30 Sep 2025, Motion Pictures, 68th birthday, Jacobson emcee, museum exhibit, attendees",
+      "sourceIds": [
+        "abc13-walk-preview",
+        "abc7-walk-of-fame"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Late Night with Seth Meyers December 2025",
+      "sourceIds": [
+        "hello-seth"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Reunion with Shaughnessy at Somebody to Love premiere, March 2026, Playbill quote",
+      "sourceIds": [
+        "hello-reunion"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "1 Oct 2026 NYCB Fall Fashion Gala, Brasserie Boulud opening with Al Roker",
+      "sourceIds": [
+        "entertainmentnow-69"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Net worth 25 million USD estimate, updated 4 Sep 2026; HELLO! Sept 2025",
+      "sourceIds": [
+        "celebrity-net-worth",
+        "hello-networth"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated and labelled as outside estimate."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Sourced timeline, award-body checks that correct profile pages claiming wins, and current news through 1 Oct 2026.",
+  "decision": "approve",
+  "summary": "All claims checked against opened sources; no corrections needed."
+}

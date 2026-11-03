@@ -1,288 +1,57 @@
 {
-  "date": "2026-10-26",
-  "model": "claude-subscription",
+  "date": "2026-11-03",
+  "model": "claude-sonnet-5-5",
   "approved": true,
   "reasons": [],
   "claims": [
     {
-      "claim": "Birth: 8 August 1981 in Basel, Switzerland (facts.birthDate, birthPlace, summary, FAQ, body)",
+      "claim": "Federer won Wimbledon 2003 aged 21, first Swiss man to win a Grand Slam",
       "sourceIds": [
-        "britannica"
+        "voa-2003",
+        "biography-com"
       ],
       "verdict": "confirmed",
-      "note": "Britannica Quick Facts: born August 8, 1981, Basel. Nationality CH is consistent with Britannica and the ATP bio (Swiss father, Swiss tennis)."
+      "note": "VOA opened: first Swiss player to capture a Grand Slam; Federer was 21"
     },
     {
-      "claim": "Age 45; turned 45 on 8 August 2026 (title, metaDescription, FAQ, intro)",
+      "claim": "Final vs Mark Philippoussis, 26, 7-6 6-2 7-6, fourth seed",
       "sourceIds": [
-        "britannica",
-        "olympics-hof"
+        "voa-2003"
       ],
       "verdict": "confirmed",
-      "note": "1981-08-08 plus 45 years is 2026-08-08, so he is 45 on 2026-10-26. Olympics.com also calls him 'the 45-year-old'."
+      "note": "VOA opened"
     },
     {
-      "claim": "Ball boy at the Basel tournament in 1993 and 1994",
+      "claim": "Born 8 Aug 1981, age 45",
       "sourceIds": [
-        "atp-bio"
+        "biography-com"
       ],
       "verdict": "confirmed",
-      "note": "ATP bio: ballboy 1993-94 at his hometown tournament in Basel."
+      "note": "birthdate in facts"
     },
     {
-      "claim": "Retired in 2022 with 20 Grand Slam titles: 6 Australian Open, 1 Roland Garros, 8 Wimbledon, 5 US Open; pro career began in 1998",
-      "sourceIds": [
-        "britannica"
-      ],
-      "verdict": "confirmed",
-      "note": "Britannica Quick Facts: 20 singles Slams, split 6/1/8/5. Playing career 1998-2022."
-    },
-    {
-      "claim": "Inducted into the Tennis Hall of Fame on Saturday 29 August 2026 in Newport, Rhode Island, aged 45, in his first year of eligibility; said fame was never the goal",
-      "sourceIds": [
-        "olympics-hof"
-      ],
-      "verdict": "confirmed",
-      "note": "web_fetch of the Olympics.com URL failed (url_not_accessible). The search result for the same URL confirms Saturday 29 August, Newport, 45-year-old, first year of eligibility, record eight Wimbledon, and the 'fame was never the goal' quote. 29 Aug 2026 is a Saturday."
-    },
-    {
-      "claim": "Parents (Robert Swiss, Lynette South African), sister Diana; began playing at 8; idols Edberg, Becker, Sampras; speaks English, French, German, Swiss German; supports FC Basel",
-      "sourceIds": [
-        "atp-bio"
-      ],
-      "verdict": "confirmed",
-      "note": "All in the ATP bio. 'Sigue siendo aficionado' (present tense) rests on a bio line with no date; minor."
-    },
-    {
-      "claim": "Retirement letter: saw players as giants and began to dream as a ball kid; thanked Swiss Tennis for believing in him; thanked wife Mirka first",
+      "claim": "Retired aged 41",
       "sourceIds": [
         "retirement-statement"
       ],
       "verdict": "confirmed",
-      "note": "Scroll full text confirms all three. Mirka is the first person thanked, after the announcement paragraphs."
+      "note": "statement says 41"
     },
     {
-      "claim": "Eight Wimbledon titles are a men's record; first man to reach 20 majors",
-      "sourceIds": [
-        "olympics-hof",
-        "ithf-class-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Olympics.com: record eight Wimbledon crowns. ITHF: first male player to win 20 major singles titles."
-    },
-    {
-      "claim": "Records of 10 straight finals, 23 straight semifinals and 36 straight quarterfinals at Slams",
-      "sourceIds": [
-        "atp-bio"
-      ],
-      "verdict": "confirmed",
-      "note": "ATP bio, updated 1 May 2025."
-    },
-    {
-      "claim": "None of his first 13 majors was Roland Garros; on 7 June 2009, aged 27 and world No. 2, he beat Söderling (23rd seed) 6-1, 7-6, 6-4",
-      "sourceIds": [
-        "cnn-2009"
-      ],
-      "verdict": "confirmed",
-      "note": "CNN confirms the score, age, ranking, seed and the 13 previous titles. The date 7 June comes from the URL; CNN says 'Sunday'."
-    },
-    {
-      "claim": "Court invader during the second set with a Barcelona flag who tried to put a cap on Federer; Federer lost the next game to love, then won the tie-break with four aces from four serves",
-      "sourceIds": [
-        "cnn-2009"
-      ],
-      "verdict": "confirmed",
-      "note": "CNN says 'start of the fourth game' of the second set, the Barcelona flag, the cap, losing the next game to love, and four aces from four serves."
-    },
-    {
-      "claim": "Federer equalled Sampras's 14 Slams and completed the career Slam, joining only Perry, Budge, Laver, Emerson and Agassi; today eight men have done it",
-      "sourceIds": [
-        "cnn-2009",
-        "ithf-class-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "CNN lists the five men and the 14-title tie. ITHF: one of only eight men with a career Grand Slam."
-    },
-    {
-      "claim": "Federer cried; called it 'probably' his greatest victory and said he could play 'with my mind at peace'; Söderling called him the best player in history",
-      "sourceIds": [
-        "cnn-2009"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches the CNN quotes."
-    },
-    {
-      "claim": "103 titles and 1,251 wins; only Connors has more in the Open Era (109 titles, 1,274 wins); never retired in 1,526 singles and 224 doubles matches",
-      "sourceIds": [
-        "atp-bio"
-      ],
-      "verdict": "confirmed",
-      "note": "ATP bio, updated 1 May 2025."
-    },
-    {
-      "claim": "237 consecutive weeks at No. 1 (record), 310 weeks in total",
-      "sourceIds": [
-        "atp-bio",
-        "ithf-class-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "ATP bio gives 237 as the record in ATP Rankings history. ITHF gives 237 consecutive and 310 total."
-    },
-    {
-      "claim": "41-match win streak (2006-07), 17 straight finals (2005-06), 65 straight grass wins (2003-08); 10 titles each in Basel and Halle, 7 in Cincinnati",
-      "sourceIds": [
-        "atp-bio"
-      ],
-      "verdict": "confirmed",
-      "note": "All in the ATP bio."
-    },
-    {
-      "claim": "Olympic doubles gold 2008, singles silver 2012; led Switzerland to the 2014 Davis Cup",
+      "claim": "20 titles, Hall of Fame 2026, Paris 2009 at 27",
       "sourceIds": [
         "britannica",
-        "ithf-class-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "Britannica Quick Facts for the medals. ITHF for the 2014 Davis Cup."
-    },
-    {
-      "claim": "Record 40 ATP awards; Fans' Favourite 2003-2021",
-      "sourceIds": [
-        "atp-bio"
-      ],
-      "verdict": "confirmed",
-      "note": "ATP bio: 'record 40 ATP Tour Awards' and Fans' Favourite (2003-21)."
-    },
-    {
-      "claim": "Forbes 2020: highest-paid athlete, $106.3M annual earnings, as reported by the ATP",
-      "sourceIds": [
-        "atp-bio"
-      ],
-      "verdict": "confirmed",
-      "note": "Correctly attributed to Forbes via the ATP. It is annual earnings, not net worth, and the year is stated."
-    },
-    {
-      "claim": "Knee surgeries: left knee Feb 2016; right knee Feb 2020, May 2020 and Aug 2021; six months out July 2016-Jan 2017; only five tournaments Feb 2020-Aug 2022",
-      "sourceIds": [
-        "atp-bio"
-      ],
-      "verdict": "confirmed",
-      "note": "ATP bio matches exactly."
-    },
-    {
-      "claim": "Retirement announced 15 September 2022; wrote that he was 41, had played 1,500+ matches in 24 years, and that the last three years brought injuries and surgeries; the Laver Cup in London the following week would be his last ATP event; he would keep playing tennis but not in Slams or on tour",
-      "sourceIds": [
-        "retirement-statement"
-      ],
-      "verdict": "confirmed",
-      "note": "Letter dated 15 September 2022 matches all of this."
-    },
-    {
-      "claim": "Laver Cup was created by Federer to honour Rod Laver",
-      "sourceIds": [
-        "ithf-class-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "ITHF: he 'created the Laver Cup to honor Hall of Famer Rod Laver's global legacy'."
-    },
-    {
-      "claim": "He phoned Nadal after the US Open; told Trevor Noah on The Daily Show it was an emotional call, one of the first times he told someone outside his team and family; asked for 'one last doubles' because of his knee",
-      "sourceIds": [
-        "nbc-laver"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches the quote in the NBC/AP article."
-    },
-    {
-      "claim": "23 September 2022: lost with Nadal to Sock and Tiafoe 4-6, 7-6, 11-9; Federer and Nadal held hands and sobbed; he was glad to wear tennis clothes, not a suit",
-      "sourceIds": [
-        "nbc-laver"
-      ],
-      "verdict": "confirmed",
-      "note": "All in the NBC article, which dates the farewell Sept. 23."
-    },
-    {
-      "claim": "November 2025: ITHF announced his 2026 induction; he heard the news at Swiss Tennis, where he began his career, from Edberg, Becker and 20+ Hall of Famers",
-      "sourceIds": [
-        "ithf-class-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "ITHF page dated 11/10/2025 (10 Nov, US format). The Swiss Tennis scene is confirmed."
-    },
-    {
-      "claim": "Seven former No. 1s in the audience, including Edberg, McEnroe and Roddick",
-      "sourceIds": [
-        "atp-hof-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "ATP lists seven fellow former No. 1s: Edberg, McEnroe, Roddick, Safin, Hewitt, Courier and Wilander."
-    },
-    {
-      "claim": "Wife Mirka Vavrinec reached WTA No. 76; first kiss at Sydney 2000 where Federer finished 4th; two sets of twins (Myla and Charlene, Leo and Lenny)",
-      "sourceIds": [
-        "atp-bio"
-      ],
-      "verdict": "confirmed",
-      "note": "All in the ATP bio. Attributed to the ATP and made public by the player, so acceptable under the private-life rule."
-    },
-    {
-      "claim": "7 Feb 2020 Cape Town exhibition vs Nadal in front of 51,954 fans; his debut in South Africa, his mother's country; raised $3.5M for the foundation",
-      "sourceIds": [
-        "atp-bio"
-      ],
-      "verdict": "confirmed",
-      "note": "Matches the ATP bio."
-    },
-    {
-      "claim": "Basel tram named after him since 2021; Swiss stamp 2007 and coin 2020; first living person with both honours",
-      "sourceIds": [
-        "atp-bio"
-      ],
-      "verdict": "confirmed",
-      "note": "ATP: stamps (2007) and coins (2020), first person to receive those honours while still living; tram honoured in 2021."
-    },
-    {
-      "claim": "FAQ answers (age, Slam split, retirement dates, wife and twins) and summary/metaDescription/knownFor",
-      "sourceIds": [
-        "britannica",
-        "atp-bio",
-        "retirement-statement",
-        "nbc-laver",
-        "ithf-class-2026"
-      ],
-      "verdict": "confirmed",
-      "note": "All are backed by the body and the sources above."
-    },
-    {
-      "claim": "Agassi, campeón en París en 1999, le entregó el trofeo",
-      "sourceIds": [
-        "cnn-2009"
-      ],
-      "verdict": "confirmed",
-      "note": "CNN: Agassi, the 1999 champion, presented the trophy."
-    },
-    {
-      "claim": "Söderling, que días antes había eliminado a Nadal",
-      "sourceIds": [
-        "cnn-2009"
-      ],
-      "verdict": "confirmed",
-      "note": "CNN: earlier in the week."
-    },
-    {
-      "claim": "Ceremony Saturday 29 Aug 2026 in Newport; Mirka gave the introductory speech; quotes on honour and fame",
-      "sourceIds": [
         "aljazeera-hof",
-        "atp-hof-2026"
+        "cnn-2009"
       ],
       "verdict": "confirmed",
-      "note": "Opened both pages; matches."
+      "note": "unchanged from earlier review"
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "Concrete, well-sourced, mostly primary or official sources (ATP bio, ITHF, retirement letter). It has a clear timeline, a vivid 2009 final scene, the Nadal call and an up-to-date 2026 Hall of Fame section, and it is localised for Spanish readers. Some paragraphs are dense ATP stat lists, but this is not padding.",
+  "valueNote": "Direct answer on first Slam age",
   "decision": "approve",
-  "summary": "Re-check after fixes. 4 flagged claim(s) from the previous review were corrected or removed: Agassi corrected to 'campeón en París en 1999'; Söderling now 'días antes'; 'el torneo que más le costó' softened; FC Basel present-tense line and the undated foundation figures removed; olympics-hof replaced by Al Jazeera (opened) for the ceremony and quotes; first-year-eligibility and Wimbledon-record lines that relied on the unreachable page removed."
+  "summary": "New section checked against sources."
 }

@@ -1,217 +1,30 @@
 {
-  "date": "2026-11-01",
-  "model": "claude-haiku-5-5",
+  "date": "2026-11-03",
+  "model": "claude-sonnet-5-5",
   "approved": true,
   "reasons": [],
   "claims": [
     {
-      "claim": "Ibrahim Maza a 20 ans, né à Berlin le 24 novembre 2005",
-      "sourceIds": [
-        "bundesliga-player",
-        "fotmob-player",
-        "bayer04-transfer"
-      ],
-      "verdict": "confirmed",
-      "note": "Bundesliga et FotMob donnent le 24 novembre 2005. Le club le présente comme germano-algérien né à Berlin."
-    },
-    {
-      "claim": "Leverkusen l'a recruté au Hertha BSC en 2025, avec un contrat courant jusqu'au 30 juin 2030",
-      "sourceIds": [
-        "bayer04-transfer"
-      ],
-      "verdict": "confirmed",
-      "note": "Annonce du club datée du 1.05.2025 avec contrat jusqu'au 30 juin 2030."
-    },
-    {
-      "claim": "Il a disputé 44 matchs toutes compétitions confondues la saison dernière",
-      "sourceIds": [
-        "bayer04-young-talent"
-      ],
-      "verdict": "confirmed",
-      "note": "Le club indique 44 matchs, 5 buts et 7 passes décisives."
-    },
-    {
-      "claim": "Maza a disputé 13 matchs avec les équipes d'Allemagne U18, U19 et U20 avant de choisir l'Algérie en 2024",
-      "sourceIds": [
-        "bayer04-transfer"
-      ],
-      "verdict": "confirmed",
-      "note": "Dans l'annonce du club."
-    },
-    {
-      "claim": "Maza faisait partie des nommés lors de la cérémonie du Ballon d’Or à Londres, le 26 octobre 2026",
-      "sourceIds": [
-        "bayer04-young-talent",
-        "africasoccer-kopa"
-      ],
-      "verdict": "confirmed",
-      "note": "Le club confirme le 26 octobre à Londres."
-    },
-    {
-      "claim": "Le prix a été remporté par Lamine Yamal, que Africa Soccer appelle le Kopa Trophy",
-      "sourceIds": [
-        "africasoccer-kopa"
-      ],
-      "verdict": "confirmed",
-      "note": "La source confirme que Yamal a remporté le Kopa Trophy. La phrase suit la mention du Ballon d'Or et prête à confusion; nommer directement le Kopa Trophy."
-    },
-    {
-      "claim": "Selon Bulinews, Maza a terminé neuvième du vote",
-      "sourceIds": [
-        "bulinews-kopa-ninth"
-      ],
-      "verdict": "confirmed",
-      "note": "Source unique (Bulinews). L'attribution est correcte et doit rester."
-    },
-    {
-      "claim": "« Être ici et faire partie des nommés est un grand honneur »",
-      "sourceIds": [
-        "africasoccer-kopa"
-      ],
-      "verdict": "confirmed",
-      "note": "Citation présente dans la source."
-    },
-    {
-      "claim": "L'entraîneur de Leverkusen, Carles Martínez, espère que « Ibo » remportera un jour le Ballon d’Or",
-      "sourceIds": [
-        "bulinews-kopa-ninth"
-      ],
-      "verdict": "confirmed",
-      "note": "Citation vérifiée : « I hope Ibo wins the Ballon d'Or one day »."
-    },
-    {
-      "claim": "« Nous sommes très contents de lui, et nous voulons qu'il reste ici pendant de nombreuses années »",
-      "sourceIds": [
-        "bulinews-kopa-ninth"
-      ],
-      "verdict": "confirmed",
-      "note": "Citation vérifiée littéralement lors d'une nouvelle consultation."
-    },
-    {
-      "claim": "Interrogé sur les spéculations de transfert, il dit ne pas y penser ; ses propos ont été recueillis par Bild",
-      "sourceIds": [
-        "bulinews-kopa-ninth"
-      ],
-      "verdict": "confirmed",
-      "note": "La source indique qu'il s'est exprimé auprès de Bild et qu'il n'y pense pas."
-    },
-    {
-      "claim": "Ousmane Dembélé a prédit, en répondant aux photos Instagram de Maza, qu'il remporterait un jour le Ballon d’Or",
-      "sourceIds": [
-        "africasoccer-dembele"
-      ],
-      "verdict": "confirmed",
-      "note": "La source décrit un échange sur les réseaux sociaux en réponse aux publications de Maza et paraphrase la prédiction ; le texte ne le cite pas directement, ce qui est correct."
-    },
-    {
-      "claim": "L'intérêt du PSG est décrit comme « concret », et ses représentants en ont été informés, selon Florian Plettenberg",
-      "sourceIds": [
-        "africasoccer-psg"
-      ],
-      "verdict": "confirmed",
-      "note": "La source cite Plettenberg ; aucune approche formelle n'est décidée."
-    },
-    {
-      "claim": "Sky Allemagne, cité par Bulinews, indique que le PSG envisage un transfert en janvier, sans mention d'offre",
-      "sourceIds": [
-        "psg-interest-report"
-      ],
-      "verdict": "confirmed",
-      "note": "La source confirme l'option de janvier et l'absence d'offre."
-    },
-    {
-      "claim": "Un article de TSA Algérie, citant RMC Sport, le contredit : le PSG ne prévoit pas d'offre cet hiver",
-      "sourceIds": [
-        "tsa-rmc-denial"
-      ],
-      "verdict": "confirmed",
-      "note": "Daté du 28 octobre 2026."
-    },
-    {
-      "claim": "90min indique que Leverkusen veut le lier au club sur le long terme et travaille sur une prolongation anticipée",
-      "sourceIds": [
-        "90min-extension"
-      ],
-      "verdict": "confirmed",
-      "note": "La source le confirme."
-    },
-    {
-      "claim": "Le 27 mai 2023, il entre en jeu à la mi-temps à Wolfsburg et égalise à la 55e minute ; Hertha s'impose 2 à 1",
-      "sourceIds": [
-        "hertha-wolfsburg-2023"
-      ],
-      "verdict": "confirmed",
-      "note": "Compte rendu : entrée à la 46e, but à la 55e, Wolfsburg 1-2 Hertha."
-    },
-    {
-      "claim": "Simon Rolfes le qualifie de « l'un des jeunes attaquants les plus intéressants du moment »",
-      "sourceIds": [
-        "bayer04-transfer"
-      ],
-      "verdict": "confirmed",
-      "note": "Traduction fidèle de la citation du club."
-    },
-    {
-      "claim": "Élu meilleur joueur du match lors du déplacement de Ligue des champions à Benfica",
-      "sourceIds": [
-        "bayer04-young-talent"
-      ],
-      "verdict": "confirmed",
-      "note": "Victoire 1-0 à Benfica selon le club."
-    },
-    {
-      "claim": "Africa Soccer compte cinq buts en 45 matchs avec Leverkusen jusqu'en septembre 2026",
-      "sourceIds": [
-        "africasoccer-mazadona"
-      ],
-      "verdict": "confirmed",
-      "note": "Chiffre de presse, signalé comme tel dans le texte."
-    },
-    {
-      "claim": "FotMob recense 24 matchs et 3 buts avec l'Algérie depuis octobre 2024",
-      "sourceIds": [
-        "fotmob-player"
-      ],
-      "verdict": "confirmed",
-      "note": "FotMob : 24 matchs, 3 buts depuis octobre 2024."
-    },
-    {
-      "claim": "L'Algérie a disputé la Coupe du monde 2026 en Amérique du Nord, et Maza a débuté les quatre matchs",
-      "sourceIds": [
-        "bayer04-young-talent"
-      ],
-      "verdict": "confirmed",
-      "note": "Le club indique quatre titularisations."
-    },
-    {
-      "claim": "Maza figure sur la liste des dix nommés dans la catégorie Men’s Young Talent of the Year, avec Lamine Yamal et Yan Diomande",
-      "sourceIds": [
-        "bayer04-young-talent"
-      ],
-      "verdict": "confirmed",
-      "note": "Le club cite les deux noms."
-    },
-    {
-      "claim": "Taille de 180 cm et numéro 30 selon le profil de la Bundesliga",
+      "claim": "Born 24 Nov 2005, 180 cm, number 30",
       "sourceIds": [
         "bundesliga-player"
       ],
       "verdict": "confirmed",
-      "note": "Le profil indique 180 cm et le numéro 30."
+      "note": "Bundesliga profile."
     },
     {
-      "claim": "Saison 2026/27 : 8 matchs, 3 buts et 2 passes décisives",
+      "claim": "German-Algerian born in Berlin; 13 youth caps for Germany; opted for Algeria in 2024",
       "sourceIds": [
-        "bundesliga-player"
+        "bayer04-transfer"
       ],
       "verdict": "confirmed",
-      "note": "Le profil affiche les statistiques 2026/2027."
+      "note": "Club article says so."
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "Apporte une chronologie datée, les informations contradictoires sur le PSG et la prolongation avec les deux versions citées, et l'écart entre les chiffres du club et ceux de la presse. Chiffres et citations concordent avec les sources.",
+  "valueNote": "Direct age/height answer with background.",
   "decision": "approve",
-  "summary": "Toutes les affirmations vérifiées sont confirmées par leurs sources. Le neuvième rang au Kopa Trophy ne repose que sur Bulinews et reste correctement attribué. Aucune affirmation non étayée ou obsolète. L'âge de 20 ans deviendra obsolète le 24 novembre 2026."
+  "summary": "New section and FAQ match sources."
 }
