@@ -22,7 +22,7 @@ import {
   topicPath,
 } from "@/lib/content";
 import { TRENDING } from "@/i18n/trending";
-import { ageOn, countryName, fillAge, formatDate, headings, resolveShortcuts, splitBeforeHeading } from "@/lib/markdown";
+import { ageOn, countryName, fillAge, formatDate, headings, autoLinkPeople, resolveShortcuts, splitBeforeHeading } from "@/lib/markdown";
 import { pageMetadata, personAlternates, personJsonLd } from "@/lib/seo";
 import { responsiveImage } from "@/lib/images";
 
@@ -71,9 +71,11 @@ function related(personId: string, locale: Locale) {
   const person = store.people.find((p) => p.data.id === personId)!;
   const live = livePeople(locale, store).filter((x) => x.person.data.id !== personId);
   const explicit = person.data.related.map((id) => live.find((x) => x.person.data.id === id)).filter((x) => !!x);
-  const sameCategory = live.filter(
-    (x) => !explicit.includes(x) && x.person.data.categories.some((c) => person.data.categories.includes(c)),
-  );
+  const shared = (x: (typeof live)[number]) => x.person.data.categories.filter((c) => person.data.categories.includes(c)).length;
+  // Most shared categories first, so a footballer's related list is footballers before other athletes.
+  const sameCategory = live
+    .filter((x) => !explicit.includes(x) && shared(x) > 0)
+    .sort((a, b) => shared(b) - shared(a));
   const others = live.filter((x) => !explicit.includes(x) && !sameCategory.includes(x));
   return [...explicit, ...sameCategory, ...others].slice(0, 6);
 }
@@ -88,18 +90,27 @@ export default async function BiographyPage({ params }: PageProps<"/[locale]/[sl
   const t = getDictionary(locale);
   const store = getContent();
 
-  const body = resolveShortcuts(article.body, data.sources, (id) => {
+  const linked = resolveShortcuts(article.body, data.sources, (id) => {
     const other = store.people.find((p) => p.data.id === id);
     const a = other && liveArticle(other, locale);
     return a ? personPath(locale, a.meta.slug) : undefined;
   });
+  const body = autoLinkPeople(
+    linked,
+    livePeople(locale, store)
+      .filter((x) => x.person.data.id !== data.id)
+      .map((x) => ({ name: x.person.data.name, url: personPath(locale, x.article.meta.slug) })),
+  );
   const [firstPart, rest] = splitBeforeHeading(body, 2);
   const toc = headings(article.body);
 
-  const category = store.categories.find((c) => data.categories.includes(c.id) && c.i18n[locale]);
+  const category = store.categories.find((c) => !c.parent && data.categories.includes(c.id) && c.i18n[locale]);
+  const subcategory = category && store.categories.find((c) => c.parent === category.id && data.categories.includes(c.id) && c.i18n[locale]);
   const crumbs = [
     { name: t.nav.home, path: `/${locale}/` },
-    ...(category ? [{ name: category.i18n[locale]!.name, path: categoryPath(locale, category.i18n[locale]!.slug) }] : []),
+    ...[category, subcategory]
+      .filter((c) => !!c)
+      .map((c) => ({ name: c.i18n[locale]!.name, path: categoryPath(locale, c.i18n[locale]!.slug) })),
     { name: meta.title, path: personPath(locale, slug) },
   ];
 

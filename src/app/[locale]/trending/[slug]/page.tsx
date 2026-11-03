@@ -16,13 +16,14 @@ import {
   isoDateTime,
   lastModified,
   liveArticle,
+  livePeople,
   liveTopics,
   personPath,
   topicNoindex,
   topicPath,
   type Topic,
 } from "@/lib/content";
-import { formatDate, resolveShortcuts, splitBeforeHeading } from "@/lib/markdown";
+import { formatDate, autoLinkPeople, resolveShortcuts, splitBeforeHeading } from "@/lib/markdown";
 import { pageMetadata } from "@/lib/seo";
 import { responsiveImage } from "@/lib/images";
 
@@ -78,11 +79,17 @@ export default async function TopicPage({ params }: PageProps<"/[locale]/trendin
   const tt = TRENDING[locale];
   const store = getContent();
 
-  const body = resolveShortcuts(article.body, topic.data.sources, (id) => {
+  const linked = resolveShortcuts(article.body, topic.data.sources, (id) => {
     const other = store.people.find((p) => p.data.id === id);
     const a = other && liveArticle(other, locale);
     return a ? personPath(locale, a.meta.slug) : undefined;
   });
+  const body = autoLinkPeople(
+    linked,
+    livePeople(locale, store)
+      .filter((x) => x.person.data.id !== '')
+      .map((x) => ({ name: x.person.data.name, url: personPath(locale, x.article.meta.slug) })),
+  );
   const [firstPart, rest] = splitBeforeHeading(body, 2);
   const editors = new Map(store.editors.map((e) => [e.id, e]));
   const author = meta.author ? editors.get(meta.author) : undefined;

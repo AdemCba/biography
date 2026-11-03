@@ -3,44 +3,412 @@
     "id": "athletes",
     "order": 1,
     "i18n": {
-      "en": { "name": "Athletes", "slug": "athletes", "description": "Footballers, basketball players, tennis players and other athletes: careers, records and the facts behind them." },
-      "es": { "name": "Deportistas", "slug": "deportistas", "description": "Futbolistas, jugadores de baloncesto, tenistas y otros deportistas: trayectoria, récords y datos verificados." },
-      "de": { "name": "Sportler", "slug": "sportler", "description": "Fußballer, Basketballer, Tennisspieler und andere Sportler: Karriere, Rekorde und geprüfte Fakten." },
-      "fr": { "name": "Sportifs", "slug": "sportifs", "description": "Footballeurs, basketteurs, joueurs de tennis et autres sportifs : carrière, records et faits vérifiés." },
-      "pt": { "name": "Atletas", "slug": "atletas", "description": "Jogadores de futebol, basquete, tênis e outros atletas: carreira, recordes e fatos checados." }
+      "en": {
+        "name": "Athletes",
+        "slug": "athletes",
+        "description": "Footballers, basketball players, tennis players and other athletes: careers, records and the facts behind them."
+      },
+      "es": {
+        "name": "Deportistas",
+        "slug": "deportistas",
+        "description": "Futbolistas, jugadores de baloncesto, tenistas y otros deportistas: trayectoria, récords y datos verificados."
+      },
+      "de": {
+        "name": "Sportler",
+        "slug": "sportler",
+        "description": "Fußballer, Basketballer, Tennisspieler und andere Sportler: Karriere, Rekorde und geprüfte Fakten."
+      },
+      "fr": {
+        "name": "Sportifs",
+        "slug": "sportifs",
+        "description": "Footballeurs, basketteurs, joueurs de tennis et autres sportifs : carrière, records et faits vérifiés."
+      },
+      "pt": {
+        "name": "Atletas",
+        "slug": "atletas",
+        "description": "Jogadores de futebol, basquete, tênis e outros atletas: carreira, recordes e fatos checados."
+      }
     }
   },
   {
     "id": "business",
     "order": 2,
     "i18n": {
-      "en": { "name": "Founders & executives", "slug": "founders-executives", "description": "Company founders, chief executives and investors: how they built what they built, with sourced numbers." },
-      "es": { "name": "Emprendedores y directivos", "slug": "emprendedores-directivos", "description": "Fundadores, consejeros delegados e inversores: cómo construyeron sus empresas, con cifras contrastadas." },
-      "de": { "name": "Gründer & Manager", "slug": "gruender-manager", "description": "Gründerinnen, Vorstände und Investoren: wie sie ihre Unternehmen aufgebaut haben, mit belegten Zahlen." },
-      "fr": { "name": "Entrepreneurs et dirigeants", "slug": "entrepreneurs-dirigeants", "description": "Fondateurs, PDG et investisseurs : comment ils ont bâti leur entreprise, chiffres sourcés à l’appui." },
-      "pt": { "name": "Empreendedores e executivos", "slug": "empreendedores-executivos", "description": "Fundadores, CEOs e investidores: como construíram seus negócios, com números checados." }
+      "en": {
+        "name": "Founders & executives",
+        "slug": "founders-executives",
+        "description": "Company founders, chief executives and investors: how they built what they built, with sourced numbers."
+      },
+      "es": {
+        "name": "Emprendedores y directivos",
+        "slug": "emprendedores-directivos",
+        "description": "Fundadores, consejeros delegados e inversores: cómo construyeron sus empresas, con cifras contrastadas."
+      },
+      "de": {
+        "name": "Gründer & Manager",
+        "slug": "gruender-manager",
+        "description": "Gründerinnen, Vorstände und Investoren: wie sie ihre Unternehmen aufgebaut haben, mit belegten Zahlen."
+      },
+      "fr": {
+        "name": "Entrepreneurs et dirigeants",
+        "slug": "entrepreneurs-dirigeants",
+        "description": "Fondateurs, PDG et investisseurs : comment ils ont bâti leur entreprise, chiffres sourcés à l’appui."
+      },
+      "pt": {
+        "name": "Empreendedores e executivos",
+        "slug": "empreendedores-executivos",
+        "description": "Fundadores, CEOs e investidores: como construíram seus negócios, com números checados."
+      }
     }
   },
   {
     "id": "artists",
     "order": 3,
     "i18n": {
-      "en": { "name": "Actors, musicians & directors", "slug": "artists", "description": "Actors, musicians, directors and other artists: their work, awards and career milestones." },
-      "es": { "name": "Actores, músicos y directores", "slug": "artistas", "description": "Actores, músicos, directores y otros artistas: su obra, premios y momentos clave de su carrera." },
-      "de": { "name": "Schauspieler, Musiker & Regisseure", "slug": "kuenstler", "description": "Schauspieler, Musikerinnen, Regisseure und andere Künstler: Werk, Auszeichnungen und Karrierestationen." },
-      "fr": { "name": "Acteurs, musiciens et réalisateurs", "slug": "artistes", "description": "Acteurs, musiciens, réalisateurs et autres artistes : œuvre, récompenses et grandes étapes." },
-      "pt": { "name": "Atores, músicos e diretores", "slug": "artistas", "description": "Atores, músicos, diretores e outros artistas: obra, prêmios e marcos da carreira." }
+      "en": {
+        "name": "Actors, musicians & directors",
+        "slug": "artists",
+        "description": "Actors, musicians, directors and other artists: their work, awards and career milestones."
+      },
+      "es": {
+        "name": "Actores, músicos y directores",
+        "slug": "artistas",
+        "description": "Actores, músicos, directores y otros artistas: su obra, premios y momentos clave de su carrera."
+      },
+      "de": {
+        "name": "Schauspieler, Musiker & Regisseure",
+        "slug": "kuenstler",
+        "description": "Schauspieler, Musikerinnen, Regisseure und andere Künstler: Werk, Auszeichnungen und Karrierestationen."
+      },
+      "fr": {
+        "name": "Acteurs, musiciens et réalisateurs",
+        "slug": "artistes",
+        "description": "Acteurs, musiciens, réalisateurs et autres artistes : œuvre, récompenses et grandes étapes."
+      },
+      "pt": {
+        "name": "Atores, músicos e diretores",
+        "slug": "artistas",
+        "description": "Atores, músicos, diretores e outros artistas: obra, prêmios e marcos da carreira."
+      }
     }
   },
   {
     "id": "creators",
     "order": 4,
     "i18n": {
-      "en": { "name": "Creators", "slug": "creators", "description": "YouTubers, streamers and online creators: how their channels grew and what they have built since." },
-      "es": { "name": "Creadores de contenido", "slug": "creadores", "description": "YouTubers, streamers y creadores: cómo crecieron sus canales y qué han construido después." },
-      "de": { "name": "Creator", "slug": "creator", "description": "YouTuber, Streamer und Online-Creator: wie ihre Kanäle gewachsen sind und was daraus wurde." },
-      "fr": { "name": "Créateurs", "slug": "createurs", "description": "YouTubeurs, streamers et créateurs : comment leurs chaînes ont grandi et ce qu’ils ont bâti depuis." },
-      "pt": { "name": "Criadores", "slug": "criadores", "description": "YouTubers, streamers e criadores digitais: como seus canais cresceram e o que construíram depois." }
+      "en": {
+        "name": "Creators",
+        "slug": "creators",
+        "description": "YouTubers, streamers and online creators: how their channels grew and what they have built since."
+      },
+      "es": {
+        "name": "Creadores de contenido",
+        "slug": "creadores",
+        "description": "YouTubers, streamers y creadores: cómo crecieron sus canales y qué han construido después."
+      },
+      "de": {
+        "name": "Creator",
+        "slug": "creator",
+        "description": "YouTuber, Streamer und Online-Creator: wie ihre Kanäle gewachsen sind und was daraus wurde."
+      },
+      "fr": {
+        "name": "Créateurs",
+        "slug": "createurs",
+        "description": "YouTubeurs, streamers et créateurs : comment leurs chaînes ont grandi et ce qu’ils ont bâti depuis."
+      },
+      "pt": {
+        "name": "Criadores",
+        "slug": "criadores",
+        "description": "YouTubers, streamers e criadores digitais: como seus canais cresceram e o que construíram depois."
+      }
+    }
+  },
+  {
+    "id": "football",
+    "parent": "athletes",
+    "order": 10,
+    "i18n": {
+      "en": {
+        "name": "Footballers",
+        "slug": "footballers",
+        "description": "Footballers and football coaches: clubs, transfers, titles, age and the facts behind each career, with sources."
+      },
+      "es": {
+        "name": "Futbolistas",
+        "slug": "futbolistas",
+        "description": "Futbolistas y entrenadores: clubes, fichajes, títulos, edad y los datos de cada carrera, con fuentes."
+      },
+      "de": {
+        "name": "Fußballer",
+        "slug": "fussballer",
+        "description": "Fußballer und Trainer: Vereine, Transfers, Titel, Alter und die Fakten zu jeder Karriere, mit Quellen."
+      },
+      "fr": {
+        "name": "Footballeurs",
+        "slug": "footballeurs",
+        "description": "Footballeurs et entraîneurs : clubs, transferts, titres, âge et les faits de chaque carrière, sources à l’appui."
+      },
+      "pt": {
+        "name": "Jogadores de futebol",
+        "slug": "jogadores-de-futebol",
+        "description": "Jogadores e técnicos de futebol: clubes, transferências, títulos, idade e os fatos de cada carreira, com fontes."
+      }
+    }
+  },
+  {
+    "id": "tennis",
+    "parent": "athletes",
+    "order": 11,
+    "i18n": {
+      "en": {
+        "name": "Tennis players",
+        "slug": "tennis-players",
+        "description": "Tennis players: rankings, titles, Grand Slam results and personal facts, checked against official ATP and WTA data."
+      },
+      "es": {
+        "name": "Tenistas",
+        "slug": "tenistas",
+        "description": "Tenistas: ranking, títulos, resultados en Grand Slam y datos personales, contrastados con datos oficiales de la ATP y la WTA."
+      },
+      "de": {
+        "name": "Tennisspieler",
+        "slug": "tennisspieler",
+        "description": "Tennisspieler: Weltrangliste, Titel, Grand-Slam-Ergebnisse und persönliche Fakten, geprüft an offiziellen ATP- und WTA-Daten."
+      },
+      "fr": {
+        "name": "Joueurs de tennis",
+        "slug": "joueurs-de-tennis",
+        "description": "Joueurs de tennis : classement, titres, résultats en Grand Chelem et faits personnels, vérifiés avec les données officielles ATP et WTA."
+      },
+      "pt": {
+        "name": "Tenistas",
+        "slug": "tenistas",
+        "description": "Tenistas: ranking, títulos, resultados em Grand Slams e dados pessoais, conferidos com dados oficiais da ATP e da WTA."
+      }
+    }
+  },
+  {
+    "id": "basketball",
+    "parent": "athletes",
+    "order": 12,
+    "i18n": {
+      "en": {
+        "name": "Basketball players",
+        "slug": "basketball-players",
+        "description": "Basketball players and coaches: teams, draft, stats and titles, from official league sources."
+      },
+      "es": {
+        "name": "Jugadores de baloncesto",
+        "slug": "baloncesto",
+        "description": "Jugadores y entrenadores de baloncesto: equipos, draft, estadísticas y títulos, con fuentes oficiales de las ligas."
+      },
+      "de": {
+        "name": "Basketballspieler",
+        "slug": "basketball",
+        "description": "Basketballspieler und Trainer: Teams, Draft, Statistiken und Titel, aus offiziellen Ligaquellen."
+      },
+      "fr": {
+        "name": "Basketteurs",
+        "slug": "basketteurs",
+        "description": "Basketteurs et entraîneurs : équipes, draft, statistiques et titres, d’après les sources officielles des ligues."
+      },
+      "pt": {
+        "name": "Jogadores de basquete",
+        "slug": "basquete",
+        "description": "Jogadores e técnicos de basquete: times, draft, estatísticas e títulos, com fontes oficiais das ligas."
+      }
+    }
+  },
+  {
+    "id": "motorsport",
+    "parent": "athletes",
+    "order": 13,
+    "i18n": {
+      "en": {
+        "name": "Racing drivers",
+        "slug": "racing-drivers",
+        "description": "Formula 1 and endurance racing drivers: teams, wins, championships and career facts."
+      },
+      "es": {
+        "name": "Pilotos",
+        "slug": "pilotos",
+        "description": "Pilotos de Fórmula 1 y de resistencia: equipos, victorias, campeonatos y datos de su carrera."
+      },
+      "de": {
+        "name": "Rennfahrer",
+        "slug": "rennfahrer",
+        "description": "Formel-1- und Langstreckenfahrer: Teams, Siege, Titel und Fakten zur Karriere."
+      },
+      "fr": {
+        "name": "Pilotes",
+        "slug": "pilotes",
+        "description": "Pilotes de Formule 1 et d’endurance : écuries, victoires, titres et faits de carrière."
+      },
+      "pt": {
+        "name": "Pilotos",
+        "slug": "pilotos",
+        "description": "Pilotos de Fórmula 1 e de endurance: equipes, vitórias, títulos e fatos da carreira."
+      }
+    }
+  },
+  {
+    "id": "american-football",
+    "parent": "athletes",
+    "order": 14,
+    "i18n": {
+      "en": {
+        "name": "NFL players",
+        "slug": "nfl-players",
+        "description": "NFL players and former players: teams, draft, contracts and records, from official sources."
+      },
+      "es": {
+        "name": "Jugadores de la NFL",
+        "slug": "jugadores-nfl",
+        "description": "Jugadores y exjugadores de la NFL: equipos, draft, contratos y récords, con fuentes oficiales."
+      },
+      "de": {
+        "name": "NFL-Spieler",
+        "slug": "nfl-spieler",
+        "description": "NFL-Spieler und ehemalige Spieler: Teams, Draft, Verträge und Rekorde, aus offiziellen Quellen."
+      },
+      "fr": {
+        "name": "Joueurs de NFL",
+        "slug": "joueurs-nfl",
+        "description": "Joueurs et anciens joueurs de NFL : équipes, draft, contrats et records, de sources officielles."
+      },
+      "pt": {
+        "name": "Jogadores da NFL",
+        "slug": "jogadores-nfl",
+        "description": "Jogadores e ex-jogadores da NFL: times, draft, contratos e recordes, com fontes oficiais."
+      }
+    }
+  },
+  {
+    "id": "actors",
+    "parent": "artists",
+    "order": 20,
+    "i18n": {
+      "en": {
+        "name": "Actors",
+        "slug": "actors",
+        "description": "Film and TV actors, from today's series casts to 80s and 90s favourites: roles, age, family and where they are now."
+      },
+      "es": {
+        "name": "Actores",
+        "slug": "actores",
+        "description": "Actores de cine y televisión, desde el reparto de las series actuales hasta los favoritos de los 80 y 90: papeles, edad, familia y qué hacen hoy."
+      },
+      "de": {
+        "name": "Schauspieler",
+        "slug": "schauspieler",
+        "description": "Film- und Serienschauspieler, von aktuellen Serien bis zu Lieblingen der 80er und 90er: Rollen, Alter, Familie und was sie heute machen."
+      },
+      "fr": {
+        "name": "Acteurs",
+        "slug": "acteurs",
+        "description": "Acteurs de cinéma et de séries, des distributions actuelles aux favoris des années 80 et 90 : rôles, âge, famille et ce qu’ils deviennent."
+      },
+      "pt": {
+        "name": "Atores",
+        "slug": "atores",
+        "description": "Atores de cinema e TV, do elenco das séries atuais aos favoritos dos anos 80 e 90: papéis, idade, família e onde estão hoje."
+      }
+    }
+  },
+  {
+    "id": "musicians",
+    "parent": "artists",
+    "order": 21,
+    "i18n": {
+      "en": {
+        "name": "Musicians",
+        "slug": "musicians",
+        "description": "Singers, rappers and bands: hits, albums, awards and personal facts, with sources."
+      },
+      "es": {
+        "name": "Músicos",
+        "slug": "musicos",
+        "description": "Cantantes, raperos y grupos: éxitos, discos, premios y datos personales, con fuentes."
+      },
+      "de": {
+        "name": "Musiker",
+        "slug": "musiker",
+        "description": "Sänger, Rapper und Bands: Hits, Alben, Auszeichnungen und persönliche Fakten, mit Quellen."
+      },
+      "fr": {
+        "name": "Musiciens",
+        "slug": "musiciens",
+        "description": "Chanteurs, rappeurs et groupes : tubes, albums, récompenses et faits personnels, sources à l’appui."
+      },
+      "pt": {
+        "name": "Músicos",
+        "slug": "musicos",
+        "description": "Cantores, rappers e bandas: sucessos, álbuns, prêmios e dados pessoais, com fontes."
+      }
+    }
+  },
+  {
+    "id": "tv-presenters",
+    "parent": "artists",
+    "order": 22,
+    "i18n": {
+      "en": {
+        "name": "TV presenters",
+        "slug": "tv-presenters",
+        "description": "TV hosts, presenters and broadcasters: their shows, careers and personal facts."
+      },
+      "es": {
+        "name": "Presentadores",
+        "slug": "presentadores",
+        "description": "Presentadores y comunicadores de televisión: sus programas, trayectoria y datos personales."
+      },
+      "de": {
+        "name": "Moderatoren",
+        "slug": "moderatoren",
+        "description": "Fernsehmoderatoren und Kommentatoren: ihre Sendungen, Karrieren und persönliche Fakten."
+      },
+      "fr": {
+        "name": "Animateurs télé",
+        "slug": "animateurs-tele",
+        "description": "Animateurs et présentateurs de télévision : leurs émissions, leur carrière et faits personnels."
+      },
+      "pt": {
+        "name": "Apresentadores",
+        "slug": "apresentadores",
+        "description": "Apresentadores e comunicadores de TV: seus programas, carreira e dados pessoais."
+      }
+    }
+  },
+  {
+    "id": "streamers-youtubers",
+    "parent": "creators",
+    "order": 30,
+    "i18n": {
+      "en": {
+        "name": "YouTubers & streamers",
+        "slug": "youtubers-streamers",
+        "description": "YouTubers, Twitch streamers and TikTok creators: channels, records, real names, age and what they built."
+      },
+      "es": {
+        "name": "YouTubers y streamers",
+        "slug": "youtubers-streamers",
+        "description": "YouTubers, streamers de Twitch y creadores de TikTok: canales, récords, nombre real, edad y lo que han construido."
+      },
+      "de": {
+        "name": "YouTuber & Streamer",
+        "slug": "youtuber-streamer",
+        "description": "YouTuber, Twitch-Streamer und TikTok-Creator: Kanäle, Rekorde, echter Name, Alter und was sie aufgebaut haben."
+      },
+      "fr": {
+        "name": "YouTubeurs et streamers",
+        "slug": "youtubeurs-streamers",
+        "description": "YouTubeurs, streamers Twitch et créateurs TikTok : chaînes, records, vrai nom, âge et ce qu’ils ont bâti."
+      },
+      "pt": {
+        "name": "YouTubers e streamers",
+        "slug": "youtubers-streamers",
+        "description": "YouTubers, streamers da Twitch e criadores do TikTok: canais, recordes, nome verdadeiro, idade e o que construíram."
+      }
     }
   }
 ]

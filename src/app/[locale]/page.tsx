@@ -25,7 +25,7 @@ export default async function Home({ params }: PageProps<"/[locale]">) {
   const latest = livePeople(locale, store).slice(0, 12);
   const trending = liveTopics(locale, store).slice(0, 4);
   const categories = store.categories
-    .filter((c) => c.i18n[locale])
+    .filter((c) => !c.parent && c.i18n[locale])
     .map((c) => ({ c, count: livePeople(locale, store).filter((x) => x.person.data.categories.includes(c.id)).length }))
     .filter((x) => x.count > 0); // never show empty sections to readers (or AdSense reviewers)
 

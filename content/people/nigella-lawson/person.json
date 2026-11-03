@@ -2,24 +2,33 @@
   "id": "nigella-lawson",
   "name": "Nigella Lawson",
   "categories": [
-    "artists"
+    "artists",
+    "tv-presenters"
   ],
   "importance": 4,
   "sameAs": [],
   "facts": {
     "birthDate": {
       "value": "1960-01-06",
-      "sources": ["wikidata-nigella"],
+      "sources": [
+        "wikidata-nigella"
+      ],
       "note": "Wikidata gives 6 January 1960. No other source opened for this page gives a date."
     },
     "birthPlace": {
       "value": "London",
-      "sources": ["wikidata-nigella"],
+      "sources": [
+        "wikidata-nigella"
+      ],
       "note": "Wikidata lists London as place of birth."
     },
     "nationality": {
-      "value": ["GB"],
-      "sources": ["wikidata-nigella"],
+      "value": [
+        "GB"
+      ],
+      "sources": [
+        "wikidata-nigella"
+      ],
       "note": "Wikidata lists United Kingdom as country of citizenship."
     }
   },

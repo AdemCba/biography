@@ -1,6 +1,6 @@
 import { isFreeLicense, stripHtml } from "../scripts/images";
 import { describe, expect, it } from "vitest";
-import { ageOn, resolveShortcuts, splitBeforeHeading } from "@/lib/markdown";
+import { ageOn, autoLinkPeople, resolveShortcuts, splitBeforeHeading } from "@/lib/markdown";
 import { slugify } from "@/lib/slug";
 import { similarity, styleFindings } from "@/lib/style";
 import { changedUrls } from "../scripts/indexnow";
@@ -87,5 +87,21 @@ describe("photo licenses", () => {
   });
   it("turns Commons artist HTML into a plain credit", () => {
     expect(stripHtml('<a href="//commons.wikimedia.org/wiki/User:X">Erik van Leeuwen</a> &amp; team')).toBe("Erik van Leeuwen & team");
+  });
+});
+
+describe("autoLinkPeople", () => {
+  const people = [
+    { name: "Bill Kaulitz", url: "/en/bill-kaulitz/" },
+    { name: "Heidi Klum", url: "/en/heidi-klum/" },
+    { name: "Common", url: "/en/common/" },
+  ];
+  it("links the first plain mention only, skips headings, existing links and short one-word names", () => {
+    const body = "## Heidi Klum\n\nHe married Heidi Klum in 2019. Heidi Klum later said so.\n\n[Bill Kaulitz](/en/x/) is his twin; Bill Kaulitz too. A common view.";
+    const out = autoLinkPeople(body, people);
+    expect(out).toContain("## Heidi Klum\n");
+    expect(out).toContain("He married [Heidi Klum](/en/heidi-klum/) in 2019. Heidi Klum later");
+    expect(out).toContain("[Bill Kaulitz](/en/x/) is his twin; [Bill Kaulitz](/en/bill-kaulitz/) too");
+    expect(out).not.toContain("(/en/common/)");
   });
 });

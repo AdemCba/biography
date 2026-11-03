@@ -4,8 +4,8 @@ import { absoluteUrl, site } from "@/config/site";
 import type { Locale } from "@/i18n/config";
 import { getDictionary } from "@/i18n/dictionaries";
 import { PersonCard } from "@/components/PersonCard";
-import { editorPath, getContent, livePeople, PLACEHOLDER_PARAM, withPlaceholder } from "@/lib/content";
-import { pageMetadata } from "@/lib/seo";
+import { editorPath, getContent, livePeople, personPath, PLACEHOLDER_PARAM, withPlaceholder } from "@/lib/content";
+import { editorJsonLd, pageMetadata } from "@/lib/seo";
 
 export const dynamicParams = false;
 
@@ -40,7 +40,10 @@ export default async function EditorPage({ params }: PageProps<"/[locale]/editor
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "ProfilePage",
-    mainEntity: { "@type": "Person", name: editor.name, jobTitle: found.t.role, url: absoluteUrl(editorPath(locale, id)), sameAs: editor.sameAs, image: editor.image ? absoluteUrl(editor.image) : undefined, worksFor: { "@type": "Organization", name: site.name } },
+    url: absoluteUrl(editorPath(locale, id)),
+    inLanguage: locale,
+    mainEntity: { ...editorJsonLd(editor, locale), description: found.t.bio },
+    hasPart: work.slice(0, 20).map(({ article }) => ({ "@type": "Article", headline: article.meta.title, url: absoluteUrl(personPath(locale, article.meta.slug)) })),
   };
   return (
     <div className="mx-auto max-w-3xl py-10">
