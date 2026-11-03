@@ -23,7 +23,8 @@
     "images": "tsx scripts/images.ts",
     "suggest": "tsx scripts/suggest.ts",
     "gsc": "tsx scripts/gsc.ts",
-    "ga": "tsx scripts/ga.ts"
+    "ga": "tsx scripts/ga.ts",
+    "sources": "tsx scripts/check-sources.ts"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
