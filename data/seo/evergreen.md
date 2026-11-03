@@ -4,9 +4,74 @@ Living actors and TV faces whose names competitors (celebritynetworth, famousbir
 traffic from every day, not only when they trend. Few sites cover them well in es/de/fr/pt.
 Fallback list: when famousbirthdays.com/trending/ has no adult with good sources, a people run writes the first unticked name here in all five languages (on top of the trend people),
 then ticks it: `- [x] Name 2026-11-03`. Skip a name that already has a page in content/people/.
-Never add minors.
+Never add minors. Skip and tick a name if reliable sources report the person has died.
+Order = priority. Numbers are monthly Google searches (Semrush, 2026-11-03; US unless marked) for the name or its age/net-worth query.
 
 ## Names
+
+### High search volume (Semrush, competitors' top pages)
+
+- [ ] Michelle Randolph (550K)
+- [ ] Cynthia Erivo (450K)
+- [ ] Tobey Maguire (368K)
+- [ ] Matt Rife (301K)
+- [ ] Bill Pullman (301K)
+- [ ] Josh Duhamel (246K)
+- [ ] Lauren Graham (201K)
+- [ ] Fran Drescher (201K)
+- [ ] Aidan Turner (135K)
+- [ ] Teri Hatcher (110K)
+- [ ] Duke Dennis (110K)
+- [ ] Jynxzi (110K)
+- [ ] Scott Glenn (90K)
+- [ ] Sara Saffari (90K)
+- [ ] Kate Capshaw (90K)
+- [ ] Gustaf Skarsgård (74K)
+- [ ] Kim Fields (74K)
+- [ ] Lucien Laviscount (74K)
+- [ ] Jaleel White (74K)
+- [ ] Mikaela Hoover (74K)
+- [ ] Stephanie Buttermore (74K)
+- [ ] Joe Bartolozzi (74K)
+- [ ] Virginia Gardner (60K)
+- [ ] Jake Paul (50K net worth)
+- [ ] Eric Lloyd (50K)
+- [ ] Aly Michalka (40K)
+- [ ] Jon Gries (40K)
+- [ ] Brooke Langton (40K)
+- [ ] Michael Gross (40K)
+- [ ] Billie Lourd (33K)
+- [ ] Tracy Nelson (27K)
+- [ ] Macaulay Culkin (27K net worth)
+- [ ] Cam Gigandet (18K)
+
+### Local stars (searched in their own language, few good pages)
+
+- [ ] Ana Maria Braga (pt-BR 27K "quantos anos tem")
+- [ ] Xuxa (pt-BR 12K)
+- [ ] Renato Aragão (pt-BR 6.6K)
+- [ ] Pamela Anderson (de 33K "alter")
+- [ ] Dieter Bohlen (de 12K)
+- [ ] Günther Jauch (de 8K)
+- [ ] Uschi Glas (de 8K)
+- [ ] Thomas Gottschalk (de 6.6K)
+- [ ] Isabel Preysler (es 4.4K "cuántos años tiene")
+- [ ] Ana Obregón (es 2.9K)
+- [ ] Jesús Vázquez (es 3.6K)
+- [ ] Jordi Hurtado (es 3.6K)
+- [ ] Ana Rosa Quintana (es 2.9K)
+- [ ] Aitana Sánchez-Gijón (es 2.9K)
+- [ ] Carmen Maura (es 2.4K)
+- [ ] Carlos Sobera (es 2.4K)
+- [ ] Karlos Arguiñano (es 2.4K)
+- [ ] Catherine Deneuve (fr 2.3K "quel âge a")
+- [ ] Josiane Balasko (fr 1.6K)
+- [ ] Adriana Karembeu (fr 1.6K)
+- [ ] Karine Lemarchand (fr 1.3K)
+- [ ] Jean-Pierre Foucault (fr 1.3K)
+- [ ] Laura Smet (fr 1K)
+
+### Nostalgia casts
 
 - [ ] Gabriel Macht
 - [ ] Sarah Rafferty
