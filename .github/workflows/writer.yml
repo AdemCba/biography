@@ -36,7 +36,9 @@ permissions:
 
 jobs:
   write:
-    if: ${{ vars.WRITER_ENABLED != 'false' }}
+    # Trending-topic runs (count 0) are off since 2026-11-03 (owner's call: topics got ~5x fewer clicks per page
+    # than bios). Set repo variable TOPICS_ENABLED=true to turn them back on.
+    if: ${{ vars.WRITER_ENABLED != 'false' && (inputs.count != '0' || inputs.repair != '' || vars.TOPICS_ENABLED == 'true') }}
     runs-on: ubuntu-latest
     timeout-minutes: 300
     env:
@@ -69,7 +71,7 @@ jobs:
           github_token: ${{ github.token }}
           show_full_output: true
           claude_args: >-
-            --model ${{ vars.WRITER_MODEL || 'claude-haiku-5-5' }}
+            --model ${{ inputs.count == '0' && (vars.WRITER_MODEL || 'claude-haiku-5-5') || (vars.PEOPLE_MODEL || 'claude-sonnet-5-5') }}
             --max-turns 600
             --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebSearch,WebFetch,Task,TodoWrite"
             --disallowedTools "Monitor"
@@ -101,14 +103,18 @@ jobs:
             - Skip step 1 (the repository is already checked out and installed) and the photo step (Publish does it).
             - When no people were named above, pick the people from today's trends only: read data/trend-candidates/latest.md (Google Trends +
               Wikipedia spikes, scanned twice a day) and confirm with WebSearch that each one is in today's news.
-              Prefer living people whose current activity is why they trend (footballers, F1 drivers, creators,
-              streamers, musicians). Also take living film and TV actors, including character actors and stars of
-              80s-2000s films and series, when they trend for a reunion, reboot, sequel, streaming release, new role
-              or anniversary: competitors get most of their traffic from exactly these names ("christopher lloyd",
-              "patrick renna") and few sites cover them well.
+              Pick only two kinds of people (owner's rule since 2026-11-03): (1) adult online creators: YouTubers,
+              TikTokers, streamers and Instagram personalities with real press coverage; (2) film and TV actors,
+              including series cast, reality-TV cast, character actors and stars of 80s-2000s films and series
+              (reunions, reboots, sequels, streaming releases, new roles, anniversaries). Competitors get most of
+              their traffic from exactly these names ("christopher lloyd", "patrick renna"). Skip athletes,
+              coaches, politicians, business people and musicians unless they are also known as one of these two.
+              Every creator must be 18+ (birth date from a reliable source) and backed by at least two
+              independent reliable sources (major media, official channels); skip creators known only from their
+              own channels or fan wikis.
               A new site cannot outrank Wikipedia and big media for the most famous names, so prefer rising,
-              mid-level names (new signings, breakout players, creators, reality-TV and series cast, nostalgia
-              and character actors) and names
+              mid-level names (breakout creators, reality-TV and series cast, nostalgia and character actors)
+              and names
               trending in ES, MX, AR, BR, PT, DE, AT or FR, where competition is lower. In every text answer the
               questions people type for them (age, height, partner, nationality, club, net worth only if sourced).
               Do not take names from content/queue.json.
