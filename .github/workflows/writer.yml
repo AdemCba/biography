@@ -144,13 +144,14 @@ jobs:
               file says (only that language's file), then tick them with today's date. These pages already show on
               Google's first pages, so this is the quickest way to more clicks.
             - Popular name (people runs only, when no people were named above): after the trend people, write one
-              more person in all five languages, the same way and with the same checks. Pick it from
-              https://www.famousbirthdays.com/trending/ (WebFetch): the highest-listed adult (18+, birth date
-              confirmed by a reliable source) with no page in content/people/ and at least two independent reliable
-              sources (major media, official sites). Skip minors, Roblox/gaming kids, family members known only
-              through a relative, and anyone whose fame is sexual content. Never cite or copy famousbirthdays.com;
-              it is only a list of names. When nothing there qualifies, take the first unticked name in
-              data/seo/evergreen.md and tick it with today's date (skip and tick names that already have a page).
+              more person in all five languages, the same way and with the same checks. Take the first unticked
+              name in data/seo/evergreen.md (ordered by real monthly search volume) and tick it with today's date
+              (skip and tick names that already have a page or have died). Only when every name there is ticked,
+              pick from https://www.famousbirthdays.com/trending/ (WebFetch): the highest-listed adult (18+, birth
+              date confirmed by a reliable source) with no page in content/people/ and at least two independent
+              reliable sources (major media, official sites). Skip minors, Roblox/gaming kids, family members known
+              only through a relative, and anyone whose fame is sexual content. Never cite or copy
+              famousbirthdays.com; it is only a list of names.
             - Traffic first: the fastest wins are people who already have a page and trend again (section
               "Sitede zaten var, güncellemeye aday" of latest.md). Before writing new people, update up to 3 of
               them in all five languages: a dated "## <Month Year>" section on why they are in the news, refreshed
