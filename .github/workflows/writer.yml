@@ -91,7 +91,8 @@ jobs:
               fact-check-desk, reviewedAt: today and remove flag/reviewNotes. Finish with
               `npx tsx scripts/schedule.ts --per-day 1000` and `npm run -s check` without ERROR, then write the summary.
             Follow docs/subscription-writer-task.md for ${{ inputs.count || 5 }} new people, with these changes:
-            - TOPICS-ONLY RUN when the people count is 0 (this run: "${{ inputs.count || 5 }}"): write only the
+            - ${{ inputs.count == '0' && 'THIS IS A TOPICS-ONLY RUN.' || 'THIS IS A PEOPLE RUN: write people pages only and NO trending topic articles (skip every topic step below).' }}
+            - TOPICS-ONLY RUN (only when the line above says so): write only the
               trending topic articles below, from the freshest rows of "Son 4 saatte Google'da yükselen konular",
               skipping stories that already have a page in content/topics. Do not write or repair people pages
               and skip the "Search Console first", "Traffic first" and repair steps. Be quick: a few strong sources per topic, one
@@ -164,8 +165,8 @@ jobs:
             - Then, if usage allows, repair up to 2 existing pages: pick pages from `npm run -s check` that are in
               status review or show ERROR, `too-short` or `short-for-importance`, expand or fix them in all languages with sourced facts, and fact-check them
               again with review.ts. Never remove a page.
-            - Trending topics are written only in TOPICS-ONLY runs (people count 0); a people run skips this step,
-              because the 2-hourly topics run covers it and two runs at once would write the same story twice.
+            - Trending topics are written only in TOPICS-ONLY runs; a PEOPLE RUN skips this whole step
+              and the money-story step.
               Never write a story the site already has: before creating a topic, grep content/topics for the
               story's main names (people, teams, products, places) and read any topic from the last 3 days that
               matches. If it is the same story, add the missing language to that folder or update it with the
