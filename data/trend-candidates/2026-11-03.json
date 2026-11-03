@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T12:23:30.296Z",
+  "generatedAt": "2026-11-03T12:40:25.082Z",
   "signals": 850,
   "scaffolded": [],
   "candidates": [
@@ -1056,24 +1056,17 @@
         {
           "source": "google-trends",
           "where": "AT",
-          "term": "jesús de miguel",
-          "volume": 500
-        },
-        {
-          "source": "google-trends",
-          "where": "AT",
           "term": "jesus de miguel",
           "volume": 2000
         }
       ],
       "newsUrls": [
-        "https://www.marca.com/futbol/tenerife/2026/11/03/owono-cara-desgracia.html",
-        "https://as.com/futbol/muere-jesus-de-miguel-reacciones-y-ultima-hora-al-fallecimiento-del-jugador-del-tenerife-en-directo-f202611-n/",
-        "https://www.clubdeportivotenerife.es/noticias/comunicado-oficial-fallecimiento-de-jesus-de-miguel",
         "https://www.elmundo.es/deportes/futbol/segunda-division/2026/11/03/6ae97d60e4d4d8e9038b459e.html",
+        "https://as.com/futbol/segunda/owono-cierra-sus-redes-sociales-f202611-n/",
+        "https://www.clubdeportivotenerife.es/noticias/comunicado-oficial-fallecimiento-de-jesus-de-miguel",
         "https://www.bbc.com/sport/football/articles/ck62yvz046pjo",
         "https://www.cnn.com/2026/11/03/sport/jesus-de-miguel-spain-dies-after-on-pitch-collision",
-        "https://www.theguardian.com/football/2026/nov/03/tenerife-footballer-jesus-de-miguel-hospital-collision"
+        "https://sports.yahoo.com/articles/tenerife-injury-jes-miguel-071100196.html"
       ],
       "spike": 8124.5,
       "score": 169,
@@ -1617,61 +1610,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q58821194",
-      "name": "Jesús Owono",
-      "description": "Equatorial Guinean association football player (born 2001)",
-      "category": "athletes",
-      "occupations": [
-        "association football player"
-      ],
-      "birthYear": 2001,
-      "deathYear": null,
-      "sitelinks": 17,
-      "wikipedia": {
-        "ar": "جيسوس أوونو",
-        "arz": "چيسوس اونو",
-        "ca": "Jesús Lázaro Owono Ngua",
-        "en": "Jesús Owono",
-        "es": "Jesús Owono",
-        "eu": "Jesus Owono",
-        "fa": "خسوس اوونو",
-        "fr": "Jesús Owono",
-        "gl": "Jesús Owono",
-        "ha": "Jesús Owono",
-        "it": "Jesús Owono",
-        "ja": "ヘスス・オウォノ",
-        "ko": "헤수스 우오노",
-        "pl": "Jesús Owono",
-        "ru": "Овоно, Хесус",
-        "tr": "Jesús Owono",
-        "uk": "Хесус Овоно"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "MX",
-          "term": "jesus owono",
-          "volume": 200
-        },
-        {
-          "source": "wikipedia-top",
-          "where": "es",
-          "term": "Jesús Owono",
-          "volume": 8523
-        }
-      ],
-      "newsUrls": [
-        "https://www.cnn.com/2026/11/03/sport/jesus-de-miguel-spain-dies-after-on-pitch-collision",
-        "https://www.bbc.com/sport/football/articles/ck62yvz046pjo",
-        "https://www.theguardian.com/football/2026/nov/03/tenerife-footballer-jesus-de-miguel-hospital-collision"
-      ],
-      "spike": 532.7,
-      "score": 151,
-      "decision": "accept",
-      "reasons": [],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q11571",
       "name": "Cristiano Ronaldo",
       "description": "Portuguese association football player (born 1985)",
@@ -1901,9 +1839,9 @@
         }
       ],
       "newsUrls": [
+        "https://twaslnews1.twaslnews.com/7055348/",
         "https://unanimodeportes.com/deportes/futbol/uefa/el-salto-de-cristiano-jr-en-portugal-por-merito-o-palanca/",
-        "https://bolavip.com/europa/el-hijo-de-cristiano-ronaldo-rechaza-de-momento-4-de-sus-posibles-selecciones-para-torneos-fifa",
-        "https://www.vietnam.vn/es/con-trai-ronaldo-dat-cot-moc-su-nghiep-quan-trong"
+        "https://bolavip.com/europa/el-hijo-de-cristiano-ronaldo-rechaza-de-momento-4-de-sus-posibles-selecciones-para-torneos-fifa"
       ],
       "spike": 0.9,
       "score": 151,
@@ -3533,6 +3471,88 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q9124",
+      "name": "Eliud Kipchoge",
+      "description": "Kenyan long-distance runner",
+      "category": "athletes",
+      "occupations": [
+        "marathon runner",
+        "long-distance runner",
+        "athletics competitor",
+        "athlete"
+      ],
+      "birthYear": 1984,
+      "deathYear": null,
+      "sitelinks": 51,
+      "wikipedia": {
+        "an": "Eliud Kipchoge",
+        "ar": "إليود كيبشوج",
+        "arz": "اليود كيبشوج",
+        "az": "Eliud Kipçoqe",
+        "be": "Эліуд Кіпчогэ",
+        "bg": "Елиуд Кипчоге",
+        "bn": "এলিউড কিপচোগে",
+        "ca": "Eliud Kipchoge",
+        "cs": "Eliud Kipchoge",
+        "da": "Eliud Kipchoge",
+        "de": "Eliud Kipchoge",
+        "el": "Ελιούντ Κιπτσόγκε",
+        "en": "Eliud Kipchoge",
+        "es": "Eliud Kipchoge",
+        "et": "Eliud Kipchoge",
+        "eu": "Eliud Kipchoge",
+        "fa": "الیود کیپچوگه",
+        "fi": "Eliud Kipchoge",
+        "fr": "Eliud Kipchoge",
+        "he": "אליוד קיפצ'וגה",
+        "hu": "Eliud Kipchoge",
+        "hy": "Էլիուդ Կիպչոգե",
+        "id": "Eliud Kipchoge",
+        "ie": "Eliud Kipchoge",
+        "io": "Eliud Kipchoge",
+        "it": "Eliud Kipchoge",
+        "ja": "エリウド・キプチョゲ",
+        "kaa": "Eliud Kipchoge",
+        "ko": "엘리우드 킵초게",
+        "lv": "Eliuds Kipčoge",
+        "ml": "എല്യൂദ് കിപ്ചൊഗെ",
+        "ms": "Eliud Kipchoge",
+        "nl": "Eliud Kipchoge",
+        "nn": "Eliud Kipchoge",
+        "no": "Eliud Kipchoge",
+        "pl": "Eliud Kipchoge",
+        "pt": "Eliud Kipchoge",
+        "ro": "Eliud Kipchoge",
+        "ru": "Кипчоге, Элиуд",
+        "simple": "Eliud Kipchoge",
+        "sk": "Eliud Kipchoge",
+        "sr": "Елијуд Кипчоге",
+        "sv": "Eliud Kipchoge",
+        "sw": "Eliud Kipchoge",
+        "th": "เอลีอูด คิปโชเก",
+        "tr": "Eliud Kipchoge",
+        "uk": "Еліуд Кіпчоґе",
+        "uz": "Eliud Kipchoge",
+        "vi": "Eliud Kipchoge",
+        "wuu": "埃利乌德·基普乔盖",
+        "zh": "埃利乌德·基普乔盖"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "de",
+          "term": "Eliud Kipchoge",
+          "volume": 4269
+        }
+      ],
+      "newsUrls": [],
+      "spike": 30.9,
+      "score": 127,
+      "decision": "accept",
+      "reasons": [],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q2086",
       "name": "Alberto Ascari",
       "description": "Italian racing driver (1918–1955)",
@@ -3750,76 +3770,6 @@
       "reasons": [
         "no matching site category"
       ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q356142",
-      "name": "Jackson Martínez",
-      "description": "Colombian footballer (born 1986)",
-      "category": "athletes",
-      "occupations": [
-        "association football player"
-      ],
-      "birthYear": 1986,
-      "deathYear": null,
-      "sitelinks": 42,
-      "wikipedia": {
-        "ar": "جاكسون مارتينيز",
-        "arz": "جاكسون مارتينيز",
-        "azb": "جکسون مارتینز",
-        "be_x_old": "Джэксан Мартынэс",
-        "bg": "Джаксън Мартинес",
-        "ca": "Jackson Martínez",
-        "cs": "Jackson Martínez",
-        "da": "Jackson Martínez",
-        "de": "Jackson Martínez",
-        "en": "Jackson Martínez",
-        "es": "Jackson Martínez",
-        "et": "Jackson Martínez",
-        "fa": "جکسون مارتینز",
-        "fi": "Jackson Martínez",
-        "fr": "Jackson Martínez",
-        "he": "ג'קסון מרטינס",
-        "hu": "Jackson Martínez",
-        "hy": "Ջեքսոն Մարտինես",
-        "id": "Jackson Martínez",
-        "it": "Jackson Martínez",
-        "ja": "ジャクソン・マルティネス",
-        "ka": "ჯექსონ მარტინესი",
-        "kk": "Джексон Мартинес",
-        "ko": "작손 마르티네스",
-        "lv": "Džeksons Martiness",
-        "mg": "Jackson Martínez",
-        "mn": "Жексон Мартинес",
-        "ms": "Jackson Martínez",
-        "nl": "Jackson Martínez",
-        "no": "Jackson Martínez",
-        "pl": "Jackson Martínez",
-        "pt": "Jackson Martínez",
-        "ro": "Jackson Martínez",
-        "ru": "Мартинес, Джексон",
-        "sh": "Jackson Martínez",
-        "sv": "Jackson Martínez",
-        "tg": "Ҷексон Мартинес",
-        "tr": "Jackson Martínez",
-        "uk": "Джексон Мартінес",
-        "vi": "Jackson Martínez",
-        "zh_yue": "積臣·馬天尼斯",
-        "zh": "杰克逊·马丁内斯"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "es",
-          "term": "Jackson Martínez",
-          "volume": 5525
-        }
-      ],
-      "newsUrls": [],
-      "spike": 42.2,
-      "score": 126,
-      "decision": "accept",
-      "reasons": [],
       "onSite": false
     },
     {
@@ -4972,6 +4922,51 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q58821194",
+      "name": "Jesús Owono",
+      "description": "Equatorial Guinean association football player (born 2001)",
+      "category": "athletes",
+      "occupations": [
+        "association football player"
+      ],
+      "birthYear": 2001,
+      "deathYear": null,
+      "sitelinks": 17,
+      "wikipedia": {
+        "ar": "جيسوس أوونو",
+        "arz": "چيسوس اونو",
+        "ca": "Jesús Lázaro Owono Ngua",
+        "en": "Jesús Owono",
+        "es": "Jesús Owono",
+        "eu": "Jesus Owono",
+        "fa": "خسوس اوونو",
+        "fr": "Jesús Owono",
+        "gl": "Jesús Owono",
+        "ha": "Jesús Owono",
+        "it": "Jesús Owono",
+        "ja": "ヘスス・オウォノ",
+        "ko": "헤수스 우오노",
+        "pl": "Jesús Owono",
+        "ru": "Овоно, Хесус",
+        "tr": "Jesús Owono",
+        "uk": "Хесус Овоно"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "es",
+          "term": "Jesús Owono",
+          "volume": 8523
+        }
+      ],
+      "newsUrls": [],
+      "spike": 532.7,
+      "score": 121,
+      "decision": "accept",
+      "reasons": [],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q509200",
       "name": "Marius Müller-Westernhagen",
       "description": "German actor and musician",
@@ -5582,6 +5577,52 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q19402358",
+      "name": "Yusneylys Guzmán",
+      "description": "Cuban freestyle wrestler (1996-)",
+      "category": "athletes",
+      "occupations": [
+        "amateur wrestler"
+      ],
+      "birthYear": 1996,
+      "deathYear": null,
+      "sitelinks": 14,
+      "wikipedia": {
+        "en": "Yusneylys Guzmán",
+        "es": "Yusneylis Guzmán",
+        "fa": "یوسنیلیس گوزمان",
+        "fr": "Yusneylys Guzmán",
+        "it": "Yusneylys Guzmán",
+        "ko": "유스네일리스 구스만",
+        "no": "Yusneylys Guzmán",
+        "pl": "Yusneylis Guzmán",
+        "pt": "Yusneylys Guzmán",
+        "ru": "Гусман, Юснейлис",
+        "sv": "Yusneylys Guzmán",
+        "tr": "Yusneylys Guzmán",
+        "uk": "Юснейліс Гузман",
+        "zh": "尤斯内莉斯·古斯曼"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "MX",
+          "term": "yusneylis guzmán",
+          "volume": 200
+        }
+      ],
+      "newsUrls": [
+        "https://www.jornada.com.mx/noticia/2026/11/02/deportes/la-medallista-olimpica-cubana-yusneylis-guzman-deserto-en-mexico",
+        "https://www.14ymedio.com/deportes/fuga-luchadora-cubana-yusneylis-guzman_1_1132744.html",
+        "https://www.elnuevoherald.com/deportes/otros-deportes/article317891044.html"
+      ],
+      "spike": 19,
+      "score": 118,
+      "decision": "accept",
+      "reasons": [],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q97076",
       "name": "Eberhard Taubert",
       "description": "German propagandist (1907–1976)",
@@ -5989,48 +6030,6 @@
       "decision": "accept",
       "reasons": [
         "recent death, write with care"
-      ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q127940381",
-      "name": "María Montserrat Alvarado",
-      "description": "Mexican journalist and reporter",
-      "category": null,
-      "occupations": [
-        "journalist"
-      ],
-      "birthYear": 1986,
-      "deathYear": null,
-      "sitelinks": 12,
-      "wikipedia": {
-        "ca": "Maria Montserrat Alvarado",
-        "cs": "Maria Montserrat Alvarado",
-        "de": "Montse Alvarado",
-        "en": "Montse Alvarado",
-        "es": "María Montserrat Alvarado",
-        "fr": "María Montserrat Alvarado",
-        "id": "Maria Montserrat Alvarado",
-        "it": "Maria Montserrat Alvarado",
-        "pt": "Maria Montserrat Alvarado",
-        "ru": "Альварадо, Мария Монсеррат",
-        "uk": "Марія Монтсеррат Альварадо",
-        "vi": "Maria Montserrat Alvarado"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "de",
-          "term": "Montse Alvarado",
-          "volume": 4141
-        }
-      ],
-      "newsUrls": [],
-      "spike": 64.7,
-      "score": 117,
-      "decision": "reject",
-      "reasons": [
-        "no matching site category"
       ],
       "onSite": false
     },
@@ -8205,78 +8204,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q18162913",
-      "name": "Callum Turner",
-      "description": "English actor (born 1990)",
-      "category": "artists",
-      "occupations": [
-        "actor",
-        "film director",
-        "television actor",
-        "model"
-      ],
-      "birthYear": 1990,
-      "deathYear": null,
-      "sitelinks": 31,
-      "wikipedia": {
-        "af": "Callum Turner",
-        "ar": "كالوم تورنر",
-        "arz": "كالوم تورنر",
-        "ca": "Callum Turner",
-        "cs": "Callum Turner",
-        "de": "Callum Turner",
-        "en": "Callum Turner",
-        "es": "Callum Turner",
-        "fa": "کلوم ترنر",
-        "fr": "Callum Turner",
-        "he": "קאלום טרנר",
-        "hu": "Callum Turner",
-        "id": "Callum Turner",
-        "it": "Callum Turner",
-        "ja": "カラム・ターナー",
-        "ka": "კალუმ ტერნერი",
-        "ko": "캘럼 터너",
-        "nl": "Callum Turner",
-        "no": "Callum Turner",
-        "pl": "Callum Turner",
-        "pt": "Callum Turner",
-        "ru": "Тёрнер, Каллум",
-        "simple": "Callum Turner",
-        "sr": "Калум Тарнер",
-        "sv": "Callum Turner",
-        "th": "แคลลัม เทอร์เนอร์",
-        "tr": "Callum Turner",
-        "uk": "Каллум Тернер",
-        "ur": "کالم ٹرنر",
-        "uz": "Callum Turner",
-        "zh": "卡倫·透納"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "en",
-          "term": "Callum Turner",
-          "volume": 33135
-        },
-        {
-          "source": "google-trends",
-          "where": "DE",
-          "term": "callum turner",
-          "volume": 500
-        }
-      ],
-      "newsUrls": [
-        "https://www.gq-magazine.co.uk/article/going-incognito-with-jack-lowden",
-        "https://www.showbiz411.com/2026/11/02/exclusive-callum-turner-as-james-bond-rumor-mill-churns-our-take-combined-with-dua-lipa-singing-theme-song-its-a-deal",
-        "https://www.bbc.com/news/articles/cq0ld5zw3eg3o"
-      ],
-      "spike": 2.6,
-      "score": 105,
-      "decision": "accept",
-      "reasons": [],
-      "onSite": true
-    },
-    {
       "wikidataId": "Q131565943",
       "name": "Pedro Rosemblat",
       "description": "",
@@ -8373,6 +8300,239 @@
         "only 1 Wikipedia editions (needs 5)"
       ],
       "onSite": false
+    },
+    {
+      "wikidataId": "Q615",
+      "name": "Lionel Messi",
+      "description": "Argentine association football player (born 1987)",
+      "category": "athletes",
+      "occupations": [
+        "association football player"
+      ],
+      "birthYear": 1987,
+      "deathYear": null,
+      "sitelinks": 197,
+      "wikipedia": {
+        "abstract": "Q615",
+        "ab": "Месси, Лионел",
+        "af": "Lionel Messi",
+        "als": "Lionel Messi",
+        "am": "ሊዮኔል ሜሲ",
+        "ang": "Lionel Messi",
+        "an": "Lionel Andrés Messi",
+        "ar": "ليونيل ميسي",
+        "ary": "ليونيل ميسي",
+        "arz": "ليونيل ميسى",
+        "ast": "Lionel Messi",
+        "as": "লিঅ'নেল মেছি",
+        "azb": "لیونل مسی",
+        "az": "Lionel Messi",
+        "ban": "Lionel Messi",
+        "bar": "Lionel Messi",
+        "ba": "Месси Лионель",
+        "bcl": "Lionel Messi",
+        "be_x_old": "Ліянэль Мэсі",
+        "be": "Ліянель Месі",
+        "bew": "Lionel Messi",
+        "bg": "Лионел Меси",
+        "bjn": "Lionel Messi",
+        "bn": "লিওনেল মেসি",
+        "bo": "ལི་ཨོནེ་ལ མེ་ཞི",
+        "br": "Lionel Messi",
+        "bs": "Lionel Messi",
+        "ca": "Lionel Andrés Messi",
+        "cbk_zam": "Lionel Messi",
+        "ceb": "Lionel Messi",
+        "ckb": "لیۆنێل مێسی",
+        "co": "Lionel Messi",
+        "cs": "Lionel Messi",
+        "cv": "Месси Лионель",
+        "cy": "Lionel Messi",
+        "dag": "Lionel Messi",
+        "da": "Lionel Messi",
+        "de": "Lionel Messi",
+        "dga": "Lionel Messi",
+        "diq": "Lionel Messi",
+        "dtp": "Lionel Messi",
+        "dty": "लियोनेल मेस्सी",
+        "el": "Λιονέλ Μέσι",
+        "eml": "Lionel Messi",
+        "en": "Lionel Messi",
+        "eo": "Lionel Messi",
+        "es": "Lionel Messi",
+        "et": "Lionel Messi",
+        "eu": "Lionel Messi",
+        "ext": "Lionel Messi",
+        "fa": "لیونل مسی",
+        "fiu_vro": "Messi Lionel",
+        "fi": "Lionel Messi",
+        "fo": "Lionel Messi",
+        "fr": "Lionel Messi",
+        "fy": "Lionel Messi",
+        "ga": "Lionel Messi",
+        "glk": "ليۊنل مسي",
+        "gl": "Leo Messi",
+        "gn": "Lionel Messi",
+        "gom": "Lionel Messi",
+        "gor": "Lionel Messi",
+        "gpe": "Lionel Messi",
+        "gv": "Lionel Messi",
+        "ha": "Messi",
+        "haw": "Lionel Messi",
+        "he": "ליונל מסי",
+        "hi": "लियोनेल मेस्सी",
+        "hr": "Lionel Messi",
+        "ht": "Lionel Messi",
+        "hu": "Lionel Messi",
+        "hy": "Լիոնել Մեսսի",
+        "hyw": "Լիոնել Մեսսի",
+        "iba": "Lionel Messi",
+        "id": "Lionel Messi",
+        "ie": "Lionel Messi",
+        "ig": "Lionel Messi",
+        "io": "Lionel Messi",
+        "is": "Lionel Messi",
+        "it": "Lionel Messi",
+        "ja": "リオネル・メッシ",
+        "jv": "Lionel Messi",
+        "kaa": "Lionel Messi",
+        "kab": "Lionel Messi",
+        "ka": "ლიონელ მესი",
+        "kcg": "Lionel Messi",
+        "ki": "Lionel Messi",
+        "kk": "Лионель Месси",
+        "km": "លីអូណែល មេសស៊ី",
+        "knc": "Lionel Andrès Messi",
+        "kn": "ಲಿಯೊನೆಲ್ ಮೆಸ್ಸಿ",
+        "ko": "리오넬 메시",
+        "ks": "لیو نل میسی",
+        "kus": "Lionel Messi",
+        "ku": "Lionel Messi",
+        "ky": "Лионель Месси",
+        "lad": "Lionel Messi",
+        "la": "Leonillus Messi",
+        "lb": "Lionel Messi",
+        "lez": "Лионель Месси",
+        "lij": "Lionel Messi",
+        "li": "Lionel Messi",
+        "lo": "ລີໂອເນລ ເມສຊີ",
+        "lt": "Lionel Messi",
+        "lv": "Lionels Mesi",
+        "mad": "Lionel Messi",
+        "mag": "लियोनेल मेस्सी",
+        "mai": "लियोनेल मेस्सी",
+        "mdf": "Лионэл Мэсси",
+        "mg": "Lionel Messi",
+        "mhr": "Месси, Лионель",
+        "min": "Lionel Messi",
+        "mk": "Лионел Меси",
+        "ml": "ലയണൽ മെസ്സി",
+        "mni": "ꯂꯤꯑꯣꯅꯦꯜ ꯃꯦꯁꯤ",
+        "mn": "Лионель Месси",
+        "mr": "लायोनेल मेस्सी",
+        "ms": "Lionel Messi",
+        "mt": "Lionel Messi",
+        "my": "လီယွန်နယ် မက်ဆီ",
+        "mzn": "لیونل مسی",
+        "nap": "Lionel Messi",
+        "nds_nl": "Lionel Messi",
+        "ne": "लियोनेल मेसी",
+        "nl": "Lionel Messi",
+        "nn": "Lionel Messi",
+        "no": "Lionel Messi",
+        "nr": "Lionel Messi",
+        "nup": "Lionel Messi",
+        "ny": "​​Lionel Messi",
+        "oc": "Lionel Messi",
+        "or": "ଲିଓନେଲ୍ ମେସି",
+        "os": "Месси, Лионель",
+        "pam": "Lionel Messi",
+        "pap": "Lionel Messi",
+        "pa": "ਲਿਓਨਲ ਮੈਸੀ",
+        "pcm": "Lionel Messi",
+        "pl": "Lionel Messi",
+        "pnb": "لیونل میسی",
+        "ppl": "Lionel Messi",
+        "ps": "لیونل مېسي",
+        "pt": "Lionel Messi",
+        "qu": "Lionel Messi",
+        "rki": "လီယွန်နယ် မက်ဆီ",
+        "ro": "Lionel Messi",
+        "ru": "Месси, Лионель",
+        "sah": "Лионель Месси",
+        "sat": "ᱞᱤᱭᱚᱱᱮᱞ ᱢᱮᱥᱤ",
+        "scn": "Lionel Messi",
+        "sco": "Lionel Messi",
+        "shi": "Lyunil Missi",
+        "sh": "Lionel Messi",
+        "simple": "Lionel Messi",
+        "si": "ලියොනල් මෙසී",
+        "sk": "Lionel Messi",
+        "sl": "Lionel Messi",
+        "sn": "Lionel Messi",
+        "so": "Lionel Messi",
+        "sq": "Lionel Messi",
+        "sr": "Лионел Меси",
+        "su": "Lionel Messi",
+        "sv": "Lionel Messi",
+        "sw": "Lionel Messi",
+        "syl": "ꠟꠤꠅꠘꠦꠟ ꠝꠦꠍꠤ",
+        "szl": "Lionel Messi",
+        "ta": "லியோனல் மெசி",
+        "tet": "Lionel Messi",
+        "te": "లియోనెల్ మెస్సి",
+        "tg": "Лионел Месси",
+        "th": "ลิโอเนล เมสซิ",
+        "tk": "Lionel Messi",
+        "tl": "Lionel Messi",
+        "tly": "Lionel Messi",
+        "tr": "Lionel Messi",
+        "tt": "Лионель Месси",
+        "tum": "Lionel Messi",
+        "tyv": "Месси, Лионель Андрес",
+        "ty": "Lionel Messi",
+        "uk": "Ліонель Мессі",
+        "ur": "لیونل میسی",
+        "uz": "Lionel Messi",
+        "vec": "Lionel Messi",
+        "vi": "Lionel Messi",
+        "vls": "Lionel Messi",
+        "vo": "Lionel Messi",
+        "war": "Lionel Messi",
+        "wa": "Lionel Messi",
+        "wuu": "利昂内尔·梅西",
+        "xh": "Lionel Messi",
+        "xmf": "ლიონელ მესი",
+        "yi": "ליאנעל מעסי",
+        "yo": "Lionel messi",
+        "zgh": "ⵍⵢⵓⵏⵉⵍ ⵎⵉⵙⵙⵉ",
+        "zh_min_nan": "Lionel Messi",
+        "zh_yue": "利安奴·美斯",
+        "zh": "利昂内尔·梅西",
+        "zu": "Lionel Messi"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "es",
+          "term": "Lionel Messi",
+          "volume": 5165
+        },
+        {
+          "source": "wikipedia-top",
+          "where": "fr",
+          "term": "Lionel Messi",
+          "volume": 18806
+        }
+      ],
+      "newsUrls": [],
+      "spike": 1.2,
+      "score": 104,
+      "decision": "reject",
+      "reasons": [
+        "pageview spike 1.2x is below 2x"
+      ],
+      "onSite": true
     },
     {
       "wikidataId": "Q111733599",
@@ -8699,6 +8859,38 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q24435957",
+      "name": "Tanja Ziegler",
+      "description": "German film producer",
+      "category": null,
+      "occupations": [
+        "film producer"
+      ],
+      "birthYear": 1966,
+      "deathYear": null,
+      "sitelinks": 1,
+      "wikipedia": {
+        "de": "Tanja Ziegler"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "de",
+          "term": "Tanja Ziegler",
+          "volume": 4215
+        }
+      ],
+      "newsUrls": [],
+      "spike": 351.3,
+      "score": 103,
+      "decision": "reject",
+      "reasons": [
+        "only 1 Wikipedia editions (needs 5)",
+        "no matching site category"
+      ],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q1357852",
       "name": "Q1357852",
       "description": "German-Swiss manager and entrepreneur",
@@ -8979,239 +9171,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q615",
-      "name": "Lionel Messi",
-      "description": "Argentine association football player (born 1987)",
-      "category": "athletes",
-      "occupations": [
-        "association football player"
-      ],
-      "birthYear": 1987,
-      "deathYear": null,
-      "sitelinks": 197,
-      "wikipedia": {
-        "abstract": "Q615",
-        "ab": "Месси, Лионел",
-        "af": "Lionel Messi",
-        "als": "Lionel Messi",
-        "am": "ሊዮኔል ሜሲ",
-        "ang": "Lionel Messi",
-        "an": "Lionel Andrés Messi",
-        "ar": "ليونيل ميسي",
-        "ary": "ليونيل ميسي",
-        "arz": "ليونيل ميسى",
-        "ast": "Lionel Messi",
-        "as": "লিঅ'নেল মেছি",
-        "azb": "لیونل مسی",
-        "az": "Lionel Messi",
-        "ban": "Lionel Messi",
-        "bar": "Lionel Messi",
-        "ba": "Месси Лионель",
-        "bcl": "Lionel Messi",
-        "be_x_old": "Ліянэль Мэсі",
-        "be": "Ліянель Месі",
-        "bew": "Lionel Messi",
-        "bg": "Лионел Меси",
-        "bjn": "Lionel Messi",
-        "bn": "লিওনেল মেসি",
-        "bo": "ལི་ཨོནེ་ལ མེ་ཞི",
-        "br": "Lionel Messi",
-        "bs": "Lionel Messi",
-        "ca": "Lionel Andrés Messi",
-        "cbk_zam": "Lionel Messi",
-        "ceb": "Lionel Messi",
-        "ckb": "لیۆنێل مێسی",
-        "co": "Lionel Messi",
-        "cs": "Lionel Messi",
-        "cv": "Месси Лионель",
-        "cy": "Lionel Messi",
-        "dag": "Lionel Messi",
-        "da": "Lionel Messi",
-        "de": "Lionel Messi",
-        "dga": "Lionel Messi",
-        "diq": "Lionel Messi",
-        "dtp": "Lionel Messi",
-        "dty": "लियोनेल मेस्सी",
-        "el": "Λιονέλ Μέσι",
-        "eml": "Lionel Messi",
-        "en": "Lionel Messi",
-        "eo": "Lionel Messi",
-        "es": "Lionel Messi",
-        "et": "Lionel Messi",
-        "eu": "Lionel Messi",
-        "ext": "Lionel Messi",
-        "fa": "لیونل مسی",
-        "fiu_vro": "Messi Lionel",
-        "fi": "Lionel Messi",
-        "fo": "Lionel Messi",
-        "fr": "Lionel Messi",
-        "fy": "Lionel Messi",
-        "ga": "Lionel Messi",
-        "glk": "ليۊنل مسي",
-        "gl": "Leo Messi",
-        "gn": "Lionel Messi",
-        "gom": "Lionel Messi",
-        "gor": "Lionel Messi",
-        "gpe": "Lionel Messi",
-        "gv": "Lionel Messi",
-        "ha": "Messi",
-        "haw": "Lionel Messi",
-        "he": "ליונל מסי",
-        "hi": "लियोनेल मेस्सी",
-        "hr": "Lionel Messi",
-        "ht": "Lionel Messi",
-        "hu": "Lionel Messi",
-        "hy": "Լիոնել Մեսսի",
-        "hyw": "Լիոնել Մեսսի",
-        "iba": "Lionel Messi",
-        "id": "Lionel Messi",
-        "ie": "Lionel Messi",
-        "ig": "Lionel Messi",
-        "io": "Lionel Messi",
-        "is": "Lionel Messi",
-        "it": "Lionel Messi",
-        "ja": "リオネル・メッシ",
-        "jv": "Lionel Messi",
-        "kaa": "Lionel Messi",
-        "kab": "Lionel Messi",
-        "ka": "ლიონელ მესი",
-        "kcg": "Lionel Messi",
-        "ki": "Lionel Messi",
-        "kk": "Лионель Месси",
-        "km": "លីអូណែល មេសស៊ី",
-        "knc": "Lionel Andrès Messi",
-        "kn": "ಲಿಯೊನೆಲ್ ಮೆಸ್ಸಿ",
-        "ko": "리오넬 메시",
-        "ks": "لیو نل میسی",
-        "kus": "Lionel Messi",
-        "ku": "Lionel Messi",
-        "ky": "Лионель Месси",
-        "lad": "Lionel Messi",
-        "la": "Leonillus Messi",
-        "lb": "Lionel Messi",
-        "lez": "Лионель Месси",
-        "lij": "Lionel Messi",
-        "li": "Lionel Messi",
-        "lo": "ລີໂອເນລ ເມສຊີ",
-        "lt": "Lionel Messi",
-        "lv": "Lionels Mesi",
-        "mad": "Lionel Messi",
-        "mag": "लियोनेल मेस्सी",
-        "mai": "लियोनेल मेस्सी",
-        "mdf": "Лионэл Мэсси",
-        "mg": "Lionel Messi",
-        "mhr": "Месси, Лионель",
-        "min": "Lionel Messi",
-        "mk": "Лионел Меси",
-        "ml": "ലയണൽ മെസ്സി",
-        "mni": "ꯂꯤꯑꯣꯅꯦꯜ ꯃꯦꯁꯤ",
-        "mn": "Лионель Месси",
-        "mr": "लायोनेल मेस्सी",
-        "ms": "Lionel Messi",
-        "mt": "Lionel Messi",
-        "my": "လီယွန်နယ် မက်ဆီ",
-        "mzn": "لیونل مسی",
-        "nap": "Lionel Messi",
-        "nds_nl": "Lionel Messi",
-        "ne": "लियोनेल मेसी",
-        "nl": "Lionel Messi",
-        "nn": "Lionel Messi",
-        "no": "Lionel Messi",
-        "nr": "Lionel Messi",
-        "nup": "Lionel Messi",
-        "ny": "​​Lionel Messi",
-        "oc": "Lionel Messi",
-        "or": "ଲିଓନେଲ୍ ମେସି",
-        "os": "Месси, Лионель",
-        "pam": "Lionel Messi",
-        "pap": "Lionel Messi",
-        "pa": "ਲਿਓਨਲ ਮੈਸੀ",
-        "pcm": "Lionel Messi",
-        "pl": "Lionel Messi",
-        "pnb": "لیونل میسی",
-        "ppl": "Lionel Messi",
-        "ps": "لیونل مېسي",
-        "pt": "Lionel Messi",
-        "qu": "Lionel Messi",
-        "rki": "လီယွန်နယ် မက်ဆီ",
-        "ro": "Lionel Messi",
-        "ru": "Месси, Лионель",
-        "sah": "Лионель Месси",
-        "sat": "ᱞᱤᱭᱚᱱᱮᱞ ᱢᱮᱥᱤ",
-        "scn": "Lionel Messi",
-        "sco": "Lionel Messi",
-        "shi": "Lyunil Missi",
-        "sh": "Lionel Messi",
-        "simple": "Lionel Messi",
-        "si": "ලියොනල් මෙසී",
-        "sk": "Lionel Messi",
-        "sl": "Lionel Messi",
-        "sn": "Lionel Messi",
-        "so": "Lionel Messi",
-        "sq": "Lionel Messi",
-        "sr": "Лионел Меси",
-        "su": "Lionel Messi",
-        "sv": "Lionel Messi",
-        "sw": "Lionel Messi",
-        "syl": "ꠟꠤꠅꠘꠦꠟ ꠝꠦꠍꠤ",
-        "szl": "Lionel Messi",
-        "ta": "லியோனல் மெசி",
-        "tet": "Lionel Messi",
-        "te": "లియోనెల్ మెస్సి",
-        "tg": "Лионел Месси",
-        "th": "ลิโอเนล เมสซิ",
-        "tk": "Lionel Messi",
-        "tl": "Lionel Messi",
-        "tly": "Lionel Messi",
-        "tr": "Lionel Messi",
-        "tt": "Лионель Месси",
-        "tum": "Lionel Messi",
-        "tyv": "Месси, Лионель Андрес",
-        "ty": "Lionel Messi",
-        "uk": "Ліонель Мессі",
-        "ur": "لیونل میسی",
-        "uz": "Lionel Messi",
-        "vec": "Lionel Messi",
-        "vi": "Lionel Messi",
-        "vls": "Lionel Messi",
-        "vo": "Lionel Messi",
-        "war": "Lionel Messi",
-        "wa": "Lionel Messi",
-        "wuu": "利昂内尔·梅西",
-        "xh": "Lionel Messi",
-        "xmf": "ლიონელ მესი",
-        "yi": "ליאנעל מעסי",
-        "yo": "Lionel messi",
-        "zgh": "ⵍⵢⵓⵏⵉⵍ ⵎⵉⵙⵙⵉ",
-        "zh_min_nan": "Lionel Messi",
-        "zh_yue": "利安奴·美斯",
-        "zh": "利昂内尔·梅西",
-        "zu": "Lionel Messi"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "es",
-          "term": "Lionel Messi",
-          "volume": 5165
-        },
-        {
-          "source": "wikipedia-top",
-          "where": "fr",
-          "term": "Lionel Messi",
-          "volume": 18806
-        }
-      ],
-      "newsUrls": [],
-      "spike": 0,
-      "score": 100,
-      "decision": "reject",
-      "reasons": [
-        "pageview spike 0.0x is below 2x"
-      ],
-      "onSite": true
-    },
-    {
       "wikidataId": "Q106932301",
       "name": "Inde Navarrette",
       "description": "American actress (born 2001)",
@@ -9279,40 +9238,6 @@
       "score": 99,
       "decision": "accept",
       "reasons": [],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q1428994",
-      "name": "Thomas Stipsits",
-      "description": "Austrian actor",
-      "category": "artists",
-      "occupations": [
-        "actor",
-        "film actor",
-        "cabaret performer",
-        "writer"
-      ],
-      "birthYear": 1983,
-      "deathYear": null,
-      "sitelinks": 1,
-      "wikipedia": {
-        "de": "Thomas Stipsits"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "de",
-          "term": "Thomas Stipsits",
-          "volume": 4149
-        }
-      ],
-      "newsUrls": [],
-      "spike": 18.7,
-      "score": 99,
-      "decision": "reject",
-      "reasons": [
-        "only 1 Wikipedia editions (needs 5)"
-      ],
       "onSite": false
     },
     {
@@ -9636,7 +9561,7 @@
         "https://www.mundodeportivo.com/tenis/20261103/1004246590/davidovich-baja-ultima-hora-paris-adios-definitivo-atp-finals-peligra-copa-davis.html",
         "https://www.lequipe.fr/Tennis/rolex-paris-masters/epreuve-simple-messieurs/annee-2026/match-direct/nuno-borges-moise-kouame-live/716471",
         "https://www.eurosport.fr/tennis/atp-paris/2026/rolex-paris-masters-i-alejandro-davidovich-fokina-forfait-avant-daffronter-moise-kouame-stefanos-tsitsipas-doit-aussi-renoncer_sto23351721/story.shtml",
-        "https://www.lefigaro.fr/sports/tennis/rolex-paris-masters-fokina-forfait-kouame-va-affronter-nuno-borges-20261103"
+        "https://www.lefigaro.fr/sports/tennis/en-direct-rolex-paris-masters-le-prodige-moise-kouame-pret-a-enflammer-le-public-francais-20261103"
       ],
       "spike": 1.5,
       "score": 96,
@@ -11139,137 +11064,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q36159",
-      "name": "LeBron James",
-      "description": "American basketball player (born 1984)",
-      "category": "athletes",
-      "occupations": [
-        "basketball player",
-        "screenwriter",
-        "television actor"
-      ],
-      "birthYear": 1984,
-      "deathYear": null,
-      "sitelinks": 101,
-      "wikipedia": {
-        "af": "LeBron James",
-        "an": "LeBron James",
-        "ar": "ليبرون جيمس",
-        "arz": "ليبرون جيمس",
-        "ast": "LeBron James",
-        "az": "Lebron Ceyms",
-        "ban": "LeBron James",
-        "bcl": "LeBron James",
-        "be_x_old": "Леброн Джэймз",
-        "be": "Леброн Джэймс",
-        "bg": "Леброн Джеймс",
-        "bn": "লাব্রন জেমস",
-        "bs": "LeBron James",
-        "ca": "LeBron James",
-        "ceb": "LeBron James",
-        "chy": "LeBron James",
-        "cs": "LeBron James",
-        "da": "LeBron James",
-        "de": "LeBron James",
-        "diq": "LeBron James",
-        "el": "ΛεΜπρόν Τζέιμς",
-        "eml": "LeBron James",
-        "en": "LeBron James",
-        "eo": "LeBron James",
-        "es": "LeBron James",
-        "et": "LeBron James",
-        "eu": "LeBron James",
-        "fa": "لبرون جیمز",
-        "fi": "LeBron James",
-        "fr": "LeBron James",
-        "ga": "LeBron James",
-        "gl": "LeBron James",
-        "ha": "LeBron James",
-        "he": "לברון ג'יימס",
-        "hif": "Lebron James",
-        "hi": "लेब्रोन जेम्स",
-        "hr": "LeBron James",
-        "ht": "LeBron James",
-        "hu": "LeBron James",
-        "hy": "Լեբրոն Ջեյմս",
-        "hyw": "ԼըՊրան Ճէյմզ",
-        "id": "LeBron James",
-        "io": "LeBron James",
-        "is": "LeBron James",
-        "it": "LeBron James",
-        "ja": "レブロン・ジェームズ",
-        "ka": "ლებრონ ჯეიმზი",
-        "kk": "Леброн Джеймс",
-        "kn": "ಲೆಬ್ರಾನ್ ಜೇಮ್ಸ್",
-        "ko": "르브론 제임스",
-        "ks": "لیبرٛون جیمز",
-        "ky": "Леброн Жеймс",
-        "la": "LeBron James",
-        "lo": "ເລບຣອນ ເຈມ",
-        "lt": "LeBron James",
-        "lv": "Lebrons Džeimss",
-        "mg": "LeBron James",
-        "min": "LeBron James",
-        "mk": "Леброн Џејмс",
-        "ml": "ലെബ്രോൺ ജെയിംസ്",
-        "mn": "Леброн Жеймс",
-        "ms": "LeBron James",
-        "my": "လက်ဘရွန် ဂျိမ်း",
-        "nl": "LeBron James",
-        "nn": "LeBron James",
-        "no": "LeBron James",
-        "pam": "LeBron James",
-        "pa": "ਲੇਬ੍ਰੌਨ ਜੇਮਜ਼",
-        "pl": "LeBron James",
-        "pt": "LeBron James",
-        "qu": "LeBron James",
-        "rn": "Lebroni Yakobo",
-        "ro": "LeBron James",
-        "ru": "Джеймс, Леброн",
-        "scn": "LeBron James",
-        "sco": "LeBron James",
-        "sh": "LeBron James",
-        "simple": "LeBron James",
-        "si": "ලෙබ්රොන් ජේම්ස්",
-        "sk": "LeBron James",
-        "sl": "LeBron James",
-        "sq": "LeBron James",
-        "sr": "Леброн Џејмс",
-        "sv": "LeBron James",
-        "sw": "Lebron James",
-        "ta": "இலெப்ரோன் ஜேம்சு",
-        "tay": "LeBron James",
-        "tg": "Ҷеймс, Леброн",
-        "th": "เลอบรอน เจมส์",
-        "tl": "LeBron James",
-        "tr": "LeBron James",
-        "uk": "Леброн Джеймс",
-        "ur": "لیبرون جیمز",
-        "uz": "LeBron James",
-        "vi": "LeBron James",
-        "vo": "LeBron James",
-        "wuu": "勒布朗·詹姆斯",
-        "yo": "LeBron James",
-        "zh_min_nan": "LeBron James",
-        "zh_yue": "勒邦占士",
-        "zh": "勒布朗·詹姆斯"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "pt",
-          "term": "LeBron James",
-          "volume": 2164
-        }
-      ],
-      "newsUrls": [],
-      "spike": 5.6,
-      "score": 87,
-      "decision": "accept",
-      "reasons": [],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q1021243",
       "name": "Michael Rockefeller",
       "description": "American anthropologist and art collector (1938–1961)",
@@ -12401,7 +12195,7 @@
       ],
       "birthYear": 1963,
       "deathYear": null,
-      "sitelinks": 114,
+      "sitelinks": 115,
       "wikipedia": {
         "af": "Michael Jordan",
         "an": "Michael Jordan",
@@ -12514,6 +12308,7 @@
         "war": "Michael Jordan",
         "wuu": "迈克尔·乔丹",
         "yo": "Michael Jordan",
+        "zgh": "ⵎⵉⴽⴰⵢⵍ ⵊⵓⵕⴹⵓⵏ",
         "zh_min_nan": "Michael Jordan",
         "zh_yue": "米高佐敦",
         "zh": "迈克尔·乔丹"
@@ -14460,6 +14255,145 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q175535",
+      "name": "Matt Damon",
+      "description": "American actor (born 1970)",
+      "category": "artists",
+      "occupations": [
+        "film actor",
+        "screenwriter",
+        "film producer",
+        "writer",
+        "voice actor",
+        "actor",
+        "television producer",
+        "television actor",
+        "musician"
+      ],
+      "birthYear": 1970,
+      "deathYear": null,
+      "sitelinks": 99,
+      "wikipedia": {
+        "ace": "Matt Damon",
+        "af": "Matt Damon",
+        "an": "Matt Damon",
+        "ar": "مات ديمون",
+        "arz": "مات ديمون",
+        "ast": "Matt Damon",
+        "as": "মেট ডেমন",
+        "azb": "مت دیمون",
+        "az": "Mett Deymon",
+        "be_x_old": "Мэт Дэйман",
+        "be": "Мэт Дэйман",
+        "bg": "Мат Деймън",
+        "bn": "ম্যাট ডেমন",
+        "bs": "Matt Damon",
+        "ca": "Matt Damon",
+        "ckb": "مات دەیمن",
+        "co": "Matt Damon",
+        "cs": "Matt Damon",
+        "cy": "Matt Damon",
+        "da": "Matt Damon",
+        "de": "Matt Damon",
+        "diq": "Matt Damon",
+        "dty": "म्याट डामोन",
+        "el": "Ματ Ντέιμον",
+        "eml": "Matt Damon",
+        "en": "Matt Damon",
+        "eo": "Matt Damon",
+        "es": "Matt Damon",
+        "et": "Matt Damon",
+        "eu": "Matt Damon",
+        "fa": "مت دیمون",
+        "fi": "Matt Damon",
+        "fr": "Matt Damon",
+        "ga": "Matt Damon",
+        "gl": "Matt Damon",
+        "gv": "Matt Damon",
+        "ha": "Matt Damon",
+        "he": "מאט דיימון",
+        "hi": "मैट डैमन",
+        "hr": "Matt Damon",
+        "ht": "Matt Damon",
+        "hu": "Matt Damon",
+        "hy": "Մեթ Դեյմոն",
+        "ia": "Matt Damon",
+        "id": "Matt Damon",
+        "ie": "Matt Damon",
+        "io": "Matt Damon",
+        "is": "Matt Damon",
+        "it": "Matt Damon",
+        "ja": "マット・デイモン",
+        "jv": "Matt Damon",
+        "ka": "მეტ დეიმონი",
+        "kk": "Мэтт Деймон",
+        "kn": "ಮ್ಯಾಟ್ ಡ್ಯಾಮನ್",
+        "ko": "맷 데이먼",
+        "ky": "Мэтт Деймон",
+        "la": "Matthaeus Damon",
+        "lb": "Matt Damon",
+        "lt": "Matt Damon",
+        "lv": "Mets Deimons",
+        "mad": "Matt Damon",
+        "mai": "म्याट डामोन",
+        "mk": "Мет Дејмон",
+        "ml": "മാറ്റ് ഡേമൺ",
+        "mr": "मॅट डेमन",
+        "ms": "Matt Damon",
+        "my": "မတ်ဒေမွန်",
+        "ne": "म्याट डेमन",
+        "nl": "Matt Damon",
+        "no": "Matt Damon",
+        "pam": "Matt Damon",
+        "pa": "ਮੈਟ ਡੈਮਨ",
+        "pl": "Matt Damon",
+        "pms": "Matt Damon",
+        "pt": "Matt Damon",
+        "ro": "Matt Damon",
+        "ru": "Деймон, Мэтт",
+        "sco": "Matt Damon",
+        "sh": "Matt Damon",
+        "simple": "Matt Damon",
+        "sk": "Matt Damon",
+        "sq": "Matt Damon",
+        "sr": "Мет Дејмон",
+        "sv": "Matt Damon",
+        "sw": "Matt Damon",
+        "ta": "மேட் டாமன்",
+        "th": "แมตต์ เดมอน",
+        "tr": "Matt Damon",
+        "uk": "Метт Деймон",
+        "ur": "میٹ ڈیمن",
+        "uz": "Matt Damon",
+        "vi": "Matt Damon",
+        "war": "Matt Damon",
+        "wuu": "马特·达蒙",
+        "xmf": "მეტ დეიმონი",
+        "yi": "מעט דעימאן",
+        "zh_min_nan": "Matt Damon",
+        "zh_yue": "麥迪文",
+        "zh": "马特·达蒙"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "DE",
+          "term": "matt damon",
+          "volume": 200
+        }
+      ],
+      "newsUrls": [
+        "https://people.com/matt-damon-and-his-daughter-share-how-they-give-each-other-advice-while-attending-the-2026-cfdas-together-exclusive-12208538",
+        "https://www.yahoo.com/entertainment/celebrity/articles/matt-damons-daughter-isabella-20-021321033.html",
+        "https://parade.com/news/matt-damon-modeling-star-daughter-isabella-20ultimate-red-carpet-duo"
+      ],
+      "spike": 1,
+      "score": 78,
+      "decision": "accept",
+      "reasons": [],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q18613182",
       "name": "Vianney",
       "description": "French singer-songwriter",
@@ -14856,14 +14790,23 @@
         {
           "source": "google-trends",
           "where": "AR",
+          "term": "cerundolo",
+          "volume": 200
+        },
+        {
+          "source": "google-trends",
+          "where": "AR",
           "term": "francisco cerúndolo",
           "volume": 2000
         }
       ],
       "newsUrls": [
-        "https://www.espn.com.ar/tenis/nota/_/id/17470310/francisco-cerundolo-saco-para-partido-ante-rinderknech-sufrio-una-lesion-y-debio-abandonar-en-la-primera-ronda-de-paris-resultado",
-        "https://www.vermouth-deportivo.com.ar/francisco-cerundolo-tenia-todo-para-ganar-y-abandono-ante-rinderknech/",
-        "https://www.clarin.com/deportes/lunes-negro-argentinos-masters-1000-paris-eliminaciones-cadena-caida-generalizada-ranking_0_v1kBhOwNV9.html"
+        "https://www.ole.com.ar/tenis/ida-vuelta-francisco-cerundolo-juan-martin-potro-triunfo-boca-river-superclasico_0_hs6lW201rw.html",
+        "https://robinhood.com/us/en/prediction-markets/tennis/events/ben-shelton-vs-cameron-norrie-round-of-32-match-nov-03-2026/",
+        "https://www.bleachernation.com/picks/2026/11/01/rinderknech-vs-cerundolo-prediction-at-the-rolex-paris-masters-tuesday-november-3/",
+        "https://www.clarin.com/deportes/lunes-negro-argentinos-masters-1000-paris-eliminaciones-cadena-caida-generalizada-ranking_0_v1kBhOwNV9.html",
+        "https://www.espn.com.ar/tenis/nota/_/id/17464162/se-que-es-dificil-pero-voy-a-tratar-juanma-cerundolo-confeso-su-objetivo-de-cara-al-cierre-de-la-temporada-masters-1000-de-paris",
+        "https://www.lagaceta.com.ar/nota/1160735/deportes/masters-1000-paris-hora-juegan-cerundolo-etcheverry-djokovic-donde-verlos.html"
       ],
       "spike": 2.5,
       "score": 77,
@@ -15087,8 +15030,8 @@
       ],
       "newsUrls": [
         "https://www.lequipe.fr/Tennis/Article/Arnaud-di-pasquale-decrypte-le-phenomene-moise-kouame-un-capital-sympathie-assez-incroyable/1740626",
-        "https://www.lefigaro.fr/sports/tennis/en-direct-rolex-paris-masters-le-prodige-moise-kouame-pret-a-enflammer-le-public-francais-20261103",
-        "https://sports.orange.fr/tennis/atp/article/rolex-paris-masters-forget-sous-le-charme-de-kouame-exclu-CNT000002twAbF.html"
+        "https://sports.orange.fr/tennis/atp/article/atp-rolex-paris-masters-encore-une-premiere-pour-kouame-exclu-CNT000002twyqn.html",
+        "https://www.eurosport.fr/tennis/atp-paris/2026/rolex-paris-masters-justine-henin-sur-moise-kouame-jai-entendu-des-choses-surrealistes-apres-roland-garros_sto23351594/story.shtml"
       ],
       "spike": 5,
       "score": 77,
@@ -15389,7 +15332,7 @@
       "newsUrls": [
         "https://www.bbc.co.uk/news/articles/cx8dznljndyzo",
         "https://www.independent.co.uk/news/uk/home-news/world-of-david-walliams-alton-towers-closed-b3078241.html",
-        "https://www.belfasttelegraph.co.uk/entertainment/news/world-of-david-walliams-attraction-permanently-closes-at-alton-towers/a/164012140.html",
+        "https://metro.co.uk/2026/11/03/david-walliams-attraction-permanently-closes-alton-towers-29761795/",
         "https://www.imdb.com/es/news/ni66086947/?ref_=nwc_art_perm",
         "https://www.tmz.com/2026/10/28/david-walliams-removed-from-upcoming-project-following-allegations/",
         "https://wheretowatch.tv/tv-news-2/bbc-promotes-david-walliams-episode-of-who-do-you-think-you-are-despite-allegations/28/10/"
@@ -16314,6 +16257,68 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q18162913",
+      "name": "Callum Turner",
+      "description": "English actor (born 1990)",
+      "category": "artists",
+      "occupations": [
+        "actor",
+        "film director",
+        "television actor",
+        "model"
+      ],
+      "birthYear": 1990,
+      "deathYear": null,
+      "sitelinks": 31,
+      "wikipedia": {
+        "af": "Callum Turner",
+        "ar": "كالوم تورنر",
+        "arz": "كالوم تورنر",
+        "ca": "Callum Turner",
+        "cs": "Callum Turner",
+        "de": "Callum Turner",
+        "en": "Callum Turner",
+        "es": "Callum Turner",
+        "fa": "کلوم ترنر",
+        "fr": "Callum Turner",
+        "he": "קאלום טרנר",
+        "hu": "Callum Turner",
+        "id": "Callum Turner",
+        "it": "Callum Turner",
+        "ja": "カラム・ターナー",
+        "ka": "კალუმ ტერნერი",
+        "ko": "캘럼 터너",
+        "nl": "Callum Turner",
+        "no": "Callum Turner",
+        "pl": "Callum Turner",
+        "pt": "Callum Turner",
+        "ru": "Тёрнер, Каллум",
+        "simple": "Callum Turner",
+        "sr": "Калум Тарнер",
+        "sv": "Callum Turner",
+        "th": "แคลลัม เทอร์เนอร์",
+        "tr": "Callum Turner",
+        "uk": "Каллум Тернер",
+        "ur": "کالم ٹرنر",
+        "uz": "Callum Turner",
+        "zh": "卡倫·透納"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "en",
+          "term": "Callum Turner",
+          "volume": 33135
+        }
+      ],
+      "newsUrls": [],
+      "spike": 2.6,
+      "score": 75,
+      "decision": "accept",
+      "reasons": [],
+      "onSite": true
+    },
+    {
       "wikidataId": "Q2680",
       "name": "Q2680",
       "description": "American actor (born 1955)",
@@ -17039,67 +17044,6 @@
       "onSite": true
     },
     {
-      "wikidataId": "Q234667",
-      "name": "Sara Carbonero",
-      "description": "Spanish journalist",
-      "category": "artists",
-      "occupations": [
-        "television presenter",
-        "sports journalist",
-        "journalist",
-        "presenter"
-      ],
-      "birthYear": 1984,
-      "deathYear": null,
-      "sitelinks": 26,
-      "wikipedia": {
-        "ar": "سارا كاربونيرو",
-        "arz": "سارا كاربونيرو",
-        "ast": "Sara Carbonero",
-        "be_x_old": "Сара Карбанэра",
-        "ca": "Sara Carbonero Arévalo",
-        "de": "Sara Carbonero",
-        "en": "Sara Carbonero",
-        "es": "Sara Carbonero",
-        "eu": "Sara Carbonero",
-        "fa": "سارا کاربونرو",
-        "fi": "Sara Carbonero",
-        "fr": "Sara Carbonero",
-        "gl": "Sara Carbonero",
-        "hy": "Սառա Կարբոներո",
-        "id": "Sarah Carbonero",
-        "it": "Sara Carbonero",
-        "ko": "사라 카르보네로",
-        "no": "Sara Carbonero",
-        "pl": "Sara Carbonero",
-        "pt": "Sara Carbonero",
-        "ro": "Sara Carbonero",
-        "ru": "Карбонеро, Сара",
-        "th": "ซารา การ์โบเนโร",
-        "tr": "Sara Carbonero",
-        "uk": "Сара Карбонеро",
-        "zh": "莎拉·卡邦奈洛"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "MX",
-          "term": "sara carbonero",
-          "volume": 2000
-        }
-      ],
-      "newsUrls": [
-        "https://www.instyle.es/celebrities/sara-carbonero-sobre-su-infancia-vendimia-mi-abuela-hacia-tortillas_73891",
-        "https://woman.elperiodico.com/celebrities/sara-carbonero-epoca-infancia-abuela-pueblo-vendimia-tortillas-135913371",
-        "https://theobjective.com/gente/2026-11-03/sara-carbonero-pueblo-orgullos-casa-corral-almaguer/"
-      ],
-      "spike": 1.3,
-      "score": 74,
-      "decision": "accept",
-      "reasons": [],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q5809",
       "name": "Che Guevara",
       "description": "Argentine Marxist revolutionary (1928–1967)",
@@ -17602,105 +17546,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q228787",
-      "name": "Jada Pinkett Smith",
-      "description": "American actress (born 1971)",
-      "category": "artists",
-      "occupations": [
-        "actor",
-        "singer",
-        "voice actor",
-        "television actor",
-        "film actor",
-        "television personality",
-        "television presenter",
-        "film director",
-        "film producer",
-        "executive producer"
-      ],
-      "birthYear": 1971,
-      "deathYear": null,
-      "sitelinks": 58,
-      "wikipedia": {
-        "af": "Jada Pinkett Smith",
-        "ar": "جادا بينكيت سميث",
-        "arz": "جادا بينكيت سميث",
-        "ast": "Jada Pinkett Smith",
-        "azb": "جیدا پینکت اسمیت",
-        "be": "Джада Пінкет-Сміт",
-        "bg": "Джейда Пинкет Смит",
-        "ca": "Jada Pinkett Smith",
-        "cs": "Jada Pinkettová Smithová",
-        "cy": "Jada Pinkett Smith",
-        "da": "Jada Pinkett Smith",
-        "de": "Jada Pinkett Smith",
-        "el": "Τζέιντα Πίνκετ Σμιθ",
-        "en": "Jada Pinkett Smith",
-        "es": "Jada Pinkett Smith",
-        "eu": "Jada Pinkett Smith",
-        "fa": "جیدا پینکت اسمیت",
-        "fi": "Jada Pinkett Smith",
-        "fr": "Jada Pinkett Smith",
-        "ga": "Jada Pinkett Smith",
-        "gl": "Jada Pinkett Smith",
-        "ha": "Jada Pinkett Smith",
-        "he": "ג'יידה פינקט סמית'",
-        "hu": "Jada Pinkett Smith",
-        "hy": "Ջադա Փինքեթ Սմիթ",
-        "id": "Jada Pinkett Smith",
-        "ig": "Jada Pinkett Smith",
-        "it": "Jada Pinkett Smith",
-        "ja": "ジェイダ・ピンケット・スミス",
-        "jv": "Jada Pinkett Smith",
-        "ko": "제이다 핑킷 스미스",
-        "ks": "جاڈا پِنٛکیٹ سمِتھ",
-        "la": "Iada Pinkett Smith",
-        "lv": "Džeida Pinketa-Smita",
-        "mg": "Jada Pinkett Smith",
-        "ms": "Jada Pinkett Smith",
-        "mzn": "جادا پینکت اسمیت",
-        "nl": "Jada Pinkett Smith",
-        "no": "Jada Pinkett Smith",
-        "pa": "ਜਾਡਾ ਪਿੰਕੈਟ ਸਮਿੱਥ",
-        "pl": "Jada Pinkett Smith",
-        "pt": "Jada Pinkett Smith",
-        "ro": "Jada Pinkett Smith",
-        "ru": "Пинкетт-Смит, Джада",
-        "sh": "Jada Pinkett Smith",
-        "simple": "Jada Pinkett Smith",
-        "sk": "Jada Pinkettová-Smithová",
-        "sr": "Џејда Пинкет Смит",
-        "sv": "Jada Pinkett Smith",
-        "sw": "Jada Pinkett Smith",
-        "ta": "ஜடா பிங்கெட் சிமித்",
-        "th": "เจดา พิงคิตต์ สมิท",
-        "tr": "Jada Pinkett Smith",
-        "uk": "Джада Пінкетт-Сміт",
-        "ur": "جاڈا پنکیٹ اسمتھ",
-        "vi": "Jada Pinkett Smith",
-        "xmf": "ჯეიდა პინკეტ სმითი",
-        "zh": "潔達·蘋姬·史密斯"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "US",
-          "term": "will smith jada pinkett smith",
-          "volume": 100
-        }
-      ],
-      "newsUrls": [
-        "https://people.com/will-smith-and-ex-wife-sheree-zampino-seen-smiling-in-australia-12208070",
-        "https://www.eonline.com/news/1437756/will-smith-ex-wife-sheree-zampino-reunite-on-australia-vacation",
-        "https://pagesix.com/2026/11/02/celebrity-news/will-smith-ex-sheree-zampino-enjoy-australia-getaway-after-jada-pinkett-smith-reconciliation/"
-      ],
-      "spike": 1.3,
-      "score": 73,
-      "decision": "accept",
-      "reasons": [],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q234204",
       "name": "Linda Cardellini",
       "description": "American actress (b. 1975)",
@@ -17777,6 +17622,59 @@
       "reasons": [
         "pageview spike 1.2x is below 2x"
       ],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q918335",
+      "name": "Elena Furiase",
+      "description": "Spanish actress",
+      "category": "artists",
+      "occupations": [
+        "actor"
+      ],
+      "birthYear": 1988,
+      "deathYear": null,
+      "sitelinks": 21,
+      "wikipedia": {
+        "ar": "إيلينا فورياس",
+        "arz": "ايلينا فورياس",
+        "ast": "Elena Furiase",
+        "ca": "Elena Furiase González",
+        "el": "Ελένα Φουριάσε",
+        "en": "Elena Furiase",
+        "es": "Elena Furiase",
+        "eu": "Elena Furiase",
+        "fa": "النا فوریاسه",
+        "fr": "Elena Furiase",
+        "gl": "Elena Furiase",
+        "hu": "Elena Furiase",
+        "it": "Elena Furiase",
+        "ka": "ელენა ფურიასე",
+        "ko": "엘레나 푸리아세",
+        "mk": "Елена Фуријасе",
+        "ru": "Фуриасе, Элена",
+        "sq": "Elena Furiase",
+        "sw": "Elena Furiase",
+        "uk": "Елена Фуріасе",
+        "ur": "ایلینا فوریاسی"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "ES",
+          "term": "guillermo furiase",
+          "volume": 1000
+        }
+      ],
+      "newsUrls": [
+        "https://www.lecturas.com/television/guillermo-furiase-hijo-lolita-siempre-dicen-que-soy-desconocido-flores-me-gusta-serlo-porque-soy-muy-intimo-mi-vida-enchufes-nada_200751",
+        "https://www.antena3.com/programas/y-ahora-sonsoles/guillermo-furiase-gente-piensa-que-nacer-familia-flores-hacemos-cola-pero-reves_202611026ae8de54b55c427e2ebc7c88.html",
+        "https://www.lavanguardia.com/clic/20261102/11673924/guillermo-furiase-actor-entreno-todos-dias-cuestion-salud-mental-despejarme-unico-flores-deporte.html"
+      ],
+      "spike": 1.9,
+      "score": 73,
+      "decision": "accept",
+      "reasons": [],
       "onSite": false
     },
     {
@@ -18503,68 +18401,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q61625543",
-      "name": "Luisa Neubauer",
-      "description": "German climate activist",
-      "category": "creators",
-      "occupations": [
-        "climate activist",
-        "blogger",
-        "environmentalist",
-        "non-fiction writer",
-        "geographer",
-        "podcaster"
-      ],
-      "birthYear": 1996,
-      "deathYear": null,
-      "sitelinks": 29,
-      "wikipedia": {
-        "ar": "لويزا نويباور",
-        "arz": "لويزا نيوباور",
-        "az": "Luiza Noybauer",
-        "bcl": "Luisa Neubauer",
-        "ca": "Luisa Neubauer",
-        "cs": "Luisa Neubauerová",
-        "cy": "Luisa Neubauer",
-        "de": "Luisa Neubauer",
-        "el": "Λουίζα Νοϊμπάουερ",
-        "en": "Luisa Neubauer",
-        "es": "Luisa Neubauer",
-        "eu": "Luisa Neubauer",
-        "fa": "لوئیزا نوی‌باوئر",
-        "fi": "Luisa Neubauer",
-        "fr": "Luisa Neubauer",
-        "gl": "Luisa Neubauer",
-        "ha": "Luisa Neubauer",
-        "hy": "Լուիզա Նոյբաուեր",
-        "id": "Luisa Neubauer",
-        "it": "Luisa Neubauer",
-        "ja": "ルイーザ・ノイバウアー",
-        "mk": "Луиза Нојбаер",
-        "ml": "ലൂയിസ ന്യൂബാവർ",
-        "nl": "Luisa Neubauer",
-        "pt": "Luisa Neubauer",
-        "ru": "Нойбауэр, Луиза",
-        "sv": "Luisa Neubauer",
-        "sw": "Luisa Neubauer",
-        "uk": "Луїза Нойбауер"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "de",
-          "term": "Luisa Neubauer",
-          "volume": 4128
-        }
-      ],
-      "newsUrls": [],
-      "spike": 3.6,
-      "score": 73,
-      "decision": "accept",
-      "reasons": [],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q1663157",
       "name": "Ingo Lenßen",
       "description": "German actor, author and lawyer",
@@ -18863,7 +18699,7 @@
       "newsUrls": [
         "https://variety.com/2026/film/news/james-gunn-batman-superman-wonder-woman-dcu-1236933827/",
         "https://comicbook.com/movies/feature/the-worst-thing-about-the-dcu-franchise-isnt-even-anything-in-the-movies-or-tv-shows/",
-        "https://www.polygon.com/james-gunn-dc-universe-individual-stories-marvel-crossovers/"
+        "https://www.imdb.com/news/ni66086765/?ref_=nmnw_art_perm"
       ],
       "spike": 1,
       "score": 72,
@@ -19565,6 +19401,79 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q372372",
+      "name": "Nuno Espírito Santo",
+      "description": "Portuguese footballer and manager (born 1974)",
+      "category": "athletes",
+      "occupations": [
+        "association football player",
+        "association football coach"
+      ],
+      "birthYear": 1974,
+      "deathYear": null,
+      "sitelinks": 40,
+      "wikipedia": {
+        "ar": "نونو إسبيريتو سانتو",
+        "arz": "نونو اسبيريتو سانتو",
+        "azb": "نونو اسپیریتو سانتو",
+        "bg": "Нуно Ешпирито Санто",
+        "ca": "Nuno Espírito Santo",
+        "cs": "Nuno Espírito Santo",
+        "de": "Nuno Espírito Santo",
+        "en": "Nuno Espírito Santo",
+        "es": "Nuno Espírito Santo",
+        "fa": "نونو اسپیریتو سانتو",
+        "fi": "Nuno",
+        "fo": "Nuno Espírito Santo",
+        "fr": "Nuno Espírito Santo",
+        "gl": "Nuno Espírito Santo",
+        "he": "נונו אספריטו סנטו",
+        "hu": "Nuno Espírito Santo",
+        "id": "Nuno Espírito Santo",
+        "is": "Nuno Espírito Santo",
+        "it": "Nuno Espírito Santo",
+        "ja": "ヌーノ・エスピーリト・サント",
+        "ko": "누누 이스피리투 산투",
+        "lv": "Nunu Ešpiritu Santu",
+        "mg": "Nuno Espírito Santo",
+        "ms": "Nuno Espírito Santo",
+        "nl": "Nuno",
+        "no": "Nuno Espírito Santo",
+        "pl": "Nuno Espírito Santo",
+        "pt": "Nuno Espírito Santo",
+        "ro": "Nuno Espírito Santo",
+        "ru": "Эшпириту Санту, Нуну",
+        "simple": "Nuno Espírito Santo",
+        "sr": "Нуно Еспирито Санто",
+        "sv": "Nuno Espírito Santo",
+        "th": "นูนู อึชปีรีตู ซังตู",
+        "tr": "Nuno",
+        "uk": "Нуну Ешпіріту Санту",
+        "uz": "Nuno Espírito Santo",
+        "vi": "Nuno Espírito Santo",
+        "zh_yue": "紐奴艾斯比列圖辛度",
+        "zh": "努诺·埃斯皮里托·桑托"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "PT",
+          "term": "nuno espírito santo",
+          "volume": 100
+        }
+      ],
+      "newsUrls": [
+        "https://www.abola.pt/noticias/oficial-nuno-espirito-santo-despedido-do-west-ham-2026110308533493104",
+        "https://www.cmjornal.pt/desporto/futebol/detalhe/treinador-portugues-nuno-espirito-santo-despedido-do-west-ham",
+        "https://www.noticiasaominuto.com/desporto/3077519/oficial-west-ham-despede-nuno-espirito-santo-com-efeitos-imediatos"
+      ],
+      "spike": 1.5,
+      "score": 71,
+      "decision": "accept",
+      "reasons": [],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q5829",
       "name": "Q5829",
       "description": "French left-wing populist politician (born 1951)",
@@ -19816,58 +19725,10 @@
       ],
       "newsUrls": [
         "https://tennishead.net/what-alex-eala-needs-to-finish-2026-with-a-career-high-ranking-and-achieve-huge-australian-open-boost/",
-        "https://www.tennis365.com/tennis-news/wta-rankings-alex-eala-career-high-coco-gauff-iga-swiatek-leylah-fernandez-5",
+        "https://www.tennisworldusa.org/tennis/news/WTA_Tennis/171099/alexandra-eala-has-no-regrets-over-her-2026-season-amid-rough-asian-swing/",
         "https://www.facebook.com/abscbnNEWS/posts/alex-eala-rises-to-world-no-17-ancheadlines/1747814070727175/"
       ],
       "spike": 1.1,
-      "score": 70,
-      "decision": "accept",
-      "reasons": [],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q104728520",
-      "name": "Tomás Martín Etcheverry",
-      "description": "Argentine tennis player",
-      "category": "athletes",
-      "occupations": [
-        "tennis player"
-      ],
-      "birthYear": 1999,
-      "deathYear": null,
-      "sitelinks": 16,
-      "wikipedia": {
-        "ar": "توماس مارتين إتشيفيري",
-        "cs": "Tomás Martín Etcheverry",
-        "da": "Tomás Martín Etcheverry",
-        "de": "Tomás Martín Etcheverry",
-        "en": "Tomás Martín Etcheverry",
-        "es": "Tomás Martín Etcheverry",
-        "fi": "Tomás Martín Etcheverry",
-        "fr": "Tomás Martín Etcheverry",
-        "it": "Tomás Martín Etcheverry",
-        "ja": "トマス・マルティン・エチェベリー",
-        "nl": "Tomás Martín Etcheverry",
-        "no": "Tomás Martín Etcheverry",
-        "pl": "Tomás Martín Etcheverry",
-        "ro": "Tomás Martín Etcheverry",
-        "ru": "Этчеверри, Томас Мартин",
-        "zh": "托马斯·马丁·埃切韦里"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "AR",
-          "term": "tomás martín etcheverry",
-          "volume": 500
-        }
-      ],
-      "newsUrls": [
-        "https://www.clarin.com/deportes/lunes-negro-argentinos-masters-1000-paris-eliminaciones-cadena-caida-generalizada-ranking_0_v1kBhOwNV9.html",
-        "https://www.espn.com.ar/tenis/nota/_/id/17464162/se-que-es-dificil-pero-voy-a-tratar-juanma-cerundolo-confeso-su-objetivo-de-cara-al-cierre-de-la-temporada-masters-1000-de-paris",
-        "https://www.lagaceta.com.ar/nota/1160735/deportes/masters-1000-paris-hora-juegan-cerundolo-etcheverry-djokovic-donde-verlos.html"
-      ],
-      "spike": 2,
       "score": 70,
       "decision": "accept",
       "reasons": [],
@@ -19944,6 +19805,139 @@
       "decision": "reject",
       "reasons": [
         "no matching site category"
+      ],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q36159",
+      "name": "LeBron James",
+      "description": "American basketball player (born 1984)",
+      "category": "athletes",
+      "occupations": [
+        "basketball player",
+        "screenwriter",
+        "television actor"
+      ],
+      "birthYear": 1984,
+      "deathYear": null,
+      "sitelinks": 101,
+      "wikipedia": {
+        "af": "LeBron James",
+        "an": "LeBron James",
+        "ar": "ليبرون جيمس",
+        "arz": "ليبرون جيمس",
+        "ast": "LeBron James",
+        "az": "Lebron Ceyms",
+        "ban": "LeBron James",
+        "bcl": "LeBron James",
+        "be_x_old": "Леброн Джэймз",
+        "be": "Леброн Джэймс",
+        "bg": "Леброн Джеймс",
+        "bn": "লাব্রন জেমস",
+        "bs": "LeBron James",
+        "ca": "LeBron James",
+        "ceb": "LeBron James",
+        "chy": "LeBron James",
+        "cs": "LeBron James",
+        "da": "LeBron James",
+        "de": "LeBron James",
+        "diq": "LeBron James",
+        "el": "ΛεΜπρόν Τζέιμς",
+        "eml": "LeBron James",
+        "en": "LeBron James",
+        "eo": "LeBron James",
+        "es": "LeBron James",
+        "et": "LeBron James",
+        "eu": "LeBron James",
+        "fa": "لبرون جیمز",
+        "fi": "LeBron James",
+        "fr": "LeBron James",
+        "ga": "LeBron James",
+        "gl": "LeBron James",
+        "ha": "LeBron James",
+        "he": "לברון ג'יימס",
+        "hif": "Lebron James",
+        "hi": "लेब्रोन जेम्स",
+        "hr": "LeBron James",
+        "ht": "LeBron James",
+        "hu": "LeBron James",
+        "hy": "Լեբրոն Ջեյմս",
+        "hyw": "ԼըՊրան Ճէյմզ",
+        "id": "LeBron James",
+        "io": "LeBron James",
+        "is": "LeBron James",
+        "it": "LeBron James",
+        "ja": "レブロン・ジェームズ",
+        "ka": "ლებრონ ჯეიმზი",
+        "kk": "Леброн Джеймс",
+        "kn": "ಲೆಬ್ರಾನ್ ಜೇಮ್ಸ್",
+        "ko": "르브론 제임스",
+        "ks": "لیبرٛون جیمز",
+        "ky": "Леброн Жеймс",
+        "la": "LeBron James",
+        "lo": "ເລບຣອນ ເຈມ",
+        "lt": "LeBron James",
+        "lv": "Lebrons Džeimss",
+        "mg": "LeBron James",
+        "min": "LeBron James",
+        "mk": "Леброн Џејмс",
+        "ml": "ലെബ്രോൺ ജെയിംസ്",
+        "mn": "Леброн Жеймс",
+        "ms": "LeBron James",
+        "my": "လက်ဘရွန် ဂျိမ်း",
+        "nl": "LeBron James",
+        "nn": "LeBron James",
+        "no": "LeBron James",
+        "pam": "LeBron James",
+        "pa": "ਲੇਬ੍ਰੌਨ ਜੇਮਜ਼",
+        "pl": "LeBron James",
+        "pt": "LeBron James",
+        "qu": "LeBron James",
+        "rn": "Lebroni Yakobo",
+        "ro": "LeBron James",
+        "ru": "Джеймс, Леброн",
+        "scn": "LeBron James",
+        "sco": "LeBron James",
+        "sh": "LeBron James",
+        "simple": "LeBron James",
+        "si": "ලෙබ්රොන් ජේම්ස්",
+        "sk": "LeBron James",
+        "sl": "LeBron James",
+        "sq": "LeBron James",
+        "sr": "Леброн Џејмс",
+        "sv": "LeBron James",
+        "sw": "Lebron James",
+        "ta": "இலெப்ரோன் ஜேம்சு",
+        "tay": "LeBron James",
+        "tg": "Ҷеймс, Леброн",
+        "th": "เลอบรอน เจมส์",
+        "tl": "LeBron James",
+        "tr": "LeBron James",
+        "uk": "Леброн Джеймс",
+        "ur": "لیبرون جیمز",
+        "uz": "LeBron James",
+        "vi": "LeBron James",
+        "vo": "LeBron James",
+        "wuu": "勒布朗·詹姆斯",
+        "yo": "LeBron James",
+        "zh_min_nan": "LeBron James",
+        "zh_yue": "勒邦占士",
+        "zh": "勒布朗·詹姆斯"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "pt",
+          "term": "LeBron James",
+          "volume": 2164
+        }
+      ],
+      "newsUrls": [],
+      "spike": 0,
+      "score": 70,
+      "decision": "reject",
+      "reasons": [
+        "pageview spike 0.0x is below 2x"
       ],
       "onSite": false
     },
@@ -20529,6 +20523,74 @@
       "onSite": true
     },
     {
+      "wikidataId": "Q123693068",
+      "name": "Jaafar Jackson",
+      "description": "American actor",
+      "category": "artists",
+      "occupations": [
+        "singer",
+        "dancer",
+        "actor"
+      ],
+      "birthYear": 1996,
+      "deathYear": null,
+      "sitelinks": 36,
+      "wikipedia": {
+        "ar": "جعفر جاكسون",
+        "arz": "جعفر جاكسون",
+        "bh": "जाफर जैक्सन",
+        "bn": "জাফর জ্যাকসন",
+        "ca": "Jaafar Jackson",
+        "ckb": "جەعفەر جاکسن",
+        "de": "Jaafar Jackson",
+        "en": "Jaafar Jackson",
+        "es": "Jaafar Jackson",
+        "et": "Jaafar Jackson",
+        "fa": "جعفر جکسون",
+        "fr": "Jaafar Jackson",
+        "he": "ג'אפר ג'קסון",
+        "hu": "Jaafar Jackson",
+        "id": "Jaafar Jackson",
+        "it": "Jaafar Jackson",
+        "ja": "ジャファー・ジャクソン",
+        "ka": "ჯაფარ ჯექსონი",
+        "ko": "자파 잭슨",
+        "ms": "Jaafar Jackson",
+        "mt": "Jaafar Jackson",
+        "mzn": "جافار جکسون",
+        "nl": "Jaafar Jackson",
+        "no": "Jaafar Jackson",
+        "pl": "Jaafar Jackson",
+        "pt": "Jaafar Jackson",
+        "ru": "Джексон, Джаафар",
+        "simple": "Jaafar Jackson",
+        "sv": "Jaafar Jackson",
+        "sw": "Jaafar Jackson",
+        "te": "జాఫర్ జాక్సన్",
+        "tr": "Jaafar Jackson",
+        "uk": "Джаафар Джексон",
+        "ur": "جعفر جیکسن",
+        "xmf": "ჯაფარ ჯექსონი",
+        "zh": "賈法·傑克森"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "pt",
+          "term": "Jaafar Jackson",
+          "volume": 2447
+        }
+      ],
+      "newsUrls": [],
+      "spike": 1.9,
+      "score": 69,
+      "decision": "reject",
+      "reasons": [
+        "pageview spike 1.9x is below 2x"
+      ],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q361297",
       "name": "Joe Jackson",
       "description": "American music manager, father of the Jackson family (1928–2018)",
@@ -20713,58 +20775,6 @@
       "reasons": [
         "pageview spike 0.5x is below 2x"
       ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q563427",
-      "name": "Stefan Kretzschmar",
-      "description": "German handball player",
-      "category": "athletes",
-      "occupations": [
-        "handball player",
-        "athlete",
-        "actor"
-      ],
-      "birthYear": 1973,
-      "deathYear": null,
-      "sitelinks": 18,
-      "wikipedia": {
-        "arz": "ستيفان كريتزمار",
-        "da": "Stefan Kretzschmar",
-        "de": "Stefan Kretzschmar",
-        "en": "Stefan Kretzschmar",
-        "es": "Stefan Kretzschmar",
-        "fa": "اشتفان کرتشمار",
-        "fr": "Stefan Kretzschmar",
-        "hu": "Stefan Kretzschmar",
-        "ko": "슈테판 크레추마어",
-        "mk": "Штефан Кречмар",
-        "no": "Stefan Kretzschmar",
-        "pl": "Stefan Kretzschmar",
-        "pt": "Stefan Kretzschmar",
-        "ru": "Кречмар, Штефан",
-        "sh": "Stefan Kretzschmar",
-        "sl": "Stefan Kretzschmar",
-        "sv": "Stefan Kretzschmar",
-        "zh": "斯特凡·克雷奇马尔"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "DE",
-          "term": "stefan kretzschmar",
-          "volume": 1000
-        }
-      ],
-      "newsUrls": [
-        "https://sportbild.bild.de/sportmix/handball/immobilie-gekauft-handball-legende-wandert-halb-nach-mallorca-aus-6ae99597e54274d5b379d3ec",
-        "https://www.hessenschau.de/sport/handball/hsg-wetzlar/niederlage-gegen-melsungen-hsg-wetzlar-bekommt-den-kopf-nicht-frei--v1,nachklapp-wetzlar-melsungen-100.html",
-        "https://www.tagesschau.de/inland/regional/hessen/hr-spannung-pur-beim-hessenderby-zwischen-wetzlar-und-melsungen-102.html"
-      ],
-      "spike": 0.9,
-      "score": 69,
-      "decision": "accept",
-      "reasons": [],
       "onSite": false
     },
     {
@@ -20971,89 +20981,6 @@
       "decision": "reject",
       "reasons": [
         "pageview spike 1.6x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q244997",
-      "name": "José Sarney",
-      "description": "President of Brazil from 1985 to 1990",
-      "category": "artists",
-      "occupations": [
-        "lawyer",
-        "journalist",
-        "politician",
-        "writer",
-        "poet",
-        "novelist"
-      ],
-      "birthYear": 1930,
-      "deathYear": null,
-      "sitelinks": 48,
-      "wikipedia": {
-        "af": "José Sarney",
-        "ar": "جوسيه سارني",
-        "arz": "جوسيه سارنى",
-        "ast": "José Sarney",
-        "be": "Жазэ Сарней",
-        "bg": "Жузе Сарней",
-        "ca": "José Sarney",
-        "cs": "José Sarney",
-        "da": "José Sarney",
-        "de": "José Sarney",
-        "diq": "José Sarney",
-        "en": "José Sarney",
-        "eo": "José Sarney",
-        "es": "José Sarney",
-        "eu": "José Sarney",
-        "fa": "ژوزه سارنی",
-        "fi": "José Sarney",
-        "fr": "José Sarney",
-        "gl": "José Sarney",
-        "he": "ז'וזה סרניי",
-        "id": "José Sarney",
-        "io": "José Sarney",
-        "is": "José Sarney",
-        "it": "José Sarney",
-        "ja": "ジョゼ・サルネイ",
-        "ka": "ჟოზე სარნეი",
-        "ki": "José Sarney",
-        "ko": "조제 사르네이",
-        "la": "Iosephus Sarney",
-        "mg": "José Sarney",
-        "mzn": "خوزه سارنی",
-        "nl": "José Sarney",
-        "no": "José Sarney",
-        "oc": "José Sarney",
-        "pl": "José Sarney",
-        "pt": "José Sarney",
-        "ru": "Сарней, Жозе",
-        "simple": "José Sarney",
-        "sv": "José Sarney",
-        "tg": "Жузе Сорнӣ",
-        "th": "ฌูแซ ซาร์เนย์",
-        "tr": "José Sarney",
-        "uk": "Жозе Сарней",
-        "vi": "José Sarney",
-        "wuu": "若泽·萨尔内",
-        "yo": "José Sarney",
-        "zh_yue": "薩爾內",
-        "zh": "若泽·萨尔内"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "pt",
-          "term": "José Sarney",
-          "volume": 2250
-        }
-      ],
-      "newsUrls": [],
-      "spike": 1,
-      "score": 68,
-      "decision": "reject",
-      "reasons": [
-        "pageview spike 1.0x is below 2x"
       ],
       "onSite": false
     },
@@ -21557,83 +21484,120 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q9124",
-      "name": "Eliud Kipchoge",
-      "description": "Kenyan long-distance runner",
+      "wikidataId": "Q27787878",
+      "name": "Juliana Stratton",
+      "description": "Lieutenant Governor of Illinois since 2019",
+      "category": null,
+      "occupations": [
+        "politician",
+        "lawyer"
+      ],
+      "birthYear": 1965,
+      "deathYear": null,
+      "sitelinks": 14,
+      "wikipedia": {
+        "arz": "جوليانا ستراتون",
+        "azb": "جولیانا ایستراتون",
+        "ca": "Juliana Stratton",
+        "de": "Juliana Stratton",
+        "en": "Juliana Stratton",
+        "es": "Juliana Stratton",
+        "fr": "Juliana Stratton",
+        "he": "ג'וליאנה סטרטון",
+        "hu": "Juliana Stratton",
+        "ko": "줄리아나 스트래튼",
+        "ru": "Стрэттон, Джулиана",
+        "simple": "Juliana Stratton",
+        "ur": "جولیانا اسٹریٹن",
+        "zh": "朱莉安娜·斯特拉顿"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "US",
+          "term": "juliana stratton",
+          "volume": 100
+        }
+      ],
+      "newsUrls": [
+        "https://www.cbsnews.com/chicago/news/illinois-senate-election-results-2026/",
+        "https://chicago.suntimes.com/elections/2026/11/03/us-senate-illinois-midterm-results",
+        "https://www.nbcchicago.com/news/local/what-to-know-about-illinois-us-senate-race-between-juliana-stratton-and-don-tracy/4010422/"
+      ],
+      "spike": 2.1,
+      "score": 66,
+      "decision": "reject",
+      "reasons": [
+        "no matching site category"
+      ],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q356142",
+      "name": "Jackson Martínez",
+      "description": "Colombian footballer (born 1986)",
       "category": "athletes",
       "occupations": [
-        "marathon runner",
-        "long-distance runner",
-        "athletics competitor",
-        "athlete"
+        "association football player"
       ],
-      "birthYear": 1984,
+      "birthYear": 1986,
       "deathYear": null,
-      "sitelinks": 51,
+      "sitelinks": 42,
       "wikipedia": {
-        "an": "Eliud Kipchoge",
-        "ar": "إليود كيبشوج",
-        "arz": "اليود كيبشوج",
-        "az": "Eliud Kipçoqe",
-        "be": "Эліуд Кіпчогэ",
-        "bg": "Елиуд Кипчоге",
-        "bn": "এলিউড কিপচোগে",
-        "ca": "Eliud Kipchoge",
-        "cs": "Eliud Kipchoge",
-        "da": "Eliud Kipchoge",
-        "de": "Eliud Kipchoge",
-        "el": "Ελιούντ Κιπτσόγκε",
-        "en": "Eliud Kipchoge",
-        "es": "Eliud Kipchoge",
-        "et": "Eliud Kipchoge",
-        "eu": "Eliud Kipchoge",
-        "fa": "الیود کیپچوگه",
-        "fi": "Eliud Kipchoge",
-        "fr": "Eliud Kipchoge",
-        "he": "אליוד קיפצ'וגה",
-        "hu": "Eliud Kipchoge",
-        "hy": "Էլիուդ Կիպչոգե",
-        "id": "Eliud Kipchoge",
-        "ie": "Eliud Kipchoge",
-        "io": "Eliud Kipchoge",
-        "it": "Eliud Kipchoge",
-        "ja": "エリウド・キプチョゲ",
-        "kaa": "Eliud Kipchoge",
-        "ko": "엘리우드 킵초게",
-        "lv": "Eliuds Kipčoge",
-        "ml": "എല്യൂദ് കിപ്ചൊഗെ",
-        "ms": "Eliud Kipchoge",
-        "nl": "Eliud Kipchoge",
-        "nn": "Eliud Kipchoge",
-        "no": "Eliud Kipchoge",
-        "pl": "Eliud Kipchoge",
-        "pt": "Eliud Kipchoge",
-        "ro": "Eliud Kipchoge",
-        "ru": "Кипчоге, Элиуд",
-        "simple": "Eliud Kipchoge",
-        "sk": "Eliud Kipchoge",
-        "sr": "Елијуд Кипчоге",
-        "sv": "Eliud Kipchoge",
-        "sw": "Eliud Kipchoge",
-        "th": "เอลีอูด คิปโชเก",
-        "tr": "Eliud Kipchoge",
-        "uk": "Еліуд Кіпчоґе",
-        "uz": "Eliud Kipchoge",
-        "vi": "Eliud Kipchoge",
-        "wuu": "埃利乌德·基普乔盖",
-        "zh": "埃利乌德·基普乔盖"
+        "ar": "جاكسون مارتينيز",
+        "arz": "جاكسون مارتينيز",
+        "azb": "جکسون مارتینز",
+        "be_x_old": "Джэксан Мартынэс",
+        "bg": "Джаксън Мартинес",
+        "ca": "Jackson Martínez",
+        "cs": "Jackson Martínez",
+        "da": "Jackson Martínez",
+        "de": "Jackson Martínez",
+        "en": "Jackson Martínez",
+        "es": "Jackson Martínez",
+        "et": "Jackson Martínez",
+        "fa": "جکسون مارتینز",
+        "fi": "Jackson Martínez",
+        "fr": "Jackson Martínez",
+        "he": "ג'קסון מרטינס",
+        "hu": "Jackson Martínez",
+        "hy": "Ջեքսոն Մարտինես",
+        "id": "Jackson Martínez",
+        "it": "Jackson Martínez",
+        "ja": "ジャクソン・マルティネス",
+        "ka": "ჯექსონ მარტინესი",
+        "kk": "Джексон Мартинес",
+        "ko": "작손 마르티네스",
+        "lv": "Džeksons Martiness",
+        "mg": "Jackson Martínez",
+        "mn": "Жексон Мартинес",
+        "ms": "Jackson Martínez",
+        "nl": "Jackson Martínez",
+        "no": "Jackson Martínez",
+        "pl": "Jackson Martínez",
+        "pt": "Jackson Martínez",
+        "ro": "Jackson Martínez",
+        "ru": "Мартинес, Джексон",
+        "sh": "Jackson Martínez",
+        "sv": "Jackson Martínez",
+        "tg": "Ҷексон Мартинес",
+        "tr": "Jackson Martínez",
+        "uk": "Джексон Мартінес",
+        "vi": "Jackson Martínez",
+        "zh_yue": "積臣·馬天尼斯",
+        "zh": "杰克逊·马丁内斯"
       },
       "signals": [
         {
           "source": "wikipedia-top",
-          "where": "de",
-          "term": "Eliud Kipchoge",
-          "volume": 4269
+          "where": "es",
+          "term": "Jackson Martínez",
+          "volume": 5525
         }
       ],
       "newsUrls": [],
       "spike": 0,
-      "score": 67,
+      "score": 66,
       "decision": "reject",
       "reasons": [
         "pageview spike 0.0x is below 2x"
@@ -22365,6 +22329,89 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q244997",
+      "name": "José Sarney",
+      "description": "President of Brazil from 1985 to 1990",
+      "category": "artists",
+      "occupations": [
+        "lawyer",
+        "journalist",
+        "politician",
+        "writer",
+        "poet",
+        "novelist"
+      ],
+      "birthYear": 1930,
+      "deathYear": null,
+      "sitelinks": 48,
+      "wikipedia": {
+        "af": "José Sarney",
+        "ar": "جوسيه سارني",
+        "arz": "جوسيه سارنى",
+        "ast": "José Sarney",
+        "be": "Жазэ Сарней",
+        "bg": "Жузе Сарней",
+        "ca": "José Sarney",
+        "cs": "José Sarney",
+        "da": "José Sarney",
+        "de": "José Sarney",
+        "diq": "José Sarney",
+        "en": "José Sarney",
+        "eo": "José Sarney",
+        "es": "José Sarney",
+        "eu": "José Sarney",
+        "fa": "ژوزه سارنی",
+        "fi": "José Sarney",
+        "fr": "José Sarney",
+        "gl": "José Sarney",
+        "he": "ז'וזה סרניי",
+        "id": "José Sarney",
+        "io": "José Sarney",
+        "is": "José Sarney",
+        "it": "José Sarney",
+        "ja": "ジョゼ・サルネイ",
+        "ka": "ჟოზე სარნეი",
+        "ki": "José Sarney",
+        "ko": "조제 사르네이",
+        "la": "Iosephus Sarney",
+        "mg": "José Sarney",
+        "mzn": "خوزه سارنی",
+        "nl": "José Sarney",
+        "no": "José Sarney",
+        "oc": "José Sarney",
+        "pl": "José Sarney",
+        "pt": "José Sarney",
+        "ru": "Сарней, Жозе",
+        "simple": "José Sarney",
+        "sv": "José Sarney",
+        "tg": "Жузе Сорнӣ",
+        "th": "ฌูแซ ซาร์เนย์",
+        "tr": "José Sarney",
+        "uk": "Жозе Сарней",
+        "vi": "José Sarney",
+        "wuu": "若泽·萨尔内",
+        "yo": "José Sarney",
+        "zh_yue": "薩爾內",
+        "zh": "若泽·萨尔内"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "pt",
+          "term": "José Sarney",
+          "volume": 2250
+        }
+      ],
+      "newsUrls": [],
+      "spike": 0,
+      "score": 65,
+      "decision": "reject",
+      "reasons": [
+        "pageview spike 0.0x is below 2x"
+      ],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q121147850",
       "name": "Rui Borges",
       "description": "Portuguese football coach and former player (1981-)",
@@ -22406,6 +22453,43 @@
       "onSite": true
     },
     {
+      "wikidataId": "Q3287003",
+      "name": "Manuela Lopez",
+      "description": "French singer and actress",
+      "category": "artists",
+      "occupations": [
+        "actor",
+        "singer"
+      ],
+      "birthYear": 1972,
+      "deathYear": null,
+      "sitelinks": 2,
+      "wikipedia": {
+        "de": "Manuela Lopez",
+        "fr": "Manuela Lopez"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "FR",
+          "term": "manuela lopez",
+          "volume": 200
+        }
+      ],
+      "newsUrls": [
+        "https://www.purepeople.com/article/repose-en-paix-manuela-lopez-mysteres-de-lamour-a-perdu-un-etre-cher-ses-celebres-amis-se-manifestent_a555769/1",
+        "https://www.gala.fr/l_actu/news_de_stars/manuela-lopez-le-coeur-brise-effondree-malgre-une-bonne-nouvelle-sur-sa-sante-l-ancienne-actrice-des-mysteres-de-l-amour-pleure-la-mort-d-un-etre-cher-20261102",
+        "https://www.voici.fr/celebrites/romeo-s-est-eteint-dans-mes-bras-a-6-ans-et-demi-manuela-lopez-aneantie-elle-pleure-la-mort-d-un-etre-cher-a-son-coeur-831035"
+      ],
+      "spike": 5.1,
+      "score": 65,
+      "decision": "reject",
+      "reasons": [
+        "only 2 Wikipedia editions (needs 5)"
+      ],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q3291890",
       "name": "Marie-Hélène Lafon",
       "description": "French writer and school teacher (born 1962)",
@@ -22441,7 +22525,7 @@
       "newsUrls": [
         "https://www.lefigaro.fr/livres/le-prix-renaudot-2026-attribue-a-francois-henri-deserable-20261103",
         "https://www.livreshebdo.fr/article/francois-henri-deserable-laureat-du-prix-renaudot-2026",
-        "https://www.ouest-france.fr/culture/livres/prix-renaudot/le-prix-renaudot-2026-decerne-a-francois-henri-deserable-pour-le-palais-5ba238c0-d766-11f1-a1e1-ae8104d72c9a"
+        "https://fr.news.yahoo.com/sport/remis-foul%C3%A9e-goncourt-prix-renaudot-120107578.html"
       ],
       "spike": 0.8,
       "score": 65,
@@ -22547,6 +22631,53 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q7846807",
+      "name": "Troy Dale Jackson",
+      "description": "American politician",
+      "category": null,
+      "occupations": [
+        "politician",
+        "historian",
+        "parson"
+      ],
+      "birthYear": 1968,
+      "deathYear": null,
+      "sitelinks": 11,
+      "wikipedia": {
+        "ar": "تروي جاكسون",
+        "azb": "تروی جکسون (سیاستچی)",
+        "de": "Troy Jackson",
+        "en": "Troy Jackson",
+        "es": "Troy Jackson",
+        "fr": "Troy Jackson",
+        "he": "טרוי ג'קסון",
+        "hu": "Troy Jackson",
+        "ko": "트로이 잭슨 (정치인)",
+        "ru": "Джексон, Трой",
+        "simple": "Troy Jackson"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "US",
+          "term": "troy jackson",
+          "volume": 200
+        }
+      ],
+      "newsUrls": [
+        "https://www.washingtonpost.com/politics/2026/11/03/susan-collins-makes-her-last-stand-showing-off-what-she-delivered-maine/",
+        "https://komonews.com/news/nation-world/collins-jackson-face-off-in-high-stakes-maine-senate-race-republican-sen-susan-collins-democratic-challenger-troy-jackson-donald-trump?teaserSource=trending",
+        "https://www.nbcnews.com/politics/2026-elections/maine-senate-results"
+      ],
+      "spike": 1.6,
+      "score": 64,
+      "decision": "reject",
+      "reasons": [
+        "no matching site category"
+      ],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q17477991",
       "name": "Diego Mendoza",
       "description": "Argentinian association football player",
@@ -22582,68 +22713,44 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q729048",
-      "name": "Olavo de Carvalho",
-      "description": "Brazilian journalist, writer, astrologer, essayist, polemicist, digital influencer and ideologue (1947-2022)",
-      "category": null,
+      "wikidataId": "Q87676",
+      "name": "Alexander Held",
+      "description": "German actor (1958–2026)",
+      "category": "artists",
       "occupations": [
-        "essayist",
-        "journalist",
-        "lecturer",
-        "literary critic",
-        "astrologer",
-        "debater",
-        "conspiracy theorist",
-        "editor",
-        "philosopher"
+        "actor"
       ],
-      "birthYear": 1947,
-      "deathYear": 2022,
-      "sitelinks": 27,
+      "birthYear": 1957,
+      "deathYear": 2026,
+      "sitelinks": 12,
       "wikipedia": {
-        "ar": "أولافو دي كارفالو",
-        "arz": "اولاڤو د كارڤالهو",
-        "bg": "Олаво де Карвальо",
-        "ca": "Olavo de Carvalho",
-        "de": "Olavo de Carvalho",
-        "en": "Olavo de Carvalho",
-        "eo": "Olavo de Carvalho",
-        "es": "Olavo de Carvalho",
-        "et": "Olavo de Carvalho",
-        "eu": "Olavo de Carvalho",
-        "fi": "Olavo de Carvalho",
-        "fr": "Olavo de Carvalho",
-        "gl": "Olavo de Carvalho",
-        "hu": "Olavo de Carvalho",
-        "ja": "オラーヴォ・デ・カルヴァリョ",
-        "ko": "올라부 지 카르발류",
-        "la": "Olavus de Carvalho",
-        "nl": "Olavo de Carvalho",
-        "no": "Olavo de Carvalho",
-        "pt": "Olavo de Carvalho",
-        "ro": "Olavo de Carvalho",
-        "ru": "Карвалью, Олаву ди",
-        "simple": "Olavo de Carvalho",
-        "sl": "Olavo de Carvalho",
-        "sv": "Olavo de Carvalho",
-        "tr": "Olavo de Carvalho",
-        "uk": "Олаву ді Карвалью"
+        "ar": "ألكسندر هيلد",
+        "arz": "هيلد جيرالد الكسندر",
+        "cs": "Alexander Held",
+        "de": "Alexander Held",
+        "en": "Alexander Held",
+        "eo": "Alexander Held",
+        "es": "Alexander Held",
+        "fr": "Alexander Held",
+        "it": "Alexander Held",
+        "ja": "アレクサンダー・ヘルト",
+        "la": "Alexander Held",
+        "vo": "Alexander Held"
       },
       "signals": [
         {
           "source": "wikipedia-top",
-          "where": "pt",
-          "term": "Olavo de Carvalho",
-          "volume": 2203
+          "where": "de",
+          "term": "Alexander Held",
+          "volume": 4345
         }
       ],
       "newsUrls": [],
-      "spike": 1,
+      "spike": 2.5,
       "score": 64,
-      "decision": "reject",
+      "decision": "accept",
       "reasons": [
-        "no matching site category",
-        "pageview spike 1.0x is below 2x"
+        "recent death, write with care"
       ],
       "onSite": false
     },
@@ -22814,62 +22921,58 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q123693068",
-      "name": "Jaafar Jackson",
-      "description": "American actor",
-      "category": "artists",
+      "wikidataId": "Q61625543",
+      "name": "Luisa Neubauer",
+      "description": "German climate activist",
+      "category": "creators",
       "occupations": [
-        "singer",
-        "dancer",
-        "actor"
+        "climate activist",
+        "blogger",
+        "environmentalist",
+        "non-fiction writer",
+        "geographer",
+        "podcaster"
       ],
       "birthYear": 1996,
       "deathYear": null,
-      "sitelinks": 36,
+      "sitelinks": 29,
       "wikipedia": {
-        "ar": "جعفر جاكسون",
-        "arz": "جعفر جاكسون",
-        "bh": "जाफर जैक्सन",
-        "bn": "জাফর জ্যাকসন",
-        "ca": "Jaafar Jackson",
-        "ckb": "جەعفەر جاکسن",
-        "de": "Jaafar Jackson",
-        "en": "Jaafar Jackson",
-        "es": "Jaafar Jackson",
-        "et": "Jaafar Jackson",
-        "fa": "جعفر جکسون",
-        "fr": "Jaafar Jackson",
-        "he": "ג'אפר ג'קסון",
-        "hu": "Jaafar Jackson",
-        "id": "Jaafar Jackson",
-        "it": "Jaafar Jackson",
-        "ja": "ジャファー・ジャクソン",
-        "ka": "ჯაფარ ჯექსონი",
-        "ko": "자파 잭슨",
-        "ms": "Jaafar Jackson",
-        "mt": "Jaafar Jackson",
-        "mzn": "جافار جکسون",
-        "nl": "Jaafar Jackson",
-        "no": "Jaafar Jackson",
-        "pl": "Jaafar Jackson",
-        "pt": "Jaafar Jackson",
-        "ru": "Джексон, Джаафар",
-        "simple": "Jaafar Jackson",
-        "sv": "Jaafar Jackson",
-        "sw": "Jaafar Jackson",
-        "te": "జాఫర్ జాక్సన్",
-        "tr": "Jaafar Jackson",
-        "uk": "Джаафар Джексон",
-        "ur": "جعفر جیکسن",
-        "xmf": "ჯაფარ ჯექსონი",
-        "zh": "賈法·傑克森"
+        "ar": "لويزا نويباور",
+        "arz": "لويزا نيوباور",
+        "az": "Luiza Noybauer",
+        "bcl": "Luisa Neubauer",
+        "ca": "Luisa Neubauer",
+        "cs": "Luisa Neubauerová",
+        "cy": "Luisa Neubauer",
+        "de": "Luisa Neubauer",
+        "el": "Λουίζα Νοϊμπάουερ",
+        "en": "Luisa Neubauer",
+        "es": "Luisa Neubauer",
+        "eu": "Luisa Neubauer",
+        "fa": "لوئیزا نوی‌باوئر",
+        "fi": "Luisa Neubauer",
+        "fr": "Luisa Neubauer",
+        "gl": "Luisa Neubauer",
+        "ha": "Luisa Neubauer",
+        "hy": "Լուիզա Նոյբաուեր",
+        "id": "Luisa Neubauer",
+        "it": "Luisa Neubauer",
+        "ja": "ルイーザ・ノイバウアー",
+        "mk": "Луиза Нојбаер",
+        "ml": "ലൂയിസ ന്യൂബാവർ",
+        "nl": "Luisa Neubauer",
+        "pt": "Luisa Neubauer",
+        "ru": "Нойбауэр, Луиза",
+        "sv": "Luisa Neubauer",
+        "sw": "Luisa Neubauer",
+        "uk": "Луїза Нойбауер"
       },
       "signals": [
         {
           "source": "wikipedia-top",
-          "where": "pt",
-          "term": "Jaafar Jackson",
-          "volume": 2447
+          "where": "de",
+          "term": "Luisa Neubauer",
+          "volume": 4128
         }
       ],
       "newsUrls": [],
@@ -23267,6 +23370,72 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q729048",
+      "name": "Olavo de Carvalho",
+      "description": "Brazilian journalist, writer, astrologer, essayist, polemicist, digital influencer and ideologue (1947-2022)",
+      "category": null,
+      "occupations": [
+        "essayist",
+        "journalist",
+        "lecturer",
+        "literary critic",
+        "astrologer",
+        "debater",
+        "conspiracy theorist",
+        "editor",
+        "philosopher"
+      ],
+      "birthYear": 1947,
+      "deathYear": 2022,
+      "sitelinks": 27,
+      "wikipedia": {
+        "ar": "أولافو دي كارفالو",
+        "arz": "اولاڤو د كارڤالهو",
+        "bg": "Олаво де Карвальо",
+        "ca": "Olavo de Carvalho",
+        "de": "Olavo de Carvalho",
+        "en": "Olavo de Carvalho",
+        "eo": "Olavo de Carvalho",
+        "es": "Olavo de Carvalho",
+        "et": "Olavo de Carvalho",
+        "eu": "Olavo de Carvalho",
+        "fi": "Olavo de Carvalho",
+        "fr": "Olavo de Carvalho",
+        "gl": "Olavo de Carvalho",
+        "hu": "Olavo de Carvalho",
+        "ja": "オラーヴォ・デ・カルヴァリョ",
+        "ko": "올라부 지 카르발류",
+        "la": "Olavus de Carvalho",
+        "nl": "Olavo de Carvalho",
+        "no": "Olavo de Carvalho",
+        "pt": "Olavo de Carvalho",
+        "ro": "Olavo de Carvalho",
+        "ru": "Карвалью, Олаву ди",
+        "simple": "Olavo de Carvalho",
+        "sl": "Olavo de Carvalho",
+        "sv": "Olavo de Carvalho",
+        "tr": "Olavo de Carvalho",
+        "uk": "Олаву ді Карвалью"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "pt",
+          "term": "Olavo de Carvalho",
+          "volume": 2203
+        }
+      ],
+      "newsUrls": [],
+      "spike": 0,
+      "score": 61,
+      "decision": "reject",
+      "reasons": [
+        "no matching site category",
+        "pageview spike 0.0x is below 2x"
+      ],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q3069485",
       "name": "Fernando Haddad",
       "description": "Brazilian politician, 51st mayor of São Paulo (2013–2017) and former Brazilian Finance Minister",
@@ -23498,48 +23667,6 @@
       "decision": "reject",
       "reasons": [
         "pageview spike 0.9x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
-      "wikidataId": "Q20535248",
-      "name": "Miguel Tellado",
-      "description": "Spanish politician (born 1974)",
-      "category": null,
-      "occupations": [
-        "politician"
-      ],
-      "birthYear": 1974,
-      "deathYear": null,
-      "sitelinks": 8,
-      "wikipedia": {
-        "ar": "ميجيل تيلادو",
-        "ast": "Miguel Tellado",
-        "ca": "Miguel Tellado",
-        "en": "Miguel Tellado",
-        "es": "Miguel Tellado",
-        "eu": "Miguel Tellado",
-        "fr": "Miguel Tellado",
-        "gl": "Miguel Tellado"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "ES",
-          "term": "miguel tellado",
-          "volume": 200
-        }
-      ],
-      "newsUrls": [
-        "https://www.rtve.es/noticias/20261103/tellado-pp-puente-irresponsable-sistema-lzb-habia-fallado/17297038.shtml",
-        "https://www.abc.es/espana/tellado-abronca-directo-intxaurrondo-urda-insultado-votantes-20261103111332-nt.html",
-        "https://www.libertaddigital.com/espana/politica/2026-11-03/tellado-destroza-a-intxaurrondo-en-una-entrevista-en-la-que-le-ha-preguntado-mas-por-la-dana-que-por-urda-7485761/"
-      ],
-      "spike": 0.9,
-      "score": 60,
-      "decision": "reject",
-      "reasons": [
-        "no matching site category"
       ],
       "onSite": false
     },
@@ -24089,6 +24216,44 @@
       "onSite": false
     },
     {
+      "wikidataId": "Q5702183",
+      "name": "Aracely Escalante Jasso",
+      "description": "Mexican politician",
+      "category": null,
+      "occupations": [
+        "politician"
+      ],
+      "birthYear": 1943,
+      "deathYear": null,
+      "sitelinks": 3,
+      "wikipedia": {
+        "arz": "اراسيلى اسكالانت چاسو",
+        "en": "Aracely Escalante Jasso",
+        "es": "Aracely Escalante Jasso"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "MX",
+          "term": "inapam",
+          "volume": 5000
+        }
+      ],
+      "newsUrls": [
+        "https://www.merca20.com/renovar-la-tarjeta-inapam-en-noviembre-de-2026-requisitos-y-casos-obligatorios-en-los-que-necesitas-tramitar-una-nueva/",
+        "https://www.ambito.com/mexico/economia/claudia-sheinbaum-le-deposita-9500-y-le-asegura-aguinaldo-miles-adultos-mayores-credencial-inapam-requisitos-y-como-registrarse-noviembre-2026-n6340502",
+        "https://www.informador.mx/economia/aguinaldo-para-adultos-mayores-con-inapam-requisitos-y-cuanto-dinero-les-toca-20261102-0113.html"
+      ],
+      "spike": 0,
+      "score": 58,
+      "decision": "reject",
+      "reasons": [
+        "only 3 Wikipedia editions (needs 5)",
+        "no matching site category"
+      ],
+      "onSite": false
+    },
+    {
       "wikidataId": "Q2875339",
       "name": "Aécio Neves",
       "description": "Brazilian economist, politician, and former Governor of Minas Gerais",
@@ -24254,44 +24419,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q5702183",
-      "name": "Aracely Escalante Jasso",
-      "description": "Mexican politician",
-      "category": null,
-      "occupations": [
-        "politician"
-      ],
-      "birthYear": 1943,
-      "deathYear": null,
-      "sitelinks": 3,
-      "wikipedia": {
-        "arz": "اراسيلى اسكالانت چاسو",
-        "en": "Aracely Escalante Jasso",
-        "es": "Aracely Escalante Jasso"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "MX",
-          "term": "inapam",
-          "volume": 2000
-        }
-      ],
-      "newsUrls": [
-        "https://www.merca20.com/renovar-la-tarjeta-inapam-en-noviembre-de-2026-requisitos-y-casos-obligatorios-en-los-que-necesitas-tramitar-una-nueva/",
-        "https://www.ambito.com/mexico/economia/claudia-sheinbaum-le-deposita-9500-y-le-asegura-aguinaldo-miles-adultos-mayores-credencial-inapam-requisitos-y-como-registrarse-noviembre-2026-n6340502",
-        "https://www.informador.mx/economia/aguinaldo-para-adultos-mayores-con-inapam-requisitos-y-cuanto-dinero-les-toca-20261102-0113.html"
-      ],
-      "spike": 0,
-      "score": 57,
-      "decision": "reject",
-      "reasons": [
-        "only 3 Wikipedia editions (needs 5)",
-        "no matching site category"
-      ],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q141178761",
       "name": "China Ansa",
       "description": "Argentine journalist and television host",
@@ -24421,36 +24548,36 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q87676",
-      "name": "Alexander Held",
-      "description": "German actor (1958–2026)",
-      "category": "artists",
+      "wikidataId": "Q127940381",
+      "name": "María Montserrat Alvarado",
+      "description": "Mexican journalist and reporter",
+      "category": null,
       "occupations": [
-        "actor"
+        "journalist"
       ],
-      "birthYear": 1957,
-      "deathYear": 2026,
+      "birthYear": 1986,
+      "deathYear": null,
       "sitelinks": 12,
       "wikipedia": {
-        "ar": "ألكسندر هيلد",
-        "arz": "هيلد جيرالد الكسندر",
-        "cs": "Alexander Held",
-        "de": "Alexander Held",
-        "en": "Alexander Held",
-        "eo": "Alexander Held",
-        "es": "Alexander Held",
-        "fr": "Alexander Held",
-        "it": "Alexander Held",
-        "ja": "アレクサンダー・ヘルト",
-        "la": "Alexander Held",
-        "vo": "Alexander Held"
+        "ca": "Maria Montserrat Alvarado",
+        "cs": "Maria Montserrat Alvarado",
+        "de": "Montse Alvarado",
+        "en": "Montse Alvarado",
+        "es": "María Montserrat Alvarado",
+        "fr": "María Montserrat Alvarado",
+        "id": "Maria Montserrat Alvarado",
+        "it": "Maria Montserrat Alvarado",
+        "pt": "Maria Montserrat Alvarado",
+        "ru": "Альварадо, Мария Монсеррат",
+        "uk": "Марія Монтсеррат Альварадо",
+        "vi": "Maria Montserrat Alvarado"
       },
       "signals": [
         {
           "source": "wikipedia-top",
           "where": "de",
-          "term": "Alexander Held",
-          "volume": 4345
+          "term": "Montse Alvarado",
+          "volume": 4141
         }
       ],
       "newsUrls": [],
@@ -24458,7 +24585,7 @@
       "score": 57,
       "decision": "reject",
       "reasons": [
-        "recent death, write with care",
+        "no matching site category",
         "pageview spike 0.0x is below 2x"
       ],
       "onSite": false
@@ -24503,6 +24630,39 @@
       "decision": "reject",
       "reasons": [
         "pageview spike 0.9x is below 2x"
+      ],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q138007309",
+      "name": "Ino Casablanca",
+      "description": "French singer-songwriter-performer",
+      "category": "artists",
+      "occupations": [
+        "rapper",
+        "singer"
+      ],
+      "birthYear": 2000,
+      "deathYear": null,
+      "sitelinks": 2,
+      "wikipedia": {
+        "en": "Ino Casablanca",
+        "fr": "Ino Casablanca"
+      },
+      "signals": [
+        {
+          "source": "wikipedia-top",
+          "where": "fr",
+          "term": "Ino Casablanca",
+          "volume": 3492
+        }
+      ],
+      "newsUrls": [],
+      "spike": 3.9,
+      "score": 57,
+      "decision": "reject",
+      "reasons": [
+        "only 2 Wikipedia editions (needs 5)"
       ],
       "onSite": false
     },
@@ -24696,6 +24856,43 @@
       "reasons": [
         "no matching site category",
         "pageview spike 0.6x is below 2x"
+      ],
+      "onSite": false
+    },
+    {
+      "wikidataId": "Q5995739",
+      "name": "Marcelo Bonelli",
+      "description": "Argentinian journalist",
+      "category": null,
+      "occupations": [
+        "journalist"
+      ],
+      "birthYear": 1955,
+      "deathYear": null,
+      "sitelinks": 2,
+      "wikipedia": {
+        "es": "Marcelo Bonelli",
+        "simple": "Marcelo Bonelli"
+      },
+      "signals": [
+        {
+          "source": "google-trends",
+          "where": "AR",
+          "term": "marcelo bonelli",
+          "volume": 500
+        }
+      ],
+      "newsUrls": [
+        "https://www.lanacion.com.ar/espectaculos/la-muerte-de-marcela-giorgi-cormillot-tarico-feinmann-y-otras-figuras-despidieron-a-la-locutora-nid01112026/",
+        "https://radiomitre.cienradios.com/videos/que-nos-siga-guiando-desde-donde-este-la-conmovedora-despedida-de-sandra-borghi-a-marcela-giorgi/",
+        "https://www.ciudad.com.ar/espectaculos/2026/10/31/de-que-murio-marcela-giorgi-la-historica-locutora-de-radio-mitre/"
+      ],
+      "spike": 1.3,
+      "score": 55,
+      "decision": "reject",
+      "reasons": [
+        "only 2 Wikipedia editions (needs 5)",
+        "no matching site category"
       ],
       "onSite": false
     },
@@ -25259,7 +25456,7 @@
       "newsUrls": [
         "https://www.t-online.de/unterhaltung/tv/id_101510388/-gute-zeiten-schlechte-zeiten-tv-star-unterbricht-dreharbeiten.html",
         "https://www.rtl.de/sendungen/gzsz/videos/gzsz-pause-fuer-let-s-dance-jan-kittmann-schwingt-wieder-das-tanzbein-6ae470aedb193a57800c6646.html",
-        "https://www.kino.de/news/gzsz-star-jan-kittmann-legt-erneute-pause-ein-und-deutet-spannende-wendung-an--01M6G8CFYEVZVQT874R3WNAJGZ"
+        "https://www.hoerzu.de/aktuelles/gzsz-tobias-verlaesst-den-kiez---darum-legt-jan-kittmann-eine-pause-ein/"
       ],
       "spike": 1.2,
       "score": 52,
@@ -25592,42 +25789,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q3189446",
-      "name": "Julien Da Costa",
-      "description": "French motorcycle racer",
-      "category": null,
-      "occupations": [
-        "motorcycle racer"
-      ],
-      "birthYear": 1981,
-      "deathYear": null,
-      "sitelinks": 1,
-      "wikipedia": {
-        "fr": "Julien Da Costa"
-      },
-      "signals": [
-        {
-          "source": "google-trends",
-          "where": "FR",
-          "term": "gsx 10r",
-          "volume": 500
-        }
-      ],
-      "newsUrls": [
-        "https://www.caradisiac.com/enfin-une-remplacante-pour-la-gsx-r1000-la-suzuki-gsx-10r-224756.htm",
-        "https://moto-station.com/moto-revue/nouveautes-moto/suzuki-gsx-10r-le-pari-de-lhypersport-abordable/734929",
-        "https://www.lerepairedesmotards.com/actualites/2026/sportive-suzuki-gsx-10r.php"
-      ],
-      "spike": 0,
-      "score": 48,
-      "decision": "reject",
-      "reasons": [
-        "only 1 Wikipedia editions (needs 5)",
-        "no matching site category"
-      ],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q111917943",
       "name": "Rafael Fonteles",
       "description": "Brazilian politician",
@@ -25729,40 +25890,6 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q138007309",
-      "name": "Ino Casablanca",
-      "description": "French singer-songwriter-performer",
-      "category": "artists",
-      "occupations": [
-        "rapper",
-        "singer"
-      ],
-      "birthYear": 2000,
-      "deathYear": null,
-      "sitelinks": 2,
-      "wikipedia": {
-        "en": "Ino Casablanca",
-        "fr": "Ino Casablanca"
-      },
-      "signals": [
-        {
-          "source": "wikipedia-top",
-          "where": "fr",
-          "term": "Ino Casablanca",
-          "volume": 3492
-        }
-      ],
-      "newsUrls": [],
-      "spike": 0,
-      "score": 46,
-      "decision": "reject",
-      "reasons": [
-        "only 2 Wikipedia editions (needs 5)",
-        "pageview spike 0.0x is below 2x"
-      ],
-      "onSite": false
-    },
-    {
       "wikidataId": "Q130321125",
       "name": "Luis Pedro Marco",
       "description": "",
@@ -25860,25 +25987,28 @@
       "onSite": false
     },
     {
-      "wikidataId": "Q24435957",
-      "name": "Tanja Ziegler",
-      "description": "German film producer",
-      "category": null,
+      "wikidataId": "Q1428994",
+      "name": "Thomas Stipsits",
+      "description": "Austrian actor",
+      "category": "artists",
       "occupations": [
-        "film producer"
+        "actor",
+        "film actor",
+        "cabaret performer",
+        "writer"
       ],
-      "birthYear": 1966,
+      "birthYear": 1983,
       "deathYear": null,
       "sitelinks": 1,
       "wikipedia": {
-        "de": "Tanja Ziegler"
+        "de": "Thomas Stipsits"
       },
       "signals": [
         {
           "source": "wikipedia-top",
           "where": "de",
-          "term": "Tanja Ziegler",
-          "volume": 4215
+          "term": "Thomas Stipsits",
+          "volume": 4149
         }
       ],
       "newsUrls": [],
@@ -25887,7 +26017,6 @@
       "decision": "reject",
       "reasons": [
         "only 1 Wikipedia editions (needs 5)",
-        "no matching site category",
         "pageview spike 0.0x is below 2x"
       ],
       "onSite": false

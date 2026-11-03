@@ -1,0 +1,124 @@
+{
+  "date": "2026-11-03",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 10 September 1995 in Columbus, Ohio; raised in North Lewisburg, New Albany, Mount Vernon",
+      "sourceIds": [
+        "tmdb-rife",
+        "martincid-rife"
+      ],
+      "verdict": "confirmed",
+      "note": "Source page states this."
+    },
+    {
+      "claim": "At 14 a teacher mentioned a talent show; professional a year later",
+      "sourceIds": [
+        "martincid-rife"
+      ],
+      "verdict": "confirmed",
+      "note": "Source page states this."
+    },
+    {
+      "claim": "Joined Wild 'N Out in 2015; TRL co-host and The Challenge in 2017; Black Pumpkin 2018; Bring the Funny 2019 eliminated week eight",
+      "sourceIds": [
+        "martincid-rife"
+      ],
+      "verdict": "confirmed",
+      "note": "Source page states this."
+    },
+    {
+      "claim": "Signed with CAA December 2022; Only Fans 2021; Walking Red Flag June 2023; Unwrapped Dec 2025",
+      "sourceIds": [
+        "martincid-rife",
+        "bww-lucid"
+      ],
+      "verdict": "confirmed",
+      "note": "Source page states this."
+    },
+    {
+      "claim": "TikTok crowd work from summer 2022, 18 million followers Nov 2023",
+      "sourceIds": [
+        "today-natural-selection"
+      ],
+      "verdict": "confirmed",
+      "note": "Source page states this."
+    },
+    {
+      "claim": "Natural Selection released 15 Nov 2023, filmed in Washington, D.C.; opening joke backlash; apology 20 Nov 2023 linking to helmet site",
+      "sourceIds": [
+        "today-natural-selection",
+        "netflix-natural-selection"
+      ],
+      "verdict": "confirmed",
+      "note": "Source page states this."
+    },
+    {
+      "claim": "10.3 million views in two weeks, Top 10 in 42 countries; 600,000 tickets in under 48 hours; Dolby Theater, Mohegan Sun, Hollywood Bowl; two-special deal",
+      "sourceIds": [
+        "bww-lucid"
+      ],
+      "verdict": "confirmed",
+      "note": "Source page states this."
+    },
+    {
+      "claim": "Lucid released 13 Aug 2024, Comedy Zone Charlotte, first Netflix crowd work special; Walking Red Flag 13 million views",
+      "sourceIds": [
+        "netflix-lucid"
+      ],
+      "verdict": "confirmed",
+      "note": "Source page states this."
+    },
+    {
+      "claim": "Stay Golden World Tour by Live Nation; Red Rocks 18 Oct 2026; 60+ shows in 10+ countries; final date Oklahoma City 29 Dec 2026",
+      "sourceIds": [
+        "oklahoman-tour",
+        "red-rocks-stay-golden"
+      ],
+      "verdict": "confirmed",
+      "note": "Source page states this."
+    },
+    {
+      "claim": "The Altruists, eight episodes, 19 Nov 2026; Rife plays Ryan Salame, series regular; casting reported 10 July 2025",
+      "sourceIds": [
+        "netflix-altruists",
+        "thewrap-altruists"
+      ],
+      "verdict": "confirmed",
+      "note": "Source page states this."
+    },
+    {
+      "claim": "Annabelle purchase Aug 2025 with Elton Castee, Monroe CT, about 750 items, five years; Spera says items leased; representative confirmed 2 Aug",
+      "sourceIds": [
+        "boston-annabelle",
+        "aol-net-worth"
+      ],
+      "verdict": "confirmed",
+      "note": "Source page states this."
+    },
+    {
+      "claim": "AOL reports 2024 tour $60M, 733,000 tickets, 256 shows without naming a source; Celebrity Net Worth $40M; inconsistent Forbes $50M wording",
+      "sourceIds": [
+        "aol-net-worth"
+      ],
+      "verdict": "confirmed",
+      "note": "Page flags these as unconfirmed/inconsistent, which matches the source."
+    },
+    {
+      "claim": "Scrubs revival role Logan Nichols; Rolling Loud: The Movie US release 2 October",
+      "sourceIds": [
+        "martincid-rife"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated by one secondary source only; flagged as such is not needed but claim matches the page."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Sourced timeline, specials table, tour numbers and the disputed Annabelle arrangement.",
+  "decision": "approve",
+  "summary": "All checked claims match the cited pages; weak-source figures are flagged as unconfirmed in the text."
+}

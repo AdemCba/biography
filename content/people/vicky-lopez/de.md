@@ -1,11 +1,10 @@
 ---
 title: Vicky López
 slug: vicky-lopez
-metaTitle: 'Vicky López ist {age}: Alter, Verein und Kopa-Trophäe'
+metaTitle: 'Vicky López ({age}): Barça-Profi mit 16, Nr. 19, zwei Kopas'
 metaDescription: >-
-  Vicky López ist {age} Jahre alt (geboren am 26. Juli 2006). Die
-  Mittelfeldspielerin des FC Barcelona gewann am 26. Oktober 2026 erneut die
-  Kopa-Trophäe.
+  Vicky López ist {age}, trägt die Nummer 19 und wechselte an ihrem 16.
+  Geburtstag zum FC Barcelona. So wurde sie zur zweifachen Kopa-Siegerin.
 knownFor: >-
   Mittelfeldspielerin des FC Barcelona und Spaniens, zweifache Gewinnerin der
   Kopa-Trophäe
@@ -18,6 +17,7 @@ status: published
 risk: medium
 reviewedAt: '2026-10-28'
 reviewBy: '2027-04-28'
+updatedAt: '2026-11-03'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -29,6 +29,10 @@ targetQueries:
   - Vicky López Nationalmannschaft
   - Vicky López Ballon d'Or 2026
   - Vicky López Geburtstag
+  - wie alt ist Vicky López
+  - Viki López
+  - Vicki López
+  - Vicky López Rückennummer
 faq:
   - q: Wie alt ist Vicky López?
     a: >-
@@ -47,6 +51,9 @@ faq:
       In der Ligatabelle der Liga F stehen zehn Tore und neun Vorlagen in 28
       Spielen [s:ligaf-player-2026]. Just Women’s Sports nennt zwölf Tore und 13
       Vorlagen in 45 Spielen [s:justwomenssports-kopa-2026].
+  - q: Welche Rückennummer trägt Vicky López?
+    a: >-
+      Die Nummer 19 beim FC Barcelona laut Klubprofil [s:fcb-profile-es].
 autoReviews: 2
 publishedAt: '2026-10-28'
 ---
@@ -81,6 +88,10 @@ Von ihrer Nominierung erfuhr sie, während sie für eine Prüfung lernte [s:socc
 Ihr Länderspieldebüt gab sie am 23. Februar 2024 im Halbfinale der UEFA Women’s Nations League gegen die Niederlande [s:eldesmarque-debut-2024]. Spanien gewann 3:0. Jenni Hermoso und Aitana Bonmatí trafen in der ersten Halbzeit, Ona Batlle in der zweiten [s:soccerway-debut-2024].
 
 Sie kam für Jenni Hermoso knapp eine Viertelstunde vor Schluss ins Spiel. Das dritte Tor fiel vier Minuten nach ihrer Einwechslung [s:soccerway-debut-2024]. Trainerin Montse Tomé hatte ihr laut Soccerway aufgetragen, mehr Ball zu haben und das Spiel zu beruhigen [s:soccerway-debut-2024]. Laut El Desmarque war sie mit 17 Jahren die jüngste Spielerin, die je ein A-Länderspiel für Spanien bestritt [s:eldesmarque-debut-2024]. Sie sagte: „Soy vergonzosa. No me gustan estas cosas, pero agradezco el apoyo“, also: Sie sei schüchtern, mag solche Dinge nicht, schätze aber die Unterstützung [s:soccerway-debut-2024].
+
+## Alter und Rückennummer im Überblick
+
+Vicky López (auch als Viki oder Vicki López gesucht) ist {age} Jahre alt, geboren am 26. Juli 2006 in Madrid [s:fcb-profile-es]. Beim FC Barcelona trägt sie die Rückennummer 19 [s:fcb-profile-es]. Dorthin wechselte sie am 26. Juli 2022, ihrem 16. Geburtstag [s:fcb-joins-2022].
 
 ## Mittelfeld, auch auf dem Flügel
 

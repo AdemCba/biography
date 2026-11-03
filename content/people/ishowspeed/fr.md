@@ -65,7 +65,7 @@ Il a remporté le prix du streamer de l'année aux Streamer Awards 2024 et 2025 
 
 La tournée Speed Does America a commencé le 28 août 2025 à Miami et a visité 25 États en 35 jours [s:cbs-us-tour]. Le marathon de diffusions s'est achevé avec la première de Speed Goes Pro [s:thewrap-premiere]. À San Francisco et à Oakland, CBS a rapporté que des foules l'ont accueilli, et que de nombreuses personnes l'ont suivi jusqu'à Fisherman's Wharf, Chinatown, l'hôtel de ville et le Golden Gate [s:cbs-us-tour].
 
-La tournée africaine a été annoncée en décembre 2025 comme un périple de 28 jours dans plus de 20 pays. À ce moment-là, il n'y avait ni point de départ confirmé ni calendrier pays par pays [s:iol-africa-tour]. Une dépêche de l'AFP depuis Accra la décrivait comme une tournée d'un mois à travers l'Afrique, qu'il était en train de terminer [s:afp-ghana].
+La tournée africaine a été annoncée en décembre 2025 comme un périple de 28 jours dans plus de 20 pays. À ce moment-là, il n'y avait ni point de départ confirmé ni calendrier pays par pays [s:iol-africa-tour]. BBC News a rapporté l'approbation du passeport alors que sa tournée africaine touchait à sa fin [s:afp-ghana].
 
 En avril 2026, une tournée dans les Caraïbes a commencé le 25 avril, avec 15 destinations, dont la Jamaïque, Trinité-et-Tobago et les îles Vierges américaines [s:thegrio-caribbean]. theGrio l'a décrite comme une nouvelle tournée de voyage, qui faisait suite à son parcours africain [s:thegrio-caribbean].
 

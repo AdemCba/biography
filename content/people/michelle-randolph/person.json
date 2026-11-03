@@ -1,0 +1,120 @@
+{
+  "id": "michelle-randolph",
+  "name": "Michelle Randolph",
+  "categories": [
+    "artists",
+    "actors"
+  ],
+  "importance": 3,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1997-09-11",
+      "sources": [
+        "taste-of-country-2024"
+      ],
+      "note": "Taste of Country (Dec 2024) says 27 at publication; Cultured (Feb 2026) and Hello (Sep 2026) say 28, consistent."
+    },
+    "birthPlace": {
+      "value": "Northern California, United States",
+      "sources": [
+        "hello-2026",
+        "taste-of-country-2024"
+      ],
+      "note": "No city given by the fetched sources."
+    },
+    "nationality": {
+      "value": [
+        "US"
+      ],
+      "sources": [
+        "hollywoodlife-2026",
+        "glass-interview-2025"
+      ]
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "taste-of-country-2024",
+      "url": "https://tasteofcountry.com/who-is-michelle-randolph-landman-1923-actor/",
+      "title": "Who Is Michelle Randolph? Landman, 1923 Star + Her Famous Sister",
+      "publisher": "Taste of Country",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "thewrap-interview-2024",
+      "url": "https://thewrap.com/landman-michelle-randolph-interview",
+      "title": "Landman star Michelle Randolph interview",
+      "publisher": "TheWrap",
+      "type": "interview",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "cultured-2026",
+      "url": "https://culturedmag.com/article/2026/02/24/film-michelle-randolph-landman-1923-scream-7/",
+      "title": "Michelle Randolph on Landman, 1923 and Scream 7",
+      "publisher": "Cultured",
+      "type": "interview",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "glass-interview-2025",
+      "url": "https://theglassmagazine.com/michelle-randolph-interview/",
+      "title": "Michelle Randolph interview",
+      "publisher": "The Glass Magazine",
+      "type": "interview",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "grazia-us-2023",
+      "url": "https://graziamagazine.com/us/articles/michelle-randolph-starring-1923/",
+      "title": "1923 Star Michelle Randolph Is Riding the Wave",
+      "publisher": "Grazia USA",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "hello-2026",
+      "url": "https://www.hellomagazine.com/us/921651/glen-powell-breaks-silence-very-serious-relationship-michelle-randolph/",
+      "title": "Glen Powell breaks silence on very serious relationship with Michelle Randolph",
+      "publisher": "Hello!",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "hollywoodlife-2026",
+      "url": "https://hollywoodlife.com/feature/who-is-glen-powell-girlfriend-michelle-randolph-5555363/",
+      "title": "Who Is Glen Powell's Girlfriend? All About Michelle Randolph",
+      "publisher": "HollywoodLife",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "rotten-tomatoes",
+      "url": "https://www.rottentomatoes.com/celebrity/michelle_randolph",
+      "title": "Michelle Randolph filmography",
+      "publisher": "Rotten Tomatoes",
+      "type": "database",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "thewrap-scream7-2026",
+      "url": "https://www.thewrap.com/creative-content/movies/scream-7-64-million-opening-box-office/",
+      "title": "Scream 7 opening weekend box office",
+      "publisher": "TheWrap",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    }
+  ]
+}

@@ -85,7 +85,7 @@ Im Mai 2020 gewann er den Free Eurovision Song Contest mit „Like I Love You“
 
 Sein drittes Album Ride enthält 15 neue Songs und erschien drei Jahre nach seinem gleichnamigen zweiten Album von 2020 [s:nico-santos-official]. Die offizielle Website nennt über eine Milliarde globale Streams [s:nico-santos-official]. Auf Ride stehen Sessions mit Álvaro Soler und ClockClock, und „Mal Amor“ ist ein Duett mit Álvaro Soler [s:nico-santos-official].
 
-Die Single „All Time High“ erschien am 24. Oktober 2025 [s:nico-santos-official]. Die Tour spielt Songs aus seinen beiden neuen Alben, und eines davon ist sein erstes unter dem Alias SANTOS [s:berlin-tickets-arena-tour].
+Die Single „All Time High“ erschien am 24. Oktober 2025 [s:nico-santos-official].
 
 Auf der offiziellen Website heißt die Tour Nico Santos Arena Tour 2026 [s:nico-santos-official]. In München läuft sie als „POV: Arena Tour 2026“ [s:muenchen-olympiahalle-pov]. Angekündigt ist sie vom 29. Oktober bis 11. November 2026 [s:berlin-tickets-arena-tour], mit einem Termin in Hamburg in der Barclays Arena [s:hamburg-tourism-barclays].
 

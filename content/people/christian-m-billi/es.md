@@ -1,10 +1,10 @@
 ---
 title: Christian Mbilli
 slug: christian-m-billi
-metaTitle: 'Christian Mbilli: edad, récord y derrota ante Canelo'
+metaTitle: 'Christian Mbilli, {age} años: de Yaundé a perder ante Canelo'
 metaDescription: >-
-  Christian Mbilli tiene 31 años. Perdió el título supermediano del CMB ante
-  Canelo Álvarez por decisión unánime en Riad el 31 de octubre de 2026.
+  Mbilli tiene {age} años. Nació en Yaundé, boxeó por Francia en Río 2016, se
+  estableció en Montreal y perdió el título del CMB ante Canelo en Riad.
 knownFor: >-
   Boxeador, excampeón supermediano del CMB, derrotado por Canelo Álvarez en Riad
   en 2026
@@ -18,6 +18,7 @@ status: published
 risk: medium
 reviewedAt: '2026-11-01'
 reviewBy: '2027-05-01'
+updatedAt: '2026-11-03'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -30,6 +31,12 @@ targetQueries:
   - christian mbilli y lester martínez
   - canelo alvarez vs christian mbilli
   - christian mbilli próxima pelea
+  - mbilli edad
+  - edad mbilli
+  - cuántos años tiene mbilli
+  - mbilli de dónde es
+  - de dónde es mbilli
+  - edad de mbilli boxeador
 faq:
   - q: ¿Cuántos años tiene Christian Mbilli?
     a: 'Nació el 26 de abril de 1995 en Yaundé, Camerún, así que tiene 31 años.'
@@ -49,11 +56,19 @@ faq:
     a: >-
       Los informes sobre el resultado no nombran su próximo combate, y tampoco
       estaba confirmado el rival de Álvarez tras la pelea.
+  - q: ¿Cuántos años tiene Mbilli, el boxeador?
+    a: >-
+      {age} años: nació el 26 de abril de 1995 en Yaundé, Camerún
+      [s:beinsports-profile].
 autoReviews: 1
 publishedAt: '2026-11-01'
 publishedTime: '2026-11-01T09:55:16.514Z'
 ---
 Christian Mbilli perdió el 31 de octubre de 2026 el título supermediano del CMB ante Canelo Álvarez, por decisión unánime a 12 asaltos [s:depor-result] [s:sundayguardian-result]. Los jueces puntuaron 115-112, 116-111 y 117-110, todas para Álvarez [s:depor-result] [s:sundayguardian-result] [s:bleacherreport-result]. Tenía 31 años y llegaba a Riad con 29 victorias y un empate, sin derrotas profesionales [s:beinsports-profile]. beIN SPORTS lo presentó antes de la pelea como el campeón invicto que se enfrentaba a Álvarez [s:beinsports-profile]. El nombre figura como Christian Mbilli en la web del CMB, y así se escribe aquí [s:wbc-profile]. Al Jazeera escribe M'billi [s:aljazeera-preview].
+
+## Edad de Mbilli y de dónde es
+
+Mbilli (el boxeador al que también buscan como M'billi) nació el 26 de abril de 1995 en Yaundé, Camerún, así que tiene {age} años [s:beinsports-profile]. Es camerunés de nacimiento: su madre se mudó a Francia cuando él era pequeño, representó a Francia en Río 2016 y después se estableció en Montreal [s:beinsports-profile] [s:wbc-profile]. La fecha de nacimiento procede de una sola fuente, beIN SPORTS; el perfil del CMB confirma Yaundé pero no da fecha.
 
 ## Riad y el contexto de Álvarez
 

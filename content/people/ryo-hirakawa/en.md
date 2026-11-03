@@ -1,10 +1,10 @@
 ---
 title: Ryo Hirakawa
 slug: ryo-hirakawa
-metaTitle: Ryo Hirakawa age 32 and his Haas F1 debut
+metaTitle: 'Ryo Hirakawa, {age}: Le Mans winner thrown into F1'
 metaDescription: >-
-  Ryo Hirakawa is 32, a two-time WEC champion and Haas reserve driver. In Mexico
-  City he qualified 19th after replacing Esteban Ocon.
+  Ryo Hirakawa is {age}. How a two-time WEC champion and Haas reserve got his
+  Mexico City F1 debut on a day's notice after Esteban Ocon was dropped.
 knownFor: Japanese WEC champion and Haas F1 reserve driver
 summary: >-
   Ryo Hirakawa is the Japanese driver Haas called up to replace Esteban Ocon for
@@ -27,7 +27,15 @@ targetQueries:
   - Ryo Hirakawa Mexico City GP
   - Ryo Hirakawa Le Mans
   - Ryo Hirakawa WEC
+  - Ryō Hirakawa age
+  - Hirakawa age
+  - how old is Ryo Hirakawa
+  - Hirakawa F1 age
 faq:
+  - q: How old is Ryo Hirakawa, the Haas F1 driver?
+    a: >-
+      He is 32. The Haas profile gives his birth date as 7 March 1994
+      [s:haas-profile].
   - q: How old is Ryo Hirakawa?
     a: 'He was born on 7 March 1994, so he is 32 as of 1 November 2026.'
   - q: Where is Ryo Hirakawa from?
@@ -48,7 +56,7 @@ faq:
     a: >-
       He was Alpine's official test and reserve driver before he joined Haas as
       reserve driver in April 2025 [s:haas-profile] [s:f1-reserve-driver-2025].
-updatedAt: '2026-11-02'
+updatedAt: '2026-11-03'
 autoReviews: 1
 publishedAt: '2026-11-01'
 publishedTime: '2026-11-01T21:38:16.092Z'
@@ -56,6 +64,10 @@ publishedTime: '2026-11-01T21:38:16.092Z'
 Haas dropped Esteban Ocon for the rest of the 2026 Mexico City Grand Prix weekend and gave no reason for the change. The team confirmed that Ocon was not ill [s:racefans-ocon-replacement-2026]. Ryo Hirakawa, 32, was called up on Saturday morning, before qualifying [s:f1-dream-come-true-2026] [s:f1-ocon-replacement-2026].
 
 He was due to partner Ollie Bearman through final practice and qualifying [s:f1-ocon-replacement-2026]. Formula 1 described Sunday's 71-lap race as his first Grand Prix start [s:f1-ocon-replacement-2026].
+
+## How old is Ryo Hirakawa?
+
+Ryo Hirakawa (Ryō in Japanese romanisation) was born on 7 March 1994 in Hiroshima, so he is 32 as of November 2026 [s:haas-profile]. That makes him a late-career F1 debutant by modern standards, after a decade of Super Formula, Super GT and Toyota's Le Mans programme rather than the usual junior ladder [s:haas-profile]. One racing database gives a wrong 2026 date, so the Haas profile is the source used here.
 
 ## November 2026
 

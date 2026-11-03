@@ -63,7 +63,7 @@ He won Streamer of the Year at the 2024 and 2025 Streamer Awards [s:timeslive-pr
 
 The Speed Does America tour began on 28 August 2025 in Miami and visited 25 states over 35 days [s:cbs-us-tour]. The livestream marathon ended with the premiere of Speed Goes Pro [s:thewrap-premiere]. In San Francisco and Oakland, CBS reported that crowds greeted him, and that scores of people followed him past Fisherman's Wharf, Chinatown, City Hall and the Golden Gate Bridge [s:cbs-us-tour].
 
-The African trip was announced in December 2025 as a 28-day tour of more than 20 countries. At the time there was no confirmed starting point and no country-by-country schedule [s:iol-africa-tour]. AFP's dispatch from Accra described it as a month-long tour of Africa that he was wrapping up [s:afp-ghana].
+The African trip was announced in December 2025 as a 28-day tour of more than 20 countries. At the time there was no confirmed starting point and no country-by-country schedule [s:iol-africa-tour]. BBC News reported the passport approval as his Africa tour was ending [s:afp-ghana].
 
 In April 2026 he began a Caribbean tour on 25 April, with 15 destinations including Jamaica, Trinidad and Tobago and the U.S. Virgin Islands [s:thegrio-caribbean]. theGrio described it as a new travel tour that followed his African journey [s:thegrio-caribbean].
 

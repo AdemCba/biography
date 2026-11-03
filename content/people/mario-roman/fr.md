@@ -55,7 +55,7 @@ Mario Román est un pilote espagnol de hard enduro né à Madrid [s:endurowow-ma
 
 ## Une victoire partie de la septième ligne
 
-Román a pris le départ de la course principale depuis la septième ligne et a pris la tête dans la dernière phase [s:speedweek-hixpania-2026]. Le week-end avait pourtant commencé plus discrètement : il a terminé huitième du SuperEncierro du vendredi et septième du Campoo Xtreme du samedi [s:mcnews-hixpania-2026]. Billy Bolt a pris la troisième place, à 5 minutes et 26 secondes de Román [s:cyclenews-hixpania-2026]. Speedweek situe la victoire du dimanche huit ans après sa première victoire dans cette épreuve [s:speedweek-hixpania-2026].
+Román a pris le départ de la course principale depuis la septième ligne et a pris la tête dans la dernière phase [s:cyclenews-hixpania-2026]. Le week-end avait pourtant commencé plus discrètement : il a terminé huitième du SuperEncierro du vendredi et septième du Campoo Xtreme du samedi [s:mcnews-hixpania-2026]. Billy Bolt a pris la troisième place, à 5 minutes et 26 secondes de Román [s:cyclenews-hixpania-2026]. Cycle News situe la victoire du dimanche huit ans après sa première victoire dans cette épreuve [s:cyclenews-hixpania-2026].
 
 Au classement général final, il a terminé sixième [s:moto1pro-hixpania-2026] [s:mcnews-hixpania-2026].
 

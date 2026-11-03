@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-03",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 11 September 1997 (age 29 on 3 Nov 2026)",
+      "sourceIds": [
+        "taste-of-country-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Taste of Country gives the date; Cultured (28 in Feb 2026) and Hello (28 in Sep 2026) are consistent."
+    },
+    {
+      "claim": "Childhood in Northern California; volleyball and soccer; sister Cassie won Bachelor season 23; LNDN Denim named after brother Landon",
+      "sourceIds": [
+        "taste-of-country-2024",
+        "cultured-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source states it."
+    },
+    {
+      "claim": "Moved to Huntington Beach at 16; shy; father Yellowstone fan; House Cat charity; Wilhelmina Models",
+      "sourceIds": [
+        "grazia-us-2023",
+        "hello-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source states it."
+    },
+    {
+      "claim": "Modelling from 18 paid for college; first role House of the Witch with Darren Mann",
+      "sourceIds": [
+        "glass-interview-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Source states it."
+    },
+    {
+      "claim": "ASU Film and Media Studies, graduated with honors spring 2023; four semesters of ASL",
+      "sourceIds": [
+        "taste-of-country-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Source states it."
+    },
+    {
+      "claim": "1923 premiered 2022, follows 1883; Liz engaged to Jack Dutton (Darren Mann); Costner as John Dutton",
+      "sourceIds": [
+        "thewrap-interview-2024",
+        "grazia-us-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Source states it."
+    },
+    {
+      "claim": "Landman: Ainsley Norris, Tommy Norris's daughter; 18-page self-tape; six months in Texas; viral premiere scene",
+      "sourceIds": [
+        "thewrap-interview-2024",
+        "taste-of-country-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Source states it."
+    },
+    {
+      "claim": "Cowboy camp in Montana; Harrison Ford and Helen Mirren; dialect coach Jessica Drake; 12 hours to audition",
+      "sourceIds": [
+        "glass-interview-2025",
+        "grazia-us-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Source states it."
+    },
+    {
+      "claim": "Scream 7 opened 27 Feb 2026, first horror role, co-stars and director Kevin Williamson; Landman most-viewed Paramount+ series",
+      "sourceIds": [
+        "cultured-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source states it."
+    },
+    {
+      "claim": "Scream 7 opening $64.1M domestic, $97.2M worldwide (article does not name Randolph, and the page says so)",
+      "sourceIds": [
+        "thewrap-scream7-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source states it."
+    },
+    {
+      "claim": "Filmography titles, years and roles in the table",
+      "sourceIds": [
+        "rotten-tomatoes"
+      ],
+      "verdict": "confirmed",
+      "note": "Source states it."
+    },
+    {
+      "claim": "Gregg Sulkin past relationship; Glen Powell linked Nov 2025, Instagram July 2026, 'very serious' on 3 Sep 2026, Paris 10 Aug, Knoxville 26 Sep",
+      "sourceIds": [
+        "hollywoodlife-2026",
+        "hello-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source states it."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Sourced timeline, filmography table and relationship status correct the age and net-worth errors on aggregator pages.",
+  "decision": "approve",
+  "summary": "All checked claims are supported by the fetched sources; Cultured and TheWrap disagree on the on-screen mother in Landman and the page says so."
+}

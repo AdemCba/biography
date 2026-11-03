@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-03",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 8 January 1987 in Stockwell, London",
+      "sourceIds": [
+        "adorocinema-bio",
+        "brixton-buzz-mbe"
+      ],
+      "verdict": "confirmed",
+      "note": "AdoroCinema gives the full date and place; Brixton Buzz gives Stockwell, 1987"
+    },
+    {
+      "claim": "Nigerian parents of Igbo heritage, raised by mother Edith, a nurse",
+      "sourceIds": [
+        "brixton-buzz-mbe"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on the page"
+    },
+    {
+      "claim": "La Retraite, University of East London, then RADA; graduated 2010",
+      "sourceIds": [
+        "brixton-buzz-mbe",
+        "ltd-career"
+      ],
+      "verdict": "confirmed",
+      "note": "Both pages state it"
+    },
+    {
+      "claim": "The Color Purple: Menier 2013, Broadway 2015, Tony Best Actress in a Musical",
+      "sourceIds": [
+        "ltd-career",
+        "thewrap-oscars"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated; year of Tony not given so none is claimed"
+    },
+    {
+      "claim": "Grammy Best Musical Theater Album, 12 Feb 2017, nominees, John Legend duet",
+      "sourceIds": [
+        "playbill-grammy-2017"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated"
+    },
+    {
+      "claim": "Daytime Emmy with cast for Today show, year omitted",
+      "sourceIds": [
+        "thewrap-oscars",
+        "ltd-career"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated without year"
+    },
+    {
+      "claim": "Harriet 2019, two Oscar nominations announced January 2020, Golden Globe nomination",
+      "sourceIds": [
+        "thewrap-oscars",
+        "tony-awards-host",
+        "brixton-buzz-mbe"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated"
+    },
+    {
+      "claim": "Genius: Aretha March 2021, Emmy nomination 2021; Poker Face 2025 nomination; two 2026 nominations",
+      "sourceIds": [
+        "official-site",
+        "tv-academy"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on both pages"
+    },
+    {
+      "claim": "Wicked release dates, box office claims, nominations list",
+      "sourceIds": [
+        "official-site",
+        "brixton-buzz-mbe"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated"
+    },
+    {
+      "claim": "Golden Globe 2026 nomination, first Black woman nominated twice",
+      "sourceIds": [
+        "pinknews-globes"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated"
+    },
+    {
+      "claim": "Zero Oscar nominations for Wicked: For Good announced 22 Jan 2026",
+      "sourceIds": [
+        "pinknews-oscars-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated"
+    },
+    {
+      "claim": "Oscars 2 March 2025: Erivo nominated, Mikey Madison won Best Actress",
+      "sourceIds": [
+        "oscars-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated"
+    },
+    {
+      "claim": "Grammy Best Pop Duo/Group Performance 2026 with Grande, two wins from five nominations",
+      "sourceIds": [
+        "bww-grammy-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated"
+    },
+    {
+      "claim": "Hosted 78th Tonys 8 June 2025; Ch. 1 Vs. 1 and book dates; Edith's Daughter Aug 2020; announced projects",
+      "sourceIds": [
+        "tony-awards-host"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated"
+    },
+    {
+      "claim": "MBE 2026 New Year Honours; RADA vice president 2024; La Retraite visit Nov 2025",
+      "sourceIds": [
+        "brixton-buzz-mbe"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated"
+    },
+    {
+      "claim": "Dracula, Noel Coward Theatre, Kip Williams, 23 roles, until 30 May; Jesus Christ Superstar Hollywood Bowl Aug 2025",
+      "sourceIds": [
+        "timeout-dracula",
+        "ltd-career"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated"
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Dated timeline, exact award counts and 2026 updates in one place.",
+  "decision": "approve",
+  "summary": "All checked claims match the fetched sources."
+}

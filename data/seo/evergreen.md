@@ -12,11 +12,11 @@ Order = priority. Numbers are monthly Google searches (Semrush, 2026-11-03; US u
 
 ### High search volume (Semrush, competitors' top pages)
 
-- [ ] Michelle Randolph (550K)
-- [ ] Cynthia Erivo (450K)
-- [ ] Tobey Maguire (368K)
-- [ ] Matt Rife (301K)
-- [ ] Bill Pullman (301K)
+- [x] Michelle Randolph 2026-11-03 (550K)
+- [x] Cynthia Erivo 2026-11-03 (450K)
+- [x] Tobey Maguire 2026-11-03 (368K)
+- [x] Matt Rife 2026-11-03 (301K)
+- [x] Bill Pullman 2026-11-03 (301K)
 - [ ] Josh Duhamel (246K)
 - [ ] Lauren Graham (201K)
 - [ ] Fran Drescher (201K)

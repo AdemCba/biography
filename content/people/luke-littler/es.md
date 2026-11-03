@@ -1,10 +1,10 @@
 ---
 title: Luke Littler
 slug: luke-littler
-metaTitle: 'Luke Littler: edad, títulos y Beat Luke Littler en Netflix'
+metaTitle: 'Luke Littler ({age} años): 501.000 £ por ganarle en Netflix'
 metaDescription: >-
-  Edad de Luke Littler, de dónde es, sus dos Mundiales de la PDC (2025 y 2026),
-  su paso al número 1 del mundo y el especial Beat Luke Littler de Netflix.
+  Luke Littler tiene {age} años y es bicampeón del mundo. Cómo funciona Beat
+  Luke Littler en Netflix, la pierna de 501 que vale 501.000 libras.
 knownFor: 'Jugador inglés de dardos, bicampeón del mundo de la PDC'
 summary: >-
   Luke Littler es un jugador inglés de dardos nacido en Warrington el 21 de
@@ -17,6 +17,7 @@ status: published
 risk: low
 reviewedAt: '2026-10-29'
 reviewBy: '2027-04-29'
+updatedAt: '2026-11-03'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -27,6 +28,10 @@ targetQueries:
   - Beat Luke Littler Netflix
   - Luke Littler campeón del mundo
   - Luke Littler MBE
+  - beat Luke Littler
+  - beat Littler
+  - best Luke Littler Netflix
+  - luke littler edad
 faq:
   - q: ¿Cuántos años tiene Luke Littler?
     a: >-
@@ -44,10 +49,20 @@ faq:
     a: >-
       Netflix lo emite en directo el viernes 30 de octubre de 2026, a las 15:00
       en el este de Estados Unidos. El premio es de 501.000 libras.
+  - q: ¿Qué es Beat Luke Littler en Netflix?
+    a: >-
+      Un especial de darts en directo en el que veinte aficionados juegan cada
+      uno una pierna de 501 contra Littler, con un premio de 501.000 libras para
+      quien le gane [s:whats-on-netflix-beat-luke-littler]
+      [s:netflix-tudum-beat-luke-littler].
 autoReviews: 4
 publishedAt: '2026-10-29'
 ---
 Luke Littler tiene 19 años y ya es dos veces campeón del mundo de la PDC [s:sky-sports-world-championship-2025-final] [s:sky-sports-world-championship-2026-final]. Nació en Warrington, Inglaterra, el 21 de enero de 2007 [s:dartsworld-littler-profile]. Es el cuarto jugador que ha defendido con éxito el título mundial [s:sky-sports-world-championship-2026-final]. Si has llegado buscando el programa de Netflix, empezamos por ahí.
+
+## Beat Luke Littler en Netflix y la edad de Luke Littler
+
+Luke Littler tiene {age} años (nació el 21 de enero de 2007) [s:dartsworld-littler-profile], y «Beat Luke Littler» (a veces buscado como «beat Littler») es el especial de Netflix en el que veinte aficionados juegan una pierna de 501 contra él por 501.000 libras [s:netflix-tudum-beat-luke-littler] [s:whats-on-netflix-beat-luke-littler]. Netflix lo programó para el 30 de octubre de 2026 [s:netflix-tudum-beat-luke-littler]. Las fuentes de esta página son anteriores a la emisión, así que no recogen el resultado.
 
 ## Beat Luke Littler: qué se juega y cómo funciona
 

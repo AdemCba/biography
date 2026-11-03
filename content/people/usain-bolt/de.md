@@ -1,10 +1,10 @@
 ---
 title: Usain Bolt
 slug: usain-bolt
-metaTitle: 'Usain Bolt: Alter, Weltrekorde und Olympiasiege'
+metaTitle: 'Usain Bolt ({age}): Weltrekord 9,58 und acht Goldmedaillen'
 metaDescription: >-
-  Usain Bolts Alter und Herkunft, seine Weltrekorde von 9,58 und 19,19, warum er
-  acht statt neun Olympiasiege hat und wie seine Karriere 2017 endete.
+  Usain Bolt ist {age}. Mit 22 lief er 9,58 und 19,19 in Berlin, warum er acht
+  statt neun Olympiasiege zählt und wie seine Karriere 2017 endete.
 knownFor: 'Jamaikanischer Sprinter, Weltrekordhalter über 100 und 200 Meter'
 summary: >-
   Usain Bolt ist der jamaikanische Sprinter, der die Weltrekorde über 100 Meter
@@ -15,6 +15,7 @@ status: published
 risk: medium
 reviewedAt: '2026-10-26'
 reviewBy: '2027-04-26'
+updatedAt: '2026-11-03'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -23,6 +24,11 @@ targetQueries:
   - usain bolt weltrekord
   - wie viele goldmedaillen hat usain bolt
   - warum wurde usain bolt eine medaille aberkannt
+  - usain bolt goldmedaillen
+  - usain bolt rekord
+  - bolt usain
+  - bold sprinter
+  - wie alt war usain bolt bei seinem weltrekord
 faq:
   - q: Wie viele olympische Goldmedaillen hat Usain Bolt?
     a: >-
@@ -37,10 +43,22 @@ faq:
     a: >-
       Aus Sherwood Content, einem Dorf im Parish Trelawny auf Jamaika. Dort
       wurde er am 21. August 1986 geboren.
+  - q: Wie alt war Usain Bolt bei seinem Weltrekord?
+    a: >-
+      22 Jahre. Er wurde am 21. August 1986 geboren und lief die 9,58 am 16.
+      August 2009, fünf Tage vor seinem 23. Geburtstag [s:olympics] [s:wa-958].
+  - q: Wie viele Goldmedaillen hat Usain Bolt gewonnen?
+    a: >-
+      Acht olympische Goldmedaillen bei drei Spielen. Das Staffelgold von
+      Peking 2008 wurde ihm 2017 aberkannt [s:olympics] [s:itv-2017].
 autoReviews: 2
 publishedAt: '2026-10-26'
 ---
 Zwei Weltrekorde in derselben Stadt, nur vier Tage auseinander. Im August 2009 lief Usain Bolt bei der Weltmeisterschaft in Berlin die 100 Meter in 9,58 und die 200 Meter in 19,19 Sekunden [s:wa-958] [s:yahoo-1919]. In ihrer Rekordvorschau zur WM 2025 in Tokio führte World Athletics beide Zeiten noch als Weltrekorde [s:wa-records-2025].
+
+## Usain Bolt: Alter, Weltrekord und Goldmedaillen im Überblick
+
+Der jamaikanische Sprinter Usain Bolt, den manche auch als „Bold“ oder „Bolt Usain“ suchen, wurde am 21. August 1986 geboren und ist {age} Jahre alt [s:olympics]. Seinen Weltrekord über 100 Meter von 9,58 Sekunden lief er am 16. August 2009 in Berlin, also mit 22 Jahren, fünf Tage vor seinem 23. Geburtstag [s:wa-958]. Dazu kommt der Rekord über 200 Meter mit 19,19 [s:yahoo-1919]. Seine offizielle Bilanz zählt acht olympische Goldmedaillen, weil das Staffelgold von 2008 aberkannt wurde [s:olympics] [s:itv-2017].
 
 ## Vom Cricket auf die Bahn
 

@@ -1,10 +1,10 @@
 ---
 title: Jiri Lehecka
 slug: jiri-lehecka
-metaTitle: 'Jiri Lehecka: ranking, titles and Miami final'
+metaTitle: 'Jiri Lehecka: two ATP titles and a Miami final run'
 metaDescription: >-
-  Jiri Lehecka's career high ATP ranking, Adelaide and Brisbane titles, 2026
-  Miami Masters final and Czech background, sourced from ATP and ČTK.
+  Jiri Lehecka has two ATP titles, Adelaide 2024 and Brisbane 2025. How the
+  Czech from Mladá Boleslav climbed to No. 12 after his Miami Masters final.
 knownFor: 'Czech tennis player, Adelaide and Brisbane ATP champion'
 summary: >-
   Jiri Lehecka is a Czech tennis player who has won two ATP titles, in Adelaide
@@ -15,6 +15,7 @@ status: published
 risk: low
 reviewedAt: '2026-10-27'
 reviewBy: '2027-04-27'
+updatedAt: '2026-11-03'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -24,6 +25,11 @@ targetQueries:
   - Jiri Lehecka nationality
   - Jiri Lehecka titles
   - Jiri Lehecka Wimbledon
+  - lehecka titles
+  - lehecka atp titles
+  - Jiří Lehečka
+  - lehecka tennis player
+  - no 1 czech tennis player
 faq:
   - q: What is Jiri Lehecka's highest ranking?
     a: >-
@@ -39,10 +45,22 @@ faq:
       him as a Czech tennis player [s:atp-wikidata-bio] [s:cns-profile].
   - q: Where is Jiri Lehecka from?
     a: 'He is a native of Mladá Boleslav in the Czech Republic [s:cns-profile].'
+  - q: How many ATP titles does Lehecka have?
+    a: >-
+      Two, in Adelaide in January 2024 and Brisbane in January 2025
+      [s:atp-adelaide-2024-final] [s:atp-brisbane-2025-final].
+  - q: Is Jiří Lehečka the No. 1 Czech tennis player?
+    a: >-
+      The sources used here do not rank Czech players against each other. They
+      document a career-high ATP ranking of No. 12 in May 2026 [s:atp-bio].
 autoReviews: 2
 publishedAt: '2026-10-27'
 ---
 Jiri Lehecka is a Czech tennis player with two ATP Tour titles, won in Adelaide in January 2024 and Brisbane in January 2025 [s:atp-adelaide-2024-final] [s:atp-brisbane-2025-final]. His career high in the ATP singles rankings is No. 12, reached in May 2026 [s:atp-bio]. That peak followed his first Masters 1000 final, in Miami that March [s:atp-bio] [s:atp-miami-2026-sf].
+
+## Jiri Lehecka's titles and ranking
+
+Jiří Lehečka, the Czech tennis player, has won two ATP titles: Adelaide in January 2024 and Brisbane in January 2025 [s:atp-adelaide-2024-final] [s:atp-brisbane-2025-final]. His career high ATP singles ranking is No. 12, reached in May 2026 [s:atp-bio]. Whether he is the No. 1 Czech player in a given week depends on the live rankings, which the sources for this page do not compare, so we make no such claim. Both finals are told below, along with the Miami Masters 1000 final that led to his peak.
 
 ## Early years in Mladá Boleslav and Prostějov
 

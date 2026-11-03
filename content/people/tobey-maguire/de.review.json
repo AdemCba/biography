@@ -1,0 +1,167 @@
+{
+  "date": "2026-11-03",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 27 June 1975 in Santa Monica, California; age 51 on 3 Nov 2026",
+      "sourceIds": [
+        "biography-com",
+        "rt-tobey-maguire"
+      ],
+      "verdict": "confirmed",
+      "note": "Both pages state date and place."
+    },
+    {
+      "claim": "Parents Vincent and Wendy unmarried at birth, brief marriage; moved between CA, WA, OR; mother a secretary encouraging acting; left school in ninth grade",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on the page."
+    },
+    {
+      "claim": "Roseanne/Blossom small roles; Great Scott! 1992 cancelled after nine weeks; Empire Records scenes cut; Duke of Groove Oscar-nominated short",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on the page."
+    },
+    {
+      "claim": "Deconstructing Harry 1997, The Ice Storm (Paul Hood) praised, Pleasantville 1998 (David Wagner), Fear and Loathing small role",
+      "sourceIds": [
+        "biography-com",
+        "rt-pleasantville"
+      ],
+      "verdict": "confirmed",
+      "note": "Both pages state these."
+    },
+    {
+      "claim": "The Cider House Rules 1999 as Homer Wells with Theron, Caine, Rudd; seven Oscar nominations",
+      "sourceIds": [
+        "rt-cider-house-rules",
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Wonder Boys 2000 as James Leer opposite Michael Douglas",
+      "sourceIds": [
+        "rt-wonder-boys",
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Spider-Man 2002/2004/2007 as Peter Parker; $4M fee and $114M opening weekend as reported by Biography.com",
+      "sourceIds": [
+        "rt-tobey-maguire",
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed, attributed to outlet."
+    },
+    {
+      "claim": "CBS/AP interview 9 April 2007: AA at 19, 'addictive nature', might do another Spider-Man, character arrogant",
+      "sourceIds": [
+        "cbs-2007"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Seabiscuit 2003 Johnny Pollard and executive producer; Good German 2006 Tully; Brothers 2009 Sam Cahill; Great Gatsby 2013 Nick Carraway; Pawn Sacrifice Bobby Fischer producer; Babylon 2022 James McKay exec producer",
+      "sourceIds": [
+        "rt-tobey-maguire",
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Tropic Thunder cameo 2008",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Pawn Sacrifice dated 2015 by Biography.com vs 2014 by RT and ET",
+      "sourceIds": [
+        "biography-com",
+        "rt-tobey-maguire",
+        "et-babylon-2021"
+      ],
+      "verdict": "confirmed",
+      "note": "Discrepancy accurately disclosed."
+    },
+    {
+      "claim": "One Golden Globe nomination (2010, Brothers, Best Actor Drama), no wins",
+      "sourceIds": [
+        "golden-globes"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed on award body page."
+    },
+    {
+      "claim": "Babylon first on-screen film role since 2014; filmed Aug 2021",
+      "sourceIds": [
+        "et-babylon-2021"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "April 2022 Daily Beast: Chaplin reported role; cameo in No Way Home; Boss Baby voice",
+      "sourceIds": [
+        "daily-beast-babylon-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Spider-Man: No Way Home released 17 December 2021",
+      "sourceIds": [
+        "rt-no-way-home"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Met Jennifer Meyer 2003 on Seabiscuit; engaged April 2006; Ruby Nov 2006; married Sept 2007 Hawaii; Otis May 2009; split Oct 2016; filed Oct 2020; 21 Sept judgment declaring single, LA Superior Court",
+      "sourceIds": [
+        "aap-divorce-2026",
+        "fox-wedding-2007"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed; publicist confirmation per Fox/AP."
+    },
+    {
+      "claim": "Vegan and sober since 19",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Not in Marvel's Doomsday cast announced 26 March 2025",
+      "sourceIds": [
+        "slashfilm-doomsday-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Article is dated 26 March 2025 and does not list him."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Sourced timeline, roles table, disclosed source discrepancies and careful Doomsday and divorce status.",
+  "decision": "approve",
+  "summary": "All checked claims match the cited pages I opened."
+}

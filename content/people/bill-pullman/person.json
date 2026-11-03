@@ -1,0 +1,171 @@
+{
+  "id": "bill-pullman",
+  "name": "Bill Pullman",
+  "categories": [
+    "artists",
+    "actors"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1953-12-17",
+      "sources": [
+        "tmdb-pullman"
+      ]
+    },
+    "birthPlace": {
+      "value": "Hornell, New York, USA",
+      "sources": [
+        "tmdb-pullman"
+      ]
+    },
+    "nationality": {
+      "value": [
+        "US"
+      ],
+      "sources": [
+        "tmdb-pullman"
+      ],
+      "note": "Listed as born in the USA"
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "tmdb-pullman",
+      "url": "https://www.themoviedb.org/person/8984-bill-pullman",
+      "title": "Bill Pullman",
+      "publisher": "The Movie Database",
+      "type": "database",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "rsc-cherry-orchard",
+      "url": "https://www.rsc.org.uk/news/bill-pullman-joins-cast-of-cherry-orchard",
+      "title": "Bill Pullman joins cast of The Cherry Orchard",
+      "publisher": "Royal Shakespeare Company",
+      "type": "official",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "deseret-spaceballs",
+      "url": "https://www.deseret.com/entertainment/2025/06/13/spaceballs-sequel-set-to-release-in-2027",
+      "title": "Spaceballs sequel set to release in 2027",
+      "publisher": "Deseret News",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "netflix-boroughs",
+      "url": "https://www.whats-on-netflix.com/news/the-boroughs-alfred-molina-geena-davis-and-bill-pullman-among-six-cast/",
+      "title": "The Boroughs: Alfred Molina, Geena Davis and Bill Pullman among six cast",
+      "publisher": "What's on Netflix",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "tvline-sinner",
+      "url": "https://www.tvline.com/casting-news/bill-pullman-cast-the-sinner-jessica-biel-usa-network-752479",
+      "title": "Bill Pullman joins cast of Jessica Biel's USA Network drama pilot The Sinner",
+      "publisher": "TVLine",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "spoilertv-sinner-sag",
+      "url": "https://www.spoilertv.com/2020/06/the-sinner-renewed-for-4th-season.html",
+      "title": "The Sinner renewed for 4th season (USA Network press release)",
+      "publisher": "SpoilerTV",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "bww-warren-wilson",
+      "url": "https://www.broadwayworld.com/bwwtv/article/Actor-Bill-Pullman-to-Deliver-Commencement-Address-at-Warren-Wilson-College-20170217",
+      "title": "Actor Bill Pullman to deliver commencement address at Warren Wilson College",
+      "publisher": "BroadwayWorld",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "msu-bobcat-bulletin",
+      "url": "https://www.montana.edu/bobcatbulletin/issues/BobcatBulletin20180316.htm",
+      "title": "Bobcat Bulletin, 16 March 2018",
+      "publisher": "Montana State University",
+      "type": "official",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "ksut-1995",
+      "url": "https://www.ksut.org/1995-06-07/actor-bill-pullman",
+      "title": "Actor Bill Pullman (Fresh Air, 1995)",
+      "publisher": "KSUT Public Radio",
+      "type": "interview",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "cbs-pullman-2020",
+      "url": "https://www.cbsnews.com/amp/losangeles/news/bill-pullman-the-sinner-independence-day-interview",
+      "title": "Bill Pullman on The Sinner and Independence Day",
+      "publisher": "CBS Los Angeles",
+      "type": "interview",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "ngataonga-lost-highway",
+      "url": "https://www.ngataonga.org.nz/search-use-collection/search/A0350/",
+      "title": "Interview with Bill Pullman, Lost Highway (1997)",
+      "publisher": "Ngā Taonga Sound & Vision",
+      "type": "interview",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "collider-pullman",
+      "url": "https://collider.com/bill-pullman-interview-independence-day-newsies-beyond-apollo/",
+      "title": "Bill Pullman interview: Independence Day, Newsies, Beyond Apollo",
+      "publisher": "Collider",
+      "type": "interview",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "whatsonstage-mad-house",
+      "url": "https://www.whatsonstage.com/news/mad-house-starring-david-harbour-and-bill-pullman-at-ambassadors-theatre-review_56790/",
+      "title": "Mad House review",
+      "publisher": "WhatsOnStage",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "officialtheatre-mad-house",
+      "url": "https://www.officialtheatre.com/ambassadors-theatre/mad-house/",
+      "title": "Mad House at the Ambassadors Theatre",
+      "publisher": "Ambassadors Theatre",
+      "type": "official",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    },
+    {
+      "id": "today-murdaugh",
+      "url": "https://www.today.com/today/amp/rcna103788",
+      "title": "See Bill Pullman's transformation into Alex Murdaugh for new Lifetime movie",
+      "publisher": "TODAY",
+      "type": "press",
+      "accessed": "2026-11-03",
+      "lang": "en"
+    }
+  ]
+}

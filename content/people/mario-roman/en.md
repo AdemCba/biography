@@ -56,7 +56,7 @@ Mario Román is a Spanish hard-enduro rider from Madrid. On Sunday, 25 October 2
 
 ## A win from seventh on the grid
 
-Román started the main race from the seventh row and took the lead in the closing stages [s:speedweek-hixpania-2026]. The weekend had started more quietly. He finished eighth in Friday's SuperEncierro and seventh in Saturday's Campoo Xtreme [s:mcnews-hixpania-2026]. Speedweek describes the Sunday win as coming eight years after his first Hixpania victory [s:speedweek-hixpania-2026].
+Román started the main race from the seventh row and took the lead in the closing stages [s:cyclenews-hixpania-2026]. The weekend had started more quietly. He finished eighth in Friday's SuperEncierro and seventh in Saturday's Campoo Xtreme [s:mcnews-hixpania-2026]. Cycle News describes the Sunday win as coming eight years after his first Hixpania victory [s:cyclenews-hixpania-2026].
 
 In the final overall standings he finished sixth [s:moto1pro-hixpania-2026] [s:mcnews-hixpania-2026]. Lettenbichler, who won the title before the last round, finished second on the day [s:cyclenews-hixpania-2026].
 

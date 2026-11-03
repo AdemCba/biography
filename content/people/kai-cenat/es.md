@@ -1,8 +1,8 @@
 ---
 title: Kai Cenat
 slug: kai-cenat
-metaTitle: 'Kai Cenat: edad ({age} años), origen y carrera en Twitch'
-metaDescription: "Kai Cenat tiene {age} años (nació el 16 de diciembre de 2001). De dónde es, cómo empezó a hacer streams y sus récords en Twitch, con fuentes."
+metaTitle: 'Kai Cenat ({age} años): el streamer más visto de Twitch'
+metaDescription: "Kai Cenat tiene {age} años. Por qué sus maratones Mafiathon batieron el récord de suscriptores de Twitch y qué lo hace el streamer más visto de EE. UU."
 knownFor: >-
   Streamer estadounidense conocido por los récords de sus maratones Mafiathon en
   Twitch
@@ -15,6 +15,7 @@ status: published
 risk: medium
 reviewedAt: '2026-10-26'
 reviewBy: '2027-04-26'
+updatedAt: '2026-11-03'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -30,6 +31,11 @@ targetQueries:
   - Kai Cenat TIME100 Creators
   - patrimonio de Kai Cenat
   - Kai Cenat detención Union Square
+  - kai cenat edad
+  - edad de kai cenat
+  - edad kai cenat
+  - cuantos años tiene kai cenat
+  - cual es el streamer mas famoso del mundo
 faq:
   - q: ¿Cuántos años tiene Kai Cenat?
     a: >-
@@ -47,10 +53,19 @@ faq:
       Tubefilter informó en enero de 2026 de que no deja el streaming, y de que
       su vídeo «I Quit» trataba de perseguir otras metas personales
       [s:tubefilter-vivet-2026].
+  - q: ¿Cuál es el streamer más famoso del mundo?
+    a: >-
+      No hay una clasificación oficial única. Kai Cenat fue el streamer
+      estadounidense más visto de Twitch en 2025, con 134,4 millones de horas
+      vistas según Streams Charts [s:dexerto-most-watched-2025].
 autoReviews: 2
 publishedAt: '2026-10-26'
 ---
 Kai Cenat es un streamer estadounidense que construyó su audiencia en Twitch con Mafiathon, un maratón de suscripciones de un mes en el que emite las 24 horas del día [s:techtimes-mafiathon-2]. El número de suscriptores es la medida de esas maratones [s:dexerto-mafiathon-3]. Nació el 16 de diciembre de 2001 y tiene su base en Atlanta, Georgia [s:legit-ng-bio]. Su tercer Mafiathon, en 2025, fue la tercera vez que batió el récord de suscriptores de Twitch [s:tribune-mafiathon-3]. Desde entonces anunció una marca de ropa y volvió para presentar una segunda edición de Streamer University.
+
+## Edad de Kai Cenat y por qué suena tanto
+
+Kai Cenat tiene {age} años: nació el 16 de diciembre de 2001 [s:legit-ng-bio]. Sobre si es «el streamer más famoso del mundo», no existe una clasificación oficial, pero hay medidas concretas. Streams Charts lo situó en 2025 como el streamer estadounidense más visto de Twitch, con 134,4 millones de horas vistas [s:dexerto-most-watched-2025], y TIME lo colocó primero en la categoría Titans de su lista TIME100 Creators [s:time-100-creators-2025]. Su cifra más citada es el récord de suscriptores de Mafiathon 3 [s:tribune-mafiathon-3].
 
 ## Mafiathon 2 y el récord duplicado
 

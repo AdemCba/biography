@@ -1,0 +1,135 @@
+{
+  "date": "2026-11-03",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 17 December 1953 in Hornell, New York",
+      "sourceIds": [
+        "tmdb-pullman"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDB page states both."
+    },
+    {
+      "claim": "Worked on upstate New York farms as a boy; Montana ranch; Hollywood Orchard founded 2011",
+      "sourceIds": [
+        "bww-warren-wilson"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the article."
+    },
+    {
+      "claim": "Taught drama at University of Montana, department head by 27; debut in Ruthless People",
+      "sourceIds": [
+        "ksut-1995"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the listing."
+    },
+    {
+      "claim": "MSU says he started his career there; honorary doctorate at 5 May commencement",
+      "sourceIds": [
+        "msu-bobcat-bulletin"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated; year taken from issue date 2018."
+    },
+    {
+      "claim": "Spaceballs 1987 Lone Starr; Casper Dr. Harvey; Independence Day 1996; Lost Highway 1997 Fred Madison; Lake Placid 1999; The Equalizer 2014; Resurgence 2016; The Sinner 2017-2021",
+      "sourceIds": [
+        "tmdb-pullman"
+      ],
+      "verdict": "confirmed",
+      "note": "All listed on TMDB."
+    },
+    {
+      "claim": "Independence Day quotes and co-stars; Sinner third-season remarks",
+      "sourceIds": [
+        "cbs-pullman-2020"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes match the interview."
+    },
+    {
+      "claim": "Lost Highway/Wenders interview details",
+      "sourceIds": [
+        "ngataonga-lost-highway"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches catalogue summary."
+    },
+    {
+      "claim": "Casting as series regular in The Sinner opposite Jessica Biel; 1600 Penn on NBC",
+      "sourceIds": [
+        "tvline-sinner"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "SAG nomination for season 2; Critics' Choice for Carrie Coon",
+      "sourceIds": [
+        "spoilertv-sinner-sag"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Mad House 2022 at Ambassadors, Daniel, Harbour, director, to 4 September",
+      "sourceIds": [
+        "whatsonstage-mad-house",
+        "officialtheatre-mad-house"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Murdaugh film, Lifetime 500th original, 14-15 October",
+      "sourceIds": [
+        "today-murdaugh"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated; announcement 6 Sept 2023."
+    },
+    {
+      "claim": "The Boroughs: plays Jack, one of six leads; added 21 May 2026",
+      "sourceIds": [
+        "netflix-boroughs"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated; also notes Resurgence about twenty years later."
+    },
+    {
+      "claim": "The Cherry Orchard, Gaev, Swan Theatre, 10 July to 29 August 2026, Branagh and Hunt",
+      "sourceIds": [
+        "rsc-cherry-orchard"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Spaceballs: The New One in 2027, Lewis as Starburst, Moranis, Brooks, Zuniga return",
+      "sourceIds": [
+        "deseret-spaceballs"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Space scenes look cliched; Newsies discussed",
+      "sourceIds": [
+        "collider-pullman"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in page summary."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Sourced timeline with 2026-2027 projects and unsupported family claims left out.",
+  "decision": "approve",
+  "summary": "All claims were checked against the opened sources; unsupported details were removed before this verdict."
+}

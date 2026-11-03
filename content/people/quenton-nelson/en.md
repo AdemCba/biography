@@ -1,10 +1,10 @@
 ---
 title: Quenton Nelson
 slug: quenton-nelson
-metaTitle: 'Quenton Nelson: age, Notre Dame and Colts contract'
+metaTitle: 'Quenton Nelson: age, hometown and $80M Colts deal'
 metaDescription: >-
-  Quenton Nelson's age, Notre Dame career, sixth overall pick by the Colts in
-  2018, Pro Bowls and the 2022 contract extension.
+  How old Quenton Nelson is, where he is from, why a guard went sixth in 2018
+  and how his $80 million Colts extension made him the top-paid guard.
 knownFor: Indianapolis Colts offensive guard and Pro Bowl selection since 2018
 summary: >-
   Quenton Nelson is the Indianapolis Colts guard whom the team took sixth
@@ -14,6 +14,7 @@ summary: >-
 status: published
 risk: medium
 reviewedAt: '2026-10-27'
+updatedAt: '2026-11-03'
 reviewBy: '2027-04-27'
 author: editor-in-chief
 reviewer: fact-check-desk
@@ -29,6 +30,11 @@ targetQueries:
   - Quenton Nelson height and weight
   - Quenton Nelson high school
   - Quenton Nelson jersey number
+  - quentin nelson age
+  - quinton nelson age
+  - wuentin nelson age
+  - where did Quenton Nelson go to high school
+  - where is Quinton Nelson from
 faq:
   - q: How old is Quenton Nelson?
     a: 'The Colts list him at age 30, which makes him 30 as of 27 October 2026.'
@@ -41,10 +47,22 @@ faq:
     a: >-
       His 2022 extension was reported at four years and $80 million, with $60
       million guaranteed. The Colts did not publish the figures.
+  - q: Where did Quenton Nelson go to high school?
+    a: >-
+      Red Bank Catholic High School in Red Bank, New Jersey, before he went to
+      Notre Dame [s:fightingirish-roster].
+  - q: How old is Quentin, Quinton or Quenton Nelson?
+    a: >-
+      The Colts list the guard at age 30. The correct spelling is Quenton, and
+      he went sixth overall in the 2018 draft [s:colts-roster] [s:colts-draft-2018].
 autoReviews: 3
 publishedAt: '2026-10-27'
 ---
 The Indianapolis Colts took Quenton Nelson sixth overall in the 2018 NFL Draft. The team's announcement said many considered him the best offensive lineman prospect to enter the NFL Draft in the last couple of decades [s:colts-draft-2018].
+
+## How old is Quenton Nelson, and where is he from?
+
+People also type Quentin, Quinton or Wuentin Nelson, but the name is spelled Quenton. The Colts list him at age 30 as of 27 October 2026 [s:colts-roster]. He is from New Jersey: Notre Dame gives Holmdel as his hometown, the Colts call him a native of Red Bank, and he went to Red Bank Catholic High School [s:fightingirish-roster] [s:colts-career]. His contract is covered in the section on the 2022 extension below.
 
 ## Holmdel, Red Bank and the way to Notre Dame
 

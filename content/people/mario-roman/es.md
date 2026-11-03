@@ -55,7 +55,7 @@ Mario Román es un piloto español de hard enduro nacido en Madrid [s:endurowow-
 
 ## Una victoria desde la séptima fila
 
-Román salió desde la séptima fila de la carrera principal y tomó la cabeza en la fase final [s:speedweek-hixpania-2026]. El fin de semana había empezado con menos brillo: fue octavo en el SuperEncierro del viernes y séptimo en el Campoo Xtreme del sábado [s:mcnews-hixpania-2026]. Speedweek sitúa la victoria del domingo ocho años después de su primer triunfo en la carrera [s:speedweek-hixpania-2026]. Manuel Lettenbichler (KTM) fue segundo, Billy Bolt tercero, a 5 minutos y 26 segundos de Román, y Mitch Brightmore cuarto. James Moore, Ashton Brightmore y Teo Kabakchiev completaron los puestos del quinto al séptimo [s:cyclenews-hixpania-2026].
+Román salió desde la séptima fila de la carrera principal y tomó la cabeza en la fase final [s:cyclenews-hixpania-2026]. El fin de semana había empezado con menos brillo: fue octavo en el SuperEncierro del viernes y séptimo en el Campoo Xtreme del sábado [s:mcnews-hixpania-2026]. Cycle News sitúa la victoria del domingo ocho años después de su primer triunfo en la carrera [s:cyclenews-hixpania-2026]. Manuel Lettenbichler (KTM) fue segundo, Billy Bolt tercero, a 5 minutos y 26 segundos de Román, y Mitch Brightmore cuarto. James Moore, Ashton Brightmore y Teo Kabakchiev completaron los puestos del quinto al séptimo [s:cyclenews-hixpania-2026].
 
 En la clasificación general final terminó sexto [s:moto1pro-hixpania-2026] [s:mcnews-hixpania-2026].
 
