@@ -17,7 +17,7 @@ Updated 2026-11-03. 257 page views.
 | --- | --- |
 | Direct | 40 |
 | Organic Search | 29 |
-| Unassigned | 4 |
+| Unassigned | 2 |
 | AI Assistant | 1 |
 
 ## Countries
