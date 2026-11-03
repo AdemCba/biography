@@ -18,7 +18,7 @@ concurrency:
 jobs:
   pull:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     env:
       GSC_SERVICE_ACCOUNT: ${{ secrets.GSC_SERVICE_ACCOUNT }}
       GSC_SITE: ${{ vars.GSC_SITE || 'sc-domain:orbivida.com' }}
@@ -38,6 +38,11 @@ jobs:
         if: ${{ env.GSC_SERVICE_ACCOUNT != '' }}
         continue-on-error: true
         run: npm run ga
+      # Cited sources that no longer open, for the writer to replace (E-E-A-T: every citation must work).
+      - name: Check cited sources
+        continue-on-error: true
+        timeout-minutes: 8
+        run: npm run -s sources
       - name: Save on main
         run: |
           if [ -n "$(git status --porcelain data)" ]; then

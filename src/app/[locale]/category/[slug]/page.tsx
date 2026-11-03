@@ -3,6 +3,9 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { absoluteUrl, site } from "@/config/site";
 import { HREFLANG } from "@/i18n/config";
+import { CATEGORY_INTRO } from "@/i18n/categoryIntro";
+import { ageOn, countryName } from "@/lib/markdown";
+import type { Person } from "@/lib/content";
 import type { Locale } from "@/i18n/config";
 import { getDictionary } from "@/i18n/dictionaries";
 import { PersonCard } from "@/components/PersonCard";
@@ -50,6 +53,31 @@ export async function generateMetadata({ params }: PageProps<"/[locale]/category
     // Empty or near-empty category pages are thin content: keep them out of the index until they grow.
     noindex: found.people.length < MIN_CATEGORY_PEOPLE,
   });
+}
+
+function list(items: string[], and: string): string {
+  return items.length < 2 ? items.join("") : `${items.slice(0, -1).join(", ")} ${and} ${items.at(-1)}`;
+}
+
+/** Real numbers about the people in a category: count, best-sourced names, countries, age range, sources. */
+function intro(locale: Locale, name: string, people: { person: Person }[]): string {
+  const t = CATEGORY_INTRO[locale];
+  const fill = (s: string, v: Record<string, string | number>) => s.replace(/\{(\w+)\}/g, (_, k: string) => String(v[k] ?? ""));
+  const fmt = new Intl.NumberFormat(locale);
+  const top = [...people].sort((a, b) => b.person.data.sources.length - a.person.data.sources.length).slice(0, 4).map((x) => x.person.data.name);
+  const counts = new Map<string, number>();
+  for (const { person } of people) for (const c of person.data.facts.nationality?.value ?? []) counts.set(c, (counts.get(c) ?? 0) + 1);
+  const countries = [...counts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 3).map(([c]) => countryName(c, locale));
+  const today = new Date().toISOString().slice(0, 10);
+  const ages = people
+    .map(({ person }) => person.data.facts.birthDate?.value)
+    .filter((d): d is string => !!d)
+    .map((d) => ageOn(d, today));
+  const parts = [fill(t.lead, { count: fmt.format(people.length), name })];
+  if (top.length > 1) parts.push(fill(t.top, { names: list(top, t.and) }));
+  if (countries.length) parts.push(fill(t.from, { countries: list(countries, t.and) }) + (ages.length > 1 ? fill(t.ages, { min: Math.min(...ages), max: Math.max(...ages) }) : ""));
+  parts.push(fill(t.sources, { sources: fmt.format(people.reduce((n, x) => n + x.person.data.sources.length, 0)) }));
+  return parts.join(" ");
 }
 
 export default async function CategoryPage({ params }: PageProps<"/[locale]/category/[slug]">) {
@@ -100,6 +128,7 @@ export default async function CategoryPage({ params }: PageProps<"/[locale]/cate
       <header className="py-8">
         <h1 className="text-4xl font-semibold">{found.t.name}</h1>
         <p className="mt-3 max-w-2xl text-lg text-muted">{found.t.description}</p>
+        {found.people.length > 0 && <p className="mt-3 max-w-2xl text-muted">{intro(locale, found.t.name, found.people)}</p>}
         {found.subcategories.length > 0 && (
           <ul className="mt-5 flex flex-wrap gap-2 text-sm">
             {found.subcategories.map(({ c, count }) => (
