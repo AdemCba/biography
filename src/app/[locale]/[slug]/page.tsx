@@ -255,9 +255,10 @@ export default async function BiographyPage({ params }: PageProps<"/[locale]/[sl
             ))}
           </ol>
           <p className="mt-4 text-sm">
-            <a href={`mailto:${site.contactEmail}?subject=${encodeURIComponent(`Correction: ${meta.title} (${locale})`)}`} className="text-accent underline">
+            {/* Contact page, not mailto: Cloudflare rewrites every mailto into a /cdn-cgi/ link crawlers see as broken. */}
+            <Link href={`/${locale}/contact/`} className="text-accent underline">
               {t.bio.reportError}
-            </a>
+            </Link>
           </p>
         </section>
 
