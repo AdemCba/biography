@@ -106,7 +106,8 @@ jobs:
               trends; the list is ordered by real monthly Google searches from Semrush). Tick each with today's
               date when its page is done; skip and tick names that already have a page in content/people/, have
               died, are minors or lack two independent reliable sources. A name marked with a language (e.g.
-              "pt-BR", "de") is a local star: write that language first and most thoroughly, then the other four.
+              "pt-BR", "de") is a local star: write ONLY that language (owner's rule: no searches elsewhere, so other
+              languages waste tokens and bring no traffic). Names marked "global" are written in all five.
               Only when every name is ticked, fall back to today's trends in data/trend-candidates/latest.md,
               limited to adult online creators (2+ reliable sources) and film/TV actors.
               Do not take names from content/queue.json.
@@ -124,7 +125,7 @@ jobs:
               wait for its result. When you end your turn the run is over and unfinished work is lost.
             - Step 6: only run `npx tsx scripts/schedule.ts --per-day 1000` (everything goes live the same day). Do not commit, push or open a PR;
               the workflow commits after you finish.
-            - Always finish all the people (the named ones, or ${{ inputs.count || 5 }} from data/seo/evergreen.md) in all five languages. Spend the effort on depth and
+            - Always finish all the people (the named ones, or ${{ inputs.count || 5 }} from data/seo/evergreen.md) in all five languages (local stars: only their marked language). Spend the effort on depth and
               sources, not on repeated passes: fact-check in one pass where you can; never drop a person or a language.
             - Before you finish, `npm run -s check` must show no ERROR and no `short-for-importance` warning for any
               page you wrote: expand short pages with more sourced facts (the importance minimum is a floor, not a

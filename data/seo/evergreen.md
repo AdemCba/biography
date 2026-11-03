@@ -2,7 +2,8 @@
 
 Living actors and TV faces whose names competitors (celebritynetworth, famousbirthdays) get steady search
 traffic from every day, not only when they trend. Few sites cover them well in es/de/fr/pt.
-Main list for people runs (since 2026-11-03): each run writes the first unticked names here in all five languages,
+Main list for people runs (since 2026-11-03): each run writes the first unticked names here in all five languages
+(names marked with a language, e.g. "de", are local stars: only that language; "global" = all five),
 then ticks them: `- [x] Name 2026-11-03`. Skip a name that already has a page in content/people/.
 Never add minors. Skip and tick a name if reliable sources report the person has died.
 Order = priority. Numbers are monthly Google searches (Semrush, 2026-11-03; US unless marked) for the name or its age/net-worth query.
@@ -50,7 +51,7 @@ Order = priority. Numbers are monthly Google searches (Semrush, 2026-11-03; US u
 - [ ] Ana Maria Braga (pt-BR 27K "quantos anos tem")
 - [ ] Xuxa (pt-BR 12K)
 - [ ] Renato Aragão (pt-BR 6.6K)
-- [ ] Pamela Anderson (de 33K "alter")
+- [ ] Pamela Anderson (global; de 33K "alter")
 - [ ] Dieter Bohlen (de 12K)
 - [ ] Günther Jauch (de 8K)
 - [ ] Uschi Glas (de 8K)
@@ -64,7 +65,7 @@ Order = priority. Numbers are monthly Google searches (Semrush, 2026-11-03; US u
 - [ ] Carmen Maura (es 2.4K)
 - [ ] Carlos Sobera (es 2.4K)
 - [ ] Karlos Arguiñano (es 2.4K)
-- [ ] Catherine Deneuve (fr 2.3K "quel âge a")
+- [ ] Catherine Deneuve (global; fr 2.3K "quel âge a")
 - [ ] Josiane Balasko (fr 1.6K)
 - [ ] Adriana Karembeu (fr 1.6K)
 - [ ] Karine Lemarchand (fr 1.3K)
