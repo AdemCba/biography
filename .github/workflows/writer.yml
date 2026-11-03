@@ -101,31 +101,31 @@ jobs:
               content/people, update and expand that page in all five languages with today's news instead of
               making a new one. Still drop minors and anyone who would need sexual or private content.
             - Skip step 1 (the repository is already checked out and installed) and the photo step (Publish does it).
-            - When no people were named above, pick the people from today's trends only: read data/trend-candidates/latest.md (Google Trends +
-              Wikipedia spikes, scanned twice a day) and confirm with WebSearch that each one is in today's news.
-              Pick only two kinds of people (owner's rule since 2026-11-03): (1) adult online creators: YouTubers,
-              TikTokers, streamers and Instagram personalities with real press coverage; (2) film and TV actors,
-              including series cast, reality-TV cast, character actors and stars of 80s-2000s films and series
-              (reunions, reboots, sequels, streaming releases, new roles, anniversaries). Competitors get most of
-              their traffic from exactly these names ("christopher lloyd", "patrick renna"). Skip athletes,
-              coaches, politicians, business people and musicians unless they are also known as one of these two.
-              Every creator must be 18+ (birth date from a reliable source) and backed by at least two
-              independent reliable sources (major media, official channels); skip creators known only from their
-              own channels or fan wikis.
-              A new site cannot outrank Wikipedia and big media for the most famous names, so prefer rising,
-              mid-level names (breakout creators, reality-TV and series cast, nostalgia and character actors)
-              and names
-              trending in ES, MX, AR, BR, PT, DE, AT or FR, where competition is lower. In every text answer the
-              questions people type for them (age, height, partner, nationality, club, net worth only if sourced).
+            - When no people were named above, take the first ${{ inputs.count || 5 }} unticked names in
+              data/seo/evergreen.md (owner's rule since 2026-11-03: steady high-volume names instead of short-lived
+              trends; the list is ordered by real monthly Google searches from Semrush). Tick each with today's
+              date when its page is done; skip and tick names that already have a page in content/people/, have
+              died, are minors or lack two independent reliable sources. A name marked with a language (e.g.
+              "pt-BR", "de") is a local star: write that language first and most thoroughly, then the other four.
+              Only when every name is ticked, fall back to today's trends in data/trend-candidates/latest.md,
+              limited to adult online creators (2+ reliable sources) and film/TV actors.
               Do not take names from content/queue.json.
+            - Deep pages (these names must beat famousbirthdays and celebritynetworth, so go well past the floor):
+              English 1,200+ words, other languages 900+ words, each written for its own readers. Cover, each with
+              sources: early life and family background (public facts only), how they got their break, career
+              timeline with years (roles, shows, channels, milestones), best-known work as a markdown table
+              (year, title, role or format), awards and records, net worth or earnings only from reliable reporting
+              (name the outlet and year, never guess), public relationships, what they are doing now, and 6+ FAQ
+              entries answering that language's real searches (age, height, partner, nationality, net worth, real
+              name). Open with the direct answer to the top search (usually age) in the first sentence. Use more
+              sources rather than longer sentences; no padding, no rumours, nothing private.
             - Do the writing and fact-checking yourself or with subagents on the same model. Never start a
               subagent in the background: run each one in the foreground (several in one message is fine) and
               wait for its result. When you end your turn the run is over and unfinished work is lost.
             - Step 6: only run `npx tsx scripts/schedule.ts --per-day 1000` (everything goes live the same day). Do not commit, push or open a PR;
               the workflow commits after you finish.
-            - Always finish all the people (the named ones, or ${{ inputs.count || 5 }} from trends) in all five languages. To save usage, keep research
-              short (the fewest sources that back every claim) and fact-check in one pass where you can; never drop
-              a person or a language.
+            - Always finish all the people (the named ones, or ${{ inputs.count || 5 }} from data/seo/evergreen.md) in all five languages. Spend the effort on depth and
+              sources, not on repeated passes: fact-check in one pass where you can; never drop a person or a language.
             - Before you finish, `npm run -s check` must show no ERROR and no `short-for-importance` warning for any
               page you wrote: expand short pages with more sourced facts (the importance minimum is a floor, not a
               target) and cite at least one primary source (official site, club, league, award body, company or
@@ -143,15 +143,6 @@ jobs:
             - Search Console first: open data/seo/focus.md and handle up to 8 unticked pages there exactly as the
               file says (only that language's file), then tick them with today's date. These pages already show on
               Google's first pages, so this is the quickest way to more clicks.
-            - Popular name (people runs only, when no people were named above): after the trend people, write one
-              more person in all five languages, the same way and with the same checks. Take the first unticked
-              name in data/seo/evergreen.md (ordered by real monthly search volume) and tick it with today's date
-              (skip and tick names that already have a page or have died). Only when every name there is ticked,
-              pick from https://www.famousbirthdays.com/trending/ (WebFetch): the highest-listed adult (18+, birth
-              date confirmed by a reliable source) with no page in content/people/ and at least two independent
-              reliable sources (major media, official sites). Skip minors, Roblox/gaming kids, family members known
-              only through a relative, and anyone whose fame is sexual content. Never cite or copy
-              famousbirthdays.com; it is only a list of names.
             - Traffic first: the fastest wins are people who already have a page and trend again (section
               "Sitede zaten var, güncellemeye aday" of latest.md). Before writing new people, update up to 3 of
               them in all five languages: a dated "## <Month Year>" section on why they are in the news, refreshed

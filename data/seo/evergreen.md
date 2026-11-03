@@ -2,8 +2,8 @@
 
 Living actors and TV faces whose names competitors (celebritynetworth, famousbirthdays) get steady search
 traffic from every day, not only when they trend. Few sites cover them well in es/de/fr/pt.
-Fallback list: when famousbirthdays.com/trending/ has no adult with good sources, a people run writes the first unticked name here in all five languages (on top of the trend people),
-then ticks it: `- [x] Name 2026-11-03`. Skip a name that already has a page in content/people/.
+Main list for people runs (since 2026-11-03): each run writes the first unticked names here in all five languages,
+then ticks them: `- [x] Name 2026-11-03`. Skip a name that already has a page in content/people/.
 Never add minors. Skip and tick a name if reliable sources report the person has died.
 Order = priority. Numbers are monthly Google searches (Semrush, 2026-11-03; US unless marked) for the name or its age/net-worth query.
 
