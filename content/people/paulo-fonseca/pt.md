@@ -1,23 +1,25 @@
 ---
 title: Paulo Fonseca
 slug: paulo-fonseca
-metaTitle: 'Paulo Fonseca: {age} anos, clubes e chance no Sporting'
+metaTitle: 'Paulo Fonseca: {age} anos, clubes e novo cargo no Sporting'
 metaDescription: >-
   Paulo Fonseca tem {age} anos e nasceu em Nampula, Moçambique, em 5 de março de
-  1973. Segundo o A Bola, o Sporting CP fechou acordo para contratá-lo.
+  1973. O Sporting CP o contratou em 4 de novembro de 2026 e ele deixa o Lyon.
 knownFor: >-
   Treinador português, campeão com o Shakhtar Donetsk e ex-técnico da Roma, do
   Milan e do Lyon
 summary: >-
   Paulo Fonseca é um treinador português que comandou Shakhtar Donetsk, Roma,
-  Lille, AC Milan e Olympique de Lyon. Em 1º de novembro de 2026, o A Bola
-  informou que o Sporting CP chegou a um acordo para contratá-lo, mas o clube
-  e, até 2 de novembro, não se encontrou comunicado oficial do clube, do Lyon ou de Fonseca. Ele nasceu em Nampula, Moçambique, e
+  Lille, AC Milan e Olympique de Lyon. Em 4 de novembro de 2026, o Sporting CP o
+  confirmou como treinador no lugar de Rui Borges, com contrato até junho de
+  2030, e o Lyon confirmou a saída. Ele nasceu em Nampula, Moçambique, e
   conquistou sete títulos no Shakhtar entre 2016 e 2019.
 status: published
 risk: medium
-reviewedAt: '2026-11-01'
-reviewBy: '2027-05-01'
+publishedAt: '2026-11-04'
+publishedTime: '2026-11-04T21:31:16.411Z'
+reviewedAt: '2026-11-04'
+reviewBy: '2027-05-04'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -27,37 +29,45 @@ targetQueries:
   - paulo fonseca times dirigidos
   - paulo fonseca sporting
   - paulo fonseca lyon
+  - paulo fonseca deixa o lyon
   - paulo fonseca ac milan
   - paulo fonseca roma
 faq:
   - q: Quantos anos tem Paulo Fonseca?
     a: >-
-      Ele nasceu em 5 de março de 1973, então tem 53 anos em 1º de novembro de
+      Ele nasceu em 5 de março de 1973, então tem 53 anos em 4 de novembro de
       2026.
   - q: De onde é Paulo Fonseca?
     a: >-
       Nasceu em Nampula, Moçambique, que na época era colônia portuguesa.
       Cresceu em Barreiro, perto de Lisboa.
+  - q: Paulo Fonseca é o novo treinador do Sporting CP?
+    a: >-
+      Sim. Segundo o A Bola, a SAD do Sporting confirmou a contratação em 4 de
+      novembro de 2026, em comunicado ao regulador do mercado, com contrato até
+      junho de 2030.
+  - q: Por que Paulo Fonseca deixou o Lyon?
+    a: >-
+      O Lyon disse que ele comunicou à direção o desejo de sair depois da
+      abordagem de um clube ao qual se sente particularmente ligado, e chamou a
+      decisão de inesperada. O Sporting vai pagar 5 milhões de euros ao Lyon
+      pelo fim antecipado do contrato.
   - q: Quais times Paulo Fonseca já treinou?
     a: >-
       Em Portugal, Desportivo Aves, Paços de Ferreira, Porto e Braga. Depois,
       Shakhtar Donetsk, Roma, Lille, AC Milan e, desde janeiro de 2025, o
       Olympique de Lyon.
-  - q: Paulo Fonseca vai para o Sporting CP?
-    a: >-
-      Segundo o A Bola, em 1º de novembro de 2026, o Sporting chegou a um acordo
-      com ele e com o Lyon. O clube ainda não havia confirmado a contratação em
-      comunicado oficial.
-autoReviews: 2
-publishedAt: '2026-11-01'
-publishedTime: '2026-11-01T21:38:16.089Z'
-updatedAt: '2026-11-02'
+autoReviews: 3
 ---
-Paulo Fonseca pode ser o próximo técnico do Sporting CP. O A Bola informou em 1º de novembro de 2026 que o clube de Lisboa chegou a um acordo com Fonseca e com o Olympique de Lyon, e que [Rui Borges](person:rui-borges) concordou com a diretoria em encerrar o próprio contrato [s:abola-sporting-report]. É uma informação de imprensa, não um comunicado do clube, e o jornal diz que a apuração foi feita por conta própria [s:abola-sporting-report].
+Paulo Fonseca é o novo treinador do Sporting CP. De acordo com o A Bola, a SAD do clube confirmou a contratação em 4 de novembro de 2026, e o Lyon anunciou no mesmo dia que ele estava de saída [s:abola-sporting-official] [s:afp-lyon-departure]. Ele substitui [Rui Borges](person:rui-borges) [s:abola-sporting-official].
 
-## Novembro de 2026: a reportagem sobre o Sporting
+## Novembro de 2026: do Lyon para o Sporting
 
-De acordo com o mesmo jornal, Fonseca já se despediu do elenco do Lyon por mensagem. A estreia dele com o Sporting seria em casa, contra o Moreirense no próximo sábado, pela 11ª rodada do campeonato [s:abola-sporting-report]. Tiago Fernandes, que comanda o time B, deve assumir a equipe no jogo contra o Shakhtar Donetsk [s:abola-sporting-report]. A reportagem trata o acordo com o Lyon como fechado, mas não informa as condições [s:abola-sporting-report]. Enquanto Sporting ou Lyon não confirmarem, data, contrato e comissão técnica não estão confirmados. A própria reportagem não cita comunicado do Sporting, do Lyon ou de Fonseca [s:abola-sporting-report].
+O A Bola conta que a SAD do Sporting comunicou a mudança à CMVM, o regulador do mercado de capitais português, na quarta-feira, 4 de novembro [s:abola-sporting-official]. O contrato vai até junho de 2030, e cinco adjuntos assinaram até 30 de junho de 2030 [s:abola-sporting-official]. O jornal registra que Fonseca disse que ia cumprir um sonho de infância [s:abola-sporting-official]. Também informa que o Sporting pagou 5 milhões de euros ao Lyon, e o comunicado do próprio Lyon, segundo a RTP, fala no mesmo valor pelo fim antecipado do vínculo [s:abola-sporting-official] [s:rtp-lyon-confirms]. O contrato dele no Lyon ia até 30 de junho de 2027 [s:afp-lyon-departure].
+
+No Lyon, a notícia caiu mal. Segundo a RTP, o clube falou em decisão inesperada e disse que, diante de um desejo tão claramente expresso, a direção não via interesse em manter a colaboração [s:rtp-lyon-confirms]. A AFP cita o diretor esportivo do Lyon, Matthieu Louis-Jean, que chamou a escolha de «un choix du coeur concernant son club d'enfance» [s:afp-lyon-departure]. A equipe era terceira na Ligue 1 após nove rodadas [s:afp-lyon-departure]. O auxiliar Jorge Maciel, de 41 anos, comanda o time na quinta-feira contra a Real Sociedad, pela Liga Europa, e no domingo em Brest, e Louis-Jean citou Carlos Vicens entre os candidatos ao cargo em definitivo [s:afp-lyon-departure].
+
+Em Lisboa, a saída de Borges e da comissão técnica foi confirmada junto com a chegada de Fonseca [s:abola-sporting-official]. A RTP lembra que Borges foi afastado no domingo, depois de dois anos no cargo, com uma dobradinha de campeonato e taça que o Sporting não conseguia havia 23 anos [s:rtp-lyon-confirms]. A primeira reportagem do A Bola sobre o acordo, em 1º de novembro, acabou se confirmando [s:abola-sporting-report] [s:abola-sporting-official].
 
 ## De Nampula ao Barreirense
 

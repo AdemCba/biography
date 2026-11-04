@@ -1,0 +1,149 @@
+{
+  "worthWriting": true,
+  "reason": "Adult actress (Runaways, Halloween, Fall, Fall 2: Deadpoint); several reliable databases and press pieces agree.",
+  "wikidata": "",
+  "importance": 3,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "tmdb",
+      "url": "https://www.themoviedb.org/person/1279279-virginia-gardner?language=en-US",
+      "title": "Virginia Gardner",
+      "publisher": "The Movie Database (TMDB)",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "tmdb-es",
+      "url": "https://www.themoviedb.org/person/1279279-virginia-gardner?language=es-ES",
+      "title": "Virginia Gardner",
+      "publisher": "The Movie Database (TMDB)",
+      "type": "database",
+      "lang": "es"
+    },
+    {
+      "id": "rotten-tomatoes",
+      "url": "https://www.rottentomatoes.com/celebrity/virginia_gardner",
+      "title": "Virginia Gardner",
+      "publisher": "Rotten Tomatoes",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "adorocinema",
+      "url": "https://www.adorocinema.com/personalidades/personalidade-635755/biografia/",
+      "title": "Virginia Gardner: biografia",
+      "publisher": "AdoroCinema",
+      "type": "database",
+      "lang": "pt"
+    },
+    {
+      "id": "ecartelera",
+      "url": "https://www.ecartelera.com/personas/virginia-gardner/",
+      "title": "Virginia Gardner",
+      "publisher": "eCartelera",
+      "type": "database",
+      "lang": "es"
+    },
+    {
+      "id": "filmstarts",
+      "url": "https://www.filmstarts.de/personen/635755/biografie/",
+      "title": "Virginia Gardner",
+      "publisher": "FILMSTARTS",
+      "type": "database",
+      "lang": "de"
+    },
+    {
+      "id": "w-magazine",
+      "url": "https://www.wmagazine.com/story/who-is-virginia-gardner-actress-karolina-dean-the-runaways-hulu/",
+      "title": "Who Is Virginia Gardner, the Actress Behind Karolina Dean in Hulu's Runaways?",
+      "publisher": "W Magazine",
+      "type": "interview",
+      "lang": "en"
+    },
+    {
+      "id": "comicbook-golden-issue",
+      "url": "http://comicbook.com/tv-shows/2017/12/28/2017-golden-issue-award-winner-best-ensemble-cast/",
+      "title": "2017 Golden Issue Award winner: Best Ensemble Cast",
+      "publisher": "ComicBook.com",
+      "type": "award-body",
+      "lang": "en"
+    },
+    {
+      "id": "comingsoon-fall2",
+      "url": "https://www.comingsoon.net/movies/news/2185807-fall-2-virginia-gardner-grace-caroline-currey-deadpoint-sequel",
+      "title": "Fall 2: How Virginia Gardner and Grace Caroline Currey Return for Deadpoint",
+      "publisher": "ComingSoon",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "fangoria-fall-sequels",
+      "url": "https://www.fangoria.com/original/fall-2-and-fall-3-greenlit/",
+      "title": "Fall 2 and Fall 3 sequels greenlit",
+      "publisher": "Fangoria",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "yahoo-fall-box-office",
+      "url": "https://ca.news.yahoo.com/box-office-lionsgate-action-thriller-222651600.html",
+      "title": "Box office: Lionsgate action thriller Fall",
+      "publisher": "Yahoo News Canada",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "promiflash-engagement",
+      "url": "https://www.promiflash.de/news/2021/07/29/suess-virginia-gardner-und-jed-elliott-haben-sich-verlobt.html",
+      "title": "Süß: Virginia Gardner und Jed Elliott haben sich verlobt",
+      "publisher": "Promiflash",
+      "type": "press",
+      "lang": "de"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1995-04-18",
+      "sources": [
+        "tmdb",
+        "rotten-tomatoes",
+        "adorocinema",
+        "ecartelera",
+        "filmstarts"
+      ],
+      "note": "All agree."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Sacramento, California, USA",
+      "sources": [
+        "tmdb",
+        "rotten-tomatoes",
+        "adorocinema"
+      ],
+      "note": "Filmstarts does not list a place."
+    },
+    "nationality": {
+      "value": "US",
+      "sources": [
+        "tmdb",
+        "adorocinema",
+        "filmstarts"
+      ],
+      "note": "Described as an American actress."
+    }
+  },
+  "targetQueries": [
+    "virginia gardner movies",
+    "virginia gardner fall",
+    "virginia gardner halloween",
+    "virginia gardner husband",
+    "virginia gardner movies and tv shows",
+    "virginia gardner height",
+    "virginia gardner net worth",
+    "virginia gardner age",
+    "virginia gardner runaways"
+  ],
+  "gapNote": "Top results are fan-bio sites with unsourced marriage dates and net worth. We give a sourced credit table, flag the disputed marriage date by leaving it out, and cover Fall 2: Deadpoint (September 2026)."
+}

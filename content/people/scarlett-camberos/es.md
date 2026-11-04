@@ -1,27 +1,30 @@
 ---
 title: Scarlett Camberos
 slug: scarlett-camberos
-metaTitle: 'Scarlett Camberos: edad {age} y Balón de Oro 2026'
+metaTitle: 'Scarlett Camberos, {age} años: de California al América'
 metaDescription: >-
-  Scarlett Camberos tiene {age} años (nació el 20 de noviembre de 2000). La
-  delantera del América quedó 21.ª en el Balón de Oro Femenino 2026.
+  Camberos tiene {age} años (nació el 20/11/2000 en California). La
+  mexicoamericana que llegó al 21.º lugar del Balón de Oro Femenino 2026.
 knownFor: 'Delantera del América Femenil, lugar 21 del Balón de Oro Femenino 2026'
 summary: >-
   Scarlett Camberos es delantera del América Femenil de la Liga MX Femenil.
   Quedó en el lugar 21 del ranking del Balón de Oro Femenino 2026, dado a
-  conocer el 26 de octubre de 2026 [s:foxsports-ballon-21]. Fox Sports la
-  presenta como la primera mexicana nominada a este premio
-  [s:foxsports-ballon-21].
+  conocer el 26 de octubre de 2026. Fox Sports la presenta como la primera
+  mexicana nominada a este premio.
 status: published
 risk: medium
-reviewedAt: '2026-10-29'
-reviewBy: '2027-04-29'
+publishedAt: '2026-11-04'
+reviewedAt: '2026-11-04'
+reviewBy: '2027-05-04'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - Scarlett Camberos
   - Scarlett Camberos edad
+  - cuántos años tiene Scarlett Camberos
+  - cuándo nació Scarlett Camberos
+  - de dónde es originaria Scarlett Camberos
   - Scarlett Camberos América
   - Scarlett Camberos Balón de Oro
   - Scarlett Camberos Balón de Oro 2026
@@ -33,6 +36,16 @@ faq:
     a: >-
       Nació el 20 de noviembre de 2000 [s:aztecajalisco-profile-2026], así que
       tiene 25 años al 29 de octubre de 2026.
+  - q: ¿Cuándo nació Scarlett Camberos?
+    a: >-
+      El 20 de noviembre de 2000 [s:aztecajalisco-profile-2026]. Cumplirá 26
+      años el 20 de noviembre de 2026.
+  - q: ¿De dónde es originaria Scarlett Camberos?
+    a: >-
+      Es estadounidense de origen mexicano: el Angel City la describe como
+      originaria de San Diego [s:angel-city-profile], y Azteca Jalisco y Fox
+      Sports dan Los Ángeles, California [s:aztecajalisco-profile-2026]
+      [s:foxsports-agradecida-2026]. Juega con México [s:angel-city-profile].
   - q: ¿Dónde nació Scarlett Camberos?
     a: >-
       El Angel City la describe como originaria de San Diego
@@ -52,8 +65,8 @@ faq:
       Debutó con la selección mexicana absoluta en septiembre de 2022, ante
       Nueva Zelanda [s:angel-city-profile]. Fox Sports la describe como una
       jugadora habitual del equipo [s:foxsports-ballon-21].
-autoReviews: 2
-publishedAt: '2026-10-29'
+autoReviews: 3
+publishedTime: '2026-11-04T21:31:16.414Z'
 ---
 ## Primera mexicana en el ranking del Balón de Oro
 
@@ -63,9 +76,9 @@ Las cifras de nominadas no coinciden. Sopitas habla de 28 nominadas [s:sopitas-b
 
 Viajó a Londres con el técnico del América, Ángel Villacampa, para la gala, que por primera vez se celebró en Inglaterra [s:foxsports-gala-2026]. Tras conocerse el resultado, dijo estar agradecida de estar ahí y de representar al América y a México [s:foxsports-agradecida-2026].
 
-## Origen e identidad
+## Cuántos años tiene Scarlett Camberos y de dónde es originaria
 
-Camberos nació el 20 de noviembre de 2000 [s:aztecajalisco-profile-2026]. Su lugar de nacimiento aparece de dos formas. El Angel City, club de la NWSL que la fichó, la describe como originaria de San Diego y egresada de UC Irvine [s:angel-city-profile]. Azteca Jalisco y Fox Sports dan Los Ángeles, California [s:aztecajalisco-profile-2026] [s:foxsports-agradecida-2026]. Ella se define como mexicoamericana y dice que siempre se ha identificado más como mexicana [s:angel-city-profile].
+Scarlett Camberos tiene 25 años y cumplirá 26 el 20 de noviembre de 2026, porque nació el 20 de noviembre de 2000 [s:aztecajalisco-profile-2026]. Es mexicoamericana: nació en California y juega con la selección de México [s:angel-city-profile]. Su lugar de nacimiento aparece de dos formas. El Angel City, club de la NWSL que la fichó, la describe como originaria de San Diego y egresada de UC Irvine [s:angel-city-profile]. Azteca Jalisco y Fox Sports dan Los Ángeles, California [s:aztecajalisco-profile-2026] [s:foxsports-agradecida-2026]. Ella se define como mexicoamericana y dice que siempre se ha identificado más como mexicana [s:angel-city-profile].
 
 ## Del América a la NWSL y de vuelta
 

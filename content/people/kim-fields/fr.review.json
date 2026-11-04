@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-04",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 12 May 1969 in New York City",
+      "sourceIds": [
+        "tmdb",
+        "mn2s-agency"
+      ],
+      "verdict": "confirmed",
+      "note": "Both pages say so."
+    },
+    {
+      "claim": "Tootie 1979-1988 on The Facts of Life; Regine Hunter on Living Single 1993-1998",
+      "sourceIds": [
+        "tmdb",
+        "apple-tv",
+        "mn2s-agency"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Directed hundreds of episodes; Director of the Year (Black American Cinema Society) for Silent Bomb",
+      "sourceIds": [
+        "abc-dwts"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Marriages (Morgan 23 July 2007; Freeman 1995-2001), sons Sebastian 2007 and Quincy Dec 2013",
+      "sourceIds": [
+        "thefamouspeople",
+        "abcnews-2013"
+      ],
+      "verdict": "confirmed",
+      "note": "ABC: Quincy due 2 Dec 2013."
+    },
+    {
+      "claim": "Mother Chip Fields, sister Alexis (Sister, Sister 1994-1999), Living Single episode title",
+      "sourceIds": [
+        "globalgrind-2022"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "RHOA season 8 (2015), DWTS season 22 with Sasha Farber, eighth place, Von Miller double elimination, Len Goodman samba",
+      "sourceIds": [
+        "mn2s-agency",
+        "thefamouspeople",
+        "bravo-dwts-2016",
+        "abc-dwts"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Fox News interview details (roller skates, Joan Rivers, Janet Jackson, mother's quote)",
+      "sourceIds": [
+        "fox-news-2017"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Upshaws: debut May 2021, final 12 episodes Part 7 on 15 Jan 2026, ended",
+      "sourceIds": [
+        "tvline-upshaws-2025"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline, notes source disagreements (singles vs albums, degree name), declines to print an unsourced net worth.",
+  "decision": "approve",
+  "summary": "All claims checked against opened sources; two unsupported sentences were removed from the text before this verdict."
+}

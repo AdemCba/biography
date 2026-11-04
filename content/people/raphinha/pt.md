@@ -7,14 +7,16 @@ metaDescription: >-
   2028, extensão até 2030 noticiada e lesões na coxa recentes.
 knownFor: Ponta do Barcelona e da seleção brasileira
 summary: >-
-  Raphinha é o ponta do Barcelona e da seleção brasileira. O clube anunciou em
-  2025 uma renovação até junho de 2028, e uma nova extensão até junho de 2030
-  foi noticiada, mas ainda não foi confirmada pelo Barcelona. Lesões na coxa
-  também mexeram com a agenda dele no outono de 2026.
+  Raphinha é o ponta do Barcelona e jogador da seleção brasileira. O Barcelona
+  anunciou em 2025 uma renovação até junho de 2028, e uma nova extensão até
+  junho de 2030 foi noticiada, mas o clube ainda não a confirmou. Depois dos
+  problemas na coxa neste outono, ele marcou duas vezes na vitória do Barcelona
+  por 6 a 1 sobre o Alavés, em 31 de outubro de 2026.
 status: published
 risk: low
-reviewedAt: '2026-10-27'
-reviewBy: '2027-04-27'
+publishedAt: '2026-11-04'
+reviewedAt: '2026-11-04'
+reviewBy: '2027-05-04'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -28,6 +30,9 @@ targetQueries:
   - Raphinha nome completo
   - Raphinha Getafe
   - Raphinha estatísticas Barcelona
+  - raphinha lesão
+  - raphinha aston villa
+  - raphinha gols na temporada
 faq:
   - q: Quantos anos tem o Raphinha?
     a: >-
@@ -48,8 +53,12 @@ faq:
       O técnico Hansi Flick disse que ele não estaria disponível, por cautela
       depois de três lesões musculares na temporada anterior
       [s:worldsoccertalk-galatasaray-preview].
-autoReviews: 2
-publishedAt: '2026-10-27'
+  - q: Raphinha fez gol contra o Alavés?
+    a: >-
+      Sim. Raphinha marcou aos 8 e aos 41 minutos na vitória do Barcelona por 6
+      a 1 no Camp Nou, em 31 de outubro de 2026 [s:mundonow-alaves-report].
+autoReviews: 3
+publishedTime: '2026-11-04T21:31:16.414Z'
 ---
 Raphinha teve sua melhor temporada no Barcelona em 2024/25, quando marcou 34 gols e deu 22 assistências [s:fcb-raphinha-guarantees]. Segundo os números do clube, 13 desses gols vieram na Liga dos Campeões, 18 no Campeonato Espanhol, um na Copa do Rei e dois na Supercopa da Espanha [s:fcb-raphinha-guarantees]. Naquela temporada o time levantou o título da La Liga e a Copa do Rei [s:fcbarcelona-profile].
 
@@ -89,6 +98,9 @@ O Barcelona venceu por 4 a 1 no RAMS Park, em Istambul. Aleksey Batrakov colocou
 
 O Barcelona virou o jogo e venceu [s:dailysabah-galatasaray-result]. Antes da viagem, a prévia lembrava os resultados anteriores do clube: vitória por 5 a 1 sobre o Feyenoord na Liga dos Campeões e derrota do Galatasaray por 3 a 1 para o Sporting [s:worldsoccertalk-galatasaray-preview]. Naquele jogo contra o Feyenoord, no Camp Nou, em 9 de setembro, Raphinha marcou duas vezes [s:worldsoccertalk-galatasaray-preview].
 
-## O que ainda não está claro
+## Novembro de 2026: volta com dois gols contra o Alavés
 
-As informações usadas aqui vão até o resultado de Istambul. Elas não mostram quando ele volta a jogar, como esteve em forma depois daquela partida, nem se o clube vai anunciar a extensão até 2030.
+
+Ele jogou contra o Alavés. O Barcelona venceu por 6 a 1 no Spotify Camp Nou em 31 de outubro, e Raphinha marcou aos 8 e aos 41 minutos [s:mundonow-alaves-report]. Fermín López, Lamine Yamal (duas vezes) e Anthony Gordon fizeram os outros, e Mariano Díaz descontou para o Alavés aos 84 minutos [s:mundonow-alaves-report]. A vitória veio depois da derrota por 2 a 1 para o Real Madrid, e o Barcelona seguiu na liderança de LaLiga, com dez vitórias e uma derrota em 11 jogos [s:mundonow-alaves-report]. O público foi de 53.523 pessoas [s:mundonow-alaves-report].
+
+As fontes consultadas nesta atualização não cobrem o jogo contra o Aston Villa e não mudam a situação contratual: a renovação até 2028 é oficial, e a extensão até 2030 continua sendo informação de imprensa, sem anúncio do clube.

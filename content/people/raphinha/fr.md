@@ -7,14 +7,16 @@ metaDescription: >-
   jusqu'en 2028, prolongation rapportée jusqu'en 2030 et blessures à la cuisse.
 knownFor: Ailier du FC Barcelone et de la sélection brésilienne
 summary: >-
-  Raphinha est l'ailier du FC Barcelone et de la sélection brésilienne. Le club
+  Raphinha est l'ailier du FC Barcelone et un international brésilien. Le Barça
   a annoncé en 2025 une prolongation jusqu'en juin 2028, et une nouvelle
-  prolongation jusqu'en juin 2030 a été rapportée sans être confirmée par le
-  club. Des problèmes à la cuisse ont aussi perturbé son automne 2026.
+  extension jusqu'en juin 2030 a été évoquée sans être confirmée par le club.
+  Après ses soucis à la cuisse cet automne, il a marqué deux buts lors du succès
+  6-1 de Barcelone contre Alavés le 31 octobre 2026.
 status: published
 risk: low
-reviewedAt: '2026-10-27'
-reviewBy: '2027-04-27'
+publishedAt: '2026-11-04'
+reviewedAt: '2026-11-04'
+reviewBy: '2027-05-04'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -28,6 +30,9 @@ targetQueries:
   - Raphinha nom complet
   - Raphinha Getafe
   - Raphinha statistiques Barcelone
+  - raphinha blessure
+  - raphinha aston villa
+  - raphinha but cette saison
 faq:
   - q: Quel âge a Raphinha ?
     a: >-
@@ -50,8 +55,12 @@ faq:
       L'entraîneur Hansi Flick a expliqué qu'il ne pouvait pas jouer, par
       prudence après trois blessures musculaires la saison précédente
       [s:worldsoccertalk-galatasaray-preview].
-autoReviews: 2
-publishedAt: '2026-10-27'
+  - q: Raphinha a-t-il marqué contre Alavés ?
+    a: >-
+      Oui. Raphinha a marqué aux 8e et 41e minutes lors de la victoire 6-1 de
+      Barcelone au Camp Nou, le 31 octobre 2026 [s:mundonow-alaves-report].
+autoReviews: 3
+publishedTime: '2026-11-04T21:31:16.413Z'
 ---
 Raphinha a connu sa meilleure saison à Barcelone en 2024/25, avec 34 buts et 22 passes décisives [s:fcb-raphinha-guarantees]. Selon le club, 13 de ces buts sont venus en Ligue des champions, 18 en Liga, un en Coupe du Roi et deux en Supercoupe d'Espagne [s:fcb-raphinha-guarantees]. Cette saison-là, l'équipe a remporté la Liga et la Coupe du Roi [s:fcbarcelona-profile].
 
@@ -91,6 +100,9 @@ Barcelone s'est imposé 4-1 au RAMS Park, à Istanbul. Aleksey Batrakov a donné
 
 Barcelone a renversé la situation et s'est imposé [s:dailysabah-galatasaray-result]. Avant le déplacement, l'avant-match rappelait les résultats précédents du club : une victoire 5-1 contre Feyenoord en Ligue des champions et une défaite 3-1 de Galatasaray face au Sporting [s:worldsoccertalk-galatasaray-preview]. Lors de ce match contre Feyenoord au Camp Nou, le 9 septembre, Raphinha a marqué deux fois [s:worldsoccertalk-galatasaray-preview].
 
-## Ce qui reste incertain
+## Novembre 2026 : retour avec un doublé contre Alavés
 
-Les informations rapportées ici s'arrêtent au résultat d'Istanbul. Elles ne disent ni quand il reviendra, ni comment il a joué après ce match, ni si le club annoncera la prolongation jusqu'en 2030.
+
+Il a bien joué contre Alavés. Barcelone s'est imposé 6-1 au Spotify Camp Nou le 31 octobre, et Raphinha a marqué aux 8e et 41e minutes [s:mundonow-alaves-report]. Fermín López, Lamine Yamal (deux fois) et Anthony Gordon ont inscrit les autres buts, et Mariano Díaz a sauvé l'honneur d'Alavés à la 84e minute [s:mundonow-alaves-report]. Cette victoire a suivi la défaite 2-1 contre le Real Madrid, et Barcelone est resté en tête de LaLiga avec dix victoires et une défaite en 11 matches [s:mundonow-alaves-report]. Le stade comptait 53 523 spectateurs [s:mundonow-alaves-report].
+
+Les sources consultées pour cette mise à jour ne couvrent pas le match contre Aston Villa et ne changent rien à la situation contractuelle : la prolongation jusqu'en 2028 est officielle, celle jusqu'en 2030 reste une information de presse non annoncée par le club.

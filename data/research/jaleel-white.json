@@ -1,0 +1,104 @@
+{
+  "worthWriting": true,
+  "reason": "Well covered adult actor and TV host with several independent reliable sources.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "rotten-tomatoes",
+      "url": "https://www.rottentomatoes.com/celebrity/jaleel_white",
+      "title": "Jaleel White",
+      "publisher": "Rotten Tomatoes",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "tmdb",
+      "url": "https://www.themoviedb.org/person/87079-jaleel-white",
+      "title": "Jaleel White",
+      "publisher": "The Movie Database (TMDB)",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "tvguide-bio",
+      "url": "https://www.tvguide.com/celebrities/jaleel-white/bio/3030972164",
+      "title": "Jaleel White Biography",
+      "publisher": "TV Guide",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "paramount-flip-side",
+      "url": "https://paramountpressexpress.com/cbs-media-ventures/shows/flip-side",
+      "title": "Flip Side",
+      "publisher": "Paramount Press Express (CBS Media Ventures)",
+      "type": "company",
+      "lang": "en"
+    },
+    {
+      "id": "cassius-flip-side",
+      "url": "https://cassiuslife.com/885700/jaleel-white-host-cbs-game-show-the-flip-side/",
+      "title": "Jaleel White To Host CBS Game Show 'The Flip Side'",
+      "publisher": "Cassius",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "yahoo-flip-side",
+      "url": "https://uk.news.yahoo.com/jaleel-white-host-syndicated-game-160000819.html",
+      "title": "Jaleel White to Host Syndicated Game Show 'The Flip Side'",
+      "publisher": "Yahoo Entertainment",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "et-wedding",
+      "url": "https://etonline.com/family-matters-star-jaleel-white-marries-tech-exec-nicoletta-ruhl-in-los-angeles-225024",
+      "title": "Family Matters Star Jaleel White Marries Tech Exec Nicoletta Ruhl in Los Angeles",
+      "publisher": "Entertainment Tonight",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1976-11-27",
+      "sources": [
+        "rotten-tomatoes",
+        "tmdb"
+      ],
+      "note": "Rotten Tomatoes and TMDB agree."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Pasadena, California, United States",
+      "sources": [
+        "rotten-tomatoes",
+        "tmdb",
+        "tvguide-bio"
+      ],
+      "note": "Rotten Tomatoes, TMDB and TV Guide say Pasadena; Wikipedia says Culver City. Both noted on the page."
+    },
+    "nationality": {
+      "value": "US",
+      "sources": [
+        "rotten-tomatoes",
+        "tmdb"
+      ],
+      "note": "Described as an American actor."
+    }
+  },
+  "targetQueries": [
+    "jaleel white net worth",
+    "jaleel white wife",
+    "jaleel white age",
+    "jaleel white sonic",
+    "jaleel white daughter",
+    "jaleel white height",
+    "jaleel white tv shows",
+    "jaleel white movies"
+  ],
+  "gapNote": "Top results are scraped pages with conflicting birthplace and invented net worth; we give a sourced timeline, the birthplace conflict and current Flip Side hosting."
+}

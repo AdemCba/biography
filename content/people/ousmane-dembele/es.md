@@ -1,10 +1,10 @@
 ---
 title: Ousmane Dembélé
 slug: ousmane-dembele
-metaTitle: 'Ousmane Dembélé: edad {age}, lesión y noticias del PSG'
+metaTitle: 'Dembélé, {age} años: de Vernon al Balón de Oro y su lesión'
 metaDescription: >-
-  Ousmane Dembélé tiene {age} años (nació el 15 de mayo de 1997 en Vernon). El
-  PSG informó de una lesión en el muslo izquierdo y aún no hay fecha de regreso.
+  Dembélé tiene {age} años (15 de mayo de 1997, Vernon). Del Rennes al Balón de
+  Oro 2025 con el PSG, y la lesión de muslo que el club no ha puesto fecha.
 knownFor: 'Delantero francés del PSG y de Francia, Balón de Oro 2025'
 summary: >-
   Ousmane Dembélé es un delantero francés que juega en el Paris Saint-Germain y
@@ -13,13 +13,17 @@ summary: >-
   tratamiento durante las próximas semanas.
 status: published
 risk: medium
-reviewedAt: '2026-10-28'
-reviewBy: '2027-04-28'
+publishedAt: '2026-11-04'
+reviewedAt: '2026-11-04'
+reviewBy: '2027-05-04'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
   - cuántos años tiene Ousmane Dembélé
+  - cuántos años tiene Dembélé
+  - Dembélé edad
+  - cuántos años tiene el jugador Dembélé
   - de dónde es Ousmane Dembélé
   - nacionalidad de Ousmane Dembélé
   - lesión de Ousmane Dembélé
@@ -32,6 +36,14 @@ faq:
     a: >-
       Nació el 15 de mayo de 1997, así que tiene 29 años a 28 de octubre de 2026
       [s:psg-player].
+  - q: '¿Cuántos años tiene Dembélé, el jugador del PSG?'
+    a: >-
+      Tiene 29 años: nació el 15 de mayo de 1997 en Vernon y cumplirá 30 el 15
+      de mayo de 2027 [s:psg-player].
+  - q: ¿Cuál es la edad de Dembélé?
+    a: >-
+      29 años a 4 de noviembre de 2026, según la fecha de nacimiento de su
+      perfil oficial del PSG [s:psg-player].
   - q: ¿De dónde es Ousmane Dembélé?
     a: >-
       Nació en Vernon, en Normandía, Francia, el 15 de mayo de 1997, según su
@@ -47,10 +59,14 @@ faq:
       Es francés. La UEFA lo incluye como «Francia, Paris Saint-Germain»
       [s:uefa-ballon-dor-2026], y su perfil del PSG indica que es internacional
       con Francia desde septiembre de 2016 [s:psg-player].
-autoReviews: 2
-publishedAt: '2026-10-28'
+autoReviews: 3
+publishedTime: '2026-11-04T21:31:16.408Z'
 ---
 Ousmane Dembélé está lesionado del muslo izquierdo. Tras el partido de la Liga de Campeones contra el Barcelona, el Paris Saint-Germain informó de que sufrió una lesión en el muslo izquierdo y de que seguirá en tratamiento durante las próximas semanas [s:psg-medical-communique-2026-10]. El comunicado no dio fecha de regreso. Nació en Vernon, en Normandía, el 15 de mayo de 1997 [s:psg-player], y ganó el Balón de Oro 2025 [s:uefa-ballon-dor-2026].
+
+## Cuántos años tiene Dembélé
+
+Dembélé tiene 29 años. Nació el 15 de mayo de 1997 en Vernon [s:psg-player], de modo que cumplirá 30 el 15 de mayo de 2027. Tenía 18 años cuando fichó por el Dortmund en 2016 [s:bvb-signing-2016] y 20 cuando el Barcelona anunció su fichaje en agosto de 2017 [s:fcb-signing-2017]. Ganó el Balón de Oro 2025 con 28 años [s:topendsports-ballon-dor-2025].
 
 ## De Rennes a la Ligue 1
 

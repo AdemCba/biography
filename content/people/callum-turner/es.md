@@ -10,15 +10,18 @@ knownFor: >-
   Boys in the Boat y Bucky Egan en Masters of the Air
 summary: >-
   Callum Turner es un actor británico nacido en Hammersmith, Londres, el 15 de
-  febrero de 1990. Es conocido por interpretar a Theseus Scamander en las
-  películas de Animales fantásticos, a Joe Rantz en The Boys in the Boat y al
-  mayor John Egan en Masters of the Air, de Apple TV+. En 2026 protagonizó la
-  comedia romántica One Night Only y la prensa lo sitúa entre los candidatos a
-  James Bond, algo que nadie ha confirmado.
+  febrero de 1990. Es conocido por interpretar a Theseus Scamander en Animales
+  fantásticos, a Joe Rantz en The Boys in the Boat y al mayor John Egan en
+  Masters of the Air, de Apple TV+. En 2026 protagonizó la comedia romántica One
+  Night Only. A 4 de noviembre de 2026 se le cita como finalista para James Bond
+  y Showbiz411 asegura que tiene el papel, pero Amazon MGM no ha anunciado
+  ningún fichaje.
 status: published
 risk: low
-reviewedAt: '2026-11-03'
-reviewBy: '2027-05-03'
+publishedAt: '2026-11-04'
+publishedTime: '2026-11-04T21:31:16.388Z'
+reviewedAt: '2026-11-04'
+reviewBy: '2027-05-04'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -29,6 +32,9 @@ targetQueries:
   - callum turner animales fantásticos
   - callum turner masters of the air
   - callum turner dua lipa
+  - callum turner será james bond
+  - callum turner 007
+  - quién será el próximo james bond
 faq:
   - q: ¿Cuántos años tiene Callum Turner?
     a: >-
@@ -49,9 +55,12 @@ faq:
       One Night Only, una comedia romántica de Will Gluck para Universal en la
       que da vida a Owen junto a Monica Barbaro. Salió en formato digital el 8
       de septiembre de 2026 [s:universal-one-night-only].
-autoReviews: 1
-publishedAt: '2026-11-03'
-publishedTime: '2026-11-03T09:20:03.461Z'
+  - q: ¿Quién ha hecho pruebas de cámara para James Bond?
+    a: >-
+      TheWrap informó el 3 de noviembre de 2026 de que cuatro actores llegaron a
+      las últimas pruebas y de que fuentes internas citaron a Callum Turner,
+      Jack Lowden y Josh O'Connor entre ellos [s:thewrap-bond-brosnan].
+autoReviews: 2
 ---
 Antes de que la prensa se preguntara si sería el próximo James Bond, Callum Turner ya había sido remero, piloto de bombarderos y hermano de un mago. La duda sobre Bond sigue abierta. Lo que consta es una carrera que empezó en un campo de fútbol de Fulham y en una agencia de modelos, y que llegó a una serie de Steven Spielberg para Apple TV+ y a una película de George Clooney.
 
@@ -100,3 +109,9 @@ Numero menciona además una serie de Neuromancer prevista para 2027, en la que e
 En 2026 Turner pasó a ser el nombre más ligado al próximo Bond. Numero cuenta que las casas de apuestas británicas lo ponen como favorito y recuerda que el papel no está adjudicado [s:numero-projects]. Newsweek explica que Amazon MGM Studios tiene el control creativo de la saga, que Denis Villeneuve está confirmado como director y que no hay fecha de estreno [s:newsweek-bond]. Considera una afirmación sin verificar la de una fuente anónima del Daily Mail que aseguraba que el fichaje estaba cerrado, y añade que no obtuvo respuesta de la oficina de prensa de Amazon ni de los representantes de Turner [s:newsweek-bond]. Entre otros nombres en la carrera cita a James Norton, Theo James, Harris Dickinson y Aaron Taylor-Johnson [s:newsweek-bond].
 
 Esta página trata lo de Bond como un rumor mientras Amazon MGM o el propio actor no digan otra cosa. Newsweek lo presenta además como prometido de la cantante Dua Lipa, mientras que otro medio ya la llama su esposa; las fuentes difieren en ese dato [s:newsweek-bond] [s:out-lipa].
+
+## Noviembre de 2026: pruebas para Bond y un aviso de Showbiz411
+
+TheWrap informó el 3 de noviembre de 2026 de que cuatro actores llegaron a la fase final de las pruebas de cámara para el próximo 007, y de que fuentes del sector citaron entre ellos a Turner, Jack Lowden y Josh O'Connor, junto a un actor sin identificar [s:thewrap-bond-brosnan]. Un día antes, Roger Friedman, de Showbiz411, escribió que había oído que Turner es el nuevo Bond. CBR lo recoge como un rumor y recuerda que Amazon no ha anunciado oficialmente quién sucederá a Daniel Craig [s:cbr-bond-report]. World of Reel añadió que Turner ha dejado de ser director de Twentytwo Films y que los tabloides británicos lo interpretan como una forma de despejar su agenda para Bond, aunque aclara que nada de esto es una confirmación [s:worldofreel-bond-rumor].
+
+En el mismo artículo de TheWrap, Pierce Brosnan, en una entrevista con Vanity Fair, dijo: «Callum Turner is someone I've worked with, and he's so strong» (con quien ha trabajado y es muy fuerte). Añadió que admira a todos los actores de la lista [s:thewrap-bond-brosnan]. El equipo detrás de la cámara ya está definido, aunque el protagonista no. Denis Villeneuve dirigirá, Steven Knight escribe el guion y Amy Pascal y David Heyman producen. Barbara Broccoli y Michael G. Wilson cedieron el control creativo a Amazon MGM, pero siguen siendo copropietarios de la franquicia [s:thewrap-bond-brosnan]. Hasta que Amazon MGM o el propio Turner digan lo contrario, esta página trata lo de Bond como un rumor.

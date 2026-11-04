@@ -1,20 +1,22 @@
 ---
 title: Jeffery Simmons
 slug: jeffery-simmons
-metaTitle: 'Jeffery Simmons: 29 años, equipo y traspaso a los Bears'
+metaTitle: 'Jeffery Simmons y los Bears: por qué Chicago pagó dos 1as'
 metaDescription: >-
-  Jeffery Simmons, de 29 años, es tackle defensivo de los Tennessee Titans.
-  NFL.com informa de que los Bears lo fichan por primeras rondas de 2027 y 2028.
-knownFor: 'Tackle defensivo de los Tennessee Titans, elegido 19 global en 2019'
+  Los Bears fichan a Jeffery Simmons (29 años) por primeras rondas de 2027 y
+  2028 y una cuarta. Qué ven en el All-Pro de los Titans, su extensión y su
+  historia.
+knownFor: 'Tackle defensivo de los Chicago Bears, elegido 19 global en 2019'
 summary: >-
   Jeffery Simmons es un tackle defensivo al que los Tennessee Titans
-  seleccionaron en el puesto 19 global del draft de 2019 [s:titans-draft].
-  NFL.com informa de que los Chicago Bears lo incorporan mediante un traspaso,
-  con primeras rondas de 2027 y 2028 para los Titans [s:nfl-trade].
+  seleccionaron en el puesto 19 global del draft de 2019. El 29 de octubre de
+  2026 los Chicago Bears anunciaron su fichaje por un traspaso, con primeras
+  rondas de 2027 y 2028 y una cuarta de 2027 para los Titans.
 status: published
 risk: medium
-reviewedAt: '2026-10-29'
-reviewBy: '2027-04-29'
+publishedAt: '2026-11-04'
+reviewedAt: '2026-11-04'
+reviewBy: '2027-05-04'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -27,15 +29,26 @@ targetQueries:
   - jeffery simmons contrato
   - jeffery simmons estadisticas
   - jeffery simmons all pro
+  - jeffery simmons bears
+  - simmons bears
+  - simmons chicago bears
+  - bears simmons
+  - chicago bears simmons
+  - jeffery simmons chicago bears
 faq:
+  - q: ¿Jeffery Simmons juega ahora en los Chicago Bears?
+    a: >-
+      Sí. Los Bears anunciaron el 29 de octubre de 2026 que lo adquirieron de
+      los Titans a cambio de primeras rondas de 2027 y 2028 y una cuarta ronda
+      de 2027 [s:bears-trade-official].
   - q: ¿Cuántos años tiene Jeffery Simmons?
     a: >-
       Nació el 28 de julio de 1997, así que tiene 29 años a fecha del 29 de
       octubre de 2026 [s:titans-bio].
   - q: ¿En qué equipo juega Jeffery Simmons?
     a: >-
-      Juega como tackle defensivo para los Tennessee Titans, y NFL.com informa
-      de que los Chicago Bears lo incorporan mediante un traspaso [s:nfl-trade].
+      En los Chicago Bears, tras el traspaso anunciado el 29 de octubre de 2026
+      desde los Tennessee Titans [s:bears-trade-official].
   - q: ¿De dónde es Jeffery Simmons?
     a: >-
       Su biografía en la web de los Titans indica que nació en Lasalle,
@@ -44,10 +57,10 @@ faq:
     a: >-
       NFL.com informa de que la extensión que firmó en la temporada baja es de
       tres años y 105,8 millones de dólares [s:nfl-trade].
-autoReviews: 1
-publishedAt: '2026-10-29'
+autoReviews: 2
+publishedTime: '2026-11-04T21:31:16.399Z'
 ---
-Jeffery Simmons tiene 29 años [s:titans-bio]. Los Tennessee Titans lo seleccionaron en la primera ronda de 2019, con el puesto 19 global del draft [s:titans-draft], y en junio de 2026 el club anunció una extensión de contrato con él [s:titans-extension]. Ahora NFL.com informa de que los Chicago Bears lo incorporan mediante un traspaso [s:nfl-trade].
+Jeffery Simmons juega ahora en los Chicago Bears: el club anunció el 29 de octubre de 2026 su traspaso desde los Tennessee Titans [s:bears-trade-official]. Tiene 29 años [s:titans-bio]. Los Titans lo seleccionaron en la primera ronda de 2019, con el puesto 19 global del draft [s:titans-draft], y en junio de 2026 el club anunció una extensión de contrato con él [s:titans-extension].
 
 ## De Mississippi State a Tennessee
 
@@ -83,6 +96,8 @@ El perfil también dice que la Give 'Em a Reason Foundation es el legado a largo
 
 ## El traspaso a Chicago
 
-NFL.com informa de que los Bears van a incorporar al tackle defensivo Jeffery Simmons procedente de los Tennessee Titans [s:nfl-trade]. Según el informe, los Titans recibirían primeras rondas de 2027 y 2028 y una cuarta ronda de 2027, mientras que los Bears recibirían además una quinta ronda de 2028 [s:nfl-trade].
+Los Bears anunciaron el 29 de octubre de 2026 la adquisición de Simmons. Envían a Tennessee primeras rondas de 2027 y 2028 y una cuarta de 2027, y reciben una quinta de 2028 [s:bears-trade-official]. NFL.com sitúa su contrato en tres años y 105,8 millones de dólares [s:nfl-trade].
 
-El mismo artículo describe su temporada 2025 como su cuarta selección al Pro Bowl y su primer honor de primer equipo All-Pro [s:nfl-trade].
+El gerente general Ryan Poles dijo: "Estamos emocionados de dar la bienvenida a Jeffery Simmons y a su familia a Chicago". El entrenador Ben Johnson lo llamó "uno de los jugadores más respetados de la NFL" [s:bears-trade-official].
+
+El club recuerda que fue All-Pro tres veces, con el primer equipo en 2025, año en que lideró a los linieros defensivos interiores con 17 tackles para pérdida y 11 sacks. En su carrera suma 46,5 sacks [s:bears-trade-official]. NFL.com describe su temporada 2025 como su cuarta selección al Pro Bowl y su primer honor de primer equipo All-Pro [s:nfl-trade].

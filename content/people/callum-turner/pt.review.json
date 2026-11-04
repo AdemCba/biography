@@ -1,112 +1,54 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "model": "claude-sonnet-5-5",
   "approved": true,
   "reasons": [],
   "claims": [
     {
-      "claim": "Born 15 Feb 1990 in Hammersmith, London; British actor",
+      "claim": "TheWrap 3 Nov 2026: four actors in final screen tests; Turner, Lowden, O'Connor named by insiders plus one unidentified",
       "sourceIds": [
-        "tvovermind-bio",
-        "numero-projects"
+        "thewrap-bond-brosnan"
       ],
       "verdict": "confirmed",
-      "note": "Source opened and states this."
+      "note": "Confirmed in article."
     },
     {
-      "claim": "Grew up on World's End estate in Chelsea with single mother Rosemary, club promoter; youth football at Brunswick Club and Fisher Athletic; modelling; Dover Street Market; Casting Call",
+      "claim": "Showbiz411's Roger Friedman (2 Nov) heard Turner is new Bond; Amazon has not officially announced",
       "sourceIds": [
-        "glass-profile"
+        "cbr-bond-report"
       ],
       "verdict": "confirmed",
-      "note": "Source opened and states this."
+      "note": "CBR 2 Nov: says rumour, no official announcement."
     },
     {
-      "claim": "Modelled for Reebok and Burberry; BAFTA Breakthrough Brit 2014; The Capture BAFTA TV Best Actor nomination; returned in Secrets of Dumbledore",
+      "claim": "Turner stepped down as director of Twentytwo Films; British tabloids read it as clearing decks; not confirmation",
       "sourceIds": [
-        "tvovermind-bio"
+        "worldofreel-bond-rumor"
       ],
       "verdict": "confirmed",
-      "note": "Source opened and states this."
+      "note": "World of Reel 2 Nov, labelled RUMOR, says none of this is confirmation."
     },
     {
-      "claim": "Queen and Country, Glue (2014), Green Room (2015); 'drama school'; Fantastic Beasts biggest acting lesson; Boys in the Boat rowing training; Masters of the Air budget and weight gain",
+      "claim": "Brosnan to Vanity Fair: 'Callum Turner is someone I've worked with, and he's so strong'; admires all actors on list",
       "sourceIds": [
-        "glass-profile"
+        "thewrap-bond-brosnan"
       ],
       "verdict": "confirmed",
-      "note": "Source opened and states this."
+      "note": "Quoted in TheWrap 3 Nov."
     },
     {
-      "claim": "Theseus Scamander casting via Fiona Weir and David Yates, screen test with Redmayne, half-brother, Mobile Homes, Only Living Boy in New York",
+      "claim": "Villeneuve directing, Knight writing, Pascal and Heyman producing; Broccoli and Wilson ceded creative control but remain co-owners",
       "sourceIds": [
-        "etonline-fantastic-beasts"
+        "thewrap-bond-brosnan"
       ],
       "verdict": "confirmed",
-      "note": "Source opened and states this."
-    },
-    {
-      "claim": "Masters of the Air: Egan quotes, letters, POW, flag scene dedicated to grandfather, kindred spirits",
-      "sourceIds": [
-        "thewrap-masters-interview"
-      ],
-      "verdict": "confirmed",
-      "note": "Source opened and states this."
-    },
-    {
-      "claim": "One Night Only: Will Gluck, Travis Braun, Owen, digital release 8 Sept 2026",
-      "sourceIds": [
-        "universal-one-night-only"
-      ],
-      "verdict": "confirmed",
-      "note": "Source opened and states this."
-    },
-    {
-      "claim": "Owen runs a pizzeria and planned to propose; one-night premise",
-      "sourceIds": [
-        "kqed-one-night-only"
-      ],
-      "verdict": "confirmed",
-      "note": "Source opened and states this."
-    },
-    {
-      "claim": "Rosebush Pruning: Aïnouz, Fists in the Pocket, replaced Josh O'Connor, Catalonia 7.5 weeks, 24 July vs Numero 21 Aug",
-      "sourceIds": [
-        "brit-rosebush",
-        "numero-projects"
-      ],
-      "verdict": "confirmed",
-      "note": "Source opened and states this."
-    },
-    {
-      "claim": "Eternity 2025, Neuromancer 2027, Alone Together, The Comebacker, Possession; bookmakers favourite, role not cast",
-      "sourceIds": [
-        "numero-projects"
-      ],
-      "verdict": "confirmed",
-      "note": "Source opened and states this."
-    },
-    {
-      "claim": "Bond unconfirmed; Amazon MGM control; Villeneuve; Daily Mail anonymous claim unverified; others in contention; fiancee of Dua Lipa",
-      "sourceIds": [
-        "newsweek-bond"
-      ],
-      "verdict": "confirmed",
-      "note": "Source opened and states this."
-    },
-    {
-      "claim": "Another outlet calls Dua Lipa his wife",
-      "sourceIds": [
-        "out-lipa"
-      ],
-      "verdict": "confirmed",
-      "note": "Source opened and states this."
+      "note": "Stated in article."
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "Sourced timeline that treats the Bond story as unconfirmed and notes source disagreements.",
+  "valueNote": "Adds dated, attributed news that older pages lack, separating confirmed facts from reports.",
   "decision": "approve",
-  "summary": "All claims match the opened sources; Bond and relationship status are attributed and hedged."
+  "summary": "New November section checked against TheWrap, CBR and World of Reel; all attributed as reports, none presented as confirmed."
 }

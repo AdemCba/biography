@@ -12,13 +12,15 @@ summary: >-
   Callum Turner is a British actor born in Hammersmith, London, on 15 February
   1990. He is known for playing Theseus Scamander in the Fantastic Beasts films,
   Joe Rantz in The Boys in the Boat and Major John Egan in Apple TV+'s Masters
-  of the Air. In 2026 he starred in the romantic comedy One Night Only, and
-  press reports name him as a leading candidate for James Bond, which no one has
-  confirmed.
+  of the Air. In 2026 he starred in the romantic comedy One Night Only. As of 4
+  November 2026 he is reported to be a finalist for James Bond, and Showbiz411
+  says he has the part, but Amazon MGM has not announced a casting.
 status: published
 risk: low
-reviewedAt: '2026-11-03'
-reviewBy: '2027-05-03'
+publishedAt: '2026-11-04'
+publishedTime: '2026-11-04T21:31:16.387Z'
+reviewedAt: '2026-11-04'
+reviewBy: '2027-05-04'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -29,6 +31,9 @@ targetQueries:
   - callum turner fantastic beasts
   - callum turner masters of the air
   - callum turner dua lipa
+  - callum turner bond
+  - callum turner as james bond
+  - who is the next james bond
 faq:
   - q: How old is Callum Turner?
     a: >-
@@ -49,9 +54,12 @@ faq:
       One Night Only, a Will Gluck romantic comedy from Universal in which he
       plays Owen opposite Monica Barbaro. It reached digital release on 8
       September 2026 [s:universal-one-night-only].
-autoReviews: 1
-publishedAt: '2026-11-03'
-publishedTime: '2026-11-03T09:20:03.459Z'
+  - q: Who has screen-tested for James Bond?
+    a: >-
+      TheWrap reported on 3 November 2026 that four actors reached the final
+      screen tests, and that insiders named Callum Turner, Jack Lowden and Josh
+      O'Connor among them [s:thewrap-bond-brosnan].
+autoReviews: 2
 ---
 Callum Turner played a rower, an American bomber pilot and a wizard's brother before the press started asking whether he would be the next James Bond. The question is still open. What is on record is a career that began with a football pitch in Fulham and a modelling contract, and that reached Steven Spielberg's Apple TV+ series and a George Clooney film.
 
@@ -100,3 +108,9 @@ Numero also lists a series adaptation of Neuromancer due in 2027, in which he pl
 In 2026 Turner became the name most often tied to the next Bond film. Numero reports that British bookmakers made him the favourite, and notes that the part has not been cast [s:numero-projects]. Newsweek says Amazon MGM Studios holds the franchise with full creative control, Denis Villeneuve is confirmed as director, and no release date is set [s:newsweek-bond]. It describes an anonymous Daily Mail source claiming the casting was confirmed as an unverified claim, and says it had not received a response from Amazon's press office or Turner's publicists [s:newsweek-bond]. It lists James Norton, Theo James, Harris Dickinson and Aaron Taylor-Johnson among others reported to be in contention [s:newsweek-bond].
 
 This page treats Bond as a rumour until Amazon MGM or Turner says otherwise. Newsweek also describes him as engaged to the singer Dua Lipa, while another outlet already calls her his wife, so the sources differ on that detail [s:newsweek-bond] [s:out-lipa].
+
+## November 2026: Bond screen tests and a Showbiz411 claim
+
+TheWrap reported on 3 November 2026 that four actors reached the final round of screen tests for the next 007, and that insiders named Turner, Jack Lowden and Josh O'Connor among them, along with one actor it did not identify [s:thewrap-bond-brosnan]. A day earlier, Showbiz411's Roger Friedman wrote that he had heard Turner is the new Bond. CBR passes this on as a rumour and notes that Amazon has not officially announced who will succeed Daniel Craig [s:cbr-bond-report]. World of Reel added that Turner has stepped down as a director of Twentytwo Films, and that British tabloids read the move as clearing the decks for Bond. It states plainly that none of this is confirmation [s:worldofreel-bond-rumor].
+
+In the same TheWrap piece, Pierce Brosnan, speaking to Vanity Fair, said: "Callum Turner is someone I've worked with, and he's so strong." He added that he admires all the actors on the list [s:thewrap-bond-brosnan]. The production side is settled even if the lead is not. Denis Villeneuve is set to direct and Steven Knight is writing the screenplay, with Amy Pascal and David Heyman producing. Barbara Broccoli and Michael G. Wilson have ceded creative control to Amazon MGM but remain co-owners of the franchise [s:thewrap-bond-brosnan]. Until Amazon MGM or Turner says so, this page keeps Bond in the category of rumour.

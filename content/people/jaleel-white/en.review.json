@@ -1,0 +1,93 @@
+{
+  "date": "2026-11-04",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 27 Nov 1976 in Pasadena; full name Jaleel Ahmad White; American actor and screenwriter",
+      "sourceIds": [
+        "rotten-tomatoes",
+        "tmdb",
+        "tvguide-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "All three agree; Wikipedia conflict disclosed."
+    },
+    {
+      "claim": "Early career, Young Artist nominations 1985/1986, father's glasses, awards 1990-1997, TV Land 2004, UCLA 2001, Fake It Til You Make It 2010, Sonic in three series",
+      "sourceIds": [
+        "tvguide-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened and matched; RT three Image Awards vs TV Guide six wins disclosed."
+    },
+    {
+      "claim": "Family Matters 1989-1998, Grown Ups 1999-2000, Quest for Camelot 1998, Dreamgirls cameo 2006, Hustle, Urkel Saves Santa, Sonic 2013, Total Blackout host",
+      "sourceIds": [
+        "rotten-tomatoes"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches RT page."
+    },
+    {
+      "claim": "Flip Side premiere 9 Sep 2024, season 3 on 14 Sep 2026, $10,000, executive producer, fastest-growing is company claim",
+      "sourceIds": [
+        "paramount-flip-side"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Wedding 4 May 2024, Riviera Country Club, 175 guests, first marriage, age 47; Ruhl career, met on UCLA track, public 1 Jan 2022, daughter, 2019 Fox News",
+      "sourceIds": [
+        "et-wedding",
+        "yahoo-ruhl"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Totally 90s House premiered Wed 26 Aug, six episodes, $25,000 charity, quote",
+      "sourceIds": [
+        "tvinsider-90s-house"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Aged 12 when cast, parents always right there, hover mom, rejection but never stopped working",
+      "sourceIds": [
+        "dailybeast-urkel"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "GSN: grew up Pasadena, nine seasons, two Sonic series, Total Blackout two seasons, record, guest roles, lives in LA, weeknights 5pm ET",
+      "sourceIds": [
+        "gsn-flip-side"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Keller/Noll, cost sharing, McMahon over a year; announced Jan 2024; ringleader; CBS Mornings Plus April 2025; Cassius quote on always wanting to host",
+      "sourceIds": [
+        "nexttv-flip-side",
+        "upi-flip-side",
+        "yahoo-flip-side",
+        "cbs-news-flip-side",
+        "cassius-flip-side"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches after wording fixes (typecasting claim and unsupported lower-budget film list removed, youth-award qualifier removed)."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline, disclosed source conflicts, primary sources.",
+  "decision": "approve",
+  "summary": "All claims verified against opened sources after removing unsupported typecasting, film list and youth-award qualifier."
+}

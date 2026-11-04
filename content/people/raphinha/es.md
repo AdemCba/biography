@@ -9,12 +9,14 @@ knownFor: Extremo del Barcelona y de la selección de Brasil
 summary: >-
   Raphinha es el extremo del Barcelona y de la selección brasileña. El Barcelona
   anunció en 2025 una renovación hasta junio de 2028, y se ha informado de una
-  nueva prórroga hasta junio de 2030 que el club todavía no ha confirmado. Unas
-  lesiones de muslo alteraron además su otoño de 2026.
+  nueva prórroga hasta junio de 2030 que el club todavía no ha confirmado. Tras
+  sus problemas de muslo de este otoño, marcó dos goles en el 6-1 del Barcelona
+  al Alavés el 31 de octubre de 2026.
 status: published
 risk: low
-reviewedAt: '2026-10-27'
-reviewBy: '2027-04-27'
+publishedAt: '2026-11-04'
+reviewedAt: '2026-11-04'
+reviewBy: '2027-05-04'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -28,6 +30,9 @@ targetQueries:
   - Raphinha nombre completo
   - Raphinha Getafe
   - Raphinha estadísticas Barcelona
+  - raphinha lesión
+  - raphinha aston villa
+  - raphinha goles esta temporada
 faq:
   - q: ¿Cuántos años tiene Raphinha?
     a: >-
@@ -48,8 +53,12 @@ faq:
       El entrenador Hansi Flick dijo que no era elegible para ese viaje, por
       precaución tras tres lesiones musculares la temporada anterior
       [s:worldsoccertalk-galatasaray-preview].
-autoReviews: 2
-publishedAt: '2026-10-27'
+  - q: ¿Marcó Raphinha ante el Alavés?
+    a: >-
+      Sí. Raphinha marcó en los minutos 8 y 41 en la victoria del Barcelona por
+      6-1 en el Camp Nou el 31 de octubre de 2026 [s:mundonow-alaves-report].
+autoReviews: 3
+publishedTime: '2026-11-04T21:31:16.412Z'
 ---
 Raphinha tuvo su mejor temporada en el Barcelona en 2024/25, cuando marcó 34 goles y dio 22 asistencias [s:fcb-raphinha-guarantees]. Según el club, 13 de esos goles llegaron en la Liga de Campeones, 18 en La Liga, uno en la Copa del Rey y dos en la Supercopa de España [s:fcb-raphinha-guarantees]. Ese curso el equipo ganó la Liga y la Copa del Rey [s:fcbarcelona-profile].
 
@@ -89,6 +98,9 @@ El Barcelona ganó 4-1 en el RAMS Park de Estambul. Aleksey Batrakov adelantó a
 
 El Barcelona remontó y ganó [s:dailysabah-galatasaray-result]. Antes del viaje, la previa recordaba los resultados anteriores del club: una victoria por 5-1 ante el Feyenoord en la Liga de Campeones, y una derrota del Galatasaray por 3-1 ante el Sporting [s:worldsoccertalk-galatasaray-preview]. En el partido contra el Feyenoord, disputado en el Camp Nou el 9 de septiembre, Raphinha marcó dos goles [s:worldsoccertalk-galatasaray-preview].
 
-## Lo que aún no está claro
+## Noviembre de 2026: vuelta con doblete ante el Alavés
 
-La información de este texto llega hasta el resultado de Estambul. No indica cuándo volverá Raphinha, cómo jugó después de ese partido ni si el club anunciará la prórroga de 2030.
+
+Jugó contra el Alavés. El Barcelona ganó 6-1 en el Spotify Camp Nou el 31 de octubre y Raphinha marcó en los minutos 8 y 41 [s:mundonow-alaves-report]. Fermín López, Lamine Yamal (dos) y Anthony Gordon firmaron el resto, y Mariano Díaz marcó para el Alavés en el minuto 84 [s:mundonow-alaves-report]. La victoria llegó tras la derrota por 2-1 ante el Real Madrid, y el Barcelona siguió líder de LaLiga con diez victorias y una derrota en 11 partidos [s:mundonow-alaves-report]. Asistieron 53.523 espectadores [s:mundonow-alaves-report].
+
+Las fuentes consultadas para esta actualización no cubren el partido ante el Aston Villa y no cambian la situación contractual: la renovación hasta 2028 es oficial, y la prórroga hasta 2030 sigue siendo una información periodística que el club no ha anunciado.

@@ -9,12 +9,13 @@ knownFor: Barcelona and Brazil winger
 summary: >-
   Raphinha is Barcelona's winger and a Brazil international. Barcelona announced
   a renewal to June 2028 in 2025, and a further extension to June 2030 has been
-  reported but not confirmed by the club. Thigh injuries also disrupted his
-  autumn 2026 schedule.
+  reported but not confirmed by the club. After thigh injuries this autumn, he
+  scored twice in Barcelona's 6-1 win over Alavés on 31 October 2026.
 status: published
 risk: low
-reviewedAt: '2026-10-27'
-reviewBy: '2027-04-27'
+publishedAt: '2026-11-04'
+reviewedAt: '2026-11-04'
+reviewBy: '2027-05-04'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -28,6 +29,9 @@ targetQueries:
   - Raphinha full name
   - Raphinha Getafe
   - Raphinha stats Barcelona
+  - Raphinha injury
+  - Raphinha Aston Villa
+  - Raphinha goals this season
 faq:
   - q: How old is Raphinha?
     a: >-
@@ -48,8 +52,12 @@ faq:
       Coach Hansi Flick said he would not be eligible for the Istanbul trip,
       citing caution after three muscle injuries the previous season
       [s:worldsoccertalk-galatasaray-preview].
-autoReviews: 2
-publishedAt: '2026-10-27'
+  - q: Did Raphinha score against Alavés?
+    a: >-
+      Yes. Raphinha scored in the 8th and 41st minutes of Barcelona's 6-1 win at
+      Camp Nou on 31 October 2026 [s:mundonow-alaves-report].
+autoReviews: 3
+publishedTime: '2026-11-04T21:31:16.411Z'
 ---
 Raphinha had his strongest season at Barcelona in 2024/25, when he scored 34 goals and provided 22 assists [s:fcb-raphinha-guarantees]. The club's figures put 13 of those goals in the Champions League, 18 in La Liga, one in the Copa del Rey and two in the Spanish Super Cup [s:fcb-raphinha-guarantees]. The season ended with the league title and the Copa del Rey [s:fcbarcelona-profile].
 
@@ -89,6 +97,9 @@ Barcelona won 4-1 at RAMS Park in Istanbul. Aleksey Batrakov gave Galatasaray th
 
 Barcelona came from behind to win [s:dailysabah-galatasaray-result]. Before the trip, the preview had noted the club's earlier results: a 5-1 win over Feyenoord in the Champions League, and a 3-1 defeat for Galatasaray against Sporting CP [s:worldsoccertalk-galatasaray-preview]. In the Feyenoord game at Camp Nou on 9 September, Raphinha scored twice [s:worldsoccertalk-galatasaray-preview].
 
-## What is still unclear
+## November 2026: back with two goals against Alavés
 
-The reporting here runs up to the Istanbul result. It does not show when he will return, how he played after that match, or whether the 2030 extension will be announced by the club.
+
+He made the Alavés game. Barcelona won 6-1 at Spotify Camp Nou on 31 October, and Raphinha scored in the 8th and 41st minutes [s:mundonow-alaves-report]. Fermin Lopez, Lamine Yamal (twice) and Anthony Gordon added the others, and Mariano Diaz scored for Alavés in the 84th minute [s:mundonow-alaves-report]. The win followed a 2-1 loss to Real Madrid, and Barcelona stayed top of LaLiga with 10 wins and one defeat in 11 games [s:mundonow-alaves-report]. The attendance was 53,523 [s:mundonow-alaves-report].
+
+The sources checked for this update do not cover the Aston Villa match, and nothing in them changes the contract position: the 2028 renewal is official, and the 2030 extension remains reported, not announced by the club.

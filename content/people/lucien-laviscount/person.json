@@ -1,0 +1,112 @@
+{
+  "id": "lucien-laviscount",
+  "name": "Lucien Laviscount",
+  "categories": [
+    "artists",
+    "actors"
+  ],
+  "importance": 3,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1992-06-09",
+      "sources": [
+        "tmdb"
+      ],
+      "note": "TMDB gives 9 June 1992; TIME (age 29 in December 2021) and Gentleman's Journal (age 32 in 2024) are consistent."
+    },
+    "birthPlace": {
+      "value": "Burnley, Lancashire, England",
+      "sources": [
+        "tmdb",
+        "gq-middle-east-2025"
+      ],
+      "note": "GQ Middle East says he grew up in Burnley."
+    },
+    "nationality": {
+      "value": [
+        "GB"
+      ],
+      "sources": [
+        "tmdb",
+        "gq-middle-east-2025"
+      ],
+      "note": "British actor; father from Antigua, mother English per GQ Middle East."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "tmdb",
+      "url": "https://www.themoviedb.org/person/233096-lucien-laviscount",
+      "title": "Lucien Laviscount",
+      "publisher": "The Movie Database (TMDB)",
+      "type": "database",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "time-2021",
+      "url": "https://time.com/6129566/lucien-laviscount-alfie-emily-in-paris-season-2/",
+      "title": "Emily in Paris' Lucien Laviscount Is Ready to Be Your New Crush",
+      "publisher": "TIME",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "gq-middle-east-2025",
+      "url": "https://www.gqmiddleeast.com/article/the-wide-ranging-joy-of-lucien-laviscount",
+      "title": "The Wide-Ranging Joy of Lucien Laviscount",
+      "publisher": "GQ Middle East",
+      "type": "interview",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "gentlemans-journal-2024",
+      "url": "https://www.thegentlemansjournal.com/article/lucien-laviscount-interview-2024/",
+      "title": "Lucien Laviscount interview: I have David Beckham to thank for all of this",
+      "publisher": "The Gentleman's Journal",
+      "type": "interview",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "peacock-strung",
+      "url": "https://www.peacocktv.com/blog/everything-to-know-about-peacocks-strung-starring-chloe-bailey",
+      "title": "Everything to know about Peacock's Strung starring Chloe Bailey",
+      "publisher": "Peacock (NBCUniversal)",
+      "type": "company",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "vanguardia-2026",
+      "url": "https://www.vanguardia.com/entretenimiento/tendencias/2026/03/01/shakira-y-lucien-laviscount-hacen-oficial-su-relacion-tras-meses-de-rumores/",
+      "title": "Shakira y Lucien Laviscount hacen oficial su relación tras meses de rumores",
+      "publisher": "Vanguardia",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "es"
+    },
+    {
+      "id": "netflix-pwmov",
+      "url": "http://about.netflix.com/en/news/sarah-catherine-hook-jameela-jamil-lucien-laviscount-and-lukas-gage-join",
+      "title": "Sarah Catherine Hook, Jameela Jamil, Lucien Laviscount, and Lukas Gage join People We Meet on Vacation",
+      "publisher": "Netflix",
+      "type": "company",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "looper-alfie",
+      "url": "https://www.looper.com/714275/why-alfie-from-emily-in-paris-looks-so-familiar",
+      "title": "Why Alfie From Emily In Paris Looks So Familiar",
+      "publisher": "Looper",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    }
+  ]
+}

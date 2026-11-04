@@ -1,20 +1,20 @@
 ---
 title: 'Yaxel Lendeborg: age, draft and early Warriors numbers'
 slug: yaxel-lendeborg
-metaTitle: 'Yaxel Lendeborg age: {age}, Warriors stats and injury'
+metaTitle: 'Yaxel Lendeborg, {age}: Warriors rookie stats and age'
 metaDescription: >-
-  Yaxel Lendeborg is {age} years old (born 30 September 2002). The Warriors' No.
-  11 pick was listed questionable with foot inflammation on 28 October 2026.
+  Yaxel Lendeborg is {age} (born 30 Sept 2002). Why the Warriors' No. 11 pick is
+  an older rookie after Michigan's title, and how his first NBA stats look.
 knownFor: Golden State Warriors rookie forward and 2026 No. 11 overall pick
 summary: >-
   Yaxel Lendeborg is a rookie forward for the Golden State Warriors, taken 11th
-  overall in the 2026 NBA draft [s:fantasypros-draft]. He was born on 30
-  September 2002 [s:nba-profile] and remained listed as questionable with foot
-  inflammation on 28 October 2026 [s:fantasypros-shootaround].
+  overall in the 2026 NBA draft. He was born on 30 September 2002 and remained
+  listed as questionable with foot inflammation on 28 October 2026.
 status: published
 risk: medium
-reviewedAt: '2026-10-28'
-reviewBy: '2027-04-28'
+publishedAt: '2026-11-04'
+reviewedAt: '2026-11-04'
+reviewBy: '2027-05-04'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -22,6 +22,10 @@ targetQueries:
   - Yaxel Lendeborg
   - Yaxel Lendeborg age
   - Yaxel Lendeborg stats
+  - Yaxel age
+  - Yaxel Warriors age
+  - how old is Yaxel Lendeborg
+  - Warriors rookie age
   - Yaxel Lendeborg injury
   - Yaxel Lendeborg college
   - Yaxel Lendeborg nationality
@@ -32,6 +36,14 @@ faq:
     a: >-
       He was born on 30 September 2002, so he was 24 on 28 October 2026
       [s:nba-profile].
+  - q: How old is Yaxel on the Warriors?
+    a: >-
+      The Warriors rookie is 24, born on 30 September 2002 [s:nba-profile]. He
+      turns 25 on 30 September 2027.
+  - q: What are Yaxel Lendeborg's stats?
+    a: >-
+      NBA.com lists 21.5 points, 7.0 rebounds and 3.9 assists per game in the
+      2026-27 NBA regular season as of 4 November 2026 [s:nba-profile].
   - q: Is Yaxel Lendeborg injured?
     a: >-
       On 28 October 2026 FantasyPros reported that he remained listed as
@@ -46,10 +58,10 @@ faq:
       Acento says he was born in the United States to Dominican parents
       [s:acento-dominicano]. Claro Sports calls him Puerto Rican
       [s:clarosports-puertorriqueno].
-autoReviews: 1
-publishedAt: '2026-10-28'
+autoReviews: 2
+publishedTime: '2026-11-04T21:31:16.419Z'
 ---
-Lendeborg was a 23-year-old senior when the Warriors drafted him [s:fantasypros-draft]. The Warriors picked him on Day 1 of the 2026 draft [s:nbc-bay-area-draft-analysis]. NBA.com lists it as Round 1, Pick 11 [s:nba-profile].
+Yaxel Lendeborg is 24 years old: he was born on 30 September 2002 [s:nba-profile]. That makes him an older rookie, because he was a 23-year-old senior when the Warriors drafted him [s:fantasypros-draft]. The Warriors picked him on Day 1 of the 2026 draft [s:nbc-bay-area-draft-analysis]. NBA.com lists it as Round 1, Pick 11 [s:nba-profile].
 
 ## Curry, Green and a thin wing spot
 
@@ -61,7 +73,7 @@ Coach Steve Kerr put him in the starting lineup. Kerr called him "unbelievably c
 
 In Summer League the Warriors beat the Lakers 92-88 to reach the championship. Lendeborg scored 15 points on 5-for-8 shooting and made all three of his free throws in that game [s:newsweek-summer-league]. Newsweek wrote that he "continues to give the Golden State Warriors plenty of reasons to feel good about their newest addition" [s:newsweek-summer-league].
 
-NBC Sports Bay Area wrote that any chance of early success for Golden State "is largely dependent on Lendeborg" [s:nbc-bay-area-rookie-profile]. NBA.com lists per-game averages of 21.8 points, 9.3 rebounds and 4.8 assists [s:nba-profile]. The profile does not list his games played, so those are the published averages and nothing more.
+NBC Sports Bay Area wrote that any chance of early success for Golden State "is largely dependent on Lendeborg" [s:nbc-bay-area-rookie-profile]. On 4 November 2026 NBA.com listed his 2026-27 NBA regular-season averages as 21.5 points, 7.0 rebounds and 3.9 assists per game [s:nba-profile]. The profile does not state a games-played total, and these averages change with every game.
 
 ## A preseason ankle tweak
 

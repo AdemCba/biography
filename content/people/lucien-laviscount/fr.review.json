@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-04",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 9 June 1992 in Burnley",
+      "sourceIds": [
+        "tmdb"
+      ],
+      "verdict": "confirmed",
+      "note": "matches source"
+    },
+    {
+      "claim": "Parents, Burnley upbringing (wording corrected)",
+      "sourceIds": [
+        "gq-middle-east-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "matches source"
+    },
+    {
+      "claim": "Beckham, Manchester school, early roles",
+      "sourceIds": [
+        "gq-middle-east-2025",
+        "gentlemans-journal-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "matches source"
+    },
+    {
+      "claim": "Emily in Paris season 2, age 29",
+      "sourceIds": [
+        "time-2021"
+      ],
+      "verdict": "confirmed",
+      "note": "matches source"
+    },
+    {
+      "claim": "Waterloo Road, Scream Queens, Snatch",
+      "sourceIds": [
+        "looper-alfie"
+      ],
+      "verdict": "confirmed",
+      "note": "matches source"
+    },
+    {
+      "claim": "TMDB credits",
+      "sourceIds": [
+        "tmdb"
+      ],
+      "verdict": "confirmed",
+      "note": "matches source"
+    },
+    {
+      "claim": "Strung",
+      "sourceIds": [
+        "peacock-strung"
+      ],
+      "verdict": "confirmed",
+      "note": "matches source"
+    },
+    {
+      "claim": "People We Meet on Vacation",
+      "sourceIds": [
+        "netflix-pwmov"
+      ],
+      "verdict": "confirmed",
+      "note": "matches source"
+    },
+    {
+      "claim": "Vanguardia report on Shakira",
+      "sourceIds": [
+        "vanguardia-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "matches source"
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline, notes source disagreements.",
+  "decision": "approve",
+  "summary": "Facts match sources after the 'very few people of colour' wording was corrected."
+}

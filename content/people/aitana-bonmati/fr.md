@@ -1,22 +1,23 @@
 ---
 title: Aitana Bonmatí
 slug: aitana-bonmati
-metaTitle: 'Aitana Bonmatí : âge, Ballon d''Or et absence en 2026'
+metaTitle: 'Bonmatí, Ballon d''Or 2026 : pourquoi elle est absente'
 metaDescription: >-
-  Âge, lieu de naissance, trois Ballons d'Or, carrière au Barça et raison pour
-  laquelle Aitana Bonmatí ne figure pas parmi les nommées au Ballon d'Or féminin
-  2026.
+  Triple lauréate, Aitana Bonmatí (28 ans) n'est pas parmi les 30 nommées 2026.
+  Fracture du péroné, cinq mois d'arrêt et retour du banc: l'histoire d'une
+  absence.
 knownFor: Footballeuse du FC Barcelone et triple lauréate du Ballon d'Or féminin
 summary: >-
-  Alexia Putellas a remporté le Ballon d'Or féminin 2026 à Londres le 26 octobre,
-  son troisième. Aitana Bonmatí, joueuse du FC Barcelone lauréate en 2023, 2024
-  et 2025, ne figurait pas parmi les 30 joueuses nommées. Une blessure subie
-  pendant la saison 2025-2026 est le motif avancé pour expliquer son absence de
-  la liste.
+  Alexia Putellas a remporté le Ballon d'Or féminin 2026 à Londres le 26
+  octobre, son troisième. Aitana Bonmatí, joueuse du FC Barcelone lauréate en
+  2023, 2024 et 2025, ne figurait pas parmi les 30 joueuses nommées. Une
+  blessure subie pendant la saison 2025-2026 est le motif avancé pour expliquer
+  son absence de la liste.
 status: published
 risk: low
-reviewedAt: '2026-10-27'
-reviewBy: '2027-04-27'
+publishedAt: '2026-11-04'
+reviewedAt: '2026-11-04'
+reviewBy: '2027-05-04'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -28,7 +29,20 @@ targetQueries:
   - Aitana Bonmatí blessure
   - Aitana Bonmatí âge
   - Aitana Bonmatí Barcelone
+  - Bonmatí Ballon d'Or 2026
+  - Bonmatí BO 2026
+  - Bonmatí age
+  - Aitana Bonmatí 2026
 faq:
+  - q: Bonmatí a-t-elle le Ballon d'Or 2026 ?
+    a: >-
+      Non. Le Ballon d'Or féminin 2026 est revenu à Alexia Putellas le 26
+      octobre [s:noovo-afp-winners-2026], et Bonmatí ne figurait pas parmi les
+      30 nommées [s:uefa-ballon-dor-nominees-2026].
+  - q: Quel âge a Bonmatí ?
+    a: >-
+      Elle a 28 ans : elle est née le 18 janvier 1998 à Sant Pere de Ribes
+      [s:fcb-profile-es].
   - q: Aitana Bonmatí est-elle nommée au Ballon d'Or 2026 ?
     a: >-
       Non. Elle ne figurait pas parmi les 30 joueuses nommées, une liste
@@ -57,9 +71,8 @@ faq:
       Environ cinq mois. Selon Excélsior, elle s'est fracturé le péroné gauche
       pendant un rassemblement de l'Espagne en novembre 2025
       [s:excelsior-2026-omission].
-autoReviews: 1
-publishedAt: '2026-10-27'
-updatedAt: '2026-10-29'
+autoReviews: 2
+publishedTime: '2026-11-04T21:31:16.383Z'
 ---
 Aitana Bonmatí ne figure pas parmi les 30 joueuses nommées au Ballon d'Or féminin 2026. La liste a été dévoilée le 8 septembre 2026, et son absence a été la surprise principale de la sélection [s:emisoras-nominees-2026] [s:uefa-ballon-dor-nominees-2026]. Elle avait pourtant remporté le trophée trois années de suite, en 2023, 2024 et 2025 [s:fcb-profile-en].
 
@@ -69,7 +82,7 @@ La cérémonie du Ballon d'Or 2026 s'est tenue le lundi 26 octobre au London Pal
 
 ## Pourquoi elle manque à la liste de 2026
 
-Excélsior explique son exclusion surtout par une blessure. Dans son article du 8 septembre 2026, le média indique qu'elle ne faisait pas partie des 30 nommées [s:excelsior-2026-omission]. Emisoras Unidas parle de son absence comme de la principale surprise de la liste [s:emisoras-nominees-2026]. L'annonce de l'UEFA recense 30 hommes et 30 femmes, et elle n'apparaît pas parmi les femmes [s:uefa-ballon-dor-nominees-2026].
+Bonmatí n'a pas le Ballon d'Or 2026 : il est allé à Alexia Putellas, et Bonmatí, née le 18 janvier 1998 et donc âgée de 28 ans, n'était pas sur la liste des 30 nommées [s:noovo-afp-winners-2026] [s:uefa-ballon-dor-nominees-2026] [s:fcb-profile-es]. Excélsior explique son exclusion surtout par une blessure. Dans son article du 8 septembre 2026, le média indique qu'elle ne faisait pas partie des 30 nommées [s:excelsior-2026-omission]. Emisoras Unidas parle de son absence comme de la principale surprise de la liste [s:emisoras-nominees-2026]. L'annonce de l'UEFA recense 30 hommes et 30 femmes, et elle n'apparaît pas parmi les femmes [s:uefa-ballon-dor-nominees-2026].
 
 ## Cinq mois d'arrêt pour une fracture du péroné
 

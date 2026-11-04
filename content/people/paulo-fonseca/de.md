@@ -1,23 +1,26 @@
 ---
 title: Paulo Fonseca
 slug: paulo-fonseca
-metaTitle: 'Paulo Fonseca: {age} Jahre, Vereine und Sporting-Gerüchte'
+metaTitle: 'Paulo Fonseca: {age} Jahre, Vereine und neuer Job bei Sporting'
 metaDescription: >-
   Paulo Fonseca ist {age} Jahre alt, geboren am 5. März 1973 in Nampula in
-  Mosambik. Laut A Bola hat Sporting Lissabon eine Einigung über ihn erzielt.
+  Mosambik. Sporting Lissabon hat ihn am 4. November 2026 verpflichtet.
 knownFor: >-
   Portugiesischer Trainer, Meister mit Schachtar Donezk und früher Coach von AS
   Rom, AC Mailand und Olympique Lyon
 summary: >-
   Paulo Fonseca ist ein portugiesischer Fußballtrainer, der Schachtar Donezk, AS
-  Rom, LOSC Lille, AC Mailand und Olympique Lyon betreut hat. Die Zeitung A Bola
-  berichtete am 1. November 2026, Sporting Lissabon habe sich mit ihm auf eine
-  Verpflichtung geeinigt, bis zum 2. November 2026 gab es laut unserer Recherche keine offizielle Mitteilung von Verein, Lyon oder Fonseca. Er wurde in Nampula in Mosambik geboren und gewann zwischen 2016
-  und 2019 mit Schachtar sieben Titel.
+  Rom, LOSC Lille, AC Mailand und Olympique Lyon betreut hat. Am 4. November
+  2026 bestätigte Sporting Lissabon ihn als Nachfolger von Rui Borges, mit
+  Vertrag bis Juni 2030, und Lyon bestätigte seinen Abschied. Er wurde in
+  Nampula in Mosambik geboren und gewann zwischen 2016 und 2019 mit Schachtar
+  sieben Titel.
 status: published
 risk: medium
-reviewedAt: '2026-11-01'
-reviewBy: '2027-05-01'
+publishedAt: '2026-11-04'
+publishedTime: '2026-11-04T21:31:16.409Z'
+reviewedAt: '2026-11-04'
+reviewBy: '2027-05-04'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -25,36 +28,44 @@ targetQueries:
   - Paulo Fonseca Alter
   - Paulo Fonseca Trainer
   - Paulo Fonseca Sporting Lissabon
+  - Paulo Fonseca verlässt Lyon
   - Paulo Fonseca Olympique Lyon
   - Paulo Fonseca AC Mailand
   - Paulo Fonseca AS Rom
 faq:
   - q: Wie alt ist Paulo Fonseca?
-    a: Er wurde am 5. März 1973 geboren und ist am 1. November 2026 53 Jahre alt.
+    a: Er wurde am 5. März 1973 geboren und ist am 4. November 2026 53 Jahre alt.
   - q: Woher kommt Paulo Fonseca?
     a: >-
       Er wurde in Nampula in Mosambik geboren, damals eine portugiesische
       Kolonie. Aufgewachsen ist er in Barreiro bei Lissabon.
+  - q: Ist Paulo Fonseca der neue Trainer von Sporting Lissabon?
+    a: >-
+      Ja. Laut A Bola bestätigte die Sporting-SAD die Verpflichtung am 4.
+      November 2026 in einer Mitteilung an die Wertpapieraufsicht, der Vertrag
+      läuft bis Juni 2030.
+  - q: Warum verlässt Paulo Fonseca Olympique Lyon?
+    a: >-
+      Lyon teilte mit, er habe der Klubführung seinen Abschiedswunsch
+      mitgeteilt, nachdem ein Klub, dem er sich besonders verbunden fühlt, an
+      ihn herangetreten sei, und nannte die Entscheidung unerwartet. Sporting
+      zahlt Lyon 5 Millionen Euro für die vorzeitige Vertragsauflösung.
   - q: Welche Vereine hat Paulo Fonseca trainiert?
     a: >-
       In Portugal Desportivo Aves, Paços de Ferreira, den FC Porto und SC Braga.
       Danach Schachtar Donezk, AS Rom, LOSC Lille, AC Mailand und seit Januar
       2025 Olympique Lyon.
-  - q: Wechselt Paulo Fonseca zu Sporting Lissabon?
-    a: >-
-      Laut A Bola hat Sporting am 1. November 2026 eine Einigung mit ihm und mit
-      Lyon erzielt. Eine offizielle Bestätigung des Vereins lag der Zeitung
-      zufolge noch nicht vor.
-autoReviews: 3
-publishedAt: '2026-11-01'
-publishedTime: '2026-11-01T21:38:16.088Z'
-updatedAt: '2026-11-02'
+autoReviews: 4
 ---
-Paulo Fonseca könnte der nächste Trainer von Sporting Lissabon werden. Laut A Bola hat der Klub am 1. November 2026 eine Einigung mit Fonseca und mit Olympique Lyon erzielt, und [Rui Borges](person:rui-borges) hat sich mit der Vereinsführung auf die Auflösung seines Vertrags verständigt [s:abola-sporting-report]. Das ist eine Pressemeldung und keine offizielle Mitteilung des Vereins. Die Zeitung stützt sich dabei auf eigene Informationen [s:abola-sporting-report].
+Paulo Fonseca ist der neue Trainer von Sporting Lissabon. Laut A Bola bestätigte die Sporting-SAD die Verpflichtung am 4. November 2026, und Olympique Lyon gab am selben Tag seinen Abschied bekannt [s:abola-sporting-official] [s:afp-lyon-departure]. Er folgt auf [Rui Borges](person:rui-borges) [s:abola-sporting-official].
 
-## November 2026: Was der Bericht zu Sporting sagt
+## November 2026: von Lyon zu Sporting
 
-Nach demselben Bericht hat sich Fonseca bereits per Nachricht von der Mannschaft in Lyon verabschiedet. Sein erstes Spiel für Sporting soll zu Hause gegen Moreirense am kommenden Samstag stattfinden, im elften Spieltag der Liga [s:abola-sporting-report]. Tiago Fernandes, der die B-Mannschaft trainiert, soll die Mannschaft im Spiel gegen Schachtar Donezk übernehmen [s:abola-sporting-report]. Die Einigung mit Lyon wird als erzielt beschrieben, Bedingungen nennt der Bericht nicht [s:abola-sporting-report]. Bis Sporting oder Lyon den Wechsel bestätigen, sind Termin, Vertrag und Trainerteam nicht bestätigt. Der Artikel selbst nennt keine Erklärung von Sporting, Lyon oder Fonseca [s:abola-sporting-report].
+A Bola berichtet, die Sporting-SAD habe den Wechsel am Mittwoch, dem 4. November, in einer Mitteilung an die CMVM, die portugiesische Wertpapieraufsicht, bestätigt [s:abola-sporting-official]. Sein Vertrag läuft bis Juni 2030, fünf Co-Trainer unterschrieben bis zum 30. Juni 2030 [s:abola-sporting-official]. Die Zeitung zitiert Fonseca mit den Worten, er erfülle sich einen Kindheitstraum [s:abola-sporting-official]. Außerdem schreibt sie, Sporting habe Lyon 5 Millionen Euro gezahlt; die Mitteilung von Lyon nennt laut RTP dieselbe Summe für die vorzeitige Vertragsauflösung [s:abola-sporting-official] [s:rtp-lyon-confirms]. Sein Vertrag in Lyon hätte bis zum 30. Juni 2027 gelaufen [s:afp-lyon-departure].
+
+In Lyon kam die Nachricht schlecht an. Laut RTP sprach der Klub von einer unerwarteten Entscheidung und davon, dass die Führung bei einem so klar geäußerten Wunsch kein Interesse an einer weiteren Zusammenarbeit sah [s:rtp-lyon-confirms]. Die AFP zitiert Lyons Sportdirektor Matthieu Louis-Jean, der von „un choix du coeur concernant son club d'enfance“ sprach [s:afp-lyon-departure]. Lyon stand nach neun Spieltagen auf Platz drei der Ligue 1 [s:afp-lyon-departure]. Co-Trainer Jorge Maciel, 41, betreut die Mannschaft am Donnerstag in der Europa League gegen Real Sociedad und am Sonntag in Brest; Louis-Jean nannte Carlos Vicens unter den Kandidaten für die dauerhafte Nachfolge [s:afp-lyon-departure].
+
+In Lissabon wurde zugleich der Abschied von Borges und seinem Trainerteam bestätigt [s:abola-sporting-official]. Nach RTP wurde Borges am Sonntag nach zwei Jahren im Amt abgesetzt; er hatte das Double aus Meisterschaft und Pokal gewonnen, das Sporting seit 23 Jahren nicht gelungen war [s:rtp-lyon-confirms]. Der erste Bericht von A Bola über die Einigung vom 1. November erwies sich als zutreffend [s:abola-sporting-report] [s:abola-sporting-official].
 
 ## Von Nampula zu Barreirense
 

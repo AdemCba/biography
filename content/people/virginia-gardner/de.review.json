@@ -1,0 +1,128 @@
+{
+  "date": "2026-11-04",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 18 April 1995 in Sacramento; American; full name Virginia Elizabeth Gardner",
+      "sourceIds": [
+        "tmdb",
+        "rotten-tomatoes",
+        "adorocinema",
+        "ecartelera",
+        "filmstarts"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened; all agree (Filmstarts gives no place)."
+    },
+    {
+      "claim": "Taekwondo from about second grade, black belt about fifth/sixth grade; modelled as teenager for Abercrombie & Fitch and Kohl's; stunt quote; clumsy, trainer",
+      "sourceIds": [
+        "w-magazine"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches the W Magazine interview."
+    },
+    {
+      "claim": "Career start 2011 Hart of Dixie, Lab Rats 2012, Glee; Goldbergs year discrepancy (2013 TMDB vs 2015 AdoroCinema)",
+      "sourceIds": [
+        "adorocinema",
+        "tmdb"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened; discrepancy disclosed."
+    },
+    {
+      "claim": "Project Almanac (Christina Raskin); dates 2015 RT, 2013 TMDB, 2014/2015 AdoroCinema",
+      "sourceIds": [
+        "rotten-tomatoes",
+        "tmdb",
+        "adorocinema"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Runaways: Karolina Dean, Hulu, premiered Nov 2017, age 22 then, three seasons, 33 episodes, quote",
+      "sourceIds": [
+        "w-magazine",
+        "adorocinema",
+        "tmdb"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "2017 Golden Issue Award best ensemble to Runaways",
+      "sourceIds": [
+        "comicbook-golden-issue"
+      ],
+      "verdict": "confirmed",
+      "note": "Article lists Runaways as winner."
+    },
+    {
+      "claim": "Halloween 2018 Vicky; Goat 2016 Leah; two films with David Gordon Green; 2018 titles; All the Bright Places 2020/2019; AHS, Gaslit",
+      "sourceIds": [
+        "rotten-tomatoes",
+        "tmdb",
+        "ecartelera"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches opened pages."
+    },
+    {
+      "claim": "Fall 2022: Scott Mann, 2,000 ft tower, $20M on $3M, two sequels greenlit; 1,548 venues, $1-2M projection, Gleiberman quote",
+      "sourceIds": [
+        "fangoria-fall-sequels",
+        "yahoo-fall-box-office",
+        "tmdb"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Fall 2: Deadpoint opened 2 Sept 2026, Spierig directors, Mann/Frank screenplay, Slater/Thomas, Shiloh in flashbacks with sister Jax",
+      "sourceIds": [
+        "comingsoon-fall2",
+        "comicbasics-fall2"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Filmography table, roles and years, FILMSTARTS release dates, exec producer on See You on Venus",
+      "sourceIds": [
+        "rotten-tomatoes",
+        "tmdb",
+        "ecartelera",
+        "filmstarts"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches; differing years disclosed."
+    },
+    {
+      "claim": "Engaged to Jed Elliott July 2021, public since April 2020; April 2023 still engaged; no wedding date stated",
+      "sourceIds": [
+        "promiflash-engagement",
+        "promiflash-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches both Promiflash articles."
+    },
+    {
+      "claim": "Height 1.73 m; no net worth given",
+      "sourceIds": [
+        "ecartelera"
+      ],
+      "verdict": "confirmed",
+      "note": "eCartelera states 1.73 m."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Sourced credit table, disclosed date conflicts, Fall 2 coverage, no unsourced marriage date or net worth.",
+  "decision": "approve",
+  "summary": "All claims checked against the opened sources."
+}

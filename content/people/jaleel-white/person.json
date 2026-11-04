@@ -1,0 +1,167 @@
+{
+  "id": "jaleel-white",
+  "name": "Jaleel White",
+  "categories": [
+    "artists"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1976-11-27",
+      "sources": [
+        "rotten-tomatoes",
+        "tmdb"
+      ],
+      "note": "Rotten Tomatoes and TMDB agree."
+    },
+    "birthPlace": {
+      "value": "Pasadena, California, United States",
+      "sources": [
+        "rotten-tomatoes",
+        "tmdb",
+        "tvguide-bio"
+      ],
+      "note": "Rotten Tomatoes, TMDB and TV Guide say Pasadena; Wikipedia says Culver City. Both noted on the page."
+    },
+    "nationality": {
+      "value": [
+        "US"
+      ],
+      "sources": [
+        "rotten-tomatoes",
+        "tmdb"
+      ],
+      "note": "Described as an American actor."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "rotten-tomatoes",
+      "url": "https://www.rottentomatoes.com/celebrity/jaleel_white",
+      "title": "Jaleel White",
+      "publisher": "Rotten Tomatoes",
+      "type": "database",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "tmdb",
+      "url": "https://www.themoviedb.org/person/87079-jaleel-white",
+      "title": "Jaleel White",
+      "publisher": "The Movie Database (TMDB)",
+      "type": "database",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "tvguide-bio",
+      "url": "https://www.tvguide.com/celebrities/jaleel-white/bio/3030972164",
+      "title": "Jaleel White Biography",
+      "publisher": "TV Guide",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "paramount-flip-side",
+      "url": "https://paramountpressexpress.com/cbs-media-ventures/shows/flip-side",
+      "title": "Flip Side",
+      "publisher": "Paramount Press Express (CBS Media Ventures)",
+      "type": "company",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "cassius-flip-side",
+      "url": "https://cassiuslife.com/885700/jaleel-white-host-cbs-game-show-the-flip-side/",
+      "title": "Jaleel White To Host CBS Game Show 'The Flip Side'",
+      "publisher": "Cassius",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "yahoo-flip-side",
+      "url": "https://uk.news.yahoo.com/jaleel-white-host-syndicated-game-160000819.html",
+      "title": "Jaleel White to Host Syndicated Game Show 'The Flip Side'",
+      "publisher": "Yahoo Entertainment",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "et-wedding",
+      "url": "https://etonline.com/family-matters-star-jaleel-white-marries-tech-exec-nicoletta-ruhl-in-los-angeles-225024",
+      "title": "Family Matters Star Jaleel White Marries Tech Exec Nicoletta Ruhl in Los Angeles",
+      "publisher": "Entertainment Tonight",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "gsn-flip-side",
+      "url": "https://gameshownetwork.com/flip-side",
+      "title": "Flip Side",
+      "publisher": "Game Show Network",
+      "type": "company",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "nexttv-flip-side",
+      "url": "https://www.nexttv.com/news/flip-side-to-be-produced-via-partnership-between-cbs-gsn",
+      "title": "Flip Side Will Be Produced via Partnership Between CBS, GSN",
+      "publisher": "Broadcasting & Cable (NextTV)",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "upi-flip-side",
+      "url": "https://www.upi.com/Entertainment_News/TV/2024/01/23/jaleel-white-flip-side-game-show/4741706012835/",
+      "title": "The Flip Side",
+      "publisher": "UPI",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "cbs-news-flip-side",
+      "url": "https://www.cbsnews.com/video/jaleel-white-talks-new-game-show-flip-side-and-life-behind-the-buzzer",
+      "title": "Jaleel White talks new game show Flip Side and life behind the buzzer",
+      "publisher": "CBS News",
+      "type": "interview",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "yahoo-ruhl",
+      "url": "https://sg.news.yahoo.com/jaleel-whites-wife-nicoletta-ruhl-210516033.html",
+      "title": "Who Is Jaleel White's Wife? All About Nicoletta Ruhl",
+      "publisher": "Yahoo",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "tvinsider-90s-house",
+      "url": "https://www.tvinsider.com/1275572/totally-90s-house-cast-premiere-date-hgtv-details/",
+      "title": "Totally 90s House cast, premiere date and details",
+      "publisher": "TV Insider",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "dailybeast-urkel",
+      "url": "https://thedailybeast.com/obsessed/steve-urkel-actor-jaleel-white-reveals-how-he-avoided-child-star-tragedy/",
+      "title": "Steve Urkel actor Jaleel White reveals how he avoided child star tragedy",
+      "publisher": "The Daily Beast",
+      "type": "interview",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    }
+  ]
+}

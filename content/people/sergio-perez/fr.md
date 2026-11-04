@@ -1,23 +1,22 @@
 ---
 title: Sergio Pérez
 slug: sergio-perez
-metaTitle: 'Sergio Pérez : {age} ans, Cadillac jusqu''en 2029'
+metaTitle: 'Checo Pérez, {age} ans : 300e GP et contrat Cadillac'
 metaDescription: >-
-  Sergio Pérez a {age} ans (né le 26 janvier 1990). Le 28 octobre 2026, il a
-  prolongé son contrat avec Cadillac jusqu'en 2029, avant son 300e Grand Prix.
+  Checo Pérez a {age} ans (né le 26 janvier 1990). Six victoires, un an d'arrêt
+  après Red Bull, puis Cadillac jusqu'en 2029 et un 300e Grand Prix à Mexico.
 knownFor: 'Pilote mexicain de Formule 1, six victoires en Grand Prix'
 summary: >-
-  Sergio Pérez, surnommé Checo au Mexique [s:wikidata-q82805], est né à
-  Guadalajara le 26 janvier 1990 [s:f1-driver-profile] [s:wikidata-q82805]. Le
-  28 octobre 2026, il a signé une nouvelle prolongation chez Cadillac, jusqu'à
-  la fin de 2029 au moins [s:skysports-cadillac-2029]. Cette annonce est
-  intervenue quelques jours avant le Grand Prix de Mexico, son 300e départ
-  [s:skysports-cadillac-2029]. Il compte six victoires en Grand Prix, dont cinq
-  avec Red Bull [s:racingnews365-perez].
+  Sergio Pérez, surnommé Checo au Mexique, est né à Guadalajara le 26 janvier
+  1990. Le 28 octobre 2026, il a signé une nouvelle prolongation chez Cadillac,
+  jusqu'à la fin de 2029 au moins. Cette annonce est intervenue quelques jours
+  avant le Grand Prix de Mexico, son 300e départ. Il compte six victoires en
+  Grand Prix, dont cinq avec Red Bull.
 status: published
 risk: medium
-reviewedAt: '2026-10-28'
-reviewBy: '2027-04-28'
+publishedAt: '2026-11-04'
+reviewedAt: '2026-11-04'
+reviewBy: '2027-05-04'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -30,12 +29,23 @@ targetQueries:
   - sergio pérez red bull
   - sergio pérez victoires
   - sergio pérez pause 2025
+  - âge sergio perez
+  - checo perez
+  - checo pérez
+  - age perez f1
+  - sergio perez age
+  - checo perez age
 faq:
-  - q: Quel âge a Sergio Pérez ?
+  - q: 'Quel âge a Sergio Pérez, alias Checo Pérez en F1 ?'
     a: >-
-      Il est né le 26 janvier 1990, il avait donc 36 ans lorsque sa prolongation
-      chez Cadillac a été annoncée le 28 octobre 2026 [s:f1-driver-profile]
-      [s:skysports-cadillac-2029].
+      Il a 36 ans : il est né le 26 janvier 1990 à Guadalajara et il avait 36
+      ans lors de l'annonce de sa prolongation chez Cadillac, le 28 octobre 2026
+      [s:f1-driver-profile] [s:skysports-cadillac-2029].
+  - q: Comment s'est passé le 300e Grand Prix de Checo Pérez ?
+    a: >-
+      Parti 20e à Mexico le 1er novembre 2026, il a fini 17e en piste, 16e après
+      une pénalité infligée à Pierre Gasly, sans marquer de points
+      [s:elfinanciero-mexico-gp-2026].
   - q: Combien de temps dure le contrat de Sergio Pérez chez Cadillac ?
     a: >-
       Jusqu'à la fin de 2029 au moins. Selon Sky, son précédent contrat devait
@@ -49,10 +59,10 @@ faq:
     a: >-
       Six, selon le profil de pilote de la Formule 1 [s:f1-driver-profile]. Cinq
       sont venues avec Red Bull, entre 2021 et 2023 [s:racingnews365-perez].
-autoReviews: 2
-publishedAt: '2026-10-28'
+autoReviews: 3
+publishedTime: '2026-11-04T21:31:16.415Z'
 ---
-Sergio Pérez disputera son 300e Grand Prix chez lui, à Mexico, ce week-end. Le 28 octobre 2026, il a lié son avenir à Cadillac jusqu'en 2029 au moins [s:eurosport-cadillac-2029] [s:skysports-cadillac-2029]. La course a lieu le dimanche 1er novembre sur l'Autódromo Hermanos Rodríguez [s:f1-mexico-2026].
+Sergio Pérez, que tout le monde appelle Checo, a 36 ans : il est né à Guadalajara le 26 janvier 1990 [s:f1-driver-profile]. Le 28 octobre 2026, il a lié son avenir à Cadillac jusqu'en 2029 au moins [s:eurosport-cadillac-2029] [s:skysports-cadillac-2029]. Il a ensuite disputé son 300e Grand Prix chez lui, à Mexico, le dimanche 1er novembre sur l'Autódromo Hermanos Rodríguez [s:f1-mexico-2026] [s:elfinanciero-mexico-gp-2026].
 
 ## Le contrat jusqu'en 2029
 
@@ -92,6 +102,6 @@ Son meilleur résultat à ce jour date de juin, au Grand Prix de Barcelone. Part
 
 ## Mexico et le 300e départ
 
-La course à Mexico sera son 300e Grand Prix, et il juge que ce cap est un moment très important de sa carrière [s:cronica-300gp]. Le mercredi 28 octobre, à partir de 10 h, Cadillac F1 Team et le Grand Prix du Mexique organisent une exhibition publique sur le Paseo de la Reforma [s:cronica-300gp]. The Race écrit qu'il a enflammé le public de la Formule 1 dans son pays [s:the-race-perez-career].
+Pour son 300e Grand Prix, le 1er novembre 2026, Pérez est parti 20e. Il a gagné six places au départ et est monté jusqu'au 13e rang vers le 20e tour [s:elfinanciero-mexico-gp-2026]. Son premier arrêt aux stands a mal tourné : Cadillac a eu un problème au changement de pneus, il est reparti 19e et a reçu cinq secondes de pénalité pour excès de vitesse dans la voie des stands [s:elfinanciero-mexico-gp-2026]. Pérez a expliqué que « le pistolet droit est tombé en panne et nous avons perdu 4 ou 5 secondes » [s:elfinanciero-mexico-gp-2026].
 
-Sky écrit qu'il fêtera son 300e départ en Grand Prix ce dimanche [s:skysports-cadillac-2029]. Le profil de la Formule 1 compte 299 engagements en Grand Prix avant la course de Mexico [s:f1-driver-profile].
+Il a franchi la ligne 17e. El Financiero le classe 16e après une pénalité de dix secondes infligée à Pierre Gasly, sans point à la clé [s:elfinanciero-mexico-gp-2026]. Avant la course, il jugeait ce cap très important dans sa carrière [s:cronica-300gp], et The Race écrit qu'il a enflammé le public de la Formule 1 dans son pays [s:the-race-perez-career]. Le profil de la Formule 1 comptait 299 engagements avant la course de Mexico [s:f1-driver-profile].

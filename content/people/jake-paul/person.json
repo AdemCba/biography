@@ -1,0 +1,183 @@
+{
+  "id": "jake-paul",
+  "name": "Jake Paul",
+  "categories": [
+    "creators",
+    "streamers-youtubers"
+  ],
+  "importance": 5,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1997-01-17",
+      "sources": [
+        "biography-com"
+      ],
+      "note": "Biography.com lists born January 17, 1997."
+    },
+    "birthPlace": {
+      "value": "Cleveland, Ohio, United States",
+      "sources": [
+        "biography-com",
+        "netflix-tudum-paul"
+      ],
+      "note": "Grew up in Westlake, Ohio."
+    },
+    "nationality": {
+      "value": [
+        "US"
+      ],
+      "sources": [
+        "forbes-profile"
+      ],
+      "note": "Forbes lists citizenship as United States."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "biography-com",
+      "url": "https://www.biography.com/athletes/jake-paul",
+      "title": "Jake Paul",
+      "publisher": "Biography.com",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "forbes-profile",
+      "url": "https://www.forbes.com/profile/jake-paul/",
+      "title": "Jake Paul",
+      "publisher": "Forbes",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "complex-forbes-creators-2025",
+      "url": "https://www.complex.com/pop-culture/a/backwoodsaltar/forbes-details-top-50-creators-of-2025",
+      "title": "Forbes details top 50 creators of 2025",
+      "publisher": "Complex",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "bleacher-forbes-2021",
+      "url": "https://bleacherreport.com/articles/10023838-jake-logan-paul-reportedly-made-a-combined-63m-in-2021-40m-earned-from-boxing",
+      "title": "Jake, Logan Paul reportedly made a combined $63M in 2021",
+      "publisher": "Bleacher Report",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "netflix-tudum-paul",
+      "url": "https://www.netflix.com/tudum/features/jake-paul",
+      "title": "Who Is Jake Paul? How a Viral YouTuber Became Boxing's Biggest Problem Child",
+      "publisher": "Netflix Tudum",
+      "type": "company",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "netflix-108m",
+      "url": "http://about.netflix.com/en/news/jake-paul-vs-mike-tyson-over-108-million-live-global-viewers",
+      "title": "Jake Paul vs Mike Tyson Mega-Event Makes History With Over 108 Million Live Global Viewers",
+      "publisher": "About Netflix",
+      "type": "company",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "nbc-tyson-netflix",
+      "url": "https://www.nbcnews.com/sports/boxing/60-million-households-watched-tyson-paul-fight-netflix-says-rcna180497",
+      "title": "60 million households watched Tyson-Paul fight, Netflix says",
+      "publisher": "NBC News",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "news3lv-fury",
+      "url": "https://news3lv.com/sports/content/jake-paul-takes-first-ring-defeat-by-split-decision-to-fury-02-27-2023",
+      "title": "Jake Paul takes first ring defeat by split decision to Fury",
+      "publisher": "News 3 Las Vegas (AP)",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "wfsb-chavez",
+      "url": "https://www.wfsb.com/2025/06/29/jake-paul-beats-former-middleweight-champ-julio-csar-chvez-jr-by-unanimous-decision/",
+      "title": "Jake Paul beats former middleweight champ Julio César Chávez Jr. by unanimous decision",
+      "publisher": "WFSB (AP)",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "news4jax-joshua",
+      "url": "https://www.news4jax.com/sports/2025/12/20/jake-paul-reports-double-broken-jaw-from-his-ko-loss-to-anthony-joshua",
+      "title": "Jake Paul reports 'double broken jaw' from his KO loss to Anthony Joshua",
+      "publisher": "News4JAX (AP)",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "cbs-joshua",
+      "url": "https://www.cbssports.com/boxing/news/jake-paul-anthony-joshua-results-knockout-injury-jaw",
+      "title": "Jake Paul undergoes surgery for broken jaw after knockout loss to Anthony Joshua",
+      "publisher": "CBS Sports",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "national-dubai",
+      "url": "https://thenationalnews.com/sport/combat-sports/2026/10/29/jake-paul-picks-dubai-for-christmas-eve-boxing-comeback",
+      "title": "Jake Paul picks Dubai for Christmas Eve boxing comeback",
+      "publisher": "The National",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "sky-doumbe",
+      "url": "https://www.skysports.com/boxing/news/13606969/jake-paul-to-fight-kickboxing-champion-cedric-doumbe-on-christmas-eve-as-youtubers-opponent-is-revealed",
+      "title": "Jake Paul to fight kickboxing champion Cedric Doumbe on Christmas Eve",
+      "publisher": "Sky Sports",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "postwrestling-merger",
+      "url": "https://www.postwrestling.com/2026/07/30/jake-pauls-most-valuable-promotions-and-pfl-announce-merger/",
+      "title": "Jake Paul's Most Valuable Promotions and PFL announce merger",
+      "publisher": "Post Wrestling",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "today-leerdam",
+      "url": "https://www.today.com/today/amp/rcna180467",
+      "title": "Who is Jake Paul's fiancée? Meet Olympian Jutta Leerdam",
+      "publisher": "TODAY",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "fox5ny-engagement",
+      "url": "https://www.fox5ny.com/news/jake-paul-engaged-dutch-speedskater-jutta-leerdam",
+      "title": "Jake Paul engaged to Dutch speedskater Jutta Leerdam",
+      "publisher": "FOX 5 New York",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    }
+  ]
+}

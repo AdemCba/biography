@@ -1,0 +1,141 @@
+{
+  "id": "kim-fields",
+  "name": "Kim Fields",
+  "categories": [
+    "artists",
+    "actors"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1969-05-12",
+      "sources": [
+        "tmdb",
+        "thefamouspeople",
+        "mn2s-agency"
+      ],
+      "note": "All three agree."
+    },
+    "birthPlace": {
+      "value": "New York City, New York, USA",
+      "sources": [
+        "tmdb",
+        "mn2s-agency"
+      ],
+      "note": "TheFamousPeople adds Harlem."
+    },
+    "nationality": {
+      "value": [
+        "US"
+      ],
+      "sources": [
+        "tmdb",
+        "apple-tv"
+      ],
+      "note": "Described as an American actress and director."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "abc-dwts",
+      "url": "https://abc.com/shows/dancing-with-the-stars/cast/kim-fields",
+      "title": "Kim Fields, Dancing with the Stars cast",
+      "publisher": "ABC",
+      "type": "company",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "mn2s-agency",
+      "url": "https://mn2s.com/booking-agency/talent-roster/kim-fields/",
+      "title": "Kim Fields",
+      "publisher": "MN2S",
+      "type": "company",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "tmdb",
+      "url": "https://www.themoviedb.org/person/98628-kim-fields",
+      "title": "Kim Fields",
+      "publisher": "The Movie Database (TMDB)",
+      "type": "database",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "apple-tv",
+      "url": "https://tv.apple.com/us/person/kim-fields/umc.cpc.6m2g5so1cw3su9ypv91kq7hh5",
+      "title": "Kim Fields Movies and Shows",
+      "publisher": "Apple TV",
+      "type": "database",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "thefamouspeople",
+      "url": "https://www.thefamouspeople.com/profiles/kim-fields-33828.php",
+      "title": "Kim Fields Biography",
+      "publisher": "TheFamousPeople",
+      "type": "other",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "fox-news-2017",
+      "url": "https://www.foxnews.com/entertainment/facts-of-life-star-kim-fields-reveals-how-she-overcame-the-child-star-curse",
+      "title": "Facts of Life star Kim Fields reveals how she overcame the child star curse",
+      "publisher": "Fox News",
+      "type": "interview",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "newsone-2017",
+      "url": "https://newsone.com/3762624/kim-fields-memoir-blessed-life/",
+      "title": "Kim Fields Addresses Coming Of Age In Hollywood In New Memoir",
+      "publisher": "NewsOne",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "globalgrind-2022",
+      "url": "https://globalgrind.com/5278787/queen-latifah-kim-fields-living-single-fact/",
+      "title": "Did You Know: Queen Latifah & Kim Fields' Actual Mothers Played Their Moms On Living Single",
+      "publisher": "Global Grind",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "abcnews-2013",
+      "url": "https://abcnews.com/blogs/entertainment/2013/11/catching-up-with-kim-fields-for-the-holidays/",
+      "title": "Catching Up with Kim Fields for the Holidays",
+      "publisher": "ABC News",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "bravo-dwts-2016",
+      "url": "https://www.bravotv.com/the-daily-dish/did-kim-fields-survive-another-elimination-on-dancing-with-the-stars",
+      "title": "Did Kim Fields Survive Another Elimination on Dancing with the Stars?",
+      "publisher": "Bravo",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    },
+    {
+      "id": "tvline-upshaws-2025",
+      "url": "https://www.tvline.com/2047550/the-upshaws-season-7-release-date-trailer-netflix/",
+      "title": "The Upshaws Ending In 2026: Netflix Sets January Release Date For Final Episodes",
+      "publisher": "TVLine",
+      "type": "press",
+      "accessed": "2026-11-04",
+      "lang": "en"
+    }
+  ]
+}

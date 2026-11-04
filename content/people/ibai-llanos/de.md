@@ -1,25 +1,31 @@
 ---
 title: Ibai Llanos
 slug: ibai-llanos
-metaTitle: 'Ibai Llanos: Alter, La-Velada-Rekorde und Kings League'
+metaTitle: 'Ibai Llanos: Wer ist der Streamer? Velada und Kings League'
 metaDescription: >-
-  Alter von Ibai Llanos, seine Wurzeln in Bilbao, die Zuschauerrekorde der La
-  Velada del Año von 2021 bis 2026, das Team KOI und der Start der Kings League.
+  Wer ist Ibai, der spanische Streamer aus Bilbao? Wie er vom Esports-Kommentar
+  zu 9,3 Millionen Zuschauern bei La Velada kam und mit Piqué die Kings League
+  startete.
 knownFor: 'Spanischer Streamer, Erfinder der La Velada del Año und Mitgründer von KOI'
 summary: >-
-  Ibai Llanos ist ein spanischer Streamer, geboren am 26. März 1995 in Bilbao
-  [s:esports-gg-ibai-profile]. Er hat die La Velada del Año
-  geschaffen, deren Ausgabe 2025 auf seinem Kanal bis zu 9.334.179 gleichzeitige
-  Zuschauer erreichte, und er hat die Fußballliga Kings League zusammen mit
-  Gerard Piqué gestartet [s:invenglobal-velada-v] [s:hatchet-kings-league].
+  Ibai Llanos ist ein spanischer Streamer, geboren am 26. März 1995 in Bilbao.
+  Er hat die La Velada del Año geschaffen, deren Ausgabe 2025 auf seinem Kanal
+  bis zu 9.334.179 gleichzeitige Zuschauer erreichte, und er hat die Fußballliga
+  Kings League zusammen mit Gerard Piqué gestartet.
 status: published
 risk: low
-reviewedAt: '2026-10-26'
-reviewBy: '2027-04-26'
+publishedAt: '2026-11-04'
+reviewedAt: '2026-11-04'
+reviewBy: '2027-05-04'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
 targetQueries:
+  - Ibai
+  - Ibai Streamer
+  - wer ist Ibai Llanos
+  - Streamer Llanos
+  - Ibai Lianos
   - Ibai Llanos Alter
   - Ibai Llanos Geburtstag
   - Ibai Llanos woher kommt er
@@ -32,13 +38,21 @@ targetQueries:
   - Ibai Llanos Streaming aufhören
   - meistgefolgter Twitch Streamer Ibai Llanos
 faq:
+  - q: Wer ist Ibai?
+    a: >-
+      Ibai Llanos ist ein spanischer Streamer aus Bilbao, geboren am 26. März
+      1995 [s:esports-gg-ibai-profile]. Er hat La Velada del Año geschaffen
+      [s:invenglobal-velada-v] und die Kings League mit Gerard Piqué gestartet
+      [s:hatchet-kings-league].
   - q: Wie alt ist Ibai Llanos?
     a: >-
       Er wurde am 26. März 1995 geboren und ist am 26. Oktober 2026 somit 31
       Jahre alt.
   - q: Woher kommt Ibai Llanos?
     a: >-
-      Er wurde am 26. März 1995 in Bilbao im spanischen Baskenland geboren. Er hat oft seinen Stolz auf das baskische Erbe betont, das er regelmäßig in seine Inhalte einbringt.
+      Er wurde am 26. März 1995 in Bilbao im spanischen Baskenland geboren. Er
+      hat oft seinen Stolz auf das baskische Erbe betont, das er regelmäßig in
+      seine Inhalte einbringt.
   - q: Hat Ibai Llanos die Kings League mitgegründet?
     a: >-
       Gerard Piqué hat die Kings League 2022 gegründet. Ibai hat die Liga
@@ -46,13 +60,17 @@ faq:
       eines der Teams.
   - q: Wie viele Zuschauer hatte La Velada del Año?
     a: >-
-      Die fünfte Ausgabe, am 26. Juli 2025 in Madrid, erreichte auf Ibais Kanal 9.334.179
-      gleichzeitige Zuschauer. Die sechste Ausgabe am 25. Juli 2026 kam auf 8,7
-      Millionen Zuschauer auf allen Plattformen.
-autoReviews: 2
-publishedAt: '2026-10-26'
+      Die fünfte Ausgabe, am 26. Juli 2025 in Madrid, erreichte auf Ibais Kanal
+      9.334.179 gleichzeitige Zuschauer. Die sechste Ausgabe am 25. Juli 2026
+      kam auf 8,7 Millionen Zuschauer auf allen Plattformen.
+autoReviews: 3
+publishedTime: '2026-11-04T21:31:16.392Z'
 ---
 Ibai Llanos wurde am 26. März 1995 in Bilbao in Spanien geboren [s:esports-gg-ibai-profile]. Bekannt ist er vor allem durch La Velada del Año, ein Event, das er ins Leben gerufen hat [s:invenglobal-velada-v] und mit dem er die unten beschriebenen Zuschauerrekorde aufgestellt hat. Außerdem hat er zusammen mit Gerard Piqué das Esports-Team KOI gegründet [s:streamscharts-koi] und mit ihm den Fußballwettbewerb Kings League gestartet [s:hatchet-kings-league].
+
+## Wer ist Ibai? Der Streamer Llanos kurz erklärt
+
+Ibai Llanos, im Netz einfach Ibai, ist ein spanischer Streamer aus Bilbao [s:esports-gg-ibai-profile]. Er arbeitete zuerst als Esports-Kommentator bei der LVP und streamt seit etwa 2020 in Vollzeit auf Twitch [s:esports-gg-ibai-profile]. Sein größtes Projekt ist La Velada del Año, deren fünfte Ausgabe 2025 auf seinem Kanal 9.334.179 gleichzeitige Zuschauer erreichte [s:invenglobal-velada-v]. Er ist 31 Jahre alt (geboren am 26. März 1995) [s:esports-gg-ibai-profile].
 
 ## Vom Esports-Kommentar zum Vollzeit-Streaming
 

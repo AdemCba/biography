@@ -1,23 +1,23 @@
 ---
 title: Luke Littler
 slug: luke-littler
-metaTitle: 'Luke Littler : âge, titres et Beat Luke Littler sur Netflix'
+metaTitle: 'Beat Luke Littler : Sherrock gagne 501 000 £ à Netflix'
 metaDescription: >-
-  Âge de Luke Littler, lieu de naissance, ses deux titres de champion du monde
-  PDC (2025 et 2026), son passage au numéro un mondial et l'émission Beat Luke
-  Littler.
+  Littler (19 ans), champion de fléchettes anglais, a battu 14 amateurs avant de
+  céder une manche à Fallon Sherrock sur Netflix. Le récit de la soirée et de
+  ses titres.
 knownFor: 'Joueur anglais de fléchettes, bi-champion du monde PDC'
 summary: >-
   Luke Littler est un joueur anglais de fléchettes né à Warrington le 21 janvier
-  2007 [s:dartsworld-littler-profile], et il est devenu numéro un mondial en
-  novembre 2025. Il a été sacré champion du monde PDC à 17 ans, en janvier 2025,
-  puis l'a conservé en janvier 2026. Le 30 octobre 2026, Netflix diffuse en
-  direct Beat Luke Littler, où des amateurs tentent de gagner une manche de 501
-  contre lui pour 501 000 livres.
+  2007, et il est devenu numéro un mondial en novembre 2025. Il a été sacré
+  champion du monde PDC à 17 ans, en janvier 2025, puis l'a conservé en janvier
+  2026. Le 30 octobre 2026, Fallon Sherrock a gagné une manche de 501 contre lui
+  dans Beat Luke Littler sur Netflix et remporté 501 000 livres.
 status: published
 risk: low
-reviewedAt: '2026-10-29'
-reviewBy: '2027-04-29'
+publishedAt: '2026-11-04'
+reviewedAt: '2026-11-04'
+reviewBy: '2027-05-04'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -28,10 +28,28 @@ targetQueries:
   - Beat Luke Littler Netflix
   - Luke Littler champion du monde
   - Luke Littler MBE
+  - Luke Littler fléchettes
+  - Beat Littler
+  - Littler âge
+  - Champion fléchette anglais
+  - Littler Netflix
+  - Beat Luke Littler
+  - BeatLukeLittler
 faq:
+  - q: Qui a battu Luke Littler dans Beat Luke Littler sur Netflix ?
+    a: >-
+      Fallon Sherrock, 32 ans, a gagné une manche de 501 contre lui le 30
+      octobre 2026 et remporté 501 000 livres. Littler avait battu les 14
+      candidats précédents [s:sky-sports-sherrock-beat-littler-2026]
+      [s:netflix-tudum-beat-luke-littler-winner].
+  - q: 'Quel est le champion de fléchettes anglais le plus connu, Littler ?'
+    a: >-
+      Luke Littler, né à Warrington, double champion du monde PDC (2025 et 2026)
+      [s:dartsworld-littler-profile]
+      [s:sky-sports-world-championship-2026-final].
   - q: Quel âge a Luke Littler ?
     a: >-
-      Il est né le 21 janvier 2007, il avait donc 19 ans au 27 octobre 2026
+      Il est né le 21 janvier 2007, il a donc 19 ans au 4 novembre 2026
       [s:dartsworld-littler-profile].
   - q: D'où vient Luke Littler ?
     a: >-
@@ -45,12 +63,16 @@ faq:
     a: >-
       Netflix diffuse l'émission en direct le vendredi 30 octobre 2026 à 15 h
       sur la côte est américaine. Le prix est de 501 000 livres.
-autoReviews: 4
-publishedAt: '2026-10-29'
+autoReviews: 5
+publishedTime: '2026-11-04T21:31:16.405Z'
 ---
-Luke Littler a 19 ans et il est bi-champion du monde de la PDC. Né à Warrington, en Angleterre, le 21 janvier 2007 [s:dartsworld-littler-profile], il a été sacré pour la première fois à 17 ans, en janvier 2025 [s:dhnet-littler-world-final-2025]. Il est aussi le quatrième joueur à avoir conservé un titre mondial de la PDC [s:sky-sports-world-championship-2026-final]. Si vous êtes arrivé ici pour l'émission Netflix, commencez par la section suivante.
+Luke Littler a 19 ans et il est bi-champion du monde de la PDC. Né à Warrington, en Angleterre, le 21 janvier 2007 [s:dartsworld-littler-profile], il a été sacré pour la première fois à 17 ans, en janvier 2025 [s:dhnet-littler-world-final-2025]. Il est aussi le quatrième joueur à avoir conservé un titre mondial de la PDC [s:sky-sports-world-championship-2026-final]. Si vous êtes arrivé ici pour l'émission Netflix, le résultat est dans la section suivante.
 
-## Beat Luke Littler : ce qui se joue
+## Beat Luke Littler : Fallon Sherrock gagne 501 000 livres
+
+Le vendredi 30 octobre 2026, Fallon Sherrock, 32 ans, a gagné une manche de 501 contre Littler et empoché les 501 000 livres de Beat Luke Littler. Elle était la quinzième candidate : il avait battu les 14 premiers [s:sky-sports-sherrock-beat-littler-2026] [s:netflix-tudum-beat-luke-littler-winner]. Sky Sports en fait le deuxième plus gros prix de l'histoire des fléchettes, derrière le million de livres de Littler au championnat du monde en janvier [s:sky-sports-sherrock-beat-littler-2026]. Sa participation avait été critiquée. Le patron de la PDC, Barry Hearn, a répondu qu'elle ne détient pas de carte du circuit PDC et qu'elle avait le droit de s'inscrire [s:sky-sports-sherrock-beat-littler-2026]. « Je suis si heureuse de surmonter toute cette haine et de gagner », a-t-elle dit [s:sky-sports-sherrock-beat-littler-2026].
+
+## Beat Luke Littler : le format
 
 Le programme est un spécial en direct produit par Banijay UK pour Netflix [s:whats-on-netflix-beat-luke-littler]. Netflix le programme pour le vendredi 30 octobre 2026 à 15 h sur la côte est américaine [s:netflix-tudum-beat-luke-littler] [s:whats-on-netflix-beat-luke-littler]. La cagnotte est de 501 000 livres, environ 667 000 dollars [s:netflix-tudum-beat-luke-littler].
 

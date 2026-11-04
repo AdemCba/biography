@@ -7,14 +7,16 @@ metaDescription: >-
   gemeldete Verlängerung bis 2030 und Oberschenkelprobleme.
 knownFor: Flügelspieler des FC Barcelona und der brasilianischen Nationalmannschaft
 summary: >-
-  Raphinha ist der Flügelspieler des FC Barcelona und der brasilianischen
-  Nationalmannschaft. Der Verein kündigte 2025 eine Verlängerung bis Juni 2028
-  an, eine weitere Verlängerung bis Juni 2030 wurde gemeldet, ist aber vom Klub
-  nicht bestätigt. Probleme am Oberschenkel bestimmten zudem seinen Herbst 2026.
+  Raphinha ist Flügelspieler des FC Barcelona und brasilianischer
+  Nationalspieler. Barcelona gab 2025 eine Verlängerung bis Juni 2028 bekannt;
+  eine weitere Verlängerung bis Juni 2030 wurde berichtet, der Klub hat sie aber
+  nicht bestätigt. Nach Oberschenkelproblemen im Herbst erzielte er beim 6:1
+  gegen Alavés am 31. Oktober 2026 zwei Tore.
 status: published
 risk: low
-reviewedAt: '2026-10-27'
-reviewBy: '2027-04-27'
+publishedAt: '2026-11-04'
+reviewedAt: '2026-11-04'
+reviewBy: '2027-05-04'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -28,6 +30,9 @@ targetQueries:
   - Raphinha voller Name
   - Raphinha Getafe
   - Raphinha Statistik Barcelona
+  - Raphinha verletzt
+  - Raphinha Aston Villa
+  - Raphinha Tore diese Saison
 faq:
   - q: Wie alt ist Raphinha?
     a: >-
@@ -48,8 +53,12 @@ faq:
       Trainer Hansi Flick sagte, er sei für die Reise nicht spielberechtigt, aus
       Vorsicht nach drei Muskelverletzungen in der Vorsaison
       [s:worldsoccertalk-galatasaray-preview].
-autoReviews: 2
-publishedAt: '2026-10-27'
+  - q: Hat Raphinha gegen Alavés getroffen?
+    a: >-
+      Ja. Raphinha traf in der 8. und 41. Minute beim 6:1-Sieg Barcelonas im
+      Camp Nou am 31. Oktober 2026 [s:mundonow-alaves-report].
+autoReviews: 3
+publishedTime: '2026-11-04T21:31:16.412Z'
 ---
 Raphinha hatte seine stärkste Saison beim FC Barcelona 2024/25. Er erzielte 34 Tore und bereitete 22 weitere vor [s:fcb-raphinha-guarantees]. Laut den Zahlen des Vereins fielen 13 Tore in der Champions League, 18 in der Liga, eines im Pokal und zwei im Supercup [s:fcb-raphinha-guarantees]. Die Saison endete mit dem Meistertitel in La Liga und dem Gewinn der Copa del Rey [s:fcbarcelona-profile].
 
@@ -89,6 +98,9 @@ Barcelona gewann 4:1 im RAMS Park in Istanbul. Aleksey Batrakov brachte Galatasa
 
 Barcelona drehte das Spiel und gewann [s:dailysabah-galatasaray-result]. Vor der Reise hatte die Vorschau an frühere Ergebnisse erinnert: ein 5:1 gegen Feyenoord in der Champions League und eine 1:3-Niederlage von Galatasaray gegen Sporting [s:worldsoccertalk-galatasaray-preview]. Beim Feyenoord-Spiel im Camp Nou am 9. September traf Raphinha zweimal [s:worldsoccertalk-galatasaray-preview].
 
-## Was noch offen ist
+## November 2026: Rückkehr mit zwei Toren gegen Alavés
 
-Die hier genutzten Berichte reichen bis zum Ergebnis von Istanbul. Sie zeigen weder, wann er zurückkehrt, wie er nach diesem Spiel gespielt hat, noch ob der Klub die Verlängerung bis 2030 bekanntgeben wird.
+
+Gegen Alavés spielte er. Barcelona gewann am 31. Oktober im Spotify Camp Nou 6:1, Raphinha traf in der 8. und 41. Minute [s:mundonow-alaves-report]. Fermín López, Lamine Yamal (zweimal) und Anthony Gordon erzielten die übrigen Tore, Mariano Díaz traf in der 84. Minute für Alavés [s:mundonow-alaves-report]. Der Sieg folgte auf die 1:2-Niederlage gegen Real Madrid; Barcelona blieb mit zehn Siegen und einer Niederlage aus elf Spielen Tabellenführer [s:mundonow-alaves-report]. Es kamen 53.523 Zuschauer [s:mundonow-alaves-report].
+
+Die für dieses Update geprüften Quellen decken das Spiel gegen Aston Villa nicht ab und ändern an der Vertragslage nichts: Die Verlängerung bis 2028 ist offiziell, die bis 2030 bleibt eine Pressemeldung ohne Ankündigung des Klubs.

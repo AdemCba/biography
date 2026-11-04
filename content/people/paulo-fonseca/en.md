@@ -1,23 +1,25 @@
 ---
 title: Paulo Fonseca
 slug: paulo-fonseca
-metaTitle: 'Paulo Fonseca: age {age}, career and Sporting talks'
+metaTitle: 'Paulo Fonseca: age {age}, career and new Sporting job'
 metaDescription: >-
-  Paulo Fonseca is {age}, born 5 March 1973 in Nampula, Mozambique. A Bola reports
-  Sporting CP has agreed to hire him to replace Rui Borges.
+  Paulo Fonseca is {age}, born 5 March 1973 in Nampula, Mozambique. Sporting CP
+  appointed him on 4 November 2026 to replace Rui Borges, and he leaves Lyon.
 knownFor: >-
   Portuguese football coach, Shakhtar Donetsk champion and former manager of
   Roma, Milan and Lyon
 summary: >-
   Paulo Fonseca is a Portuguese football coach who has managed Shakhtar Donetsk,
-  Roma, Lille, AC Milan and Olympique Lyonnais. A Bola reported on 1 November
-  2026 that Sporting CP has agreed to appoint him, but as of 2 November no official
-  statement from the club, Lyon or Fonseca had been found. He was born in Nampula, Mozambique,
+  Roma, Lille, AC Milan and Olympique Lyonnais. On 4 November 2026 Sporting CP
+  confirmed him as head coach to replace Rui Borges, with a contract to June
+  2030, and Lyon confirmed his departure. He was born in Nampula, Mozambique,
   and won seven trophies at Shakhtar between 2016 and 2019.
 status: published
 risk: medium
-reviewedAt: '2026-11-01'
-reviewBy: '2027-05-01'
+publishedAt: '2026-11-04'
+publishedTime: '2026-11-04T21:31:16.408Z'
+reviewedAt: '2026-11-04'
+reviewBy: '2027-05-04'
 author: editor-in-chief
 reviewer: fact-check-desk
 aiAssisted: true
@@ -25,7 +27,9 @@ targetQueries:
   - how old is Paulo Fonseca
   - where is Paulo Fonseca from
   - Paulo Fonseca Sporting coach
-  - Paulo Fonseca Lyon coach
+  - Paulo Fonseca leaves Lyon
+  - Paulo Fonseca Lyon
+  - Paulo Fonseca coach
   - Paulo Fonseca Shakhtar Donetsk
   - Paulo Fonseca Roma
   - Paulo Fonseca AC Milan sacked
@@ -33,31 +37,38 @@ targetQueries:
   - Paulo Fonseca Lille
 faq:
   - q: How old is Paulo Fonseca?
-    a: 'He was born on 5 March 1973, so he is 53 as of 1 November 2026.'
+    a: 'He was born on 5 March 1973, so he is 53 as of 4 November 2026.'
   - q: Where is Paulo Fonseca from?
     a: >-
       He was born in Nampula, Mozambique, which was then a Portuguese colony.
       His family moved to Barreiro, near Lisbon, when he was a teenager.
-  - q: Is Paulo Fonseca joining Sporting CP?
+  - q: Is Paulo Fonseca the new Sporting coach?
     a: >-
-      A Bola reported on 1 November 2026 that Sporting had reached an agreement
-      with him and with Lyon. The report was not yet an official announcement
-      from the club.
+      Yes. A Bola reports that Sporting SAD confirmed his appointment on 4
+      November 2026 in a statement to the securities regulator, with a contract
+      until June 2030.
+  - q: Why did Paulo Fonseca leave Lyon?
+    a: >-
+      Lyon said he told the board he wanted to leave after an approach from a
+      club he feels particularly connected to, and called the decision
+      unexpected. Sporting is to pay Lyon 5 million euros for ending his
+      contract early.
   - q: Which clubs has Paulo Fonseca coached?
     a: >-
       Desportivo Aves, Paços de Ferreira, Porto and Braga in Portugal, then
       Shakhtar Donetsk, Roma, Lille, AC Milan and Olympique Lyonnais, where he
       was appointed in January 2025.
-autoReviews: 3
-publishedAt: '2026-11-01'
-publishedTime: '2026-11-01T21:38:16.087Z'
-updatedAt: '2026-11-02'
+autoReviews: 4
 ---
-Paulo Fonseca may be the next head coach of Sporting CP. A Bola reported on 1 November 2026 that the Lisbon club had reached an agreement with Fonseca and with Olympique Lyonnais, and that [Rui Borges](person:rui-borges) had agreed with the board to end his contract [s:abola-sporting-report]. That is a report, not an official announcement, and the paper says its information did not come from a club statement [s:abola-sporting-report].
+Paulo Fonseca is the new head coach of Sporting CP. A Bola reports that Sporting SAD confirmed the appointment on 4 November 2026, and Lyon announced the same day that he was leaving [s:abola-sporting-official] [s:afp-lyon-departure]. He replaces [Rui Borges](person:rui-borges) [s:abola-sporting-official].
 
-## November 2026: the Sporting report
+## November 2026: from Lyon to Sporting
 
-According to A Bola, Fonseca has already said goodbye to his Lyon squad by message, and his first match with Sporting is expected at home against Moreirense next Saturday, in matchday 11 of the league [s:abola-sporting-report]. Tiago Fernandes, who coaches Sporting's B team, is expected to lead the side in the match against Shakhtar Donetsk before that [s:abola-sporting-report]. The report describes Lyon's agreement as reached but gives no terms [s:abola-sporting-report]. Until Sporting or Lyon confirm the move, the date, the contract and the staff remain unconfirmed. The article itself cites no statement from Sporting, Lyon or Fonseca [s:abola-sporting-report], and our checks of club and press coverage on 2 November found none.
+A Bola says Sporting SAD confirmed the move in a statement to the CMVM, Portugal's securities regulator, on Wednesday 4 November [s:abola-sporting-official]. His contract runs until June 2030, and five assistants signed deals to 30 June 2030 [s:abola-sporting-official]. A Bola quotes Fonseca saying he would fulfil a childhood dream [s:abola-sporting-official]. The newspaper also says Sporting paid Lyon 5 million euros, and Lyon's own statement, as reported by RTP, says the same sum is due for the early end of his contract [s:abola-sporting-official] [s:rtp-lyon-confirms]. His Lyon deal had been due to run to 30 June 2027 [s:afp-lyon-departure].
+
+Lyon took the news badly. According to RTP, the club called it an unexpected decision and said that, given his clearly stated wish, the board did not think it was in the club's interest to keep working together [s:rtp-lyon-confirms]. AFP quotes Lyon's sporting director, Matthieu Louis-Jean, calling it "un choix du coeur concernant son club d'enfance" [s:afp-lyon-departure]. Lyon were third in Ligue 1 after nine matchdays [s:afp-lyon-departure]. His assistant Jorge Maciel, 41, takes the team for the Europa League tie with Real Sociedad on Thursday and the league trip to Brest on Sunday, and Louis-Jean said Carlos Vicens is among the candidates for the permanent job [s:afp-lyon-departure].
+
+At Sporting, the departure of Borges and his staff was confirmed alongside the hiring [s:abola-sporting-official]. RTP says Borges was removed on Sunday after two years in charge, having won a league and cup double that Sporting had not managed in 23 years [s:rtp-lyon-confirms]. A Bola's first report of the deal, on 1 November, turned out to be accurate [s:abola-sporting-report] [s:abola-sporting-official].
 
 ## From Nampula to Barreirense
 

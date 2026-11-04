@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-04",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 12 July 1984 in Colbert, Washington; American; also Mikaela Mehrizi Hoover",
+      "sourceIds": [
+        "tmdb"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDB confirms."
+    },
+    {
+      "claim": "Cat Grant, gossip columnist, in Superman (2025), cast without audition; Man of Tomorrow wish; Chopper details; 14-year-old dog; about twenty years of career",
+      "sourceIds": [
+        "collider-brosnahan",
+        "comicbook-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed in both interviews."
+    },
+    {
+      "claim": "Chopper audition story (Beef, voice agent, passed, casting asked for her, Zoom callback, quote)",
+      "sourceIds": [
+        "popverse-chopper"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed; text now says the materials did not say which show."
+    },
+    {
+      "claim": "Humanzee! 2008 mockumentary; Sparky & Mikaela by Gunn and Safran; Joe Fria; Guardians, Suicide Squad, Vol. 3",
+      "sourceIds": [
+        "collider-brosnahan",
+        "slashfilm-gunn"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed; unsupported Xbox/Sean Gunn/Rooker, breakout, motion capture, recurring and TMDB-year-note claims were removed."
+    },
+    {
+      "claim": "Sharp 2014 anecdotes",
+      "sourceIds": [
+        "sharp-2014"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "The People v. Gorilla Grodd order Aug 2026, cast, producers",
+      "sourceIds": [
+        "thewrap-grodd"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed; return of Hoover implied by listing."
+    },
+    {
+      "claim": "Ava in Beef S2, One Piece S2 10 March 2026, Ramble On",
+      "sourceIds": [
+        "popculture-ava",
+        "rt-beef-s2"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Filmography table years/roles",
+      "sourceIds": [
+        "tmdb"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed; Suicide Squad now dated 2020 as TMDB."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline and sourced interview detail.",
+  "decision": "approve",
+  "summary": "After corrections all claims match the sources."
+}

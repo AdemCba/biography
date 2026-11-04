@@ -1,333 +1,98 @@
 {
-  "date": "2026-11-01",
-  "model": "claude-haiku-5-5",
+  "date": "2026-11-04",
+  "model": "claude-sonnet-5-5",
   "approved": true,
   "reasons": [],
   "claims": [
     {
-      "claim": "A Bola reported 1 Nov 2026 that Sporting reached agreement with Fonseca and Lyon; Rui Borges agreed with SAD board to end contract",
+      "claim": "Sporting SAD confirmed Fonseca as head coach on 4 Nov 2026 in a statement to the CMVM; replaces Rui Borges",
       "sourceIds": [
-        "abola-sporting-report"
+        "abola-sporting-official"
       ],
       "verdict": "confirmed",
-      "note": "Lead paragraph: Sporting reached agreement with Lyon and Fonseca; Borges agreed termination with SAD administration."
+      "note": "A Bola, 4 Nov 2026: SAD statement to CMVM on Wednesday; succeeds Rui Borges."
     },
     {
-      "claim": "No official club statement; report relies on A Bola's own sourcing",
+      "claim": "Contract until June 2030; five assistants signed until 30 June 2030",
       "sourceIds": [
-        "abola-sporting-report"
+        "abola-sporting-official"
       ],
       "verdict": "confirmed",
-      "note": "Article has no club statement; cites A BOLA's own sourcing only."
+      "note": "Article states both."
     },
     {
-      "claim": "Fonseca said goodbye to Lyon squad by message",
+      "claim": "Fonseca said he would fulfil a childhood dream",
       "sourceIds": [
-        "abola-sporting-report"
+        "abola-sporting-official"
       ],
       "verdict": "confirmed",
-      "note": "Article: he already said goodbye by message to the group."
+      "note": "Article quotes 'cumprir um sonho de infancia'."
     },
     {
-      "claim": "First match at home vs Moreirense next Saturday, matchday 11",
+      "claim": "Sporting pays Lyon 5 million euros; Lyon statement says same",
       "sourceIds": [
-        "abola-sporting-report"
+        "abola-sporting-official",
+        "rtp-lyon-confirms"
       ],
       "verdict": "confirmed",
-      "note": "Debut expected at home to Moreirense."
+      "note": "A Bola: 5M euros; RTP quotes Lyon: 'O Sporting vai pagar 5 milhoes de euros ao OL pelo final de contrato antecipado'."
     },
     {
-      "claim": "Tiago Fernandes, who coaches Sporting's B team, expected to lead side vs Shakhtar",
+      "claim": "Lyon contract ran to 30 June 2027",
       "sourceIds": [
-        "abola-sporting-report"
+        "afp-lyon-departure"
       ],
       "verdict": "confirmed",
-      "note": "Article: Tiago Fernandes, until now on the B team, will lead the side in London vs the Ukrainians (Shakhtar)."
+      "note": "AFP states contract until 30 June 2027."
     },
     {
-      "claim": "Lyon agreement reached, no terms given",
+      "claim": "Lyon called it an unexpected decision; board saw no interest in continuing given his clearly expressed wish; he told the board of his wish after an approach from a club he is particularly attached to",
       "sourceIds": [
-        "abola-sporting-report"
+        "rtp-lyon-confirms"
       ],
       "verdict": "confirmed",
-      "note": "Agreement stated; no terms in article."
+      "note": "RTP quotes Lyon statement: decisao inesperada, 'desejo claramente expresso', 'abordado ... por um clube ao qual se sente particularmente ligado'."
     },
     {
-      "claim": "Born 5 March 1973 in Nampula, Mozambique",
+      "claim": "Louis-Jean: 'un choix du coeur concernant son club d'enfance'; Lyon sporting director; Lyon 3rd after nine matchdays",
       "sourceIds": [
-        "acmilan-appointment",
-        "asroma-10-things"
+        "afp-lyon-departure"
       ],
       "verdict": "confirmed",
-      "note": "Both pages state date and place."
+      "note": "AFP quotes; 3e place after 9 journees. Club implied by 'nous rejoindre' (Lyon)."
     },
     {
-      "claim": "Mozambique a Portuguese colony, independence 1975",
+      "claim": "Jorge Maciel, 41, leads Lyon vs Real Sociedad Thursday and Brest Sunday; Carlos Vicens among candidates",
       "sourceIds": [
-        "asroma-10-things"
+        "afp-lyon-departure",
+        "rtp-lyon-confirms"
       ],
       "verdict": "confirmed",
-      "note": "Independence two years later, 1975."
+      "note": "Both sources confirm."
     },
     {
-      "claim": "Lived in Africa until 14, then family moved to Barreiro near Lisbon",
+      "claim": "Borges removed Sunday after two years; league and cup double not achieved in 23 years; Borges and staff departure confirmed",
       "sourceIds": [
-        "asroma-10-things"
+        "rtp-lyon-confirms",
+        "abola-sporting-official"
       ],
       "verdict": "confirmed",
-      "note": "Moved to Barreiro at 14."
+      "note": "RTP and A Bola."
     },
     {
-      "claim": "Played as defender",
+      "claim": "A Bola 1 Nov report of the deal proved accurate",
       "sourceIds": [
-        "lapresse-milan-profile"
+        "abola-sporting-report",
+        "abola-sporting-official"
       ],
       "verdict": "confirmed",
-      "note": "Ruolo: difensore."
-    },
-    {
-      "claim": "Joined Barreirense 1991, 91 appearances over four seasons",
-      "sourceIds": [
-        "asroma-10-things"
-      ],
-      "verdict": "confirmed",
-      "note": "Confirmed."
-    },
-    {
-      "claim": "Moved to Porto, never played a match, loaned out several times",
-      "sourceIds": [
-        "asroma-10-things"
-      ],
-      "verdict": "confirmed",
-      "note": "Never made a first-team appearance; loaned out on multiple occasions."
-    },
-    {
-      "claim": "Last club as player Estrela da Amadora, retired 2005",
-      "sourceIds": [
-        "asroma-10-things",
-        "lapresse-milan-profile"
-      ],
-      "verdict": "confirmed",
-      "note": "Both state Estrela Amadora and 2005."
-    },
-    {
-      "claim": "Began coaching 2005 with Estrela da Amadora youth team",
-      "sourceIds": [
-        "acmilan-appointment",
-        "lapresse-milan-profile"
-      ],
-      "verdict": "confirmed",
-      "note": "Youth team coaching at Estrela; debut on the bench."
-    },
-    {
-      "claim": "Desportivo Aves: third-division side to Cup quarter-finals in two consecutive seasons and promotion to second division",
-      "sourceIds": [
-        "asroma-10-things"
-      ],
-      "verdict": "confirmed",
-      "note": "Successive seasons; helped promotion. No exact dates in source."
-    },
-    {
-      "claim": "2012 Paços de Ferreira third place, Champions League play-off place",
-      "sourceIds": [
-        "asroma-10-things",
-        "acmilan-appointment"
-      ],
-      "verdict": "confirmed",
-      "note": "Confirmed in both."
-    },
-    {
-      "claim": "Joined Porto 2013, won Portuguese Super Cup, first major trophy as coach",
-      "sourceIds": [
-        "asroma-10-things"
-      ],
-      "verdict": "confirmed",
-      "note": "2013 Supertaca."
-    },
-    {
-      "claim": "Porto dismissed him in March; returned to Paços, finished eighth",
-      "sourceIds": [
-        "lapresse-milan-profile"
-      ],
-      "verdict": "confirmed",
-      "note": "Sacked in March; returned following season, eighth place."
-    },
-    {
-      "claim": "Led Braga to Portuguese Cup, beating Porto on penalties in the final",
-      "sourceIds": [
-        "asroma-10-things"
-      ],
-      "verdict": "confirmed",
-      "note": "2016 Taca de Portugal final vs Porto on penalties."
-    },
-    {
-      "claim": "Shakhtar first day in charge 1 June 2016",
-      "sourceIds": [
-        "shakhtar-leaves"
-      ],
-      "verdict": "confirmed",
-      "note": "Took helm June 1st, 2016."
-    },
-    {
-      "claim": "Three Ukrainian league titles, three Ukrainian Cups, one Super Cup, three league and cup doubles",
-      "sourceIds": [
-        "shakhtar-leaves"
-      ],
-      "verdict": "confirmed",
-      "note": "Confirmed."
-    },
-    {
-      "claim": "139 games in charge, 103 wins",
-      "sourceIds": [
-        "shakhtar-leaves",
-        "acmilan-appointment"
-      ],
-      "verdict": "confirmed",
-      "note": "Both sources give 139 and 103."
-    },
-    {
-      "claim": "Unbeaten run of 29 league games",
-      "sourceIds": [
-        "shakhtar-leaves"
-      ],
-      "verdict": "confirmed",
-      "note": "29 league games."
-    },
-    {
-      "claim": "Shakhtar page calls him one of the most successful coaches in club history; side won every cup meeting under him (new sentence)",
-      "sourceIds": [
-        "shakhtar-leaves"
-      ],
-      "verdict": "confirmed",
-      "note": "Page: one of the most successful coaches in the club's history; Shakhtar won all cup meetings under him, undefeated in cup."
-    },
-    {
-      "claim": "Left Shakhtar in June 2019",
-      "sourceIds": [
-        "shakhtar-leaves"
-      ],
-      "verdict": "confirmed",
-      "note": "Page does not state the date in text; the article is dated 11 June 2019 and titled 'Paulo Fonseca leaves Shakhtar'."
-    },
-    {
-      "claim": "AC Milan 2024 announcement gives seven trophies and 103 wins in 139 matches at Shakhtar",
-      "sourceIds": [
-        "acmilan-appointment"
-      ],
-      "verdict": "confirmed",
-      "note": "Seven trophies, 103 wins from 139 matches."
-    },
-    {
-      "claim": "AS Roma appointed him on 11 June 2019",
-      "sourceIds": [
-        "asroma-10-things"
-      ],
-      "verdict": "confirmed",
-      "note": "Article dated 11 June 2019; appointment official that Tuesday."
-    },
-    {
-      "claim": "Roma first season fifth in Serie A; next season Europa League semi-finals",
-      "sourceIds": [
-        "ligue1-article",
-        "acmilan-appointment"
-      ],
-      "verdict": "confirmed",
-      "note": "Fifth in Serie A; 2021 Europa League semi-final."
-    },
-    {
-      "claim": "Roma dismissed him May 2021",
-      "sourceIds": [
-        "lapresse-milan-profile"
-      ],
-      "verdict": "confirmed",
-      "note": "Sacked May 2021."
-    },
-    {
-      "claim": "Lille hired him for two seasons",
-      "sourceIds": [
-        "dn-lyon-appointment"
-      ],
-      "verdict": "confirmed",
-      "note": "Two seasons per DN and Record. The ligue1 article says 'three impressive years' in one place and 'two seasons' in another; the conflict is in that source only."
-    },
-    {
-      "claim": "Lille finished fifth in Ligue 1 in 2022/23 and fourth in 2023/24",
-      "sourceIds": [
-        "dn-lyon-appointment"
-      ],
-      "verdict": "confirmed",
-      "note": "5th and 4th per DN."
-    },
-    {
-      "claim": "Lille reached quarter-finals of Europa Conference League in 2024",
-      "sourceIds": [
-        "ligue1-article"
-      ],
-      "verdict": "confirmed",
-      "note": "Conference League quarterfinals 2024."
-    },
-    {
-      "claim": "AC Milan announced appointment 13 June 2024, three-year contract",
-      "sourceIds": [
-        "acmilan-appointment"
-      ],
-      "verdict": "confirmed",
-      "note": "Article dated 13 June 2024; three-year deal."
-    },
-    {
-      "claim": "Dismissed at end of 2024",
-      "sourceIds": [
-        "dn-lyon-appointment"
-      ],
-      "verdict": "confirmed",
-      "note": "Dismissed after 1-1 vs Roma, late 2024."
-    },
-    {
-      "claim": "Milan's announcement quoted no words from Fonseca, only club welcome to him and his staff",
-      "sourceIds": [
-        "acmilan-appointment"
-      ],
-      "verdict": "confirmed",
-      "note": "Re-checked: no direct quote from Fonseca; club wishes Paulo and his staff a warm welcome."
-    },
-    {
-      "claim": "Lyon appointed him 31 January 2025 to replace Pierre Sage",
-      "sourceIds": [
-        "ligue1-article",
-        "lyon-appointment-release"
-      ],
-      "verdict": "confirmed",
-      "note": "Lyon announced 31 Jan 2025; Sage departure noted."
-    },
-    {
-      "claim": "Contract until 30 June 2027; decision unanimous by John Textor and sporting management",
-      "sourceIds": [
-        "lyon-appointment-release"
-      ],
-      "verdict": "confirmed",
-      "note": "Confirmed in the release."
-    },
-    {
-      "claim": "Hiring part of drive to restore ambition",
-      "sourceIds": [
-        "ligue1-article"
-      ],
-      "verdict": "confirmed",
-      "note": "Club statement describes restoring ambition."
-    },
-    {
-      "claim": "Lyon sixth in Ligue 1 with 30 points, secured Europa League phase",
-      "sourceIds": [
-        "ligue1-article"
-      ],
-      "verdict": "confirmed",
-      "note": "Sixth, 30 points, automatic Europa League qualification."
+      "note": "Consistent with the 4 Nov official confirmation."
     }
   ],
   "uncitedClaims": [],
   "readsHumanWritten": true,
   "addsValue": true,
-  "valueNote": "Separates the unconfirmed A Bola report from official club statements, gives a dated timeline across clubs, and cites primary club and filing sources.",
+  "valueNote": "Adds dated, attributed news that older pages lack, separating confirmed facts from reports.",
   "decision": "approve",
-  "summary": "All checked claims confirmed against fetched sources, including the new Shakhtar sentence. Frontmatter is backed by the body. Minor source conflict on Lille length noted in ligue1-article only."
+  "summary": "New November section, summary, FAQ and meta checked against A Bola, RTP and AFP/France 24 fetched on 2026-11-04. Louis-Jean's club is implied, not stated, by AFP."
 }
