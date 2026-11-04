@@ -4,8 +4,8 @@ name: Search Console
 # and their real queries) for the writer. Needs the GSC_SERVICE_ACCOUNT secret; skips without it.
 
 on:
-  schedule:
-    - cron: "30 5 * * *"
+  # Started daily at 08:30 TR by cron-job.org through the workflow_dispatch API: GitHub's own
+  # schedule ran up to 7 hours late. Do not add a schedule here, or runs will double up.
   workflow_dispatch:
 
 permissions:
