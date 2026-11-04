@@ -1,11 +1,11 @@
 ---
 title: 'Yaxel Lendeborg: Alter, Draft und Warriors-Zahlen'
 slug: yaxel-lendeborg
-metaTitle: 'Yaxel Lendeborg Alter: {age}, Stats und Verletzung'
+metaTitle: 'Yaxel Lendeborg ist {age}: Vom NCAA-Titel zu den Warriors'
 metaDescription: >-
-  Yaxel Lendeborg ist {age} Jahre alt (geboren am 30. September 2002). Am 28.
-  Oktober 2026 stand er wegen einer Fußentzündung als fraglich auf dem
-  Verletzungsbericht.
+  Wie alt ist Yaxel Lendeborg? Geboren am 30. September 2002, mit 23 an Pick 11
+  gedraftet, nach dem NCAA-Titel mit Michigan. Alter, Weg und Rolle bei den
+  Warriors.
 knownFor: Rookie-Flügelspieler der Golden State Warriors und Pick 11 im Draft 2026
 summary: >-
   Yaxel Lendeborg ist ein Rookie-Flügelspieler der Golden State Warriors und
@@ -28,6 +28,11 @@ targetQueries:
   - Yaxel Lendeborg Warriors
   - Yaxel Lendeborg Draft
   - Yaxel Lendeborg Herkunft
+  - Yaxel Lendeborg age
+  - Lendeborg
+  - Lendenborg
+  - Landeborg
+  - Yax Lendeborg
 faq:
   - q: Wie alt ist Yaxel Lendeborg?
     a: >-
@@ -47,10 +52,20 @@ faq:
       Acento schreibt, er sei in den USA von dominikanischen Eltern geboren
       [s:acento-dominicano]. Claro Sports nennt ihn Puerto-Ricaner
       [s:clarosports-puertorriqueno].
+  - q: Wie alt ist Lendeborg, und warum ist er für einen Rookie älter?
+    a: >-
+      Er ist am 30. September 2002 geboren [s:nba-profile] und war 23, als er
+      im Draft 2026 an Pick 11 ging [s:fantasypros-draft]. Er kam als Senior
+      nach drei College-Stationen in die NBA [s:nbc-bay-area-draft-analysis].
 autoReviews: 1
+updatedAt: '2026-11-04'
 publishedAt: '2026-10-28'
 ---
 Lendeborg war 23 Jahre alt, als die Warriors ihn im Draft 2026 holten, und kam als Senior aus dem College [s:fantasypros-draft]. Die Wahl fiel am Dienstag, dem 23. Juni, am ersten Tag des Drafts [s:nbc-bay-area-draft-analysis]. NBA.com führt ihn als Round 1, Pick 11 [s:nba-profile].
+
+## Wie alt ist Yaxel Lendeborg?
+
+Yaxel Lendeborg wurde am 30. September 2002 geboren, ist also seit dem 30. September 2026 24 Jahre alt [s:nba-profile]. Für einen Rookie ist das vergleichsweise alt: Er war 23, als die Warriors ihn an Pick 11 wählten, und kam als Senior aus dem College [s:fantasypros-draft]. Der Grund ist sein Weg über zwei Spielzeiten an der UAB und eine in Michigan, die er mit dem NCAA-Titel 2026 beendete [s:nbc-bay-area-draft-analysis].
 
 ## Curry, Kerr und die Lücke auf dem Flügel
 

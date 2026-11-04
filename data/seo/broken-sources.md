@@ -7,5 +7,3 @@ publisher, accessed), or remove the claim and its citation if nothing else backs
 
 | Person | Source id | Status | URL |
 | --- | --- | --- | --- |
-| sinja-kraus | vol-peking-2026 | 404 | https://www.vol.at/kraus-zieht-in-peking-ins-achtelfinale-ein/10516100 |
-| troy-aikman | cfbhall-aikman | 404 | https://cfbhall.com/inductees/troy-aikman-2008 |

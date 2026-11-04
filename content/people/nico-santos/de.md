@@ -1,11 +1,10 @@
 ---
 title: Nico Santos
 slug: nico-santos
-metaTitle: 'Nico Santos ist {age}: Alter, Tour und Hits'
+metaTitle: 'Wie alt ist Nico Santos? {age}, von Bremen nach Mallorca'
 metaDescription: >-
-  Nico Santos ist {age}, geboren in Bremen und auf Mallorca aufgewachsen. Heute
-  spielt seine Arena-Tour in der LANXESS Arena Köln, München folgt am 10.
-  November.
+  Nico Santos ist {age} (Geburtstag 7. Januar 1993). Als Nico Wellenbrink in
+  Bremen geboren, auf Mallorca aufgewachsen, dann Hit „Home“ und Arena-Tour.
 knownFor: 'Singer-Songwriter und Produzent, bekannt durch „Home“ und die Arena-Tour 2026'
 summary: >-
   Nico Santos ist ein deutscher Singer-Songwriter und Produzent, geboren am 7.
@@ -29,6 +28,9 @@ targetQueries:
   - nico santos album
   - nico santos songs
   - nico santos mallorca
+  - wie alt ist nico santos
+  - nico santos geburtstag
+  - santos singer
 faq:
   - q: Wie alt ist Nico Santos?
     a: >-
@@ -49,10 +51,19 @@ faq:
       Die Single „All Time High“ erschien am 24. Oktober 2025
       [s:nico-santos-official]. Die offizielle Website führt sie unter den
       Singles mit diesem Datum auf [s:nico-santos-official].
+  - q: Wann hat Nico Santos Geburtstag?
+    a: >-
+      Am 7. Januar. Er wurde am 7. Januar 1993 in Bremen geboren
+      [s:joyn-nico-santos-profile].
 autoReviews: 1
+updatedAt: '2026-11-04'
 publishedAt: '2026-10-31'
 publishedTime: '2026-10-31T09:37:48.485Z'
 ---
+## Wie alt ist Nico Santos?
+
+Nico Santos ist 33 Jahre alt: Der Sänger wurde am 7. Januar 1993 in Bremen geboren, sein Geburtstag ist der 7. Januar [s:joyn-nico-santos-profile] [s:mallorca-magazin-2020]. Geboren wurde er als Nico Wellenbrink, aufgewachsen ist er auf Mallorca [s:joyn-nico-santos-profile] [s:mallorca-magazin-2020].
+
 ## Bremen, dann Mallorca
 
 Nico Santos kam als Nico Wellenbrink am 7. Januar 1993 in Bremen zur Welt [s:joyn-nico-santos-profile]. Die Familie zog nach Mallorca, als er ein Jahr alt war [s:mallorca-magazin-2020], und er spricht seit seiner Kindheit fließend Spanisch [s:nico-santos-official]. Als Kind hatte er Klavier-, Tanz- und Gesangsunterricht und arbeitete später als Entertainer in Clubhotels [s:joyn-nico-santos-profile].

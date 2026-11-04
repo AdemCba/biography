@@ -1,10 +1,10 @@
 ---
 title: Ibai Llanos
 slug: ibai-llanos
-metaTitle: 'Ibai Llanos : âge, records de La Velada et Kings League'
+metaTitle: 'Ibai Llanos, le streamer espagnol : âge et records'
 metaDescription: >-
-  Âge d'Ibai Llanos, ses racines à Bilbao, les records d'audience de La Velada
-  del Año de 2021 à 2026, l'équipe KOI et le lancement de la Kings League.
+  Qui est Ibai, le streamer espagnol le plus connu ? Né à Bilbao en 1995, il a
+  créé La Velada del Año (9,3 millions de spectateurs) et lancé la Kings League.
 knownFor: 'Streamer espagnol, créateur de La Velada del Año et cofondateur de KOI'
 summary: >-
   Ibai Llanos est un streamer espagnol né à Bilbao le 26 mars 1995
@@ -31,6 +31,9 @@ targetQueries:
   - Ibai Llanos Porcinos FC
   - Ibai Llanos arrêter le streaming
   - streamer le plus suivi sur Twitch Ibai Llanos
+  - ibai streamer
+  - ibai age
+  - streamer espagnol connu
 faq:
   - q: Quel âge a Ibai Llanos ?
     a: 'Il est né le 26 mars 1995, il a donc 31 ans au 26 octobre 2026.'
@@ -45,10 +48,20 @@ faq:
       La cinquième édition, le 26 juillet 2025, a atteint 9 334 179 spectateurs
       simultanés sur la chaîne d'Ibai. La sixième, le 25 juillet 2026, a atteint
       8,7 millions de spectateurs sur toutes les plateformes.
+  - q: Qui est Ibai, le streamer espagnol connu ?
+    a: >-
+      Ibai Llanos, né à Bilbao le 26 mars 1995 [s:esports-gg-ibai-profile]. Il a
+      créé La Velada del Año, qui a atteint 9 334 179 spectateurs simultanés en
+      2025 [s:invenglobal-velada-v].
 autoReviews: 2
+updatedAt: '2026-11-04'
 publishedAt: '2026-10-26'
 ---
 Ibai Llanos est né le 26 mars 1995 à Bilbao, en Espagne [s:esports-gg-ibai-profile]. Il est surtout connu pour La Velada del Año, un événement qu'il a créé [s:invenglobal-velada-v] et qui a battu les records d'audience décrits plus bas. Il a aussi fondé l'équipe d'esport KOI avec Gerard Piqué [s:streamscharts-koi], et il a lancé avec lui la compétition de football Kings League [s:hatchet-kings-league].
+
+## Qui est Ibai, le streamer espagnol le plus connu ?
+
+Ibai Llanos, dit Ibai, est un streamer espagnol né à Bilbao le 26 mars 1995 [s:esports-gg-ibai-profile]. Il a débuté comme commentateur d'esport à la LVP avant de passer au streaming à temps plein sur Twitch vers 2020 [s:esports-gg-ibai-profile]. En 2025, son événement La Velada del Año a atteint 9 334 179 spectateurs simultanés sur sa chaîne, et Invenglobal le présentait alors comme le streamer le plus suivi de Twitch avec 19,7 millions d'abonnés [s:invenglobal-velada-v].
 
 ## Du commentaire d'esport au streaming à temps plein
 

@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-04",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 3 Nov 1953 in Fort Worth, Texas",
+      "sourceIds": [
+        "tmdb",
+        "rotten-tomatoes"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the page opened in this session."
+    },
+    {
+      "claim": "Raised in Ferguson, Missouri; BA education and MA special education at Missouri-Columbia; K-5 program in Southern Boone County; one year itinerant teacher",
+      "sourceIds": [
+        "kc-studio-about"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the page opened in this session."
+    },
+    {
+      "claim": "Taught children with learning disabilities before moving to New York; screen debut 1981; A Little Sex 1981; leading roles in Windy City and SpaceCamp; retired after Due East (2002); filmography table roles",
+      "sourceIds": [
+        "rotten-tomatoes"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the page opened in this session."
+    },
+    {
+      "claim": "Began on The Edge of Night; known professionally as Kate Capshaw; known-for credits",
+      "sourceIds": [
+        "tmdb"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the page opened in this session."
+    },
+    {
+      "claim": "Willie Scott nightclub singer",
+      "sourceIds": [
+        "screenrant-willie-scott"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the page opened in this session."
+    },
+    {
+      "claim": "Married Spielberg October 1991 after converting to Judaism; relationship from 1983; Sasha 1990, fostered then adopted Theo, Sawyer, Mikaela, Destry; 1995 quote; Cannibal video 2022; training after 1980 divorce; breakthrough 1984",
+      "sourceIds": [
+        "yahoo-spielberg-wife-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the page opened in this session."
+    },
+    {
+      "claim": "Spielberg quote on meeting Capshaw; three biological and one adopted child; SXSW in March quote",
+      "sourceIds": [
+        "syfy-wire-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the page opened in this session."
+    },
+    {
+      "claim": "Divorce from Robert Capshaw 1980, daughter Jessica; Max with Amy Irving; ten 1980s films; A Girl Thing 2001 last role; 35 years married; net worth $100M unsourced and $7.9B attributed to Forbes (article dated Oct 2026); Tafari Campbell portrait in Obama Presidential Center 2026",
+      "sourceIds": [
+        "hello-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the page opened in this session."
+    },
+    {
+      "claim": "2009 art studies; Unaccompanied 2016; Outwin 2019 finalist and tour; 2023-24 shows; first solo museum installation; Spielberg commission; display through 17 Oct 2027",
+      "sourceIds": [
+        "kc-studio-about"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the page opened in this session."
+    },
+    {
+      "claim": "Exclusive Tonsorial Services 21 Nov 2024 to 19 Jan 2025; Sergei Grant; talk 3 Dec 2024; Unaccompanied cities",
+      "sourceIds": [
+        "pamm-exhibition-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the page opened in this session."
+    },
+    {
+      "claim": "Four 2025 honorees; canvas ratio and unseen archival films; on view through 8 Nov 2026",
+      "sourceIds": [
+        "artdaily-npg-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the page opened in this session."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Covers the painting career, sourced children count and disagreeing retirement and display dates that gossip pages skip.",
+  "decision": "approve",
+  "summary": "Claims match the opened sources; disagreements between sources are disclosed in the text."
+}

@@ -1,10 +1,10 @@
 ---
 title: IShowSpeed
 slug: ishowspeed
-metaTitle: 'IShowSpeed: echter Name, Alter und ghanaischer Pass'
+metaTitle: 'Speed (IShowSpeed): Echter Name, Alter, Herkunft'
 metaDescription: >-
-  Echter Name von IShowSpeed, Alter, ghanaischer Pass, die Serie Speed Goes Pro,
-  das Treffen mit Ronaldo und die WM 2026, mit datierten Quellen.
+  Wie alt ist Speed und woher kommt er? Echter Name Darren Watkins Jr. aus
+  Cincinnati, mit 21 schon Weltstar, und warum Ghana ihm einen Pass gab.
 knownFor: 'US-amerikanischer Streamer und YouTuber, bekannt für seine Live-Touren'
 summary: >-
   IShowSpeed ist der Online-Name von Darren Watkins Jr., einem US-amerikanischen
@@ -30,6 +30,10 @@ targetQueries:
   - IShowSpeed Afrika-Tour
   - IShowSpeed Cristiano Ronaldo Treffen
   - IShowSpeed Silvester Kapstadt
+  - wie alt ist Speed
+  - aus welchem Land kommt Speed
+  - Speed echter Name
+  - von wo kommt IShowSpeed
 faq:
   - q: Wie lautet der echte Name von IShowSpeed?
     a: >-
@@ -50,10 +54,20 @@ faq:
       Eine YouTube-Serie, in der er mit Athleten anderer Sportarten trainiert.
       Die Premiere fand am Dienstag, dem 30. September 2025, im Los Angeles
       Memorial Coliseum statt.
+  - q: Aus welchem Land kommt Speed?
+    a: >-
+      Aus den USA: Er stammt aus Cincinnati, Ohio [s:timeslive-profile]. Die
+      ghanaische Staatsangehörigkeit ist im Januar 2026 hinzugekommen
+      [s:ewn-ghana].
 autoReviews: 2
+updatedAt: '2026-11-04'
 publishedAt: '2026-10-26'
 ---
 IShowSpeed ist der Online-Name von Darren Watkins Jr., einem US-amerikanischen Streamer und YouTuber aus Cincinnati, Ohio [s:timeslive-profile]. Rolling Stone schreibt seinen Namen als Darren Watkins Jr. [s:rolling-stone-premiere], während TimesLive die vollständige Form Darren Jason Watkins Jr. nennt [s:timeslive-profile]. Im Januar 2026 beschrieb ihn TimesLive als 21 Jahre alt [s:timeslive-profile]. Die folgenden Abschnitte halten sich an die datierten Ereignisse, über die die Quellen berichten.
+
+## Wie alt ist Speed, wie heißt er wirklich und woher kommt er?
+
+Speed heißt mit echtem Namen Darren Watkins Jr. und kommt aus Cincinnati, Ohio, also aus den USA [s:rolling-stone-premiere] [s:timeslive-profile]. Sein Alter: TimesLive beschrieb ihn im Januar 2026 als 21 Jahre alt [s:timeslive-profile]. Ein Geburtsdatum nennen die von uns geprüften verlässlichen Quellen nicht, deshalb geben wir keines an. Ghana genehmigte ihm Ende Januar 2026 einen Pass [s:afp-ghana], und EWN berichtete, er habe am Ende der Afrika-Tour die ghanaische Staatsangehörigkeit erhalten [s:ewn-ghana].
 
 ## Vom Streaming im Zimmer zu Millionen Abonnenten
 

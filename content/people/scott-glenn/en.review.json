@@ -1,0 +1,177 @@
+{
+  "date": "2026-11-04",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 26 January in Pittsburgh, Pennsylvania",
+      "sourceIds": [
+        "tv-academy"
+      ],
+      "verdict": "confirmed",
+      "note": "Television Academy bio lists birthday January 26 and Pittsburgh."
+    },
+    {
+      "claim": "Birth year disputed: age 75 in April 2016, 81 in December 2020",
+      "sourceIds": [
+        "insidehook-2016",
+        "yahoo-greenland-2020"
+      ],
+      "verdict": "confirmed",
+      "note": "Both articles state those ages; the two imply different years."
+    },
+    {
+      "claim": "Described himself as 85 in March 2024",
+      "sourceIds": [
+        "ferriss-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Episode 729 published 28 March 2024 about fitness at 85."
+    },
+    {
+      "claim": "Scarlet fever as a child, hearing damage, became an athlete",
+      "sourceIds": [
+        "yahoo-greenland-2020",
+        "ferriss-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Both pages state it."
+    },
+    {
+      "claim": "Studied English at William and Mary, served in the Marines, reporter in Kenosha",
+      "sourceIds": [
+        "tvguide-bio",
+        "yahoo-greenland-2020"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Marines service three years (Remind) vs six-month reservist (Ferriss)",
+      "sourceIds": [
+        "remind-2025",
+        "ferriss-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Both stated; article says they differ."
+    },
+    {
+      "claim": "Broadway debut 1965, Hawk 1966, Actors Studio 1968",
+      "sourceIds": [
+        "remind-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "First film role The Baby Maker 1970",
+      "sourceIds": [
+        "soapcentral-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Small roles in Nashville (1975) and Apocalypse Now (1979)",
+      "sourceIds": [
+        "remind-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Urban Cowboy: quit acting by 1978, Bridges persuaded him, drove 2,000 miles, Wes Hightower",
+      "sourceIds": [
+        "insidehook-2017",
+        "ferriss-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Jack Crawford in The Silence of the Lambs (1991)",
+      "sourceIds": [
+        "rt-silence"
+      ],
+      "verdict": "confirmed",
+      "note": "Rotten Tomatoes cast page."
+    },
+    {
+      "claim": "Alan Shepard in The Right Stuff, learned to use right hand",
+      "sourceIds": [
+        "insidehook-2017",
+        "flashback-files"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Stick in Daredevil, first blind role, Marvel latitude quote",
+      "sourceIds": [
+        "collider-2015",
+        "joblo-2015"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Stick in six episodes of The Defenders 2017; Kevin Garvey Sr.; Alan Pangborn",
+      "sourceIds": [
+        "soapcentral-2025",
+        "ferriss-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "2025 Emmy nomination, Outstanding Guest Actor in a Drama Series, Jim Hollinger, Killer Instincts, only nomination",
+      "sourceIds": [
+        "tv-academy"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Oldenburg tribute with four screenings; Eugene the Marine opened the 32nd festival, Hank Bedford, 16mm, cast",
+      "sourceIds": [
+        "oldenburg-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Married to Carol, a potter, two daughters, Idaho for about four decades, poetry books Room Service and Friction Zone",
+      "sourceIds": [
+        "ferriss-2024",
+        "flashback-files"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Stopped spearfishing after skin cancer diagnosis; initially put off by White Lotus role; own stunt",
+      "sourceIds": [
+        "remind-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Fitness: SEAL Team Six, spearfishing, stopped ice-climbing and skydiving; breath hold 4:15",
+      "sourceIds": [
+        "insidehook-2016",
+        "insidehook-2017",
+        "ferriss-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Shows the 1939/1941 birth-year conflict with sources, a dated timeline, the 2025 Emmy nomination and current projects.",
+  "decision": "approve",
+  "summary": "Checked against the opened sources; claims match the source wording."
+}

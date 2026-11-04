@@ -6,7 +6,15 @@
     "streamers-youtubers"
   ],
   "importance": 5,
+  "wikidata": "Q114834007",
   "sameAs": [],
+  "image": {
+    "src": "/images/people/ishowspeed.jpg",
+    "alt": "IShowSpeed",
+    "credit": "Chin Yu Chu",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:IShowSpeed_at_Chinatown_(Portrait)_04.jpg"
+  },
   "facts": {
     "birthPlace": {
       "value": "Cincinnati, Ohio, United States",
@@ -23,7 +31,9 @@
       ]
     }
   },
-  "related": [],
+  "related": [
+    "jynxzi"
+  ],
   "sources": [
     {
       "id": "wikipedia",
@@ -151,13 +161,5 @@
       "accessed": "2026-10-26",
       "lang": "en"
     }
-  ],
-  "wikidata": "Q114834007",
-  "image": {
-    "src": "/images/people/ishowspeed.jpg",
-    "alt": "IShowSpeed",
-    "credit": "Chin Yu Chu",
-    "license": "CC BY-SA 2.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:IShowSpeed_at_Chinatown_(Portrait)_04.jpg"
-  }
+  ]
 }

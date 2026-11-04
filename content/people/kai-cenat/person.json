@@ -6,7 +6,15 @@
     "streamers-youtubers"
   ],
   "importance": 4,
+  "wikidata": "Q113818347",
   "sameAs": [],
+  "image": {
+    "src": "/images/people/kai-cenat.jpg",
+    "alt": "Kai Cenat",
+    "credit": "MILLION DOLLAZ WORTH OF GAME",
+    "license": "CC BY 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kai_Cenat_2023.jpg"
+  },
   "facts": {
     "birthDate": {
       "value": "2001-12-16",
@@ -15,7 +23,10 @@
       ]
     }
   },
-  "related": [],
+  "related": [
+    "jynxzi",
+    "duke-dennis"
+  ],
   "sources": [
     {
       "id": "wiki-kai-cenat",
@@ -161,13 +172,5 @@
       "accessed": "2026-10-26",
       "lang": "en"
     }
-  ],
-  "wikidata": "Q113818347",
-  "image": {
-    "src": "/images/people/kai-cenat.jpg",
-    "alt": "Kai Cenat",
-    "credit": "MILLION DOLLAZ WORTH OF GAME",
-    "license": "CC BY 3.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kai_Cenat_2023.jpg"
-  }
+  ]
 }

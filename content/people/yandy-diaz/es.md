@@ -1,10 +1,10 @@
 ---
 title: Yandy Díaz
 slug: yandy-diaz
-metaTitle: 'Yandy Díaz: edad, estadísticas con los Rays y camiseta'
+metaTitle: 'Yandy Díaz: de Sagua la Grande a los Rays, edad y estatura'
 metaDescription: >-
-  Edad, lugar de nacimiento, estadísticas de 2026 con los Rays y selecciones
-  All-Star de Yandy Díaz, y la historia del filete de los playoffs.
+  De dónde es Yandy Díaz, cuántos años tiene y cuánto mide: del pueblo cubano
+  de Sagua la Grande a Cleveland y Tampa Bay, con sus cifras de 2026.
 knownFor: >-
   Bateador designado de los Tampa Bay Rays y All-Star de la Liga Americana en
   dos ocasiones
@@ -28,6 +28,10 @@ targetQueries:
   - yandy díaz estadísticas 2026
   - yandy díaz all-star
   - yandy díaz lugar de nacimiento
+  - de donde es yandy diaz
+  - yandy díaz estatura
+  - edad de yandy diaz
+  - yandi diaz
 faq:
   - q: ¿Por qué aparece Yandy Díaz en las noticias?
     a: >-
@@ -54,7 +58,12 @@ faq:
       Lideró la Liga Americana con 180 imparables en 2026
       [s:mlb-news-alds-2026]. Su promedio en la temporada regular fue de .293
       [s:mlb-player-650490].
+  - q: ¿Cuánto mide Yandy Díaz?
+    a: >-
+      La ficha del plantel de los Rays en MLB lo muestra con 1,83 metros y 107
+      kilos [s:mlb-rays-roster].
 autoReviews: 2
+updatedAt: '2026-11-04'
 publishedAt: '2026-10-28'
 ---
 La historia del filete de Yandy Díaz empezó con una celebración. El 11 de septiembre los Rays aseguraron un lugar en los playoffs, y Díaz lo festejó comiéndose un filete tomahawk [s:tampa-bay-times-steak].
@@ -62,6 +71,10 @@ La historia del filete de Yandy Díaz empezó con una celebración. El 11 de sep
 ## El filete que se convirtió en camiseta
 
 El Tampa Bay Times llama al tomahawk su "famoso aperitivo" de la clasificación, y hoy una camiseta lo recuerda [s:tampa-bay-times-steak]. Díaz se la puso en el Tropicana Field un martes. Con una sonrisa, dijo: "Ya ven, me queda bastante bien" [s:tampa-bay-times-steak].
+## ¿De dónde es Yandy Díaz? Edad y estatura
+
+Yandy Díaz es de Sagua la Grande, Cuba, donde nació el 8 de agosto de 1991, así que tiene 35 años [s:mlb-player-650490]. Mide 1,83 metros y pesa 107 kilos según la ficha de los Rays en MLB [s:mlb-rays-roster]. En 2026 bateó .293 con 22 jonrones y 85 carreras impulsadas [s:mlb-player-650490].
+
 ## De Cleveland a los Rays
 
 Díaz nació el 8 de agosto de 1991 en Sagua la Grande, Cuba [s:mlb-player-650490]. Cleveland lo firmó con un contrato de ligas menores el 20 de septiembre de 2013, y la nota de transacción de MLB lo describe entonces como shortstop [s:mlb-player-650490]. Debutó con los Indians el 3 de abril de 2017 en Texas, y conectó su primer hit en Grandes Ligas en su tercera oportunidad al bate [s:mlb-player-650490].

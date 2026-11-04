@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-04",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 26 Feb 1994 in Greenville, SC; 32 on 4 Nov 2026",
+      "sourceIds": [
+        "afrotech-yahoo-2024",
+        "hotnewhiphop-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Both articles state the date and place; age computed correctly."
+    },
+    {
+      "claim": "Grew up in DeeBlock, City Heights complex; nerd, anime, NBA 2K escape",
+      "sourceIds": [
+        "hotnewhiphop-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the profile."
+    },
+    {
+      "claim": "Brother Darius appears in videos; mother encouraged him in basic training",
+      "sourceIds": [
+        "afrotech-yahoo-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Turned down college scholarship offers, joined military; stationed in Germany doing administrative paperwork; four-year commitment finished around 2017; considered illegal discharge",
+      "sourceIds": [
+        "afrotech-yahoo-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Army gave discipline and work ethic",
+      "sourceIds": [
+        "hotnewhiphop-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "YouTube channel started 2013, regular posting only after the Army; Angry Trash Talker; NBA 2K, Call of Duty; Carmelo Anthony parody; DeeBlock Duke 2020, Duke Dennis Live 2021",
+      "sourceIds": [
+        "afrotech-yahoo-2024",
+        "hotnewhiphop-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated in the two articles."
+    },
+    {
+      "claim": "Twitch channel created 3 March 2016; Partner; team AMP; about 3.48M followers; peak 120,058 on 7 July 2025; 30-day averages and 3 Nov stream",
+      "sourceIds": [
+        "streamscharts-duke"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on the stats page, which also notes internal inconsistencies as the article says."
+    },
+    {
+      "claim": "Main YouTube channel is called Duke Dennis Gaming",
+      "sourceIds": [
+        "duke-dennis-gaming-youtube"
+      ],
+      "verdict": "confirmed",
+      "note": "Page title confirms the channel name only."
+    },
+    {
+      "claim": "Joined AMP in 2020; Story Time guests Rich Homie Quan and Kaliii; mansion in Georgia; Rolling Stone fifth; TikTok biggest following",
+      "sourceIds": [
+        "hotnewhiphop-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated; ranking attributed to the outlet that reports it."
+    },
+    {
+      "claim": "AMP July 2021: six members, subscriber counts, shared house, one video every Monday, filming every 2-3 weeks, about six days per video, 1M subs, Long Haul Management, no merch",
+      "sourceIds": [
+        "tubefilter-amp-2021"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Complex Aug 2026: AMP described in Agent00 entry (7th); Dennis has no entry",
+      "sourceIds": [
+        "complex-streamers-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated; article dated 11 Aug 2026."
+    },
+    {
+      "claim": "Nominated in Sports at 2023 Streamys with Deestroying, Good Good Golf, Jesser, Olivia Dunne; AMP two nominations; ceremony Aug 27",
+      "sourceIds": [
+        "tubefilter-streamys-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Net worth between $2 and $3 million attributed to Sportskeeda and Vocal, unverified; Real Talk tees $25, hoodies $48; Jeep 2017; Lamb truck 30th birthday",
+      "sourceIds": [
+        "afrotech-yahoo-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated, with the article's own caveat."
+    },
+    {
+      "claim": "Fade-in meme: 20 Jan 2024 @oneheart_real; 28 Jan first Duke Dennis video, BOP remix, 1.6M plays in two days; second video 2.7M; memes of him before 2024",
+      "sourceIds": [
+        "kym-fade-in"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Used to date Kaliii",
+      "sourceIds": [
+        "afrotech-yahoo-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Arrested in San Antonio on a Saturday in early Aug 2025, aged 31, hide and seek with Kai Cenat at closed River Center Mall; criminal trespassing and evading arrest; Cenat not arrested; released Sunday; Instagram quote",
+      "sourceIds": [
+        "spectrum-arrest-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated; article dated 4 Aug 2025."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Separates sourced facts from unsourced ones on age, name, height, net worth and the arrest.",
+  "decision": "approve",
+  "summary": "All checked claims match the cited pages."
+}

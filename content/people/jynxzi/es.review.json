@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-04",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 26 September 2001, age 25 on 4 Nov 2026; real name Nicholas Stewart; Washington; lives in Florida; 5 ft 10; siblings; began streaming at 17",
+      "sourceIds": [
+        "legit-bio-2024",
+        "kym-jynxzi",
+        "tubefilter-2024",
+        "meinmmo-breckie-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Legit.ng gives date, place, height, siblings, age 17; MeinMMO (22 in Sep 2024) consistent; KYM gives name and Florida."
+    },
+    {
+      "claim": "Streaming since 2019, one viewer per stream (Dexerto via Tubefilter), about five viewers (Tubefilter 2023); Legit.ng says Black Ops 4 first",
+      "sourceIds": [
+        "tubefilter-2024",
+        "tubefilter-rcc-2023",
+        "legit-bio-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Sources differ and the page says so."
+    },
+    {
+      "claim": "YouTube from 19 Jan 2020, Rage Compilation #1 228,000 views and 5,100 likes; meme clips; Jynxzi Podcast Feb 2024; Streamer Awards 18 Feb 2024",
+      "sourceIds": [
+        "kym-jynxzi"
+      ],
+      "verdict": "confirmed",
+      "note": "Single source (Know Your Meme); page discloses that."
+    },
+    {
+      "claim": "2023 growth: 5,000 to 100,000+ peaks; 3 million followers; most active subs (TwitchTracker); 3.3M followers, 106,000 subs, 61,000 peak; 100k subs passing Kai Cenat",
+      "sourceIds": [
+        "tubefilter-2024",
+        "meinmmo-2023",
+        "tubefilter-rcc-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Figures match the articles."
+    },
+    {
+      "claim": "Right Click Culture deal, $1M brand deals in 30 days, Starforge; G Fuel",
+      "sourceIds": [
+        "tubefilter-rcc-2023",
+        "tubefilter-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Source states it."
+    },
+    {
+      "claim": "Viewer averages 32,900 / 40,000 / 25,000; followers 6.3M and 7.2M; Twitch earnings $452,449 over ~237 hours",
+      "sourceIds": [
+        "meinmmo-2023",
+        "meinmmo-breckie-2024",
+        "meinmmo-earnings-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Source states it."
+    },
+    {
+      "claim": "Net worth estimate about $8.5M (range $4M-$15M) by StreamScheme, labelled an estimate",
+      "sourceIds": [
+        "streamscheme-networth"
+      ],
+      "verdict": "confirmed",
+      "note": "Source states it; page undated, disclosed."
+    },
+    {
+      "claim": "Breckie Hill: split June 2024, quotes; September 2024 stream remarks; Hill TikTok single; Legit.ng single Nov 2024",
+      "sourceIds": [
+        "hnhh-breakup-2024",
+        "meinmmo-breckie-2024",
+        "legit-bio-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Quotes and dates match."
+    },
+    {
+      "claim": "Feb 2026 first in subscriptions with 81,286 vs Neuro-sama 73,617; robot joke",
+      "sourceIds": [
+        "earlygame-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source states it."
+    },
+    {
+      "claim": "May 2026 LoL tournament: 417,700 personal peak vs 249,500; Team xQc 28-4 over Zoil; 40 creators; figures contradictory",
+      "sourceIds": [
+        "streamscharts-lol-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source states it and the page flags the inconsistency."
+    },
+    {
+      "claim": "Clash Royale 99-0 challenges vs xQc and StableRonaldo, 1,000,000 hours; YouTube Live multistreaming since late previous year",
+      "sourceIds": [
+        "streamscharts-clash-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Source states it."
+    },
+    {
+      "claim": "Viewbot debate 13 May 2026, 920,000 peak by Esports Charts, no accusation",
+      "sourceIds": [
+        "tubefilter-viewbot-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Source states it."
+    },
+    {
+      "claim": "11 August 2026 R6 2v2 tournament, 16 streamers, six hours, Twitch Drops; channel twitch.tv/jynxzi",
+      "sourceIds": [
+        "ubisoft-tournament-2026",
+        "twitch-jynxzi"
+      ],
+      "verdict": "confirmed",
+      "note": "Ubisoft states it; Twitch page confirms the channel URL."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Dated timeline, labelled net worth estimate with the weekly Twitch figure, the on-record Breckie Hill split and conflicts between sources flagged.",
+  "decision": "approve",
+  "summary": "All claims checked against the pages opened during research; discrepancies between sources are disclosed in the text."
+}

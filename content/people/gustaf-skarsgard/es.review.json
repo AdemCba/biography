@@ -1,0 +1,139 @@
+{
+  "date": "2026-11-04",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 12 November 1980 in Stockholm",
+      "sourceIds": [
+        "tmdb",
+        "rotten-tomatoes",
+        "martincid-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDB, RT and Martin Cid state it."
+    },
+    {
+      "claim": "Second child of Stellan and My (physician); siblings Alexander, Sam, Bill, Eija, Valter; half-brothers Ossian, Kolbjörn",
+      "sourceIds": [
+        "martincid-profile",
+        "tmdb-sv",
+        "thelocal-skarsgard-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on the fetched pages."
+    },
+    {
+      "claim": "Godfather Peter Stormare",
+      "sourceIds": [
+        "rotten-tomatoes"
+      ],
+      "verdict": "confirmed",
+      "note": "RT bio."
+    },
+    {
+      "claim": "Started acting at six; age eight in Code Name Coq Rouge; NE lists Sommaren 1995, Skuggornas hus 1996",
+      "sourceIds": [
+        "thelocal-skarsgard-2023",
+        "martincid-profile",
+        "ne-skarsgard"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Teaterhögskolan 1998-2003 then Dramaten; Hamlet 2010; Bassanio",
+      "sourceIds": [
+        "thelocal-skarsgard-2023",
+        "martincid-profile",
+        "history-floki"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Lead in The Invisible 2002; Evil 2003 Otto Silverhielm; Kidz in da Hood Guldbagge best actor; Shooting Star 2007; Way Back Hollywood debut; Kon-Tiki nominations",
+      "sourceIds": [
+        "rotten-tomatoes",
+        "history-floki"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on History cast page and RT bio."
+    },
+    {
+      "claim": "Vikings 2013-2020, 71 episodes, Floki description; A.V. Club quotes",
+      "sourceIds": [
+        "martincid-profile",
+        "tmdb-sv",
+        "history-floki",
+        "avclub-cursed-2020"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated; A.V. Club dated 17 July 2020."
+    },
+    {
+      "claim": "Cursed Merlin 2020 one season; Westworld 2017 Karl Strand 10 episodes",
+      "sourceIds": [
+        "avclub-cursed-2020",
+        "martincid-profile",
+        "tmdb-sv"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Filmography table roles and years; Air 2023 vs 2022 and Black Bag 2025 vs 2024 discrepancy noted",
+      "sourceIds": [
+        "rotten-tomatoes",
+        "tmdb",
+        "tmdb-sv",
+        "martincid-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches fetched pages; discrepancy disclosed."
+    },
+    {
+      "claim": "Partner Caroline Sjöström, two children; daughter 2020, son 2023; Södermalm; wife wording conflict disclosed",
+      "sourceIds": [
+        "thelocal-skarsgard-2023",
+        "martincid-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches; conflict disclosed."
+    },
+    {
+      "claim": "September 2025 support for Global Sumud Flotilla, not sailing",
+      "sourceIds": [
+        "turkiyetoday-flotilla-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Article dated 9 Sept 2025."
+    },
+    {
+      "claim": "Wallander: takes over from Lassgård and Henriksson, filming Ystad summer 2025; Steget efter director Molly Hartleb, Stockholm film festival November, TV4 Play Plus spring 2027; Aug 2026 interview; Kannibalen på Fårö",
+      "sourceIds": [
+        "tv4-wallander",
+        "moviezine-steget-efter",
+        "moviezine-wallander-intervju"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Adult Supervision: SFI selection 2 Sept 2026, cast, Swedish release 9 Oct, shortlist 15 Dec, nominations 21 Jan 2027, ceremony 14 Mar 2027; The Storm Filip",
+      "sourceIds": [
+        "sfi-adult-supervision",
+        "martincid-profile"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches; The Storm from Martin Cid."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Dated timeline, sourced Wallander and Oscar news, conflicts on partner and dates disclosed.",
+  "decision": "approve",
+  "summary": "All claims checked against the opened sources; no net worth or height given."
+}

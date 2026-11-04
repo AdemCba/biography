@@ -1,10 +1,10 @@
 ---
 title: Steffen Baumgart
 slug: steffen-baumgart
-metaTitle: 'Steffen Baumgart: Karriere, Union-Zeit und Entlassung'
+metaTitle: 'Steffen Baumgart: Aktueller Verein nach der Entlassung'
 metaDescription: >-
-  Steffen Baumgart als Spieler und Trainer: Union Berlin, 1. FC Köln, Hamburger
-  SV, die Entlassung im April 2026 und seine Lage seither.
+  Wo ist Steffen Baumgart jetzt Trainer? Warum Union ihn im April 2026 nach dem
+  1:3 in Heidenheim entließ, wie es seitdem weiterging und was davor geschah.
 knownFor: 'Ehemaliger Union-Berlin-Kapitän und Cheftrainer, im April 2026 entlassen'
 summary: >-
   Steffen Baumgart ist ein deutscher Fußballtrainer, der für Union Berlin
@@ -32,6 +32,10 @@ targetQueries:
   - Steffen Baumgart Alter
   - Steffen Baumgart Herkunft Rostock
   - Nachfolger von Steffen Baumgart bei Union Berlin
+  - Steffen Baumgart aktueller Verein
+  - Baumgart entlassen
+  - wo ist Steffen Baumgart jetzt Trainer
+  - Baumgart Trainer
 faq:
   - q: Wie alt ist Steffen Baumgart?
     a: >-
@@ -55,7 +59,19 @@ faq:
     a: >-
       Nicht laut dem jüngsten Bericht, den wir fanden, vom 23. September 2026
       [s:berliner-kurier-free-agent].
+  - q: Wo ist Steffen Baumgart jetzt Trainer?
+    a: >-
+      Nirgends, soweit wir wissen: Der jüngste Bericht, den wir fanden, vom 23.
+      September 2026, nannte ihn ohne Verein [s:berliner-kurier-free-agent].
+      Zuletzt trainierte er Union Berlin bis zur Entlassung am 11. April 2026
+      [s:union-berlin-press-dismissal].
+  - q: Wann wurde Baumgart entlassen?
+    a: >-
+      Union Berlin gab die Freistellung kurz nach Mitternacht nach der 1:3-
+      Niederlage in Heidenheim vom Samstag, dem 11. April 2026, bekannt
+      [s:berliner-kurier-union-dismissal].
 autoReviews: 1
+updatedAt: '2026-11-04'
 publishedAt: '2026-10-27'
 ---
 ## Vom Rostocker zum Union-Kapitän
@@ -82,6 +98,8 @@ Union verlor am Samstag, dem 11. April 2026, 1:3 beim Tabellenletzten Heidenheim
 
 Die Co-Trainer Danilo de Souza und Kevin McKenna mussten ebenfalls gehen [s:union-berlin-press-dismissal]. U19-Trainerin Marie-Louise Eta übernahm bis zum Saisonende [s:union-berlin-press-dismissal] und ist die erste Frau, die ein Männer-Team der Bundesliga coacht [s:berliner-kurier-union-dismissal].
 
-## Seit April ohne Verein
+## Wo ist Steffen Baumgart jetzt Trainer? Sein aktueller Verein
+
+Steffen Baumgart hat nach dem Stand unserer Quellen keinen aktuellen Verein: Der jüngste Bericht, den wir fanden, vom 23. September 2026, nannte ihn ohne neuen Klub [s:berliner-kurier-free-agent]. Entlassen wurde er bei Union Berlin, wo er seit dem 30. Dezember 2024 Trainer war [s:zdfheute-union-return] [s:union-berlin-press-dismissal]. Die Chronologie seit der Entlassung:
 
 Am 22. Mai 2026 berichtete der Berliner Kurier, dass er wieder öffentlich zu sehen war, sechs Wochen nach seiner Entlassung [s:berliner-kurier-six-weeks]. Der Artikel schrieb, er wolle zurück auf die Bank [s:berliner-kurier-six-weeks]. Am 14. Juni meldete die Berliner Zeitung, dass er seit mehr als 60 Tagen ohne Verein war [s:berliner-zeitung-no-club]. Der jüngste Bericht, den wir fanden, vom 23. September 2026, bezeichnete ihn wieder als frei auf dem Markt und fragte, wohin er als Nächstes gehen könnte. Einen Klub nannte er nicht [s:berliner-kurier-free-agent].

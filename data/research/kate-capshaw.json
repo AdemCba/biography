@@ -1,0 +1,114 @@
+{
+  "worthWriting": true,
+  "reason": "Living, adult, well documented actress turned portrait painter; primary sources (artist studio site, Pérez Art Museum Miami) plus press and databases.",
+  "wikidata": "Q229002",
+  "importance": 4,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "kc-studio-about",
+      "url": "https://www.kcthestudio.com/about",
+      "title": "About - KC the STUDIO",
+      "publisher": "KC the STUDIO (Kate Capshaw)",
+      "type": "official",
+      "lang": "en"
+    },
+    {
+      "id": "pamm-exhibition-2024",
+      "url": "https://www.pamm.org/en/exhibition/kate-capshaw-exclusive-tonsorial-services/",
+      "title": "Kate Capshaw: Exclusive Tonsorial Services",
+      "publisher": "Pérez Art Museum Miami",
+      "type": "company",
+      "lang": "en"
+    },
+    {
+      "id": "rotten-tomatoes",
+      "url": "https://www.rottentomatoes.com/celebrity/kate_capshaw",
+      "title": "Kate Capshaw Movies List",
+      "publisher": "Rotten Tomatoes",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "tmdb",
+      "url": "https://www.themoviedb.org/person/689-kate-capshaw?language=en-US",
+      "title": "Kate Capshaw",
+      "publisher": "The Movie Database (TMDB)",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "artdaily-npg-2025",
+      "url": "https://artdaily.com/v2/News/188137/National-Portrait-Gallery-opens-%22Portrait-of-a-Nation%3a-2025-Honorees%22/",
+      "title": "National Portrait Gallery opens Portrait of a Nation: 2025 Honorees",
+      "publisher": "Art Daily",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "yahoo-spielberg-wife-2025",
+      "url": "https://www.yahoo.com/entertainment/articles/steven-spielberg-wife-kate-capshaw-083255257.html",
+      "title": "Who Is Steven Spielberg's Wife, Kate Capshaw & What Is Their Relationship History?",
+      "publisher": "Yahoo Entertainment",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "syfy-wire-2026",
+      "url": "https://www.syfy.com/syfy-wire/why-steven-spielberg-has-a-soft-spot-for-indiana-jones-and-the-temple-of-doom",
+      "title": "Why Steven Spielberg credits Indiana Jones and the Temple of Doom",
+      "publisher": "Syfy Wire",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "hello-2026",
+      "url": "https://www.hellomagazine.com/us/927716/the-forgotten-80s-movie-star-with-bigger-net-worth-than-taylor-swift/",
+      "title": "The forgotten '80s movie star whose shared net worth is bigger than Taylor Swift, Jay-Z, and Rihanna combined",
+      "publisher": "Hello!",
+      "type": "press",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1953-11-03",
+      "sources": [
+        "tmdb",
+        "rotten-tomatoes"
+      ],
+      "note": "TMDB and Rotten Tomatoes agree."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Fort Worth, Texas, United States",
+      "sources": [
+        "tmdb",
+        "rotten-tomatoes",
+        "kc-studio-about"
+      ],
+      "note": "Her studio site says she was raised in Ferguson, Missouri."
+    },
+    "nationality": {
+      "value": "US",
+      "sources": [
+        "tmdb",
+        "kc-studio-about"
+      ],
+      "note": "Described as an American actress and painter."
+    }
+  },
+  "targetQueries": [
+    "kate capshaw age",
+    "kate capshaw children",
+    "kate capshaw net worth",
+    "kate capshaw today",
+    "kate capshaw young",
+    "kate capshaw indiana jones",
+    "kate capshaw husband",
+    "kate capshaw and steven spielberg",
+    "kate capshaw temple of doom",
+    "kate capshaw art"
+  ],
+  "gapNote": "Top results are gossip aggregators with errors (seven children, nudity pages). Few explain her second career as a portrait painter (Pérez Art Museum 2024, National Portrait Gallery Spielberg portrait 2025) or separate her acting credits clearly."
+}

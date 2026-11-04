@@ -18,14 +18,14 @@ For each page, edit only that language's file:
 
 ## Pages
 
-- [ ] de/moritz-wagner (424 impressions, 0 clicks, position 10.6): moritz wagner größe, wie groß ist moritz wagner, moritz wagner, mo wagner größe, moritz wagner alter, moritz wagner grösse, wer ist moritz wagner, wie groß ist mo wagner
-- [ ] de/steffen-baumgart (178 impressions, 0 clicks, position 13.2): steffen baumgart, baumgart, steffen baumgart aktueller verein, baumgart entlassen, wo ist steffen baumgart jetzt trainer, steffen baumgart entlassen, wo ist baumgart trainer, baumgart trainer
-- [ ] de/yaxel-lendeborg (145 impressions, 0 clicks, position 10.4): yaxel lendeborg, yaxel lendeborg alter, lendeborg, yaxel lendeborg age, lendenborg, lendeborg age, landeborg, yax lendeborg
-- [ ] es/yandy-diaz (138 impressions, 1 clicks, position 11.3): yandy díaz, yandy diaz, de donde es yandy diaz, yandy díaz estatura, edad de yandy diaz, yandi diaz, yandy díaz edad, yandy díaz estadísticas
-- [ ] es/sergio-perez (134 impressions, 0 clicks, position 8.9): cuántos años tiene el checo pérez, cuántos años tiene checo pérez, sergio pérez edad, cuántos años tiene sergio pérez, cuantos años tiene sergio perez, ¿cuántos años tiene checo pérez?, edad de checo perez, sergio perez edad
-- [ ] de/nico-santos (131 impressions, 0 clicks, position 10.3): nico santos alter, alter nico santos, wie alt ist nico santos, nico dantos alter, nico santos wie alt, alt ist nico santos, nico santos geburtstag, santos singer
-- [ ] de/ishowspeed (123 impressions, 0 clicks, position 8.7): wie alt ist speed, speed alter, aus welchem land kommt speed, ishowspeed echter name, von wo kommt ishowspeed, was ist ein speed echter name, was ist speed sein echter name, alter speed
-- [ ] fr/ibai-llanos (121 impressions, 0 clicks, position 11.8): ibai llanos, ibai, ibai streamer, ibai age, streamer espagnol connu, @ibai, ibail llanos, inai llanos
+- [x] de/moritz-wagner (done 2026-11-04) (424 impressions, 0 clicks, position 10.6): moritz wagner größe, wie groß ist moritz wagner, moritz wagner, mo wagner größe, moritz wagner alter, moritz wagner grösse, wer ist moritz wagner, wie groß ist mo wagner
+- [x] de/steffen-baumgart (done 2026-11-04) (178 impressions, 0 clicks, position 13.2): steffen baumgart, baumgart, steffen baumgart aktueller verein, baumgart entlassen, wo ist steffen baumgart jetzt trainer, steffen baumgart entlassen, wo ist baumgart trainer, baumgart trainer
+- [x] de/yaxel-lendeborg (done 2026-11-04) (145 impressions, 0 clicks, position 10.4): yaxel lendeborg, yaxel lendeborg alter, lendeborg, yaxel lendeborg age, lendenborg, lendeborg age, landeborg, yax lendeborg
+- [x] es/yandy-diaz (done 2026-11-04) (138 impressions, 1 clicks, position 11.3): yandy díaz, yandy diaz, de donde es yandy diaz, yandy díaz estatura, edad de yandy diaz, yandi diaz, yandy díaz edad, yandy díaz estadísticas
+- [x] es/sergio-perez (done 2026-11-04) (134 impressions, 0 clicks, position 8.9): cuántos años tiene el checo pérez, cuántos años tiene checo pérez, sergio pérez edad, cuántos años tiene sergio pérez, cuantos años tiene sergio perez, ¿cuántos años tiene checo pérez?, edad de checo perez, sergio perez edad
+- [x] de/nico-santos (done 2026-11-04) (131 impressions, 0 clicks, position 10.3): nico santos alter, alter nico santos, wie alt ist nico santos, nico dantos alter, nico santos wie alt, alt ist nico santos, nico santos geburtstag, santos singer
+- [x] de/ishowspeed (done 2026-11-04) (123 impressions, 0 clicks, position 8.7): wie alt ist speed, speed alter, aus welchem land kommt speed, ishowspeed echter name, von wo kommt ishowspeed, was ist ein speed echter name, was ist speed sein echter name, alter speed
+- [x] fr/ibai-llanos (done 2026-11-04) (121 impressions, 0 clicks, position 11.8): ibai llanos, ibai, ibai streamer, ibai age, streamer espagnol connu, @ibai, ibail llanos, inai llanos
 - [ ] fr/aitana-bonmati (119 impressions, 0 clicks, position 11.1): aitana bonmatí, bonmati ballon d or 2026, aitana bonmatí ballon d or 2026, bonmati bo 2026, aitana bonmati, aitana bonmatí âge, bonmati age, aitana bonmatí 2026
 - [ ] fr/luke-littler (119 impressions, 0 clicks, position 13.0): luke littler, luke littler fléchettes, beat littler, littler age, champion flechette anglais, littler netflix, beat luke littler, beatlukelittler
 - [ ] fr/sergio-perez (119 impressions, 0 clicks, position 10.4): âge sergio perez, checo perez, age sergio perez, checo pérez, sergio pérez âge, age perez f1, sergio perez age, checo perez age

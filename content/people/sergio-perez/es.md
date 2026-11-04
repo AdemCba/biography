@@ -1,10 +1,10 @@
 ---
 title: Sergio Pérez
 slug: sergio-perez
-metaTitle: 'Sergio Pérez: {age} años, contrato con Cadillac hasta 2029'
+metaTitle: 'Checo Pérez tiene {age} años: su regreso con Cadillac'
 metaDescription: >-
-  Sergio Pérez tiene {age} años (nació el 26 de enero de 1990). El 28 de octubre
-  de 2026 amplió su contrato con Cadillac hasta 2029, antes de su carrera 300.
+  Cuántos años tiene Checo Pérez: nació el 26 de enero de 1990. Su año sin
+  correr, el regreso con Cadillac y el contrato hasta 2029 antes del GP 300.
 knownFor: Piloto mexicano de Fórmula 1 con seis victorias en Grandes Premios
 summary: >-
   Sergio Pérez, conocido como Checo [s:wikidata-q82805], nació en Guadalajara el
@@ -30,6 +30,9 @@ targetQueries:
   - sergio pérez red bull
   - sergio pérez victorias
   - sergio pérez 2025 sin correr
+  - cuántos años tiene checo pérez
+  - edad de checo pérez
+  - sergio pérez edad
 faq:
   - q: ¿Cuántos años tiene Sergio Pérez?
     a: >-
@@ -49,10 +52,19 @@ faq:
     a: >-
       Seis, según el perfil de piloto de la Fórmula 1 [s:f1-driver-profile].
       Cinco los logró con Red Bull, entre 2021 y 2023 [s:racingnews365-perez].
+  - q: ¿Cuántos años tiene Checo Pérez?
+    a: >-
+      36 años: nació el 26 de enero de 1990 en Guadalajara [s:f1-driver-profile]
+      [s:wikidata-q82805].
 autoReviews: 2
+updatedAt: '2026-11-04'
 publishedAt: '2026-10-28'
 ---
 Sergio Pérez correrá su Gran Premio número 300 en casa, en la Ciudad de México, este fin de semana. El 28 de octubre de 2026 amplió su vínculo con Cadillac hasta al menos 2029 [s:eurosport-cadillac-2029] [s:skysports-cadillac-2029]. La carrera es el domingo 1 de noviembre en el Autódromo Hermanos Rodríguez [s:f1-mexico-2026].
+
+## ¿Cuántos años tiene Checo Pérez?
+
+Checo Pérez tiene 36 años: Sergio Pérez nació el 26 de enero de 1990 en Guadalajara [s:f1-driver-profile] [s:wikidata-q82805]. Eurosport cita sus 36 años en el anuncio de la renovación con Cadillac [s:eurosport-cadillac-2029]. Es el piloto mexicano que llegó a la Fórmula 1 en 2011 y volvió en 2026 tras un año sin correr [s:the-race-perez-career] [s:skysports-cadillac-2029].
 
 ## El contrato hasta 2029
 

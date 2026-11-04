@@ -1,10 +1,10 @@
 ---
 title: Moritz Wagner
 slug: moritz-wagner
-metaTitle: 'Moritz Wagner ist {age}: NBA-Karriere und TV-Show'
+metaTitle: 'Moritz Wagner ist {age} und 2,11 m groß: NBA und WM-Titel'
 metaDescription: >-
-  Moritz Wagner wurde am 26. April 1997 in Berlin geboren und spielt in der NBA.
-  Er ist einer von drei Herausforderern der ProSieben-Show, die heute startet.
+  Wie groß ist Moritz Wagner? 2,11 m laut NBA. Der Berliner ist {age}, wurde
+  2023 Weltmeister und spielt bei den Nets. Dazu seine Rolle bei ProSieben.
 knownFor: >-
   Basketballspieler und Weltmeister von 2023 mit der deutschen
   Nationalmannschaft
@@ -28,6 +28,9 @@ targetQueries:
   - moritz wagner größe
   - moritz wagner vertrag
   - moritz wagner bruder franz
+  - wie groß ist moritz wagner
+  - mo wagner größe
+  - wer ist moritz wagner
 faq:
   - q: Wie alt ist Moritz Wagner?
     a: >-
@@ -49,11 +52,24 @@ faq:
       Das NBA-Profil führt ihn bei den Brooklyn Nets [s:nba-wagner-profile]. Die
       Presse nennt den Vertrag mit den Nets seit dem Sommer 2026
       [s:web-de-wagner-neuland].
+  - q: Wer ist Moritz Wagner?
+    a: >-
+      Ein deutscher Basketballspieler, Forward-Center, geboren am 26. April 1997
+      in Berlin. Er wurde 2018 gedraftet und gewann 2023 mit Deutschland die
+      Weltmeisterschaft [s:nba-wagner-profile] [s:fiba-final-2023].
+  - q: Wie groß ist Mo Wagner?
+    a: >-
+      Laut NBA-Profil 2,11 m (6 Fuß 11 Zoll) [s:nba-wagner-profile].
 autoReviews: 3
+updatedAt: '2026-11-04'
 publishedAt: '2026-11-01'
 publishedTime: '2026-11-01T21:38:16.086Z'
 ---
 Moritz Wagner ist einer von drei Herausforderern in der zwölften Staffel der ProSieben-Show „Wer stiehlt mir die Show?“, die heute um 20:15 Uhr startet, mit kostenlosem Livestream auf Joyn [s:joyn-wsmds-2026]. Die Kandidaten wollen Joko Winterscheidt die Moderation abnehmen [s:prosieben-presse-wsmds-2026]. Wagner ist in erster Linie Basketballspieler: ein deutscher Forward-Center, der fünf Spielzeiten für die Orlando Magic auflief und zum Team gehörte, das 2023 die Weltmeisterschaft gewann [s:nba-wagner-profile] [s:fiba-final-2023].
+
+## Wie groß ist Moritz Wagner?
+
+Moritz Wagner ist laut NBA-Profil 2,11 m groß (6 Fuß 11 Zoll) und spielt als Forward-Center [s:nba-wagner-profile]. Wer ist Moritz Wagner? Ein Berliner, geboren am 26. April 1997, 2018 gedraftet und mit Deutschland Weltmeister 2023 [s:nba-wagner-profile] [s:fiba-final-2023]. Sein jüngerer Bruder Franz spielte zeitweise ebenfalls bei den Magic [s:web-de-wagner-neuland].
 
 ## Von Berlin in den NBA-Draft
 
