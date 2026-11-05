@@ -1,0 +1,93 @@
+{
+  "date": "2026-11-05",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 25 Oct 1963 in Santa Monica; parents Ricky Nelson and Kristin Harmon; grandparents; siblings; parents married April 1963, divorced 1982; lived with father",
+      "sourceIds": [
+        "biography-com",
+        "tmdb-nelson",
+        "playbill-person"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the opened source page."
+    },
+    {
+      "claim": "Mark Harmon is uncle; marriage 25 July 1987, Remington 1992, Elijah 2001 with Chris Clark",
+      "sourceIds": [
+        "celebritynetworth-nelson",
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the opened source page."
+    },
+    {
+      "claim": "Yours, Mine and Ours 1968 as Germaine Beardsley; Westlake 1981; Bard",
+      "sourceIds": [
+        "tmdb-nelson",
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the opened source page."
+    },
+    {
+      "claim": "Square Pegs 1982: Jennifer DeNuccio, CBS, Embassy Television, 20 episodes, cancelled May 1983, wig quote, coat-shopping quote",
+      "sourceIds": [
+        "avclub-square-pegs",
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the opened source page."
+    },
+    {
+      "claim": "Filmography years and roles (Glitter, Down and Out, Father Dowling 43 eps from 1989, A League of Their Own, Melrose Place, Man from Snowy River, Seinfeld, TV films, 2023-2024 credits)",
+      "sourceIds": [
+        "tmdb-nelson"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the opened source page."
+    },
+    {
+      "claim": "Grease: Rizzo replacement, 11 May 1994 production, Sheena Easton leaving 23 Nov, Jasmine Guy; Tom Bosley",
+      "sourceIds": [
+        "playbill-rizzo-1996",
+        "playbill-person",
+        "playbill-grease-1997"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the opened source page."
+    },
+    {
+      "claim": "Father's death 31 Dec 1985 De Kalb; Hodgkin's Dec 1987, seven-hour surgery, remission within six months, dream; marriage to Moses 1987, divorce 1997, custody; quote",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the opened source page."
+    },
+    {
+      "claim": "CNN 2005: Lifetime movies quote, ski vacation in Colorado, dream, Hodgkin's, two little kids 13 and four",
+      "sourceIds": [
+        "cnn-lkl-2005"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the opened source page."
+    },
+    {
+      "claim": "Net worth figure undated, so omitted",
+      "sourceIds": [
+        "celebritynetworth-nelson"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against the opened source page."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Sourced timeline, discloses the Grease date conflict and the undated net worth figure, interview source.",
+  "decision": "approve",
+  "summary": "Claims checked against opened sources; unsupported 'twins' wording removed before this verdict."
+}

@@ -1,10 +1,10 @@
 ---
 title: Kimi Antonelli
 slug: kimi-antonelli
-metaTitle: 'Kimi Antonelli: {age}, campeón del mundo de F1 2026'
+metaTitle: 'Kimi Antonelli 2026: el campeón más joven de la F1'
 metaDescription: >-
-  Kimi Antonelli, con {age}, ganó el título mundial de F1 de 2026 en México, el
-  campeón más joven de la historia. Edad, orígenes y su carrera en Mercedes.
+  Kimi Antonelli tiene {age}: empezó en el karting a los siete años, debutó en
+  F1 a los 18 y ya es el campeón del mundo más joven de la historia.
 knownFor: Piloto italiano de Fórmula 1 de Mercedes y campeón del mundo de 2026
 summary: >-
   Kimi Antonelli es el piloto italiano de Fórmula 1 que corre para Mercedes.
@@ -32,6 +32,13 @@ targetQueries:
   - Kimi Antonelli años en F1
   - Kimi Antonelli F1
   - Kimi Antonelli de dónde es
+  - edad de Kimi Antonelli
+  - cuántos años tiene Antonelli
+  - cuantos años tiene Antonelli
+  - edad Antonello
+  - cuantos años tiene Kimi Antonelli
+  - a qué edad empezó a correr Kimi Antonelli
+  - Antonelli edad F1
 faq:
   - q: ¿Es Kimi Antonelli campeón del mundo de F1?
     a: >-
@@ -45,7 +52,18 @@ faq:
       Nació el 25 de agosto de 2006 [s:f1-driver-profile]. Tenía 20 años y 68
       días cuando ganó el título, y es el campeón del mundo más joven de la
       historia de la Fórmula 1 [s:skysports-mexico-title].
+  - q: ¿Cuántos años tiene Antonelli?
+    a: >-
+      Kimi Antonelli tiene 20 años: nació el 25 de agosto de 2006
+      [s:f1-driver-profile], así que cumplió 20 en agosto de 2026.
+  - q: ¿A qué edad empezó a correr Kimi Antonelli?
+    a: >-
+      Empezó en el karting a los siete años, en el equipo de su padre
+      [s:mercedes-everything]. Debutó en la F1 en Melbourne en marzo de 2025
+      [s:mercedes-everything], con 18 años según su fecha de nacimiento
+      [s:f1-driver-profile].
 autoReviews: 5
+updatedAt: '2026-11-05'
 ---
 Kimi Antonelli ganó el Gran Premio de Estados Unidos de 2026 en el Circuit of the Americas, en Austin, el 25 de octubre de 2026, partiendo desde la pole [s:f1-austin-race-report]. Autosport lo contabilizó como su novena victoria en Gran Premio de la temporada [s:autosport-austin-report]. Con ese resultado lidera el campeonato de pilotos, con 123 puntos de ventaja sobre Russell [s:skysports-austin-report], aunque el título seguía sin decidirse [s:f1-austin-race-report].
 
@@ -68,6 +86,10 @@ El ingeniero de Antonelli le dijo que «siguiera todo lo que pudiera», y él pa
 Russell cumplió una penalización de cinco segundos durante su parada y terminó octavo [s:f1-austin-race-report]. El cuarto puesto de Hamilton mantuvo la lucha abierta, así que el campeonato no se decidió ese día [s:f1-austin-race-report].
 
 Sky Sports hizo la cuenta después de la carrera. Antonelli tenía 123 puntos de ventaja sobre Russell y 124 sobre Hamilton, con un máximo de 125 puntos todavía en juego [s:skysports-austin-report]. Autosport señaló que solo necesitaba dos puntos para convertirse en el campeón más joven de la historia, con 20 años [s:autosport-austin-report]. La clasificación cambia después de cada carrera, así que estas cifras corresponden al día de la carrera y conviene revisarlas en la clasificación oficial.
+
+## Edad de Kimi Antonelli: cuántos años tiene y a qué edad empezó a correr
+
+Kimi Antonelli tiene 20 años: nació el 25 de agosto de 2006 en Bolonia [s:f1-driver-profile]. Empezó a correr en karts a los siete años, para el equipo de su padre [s:mercedes-everything], y debutó en la F1 en el Gran Premio de Australia de marzo de 2025 [s:mercedes-everything], cuando tenía 18 años según su fecha de nacimiento [s:f1-driver-profile]. Entre el primer kart y el título mundial pasaron unos trece años [s:mercedes-everything] [s:skysports-mexico-title].
 
 ## De Bolonia al karting
 

@@ -1,7 +1,7 @@
 ---
 title: Virginia Gardner
 slug: virginia-gardner
-metaTitle: 'Virginia Gardner: partner, Fall role metaTitle: 'Virginia Gardner is {age}: Fall, Halloween, Runaways' age 2026'
+metaTitle: 'Virginia Gardner: Partner, Fall Role & Age 2026'
 metaDescription: >-
   Virginia Gardner is {age} years old (born 18 April 1995 in Sacramento). She
   played Karolina Dean in Runaways and Shiloh in Fall and Fall 2: Deadpoint.

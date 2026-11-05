@@ -1,11 +1,10 @@
 ---
 title: Vicky López
 slug: vicky-lopez
-metaTitle: 'Vicky López tiene {age} años: Barça y Trofeo Kopa'
+metaTitle: 'Vicky López 2026: nacionalidad, familia y dos Kopa'
 metaDescription: >-
-  Vicky López tiene {age} años (nació el 26 de julio de 2006 en Madrid). La
-  centrocampista del Barça ganó de nuevo el Trofeo Kopa el 26 de octubre de
-  2026.
+  Vicky López tiene {age} años y nació en Madrid. Juega con España; su padre es
+  español y su madre, ya fallecida, era nigeriana, según Vanguard.
 knownFor: >-
   Centrocampista del FC Barcelona y de la selección española, dos veces Trofeo
   Kopa
@@ -30,6 +29,10 @@ targetQueries:
   - Vicky López selección española
   - Vicky López debut con la selección
   - Vicky López cumpleaños
+  - cuántos años tiene Vicky López
+  - Vicky López nacionalidad
+  - de dónde es Vicky López
+  - Vicky López años
 faq:
   - q: ¿Cuántos años tiene Vicky López?
     a: >-
@@ -48,10 +51,20 @@ faq:
       Según la tabla de la Liga F, marcó 10 goles y dio nueve asistencias en 28
       partidos [s:ligaf-player-2026]. Just Women’s Sports cita 12 goles y 13
       asistencias en 45 partidos [s:justwomenssports-kopa-2026].
+  - q: ¿De dónde es Vicky López y cuál es su nacionalidad?
+    a: >-
+      Nació en Madrid [s:fcb-profile-es] y juega con la selección española
+      [s:eldesmarque-debut-2024]. Vanguard cuenta que su padre es español y su
+      madre, ya fallecida, era nigeriana [s:vanguard-kopa-2026].
 autoReviews: 2
+updatedAt: '2026-11-05'
 publishedAt: '2026-10-28'
 ---
 Vicky López ganó el Trofeo Kopa al mejor talento joven del Balón de Oro por segundo año seguido. Lo recogió en Londres el 26 de octubre de 2026 de manos de Lucy Bronze [s:efe-kopa-2026] [s:vanguard-kopa-2026]. Tiene 20 años y nació en Madrid el 26 de julio de 2006 [s:fcb-profile-es] [s:fcb-joins-2022]. Según EFE, es la única jugadora que ha ganado el premio en las dos ediciones celebradas hasta ahora [s:efe-kopa-2026].
+
+## De dónde es Vicky López: Madrid, España y raíces nigerianas
+
+Vicky López es de Madrid, donde nació el 26 de julio de 2006, y tiene 20 años [s:fcb-profile-es] [s:fcb-joins-2022]. Juega con la selección española, con la que debutó con 17 años [s:eldesmarque-debut-2024]. Vanguard, que recogió su discurso tras el Trofeo Kopa de 2026, informa de que su padre es español y su madre, Joy Felix, nigeriana, ya fallecida, a quien dedicó el premio [s:vanguard-kopa-2026]. El mismo medio menciona a un hermano mayor, Jesús, con quien jugaba al fútbol en la calle [s:vanguard-kopa-2026]. No hay en las fuentes de esta página datos sobre su vida sentimental, y no se incluyen.
 
 ## Del Madrid CFF al Barça, con 16 años
 

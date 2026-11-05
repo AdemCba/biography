@@ -1,7 +1,7 @@
 ---
 title: Paulo Fonseca
 slug: paulo-fonseca
-metaTitle: 'Paulo Fonseca: age {age}, career and new Sporting job'
+metaTitle: 'Paulo Fonseca: Wife, Family & Age 2026'
 metaDescription: >-
   Paulo Fonseca is {age}, born 5 March 1973 in Nampula, Mozambique. Sporting CP
   appointed him on 4 November 2026 to replace Rui Borges, and he leaves Lyon.
@@ -58,6 +58,7 @@ faq:
       Desportivo Aves, Paços de Ferreira, Porto and Braga in Portugal, then
       Shakhtar Donetsk, Roma, Lille, AC Milan and Olympique Lyonnais, where he
       was appointed in January 2025.
+updatedAt: '2026-11-05'
 autoReviews: 4
 ---
 Paulo Fonseca is the new head coach of Sporting CP. A Bola reports that Sporting SAD confirmed the appointment on 4 November 2026, and Lyon announced the same day that he was leaving [s:abola-sporting-official] [s:afp-lyon-departure]. He replaces [Rui Borges](person:rui-borges) [s:abola-sporting-official].
@@ -97,6 +98,10 @@ AS Roma appointed him on 11 June 2019 [s:asroma-10-things]. In his first season 
 Lille hired him for a two-season spell [s:dn-lyon-appointment]. The club finished fifth in Ligue 1 in 2022/23 and fourth in 2023/24 [s:dn-lyon-appointment]. In 2024 Lille reached the quarter-finals of the Europa Conference League [s:ligue1-article].
 
 AC Milan announced his appointment on 13 June 2024 on a three-year contract [s:acmilan-appointment]. He was dismissed at the end of 2024 [s:dn-lyon-appointment]. Milan's announcement quoted no words from Fonseca himself, only the club's welcome to him and his staff [s:acmilan-appointment].
+
+## Family: Ukrainian wife and leaving Kyiv
+
+Fonseca is married to Kateryna, who is Ukrainian and from Donetsk, according to A Bola [s:abola-fonseca-family-2026]. In 2026 he told the paper that the family had to leave their home twice, from Donetsk to Kyiv and from Kyiv to Portugal, and that his eldest son, then three, kept asking when they would go back [s:abola-fonseca-family-2026]. Correio da Manhã recorded his arrival in Lisbon on 28 February 2022 with his wife, Katerina [s:cmjornal-fonseca-lisboa-2022].
 
 ## Lyon from January 2025
 

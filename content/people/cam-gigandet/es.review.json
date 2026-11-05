@@ -1,0 +1,155 @@
+{
+  "date": "2026-11-05",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 16 August 1982 in Tacoma, Washington",
+      "sourceIds": [
+        "tmdb-gigandet",
+        "martincid-gigandet"
+      ],
+      "verdict": "confirmed",
+      "note": "Both state it; TV Overmind gives the date and state only."
+    },
+    {
+      "claim": "Early life: first of two children, father co-owns pizza chain / helped build franchise, Auburn Senior High, moved to California 2001, acting class on impulse, parents supported him",
+      "sourceIds": [
+        "tvovermind-gigandet",
+        "martincid-gigandet"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened both pages; the differing father wording is disclosed in the article."
+    },
+    {
+      "claim": "2003 CSI guest role as Mark Young; The O.C. Kevin Volchok; TMDB bio says 2006, credits list 2005",
+      "sourceIds": [
+        "tmdb-gigandet",
+        "martincid-gigandet"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed on TMDB and Martin Cid."
+    },
+    {
+      "claim": "Never Back Down: Ryan McCarthy, low body fat training; MTV Best Fight 2008 with Sean Faris, ceremony 1 June 2008, Los Angeles",
+      "sourceIds": [
+        "martincid-gigandet",
+        "bww-mtv-2008",
+        "rt-mtv-2008"
+      ],
+      "verdict": "confirmed",
+      "note": "BroadwayWorld states 1 June in Los Angeles; Rotten Tomatoes lists the winners."
+    },
+    {
+      "claim": "Movies.ie interview Dec 2008: aged 26, read Twilight during Never Back Down, girlfriend's copy, studio contact six months later, first cast as Emmett, wanted James, ten-week shoot with three weeks of work, Hardwicke, wire work, The Unborn, Pandorum in Berlin",
+      "sourceIds": [
+        "movies-ie-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Full text read (page blocks some automated fetchers but loads normally); quotes match."
+    },
+    {
+      "claim": "MTV Best Fight 2009 with Robert Pattinson for Twilight",
+      "sourceIds": [
+        "movieweb-mtv-2009"
+      ],
+      "verdict": "confirmed",
+      "note": "MovieWeb lists it; ceremony year 2009 from publication date."
+    },
+    {
+      "claim": "Young Hollywood Awards One to Watch 2008; New Moon archive footage 2009; filmography table and roles",
+      "sourceIds": [
+        "tmdb-gigandet"
+      ],
+      "verdict": "confirmed",
+      "note": "All rows match the TMDB credit list."
+    },
+    {
+      "claim": "2012 Seal Team Six lead, 2014 titles, 2016 Ice through 2018 across 20 episodes",
+      "sourceIds": [
+        "looper-gigandet"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches Looper."
+    },
+    {
+      "claim": "Married Dominique Geisendorff Nov 2008, 13 years; filing Aug 2022 in LA Superior Court, irreconcilable differences, separation 1 May, joint custody sought; CBS 2013 still called her fiancee; Martin Cid says 16 years",
+      "sourceIds": [
+        "et-divorce-2022",
+        "yahoo-intouch-settlement",
+        "cbs-rekker-2013",
+        "martincid-gigandet"
+      ],
+      "verdict": "confirmed",
+      "note": "Discrepancies are disclosed in the article."
+    },
+    {
+      "claim": "Declared single 11 July 2024 with joint custody",
+      "sourceIds": [
+        "yahoo-intouch-settlement"
+      ],
+      "verdict": "confirmed",
+      "note": "In Touch via Yahoo, 15 July 2024."
+    },
+    {
+      "claim": "Children Everleigh, Rekker, Armie, ages 13, 9, 6 in 2022; Rekker born 2013 as second child, older sister three",
+      "sourceIds": [
+        "et-divorce-2022",
+        "cbs-rekker-2013"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Hannah James relationship revealed Jan 2023, pregnancy announced Sept 2024, son Dare Wylder James photo 2 January, born October 2024 and fourth child",
+      "sourceIds": [
+        "yahoo-usweekly-custody",
+        "martincid-gigandet"
+      ],
+      "verdict": "confirmed",
+      "note": "Year of the 2 January post is implied as 2025 and the article does not state it."
+    },
+    {
+      "claim": "Sept 2025 Us Weekly: moved to Texas 2 May, 27 Aug 2025 order of $4,626 monthly temporary child support, attended by Zoom, no response",
+      "sourceIds": [
+        "yahoo-usweekly-custody",
+        "martincid-gigandet"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Desert Dawn: Lutz sheriff, Gigandet reluctant deputy, director Marty Murray, filming in Nevada, Deadline Sept 2023; TMDB lists 2025 and 2026 titles; Violent Night 2 Dec 2026 and Complex Texas per Martin Cid",
+      "sourceIds": [
+        "deadline-desert-dawn",
+        "tmdb-gigandet",
+        "martincid-gigandet"
+      ],
+      "verdict": "confirmed",
+      "note": "Release date flagged as unconfirmed in the article."
+    },
+    {
+      "claim": "No net worth estimate from a named outlet",
+      "sourceIds": [
+        "yahoo-intouch-settlement"
+      ],
+      "verdict": "confirmed",
+      "note": "The article gives no figure."
+    },
+    {
+      "claim": "Age 44 on 5 November 2026",
+      "sourceIds": [
+        "tmdb-gigandet"
+      ],
+      "verdict": "confirmed",
+      "note": "Arithmetic from 16 August 1982."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Sourced timeline, on-record 2008 interview, and disclosed source disagreements on marriage length and dates, which content-farm results get wrong.",
+  "decision": "approve",
+  "summary": "All claims were checked against the opened sources; source disagreements are disclosed and nothing is unsupported."
+}

@@ -1,7 +1,7 @@
 ---
 title: Mikaela Hoover
 slug: mikaela-hoover
-metaTitle: 'Mikaela Hoover is {age}: Cat Grant, Chopper, Floor'
+metaTitle: 'Mikaela Hoover: Cat Grant, Chopper & Age 2026'
 metaDescription: >-
   Mikaela Hoover is {age} years old (born 12 July 1984). She plays Cat Grant in
   Superman, voices Chopper in One Piece and is Ava in Beef season 2.

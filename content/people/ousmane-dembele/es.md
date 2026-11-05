@@ -1,7 +1,7 @@
 ---
 title: Ousmane Dembélé
 slug: ousmane-dembele
-metaTitle: 'Dembélé, {age} años: de Vernon al Balón de Oro y su lesión'
+metaTitle: 'Dembélé: Balón de Oro, lesión y edad 2026'
 metaDescription: >-
   Dembélé tiene {age} años (15 de mayo de 1997, Vernon). Del Rennes al Balón de
   Oro 2025 con el PSG, y la lesión de muslo que el club no ha puesto fecha.

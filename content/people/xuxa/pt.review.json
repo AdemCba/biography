@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-05",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 27 March 1963 in Santa Rosa RS; childhood in Rio; nickname from brother Bladimir; name spelling variants",
+      "sourceIds": [
+        "adorocinema-bio",
+        "ebiografia-xuxa"
+      ],
+      "verdict": "confirmed",
+      "note": "Both pages opened and state this."
+    },
+    {
+      "claim": "Modeling at 16 and Carinho cover April 1980 vs 15 per eBiografia",
+      "sourceIds": [
+        "adorocinema-bio",
+        "ebiografia-xuxa"
+      ],
+      "verdict": "confirmed",
+      "note": "Disagreement disclosed."
+    },
+    {
+      "claim": "1983 Clube da Criança at Manchete at Mauricio Sherman's invitation; Globo 1986 to 1992, 2000+ episodes",
+      "sourceIds": [
+        "adorocinema-bio",
+        "ebiografia-xuxa"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Paquitas 1984 to 2002, four generations, Andrea Veiga first",
+      "sourceIds": [
+        "adorocinema-paquitas"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Timeline: Xou da Xuxa 3 Guinness 1988, Fundacao 12 Oct 1989, Xuxa Park 1994-2001, TV Xuxa 2008, Record 2015, Dancing Brasil 2017-2019, Globoplay documentary 2023",
+      "sourceIds": [
+        "ebiografia-xuxa",
+        "adorocinema-bio",
+        "istoe-globo-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Film table years and titles; Lua de Cristal 5 million tickets; 35 albums, 50 million copies",
+      "sourceIds": [
+        "adorocinema-bio",
+        "ebiografia-xuxa"
+      ],
+      "verdict": "confirmed",
+      "note": "Roles are generic because sources give none."
+    },
+    {
+      "claim": "Latin Grammy 2002 for Vol. 2; second for Vol. 3 without year",
+      "sourceIds": [
+        "dgabc-grammy-2002",
+        "adorocinema-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Relationships: Pele, Senna, Szafir, Sasha born 28 July 1998, Junno since 2012, marriage disagreement",
+      "sourceIds": [
+        "istoe-amores",
+        "folhape-amores",
+        "dci-amores",
+        "agazeta-altas-horas"
+      ],
+      "verdict": "confirmed",
+      "note": "Discrepancies are disclosed in the text."
+    },
+    {
+      "claim": "Sasha 28, married to Joao Lucas, pregnancy celebrated 29 Oct 2026 with quote",
+      "sourceIds": [
+        "dgabc-neto-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Globo return announced Sept 2024; Fantastico segment; Deu Petch 2 Feb 2025; XSPB 14; Mais Voce quote; tour; not retiring",
+      "sourceIds": [
+        "propmark-globo-2024",
+        "istoe-globo-2024",
+        "oimparcial-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline that discloses conflicting reports on dates and marriage.",
+  "decision": "approve",
+  "summary": "All claims checked against opened sources; conflicts are disclosed."
+}

@@ -1,7 +1,7 @@
 ---
 title: Paulo Fonseca
 slug: paulo-fonseca
-metaTitle: 'Paulo Fonseca: {age} años, carrera y fichaje por el Sporting'
+metaTitle: 'Paulo Fonseca: esposa, familia y edad 2026'
 metaDescription: >-
   Paulo Fonseca tiene {age} años y nació en Nampula el 5 de marzo de 1973. El
   Sporting CP lo fichó el 4 de noviembre de 2026 y deja el Lyon.
@@ -57,6 +57,7 @@ faq:
       En Portugal, el Desportivo Aves, el Paços de Ferreira, el Oporto y el
       Braga. Después, el Shakhtar Donetsk, la Roma, el Lille, el AC Milan y el
       Olympique de Lyon desde enero de 2025.
+updatedAt: '2026-11-05'
 autoReviews: 3
 ---
 Paulo Fonseca es el nuevo entrenador del Sporting CP. Según A Bola, la SAD del club confirmó su llegada el 4 de noviembre de 2026, y el Lyon anunció ese mismo día que se marchaba [s:abola-sporting-official] [s:afp-lyon-departure]. Sustituye a [Rui Borges](person:rui-borges) [s:abola-sporting-official].
@@ -96,6 +97,10 @@ La Roma lo nombró el 11 de junio de 2019 [s:asroma-10-things]. En su primera te
 El Lille lo contrató para dos temporadas [s:dn-lyon-appointment]. El club terminó quinto en la Ligue 1 en 2022/23 y cuarto en 2023/24 [s:dn-lyon-appointment]. En 2024 el equipo llegó a los cuartos de final de la Liga Europa Conferencia [s:ligue1-article].
 
 El AC Milan anunció su contratación el 13 de junio de 2024, con un contrato de tres temporadas [s:acmilan-appointment]. Fue destituido a finales de 2024 [s:dn-lyon-appointment]. El comunicado del club no recogía ninguna declaración del propio Fonseca, solo la bienvenida a él y a su cuerpo técnico [s:acmilan-appointment].
+
+## Familia: esposa ucraniana y la salida de Kiev
+
+Fonseca está casado con Kateryna, ucraniana de Donetsk, según A Bola [s:abola-fonseca-family-2026]. En 2026 contó al diario que la familia tuvo que dejar su casa dos veces, de Donetsk a Kiev y de Kiev a Portugal, y que su hijo mayor, entonces de tres años, seguía preguntando cuándo volverían [s:abola-fonseca-family-2026]. Correio da Manhã registró su llegada a Lisboa el 28 de febrero de 2022 con su esposa, Katerina [s:cmjornal-fonseca-lisboa-2022].
 
 ## El Lyon desde enero de 2025
 

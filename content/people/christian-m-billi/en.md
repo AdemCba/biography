@@ -1,11 +1,10 @@
 ---
 title: Christian Mbilli
 slug: christian-m-billi
-metaTitle: 'Christian Mbilli age, record and Canelo loss'
+metaTitle: 'Christian Mbilli: Canelo loss, record and origins 2026'
 metaDescription: >-
-  Christian Mbilli is 31, a Cameroon-born boxer who lost the WBC super
-  middleweight title to Canelo Álvarez by unanimous decision in Riyadh on 31
-  October 2026.
+  Christian Mbilli is {age}, born 26 April 1995 in Yaoundé. He was about five
+  years younger than Canelo, 36, and unbeaten until Riyadh. How the ages compare.
 knownFor: >-
   Boxer, former WBC super middleweight champion, beaten by Canelo Álvarez in
   Riyadh in 2026
@@ -31,6 +30,13 @@ targetQueries:
   - christian mbilli and lester martinez
   - canelo alvarez vs christian mbilli
   - christian mbilli next fight
+  - how old is mbilli
+  - mbilli age
+  - mbili age
+  - canelo vs mbilli age
+  - how old is mbilli boxer
+  - how old is christian mbilli
+  - canelo vs mbilli ages
 faq:
   - q: How old is Christian Mbilli?
     a: 'He was born on 26 April 1995 in Yaoundé, Cameroon, so he is 31.'
@@ -51,11 +57,25 @@ faq:
       The reports on the result do not name a next bout for him. They also do
       not confirm a next opponent for Alvarez, and Depor lists only possible
       challengers for Alvarez.
+  - q: How old is Mbilli, the boxer who fought Canelo?
+    a: >-
+      Mbilli is 31, born in Yaoundé on 26 April 1995 [s:beinsports-profile]. Al
+      Jazeera also gives his age as 31 [s:aljazeera-result].
+  - q: What were the Canelo vs Mbilli ages?
+    a: >-
+      Al Jazeera lists Alvarez as 36 and Mbilli as 31, so about five years
+      apart on the night [s:aljazeera-result]. It gives no birth dates; we only
+      have one for Mbilli [s:beinsports-profile].
 autoReviews: 2
 publishedAt: '2026-11-01'
 publishedTime: '2026-11-01T09:55:16.511Z'
+updatedAt: '2026-11-05'
 ---
 Christian Mbilli went into his WBC super middleweight title fight with Canelo Álvarez with no professional losses, 29 wins and one draw [s:beinsports-profile]. He was 31 [s:beinsports-profile]. He lost on 31 October 2026, when the three judges scored the 12 rounds 115-112, 116-111 and 117-110, all for Alvarez [s:depor-result] [s:sundayguardian-result] [s:bleacherreport-result]. The name is spelled Christian Mbilli on the WBC's own site, which is the spelling used here [s:wbc-profile]. Al Jazeera writes it M'billi [s:aljazeera-preview].
+
+## How old is Mbilli? The Canelo vs Mbilli ages
+
+Christian Mbilli is 31: he was born on 26 April 1995 in Yaoundé [s:beinsports-profile], and Al Jazeera also calls him 31 [s:aljazeera-result]. The same report describes Canelo Álvarez as 36, so the champion was about five years older than the challenger [s:aljazeera-result]. Its articles give no birth date for Álvarez, so we do not state one. The age gap mattered less than the record: Mbilli arrived unbeaten, Álvarez had lost to Crawford in September 2025 [s:aljazeera-result].
 
 ## From Yaoundé to the Olympics
 

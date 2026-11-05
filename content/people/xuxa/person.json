@@ -1,0 +1,149 @@
+{
+  "id": "xuxa",
+  "name": "Xuxa",
+  "categories": [
+    "artists",
+    "tv-presenters"
+  ],
+  "importance": 4,
+  "wikidata": "Q259587",
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1963-03-27",
+      "sources": [
+        "adorocinema-bio",
+        "ebiografia-xuxa"
+      ],
+      "note": "Both give 27 March 1963."
+    },
+    "birthPlace": {
+      "value": "Santa Rosa, Rio Grande do Sul, Brasil",
+      "sources": [
+        "adorocinema-bio",
+        "ebiografia-xuxa"
+      ]
+    },
+    "nationality": {
+      "value": [
+        "BR"
+      ],
+      "sources": [
+        "adorocinema-bio",
+        "ebiografia-xuxa"
+      ],
+      "note": "Brazilian."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "adorocinema-bio",
+      "url": "https://www.adorocinema.com/personalidades/personalidade-587119/biografia/",
+      "title": "Xuxa Meneghel - biografia",
+      "publisher": "AdoroCinema",
+      "type": "database",
+      "accessed": "2026-11-05",
+      "lang": "pt"
+    },
+    {
+      "id": "ebiografia-xuxa",
+      "url": "https://www.ebiografia.com/xuxa_meneghel/",
+      "title": "Xuxa Meneghel",
+      "publisher": "eBiografia",
+      "type": "press",
+      "accessed": "2026-11-05",
+      "lang": "pt"
+    },
+    {
+      "id": "adorocinema-paquitas",
+      "url": "https://www.adorocinema.com/televisao/noticias/noticia-1000102478.html",
+      "title": "6 curiosidades sobre as Paquitas da Xuxa",
+      "publisher": "AdoroCinema",
+      "type": "press",
+      "accessed": "2026-11-05",
+      "lang": "pt"
+    },
+    {
+      "id": "istoe-amores",
+      "url": "https://istoe.com.br/xuxa-60-anos-relembre-todos-os-amores-da-vida-da-apresentadora/",
+      "title": "Xuxa 60 anos: relembre todos os amores da vida da apresentadora",
+      "publisher": "IstoÉ",
+      "type": "press",
+      "accessed": "2026-11-05",
+      "lang": "pt"
+    },
+    {
+      "id": "folhape-amores",
+      "url": "https://www.folhape.com.br/cultura/os-amores-de-xuxa-de-pele-a-luciano-szafir-relembre-os/280030/",
+      "title": "Os amores de Xuxa: de Pelé a Luciano Szafir",
+      "publisher": "Folha de Pernambuco",
+      "type": "press",
+      "accessed": "2026-11-05",
+      "lang": "pt"
+    },
+    {
+      "id": "dci-amores",
+      "url": "https://www.dci.com.br/dci-mais/celebridades/namorados-de-xuxa-pele-senna-e-outros-amores-da-rainha/",
+      "title": "Namorados de Xuxa: Pelé, Senna e outros amores da rainha",
+      "publisher": "DCI",
+      "type": "press",
+      "accessed": "2026-11-05",
+      "lang": "pt"
+    },
+    {
+      "id": "agazeta-altas-horas",
+      "url": "https://www.agazeta.com.br/entretenimento/famosos/xuxa-volta-a-globo-para-falar-de-carreira-maternidade-e-namoro-com-junno-1120",
+      "title": "Xuxa volta à Globo para falar de carreira, maternidade e namoro com Junno",
+      "publisher": "A Gazeta",
+      "type": "press",
+      "accessed": "2026-11-05",
+      "lang": "pt"
+    },
+    {
+      "id": "istoe-globo-2024",
+      "url": "https://istoe.com.br/xuxa-assina-contrato-com-a-globo-e-retorna-a-emissora-apos-10-anos",
+      "title": "Xuxa assina contrato com a Globo e retorna à emissora após 10 anos",
+      "publisher": "IstoÉ",
+      "type": "press",
+      "accessed": "2026-11-05",
+      "lang": "pt"
+    },
+    {
+      "id": "propmark-globo-2024",
+      "url": "https://propmark.com.br/midia/tv-globo-anuncia-retorno-de-xuxa/",
+      "title": "TV Globo anuncia retorno de Xuxa",
+      "publisher": "Propmark",
+      "type": "press",
+      "accessed": "2026-11-05",
+      "lang": "pt"
+    },
+    {
+      "id": "oimparcial-2025",
+      "url": "https://oimparcial.com.br/entretenimento-e-cultura/2025/01/xuxa-revela-lancamento-de-novo-album-e-retorno-para-a-rede-globo/",
+      "title": "Xuxa revela lançamento de novo álbum e retorno para a Rede Globo",
+      "publisher": "O Imparcial",
+      "type": "interview",
+      "accessed": "2026-11-05",
+      "lang": "pt"
+    },
+    {
+      "id": "dgabc-neto-2026",
+      "url": "https://www.dgabc.com.br/Noticia/4365981/minha-historia-esta-completissima-xuxa-celebra-neto-e-pede-perdao-a-sasha",
+      "title": "'Minha história está completíssima': Xuxa celebra neto e pede perdão a Sasha",
+      "publisher": "Diário do Grande ABC",
+      "type": "press",
+      "accessed": "2026-11-05",
+      "lang": "pt"
+    },
+    {
+      "id": "dgabc-grammy-2002",
+      "url": "https://www.dgabc.com.br/Noticia/268532/xuxa-e-padre-marcelo-rossi-ganham-grammy-latino",
+      "title": "Xuxa e padre Marcelo Rossi ganham Grammy Latino",
+      "publisher": "Diário do Grande ABC",
+      "type": "press",
+      "accessed": "2026-11-05",
+      "lang": "pt"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-05",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 26 August 1980 in New York City, third of seven children",
+      "sourceIds": [
+        "biography-com",
+        "foxla-walk-of-fame"
+      ],
+      "verdict": "confirmed",
+      "note": "Fetched; both state it."
+    },
+    {
+      "claim": "Stage debut 1984 Bach Babies; film debut 1988 Rocket Gibraltar with Burt Lancaster; Uncle Buck 1989",
+      "sourceIds": [
+        "foxla-walk-of-fame"
+      ],
+      "verdict": "confirmed",
+      "note": "Fetched."
+    },
+    {
+      "claim": "Golden Globe nomination for Home Alone listed under 1991, no wins; lost to Depardieu",
+      "sourceIds": [
+        "golden-globes",
+        "foxla-walk-of-fame"
+      ],
+      "verdict": "confirmed",
+      "note": "Golden Globes page lists 1991 nominee; FOX 11 says lost to Depardieu."
+    },
+    {
+      "claim": "Walk of Fame star no. 2,765 on 1 Dec 2023 at 6353 Hollywood Blvd",
+      "sourceIds": [
+        "foxla-walk-of-fame"
+      ],
+      "verdict": "confirmed",
+      "note": "Fetched."
+    },
+    {
+      "claim": "Net worth about 18 million dollars per Celebrity Net Worth, reported by Evening Standard 4 Dec 2023",
+      "sourceIds": [
+        "yahoo-net-worth"
+      ],
+      "verdict": "confirmed",
+      "note": "Fetched."
+    },
+    {
+      "claim": "Engaged to Brenda Song, not married; sons Dakota (April 2021) and Carson (December 2022); nine-year tribute 17 June 2026",
+      "sourceIds": [
+        "hello-song-culkin",
+        "et-walk-of-fame",
+        "ary-anniversary",
+        "et-engaged"
+      ],
+      "verdict": "confirmed",
+      "note": "Fetched; Hello! April 2026 says not married yet."
+    },
+    {
+      "claim": "Married Rachel Miner June 1998, separation reported August 2000; Kunis from 2002, split reported January 2011",
+      "sourceIds": [
+        "abc-miner",
+        "tvguide-kunis",
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Fetched."
+    },
+    {
+      "claim": "Fallout season 2 casting November 2024; July 2026 Instagram comment denying Home Alone rumours",
+      "sourceIds": [
+        "tvline-fallout",
+        "entertainmentnow-rumors"
+      ],
+      "verdict": "confirmed",
+      "note": "Fetched."
+    },
+    {
+      "claim": "Film roles and years in the table",
+      "sourceIds": [
+        "rt-culkin"
+      ],
+      "verdict": "confirmed",
+      "note": "Fetched."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear sourced timeline, engaged-not-married clarification, named net worth estimate.",
+  "decision": "approve",
+  "summary": "All checked claims match fetched sources."
+}

@@ -1,7 +1,7 @@
 ---
 title: Mikaela Hoover
 slug: mikaela-hoover
-metaTitle: 'Mikaela Hoover a {age} ans : Cat Grant et Chopper'
+metaTitle: 'Mikaela Hoover : Cat Grant, Chopper et âge 2026'
 metaDescription: >-
   Mikaela Hoover a {age} ans (née le 12 juillet 1984). Elle joue Cat Grant dans
   Superman et prête sa voix à Chopper dans la série One Piece de Netflix.

@@ -1,7 +1,7 @@
 ---
 title: 'Yaxel Lendeborg: age, draft and early Warriors numbers'
 slug: yaxel-lendeborg
-metaTitle: 'Yaxel Lendeborg: Warriors rookie stats metaTitle: 'Yaxel Lendeborg, {age}: Warriors rookie stats and age' age 2026'
+metaTitle: 'Yaxel Lendeborg: Warriors Rookie Stats & Age 2026'
 metaDescription: >-
   Yaxel Lendeborg is {age} (born 30 Sept 2002). Why the Warriors' No. 11 pick is
   an older rookie after Michigan's title, and how his first NBA stats look.

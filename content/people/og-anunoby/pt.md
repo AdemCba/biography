@@ -1,10 +1,10 @@
 ---
 title: OG Anunoby
 slug: og-anunoby
-metaTitle: 'OG Anunoby: idade, altura, Knicks e títulos da NBA'
+metaTitle: 'OG Anunoby: estatísticas, nome e título dos Knicks 2026'
 metaDescription: >-
-  Idade, local de nascimento, escolha no draft pelo Toronto, liderança em roubos
-  em 2022-23, troca para os Knicks e título de 2026 de OG Anunoby, com fontes.
+  As estatísticas de Anunoby em 2025-26: 16,7 pontos por jogo. Veja o nome
+  completo, a carreira desde Toronto e o título dos Knicks, aos {age} anos.
 knownFor: Ala do New York Knicks e campeão da NBA em 2026
 summary: >-
   OG Anunoby é ala do New York Knicks e nasceu em 17 de julho de 1997, em
@@ -30,6 +30,9 @@ targetQueries:
   - OG Anunoby faculdade
   - OG Anunoby All-Defensive
   - OG Anunoby contrato
+  - anunoby
+  - anunoby stats
+  - simeon ononobi
 faq:
   - q: Quantos anos tem o OG Anunoby?
     a: >-
@@ -45,10 +48,26 @@ faq:
     a: >-
       Sim, duas vezes: ele ajudou o Toronto a conquistar o título de 2019
       [s:nba-bio], e o Knicks venceu as Finais de 2026 [s:nba-finals-2026].
+  - q: Quais são as estatísticas do Anunoby?
+    a: >-
+      Em 2025-26, pelos Knicks, ele teve médias de 16,7 pontos, 5,2 rebotes, 2,2
+      assistências e 1,6 roubo de bola por jogo, com 38,6% nas bolas de três.
+      Na carreira (10 temporadas), são 13,4 pontos e 4,5 rebotes
+      [s:br-anunoby].
+  - q: Quem é Simeon Ononobi?
+    a: >-
+      Nenhuma de nossas fontes usa o nome Simeon Ononobi. O jogador dos Knicks
+      se chama Ogugua Anunoby Jr., e se pronuncia "O G Ann-uh-no-bee"
+      [s:br-anunoby].
+updatedAt: '2026-11-05'
 autoReviews: 1
 publishedAt: '2026-10-28'
 ---
 OG Anunoby é conhecido, sobretudo, como defensor. Agora, a Sports Illustrated diz que, no começo da temporada 2026-27, ele está mostrando aos Knicks um lado novo do seu jogo: os passes. Em uma partida contra o Boston, o índice de passes dele foi o mais alto em dois anos [s:si-early-season].
+
+## Anunoby: estatísticas e nome
+
+As estatísticas de Anunoby em 2025-26, pelos Knicks, foram 16,7 pontos, 5,2 rebotes, 2,2 assistências e 1,6 roubo de bola por jogo, com 38,6% nas bolas de três [s:br-anunoby]. Na carreira, em 10 temporadas, as médias são de 13,4 pontos, 4,5 rebotes, 1,8 assistência e 1,3 roubo de bola, com 37,5% nas bolas de três [s:br-anunoby]. Quem busca "Simeon Ononobi" provavelmente quer o mesmo jogador: o nome completo dele é Ogugua Anunoby Jr., e nenhuma de nossas fontes registra outro [s:br-anunoby].
 
 ## Do Missouri ao draft
 
@@ -84,4 +103,4 @@ Segundo o texto, Anunoby costuma ficar bem atrás de seus companheiros e de outr
 
 Ally é mais cético sobre o papel futuro dele: "Não acredito que o Anunoby algum dia será um passador de grande impacto, mas ele pode jogar dentro do sistema bem o bastante para ser um bom conector" [s:si-early-season]. O texto também diz que ele é destro e que melhorou em sofrer faltas [s:si-early-season].
 
-Esta página não traz comentários diretos de Anunoby sobre o jogo de passes, porque as fontes não os registram. As fontes também não informam os termos do contrato nem as estatísticas completas da temporada, então deixamos esses dados de fora. Com os Knicks, ele usa a camisa número 8, e a NBA lhe atribui nove temporadas de experiência [s:nba-bio].
+Esta página não traz comentários diretos de Anunoby sobre o jogo de passes, porque as fontes não os registram. As fontes também não informam os termos do contrato, então deixamos esse dado de fora. Com os Knicks, ele usa a camisa número 8, e a NBA lhe atribui nove temporadas de experiência [s:nba-bio].

@@ -1,10 +1,10 @@
 ---
 title: Aitana Bonmatí
 slug: aitana-bonmati
-metaTitle: 'Aitana Bonmatí: age, Ballon d''Or wins and 2026 snub'
+metaTitle: 'Aitana Bonmatí 2026: why she missed the Ballon d''Or'
 metaDescription: >-
-  Aitana Bonmatí's age, birthplace, three Ballon d'Or titles, Barcelona career
-  and why she was left off the 2026 Women's Ballon d'Or shortlist.
+  Not nominated: Excélsior says an injury, a fibula broken in November 2025,
+  kept the three-time winner off the 2026 Ballon d'Or list. Bonmatí is {age}.
 knownFor: Footballer for FC Barcelona and three-time Women's Ballon d'Or winner
 summary: >-
   Alexia Putellas won the 2026 Women's Ballon d'Or in London on 26 October, her
@@ -26,21 +26,32 @@ targetQueries:
   - Aitana Bonmatí injury
   - Aitana Bonmatí age
   - Aitana Bonmatí Barcelona
+  - aitana bonmati
+  - why is aitana bonmati not nominated for ballon d'or
+  - aitana bonmati age
+  - aitana bonmatí total ballon d or
+  - how old is bonmati
+  - aitana bonmatí 2026
+  - aitana soccer
 faq:
+  - q: Why is Aitana Bonmatí not nominated for the Ballon d'Or in 2026?
+    a: >-
+      Excélsior attributes it mainly to an injury: she broke her left fibula
+      during a Spain camp in November 2025 and was out for about five months
+      [s:excelsior-2026-omission]. She was not among the 30 women on the list
+      announced on 8 September 2026 [s:uefa-ballon-dor-nominees-2026].
+  - q: What is Aitana Bonmatí's total of Ballon d'Or awards?
+    a: >-
+      Three: 2023, 2024 and 2025 [s:fcb-profile-en]. She also won two FIFA The Best awards, in 2023 and 2024 [s:fcb-profile-en].
+  - q: How old is Bonmatí?
+    a: >-
+      Aitana Bonmatí was born on 18 January 1998 [s:fcb-profile-es], so she is
+      28 as of 5 November 2026.
   - q: Is Aitana Bonmatí nominated for the 2026 Ballon d'Or?
     a: >-
       No. She was not among the 30 women nominated, a list announced on 8
       September 2026 [s:uefa-ballon-dor-nominees-2026]
-      [s:emisoras-nominees-2026]. Excélsior says the exclusion was mainly due to
-      an injury in the 2025-26 season [s:excelsior-2026-omission].
-  - q: How many Ballon d'Or awards has Aitana Bonmatí won?
-    a: >-
-      Three, in 2023, 2024 and 2025 [s:fcb-profile-en]. She also won two FIFA
-      The Best awards, in 2023 and 2024 [s:fcb-profile-en].
-  - q: How old is Aitana Bonmatí?
-    a: >-
-      She was born on 18 January 1998 [s:fcb-profile-es], so she is 28 as of 27
-      October 2026.
+      [s:emisoras-nominees-2026].
   - q: Where was Aitana Bonmatí born?
     a: >-
       Sant Pere de Ribes, in Catalonia, according to the FC Barcelona profile
@@ -49,13 +60,9 @@ faq:
     a: >-
       Alexia Putellas, at the ceremony on 26 October 2026 in London, her third
       Ballon d'Or [s:noovo-afp-winners-2026] [s:reuters-ballon-dor-women-2026].
-  - q: How long was Aitana Bonmatí out with an injury?
-    a: >-
-      About five months. Excélsior reports that she broke her left fibula during
-      a Spain camp in November 2025 [s:excelsior-2026-omission].
 autoReviews: 1
 publishedAt: '2026-10-27'
-updatedAt: '2026-10-29'
+updatedAt: '2026-11-05'
 ---
 Aitana Bonmatí was not one of the 30 women nominated for the 2026 Women's Ballon d'Or. The list came out on 8 September 2026, and her absence was the main surprise of it [s:emisoras-nominees-2026] [s:uefa-ballon-dor-nominees-2026]. She had won the award three years running, in 2023, 2024 and 2025 [s:fcb-profile-en].
 
@@ -63,9 +70,9 @@ Aitana Bonmatí was not one of the 30 women nominated for the 2026 Women's Ballo
 
 The ceremony for the 2026 award took place on Monday 26 October at the London Palladium. Alexia Putellas won the women's prize, her third Ballon d'Or [s:noovo-afp-winners-2026] [s:reuters-ballon-dor-women-2026]. AFP's report names Bonmatí as the Spanish player who came before Putellas on the list of winners [s:noovo-afp-winners-2026]. Bonmatí was not on the shortlist, so the result did not involve her [s:emisoras-nominees-2026]. The ceremony is the main news about her this week.
 
-## Left off the 2026 shortlist
+## Why Aitana Bonmatí was not nominated for the 2026 Ballon d'Or
 
-Excélsior attributes her exclusion mainly to an injury, and its report of 8 September 2026 says she was not among the 30 nominees [s:excelsior-2026-omission]. Emisoras Unidas calls her absence the main surprise of the list [s:emisoras-nominees-2026]. The UEFA announcement lists 30 men and 30 women. She is not among the women [s:uefa-ballon-dor-nominees-2026].
+Aitana Bonmatí is not nominated for the 2026 Ballon d'Or because, according to Excélsior, an injury kept her out for about five months of the 2025-26 season; the paper's report of 8 September 2026 says she was not among the 30 nominees [s:excelsior-2026-omission]. The club profile gives no reason for the omission, so the injury explanation rests on that one report [s:fcb-profile-en]. She had won the award three times by then, which is her total: 2023, 2024 and 2025 [s:fcb-profile-en]. Emisoras Unidas calls her absence the main surprise of the list [s:emisoras-nominees-2026]. The UEFA announcement lists 30 men and 30 women. She is not among the women [s:uefa-ballon-dor-nominees-2026].
 
 ## Five months out with a fibula fracture
 

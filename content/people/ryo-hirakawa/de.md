@@ -1,11 +1,10 @@
 ---
 title: Ryo Hirakawa
 slug: ryo-hirakawa
-metaTitle: Ryo Hirakawa Alter 32 und Haas-F1-Einsatz
+metaTitle: 'Ryo Hirakawa: WEC-Titel, Haas-Ersatzfahrer und Weg 2026'
 metaDescription: >-
-  Ryo Hirakawa ist 32 Jahre alt, zweifacher WEC-Weltmeister und
-  Haas-Ersatzfahrer. In Mexiko-Stadt qualifizierte er sich als 19. für Esteban
-  Ocons Platz.
+  Ryo Hirakawa ist {age}, geboren am 7. März 1994 in Hiroshima. Wie ein
+  zweifacher WEC-Champion von Toyota zum Haas-Ersatzfahrer wurde.
 knownFor: Japanischer WEC-Champion und Ersatzfahrer bei Haas in der Formel 1
 summary: >-
   Ryo Hirakawa ist der japanische Fahrer, den Haas für den Rest des
@@ -28,6 +27,11 @@ targetQueries:
   - Ryo Hirakawa Mexiko GP
   - Ryo Hirakawa Le Mans
   - Ryo Hirakawa WEC
+  - ryō hirakawa
+  - hirakawa
+  - hirakawa alter
+  - hirakawa wec
+  - Ersatzfahrer Haas F1
 faq:
   - q: Wie alt ist Ryo Hirakawa?
     a: >-
@@ -57,7 +61,15 @@ faq:
       Er war offizieller Test- und Ersatzfahrer bei Alpine, bevor er im April
       2025 Ersatzfahrer bei Haas wurde [s:haas-profile]
       [s:f1-reserve-driver-2025].
-updatedAt: '2026-11-02'
+  - q: Wie alt ist Hirakawa, der Ersatzfahrer von Haas?
+    a: >-
+      Ryō Hirakawa ist 32 Jahre alt, geboren am 7. März 1994 in Hiroshima
+      [s:haas-profile].
+  - q: Was hat Hirakawa in der WEC erreicht?
+    a: >-
+      Er wurde 2022 (149 Punkte) und 2023 (172 Punkte) Champion, 2024 Vierter
+      und 2025 Siebter [s:haas-profile].
+updatedAt: '2026-11-05'
 autoReviews: 1
 publishedAt: '2026-11-01'
 publishedTime: '2026-11-01T09:55:16.523Z'
@@ -65,6 +77,10 @@ publishedTime: '2026-11-01T09:55:16.523Z'
 Haas hat Esteban Ocon für den Rest des Grand Prix von Mexiko 2026 aus dem Auto genommen und den Schritt nicht begründet. Das Team bestätigte, dass Ocon nicht krank war [s:racefans-ocon-replacement-2026]. Ryo Hirakawa, 32, wurde am Samstagmorgen angerufen, vor dem Qualifying [s:f1-dream-come-true-2026] [s:f1-ocon-replacement-2026].
 
 Hirakawa sollte im letzten freien Training, im Qualifying und im 71-Runden-Rennen am Sonntag neben Ollie Bearman fahren [s:f1-ocon-replacement-2026]. Die Formel 1 bezeichnete das Rennen als seinen ersten Grand-Prix-Start [s:f1-ocon-replacement-2026].
+
+## Hirakawa: Alter, WEC und Ersatzfahrer bei Haas
+
+Ryo Hirakawa ist 32 Jahre alt (geboren am 7. März 1994 in Hiroshima) [s:haas-profile], fährt in der WEC für Toyota und ist seit April 2025 Ersatzfahrer von Haas in der Formel 1 [s:haas-profile] [s:f1-reserve-driver-2025]. In der WEC wurde er 2022 mit 149 und 2023 mit 172 Punkten Champion, 2024 Vierter und 2025 Siebter [s:haas-profile]. Als Haas-Ersatzfahrer ersetzt er bei Bedarf einen Stammfahrer, wie in Mexiko-Stadt Esteban Ocon [s:f1-ocon-replacement-2026]. Zu Familie oder Partnerschaft nennt das Haas-Profil nichts, deshalb steht dazu hier nichts.
 
 ## November 2026
 

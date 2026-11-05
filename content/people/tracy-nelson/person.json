@@ -1,0 +1,114 @@
+{
+  "id": "tracy-nelson",
+  "name": "Tracy Nelson",
+  "categories": [
+    "artists",
+    "actors"
+  ],
+  "importance": 3,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1963-10-25",
+      "sources": [
+        "biography-com",
+        "tmdb-nelson",
+        "playbill-person"
+      ],
+      "note": "All give 25 October 1963."
+    },
+    "birthPlace": {
+      "value": "Santa Monica, California, United States",
+      "sources": [
+        "biography-com",
+        "tmdb-nelson",
+        "playbill-person"
+      ]
+    },
+    "nationality": {
+      "value": [
+        "US"
+      ],
+      "sources": [
+        "tmdb-nelson",
+        "biography-com"
+      ],
+      "note": "American actress."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "cnn-lkl-2005",
+      "url": "https://transcripts.cnn.com/TRANSCRIPTS/0512/27/lkl.01.html",
+      "title": "Tribute to Ricky Nelson (Larry King Live transcript)",
+      "publisher": "CNN",
+      "type": "interview",
+      "accessed": "2026-11-05",
+      "lang": "en"
+    },
+    {
+      "id": "biography-com",
+      "url": "https://www.biography.com/actor/tracy-nelson",
+      "title": "Tracy Nelson",
+      "publisher": "Biography.com",
+      "type": "press",
+      "accessed": "2026-11-05",
+      "lang": "en"
+    },
+    {
+      "id": "tmdb-nelson",
+      "url": "https://www.themoviedb.org/person/60698-tracy-nelson",
+      "title": "Tracy Nelson",
+      "publisher": "The Movie Database (TMDB)",
+      "type": "database",
+      "accessed": "2026-11-05",
+      "lang": "en"
+    },
+    {
+      "id": "playbill-rizzo-1996",
+      "url": "https://playbill.com/article/tracy-nelson-may-join-grease-on-broadway-com-68452",
+      "title": "Tracy Nelson May Join Grease! on Broadway",
+      "publisher": "Playbill",
+      "type": "press",
+      "accessed": "2026-11-05",
+      "lang": "en"
+    },
+    {
+      "id": "playbill-person",
+      "url": "https://playbill.com/person/tracy-nelson-vault-0000039807",
+      "title": "Tracy Nelson (Performer)",
+      "publisher": "Playbill Vault",
+      "type": "database",
+      "accessed": "2026-11-05",
+      "lang": "en"
+    },
+    {
+      "id": "avclub-square-pegs",
+      "url": "https://www.avclub.com/behind-the-scenes-chaos-derailed-square-pegs-new-wave-1798276020",
+      "title": "Behind-the-scenes chaos derailed Square Pegs' new-wave promise",
+      "publisher": "The A.V. Club",
+      "type": "press",
+      "accessed": "2026-11-05",
+      "lang": "en"
+    },
+    {
+      "id": "celebritynetworth-nelson",
+      "url": "https://www.celebritynetworth.com/richest-celebrities/actors/tracy-nelson-net-worth/",
+      "title": "Tracy Nelson Net Worth",
+      "publisher": "Celebrity Net Worth",
+      "type": "other",
+      "accessed": "2026-11-05",
+      "lang": "en"
+    },
+    {
+      "id": "playbill-grease-1997",
+      "url": "https://playbill.com/article/broadway-grease-closing-feb-23-com-69523",
+      "title": "Broadway Grease! Closing Feb. 23",
+      "publisher": "Playbill",
+      "type": "press",
+      "accessed": "2026-11-05",
+      "lang": "en"
+    }
+  ]
+}

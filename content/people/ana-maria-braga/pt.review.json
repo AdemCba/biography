@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-05",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Nasceu em 1º de abril de 1949 em São Joaquim da Barra",
+      "sourceIds": [
+        "istoe-76-anos",
+        "purepeople-64-anos",
+        "viva-77-anos"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "77 anos em 1º de abril de 2026; Roberto Carlos ligou ao vivo",
+      "sourceIds": [
+        "viva-77-anos"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Estudou Biologia na Unesp e Jornalismo",
+      "sourceIds": [
+        "istoe-76-anos",
+        "purepeople-64-anos"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Replay na Tupi e vínculo com o SBT",
+      "sourceIds": [
+        "dgabc-trofeu-imprensa"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Note e Anote em 1996 e criação do Louro José; Tom Veiga",
+      "sourceIds": [
+        "agazeta-louro-jose",
+        "tribuna-louro-jose"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Mais Você estreou em outubro de 1999; 24 anos em 2023; exigência de programa ao vivo",
+      "sourceIds": [
+        "purepeople-64-anos",
+        "dgabc-24-anos"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Morte de Tom Veiga em 1º/11/2020 aos 47 anos e frase de Ana Maria",
+      "sourceIds": [
+        "tribuna-louro-jose"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Troféu Imprensa 2026 Melhor Apresentadora (júri) e Pela Sua História",
+      "sourceIds": [
+        "cnn-trofeu-imprensa-2026",
+        "dgabc-trofeu-imprensa"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Casamento civil com Fábio Arruda em abril de 2025; bênção em 28/06/2025",
+      "sourceIds": [
+        "dgabc-bencao",
+        "metropoles-bencao"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Casal junto desde março de 2022, namoro assumido em janeiro de 2023",
+      "sourceIds": [
+        "istoe-76-anos"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Filhos Mariana e Pedro, netos citados",
+      "sourceIds": [
+        "istoe-76-anos",
+        "purepeople-64-anos"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Cânceres 1991, 2001, 2015, 2020",
+      "sourceIds": [
+        "istoe-76-anos",
+        "purepeople-64-anos"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Estimativa de R$ 100 milhões atribuída ao Jornal do Bolsão, não confirmada",
+      "sourceIds": [
+        "istoe-76-anos"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Dated timeline, noted birth-year conflict and conflicting marriage dates.",
+  "decision": "approve",
+  "summary": "All checked claims match the fetched sources."
+}

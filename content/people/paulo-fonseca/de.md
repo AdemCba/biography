@@ -1,7 +1,7 @@
 ---
 title: Paulo Fonseca
 slug: paulo-fonseca
-metaTitle: 'Paulo Fonseca: {age} Jahre, Vereine und neuer Job bei Sporting'
+metaTitle: 'Paulo Fonseca: Frau, Familie & Alter 2026'
 metaDescription: >-
   Paulo Fonseca ist {age} Jahre alt, geboren am 5. März 1973 in Nampula in
   Mosambik. Sporting Lissabon hat ihn am 4. November 2026 verpflichtet.
@@ -55,6 +55,7 @@ faq:
       In Portugal Desportivo Aves, Paços de Ferreira, den FC Porto und SC Braga.
       Danach Schachtar Donezk, AS Rom, LOSC Lille, AC Mailand und seit Januar
       2025 Olympique Lyon.
+updatedAt: '2026-11-05'
 autoReviews: 4
 ---
 Paulo Fonseca ist der neue Trainer von Sporting Lissabon. Laut A Bola bestätigte die Sporting-SAD die Verpflichtung am 4. November 2026, und Olympique Lyon gab am selben Tag seinen Abschied bekannt [s:abola-sporting-official] [s:afp-lyon-departure]. Er folgt auf [Rui Borges](person:rui-borges) [s:abola-sporting-official].
@@ -94,6 +95,10 @@ AS Rom verpflichtete ihn am 11. Juni 2019 [s:asroma-10-things]. In seiner ersten
 Lille holte ihn für zwei Saisons [s:dn-lyon-appointment]. Der Klub wurde 2022/23 Fünfter der Ligue 1 und 2023/24 Vierter [s:dn-lyon-appointment]. 2024 stand Lille im Viertelfinale der Conference League [s:ligue1-article].
 
 Der AC Mailand gab seine Verpflichtung am 13. Juni 2024 mit einem Dreijahresvertrag bekannt [s:acmilan-appointment]. Ende 2024 wurde er entlassen [s:dn-lyon-appointment]. In der Mitteilung des Klubs kommt Fonseca selbst nicht zu Wort, sie enthält nur die Begrüßung für ihn und seinen Stab [s:acmilan-appointment].
+
+## Familie: ukrainische Frau und der Abschied aus Kiew
+
+Fonseca ist laut A Bola mit Kateryna verheiratet, einer Ukrainerin aus Donezk [s:abola-fonseca-family-2026]. 2026 erzählte er der Zeitung, die Familie habe ihr Zuhause zweimal verlassen müssen, von Donezk nach Kiew und von Kiew nach Portugal, und sein ältester Sohn, damals drei Jahre alt, frage weiter, wann sie zurückkehrten [s:abola-fonseca-family-2026]. Correio da Manhã hielt seine Ankunft in Lissabon am 28. Februar 2022 mit seiner Frau Katerina fest [s:cmjornal-fonseca-lisboa-2022].
 
 ## Lyon seit Januar 2025
 

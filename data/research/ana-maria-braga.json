@@ -1,0 +1,143 @@
+{
+  "worthWriting": true,
+  "reason": "Major Brazilian TV host with many solid sources.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "istoe-76-anos",
+      "url": "https://istoe.com.br/ana-maria-braga-completa-76-anos-com-casamento-marcado-e-patrimonio-milionario/",
+      "title": "Ana Maria Braga completa 76 anos com casamento marcado e patrimônio milionário",
+      "publisher": "IstoÉ",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "purepeople-64-anos",
+      "url": "https://www.purepeople.com.br/noticia/ana-maria-braga-completa-64-anos-nesta-segunda-1-recorde-momentos-especiais_a3711/1",
+      "title": "Ana Maria Braga completa 64 anos nesta segunda (1º). Recorde momentos especiais",
+      "publisher": "Purepeople",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "viva-77-anos",
+      "url": "https://viva.com.br/cultura-e-lazer/ana-maria-braga-faz-77-anos-e-ganha-ligacao-de-roberto-carlos.html",
+      "title": "Ana Maria Braga faz 77 anos e ganha ligação de Roberto Carlos",
+      "publisher": "Viva",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "jovempan-72-anos",
+      "url": "https://jovempan.com.br/entretenimento/tv-e-cinema/ana-maria-braga-completa-72-anos-e-se-emociona-com-surpresas-no-mais-voce/",
+      "title": "Ana Maria Braga completa 72 anos e se emociona com surpresas no Mais Você",
+      "publisher": "Jovem Pan",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "ebiografia",
+      "url": "https://www.ebiografia.com/ana_maria_braga/",
+      "title": "Ana Maria Braga",
+      "publisher": "eBiografia",
+      "type": "other",
+      "lang": "pt"
+    },
+    {
+      "id": "dgabc-24-anos",
+      "url": "https://www.dgabc.com.br/Noticia/4062011/ana-maria-braga-se-emociona-ao-comemorar-24-anos-do-mais-voce-sou-a-moca-mais-chorona-que-ja-vi",
+      "title": "Ana Maria Braga se emociona ao comemorar 24 anos do Mais Você",
+      "publisher": "Diário do Grande ABC",
+      "type": "interview",
+      "lang": "pt"
+    },
+    {
+      "id": "dgabc-bencao",
+      "url": "https://www.dgabc.com.br/Noticia/4242736/ana-maria-braga-celebra-bencao-especial-com-fabio-arruda-apos-casamento-civil",
+      "title": "Ana Maria Braga celebra bênção especial com Fábio Arruda após casamento civil",
+      "publisher": "Diário do Grande ABC",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "metropoles-bencao",
+      "url": "https://www.metropoles.com/celebridades/ana-maria-braga-explica-renovacao-de-votos-com-fabio-arruda",
+      "title": "Ana Maria Braga explica renovação de votos com Fábio Arruda",
+      "publisher": "Metrópoles",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "tribuna-louro-jose",
+      "url": "https://tribunadejundiai.com.br/entretenimento/acontece/ana-maria-braga-lamenta-perdi-meu-parceiro-de-todo-dia-meu-amigo-meu-filho/",
+      "title": "Ana Maria Braga lamenta: Perdi meu parceiro de todo dia, meu amigo, meu filho",
+      "publisher": "Tribuna de Jundiaí",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "agazeta-louro-jose",
+      "url": "https://www.agazeta.com.br/entretenimento/famosos/na-tv-ana-maria-braga-se-emociona-ao-lembrar-de-tom-veiga-o-louro-jose-1120",
+      "title": "Na TV, Ana Maria Braga se emociona ao lembrar de Tom Veiga, o Louro José",
+      "publisher": "A Gazeta",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "dgabc-trofeu-imprensa",
+      "url": "https://www.dgabc.com.br/Noticia/4316345/ja-fui-funcionaria-do-sbt-relembra-ana-maria-braga-ao-receber-trofeu-imprensa",
+      "title": "Já fui funcionária do SBT, relembra Ana Maria Braga ao receber Troféu Imprensa",
+      "publisher": "Diário do Grande ABC",
+      "type": "press",
+      "lang": "pt"
+    },
+    {
+      "id": "cnn-trofeu-imprensa-2026",
+      "url": "https://www.cnnbrasil.com.br/pop/trofeu-imprensa-2026-veja-os-vencedores-do-premio-do-sbt/",
+      "title": "Troféu Imprensa 2026: veja os vencedores do prêmio do SBT",
+      "publisher": "CNN Brasil",
+      "type": "press",
+      "lang": "pt"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1949-04-01",
+      "sources": [
+        "istoe-76-anos",
+        "purepeople-64-anos",
+        "viva-77-anos"
+      ],
+      "note": "eBiografia gives 1947 in its text but 1949 in its intro; the other outlets are consistent with 1 April 1949."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "São Joaquim da Barra, São Paulo, Brazil",
+      "sources": [
+        "istoe-76-anos",
+        "purepeople-64-anos",
+        "ebiografia"
+      ],
+      "note": ""
+    },
+    "nationality": {
+      "value": "BR",
+      "sources": [
+        "istoe-76-anos"
+      ],
+      "note": ""
+    }
+  },
+  "targetQueries": [
+    "ana maria braga idade",
+    "ana maria braga marido",
+    "ana maria braga filhos",
+    "ana maria braga fortuna",
+    "ana maria braga cancer",
+    "ana maria braga antes e depois",
+    "ana maria braga altura"
+  ],
+  "gapNote": "Top results mix up birth year and relationship history; a dated, cited timeline fills the gap."
+}
