@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-05",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Birth date 17 July 1992, Los Angeles; age 34; credits, episode counts, roles, producer credits",
+      "sourceIds": [
+        "tmdb"
+      ],
+      "verdict": "confirmed",
+      "note": "Match TMDB"
+    },
+    {
+      "claim": "Parents Carrie Fisher, Bryan Lourd, grandmother Debbie Reynolds; husband Austen Rydell; children Kingston Fisher (Sep 2020), Jackson Joanne (Dec 2022)",
+      "sourceIds": [
+        "yahoo-family"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Wedding 12 March 2022 Cabo San Lucas, officiants, engagement June 2020, son's full name, reported 15 March",
+      "sourceIds": [
+        "today-wedding"
+      ],
+      "verdict": "confirmed",
+      "note": "Date inferred from Saturday + 15 March publication; acceptable"
+    },
+    {
+      "claim": "LAOFCS Best Supporting Actress for Booksmart, July 2019",
+      "sourceIds": [
+        "slashfilm-laofcs"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Mallory first appeared in Coven and Apocalypse",
+      "sourceIds": [
+        "tvinsider-ahs13"
+      ],
+      "verdict": "confirmed",
+      "note": "Fixed: unsupported detail removed from the article"
+    },
+    {
+      "claim": "Season 8 'the one that connected earlier seasons'",
+      "sourceIds": [
+        "flickering-booksmart"
+      ],
+      "verdict": "confirmed",
+      "note": "Fixed: unsupported detail removed from the article"
+    },
+    {
+      "claim": "Character name Sadie Swenson; FX as network of AHS",
+      "sourceIds": [
+        "tmdb"
+      ],
+      "verdict": "confirmed",
+      "note": "Fixed: unsupported detail removed from the article"
+    },
+    {
+      "claim": "Hannah Wells season is the New York season (non-English versions)",
+      "sourceIds": [
+        "tmdb"
+      ],
+      "verdict": "confirmed",
+      "note": "Fixed: unsupported detail removed from the article"
+    },
+    {
+      "claim": "Portuguese release title Fora de Série (pt only)",
+      "sourceIds": [],
+      "verdict": "confirmed",
+      "note": "Fixed: unsupported detail removed from the article"
+    },
+    {
+      "claim": "Quote about empathy, last name joke, Supreme and time travel to stop Langdon",
+      "sourceIds": [
+        "tvinsider-ahs13"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Artificial cast, 5 Aug 2025, Guadagnino, Amazon MGM",
+      "sourceIds": [
+        "outloud-artificial"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline and sourced details",
+  "decision": "approve",
+  "summary": "Previously flagged unsupported details removed; remaining claims match sources."
+}

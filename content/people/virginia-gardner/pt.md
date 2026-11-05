@@ -1,7 +1,7 @@
 ---
 title: Virginia Gardner
 slug: virginia-gardner
-metaTitle: 'Virginia Gardner tem {age} anos: A Queda e Runaways'
+metaTitle: 'Virginia Gardner: parceiro e idade 2026'
 metaDescription: >-
   Virginia Gardner tem {age} anos (nasceu em 18 de abril de 1995, em
   Sacramento). Foi Karolina Dean em Runaways e volta como Shiloh em Fall 2:
@@ -72,6 +72,7 @@ faq:
 autoReviews: 1
 publishedAt: '2026-11-04'
 publishedTime: '2026-11-04T21:31:16.418Z'
+updatedAt: '2026-11-05'
 ---
 Virginia Gardner tem 31 anos. Ela nasceu em 18 de abril de 1995, em Sacramento, na Califórnia [s:adorocinema] [s:tmdb-es] [s:rotten-tomatoes]. Para quem a procura hoje, o motivo mais comum é *A Queda* (*Fall*, em inglês), o suspense de 2022 em que ela vive Shiloh Hunter, e agora também a continuação *Fall 2: Deadpoint* [s:adorocinema] [s:comingsoon-fall2]. Os brasileiros a conhecem ainda por *Belo Desastre* e por *Projeto Almanaque* [s:adorocinema].
 

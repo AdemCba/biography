@@ -100,7 +100,7 @@ Il a ensuite battu Humphries en finale et conservé le trophée. Sky Sports note
 
 ## Saison 2025-2026 : six grands tournois, puis un revers à Amsterdam
 
-Au cours de la saison 2025-2026, Littler a gagné six tournois premier : le championnat du monde, le World Masters, l'UK Open, la Premier League, la World Cup of Darts et le World Matchplay [s:sky-sports-world-series-finals-2026] [s:sky-sports-players-championship-27-2026]. Sky Sports a aussi écrit qu'il avait remporté jusque-là tous les majors du circuit PDC en 2026 [s:sky-sports-players-championship-27-2026].
+Au cours de la saison 2025-2026, Littler a gagné six tournois premier : le championnat du monde, le World Masters, l'UK Open, la Premier League, la World Cup of Darts et le World Matchplay [s:sky-sports-players-championship-27-2026]. Sky Sports a aussi écrit qu'il avait remporté jusque-là tous les majors du circuit PDC en 2026 [s:sky-sports-players-championship-27-2026].
 
 La série s'est arrêtée aux World Series of Darts Finals d'Amsterdam. Il a perdu 10 à 4 contre Jonny Clayton en quarts de finale, ce qui a mis fin à son ambition de remporter tous les majors de l'année [s:sky-sports-world-series-finals-2026]. Ross Smith a gagné le tournoi en battant Gerwyn Price 11 à 5 [s:sky-sports-world-series-finals-2026].
 

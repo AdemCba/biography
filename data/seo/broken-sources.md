@@ -7,6 +7,3 @@ publisher, accessed), or remove the claim and its citation if nothing else backs
 
 | Person | Source id | Status | URL |
 | --- | --- | --- | --- |
-| harry-kane | sky-ballon-dor-favourite-2026 | 404 | https://www.skysports.com/share/13582892 |
-| luke-littler | sky-sports-world-series-finals-2026 | 404 | https://www.skysports.com/share/13589998 |
-| troy-aikman | cfbhall-aikman | 404 | https://www.cfbhall.com/inductees/troy-aikman-2008/ |

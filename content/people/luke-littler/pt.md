@@ -83,7 +83,7 @@ Aos 18 anos e 299 dias ele se tornou o número 1 mais jovem da história da PDC,
 
 ## Temporada 2025/26: seis torneios premier e a derrota em Amsterdã
 
-A Sky Sports lista seis torneios premier vencidos por Littler na temporada 2025/26: o Mundial, o World Masters, o UK Open, a Premier League, a World Cup of Darts e o World Matchplay [s:sky-sports-world-series-finals-2026] [s:sky-sports-players-championship-27-2026].
+A Sky Sports lista seis torneios premier vencidos por Littler na temporada 2025/26: o Mundial, o World Masters, o UK Open, a Premier League, a World Cup of Darts e o World Matchplay [s:sky-sports-players-championship-27-2026].
 
 Essa sequência parou no World Series of Darts Finals, em Amsterdã. Ele perdeu por 10 a 4 para Jonny Clayton nas quartas de final, e com isso acabou a tentativa de vencer todos os majors do ano [s:sky-sports-world-series-finals-2026]. Ross Smith levou o torneio ao bater Gerwyn Price por 11 a 5 [s:sky-sports-world-series-finals-2026].
 

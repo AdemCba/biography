@@ -70,9 +70,9 @@ He then beat Humphries in the final to retain the Grand Slam. Sky Sports noted t
 
 ## Six premier wins, then a defeat in Amsterdam
 
-Sky Sports lists six premier events Littler won in the 2025/26 season: the World Championship, the World Masters, the UK Open, the Premier League, the World Cup of Darts and the World Matchplay [s:sky-sports-world-series-finals-2026] [s:sky-sports-players-championship-27-2026]. Sky also wrote that he had won every major on the PDC circuit so far in 2026 [s:sky-sports-players-championship-27-2026].
+Sky Sports lists six premier events Littler won in the 2025/26 season: the World Championship, the World Masters, the UK Open, the Premier League, the World Cup of Darts and the World Matchplay [s:sky-sports-players-championship-27-2026]. Sky also wrote that he had won every major on the PDC circuit so far in 2026 [s:sky-sports-players-championship-27-2026].
 
-That run ended at the World Series of Darts Finals in Amsterdam, where he lost 10-4 to Jonny Clayton in the quarter-finals. The defeat ended his bid to win every major of the year [s:sky-sports-world-series-finals-2026]. Ross Smith won that event by beating Gerwyn Price 11-5 in the final [s:sky-sports-world-series-finals-2026]. Sky Sports listed the World Grand Prix, the European Championship and the Grand Slam of Darts as events still to come [s:sky-sports-world-series-finals-2026].
+That run ended at the World Series of Darts Finals in Amsterdam, where he lost 10-4 to Jonny Clayton in the quarter-finals. The defeat ended his bid to win every major of the year [s:sky-sports-world-series-finals-2026]. Ross Smith won that event by beating Gerwyn Price 11-5 in the final [s:sky-sports-world-series-finals-2026].
 
 ## What Beat Luke Littler is
 

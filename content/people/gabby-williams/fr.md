@@ -1,10 +1,10 @@
 ---
 title: Gabby Williams
 slug: gabby-williams
-metaTitle: 'Gabby Williams : {age} ans, Valkyries et Bleues'
+metaTitle: 'Gabby Williams : taille, âge, origines françaises & 2026'
 metaDescription: >-
-  Gabby Williams a {age} ans et joue ailière aux Golden State Valkyries et en
-  équipe de France. Elle a remporté le trophée Alain-Gilles 2026.
+  Gabby Williams mesure 1,80 m et a {age} ans. Née aux États-Unis d'une mère
+  française, elle joue aux Valkyries et en équipe de France.
 knownFor: Ailière de l'équipe de France et des Golden State Valkyries
 summary: >-
   Gabby Williams est une ailière née aux États-Unis, qui joue aux Golden State
@@ -26,6 +26,12 @@ targetQueries:
   - gabby williams wnba
   - gabby williams origine
   - gabby williams france
+  - taille gabby williams
+  - gabby williams âge
+  - gabbie williams taille
+  - taille gaby williams
+  - gaby williams taille
+  - gabby williams
 faq:
   - q: Quel âge a Gabby Williams ?
     a: >-
@@ -44,10 +50,19 @@ faq:
       Oui. Elle possède la double nationalité française et américaine et joue en
       équipe de France [s:fiba-player-profile][s:nevada-sports-net-reed-high].
 autoReviews: 1
+updatedAt: '2026-11-05'
 publishedAt: '2026-11-02'
 publishedTime: '2026-11-02T09:33:14.615Z'
 ---
 En septembre 2026, Gabby Williams a aidé la France à atteindre sa première finale de Coupe du monde féminine de basket-ball de la FIBA, perdue 97-79 face aux États-Unis [s:fiba-french-poy-2026][s:lanacion-wc-final-2026]. Ailière, elle évolue aux Golden State Valkyries en WNBA et en équipe de France. Elle possède la double nationalité française et américaine [s:fiba-player-profile][s:nevada-sports-net-reed-high].
+
+## Quelle est la taille de Gabby Williams, et quel âge a-t-elle ?
+
+Gabby Williams mesure 1,80 m (5 pieds 11 pouces) et a 30 ans, puisqu'elle est née le 9 septembre 1996 [s:wnba-player-bio] [s:fiba-player-profile]. On la trouve aussi écrite « Gabbie » ou « Gaby » Williams, mais il s'agit de la même joueuse, ailière des Golden State Valkyries et de l'équipe de France [s:valkyries-signing-2026] [s:fiba-player-profile].
+
+## Famille : une mère française
+
+Williams est née à Reno, dans le Nevada, mais sa mère et la famille de sa mère viennent de France [s:nevada-sports-net-reed-high] [s:abc7-espn-williams-french-team]. Elle parle couramment le français, qu'elle a surtout appris avec sa grand-mère, se décrit comme à moitié française et se dit proche de sa mère [s:abc7-espn-williams-french-team]. Elle a de la famille en France et a joué pour les Bleues après sa naturalisation selon les règles de la FIBA [s:nevada-sports-net-reed-high].
 
 ## Du lycée Reed à la draft 2018
 

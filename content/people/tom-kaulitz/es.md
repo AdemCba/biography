@@ -1,11 +1,8 @@
 ---
 title: Tom Kaulitz
 slug: tom-kaulitz
-metaTitle: 'Tom Kaulitz: Tokio Hotel, gira 2026 y serie en Netflix'
-metaDescription: >-
-  Tom Kaulitz forma parte de Tokio Hotel, fundado en 2001 con su gemelo Bill. La
-  gira Arena 2026 llega a Londres el 28 de octubre y a Hamburgo el 1 de
-  noviembre.
+metaTitle: "Tom Kaulitz: Tokio Hotel, Bill, Heidi Klum y edad 2026"
+metaDescription: "Tom Kaulitz tiene {age} años y es el guitarrista de Tokio Hotel, la banda que fundó con su gemelo Bill. Su historia, la gira 2026 y su boda con Heidi Klum."
 knownFor: Integrante de Tokio Hotel y gemelo de Bill Kaulitz
 summary: >-
   Tom Kaulitz es integrante de la banda alemana de rock Tokio Hotel, fundada en
@@ -28,6 +25,13 @@ targetQueries:
   - kaulitz & kaulitz temporada 3
   - tom kaulitz banda
   - tokio hotel schrei 2005
+  - tom kaulitz 2026
+  - tom kaulitz edad
+  - tom kaulitz y su banda
+  - quién es tom kaulitz
+  - tom 2026 tokio hotel
+  - tom bill kaulitz
+  - tom de tokio hotel
 faq:
   - q: ¿Quién es Tom Kaulitz?
     a: >-
@@ -48,11 +52,28 @@ faq:
     a: >-
       Netflix la puso a disposición el 23 de julio de 2026, según su anuncio de
       junio de 2026 [s:netflix-kaulitz-s3].
+  - q: "¿Cuántos años tiene Tom Kaulitz?"
+    a: "Nació el 1 de septiembre de 1989 en Leipzig, así que tiene 37 años en noviembre de 2026 [s:t-online-tom-kaulitz]."
+  - q: "¿Quién es Tom Kaulitz y cuál es su banda?"
+    a: "Es el guitarrista de Tokio Hotel, banda fundada en 2001 con su gemelo Bill [s:promiflash-klum-anniversary-2026] [s:tokio-hotel-official]."
+  - q: "¿Qué hace Tom de Tokio Hotel en 2026?"
+    a: "Está de gira Arena 2026 por Europa, con final en Madrid el 23 de noviembre [s:tokio-hotel-official]."
+  - q: "¿Con quién está casado Tom Kaulitz?"
+    a: "Con la modelo Heidi Klum; celebraron su séptimo aniversario el 3 de agosto de 2026 [s:promiflash-klum-anniversary-2026]."
 autoReviews: 1
 publishedAt: '2026-11-02'
 publishedTime: '2026-11-02T22:23:49.573Z'
+updatedAt: '2026-11-05'
 ---
 Tom Kaulitz es uno de los gemelos detrás de Tokio Hotel. Según el sitio oficial, Bill y Tom Kaulitz formaron la banda en 2001, junto al bajista Georg Listing y el baterista Gustav Schäfer [s:tokio-hotel-official]. El sitio no indica el instrumento de Tom [s:tokio-hotel-official].
+
+## Quién es Tom Kaulitz: edad, banda y su gemelo Bill
+
+Tom Kaulitz tiene 37 años, nació el 1 de septiembre de 1989 en Leipzig y es el guitarrista de Tokio Hotel, la banda alemana que fundó en 2001 con su gemelo Bill [s:t-online-tom-kaulitz] [s:promiflash-klum-anniversary-2026] [s:tokio-hotel-official]. Con Bill también protagoniza Kaulitz & Kaulitz en Netflix, cuya tercera temporada se estrenó el 23 de julio de 2026 [s:netflix-kaulitz-s3]. En 2026 la banda está de gira por Europa con la gira Arena, que termina en Madrid el 23 de noviembre [s:tokio-hotel-official].
+
+## Matrimonio con Heidi Klum
+
+Tom Kaulitz está casado con la modelo Heidi Klum. Promiflash cuenta que la pareja celebró su séptimo aniversario el 3 de agosto de 2026 y que la gran boda fue en Capri en 2019, después de una ceremonia civil en Beverly Hills en febrero de ese año [s:promiflash-klum-anniversary-2026]. t-online ya había informado en agosto de 2019 de una fiesta de boda en un yate frente a la isla italiana de Capri [s:t-online-klum-wedding-2019].
 
 ## Schrei y el primer gran éxito
 

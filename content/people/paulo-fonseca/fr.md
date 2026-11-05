@@ -1,7 +1,7 @@
 ---
 title: Paulo Fonseca
 slug: paulo-fonseca
-metaTitle: 'Paulo Fonseca : {age} ans, carrière et arrivée au Sporting'
+metaTitle: 'Paulo Fonseca : Sporting, contrat et âge 2026'
 metaDescription: >-
   Paulo Fonseca a {age} ans, né le 5 mars 1973 à Nampula, au Mozambique. Le
   Sporting CP l'a nommé le 4 novembre 2026 et il quitte l'OL.
@@ -18,6 +18,7 @@ status: published
 risk: medium
 publishedAt: '2026-11-04'
 publishedTime: '2026-11-04T21:31:16.410Z'
+updatedAt: '2026-11-05'
 reviewedAt: '2026-11-04'
 reviewBy: '2027-05-04'
 author: editor-in-chief

@@ -1,7 +1,7 @@
 ---
 title: 'Yaxel Lendeborg: age, draft and early Warriors numbers'
 slug: yaxel-lendeborg
-metaTitle: 'Yaxel Lendeborg, {age}: Warriors rookie stats and age'
+metaTitle: 'Yaxel Lendeborg: Warriors rookie stats metaTitle: 'Yaxel Lendeborg, {age}: Warriors rookie stats and age' age 2026'
 metaDescription: >-
   Yaxel Lendeborg is {age} (born 30 Sept 2002). Why the Warriors' No. 11 pick is
   an older rookie after Michigan's title, and how his first NBA stats look.
@@ -60,6 +60,7 @@ faq:
       [s:clarosports-puertorriqueno].
 autoReviews: 2
 publishedTime: '2026-11-04T21:31:16.419Z'
+updatedAt: '2026-11-05'
 ---
 Yaxel Lendeborg is 24 years old: he was born on 30 September 2002 [s:nba-profile]. That makes him an older rookie, because he was a 23-year-old senior when the Warriors drafted him [s:fantasypros-draft]. The Warriors picked him on Day 1 of the 2026 draft [s:nbc-bay-area-draft-analysis]. NBA.com lists it as Round 1, Pick 11 [s:nba-profile].
 

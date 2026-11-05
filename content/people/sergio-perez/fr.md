@@ -1,7 +1,7 @@
 ---
 title: Sergio Pérez
 slug: sergio-perez
-metaTitle: 'Checo Pérez, {age} ans : 300e GP et contrat Cadillac'
+metaTitle: 'Checo Pérez : contrat Cadillac et âge 2026'
 metaDescription: >-
   Checo Pérez a {age} ans (né le 26 janvier 1990). Six victoires, un an d'arrêt
   après Red Bull, puis Cadillac jusqu'en 2029 et un 300e Grand Prix à Mexico.
@@ -61,6 +61,7 @@ faq:
       sont venues avec Red Bull, entre 2021 et 2023 [s:racingnews365-perez].
 autoReviews: 3
 publishedTime: '2026-11-04T21:31:16.415Z'
+updatedAt: '2026-11-05'
 ---
 Sergio Pérez, que tout le monde appelle Checo, a 36 ans : il est né à Guadalajara le 26 janvier 1990 [s:f1-driver-profile]. Le 28 octobre 2026, il a lié son avenir à Cadillac jusqu'en 2029 au moins [s:eurosport-cadillac-2029] [s:skysports-cadillac-2029]. Il a ensuite disputé son 300e Grand Prix chez lui, à Mexico, le dimanche 1er novembre sur l'Autódromo Hermanos Rodríguez [s:f1-mexico-2026] [s:elfinanciero-mexico-gp-2026].
 

@@ -1,7 +1,7 @@
 ---
 title: Scarlett Camberos
 slug: scarlett-camberos
-metaTitle: 'Scarlett Camberos, {age} años: de California al América'
+metaTitle: 'Scarlett Camberos: Balón de Oro y edad 2026'
 metaDescription: >-
   Camberos tiene {age} años (nació el 20/11/2000 en California). La
   mexicoamericana que llegó al 21.º lugar del Balón de Oro Femenino 2026.
@@ -67,6 +67,7 @@ faq:
       jugadora habitual del equipo [s:foxsports-ballon-21].
 autoReviews: 3
 publishedTime: '2026-11-04T21:31:16.414Z'
+updatedAt: '2026-11-05'
 ---
 ## Primera mexicana en el ranking del Balón de Oro
 

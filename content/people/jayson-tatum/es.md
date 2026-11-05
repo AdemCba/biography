@@ -1,10 +1,10 @@
 ---
 title: Jayson Tatum
 slug: jayson-tatum
-metaTitle: 'Jayson Tatum: edad, carrera con los Celtics y premios'
+metaTitle: 'Jayson Tatum: Celtics, título 2024, familia y edad 2026'
 metaDescription: >-
-  Edad de Jayson Tatum, su paso por Duke, el draft de 2017, el título de 2024
-  con Boston, sus honores All-NBA y el triple sobre la bocina ante los Nets.
+  Jayson Tatum tiene {age} años y juega en los Boston Celtics. Campeón de la
+  NBA en 2024, criado por su madre, abogada y madre soltera.
 knownFor: >-
   Jugador de los Boston Celtics, campeón de la NBA en 2024 y varias veces
   All-Star
@@ -32,7 +32,21 @@ targetQueries:
   - jayson tatum duke
   - jayson tatum draft 2017
   - jayson tatum juegos olímpicos
+  - jayson tatum
+  - tatum
+  - tatum jayson
+  - dónde juega tatum
+  - jason tatum
+  - tatum celtics
+  - edad de jason tatum
+  - tatum nba
 faq:
+  - q: ¿Dónde juega Tatum?
+    a: >-
+      Juega en los Boston Celtics de la NBA, el equipo que lo eligió tercero en el draft de 2017 y con el que ganó el título de 2024 [s:nba-tatum-bio].
+  - q: ¿Cuál es la edad de Jason Tatum?
+    a: >-
+      Jayson Tatum (a veces escrito Jason) nació el 3 de marzo de 1998, así que tiene 28 años en noviembre de 2026 [s:nba-tatum-bio] [s:nbcs-boston-tatum-bio].
   - q: ¿Cuántos años tiene Jayson Tatum?
     a: >-
       Nació el 3 de marzo de 1998, así que tenía 28 años al 28 de octubre de
@@ -52,9 +66,18 @@ faq:
       eligieran tercero en el draft de 2017 [s:nba-tatum-bio]
       [s:nbcs-boston-tatum-bio].
 autoReviews: 2
+updatedAt: '2026-11-05'
 publishedAt: '2026-10-28'
 ---
 Jayson Tatum juega para los Celtics de Boston, el equipo que lo eligió tercero en 2017 [s:nba-tatum-bio]. Antes de la NBA estudió en Chaminade College Prep, en Creve Coeur (Misuri), y pasó una sola temporada en Duke [s:nbcs-boston-tatum-bio].
+
+## ¿Dónde juega Tatum? Jayson Tatum en los Celtics
+
+Tatum juega en los Boston Celtics, tiene 28 años (nació el 3 de marzo de 1998) y es el alero que ganó con Boston el título de la NBA de 2024 [s:nba-tatum-bio] [s:nbcs-boston-tatum-bio]. Su nombre se escribe Jayson, aunque muchos buscan "Jason Tatum" [s:nba-tatum-bio].
+
+## Familia: su madre y su hijo Deuce
+
+Su madre, Brandy Cole-Barnes, lo tuvo a los 19 años y lo crio como madre soltera. Es abogada y vive en el mismo edificio que Tatum, según CBS Sports en 2018 [s:cbs-tatum-foundation-2018]. NBC Sports Boston recuerda que tiene cuatro títulos universitarios y que la madre dio a luz a Tatum cuando aún estudiaba [s:nbcsb-cole-barnes-2022]. Tatum es padre de Deuce (Jayson Christopher Tatum Jr.), nacido en diciembre de 2017, durante su temporada de rookie [s:nbcsb-cole-barnes-2022] [s:cbs-tatum-foundation-2018]. Con su madre creó la Jayson Tatum Foundation, que ayuda a madres solteras [s:cbs-tatum-foundation-2018].
 
 ## Del instituto a Duke
 

@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-05",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "All body, summary, FAQ and fact claims after corrections",
+      "sourceIds": [
+        "encyclopedia-gries",
+        "tvguide-bio",
+        "looper-rico",
+        "avclub-gries",
+        "wamg-interview",
+        "austin-chronicle-vidiot",
+        "awardsradar-interview",
+        "thewrap-greg",
+        "whiskeyriff-lotus",
+        "aol-fallout"
+      ],
+      "verdict": "confirmed",
+      "note": "Previously unsupported items (nationality fact, 'wrote' Will Penny, dealer/lab rat, alien snack, baseball dream, Hitman year, call timing, funeral) were removed or corrected to source wording."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline from primary interviews.",
+  "decision": "approve",
+  "summary": "Corrections applied; remaining claims match the sources."
+}

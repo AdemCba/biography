@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-05",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Wedding in Portofino, 2015 (no month)",
+      "sourceIds": [
+        "hello-wedding",
+        "thelist-aly-aj"
+      ],
+      "verdict": "confirmed",
+      "note": "Month removed."
+    },
+    {
+      "claim": "Instagram statement: won't be able to play Nov/Dec dates as planned",
+      "sourceIds": [
+        "rova-tour"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches source."
+    },
+    {
+      "claim": "Announced for Lauper farewell tour dates and Bonnaroo June 2026",
+      "sourceIds": [
+        "aly-aj-official"
+      ],
+      "verdict": "confirmed",
+      "note": "Phrased as announced."
+    },
+    {
+      "claim": "Deluxe edition of Ten Years 30 Nov 2018; Sanctuary 10 May 2019",
+      "sourceIds": [
+        "aly-aj-official"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Reverie Tour from 3 September; Keely Teslow via TMDB",
+      "sourceIds": [
+        "et-platt",
+        "tmdb"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Birth, filmography, Hellcats, iZombie, baby, relationship, Broadway, discography",
+      "sourceIds": [
+        "tmdb",
+        "tvseriesfinale-hellcats",
+        "thewrap-izombie",
+        "eonline-baby",
+        "yahoo-baby",
+        "hello-wedding",
+        "broadway-com-juliet",
+        "aly-aj-official"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked previously."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline and source disagreements flagged.",
+  "decision": "approve",
+  "summary": "Fixes applied; remaining claims match sources."
+}

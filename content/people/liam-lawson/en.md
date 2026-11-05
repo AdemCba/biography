@@ -1,11 +1,8 @@
 ---
 title: Liam Lawson
 slug: liam-lawson
-metaTitle: 'Liam Lawson age {age}: Racing Bulls and his 2027 seat'
-metaDescription: >-
-  Liam Lawson, a New Zealand F1 driver born in Hastings, races for Racing Bulls.
-  On 1 November 2026, RacingNews365 said he had not been offered a 2027
-  contract.
+metaTitle: "Liam Lawson: age, family, Red Bull and Racing Bulls 2026"
+metaDescription: "Liam Lawson is {age} years old, born 11 February 2002 in Hastings, New Zealand. The story behind his age, his family and his 2027 seat."
 knownFor: New Zealand Formula 1 driver for Racing Bulls
 summary: >-
   Liam Lawson is a New Zealand Formula 1 driver who races for Racing Bulls in
@@ -27,6 +24,13 @@ targetQueries:
   - Liam Lawson Red Bull
   - Liam Lawson contract
   - Liam Lawson Nikola Tsolov
+  - how old is liam lawson
+  - lawson age
+  - how old is lawson
+  - how old is liam lawson f1 driver
+  - lawson age f1
+  - lawson f1 age
+  - liam lawson agr
 faq:
   - q: How old is Liam Lawson?
     a: >-
@@ -47,11 +51,24 @@ faq:
       Grands Prix with Red Bull in 2025 [s:f1-driver-profile]. RacingNews365
       calls it a sacking from the Red Bull top team
       [s:racingnews365-unjust-sacking-2026].
+  - q: "What is Lawson's age in F1?"
+    a: "He is 24 and made his F1 debut in 2023 at the Dutch Grand Prix, aged 21 [s:f1-driver-profile]."
+  - q: "Who are Liam Lawson's parents?"
+    a: "Jared and Kristy Lawson, who sold the family home to fund his racing [s:1news-lawson-parents-2025]."
 autoReviews: 1
 publishedAt: '2026-11-01'
 publishedTime: '2026-11-01T21:38:16.081Z'
+updatedAt: '2026-11-05'
 ---
 Liam Lawson's seat for 2027 was still open at the start of November 2026. On 1 November, RacingNews365 reported that the New Zealander’s future in F1 “is far from certain” and he “is yet to be offered a new contract for next year” [s:racingnews365-unjust-sacking-2026]. The same piece quoted Karun Chandhok, speaking on Sky Sports F1 during practice in Mexico, who said that losing the seat “would be one of the most unjust sackings in F1” [s:racingnews365-unjust-sacking-2026].
+
+## How old is Liam Lawson? Age 24, born in Hastings
+
+Liam Lawson is 24 years old: the Racing Bulls driver was born on 11 February 2002 in Hastings, New Zealand [s:f1-driver-profile]. He already has a debut season (2023), a short spell at Red Bull in 2025 and a full year back at Racing Bulls behind him [s:f1-driver-profile] [s:f1-results-2026].
+
+## Family: the parents who sold their home
+
+Lawson's parents, Jared and Kristy, made what 1News called immense sacrifices for his career, including selling the family home to fund it [s:1news-lawson-parents-2025]. Jared said of those years: "It was hard. It wasn't easy" [s:1news-lawson-parents-2025]. Lawson himself told GQ, as quoted by Crash.net: "They still don't own a house. Because of me" [s:crash-lawson-parents-2025].
 
 ## From New Zealand karts to Formula 2
 

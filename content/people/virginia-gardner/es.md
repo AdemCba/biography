@@ -1,7 +1,7 @@
 ---
 title: Virginia Gardner
 slug: virginia-gardner
-metaTitle: 'Virginia Gardner tiene {age} años: Fall y Runaways'
+metaTitle: 'Virginia Gardner: pareja y edad 2026'
 metaDescription: >-
   Virginia Gardner tiene {age} años (nació el 18 de abril de 1995 en
   Sacramento). Es Karolina Dean en Runaways y vuelve como Shiloh en Fall 2:
@@ -75,6 +75,7 @@ faq:
 autoReviews: 1
 publishedAt: '2026-11-04'
 publishedTime: '2026-11-04T21:31:16.416Z'
+updatedAt: '2026-11-05'
 ---
 Virginia Gardner tiene 31 años: nació el 18 de abril de 1995 en Sacramento, California [s:tmdb-es] [s:rotten-tomatoes] [s:ecartelera]. Cumplió los 31 en abril de 2026 y ese año llegó con varios estrenos. El más visible es *Fall 2: Deadpoint*, la secuela de *Fall*, donde vuelve a ser Shiloh [s:comingsoon-fall2]. Para el público hispanohablante es también la Vicky de *La noche de Halloween* y la Karolina Dean de *Runaways* [s:ecartelera].
 

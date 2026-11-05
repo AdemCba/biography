@@ -19,16 +19,16 @@ For each page, edit only that language's file:
 ## Pages
 
 - [ ] de/trending/winora-staiger-verkauf-2026 (2170 impressions, 0 clicks, position 11.2): winora staiger, winora-staiger, winora schweinfurt
-- [ ] pt/paulo-fonseca (269 impressions, 2 clicks, position 10.5): paulo fonseca idade, onde nasceu paulo fonseca, idade paulo fonseca, paulo fonseca, paulo fonseca naturalidade, paulo fonseca biografia, paulo fonseca barreiro, paulo fonseca sportinguista
-- [ ] es/tom-kaulitz (268 impressions, 0 clicks, position 11.7): tom kaulitz, tom kaulitz 2026, tom kaulitz edad, tom kaulitz y su banda, quién es tom kaulitz, tom 2026 tokio hotel, tom bill kaulitz, tom de tokio hotel
-- [ ] pt/gabriel-bortoleto (183 impressions, 0 clicks, position 10.3): gabriel bortoleto idade, idade bortoleto, bortoleto idade, idade gabriel bortoleto, idade de gabriel bortoleto, gabriel bortoleto, idade do gabriel bortoleto, quantos anos tem bortoleto
-- [ ] en/liam-lawson (176 impressions, 0 clicks, position 8.9): liam lawson age, how old is liam lawson, lawson age, how old is lawson, how old is liam lawson f1 driver, lawson age f1, lawson f1 age, liam lawson agr
-- [ ] en/esteban-ocon (160 impressions, 0 clicks, position 9.3): esteban ocon age, ocon age, how old is ocon, how old is esteban ocon, where is ocon from, esteban ocon ethnicity, when did ocon win a race, esteban ocon
+- [x] pt/paulo-fonseca 2026-11-05 (269 impressions, 2 clicks, position 10.5): paulo fonseca idade, onde nasceu paulo fonseca, idade paulo fonseca, paulo fonseca, paulo fonseca naturalidade, paulo fonseca biografia, paulo fonseca barreiro, paulo fonseca sportinguista
+- [x] es/tom-kaulitz 2026-11-05 (268 impressions, 0 clicks, position 11.7): tom kaulitz, tom kaulitz 2026, tom kaulitz edad, tom kaulitz y su banda, quién es tom kaulitz, tom 2026 tokio hotel, tom bill kaulitz, tom de tokio hotel
+- [x] pt/gabriel-bortoleto 2026-11-05 (183 impressions, 0 clicks, position 10.3): gabriel bortoleto idade, idade bortoleto, bortoleto idade, idade gabriel bortoleto, idade de gabriel bortoleto, gabriel bortoleto, idade do gabriel bortoleto, quantos anos tem bortoleto
+- [x] en/liam-lawson 2026-11-05 (176 impressions, 0 clicks, position 8.9): liam lawson age, how old is liam lawson, lawson age, how old is lawson, how old is liam lawson f1 driver, lawson age f1, lawson f1 age, liam lawson agr
+- [x] en/esteban-ocon 2026-11-05 (160 impressions, 0 clicks, position 9.3): esteban ocon age, ocon age, how old is ocon, how old is esteban ocon, where is ocon from, esteban ocon ethnicity, when did ocon win a race, esteban ocon
 - [ ] de/ryo-hirakawa (136 impressions, 0 clicks, position 7.4): ryo hirakawa alter, ryō hirakawa, hirakawa, hirakawa alter, ryo hirakawa, ryo hirakawa wec, hirakawa wec, ersatzfahrer haas f1
-- [ ] pt/tom-kaulitz (125 impressions, 0 clicks, position 11.4): tom kaulitz, tom tokio hotel, tom kaulitz 2026, tom kaulitz banda, kaulitz, tom de tokio hotel, bill e tom kaulitz, tom e bill kaulitz
-- [ ] es/jayson-tatum (114 impressions, 0 clicks, position 15.6): jayson tatum, tatum, tatum jayson, donde juega tatum, jason tatum, tatum celtics, edad de jason tatum, tatum nba
+- [x] pt/tom-kaulitz 2026-11-05 (125 impressions, 0 clicks, position 11.4): tom kaulitz, tom tokio hotel, tom kaulitz 2026, tom kaulitz banda, kaulitz, tom de tokio hotel, bill e tom kaulitz, tom e bill kaulitz
+- [x] es/jayson-tatum 2026-11-05 (114 impressions, 0 clicks, position 15.6): jayson tatum, tatum, tatum jayson, donde juega tatum, jason tatum, tatum celtics, edad de jason tatum, tatum nba
 - [ ] es/trending/liga-f-levante-badalona-barcelona-2026 (112 impressions, 0 clicks, position 12.2): levante badalona - barcelona, levante badalona - fc barcelona, dónde mirar levante badalona contra fútbol club barcelona femenino, levante badalona vs. barcelona
-- [ ] fr/gabby-williams (109 impressions, 0 clicks, position 12.2): gabby williams taille, taille gabby williams, gabby williams age, gabby williams âge, gabbie williams taille, taille gaby williams, gabby williams, gaby williams taille
+- [x] fr/gabby-williams 2026-11-05 (109 impressions, 0 clicks, position 12.2): gabby williams taille, taille gabby williams, gabby williams age, gabby williams âge, gabbie williams taille, taille gaby williams, gabby williams, gaby williams taille
 - [ ] pt/og-anunoby (99 impressions, 0 clicks, position 13.4): anunoby, anunoby stats, simeon ononobi
 - [ ] en/christian-m-billi (98 impressions, 0 clicks, position 10.5): how old is mbilli, mbilli age, mbili age, christian mbilli age, canelo vs mbilli age, how old is mbilli boxer, how old is christian mbilli, canelo vs mbilli ages
 - [ ] en/aitana-bonmati (92 impressions, 0 clicks, position 15.5): aitana bonmatí, aitana bonmati, why is aitana bonmati not nominated for ballon d'or, aitana bonmati age, aitana bonmatí total ballon d or, how old is bonmati, aitana bonmatí 2026, aitana soccer

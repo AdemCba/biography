@@ -1,0 +1,175 @@
+{
+  "date": "2026-11-05",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 21 June 1947 in Chicago; full name Michael Edward Gross",
+      "sourceIds": [
+        "encyclopedia-gross",
+        "tmdb-gross",
+        "tvguide-bio",
+        "broadwayworld-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed by encyclopedia, TMDB, BroadwayWorld (date); TV Guide gives the name and place."
+    },
+    {
+      "claim": "Parents William Oscar (tool designer) and Virginia Ruth (telephone operator); sister Mary Gross actress/comedienne",
+      "sourceIds": [
+        "encyclopedia-gross"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "BA speech and theater, Univ. of Illinois at Chicago Circle, 1970; MFA Yale 1973; Actors Theatre of Louisville 1973-76; engine service for Chicago & North Western",
+      "sourceIds": [
+        "encyclopedia-gross",
+        "tvguide-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Benedetti, founder of New Mexico Actors Lab, taught him at Yale",
+      "sourceIds": [
+        "yahoo-santa-fe-ties"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Model train enthusiast; Young and the Restless recurring through 2009; Law & Order guest",
+      "sourceIds": [
+        "nbc-family-ties-slideshow"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Screen debut 1975 A Girl Named Sooner (Jim Seevey); The Neighborhood (Jack Wolfe) 1982; Tremors 1990; Cool as Ice 1991 (Gordon Winslow); Alan & Naomi 1992 (Sol Silverman); Chosen Family 2024 (Alfred)",
+      "sourceIds": [
+        "tvguide-bio",
+        "fandango-credits"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Bent 1979 as Greta; Philadelphia Story 1980 as Alexander Lord; Macbeth 2000 as Ross; Drama Desk nomination 1980 outstanding featured actor in a play",
+      "sourceIds": [
+        "broadwayworld-bio",
+        "encyclopedia-gross"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed. 'Originated/premiere' wording is consistent with 1979 Broadway run."
+    },
+    {
+      "claim": "Obie 1982 No End of Blame; DramaLogue 1986 The Real Thing; Video Premiere and DVD Exclusive awards 2001 for Tremors 3; American Hero Award; TV Guide 2004 top 50 TV fathers",
+      "sourceIds": [
+        "encyclopedia-gross",
+        "tvguide-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Family Ties NBC 1982-89, Steven Keaton; wife Elyse played by Meredith Baxter; 168 episodes per TMDB vs about 175 per Gross to ET in 2022; few TV credits before; friends about 40 years",
+      "sourceIds": [
+        "encyclopedia-gross",
+        "tmdb-gross",
+        "yahoo-family-ties-cast",
+        "bend-bulletin-baxter"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed. Hippie/TV station detail: station from Yahoo, hippie from Bend Bulletin."
+    },
+    {
+      "claim": "Baxter says the families have taken trips together",
+      "sourceIds": [
+        "bend-bulletin-baxter"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Tremors reaction 'This is a mistake'; film in theaters about a week; 30 years across original and six sequels; Shrieker Island seventh film, Thailand, Oct 2020",
+      "sourceIds": [
+        "fox5-tremors-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Gross thought Burt worked best as peripheral character",
+      "sourceIds": [
+        "cbm-shrieker-interview"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Filmography table: Tremors 2 1996, Batman Beyond: The Movie 1999, ER 2000 (6 eps), Tremors 3 2001, Tremors 4 2004 Hiram Gummer, HIMYM 2006 (3 eps), Tremors 5 2015, A Cold Day in Hell 2018, Shrieker Island 2020, Merry Gentlemen 2024 Stan, Dada Knows Best 2025",
+      "sourceIds": [
+        "tmdb-gross"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed after correction of Batman Beyond year to 1999 and removal of unsupported 11-episode count for the 2003 Tremors series (series 2003 itself is in the encyclopedia entry)."
+    },
+    {
+      "claim": "Married Elza Bergeron 2 June 1984; stepchildren Katharine and Theodore Burkhardt, no biological children; TV Guide says two children; Yahoo says stepfather",
+      "sourceIds": [
+        "encyclopedia-gross",
+        "tvguide-bio",
+        "yahoo-family-ties-cast",
+        "bww-actors-lab-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed; discrepancy is disclosed in the article."
+    },
+    {
+      "claim": "Causes: animal welfare, AIDS, ALS research, Native American tribes; ALS Association spokesperson",
+      "sourceIds": [
+        "tvguide-bio",
+        "encyclopedia-gross"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Part-time in Santa Fe over 30 years with wife; Southern California about two hours from Baxter; painting in New Mexico from 1990; part owner of Santa Fe Southern Railway (flagged as unconfirmed as current)",
+      "sourceIds": [
+        "bww-actors-lab-2024",
+        "yahoo-santa-fe-ties",
+        "encyclopedia-gross"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "April 2024 Talley's Folly staged reading with Baxter, 11-14 April, Lab Theater, benefit; free; third year; horror conventions",
+      "sourceIds": [
+        "bww-actors-lab-2024",
+        "yahoo-santa-fe-ties"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Net worth $6 million and height 6 ft 3 in, estimates",
+      "sourceIds": [
+        "celebritynetworth-gross"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed after removing the unsupported '2026' date (page shows only a 2026 copyright)."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline, discloses source disagreements (episodes, children), primary-style sources; localised.",
+  "decision": "approve",
+  "summary": "All claims checked against the opened sources; two errors (Batman Beyond year, unsupported episode count) and an unsupported 2026 date label were corrected before this verdict."
+}

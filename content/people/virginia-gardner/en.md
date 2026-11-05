@@ -1,7 +1,7 @@
 ---
 title: Virginia Gardner
 slug: virginia-gardner
-metaTitle: 'Virginia Gardner is {age}: Fall, Halloween, Runaways'
+metaTitle: 'Virginia Gardner: partner, Fall role metaTitle: 'Virginia Gardner is {age}: Fall, Halloween, Runaways' age 2026'
 metaDescription: >-
   Virginia Gardner is {age} years old (born 18 April 1995 in Sacramento). She
   played Karolina Dean in Runaways and Shiloh in Fall and Fall 2: Deadpoint.
@@ -69,6 +69,7 @@ faq:
 autoReviews: 1
 publishedAt: '2026-11-04'
 publishedTime: '2026-11-04T21:31:16.416Z'
+updatedAt: '2026-11-05'
 ---
 Virginia Gardner is 31 years old: she was born on 18 April 1995 in Sacramento, California [s:tmdb] [s:rotten-tomatoes]. The year she turned 31 was a busy one for her. She has a film out in cinemas, *Fall 2: Deadpoint*, in which she returns as the character who died in the first film [s:comingsoon-fall2], and a run of other releases including *Killer Whale* and a film called F\*ck Valentine's Day [s:filmstarts] [s:rotten-tomatoes].
 

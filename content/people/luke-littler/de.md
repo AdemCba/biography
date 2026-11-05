@@ -76,9 +76,9 @@ Im Finale besiegte er Humphries und verteidigte den Grand Slam. Sky Sports hob h
 
 ## Saison 2026: sechs Premier-Titel und Amsterdam
 
-In der Saison 2025/26 gewann er sechs Premier-Turniere: die WM, die World Masters, die UK Open, die Premier League, den World Cup of Darts und die World Matchplay [s:sky-sports-world-series-finals-2026] [s:sky-sports-players-championship-27-2026]. Sky Sports schrieb außerdem, er habe bis dahin jeden Major-Titel des PDC-Kalenders im Jahr 2026 gewonnen [s:sky-sports-players-championship-27-2026].
+In der Saison 2025/26 gewann er sechs Premier-Turniere: die WM, die World Masters, die UK Open, die Premier League, den World Cup of Darts und die World Matchplay [s:sky-sports-players-championship-27-2026]. Sky Sports schrieb außerdem, er habe bis dahin jeden Major-Titel des PDC-Kalenders im Jahr 2026 gewonnen [s:sky-sports-players-championship-27-2026].
 
-Seine Serie endete bei den World Series of Darts Finals in Amsterdam, wo er im Viertelfinale mit 4:10 gegen Jonny Clayton verlor. Damit war seine Chance auf alle Majors des Jahres vorbei [s:sky-sports-world-series-finals-2026]. Ross Smith gewann das Turnier mit 11:5 gegen Gerwyn Price [s:sky-sports-world-series-finals-2026]. Als noch ausstehend nannte Sky Sports die World Grand Prix, die European Championship und den Grand Slam of Darts [s:sky-sports-world-series-finals-2026].
+Seine Serie endete bei den World Series of Darts Finals in Amsterdam, wo er im Viertelfinale mit 4:10 gegen Jonny Clayton verlor. Damit war seine Chance auf alle Majors des Jahres vorbei [s:sky-sports-world-series-finals-2026]. Ross Smith gewann das Turnier mit 11:5 gegen Gerwyn Price [s:sky-sports-world-series-finals-2026].
 
 ## Zählung der Titel
 

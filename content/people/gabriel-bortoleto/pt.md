@@ -1,10 +1,8 @@
 ---
 title: Gabriel Bortoleto
 slug: gabriel-bortoleto
-metaTitle: 'Gabriel Bortoleto: idade ({age}), Audi e pontos de 2026'
-metaDescription: >-
-  Gabriel Bortoleto tem {age} anos e pilota pela Audi na F1. Em Spa terminou em
-  oitavo em julho de 2026, igual ao resultado de Silverstone.
+metaTitle: "Gabriel Bortoleto: família, Audi, pontos e idade 2026"
+metaDescription: "Gabriel Bortoleto tem {age} anos, nasceu em São Paulo e corre pela Audi na F1. A família que bancou a carreira e o caminho até o título da F2."
 knownFor: >-
   Piloto brasileiro de Fórmula 1 da Audi Revolut F1 Team e campeão da Fórmula 2
   em 2024
@@ -27,6 +25,12 @@ targetQueries:
   - gabriel bortoleto pontos 2026
   - gabriel bortoleto audi f1
   - gabriel bortoleto fórmula 1
+  - idade bortoleto
+  - bortoleto idade
+  - idade gabriel bortoleto
+  - idade de gabriel bortoleto
+  - idade do gabriel bortoleto
+  - quantos anos tem bortoleto
 faq:
   - q: Quantos anos tem Gabriel Bortoleto?
     a: >-
@@ -40,11 +44,26 @@ faq:
     a: >-
       O perfil oficial da Fórmula 1 mostra 14 pontos e a 14.ª posição, mas não
       informa quando esses números foram registrados.
+  - q: "Quantos anos tem Bortoleto?"
+    a: "Gabriel Bortoleto nasceu em 14 de outubro de 2004, então tem 22 anos em novembro de 2026 [s:f1-driver-profile]."
+  - q: "Qual é a idade de Gabriel Bortoleto na F1?"
+    a: "Estreou na Fórmula 1 em 2025 e tem 22 anos em 2026 [s:f1-driver-profile] [s:f1-sauber-arrival]."
+  - q: "Quem é a família de Gabriel Bortoleto?"
+    a: "O pai criou uma empresa de telecomunicações e o irmão, Enzo, parou de correr aos 16 anos para a família investir em Gabriel [s:motorshow-bortoleto-profile]."
 autoReviews: 1
 publishedAt: '2026-11-02'
 publishedTime: '2026-11-02T09:33:14.622Z'
+updatedAt: '2026-11-05'
 ---
 Gabriel Bortoleto pilota pela Audi Revolut F1 Team e nasceu em São Paulo em 14 de outubro de 2004 [s:f1-driver-profile]. Chegou à Fórmula 1 depois de uma sequência de títulos nas categorias de base e, em 2026, os resultados dele explicam boa parte dos pontos que a Audi somou até agora [s:f1-half-term-report]. Esta página segue esse caminho: os títulos de base, a primeira temporada na Sauber e o primeiro ano pela Audi.
+
+## Idade de Gabriel Bortoleto: 22 anos e nascido em São Paulo
+
+Gabriel Bortoleto tem 22 anos: nasceu em 14 de outubro de 2004, em São Paulo, e completou a idade atual há pouco menos de um mês [s:f1-driver-profile]. Ele chegou à Fórmula 1 em 2025, aos 20 anos, depois do título da Fórmula 2 em 2024 [s:f1-sauber-arrival] [s:f1-f2-title].
+
+## Família: o pai fã de Senna e o irmão que parou de correr
+
+A história familiar explica por que ele chegou à Europa tão cedo. Segundo o Motorshow, o pai criou uma empresa de telecomunicações que ainda era pequena quando Gabriel começou no kart, e sempre foi grande fã de Ayrton Senna, sem nunca ter corrido [s:motorshow-bortoleto-profile]. O irmão, Enzo, seis anos mais velho, também corria, mas parou aos 16 anos porque a família não conseguia manter os dois [s:motorshow-bortoleto-profile]. A mãe, de acordo com o próprio Gabriel, era muito apegada e não queria que ele fosse para a Europa: «Ela não iria me deixar ir. Sempre foi muito apegada» [s:motorshow-bortoleto-profile]. Ele vive na Itália desde 2017 [s:motorshow-bortoleto-profile].
 
 ## Título da F3 na primeira tentativa
 

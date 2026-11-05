@@ -1,11 +1,10 @@
 ---
 title: Tom Kaulitz
 slug: tom-kaulitz
-metaTitle: 'Tom Kaulitz: Tokio Hotel, turnê 2026 e série na Netflix'
+metaTitle: 'Tom Kaulitz: Tokio Hotel, Bill, Heidi Klum e idade 2026'
 metaDescription: >-
-  Tom Kaulitz integra o Tokio Hotel, formado em 2001 com o irmão gêmeo Bill. A
-  turnê Arena 2026 passa por Londres em 28 de outubro e Hamburgo em 1º de
-  novembro.
+  Tom Kaulitz, guitarrista do Tokio Hotel, tem {age} anos e toca na banda com o
+  irmão gêmeo Bill desde 2001. Casado com Heidi Klum.
 knownFor: Integrante do Tokio Hotel e gêmeo de Bill Kaulitz
 summary: >-
   Tom Kaulitz é integrante da banda alemã de rock Tokio Hotel, formada em 2001
@@ -28,7 +27,22 @@ targetQueries:
   - kaulitz & kaulitz temporada 3
   - tom kaulitz banda
   - tokio hotel schrei 2005
+  - tom tokio hotel
+  - tom kaulitz 2026
+  - kaulitz
+  - tom de tokio hotel
+  - bill e tom kaulitz
+  - tom e bill kaulitz
 faq:
+  - q: Quem é Tom Kaulitz do Tokio Hotel?
+    a: >-
+      É guitarrista do Tokio Hotel, banda que fundou em 2001 com o irmão gêmeo Bill, e nasceu em 1º de setembro de 1989 em Leipzig [s:tokio-hotel-official] [s:today-klum-kaulitz-wedding] [s:t-online-tom-kaulitz].
+  - q: Quem são Bill e Tom Kaulitz?
+    a: >-
+      São irmãos gêmeos e fundadores do Tokio Hotel, de acordo com o site oficial da banda, que também conta com o baixista Georg Listing e o baterista Gustav Schäfer [s:tokio-hotel-official].
+  - q: Com quem Tom Kaulitz é casado?
+    a: >-
+      Com a modelo Heidi Klum. Eles se casaram em fevereiro de 2019 e fizeram uma festa em um iate em Capri em agosto de 2019 [s:today-klum-kaulitz-wedding] [s:hola-klum-kaulitz-capri].
   - q: Quem é Tom Kaulitz?
     a: >-
       É integrante da banda alemã Tokio Hotel. O site oficial da banda diz que
@@ -48,10 +62,19 @@ faq:
       A Netflix disponibilizou a temporada 3 a partir de 23 de julho de 2026,
       conforme seu anúncio de junho de 2026 [s:netflix-kaulitz-s3].
 autoReviews: 1
+updatedAt: '2026-11-05'
 publishedAt: '2026-11-02'
 publishedTime: '2026-11-02T22:23:49.574Z'
 ---
 Tom Kaulitz é um dos gêmeos por trás do Tokio Hotel. Segundo o site oficial, Bill e Tom Kaulitz fundaram a banda em 2001, junto com o baixista Georg Listing e o baterista Gustav Schäfer [s:tokio-hotel-official]. O site não informa o instrumento de Tom [s:tokio-hotel-official].
+
+## Tom Kaulitz e Bill: quem são os gêmeos do Tokio Hotel
+
+Tom Kaulitz, guitarrista do Tokio Hotel, nasceu em 1º de setembro de 1989 em Leipzig, tem 37 anos em 2026 e fundou a banda em 2001 com o irmão gêmeo Bill [s:t-online-tom-kaulitz] [s:today-klum-kaulitz-wedding] [s:tokio-hotel-official]. Bill e Tom Kaulitz são gêmeos, e a banda tem ainda o baixista Georg Listing e o baterista Gustav Schäfer [s:tokio-hotel-official].
+
+## Casamento com Heidi Klum
+
+Tom é casado com a modelo Heidi Klum. Eles assumiram o namoro em maio de 2018, ficaram noivos em dezembro daquele ano e, segundo o TMZ citado pelo TODAY, casaram-se em fevereiro de 2019 [s:today-klum-kaulitz-wedding]. Em agosto de 2019 fizeram uma celebração com família e amigos num iate em Capri, na Itália [s:today-klum-kaulitz-wedding] [s:hola-klum-kaulitz-capri]. O TODAY registra que Tom foi casado antes com a modelo Ria Sommerfeld [s:today-klum-kaulitz-wedding].
 
 ## Schrei e o primeiro grande sucesso
 

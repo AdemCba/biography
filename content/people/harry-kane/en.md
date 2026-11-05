@@ -89,7 +89,7 @@ On 28 October World Soccer Talk reported, citing Sky Sports Germany's Florian Pl
 
 Kane finished the 2025/26 Bundesliga season on 36 goals, including a hat-trick in a 5-1 win over Cologne [s:bundesliga-top-scorer-2026]. The league's report, dated 16 May 2026, says he became the first player to win the top scorer award in each of his first three seasons in the Bundesliga [s:bundesliga-top-scorer-2026]. It notes that Robert Lewandowski is the only other player to win the award three years in a row [s:bundesliga-top-scorer-2026].
 
-The FA's shortlist profile lists 36 Bundesliga goals in 31 league appearances, 100 goals in 104 competitive appearances for Bayern, a European Golden Shoe and a third straight Bundesliga top-scorer award [s:fa-ballon-dor-nominees-2026]. It credits his Bayern form with “extraordinary scoring” [s:fa-ballon-dor-nominees-2026]. Before the ceremony, Sky Sports had called him the bookmakers' favourite, though its article quoted no odds [s:sky-ballon-dor-favourite-2026]. The FA's profile says the accumulated voting points decide the prizes at the ceremony [s:fa-ballon-dor-nominees-2026].
+The FA's shortlist profile lists 36 Bundesliga goals in 31 league appearances, 100 goals in 104 competitive appearances for Bayern, a European Golden Shoe and a third straight Bundesliga top-scorer award [s:fa-ballon-dor-nominees-2026]. It credits his Bayern form with “extraordinary scoring” [s:fa-ballon-dor-nominees-2026]. Before the ceremony, OLBG called him the clear favourite, pricing him at 4/5 with bet365 [s:sky-ballon-dor-favourite-2026]. The FA's profile says the accumulated voting points decide the prizes at the ceremony [s:fa-ballon-dor-nominees-2026].
 
 ## From Tottenham to Bayern
 

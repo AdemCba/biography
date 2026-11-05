@@ -1,10 +1,10 @@
 ---
 title: Esteban Ocon
 slug: esteban-ocon
-metaTitle: 'Esteban Ocon: age {age}, Haas and his 2021 win'
+metaTitle: 'Esteban Ocon: age, origins, Hungary win & Haas exit 2026'
 metaDescription: >-
-  Esteban Ocon is {age}, born in Évreux, France. Haas dropped him for the rest
-  of the Mexico City GP weekend, and the team gave no reason.
+  Esteban Ocon is {age}, French, born in Évreux. He won the 2021 Hungarian GP,
+  and his parents sold their home to fund his racing.
 knownFor: French Formula 1 driver and winner of the 2021 Hungarian Grand Prix
 summary: >-
   Esteban Ocon is a French Formula 1 driver born in Évreux, Normandy, on 17
@@ -27,7 +27,20 @@ targetQueries:
   - Esteban Ocon Haas exit 2026
   - Esteban Ocon Alpine
   - Esteban Ocon team history
+  - Esteban Ocon age
+  - Ocon age
+  - how old is Ocon
+  - Esteban Ocon ethnicity
+  - when did Ocon win a race
+  - Esteban Ocon
 faq:
+  - q: What is Esteban Ocon's ethnicity?
+    a: >-
+      He is French, born in Évreux, and Reuters reported that his father's
+      family came from Málaga, Spain [s:f1-ocon-profile] [s:reuters-sbs-ocon-parents].
+  - q: When did Ocon win a race?
+    a: >-
+      He won the Hungarian Grand Prix on 1 August 2021 for Alpine, his only win so far [s:ocon-official-hungary-2021] [s:f1-ocon-profile].
   - q: How old is Esteban Ocon?
     a: >-
       He was born on 17 September 1996, so he is 30 as of 1 November 2026
@@ -47,10 +60,19 @@ faq:
       signed Brazilian Rafael Camara as his replacement
       [s:sky-hirakawa-mexico-2026].
 autoReviews: 2
+updatedAt: '2026-11-05'
 publishedAt: '2026-11-01'
 publishedTime: '2026-11-01T21:38:16.073Z'
 ---
 Haas dropped Esteban Ocon from the rest of the Mexico City Grand Prix weekend and gave no reason. Ryo Hirakawa took his seat, and the team confirmed that Ocon was not ill [s:sky-hirakawa-mexico-2026]. Ocon was already due to leave at the end of the season, and he is the Frenchman who won the 2021 Hungarian Grand Prix for Alpine [s:sky-hirakawa-mexico-2026] [s:f1-hungary-2021-highlights].
+
+## How old is Ocon, where is he from, and when did he win?
+
+Esteban Ocon is 30 (born 17 September 1996), he is French and comes from Évreux in Normandy, and he won his only race on 1 August 2021 at the Hungarian Grand Prix [s:f1-ocon-profile] [s:ocon-official-hungary-2021]. On ethnicity, his official profile gives French nationality, and Reuters reported that his father's family came from Málaga, Spain, where cousins still live [s:f1-ocon-profile] [s:reuters-sbs-ocon-parents].
+
+## Family
+
+Ocon grew up in Évreux, where his father ran a garage. Reuters reported in 2017 that his parents sold their house to fund his racing, that the family lived in a caravan for a long time, and that his father was his mechanic in the early days [s:reuters-sbs-ocon-parents]. Autosport adds that the family sold its former home and garage business to pay for his early career, and Ocon said "my parents and all the people I love were there" when his winning car arrived at the garage [s:autosport-ocon-car-trophy].
 
 ## One win, in Hungary
 

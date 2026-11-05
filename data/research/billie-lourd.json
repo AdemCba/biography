@@ -1,0 +1,111 @@
+{
+  "worthWriting": true,
+  "reason": "Established actress (Scream Queens, American Horror Story, Star Wars, Booksmart) with several reliable sources.",
+  "wikidata": "",
+  "importance": 3,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "tmdb",
+      "url": "https://www.themoviedb.org/person/1399531-billie-lourd",
+      "title": "Billie Lourd",
+      "publisher": "TMDB",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "yahoo-family",
+      "url": "https://www.yahoo.com/entertainment/scream-queens-star-billie-lourd-132250616.html",
+      "title": "Scream Queens Star Billie Lourd Comes From a Famous Family: Her Parents, Kids and More",
+      "publisher": "Yahoo Entertainment",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "today-wedding",
+      "url": "https://www.today.com/popculture/popculture/billie-lourd-marries-austen-rydell-wedding-mexico-rcna20117",
+      "title": "Billie Lourd Marries Fiance Austen Rydell in Mexico Beach Wedding",
+      "publisher": "TODAY",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "slashfilm-laofcs",
+      "url": "https://www.slashfilm.com/567468/best-film-of-2019-so-far-laofcs/",
+      "title": "Los Angeles Online Film Critics Society Hails Booksmart As Best Film Of 2019 So Far",
+      "publisher": "/Film",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "flickering-booksmart",
+      "url": "https://www.flickeringmyth.com/billie-lourd-cast-in-booksmart-american-horror-story-season-8-return-confirmed/",
+      "title": "Billie Lourd cast in Booksmart, American Horror Story season 8 return confirmed",
+      "publisher": "Flickering Myth",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "outloud-artificial",
+      "url": "https://outloudculture.com/2025/08/05/billie-lourd-signs-on-to-artificial-from-amazon-mgm-studios",
+      "title": "Billie Lourd signs on to Artificial from Amazon MGM Studios",
+      "publisher": "Out Loud Culture",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "tvinsider-ahs13",
+      "url": "https://www.tvinsider.com/1293080/american-horror-story-season-13-billie-lourd-gabourey-sidibe/",
+      "title": "American Horror Story Season 13: What's Changed for Mallory & Queenie?",
+      "publisher": "TV Insider",
+      "type": "interview",
+      "lang": "en"
+    },
+    {
+      "id": "broadwayworld",
+      "url": "https://www.broadwayworld.com/people/Billie-Lourd/",
+      "title": "Billie Lourd - Broadway & Theatre Credits, Current Shows, News, Bio",
+      "publisher": "BroadwayWorld",
+      "type": "database",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1992-07-17",
+      "sources": [
+        "tmdb"
+      ],
+      "note": ""
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Los Angeles, California, USA",
+      "sources": [
+        "tmdb"
+      ],
+      "note": ""
+    },
+    "nationality": {
+      "value": "US",
+      "sources": [
+        "tmdb",
+        "broadwayworld"
+      ],
+      "note": "Born in the United States; described as an American actress."
+    }
+  },
+  "targetQueries": [
+    "billie lourd age",
+    "billie lourd husband",
+    "billie lourd children",
+    "billie lourd net worth",
+    "billie lourd parents",
+    "billie lourd ahs characters",
+    "billie lourd star wars",
+    "billie lourd movies and tv shows",
+    "billie lourd scream queens",
+    "billie lourd and carrie fisher"
+  ],
+  "gapNote": "Top results are content farms with contradictory net worth figures. We add a sourced filmography table, the 2026 AHS season 13 return and Artificial, and cautious relationship facts."
+}

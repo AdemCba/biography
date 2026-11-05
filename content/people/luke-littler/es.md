@@ -96,7 +96,7 @@ Según Ara, Phil Taylor estuvo más de tres mil días en esa posición [s:ara-li
 
 ## La temporada 2026: seis torneos premier y una derrota en Ámsterdam
 
-Sky Sports cuenta seis torneos premier ganados por Littler en 2026: el Mundial, el World Masters, el UK Open, la Premier League, la World Cup of Darts y el World Matchplay [s:sky-sports-world-series-finals-2026] [s:sky-sports-players-championship-27-2026]. En ese momento, según la misma cobertura, había ganado todos los majors del circuito PDC de 2026 [s:sky-sports-players-championship-27-2026].
+Sky Sports cuenta seis torneos premier ganados por Littler en 2026: el Mundial, el World Masters, el UK Open, la Premier League, la World Cup of Darts y el World Matchplay [s:sky-sports-players-championship-27-2026]. En ese momento, según la misma cobertura, había ganado todos los majors del circuito PDC de 2026 [s:sky-sports-players-championship-27-2026].
 
 Esa racha terminó en los World Series of Darts Finals de Ámsterdam. Perdió 10-4 contra Jonny Clayton en cuartos de final, y con ello acabó su intento de ganar todos los majors del año [s:sky-sports-world-series-finals-2026]. Ross Smith se llevó el torneo tras vencer 11-5 a Gerwyn Price [s:sky-sports-world-series-finals-2026].
 

@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-05",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Birth 19 May 1986, Glendale, birth name, nationality",
+      "sourceIds": [
+        "tmdb",
+        "looper-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "TMDB and Looper"
+    },
+    {
+      "claim": "Roles, filmography, sister, Jesse, Floor, Santa Clauses, Radiomason, Chapman BFA, studio timeline, Reddit quote, marriage reports, SAG-AFTRA picket, residence",
+      "sourceIds": [
+        "official-site",
+        "abc-news-2015",
+        "romper-2017",
+        "looper-2024",
+        "chipchick-2022",
+        "scottish-daily-express-2022"
+      ],
+      "verdict": "confirmed",
+      "note": "Checked against fetched sources; differences between sources are disclosed in the article"
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline, primary-source studio chronology, source disagreements flagged",
+  "decision": "approve",
+  "summary": "Claims match the sources."
+}

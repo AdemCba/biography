@@ -1,0 +1,155 @@
+{
+  "worthWriting": true,
+  "reason": "Well-known US actor (Family Ties, Tremors) with several independent sources; a living person with a long career, medium risk.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "encyclopedia-gross",
+      "url": "https://encyclopedia.com/education/news-wires-white-papers-and-books/gross-michael-1947",
+      "title": "Gross, Michael 1947-",
+      "publisher": "Encyclopedia.com (Contemporary Theatre, Film and Television)",
+      "type": "book",
+      "lang": "en"
+    },
+    {
+      "id": "tvguide-bio",
+      "url": "https://www.tvguide.com/celebrities/michael-gross/bio/3030342437/",
+      "title": "Michael Gross Biography, Celebrity Facts and Awards",
+      "publisher": "TV Guide",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "broadwayworld-bio",
+      "url": "https://www.broadwayworld.com/people/Michael-Gross/",
+      "title": "Michael Gross (Actor) - Broadway & Theatre Credits, Current Shows, News, Bio",
+      "publisher": "BroadwayWorld",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "bww-actors-lab-2024",
+      "url": "https://www.broadwayworld.com/article/New-Mexico-Actors-Lab-Will-Host-its-Third-Annual-Benefit-in-April-20240123",
+      "title": "New Mexico Actors Lab Will Host its Third Annual Benefit in April",
+      "publisher": "BroadwayWorld",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "yahoo-santa-fe-ties",
+      "url": "https://www.yahoo.com/entertainment/actors-ties-santa-fe-theater-150100321.html",
+      "title": "Actors have 'Ties' to Santa Fe theater scene",
+      "publisher": "Yahoo Entertainment",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "yahoo-family-ties-cast",
+      "url": "https://ca.news.yahoo.com/cast-family-ties-where-now-131734216.html",
+      "title": "The Cast of 'Family Ties': Where Are They Now?",
+      "publisher": "Yahoo",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "fox5-tremors-interview",
+      "url": "https://fox5atlanta.com/news/actor-michael-gross-talks-latest-tremors-installment",
+      "title": "Actor Michael Gross talks latest 'Tremors' installment",
+      "publisher": "FOX 5 Atlanta",
+      "type": "interview",
+      "lang": "en"
+    },
+    {
+      "id": "cbm-shrieker-interview",
+      "url": "https://www.comicbookmovie.com/amp/horror/tremors-shrieker-island-exclusive-interview-with-star-michael-gross-a179508",
+      "title": "TREMORS: SHRIEKER ISLAND Exclusive Interview With Star Michael Gross",
+      "publisher": "ComicBookMovie.com",
+      "type": "interview",
+      "lang": "en"
+    },
+    {
+      "id": "tmdb-gross",
+      "url": "https://www.themoviedb.org/person/67015-michael-gross",
+      "title": "Michael Gross",
+      "publisher": "The Movie Database (TMDB)",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "fandango-credits",
+      "url": "https://www.fandango.com/people/michael-gross-982446/film-credits",
+      "title": "Michael Gross Filmography and Movies",
+      "publisher": "Fandango",
+      "type": "database",
+      "lang": "en"
+    },
+    {
+      "id": "nbc-family-ties-slideshow",
+      "url": "https://www.nbcnews.com/slideshow/today/family-ties-all-grown-up-34208980",
+      "title": "Family Ties all grown up",
+      "publisher": "NBC News (TODAY)",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "bend-bulletin-baxter",
+      "url": "https://bendbulletin.com/?p=12162",
+      "title": "Meredith Baxter and Michael Gross again are wedded by roles",
+      "publisher": "The Bulletin (Bend)",
+      "type": "press",
+      "lang": "en"
+    },
+    {
+      "id": "celebritynetworth-gross",
+      "url": "https://www.celebritynetworth.com/richest-celebrities/actors/michael-gross-net-worth/",
+      "title": "Michael Gross Net Worth",
+      "publisher": "Celebrity Net Worth",
+      "type": "other",
+      "lang": "en"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1947-06-21",
+      "sources": [
+        "encyclopedia-gross",
+        "broadwayworld-bio",
+        "tmdb-gross"
+      ],
+      "note": "All three give 21 June 1947."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Chicago, Illinois, United States",
+      "sources": [
+        "encyclopedia-gross",
+        "tvguide-bio",
+        "tmdb-gross"
+      ],
+      "note": ""
+    },
+    "nationality": {
+      "value": "US",
+      "sources": [
+        "encyclopedia-gross",
+        "tmdb-gross"
+      ],
+      "note": "American actor born in Chicago."
+    }
+  },
+  "targetQueries": [
+    "michael gross movies",
+    "michael gross net worth",
+    "michael gross tv shows",
+    "michael gross tremors",
+    "michael gross family ties",
+    "michael gross actor",
+    "michael gross age",
+    "michael gross now",
+    "michael gross wife",
+    "michael gross children"
+  ],
+  "gapNote": "Top results mix up the actor with the swimmer and others; sparse on a dated timeline, stepchildren wording differs by source, no reliable net worth beyond Celebrity Net Worth."
+}

@@ -1,10 +1,8 @@
 ---
 title: Paulo Fonseca
 slug: paulo-fonseca
-metaTitle: 'Paulo Fonseca: {age} anos, clubes e novo cargo no Sporting'
-metaDescription: >-
-  Paulo Fonseca tem {age} anos e nasceu em Nampula, Moçambique, em 5 de março de
-  1973. O Sporting CP o contratou em 4 de novembro de 2026 e ele deixa o Lyon.
+metaTitle: "Paulo Fonseca: Barreiro, Sporting, família e idade 2026"
+metaDescription: "Paulo Fonseca tem {age} anos e nasceu em Nampula, Moçambique, mas cresceu no Barreiro. A história por trás do regresso ao Sporting e da família."
 knownFor: >-
   Treinador português, campeão com o Shakhtar Donetsk e ex-técnico da Roma, do
   Milan e do Lyon
@@ -32,6 +30,12 @@ targetQueries:
   - paulo fonseca deixa o lyon
   - paulo fonseca ac milan
   - paulo fonseca roma
+  - paulo fonseca idade
+  - onde nasceu paulo fonseca
+  - paulo fonseca naturalidade
+  - paulo fonseca biografia
+  - paulo fonseca barreiro
+  - paulo fonseca sportinguista
 faq:
   - q: Quantos anos tem Paulo Fonseca?
     a: >-
@@ -57,9 +61,24 @@ faq:
       Em Portugal, Desportivo Aves, Paços de Ferreira, Porto e Braga. Depois,
       Shakhtar Donetsk, Roma, Lille, AC Milan e, desde janeiro de 2025, o
       Olympique de Lyon.
+  - q: "Paulo Fonseca é sportinguista?"
+    a: "Na apresentação, segundo o A Bola, disse: «Sou adepto deste clube desde criança» [s:abola-sporting-official]."
+  - q: "Paulo Fonseca é casado?"
+    a: "Sim, com Kateryna, ucraniana de Donetsk, e o casal tem pelo menos um filho [s:abola-fonseca-family-2026]."
 autoReviews: 3
+updatedAt: '2026-11-05'
 ---
 Paulo Fonseca é o novo treinador do Sporting CP. De acordo com o A Bola, a SAD do clube confirmou a contratação em 4 de novembro de 2026, e o Lyon anunciou no mesmo dia que ele estava de saída [s:abola-sporting-official] [s:afp-lyon-departure]. Ele substitui [Rui Borges](person:rui-borges) [s:abola-sporting-official].
+
+## Idade, naturalidade e Barreiro: quem é Paulo Fonseca
+
+Paulo Fonseca tem 53 anos, nasceu em 5 de março de 1973 em Nampula, Moçambique, e cresceu no Barreiro, na Margem Sul de Lisboa [s:acmilan-appointment] [s:asroma-10-things]. A naturalidade, portanto, é moçambicana, mas ele é um treinador português, como o Shakhtar o descreve [s:shakhtar-leaves]. Moçambique só deixou de ser colônia portuguesa em 1975, e a família se mudou para o Barreiro quando ele tinha 14 anos [s:asroma-10-things]. Foi no Barreirense que ele começou a carreira de jogador, em 1991 [s:asroma-10-things].
+
+Sobre ser sportinguista: no dia da apresentação, o A Bola citou uma frase dele, «Sou adepto deste clube desde criança», e registrou que ele falou em cumprir um sonho de infância [s:abola-sporting-official]. O diretor esportivo do Lyon, Matthieu Louis-Jean, chamou a saída de «un choix du coeur concernant son club d'enfance» [s:afp-lyon-departure]. As fontes consultadas não dão mais detalhes sobre a infância dele como torcedor.
+
+## Família: mulher ucraniana e a saída de Kiev
+
+Fonseca é casado com Kateryna, ucraniana de Donetsk, segundo o A Bola [s:abola-fonseca-family-2026]. Em 2026, ele contou ao jornal que a família teve de deixar a casa duas vezes, de Donetsk para Kiev e de Kiev para Portugal, e que o filho mais velho, então com três anos, ainda perguntava quando voltariam [s:abola-fonseca-family-2026]. O Correio da Manhã já havia registrado a chegada dele a Lisboa em 28 de fevereiro de 2022, com a mulher, Katerina, que disse: «O meu coração não está cá, está com todo o povo ucraniano» [s:cmjornal-fonseca-lisboa-2022].
 
 ## Novembro de 2026: do Lyon para o Sporting
 
