@@ -139,13 +139,22 @@ jobs:
               birth date/place when a source gives them) with source ids; an empty `facts` blocks the page.
               `categories` in person.json: the top-level category plus the matching subcategory from
               content/categories.json (entries with `parent`), e.g. ["artists", "actors"] or ["creators", "streamers-youtubers"].
-            - Titles for clicks (Search Console: most searches are "<name> age/Alter/edad/âge/idade", and pages
-              at position ~10 get almost no clicks, so the title must make people choose this result):
-              metaTitle answers the top question in the page's language with the {age} placeholder (filled with
-              the current age at build time), e.g. "Alexia Putellas: Alter ({age}), Wechsel und neuer Verein".
-              metaDescription opens with the answer, e.g. "Alexia Putellas ist {age} Jahre alt (geboren am
-              4. Februar 1994).", then one concrete fact from today's news. Use {age} only when person.json
-              has birthDate. Keep metaTitle under 60 characters and metaDescription under 160.
+            - Titles for clicks (Search Console 2026-11-05: CTR is 0.2% because most impressions are "<name>
+              age/Alter/edad/âge/idade" searches that Google answers above the results, and a title that also
+              states the age gives the reader no reason to click): the metaTitle must NOT contain the age or
+              the {age} placeholder. It promises what Google cannot show in one line, in this fixed order and
+              in the page's language: name, then the sourced topics the page has among partner/spouse, kids,
+              net worth or earnings, and the current year, e.g. "Tobey Maguire: Wife, Kids, Net Worth & Age 2026",
+              "Dieter Bohlen: Vermögen, Frau, Kinder & Alter 2026", "Xuxa: fortuna, marido, filha e idade 2026".
+              Only name topics the page really covers with sources; leave out net worth when it is unsourced.
+              metaDescription opens with the direct answer to the top question, e.g. "Alexia Putellas ist
+              {age} Jahre alt (geboren am 4. Februar 1994)." (use {age} only when person.json has birthDate),
+              then names the partner/net worth facts the page holds and one concrete recent fact. Keep metaTitle
+              under 60 characters and metaDescription under 160.
+            - Title refresh (people runs only): find up to 10 published pages whose metaTitle still contains
+              "{age}" (any language; `grep -rl '{age}' content/people/*/*.md`, newest first by publishedAt) and
+              rewrite only their metaTitle to the pattern above from what that page already covers; also add a
+              sourced "## Relationships" section and partner/family FAQ when the page has none. Set updatedAt.
             - Broken sources (people runs only): fix up to 10 rows of data/seo/broken-sources.md exactly as the
               file says, then delete those rows. Skip this step when the file is missing or has no rows.
             - Search Console first: open data/seo/focus.md and handle up to 8 unticked pages there exactly as the
