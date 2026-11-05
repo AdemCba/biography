@@ -1,6 +1,6 @@
 # Search Console focus list
 
-From Search Console, 2026-10-28 to 2026-11-04, updated automatically every day.
+From Search Console, 2026-10-29 to 2026-11-05, updated automatically every day.
 
 Each page below shows on Google's first or second page (average position 3-20) but gets almost no clicks. The queries are what people typed. The writer works
 through this list from the top, up to 3 pages per people run, then ticks the box with the date.
@@ -18,6 +18,31 @@ For each page, edit only that language's file:
 
 ## Pages
 
+- [ ] de/trending/winora-staiger-verkauf-2026 (2170 impressions, 0 clicks, position 11.2): winora staiger, winora-staiger, winora schweinfurt
+- [ ] pt/paulo-fonseca (269 impressions, 2 clicks, position 10.5): paulo fonseca idade, onde nasceu paulo fonseca, idade paulo fonseca, paulo fonseca, paulo fonseca naturalidade, paulo fonseca biografia, paulo fonseca barreiro, paulo fonseca sportinguista
+- [ ] es/tom-kaulitz (268 impressions, 0 clicks, position 11.7): tom kaulitz, tom kaulitz 2026, tom kaulitz edad, tom kaulitz y su banda, quién es tom kaulitz, tom 2026 tokio hotel, tom bill kaulitz, tom de tokio hotel
+- [ ] pt/gabriel-bortoleto (183 impressions, 0 clicks, position 10.3): gabriel bortoleto idade, idade bortoleto, bortoleto idade, idade gabriel bortoleto, idade de gabriel bortoleto, gabriel bortoleto, idade do gabriel bortoleto, quantos anos tem bortoleto
+- [ ] en/liam-lawson (176 impressions, 0 clicks, position 8.9): liam lawson age, how old is liam lawson, lawson age, how old is lawson, how old is liam lawson f1 driver, lawson age f1, lawson f1 age, liam lawson agr
+- [ ] en/esteban-ocon (160 impressions, 0 clicks, position 9.3): esteban ocon age, ocon age, how old is ocon, how old is esteban ocon, where is ocon from, esteban ocon ethnicity, when did ocon win a race, esteban ocon
+- [ ] de/ryo-hirakawa (136 impressions, 0 clicks, position 7.4): ryo hirakawa alter, ryō hirakawa, hirakawa, hirakawa alter, ryo hirakawa, ryo hirakawa wec, hirakawa wec, ersatzfahrer haas f1
+- [ ] pt/tom-kaulitz (125 impressions, 0 clicks, position 11.4): tom kaulitz, tom tokio hotel, tom kaulitz 2026, tom kaulitz banda, kaulitz, tom de tokio hotel, bill e tom kaulitz, tom e bill kaulitz
+- [ ] es/jayson-tatum (114 impressions, 0 clicks, position 15.6): jayson tatum, tatum, tatum jayson, donde juega tatum, jason tatum, tatum celtics, edad de jason tatum, tatum nba
+- [ ] es/trending/liga-f-levante-badalona-barcelona-2026 (112 impressions, 0 clicks, position 12.2): levante badalona - barcelona, levante badalona - fc barcelona, dónde mirar levante badalona contra fútbol club barcelona femenino, levante badalona vs. barcelona
+- [ ] fr/gabby-williams (109 impressions, 0 clicks, position 12.2): gabby williams taille, taille gabby williams, gabby williams age, gabby williams âge, gabbie williams taille, taille gaby williams, gabby williams, gaby williams taille
+- [ ] pt/og-anunoby (99 impressions, 0 clicks, position 13.4): anunoby, anunoby stats, simeon ononobi
+- [ ] en/christian-m-billi (98 impressions, 0 clicks, position 10.5): how old is mbilli, mbilli age, mbili age, christian mbilli age, canelo vs mbilli age, how old is mbilli boxer, how old is christian mbilli, canelo vs mbilli ages
+- [ ] en/aitana-bonmati (92 impressions, 0 clicks, position 15.5): aitana bonmatí, aitana bonmati, why is aitana bonmati not nominated for ballon d'or, aitana bonmati age, aitana bonmatí total ballon d or, how old is bonmati, aitana bonmatí 2026, aitana soccer
+- [ ] es/kimi-antonelli (90 impressions, 0 clicks, position 16.8): kimi antonelli edad, edad de kimi antonelli, cuántos años tiene antonelli, cuantos años tiene antonelli, edad antonello, cuantos años tiene kimi antonelli, a que edad empezo a correr kimi antonelli, antonelli edad f1
+- [ ] es/vicky-lopez (88 impressions, 0 clicks, position 10.0): cuantos años tiene vicky lopez, cuántos años tiene vicky lópez, vicky lopez edad, vicky lopez nacionalidad, de donde es vicky lopez, vicky lópez edad, edad vicky lopez, vicky lopez años
+- [ ] pt/kimi-antonelli (88 impressions, 0 clicks, position 17.5): kimi antonelli, quantos anos tem química antonelli, com quantos anos kimi antonelli começou a correr na f1, idade antonelli, quantos anos tem kimi antonelli, quantos anos tem que antonelli, antonio kimi, formula 1 antonelli idade
+- [ ] de/stan-wawrinka (85 impressions, 2 clicks, position 17.5): stan wawrinka, wawrinka alter, stan wawrinka grand-slam siege einzel, stan wawrinka alter, stanislas wawrinka, stan wawrinka herkunft, wawrinka, stan wawrinka weltrangliste
+- [ ] fr/trending/inter-miami-cincinnati-composition (85 impressions, 0 clicks, position 10.6): inter miami – fc cincinnati : composition, fc cincinnati – inter miami : composition, inter miami – fc cincinnati composition
+- [ ] es/trending/black-friday-2026-deals-dates (83 impressions, 0 clicks, position 13.8): black friday 2026, when is black friday 2026, black friday 2026 date, cuando es black friday 2026, date black friday 2026, black friday 2026 fechas, black friday in america 2026, black friday usa 2026
+- [ ] es/bhad-bhabie (82 impressions, 0 clicks, position 11.6): bhad bhabie edad, bhad bhabie, bhad babie, bhad baddie, bhadhabie, daniela bregoli quien es, bad babie, bad bhabie
+- [ ] fr/lamine-yamal (81 impressions, 1 clicks, position 16.5): l'âge de yamal, age de yamal en 2026, age yamal 2026, l'âge de lamine yamal, l'age de yamal, lamine yamal son age, age de yamal, age yamal
+- [ ] es/elena-rybakina (81 impressions, 0 clicks, position 16.3): elena rybakina edad, rybakina edad, rybakina, elena rybakina, qué edad tiene la tenista rybakina, de donde es rybakina, de dónde es la tenista rybakina, edad de rybakina
+- [ ] fr/paulo-fonseca (81 impressions, 0 clicks, position 12.1): paulo fonseca, paulo fonseca origine, paulo fonseca nationalité, paulo fonseca âge, paulo fonseca âgé, age paulo fonseca, paulo fonseca famille, paula fonseca
+- [ ] en/scarlett-camberos (79 impressions, 0 clicks, position 9.9): scarlett camberos age, is scarlett camberos single, how old is scarlet camberos, scarlet camberos age, scarlett camberos, scarlett camberos ballon d or, scarlett camberos ballon d'or, scarlett camberos nationality
 - [x] de/moritz-wagner (done 2026-11-04) (424 impressions, 0 clicks, position 10.6): moritz wagner größe, wie groß ist moritz wagner, moritz wagner, mo wagner größe, moritz wagner alter, moritz wagner grösse, wer ist moritz wagner, wie groß ist mo wagner
 - [x] de/steffen-baumgart (done 2026-11-04) (178 impressions, 0 clicks, position 13.2): steffen baumgart, baumgart, steffen baumgart aktueller verein, baumgart entlassen, wo ist steffen baumgart jetzt trainer, steffen baumgart entlassen, wo ist baumgart trainer, baumgart trainer
 - [x] de/yaxel-lendeborg (done 2026-11-04) (145 impressions, 0 clicks, position 10.4): yaxel lendeborg, yaxel lendeborg alter, lendeborg, yaxel lendeborg age, lendenborg, lendeborg age, landeborg, yax lendeborg
@@ -34,15 +59,6 @@ For each page, edit only that language's file:
 - [x] de/ibai-llanos (done 2026-11-04) (115 impressions, 0 clicks, position 11.1): ibai, ibai llanos, streamer llanos, ibai lianos, ibai streamer
 - [x] es/scarlett-camberos (done 2026-11-04) (113 impressions, 0 clicks, position 10.2): scarlett camberos edad, cuantos años tiene scarlett camberos, edad de scarlett camberos, scarlett camberos, edad scarlett camberos, cuando nacio scarlett camberos, cuántos años tiene scarlett camberos, de dónde es originaria scarlett camberos
 - [x] en/yaxel-lendeborg (done 2026-11-04) (112 impressions, 0 clicks, position 16.4): yaxel lendeborg stats, nah yaxel age, yaxel warriors age, yaxel lendeborg age, yaxal age, how old is axel lendeborg, yaxel age, warriors rookie age
-- [ ] de/ryo-hirakawa (109 impressions, 0 clicks, position 7.2): ryo hirakawa alter, hirakawa, ryo hirakawa, ryō hirakawa, hirakawa alter, ryo hirakawa wec, hirakawa f1 haas, hirakawa wec
-- [ ] en/aitana-bonmati (107 impressions, 0 clicks, position 13.7): aitana bonmatí, aitana bonmati, aitana bonmatí total ballon d or, aitana bonmati age, aitana bonmatí 2026, aitana bonmatí age, how old is bonmati, why is aitana bonmati not nominated for ballon d'or
-- [ ] es/jayson-tatum (105 impressions, 0 clicks, position 14.2): jayson tatum, tatum, donde juega tatum, jason tatum, tatum jayson, edad de jason tatum, tatum celtics, tatum nba
-- [ ] es/trending/liga-f-levante-badalona-barcelona-2026 (104 impressions, 0 clicks, position 12.2): levante badalona - barcelona, levante badalona - fc barcelona, levante badalona vs. barcelona
-- [ ] de/stan-wawrinka (103 impressions, 2 clicks, position 16.3): stan wawrinka, wawrinka alter, stan wawrinka alter, stan wawrinka grand-slam siege einzel, stanislas wawrinka, stan wawrinka herkunft, wawrinka, alter stan wawrinka
-- [ ] en/liam-lawson (102 impressions, 0 clicks, position 8.8): liam lawson age, how old is liam lawson, lawson age, lawson age f1, lawson f1 age, liam lawson agr, how old is lawson, how old is liam lawson f1 driver
-- [ ] pt/kimi-antonelli (101 impressions, 0 clicks, position 17.2): kimi antonelli, quantos anos tem química antonelli, antonelli idade, com quantos anos kimi antonelli começou a correr na f1, idade antonelli, idade kimi antonelli, quantos anos tem kimi antonelli, quantos anos tem que antonelli
-- [ ] es/kimi-antonelli (96 impressions, 0 clicks, position 16.3): kimi antonelli edad, edad de kimi antonelli, cuántos años tiene antonelli, cuantos años tiene antonelli, edad antonello, cuando nacio kimi antonelli, cuantos años tiene kimi antonelli, edad de kimi antonelli f1
-- [ ] fr/lamine-yamal (93 impressions, 1 clicks, position 15.6): l'âge de yamal, age yamal 2026, age de yamal en 2026, l'âge de lamine yamal, l'age de yamal, lamine yamal son age, age de yamal, l'âge de yamal actuellement
 - [x] en/quenton-nelson (237 impressions, 0 clicks, position 11.7): quentin nelson age, quenton nelson age, quinton nelson age, where did quenton nelson go to high school, quenton nelson, quenton nelson contract, where is quinton nelson from, wuentin nelson age (done 2026-11-03)
 - [x] de/usain-bolt (229 impressions, 0 clicks, position 17.3): usain bolt, usain bolt alter, usain bolt goldmedaillen, bolt usain, usain bolt weltrekord, usain bolt rekord, bold sprinter, wie alt war usain bolt bei seinem weltrekord (done 2026-11-03)
 - [x] es/kai-cenat (211 impressions, 1 clicks, position 11.2): kai cenat, kai cenat edad, edad de kai cenat, edad kai cenat, kai cenar, cuantos años tiene kai cenat, kai centa, cual es el streamer mas famoso del mundo (done 2026-11-03)
