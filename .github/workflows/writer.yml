@@ -117,9 +117,13 @@ jobs:
               sources: early life and family background (public facts only), how they got their break, career
               timeline with years (roles, shows, channels, milestones), best-known work as a markdown table
               (year, title, role or format), awards and records, net worth or earnings only from reliable reporting
-              (name the outlet and year, never guess), public relationships, what they are doing now, and 6+ FAQ
-              entries answering that language's real searches (age, height, partner, nationality, net worth, real
-              name). Open with the direct answer to the top search (usually age) in the first sentence. Use more
+              (name the outlet and year, never guess), a "## Relationships" section (who they are dating or married
+              to now, past public relationships with years, children; only what two reliable outlets report or the
+              person said publicly, claims as claims), what they are doing now, and 6+ FAQ
+              entries answering that language's real searches (age, height, partner, ex-partners, children,
+              nationality, net worth, real name, family, where they live). These "who is X dating / married to"
+              answers are what Google rarely shows in one line, so name them in the metaDescription when sourced
+              (e.g. "... her marriage to Y, her children and her net worth."). Open with the direct answer to the top search (usually age) in the first sentence. Use more
               sources rather than longer sentences; no padding, no rumours, nothing private.
             - Do the writing and fact-checking yourself or with subagents on the same model. Never start a
               subagent in the background: run each one in the foreground (several in one message is fine) and
@@ -146,7 +150,8 @@ jobs:
               file says, then delete those rows. Skip this step when the file is missing or has no rows.
             - Search Console first: open data/seo/focus.md and handle up to 8 unticked pages there exactly as the
               file says (only that language's file), then tick them with today's date. These pages already show on
-              Google's first pages, so this is the quickest way to more clicks.
+              Google's first pages, so this is the quickest way to more clicks. If the page has no sourced
+              relationships/family part yet, add it there too (same sourcing rules as deep pages).
             - Traffic first: the fastest wins are people who already have a page and trend again (section
               "Sitede zaten var, güncellemeye aday" of latest.md). Before writing new people, update up to 3 of
               them in all five languages: a dated "## <Month Year>" section on why they are in the news, refreshed
