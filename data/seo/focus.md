@@ -1,6 +1,6 @@
 # Search Console focus list
 
-From Search Console, 2026-10-29 to 2026-11-05, updated automatically every day.
+From Search Console, 2026-10-30 to 2026-11-06, updated automatically every day.
 
 Each page below shows on Google's first or second page (average position 3-20) but gets almost no clicks. The queries are what people typed. The writer works
 through this list from the top, up to 3 pages per people run, then ticks the box with the date.
@@ -18,7 +18,31 @@ For each page, edit only that language's file:
 
 ## Pages
 
-- [ ] de/trending/winora-staiger-verkauf-2026 (2170 impressions, 0 clicks, position 11.2): winora staiger, winora-staiger, winora schweinfurt
+- [ ] de/trending/winora-staiger-verkauf-2026 (2717 impressions, 0 clicks, position 11.2): winora staiger, winora-staiger, winora schweinfurt
+- [ ] fr/lauren-graham (180 impressions, 0 clicks, position 10.4): lauren graham, lauren graham enfants, lauren graham couple, lauren graham maintenant, lauren graham aujourd'hui, lauren graham couple 2026, lauren graham mari, lauren graham taille
+- [ ] es/trending/liga-f-levante-badalona-barcelona-2026 (119 impressions, 0 clicks, position 12.8): levante badalona - barcelona, levante badalona - fc barcelona, barcelona contra levante badalona, dónde mirar levante badalona contra fútbol club barcelona femenino, levante badalona vs. barcelona
+- [ ] fr/matt-rife (108 impressions, 1 clicks, position 12.9): matt rife, humoriste matt rife, matt rifd, matt rife alter, matt rive
+- [ ] en/gabby-williams (106 impressions, 0 clicks, position 11.3): how old is gabby williams, gabby williams height, gabby williams height in feet, how old is gabby williams?, gabby williams age, gabby williams nationality, gabby williams born in france, gabby williams french
+- [ ] es/heidi-klum (103 impressions, 0 clicks, position 12.1): cuántos años tiene heidi klum, heidi klum edad, edad heidi klum, heidi klum, edad de heidi klum, ¿cuántos años tiene heidi klum?, cuantos años tiene heidi klum, heidi klum cuantos años tiene
+- [ ] es/alex-de-minaur (96 impressions, 0 clicks, position 17.0): álex de miñaur, alex de minaur, miñaur, alex de miñaur ranking, cuando juega de minaur, de minaur, de miñaur, a de minaur
+- [ ] es/tobey-maguire (95 impressions, 0 clicks, position 10.6): tobey maguire edad, cuantos años tiene tobey maguire, edad de tobey maguire, cuántos años tiene tobey maguire, edad tobey maguire, tobey maguire, tobey maguire edad 2002, cuanto años tiene tobey maguire
+- [ ] fr/paulo-fonseca (93 impressions, 0 clicks, position 12.6): paulo fonseca, paulo fonseca origine, paulo fonseca nationalité, paulo fonseca âge, paulo fonseca âgé, age paulo fonseca, paulo fonseca famille, paula fonseca
+- [ ] pt/jan-lennard-struff (90 impressions, 0 clicks, position 9.2): struff tenista, jan-lennard struff, tenista struff, struff idade, jan lennard struff altura, struff altura, altura struff, struff atp
+- [ ] es/elena-rybakina (88 impressions, 0 clicks, position 16.8): elena rybakina edad, rybakina edad, rybakina, elena rybakina, qué edad tiene la tenista rybakina, de donde es rybakina, cuantos años tiene rybakina, de dónde es la tenista rybakina
+- [ ] fr/jan-lennard-struff (83 impressions, 0 clicks, position 9.5): struff taille, taille struff, struff age, age struff tennis, jan-lennard struff taille, jan lennard struff taille, struff tennis age, struff tennis taille
+- [ ] de/sebastian-fitzek (82 impressions, 0 clicks, position 8.1): sebastian fitzek alter, fitzek alter, wie alt ist sebastian fitzek, wie alt ist fitzek, alter sebastian fitzek
+- [ ] es/trending/black-friday-2026-deals-dates (81 impressions, 0 clicks, position 13.0): black friday 2026, black friday 2026 date, date black friday 2026, when is black friday 2026, black friday 2026 fechas, black friday in america 2026, black friday usa 2026, cuando es black friday 2026
+- [ ] fr/jaren-jackson-jr (74 impressions, 0 clicks, position 13.4): jaren jackson jr., jaren jackson jr, jaren jackson junior, jarrett jackson jr, jjj nba, jackson jr, j jackson jr, jackson junior
+- [ ] de/luke-littler (73 impressions, 0 clicks, position 12.3): luke littler alter, wie alt ist luke littler, littler alter, luke littler, littler, beat luke littler wikipedia, luke littler herkunft, luke littler weltrangliste
+- [ ] es/bhad-bhabie (73 impressions, 0 clicks, position 11.5): bhad bhabie, bhad bhabie edad, bhad babie, bhadhabie, daniela bregoli quien es, bad babie, bad bhabie, bhad baddie
+- [ ] fr/cam-skattebo (71 impressions, 1 clicks, position 10.8): cam skattebo, skattebo, skattebo nfl, cam skattebo taille, cameron skattebo, new york giants skattebo, sam skattebo, scattebo
+- [ ] en/jeffery-simmons (71 impressions, 0 clicks, position 12.1): jeff simmons age, simmons bears age, how old is jeffrey simmons, jeffrey simmons age, jeffery simmons age, jeffery simmons, how old is football player jeffrey simmons, how old is jeffery simmons
+- [ ] es/chauncey-leopardi (71 impressions, 0 clicks, position 8.3): chauncey leopardi, chauncey leopardi.
+- [ ] de/heidi-klum (70 impressions, 0 clicks, position 12.2): wie alt ist heidi klum, alter heidi klum, heidi klum alter, heidi klum halloween 2026, how old is heidi klum?, wie alt ist heidi klum 2026, als was ist heidi klum zu halloween gegangen 2026, halloween 2026 heidi klum
+- [ ] de/lauren-graham (70 impressions, 0 clicks, position 10.7): lauren graham kinder, lauren graham heute, lauren graham, alter lauren graham, wie alt ist die schauspielerin von lorelai gilmore, wie alt ist lauren graham, wie alt ist lorelai gilmore, hat lauren graham kinder
+- [ ] es/lauren-graham (69 impressions, 0 clicks, position 8.6): lauren graham, lauren graham actualidad, laura graham, lauren graham edad, edad de lauren graham, lauren graham hijos, lauren graham hoy, lorelai gilmore actriz
+- [ ] fr/trending/inter-miami-cincinnati-composition (68 impressions, 0 clicks, position 10.6): inter miami – fc cincinnati : composition, fc cincinnati – inter miami : composition
+- [ ] de/stan-wawrinka (67 impressions, 2 clicks, position 18.9): stan wawrinka, wawrinka alter, stan wawrinka alter, stan wawrinka grand-slam siege einzel, stanislas wawrinka, wawrinka, stan wawrinka tennis, stan wawrinka weltrangliste
 - [x] pt/paulo-fonseca 2026-11-05 (269 impressions, 2 clicks, position 10.5): paulo fonseca idade, onde nasceu paulo fonseca, idade paulo fonseca, paulo fonseca, paulo fonseca naturalidade, paulo fonseca biografia, paulo fonseca barreiro, paulo fonseca sportinguista
 - [x] es/tom-kaulitz 2026-11-05 (268 impressions, 0 clicks, position 11.7): tom kaulitz, tom kaulitz 2026, tom kaulitz edad, tom kaulitz y su banda, quién es tom kaulitz, tom 2026 tokio hotel, tom bill kaulitz, tom de tokio hotel
 - [x] pt/gabriel-bortoleto 2026-11-05 (183 impressions, 0 clicks, position 10.3): gabriel bortoleto idade, idade bortoleto, bortoleto idade, idade gabriel bortoleto, idade de gabriel bortoleto, gabriel bortoleto, idade do gabriel bortoleto, quantos anos tem bortoleto
@@ -27,7 +51,6 @@ For each page, edit only that language's file:
 - [x] de/ryo-hirakawa 2026-11-05 (136 impressions, 0 clicks, position 7.4): ryo hirakawa alter, ryō hirakawa, hirakawa, hirakawa alter, ryo hirakawa, ryo hirakawa wec, hirakawa wec, ersatzfahrer haas f1
 - [x] pt/tom-kaulitz 2026-11-05 (125 impressions, 0 clicks, position 11.4): tom kaulitz, tom tokio hotel, tom kaulitz 2026, tom kaulitz banda, kaulitz, tom de tokio hotel, bill e tom kaulitz, tom e bill kaulitz
 - [x] es/jayson-tatum 2026-11-05 (114 impressions, 0 clicks, position 15.6): jayson tatum, tatum, tatum jayson, donde juega tatum, jason tatum, tatum celtics, edad de jason tatum, tatum nba
-- [ ] es/trending/liga-f-levante-badalona-barcelona-2026 (112 impressions, 0 clicks, position 12.2): levante badalona - barcelona, levante badalona - fc barcelona, dónde mirar levante badalona contra fútbol club barcelona femenino, levante badalona vs. barcelona
 - [x] fr/gabby-williams 2026-11-05 (109 impressions, 0 clicks, position 12.2): gabby williams taille, taille gabby williams, gabby williams age, gabby williams âge, gabbie williams taille, taille gaby williams, gabby williams, gaby williams taille
 - [x] pt/og-anunoby 2026-11-05 (99 impressions, 0 clicks, position 13.4): anunoby, anunoby stats, simeon ononobi
 - [x] en/christian-m-billi 2026-11-05 (98 impressions, 0 clicks, position 10.5): how old is mbilli, mbilli age, mbili age, christian mbilli age, canelo vs mbilli age, how old is mbilli boxer, how old is christian mbilli, canelo vs mbilli ages
@@ -35,14 +58,6 @@ For each page, edit only that language's file:
 - [x] es/kimi-antonelli 2026-11-05 (90 impressions, 0 clicks, position 16.8): kimi antonelli edad, edad de kimi antonelli, cuántos años tiene antonelli, cuantos años tiene antonelli, edad antonello, cuantos años tiene kimi antonelli, a que edad empezo a correr kimi antonelli, antonelli edad f1
 - [x] es/vicky-lopez 2026-11-05 (88 impressions, 0 clicks, position 10.0): cuantos años tiene vicky lopez, cuántos años tiene vicky lópez, vicky lopez edad, vicky lopez nacionalidad, de donde es vicky lopez, vicky lópez edad, edad vicky lopez, vicky lopez años
 - [x] pt/kimi-antonelli 2026-11-05 (88 impressions, 0 clicks, position 17.5): kimi antonelli, quantos anos tem química antonelli, com quantos anos kimi antonelli começou a correr na f1, idade antonelli, quantos anos tem kimi antonelli, quantos anos tem que antonelli, antonio kimi, formula 1 antonelli idade
-- [ ] de/stan-wawrinka (85 impressions, 2 clicks, position 17.5): stan wawrinka, wawrinka alter, stan wawrinka grand-slam siege einzel, stan wawrinka alter, stanislas wawrinka, stan wawrinka herkunft, wawrinka, stan wawrinka weltrangliste
-- [ ] fr/trending/inter-miami-cincinnati-composition (85 impressions, 0 clicks, position 10.6): inter miami – fc cincinnati : composition, fc cincinnati – inter miami : composition, inter miami – fc cincinnati composition
-- [ ] es/trending/black-friday-2026-deals-dates (83 impressions, 0 clicks, position 13.8): black friday 2026, when is black friday 2026, black friday 2026 date, cuando es black friday 2026, date black friday 2026, black friday 2026 fechas, black friday in america 2026, black friday usa 2026
-- [ ] es/bhad-bhabie (82 impressions, 0 clicks, position 11.6): bhad bhabie edad, bhad bhabie, bhad babie, bhad baddie, bhadhabie, daniela bregoli quien es, bad babie, bad bhabie
-- [ ] fr/lamine-yamal (81 impressions, 1 clicks, position 16.5): l'âge de yamal, age de yamal en 2026, age yamal 2026, l'âge de lamine yamal, l'age de yamal, lamine yamal son age, age de yamal, age yamal
-- [ ] es/elena-rybakina (81 impressions, 0 clicks, position 16.3): elena rybakina edad, rybakina edad, rybakina, elena rybakina, qué edad tiene la tenista rybakina, de donde es rybakina, de dónde es la tenista rybakina, edad de rybakina
-- [ ] fr/paulo-fonseca (81 impressions, 0 clicks, position 12.1): paulo fonseca, paulo fonseca origine, paulo fonseca nationalité, paulo fonseca âge, paulo fonseca âgé, age paulo fonseca, paulo fonseca famille, paula fonseca
-- [ ] en/scarlett-camberos (79 impressions, 0 clicks, position 9.9): scarlett camberos age, is scarlett camberos single, how old is scarlet camberos, scarlet camberos age, scarlett camberos, scarlett camberos ballon d or, scarlett camberos ballon d'or, scarlett camberos nationality
 - [x] de/moritz-wagner (done 2026-11-04) (424 impressions, 0 clicks, position 10.6): moritz wagner größe, wie groß ist moritz wagner, moritz wagner, mo wagner größe, moritz wagner alter, moritz wagner grösse, wer ist moritz wagner, wie groß ist mo wagner
 - [x] de/steffen-baumgart (done 2026-11-04) (178 impressions, 0 clicks, position 13.2): steffen baumgart, baumgart, steffen baumgart aktueller verein, baumgart entlassen, wo ist steffen baumgart jetzt trainer, steffen baumgart entlassen, wo ist baumgart trainer, baumgart trainer
 - [x] de/yaxel-lendeborg (done 2026-11-04) (145 impressions, 0 clicks, position 10.4): yaxel lendeborg, yaxel lendeborg alter, lendeborg, yaxel lendeborg age, lendenborg, lendeborg age, landeborg, yax lendeborg
