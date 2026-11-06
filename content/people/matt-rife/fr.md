@@ -1,10 +1,10 @@
 ---
 title: Matt Rife
 slug: matt-rife
-metaTitle: 'Matt Rife âge : {age} ans, tournée et Netflix'
+metaTitle: 'Matt Rife, humoriste : âge, tournée et Netflix 2026'
 metaDescription: >-
-  Matt Rife a {age} ans (né le 10 septembre 1995 dans l'Ohio). Il est en tournée
-  Stay Golden et joue dans The Altruists, sur Netflix dès le 19 novembre.
+  Matt Rife est un humoriste américain de {age} ans, né dans l'Ohio. Du travail
+  avec le public sur TikTok à Netflix et à la tournée Stay Golden en 2026.
 knownFor: >-
   Humoriste de stand-up et acteur américain, connu pour le travail avec le
   public et ses spectacles Netflix
@@ -27,8 +27,17 @@ targetQueries:
   - matt rife tournée
   - matt rife films et séries
   - matt rife polémique
+  - humoriste matt rife
+  - matt rife alter
+  - matt rive
+  - matt rifd
 faq:
-  - q: Quel âge a Matt Rife ?
+  - q: Qui est Matt Rife, l'humoriste ?
+    a: >-
+      Un humoriste de stand-up et acteur américain né à Columbus, dans l'Ohio, révélé
+      par Wild 'N Out puis par ses vidéos de travail avec le public sur TikTok
+      [s:today-natural-selection] [s:tmdb-rife].
+  - q: Quel âge a Matt Rife (« matt rife alter ») ?
     a: >-
       Il est né le 10 septembre 1995 et a 31 ans au 3 novembre 2026
       [s:tmdb-rife].
@@ -60,11 +69,16 @@ faq:
       La Stay Golden World Tour compte plus de 60 dates dans plus de dix pays en
       2026 et s'achève le 29 décembre à Oklahoma City [s:oklahoman-tour]
       [s:red-rocks-stay-golden].
+updatedAt: '2026-11-06'
 autoReviews: 1
 publishedAt: '2026-11-03'
 publishedTime: '2026-11-03T12:57:40.581Z'
 ---
-Matt Rife a 31 ans (au 3 novembre 2026) : il est né le 10 septembre 1995 à Columbus, dans l'Ohio [s:tmdb-rife] [s:martincid-rife]. Humoriste de stand-up et acteur américain, il a longtemps joué dans de petits clubs et dans une émission d'improvisation de MTV, avant que de courtes vidéos de travail avec le public sur TikTok ne le mènent dans les arénas [s:today-natural-selection] [s:bww-lucid].
+Matt Rife (aussi écrit « Matt Rive » ou « Matt Rifd » dans les recherches) est un humoriste américain de 31 ans (au 3 novembre 2026) : il est né le 10 septembre 1995 à Columbus, dans l'Ohio [s:tmdb-rife] [s:martincid-rife]. Humoriste de stand-up et acteur américain, il a longtemps joué dans de petits clubs et dans une émission d'improvisation de MTV, avant que de courtes vidéos de travail avec le public sur TikTok ne le mènent dans les arénas [s:today-natural-selection] [s:bww-lucid].
+
+## Qui est Matt Rife, l'humoriste que tout le monde cherche ?
+
+Matt Rife est un humoriste de stand-up américain de 31 ans, devenu connu grâce à ses vidéos de travail avec le public sur TikTok, puis à deux spectacles Netflix, *Natural Selection* (2023) et *Lucid* (2024) [s:today-natural-selection] [s:netflix-lucid]. En 2026, il tourne avec la Stay Golden World Tour et joue dans *The Altruists* sur Netflix [s:oklahoman-tour] [s:netflix-altruists].
 
 ## Une enfance dans l'Ohio
 

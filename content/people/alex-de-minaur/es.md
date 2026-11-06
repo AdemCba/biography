@@ -1,10 +1,10 @@
 ---
 title: Alex de Miñaur
 slug: alex-de-minaur
-metaTitle: 'Alex de Miñaur: final de Viena, victoria ante Zverev y ranking'
+metaTitle: 'Álex de Miñaur: ranking, cuándo juega y su origen 2026'
 metaDescription: >-
-  Alex de Miñaur es un tenista australiano de Sídney, con su mejor ranking en el
-  No. 5. El 1 de noviembre de 2026 perdió la final de Viena ante Alcaraz.
+  Álex de Miñaur es No. 5 del mundo en su mejor ranking (julio de 2026). Su
+  último partido fue la final de Viena ante Alcaraz, el 1 de noviembre.
 knownFor: 'Tenista australiano de Sídney, mejor ranking mundial: No. 5'
 summary: >-
   Alex de Miñaur es un tenista australiano nacido en Sídney, con su mejor
@@ -25,6 +25,10 @@ targetQueries:
   - alex de miñaur vs alcaraz
   - alex de miñaur final viena
   - alex de miñaur títulos atp
+  - álex de miñaur
+  - miñaur
+  - de minaur
+  - cuándo juega de miñaur
 faq:
   - q: ¿Quién es Alex de Miñaur?
     a: >-
@@ -49,11 +53,21 @@ faq:
       No, según las fuentes consultadas. Alcaraz le ganó en los cuartos de final
       del Abierto de Australia 2026 por 7-5, 6-2, 6-1 [s:atp-ao-2026-qf] y en la
       final de Viena por 6-1, 6-4 [s:atp-vienna-2026].
+  - q: ¿Cuándo juega De Miñaur?
+    a: >-
+      Las fuentes consultadas no recogen su próximo partido. El último
+      documentado es la final de Viena, perdida ante Alcaraz el 1 de noviembre de
+      2026 [s:atp-vienna-2026]; el calendario oficial está en la ATP.
 autoReviews: 1
+updatedAt: '2026-11-06'
 publishedAt: '2026-11-01'
 publishedTime: '2026-11-01T21:38:16.068Z'
 ---
 Alex de Miñaur perdió la final de Viena ante Carlos Alcaraz por 6-1, 6-4 el domingo 1 de noviembre de 2026 [s:atp-vienna-2026]. En el camino a la final había vencido a Alexander Zverev, al que ABC describió como futuro número uno del mundo [s:abc-tennis].
+
+## Álex de Miñaur: ranking y cuándo juega
+
+El ranking de Álex de Miñaur tiene un máximo de No. 5, alcanzado en julio de 2026 [s:atp-bio]. Sobre cuándo juega De Miñaur, las fuentes consultadas no recogen su próximo partido; el último documentado es la final de Viena del 1 de noviembre de 2026, perdida ante Alcaraz [s:atp-vienna-2026]. Su apellido se escribe con eñe (Miñaur) y la prensa en inglés suele escribirlo De Minaur [s:rg-profile].
 
 ## noviembre 2026
 

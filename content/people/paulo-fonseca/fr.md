@@ -1,10 +1,10 @@
 ---
 title: Paulo Fonseca
 slug: paulo-fonseca
-metaTitle: 'Paulo Fonseca : Sporting, contrat et âge 2026'
+metaTitle: 'Paulo Fonseca : origine, âge, famille et Sporting 2026'
 metaDescription: >-
-  Paulo Fonseca a {age} ans, né le 5 mars 1973 à Nampula, au Mozambique. Le
-  Sporting CP l'a nommé le 4 novembre 2026 et il quitte l'OL.
+  Paulo Fonseca, portugais né à Nampula (Mozambique), a {age} ans (5 mars 1973).
+  Marié à une Ukrainienne de Donetsk, il prend le Sporting après l'OL.
 knownFor: >-
   Entraîneur portugais, champion avec le Chakhtar Donetsk et ancien coach de
   l'AS Rome, de l'AC Milan et de l'OL
@@ -18,7 +18,7 @@ status: published
 risk: medium
 publishedAt: '2026-11-04'
 publishedTime: '2026-11-04T21:31:16.410Z'
-updatedAt: '2026-11-05'
+updatedAt: '2026-11-06'
 reviewedAt: '2026-11-04'
 reviewBy: '2027-05-04'
 author: editor-in-chief
@@ -32,6 +32,10 @@ targetQueries:
   - paulo fonseca lyon
   - paulo fonseca ac milan
   - paulo fonseca as rome
+  - paulo fonseca origine
+  - paulo fonseca nationalité
+  - paulo fonseca famille
+  - paulo fonseca
 faq:
   - q: Quel âge a Paulo Fonseca ?
     a: Il est né le 5 mars 1973 et a 53 ans au 4 novembre 2026.
@@ -55,6 +59,14 @@ faq:
       Au Portugal, le Desportivo Aves, le Paços de Ferreira, le FC Porto et le
       SC Braga. Puis le Chakhtar Donetsk, l'AS Rome, le LOSC, l'AC Milan et,
       depuis janvier 2025, l'OL.
+  - q: Quelle est la nationalité de Paulo Fonseca ?
+    a: >-
+      Il est portugais, mais né au Mozambique, alors colonie portugaise
+      [s:shakhtar-leaves] [s:asroma-10-things].
+  - q: Quelle est la famille de Paulo Fonseca ?
+    a: >-
+      Il est marié à Kateryna, une Ukrainienne de Donetsk, selon A Bola, et le
+      couple a au moins un fils [s:abola-fonseca-family-2026].
 autoReviews: 3
 ---
 Paulo Fonseca est le nouvel entraîneur du Sporting CP. Selon A Bola, la SAD du club a confirmé sa nomination le 4 novembre 2026, et l'Olympique lyonnais a annoncé le même jour son départ [s:abola-sporting-official] [s:afp-lyon-departure]. Il remplace [Rui Borges](person:rui-borges) [s:abola-sporting-official].
@@ -66,6 +78,10 @@ A Bola explique que la SAD du Sporting a confirmé le transfert dans un communiq
 À Lyon, la nouvelle est mal passée. Selon la RTP, le club parle d'une décision inattendue et explique que, face à un souhait aussi clairement exprimé, la direction ne voyait pas d'intérêt à poursuivre la collaboration [s:rtp-lyon-confirms]. L'AFP cite le directeur sportif lyonnais, Matthieu Louis-Jean, pour qui il s'agit d'« un choix du coeur concernant son club d'enfance » [s:afp-lyon-departure]. L'OL était troisième de Ligue 1 après neuf journées [s:afp-lyon-departure]. Son adjoint Jorge Maciel, 41 ans, dirige l'équipe jeudi contre la Real Sociedad en Ligue Europa et dimanche à Brest, et Louis-Jean a cité Carlos Vicens parmi les candidats à la succession [s:afp-lyon-departure].
 
 À Lisbonne, le départ de Borges et de son staff a été confirmé en même temps que l'arrivée de Fonseca [s:abola-sporting-official]. La RTP rappelle que Borges a été écarté dimanche après deux ans en poste, avec un doublé championnat-coupe que le Sporting n'avait pas réussi depuis 23 ans [s:rtp-lyon-confirms]. Le premier article d'A Bola sur l'accord, le 1er novembre, s'est révélé exact [s:abola-sporting-report] [s:abola-sporting-official].
+
+## Paulo Fonseca : origine, nationalité et famille
+
+Paulo Fonseca est portugais, mais il est né à Nampula, au Mozambique, le 5 mars 1973, quand le pays était encore une colonie portugaise [s:shakhtar-leaves] [s:acmilan-appointment] [s:asroma-10-things]. Côté famille, il est marié à Kateryna, une Ukrainienne de Donetsk, selon A Bola [s:abola-fonseca-family-2026]. En 2026, il a raconté au journal que la famille avait dû quitter son foyer deux fois, de Donetsk à Kiev puis de Kiev au Portugal, et que son fils aîné, alors âgé de trois ans, demandait toujours quand ils rentreraient [s:abola-fonseca-family-2026]. Correio da Manhã a relevé son arrivée à Lisbonne le 28 février 2022, avec son épouse [s:cmjornal-fonseca-lisboa-2022].
 
 ## De Nampula à Barreirense
 

@@ -1,10 +1,10 @@
 ---
 title: Tobey Maguire
 slug: tobey-maguire
-metaTitle: 'Tobey Maguire: edad ({age} años), Spider-Man y cine'
+metaTitle: 'Tobey Maguire: edad, esposa e hijos, Spider-Man 2026'
 metaDescription: >-
-  Tobey Maguire tiene {age} años (nació el 27 de junio de 1975). Sus películas
-  de Spider-Man, premios, divorcio de 2026 y su situación en Doomsday.
+  Tobey Maguire tiene {age} años (nació el 27 de junio de 1975), así que en 2002
+  cumplió 27. Su vida tras Spider-Man, el divorcio de 2026 y Doomsday.
 knownFor: >-
   Actor estadounidense, conocido por interpretar a Spider-Man en la trilogía de
   Sam Raimi
@@ -27,6 +27,10 @@ targetQueries:
   - tobey maguire spider man
   - tobey maguire avengers doomsday
   - tobey maguire novia
+  - cuántos años tiene tobey maguire
+  - edad de tobey maguire
+  - tobey maguire edad 2002
+  - tobey maguire
   - tobey maguire actualmente
 faq:
   - q: ¿Cuántos años tiene Tobey Maguire?
@@ -61,11 +65,20 @@ faq:
     a: >-
       Nació en Santa Monica, California, Estados Unidos, el 27 de junio de 1975
       [s:biography-com].
+  - q: ¿Cuántos años tenía Tobey Maguire en 2002?
+    a: >-
+      Nació el 27 de junio de 1975, así que cumplió 27 años en junio de 2002, el
+      año del estreno de *Spider-Man* [s:biography-com] [s:rt-tobey-maguire].
 autoReviews: 1
+updatedAt: '2026-11-06'
 publishedAt: '2026-11-03'
 publishedTime: '2026-11-03T12:57:40.586Z'
 ---
 Tobey Maguire tiene 51 años a fecha de 3 de noviembre de 2026: nació el 27 de junio de 1975 en Santa Monica, California [s:biography-com] [s:rt-tobey-maguire]. Lo que más se busca de él hoy es si volverá a ser Spider-Man en *Avengers: Doomsday*. Marvel no lo incluyó en el reparto que anunció el 26 de marzo de 2025 y no hemos encontrado una confirmación oficial posterior [s:slashfilm-doomsday-2025].
+
+## Edad de Tobey Maguire: de 2002 a hoy
+
+Para saber cuántos años tiene Tobey Maguire basta su fecha de nacimiento, el 27 de junio de 1975 [s:biography-com]. En 2002, cuando se estrenó *Spider-Man*, cumplió 27 años en junio [s:rt-tobey-maguire]. Hoy tiene {age} años.
 
 ## Una infancia de mudanzas
 

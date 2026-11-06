@@ -1,7 +1,7 @@
 ---
 title: Lucien Laviscount
 slug: lucien-laviscount
-metaTitle: 'Lucien Laviscount a {age} ans : âge, parents, carrière'
+metaTitle: 'Lucien Laviscount : Shakira, parents et âge 2026'
 metaDescription: >-
   Lucien Laviscount a {age} ans (né le 9 juin 1992 à Burnley). Il joue Alfie
   dans Emily in Paris et a été encouragé par David Beckham à 11 ans.
@@ -61,6 +61,7 @@ faq:
       pas de chiffre.
 autoReviews: 1
 publishedAt: '2026-11-04'
+updatedAt: '2026-11-06'
 publishedTime: '2026-11-04T21:31:16.404Z'
 ---
 Lucien Laviscount a 34 ans. L'acteur britannique est né le 9 juin 1992 à Burnley, dans le Lancashire, en Angleterre [s:tmdb]. En France, on le connaît surtout sous les traits d'Alfie, le banquier anglais de *Emily in Paris*, série qui se déroule dans la capitale.

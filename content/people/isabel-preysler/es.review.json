@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-06",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "All body, FAQ and facts claims checked against the six sources",
+      "sourceIds": [
+        "hola-biografia",
+        "buscabiografias",
+        "planeta-mi-verdadera-historia",
+        "independiente-libro-2025",
+        "debate-familia-2025",
+        "eluniverso-documental-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "All confirmed after wording fixes (first autobiography, fashion brands, grandchildren tag)."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline with discrepancies noted and cautious net-worth treatment.",
+  "decision": "approve",
+  "summary": "Claims confirmed against sources."
+}

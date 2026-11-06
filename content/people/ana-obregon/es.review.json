@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-06",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born Madrid 18 March 1955; Hola gives 16 March",
+      "sourceIds": [
+        "formulatv-persona",
+        "lecturalia",
+        "ecartelera",
+        "diezminutos-bio",
+        "hola-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "All match."
+    },
+    {
+      "claim": "Roles, TV schedule, awards, Yago and Mainat, son Aless death 13 May 2020, daughter born Miami 2023, patrimonio Lecturas 30M, Joana Producciones, Ana y los siete export, Mask Singer 2024",
+      "sourceIds": [
+        "formulatv-persona",
+        "formulatv-presentadora",
+        "ecartelera",
+        "monaco-bio",
+        "yago-sensacine",
+        "mainat-diezminutos",
+        "lecturalia",
+        "vozpopuli-hija",
+        "vozpopuli-patrimonio",
+        "asest",
+        "espinof-apostamos"
+      ],
+      "verdict": "confirmed",
+      "note": "Verified after fixes: unsupported 'most watched' claim removed, 'four decades' removed, unverified-figures cite moved to Vozpopuli, Hola removed from death-date cite."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Timeline, source disagreements and awards list.",
+  "decision": "approve",
+  "summary": "All claims confirmed against sources after small fixes."
+}

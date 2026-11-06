@@ -1,10 +1,10 @@
 ---
 title: Jan-Lennard Struff
 slug: jan-lennard-struff
-metaTitle: 'Jan-Lennard Struff: idade 36 anos e ranking ATP'
+metaTitle: 'Struff: idade, altura (193 cm) e ranking ATP 2026'
 metaDescription: >-
-  Jan-Lennard Struff tem 36 anos e nasceu em 25 de abril de 1990, em Warstein,
-  Alemanha. Venceu Yannick Hanfmann por 6-4 e 6-3 em Basileia, em 28 de outubro.
+  Struff, tenista alemão de Warstein, tem {age} anos (25/04/1990) e 193 cm. É o
+  nº 47 do ATP, finalista em Bruxelas e quartas em Wimbledon 2026.
 knownFor: 'Tenista alemão, campeão de Munique em 2024 e finalista de Bruxelas em 2026'
 summary: >-
   Jan-Lennard Struff é um tenista alemão de 36 anos, nascido em 25 de abril de
@@ -25,6 +25,12 @@ targetQueries:
   - jan-lennard struff altura
   - jan lennard struff atp
   - jan lennard struff wimbledon
+  - struff tenista
+  - tenista struff
+  - struff idade
+  - struff altura
+  - altura struff
+  - struff atp
 faq:
   - q: Quantos anos tem Jan-Lennard Struff?
     a: >-
@@ -43,7 +49,17 @@ faq:
     a: >-
       Ele tem 193 cm, ou 6 pés e 4 polegadas [s:lavercup-struff]. Joga com a mão
       direita [s:tennisexplorer-struff].
+  - q: Quem é Struff, o tenista?
+    a: >-
+      Jan-Lennard Struff é um tenista alemão de Warstein, destro, com 193 cm
+      [s:lavercup-struff] [s:tennisexplorer-struff]. Foi campeão em Munique em
+      2024 [s:atp-munich-2024-title].
+  - q: Qual é a posição de Struff no ranking da ATP?
+    a: >-
+      A prévia da ATP de 28 de outubro de 2026 o lista como número 47 do mundo
+      [s:atp-basel-preview-2026].
 autoReviews: 1
+updatedAt: '2026-11-06'
 publishedAt: '2026-10-31'
 publishedTime: '2026-10-31T09:37:48.482Z'
 ---
@@ -73,4 +89,4 @@ As idades divergem. O relatório da ATP sobre a semifinal o chama de 34 anos [s:
 
 ## Altura e estilo
 
-Struff tem 193 cm e é destro [s:tennisexplorer-struff]. A ATP o apresenta como um alemão de saque potente [s:atp-basel-preview-2026].
+Struff, o tenista alemão de Warstein, tem 193 cm de altura (6 pés e 4 polegadas) segundo a Laver Cup [s:lavercup-struff], e é destro [s:tennisexplorer-struff]. Sobre a idade, nasceu em 25 de abril de 1990 [s:wikidata-struff]. No ranking da ATP, aparece como número 47 do mundo na prévia de 28 de outubro de 2026 [s:atp-basel-preview-2026]. A ATP o apresenta como um alemão de saque potente [s:atp-basel-preview-2026].

@@ -1,7 +1,7 @@
 ---
 title: Kim Fields
 slug: kim-fields
-metaTitle: 'Kim Fields is {age}: Tootie, Living Single, The Upshaws'
+metaTitle: 'Kim Fields: Husband, Kids & Age 2026'
 metaDescription: >-
   Kim Fields is {age} years old (born 12 May 1969). She played Tootie on The
   Facts of Life and Regine on Living Single, and now directs.
@@ -71,6 +71,7 @@ faq:
       January 2026, with Fields as Regina Upshaw. [s:tvline-upshaws-2025]
 autoReviews: 3
 publishedAt: '2026-11-04'
+updatedAt: '2026-11-06'
 publishedTime: '2026-11-04T21:31:16.400Z'
 ---
 Kim Fields was nine when she was cast as Tootie on The Facts of Life, and by 2026 she had spent close to five decades on screen and behind the camera. She was born in New York City on 12 May 1969, which makes her 57 as of 4 November 2026 [s:tmdb] [s:mn2s-agency]. Most people know her face from one of two sitcoms, but the longer story is about a child actor who moved into directing and kept working.

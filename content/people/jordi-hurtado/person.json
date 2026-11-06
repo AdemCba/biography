@@ -1,0 +1,99 @@
+{
+  "id": "jordi-hurtado",
+  "name": "Jordi Hurtado",
+  "categories": [
+    "artists",
+    "tv-presenters"
+  ],
+  "importance": 3,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1957-06-16",
+      "sources": [
+        "formulatv-ficha"
+      ]
+    },
+    "birthPlace": {
+      "value": "Sant Feliu de Llobregat, Barcelona",
+      "sources": [
+        "formulatv-ficha",
+        "espinof-2026-69-anos"
+      ]
+    },
+    "nationality": {
+      "value": [
+        "ES"
+      ],
+      "sources": [
+        "formulatv-ficha"
+      ]
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "boe-premio-nacional-tv-2025",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-16697",
+      "title": "Orden CLT/906/2025, de 31 de julio, por la que se concede el Premio Nacional de Televisión 2025",
+      "publisher": "Boletín Oficial del Estado",
+      "type": "official",
+      "accessed": "2026-11-06",
+      "lang": "es"
+    },
+    {
+      "id": "formulatv-ficha",
+      "url": "https://www.formulatv.com/personas/jordi-hurtado/",
+      "title": "Jordi Hurtado",
+      "publisher": "FormulaTV",
+      "type": "database",
+      "accessed": "2026-11-06",
+      "lang": "es"
+    },
+    {
+      "id": "theobjective-2024-saber-ganar",
+      "url": "https://theobjective.com/gente/2024-11-23/jordi-hurtado-presentador-saber-ganar/",
+      "title": "Jordi Hurtado, presentador de Saber y ganar",
+      "publisher": "The Objective",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "es"
+    },
+    {
+      "id": "theobjective-2025-familia",
+      "url": "https://theobjective.com/gente/2025-03-08/mireya-jordi-laia-hijos-jordi-hurtado/",
+      "title": "Mireya, Jordi y Laia, los hijos de Jordi Hurtado",
+      "publisher": "The Objective",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "es"
+    },
+    {
+      "id": "theobjective-2025-fines-semana",
+      "url": "https://theobjective.com/medios/television/2025-06-05/jordi-hurtado-saber-ganar-fines-semana/",
+      "title": "Jordi Hurtado deja los fines de semana de Saber y ganar",
+      "publisher": "The Objective",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "es"
+    },
+    {
+      "id": "eldiario-2026-hago-lo-que-me-gusta",
+      "url": "https://www.eldiario.es/vertele/1_cd5a6c",
+      "title": "Jordi Hurtado descarta su retirada a corto plazo: Hago lo que me gusta",
+      "publisher": "elDiario.es",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "es"
+    },
+    {
+      "id": "espinof-2026-69-anos",
+      "url": "https://www.espinof.com/presentadores/jordi-hurtado-cumplir-69-anos-casi-30-presentando-saber-ganar-no-me-planteo-dejar-trabajar-todo",
+      "title": "Jordi Hurtado, a sus 69 años y tras casi 30 presentando Saber y Ganar",
+      "publisher": "Espinof",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "es"
+    }
+  ]
+}

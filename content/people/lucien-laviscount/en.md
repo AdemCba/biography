@@ -1,7 +1,7 @@
 ---
 title: Lucien Laviscount
 slug: lucien-laviscount
-metaTitle: 'Lucien Laviscount is {age}: Alfie in Emily in Paris'
+metaTitle: 'Lucien Laviscount: Shakira, Parents & Age 2026'
 metaDescription: >-
   Lucien Laviscount is {age} years old (born 9 June 1992 in Burnley). The Emily
   in Paris star was spotted by David Beckham at 11 and now lives in Antigua.
@@ -66,6 +66,7 @@ faq:
       a figure.
 autoReviews: 1
 publishedAt: '2026-11-04'
+updatedAt: '2026-11-06'
 publishedTime: '2026-11-04T21:31:16.402Z'
 ---
 Lucien Laviscount was about eleven when a modelling job for Marks & Spencer put him next to David Beckham, and by his own account that meeting changed the direction of his life [s:gq-middle-east-2025] [s:gentlemans-journal-2024]. Today he is 34, born on 9 June 1992 [s:tmdb], and best known as Alfie in Netflix's *Emily in Paris*.

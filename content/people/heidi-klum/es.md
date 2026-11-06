@@ -1,11 +1,11 @@
 ---
 title: Heidi Klum
 slug: heidi-klum
-metaTitle: 'Heidi Klum edad: {age} años y su disfraz de 2026'
+metaTitle: 'Heidi Klum: edad, hijos y disfraz de Halloween 2026'
 metaDescription: >-
-  Heidi Klum tiene {age} años y nació el 1 de junio de 1973 en Bergisch
-  Gladbach. Su disfraz de Halloween 2026, una mano gigante, se presentó el 31 de
-  octubre.
+  Heidi Klum tiene {age} años: nació el 1 de junio de 1973 en Bergisch
+  Gladbach, Alemania. Su familia, su carrera y el disfraz de mano gigante de
+  Halloween 2026.
 knownFor: >-
   Supermodelo germano-estadounidense y presentadora de Project Runway y
   Germany's Next Topmodel
@@ -31,7 +31,14 @@ targetQueries:
   - Heidi Klum disfraz 2026
   - Heidi Klum disfraces halloween
   - Heidi Klum mano
+  - cuántos años tiene Heidi Klum
+  - Heidi Klum edad
+  - edad de Heidi Klum
 faq:
+  - q: ¿Cuántos años tiene Heidi Klum?
+    a: >-
+      Nació el 1 de junio de 1973 en Bergisch Gladbach, así que tiene {age} años
+      [s:biography-klum] [s:wikidata-klum].
   - q: ¿Qué disfraz llevó Heidi Klum en Halloween 2026?
     a: >-
       Una mano gigante y cercenada, modelada sobre su propia mano izquierda, que
@@ -43,11 +50,16 @@ faq:
       metros, un hombre lobo del videoclip "Thriller" de Michael Jackson y Kali,
       la diosa hindú de muchos brazos. En 2022 llegó colgada de un sedal y
       envuelta en un disfraz de gusano [s:cbs-hand-costume].
+updatedAt: '2026-11-06'
 autoReviews: 2
 ---
 Heidi Klum apareció en su fiesta anual de Halloween en Nueva York el 31 de octubre de 2026 convertida en una mano gigante, ensangrentada y cercenada [s:cbs-hand-costume]. El disfraz reproducía su propia mano izquierda, y la dejó irreconocible, con solo los ojos y la boca visibles [s:cbs-hand-costume] [s:eonline-hand-costume]. Antes hubo una serie de adelantos [s:hollywoodlife-costume-hints]. En septiembre, en una entrevista con People, dijo que el look sería “muy, muy sangriento” y que combina muy bien con el vino tinto [s:hollywoodlife-costume-hints].
 
 Klum cumplió 53 años en junio de 2026 [s:biography-klum]. Aquella fue su 25.ª fiesta anual de Halloween, celebrada en Cathédrale, en Nueva York [s:cbs-hand-costume] [s:eonline-hand-costume]. La organizaron Apothic y Butterfinger [s:eonline-hand-costume].
+
+## ¿Cuántos años tiene Heidi Klum?
+
+Heidi Klum tiene {age} años: nació el 1 de junio de 1973 en Bergisch Gladbach, Alemania, y cumplió 53 en junio de 2026 [s:biography-klum] [s:wikidata-klum].
 
 ## Noviembre de 2026
 
@@ -106,6 +118,10 @@ La Academia de Televisión registra seis nominaciones al Emmy para Klum en la ca
 En octubre de 2014, Bendon, una empresa de ropa interior con sede en Auckland, Nueva Zelanda, anunció a Klum como cara y directora creativa de su colección insignia. La colección iba a llamarse Heidi Klum Intimates y lanzarse el 1 de enero de 2015 [s:bendon-heidi-klum-intimates].
 
 Su línea de bisutería llegó antes [s:tvguide-wildlife-qvc]. TV Guide informó en 2011 de que una línea de bisutería, Wildlife by Heidi Klum, debutaría en QVC el 8 de septiembre, con precios de entre 30 y 200 dólares [s:tvguide-wildlife-qvc].
+
+## Relaciones y familia
+
+Los hijos de Klum, Leni y Henry, aparecen junto a ella en la serie documental On & Off the Catwalk, que sigue sus trabajos de modelos por el mundo [s:joyn-on-off-catwalk]. Aquí no recogemos más datos sobre su vida sentimental que los que ella o medios fiables hayan hecho públicos.
 
 ## On & Off the Catwalk, el documental de 2026
 

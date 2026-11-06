@@ -1,0 +1,97 @@
+{
+  "worthWriting": true,
+  "reason": "Well-known Spanish socialite and brand face with high search interest in Spain; several reliable sources.",
+  "wikidata": "",
+  "importance": 4,
+  "risk": "high",
+  "sources": [
+    {
+      "id": "hola-biografia",
+      "url": "https://www.hola.com/biografias/isabel-preysler/",
+      "title": "Isabel Preysler",
+      "publisher": "¡Hola!",
+      "type": "press",
+      "lang": "es"
+    },
+    {
+      "id": "planeta-mi-verdadera-historia",
+      "url": "https://www.planetadelibros.com/libro-mi-verdadera-historia/425660",
+      "title": "Mi verdadera historia",
+      "publisher": "Planeta de Libros (Espasa)",
+      "type": "book",
+      "lang": "es"
+    },
+    {
+      "id": "independiente-libro-2025",
+      "url": "https://www.elindependiente.com/gente/2025/10/20/isabel-preysler-presenta-biografia-amor-fama-secretos-revelados/",
+      "title": "Isabel Preysler presenta su biografía",
+      "publisher": "El Independiente",
+      "type": "press",
+      "lang": "es"
+    },
+    {
+      "id": "debate-familia-2025",
+      "url": "https://www.eldebate.com/gente/20251109/quien-quien-familia-filipina-isabel-preysler_353400.html",
+      "title": "Quién es quién en la familia filipina de Isabel Preysler",
+      "publisher": "El Debate",
+      "type": "press",
+      "lang": "es"
+    },
+    {
+      "id": "buscabiografias",
+      "url": "https://www.buscabiografias.com/biografia/verDetalle/6585/Isabel%20Preysler",
+      "title": "Biografía de Isabel Preysler",
+      "publisher": "Buscabiografías",
+      "type": "database",
+      "lang": "es"
+    },
+    {
+      "id": "eluniverso-documental-2023",
+      "url": "https://www.eluniverso.com/entretenimiento/gente/cuando-se-estrena-el-documental-de-isabel-preysler-nota/",
+      "title": "Cuándo se estrena el documental de Isabel Preysler",
+      "publisher": "El Universo",
+      "type": "press",
+      "lang": "es"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1951-02-18",
+      "sources": [
+        "hola-biografia",
+        "buscabiografias"
+      ],
+      "note": "The publisher's author bio (planeta-mi-verdadera-historia) gives 1950-02-18."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Manila, Philippines",
+      "sources": [
+        "hola-biografia",
+        "buscabiografias",
+        "planeta-mi-verdadera-historia"
+      ],
+      "note": ""
+    },
+    "nationality": {
+      "value": "ES, PH",
+      "sources": [
+        "buscabiografias"
+      ],
+      "note": "Described as hispano-filipina."
+    }
+  },
+  "targetQueries": [
+    "isabel preysler hijos",
+    "isabel preysler edad",
+    "isabel preysler fortuna",
+    "isabel preysler y mario vargas llosa",
+    "isabel preysler esposos",
+    "isabel preysler joven",
+    "isabel preysler y julio iglesias",
+    "isabel preysler y miguel boyer",
+    "isabel preysler actualmente",
+    "isabel preysler biografia"
+  ],
+  "gapNote": "Top results are gossip-driven and mix birth years 1950/1951; a sourced timeline with marriages and a note on the date discrepancy adds value."
+}

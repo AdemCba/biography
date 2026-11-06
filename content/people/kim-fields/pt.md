@@ -1,7 +1,7 @@
 ---
 title: Kim Fields
 slug: kim-fields
-metaTitle: 'Kim Fields tem {age} anos: Tootie e Living Single'
+metaTitle: 'Kim Fields: marido, filhos e idade 2026'
 metaDescription: >-
   Kim Fields tem {age} anos (nasceu em 12 de maio de 1969). Foi Tootie em The
   Facts of Life e Regine em Living Single, e hoje dirige TV.
@@ -67,6 +67,7 @@ faq:
       [s:mn2s-agency] [s:thefamouspeople]
 autoReviews: 2
 publishedAt: '2026-11-04'
+updatedAt: '2026-11-06'
 publishedTime: '2026-11-04T21:31:16.402Z'
 ---
 A primeira coisa que o público brasileiro costuma querer saber sobre Kim Fields é a idade: ela nasceu em Nova York em 12 de maio de 1969 e tem 57 anos em 4 de novembro de 2026 [s:tmdb] [s:mn2s-agency]. Aos nove anos, ela ganhou o papel de Tootie em The Facts of Life. Quase cinco décadas depois, continua trabalhando, hoje mais como diretora do que como atriz de sitcom.

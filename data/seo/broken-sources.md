@@ -7,4 +7,3 @@ publisher, accessed), or remove the claim and its citation if nothing else backs
 
 | Person | Source id | Status | URL |
 | --- | --- | --- | --- |
-| troy-aikman | cfbhall-aikman | 404 | https://cfbhall.com/inductees/troy-aikman-2008 |

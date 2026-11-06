@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-06",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Birth 9 Sept 1965 Ferrol, height, studies, career table, programmes",
+      "sourceIds": [
+        "formulatv-ficha",
+        "buscabiografias"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed on both pages."
+    },
+    {
+      "claim": "OT 2005 details (30 June, Lozano, 37.5%, Sergio Rivero, ~7M, 2009 first below 20%)",
+      "sourceIds": [
+        "formulatv-ot-2005"
+      ],
+      "verdict": "confirmed",
+      "note": "Wording now says the 2009 edition was the first below 20%."
+    },
+    {
+      "claim": "Marriage 3 Nov 2005, Roberto Cortés, 29 June Pride meeting, respect, crises",
+      "sourceIds": [
+        "hola-matrimonio-2024"
+      ],
+      "verdict": "confirmed",
+      "note": "Diez Minutes attribution of the meeting story removed."
+    },
+    {
+      "claim": "Mediaset exit, awards, quotes, therapy, 16 May special",
+      "sourceIds": [
+        "hola-salida-mediaset-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "La 1 channel for the special removed as not explicit."
+    },
+    {
+      "claim": "Hacienda 2.8M, Bopreci, Audiencia Nacional 2019, quotes, no children",
+      "sourceIds": [
+        "elespanol-hacienda-2026"
+      ],
+      "verdict": "confirmed",
+      "note": "All present."
+    },
+    {
+      "claim": "Benidorm Fest 2026 four presenters, contract ended Jan 2026, Bailando with Valeria Mazza",
+      "sourceIds": [
+        "elindependiente-rtve-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Unsupported September date and Cuatro merger claim were reworded."
+    },
+    {
+      "claim": "Widower quotes",
+      "sourceIds": [
+        "okdiario-viudo-2023"
+      ],
+      "verdict": "confirmed",
+      "note": "Exact."
+    },
+    {
+      "claim": "April 2018 Tigray trip",
+      "sourceIds": [
+        "mediaset-acnur-2018"
+      ],
+      "verdict": "source_unreachable",
+      "note": "PDF unreadable; sentence and source deleted."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline, programme table, primary-quote context on tax case and exit.",
+  "decision": "approve",
+  "summary": "All remaining claims confirmed after removing the unverifiable ACNUR 2018 trip and fixing small overstatements."
+}

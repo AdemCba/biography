@@ -18,14 +18,14 @@ For each page, edit only that language's file:
 
 ## Pages
 
-- [ ] fr/lauren-graham (180 impressions, 0 clicks, position 10.4): lauren graham, lauren graham enfants, lauren graham couple, lauren graham maintenant, lauren graham aujourd'hui, lauren graham couple 2026, lauren graham mari, lauren graham taille
-- [ ] fr/matt-rife (108 impressions, 1 clicks, position 12.9): matt rife, humoriste matt rife, matt rifd, matt rife alter, matt rive
-- [ ] en/gabby-williams (106 impressions, 0 clicks, position 11.3): how old is gabby williams, gabby williams height, gabby williams height in feet, how old is gabby williams?, gabby williams age, gabby williams nationality, gabby williams born in france, gabby williams french
-- [ ] es/heidi-klum (103 impressions, 0 clicks, position 12.1): cuántos años tiene heidi klum, heidi klum edad, edad heidi klum, heidi klum, edad de heidi klum, ¿cuántos años tiene heidi klum?, cuantos años tiene heidi klum, heidi klum cuantos años tiene
-- [ ] es/alex-de-minaur (96 impressions, 0 clicks, position 17.0): álex de miñaur, alex de minaur, miñaur, alex de miñaur ranking, cuando juega de minaur, de minaur, de miñaur, a de minaur
-- [ ] es/tobey-maguire (95 impressions, 0 clicks, position 10.6): tobey maguire edad, cuantos años tiene tobey maguire, edad de tobey maguire, cuántos años tiene tobey maguire, edad tobey maguire, tobey maguire, tobey maguire edad 2002, cuanto años tiene tobey maguire
-- [ ] fr/paulo-fonseca (93 impressions, 0 clicks, position 12.6): paulo fonseca, paulo fonseca origine, paulo fonseca nationalité, paulo fonseca âge, paulo fonseca âgé, age paulo fonseca, paulo fonseca famille, paula fonseca
-- [ ] pt/jan-lennard-struff (90 impressions, 0 clicks, position 9.2): struff tenista, jan-lennard struff, tenista struff, struff idade, jan lennard struff altura, struff altura, altura struff, struff atp
+- [x] fr/lauren-graham 2026-11-06 (180 impressions, 0 clicks, position 10.4): lauren graham, lauren graham enfants, lauren graham couple, lauren graham maintenant, lauren graham aujourd'hui, lauren graham couple 2026, lauren graham mari, lauren graham taille
+- [x] fr/matt-rife 2026-11-06 (108 impressions, 1 clicks, position 12.9): matt rife, humoriste matt rife, matt rifd, matt rife alter, matt rive
+- [x] en/gabby-williams 2026-11-06 (106 impressions, 0 clicks, position 11.3): how old is gabby williams, gabby williams height, gabby williams height in feet, how old is gabby williams?, gabby williams age, gabby williams nationality, gabby williams born in france, gabby williams french
+- [x] es/heidi-klum 2026-11-06 (103 impressions, 0 clicks, position 12.1): cuántos años tiene heidi klum, heidi klum edad, edad heidi klum, heidi klum, edad de heidi klum, ¿cuántos años tiene heidi klum?, cuantos años tiene heidi klum, heidi klum cuantos años tiene
+- [x] es/alex-de-minaur 2026-11-06 (96 impressions, 0 clicks, position 17.0): álex de miñaur, alex de minaur, miñaur, alex de miñaur ranking, cuando juega de minaur, de minaur, de miñaur, a de minaur
+- [x] es/tobey-maguire 2026-11-06 (95 impressions, 0 clicks, position 10.6): tobey maguire edad, cuantos años tiene tobey maguire, edad de tobey maguire, cuántos años tiene tobey maguire, edad tobey maguire, tobey maguire, tobey maguire edad 2002, cuanto años tiene tobey maguire
+- [x] fr/paulo-fonseca 2026-11-06 (93 impressions, 0 clicks, position 12.6): paulo fonseca, paulo fonseca origine, paulo fonseca nationalité, paulo fonseca âge, paulo fonseca âgé, age paulo fonseca, paulo fonseca famille, paula fonseca
+- [x] pt/jan-lennard-struff 2026-11-06 (90 impressions, 0 clicks, position 9.2): struff tenista, jan-lennard struff, tenista struff, struff idade, jan lennard struff altura, struff altura, altura struff, struff atp
 - [ ] es/elena-rybakina (88 impressions, 0 clicks, position 16.8): elena rybakina edad, rybakina edad, rybakina, elena rybakina, qué edad tiene la tenista rybakina, de donde es rybakina, cuantos años tiene rybakina, de dónde es la tenista rybakina
 - [ ] fr/jan-lennard-struff (83 impressions, 0 clicks, position 9.5): struff taille, taille struff, struff age, age struff tennis, jan-lennard struff taille, jan lennard struff taille, struff tennis age, struff tennis taille
 - [ ] de/sebastian-fitzek (82 impressions, 0 clicks, position 8.1): sebastian fitzek alter, fitzek alter, wie alt ist sebastian fitzek, wie alt ist fitzek, alter sebastian fitzek

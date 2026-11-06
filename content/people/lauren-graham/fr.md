@@ -1,11 +1,11 @@
 ---
 title: Lauren Graham
 slug: lauren-graham
-metaTitle: 'Lauren Graham : âge ({age}), couple et dernier rôle'
+metaTitle: 'Lauren Graham : couple, enfants et mari en 2026'
 metaDescription: >-
-  Lauren Graham a {age} ans, née à Honolulu en 1967. Elle joue Grace dans
-  Reminders of Him et écrit un livre sur Gilmore Girls prévu pour l'automne
-  2027.
+  Lauren Graham n'a pas d'enfants ni de mari connus : elle a été en couple avec
+  Peter Krause. À {age} ans, elle joue dans Reminders of Him et écrit un livre
+  Gilmore Girls.
 knownFor: 'Actrice et romancière américaine, connue pour Gilmore Girls et Parenthood'
 summary: >-
   Lauren Graham est une actrice et romancière américaine de {age} ans, née le 16
@@ -28,6 +28,10 @@ targetQueries:
   - lauren graham taille
   - lauren graham jeune
   - lauren graham 2026
+  - lauren graham mari
+  - lauren graham maintenant
+  - lauren graham aujourd'hui
+  - lauren graham couple 2026
 faq:
   - q: Quel âge a Lauren Graham ?
     a: 'Elle est née le 16 mars 1967 et a donc {age} ans. [s:tv-academy]'
@@ -55,11 +59,17 @@ faq:
       Elle avait 33 ans quand Gilmore Girls a débuté en 2000, après des rôles
       d'invitée dans des séries comme Seinfeld et Caroline in the City.
       [s:tv-academy]
-  - q: Que fait Lauren Graham en ce moment ?
+  - q: Lauren Graham est-elle mariée ? Qui est son mari ?
+    a: >-
+      Nous n'avons trouvé aucune source fiable sur un mariage ni sur un mari.
+      Le seul partenaire dont elle a parlé publiquement est Peter Krause, mais
+      elle ne parle pas d'un mariage. [s:gma-krause]
+  - q: Lauren Graham aujourd'hui, que fait-elle maintenant ?
     a: >-
       Elle joue Grace Landry dans Reminders of Him (sorti aux États-Unis le 13
       mars 2026) et écrit avec Amy Sherman-Palladino un livre sur Gilmore Girls
       prévu pour l'automne 2027. [s:peacock-reminders] [s:tvline-book]
+updatedAt: '2026-11-06'
 autoReviews: 1
 publishedAt: '2026-11-03'
 publishedTime: '2026-11-03T21:20:56.146Z'
@@ -124,11 +134,13 @@ En 2016, elle a présenté avec Anthony Anderson et Bruce Rosenblum l'annonce de
 
 ## Couple et enfants
 
-Lauren Graham protège sa vie privée. Le peu qu'elle a dit concerne Peter Krause, son partenaire dans *Parenthood*. Dans un entretien de novembre 2022 rapporté par Good Morning America, elle explique que les deux se sont mis en couple pendant la série et que la relation est restée en grande partie discrète jusqu'en 2021 [s:gma-krause]. Avec le recul, elle dit qu'ils sont presque entrés dans une relation "à quarante ans passés sans poser les questions qu'on devrait poser à cet âge" [s:gma-krause].
+Lauren Graham n'a pas d'enfants connus et aucun mari ni couple actuel n'est confirmé par une source fiable : le seul partenaire dont elle a parlé est Peter Krause [s:gma-krause]. Elle protège sa vie privée. Le peu qu'elle a dit concerne Peter Krause, son partenaire dans *Parenthood*. Dans un entretien de novembre 2022 rapporté par Good Morning America, elle explique que les deux se sont mis en couple pendant la série et que la relation est restée en grande partie discrète jusqu'en 2021 [s:gma-krause]. Avec le recul, elle dit qu'ils sont presque entrés dans une relation "à quarante ans passés sans poser les questions qu'on devrait poser à cet âge" [s:gma-krause].
 
 La fin de cette relation "a encore ses moments", dit-elle, mais elle va mieux aujourd'hui [s:gma-krause]. Elle a aidé à élever Roman, le fils de Krause, aujourd'hui adulte, et affirme : "nous restons liés" [s:gma-krause]. Les sources vérifiées ne mentionnent pas d'enfants à elle, et nous ne supposons rien. Nous n'avons pas non plus trouvé de source fiable sur un mariage.
 
 ## Ce qu'elle fait maintenant
+
+Aujourd'hui, en 2026, Lauren Graham joue dans *Reminders of Him* et prépare un livre sur *Gilmore Girls* [s:peacock-reminders] [s:tvline-book].
 
 *Reminders of Him* adapte un roman de Colleen Hoover. Lauren Graham y joue Grace Landry, aux côtés de Maika Monroe, Tyriq Withers, Rudy Pankow, Lainey Wilson et Bradley Whitford [s:peacock-reminders] [s:extra-book]. Le film est sorti aux États-Unis le 13 mars 2026 et se regarde sur Peacock [s:peacock-reminders].
 

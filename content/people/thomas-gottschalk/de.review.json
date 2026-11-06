@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-06",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Birth 18 May 1950 Bamberg; Kulmbach; studies; BR 1971/1973/1976; awards; Wetten dass tenure 1987-1992, 1994-2011, last edition 25 Nov 2023 Offenburg; works table; books; 70th birthday",
+      "sourceIds": [
+        "zdf-presseportal",
+        "web-de-portrait",
+        "unternehmertag-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "All match ZDF page; unconfirmable place details (Hof, Innsbruck, Linz, Elstner, Lippert, Radio Luxemburg) were removed."
+    },
+    {
+      "claim": "Pop nach acht, Szene, Pop-Stop, Supernasen, Late Night 1990, Hausparty 1995, Gottschalk Live 2012",
+      "sourceIds": [
+        "horizont-zeitleiste",
+        "zdf-presseportal"
+      ],
+      "verdict": "confirmed",
+      "note": "Disagreement ZDF 1976 vs Horizont 1977-79 is disclosed in the text."
+    },
+    {
+      "claim": "Ministrant, Na sowas 1986 Goldene Kamera, Supertalent 2012, Thea 43 years, cancer 30 Nov 2025, epitheloides Angiosarkom, Diamant-Romy, Ungefiltert 2024",
+      "sourceIds": [
+        "web-de-portrait"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "90 Mio estimate (2022), 40 Mio real estate, 5 Mio income, 13.8 Mio viewers Nov 2021",
+      "sourceIds": [
+        "infranken-vermoegen"
+      ],
+      "verdict": "confirmed",
+      "note": "Presented as estimate with source."
+    },
+    {
+      "claim": "Krebsfrei July 2026; no plans, Greifswald study; pension",
+      "sourceIds": [
+        "infranken-krebsfrei",
+        "tvmovie-abschied-2026",
+        "tvmovie-rente"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Bambi 13 Nov 2025, Cher, boos, apology",
+      "sourceIds": [
+        "zdfheute-bambi"
+      ],
+      "verdict": "confirmed",
+      "note": "Wording adjusted from Laudatio to Ankuendigung."
+    },
+    {
+      "claim": "Sons, engagement, separation, Bild lawyer",
+      "sourceIds": [
+        "leinetal24-soehne"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Wedding Ibiza Aug 2024, Bild 23 Aug, Bunte 27 Aug, divorce May 2024",
+      "sourceIds": [
+        "infranken-hochzeit"
+      ],
+      "verdict": "confirmed",
+      "note": "Dates attributed to outlets."
+    },
+    {
+      "claim": "Grimme special honor 2011; Koch accident, Schluss mit lustig",
+      "sourceIds": [
+        "evangelisch-grimme",
+        "evangelisch-abschied"
+      ],
+      "verdict": "confirmed",
+      "note": "Unsourced December 2010 date removed."
+    },
+    {
+      "claim": "May 2025 end announcement; 35 episodes; last appearance 6 Dec 2025; Fernsehpreis 2018; podcast April 2023",
+      "sourceIds": [
+        "bluewin-abschied-2025",
+        "fernsehserien-dswnwp",
+        "abendzeitung-fernsehpreis",
+        "unternehmertag-bio"
+      ],
+      "verdict": "confirmed",
+      "note": "6 Dec date supported by fernsehserien news dated 06.12.2025."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline, discloses source disagreements, estimate caveats.",
+  "decision": "approve",
+  "summary": "After removing unsupported details (Hof/Innsbruck/Linz, Radio Luxemburg, Dec 2010 date, Laudatio wording), all claims are confirmed."
+}

@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-06",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Birth 16 June 1957 Sant Feliu de Llobregat, 1.68 m",
+      "sourceIds": [
+        "formulatv-ficha"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Saber y ganar since 17 Feb 1997, 7000 programs, career, dubbing, Misola 1993, Hermida, appearances",
+      "sourceIds": [
+        "formulatv-ficha"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Full name, prior awards, unanimous, 31 July order, BOE 11 Aug 2025",
+      "sourceIds": [
+        "boe-premio-nacional-tv-2025"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Family, Laia, Formentera, son Jordi",
+      "sourceIds": [
+        "theobjective-2025-familia"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Weekend departure, stats, cast",
+      "sourceIds": [
+        "theobjective-2025-fines-semana"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "69 years, season end, 2027, quote",
+      "sourceIds": [
+        "eldiario-2026-hago-lo-que-me-gusta"
+      ],
+      "verdict": "confirmed",
+      "note": "Unsupported Monday-Friday and autónomo details were removed."
+    },
+    {
+      "claim": "Quote about weekends, Milá, Gabilondo",
+      "sourceIds": [
+        "espinof-2026-69-anos"
+      ],
+      "verdict": "confirmed",
+      "note": ""
+    },
+    {
+      "claim": "Molins de Rei, Évole, 600,000, 2016 absence, memes, quote",
+      "sourceIds": [
+        "theobjective-2024-saber-ganar"
+      ],
+      "verdict": "confirmed",
+      "note": "Unsupported details were removed."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline, primary BOE source, flagged source discrepancies.",
+  "decision": "approve",
+  "summary": "All claims verified after removing unsupported details."
+}

@@ -1,7 +1,7 @@
 ---
 title: Lucien Laviscount
 slug: lucien-laviscount
-metaTitle: 'Lucien Laviscount tiene {age} años: edad y carrera'
+metaTitle: 'Lucien Laviscount: Shakira, padres y edad 2026'
 metaDescription: >-
   Lucien Laviscount tiene {age} años (nació el 9 de junio de 1992 en Burnley).
   Es Alfie en Emily in Paris y lo descubrió David Beckham a los 11 años.
@@ -64,6 +64,7 @@ faq:
       publicamos una cifra.
 autoReviews: 1
 publishedAt: '2026-11-04'
+updatedAt: '2026-11-06'
 publishedTime: '2026-11-04T21:31:16.403Z'
 ---
 Lucien Laviscount tiene 34 años: nació el 9 de junio de 1992 en Burnley, una ciudad del condado de Lancashire, en el norte de Inglaterra [s:tmdb]. Para el público hispano es hoy el actor que hace de Alfie en *Emily in Paris*, y también el nombre que aparece junto al de Shakira en las búsquedas, algo que conviene aclarar con cuidado más abajo.

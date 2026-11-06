@@ -1,10 +1,10 @@
 ---
 title: Gabby Williams
 slug: gabby-williams
-metaTitle: 'Gabby Williams age: {age}, Valkyries and France'
+metaTitle: 'Gabby Williams: height, nationality and Valkyries 2026'
 metaDescription: >-
-  Gabby Williams is {age}, a forward for the Golden State Valkyries and France.
-  FIBA named her 2026 French Player of the Year over Victor Wembanyama.
+  Gabby Williams is {age}, 5 ft 11 in (180 cm) and holds French and US
+  citizenship, though she was born in Nevada. Valkyries forward, captain of France.
 knownFor: Forward for France and the Golden State Valkyries
 summary: >-
   Gabby Williams is a US-born French forward who plays for the Golden State
@@ -27,6 +27,11 @@ targetQueries:
   - Gabby Williams équipe de France
   - Gabby Williams WNBA stats
   - Gabby Williams college
+  - how old is Gabby Williams
+  - Gabby Williams height in feet
+  - Gabby Williams nationality
+  - Gabby Williams born in France
+  - Gabby Williams French
 faq:
   - q: How old is Gabby Williams?
     a: >-
@@ -40,15 +45,29 @@ faq:
     a: >-
       She is listed at 5 feet 11 inches, or 180 cm, on both the WNBA.com and
       FIBA player pages [s:wnba-player-bio][s:fiba-player-profile].
+  - q: Was Gabby Williams born in France?
+    a: >-
+      No. Nevada Sports Net describes her as born in Reno, Nevada, and she
+      plays for France as a naturalized player with family ties there
+      [s:nevada-sports-net-reed-high].
+  - q: What is Gabby Williams' height in feet?
+    a: >-
+      5 feet 11 inches (180 cm), as listed by WNBA.com and FIBA
+      [s:wnba-player-bio][s:fiba-player-profile].
   - q: Is Gabby Williams French?
     a: >-
       She holds French and US citizenship and plays for the French national team
       [s:fiba-player-profile][s:nevada-sports-net-reed-high].
+updatedAt: '2026-11-06'
 autoReviews: 1
 publishedAt: '2026-11-02'
 publishedTime: '2026-11-02T09:33:14.613Z'
 ---
 In September 2026, Gabby Williams helped France reach its first FIBA Women's Basketball World Cup final, which the United States won 97-79 [s:fiba-french-poy-2026][s:lanacion-wc-final-2026]. She is a forward who plays for the Golden State Valkyries in the WNBA and for the France national team, and she holds both French and US citizenship [s:fiba-player-profile][s:nevada-sports-net-reed-high].
+
+## How old is Gabby Williams, how tall is she, and is she French?
+
+Gabby Williams is 30 (born 9 September 1996), stands 5 feet 11 inches (180 cm), and holds both French and US citizenship, but she was born in Nevada, not France [s:wnba-player-bio][s:fiba-player-profile][s:nevada-sports-net-reed-high]. She plays for France because she was naturalized under FIBA rules and has family in France [s:nevada-sports-net-reed-high].
 
 ## From Reed High to the 2018 draft
 
