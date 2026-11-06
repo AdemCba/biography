@@ -50,7 +50,8 @@ async function query(token: string, site: string, body: object): Promise<Row[]> 
 /** "https://orbivida.com/de/alexia-putellas/" -> "de/alexia-putellas"; null for non-article pages. */
 export function articleKey(url: string): string | null {
   const m = new URL(url).pathname.match(/^\/(en|es|pt|de|fr)\/((?:trending\/)?[^/]+)\/$/);
-  if (!m || NOT_ARTICLES.has(m[2]) || m[2] === "trending") return null;
+  // Trending stories were removed from the site on 2026-11-06 (AdSense "low value content" review).
+  if (!m || NOT_ARTICLES.has(m[2]) || m[2].startsWith("trending")) return null;
   return `${m[1]}/${m[2]}`;
 }
 
