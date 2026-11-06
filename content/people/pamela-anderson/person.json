@@ -1,0 +1,167 @@
+{
+  "id": "pamela-anderson",
+  "name": "Pamela Anderson",
+  "categories": [
+    "artists"
+  ],
+  "importance": 5,
+  "wikidata": "Q43237",
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1967-07-01",
+      "sources": [
+        "golden-globes",
+        "canadian-encyclopedia",
+        "biography-com"
+      ]
+    },
+    "birthPlace": {
+      "value": "Ladysmith, British Columbia, Canada",
+      "sources": [
+        "golden-globes",
+        "canadian-encyclopedia",
+        "biography-com"
+      ]
+    },
+    "nationality": {
+      "value": [
+        "CA"
+      ],
+      "sources": [
+        "canadian-encyclopedia",
+        "golden-globes"
+      ],
+      "note": "Canadian-born; the Canadian Encyclopedia lists her."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "golden-globes",
+      "url": "https://goldenglobes.com/person/pamela-anderson/",
+      "title": "Pamela Anderson",
+      "publisher": "Golden Globe Awards",
+      "type": "award-body",
+      "accessed": "2026-11-06",
+      "lang": "en"
+    },
+    {
+      "id": "biography-com",
+      "url": "https://www.biography.com/actors/pamela-anderson",
+      "title": "Pamela Anderson",
+      "publisher": "Biography.com",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "en"
+    },
+    {
+      "id": "playbill-chicago",
+      "url": "https://playbill.com/article/baywatch-star-pamela-anderson-makes-broadway-debut-in-chicago-april-12",
+      "title": "Baywatch Star Pamela Anderson Makes Broadway Debut in Chicago April 12",
+      "publisher": "Playbill",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "en"
+    },
+    {
+      "id": "swissinfo-zff",
+      "url": "https://www.swissinfo.ch/eng/culture/zurich-film-festival-honors-pamela-anderson/87562676",
+      "title": "Zurich Film Festival honors Pamela Anderson",
+      "publisher": "SWI swissinfo.ch",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "en"
+    },
+    {
+      "id": "gma-oscars",
+      "url": "https://www.goodmorningamerica.com/culture/story/pamela-anderson-reacts-oscars-snub-last-showgirl-118063163",
+      "title": "Pamela Anderson reacts to Oscars snub for The Last Showgirl",
+      "publisher": "Good Morning America",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "en"
+    },
+    {
+      "id": "zoomer-globe",
+      "url": "https://zoomer.com/arts-entertainment/2024/12/09/pamela-anderson-57-scores-first-ever-golden-globe-nomination-for-her-turn-in-the-last-showgirl",
+      "title": "Pamela Anderson, 57, scores first-ever Golden Globe nomination for her turn in The Last Showgirl",
+      "publisher": "Zoomer",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "en"
+    },
+    {
+      "id": "fox-marriages",
+      "url": "https://www.foxnews.com/entertainment/pamela-anderson-marriages-look-back",
+      "title": "Pamela Anderson's marriages: A look back",
+      "publisher": "Fox News",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "en"
+    },
+    {
+      "id": "nbc-hayhurst",
+      "url": "https://www.nbcdfw.com/entertainment/entertainment-news/pamela-anderson-and-husband-dan-hayhurst-break-up-after-one-year-of-marriage/2863311/",
+      "title": "Pamela Anderson and Husband Dan Hayhurst Break Up After One Year of Marriage",
+      "publisher": "NBC Dallas-Fort Worth",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "en"
+    },
+    {
+      "id": "cbs-ladysmith",
+      "url": "https://www.cbsnews.com/news/pamela-anderson-on-surviving-abuse-paparazzi-and-the-infamous-sex-tape/",
+      "title": "Pamela Anderson on surviving abuse, paparazzi and the infamous sex tape",
+      "publisher": "CBS News",
+      "type": "interview",
+      "accessed": "2026-11-06",
+      "lang": "en"
+    },
+    {
+      "id": "canadian-encyclopedia",
+      "url": "https://www.thecanadianencyclopedia.ca/en/article/pamela-anderson",
+      "title": "Pamela Anderson",
+      "publisher": "The Canadian Encyclopedia",
+      "type": "other",
+      "accessed": "2026-11-06",
+      "lang": "en"
+    },
+    {
+      "id": "looper-career",
+      "url": "https://www.looper.com/1188992/pamela-andersons-journey-from-beer-poster-model-to-90s-tv-icon",
+      "title": "Pamela Anderson's Journey From Beer Poster Model To '90s TV Icon",
+      "publisher": "Looper",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "en"
+    },
+    {
+      "id": "today-hgtv",
+      "url": "https://www.today.com/today/amp/rcna123773",
+      "title": "Pamela Anderson wants to show her real self in HGTV show",
+      "publisher": "TODAY",
+      "type": "interview",
+      "accessed": "2026-11-06",
+      "lang": "en"
+    },
+    {
+      "id": "bhg-ladysmith",
+      "url": "https://www.971theriver.com/entertainment/pamela-anderson/ALMDH4XAVDIU7GUSBIHMJTYIOU/",
+      "title": "Pamela Anderson on returning to her roots in Better Homes & Gardens",
+      "publisher": "97.1 The River",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "en"
+    },
+    {
+      "id": "abc-naked-gun",
+      "url": "https://abcnews.com/culture/story/pamela-anderson-star-upcoming-naked-gun-reboot-opposite-109324290",
+      "title": "Pamela Anderson to star in upcoming Naked Gun reboot opposite Liam Neeson",
+      "publisher": "ABC News",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "en"
+    }
+  ]
+}

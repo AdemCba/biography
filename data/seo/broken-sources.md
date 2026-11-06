@@ -7,5 +7,4 @@ publisher, accessed), or remove the claim and its citation if nothing else backs
 
 | Person | Source id | Status | URL |
 | --- | --- | --- | --- |
-| sebastian-fitzek | news-at-jubilee | 404 | https://www.news.at/schlagzeilen/fitzek-feiert-autorenjubilaum-mit-shows-in-berlin |
 | troy-aikman | cfbhall-aikman | 404 | https://cfbhall.com/inductees/troy-aikman-2008 |

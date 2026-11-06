@@ -1,0 +1,129 @@
+{
+  "worthWriting": true,
+  "reason": "Very well known German presenter with strong search demand (Vermögen, Frau, Kinder, Alter); several reliable German outlets and the winery's own site.",
+  "wikidata": "Q69220",
+  "importance": 5,
+  "risk": "medium",
+  "sources": [
+    {
+      "id": "othegraven-site",
+      "url": "https://von-othegraven.de/en/",
+      "title": "Weingut von Othegraven, Kanzem",
+      "publisher": "Weingut von Othegraven KG",
+      "type": "company",
+      "lang": "en"
+    },
+    {
+      "id": "hogapage-steigenberger",
+      "url": "https://www.hogapage.de/nachrichten/beverage/wein-sekt/guenther-jauch-liefert-weine-fuer-steigenberger",
+      "title": "Günther Jauch liefert Weine für Steigenberger",
+      "publisher": "Hogapage",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "az-jauch-2025",
+      "url": "https://www.abendzeitung-muenchen.de/promis/guenther-jauch-was-ueber-vermoegen-ehefrau-und-kinder-bekannt-ist-art-551955,PRINT",
+      "title": "Günther Jauch: Was über Vermögen, Ehefrau und Kinder bekannt ist",
+      "publisher": "Abendzeitung München",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "az-jauch-60",
+      "url": "https://www.abendzeitung-muenchen.de/promis/moderator-feiert-60-geburtstag-was-sie-noch-nicht-ueber-guenther-jauch-wussten-art-351087",
+      "title": "Moderator feiert 60. Geburtstag: Was Sie noch nicht über Günther Jauch wussten",
+      "publisher": "Abendzeitung München",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "infranken-jauch-vermoegen",
+      "url": "https://www.infranken.de/unterhaltung/guenther-jauch-und-sein-vermoegen-so-reich-ist-der-wer-wird-millionaer-moderator-art-5389121",
+      "title": "Günther Jauch und sein Vermögen: So reich ist der Wer-wird-Millionär-Moderator",
+      "publisher": "inFranken.de",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "volksstimme-jauch-vermoegen",
+      "url": "https://www.volksstimme.de/kultur/tv-und-streaming/guenther-jauch-vermoegen-wer-wird-millionaer-rtl-weingut-familie-moderator-1282326",
+      "title": "Günther Jauch: Vermögen, Weingut, Familie",
+      "publisher": "Volksstimme",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "webde-jauch-karriere",
+      "url": "https://web.de/magazine/unterhaltung/stars/guenther-jauchs-karriere-reicht-fernsehleben-42496832",
+      "title": "Günther Jauchs Karriere reicht ein Fernsehleben",
+      "publisher": "web.de",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "kino-jauch-frueh",
+      "url": "https://www.kino.de/stars/mit-26-jahren-war-er-das-erste-mal-im-fernsehen-wie-guenther-jauch-damals-aussah--01M66404Y3QHYW0V6DKQGB8MMJ",
+      "title": "Mit 26 Jahren war er das erste Mal im Fernsehen: Wie Günther Jauch damals aussah",
+      "publisher": "kino.de",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "derstandard-jauch-70",
+      "url": "https://www.derstandard.at/story/3000000330429/quizmaster-guenther-jauch-wird-70-und-meidet-rummel-um-sich",
+      "title": "Quizmaster Günther Jauch wird 70 und meidet Rummel um sich",
+      "publisher": "Der Standard",
+      "type": "press",
+      "lang": "de"
+    },
+    {
+      "id": "news-de-jauch",
+      "url": "https://www.news.de/promis/855643618/wer-wird-millionaer-guenther-jauch-seine-wurzeln-seine-weine-sein-geld-sein-glueck/1/",
+      "title": "Günther Jauch feiert 60. Geburtstag: Seine Wurzeln, seine Weine, sein Geld, sein Glück",
+      "publisher": "news.de",
+      "type": "press",
+      "lang": "de"
+    }
+  ],
+  "facts": {
+    "birthDate": {
+      "value": "1956-07-13",
+      "sources": [
+        "infranken-jauch-vermoegen",
+        "derstandard-jauch-70"
+      ],
+      "note": "infranken gives 13 July 1956; Der Standard says he turns 70 on 13 July (2026)."
+    },
+    "deathDate": null,
+    "birthPlace": {
+      "value": "Münster, Deutschland",
+      "sources": [
+        "infranken-jauch-vermoegen",
+        "az-jauch-2025"
+      ],
+      "note": ""
+    },
+    "nationality": {
+      "value": "DE",
+      "sources": [
+        "az-jauch-2025"
+      ],
+      "note": "German presenter, lives in Potsdam."
+    }
+  },
+  "targetQueries": [
+    "günther jauch vermögen",
+    "günther jauch kinder",
+    "günther jauch frau",
+    "günther jauch alter",
+    "günther jauch wer wird millionär",
+    "günther jauch villa",
+    "günther jauch weingut",
+    "günther jauch größe",
+    "günther jauch wohnort",
+    "günther jauch geschwister",
+    "günther jauch aktuell"
+  ],
+  "gapNote": "Many results are thin and repeat the 55-million figure without naming the outlet; we can give a clear timeline, name who estimates, and mark private life as reported."
+}

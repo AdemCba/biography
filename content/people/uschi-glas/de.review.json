@@ -1,0 +1,93 @@
+{
+  "date": "2026-11-06",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 2 March 1944 in Landau an der Isar, Helga Ursula Glas",
+      "sourceIds": [
+        "in-muenchen-glas",
+        "az-glas"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened source, page states this."
+    },
+    {
+      "claim": "Marriage to Bernd Tewaag 1981, separated 2002, divorced 21 Feb 2003",
+      "sourceIds": [
+        "t-online-tewaag"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened source, page states this."
+    },
+    {
+      "claim": "Children Ben 1976, Alexander 1982, Julia 1986",
+      "sourceIds": [
+        "schwaebische-glas-75",
+        "joyn-glas-hermann"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened source, page states this."
+    },
+    {
+      "claim": "Married Dieter Hermann 2005, met on golf course",
+      "sourceIds": [
+        "joyn-glas-hermann",
+        "schwaebische-glas-75"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened source, page states this."
+    },
+    {
+      "claim": "Apanatschi 1966, Zur Sache Schätzchen 1968",
+      "sourceIds": [
+        "in-muenchen-glas",
+        "t-online-glas-80"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened source, page states this."
+    },
+    {
+      "claim": "Ehren-Filmpreis announced 17 Jan 2025, ceremony 24 Jan 2025; Zwei Münchner in Hamburg 1989-1993",
+      "sourceIds": [
+        "sonntagsblatt-ehrenfilmpreis"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened source, page states this."
+    },
+    {
+      "claim": "brotZeit founding year disagreement 2008/2009",
+      "sourceIds": [
+        "in-muenchen-glas",
+        "sonntagsblatt-ehrenfilmpreis",
+        "schwaebische-glas-75"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened source, page states this."
+    },
+    {
+      "claim": "Book Feb 2024, 224 pages paperback",
+      "sourceIds": [
+        "infranken-glas-80",
+        "penguin-schaetzchen"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened source, page states this."
+    },
+    {
+      "claim": "Max und die wilde 7, Vera, start 6 August 2020",
+      "sourceIds": [
+        "tvmovie-max-wilde-7"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened source, page states this."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Sourced marriages with years and disclosed source disagreements.",
+  "decision": "approve",
+  "summary": "Claims match the opened sources; disagreements are stated in the text."
+}

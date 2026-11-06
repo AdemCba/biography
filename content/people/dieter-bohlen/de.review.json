@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-06",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Geboren am 7. Februar 1954 in Berne",
+      "sourceIds": [
+        "tvmovie-profil",
+        "bohlen-net"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on the fetched page."
+    },
+    {
+      "claim": "Aufgewachsen auf Bauernhof in Ostfriesland",
+      "sourceIds": [
+        "bohlen-net"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on the fetched page."
+    },
+    {
+      "claim": "Eltern Hans und Edith, Bruder Uwe, 1,83 m",
+      "sourceIds": [
+        "tvmovie-profil"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on the fetched page."
+    },
+    {
+      "claim": "Diplom-Kaufmann 1978 Göttingen, auf Wunsch der Eltern",
+      "sourceIds": [
+        "tvmovie-profil",
+        "bohlen-net"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on the fetched page."
+    },
+    {
+      "claim": "Intersong, Monza 1978, Hansa/Steve Benson 1980-81, Sunday 1981",
+      "sourceIds": [
+        "bohlen-net"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on the fetched page."
+    },
+    {
+      "claim": "Mit 17 Bernd Clüver 1983 Platz 3 Vorentscheid",
+      "sourceIds": [
+        "bohlen-net",
+        "tvmovie-profil"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on the fetched page."
+    },
+    {
+      "claim": "Modern Talking 1984, fünf Nr.-1, Trennung 1987, Reunion 1998, Ende 2003",
+      "sourceIds": [
+        "tvmovie-profil",
+        "bohlen-net"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on the fetched page."
+    },
+    {
+      "claim": "Für Dich Yvonne Catterfeld 2003, Bonnie Tyler, Andrea Berg, Eurovision Platz 5 1989",
+      "sourceIds": [
+        "tvmovie-profil"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on the fetched page."
+    },
+    {
+      "claim": "DSDS seit 2002, UFA produziert für RTL, 16 Jahre 2019, 2021 Jury, 2022 Jury ohne Bohlen, 2023 Jury, Eine Nacht",
+      "sourceIds": [
+        "tvmovie-profil",
+        "ufa-dsds"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on the fetched page."
+    },
+    {
+      "claim": "Supertalent ab 2007 bis Staffel 14",
+      "sourceIds": [
+        "tvmovie-profil"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on the fetched page."
+    },
+    {
+      "claim": "Staffel 22 Start 4.4.2026, Finale 9.5., Fröhlich; Jury Bohlen Bushido Glück; 2027 gleiches Trio",
+      "sourceIds": [
+        "ufa-dsds",
+        "wunschliste-jury",
+        "tvmovie-jury-2027"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on the fetched page."
+    },
+    {
+      "claim": "Ehen Sauerland 1983-1989, Feldbusch 1996 ca. ein Monat, Naddel bis 2000, Küster 2001-2006",
+      "sourceIds": [
+        "tvmovie-profil",
+        "abendzeitung-malediven",
+        "tvmovie-hochzeit"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on the fetched page."
+    },
+    {
+      "claim": "Carina Walz seit 2006, Club Mallorca, Hochzeit 31.12.2025 Malediven, Bild/Instagram, dritte Ehe, Standesamt Januar 2026",
+      "sourceIds": [
+        "abendzeitung-heirat-2024",
+        "orf-hochzeit",
+        "tvmovie-hochzeit",
+        "joyn-standesamt",
+        "abendzeitung-malediven"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on the fetched page."
+    },
+    {
+      "claim": "Sechs Kinder, Namen und Geburtsjahre; Abweichung Abendzeitung zwei Kinder",
+      "sourceIds": [
+        "tvmovie-profil",
+        "tvmovie-hochzeit",
+        "abendzeitung-malediven",
+        "bohlen-net"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on the fetched page."
+    },
+    {
+      "claim": "Vermögen 250 Mio 2019 Rang 625, 2018 laut anderer Seite; 135/130 Mio 2023",
+      "sourceIds": [
+        "tvmovie-profil",
+        "bohlen-net",
+        "tvmovie-vermoegen"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on the fetched page."
+    },
+    {
+      "claim": "Open Air 15.8.2026 Nordhorn; Klartext abgesagt; Villa Tötensen und Mallorca",
+      "sourceIds": [
+        "festivals-open-air",
+        "tvmovie-klartext",
+        "tvmovie-profil"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on the fetched page."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline, sourced marriage history incl. 2025 wedding, net worth with year and disagreement.",
+  "decision": "approve",
+  "summary": "All claims match the fetched sources."
+}

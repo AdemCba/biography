@@ -1,0 +1,139 @@
+{
+  "id": "uschi-glas",
+  "name": "Uschi Glas",
+  "categories": [
+    "artists"
+  ],
+  "importance": 4,
+  "wikidata": "Q77041",
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1944-03-02",
+      "sources": [
+        "in-muenchen-glas",
+        "az-glas"
+      ],
+      "note": "Both give 2 March 1944; infranken confirms the 80th birthday on 2 March 2024."
+    },
+    "birthPlace": {
+      "value": "Landau an der Isar, Bayern, Deutschland",
+      "sources": [
+        "in-muenchen-glas",
+        "sonntagsblatt-ehrenfilmpreis"
+      ],
+      "note": "Publisher bio also says Landau."
+    },
+    "nationality": {
+      "value": [
+        "DE"
+      ],
+      "sources": [
+        "in-muenchen-glas"
+      ],
+      "note": "German actress."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "penguin-schaetzchen",
+      "url": "https://www.penguin.de/buecher/uschi-glas-ein-schaetzchen-war-ich-nie/taschenbuch/9783442180561",
+      "title": "Uschi Glas: Ein Schätzchen war ich nie",
+      "publisher": "Penguin Random House / Goldmann",
+      "type": "book",
+      "accessed": "2026-11-06",
+      "lang": "de"
+    },
+    {
+      "id": "in-muenchen-glas",
+      "url": "https://www.in-muenchen.de/?p=667273",
+      "title": "Uschi Glas: Münchens ewiges Schätzchen der Nation",
+      "publisher": "in münchen",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "de"
+    },
+    {
+      "id": "sonntagsblatt-ehrenfilmpreis",
+      "url": "https://www.sonntagsblatt.de/artikel/epd/uschi-glas-erhaelt-ehren-filmpreis-des-ministerpraesidenten",
+      "title": "Uschi Glas erhält Ehren-Filmpreis des Ministerpräsidenten",
+      "publisher": "Sonntagsblatt (epd)",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "de"
+    },
+    {
+      "id": "infranken-glas-80",
+      "url": "https://www.infranken.de/unterhaltung/ein-schaetzchen-war-ich-nie-uschi-glas-wird-80-art-5838807",
+      "title": "Ein Schätzchen war ich nie: Uschi Glas wird 80",
+      "publisher": "inFranken.de (dpa)",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "de"
+    },
+    {
+      "id": "berliner-zeitung-glas-80",
+      "url": "https://www.berliner-zeitung.de/article/ein-schatzchen-war-ich-nie-uschi-glas-wird-80-2192771",
+      "title": "Ein Schätzchen war ich nie: Uschi Glas wird 80",
+      "publisher": "Berliner Zeitung (dpa)",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "de"
+    },
+    {
+      "id": "schwaebische-glas-75",
+      "url": "https://www.schwaebische.de/kultur/zur-sache-schaetzchen-304116",
+      "title": "Zur Sache, Schätzchen",
+      "publisher": "Schwäbische Zeitung",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "de"
+    },
+    {
+      "id": "t-online-tewaag",
+      "url": "https://www.t-online.de/unterhaltung/stars/id_100627164/uschi-glas-und-die-wuerstl-affaere-das-ist-ihr-beruehmter-ex-bernd-tewaag.html",
+      "title": "Uschi Glas und die Würstl-Affäre: Das ist ihr berühmter Ex Bernd Tewaag",
+      "publisher": "t-online",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "de"
+    },
+    {
+      "id": "joyn-glas-hermann",
+      "url": "https://www.joyn.de/bts/themen/stars/uschi-glas-in-wir-vier-und-der-enkeltrick-an-diesem-speziellen-ort-fand-sie-ihre-zweite-liebe-12094",
+      "title": "Uschi Glas in Wir vier und der Enkeltrick: An diesem speziellen Ort fand sie ihre zweite Liebe",
+      "publisher": "Joyn",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "de"
+    },
+    {
+      "id": "t-online-glas-80",
+      "url": "https://www.t-online.de/unterhaltung/stars/id_100337918/uschi-glas-wird-80-so-sah-die-schauspielerin-frueher-aus.html",
+      "title": "Uschi Glas wird 80: So sah die Schauspielerin früher aus",
+      "publisher": "t-online",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "de"
+    },
+    {
+      "id": "az-glas",
+      "url": "https://www.abendzeitung-muenchen.de/person/uschi-glas/",
+      "title": "Uschi Glas",
+      "publisher": "Abendzeitung München",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "de"
+    },
+    {
+      "id": "tvmovie-max-wilde-7",
+      "url": "https://www.tvmovie.de/news/uschi-glas-bleibt-zeitlos-cool-selbstironische-diva-in-max-und-die-wilde-7-113925",
+      "title": "Uschi Glas bleibt zeitlos cool: selbstironische Diva in Max und die wilde 7",
+      "publisher": "TV Movie",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "de"
+    }
+  ]
+}

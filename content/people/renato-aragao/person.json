@@ -1,0 +1,186 @@
+{
+  "id": "renato-aragao",
+  "name": "Renato Aragão",
+  "categories": [
+    "artists"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1935-01-13",
+      "sources": [
+        "ebiografia-aragao",
+        "opovo-85-anos",
+        "canaltech-90-anos",
+        "istoe-50-filme"
+      ],
+      "note": "eBiografia gives 13 January 1935; Canaltech says he turned 90 on 13 January 2025."
+    },
+    "birthPlace": {
+      "value": "Sobral, Ceará, Brasil",
+      "sources": [
+        "ebiografia-aragao",
+        "opovo-85-anos",
+        "unicef-aragao"
+      ]
+    },
+    "nationality": {
+      "value": [
+        "BR"
+      ],
+      "sources": [
+        "ebiografia-aragao",
+        "unicef-aragao"
+      ],
+      "note": "Brazilian."
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "unicef-aragao",
+      "url": "https://www.unicef.org/brazil/renato-aragao",
+      "title": "Renato Aragão, embaixador do UNICEF no Brasil",
+      "publisher": "UNICEF Brasil",
+      "type": "official",
+      "accessed": "2026-11-06",
+      "lang": "pt"
+    },
+    {
+      "id": "unicef-90-anos",
+      "url": "https://www.unicef.org/brazil/comunicados-de-imprensa/unicef-e-santuario-cristo-redentor-celebram-90-anos-de-renato-aragao",
+      "title": "UNICEF e Santuário Cristo Redentor celebram 90 anos de Renato Aragão",
+      "publisher": "UNICEF Brasil",
+      "type": "official",
+      "accessed": "2026-11-06",
+      "lang": "pt"
+    },
+    {
+      "id": "ebiografia-aragao",
+      "url": "https://www.ebiografia.com/renato_aragao/",
+      "title": "Renato Aragão",
+      "publisher": "eBiografia",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "pt"
+    },
+    {
+      "id": "opovo-85-anos",
+      "url": "https://mais.opovo.com.br/reportagensespeciais/renatoaragao80anos/2020/05/13/o-riso-nao-pode-parar.html",
+      "title": "O riso não pode parar",
+      "publisher": "O POVO",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "pt"
+    },
+    {
+      "id": "correio-90-anos",
+      "url": "https://www.correiobraziliense.com.br/webstories/flipar/2025/08/7226335-renato-aragao-90-anos-humorista-fala-da-mulher-controladora-e-faz-malhacao-em-casa.html",
+      "title": "Renato Aragão, 90 anos: humorista fala da mulher controladora e faz malhação em casa",
+      "publisher": "Correio Braziliense",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "pt"
+    },
+    {
+      "id": "canaltech-90-anos",
+      "url": "https://canaltech.com.br/entretenimento/renato-aragao-comemora-90-anos-e-prepara-filme-internacional-do-didi/",
+      "title": "Renato Aragão comemora 90 anos e prepara filme internacional do Didi",
+      "publisher": "Canaltech",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "pt"
+    },
+    {
+      "id": "opovo-martha",
+      "url": "https://www.opovo.com.br/vidaearte/2025/04/09/conheca-ex-esposa-de-renato-aragao-e-mae-de-filha-do-humorista.html",
+      "title": "Conheça ex-esposa de Renato Aragão e mãe de filha do humorista",
+      "publisher": "O POVO",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "pt"
+    },
+    {
+      "id": "correio24-treino",
+      "url": "https://www.correio24horas.com.br/em-alta/aos-91-anos-renato-aragao-compartilha-rotina-de-treinos-e-celebra-sextou-1026",
+      "title": "Aos 91 anos, Renato Aragão compartilha rotina de treinos e celebra: Sextou",
+      "publisher": "Correio 24 Horas",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "pt"
+    },
+    {
+      "id": "correio24-teleton",
+      "url": "https://www.correio24horas.com.br/entretenimento/renato-aragao-faz-rara-aparicao-na-tv-e-fas-reclamam-de-ausencia-na-globo-1123",
+      "title": "Renato Aragão faz rara aparição na TV",
+      "publisher": "Correio 24 Horas",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "pt"
+    },
+    {
+      "id": "folhape-90-anos",
+      "url": "https://www.folhape.com.br/noticia/amp/383998/90-anos-de-renato-aragao-confira-nove-grandes-momentos-do-didi/",
+      "title": "90 anos de Renato Aragão: confira nove grandes momentos do Didi",
+      "publisher": "Folha de Pernambuco",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "pt"
+    },
+    {
+      "id": "viva-tvteca",
+      "url": "https://viva.com.br/cultura-e-lazer/renato-aragao-volta-a-globo-em-programa-especial-sobre-sua-vida-e-carreira.html",
+      "title": "Renato Aragão volta à Globo em programa especial sobre sua vida e carreira",
+      "publisher": "Viva",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "pt"
+    },
+    {
+      "id": "viva-crianca-esperanca",
+      "url": "https://viva.com.br/cultura-e-lazer/renato-aragao-se-emociona-com-homenagem-no-crianca-esperanca.html",
+      "title": "Renato Aragão se emociona com homenagem no Criança Esperança",
+      "publisher": "Viva (Estadão Conteúdo)",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "pt"
+    },
+    {
+      "id": "opovo-cine-ceara",
+      "url": "https://mais.opovo.com.br/jornal/dom/2018/08/renato-aragao-e-homenageado-durante-abertura-do-cine-ceara.html",
+      "title": "Renato Aragão é homenageado durante abertura do Cine Ceará",
+      "publisher": "O POVO",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "pt"
+    },
+    {
+      "id": "opovo-museu-humor",
+      "url": "https://www.opovo.com.br/vidaearte/2025/01/09/globo-e-museu-do-humor-cearense-homenageiam-90-anos-de-renato-aragao.html",
+      "title": "Globo e Museu do Humor Cearense homenageiam 90 anos de Renato Aragão",
+      "publisher": "O POVO",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "pt"
+    },
+    {
+      "id": "istoe-50-filme",
+      "url": "https://istoe.com.br/renato-aragao-estreia-o-50o-filme-saltimbancos-trapalhoes",
+      "title": "Renato Aragão estreia o 50º filme, Saltimbancos Trapalhões",
+      "publisher": "IstoÉ",
+      "type": "press",
+      "accessed": "2026-11-06",
+      "lang": "pt"
+    },
+    {
+      "id": "usp-aragao",
+      "url": "https://sites.usp.br/portalatinoamericano/?p=1787",
+      "title": "Aragão, Renato",
+      "publisher": "Portal Latino-Americano, USP",
+      "type": "other",
+      "accessed": "2026-11-06",
+      "lang": "pt"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-06",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 13 Jan 1935 in Sobral; parents Paulo Ximenes Aragão and Dinorá Lins; brother Francisco",
+      "sourceIds": [
+        "ebiografia-aragao",
+        "opovo-85-anos",
+        "istoe-50-filme"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened; stated."
+    },
+    {
+      "claim": "Law degree 1961 vs 1957; 1958 plane crash, 5 of 18 survivors",
+      "sourceIds": [
+        "ebiografia-aragao",
+        "correio-90-anos"
+      ],
+      "verdict": "confirmed",
+      "note": "Disagreement disclosed; crash per Correio."
+    },
+    {
+      "claim": "TV Ceará 1960 (USP 1961); Rio 1964; Excelsior 1966; Trapalhões 1974 Tupi, Globo 1977-1995; 1983 split, reunion 25 Mar 1984; Zacarias 18 Mar 1990",
+      "sourceIds": [
+        "ebiografia-aragao",
+        "usp-aragao",
+        "folhape-90-anos",
+        "viva-tvteca",
+        "canaltech-90-anos"
+      ],
+      "verdict": "confirmed",
+      "note": "Film counts 23 vs 21 disclosed."
+    },
+    {
+      "claim": "UNICEF ambassador Sept 1991, first in Brazil, nine longest-serving; 1997 campaign; Selo 2000/2002/2004; Sobral 2015",
+      "sourceIds": [
+        "unicef-aragao",
+        "unicef-90-anos"
+      ],
+      "verdict": "confirmed",
+      "note": "Official page."
+    },
+    {
+      "claim": "Marta Rangel 1957-1991, four children with birth years, died 2014; Lílian Taranto marriage 1981 vs 1991; Lívian born 23 Feb 1999; July 2025 interview",
+      "sourceIds": [
+        "ebiografia-aragao",
+        "opovo-martha",
+        "correio-90-anos",
+        "opovo-85-anos"
+      ],
+      "verdict": "confirmed",
+      "note": "Disagreement disclosed."
+    },
+    {
+      "claim": "Oct 2025 Criança Esperança homage, R$460 million; Oct 2026 workout; Teleton Nov 2023; Jan 2025 events; Apr 2026 TV Teca and musical",
+      "sourceIds": [
+        "viva-crianca-esperanca",
+        "correio24-treino",
+        "correio24-teleton",
+        "unicef-90-anos",
+        "opovo-museu-humor",
+        "viva-tvteca"
+      ],
+      "verdict": "confirmed",
+      "note": "All opened."
+    },
+    {
+      "claim": "2018 Troféu Eusélio Oliveira at Cine Ceará; 2011 X-9 Paulistana",
+      "sourceIds": [
+        "opovo-cine-ceara",
+        "folhape-90-anos"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Shows source disagreements on marriage years and adds UNICEF primary record and 2025-2026 events.",
+  "decision": "approve",
+  "summary": "All claims match opened sources; disagreements are disclosed; no net worth or height given."
+}

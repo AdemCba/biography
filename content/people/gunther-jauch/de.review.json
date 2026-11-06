@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-06",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 13 July 1956 in Münster",
+      "sourceIds": [
+        "infranken-jauch-vermoegen",
+        "derstandard-jauch-70"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened source, page states this."
+    },
+    {
+      "claim": "Wife Thea Sihler, together since 1988, married 2006 in Potsdam",
+      "sourceIds": [
+        "az-jauch-60",
+        "az-jauch-2025"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened source, page states this."
+    },
+    {
+      "claim": "Four daughters, two biological, two adopted from Russia",
+      "sourceIds": [
+        "az-jauch-2025",
+        "news-de-jauch"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened source, page states this."
+    },
+    {
+      "claim": "Vermögen about 55 Mio EUR per VermögenMagazin, article 25.10.2023",
+      "sourceIds": [
+        "infranken-jauch-vermoegen"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened source, page states this."
+    },
+    {
+      "claim": "Volksstimme: 10 Mio earned 2025, 125,000 per episode, never confirmed",
+      "sourceIds": [
+        "volksstimme-jauch-vermoegen"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened source, page states this."
+    },
+    {
+      "claim": "Winery owned by family since 1805, taken over 2010",
+      "sourceIds": [
+        "hogapage-steigenberger"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened source, page states this."
+    },
+    {
+      "claim": "Career years (B3 radio show 1985-89, Na siehste, stern TV 1990-2011, WWM 1999, ARD talk 2011-15)",
+      "sourceIds": [
+        "webde-jauch-karriere",
+        "kino-jauch-frueh"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened source, page states this."
+    },
+    {
+      "claim": "Awards: Deutscher Fernsehpreis 2006, Goldene Kamera 2016, Goldene Henne 2012, Vinum 2023",
+      "sourceIds": [
+        "infranken-jauch-vermoegen",
+        "az-jauch-60",
+        "hogapage-steigenberger"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened source, page states this."
+    },
+    {
+      "claim": "Winery VDP member, Falstaff 2025 award",
+      "sourceIds": [
+        "othegraven-site"
+      ],
+      "verdict": "confirmed",
+      "note": "Opened source, page states this."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline, named net-worth source, disagreement on stern TV end noted.",
+  "decision": "approve",
+  "summary": "Claims match the opened sources; minor year discrepancies are disclosed in the text."
+}

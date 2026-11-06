@@ -1,0 +1,166 @@
+{
+  "date": "2026-11-06",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 1 July 1967 in Ladysmith, British Columbia",
+      "sourceIds": [
+        "golden-globes",
+        "canadian-encyclopedia",
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated on all three pages."
+    },
+    {
+      "claim": "Full name Pamela Denise Anderson; parents Barry and Carol; brother Gerry",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Moved to Vancouver 1988; Labatt's T-shirt at BC Lions game 1989; Playboy offer",
+      "sourceIds": [
+        "canadian-encyclopedia",
+        "looper-career"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "First Playboy cover October 1989, Playmate February 1990; 14 covers",
+      "sourceIds": [
+        "looper-career",
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Home Improvement 1991 as Lisa; 23 episodes",
+      "sourceIds": [
+        "biography-com",
+        "canadian-encyclopedia",
+        "looper-career"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Baywatch C.J. Parker cast 1992, until 1997, 110 episodes, sold to 140 countries",
+      "sourceIds": [
+        "looper-career",
+        "canadian-encyclopedia"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Barb Wire 1996; budget $9m, takings $3.79m",
+      "sourceIds": [
+        "looper-career",
+        "canadian-encyclopedia"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "V.I.P. 1998-2002; Stacked 2005-06; Walk of Fame 2006",
+      "sourceIds": [
+        "canadian-encyclopedia",
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Chicago Broadway debut 12 April 2022, Ambassador Theatre, through 5 June; quote",
+      "sourceIds": [
+        "playbill-chicago"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Love, Pamela released 31 January with Netflix documentary; cookbook James Beard nomination",
+      "sourceIds": [
+        "cbs-ladysmith",
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated; year 2023 per Biography.com."
+    },
+    {
+      "claim": "Golden Globe nomination announced 9 Dec 2024, first, age 57; Shelley; quotes",
+      "sourceIds": [
+        "zoomer-globe",
+        "golden-globes"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Zurich honour announced 17 Sept 2024; Toronto premiere; Jungen quote",
+      "sourceIds": [
+        "swissinfo-zff"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Not among Oscar nominees announced 23 Jan 2025; Elle quotes",
+      "sourceIds": [
+        "gma-oscars"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Naked Gun casting April 2024, Neeson, Schaffer; Beth Davenport",
+      "sourceIds": [
+        "abc-naked-gun",
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Marriages: Lee 1995-98, Kid Rock July 2006, Salomon 2007/2014/2015, Peters 20 Jan 2020, Hayhurst Christmas Eve 2020 and split Jan 2022; count differences",
+      "sourceIds": [
+        "biography-com",
+        "fox-marriages",
+        "nbc-hayhurst"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated; discrepancies are disclosed in the text."
+    },
+    {
+      "claim": "Sons Brandon Thomas and Dylan Jagger with Tommy Lee",
+      "sourceIds": [
+        "biography-com"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    },
+    {
+      "claim": "Lives in Ladysmith, 'very protected'; moved back during pandemic after selling Malibu; HGTV show",
+      "sourceIds": [
+        "cbs-ladysmith",
+        "bhg-ladysmith",
+        "today-hgtv"
+      ],
+      "verdict": "confirmed",
+      "note": "Stated."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Sourced timeline and a marriage list that discloses outlet disagreements; no net worth figure is given because none is sourced.",
+  "decision": "approve",
+  "summary": "All sources were opened and the claims match their wording; multi-outlet marriage counts are disclosed as differing."
+}
