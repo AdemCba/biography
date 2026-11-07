@@ -1,4 +1,4 @@
-# Trend taraması 2026-11-07 09:01 UTC
+# Trend taraması 2026-11-07 12:56 UTC
 
 850 trend sinyali tarandı, 414 tanınmış kişi bulundu.
 
@@ -10,59 +10,57 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 
 | Arama | Ülkeler | Diller | Yaklaşık arama | Başladı (UTC) | Haber |
 | --- | --- | --- | --- | --- | --- |
-| programación séptima | ES | es | 5000 | 08:00 | [Un día entero viendo La Séptima: parecía TelePedro, es TelePedro y será TelePedro](https://www.elconfidencial.com/comunicacion/2026-11-07/la-septima-telepedro-estreno-television_4460205/) |
-| kate smurthwaite | GB | en | 2000 | 08:30 | [Brand's barrister refers himself to regulator after report he confronted journalist](https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o) |
-| muere actor de dr house | MX | es | 2000 | 08:20 | [Muere actor de ‘Dr. House’ y ‘Bones’ a los 47 años: sale a la luz la causa de su fallecimiento](https://www.univision.com/famosos/muere-charles-f-porter-actor-dr-house-bones-causa-fallecimiento) |
-| carminha | BR | pt | 2000 | 08:10 | [Resumo de Avenida Brasil: Próximo capítulo da novela, segunda, 9 de novembro](https://noticiasdatv.uol.com.br/noticia/novelas/resumo-de-avenida-brasil-proximo-capitulo-da-novela-segunda-9-de-novembro-158712) |
-| prisão domiciliar | BR | pt | 2000 | 08:10 | ['Paraguai não é para CLT': o que brasileiros contam em grupos sobre a vida no país e a crise do Ueno](https://g1.globo.com/mundo/noticia/2026/11/07/paraguai-nao-e-para-clt-o-que-brasileiros-contam-em-grupos-sobre-a-vida-no-pais-e-a-crise-do-ueno.ghtml) |
-| sebastian lelio todesursache | AT | de | 2000 | 06:30 | [Oscar-Preisträger Sebastian Lelio gestorben](https://orf.at/stories/3447477/) |
-| kassovitz | FR | fr | 2000 | 08:40 | [« Un terrain de jeu »… La new romance française « Campus Drivers » se cherche un créneau sur Prime Video](https://www.20minutes.fr/arts-stars/culture/4260269-20261106-terrain-jeu-new-romance-francaise-campus-drivers-cherche-creneau-prime-video) |
-| huile olive espagne | FR | fr | 2000 | 08:30 | [Huile d'olive : l'Espagne intervient en urgence pour préserver ses producteurs](https://www.lesechos.fr/industrie-services/conso-distribution/huile-dolive-lespagne-decrete-le-stockage-des-excedents-pour-eviter-leffondrement-des-prix-du-jamais-vu-2261657) |
-| gta release date | US | en | 1000 | 08:40 | [Download Grand Theft Auto VI Faster and Get to Leonida Sooner With Spectrum Internet Gig](https://corporate.charter.com/newsroom/spectrum-giving-free-gig-speed-lift-thanksgiving-grand-theft-auto) |
-| new zealand vs tonga | US | en | 1000 | 08:20 | [World Cup Late Mail: Men's Semi-Finals - Ponga returns; Toia out](https://www.nrl.com/news/2026/11/03/world-cup-team-lists-mens-semi-finals/) |
-| amaia montero | ES | es | 1000 | 07:50 | [La Oreja de Van Gogh, cuando la nostalgia es lo que importa](https://www.lavanguardia.com/cultura/20261107/11678546/oreja-gogh-nostalgia-importa.html) |
-| sony audifonos mdr 3r | MX | es | 1000 | 06:20 | [47 años después, los legendarios audífonos del Walkman vuelven: ahora con USB-C y micrófono](https://www.xataka.com.mx/audio/47-anos-despues-legendarios-audifonos-walkman-vuelven-ahora-usb-c-microfono) |
-| sorteo superior lotería nacional | MX | es | 1000 | 06:10 | [Resultados del Sorteo Superior 2903: tabla de premios del viernes 6 de noviembre](https://elcomercio.pe/respuestas/mexico/resultados-sorteo-superior-2903-en-vivo-premio-mayor-hoy-6-de-noviembre-ver-lista-de-numeros-ganadores-del-viernes-loteria-de-mexico-mx-cdmx-estados-unidos-eeuu-lbposting-noticia/) |
-| focus | DE | de | 1000 | 08:40 | [Brisante Branchenumfrage: Jedes 3. Stadtwerk will Gasnetz runterfahren](https://www.bild.de/politik/inland/brisante-branchenumfrage-jedes-3-stadtwerk-will-gasnetz-runterfahren-6aee067c320931eb80f5ca8e) |
-| wadersloh | DE | de | 1000 | 08:20 | [Unfall in Wadersloh: Zwei Tote bei Frontalzusammenstoß auf Landstraße](https://www.bild.de/news/inland/wadersloh-zwei-tote-bei-frontalzusammenstoss-auf-landstrasse-6aee928616c85faca6801639) |
-| technische universität münchen | DE | de | 1000 | 08:10 | [IT-Sicherheitsvorfall an der TUM](https://www.tum.de/aktuelles/alle-meldungen/pressemitteilungen/details/it-sicherheitsvorfall-an-der-tum) |
-| martin auer | AT | de | 1000 | 07:20 | [Bäcker Martin Auer: „Der Hype war unverhältnismäßig“](https://kurier.at/wirtschaft/karriere/martin-auer-rye-baecker-roggensauerteigbrot-brot-hype/403203351) |
-| marchfeld | AT | de | 1000 | 06:40 | [Ardo-Aus: Teillösung für Bauern im Marchfeld](https://orf.at/av/video/onDemandVideoNews104998) |
-| excès de vitesse | FR | fr | 1000 | 08:00 | [Excès de vitesse au travail : ce secteur d’activité bat tous les records](https://www.caradisiac.com/exces-de-vitesse-au-travail-ce-secteur-d-activite-bat-tous-les-records-224978.htm) |
-| wales v japan | GB | en | 500 | 08:40 | [Nations Championship: Wales opt for centre power pair against Japan](https://www.bbc.co.uk/sport/rugby-union/articles/c9146d7g0reyo) |
-| gta vi | GB | en | 500 | 08:30 | [Explore the Grand Theft Auto VI Launch Gallery](https://www.rockstargames.com/newswire/article/39ak81277255o9/explore-the-grand-theft-auto-vi-launch-gallery) |
-| penhora | BR | pt | 500 | 08:40 | [Os argumentos de Renato Aragão para tentar suspender a penhora de sua mansão no Rio](https://oglobo.globo.com/blogs/ancelmo-gois/post/2026/11/os-argumentos-de-renato-aragao-para-tentar-suspender-a-penhora-de-sua-mansao-no-rio.ghtml) |
-| empresário | BR | pt | 500 | 08:30 | [Empresário foge da Lei Seca e policiais atiram em pneus de caminhonete para impedir fuga em Cuiabá](https://www.reportermt.com/policia/empresario-foge-da-lei-seca-e-policiais-atiram-em-pneus-de-caminhonete-para-impedir-fuga-em-cuiaba/246264) |
-| demissão | BR | pt | 500 | 08:10 | [MPT pede R$ 1 milhão de deputada eleita que sugeriu demitir eleitor do PT](https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/06/mpt-pede-r-1-milhao-de-deputada-eleita-que-sugeriu-demitir-eleitor-do-pt.ghtm) |
-| clarence seedorf | BR | pt | 500 | 07:50 | [Conmebol rejeita recurso do Corinthians, e Seedorf não poderá assinar súmula como técnico](https://ge.globo.com/futebol/times/corinthians/noticia/2026/11/05/conmebol-rejeita-recurso-do-corinthians-e-seedorf-nao-podera-assinar-sumula-como-tecnico.ghtml) |
-| ard zdf deutschlandradio beitragsservice | DE | de | 500 | 08:10 | [Rundfunkbeitrag: GEZ jagt ab morgen säumige Beitragszahler](https://www.bild.de/politik/inland/rundfunkbeitrag-gez-jagt-ab-morgen-saeumige-beitragszahler-6aeec517e8c1b29d85a3e44b) |
-| robert pattinson | DE | de | 500 | 08:10 | [James Bond Casting: Robert Pattinson, Nicholas Hoult Tested for 007](https://variety.com/2026/film/news/james-bond-casting-robert-pattinson-nicholas-hoult-1236941881/) |
-| taranteln | AT | de | 500 | 07:10 | [Taranteln breiten sich weiter aus: 175 Sichtungen in zwei Monaten](https://www.derstandard.at/story/3000000347895/taranteln-breiten-sich-weiter-aus-175-sichtungen-in-zwei-monaten) |
-| herz-kreislauf-erkrankung | AT | de | 500 | 06:50 | [Tod von Hubert Aiwanger: Tobias Gotthardt übernimmt bayerisches Wirtschaftsministerium vorerst](https://www.zeit.de/politik/deutschland/2026-11/hubert-aiwanger-tod-bayern-freie-waehler) |
-| réseau de gaz | FR | fr | 500 | 08:10 | [Après le cuivre, le gaz : le Trésor veut fermer le réseau commune par commune, comme pour la fibre](https://www.jechange.fr/energie/gaz/news/apres-cuivre-gaz-tresor-fermer-reseau-commune-par-commune-fibre) |
-| hltv | US | en | 200 | 08:10 | [Iowa Stormboar announce four new players including HLTV Prospect H0NeST](https://www.dust2.us/news/79713/iowa-stormboar-announce-four-new-players-including-hltv-prospect-h0nest) |
-| drew mcintyre | GB | en | 200 | 08:40 | [WWE's Drew McIntyre Pitched Vince McMahon On Removing Someone's Arm With Sword](https://www.wrestlinginc.com/2304082/wwe-drew-mcintyre-vince-mcmahon-pitched-removing-arm-sword/) |
-| uk military satellite titania orbit | GB | en | 200 | 08:30 | [UK has 'new pair of eyes' in space after military satellite Titania enters orbit](https://news.sky.com/story/uk-has-new-pair-of-eyes-in-space-after-military-satellite-titania-enters-orbit-13609133) |
-| skepta | GB | en | 200 | 08:20 | [Skepta returns 'to set levels' with his long-awaited sixth album](https://www.bbc.co.uk/news/articles/c6n499d3ykgwo) |
-| u2 tour 2027 | GB | en | 200 | 08:20 | [Additional Nights in Berlin, Paris, London and Lisbon](https://www.u2.com/blogs/news/additional-nights-in-berlin-paris-london-and-lisbon) |
-| luna nueva | ES | es | 200 | 08:40 | [El horóscopo de hoy, lunes 9 de noviembre de 2026: predicciones diarias con la Luna en Escorpio favorable para Piscis.](https://www.mujerhoy.com/horoscopo/horoscopo-hoy-lunes-9-noviembre-2026-predicciones-zodiaco-salid-dinero-amor-20261109063000-nt.html) |
-| bob dylan papa | ES | es | 200 | 08:20 | [Los tres detalles del atuendo de Bob Dylan para conocer al Papa que están dando la vuelta al mundo](https://www.mujerhoy.com/placeres/cultura/tres-detalles-atuendo-bob-dylan-conocer-papa-20261106140428-nt.html) |
-| bolsa de valores | ES | es | 200 | 08:10 | [¿Ha estallado la 'burbuja' de la IA? Los 'tecnoligarcas' y los 7 gigantes de la bolsa ven esfumarse billones de dólares en horas](https://www.elmundo.es/economia/dinero-inversion/2026/11/06/6aed88f4fdddffcd0c8b45a2.html) |
-| torrejón de ardoz | ES | es | 200 | 07:50 | [El INTA abre al público sus instalaciones de Torrejón por la Semana de la Ciencia: fechas y cómo apuntarse](https://www.miracorredor.tv/torrejon-de-ardoz/inta-abre-publico-instalaciones-torrejon-semana-ciencia-fechas-como-apuntarse/20261106190402106721.html) |
-| detención | MX | es | 200 | 08:10 | [Cae en Veracruz directora de Programas; la remiten a FGR](https://www.reforma.com/cae-en-veracruz-directora-de-programas-la-remiten-a-fgr/ar3309786) |
+| leeds - tottenham | ES, MX, AR | es | 6000 | 11:40 | [Premier League LIVE: Build-up, team news, live text, radio & score updates from across the Premier League](https://www.bbc.com/sport/football/live/cmj6jdk36975t) |
+| málaga - racing de santander | US, ES | en, es | 10200 | 12:10 | [Previa del Málaga – Racing](https://www.malagacf.com/noticias/previa-del-malaga-racing0611) |
+| chelsea vs everton | US, GB | en | 2200 | 12:00 | [Confirmed Chelsea Women line up vs Everton / News / Official Site](https://www.chelseafc.com/en/news/article/confirmed-chelsea-women-line-up-vs-everton) |
+| málaga vs racing santander | US, GB | en | 700 | 12:10 | [Malaga vs Racing Santander – prediction, preview & betting tips – 07/11/2026](https://footballwhispers.com/blog/malaga-vs-racing-santander-prediction-07-11-2026/) |
+| samsunspor – konyaspor | DE, FR | de, fr | 700 | 12:10 | [Samsunspor - Konyaspor, Championnat de Turquie, match en direct le 07/11/2026](https://www.lequipe.fr/Football/match-direct/championnat-de-turquie/2026-2027/samsunspor-konyaspor-live/695705) |
+| leeds vs spurs | GB | en | 50000 | 11:30 | [Premier League LIVE: Build-up, team news, live text, radio & score updates from across the Premier League](https://www.bbc.com/sport/football/live/cmj6jdk36975t) |
+| wetterprognose polarwirbel | DE | de | 20000 | 11:50 | [Tiefdrucksystem - Sehr frühe Abschwächung des Polarwirbels - "Einzigartig, aber nicht unbedingt besorgniserregend"](https://www.deutschlandfunk.de/sehr-fruehe-abschwaechung-des-polarwirbels-einzigartig-aber-nicht-unbedingt-besorgniserregend-100.html) |
+| wrexham vs wolves | GB | en | 10000 | 11:40 | [Wrexham v Wolverhampton Wanderers: Championship stats & head-to-head](https://www.bbc.co.uk/sport/football/live/cmx2qj5ldeq1t) |
+| alerta defesa civil | BR | pt | 10000 | 12:00 | [Defesa Civil estadual alerta para risco muito alto de tempestade com granizo grande nas proximidades de Tapejara](https://estado.rs.gov.br/defesa-civil-estadual-alerta-para-risco-muito-alto-de-tempestade-com-granizo-grande-nas-proximidades-de-tapejara) |
+| portsmouth vs stoke city | GB | en | 5000 | 11:40 | [Portsmouth v Stoke City: Championship stats & head-to-head](https://www.bbc.co.uk/sport/football/live/ckdd8jm456v0t) |
+| rené dost | DE | de | 5000 | 12:00 | [René „Redo“ Dost: Seine neue Freundin Celine ist 33 Jahre jünger](https://www.bild.de/unterhaltung/bildgg/rene-redo-dost-seine-neue-freundin-celine-ist-33-jahre-juenger-6aeded87320931eb80f5c7e6) |
+| amazon | AT | de | 5000 | 10:20 | [Melania Trump Declares Her and President Donald Trump’s Son Barron ‘Will Always Be’ Her ‘Priority’](https://www.yahoo.com/entertainment/celebrity/articles/melania-trump-declares-her-president-205437933.html) |
+| hoax | GB | en | 2000 | 12:10 | [New wave of bomb threats hit European airlines](https://www.bbc.co.uk/news/articles/cq62yy064vjpo) |
+| autumn internationals | GB | en | 2000 | 12:10 | [‘Air Caluori’ puts on show as England A offer exciting glimpse into future](https://www.telegraph.co.uk/rugby-union/2026/11/06/england-a-v-argentina-xv-live-score-latest-updates/) |
+| nigella lawson | GB | en | 2000 | 11:50 | [Why Nigella Lawson travels 17,000km to eat](https://www.ft.com/content/b55bae29-ca5f-43f2-80bc-a710025a0cb8?syn-25a6b1a6=1) |
+| banco de méxico | MX | es | 2000 | 11:20 | [Banxico: ‘una sorpresa no tan sorprendente’](https://www.elfinanciero.com.mx/opinion/victor-piz/2026/11/06/banxico-una-sorpresa-no-tan-sorprendente/) |
+| novartis zolgensma tumor | AT | de | 2000 | 12:20 | [Novartis confirms more reported tumor cases in Zolgensma patients as SMA groups seek details](https://www.fiercepharma.com/pharma/novartis-confirms-more-reported-tumor-cases-zolgensma-patients-sma-groups-seek-details) |
+| málaga – santander | FR | fr | 2000 | 12:10 | [Funes no teme por su cargo: "Me siento arropado por el club"](https://www.marca.com/futbol/malaga/2026/11/06/funes-teme-cargo-me-siento-arropado-club.html) |
+| bordeaux | FR | fr | 2000 | 12:10 | [« On ne se sent plus chez nous » : à Bordeaux, un couple de retraités face à l’effondrement partiel de leur plafond](https://www.sudouest.fr/gironde/bordeaux/on-ne-se-sent-plus-chez-nous-a-bordeaux-un-couple-de-retraites-face-a-l-effondrement-partiel-de-leur-plafond-31381273.php) |
+| nintendo zelda ocarina of time | US | en | 1000 | 12:10 | [Ask the Developer Vol. 24, The Legend of Zelda: Ocarina of Time – Chapter 1](https://www.nintendo.com/en-gb/News/2026/November/Ask-the-Developer-Vol-24-The-Legend-of-Zelda-Ocarina-of-Time-Chapter-1-3230318.html) |
+| man city vs west ham | GB | en | 1000 | 12:10 | [Women's Super League LIVE: Chelsea vs Everton and Man City vs West Ham](https://www.bbc.com/sport/football/live/cjzxl456k427t) |
+| burgos - celta b | ES | es | 1000 | 12:20 | [El dantesco panorama del Celta Fortuna](https://www.lavozdegalicia.es/noticia/gradario/2026/11/07/dantesco-panorama-fortuna/0003_202611V7P38994.htm) |
+| aguinaldo | MX | es | 1000 | 11:40 | [¿Ya viene el aguinaldo? Esta es la fecha en que te lo deben depositar según dónde trabajes](https://www.sopitas.com/noticias/aguinaldo-2026-cuando-depositan-lugar-que-trabajas/) |
+| lotería nacional sorteo superior 2903 | MX | es | 1000 | 11:30 | [Resultados del Sorteo Superior 2903: tabla de premios del viernes 6 de noviembre](https://elcomercio.pe/respuestas/mexico/resultados-sorteo-superior-2903-en-vivo-premio-mayor-hoy-6-de-noviembre-ver-lista-de-numeros-ganadores-del-viernes-loteria-de-mexico-mx-cdmx-estados-unidos-eeuu-lbposting-noticia/) |
+| rundfunk | DE | de | 1000 | 12:00 | [Die (Jazz-)Radiowoche vom 09.11.26 bis 15.11.26](https://www.jazzzeitung.de/cms/2026/11/die-jazz-radiowoche-vom-09-11-26-bis-15-11-26/) |
+| robert pattinson | AT | de | 1000 | 11:10 | [James Bond Surprise: Robert Pattinson Screen Tested to Play 007](https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-tested-to-play-james-bond-1236749903/) |
+| kirchberg an der raab | AT | de | 1000 | 10:50 | [Mit Bus kollidiert: Pkw-Lenker tot](https://steiermark.orf.at/stories/3378542/) |
+| clermont – rodez | FR | fr | 1000 | 12:20 | [Clermont - Rodez, Ligue 2, match en direct le 07/11/2026](https://www.lequipe.fr/Football/match-direct/ligue-2/2026-2027/clermont-rodez-live/690665) |
+| froid vortex polaire | FR | fr | 1000 | 12:20 | [Un phénomène qui augmente le risque de vagues de froid: une perturbation inhabituellement précoce du vortex polaire observée](https://www.bfmtv.com/environnement/climat/un-phenomene-qui-augmente-le-risque-de-vagues-de-froid-une-perturbation-inhabituellement-precoce-du-vortex-polaire-observee_AN-202611070118.html) |
+| la revuelta abascal | ES | es | 500 | 12:30 | ['La Revuelta' cancela las entradas del público ante las exigencias de Abascal](https://www.elcorreo.com/gente-estilo/revuelta-cancela-entradas-publico-ante-exigencias-abascal-20261107093432-nt.html) |
+| charles porter actor | ES | es | 500 | 12:10 | [Muere a los 47 años Charles F. Porter, actor de 'House' y 'Bones': de su pasión fallida por la NFL a su lucha contra un linfoma de Hodgkin](https://www.elconfidencial.com/cultura/2026-11-05/muere-47-anos-charles-f-porter-actor-house-bones-sin-rastro-1qrt_4459911/) |
+| final mundial padel | ES | es | 500 | 11:10 | [España - Argentina del Mundial de Pádel, en directo / Andrea Ustero y Ari Sánchez vs Martina Fassio y Aranza Osoro, última hora del partido](https://www.marca.com/padel/2026/11/07/6aed9cc2020dbf8b210c4f30-directo.html) |
+| wrexham - wolves | MX | es | 500 | 12:10 | [Wrexham Association Football Club](https://www.wrexhamafc.co.uk/news/2026/november/06/preview--wrexham-afc-vs-wolves/) |
+| el niño | MX | es | 500 | 11:00 | [El Niño 2026-2027: científicos piden a Madrid reservas de alimentos y un comité de expertos](https://www.levante-emv.com/tendencias21/2026/11/05/nino-2026-2027-cientificos-piden-136111167.html) |
+| paysandu | AR | es | 500 | 11:00 | [Pope Leo XIV arrives in Uruguay at start of South American tour less than a month after lung surgery](https://apnews.com/article/vatican-pope-uruguay-cancer-euthanasia-aba684734dbe7f2854719e74dd687642) |
+| demolição | BR | pt | 500 | 11:50 |  |
+| wrexham x wolves | BR | pt | 500 | 11:50 | [Wrexham vs Wolves Confirmed Lineups](https://www.whoscored.com/news/UhdIz-3e30Wdl5pfnOBpHg/show/cng112-20261107-wrexham-vs-wolves-confirmed-lineup-1794050646) |
+| sítio arqueológico | BR | pt | 500 | 11:10 | [Mercúrio contaminou mais sítios arqueológicos maias do que se imaginava, diz estudo](https://g1.globo.com/ciencia/noticia/2026/11/07/mercurio-contaminou-mais-sitios-arqueologicos-maias-do-que-se-imaginava-diz-estudo.ghtml) |
+| leeds - spurs | PT | pt | 500 | 11:50 | [Premier League LIVE: Build-up, team news, live text, radio & score updates from across the Premier League](https://www.bbc.com/sport/football/live/cmj6jdk36975t) |
+| autoridade de segurança alimentar e económica | PT | pt | 500 | 10:50 | [Mais de 500 empresas do ramo alimentar suspensas por risco para a saúde pública](https://www.jn.pt/nacional/artigo/mais-de-500-empresas-do-ramo-alimentar-suspensas-por-risco-para-a-saude-publica/18145517) |
 
-## Uygun yeni adaylar (148)
+## Uygun yeni adaylar (143)
 
 | Puan | Kişi | Kategori | Nerede trend | Wikipedia artışı | Kaynak | Not |
 | --- | --- | --- | --- | --- | --- | --- |
 | 216 | Russell Brand | creators | en, es, pt, de, fr | 40.2x | [Q296609](https://www.wikidata.org/wiki/Q296609) [Wikipedia](https://en.wikipedia.org/wiki/Russell_Brand) |  |
-| 199 | Q22686 | business | en, es, pt, DE, de, fr | 1.3x | [Q22686](https://www.wikidata.org/wiki/Q22686) [Wikipedia](https://en.wikipedia.org/wiki/Donald_Trump) |  |
-| 192 | Santiago Peña Palacios | business | en, es, pt, fr | 155.9x | [Q22695687](https://www.wikidata.org/wiki/Q22695687) [Wikipedia](https://en.wikipedia.org/wiki/Santiago_Pe%C3%B1a) |  |
+| 193 | Santiago Peña Palacios | business | en, es, pt, fr | 155.9x | [Q22695687](https://www.wikidata.org/wiki/Q22695687) [Wikipedia](https://en.wikipedia.org/wiki/Santiago_Pe%C3%B1a) |  |
 | 191 | Stephen Miller | artists | en, es, de, fr | 24.1x | [Q27996060](https://www.wikidata.org/wiki/Q27996060) [Wikipedia](https://en.wikipedia.org/wiki/Stephen_Miller) |  |
 | 178 | Jesús de Miguel Alameda | athletes | en, es, pt, de, fr | 9.9x | [Q116992476](https://www.wikidata.org/wiki/Q116992476) [Wikipedia](https://en.wikipedia.org/wiki/Jes%C3%BAs_de_Miguel) | recent death, write with care |
 | 173 | Jon Ossoff | business | en, es, pt, de, fr | 6.5x | [Q28839536](https://www.wikidata.org/wiki/Q28839536) [Wikipedia](https://en.wikipedia.org/wiki/Jon_Ossoff) |  |
 | 170 | Cristiano Ronaldo | athletes | en, es, pt, de, fr | 2.6x | [Q11571](https://www.wikidata.org/wiki/Q11571) [Wikipedia](https://en.wikipedia.org/wiki/Cristiano_Ronaldo) |  |
-| 165 | Bob Dylan | artists | ES, es, pt, de | 6.2x | [Q392](https://www.wikidata.org/wiki/Q392) [Wikipedia](https://en.wikipedia.org/wiki/Bob_Dylan) |  |
 | 164 | Joran van der Sloot | artists | en, es, de | 35.2x | [Q3273337](https://www.wikidata.org/wiki/Q3273337) [Wikipedia](https://en.wikipedia.org/wiki/Joran_van_der_Sloot) |  |
 | 157 | Leonard Cohen | artists | de, fr | 67.7x | [Q1276](https://www.wikidata.org/wiki/Q1276) [Wikipedia](https://en.wikipedia.org/wiki/Leonard_Cohen) |  |
 | 150 | Horacio Cartes | business | es, pt | 72x | [Q5901842](https://www.wikidata.org/wiki/Q5901842) [Wikipedia](https://en.wikipedia.org/wiki/Horacio_Cartes) |  |
@@ -70,10 +68,11 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 | 146 | Sebastián Lelio | artists | es, de | 2086.7x | [Q4250213](https://www.wikidata.org/wiki/Q4250213) [Wikipedia](https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Lelio) | recent death, write with care |
 | 145 | Taylor Fritz | athletes | es, fr | 42x | [Q17660516](https://www.wikidata.org/wiki/Q17660516) [Wikipedia](https://en.wikipedia.org/wiki/Taylor_Fritz) |  |
 | 140 | Luca Van Assche | athletes | es, fr | 187.3x | [Q107205896](https://www.wikidata.org/wiki/Q107205896) [Wikipedia](https://en.wikipedia.org/wiki/Luca_Van_Assche) |  |
+| 139 | Pedro Alliana | business | es, pt | 135.5x | [Q51885479](https://www.wikidata.org/wiki/Q51885479) [Wikipedia](https://en.wikipedia.org/wiki/Pedro_Alliana) |  |
 | 138 | Meghan, Duchess of Sussex | artists | en, es, pt | 7.6x | [Q3304418](https://www.wikidata.org/wiki/Q3304418) [Wikipedia](https://en.wikipedia.org/wiki/Meghan%2C_Duchess_of_Sussex) |  |
-| 137 | Pedro Alliana | business | es, pt | 135.5x | [Q51885479](https://www.wikidata.org/wiki/Q51885479) [Wikipedia](https://en.wikipedia.org/wiki/Pedro_Alliana) |  |
-| 137 | Mathieu Kassovitz | artists | FR, fr | 12.5x | [Q491766](https://www.wikidata.org/wiki/Q491766) [Wikipedia](https://en.wikipedia.org/wiki/Mathieu_Kassovitz) |  |
+| 135 | Bob Dylan | artists | es, pt, de | 6.2x | [Q392](https://www.wikidata.org/wiki/Q392) [Wikipedia](https://en.wikipedia.org/wiki/Bob_Dylan) |  |
 | 132 | Reinhold Messner | athletes | de | 30.5x | [Q189307](https://www.wikidata.org/wiki/Q189307) [Wikipedia](https://en.wikipedia.org/wiki/Reinhold_Messner) |  |
+| 130 | Conor Coady | athletes | MX | 81x | [Q723606](https://www.wikidata.org/wiki/Q723606) [Wikipedia](https://en.wikipedia.org/wiki/Conor_Coady) |  |
 | 129 | Adriana Sklenaříková | artists | fr | 31.1x | [Q230846](https://www.wikidata.org/wiki/Q230846) [Wikipedia](https://en.wikipedia.org/wiki/Adriana_Sklena%C5%99%C3%ADkov%C3%A1) |  |
 | 128 | James Naismith | athletes | de | 316.7x | [Q188962](https://www.wikidata.org/wiki/Q188962) [Wikipedia](https://en.wikipedia.org/wiki/James_Naismith) |  |
 | 128 | Anne Heche | artists | fr | 23.3x | [Q234610](https://www.wikidata.org/wiki/Q234610) [Wikipedia](https://en.wikipedia.org/wiki/Anne_Heche) |  |
@@ -95,6 +94,7 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 | 122 | Bettina Zimmermann | artists | de | 52.2x | [Q72555](https://www.wikidata.org/wiki/Q72555) [Wikipedia](https://en.wikipedia.org/wiki/Bettina_Zimmermann) |  |
 | 122 | Mickaël Pagis | athletes | fr | 105x | [Q142620](https://www.wikidata.org/wiki/Q142620) [Wikipedia](https://en.wikipedia.org/wiki/Micka%C3%ABl_Pagis) |  |
 | 121 | Peret | artists | es | 75x | [Q1388730](https://www.wikidata.org/wiki/Q1388730) [Wikipedia](https://en.wikipedia.org/wiki/Peret) |  |
+| 121 | Montader Madjed | athletes | AT | 126.5x | [Q107420356](https://www.wikidata.org/wiki/Q107420356) [Wikipedia](https://en.wikipedia.org/wiki/Montader_Madjed) |  |
 | 121 | Natja Brunckhorst | artists | de | 30.1x | [Q62581](https://www.wikidata.org/wiki/Q62581) [Wikipedia](https://en.wikipedia.org/wiki/Natja_Brunckhorst) |  |
 | 121 | Élodie Frégé | artists | fr | 24.1x | [Q274761](https://www.wikidata.org/wiki/Q274761) [Wikipedia](https://en.wikipedia.org/wiki/%C3%89lodie_Fr%C3%A9g%C3%A9) |  |
 | 120 | Eva Elfie | creators | de | 28.5x | [Q67130262](https://www.wikidata.org/wiki/Q67130262) [Wikipedia](https://en.wikipedia.org/wiki/Eva_Elfie) |  |
@@ -102,6 +102,9 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 | 119 | Katie Miller | creators | en | 23.8x | [Q78337779](https://www.wikidata.org/wiki/Q78337779) [Wikipedia](https://en.wikipedia.org/wiki/Katie_Miller) |  |
 | 119 | Q3297865 | artists | es | 31.1x | [Q3297865](https://www.wikidata.org/wiki/Q3297865) [Wikipedia](https://en.wikipedia.org/wiki/Bobby_Pulido) |  |
 | 119 | El Gran Wyoming | artists | es | 26.9x | [Q527394](https://www.wikidata.org/wiki/Q527394) [Wikipedia](https://en.wikipedia.org/wiki/El_Gran_Wyoming) |  |
+| 119 | Sasha | artists | de | 33x | [Q63317](https://www.wikidata.org/wiki/Q63317) [Wikipedia](https://en.wikipedia.org/wiki/Sasha_(German_singer)) |  |
+| 119 | Rut Brandt | artists | de | 68.9x | [Q462355](https://www.wikidata.org/wiki/Q462355) [Wikipedia](https://en.wikipedia.org/wiki/Rut_Brandt) |  |
+| 119 | Hanns Zischler | artists | de | 23.1x | [Q67881](https://www.wikidata.org/wiki/Q67881) [Wikipedia](https://en.wikipedia.org/wiki/Hanns_Zischler) |  |
 | 119 | Johnny Depp | artists | fr | 14.2x | [Q37175](https://www.wikidata.org/wiki/Q37175) [Wikipedia](https://en.wikipedia.org/wiki/Johnny_Depp) |  |
 | 119 | Rinky Hijikata | athletes | fr | 53.4x | [Q60227425](https://www.wikidata.org/wiki/Q60227425) [Wikipedia](https://en.wikipedia.org/wiki/Rinky_Hijikata) |  |
 | 118 | Trevor Lawrence | athletes | en | 18.4x | [Q42225228](https://www.wikidata.org/wiki/Q42225228) [Wikipedia](https://en.wikipedia.org/wiki/Trevor_Lawrence) |  |
@@ -113,14 +116,12 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 | 118 | Didier Barbelivien | artists | fr | 28.3x | [Q1210514](https://www.wikidata.org/wiki/Q1210514) [Wikipedia](https://en.wikipedia.org/wiki/Didier_Barbelivien) |  |
 | 117 | Carlos Cuerpo | business | es | 21.7x | [Q124040442](https://www.wikidata.org/wiki/Q124040442) [Wikipedia](https://en.wikipedia.org/wiki/Carlos_Cuerpo) |  |
 | 117 | Maria Innocentia Hummel | artists | de | 676.4x | [Q1895990](https://www.wikidata.org/wiki/Q1895990) [Wikipedia](https://en.wikipedia.org/wiki/Maria_Innocentia_Hummel) |  |
-| 117 | Maëlle | artists | fr | 35.5x | [Q72326804](https://www.wikidata.org/wiki/Q72326804) [Wikipedia](https://en.wikipedia.org/wiki/Ma%C3%ABlle) |  |
 | 116 | Martin Schneider | artists | de | 60.7x | [Q98362](https://www.wikidata.org/wiki/Q98362) [Wikipedia](https://en.wikipedia.org/wiki/Martin_Schneider) |  |
 | 115 | Maria Alicia Delgado | artists | es | 527.5x | [Q6003298](https://www.wikidata.org/wiki/Q6003298) [Wikipedia](https://en.wikipedia.org/wiki/Mar%C3%ADa_Alicia_Delgado) | recent death, write with care |
 | 115 | Melanie Raabe | artists | de | 164.8x | [Q20752207](https://www.wikidata.org/wiki/Q20752207) [Wikipedia](https://en.wikipedia.org/wiki/Melanie_Raabe) |  |
 | 115 | Benjamin von Stuckrad-Barre | artists | de | 21x | [Q96701](https://www.wikidata.org/wiki/Q96701) [Wikipedia](https://en.wikipedia.org/wiki/Benjamin_von_Stuckrad-Barre) |  |
 | 115 | Alexander Huber | athletes | de | 38.9x | [Q67452](https://www.wikidata.org/wiki/Q67452) [Wikipedia](https://en.wikipedia.org/wiki/Alexander_Huber) |  |
 | 115 | Sofiane | artists | fr | 24.8x | [Q28837265](https://www.wikidata.org/wiki/Q28837265) [Wikipedia](https://en.wikipedia.org/wiki/Sofiane_(rapper)) |  |
-| 115 | Aminata Diallo | athletes | fr | 63.2x | [Q18611155](https://www.wikidata.org/wiki/Q18611155) [Wikipedia](https://en.wikipedia.org/wiki/Aminata_Diallo) |  |
 | 114 | María Isabel Medina Peralta | creators | es | 22.2x | [Q117661402](https://www.wikidata.org/wiki/Q117661402) [Wikipedia](https://en.wikipedia.org/wiki/Isabel_Peralta) |  |
 | 114 | Werner Stocker | artists | de | 85.2x | [Q102627](https://www.wikidata.org/wiki/Q102627) [Wikipedia](https://en.wikipedia.org/wiki/Werner_Stocker_(actor)) |  |
 | 113 | Rodrigo Cuevas | artists | es | 44.8x | [Q73733144](https://www.wikidata.org/wiki/Q73733144)  |  |
@@ -132,8 +133,8 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 | 109 | Jenifer | artists | fr | 15x | [Q270335](https://www.wikidata.org/wiki/Q270335) [Wikipedia](https://en.wikipedia.org/wiki/Jenifer_(singer)) |  |
 | 107 | Kirsty Gallacher | artists | en | 16.5x | [Q6416161](https://www.wikidata.org/wiki/Q6416161) [Wikipedia](https://en.wikipedia.org/wiki/Kirsty_Gallacher) |  |
 | 107 | Jaafar Jackson | artists | de | 14.5x | [Q123693068](https://www.wikidata.org/wiki/Q123693068) [Wikipedia](https://en.wikipedia.org/wiki/Jaafar_Jackson) |  |
+| 107 | Mathieu Kassovitz | artists | fr | 12.5x | [Q491766](https://www.wikidata.org/wiki/Q491766) [Wikipedia](https://en.wikipedia.org/wiki/Mathieu_Kassovitz) |  |
 | 104 | Gavin Newsom | business | en, de | 4.2x | [Q461391](https://www.wikidata.org/wiki/Q461391) [Wikipedia](https://en.wikipedia.org/wiki/Gavin_Newsom) |  |
-| 104 | Jacobo Ramón | athletes | es | 14.2x | [Q121817143](https://www.wikidata.org/wiki/Q121817143) [Wikipedia](https://en.wikipedia.org/wiki/Jacobo_Ram%C3%B3n) |  |
 | 104 | Peter Kurth | artists | de | 16x | [Q1577817](https://www.wikidata.org/wiki/Q1577817) [Wikipedia](https://en.wikipedia.org/wiki/Peter_Kurth) |  |
 | 103 | JD Vance | artists | en, de | 2.3x | [Q28935729](https://www.wikidata.org/wiki/Q28935729) [Wikipedia](https://en.wikipedia.org/wiki/JD_Vance) |  |
 | 101 | Günter Netzer | athletes | de | 12.1x | [Q44326](https://www.wikidata.org/wiki/Q44326) [Wikipedia](https://en.wikipedia.org/wiki/G%C3%BCnter_Netzer) |  |
@@ -153,10 +154,9 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 | 90 | Philippe de Villiers | artists | fr | 9.3x | [Q704846](https://www.wikidata.org/wiki/Q704846) [Wikipedia](https://en.wikipedia.org/wiki/Philippe_de_Villiers) |  |
 | 88 | Melody | artists | pt | 9.3x | [Q25438724](https://www.wikidata.org/wiki/Q25438724) [Wikipedia](https://en.wikipedia.org/wiki/Melody_(Brazilian_singer)) |  |
 | 88 | Carsten Maschmeyer | business | de | 11.8x | [Q1045616](https://www.wikidata.org/wiki/Q1045616) [Wikipedia](https://en.wikipedia.org/wiki/Carsten_Maschmeyer) |  |
-| 87 | Yosuke Watanuki | athletes | US | 9.8x | [Q23771664](https://www.wikidata.org/wiki/Q23771664) [Wikipedia](https://en.wikipedia.org/wiki/Yosuke_Watanuki) |  |
+| 88 | George Michael | artists | de | 5.4x | [Q130311](https://www.wikidata.org/wiki/Q130311) [Wikipedia](https://en.wikipedia.org/wiki/George_Michael) |  |
 | 87 | Josh O'Connor | artists | de | 7.5x | [Q27898655](https://www.wikidata.org/wiki/Q27898655) [Wikipedia](https://en.wikipedia.org/wiki/Josh_O'Connor) |  |
 | 87 | Sophie Marceau | artists | fr | 5x | [Q162753](https://www.wikidata.org/wiki/Q162753) [Wikipedia](https://en.wikipedia.org/wiki/Sophie_Marceau) |  |
-| 87 | Cesc Fàbregas | athletes | fr | 5.8x | [Q17499](https://www.wikidata.org/wiki/Q17499) [Wikipedia](https://en.wikipedia.org/wiki/Cesc_F%C3%A0bregas) |  |
 | 86 | Pope Francis | artists | es | 3.2x | [Q450675](https://www.wikidata.org/wiki/Q450675) [Wikipedia](https://en.wikipedia.org/wiki/Pope_Francis) | recent death, write with care |
 | 85 | Pedro Almodóvar | artists | es | 5.4x | [Q55171](https://www.wikidata.org/wiki/Q55171) [Wikipedia](https://en.wikipedia.org/wiki/Pedro_Almod%C3%B3var) |  |
 | 84 | Yash | artists | en | 5.6x | [Q15721444](https://www.wikidata.org/wiki/Q15721444) [Wikipedia](https://en.wikipedia.org/wiki/Yash_(actor)) |  |
@@ -169,49 +169,46 @@ Gündem yazıları buradan seçilir. Ölüm, kaza, suç, savaş ve siyaset konul
 | 81 | Benedict XVI | artists | es | 2.5x | [Q2494](https://www.wikidata.org/wiki/Q2494) [Wikipedia](https://en.wikipedia.org/wiki/Pope_Benedict_XVI) |  |
 | 81 | Jean Gabin | artists | fr | 3.5x | [Q23842](https://www.wikidata.org/wiki/Q23842) [Wikipedia](https://en.wikipedia.org/wiki/Jean_Gabin) |  |
 | 80 | Nitesh Tiwari | artists | en | 5.2x | [Q16908467](https://www.wikidata.org/wiki/Q16908467) [Wikipedia](https://en.wikipedia.org/wiki/Nitesh_Tiwari) |  |
+| 80 | Ravi Dubey | artists | en | 5.7x | [Q7296622](https://www.wikidata.org/wiki/Q7296622) [Wikipedia](https://en.wikipedia.org/wiki/Ravi_Dubey) |  |
+| 80 | Robert Pattinson | artists | AT | 1.1x | [Q36767](https://www.wikidata.org/wiki/Q36767) [Wikipedia](https://en.wikipedia.org/wiki/Robert_Pattinson) |  |
 | 80 | Jürgen Vogel | artists | de | 6.3x | [Q62052](https://www.wikidata.org/wiki/Q62052) [Wikipedia](https://en.wikipedia.org/wiki/J%C3%BCrgen_Vogel) |  |
-| 79 | Alex Ferguson | athletes | PT | 2.1x | [Q44980](https://www.wikidata.org/wiki/Q44980) [Wikipedia](https://en.wikipedia.org/wiki/Alex_Ferguson) |  |
-| 79 | Robert Pattinson | artists | DE | 1.1x | [Q36767](https://www.wikidata.org/wiki/Q36767) [Wikipedia](https://en.wikipedia.org/wiki/Robert_Pattinson) |  |
 | 78 | Gustavo Petro | business | es | 3.6x | [Q704022](https://www.wikidata.org/wiki/Q704022) [Wikipedia](https://en.wikipedia.org/wiki/Gustavo_Petro) |  |
 | 77 | Kaio Jorge | athletes | pt | 5.8x | [Q56876908](https://www.wikidata.org/wiki/Q56876908) [Wikipedia](https://en.wikipedia.org/wiki/Kaio_Jorge) |  |
-| 77 | Pierre Garnier | artists | fr | 8.5x | [Q123315299](https://www.wikidata.org/wiki/Q123315299) [Wikipedia](https://en.wikipedia.org/wiki/Pierre_Garnier) |  |
-| 76 | Salma Hayek | artists | US | 1x | [Q125106](https://www.wikidata.org/wiki/Q125106) [Wikipedia](https://en.wikipedia.org/wiki/Salma_Hayek) |  |
+| 76 | Matt Damon | artists | AR | 1x | [Q175535](https://www.wikidata.org/wiki/Q175535) [Wikipedia](https://en.wikipedia.org/wiki/Matt_Damon) |  |
 | 76 | Marie Laforêt | artists | fr | 3.5x | [Q239807](https://www.wikidata.org/wiki/Q239807) [Wikipedia](https://en.wikipedia.org/wiki/Marie_Lafor%C3%AAt) |  |
 | 75 | Susan Saint James | artists | en | 2.7x | [Q259559](https://www.wikidata.org/wiki/Q259559) [Wikipedia](https://en.wikipedia.org/wiki/Susan_Saint_James) | recent death, write with care |
-| 75 | Clarence Seedorf | athletes | BR | 0.4x | [Q484909](https://www.wikidata.org/wiki/Q484909) [Wikipedia](https://en.wikipedia.org/wiki/Clarence_Seedorf) |  |
+| 75 | Keylor Navas | athletes | MX | 0.8x | [Q969423](https://www.wikidata.org/wiki/Q969423) [Wikipedia](https://en.wikipedia.org/wiki/Keylor_Navas) |  |
 | 75 | Jim Caviezel | artists | pt | 3.3x | [Q200841](https://www.wikidata.org/wiki/Q200841) [Wikipedia](https://en.wikipedia.org/wiki/Jim_Caviezel) |  |
-| 75 | Elina Svitolina | athletes | DE | 1.6x | [Q270249](https://www.wikidata.org/wiki/Q270249) [Wikipedia](https://en.wikipedia.org/wiki/Elina_Svitolina) |  |
-| 74 | Skepta | artists | GB | 3x | [Q164446](https://www.wikidata.org/wiki/Q164446) [Wikipedia](https://en.wikipedia.org/wiki/Skepta) |  |
-| 74 | Q155700 | artists | FR | 1x | [Q155700](https://www.wikidata.org/wiki/Q155700) [Wikipedia](https://en.wikipedia.org/wiki/Chris_Brown) |  |
+| 73 | Jhon Durán | athletes | PT | 2.5x | [Q64748320](https://www.wikidata.org/wiki/Q64748320) [Wikipedia](https://en.wikipedia.org/wiki/Jhon_Dur%C3%A1n) |  |
 | 73 | Andrzej Żuławski | artists | fr | 2.7x | [Q515904](https://www.wikidata.org/wiki/Q515904) [Wikipedia](https://en.wikipedia.org/wiki/Andrzej_%C5%BBu%C5%82awski) |  |
-| 72 | Amaia Montero | artists | ES | 1.5x | [Q686070](https://www.wikidata.org/wiki/Q686070) [Wikipedia](https://en.wikipedia.org/wiki/Amaia_Montero) |  |
-| 72 | De'Aaron Fox | athletes | AR | 1.1x | [Q21621315](https://www.wikidata.org/wiki/Q21621315) [Wikipedia](https://en.wikipedia.org/wiki/De'Aaron_Fox) |  |
+| 72 | Dayot Upamecano | athletes | AT | 0.8x | [Q20723878](https://www.wikidata.org/wiki/Q20723878) [Wikipedia](https://en.wikipedia.org/wiki/Dayot_Upamecano) |  |
 | 71 | Pablo Hernández de Cos | business | es | 6.1x | [Q54370999](https://www.wikidata.org/wiki/Q54370999) [Wikipedia](https://en.wikipedia.org/wiki/Pablo_Hern%C3%A1ndez_de_Cos) |  |
+| 71 | Darren Ferguson | athletes | BR | 2x | [Q513167](https://www.wikidata.org/wiki/Q513167) [Wikipedia](https://en.wikipedia.org/wiki/Darren_Ferguson) |  |
 | 71 | Conceição Evaristo | artists | pt | 6.4x | [Q16939999](https://www.wikidata.org/wiki/Q16939999) [Wikipedia](https://en.wikipedia.org/wiki/Concei%C3%A7%C3%A3o_Evaristo) |  |
 | 71 | Daniela Katzenberger | artists | de | 4.8x | [Q22979](https://www.wikidata.org/wiki/Q22979) [Wikipedia](https://en.wikipedia.org/wiki/Daniela_Katzenberger) |  |
-| 70 | Drew McIntyre | athletes | GB | 0.9x | [Q311944](https://www.wikidata.org/wiki/Q311944) [Wikipedia](https://en.wikipedia.org/wiki/Drew_McIntyre) |  |
-| 70 | Filipe Luís | athletes | BR | 0x | [Q350547](https://www.wikidata.org/wiki/Q350547) [Wikipedia](https://en.wikipedia.org/wiki/Filipe_Lu%C3%ADs) |  |
+| 71 | Neco Williams | athletes | FR | 1x | [Q72921909](https://www.wikidata.org/wiki/Q72921909) [Wikipedia](https://en.wikipedia.org/wiki/Neco_Williams) |  |
+| 70 | Abdülkerim Bardakçı | athletes | DE | 0.6x | [Q318069](https://www.wikidata.org/wiki/Q318069) [Wikipedia](https://en.wikipedia.org/wiki/Abd%C3%BClkerim_Bardakc%C4%B1) |  |
+| 69 | Allan Saint-Maximin | athletes | PT | 0.4x | [Q15044053](https://www.wikidata.org/wiki/Q15044053) [Wikipedia](https://en.wikipedia.org/wiki/Allan_Saint-Maximin) |  |
 | 68 | Mon Laferte | artists | es | 2.5x | [Q2836528](https://www.wikidata.org/wiki/Q2836528) [Wikipedia](https://en.wikipedia.org/wiki/Mon_Laferte) |  |
 | 68 | Delphine Wespiser | artists | fr | 3.5x | [Q1280549](https://www.wikidata.org/wiki/Q1280549) [Wikipedia](https://en.wikipedia.org/wiki/Delphine_Wespiser) |  |
-| 67 | José Wilker | artists | pt | 2.8x | [Q2366279](https://www.wikidata.org/wiki/Q2366279) [Wikipedia](https://en.wikipedia.org/wiki/Jos%C3%A9_Wilker) |  |
-| 66 | Shirin David | creators | de | 3x | [Q27031148](https://www.wikidata.org/wiki/Q27031148) [Wikipedia](https://en.wikipedia.org/wiki/Shirin_David) |  |
+| 66 | Daniel-Kofi Kyereh | athletes | DE | 0.8x | [Q55819531](https://www.wikidata.org/wiki/Q55819531) [Wikipedia](https://en.wikipedia.org/wiki/Daniel-Kofi_Kyereh) |  |
+| 65 | Fernando Vallejo | artists | AR | 1x | [Q706272](https://www.wikidata.org/wiki/Q706272) [Wikipedia](https://en.wikipedia.org/wiki/Fernando_Vallejo) |  |
+| 65 | Jean-Michel Larqué | athletes | FR | 1.5x | [Q711645](https://www.wikidata.org/wiki/Q711645) [Wikipedia](https://en.wikipedia.org/wiki/Jean-Michel_Larqu%C3%A9) |  |
 | 65 | Quentin Mosimann | artists | fr | 2.8x | [Q672239](https://www.wikidata.org/wiki/Q672239) [Wikipedia](https://en.wikipedia.org/wiki/Quentin_Mosimann) |  |
-| 64 | Marina Ruy Barbosa | business | pt | 2.6x | [Q4399874](https://www.wikidata.org/wiki/Q4399874) [Wikipedia](https://en.wikipedia.org/wiki/Marina_Ruy_Barbosa) |  |
-| 63 | Ricardo Salinas Pliego | business | MX | 1.2x | [Q664097](https://www.wikidata.org/wiki/Q664097) [Wikipedia](https://en.wikipedia.org/wiki/Ricardo_Salinas_Pliego) |  |
-| 63 | Miguel Merentiel | athletes | AR | 0.9x | [Q35066509](https://www.wikidata.org/wiki/Q35066509) [Wikipedia](https://en.wikipedia.org/wiki/Miguel_Merentiel) |  |
+| 64 | Charles Stanton Ogle | artists | ES | 0x | [Q1065688](https://www.wikidata.org/wiki/Q1065688) [Wikipedia](https://en.wikipedia.org/wiki/Charles_Stanton_Ogle) |  |
 | 62 | François Ruffin | artists | fr | 2.1x | [Q3085763](https://www.wikidata.org/wiki/Q3085763) [Wikipedia](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin) |  |
-| 60 | Iñaki Gabilondo | artists | ES | 0.8x | [Q2503959](https://www.wikidata.org/wiki/Q2503959) [Wikipedia](https://en.wikipedia.org/wiki/I%C3%B1aki_Gabilondo) |  |
-| 59 | Tony Carreira | artists | PT | 0.7x | [Q458510](https://www.wikidata.org/wiki/Q458510) [Wikipedia](https://en.wikipedia.org/wiki/Tony_Carreira) |  |
-| 58 | Geoff Molson | business | GB | 1.6x | [Q5534231](https://www.wikidata.org/wiki/Q5534231) [Wikipedia](https://en.wikipedia.org/wiki/Geoff_Molson) |  |
+| 59 | Andreas Schicker | athletes | AT | 1.3x | [Q344946](https://www.wikidata.org/wiki/Q344946) [Wikipedia](https://en.wikipedia.org/wiki/Andreas_Schicker) |  |
 
-## Sitede zaten var, güncellemeye aday (3)
+## Sitede zaten var, güncellemeye aday (5)
 
 | Puan | Kişi | Kategori | Nerede trend | Wikipedia artışı | Kaynak | Not |
 | --- | --- | --- | --- | --- | --- | --- |
-| 84 | Callum Turner | artists | de | 6.5x | [Q18162913](https://www.wikidata.org/wiki/Q18162913) [Wikipedia](https://en.wikipedia.org/wiki/Callum_Turner) |  |
+| 114 | Callum Turner | artists | AT, de | 6.5x | [Q18162913](https://www.wikidata.org/wiki/Q18162913) [Wikipedia](https://en.wikipedia.org/wiki/Callum_Turner) |  |
+| 78 | Harry Kane | athletes | PT | 0.5x | [Q969725](https://www.wikidata.org/wiki/Q969725) [Wikipedia](https://en.wikipedia.org/wiki/Harry_Kane) |  |
+| 75 | Nigella Lawson | artists | GB | 0.8x | [Q264724](https://www.wikidata.org/wiki/Q264724) [Wikipedia](https://en.wikipedia.org/wiki/Nigella_Lawson) |  |
 | 68 | Gabriel Bortoleto | athletes | pt | 2x | [Q106641273](https://www.wikidata.org/wiki/Q106641273) [Wikipedia](https://en.wikipedia.org/wiki/Gabriel_Bortoleto) |  |
 | 67 | Vianney | artists | fr | 2.2x | [Q18613182](https://www.wikidata.org/wiki/Q18613182) [Wikipedia](https://en.wikipedia.org/wiki/Vianney_(singer)) |  |
 
 ## Elenenler
 
-263 kişi elendi (reşit olmayan, suç ya da trajedi haberi, az tanınan, kategori dışı ya da trend zayıf). Ayrıntı JSON dosyasında.
+266 kişi elendi (reşit olmayan, suç ya da trajedi haberi, az tanınan, kategori dışı ya da trend zayıf). Ayrıntı JSON dosyasında.
