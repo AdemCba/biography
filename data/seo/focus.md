@@ -1,6 +1,6 @@
 # Search Console focus list
 
-From Search Console, 2026-10-30 to 2026-11-06, updated automatically every day.
+From Search Console, 2026-10-31 to 2026-11-07, updated automatically every day.
 
 Each page below shows on Google's first or second page (average position 3-20) but gets almost no clicks. The queries are what people typed. The writer works
 through this list from the top, up to 3 pages per people run, then ticks the box with the date.
@@ -18,6 +18,31 @@ For each page, edit only that language's file:
 
 ## Pages
 
+- [ ] es/lauren-graham (149 impressions, 0 clicks, position 8.8): lauren graham, lauren graham edad, lauren graham actualidad, lauren graham tiene hijos, laura graham, lauren graham hoy, matthew perry parejas, edad de lauren graham
+- [ ] de/lauren-graham (105 impressions, 0 clicks, position 10.3): lauren graham kinder, lauren graham heute, lauren graham, wie alt ist lauren graham, wie alt ist lorelai gilmore, wie alt ist die schauspielerin von lorelai gilmore, wie alt war die schauspielerin von lorelai gilmore, alter lauren graham
+- [ ] de/sebastian-fitzek (96 impressions, 0 clicks, position 8.1): sebastian fitzek alter, fitzek alter, wie alt ist sebastian fitzek, wie alt ist fitzek, alter fitzek, alter sebastian fitzek
+- [ ] es/elena-rybakina (87 impressions, 0 clicks, position 16.9): elena rybakina edad, rybakina, rybakina edad, elena rybakina, qué edad tiene la tenista rybakina, de donde es rybakina, edad de rybakina, cuantos años tiene rybakina
+- [ ] fr/jan-lennard-struff (83 impressions, 0 clicks, position 9.5): struff taille, taille struff, struff age, age struff tennis, jan-lennard struff taille, jan lennard struff taille, struff tennis age, struff tennis taille
+- [ ] es/chauncey-leopardi (82 impressions, 0 clicks, position 8.5): chauncey leopardi, chauncey leopardi.
+- [ ] de/heidi-klum (73 impressions, 0 clicks, position 12.2): wie alt ist heidi klum, alter heidi klum, heidi klum alter, heidi klum halloween 2026, heidi klum gesicht 2026, how old is heidi klum?, wie alt ist heidi, wie alt ist heidi klum 2026
+- [ ] es/patrick-renna (73 impressions, 0 clicks, position 9.9): patrick renna, elenco nuestra pandilla, patrick renna sandlot 2, the sandlot patrick renna
+- [ ] fr/ishowspeed (73 impressions, 0 clicks, position 12.5): speed age, ishowspeed origine, ishowspeed est de quelle origine, le vrai nom de speed, le vrai nom de ishowspeed, qui est ishowspeed, c'est quoi le vrai nom de speed, darren watkins
+- [ ] fr/jaren-jackson-jr (72 impressions, 0 clicks, position 13.4): jaren jackson jr., jaren jackson jr, jjj nba, jaren jackson junior, jarrett jackson jr, jackson jr, j jackson jr, jackson junior
+- [ ] de/diego-moreira (69 impressions, 1 clicks, position 11.2): diego moreira, moreira ac milan, diego moreira eltern, diego moreira alter, diego moreira herkunft, diego moreira vater, diego moreira religion, diego morreira
+- [ ] fr/michel-drucker (69 impressions, 0 clicks, position 13.2): quel âge a michel drucker, michel drucker âge, age drucker, age michel drucker, âge de michel drucker, age de drucker, drucker age, quel âge a michel drucker ?
+- [ ] fr/teri-hatcher (64 impressions, 0 clicks, position 10.6): teri hatcher, teri hatcher aujourd'hui, teri hatcher enfant, teri hatcher 2026 age, age de teri hatcher, age teri hatcher, teri hatcher enfants, teri hatcher origine
+- [ ] en/tobey-maguire (63 impressions, 0 clicks, position 13.7): tobey maguire age, how old is tobey maguire, how old was tobey maguire in spider man, how old is tobey maguire now, "sam raimi", does tobey maguire still act, maguire, what is the age of tobey maguire
+- [ ] es/bhad-bhabie (63 impressions, 0 clicks, position 11.3): bhad bhabie, bhad bhabie edad, bhad babie, bhadhabie, daniela bregoli quien es, bad babie, bad bhabie, bhad baddie
+- [ ] de/esteban-ocon (62 impressions, 0 clicks, position 8.1): esteban ocon alter, esteban ocon herkunft, ocon alter, wie alt ist esteban ocon, esteban ocon wikipedia
+- [ ] pt/roger-federer (60 impressions, 0 clicks, position 12.5): idade federer, federer idade, roger federer, federer se aposentou com quantos anos, federer, quando federer se aposentou, quantos grand slams tem federer, quantos títulos tem roger federer
+- [ ] de/marley-shelton (58 impressions, 0 clicks, position 11.0): marley shelton, filme von marley shelton, marley shelton scream
+- [ ] fr/kimi-antonelli (57 impressions, 0 clicks, position 13.5): date naissance kimi antonelli, kimi antonelli age 2026, date de naissance de kimi antonelli, champion du monde f1 italien, kimi antonelli, kimi antonelli eta, kimi antonelli origine, antonelli age
+- [ ] en/heidi-klum (56 impressions, 0 clicks, position 9.7): heidi klum age 2026, heidi klum age, how old is heidi klum, edad de heidi klum, how old is heidi klum 2026
+- [ ] en/patsy-kensit (56 impressions, 0 clicks, position 8.9): sadie emmerdale age, how old is sadie in emmerdale, sadie king emmerdale age, how long is patsy kensit in emmerdale for, what age is sadie in emmerdale, what age is sadie king in emmerdale, how old is sadie from emmerdale, sadie king age
+- [ ] fr/cam-skattebo (55 impressions, 1 clicks, position 11.1): cam skattebo, skattebo, skattebo nfl, cam skattebo taille, cameron skattebo, new york giants skattebo, sam skattebo, scattebo
+- [ ] de/hubert-hurkacz (54 impressions, 0 clicks, position 12.4): hubert hurkacz, hurkacz, h. hurkacz, hubert hurkacz alter, hurkacz tennis, polnische tennisspieler, polnischer tennisspieler
+- [ ] de/michelle-randolph (53 impressions, 0 clicks, position 11.0): michelle randolph, michelle randolph alter, landman tochter, 1923 schauspieler, michele randolf, michelle landman, michelle randolph 1923
+- [ ] fr/tom-kaulitz (53 impressions, 0 clicks, position 12.4): tom kaulitz, chanteur tokio hotel 2026, tom tokio hotel, tom kaulitz 2026, kaulitz, les jumeaux kaulitz, tokio hotel age 2026, tokio hotel frere jumeau
 - [x] fr/lauren-graham 2026-11-06 (180 impressions, 0 clicks, position 10.4): lauren graham, lauren graham enfants, lauren graham couple, lauren graham maintenant, lauren graham aujourd'hui, lauren graham couple 2026, lauren graham mari, lauren graham taille
 - [x] fr/matt-rife 2026-11-06 (108 impressions, 1 clicks, position 12.9): matt rife, humoriste matt rife, matt rifd, matt rife alter, matt rive
 - [x] en/gabby-williams 2026-11-06 (106 impressions, 0 clicks, position 11.3): how old is gabby williams, gabby williams height, gabby williams height in feet, how old is gabby williams?, gabby williams age, gabby williams nationality, gabby williams born in france, gabby williams french
@@ -26,19 +51,6 @@ For each page, edit only that language's file:
 - [x] es/tobey-maguire 2026-11-06 (95 impressions, 0 clicks, position 10.6): tobey maguire edad, cuantos años tiene tobey maguire, edad de tobey maguire, cuántos años tiene tobey maguire, edad tobey maguire, tobey maguire, tobey maguire edad 2002, cuanto años tiene tobey maguire
 - [x] fr/paulo-fonseca 2026-11-06 (93 impressions, 0 clicks, position 12.6): paulo fonseca, paulo fonseca origine, paulo fonseca nationalité, paulo fonseca âge, paulo fonseca âgé, age paulo fonseca, paulo fonseca famille, paula fonseca
 - [x] pt/jan-lennard-struff 2026-11-06 (90 impressions, 0 clicks, position 9.2): struff tenista, jan-lennard struff, tenista struff, struff idade, jan lennard struff altura, struff altura, altura struff, struff atp
-- [ ] es/elena-rybakina (88 impressions, 0 clicks, position 16.8): elena rybakina edad, rybakina edad, rybakina, elena rybakina, qué edad tiene la tenista rybakina, de donde es rybakina, cuantos años tiene rybakina, de dónde es la tenista rybakina
-- [ ] fr/jan-lennard-struff (83 impressions, 0 clicks, position 9.5): struff taille, taille struff, struff age, age struff tennis, jan-lennard struff taille, jan lennard struff taille, struff tennis age, struff tennis taille
-- [ ] de/sebastian-fitzek (82 impressions, 0 clicks, position 8.1): sebastian fitzek alter, fitzek alter, wie alt ist sebastian fitzek, wie alt ist fitzek, alter sebastian fitzek
-- [ ] fr/jaren-jackson-jr (74 impressions, 0 clicks, position 13.4): jaren jackson jr., jaren jackson jr, jaren jackson junior, jarrett jackson jr, jjj nba, jackson jr, j jackson jr, jackson junior
-- [ ] de/luke-littler (73 impressions, 0 clicks, position 12.3): luke littler alter, wie alt ist luke littler, littler alter, luke littler, littler, beat luke littler wikipedia, luke littler herkunft, luke littler weltrangliste
-- [ ] es/bhad-bhabie (73 impressions, 0 clicks, position 11.5): bhad bhabie, bhad bhabie edad, bhad babie, bhadhabie, daniela bregoli quien es, bad babie, bad bhabie, bhad baddie
-- [ ] fr/cam-skattebo (71 impressions, 1 clicks, position 10.8): cam skattebo, skattebo, skattebo nfl, cam skattebo taille, cameron skattebo, new york giants skattebo, sam skattebo, scattebo
-- [ ] en/jeffery-simmons (71 impressions, 0 clicks, position 12.1): jeff simmons age, simmons bears age, how old is jeffrey simmons, jeffrey simmons age, jeffery simmons age, jeffery simmons, how old is football player jeffrey simmons, how old is jeffery simmons
-- [ ] es/chauncey-leopardi (71 impressions, 0 clicks, position 8.3): chauncey leopardi, chauncey leopardi.
-- [ ] de/heidi-klum (70 impressions, 0 clicks, position 12.2): wie alt ist heidi klum, alter heidi klum, heidi klum alter, heidi klum halloween 2026, how old is heidi klum?, wie alt ist heidi klum 2026, als was ist heidi klum zu halloween gegangen 2026, halloween 2026 heidi klum
-- [ ] de/lauren-graham (70 impressions, 0 clicks, position 10.7): lauren graham kinder, lauren graham heute, lauren graham, alter lauren graham, wie alt ist die schauspielerin von lorelai gilmore, wie alt ist lauren graham, wie alt ist lorelai gilmore, hat lauren graham kinder
-- [ ] es/lauren-graham (69 impressions, 0 clicks, position 8.6): lauren graham, lauren graham actualidad, laura graham, lauren graham edad, edad de lauren graham, lauren graham hijos, lauren graham hoy, lorelai gilmore actriz
-- [ ] de/stan-wawrinka (67 impressions, 2 clicks, position 18.9): stan wawrinka, wawrinka alter, stan wawrinka alter, stan wawrinka grand-slam siege einzel, stanislas wawrinka, wawrinka, stan wawrinka tennis, stan wawrinka weltrangliste
 - [x] pt/paulo-fonseca 2026-11-05 (269 impressions, 2 clicks, position 10.5): paulo fonseca idade, onde nasceu paulo fonseca, idade paulo fonseca, paulo fonseca, paulo fonseca naturalidade, paulo fonseca biografia, paulo fonseca barreiro, paulo fonseca sportinguista
 - [x] es/tom-kaulitz 2026-11-05 (268 impressions, 0 clicks, position 11.7): tom kaulitz, tom kaulitz 2026, tom kaulitz edad, tom kaulitz y su banda, quién es tom kaulitz, tom 2026 tokio hotel, tom bill kaulitz, tom de tokio hotel
 - [x] pt/gabriel-bortoleto 2026-11-05 (183 impressions, 0 clicks, position 10.3): gabriel bortoleto idade, idade bortoleto, bortoleto idade, idade gabriel bortoleto, idade de gabriel bortoleto, gabriel bortoleto, idade do gabriel bortoleto, quantos anos tem bortoleto
