@@ -6,6 +6,7 @@
     "tv-presenters"
   ],
   "importance": 4,
+  "wikidata": "Q1398433",
   "sameAs": [
     "https://www.karlosarguinano.com"
   ],
@@ -126,5 +127,11 @@
       "lang": "es"
     }
   ],
-  "wikidata": "Q1398433"
+  "image": {
+    "src": "/images/people/karlos-arguinano.jpg",
+    "alt": "Karlos Arguiñano",
+    "credit": "infoLibre",
+    "license": "CC BY 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karlos_Argui%C3%B1ano_La_cocina,_la_mejor_terapia.(cropped).jpg"
+  }
 }
