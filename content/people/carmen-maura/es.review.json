@@ -1,0 +1,109 @@
+{
+  "date": "2026-11-07",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born in Madrid on 15 September 1945; full name María del Carmen García Maura; height 1,61 m; Spanish",
+      "sourceIds": [
+        "formulatv-ficha",
+        "ecartelera-2013-donostia"
+      ],
+      "verdict": "confirmed",
+      "note": "FormulaTV and eCartelera confirm."
+    },
+    {
+      "claim": "Age 81 in November 2026",
+      "sourceIds": [
+        "formulatv-ficha"
+      ],
+      "verdict": "confirmed",
+      "note": "Consistent with birth date."
+    },
+    {
+      "claim": "Calle Málaga released 1 April 2026; character 79, lives alone in Tangier (María Ángeles); Touzani; filmed in Morocco in Spanish; Marta Etura, Miguel Garcés; Venice audience award, Denver, Mar del Plata; not in Almodóvar's new film",
+      "sourceIds": [
+        "hola-2026-calle-malaga"
+      ],
+      "verdict": "confirmed",
+      "note": "Hola confirms all; the Almodóvar film title is not named in that sentence but context fits."
+    },
+    {
+      "claim": "Two children María del Carmen and Pablo; married lawyer Francisco Forteza Pujol mid-1960s; separated in the 1970s; close relationship now",
+      "sourceIds": [
+        "theobjective-2026-familia",
+        "formulatv-ficha"
+      ],
+      "verdict": "confirmed",
+      "note": "The Objective confirms; FormulaTV confirms lawyer and two children, no names."
+    },
+    {
+      "claim": "Born in Chamberí, father ophthalmologist, enrolled at Bellas Artes de Madrid; conflicting accounts of studies disclosed",
+      "sourceIds": [
+        "theobjective-2026-familia",
+        "formulatv-ficha",
+        "elindependiente-2022-platino"
+      ],
+      "verdict": "confirmed",
+      "note": "Sources disagree as the article states."
+    },
+    {
+      "claim": "Works out of passion; cinema more bureaucratic and rigid",
+      "sourceIds": [
+        "theobjective-2026-familia"
+      ],
+      "verdict": "confirmed",
+      "note": "Source paraphrases rather than quotes her directly; article wording 'cita que dice' is slightly loose but acceptable."
+    },
+    {
+      "claim": "Teatro Español Universitario, full-time acting late 1970s, TV shows, Un casto varón español (1973), Folle... Tim (1978), Pepi Luci Bom (1980)",
+      "sourceIds": [
+        "elindependiente-2022-platino"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Almodóvar films 1984, 1986, 1987, 1988; Volver 2006 Cannes shared prize; Platino de Honor gala 1 May 2022 Madrid; four Goyas with categories (Volver supporting, 2007)",
+      "sourceIds": [
+        "elindependiente-2022-platino",
+        "efa-carmen-maura",
+        "moncloa-2022-platino"
+      ],
+      "verdict": "confirmed",
+      "note": "EFA lists Volver Goya as best lead actress; article discloses the discrepancy."
+    },
+    {
+      "claim": "First European Film Awards 1988 and 1990 best actress; honorary award announced 26 July 2018, 31st edition 15 Dec 2018 in Seville; César 2010 supporting; Knight of Order of Arts and Letters; Le Bonheur, Alice et Martin, Valentín, Tetro with directors; Carta a Eva 2012",
+      "sourceIds": [
+        "efa-carmen-maura"
+      ],
+      "verdict": "confirmed",
+      "note": "EFA confirms all, including directors."
+    },
+    {
+      "claim": "Seven films with Almodóvar; Ay Carmela thirteen awards; Concha de Plata for La comunidad; Donostia 2013; Esta noche; Colomo; directors list; Brujas de Zugarramurdi 2013; Qué he hecho yo 1984",
+      "sourceIds": [
+        "ecartelera-2013-donostia",
+        "moncloa-2022-platino"
+      ],
+      "verdict": "confirmed",
+      "note": "Source says they 'llegaron a rodar siete'; body says 'hasta siete'; FAQ says 'Siete, según eCartelera', acceptable. Moncloa confirms national awards and medals."
+    },
+    {
+      "claim": "Goya gala presenter 1990-1997; TV roles with years; Carta a Eva 2013; Olga in A las once en casa; Alguien tiene que morir 2020; Deudas 2021; Tierra de mujeres 2024; Furia 2025; La cuidadora (Netflix, Álex de la Iglesia, Blanca Suárez, 29 May 2025); Furia: Parte 2 cast; El hormiguero 5 Oct 2026 (16th visit); Cara al show 9 Sep 2026",
+      "sourceIds": [
+        "formulatv-ficha"
+      ],
+      "verdict": "confirmed",
+      "note": "All present in the FormulaTV page. Furia Parte 2 and La cuidadora are separate items; article's single sentence with the 29 May 2025 date applies to La cuidadora only, minor."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline, primary EFA source, and honest disclosure of conflicting sources (studies, Goya category, Carta a Eva year) add value over typical results.",
+  "decision": "approve",
+  "summary": "All checked claims are supported by the cited sources; source disagreements are disclosed. Minor nits: 'cita que dice' for a paraphrase, and the 29 May 2025 date applies only to La cuidadora, not to Furia: Parte 2."
+}

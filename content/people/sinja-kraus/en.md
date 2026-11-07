@@ -66,7 +66,7 @@ The WTA profile lists two WTA 125 singles titles: Cali in 2025 and Kitzbühel in
 
 ## Ranking and the 2026 climb
 
-By 7 October 2026 she had reached No. 75 in the WTA rankings after her run in Beijing. Asked about the top 50, she said it was, in her view, quite possible [s:vienna-ranking-2026]. TennisExplorer lists No. 75 as her highest singles ranking and No. 77 as her current one, as of 28 October 2026 [s:tennisexplorer-profile]. The WTA profile also shows No. 77, without a date [s:wta-profile].
+TennisExplorer lists No. 75 as her highest singles ranking and No. 77 as her current one, as of 28 October 2026 [s:tennisexplorer-profile]. The WTA profile also shows No. 77, without a date [s:wta-profile].
 
 ## Guangzhou and her coach
 

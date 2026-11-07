@@ -1,0 +1,101 @@
+{
+  "id": "carmen-maura",
+  "name": "Carmen Maura",
+  "categories": [
+    "artists",
+    "actors"
+  ],
+  "importance": 4,
+  "sameAs": [],
+  "facts": {
+    "birthDate": {
+      "value": "1945-09-15",
+      "sources": [
+        "formulatv-ficha",
+        "ecartelera-2013-donostia"
+      ]
+    },
+    "birthPlace": {
+      "value": "Madrid",
+      "sources": [
+        "formulatv-ficha",
+        "theobjective-2026-familia"
+      ]
+    },
+    "nationality": {
+      "value": [
+        "ES"
+      ],
+      "sources": [
+        "formulatv-ficha"
+      ]
+    }
+  },
+  "related": [],
+  "sources": [
+    {
+      "id": "efa-carmen-maura",
+      "url": "https://www.europeanfilmawards.eu/carmen-maura-2/",
+      "title": "Carmen Maura",
+      "publisher": "European Film Awards / European Film Academy",
+      "type": "award-body",
+      "accessed": "2026-11-07",
+      "lang": "en"
+    },
+    {
+      "id": "formulatv-ficha",
+      "url": "https://www.formulatv.com/personas/carmen-maura/",
+      "title": "Carmen Maura",
+      "publisher": "FormulaTV",
+      "type": "database",
+      "accessed": "2026-11-07",
+      "lang": "es"
+    },
+    {
+      "id": "theobjective-2026-familia",
+      "url": "https://theobjective.com/gente/2025-09-29/carmen-maura-actriz-familia-divorcio-abuso/",
+      "title": "Carmen Maura, más allá de la actriz: su edad, dos hijos y por qué no ha vuelto a enamorarse",
+      "publisher": "The Objective",
+      "type": "press",
+      "accessed": "2026-11-07",
+      "lang": "es"
+    },
+    {
+      "id": "hola-2026-calle-malaga",
+      "url": "https://www.hola.com/actualidad/20260324891278/carmen-maura-regresa-cine-a-los-80-calle-malaga/",
+      "title": "El regreso triunfal de Carmen Maura a los 80 años en una película premiada en el Festival de Venecia",
+      "publisher": "Hola",
+      "type": "press",
+      "accessed": "2026-11-07",
+      "lang": "es"
+    },
+    {
+      "id": "elindependiente-2022-platino",
+      "url": "https://www.elindependiente.com/tendencias/2022/04/05/carmen-maura-premio-platino-de-honor-del-cine-iberoamericano/amp/",
+      "title": "Carmen Maura, Premio Platino de Honor del cine iberoamericano",
+      "publisher": "El Independiente",
+      "type": "press",
+      "accessed": "2026-11-07",
+      "lang": "es"
+    },
+    {
+      "id": "ecartelera-2013-donostia",
+      "url": "https://www.ecartelera.com/noticias/carmen-maura-cinco-fogonazos-15231",
+      "title": "Premio Donostia 2013: Carmen Maura, cinco fogonazos",
+      "publisher": "eCartelera",
+      "type": "press",
+      "accessed": "2026-11-07",
+      "lang": "es"
+    },
+    {
+      "id": "moncloa-2022-platino",
+      "url": "https://www.moncloa.com/2022/04/05/carmen-maura-premio-platino-cine-iberoamericano-1349397/",
+      "title": "Carmen Maura recibirá el Premio Platino de Honor del cine iberoamericano",
+      "publisher": "Moncloa",
+      "type": "press",
+      "accessed": "2026-11-07",
+      "lang": "es"
+    }
+  ],
+  "wikidata": "Q234807"
+}

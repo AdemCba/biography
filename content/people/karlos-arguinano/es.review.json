@@ -1,0 +1,161 @@
+{
+  "date": "2026-11-07",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 6 Sept 1948 in Beasain, Gipuzkoa; age 78; full name Karlos Arguiñano Urkiola",
+      "sourceIds": [
+        "formulatv-ficha",
+        "hola-biografia"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources match."
+    },
+    {
+      "claim": "Eldest of four siblings; mother disabled; first job sheet-metal worker at Beasain train factory",
+      "sourceIds": [
+        "hola-biografia"
+      ],
+      "verdict": "confirmed",
+      "note": "Hola confirms. FormulaTV does not mention eldest of four, but Hola is cited in the body."
+    },
+    {
+      "claim": "At 17 enrolled at Hotel Euromar school in Zarautz with Subijana and Roteta; María Cristina and Londres hotels; 1970 Club de Golf Zarautz",
+      "sourceIds": [
+        "hola-biografia"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches Hola."
+    },
+    {
+      "claim": "1978 own restaurant; 1989 expanded to hotel-restaurant; 1996 Academia Alaia",
+      "sourceIds": [
+        "hola-biografia",
+        "formulatv-ficha"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Debts over 30 million pesetas to fish supplier in the 80s; TVE call allowed paying them",
+      "sourceIds": [
+        "theobjective-2025-economia"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "El Hormiguero 18 Dec 2025: 250 million pesetas credit (~1.5M euros) for hotel, did not go bankrupt, TV saved him; documentary with Argentina footage; latest recipe book",
+      "sourceIds": [
+        "eldiario-2025-hormiguero-credito"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote: 'Arruinarme no, pero pedí un crédito de 250 millones de pesetas'."
+    },
+    {
+      "claim": "ElDiario: debut 1989 Hamalau Euskal Sukaldari on ETB; Antena 3 since 2019",
+      "sourceIds": [
+        "eldiario-2025-hormiguero-credito"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sentences found in article."
+    },
+    {
+      "claim": "FormulaTV: 1991 El menú de cada día TVE; Karlos Arguiñano en tu cocina Antena 3 from 2010; Telecinco; El Hormiguero since 2018, 16 visits, last 18 Dec 2025",
+      "sourceIds": [
+        "formulatv-ficha"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Awards TP de Oro 1992, Ondas 1993, Antena de Oro 2015; films Airbag, Año mariano, El rey de la granja",
+      "sourceIds": [
+        "formulatv-ficha",
+        "hola-biografia"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Premio Nacional de Televisión 2021 announced 13 April 2021 by Ministerio de Cultura y Deporte; jury quotes",
+      "sourceIds": [
+        "formulatv-2021-premio-nacional"
+      ],
+      "verdict": "confirmed",
+      "note": "Quote matches."
+    },
+    {
+      "claim": "Bainet early 90s, Aiala, hotel-restaurant, K5, books; Promociones 4.2M in 2021; holding 8.5M revenue and ~6M profit in 2023; TV most profitable; six of seven children live from his activities",
+      "sourceIds": [
+        "theobjective-2025-economia"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches. The source also cites an unnamed 'analysts' ~50M estimate, which the article reasonably declines to repeat."
+    },
+    {
+      "claim": "Hotel at Villa Aiala, Mendilauta 13, 12 rooms, run by children, project 45+ years, closed 21 Dec-5 Feb, early 20th-century house facing beach",
+      "sourceIds": [
+        "karlosarguinano-hotel"
+      ],
+      "verdict": "confirmed",
+      "note": "Official site calls it an 'antiguo palacete'; 'casa' is acceptable."
+    },
+    {
+      "claim": "Married Luisi in 1974; she was a fishmonger; met when he was 17 studying hostelería; caserío in Zarautz; Sunday family lunches; seven children (six biological, one adopted)",
+      "sourceIds": [
+        "theobjective-2025-luisi"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches. Surname Ameztoy comes from Hola, which the article says."
+    },
+    {
+      "claim": "Seven children with names and roles; María adopted in Argentina in the 90s",
+      "sourceIds": [
+        "infobae-2023-hijos"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Hola mentions six children and about 50 years of marriage",
+      "sourceIds": [
+        "hola-biografia"
+      ],
+      "verdict": "confirmed",
+      "note": "Six confirmed; the 50-year figure was not visible in the fetched summary but it is hedged as Hola's wording and is low risk."
+    },
+    {
+      "claim": "Joseba presents Cocina abierta Fridays from 5 June 2026; collaborating since 2019; born Zarautz 1985; Aiala; pastry; Sukalerrian on ETB1",
+      "sourceIds": [
+        "ondavasca-2026-joseba"
+      ],
+      "verdict": "confirmed",
+      "note": "Source gives age 41 and Zarautz, consistent with 1985."
+    },
+    {
+      "claim": "Retirement remarks on Dos y medio 18 July 2026 (around 80, 'igual voy a por los 81', health decides); ~38 years on TV; no official announcement",
+      "sourceIds": [
+        "formulatv-2026-retirada"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "10 July 2025 farewell 'No os vais a quedar solos'; 12 Sept 2025 return announced",
+      "sourceIds": [
+        "formulatv-ficha"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline, primary hotel source, transparent handling of conflicting dates and children counts, and a sourced debt and credit story.",
+  "decision": "approve",
+  "summary": "All checked claims are backed by the cited sources. No wrong, outdated or uncited claims found. Minor notes: 'palacete' vs 'casa', and the unnamed-analyst 50M estimate was rightly left out."
+}

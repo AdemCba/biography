@@ -68,7 +68,7 @@ El perfil de la WTA recoge dos títulos individuales WTA 125: Cali en 2025 y Kit
 
 ## Ranking y subida de 2026
 
-El 7 de octubre de 2026 ya estaba en el puesto 75 del ranking WTA, tras su actuación en Pekín. Cuando le preguntaron por el top 50, dijo que, a su juicio, era bastante posible [s:vienna-ranking-2026]. TennisExplorer la sitúa en el 75 como mejor clasificación individual y en el 77 como actual, a fecha 28 de octubre de 2026 [s:tennisexplorer-profile]. El perfil de la WTA también muestra el 77, sin fecha [s:wta-profile].
+TennisExplorer la sitúa en el 75 como mejor clasificación individual y en el 77 como actual, a fecha 28 de octubre de 2026 [s:tennisexplorer-profile]. El perfil de la WTA también muestra el 77, sin fecha [s:wta-profile].
 
 ## Guangzhou y su entrenador
 

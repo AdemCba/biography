@@ -1,0 +1,146 @@
+{
+  "date": "2026-11-07",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born 12 Jan 1956 in Madrid; full name Ana Rosa Quintana Hortal; age 70 in Nov 2026",
+      "sourceIds": [
+        "formulatv-ficha",
+        "buscabiografias-ficha"
+      ],
+      "verdict": "confirmed",
+      "note": "Both sources agree; age arithmetic correct."
+    },
+    {
+      "claim": "Parents Carmen Hortal and José Antonio Quintana, older brother Enrique, Complutense journalism degree",
+      "sourceIds": [
+        "buscabiografias-ficha"
+      ],
+      "verdict": "confirmed",
+      "note": "Page presents her as younger sister of Enrique."
+    },
+    {
+      "claim": "Radio career, 1982 TVE Telediario, 1983 New York, 1987 Las tardes de RCE, Radio 80, Antena 3 Radio",
+      "sourceIds": [
+        "buscabiografias-ficha",
+        "formulatv-ficha"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Veredicto first court show; year 1994 vs 1995 disagreement",
+      "sourceIds": [
+        "formulatv-ficha",
+        "formulatv-2017-renovacion",
+        "buscabiografias-ficha"
+      ],
+      "verdict": "confirmed",
+      "note": "FormulaTV ficha 1995, 2017 news 1994, Buscabiografias 1994, as stated."
+    },
+    {
+      "claim": "1997 Antena 3 Sinceramente and Extra Rosa in July; 1998 Sabor a ti six seasons; 2000 Sabor a hiel withdrawn for copied passages",
+      "sourceIds": [
+        "buscabiografias-ficha",
+        "formulatv-ficha"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Telecinco 2004 replacing María Teresa Campos; El programa de Ana Rosa premiered 10 Jan 2005; producers Unicorn Content and Cuarzo",
+      "sourceIds": [
+        "formulatv-ficha",
+        "formulatv-programa"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Cuarzo founded 2001, 51% sold to Banijay 2009, left 2017; AR magazine 2001-2018",
+      "sourceIds": [
+        "formulatv-ficha",
+        "buscabiografias-ficha"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Awards: TP de Oro (8), Ondas 2011, Micrófonos de Oro 2004/2011, Eisenhower 2016, Mujer Hoy 2017",
+      "sourceIds": [
+        "formulatv-2017-renovacion"
+      ],
+      "verdict": "confirmed",
+      "note": "All listed with same years."
+    },
+    {
+      "claim": "Rojo marriage 1983-1987; Álvaro born 18 July 1986, lawyer; Garci relationship without dates",
+      "sourceIds": [
+        "formulatv-ficha",
+        "buscabiografias-ficha",
+        "eldebate-2021-familia"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Juan Muñoz: met Feria de Sevilla 1997, seven years, wedding 2004 in Bollullos de la Mitación, 29 May 2004; twins Juan and Jaime born 6 Nov 2004",
+      "sourceIds": [
+        "eldebate-2021-familia",
+        "buscabiografias-ficha",
+        "formulatv-ficha"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches; ages at motherhood (30, 48) correct."
+    },
+    {
+      "claim": "Pay: 130,000 euros monthly (2020), over a million per season, Business Insider 4M per year",
+      "sourceIds": [
+        "theobjective-2023-patrimonio"
+      ],
+      "verdict": "confirmed",
+      "note": "Presented as statements/estimates."
+    },
+    {
+      "claim": "TardeAR from 19 Sep 2023, ~3 months after Sálvame; farewell 29 Jan 2025; 21 years at the channel, 18 with morning team",
+      "sourceIds": [
+        "hola-2025-despedida-tardear"
+      ],
+      "verdict": "confirmed",
+      "note": "29 Jan inferred from Wednesday and article date 30 Jan, consistent with Mediaset note."
+    },
+    {
+      "claim": "Return 3 Feb 2025, 20th season at 9:00, 18 years and 19 seasons, adrenaline quote",
+      "sourceIds": [
+        "mediaset-cp-2025-vigesima"
+      ],
+      "verdict": "confirmed",
+      "note": "Verified in docx text."
+    },
+    {
+      "claim": "2025-26 season began 8 Sep 2025 with Feijóo interview",
+      "sourceIds": [
+        "diezminutos-2025-temporada"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches."
+    },
+    {
+      "claim": "Last show 26 June 2026; 2 Aug 2026 Ceuta envoy; Informativos Telecinco and Fiesta; Feijóo interview; 2024 DANA Paiporta; return expected September",
+      "sourceIds": [
+        "hola-2026-ceuta",
+        "formulatv-2026-ceuta"
+      ],
+      "verdict": "confirmed",
+      "note": "Matches; article honestly says 2026-27 start date unconfirmed."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline, primary Mediaset press note, honest handling of conflicting Veredicto year and wedding dates, and careful labelling of pay figures as estimates.",
+  "decision": "approve",
+  "summary": "All claims checked against the sources are confirmed; discrepancies between sources are disclosed. No uncited claims; style is acceptable."
+}

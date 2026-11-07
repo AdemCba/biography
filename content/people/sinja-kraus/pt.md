@@ -68,7 +68,7 @@ O perfil da WTA registra dois títulos de simples no WTA 125: Cali em 2025 e Kit
 
 ## Ranking e a subida de 2026
 
-No dia 7 de outubro de 2026, ela já estava no 75º lugar do ranking da WTA, depois da campanha em Pequim. Perguntada sobre o top 50, disse que, em sua opinião, era bastante possível [s:vienna-ranking-2026]. O TennisExplorer a coloca no 75º lugar como melhor classificação em simples e no 77º como atual, em 28 de outubro de 2026 [s:tennisexplorer-profile]. O perfil da WTA também mostra o 77º, sem data [s:wta-profile].
+O TennisExplorer a coloca no 75º lugar como melhor classificação em simples e no 77º como atual, em 28 de outubro de 2026 [s:tennisexplorer-profile]. O perfil da WTA também mostra o 77º, sem data [s:wta-profile].
 
 ## Guangzhou e o técnico
 

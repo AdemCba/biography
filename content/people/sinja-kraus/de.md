@@ -69,7 +69,7 @@ Das WTA-Profil führt zwei Einzeltitel bei WTA-125-Turnieren auf: Cali 2025 und 
 
 ## Platzierung im Herbst 2026
 
-Am 7. Oktober 2026 stand sie nach ihrem Auftritt in Peking auf Platz 75 der WTA-Weltrangliste. Auf die Frage nach den Top 50 sagte sie, das sei ihrer Meinung nach durchaus möglich [s:vienna-ranking-2026]. TennisExplorer nennt Platz 75 als höchste Einzelplatzierung und Platz 77 als aktuelle, Stand 28. Oktober 2026 [s:tennisexplorer-profile]. Auch das WTA-Profil zeigt Platz 77, ohne Datum [s:wta-profile].
+TennisExplorer nennt Platz 75 als höchste Einzelplatzierung und Platz 77 als aktuelle, Stand 28. Oktober 2026 [s:tennisexplorer-profile]. Auch das WTA-Profil zeigt Platz 77, ohne Datum [s:wta-profile].
 
 ## Guangzhou und ihr Trainer
 

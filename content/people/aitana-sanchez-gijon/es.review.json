@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-07",
+  "model": "claude-sonnet-5-5",
+  "approved": true,
+  "reasons": [],
+  "claims": [
+    {
+      "claim": "Born in Rome on 5 November 1968; full name Aitana Sánchez-Gijón de Angelis; height 1.66 m; parents; brother Eloy; cousin Pablo Carbonell",
+      "sourceIds": [
+        "formulatv-ficha",
+        "theobjective-2025-goya-honor"
+      ],
+      "verdict": "confirmed",
+      "note": "FormulaTV and The Objective confirm. FormulaTV header calls her Italian but its bio says Spanish; article says born in Rome, raised in Spain."
+    },
+    {
+      "claim": "Debut 1986 at 16 in Segunda enseñanza (TVE) and La gran pirueta on stage; Romanza final (Forqué) first film 1986",
+      "sourceIds": [
+        "formulatv-ficha",
+        "ecartelera-2025-gala"
+      ],
+      "verdict": "confirmed",
+      "note": "Both confirmed."
+    },
+    {
+      "claim": "Vientos de cólera 1988 first lead, Paco Rabal award; Bajarse al moro 1988 (FormulaTV) vs 1989 (The Objective)",
+      "sourceIds": [
+        "theobjective-2025-goya-honor",
+        "formulatv-ficha"
+      ],
+      "verdict": "confirmed",
+      "note": "The discrepancy is correctly disclosed."
+    },
+    {
+      "claim": "Childhood details: name homage to Aitana Alberti, arrived in Spain at one year, Abruzzo summers, TV puppets at 8, youth programme at 12, tours at 14",
+      "sourceIds": [
+        "theobjective-2025-goya-honor"
+      ],
+      "verdict": "confirmed",
+      "note": "All in source."
+    },
+    {
+      "claim": "Teachers Óscar Vidal (María Galleta school) and Alicia Hermida",
+      "sourceIds": [
+        "valenciaplaza-2024-goya-honor"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "1995 La Regenta, Boca a boca, Un paseo por las nubes with Keanu Reeves; La camarera del Titanic 1997, Celos 1998, Volavérunt Concha de Plata; El maquinista 2004, Bosque de sombras 2006 in English",
+      "sourceIds": [
+        "formulatv-ficha",
+        "theobjective-2025-goya-honor",
+        "euronews-2024-goya-honor"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed across sources."
+    },
+    {
+      "claim": "1998 first woman president of the Film Academy, two years; presented 1992 Goya gala",
+      "sourceIds": [
+        "euronews-2024-goya-honor",
+        "valenciaplaza-2024-goya-honor",
+        "formulatv-ficha"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Velvet doña Blanca, 4 seasons, 55 episodes 2014-2016; Velvet Colección 2 seasons 21 episodes 2017-2019; Estoy vivo 2019; Respira 2024 Pilar Amaro",
+      "sourceIds": [
+        "formulatv-ficha"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed."
+    },
+    {
+      "claim": "Awards list: Concha de Plata, Medalla CEC Havanera 1820, Fotogramas de Plata, Max for Medea, Unión de Actores for La Regenta; Goya nomination supporting actress for Madres paralelas",
+      "sourceIds": [
+        "formulatv-ficha",
+        "theobjective-2025-goya-honor"
+      ],
+      "verdict": "confirmed",
+      "note": "FormulaTV's 2021 note of no nominations predates the 2022 nomination, so it does not conflict."
+    },
+    {
+      "claim": "Goya de Honor announced 17 Oct 2024; received 8 Feb 2025 in Granada from Maribel Verdú; dedications to actors and Bigas Luna; youngest woman; Méndez-Leite quote; 'joven' and phone call",
+      "sourceIds": [
+        "euronews-2024-goya-honor",
+        "ecartelera-2025-gala",
+        "valenciaplaza-2024-goya-honor",
+        "theobjective-2025-goya-honor"
+      ],
+      "verdict": "confirmed",
+      "note": "All confirmed. 'su amiga' for Verdú is a mild embellishment (source says she asked for Verdú)."
+    },
+    {
+      "claim": "Married Guillermo Papín in 2002 (Hotel Convento de Rocamador), met 1998 in Punta del Este, separated 2020 (said in 2023); children Teo (2001, musician) and Bruna (actress, extra in Amarga Navidad)",
+      "sourceIds": [
+        "elespanol-2026-hijos",
+        "theobjective-2025-goya-honor"
+      ],
+      "verdict": "confirmed",
+      "note": "El Español gives Guillermo Papín Lucadamo; The Objective calls him Papin Luccadane, so the name is taken from El Español. Bruna's birth year is not claimed. Source does not explicitly say Bruna is also his child but this is implied."
+    },
+    {
+      "claim": "Lecturas photos with Maxi Iglesias late March 2026; met on Velvet about 12 years ago; her reply '¿De qué vais?...'",
+      "sourceIds": [
+        "hola-2026-malquerida-maxi",
+        "theobjective-2025-goya-honor"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed and framed as press report, not confirmed by her."
+    },
+    {
+      "claim": "Malquerida: Teatro Español until 26 April 2026, then national tour to year end; 9 Oct León; Natalia Menéndez with Juan Carlos Rubio; cut from 2.5 h to 80 min; plays mother almost 40 years after playing the daughter there; Amarga Navidad premiered 2026",
+      "sourceIds": [
+        "hola-2026-malquerida-maxi",
+        "diariodeleon-2026-malquerida",
+        "elespanol-2026-entrevista"
+      ],
+      "verdict": "confirmed",
+      "note": "Confirmed. Debut at Teatro Español in 1988 with La malquerida confirmed by El Español."
+    },
+    {
+      "claim": "Quotes: father jailed as anti-Franco, theatre as revancha, first daughter then mother, working with Almodóvar",
+      "sourceIds": [
+        "elespanol-2026-entrevista"
+      ],
+      "verdict": "confirmed",
+      "note": "Verbatim matches."
+    }
+  ],
+  "uncitedClaims": [],
+  "readsHumanWritten": true,
+  "addsValue": true,
+  "valueNote": "Clear timeline, discloses source conflict on Bajarse al moro, careful framing of the press-reported relationship, local search queries answered.",
+  "decision": "approve",
+  "summary": "All checked claims are supported by the cited sources, and the one date conflict is disclosed. Minor nits only: 'su amiga' for Verdú, and the husband's surname differs between sources. The romance with Maxi Iglesias is framed as press-reported and unconfirmed. Style is clean."
+}

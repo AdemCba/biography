@@ -69,7 +69,7 @@ Le profil WTA recense deux titres en simple sur des tournois WTA 125 : Cali en 2
 
 ## Classement et progression de 2026
 
-Le 7 octobre 2026, elle était 75e au classement WTA, après son parcours à Pékin. Interrogée sur le top 50, elle a estimé que c'était tout à fait possible [s:vienna-ranking-2026]. TennisExplorer indique le 75e rang comme meilleur classement en simple et le 77e comme rang actuel, au 28 octobre 2026 [s:tennisexplorer-profile]. Le profil WTA affiche aussi le 77e rang, sans date [s:wta-profile].
+TennisExplorer indique le 75e rang comme meilleur classement en simple et le 77e comme rang actuel, au 28 octobre 2026 [s:tennisexplorer-profile]. Le profil WTA affiche aussi le 77e rang, sans date [s:wta-profile].
 
 ## Guangzhou et son entraîneur
 
